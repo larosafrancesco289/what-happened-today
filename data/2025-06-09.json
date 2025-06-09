@@ -1,24 +1,66 @@
 {
   "date": "2025-06-09",
-  "summary": "Global markets demonstrated resilience today as technology sector earnings exceeded expectations across multiple regions. International cooperation on climate initiatives continued to strengthen with new agreements on renewable energy frameworks. Healthcare innovation partnerships expanded their reach through formalized cross-border collaboration agreements.\n\nThese developments reflect ongoing stability in key economic sectors while institutional cooperation addresses long-term challenges. Market indicators suggest continued confidence in technological advancement and sustainable development initiatives as priority areas for international investment and policy coordination.",
+  "summary": "Today, social media platforms have brought attention to evidence supporting the existence of ancient African writing systems, challenging longstanding misconceptions about the continent's historical knowledge frameworks. Concurrently, trade negotiations between the United States and China commenced in London, following a recent telephone conversation between former President Trump and President Xi, aiming to ease ongoing trade tensions. In Africa, Russia announced plans to bolster its economic and military ties, coinciding with the Wagner Group's withdrawal from Mali, signaling a shift in geopolitical engagement on the continent.\n\nIn the United States, protests in Los Angeles have escalated in response to immigration enforcement raids, leading to the deployment of approximately 500 US Marines and National Guard troops to manage the situation. Additionally, the Freedom Flotilla Coalition's vessel Madleen activists have requested government intervention for their release, highlighting ongoing maritime disputes. On the international front, a trade ban between India and Pakistan has affected the Himalayan pink salt market following a violent incident in Kashmir, while in El Salvador, constitutional lawyer Enrique Anaya was arrested on money laundering charges after publicly criticizing President Nayib Bukele.",
   "headlines": [
     {
-      "title": "Global Markets Show Steady Growth in Technology Sector",
-      "source": "Reuters",
-      "summary": "International stock markets demonstrated consistent gains as technology companies reported strong quarterly earnings. Major indices across Asia, Europe, and America posted modest increases.",
-      "link": "https://example.com/tech-growth"
+      "title": "Social Media Challenges Myths About Ancient African Writing Systems",
+      "source": "BBC World",
+      "summary": "Social media platforms are highlighting evidence of ancient African knowledge systems, countering the misconception that such systems never existed on the continent.",
+      "link": "https://www.bbc.com/news/articles/c5ye50xgw8vo"
     },
     {
-      "title": "International Climate Conference Reaches Key Agreements",
-      "source": "BBC",
-      "summary": "Delegates from 50 countries concluded discussions on renewable energy initiatives. New frameworks for carbon reduction were established with implementation timelines through 2025.",
-      "link": "https://example.com/climate-conference"
+      "title": "US and China Hold Trade Talks in London Following Trump-Xi Call",
+      "source": "Al Jazeera English",
+      "summary": "A new round of trade negotiations between the US and China is underway in London, aiming to address ongoing trade tensions after a recent call between former President Trump and President Xi.",
+      "link": "https://www.aljazeera.com/news/2025/6/9/us-china-trade-talks-is-a-thaw-on-the-cards-after-trump-xi-call?traffic_source=rss"
     },
     {
-      "title": "Healthcare Innovation Partnerships Expand Globally",
-      "source": "Associated Press",
-      "summary": "Medical research institutions announced collaborative projects focused on treatment accessibility. Cross-border healthcare technology sharing agreements were formalized.",
-      "link": "https://example.com/healthcare-innovation"
+      "title": "Russia Announces Plans to Strengthen Economic and Military Relations in Africa",
+      "source": "Al Jazeera English",
+      "summary": "The Kremlin has declared intentions to enhance its economic and military partnerships in Africa, coinciding with the Wagner Group's withdrawal from Mali.",
+      "link": "https://www.aljazeera.com/news/2025/6/9/russia-plans-to-boost-economic-and-military-ties-in-africa?traffic_source=rss"
+    },
+    {
+      "title": "Protests in Los Angeles Sparked by Recent Raids Amid Wider Crackdown",
+      "source": "Al Jazeera English",
+      "summary": "Demonstrations in Los Angeles have been triggered by raids that are part of a broader enforcement campaign described by activists as unjust.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2025/6/9/why-are-people-protesting-in-los-angeles-2?traffic_source=rss"
+    },
+    {
+      "title": "US Marines Prepared for Deployment in Los Angeles Amid Immigration Protest Clashes",
+      "source": "Al Jazeera English",
+      "summary": "Approximately 500 US Marines are on standby to be deployed in Los Angeles as confrontations continue during immigration-related protests.",
+      "link": "https://www.aljazeera.com/news/2025/6/9/third-night-of-los-angeles-clashes-whats-the-latest-and-whats-next?traffic_source=rss"
+    },
+    {
+      "title": "Freedom Flotilla Activists Request Government Intervention for Release",
+      "source": "Al Jazeera English",
+      "summary": "Crew members aboard the Freedom Flotilla Coalition's vessel Madleen have called on their respective governments to advocate for their release.",
+      "link": "https://www.aljazeera.com/program/quotable/2025/6/9/aje-onl-qt_flotilla-090625?traffic_source=rss"
+    },
+    {
+      "title": "National Guard Deployment Coincides with Escalation of Los Angeles Protests",
+      "source": "Al Jazeera English",
+      "summary": "Protests in Los Angeles have intensified following the deployment of National Guard troops amid an immigration enforcement crackdown.",
+      "link": "https://www.aljazeera.com/gallery/2025/6/9/protests-intensify-in-los-angeles-as-national-guard-troops-deployed?traffic_source=rss"
+    },
+    {
+      "title": "India-Pakistan Trade Ban Affects Himalayan Pink Salt Following Kashmir Attack",
+      "source": "Al Jazeera English",
+      "summary": "A trade ban between India and Pakistan has impacted the Himalayan pink salt market, following a recent armed attack in Kashmir that resulted in 26 fatalities.",
+      "link": "https://www.aljazeera.com/economy/2025/6/9/india-pakistan-conflict-claims-an-unlikely-victim-himalayan-pink-salt?traffic_source=rss"
+    },
+    {
+      "title": "Overview of the US National Guard's Roles and Deployment Authority",
+      "source": "Deutsche Welle",
+      "summary": "The US National Guard, typically mobilized for natural disasters, has broader powers and deployment protocols, which are outlined in this overview.",
+      "link": "https://www.dw.com/en/what-is-the-us-national-guard-and-how-is-it-deployed/a-72836481?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "title": "El Salvador Lawyer Critical of President Bukele Arrested on Money Laundering Charges",
+      "source": "Deutsche Welle",
+      "summary": "Enrique Anaya, a constitutional lawyer who recently described President Nayib Bukele as a 'dictator,' has been detained on allegations of money laundering.",
+      "link": "https://www.dw.com/en/el-salvador-bukele-critic-arrested-for-money-laundering/a-72837093?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }

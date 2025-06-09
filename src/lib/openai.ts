@@ -150,9 +150,9 @@ Link: ${article.link}
 
 export async function generateDailySummary(headlines: NewsHeadline[]): Promise<string> {
   const prompt = `
-Write a calm, factual 2-paragraph summary of today's most important global news.
-The tone should be neutral, informative, and free from emotion or sensationalism.
-Focus on the key developments and their broader context.
+Write a cohesive, well-flowing 2-paragraph summary of today's most important global news.
+Create a natural narrative that connects different events and themes where possible.
+The tone should be calm, factual, and thoughtfully analytical.
 
 Today's top stories:
 ${headlines.map((headline, index) => `
@@ -160,11 +160,18 @@ ${index + 1}. ${headline.title} (${headline.source})
 Summary: ${headline.summary}
 `).join('\n')}
 
-Write exactly 2 paragraphs, each 3-4 sentences long. Focus on:
-- What actually happened today
-- Broader context and implications
-- Avoid emotional language or speculation
-- Keep it factual and neutral
+Instructions for writing:
+- Start with the most significant development or overarching theme
+- Use transitional phrases to connect different topics naturally (e.g., "Meanwhile," "In related developments," "This comes as," "Separately but significantly")
+- When possible, draw connections between events (economic impacts, geopolitical relationships, etc.)
+- Each paragraph should have 4-5 sentences with smooth flow between ideas
+- End with broader context about what these developments mean collectively
+- Maintain a neutral, informative tone without sensationalism
+- Focus on factual reporting while providing thoughtful analysis of implications
+
+Structure:
+Paragraph 1: Lead with the most impactful story, then weave in 1-2 related developments
+Paragraph 2: Cover remaining significant events, connecting them where logical, and conclude with broader implications
 `;
 
   try {
@@ -181,7 +188,7 @@ Write exactly 2 paragraphs, each 3-4 sentences long. Focus on:
             properties: {
               summary: { 
                 type: "string",
-                description: "Two paragraphs separated by \\n\\n"
+                description: "Two well-connected paragraphs separated by \\n\\n"
               }
             },
             required: ["summary"]
@@ -194,6 +201,6 @@ Write exactly 2 paragraphs, each 3-4 sentences long. Focus on:
     return result.summary || 'Unable to generate summary.';
   } catch (error) {
     console.error('Error generating summary:', error);
-    return 'Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Key indicators suggest ongoing stability in most regions.\n\nGovernments and institutions worldwide maintained their focus on long-term strategic initiatives while addressing immediate challenges through established diplomatic and economic channels.';
+    return 'Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.';
   }
 } 

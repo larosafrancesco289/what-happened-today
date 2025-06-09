@@ -14,7 +14,7 @@ export default function ThemeToggle() {
   // Don't render anything until mounted to avoid hydration mismatch
   if (!mounted) {
     return (
-      <div className="h-10 w-10 rounded-xl bg-white/80 backdrop-blur-sm border border-gray-200/50 dark:bg-gray-800/80 dark:border-gray-700/50 animate-pulse" />
+      <div className="h-12 w-12 rounded-2xl bg-white/90 dark:bg-slate-800/90 glass border border-slate-200/60 dark:border-slate-700/60 animate-pulse" />
     );
   }
 
@@ -27,7 +27,7 @@ function ThemeToggleClient() {
   return (
     <button
       onClick={toggleTheme}
-      className="group relative inline-flex h-10 w-10 items-center justify-center rounded-xl bg-white/80 backdrop-blur-sm border border-gray-200/50 hover:border-gray-300/50 hover:bg-white/90 transition-all duration-300 ease-out hover:scale-105 active:scale-95 dark:bg-gray-800/80 dark:border-gray-700/50 dark:hover:border-gray-600/50 dark:hover:bg-gray-800/90"
+      className="group relative inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-white/90 dark:bg-slate-800/90 glass border border-slate-200/60 dark:border-slate-700/60 hover:border-slate-300/80 dark:hover:border-slate-600/80 hover:bg-white/95 dark:hover:bg-slate-800/95 transition-all duration-300 ease-out hover:scale-105 active:scale-95 hover:shadow-lg hover:shadow-slate-200/20 dark:hover:shadow-slate-900/40"
       aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
     >
       <div className="relative">
@@ -42,7 +42,7 @@ function ThemeToggleClient() {
         
         {/* Moon Icon */}
         <MoonIcon 
-          className={`absolute inset-0 h-5 w-5 text-blue-500 transition-all duration-300 ease-out ${
+          className={`absolute inset-0 h-5 w-5 text-indigo-500 dark:text-blue-400 transition-all duration-300 ease-out ${
             theme === 'light' 
               ? 'opacity-0 scale-0 -rotate-90' 
               : 'opacity-100 scale-100 rotate-0'
@@ -51,7 +51,7 @@ function ThemeToggleClient() {
       </div>
       
       {/* Hover glow effect */}
-      <div className="absolute inset-0 rounded-xl bg-gradient-to-r from-amber-400/20 to-orange-400/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 dark:from-blue-400/20 dark:to-indigo-400/20" />
+      <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-amber-400/10 to-orange-400/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 dark:from-blue-400/10 dark:to-indigo-400/10" />
     </button>
   );
 } 

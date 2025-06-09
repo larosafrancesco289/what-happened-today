@@ -253,7 +253,7 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     const response = await openai.chat.completions.create({
       model: 'gpt-4.1-mini',
       messages: [{ role: 'user', content: prompt }],
-      temperature: 0.3,
+      temperature: 0.6,
       response_format: {
         type: "json_schema",
         json_schema: {

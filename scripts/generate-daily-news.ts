@@ -7,6 +7,16 @@ import { fetchAllNews, deduplicateArticles } from '../src/lib/news-fetcher.js';
 import { filterAndRankArticles, generateHeadlines, generateDailySummary } from '../src/lib/openai.js';
 import { getDateString, saveDailyNews } from '../src/lib/utils.js';
 
+// Helper function to add timeout to promises
+function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: string): Promise<T> {
+  return Promise.race([
+    promise,
+    new Promise<never>((_, reject) =>
+      setTimeout(() => reject(new Error(`${operation} timed out after ${timeoutMs}ms`)), timeoutMs)
+    ),
+  ]);
+}
+
 // Import required modules
 async function runPipeline() {
   try {
@@ -15,7 +25,7 @@ async function runPipeline() {
     
     // 1. Fetch RSS feeds
     console.log('📡 Fetching RSS feeds...');
-    const rawArticles = await fetchAllNews();
+    const rawArticles = await withTimeout(fetchAllNews(), 30000, 'RSS fetching');
     if (rawArticles.length === 0) {
       throw new Error('No articles fetched from RSS feeds');
     }
@@ -28,7 +38,7 @@ async function runPipeline() {
     
     // 3. Filter and rank with AI
     console.log('🤖 Filtering and ranking articles with AI...');
-    const filteredArticles = await filterAndRankArticles(uniqueArticles);
+    const filteredArticles = await withTimeout(filterAndRankArticles(uniqueArticles), 60000, 'AI filtering');
     
     if (filteredArticles.length === 0) {
       throw new Error('No relevant articles after AI filtering');
@@ -37,28 +47,37 @@ async function runPipeline() {
     
     // 4. Generate headlines with AI
     console.log('📰 Generating headlines with AI...');
-    const headlines = await generateHeadlines(filteredArticles);
+    const headlines = await withTimeout(generateHeadlines(filteredArticles), 60000, 'Headlines generation');
     console.log(`🏆 Generated ${headlines.length} headlines`);
     
     // 5. Generate summary with AI
     console.log('📝 Generating daily summary with AI...');
-    const summary = await generateDailySummary(headlines);
+    console.log('📝 Starting summary generation call...');
+    const summary = await withTimeout(generateDailySummary(headlines), 60000, 'Summary generation');
+    console.log('📝 Summary generation completed!');
+    console.log(`📝 Summary preview: ${summary.substring(0, 100)}...`);
     
     // 6. Create daily news object
+    console.log('📦 Creating daily news object...');
     const today = getDateString(new Date());
     const dailyNews = {
       date: today,
       summary,
       headlines,
     };
+    console.log(`📦 Daily news object created for date: ${today}`);
     
     // 7. Save to JSON file
     console.log('💾 Saving daily news...');
-    await saveDailyNews(dailyNews);
+    console.log(`💾 Saving to file system...`);
+    await withTimeout(saveDailyNews(dailyNews), 10000, 'File saving');
+    console.log('💾 File saved successfully!');
     
     console.log(`✅ Successfully generated daily news for ${today}`);
     console.log(`📰 Headlines: ${headlines.length} stories`);
     console.log(`📝 Summary: ${summary.substring(0, 100)}...`);
+    
+    console.log('🏁 Pipeline completed successfully!');
     
     return {
       success: true,
@@ -80,5 +99,13 @@ if (!process.env.OPENAI_API_KEY) {
   process.exit(1);
 }
 
+console.log('✅ Environment variables validated');
+
 // Run the pipeline
-runPipeline(); 
+runPipeline().then(() => {
+  console.log('🎉 All operations completed successfully!');
+  process.exit(0);
+}).catch((error) => {
+  console.error('💥 Pipeline failed:', error);
+  process.exit(1);
+}); 

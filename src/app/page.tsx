@@ -2,7 +2,6 @@ import { getDailySummary, getDateString } from '@/lib/utils';
 import NewsSummary from '@/components/NewsSummary';
 import DateNavigation from '@/components/DateNavigation';
 import AppHeader from '@/components/AppHeader';
-import { notFound } from 'next/navigation';
 
 export default async function HomePage() {
   const today = getDateString();

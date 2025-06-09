@@ -40,7 +40,7 @@ export async function loadDailyNews(date: string): Promise<DailyNews | null> {
   try {
     const content = await fs.promises.readFile(filePath, 'utf-8');
     return JSON.parse(content) as DailyNews;
-  } catch (error) {
+  } catch {
     return null;
   }
 }

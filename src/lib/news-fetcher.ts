@@ -14,7 +14,7 @@ export async function fetchRSSFeed(feedUrl: string, sourceName: string): Promise
   try {
     const feed = await parser.parseURL(feedUrl);
     
-    return (feed.items || []).map((item: any) => ({
+    return (feed.items || []).map((item: Parser.Item) => ({
       title: cleanText(item.title || ''),
       link: item.link || '',
       contentSnippet: cleanText(item.contentSnippet || item.content || ''),

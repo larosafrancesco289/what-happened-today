@@ -5,6 +5,13 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
+interface ArticleAnalysis {
+  index: number;
+  relevanceScore: number;
+  isRelevant: boolean;
+  reason: string;
+}
+
 export async function filterAndRankArticles(articles: ProcessedArticle[]): Promise<ProcessedArticle[]> {
   const prompt = `
 You are an expert news analyst. Analyze these news articles and filter/rank them:
@@ -65,7 +72,7 @@ Focus on stories that are:
     
     return articles
       .map((article, index) => {
-        const analysis = result.analyses?.find((r: any) => r.index === index);
+        const analysis: ArticleAnalysis | undefined = result.analyses?.find((r: ArticleAnalysis) => r.index === index);
         return {
           ...article,
           relevanceScore: analysis?.relevanceScore || 0,

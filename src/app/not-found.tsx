@@ -12,7 +12,7 @@ export default function NotFound() {
             Date Not Found
           </h2>
           <p className="text-gray-600 dark:text-gray-400 mb-8">
-            The date you're looking for doesn't have a summary available yet.
+            The date you&apos;re looking for doesn&apos;t have a summary available yet.
           </p>
           <Link
             href="/"

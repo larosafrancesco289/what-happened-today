@@ -1,13 +1,12 @@
-import { DailySummary, Headline } from '@/types/news';
+import { DailyNews, NewsHeadline } from '@/types/news';
 import { formatDate } from '@/lib/utils';
-import Link from 'next/link';
 import { ArrowTopRightOnSquareIcon } from '@heroicons/react/24/outline';
 
 interface NewsSummaryProps {
-  data: DailySummary;
+  data: DailyNews;
 }
 
-function HeadlineCard({ headline }: { headline: Headline }) {
+function HeadlineCard({ headline }: { headline: NewsHeadline }) {
   return (
     <div className="group bg-white/70 backdrop-blur-sm border border-gray-200/50 rounded-2xl p-6 hover:shadow-lg hover:shadow-gray-200/50 hover:border-gray-300/50 hover:bg-white/80 transition-all duration-300 ease-out hover:-translate-y-1 dark:bg-gray-800/70 dark:border-gray-700/50 dark:hover:shadow-lg dark:hover:shadow-gray-900/25 dark:hover:border-gray-600/50 dark:hover:bg-gray-800/80">
       <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between mb-4">
@@ -58,7 +57,7 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
           Daily Summary
         </h2>
         <div className="bg-gradient-to-br from-blue-50/50 to-indigo-50/50 dark:from-gray-800/50 dark:to-gray-700/50 backdrop-blur-sm border border-gray-200/50 dark:border-gray-700/50 rounded-3xl p-8 sm:p-10 space-y-6">
-          {summaryParagraphs.map((paragraph, index) => (
+          {summaryParagraphs.map((paragraph: string, index: number) => (
             <p key={index} className="text-gray-700 dark:text-gray-300 leading-relaxed text-lg font-light">
               {paragraph}
             </p>
@@ -73,7 +72,7 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
           Top Headlines
         </h2>
         <div className="grid gap-6">
-          {data.headlines.map((headline, index) => (
+          {data.headlines.map((headline: NewsHeadline, index: number) => (
             <HeadlineCard key={index} headline={headline} />
           ))}
         </div>

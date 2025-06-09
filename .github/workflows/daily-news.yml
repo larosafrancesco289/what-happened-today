@@ -30,11 +30,8 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           
-      - name: Make script executable
-        run: chmod +x scripts/generate-daily-news.js
-          
       - name: Run news pipeline
-        run: node scripts/generate-daily-news.js
+        run: npm run generate-news
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           

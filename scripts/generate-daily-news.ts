@@ -3,16 +3,13 @@
 // Standalone script to generate daily news for GitHub Actions
 // This script imports the necessary functions and runs the pipeline directly
 
-const fs = require('fs');
-const path = require('path');
+import { fetchAllNews, deduplicateArticles } from '../src/lib/news-fetcher.js';
+import { filterAndRankArticles, generateHeadlines, generateDailySummary } from '../src/lib/openai.js';
+import { getDateString, saveDailyNews } from '../src/lib/utils.js';
 
-// Import required modules (will be transpiled by Next.js build)
+// Import required modules
 async function runPipeline() {
   try {
-    // Dynamically import the ES modules
-    const { fetchAllNews, deduplicateArticles } = await import('../src/lib/news-fetcher.js');
-    const { filterAndRankArticles, generateHeadlines, generateDailySummary } = await import('../src/lib/openai.js');
-    const { getDateString, saveDailyNews } = await import('../src/lib/utils.js');
 
     console.log('🚀 Starting daily news pipeline...');
     
@@ -72,7 +69,7 @@ async function runPipeline() {
     
   } catch (error) {
     console.error('❌ Error in daily news pipeline:', error);
-    console.error('Stack trace:', error.stack);
+    console.error('Stack trace:', (error as Error).stack);
     process.exit(1);
   }
 }

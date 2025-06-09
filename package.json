@@ -7,7 +7,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "generate-news": "tsx scripts/generate-daily-news.ts"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
@@ -28,6 +29,7 @@
     "eslint-config-next": "15.3.3",
     "postcss": "^8.5.4",
     "tailwindcss": "^4.1.8",
+    "tsx": "^4.7.0",
     "typescript": "^5"
   }
 }

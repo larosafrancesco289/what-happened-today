@@ -1,65 +1,65 @@
 {
   "date": "2025-06-09",
-  "summary": "Today, social media platforms have brought attention to evidence supporting the existence of ancient African writing systems, challenging longstanding misconceptions about the continent's historical knowledge frameworks. Concurrently, trade negotiations between the United States and China commenced in London, following a recent telephone conversation between former President Trump and President Xi, aiming to ease ongoing trade tensions. In Africa, Russia announced plans to bolster its economic and military ties, coinciding with the Wagner Group's withdrawal from Mali, signaling a shift in geopolitical engagement on the continent.\n\nIn the United States, protests in Los Angeles have escalated in response to immigration enforcement raids, leading to the deployment of approximately 500 US Marines and National Guard troops to manage the situation. Additionally, the Freedom Flotilla Coalition's vessel Madleen activists have requested government intervention for their release, highlighting ongoing maritime disputes. On the international front, a trade ban between India and Pakistan has affected the Himalayan pink salt market following a violent incident in Kashmir, while in El Salvador, constitutional lawyer Enrique Anaya was arrested on money laundering charges after publicly criticizing President Nayib Bukele.",
+  "summary": "The South Korean musical 'Maybe Happy Ending' achieved significant recognition by winning six awards at the Tony Awards, highlighting the growing international presence of South Korean performing arts. In Iran, authorities have extended restrictions on dog walking, citing religious reasons, amidst a reported rise in pet ownership that some interpret as a subtle form of social dissent. Meanwhile, former Israeli Prime Minister Ehud Olmert commented that many Israelis perceive the ongoing military operations in Gaza, now in their 20th month, as politically motivated rather than purely strategic.\n\nIn Italy, a recent referendum on citizenship failed to meet the required 50% voter turnout threshold, with only about 30% participation, rendering the results non-binding. Historical insights into Indian politics reveal that aides of former Prime Minister Indira Gandhi advocated for a presidential system to centralize power and limit parliamentary and judicial roles. Additionally, social media campaigns have brought attention to an ancient African writing system, challenging prevailing misconceptions about the continent's historical knowledge systems. In the United States, approximately 500 Marines are on standby amid ongoing immigration protests in Los Angeles, where a journalist was recently struck by a rubber bullet during live coverage. Separately, opposition figure Enrique Anaya was arrested in El Salvador on money laundering charges, reflecting ongoing political tensions.",
   "headlines": [
     {
-      "title": "Social Media Challenges Myths About Ancient African Writing Systems",
+      "title": "South Korean musical 'Maybe Happy Ending' wins six Tony Awards",
       "source": "BBC World",
-      "summary": "Social media platforms are highlighting evidence of ancient African knowledge systems, countering the misconception that such systems never existed on the continent.",
+      "summary": "The South Korean musical 'Maybe Happy Ending' received six awards at the Tony Awards, recognizing its achievements in theatre.",
+      "link": "https://www.bbc.com/news/articles/cy0j71xgrv8o"
+    },
+    {
+      "title": "Iran extends ban on dog walking amid rising pet ownership",
+      "source": "BBC World",
+      "summary": "Iranian authorities have expanded restrictions on dog walking, citing religious views, while dog ownership is reportedly increasing as a form of quiet dissent.",
+      "link": "https://www.bbc.com/news/articles/cn0gngq4wjqo"
+    },
+    {
+      "title": "Former Israeli PM Olmert says most Israelis view Gaza operation as politically motivated",
+      "source": "France 24",
+      "summary": "Ehud Olmert stated that after 20 months of conflict in Gaza, many Israelis believe the ongoing military operations serve political purposes rather than military objectives.",
+      "link": "https://www.france24.com/en/video/20250609-war-crime-most-israelis-believe-expanded-military-operation-in-gaza-is-for-political-purposes"
+    },
+    {
+      "title": "Italian citizenship referendum invalid due to low voter turnout",
+      "source": "BBC World",
+      "summary": "The recent referendum on Italian citizenship failed to meet the required 50% voter turnout threshold, with only about 30% participating, rendering the poll non-binding.",
+      "link": "https://www.bbc.com/news/articles/crr7vg1zdklo"
+    },
+    {
+      "title": "Indira Gandhi's aides advocated for presidential system in India",
+      "source": "BBC World",
+      "summary": "Historical accounts reveal that during Indira Gandhi's tenure, her aides promoted a presidential system aimed at centralizing power and reducing the roles of courts and parliament.",
+      "link": "https://www.bbc.com/news/articles/cwyvwerr640o"
+    },
+    {
+      "title": "Ancient African writing system challenges misconceptions about continent's knowledge history",
+      "source": "BBC World",
+      "summary": "Social media campaigns highlight an ancient African writing system, countering the misconception that African societies lacked formal knowledge systems.",
       "link": "https://www.bbc.com/news/articles/c5ye50xgw8vo"
     },
     {
-      "title": "US and China Hold Trade Talks in London Following Trump-Xi Call",
-      "source": "Al Jazeera English",
-      "summary": "A new round of trade negotiations between the US and China is underway in London, aiming to address ongoing trade tensions after a recent call between former President Trump and President Xi.",
-      "link": "https://www.aljazeera.com/news/2025/6/9/us-china-trade-talks-is-a-thaw-on-the-cards-after-trump-xi-call?traffic_source=rss"
+      "title": "Australian journalist struck by rubber bullet while reporting in Los Angeles",
+      "source": "BBC World",
+      "summary": "Channel Nine reporter Lauren Tomasi was hit by a non-lethal rubber bullet during live coverage of events in Los Angeles.",
+      "link": "https://www.bbc.com/news/videos/c98p008kxn1o"
     },
     {
-      "title": "Russia Announces Plans to Strengthen Economic and Military Relations in Africa",
+      "title": "US Marines prepared for deployment amid ongoing Los Angeles immigration protests",
       "source": "Al Jazeera English",
-      "summary": "The Kremlin has declared intentions to enhance its economic and military partnerships in Africa, coinciding with the Wagner Group's withdrawal from Mali.",
-      "link": "https://www.aljazeera.com/news/2025/6/9/russia-plans-to-boost-economic-and-military-ties-in-africa?traffic_source=rss"
-    },
-    {
-      "title": "Protests in Los Angeles Sparked by Recent Raids Amid Wider Crackdown",
-      "source": "Al Jazeera English",
-      "summary": "Demonstrations in Los Angeles have been triggered by raids that are part of a broader enforcement campaign described by activists as unjust.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2025/6/9/why-are-people-protesting-in-los-angeles-2?traffic_source=rss"
-    },
-    {
-      "title": "US Marines Prepared for Deployment in Los Angeles Amid Immigration Protest Clashes",
-      "source": "Al Jazeera English",
-      "summary": "Approximately 500 US Marines are on standby to be deployed in Los Angeles as confrontations continue during immigration-related protests.",
+      "summary": "Approximately 500 US Marines are on standby for deployment in Los Angeles as clashes continue during immigration-related protests.",
       "link": "https://www.aljazeera.com/news/2025/6/9/third-night-of-los-angeles-clashes-whats-the-latest-and-whats-next?traffic_source=rss"
     },
     {
-      "title": "Freedom Flotilla Activists Request Government Intervention for Release",
-      "source": "Al Jazeera English",
-      "summary": "Crew members aboard the Freedom Flotilla Coalition's vessel Madleen have called on their respective governments to advocate for their release.",
-      "link": "https://www.aljazeera.com/program/quotable/2025/6/9/aje-onl-qt_flotilla-090625?traffic_source=rss"
-    },
-    {
-      "title": "National Guard Deployment Coincides with Escalation of Los Angeles Protests",
-      "source": "Al Jazeera English",
-      "summary": "Protests in Los Angeles have intensified following the deployment of National Guard troops amid an immigration enforcement crackdown.",
-      "link": "https://www.aljazeera.com/gallery/2025/6/9/protests-intensify-in-los-angeles-as-national-guard-troops-deployed?traffic_source=rss"
-    },
-    {
-      "title": "India-Pakistan Trade Ban Affects Himalayan Pink Salt Following Kashmir Attack",
-      "source": "Al Jazeera English",
-      "summary": "A trade ban between India and Pakistan has impacted the Himalayan pink salt market, following a recent armed attack in Kashmir that resulted in 26 fatalities.",
-      "link": "https://www.aljazeera.com/economy/2025/6/9/india-pakistan-conflict-claims-an-unlikely-victim-himalayan-pink-salt?traffic_source=rss"
-    },
-    {
-      "title": "Overview of the US National Guard's Roles and Deployment Authority",
+      "title": "Overview of the US National Guard's roles and command structure",
       "source": "Deutsche Welle",
-      "summary": "The US National Guard, typically mobilized for natural disasters, has broader powers and deployment protocols, which are outlined in this overview.",
+      "summary": "The US National Guard is primarily used for disaster response but has broader capabilities; this article outlines its powers and command hierarchy.",
       "link": "https://www.dw.com/en/what-is-the-us-national-guard-and-how-is-it-deployed/a-72836481?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "title": "El Salvador Lawyer Critical of President Bukele Arrested on Money Laundering Charges",
+      "title": "El Salvador opposition figure Enrique Anaya arrested on money laundering charges",
       "source": "Deutsche Welle",
-      "summary": "Enrique Anaya, a constitutional lawyer who recently described President Nayib Bukele as a 'dictator,' has been detained on allegations of money laundering.",
+      "summary": "Constitutional lawyer Enrique Anaya, a critic of President Nayib Bukele, was detained on allegations of money laundering.",
       "link": "https://www.dw.com/en/el-salvador-bukele-critic-arrested-for-money-laundering/a-72837093?maca=en-rss-en-top-1022-rdf"
     }
   ]

@@ -1,5 +1,5 @@
 import Parser from 'rss-parser';
-import { RSS_FEEDS } from './rss-feeds';
+import { RSS_FEEDS_BY_LANGUAGE } from './rss-feeds';
 import { cleanText } from './utils';
 import type { RSSFeedItem, ProcessedArticle } from '@/types/news';
 
@@ -28,10 +28,12 @@ export async function fetchRSSFeed(feedUrl: string, sourceName: string): Promise
   }
 }
 
-export async function fetchAllNews(): Promise<ProcessedArticle[]> {
-  console.log('Fetching news from all RSS feeds...');
+export async function fetchAllNews(languageCode: string = 'en'): Promise<ProcessedArticle[]> {
+  console.log(`Fetching news from all RSS feeds for language: ${languageCode}`);
   
-  const fetchPromises = RSS_FEEDS.map(feed => 
+  const feeds = RSS_FEEDS_BY_LANGUAGE[languageCode] || RSS_FEEDS_BY_LANGUAGE.en;
+  
+  const fetchPromises = feeds.map(feed => 
     fetchRSSFeed(feed.url, feed.name)
   );
   
@@ -41,9 +43,9 @@ export async function fetchAllNews(): Promise<ProcessedArticle[]> {
   results.forEach((result, index) => {
     if (result.status === 'fulfilled') {
       allArticles.push(...result.value);
-      console.log(`Successfully fetched ${result.value.length} articles from ${RSS_FEEDS[index].name}`);
+      console.log(`Successfully fetched ${result.value.length} articles from ${feeds[index].name}`);
     } else {
-      console.error(`Failed to fetch from ${RSS_FEEDS[index].name}:`, result.reason);
+      console.error(`Failed to fetch from ${feeds[index].name}:`, result.reason);
     }
   });
   
@@ -65,7 +67,7 @@ export async function fetchAllNews(): Promise<ProcessedArticle[]> {
       isRelevant: false, // Will be set by AI filtering
     }));
   
-  console.log(`Processed ${processedArticles.length} articles total`);
+  console.log(`Processed ${processedArticles.length} articles total for ${languageCode}`);
   return processedArticles;
 }
 

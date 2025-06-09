@@ -1,3 +1,7 @@
+// Re-export from languages.ts for the new language-based system
+export { RSS_FEEDS_BY_LANGUAGE, type RSSFeed } from './languages';
+
+// Keep the old RSS_FEEDS export for backward compatibility (English feeds)
 export const RSS_FEEDS = [
   {
     name: 'Reuters',

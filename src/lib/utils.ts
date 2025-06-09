@@ -8,9 +8,10 @@ export function getDateString(date: Date = new Date()): string {
   return date.toISOString().split('T')[0];
 }
 
-export function formatDate(dateString: string): string {
+export function formatDate(dateString: string, languageCode: string = 'en'): string {
   const date = new Date(dateString);
-  return date.toLocaleDateString('en-US', {
+  const locale = languageCode === 'it' ? 'it-IT' : 'en-US';
+  return date.toLocaleDateString(locale, {
     weekday: 'long',
     year: 'numeric',
     month: 'long',
@@ -18,12 +19,12 @@ export function formatDate(dateString: string): string {
   });
 }
 
-export function getDataFilePath(date: string): string {
-  return path.join(process.cwd(), 'data', `${date}.json`);
+export function getDataFilePath(date: string, languageCode: string = 'en'): string {
+  return path.join(process.cwd(), 'data', languageCode, `${date}.json`);
 }
 
-export async function saveDailyNews(dailyNews: DailyNews): Promise<void> {
-  const filePath = getDataFilePath(dailyNews.date);
+export async function saveDailyNews(dailyNews: DailyNews, languageCode: string = 'en'): Promise<void> {
+  const filePath = getDataFilePath(dailyNews.date, languageCode);
   const dataDir = path.dirname(filePath);
   
   // Ensure data directory exists
@@ -34,8 +35,8 @@ export async function saveDailyNews(dailyNews: DailyNews): Promise<void> {
   await fs.promises.writeFile(filePath, JSON.stringify(dailyNews, null, 2));
 }
 
-export async function loadDailyNews(date: string): Promise<DailyNews | null> {
-  const filePath = getDataFilePath(date);
+export async function loadDailyNews(date: string, languageCode: string = 'en'): Promise<DailyNews | null> {
+  const filePath = getDataFilePath(date, languageCode);
   
   try {
     const content = await fs.promises.readFile(filePath, 'utf-8');
@@ -56,13 +57,13 @@ export function cleanText(text: string): string {
     .trim();
 }
 
-export async function getDailySummary(date: string): Promise<DailyNews | null> {
+export async function getDailySummary(date: string, languageCode: string = 'en'): Promise<DailyNews | null> {
   try {
-    const filePath = join(process.cwd(), 'data', `${date}.json`);
+    const filePath = join(process.cwd(), 'data', languageCode, `${date}.json`);
     const fileContent = await readFile(filePath, 'utf-8');
     return JSON.parse(fileContent);
   } catch (error) {
-    console.error(`Failed to load data for ${date}:`, error);
+    console.error(`Failed to load data for ${date} (${languageCode}):`, error);
     return null;
   }
 }

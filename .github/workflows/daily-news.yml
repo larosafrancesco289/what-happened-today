@@ -13,6 +13,10 @@ permissions:
 jobs:
   generate-news:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        language: ['en', 'it']
+      fail-fast: false  # Continue with other languages if one fails
     
     steps:
       - name: Checkout repository
@@ -34,27 +38,32 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           
-      - name: Run news pipeline
-        run: npm run generate-news
+      - name: Run news pipeline for ${{ matrix.language }}
+        run: npm run generate-news:${{ matrix.language }}
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           
-      - name: Commit and push changes
+      - name: Commit and push changes for ${{ matrix.language }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/
+          git add data/${{ matrix.language }}/
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit for ${{ matrix.language }}"
           else
-            git commit -m "Daily news update: $(date +'%Y-%m-%d')"
+            git commit -m "Daily news update (${{ matrix.language }}): $(date +'%Y-%m-%d')"
             git push
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
+  deploy:
+    needs: generate-news
+    runs-on: ubuntu-latest
+    if: always() && (needs.generate-news.result == 'success' || needs.generate-news.result == 'failure')
+    
+    steps:
       - name: Trigger Vercel deployment
-        if: success()
         run: |
           if [ -n "${{ secrets.VERCEL_DEPLOY_HOOK }}" ]; then
             curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"

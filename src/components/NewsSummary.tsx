@@ -1,5 +1,9 @@
+'use client';
+
 import { DailyNews, NewsHeadline } from '@/types/news';
-import { formatDate } from '@/lib/utils';
+import { formatDate } from '@/lib/client-utils';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { getTranslations } from '@/lib/i18n';
 import { ArrowTopRightOnSquareIcon } from '@heroicons/react/24/outline';
 
 interface NewsSummaryProps {
@@ -7,6 +11,9 @@ interface NewsSummaryProps {
 }
 
 function HeadlineCard({ headline }: { headline: NewsHeadline }) {
+  const { currentLanguage } = useLanguage();
+  const t = getTranslations(currentLanguage.code);
+  
   return (
     <article className="group relative">
       <div className="absolute inset-0 bg-gradient-to-r from-blue-500/10 via-purple-500/10 to-pink-500/10 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
@@ -34,7 +41,7 @@ function HeadlineCard({ headline }: { headline: NewsHeadline }) {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 font-medium text-sm lg:text-base transition-all duration-300 group/link hover:gap-3"
             >
-              Read full article
+              {t.summary.readMore}
               <ArrowTopRightOnSquareIcon className="w-4 h-4 transition-transform duration-300 group-hover/link:translate-x-0.5 group-hover/link:-translate-y-0.5" />
             </a>
           </div>
@@ -45,6 +52,8 @@ function HeadlineCard({ headline }: { headline: NewsHeadline }) {
 }
 
 export default function NewsSummary({ data }: NewsSummaryProps) {
+  const { currentLanguage } = useLanguage();
+  const t = getTranslations(currentLanguage.code);
   const summaryParagraphs = data.summary.split('\n\n');
 
   return (
@@ -53,12 +62,12 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
       <div className="text-center mb-16 lg:mb-20">
         <div className="space-y-6">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gradient leading-tight">
-            What Happened Today
+            {t.summary.title}
           </h1>
           <div className="flex items-center justify-center gap-4">
             <div className="h-px w-16 bg-gradient-to-r from-transparent via-slate-300 dark:via-slate-600 to-transparent" />
             <p className="text-xl sm:text-2xl lg:text-3xl text-slate-500 dark:text-slate-400 font-light">
-              {formatDate(data.date)}
+              {formatDate(data.date, currentLanguage.code)}
             </p>
             <div className="h-px w-16 bg-gradient-to-r from-transparent via-slate-300 dark:via-slate-600 to-transparent" />
           </div>
@@ -70,7 +79,7 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
         <div className="flex items-center gap-4 mb-8 lg:mb-12">
           <div className="w-12 h-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full" />
           <h2 className="text-2xl lg:text-3xl font-semibold text-slate-900 dark:text-slate-100">
-            Daily Summary
+            {currentLanguage.code === 'it' ? 'Riassunto Giornaliero' : 'Daily Summary'}
           </h2>
         </div>
         
@@ -91,7 +100,7 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
         <div className="flex items-center gap-4 mb-8 lg:mb-12">
           <div className="w-12 h-1 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full" />
           <h2 className="text-2xl lg:text-3xl font-semibold text-slate-900 dark:text-slate-100">
-            Top Headlines
+            {t.summary.headlines}
           </h2>
         </div>
         

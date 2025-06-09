@@ -8,7 +8,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-news": "tsx scripts/generate-daily-news.ts"
+    "generate-news": "tsx scripts/generate-daily-news.ts",
+    "generate-news:en": "tsx scripts/generate-daily-news.ts --lang=en",
+    "generate-news:it": "tsx scripts/generate-daily-news.ts --lang=it",
+    "generate-news:all": "npm run generate-news:en && npm run generate-news:it"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",

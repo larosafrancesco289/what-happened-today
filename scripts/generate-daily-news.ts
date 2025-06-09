@@ -18,14 +18,14 @@ function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: strin
 }
 
 // Import required modules
-async function runPipeline() {
+async function runPipeline(languageCode: string = 'en') {
   try {
 
-    console.log('Starting daily news pipeline...');
+    console.log(`Starting daily news pipeline for language: ${languageCode}...`);
     
     // 1. Fetch RSS feeds
     console.log('Fetching RSS feeds...');
-    const rawArticles = await withTimeout(fetchAllNews(), 30000, 'RSS fetching');
+    const rawArticles = await withTimeout(fetchAllNews(languageCode), 30000, 'RSS fetching');
     if (rawArticles.length === 0) {
       throw new Error('No articles fetched from RSS feeds');
     }
@@ -38,7 +38,7 @@ async function runPipeline() {
     
     // 3. Filter and rank with AI
     console.log('Filtering and ranking articles with AI...');
-    const filteredArticles = await withTimeout(filterAndRankArticles(uniqueArticles), 60000, 'AI filtering');
+    const filteredArticles = await withTimeout(filterAndRankArticles(uniqueArticles, languageCode), 60000, 'AI filtering');
     
     if (filteredArticles.length === 0) {
       throw new Error('No relevant articles after AI filtering');
@@ -47,13 +47,13 @@ async function runPipeline() {
     
     // 4. Generate headlines with AI
     console.log('Generating headlines with AI...');
-    const headlines = await withTimeout(generateHeadlines(filteredArticles), 60000, 'Headlines generation');
+    const headlines = await withTimeout(generateHeadlines(filteredArticles, languageCode), 60000, 'Headlines generation');
     console.log(`Generated ${headlines.length} headlines`);
     
     // 5. Generate summary with AI
     console.log('Generating daily summary with AI...');
     console.log('Starting summary generation call...');
-    const summary = await withTimeout(generateDailySummary(headlines), 60000, 'Summary generation');
+    const summary = await withTimeout(generateDailySummary(headlines, languageCode), 60000, 'Summary generation');
     console.log('Summary generation completed!');
     console.log(`Summary preview: ${summary.substring(0, 100)}...`);
     
@@ -70,10 +70,10 @@ async function runPipeline() {
     // 7. Save to JSON file
     console.log('Saving daily news...');
     console.log(`Saving to file system...`);
-    await withTimeout(saveDailyNews(dailyNews), 10000, 'File saving');
+    await withTimeout(saveDailyNews(dailyNews, languageCode), 10000, 'File saving');
     console.log('File saved successfully!');
     
-    console.log(`Successfully generated daily news for ${today}`);
+    console.log(`Successfully generated daily news for ${today} (${languageCode})`);
     console.log(`Headlines: ${headlines.length} stories`);
     console.log(`Summary: ${summary.substring(0, 100)}...`);
     
@@ -82,12 +82,13 @@ async function runPipeline() {
     return {
       success: true,
       date: today,
+      language: languageCode,
       articlesProcessed: rawArticles.length,
       headlinesGenerated: headlines.length,
     };
     
   } catch (error) {
-    console.error('Error in daily news pipeline:', error);
+    console.error(`Error in daily news pipeline for ${languageCode}:`, error);
     console.error('Stack trace:', (error as Error).stack);
     process.exit(1);
   }
@@ -101,8 +102,15 @@ if (!process.env.OPENAI_API_KEY) {
 
 console.log('Environment variables validated');
 
+// Get language from command line args, default to 'en'
+const args = process.argv.slice(2);
+const languageArg = args.find(arg => arg.startsWith('--lang='));
+const languageCode = languageArg ? languageArg.split('=')[1] : 'en';
+
+console.log(`Running pipeline for language: ${languageCode}`);
+
 // Run the pipeline
-runPipeline().then(() => {
+runPipeline(languageCode).then(() => {
   console.log('All operations completed successfully!');
   process.exit(0);
 }).catch((error) => {

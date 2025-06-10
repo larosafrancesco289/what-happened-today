@@ -13,10 +13,6 @@ permissions:
 jobs:
   generate-news:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        language: ['en', 'it']
-      fail-fast: false  # Continue with other languages if one fails
     
     steps:
       - name: Checkout repository
@@ -38,20 +34,20 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           
-      - name: Run news pipeline for ${{ matrix.language }}
-        run: npm run generate-news:${{ matrix.language }}
+      - name: Run news pipeline for all languages
+        run: npm run generate-news:all
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           
-      - name: Commit and push changes for ${{ matrix.language }}
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/${{ matrix.language }}/
+          git add data/
           if git diff --staged --quiet; then
-            echo "No changes to commit for ${{ matrix.language }}"
+            echo "No changes to commit"
           else
-            git commit -m "Daily news update (${{ matrix.language }}): $(date +'%Y-%m-%d')"
+            git commit -m "Daily news update: $(date +'%Y-%m-%d')"
             git push
           fi
         env:

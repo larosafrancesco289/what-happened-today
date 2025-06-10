@@ -50,27 +50,25 @@ Link: ${article.link}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
 Write a cohesive, well-flowing 2-paragraph summary of today's most important global news.
-Create a natural narrative that connects different events and themes where possible.
-The tone should be calm, factual, and thoughtfully analytical.
+Your goal is to create a natural, high-level narrative that explains the state of the world today, not just list events.
+Connect different events and themes to show their broader context and interplay.
+The tone should be calm, factual, and thoughtfully analytical, like a briefing from a trusted international news analyst.
 
-Today's top stories:
+Today's top stories to synthesize:
 ${headlines.map((headline, index) => `
 ${index + 1}. ${headline.title} (${headline.source})
 Summary: ${headline.summary}
 `).join('\n')}
 
-Instructions for writing:
-- Start with the most significant development or overarching theme
-- Use transitional phrases to connect different topics naturally (e.g., "Meanwhile," "In related developments," "This comes as," "Separately but significantly")
-- When possible, draw connections between events (economic impacts, geopolitical relationships, etc.)
-- Each paragraph should have 4-5 sentences with smooth flow between ideas
-- End with broader context about what these developments mean collectively
-- Maintain a neutral, informative tone without sensationalism
-- Focus on factual reporting while providing thoughtful analysis of implications
+**Instructions for Writing:**
+-   **Find the Narrative:** Instead of just listing events, identify an overarching theme or the most significant development to lead the summary. Ask yourself: What is the most important "story" of the day?
+-   **Weave, Don't Stack:** Use sophisticated transitions to connect topics. Go beyond "Meanwhile" or "Separately." Try phrases that show relationships, like: "This focus on economic diplomacy comes as...", "The environmental talks stand in contrast to ongoing geopolitical friction, where...", or "Underpinning these events is a broader trend of..."
+-   **Thematic Grouping:** Group related stories. For instance, combine stories about economic shifts, geopolitical tensions, or social changes, even if they happened in different parts of the world.
+-   **Analytical Conclusion:** The final sentences should provide a broader context, explaining what these developments collectively suggest about global trends, challenges, or dynamics.
 
-Structure:
-Paragraph 1: Lead with the most impactful story, then weave in 1-2 related developments
-Paragraph 2: Cover remaining significant events, connecting them where logical, and conclude with broader implications
+**Structure:**
+-   **Paragraph 1:** Start with the day's most impactful story or a central theme that connects multiple events. Weave in 2-3 related developments, explaining their connection.
+-   **Paragraph 2:** Cover the remaining significant events, linking them thematically to the first paragraph or to each other. Conclude with a sentence or two on the broader implications of the day's news.
 `
   },
   it: {
@@ -109,28 +107,26 @@ Link: ${article.link}
 `).join('\n')}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
-Scrivi un riassunto coeso e ben strutturato di 2 paragrafi delle notizie globali più importanti di oggi.
-Crea una narrazione naturale che colleghi eventi e temi diversi dove possibile.
-Il tono dovrebbe essere calmo, fattuale e analiticamente riflessivo.
+Scrivi un riassunto coeso e scorrevole di 2 paragrafi sulle notizie globali più importanti di oggi.
+Il tuo obiettivo è creare una narrazione naturale e di alto livello che spieghi lo stato del mondo oggi, non solo un elenco di eventi.
+Collega eventi e temi diversi per mostrare il loro contesto più ampio e la loro interazione.
+Il tono deve essere calmo, fattuale e analiticamente riflessivo, come un briefing di un fidato analista di notizie internazionali.
 
-Le principali notizie di oggi:
+Le principali notizie di oggi da sintetizzare:
 ${headlines.map((headline, index) => `
 ${index + 1}. ${headline.title} (${headline.source})
 Riassunto: ${headline.summary}
 `).join('\n')}
 
-Istruzioni per la scrittura:
-- Inizia con lo sviluppo più significativo o il tema dominante
-- Usa frasi di transizione per collegare naturalmente argomenti diversi (es. "Nel frattempo," "In sviluppi correlati," "Questo avviene mentre," "Separatamente ma significativamente")
-- Quando possibile, traccia connessioni tra eventi (impatti economici, relazioni geopolitiche, ecc.)
-- Ogni paragrafo dovrebbe avere 4-5 frasi con un flusso fluido tra le idee
-- Termina con un contesto più ampio su cosa significano collettivamente questi sviluppi
-- Mantieni un tono neutrale e informativo senza sensazionalismo
-- Concentrati su reportage fattuali fornendo analisi ponderate delle implicazioni
+**Istruzioni per la scrittura:**
+-   **Trova la Narrazione:** Invece di elencare semplicemente gli eventi, identifica un tema generale o lo sviluppo più significativo per guidare il riassunto. Chiediti: qual è la "storia" più importante della giornata?
+-   **Intreccia, non Impilare:** Usa transizioni sofisticate per collegare gli argomenti. Vai oltre "Nel frattempo" o "Separatamente". Prova frasi che mostrino relazioni, come: "Questo focus sulla diplomazia economica arriva mentre...", "I colloqui sull'ambiente si contrappongono alle continue tensioni geopolitiche, dove...", o "Alla base di questi eventi c'è una tendenza più ampia di..."
+-   **Raggruppamento Tematico:** Raggruppa le storie correlate. Ad esempio, combina storie su cambiamenti economici, tensioni geopolitiche o cambiamenti sociali, anche se si sono verificati in diverse parti del mondo.
+-   **Conclusione Analitica:** Le frasi finali dovrebbero fornire un contesto più ampio, spiegando cosa questi sviluppi suggeriscono collettivamente sulle tendenze, sfide o dinamiche globali.
 
-Struttura:
-Paragrafo 1: Inizia con la storia più impattante, poi intreccia 1-2 sviluppi correlati
-Paragrafo 2: Copri gli eventi significativi rimanenti, collegandoli dove logico, e concludi con implicazioni più ampie
+**Struttura:**
+-   **Paragrafo 1:** Inizia con la storia più impattante della giornata o un tema centrale che collega più eventi. Intreccia 2-3 sviluppi correlati, spiegandone la connessione.
+-   **Paragrafo 2:** Copri gli eventi significativi rimanenti, collegandoli tematicamente al primo paragrafo o tra loro. Concludi con una o due frasi sulle implicazioni più ampie delle notizie del giorno.
 `
   }
 };

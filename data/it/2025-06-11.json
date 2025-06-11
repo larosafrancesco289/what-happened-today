@@ -1,0 +1,66 @@
+{
+  "date": "2025-06-11",
+  "summary": "Le tensioni geopolitiche e le dinamiche di sicurezza globale emergono come il filo conduttore delle notizie odierne, evidenziando un mondo in bilico tra conflitti armati, pressioni economiche e contestazioni sociali. Il raid russo su Kharkiv, con l'attacco di 17 droni che ha causato vittime e sfollati, si inserisce in un contesto più ampio di riduzione del sostegno militare statunitense a Kiev e di un nuovo pacchetto di sanzioni europee contro Mosca, sottolineando una fase di riassetto nelle strategie di contenimento del conflitto ucraino. Parallelamente, negli Stati Uniti, le proteste diffuse in California e New York contro le retate di immigrati riflettono un clima di crescente polarizzazione politica e sociale, accentuato dalle minacce dell'ex presidente Trump di ricorrere a leggi straordinarie e dal dibattito acceso sulle modalità di gestione di queste tensioni interne, come evidenziato dal confronto tra Trump e il governatore Newsom.\n\nIn ambito europeo, il dibattito politico interno in Italia sulla riforma fiscale e il terzo mandato governativo mette in luce le sfide di stabilità e riforma economica che attraversano molte democrazie occidentali, mentre sul fronte sociale emergono questioni di salute pubblica e diritti civili, come evidenziato dalla richiesta di scarcerazione di Louis e dalle raccomandazioni per prevenire infezioni cutanee in spiaggia. Infine, la decisione di Greta Thunberg di lasciare Israele e il successo sportivo di Vinicius Junior con la nazionale brasiliana sotto la guida di Ancelotti rappresentano, rispettivamente, le tensioni legate a conflitti internazionali e la continua capacità dello sport di unire e motivare le nazioni. Complessivamente, queste vicende delineano un panorama globale caratterizzato da sfide complesse che richiedono un equilibrio delicato tra sicurezza, giustizia sociale e cooperazione internazionale.",
+  "headlines": [
+    {
+      "title": "Scontro nella maggioranza su tasse e terzo mandato",
+      "source": "ANSA",
+      "summary": "Meloni propone tagli equi all'Irpef mentre Salvini punta sulla rottamazione fiscale.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2025/06/10/meloni-taglio-delle-tasse-in-modo-equo-il-fisco-deve-aiutare-e-non_c952c1ef-0c02-42b0-94e2-68dd76f9b776.html"
+    },
+    {
+      "title": "Raid notturno russo a Kharkiv provoca vittime e sfollati",
+      "source": "Rai News",
+      "summary": "Un attacco con 17 droni ha colpito due quartieri di Kharkiv causando almeno due morti e 28 feriti, con bambini e anziani sfollati.",
+      "link": "https://www.rainews.it/video/2025/06/bambini-e-anziani-sfollati-a-kharkiv-dopo-il-pesante-raid-notturno-russo-video-attacco-di-droni-aa2eb17b-a702-4129-a5cc-e730b8eb2282.html"
+    },
+    {
+      "title": "Valeria Dassilva chiede scarcerazione di Louis",
+      "source": "TGCOM24",
+      "summary": "In un'intervista a 'Pomeriggio Cinque News', la moglie di Dassilva afferma che le prove dovrebbero portare alla scarcerazione di Louis.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/pierina-paganelli-valeria-louis_99476517-202502k.shtml"
+    },
+    {
+      "title": "Decalogo per prevenire infezioni cutanee in spiaggia",
+      "source": "ANSA",
+      "summary": "Un'esperta raccomanda attenzione a scogli e massaggi improvvisati per evitare infezioni della pelle durante la stagione balneare.",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2025/06/08/spiaggia-insidiosa-decalogo-per-prevenire-infezioni-della-pelle_e2d27dd0-cc30-428b-a26a-a6b54d903762.html"
+    },
+    {
+      "title": "Greta Thunberg torna in Svezia da Israele",
+      "source": "ANSA",
+      "summary": "Thunberg dichiara di aver lasciato Israele il prima possibile e afferma che il gruppo è stato portato lì contro la propria volontà.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/06/11/greta-thunberg-e-rientrata-in-svezia-da-israele_d5e8c7f4-aad2-4ad7-a146-c3d1f04fbb36.html"
+    },
+    {
+      "title": "Vinicius Junior segna primo gol del Brasile con Ancelotti",
+      "source": "ANSA",
+      "summary": "L'attaccante ha segnato il gol che ha assicurato al Brasile la qualificazione ai Mondiali sotto la guida del ct Ancelotti.",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2025/06/11/primo-gol-del-brasile-a-guida-ancelotti-segna-vinicius-junior_df2c8738-9c30-46f5-a7ec-096c57fe0516.html"
+    },
+    {
+      "title": "Proteste in California contro retate di immigrati, Trump risponde duramente",
+      "source": "Rai News",
+      "summary": "Manifestazioni pacifiche in 30 città americane contro le retate, con Trump che minaccia di usare la legge contro le insurrezioni; 9mila stranieri deportati a Guantanamo.",
+      "link": "https://www.rainews.it/video/2025/06/california-in-rivolta-pugno-duro-di-trump-animali-stranieri-nico-piro-ee1598e9-b029-49d4-b9ab-b59373863617.html"
+    },
+    {
+      "title": "Riduzione fondi Usa per Kiev e nuove sanzioni Ue contro Mosca",
+      "source": "Rai News",
+      "summary": "Gli Usa riducono il supporto a Kiev mentre l'Ue introduce un 18mo pacchetto di sanzioni sul petrolio russo; attacchi con droni a Kharkiv causano vittime.",
+      "link": "https://www.rainews.it/maratona/2025/06/ucraina-guerra-mosca-droni-russi-su-kiev-droni-ucraini-su-mosca-scambio-prigionieri-195f9d70-1c6a-43bb-82ab-7efab485a347.html"
+    },
+    {
+      "title": "Proteste a New York contro la politica sull'immigrazione di Trump",
+      "source": "Rai News",
+      "summary": "Manifestanti, in gran parte giovani, si sono radunati a Foley Square e hanno marciato nella parte bassa di Manhattan contro le retate di migranti.",
+      "link": "https://www.rainews.it/video/2025/06/proteste-a-new-york-contro-politica-immigrazione-di-trump-7380341d-4254-475f-8a97-6361d257b7ac.html"
+    },
+    {
+      "title": "Governatore della California smentisce Trump sulla telefonata",
+      "source": "la Repubblica",
+      "summary": "Newsom nega di aver ricevuto una chiamata da Trump riguardo alla gestione delle proteste e critica l'invio di truppe senza risorse adeguate.",
+      "link": "https://www.repubblica.it/esteri/2025/06/10/news/governatore_california_newsom_smentisce_trump_telefonata-424660366/?rss"
+    }
+  ]
+}

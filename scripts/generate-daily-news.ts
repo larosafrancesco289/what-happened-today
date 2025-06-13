@@ -38,7 +38,7 @@ async function runPipeline(languageCode: string = 'en') {
     
     // 3. Filter and rank with AI
     console.log('Filtering and ranking articles with AI...');
-    const filteredArticles = await withTimeout(filterAndRankArticles(uniqueArticles, languageCode), 60000, 'AI filtering');
+    const filteredArticles = await withTimeout(filterAndRankArticles(uniqueArticles, languageCode), 180000, 'AI filtering');
     
     if (filteredArticles.length === 0) {
       throw new Error('No relevant articles after AI filtering');
@@ -47,13 +47,13 @@ async function runPipeline(languageCode: string = 'en') {
     
     // 4. Generate headlines with AI
     console.log('Generating headlines with AI...');
-    const headlines = await withTimeout(generateHeadlines(filteredArticles, languageCode), 60000, 'Headlines generation');
+    const headlines = await withTimeout(generateHeadlines(filteredArticles, languageCode), 180000, 'Headlines generation');
     console.log(`Generated ${headlines.length} headlines`);
     
     // 5. Generate summary with AI
     console.log('Generating daily summary with AI...');
     console.log('Starting summary generation call...');
-    const summary = await withTimeout(generateDailySummary(headlines, languageCode), 60000, 'Summary generation');
+    const summary = await withTimeout(generateDailySummary(headlines, languageCode), 180000, 'Summary generation');
     console.log('Summary generation completed!');
     console.log(`Summary preview: ${summary.substring(0, 100)}...`);
     

@@ -96,24 +96,9 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<string, RSSFeed[]> = {
       description: 'Adds a commercial-TV perspective; good for breaking domestic stories'
     },
     {
-      name: 'Corriere della Sera',
-      url: 'https://www.corriere.it/feed-hp/homepage.xml',
-      description: 'Italy\'s largest daily; broad news mix'
-    },
-    {
       name: 'la Repubblica',
       url: 'https://www.repubblica.it/rss/esteri/rss2.0.xml',
       description: 'International desk of a centre-left daily; balances Corriere'
-    },
-    {
-      name: 'Il Post',
-      url: 'https://www.ilpost.it/feed',
-      description: 'Concise, analytic independent outlet; low clickbait quotient'
-    },
-    {
-      name: 'Internazionale',
-      url: 'https://www.internazionale.it/rss',
-      description: 'Curated translations of world journalism; broadens geographic range'
     },
     {
       name: 'Il Sole 24 Ore',

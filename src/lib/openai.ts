@@ -3,7 +3,38 @@ import type { ProcessedArticle, NewsHeadline } from '@/types/news';
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
+  timeout: 90000, // 90 second timeout
+  maxRetries: 2, // Retry failed requests up to 2 times
 });
+
+// Helper function to retry operations with exponential backoff
+async function withRetry<T>(
+  operation: () => Promise<T>,
+  maxRetries: number = 2,
+  baseDelay: number = 1000
+): Promise<T> {
+  let lastError: Error | undefined;
+  
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      return await operation();
+    } catch (error) {
+      lastError = error as Error;
+      
+      // Don't retry on the last attempt
+      if (attempt === maxRetries) {
+        break;
+      }
+      
+      // Exponential backoff: wait baseDelay * 2^attempt ms
+      const delay = baseDelay * Math.pow(2, attempt);
+      console.log(`API call failed (attempt ${attempt + 1}/${maxRetries + 1}), retrying in ${delay}ms...`);
+      await new Promise(resolve => setTimeout(resolve, delay));
+    }
+  }
+  
+  throw lastError || new Error('Operation failed after retries');
+}
 
 interface ArticleAnalysis {
   index: number;
@@ -15,30 +46,63 @@ interface ArticleAnalysis {
 const LANGUAGE_PROMPTS = {
   en: {
     filterPrompt: (articles: ProcessedArticle[]) => `
-You are an expert news analyst. Analyze these news articles and filter/rank them:
+SYSTEM INSTRUCTIONS (read carefully):
+You are "GlobalNewsRelevance-v1", an experienced, unbiased wire-service editor. Your ONLY task is to decide which of the following articles matter to a GLOBAL audience today and to assign an objective relevance score.
 
-1. Filter out irrelevant, emotional, clickbait, or non-factual content
-2. Keep only neutral, factual, globally significant news
-3. Rank them by importance (0-10 scale)
-4. Focus on the top 10-15 most important stories
+Strict evaluation criteria:
+1. FACTUALITY – Keep items corroborated by at least one reputable outlet. Exclude speculation or opinion.
+2. GLOBAL SIGNIFICANCE – Prioritise developments that influence geopolitics, cross-border economics, climate, security, major science or technology. Purely local or celebrity items are almost always OUT unless they have systemic global consequences.
+3. NEUTRALITY – Reject stories written in emotional or sensational language.
+4. TIMELINESS – Focus on events in the past 24 h or whose impact is unfolding now.
+5. NOVELTY – Discard duplicates or minor incremental updates unless they substantially move the story forward.
 
-Articles to analyze:
+Scoring rubric:
+- relevanceScore 0-10 (integer). 10 = indispensable knowledge for global decision-makers; 5 = notable but not game-changing; 0 = no relevance.
+- isRelevant = true if relevanceScore ≥ 6, else false.
+
+OUTPUT FORMAT (MANDATORY): Return ONLY valid JSON matching exactly the schema below, **without** markdown or commentary.
+{
+  "analyses": [
+    {
+      "index": <integer>,
+      "relevanceScore": <integer>,
+      "isRelevant": <boolean>,
+      "reason": "<≤300 characters explanation in English>"
+    }
+  ]
+}
+
+If you are uncertain, err on the side of marking the article NOT relevant.
+
+Articles to analyse:
 ${articles.map((article, index) => `
 ${index + 1}. ${article.title}
 Source: ${article.source}
-Content: ${article.content.substring(0, 500)}...
+Content (truncated): ${article.content.substring(0, 500)}...
 `).join('\n')}
-
-Focus on stories that are:
-- Factual and verifiable
-- Globally significant
-- Not sensationalized or emotional
-- Not celebrity gossip or entertainment
-- Not overly technical or niche
 `,
     headlinesPrompt: (articles: ProcessedArticle[]) => `
-Create concise, neutral headlines and summaries for these top news stories. 
-Each summary should be 1-2 sentences, factual, and free from emotional language.
+SYSTEM INSTRUCTIONS:
+You are "GlobalNewsHeadliner-v1", a seasoned international copy-editor.
+
+Goal: Craft a neutral, information-dense headline (6-12 words, ≤ 70 characters) and a SINGLE, 20-25-word summary sentence for each article deemed relevant.
+
+Rules:
+• Use present tense where possible; no sensational adjectives.
+• Do NOT mention the news outlet inside the headline.
+• The summary must add essential context not obvious from the headline.
+
+OUTPUT FORMAT (MANDATORY): Valid JSON only, matching this schema exactly and nothing else.
+{
+  "headlines": [
+    {
+      "title": "...",
+      "source": "...",     // copy exactly as provided
+      "summary": "...",
+      "link": "..."
+    }
+  ]
+}
 
 Articles:
 ${articles.map((article, index) => `
@@ -49,54 +113,85 @@ Link: ${article.link}
 `).join('\n')}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
-Write a cohesive, well-flowing 2-paragraph summary of today's most important global news.
-Your goal is to create a natural, high-level narrative that explains the state of the world today, not just list events.
-Connect different events and themes to show their broader context and interplay.
-The tone should be calm, factual, and thoughtfully analytical, like a briefing from a trusted international news analyst.
+SYSTEM INSTRUCTIONS:
+You are "GlobalNewsSynthesiser-v1", an elite analyst crafting daily briefings for senior diplomats.
 
-Today's top stories to synthesize:
+Task: Produce TWO elegantly-connected paragraphs (each 120-160 words) that weave the day's most consequential global developments into a coherent narrative.
+
+Writing guidance:
+1. Lead with the single development or theme that best frames the day. Integrate 2-3 linked stories within the first paragraph.
+2. In paragraph two, address the remaining items, grouping them thematically and explaining how they reinforce or contrast the opening theme.
+3. Use sophisticated transitions (e.g., "Against this backdrop,", "In parallel,", "Underscoring these trends."). Avoid list-like writing.
+4. Conclude with 1-2 sentences that articulate the broader implications for global stability, markets, or society.
+5. Maintain neutral, precise tone. Avoid adjectives that convey judgement ("shocking", "stunning", etc.).
+
+OUTPUT FORMAT (MANDATORY): Return ONLY JSON like {"summary":"<paragraph1>\n\n<paragraph2>"}
+
+Top stories to synthesise:
 ${headlines.map((headline, index) => `
-${index + 1}. ${headline.title} (${headline.source})
-Summary: ${headline.summary}
+${index + 1}. ${headline.title} (${headline.source}) – ${headline.summary}
 `).join('\n')}
-
-**Instructions for Writing:**
--   **Find the Narrative:** Instead of just listing events, identify an overarching theme or the most significant development to lead the summary. Ask yourself: What is the most important "story" of the day?
--   **Weave, Don't Stack:** Use sophisticated transitions to connect topics. Go beyond "Meanwhile" or "Separately." Try phrases that show relationships, like: "This focus on economic diplomacy comes as...", "The environmental talks stand in contrast to ongoing geopolitical friction, where...", or "Underpinning these events is a broader trend of..."
--   **Thematic Grouping:** Group related stories. For instance, combine stories about economic shifts, geopolitical tensions, or social changes, even if they happened in different parts of the world.
--   **Analytical Conclusion:** The final sentences should provide a broader context, explaining what these developments collectively suggest about global trends, challenges, or dynamics.
-
-**Structure:**
--   **Paragraph 1:** Start with the day's most impactful story or a central theme that connects multiple events. Weave in 2-3 related developments, explaining their connection.
--   **Paragraph 2:** Cover the remaining significant events, linking them thematically to the first paragraph or to each other. Conclude with a sentence or two on the broader implications of the day's news.
 `
   },
   it: {
     filterPrompt: (articles: ProcessedArticle[]) => `
-Sei un esperto analista di notizie. Analizza questi articoli di notizie e filtrali/classificali:
+ISTRUZIONI DI SISTEMA (leggere con attenzione):
+Sei "GlobalNewsRelevance-v1", un redattore di agenzia internazionale imparziale con decenni di esperienza. Il tuo UNICO compito è stabilire quali degli articoli seguenti siano rilevanti per un pubblico GLOBALE oggi e assegnare un punteggio di rilevanza.
 
-1. Filtra contenuti irrilevanti, emotivi, clickbait o non fattuali
-2. Mantieni solo notizie neutrali, fattuali e significative a livello globale
-3. Classificali per importanza (scala 0-10)
-4. Concentrati sulle 10-15 storie più importanti
+Criteri rigorosi di valutazione:
+1. FATTUALITÀ – Mantieni solo elementi confermati da almeno una fonte autorevole. Escludi opinioni e speculazioni.
+2. RILEVANZA GLOBALE – Dai priorità agli sviluppi che incidono su geopolitica, economia transfrontaliera, clima, sicurezza, scienza o tecnologia di ampia portata. Le notizie strettamente locali o di spettacolo sono da escludere salvo conseguenze sistemiche globali.
+3. NEUTRALITÀ – Scarta articoli con linguaggio emotivo o sensazionalistico.
+4. ATTUALITÀ – Concentrati su eventi avvenuti nelle ultime 24 h o con impatto in corso.
+5. NOVITÀ – Elimina duplicati o aggiornamenti marginali che non cambiano sostanzialmente la storia.
+
+Schema di punteggio:
+- relevanceScore 0-10 (intero). 10 = informazione indispensabile per decisori globali; 5 = rilevante ma non determinante; 0 = irrilevante.
+- isRelevant = true se relevanceScore ≥ 6, altrimenti false.
+
+FORMATO DI OUTPUT (OBBLIGATORIO): restituisci SOLO JSON valido conforme esattamente allo schema seguente, senza markdown o commenti.
+{
+  "analyses": [
+    {
+      "index": <integer>,
+      "relevanceScore": <integer>,
+      "isRelevant": <boolean>,
+      "reason": "<spiegazione ≤300 caratteri in italiano>"
+    }
+  ]
+}
+
+In caso di dubbio, preferisci segnare l'articolo come NON rilevante.
 
 Articoli da analizzare:
 ${articles.map((article, index) => `
 ${index + 1}. ${article.title}
 Fonte: ${article.source}
-Contenuto: ${article.content.substring(0, 500)}...
+Contenuto (troncato): ${article.content.substring(0, 500)}...
 `).join('\n')}
-
-Concentrati su storie che sono:
-- Fattuali e verificabili
-- Significative a livello globale
-- Non sensazionalizzate o emotive
-- Non gossip sui celebrity o intrattenimento
-- Non eccessivamente tecniche o di nicchia
 `,
     headlinesPrompt: (articles: ProcessedArticle[]) => `
-Crea titoli concisi e neutrali e riassunti per queste principali notizie. 
-Ogni riassunto dovrebbe essere di 1-2 frasi, fattuale e privo di linguaggio emotivo.
+ISTRUZIONI DI SISTEMA:
+Sei "GlobalNewsHeadliner-v1", un titolista esperto di agenzia stampa internazionale.
+
+Obiettivo: Genera un titolo neutro e denso di informazioni (6-12 parole, ≤ 70 caratteri) e UNA frase riassuntiva di 20-25 parole per ciascun articolo rilevante.
+
+Regole:
+• Usa preferibilmente il presente; evita aggettivi sensazionalistici.
+• Non citare la testata nel titolo.
+• Il riassunto deve aggiungere contesto essenziale non evidente dal titolo.
+
+FORMATO DI OUTPUT (OBBLIGATORIO): solo JSON valido che rispetti esattamente questo schema, nient'altro.
+{
+  "headlines": [
+    {
+      "title": "...",
+      "source": "...",   // copia esattamente come fornito
+      "summary": "...",
+      "link": "..."
+    }
+  ]
+}
 
 Articoli:
 ${articles.map((article, index) => `
@@ -107,26 +202,24 @@ Link: ${article.link}
 `).join('\n')}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
-Scrivi un riassunto coeso e scorrevole di 2 paragrafi sulle notizie globali più importanti di oggi.
-Il tuo obiettivo è creare una narrazione naturale e di alto livello che spieghi lo stato del mondo oggi, non solo un elenco di eventi.
-Collega eventi e temi diversi per mostrare il loro contesto più ampio e la loro interazione.
-Il tono deve essere calmo, fattuale e analiticamente riflessivo, come un briefing di un fidato analista di notizie internazionali.
+ISTRUZIONI DI SISTEMA:
+Sei "GlobalNewsSynthesiser-v1", un analista di alto livello che redige briefing quotidiani per diplomatici senior.
 
-Le principali notizie di oggi da sintetizzare:
+Compito: Produci DUE paragrafi connessi in modo elegante (ognuno 120-160 parole) che intreccino gli sviluppi globali più significativi del giorno in una narrazione coerente.
+
+Guida alla scrittura:
+1. Apri con lo sviluppo o il tema che meglio incornicia la giornata; integra 2-3 storie collegate nel primo paragrafo.
+2. Nel secondo paragrafo affronta gli altri elementi, raggruppandoli tematicamente e spiegando come rafforzano o contrastano il tema iniziale.
+3. Usa transizioni sofisticate (es. "Su questo sfondo", "In parallelo", "A sottolineare questa tendenza"). Evita la scrittura a elenco.
+4. Concludi con 1-2 frasi che evidenzino le implicazioni più ampie per stabilità globale, mercati o società.
+5. Mantieni tono neutro e preciso. Evita aggettivi di giudizio ("scioccante", "sbalorditivo", ecc.).
+
+FORMATO DI OUTPUT (OBBLIGATORIO): restituisci SOLO JSON del tipo {"summary":"<paragrafo1>\n\n<paragrafo2>"}
+
+Principali notizie da sintetizzare:
 ${headlines.map((headline, index) => `
-${index + 1}. ${headline.title} (${headline.source})
-Riassunto: ${headline.summary}
+${index + 1}. ${headline.title} (${headline.source}) – ${headline.summary}
 `).join('\n')}
-
-**Istruzioni per la scrittura:**
--   **Trova la Narrazione:** Invece di elencare semplicemente gli eventi, identifica un tema generale o lo sviluppo più significativo per guidare il riassunto. Chiediti: qual è la "storia" più importante della giornata?
--   **Intreccia, non Impilare:** Usa transizioni sofisticate per collegare gli argomenti. Vai oltre "Nel frattempo" o "Separatamente". Prova frasi che mostrino relazioni, come: "Questo focus sulla diplomazia economica arriva mentre...", "I colloqui sull'ambiente si contrappongono alle continue tensioni geopolitiche, dove...", o "Alla base di questi eventi c'è una tendenza più ampia di..."
--   **Raggruppamento Tematico:** Raggruppa le storie correlate. Ad esempio, combina storie su cambiamenti economici, tensioni geopolitiche o cambiamenti sociali, anche se si sono verificati in diverse parti del mondo.
--   **Conclusione Analitica:** Le frasi finali dovrebbero fornire un contesto più ampio, spiegando cosa questi sviluppi suggeriscono collettivamente sulle tendenze, sfide o dinamiche globali.
-
-**Struttura:**
--   **Paragrafo 1:** Inizia con la storia più impattante della giornata o un tema centrale che collega più eventi. Intreccia 2-3 sviluppi correlati, spiegandone la connessione.
--   **Paragrafo 2:** Copri gli eventi significativi rimanenti, collegandoli tematicamente al primo paragrafo o tra loro. Concludi con una o due frasi sulle implicazioni più ampie delle notizie del giorno.
 `
   }
 };
@@ -136,8 +229,8 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
   const prompt = prompts.filterPrompt(articles);
 
   try {
-    const response = await openai.chat.completions.create({
-      model: 'gpt-4.1-mini',
+    const response = await withRetry(() => openai.chat.completions.create({
+      model: 'gpt-4.1-nano',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
       response_format: {
@@ -165,7 +258,7 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
           }
         }
       }
-    });
+    }));
 
     const result = JSON.parse(response.choices[0].message.content || '{"analyses":[]}');
     
@@ -192,8 +285,8 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
   const prompt = prompts.headlinesPrompt(articles);
 
   try {
-    const response = await openai.chat.completions.create({
-      model: 'gpt-4.1-mini',
+    const response = await withRetry(() => openai.chat.completions.create({
+      model: 'gpt-4.1-nano',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
       response_format: {
@@ -221,7 +314,7 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
           }
         }
       }
-    });
+    }));
 
     const result = JSON.parse(response.choices[0].message.content || '{"headlines":[]}');
     return result.headlines || [];
@@ -246,10 +339,9 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     : 'Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.';
 
   try {
-    const response = await openai.chat.completions.create({
-      model: 'gpt-4.1-mini',
+    const response = await withRetry(() => openai.chat.completions.create({
+      model: 'gpt-4.1',
       messages: [{ role: 'user', content: prompt }],
-      temperature: 0.6,
       response_format: {
         type: "json_schema",
         json_schema: {
@@ -266,7 +358,7 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
           }
         }
       }
-    });
+    }));
 
     const result = JSON.parse(response.choices[0].message.content || '{"summary":"Unable to generate summary."}');
     return result.summary || fallbackSummary;

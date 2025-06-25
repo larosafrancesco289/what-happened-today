@@ -1,0 +1,66 @@
+{
+  "date": "2025-06-25",
+  "summary": "Lo scenario politico-finanziario odierno è attraversato dal rafforzamento di posizioni strategiche sia a livello bancario che militare, sullo sfondo di una fragile distensione geopolitica. L'autorizzazione della BCE all'acquisizione di Mediobanca da parte di Mps segna una svolta nell'assetto del sistema bancario europeo, proiettando nuovi equilibri nel settore e riflettendo la crescente tendenza verso consolidamenti strutturali. Questa dinamica si rispecchia nel contesto internazionale, dove al summit NATO i leader – incluso Trump, protagonista di un incontro con Zelensky – rimettono al centro la ridefinizione delle politiche di sicurezza collettiva, proponendo l'aumento delle spese militari al 5% entro il 2025 in risposta a tensioni persistenti, come evidenziato dall'attacco missilistico russo a Dnipro e dalle gravi perdite umane. \n\nSu questo sfondo, la tregua annunciata tra Israele e Iran – seppur fragilmente minata da episodi come l'attacco alla base USA a Doha e l'esecuzione di tre presunte spie in Iran – ha immediati riflessi sui mercati, con le Borse europee che reagiscono positivamente e i prezzi dell'energia in calo. In parallelo, la cronaca propone elementi di continuità e discontinuità sociale, dalle dimissioni della giudice dello scandalo Maradona a una nuova indagine sulla morte del costumista di \"Parthenope\", fino agli addii culturali ad Alvaro Vitali e Sergio Nieto Diaz Albo. Queste dinamiche, pur nella loro diversità, sottolineano come le oscillazioni tra tensione e distensione influenzino simultaneamente equilibri globali, percezioni di stabilità e fiducia nei mercati e nelle istituzioni.",
+  "headlines": [
+    {
+      "title": "Bce approva acquisizione di controllo di Mediobanca da parte di Mps",
+      "source": "ANSA",
+      "summary": "La Banca centrale europea autorizza Mps a superare i limiti patrimoniali per acquisire una quota di Mediobanca, rafforzando la sua posizione nel settore.",
+      "link": "https://www.ansa.it/sito/notizie/economia/2025/06/25/mps-via-libera-bce-ad-acquisire-controllo-di-mediobanca_aea2f10f-94eb-4545-8092-aea23b9b6004.html"
+    },
+    {
+      "title": "Trump partecipa a cena e incontra Zelensky durante summit NATO",
+      "source": "Rai News",
+      "summary": "Il presidente Trump arriva in tempo per la cena e si incontra con Zelensky, mentre i leader dell'Alleanza Atlantica discutono di aumentare le spese militari al 5% entro il 2025.",
+      "link": "https://www.rainews.it/video/2025/06/trump-arriva-in-tempo-per-la-cena-oggi-incontra-zelensky-3fe7b04e-9700-412b-888a-1107b26508f2.html"
+    },
+    {
+      "title": "Iran esegue impiccagioni di tre spie al servizio di Israele",
+      "source": "ANSA",
+      "summary": "L'Iran esegue tre impiccagioni di spie accusate di lavorare per Israele, il giorno dopo l'entrata in vigore di una tregua nel conflitto regionale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/06/25/liran-impicca-tre-spie-al-servizio-di-israele_44c82ad3-fa86-4a7f-a919-4f8b9ca09419.html"
+    },
+    {
+      "title": "Dimissioni della giudice coinvolta nello scandalo del processo Maradona",
+      "source": "ANSA",
+      "summary": "La giudice coinvolta nello scandalo del processo Maradona si dimette dopo essere stata scoperta a girare un documentario non autorizzato, suscitando polemiche.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/06/24/si-e-dimessa-la-giudice-dello-scandalo-al-processo-maradona_0f617930-dfc6-4e4d-98f4-2076026c5021.html"
+    },
+    {
+      "title": "Addio ad Alvaro Vitali, attore della commedia sexy italiana",
+      "source": "Rai News",
+      "summary": "Alvaro Vitali, noto attore della commedia sexy italiana, muore a 75 anni a Roma dopo un ricovero per broncopolmonite recidiva.",
+      "link": "https://www.rainews.it/video/2025/06/alvaro-vitali-non-solo-attore-della-sexy-commedia-allitaliana-fa7876bc-3a25-4053-86a5-39dd6171063b.html"
+    },
+    {
+      "title": "Riaprono le indagini sulla morte del costumista di 'Parthenope' a Napoli",
+      "source": "Rai News",
+      "summary": "Le autorità napoletane riaprono le indagini sulla morte del costumista di 'Parthenope', avvenuta due anni fa durante le riprese del film di Sorrentino.",
+      "link": "https://www.rainews.it/articoli/2025/06/napoli-si-riaprono-le-indagini-sulla-morte-del-costumista-di-parthenope-7765d26e-4813-4b8e-9606-5bdc82d33763.html"
+    },
+    {
+      "title": "Attacco alla base USA a Doha e accordo di tregua tra Israele e Iran",
+      "source": "Rai News",
+      "summary": "Un attacco alla base statunitense a Doha precede l'annuncio di Trump di un accordo di tregua tra Israele e Iran, con alcune violazioni nelle ore successive.",
+      "link": "https://www.rainews.it/video/2025/06/ieri-lattacco-alla-base-usa-a-doha-poi-lannuncio-di-trump-il-film-della-tregua-israele-iran-2fba7abd-e334-49bb-a103-6471cb1229c9.html"
+    },
+    {
+      "title": "Missile russo colpisce Dnipro, almeno 16 morti e feriti",
+      "source": "Rai News",
+      "summary": "Un attacco missilistico russo a Dnipro causa almeno 16 morti e circa 170 feriti, con soccorritori ancora impegnati a rimuovere le macerie.",
+      "link": "https://www.rainews.it/video/2025/06/un-attacco-missilistico-russo-uccide-nove-persone-e-danneggia-una-chiesa-e-una-scuola-a-dnipro-5acbd8ee-2c89-4868-ba90-8ecb50e8b9c6.html"
+    },
+    {
+      "title": "Mercati europei credono alla tregua in Iran, azioni in aumento",
+      "source": "Rai News",
+      "summary": "Le borse europee, tra cui Milano, registrano rialzi grazie alla percezione di una tregua in Iran, con calo di petrolio e gas.",
+      "link": "https://www.rainews.it/video/2025/06/borsa-europa-crede-alla-tregua-in-iran-sale-lazionario-giu-petrolio-e-gas-tg3-be8d1f6d-7720-453b-8b08-68b5e67f3109.html"
+    },
+    {
+      "title": "Sergio Nieto Diaz Albo, tessera n.1 del Real Madrid, muore a 100 anni",
+      "source": "Rai News",
+      "summary": "Sergio Nieto Diaz Albo, primo socio del Real Madrid, muore a 100 anni; ha contribuito a vincere numerosi titoli tra cui 15 Coppe e 36 Liga.",
+      "link": "https://www.rainews.it/articoli/2025/06/calcio-spagna-liga-real-madrid-tessera-1-muore-100-anni-sergio-nieto-diaz-albo-67b89ec2-be04-4747-8405-446f166d5194.html"
+    }
+  ]
+}

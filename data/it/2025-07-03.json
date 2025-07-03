@@ -1,0 +1,66 @@
+{
+  "date": "2025-07-03",
+  "summary": "L’ondata di caldo estremo che sta caratterizzando il 2024, sancito come l’anno più caldo della storia con temperature oltre la soglia di +1,5°C, pone al centro dell’attenzione le crescenti criticità legate ai cambiamenti climatici e all’insufficienza delle risposte politiche, come dimostrato dall’attenuazione degli obiettivi europei in materia ambientale. Tale scenario trova eco nell’incremento dei rischi per la salute collettiva, come dimostra la necessità di un forte monitoraggio dell’ozono nelle città italiane e gli allarmi dovuti a infezioni rare trasmesse da fauna selvatica, quale la morte per lyssavirus australiano in seguito al morso di un pipistrello. In parallelo, il coinvolgimento delle istituzioni nella comunicazione scientifica sulla crisi climatica si manifesta anche attraverso iniziative come la presentazione all’Europarlamento della mostra ANSA80, che riflette sulle responsabilità informative dei media in Europa.\n\nSu questo sfondo di fragilità globale, lo scenario geopolitico rimane marcato da instabilità e tensioni. La sospensione da parte della Casa Bianca della fornitura di armi a Kiev viene accolta con favore da Mosca, sottolineando sia la perdurante volatilità del conflitto ucraino sia la difficoltà occidentale a sostenere risposte unitarie e efficaci. Allo stesso tempo, in Medio Oriente, l’analista Novik segnala l’impossibilità, per ora, di raggiungere un’intesa duratura per un cessate il fuoco a Gaza; qualsiasi tregua si prospetta come temporanea, lasciando presagire ulteriori fasi di instabilità. In questo contesto, la visita della presidente Meloni alle celebrazioni statunitensi a Roma rappresenta un tentativo di rafforzare le relazioni bilaterali e di riaffermare il valore delle alleanze tradizionali. La combinazione di crisi locali e internazionali sottolinea quanto la cooperazione interstatale e il mantenimento della fiducia pubblica restino determinanti per la stabilità economica e la sicurezza delle società.",
+  "headlines": [
+    {
+      "title": "Ritrovata testa di Salma dopo 17 anni sull'autostrada A22",
+      "source": "ANSA",
+      "summary": "Il ritrovamento avviene in Germania, con l'esame del DNA atteso per confermare l'identità della vittima.",
+      "link": "https://www.ansa.it/trentino/notizie/2025/07/02/salma-decapitata-sullautostrada-a22-la-testa-ritrovata-dopo-17-anni_22250622-e67d-42e5-b8ed-e7cabaad1ce0.html"
+    },
+    {
+      "title": "Uomo muore per infezione rara dopo morso da pipistrello",
+      "source": "Rai News",
+      "summary": "Dal 1996, solo tre casi di infezione umana da lyssavirus australiano sono stati registrati, tutti con esiti fatali, in seguito a morsi di pipistrelli.",
+      "link": "https://www.rainews.it/articoli/2025/07/viene-morso-da-un-pipistrello-cinquantenne-muore-per-una-rara-infezione-3388a8d5-b26e-416e-a681-9071402c3045.html"
+    },
+    {
+      "title": "2024 registra il più caldo della storia con temperature oltre +1,5°C",
+      "source": "Rai News",
+      "summary": "L'anno più caldo ha causato eventi estremi e danni agli ecosistemi, mentre l'UE allenta gli obiettivi climatici e la politica sembra disinteressata.",
+      "link": "https://www.rainews.it/video/2025/07/meteo-e-clima-il-caldo-record-non-e-piu-una-anomalia-riscaldamento-climatico-globale-49dd951d-ed94-44e8-9d9e-8af1dbe6d5f1.html"
+    },
+    {
+      "title": "Meloni partecipa alle celebrazioni dell'Independence Day negli USA a Roma",
+      "source": "Rai News",
+      "summary": "La presidente del Consiglio sottolinea la relazione privilegiata tra Stati Uniti e Italia durante la festa a Villa Taverna.",
+      "link": "https://www.rainews.it/video/2025/07/meloni-alla-festa-romana-indipendenza-usa-martelloni-9292e39d-199b-484e-9c07-a1ab9ccae546.html"
+    },
+    {
+      "title": "Rottweiler azzanna bambini a Roma, residente segnala pericolo",
+      "source": "TGCOM24",
+      "summary": "Una vicina descrive l'incidente e avverte sulla pericolosità del cane, sollevando preoccupazioni sulla sicurezza pubblica.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/rottweiler-roma-lavinio-bambini_100535032-202502k.shtml"
+    },
+    {
+      "title": "Analista Novik: nessun accordo completo per fermare la guerra a Gaza",
+      "source": "la Repubblica",
+      "summary": "L'ex consigliere di Shimon Peres prevede un possibile cessate il fuoco temporaneo, ma il conflitto riprenderà probabilmente in futuro.",
+      "link": "https://www.repubblica.it/esteri/2025/07/03/news/novik_intervista_accordo_guerra_gaza_israele-424707016/?rss"
+    },
+    {
+      "title": "Casa Bianca sospende forniture di armi a Kiev, Mosca esulta",
+      "source": "la Repubblica",
+      "summary": "Il Pentagono annuncia la fine delle forniture militari, mentre Mosca dichiara che la Russia continuerà a vincere nel conflitto.",
+      "link": "https://www.repubblica.it/esteri/2025/07/03/news/armi_ucraina_blocco_usa_reazioni-424706978/?rss"
+    },
+    {
+      "title": "Ministra delle Finanze di Londra si commuove in diretta TV",
+      "source": "la Repubblica",
+      "summary": "Rachel Reeves si mostra visibilmente emozionata dopo la crisi del governo e le difficoltà sulla riforma del welfare, alimentando i rumors a Westminster.",
+      "link": "https://www.repubblica.it/esteri/2025/07/02/news/londra_ministra_finanze_piange_diretta_tv-424706696/?rss"
+    },
+    {
+      "title": "Aumento delle temperature e attenzione all'ozono nell'aria",
+      "source": "Il Sole 24 Ore",
+      "summary": "Le autorità regionali monitorano costantemente la concentrazione di ozono, consigliando comportamenti per prevenire problemi di salute legati all'inquinamento.",
+      "link": "https://www.ilsole24ore.com/art/salgono-temperature-e-cresce-l-attenzione-la-concentrazione-ozono-nell-aria-AHuu9IWB"
+    },
+    {
+      "title": "Mostra ANSA80 sarà presentata all'Europarlamento il 8 luglio",
+      "source": "ANSA",
+      "summary": "L'esposizione commemorativa sarà inaugurata durante la sessione plenaria di Strasburgo, evidenziando la storia dell'agenzia stampa italiana in Europa.",
+      "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2025/07/01/la-mostra-ansa80-sbarca-in-ue-l8-luglio-sara-alleurocamera_223eca40-f165-4cbf-919e-3e85b2dd3415.html"
+    }
+  ]
+}

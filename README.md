@@ -8,7 +8,7 @@ Visit the live site: **[what-happened-today.vercel.app](https://what-happened-to
 
 ## Features
 
-- **Multilingual Support**: Currently available in English and Italian with language-specific news sources
+- **Multilingual Support**: Currently available in English, Italian, and French with language-specific news sources
 - **Clean Daily Summaries**: Two-paragraph AI-generated summaries of global events
 - **Ranked Headlines**: Top 5-10 stories with neutral, factual summaries  
 - **Dark/Light Theme**: Toggle between themes for comfortable reading
@@ -87,8 +87,10 @@ src/
 data/
 ├── en/
 │   └── YYYY-MM-DD.json    # English daily summary files
-└── it/
-    └── YYYY-MM-DD.json    # Italian daily summary files
+├── it/
+│   └── YYYY-MM-DD.json    # Italian daily summary files
+└── fr/
+    └── YYYY-MM-DD.json    # French daily summary files
 
 scripts/
 └── generate-daily-news.ts # Standalone news generation script
@@ -105,6 +107,11 @@ scripts/
 - **Sources**: 8 major Italian news outlets
 - **Focus**: Italian and international news
 - **RSS Feeds**: ANSA, Rai News, TGCOM24, Corriere, Repubblica, Il Post, Internazionale, Il Sole 24 Ore
+
+### French
+- **Sources**: 8 major French news outlets
+- **Focus**: French and international news with francophone perspective
+- **RSS Feeds**: Le Monde, Le Figaro, France Info, Libération, Les Échos, L'Express, France 24, RFI
 
 ## API Endpoints
 
@@ -143,6 +150,9 @@ scripts/
    
    # Italian news  
    npm run generate-news:it
+   
+   # French news
+   npm run generate-news:fr
    
    # All languages
    npm run generate-news:all
@@ -209,6 +219,7 @@ npm run lint               # Run ESLint
 npm run generate-news      # Generate news for default language (English)
 npm run generate-news:en   # Generate English news
 npm run generate-news:it   # Generate Italian news
+npm run generate-news:fr   # Generate French news
 npm run generate-news:all  # Generate news for all languages
 ```
 

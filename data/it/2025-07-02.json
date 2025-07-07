@@ -1,0 +1,66 @@
+{
+  "date": "2025-07-02",
+  "summary": "La giornata internazionale si apre con l’intensificarsi delle sfide legate al cambiamento climatico, tema che unisce le cronache italiane e mitteleuropee. L’Italia rimane in stato di allerta per la combinazione di temperature record, blackout urbani e un crescente afflusso nei pronto soccorso, mentre esperti segnalano una persistente presenza di anticicloni africani che rafforzano la necessità di strategie di adattamento strutturale. Su uno sfondo analogo, la Germania registra fenomeni di mobilità atipica con cittadini che salgono in quota per cercare sollievo dal caldo, illustrando la reattività sociale al rischio climatico diffuso. Questi sviluppi si inseriscono in un contesto più ampio in cui i governi sono chiamati a rispondere tanto alle urgenze immediate quanto a un quadro di lungo termine, condizionato anche da segnali di vulnerabilità infrastrutturale, come i blackout italiani, amplificati da un clima sempre meno prevedibile.\n\nSu questo sfondo, le fragilità istituzionali e geopolitiche emergono in vari scenari: l’attacco informatico contro la Corte penale internazionale, attribuito con sospetti a Mosca e Israele a causa di dossier sensibili, sottolinea come la cybersicurezza sia un nuovo campo di confronto internazionale, con potenziali ricadute sulla fiducia nelle istituzioni multilaterali. Le incertezze si riflettono anche nell’ambito finanziario, dove la Federal Reserve, insieme ad altri regolatori centrali, lancia l’allarme sulla sostenibilità del debito statunitense, scenario che contribuisce a una percezione di instabilità globale. Sul piano nazionale, in Italia proseguono le indagini sul caso Garlasco senza evidenze risolutive, mentre il mondo sportivo registra la vittoria di Elisabetta Cocciaretto, simbolo di resilienza individuale. La dimensione politica si arricchisce con la scelta del sindaco di Budapest di non candidarsi contro Viktor Orbán, ma di sostenere i diritti civili tramite il Pride, mentre negli Stati Uniti prosegue il processo a Sean Combs e Donald Trump rilancia la polemica contro Elon Musk, riflettendo tensioni tra Stato e capitale privato. Questi elementi, tra sfide climatiche, pressioni istituzionali e tensioni economiche, configurano un quadro globale in cui la resilienza delle società e delle istituzioni sarà cruciale per il mantenimento della stabilità e della fiducia pubblica nei mesi a venire.",
+  "headlines": [
+    {
+      "title": "Nuove analisi su Garlasco: manca il DNA nelle indagini",
+      "source": "Rai News",
+      "summary": "Le recenti analisi di laboratorio su Garlasco rivelano l'assenza di DNA, influenzando il prossimo incidente probatorio del 4 luglio.",
+      "link": "https://www.rainews.it/video/2025/07/cosa-trapela-dalle-nuove-analisi-di-laboratorio-manca-il-dna-le-nuove-indagini-su-garlasco-50597693-9cc6-4fa6-8a33-dfb8a79abfeb.html"
+    },
+    {
+      "title": "Italia in allerta per ondata di caldo: morti, blackout e aumento di accessi ai pronto soccorso",
+      "source": "ANSA",
+      "summary": "L'Italia affronta temperature elevate con un protocollo anti-caldo, registrando una donna morta, un operaio in coma e blackout in alcune città.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2025/07/01/italia-da-bollino-rosso-una-donna-muore-e-un-operaio-e-in-coma.-blackout-a-firenze_403d823b-3033-40f5-9ec2-ae321958f45d.html"
+    },
+    {
+      "title": "Elisabetta Cocciaretto vince contro la testa di serie Pegula, esprime felicità",
+      "source": "Rai News",
+      "summary": "La tennista marchigiana elimina Jess Pegula in due set, dichiarando di aver dato il massimo e di essere molto felice per la vittoria.",
+      "link": "https://www.rainews.it/video/2025/07/il-sorriso-di-elisabetta-cociaretto-ho-fatto-del-mio-meglio-oggi-e-sono-super-felice-c699e5d0-c373-4328-b0dd-abf512ce4a5f.html"
+    },
+    {
+      "title": "Processo a Sean Combs: giuria si riunisce, rischio ergastolo",
+      "source": "Rai News",
+      "summary": "Sean Combs affronta accuse di traffico sessuale e sfruttamento, con la giuria che si riunisce nuovamente per decidere sull'imputazione di associazione mafiosa.",
+      "link": "https://www.rainews.it/articoli/2025/07/processo-a-sean-combs-verdetto-parziale-la-giuria-torna-a-riunirsi-oggi-rischia-lergastolo-2c30aa25-e080-42a5-9ba9-791ec25e6d43.html"
+    },
+    {
+      "title": "Fed avverte sul debito USA: potenziale insostenibilità",
+      "source": "Rai News",
+      "summary": "I governatori delle banche centrali, riuniti a Sintra, segnalano incertezza economica globale e la possibilità che il debito degli Stati Uniti diventi insostenibile.",
+      "link": "https://www.rainews.it/video/2025/07/fed-debito-usa-dazi-bigbeautifulbill-sintra-bce-dollaro-export-pil-europa-febaa729-a83e-4ac0-a2ed-1ee298124870.html"
+    },
+    {
+      "title": "Sindaco di Budapest non sfiderà Orbán, ma celebra il Pride",
+      "source": "la Repubblica",
+      "summary": "Gergely Karácsony esprime orgoglio per il Pride di Budapest e annuncia che non si candiderà contro il premier Orbán, nonostante il successo della manifestazione.",
+      "link": "https://www.repubblica.it/esteri/2025/07/02/news/budapest_pride_gergely_karacsony_orban_intervista-424704527/?rss"
+    },
+    {
+      "title": "Attacco hacker alla Corte penale internazionale: coinvolti Mosca e Israele",
+      "source": "la Repubblica",
+      "summary": "La Corte penale internazionale dell'Aja subisce un attacco informatico sofisticato, con sospetti di coinvolgimento di Mosca e Israele, in relazione a dossier su Putin e Netanyahu.",
+      "link": "https://www.repubblica.it/esteri/2025/07/01/news/corte_penale_internazionale_attacco_hacker-424703382/?rss"
+    },
+    {
+      "title": "Clima in Italia: dominano gli anticicloni africani, necessarie strategie di adattamento",
+      "source": "ANSA",
+      "summary": "Gli esperti sottolineano che l'Italia sta vivendo un cambiamento climatico con anticicloni africani prevalenti, richiedendo adattamenti e prevenzione di scenari peggiori.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2025/07/01/litalia-e-cambiata-dominano-gli-anticicloni-africani_14267b5e-74ad-445f-8284-56e5636c2124.html"
+    },
+    {
+      "title": "Trump critica Musk: senza sussidi, chiuderebbe l'azienda",
+      "source": "ANSA",
+      "summary": "Donald Trump attacca Elon Musk, affermando che senza i sussidi governativi Tesla e SpaceX rischierebbero di chiudere le attività.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2025/07/01/trump-attacca-musk-senza-sussidi-chiuderesti-bottega_b1ceba17-6eab-4436-a0a3-0ee969fb4634.html"
+    },
+    {
+      "title": "Tedeschi salgono sulla montagna per sfuggire al caldo intenso",
+      "source": "Rai News",
+      "summary": "In Germania, molte persone utilizzano slitte sulla montagna più alta per evitare le ondate di calore, cercando refrigerio in alta quota.",
+      "link": "https://www.rainews.it/video/2025/07/i-tedeschi-vanno-in-slitta-sulla-montagna-piu-alta-della-germania-per-sfuggire-allondata-di-caldo-f831ead6-65ba-4800-8719-e09ca50c88e6.html"
+    }
+  ]
+}

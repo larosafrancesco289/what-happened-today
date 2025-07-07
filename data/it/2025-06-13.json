@@ -1,0 +1,66 @@
+{
+  "date": "2025-06-13",
+  "summary": "La giornata internazionale è stata dominata dalle tensioni in Medio Oriente, dove l'attacco di Israele all'Iran ha suscitato un'immediata condanna da parte dell'ONU e un forte appello alla diplomazia da parte di leader come António Guterres e Ursula von der Leyen. Le istituzioni italiane, monitorando attentamente l'evolversi della crisi, fanno appello alla prudenza per i propri cittadini in Iran e preparano risposte politiche con una riunione di governo ad hoc. L'attenzione mediatica riflette la gravità dello scenario, mentre speciali televisivi contribuiscono a informare ed orientare l'opinione pubblica sulle possibili ripercussioni regionali e globali di queste operazioni militari.\n\nSu questo sfondo di instabilità, emergono sviluppi che segnano sia la resilienza che le sfide della società globale. La cronaca interna italiana è segnata da fenomeni climatici estremi — con un'ondata di caldo senza precedenti e allerta per i temporali imminenti — e dai progressi della tecnologia applicata al benessere, come il caso di BrainGate2 che migliora la vita delle persone affette da grave disabilità. In parallelo, la riflessione sugli effetti dell'intelligenza artificiale trova spazio in convegni e nelle aule giudiziarie, dove Disney e Universal contestano le pratiche di aziende IA, sottolineando la necessità di tutelare la creatività e la competitività, come evidenziato anche dal rapporto economico Intesa Sanpaolo–Symbola. Questi elementi, sebbene diversi, mettono in luce la complessità delle sfide che attendono governi, società e mercati, evidenziando la centralità della cooperazione e della regolazione nell'epoca delle transizioni tecnologiche e geopolitiche.",
+  "headlines": [
+    {
+      "title": "ONU condanna escalation in Medio Oriente, leader chiedono soluzione diplomatica",
+      "source": "ANSA",
+      "summary": "Le dichiarazioni di Guterres e Von der Leyen sottolineano l'urgenza di risolvere il conflitto attraverso il dialogo internazionale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/06/13/guterres-lonu-condanna-lescalation-in-medio-oriente.-von-der-leyen-e-urgente_104da9c4-83de-49bb-8c0c-ae76a5b63b25.html"
+    },
+    {
+      "title": "Israele attacca l'Iran; Meloni convoca riunione di governo, Tajani rassicura su italiani",
+      "source": "ANSA",
+      "summary": "Le autorità italiane monitorano la situazione, sconsigliando viaggi in Iran e avvertendo i cittadini presenti nella regione.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2025/06/13/israele-attacca-liran.-meloni-convoca-una-riunione-di-governo.-tajani-nessun_322922e0-242b-4bf9-b0e6-cd6ea6c4cec9.html"
+    },
+    {
+      "title": "Martin Scorsese commenta Trump: 'Ami umiliare le persone', definendo il suo cinema come religione",
+      "source": "ANSA",
+      "summary": "Il regista esprime la sua opinione su Trump, paragonando il suo stile a una ricerca di redenzione attraverso il cinema.",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2025/06/12/martin-scorsese-trump-sembra-ami-umiliare-le-persone_0c7dbc1a-532d-4369-9dd9-5ee094c3f2f6.html"
+    },
+    {
+      "title": "Aereo in India: una scatola nera recuperata, vittime e sopravvissuto",
+      "source": "ANSA",
+      "summary": "Le operazioni di recupero continuano per trovare la seconda scatola nera; il bilancio include 241 vittime e un sopravvissuto.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/06/13/aereo-caduto-in-india-recuperata-una-delle-scatole-nere_df90ff36-81c9-4592-990a-34dc0c6b4c6a.html"
+    },
+    {
+      "title": "Sole e caldo fino a domenica, poi temporali su tutta Italia",
+      "source": "ANSA",
+      "summary": "Le temperature raggiungono i 36°C, con picchi di 42°C in Sardegna, prima di un peggioramento meteorologico previsto per la settimana.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2025/06/13/sole-e-caldo-fino-a-domenica-pomeriggio-poi-tornano-i-temporali_4edc4c5f-b1f1-4157-b6d8-5e268b82ba79.html"
+    },
+    {
+      "title": "Paralizzato da SLA comunica con fluidità grazie a IA BrainGate2",
+      "source": "ANSA",
+      "summary": "L'interfaccia BrainGate2 converte segnali cerebrali in parole, migliorando la comunicazione di persone con disabilità motorie gravi.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/frontiere/2025/06/13/paralizzato-da-sla-parla-in-modo-fluido-con-laiuto-dellia_f725e0c4-14e7-45cc-9949-d1bdf5b1c4d2.html"
+    },
+    {
+      "title": "Convegno a Genova su AI embodied e robotica per il futuro del pianeta",
+      "source": "ANSA",
+      "summary": "Il 16 giugno si tiene la sesta tappa di 'Fabbrica della Realtà', analizzando l'impatto di intelligenza artificiale e robotica sul pianeta.",
+      "link": "https://www.ansa.it/osservatorio_intelligenza_artificiale/notizie/societa/2025/06/10/convegno-embodied-ai-intelligenza-artificiale-e-robotica-per-il-futuro-del-pianeta_36dccf51-8047-4875-8cfa-d91edd0f8b84.html"
+    },
+    {
+      "title": "Tgunomattina estate: edizione straordinaria su attacco Israele contro Iran",
+      "source": "Rai News",
+      "summary": "La trasmissione speciale fornisce aggiornamenti sull'operazione militare condotta da Israele in Iran, con analisi e commenti.",
+      "link": "https://www.rainews.it/rubriche/specialetg1/video/2025/06/Tgunomattina-estate-Edizione-straordinaria-39934f99-6325-488c-9c5e-cbbfcf4831f5.html"
+    },
+    {
+      "title": "Rapporto: Intesa Sanpaolo e Symbola evidenziano la competitività italiana",
+      "source": "ANSA",
+      "summary": "Il rapporto, presentato a Mantova, analizza i punti di forza dell'economia italiana e le sfide per la crescita futura.",
+      "link": "https://www.ansa.it/sito/notizie/eventi/2025/06/13/intesa-sanpaolo-e-symbola-raccontano-la-competitivita-italiana_afcb224c-5ae9-492b-a4e4-a9af7fd0fa2f.html"
+    },
+    {
+      "title": "Disney e Universal intentano causa contro azienda IA per plagio di contenuti",
+      "source": "ANSA",
+      "summary": "Le major cinematografiche accusano Midjourney di aver violato il copyright, chiedendo risarcimenti per le opere utilizzate senza autorizzazione.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2025/06/12/disney-e-universal-fanno-causa-ad-azienda-ia-per-plagio_f24f630a-101a-4214-8eaf-f864b120e223.html"
+    }
+  ]
+}

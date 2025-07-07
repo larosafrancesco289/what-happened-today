@@ -77,6 +77,32 @@ export const translations: Record<string, Translations> = {
       title: "Cosa È Successo Oggi",
       description: "Un riassunto giornaliero pulito e generato dall'IA delle notizie globali — libero da clickbait, emozioni e sovraccarico di informazioni."
     }
+  },
+  fr: {
+    common: {
+      loading: "Chargement...",
+      error: "Une erreur s'est produite",
+      noData: "Aucune donnée disponible",
+      retry: "Réessayer"
+    },
+    navigation: {
+      previousDay: "Jour précédent",
+      nextDay: "Jour suivant",
+      today: "Aujourd'hui"
+    },
+    summary: {
+      title: "Que S'est-il Passé Aujourd'hui",
+      noSummaryTitle: "Que S'est-il Passé Aujourd'hui",
+      noSummaryMessage: "Aucun résumé disponible pour aujourd'hui.",
+      noSummaryDescription: "Le résumé quotidien sera généré automatiquement.",
+      headlines: "Titres",
+      readMore: "Lire plus",
+      sources: "Sources"
+    },
+    meta: {
+      title: "Que S'est-il Passé Aujourd'hui",
+      description: "Un résumé quotidien propre et généré par l'IA de l'actualité mondiale — libre de clickbait, d'émotion et de surcharge d'informations."
+    }
   }
 };
 

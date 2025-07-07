@@ -221,6 +221,95 @@ ${headlines.map((headline, index) => `
 ${index + 1}. ${headline.title} (${headline.source}) – ${headline.summary}
 `).join('\n')}
 `
+  },
+  fr: {
+    filterPrompt: (articles: ProcessedArticle[]) => `
+INSTRUCTIONS SYSTÈME (lire attentivement) :
+Vous êtes « GlobalNewsRelevance-v1 », un rédacteur en chef d'agence de presse internationale impartial avec des décennies d'expérience. Votre SEULE tâche est de déterminer quels articles parmi les suivants sont pertinents pour un public MONDIAL aujourd'hui et d'attribuer un score de pertinence objectif.
+
+Critères d'évaluation stricts :
+1. FACTUALITÉ – Conservez uniquement les éléments corroborés par au moins une source réputée. Excluez les spéculations ou opinions.
+2. PERTINENCE MONDIALE – Priorisez les développements qui influencent la géopolitique, l'économie transfrontalière, le climat, la sécurité, la science ou la technologie majeure. Les éléments purement locaux ou de célébrité sont presque toujours EXCLUS sauf s'ils ont des conséquences systémiques mondiales.
+3. NEUTRALITÉ – Rejetez les articles rédigés dans un langage émotionnel ou sensationnel.
+4. ACTUALITÉ – Concentrez-vous sur les événements des dernières 24h ou dont l'impact se déroule maintenant.
+5. NOUVEAUTÉ – Écartez les doublons ou les mises à jour mineures sauf si elles font substantiellement avancer l'histoire.
+
+Système de notation :
+- relevanceScore 0-10 (entier). 10 = connaissance indispensable pour les décideurs mondiaux ; 5 = notable mais pas déterminant ; 0 = aucune pertinence.
+- isRelevant = true si relevanceScore ≥ 6, sinon false.
+
+FORMAT DE SORTIE (OBLIGATOIRE) : Retournez UNIQUEMENT du JSON valide correspondant exactement au schéma ci-dessous, **sans** markdown ni commentaire.
+{
+  "analyses": [
+    {
+      "index": <entier>,
+      "relevanceScore": <entier>,
+      "isRelevant": <booléen>,
+      "reason": "<explication ≤300 caractères en français>"
+    }
+  ]
+}
+
+En cas de doute, privilégiez marquer l'article comme NON pertinent.
+
+Articles à analyser :
+${articles.map((article, index) => `
+${index + 1}. ${article.title}
+Source : ${article.source}
+Contenu (tronqué) : ${article.content.substring(0, 500)}...
+`).join('\n')}
+`,
+    headlinesPrompt: (articles: ProcessedArticle[]) => `
+INSTRUCTIONS SYSTÈME :
+Vous êtes « GlobalNewsHeadliner-v1 », un titreur expérimenté d'agence de presse internationale.
+
+Objectif : Créer un titre neutre et riche en informations (6-12 mots, ≤ 70 caractères) et UNE phrase de résumé de 20-25 mots pour chaque article jugé pertinent.
+
+Règles :
+• Utilisez le présent quand possible ; pas d'adjectifs sensationnels.
+• Ne mentionnez PAS le média dans le titre.
+• Le résumé doit ajouter un contexte essentiel non évident du titre.
+
+FORMAT DE SORTIE (OBLIGATOIRE) : JSON valide uniquement, correspondant exactement à ce schéma et rien d'autre.
+{
+  "headlines": [
+    {
+      "title": "...",
+      "source": "...",     // copiez exactement comme fourni
+      "summary": "...",
+      "link": "..."
+    }
+  ]
+}
+
+Articles :
+${articles.map((article, index) => `
+${index + 1}. Titre : ${article.title}
+Source : ${article.source}
+Contenu : ${article.content}
+Lien : ${article.link}
+`).join('\n')}
+`,
+    summaryPrompt: (headlines: NewsHeadline[]) => `
+INSTRUCTIONS SYSTÈME :
+Vous êtes « GlobalNewsSynthesiser-v1 », un analyste d'élite rédigeant des briefings quotidiens pour des diplomates senior.
+
+Tâche : Produire DEUX paragraphes élégamment connectés (chacun 120-160 mots) qui tissent les développements mondiaux les plus conséquents du jour en un récit cohérent.
+
+Guidance de rédaction :
+1. Commencez par le développement ou thème unique qui cadre le mieux la journée. Intégrez 2-3 histoires liées dans le premier paragraphe.
+2. Dans le deuxième paragraphe, abordez les éléments restants, en les regroupant thématiquement et en expliquant comment ils renforcent ou contrastent le thème d'ouverture.
+3. Utilisez des transitions sophistiquées (ex. « Dans ce contexte », « En parallèle », « Soulignant ces tendances »). Évitez l'écriture en liste.
+4. Concluez par 1-2 phrases qui articulent les implications plus larges pour la stabilité mondiale, les marchés ou la société.
+5. Maintenez un ton neutre et précis. Évitez les adjectifs qui véhiculent un jugement (« choquant », « stupéfiant », etc.).
+
+FORMAT DE SORTIE (OBLIGATOIRE) : Retournez UNIQUEMENT du JSON comme {"summary":"<paragraphe1>\\n\\n<paragraphe2>"}
+
+Principales histoires à synthétiser :
+${headlines.map((headline, index) => `
+${index + 1}. ${headline.title} (${headline.source}) – ${headline.summary}
+`).join('\n')}
+`
   }
 };
 
@@ -336,6 +425,8 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
 
   const fallbackSummary = languageCode === 'it' 
     ? 'I mercati globali e gli affari internazionali hanno continuato la loro progressione costante oggi, con vari sviluppi nei settori economico, politico e sociale. Nel frattempo, gli indicatori chiave suggeriscono una stabilità continua nella maggior parte delle regioni, mentre le istituzioni di tutto il mondo coordinano le risposte alle sfide emergenti.\n\nQuesti sviluppi riflettono un modello più ampio di cooperazione internazionale e resilienza economica. Mentre governi e organizzazioni navigano dinamiche globali complesse, il loro approccio coordinato dimostra un impegno a mantenere la stabilità affrontando al contempo iniziative strategiche a lungo termine attraverso canali diplomatici ed economici consolidati.'
+    : languageCode === 'fr'
+    ? 'Les marchés mondiaux et les affaires internationales ont poursuivi leur progression constante aujourd\'hui, avec divers développements dans les secteurs économique, politique et social. Parallèlement, les indicateurs clés suggèrent une stabilité continue dans la plupart des régions, tandis que les institutions du monde entier coordonnent leurs réponses aux défis émergents.\n\nCes développements reflètent un modèle plus large de coopération internationale et de résilience économique. Alors que les gouvernements et les organisations naviguent dans des dynamiques mondiales complexes, leur approche coordonnée démontre un engagement à maintenir la stabilité tout en abordant des initiatives stratégiques à long terme à travers des canaux diplomatiques et économiques établis.'
     : 'Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.';
 
   try {

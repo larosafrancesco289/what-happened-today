@@ -11,7 +11,8 @@
     "generate-news": "tsx scripts/generate-daily-news.ts",
     "generate-news:en": "tsx scripts/generate-daily-news.ts --lang=en",
     "generate-news:it": "tsx scripts/generate-daily-news.ts --lang=it",
-    "generate-news:all": "npm run generate-news:en && npm run generate-news:it"
+    "generate-news:fr": "tsx scripts/generate-daily-news.ts --lang=fr",
+    "generate-news:all": "npm run generate-news:en && npm run generate-news:it && npm run generate-news:fr"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",

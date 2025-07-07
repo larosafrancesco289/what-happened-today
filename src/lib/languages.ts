@@ -23,6 +23,12 @@ export const SUPPORTED_LANGUAGES: Language[] = [
     name: 'Italian',
     nativeName: 'Italiano',
     flag: '🇮🇹'
+  },
+  {
+    code: 'fr',
+    name: 'French',
+    nativeName: 'Français',
+    flag: '🇫🇷'
   }
 ] as const;
 
@@ -104,6 +110,48 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<string, RSSFeed[]> = {
       name: 'Il Sole 24 Ore',
       url: 'https://www.ilsole24ore.com/rss/italia.xml',
       description: 'Business paper\'s national section; useful for economics & policy'
+    }
+  ],
+  fr: [
+    {
+      name: 'Le Monde',
+      url: 'https://www.lemonde.fr/rss/une.xml',
+      description: 'Premier quotidien français; couverture politique et internationale de référence'
+    },
+    {
+      name: 'Le Figaro',
+      url: 'https://www.lefigaro.fr/rss/figaro_actualites.xml',
+      description: 'Quotidien de centre-droit; perspective équilibrée sur l\'actualité française'
+    },
+    {
+      name: 'France Info',
+      url: 'https://www.francetvinfo.fr/titres.rss',
+      description: 'Service public d\'information; flux continu d\'actualités factuelles'
+    },
+    {
+      name: 'Liberation',
+      url: 'https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml',
+      description: 'Quotidien de gauche; analyses approfondies et couverture sociale'
+    },
+    {
+      name: 'Les Echos',
+      url: 'https://www.lesechos.fr/rss/monde.xml',
+      description: 'Quotidien économique; actualité internationale sous l\'angle économique'
+    },
+    {
+      name: 'L\'Express',
+      url: 'https://www.lexpress.fr/rss/alaune.xml',
+      description: 'Hebdomadaire d\'actualité; synthèses et analyses de fond'
+    },
+    {
+      name: 'France 24',
+      url: 'https://www.france24.com/fr/rss',
+      description: 'Chaîne internationale française; perspective française sur l\'actualité mondiale'
+    },
+    {
+      name: 'RFI',
+      url: 'https://www.rfi.fr/fr/rss',
+      description: 'Radio France Internationale; couverture Afrique et monde francophone'
     }
   ]
 } as const;

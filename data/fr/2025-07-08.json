@@ -1,0 +1,66 @@
+{
+  "date": "2025-07-08",
+  "summary": "La journée est marquée par une intensification des tensions sur la scène internationale, dominée par la poursuite des bombardements à Gaza alors même que des négociations cruciales pour un cessez-le-feu se tiennent au Qatar et à Washington. Cette recrudescence de la violence, dans un contexte diplomatique incertain, fait écho à d’autres foyers de crise, notamment en Ukraine, où la Russie affirme la prise d’une localité dans la région de Dnipro, revendication contestée par Kiev. Parallèlement, la mort suspecte du ministre russe des Transports récemment limogé par Vladimir Poutine vient raviver les interrogations sur la stabilité politique russe à un moment sensible, soulignant le climat d’opacité et de tension qui prévaut dans les sphères de pouvoir.\n\nEn France, c’est le registre sociétal et culturel qui domine l’actualité intérieure, avec la progression des audiences radio, RTL consolidant sa position alors que les habitudes d’écoute évoluent. Cette dynamique médiatique s’inscrit dans un été rythmé par des événements sociaux et sportifs—comme l’anticipation du Tour de France 2025 ou la montée en puissance du Festival d’Avignon où la création poétique offre un contrepoint aux inquiétudes. Par ailleurs, les conséquences d’un incendie d’ampleur près de Narbonne et les sujets de sécurité publique—de la révélation d’activités criminelles majeures à la remise en cause des conditions de détention—illustrent les tensions sous-jacentes en matière de gestion des crises et de respect des droits. Ensemble, ces développements attestent d’une période d’incertitude où la résilience institutionnelle et sociétale sera déterminante face à l’accumulation de défis sécuritaires, humanitaires et environnementaux.",
+  "headlines": [
+    {
+      "title": "Nouveaux bombardements à Gaza font au moins 12 morts en contexte de négociations",
+      "source": "Le Monde",
+      "summary": "Les hostilités à Gaza s'intensifient avec des bombardements et tirs israéliens, alors que des négociations pour un cessez-le-feu se poursuivent au Qatar et à la Maison Blanche.",
+      "link": "https://www.lemonde.fr/international/article/2025/07/07/gaza-au-moins-12-morts-dans-de-nouveaux-bombardements-et-tirs-israeliens-sur-fond-de-negociations-pour-un-cessez-le-feu_6619625_3210.html"
+    },
+    {
+      "title": "Tour de France 2025 : étape entre Amiens et Rouen, profil et enjeux",
+      "source": "France Info",
+      "summary": "La quatrième étape du Tour de France 2025, entre Amiens et Rouen, pourrait voir une nouvelle confrontation entre puncheurs comme Van der Poel et Pogacar, sur un parcours favorable.",
+      "link": "https://www.franceinfo.fr/tour-de-france/focus/tour-de-france-2025-profil-horaires-nouvelle-demonstration-pour-mathieu-van-der-poel-la-4e-etape-entre-amiens-et-rouen-en-questions_7362804.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Progression des audiences radio en France, avec RTL en hausse",
+      "source": "Le Monde",
+      "summary": "Les stations France Inter, Franceinfo, et Europe 1 voient leurs audiences augmenter, tandis que Ici, ex-France Bleu, connaît une baisse, avec RTL gagnant 100 000 auditeurs en un an.",
+      "link": "https://www.lemonde.fr/economie/article/2025/07/08/audiences-radio-france-inter-franceinfo-et-europe-1-progressent-ici-ex-france-bleu-a-la-peine_6619872_3234.html"
+    },
+    {
+      "title": "Incendie près de Narbonne couvre 1 450 hectares, entraînant la fermeture de l'A9",
+      "source": "Le Monde",
+      "summary": "Un incendie majeur près de Narbonne, avec l'intervention de 600 pompiers et aéronefs, progresse malgré les efforts, provoquant la fermeture de l'autoroute A9.",
+      "link": "https://www.lemonde.fr/planete/article/2025/07/07/pres-de-narbonne-un-feu-parcourt-1-000-hectares-entrainant-la-fermeture-de-l-autoroute-a9_6619676_3244.html"
+    },
+    {
+      "title": "Expositions scientifiques recommandées pour les vacances en France",
+      "source": "Le Monde",
+      "summary": "Une sélection d'expositions scientifiques à travers la France, de Morlaix à Nice, offre des activités éducatives pour accompagner les trajets estivaux.",
+      "link": "https://www.lemonde.fr/sciences/article/2025/07/08/les-expositions-scientifiques-a-voir-sur-le-chemin-des-vacances_6619832_1650684.html"
+    },
+    {
+      "title": "Festival d’Avignon : spectacle poétique autour d’une poupée en terre sculptée",
+      "source": "Le Monde",
+      "summary": "À la FabricA, le spectacle 'Laaroussa Quartet' de Selma et Sofiane Ouissi explore une création poétique inspirée d'une expérience avec des potières de Sejnane, lors du Festival d’Avignon.",
+      "link": "https://www.lemonde.fr/culture/article/2025/07/07/au-festival-d-avignon-laaroussa-quartet-creation-poetique-autour-d-une-poupee-en-terre-sculptee_6619662_3246.html"
+    },
+    {
+      "title": "Russie : première revendication de prise d'une localité dans la région de Dnipro",
+      "source": "Le Figaro",
+      "summary": "Les forces russes revendiquent la capture d'une localité dans la région de Dnipro, mais des doutes subsistent quant à la contrôle effective du village de Dachne, selon Kiev.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-russes-revendiquent-pour-la-premiere-fois-la-prise-d-une-localite-dans-la-region-de-dnipro-20250707"
+    },
+    {
+      "title": "Ministre russe des Transports meurt suspectement après son limogeage",
+      "source": "Le Figaro",
+      "summary": "Roman Vladimirovitch Starovoït, récemment limogé par Poutine, est décédé dans des circonstances suspectes, peu après avoir appris son éviction, selon des sources officielles.",
+      "link": "https://www.lefigaro.fr/international/russie-un-ministre-se-suicide-juste-apres-avoir-ete-demis-de-ses-fonctions-par-vladimir-poutine-20250707"
+    },
+    {
+      "title": "Note de police révèle étendue des activités criminelles de la 'Black Manjak Family'",
+      "source": "France Info",
+      "summary": "Une note policière dévoile l'implication de la 'Black Manjak Family' dans divers crimes, incluant enlèvements, homicides et trafic de drogues, notamment lors d'une évasion en 2024.",
+      "link": "https://www.franceinfo.fr/faits-divers/attaque-mortelle-d-un-fourgon-penitentiaire-dans-l-eure/info-franceinfo-enlevements-homicides-trafic-de-drogues-une-note-de-la-police-revele-l-etendue-des-activites-criminelles-de-la-black-manjak-family_7363368.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Conditions de détention de Rédoine Faïd jugées contraires à la dignité humaine",
+      "source": "France Info",
+      "summary": "Une juge d'application des peines déclare que la détention de Rédoine Faïd viole la dignité humaine, donnant trois semaines à l'administration pour remédier à la situation, en appel par le parquet de Béthune.",
+      "link": "https://www.franceinfo.fr/faits-divers/evasions/evasion-de-redoine-faid/les-conditions-de-detention-de-redoine-faid-sont-contraires-a-la-dignite-humaine-pour-une-juge-d-application-des-peines_7362885.html#xtor=RSS-3-[lestitres]"
+    }
+  ]
+}

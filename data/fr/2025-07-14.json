@@ -1,0 +1,66 @@
+{
+  "date": "2025-07-14",
+  "summary": "La journée s'inscrit sous le signe des tensions géopolitiques persistantes et des défis en matière de sécurité. Malgré la visite du Premier ministre israélien Netanyahou à Washington, aucun accord de cessez-le-feu n’a émergé concernant Gaza, laissant les familles israéliennes en attente et témoignant de l’impasse diplomatique actuelle. À l’Est de l’Europe, les États-Unis ont annoncé l’envoi de systèmes Patriot à l’Ukraine, marquant une nouvelle étape dans le soutien occidental face à la pression militaire russe, deux semaines après la suspension partielle des livraisons d’armes à Kiev. Cette dynamique sécuritaire s’est ressentie également en Ukraine avec la mort présumée de plusieurs agents russes suite à l’assassinat d’un colonel du renseignement ukrainien, indiquant l’intensification des conflits de l’ombre opérés dans la région.\n\nDans ce climat de fragilité, d’autres développements résonnent sur les continents africain et européen. La disparition de Muhammadu Buhari, ancien dirigeant militaire et ex-président du Nigeria, intervient alors que le pays continue de faire face à des défis de gouvernance et de sécurité. Parallèlement, au Cameroun, l’annonce de la candidature de Paul Biya pour un huitième mandat accentue les tensions institutionnelles, illustrant la longévité contestée de dirigeants en Afrique centrale. Sur le front domestique français, l’évasion spectaculaire d’un détenu fiché par Interpol à Lyon vient rappeler les vulnérabilités internes, au moment où la France met en avant sa capacité de dissuasion nucléaire avec des manœuvres sous-marines conjointes avec ses alliés. Les événements sportifs et les discussions linguistiques sur l’usage de « en » ou « à Avignon » ajoutent une note culturelle, ancrant la diversité de l’actualité. L’ensemble de ces évolutions met en lumière l’équilibre précaire entre sécurité, stabilité institutionnelle et aspirations sociales, à surveiller pour leurs potentielles répercussions globales et régionales.",
+  "headlines": [
+    {
+      "title": "Évasion d’un détenu à Lyon dans un sac de linge lors de sa libération",
+      "source": "Le Monde",
+      "summary": "Un détenu fiché par Interpol s’évade lors de sa libération en se dissimulant dans un sac de linge, soulevant des questions sur la sécurité carcérale.",
+      "link": "https://www.lemonde.fr/societe/article/2025/07/14/a-lyon-un-detenu-s-evade-de-prison-dans-le-sac-de-linge-d-un-homme-remis-en-liberte_6621055_3224.html"
+    },
+    {
+      "title": "Gaza : peu d’avancées après la visite de Netanyahou à Washington",
+      "source": "Le Monde",
+      "summary": "Malgré des annonces optimistes, la rencontre entre Netanyahu et Trump n’aboutit pas à un accord de cessez-le-feu, provoquant la colère des familles à Tel-Aviv.",
+      "link": "https://www.lemonde.fr/international/article/2025/07/13/cessez-le-feu-a-gaza-apres-la-visite-de-netanyahou-a-washington-beaucoup-d-effets-d-annonces-pour-tres-peu-d-avancees_6621020_3210.html"
+    },
+    {
+      "title": "Les États-Unis annoncent l’envoi de systèmes Patriot à l’Ukraine",
+      "source": "Le Monde",
+      "summary": "Donald Trump confirme l’envoi de systèmes antiaériens Patriot à l’Ukraine, deux semaines après la suspension partielle des livraisons d’armes à Kiev.",
+      "link": "https://www.lemonde.fr/international/live/2025/07/14/en-direct-guerre-en-ukraine-donald-trump-annonce-que-les-etats-unis-vont-envoyer-des-systemes-antiaeriens-patriot-a-l-ukraine_6620967_3210.html"
+    },
+    {
+      "title": "Décès de Muhammadu Buhari, ancien président du Nigeria, à 82 ans",
+      "source": "Le Monde",
+      "summary": "Militaire formé en Grande-Bretagne et aux États-Unis, Buhari a dirigé le Nigeria après un putsch en 1983 et a été élu président en 2015, jusqu’à sa mort.",
+      "link": "https://www.lemonde.fr/afrique/article/2025/07/13/muhammadu-buhari-ancien-president-du-nigeria-est-mort_6621047_3212.html"
+    },
+    {
+      "title": "Paul Biya annonce sa candidature pour un huitième mandat au Cameroun",
+      "source": "Le Monde",
+      "summary": "Après plusieurs défections dans son camp, le président camerounais, en poste depuis 42 ans, se déclare candidat à un nouveau mandat, suscitant des tensions politiques.",
+      "link": "https://www.lemonde.fr/afrique/article/2025/07/13/paul-biya-president-camerounais-depuis-42-ans-se-declare-candidat-pour-un-huitieme-mandat_6621050_3212.html"
+    },
+    {
+      "title": "Immersion d’une semaine dans un sous-marin nucléaire lors de manœuvres françaises",
+      "source": "Le Figaro",
+      "summary": "Le Figaro Magazine relate une immersion de sept jours avec l’équipage d’un sous-marin nucléaire d’attaque lors des grandes manœuvres en Atlantique menées par la France et ses alliés.",
+      "link": "https://www.lefigaro.fr/international/jeux-de-guerre-sept-jours-en-immersion-dans-un-sous-marin-nucleaire-en-pleine-simulation-20250714"
+    },
+    {
+      "title": "Agents russes présumés tués après l’assassinat d’un colonel du renseignement en Ukraine",
+      "source": "Le Figaro",
+      "summary": "Un colonel du renseignement ukrainien aurait été ciblé par une opération du FSB, entraînant la mort de plusieurs agents russes présumés après une traque de plusieurs jours.",
+      "link": "https://www.lefigaro.fr/flash-actu/ukraine-des-agents-russes-presumes-tues-apres-l-assassinat-d-un-colonel-du-renseignement-20250713"
+    },
+    {
+      "title": "Résumé sportif du week-end : football, tennis, rugby et plus",
+      "source": "France Info",
+      "summary": "Ce week-end, le football, le tennis, le rugby et d’autres sports ont offert de nombreux moments forts, avec des finales, des victoires et des performances remarquables.",
+      "link": "https://www.franceinfo.fr/sports/tennis-de-table/le-psg-ecrase-en-finale-par-chelsea-les-bleues-renversantes-contre-les-pays-bas-swiatek-et-sinner-sacres-le-recap-sport-du-week-end_7374688.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Tour de France 2025 : Merlier remporte la 9e étape, Pogacar en jaune",
+      "source": "France Info",
+      "summary": "Tim Merlier s’impose lors de la neuvième étape du Tour de France 2025, consolidant sa victoire, tandis que Pogacar maintient le maillot jaune en tête du classement.",
+      "link": "https://www.franceinfo.fr/tour-de-france/tour-de-france-2025-apres-un-show-de-mathieu-van-der-poel-tim-merlier-signe-une-deuxieme-victoire-dans-la-9e-etape-tadej-pogacar-reste-en-jaune_7374895.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Discussion sur l’usage correct de la préposition 'en' avec 'Avignon'",
+      "source": "Liberation",
+      "summary": "Une question linguistique sur l’usage de 'en' ou 'à' avant 'Avignon' suscite des débats parmi les festivaliers et linguistes, avec des avis divergents sur la règle correcte.",
+      "link": "https://www.liberation.fr/culture/scenes/ce-serait-mieux-si-les-gens-parlaient-correctement-doit-on-vraiment-dire-en-avignon-20250713_2NWWY3YWVVHCDEESYJNHYOYB4A/"
+    }
+  ]
+}

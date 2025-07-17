@@ -1,0 +1,54 @@
+{
+  "date": "2025-07-17",
+  "summary": "La journée internationale s'articule autour de la gestion des crises, tant naturelles que politiques, mettant en exergue la tension croissante entre gouvernance locale et pressions exogènes. À Marseille, les incendies récents suscitent une polémique sur l’efficacité de l’intervention des secours, les sinistrés appelant à une remise en question des protocoles, alors que le préfet défend vigoureusement la stratégie déployée. Ce débat sur la résilience et la capacité à gérer les catastrophes rejoint l’expérience dramatique de la Corée du Sud, où des pluies records attribuées au changement climatique provoquent des inondations sans précédent et de vastes mouvements d’évacuation, rappelant l’urgence d’adapter les politiques publiques aux nouveaux risques environnementaux.\n\nDans ce contexte d’instabilité, la situation sécuritaire au Moyen-Orient illustre la fragilité des équilibres internes face à des pressions militaires et identitaires. En Syrie, la ville druze de Soueïda devient le théâtre d’affrontements intenses qui contraignent le président al-Charaa à déléguer la sécurité à la minorité druze, tandis que les interventions israéliennes en réponse aux violences soulignent la complexité régionale et aggravent la vulnérabilité des communautés minoritaires. Parallèlement, la Commission européenne affiche une volonté de renforcer l'autonomie stratégique, en annonçant une hausse substantielle du budget dédié à la défense et à l'espace, tandis qu’en Nouvelle-Calédonie, les négociations autour du blocus de Saint-Louis témoignent de la difficulté à contenir les tensions sociales et politiques. Pris ensemble, ces événements mettent en lumière l’importance du renforcement institutionnel et de la coopération internationale pour atténuer les risques multiples qui pèsent sur la stabilité mondiale et la sécurité des populations.",
+  "headlines": [
+    {
+      "title": "Incendies à Marseille : victimes remettent en question la stratégie de lutte",
+      "source": "Le Monde",
+      "summary": "Une semaine après l'incendie à l'Estaque, les sinistrés critiquent la gestion des secours, tandis que le préfet défend ses choix.",
+      "link": "https://www.lemonde.fr/planete/article/2025/07/17/incendies-a-marseille-a-l-estaque-la-colere-et-les-questions-des-victimes-du-feu_6621671_3244.html"
+    },
+    {
+      "title": "Changement climatique provoque pluies record et inondations en Corée du Sud",
+      "source": "Le Monde",
+      "summary": "Des pluies exceptionnelles depuis 1904 entraînent des évacuations massives et d'importants dégâts dans la province de Chungcheong du Sud.",
+      "link": "https://www.lemonde.fr/climat/article/2025/07/17/coree-du-sud-pluies-record-et-inondations-historiques-en-raison-du-changement-climatique_6621688_1652612.html"
+    },
+    {
+      "title": "Israël bombarde Damas suite à des affrontements entre druzes et troupes syriennes",
+      "source": "Le Figaro",
+      "summary": "L'armée israélienne intervient dans la capitale syrienne et dans le sud du pays, suite à des combats ayant causé plusieurs centaines de morts.",
+      "link": "https://www.lefigaro.fr/international/en-reponse-a-des-affrontements-entre-druzes-et-troupes-syriennes-israel-bombarde-damas-20250716"
+    },
+    {
+      "title": "Les druzes, minorité du Moyen-Orient, victimes d'exactions en Syrie",
+      "source": "Le Figaro",
+      "summary": "Israël cible en Syrie la minorité druze, qui subit des pressions et violences de la part des forces gouvernementales syriennes.",
+      "link": "https://www.lefigaro.fr/international/qui-sont-les-druzes-minorite-du-moyen-orient-victime-d-exactions-en-syrie-20250716"
+    },
+    {
+      "title": "Syrie : le président al-Charaa confie la sécurité de Soueïda aux Druzes après violences",
+      "source": "France Info",
+      "summary": "Après quatre jours d'affrontements meurtriers, le président syrien transfère la responsabilité de la sécurité dans la ville de Soueïda aux Druzes.",
+      "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/direct-affrontements-en-syrie-le-president-al-charaa-transfere-aux-druzes-le-maintien-de-la-securite-dans-la-ville-de-soueida_7381975.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Bruxelles propose 131 milliards d'euros pour la défense et l'espace",
+      "source": "Le Monde",
+      "summary": "La Commission européenne prévoit un budget accru pour la défense et l'espace dans le cycle 2028-2034, avec une augmentation par rapport au précédent.",
+      "link": "https://www.lemonde.fr/economie/article/2025/07/16/bruxelles-promet-de-consacrer-131-milliards-d-euros-a-la-defense-et-a-l-espace_6621658_3234.html"
+    },
+    {
+      "title": "Négociations en Nouvelle-Calédonie autour du blocus de Saint-Louis",
+      "source": "Le Monde",
+      "summary": "Les tensions liées au blocus de Saint-Louis persistent lors de négociations, malgré des affrontements et des tirs, dans le contexte de protestations contre une réforme électorale.",
+      "link": "https://www.lemonde.fr/societe/article/2025/07/17/au-c-ur-des-emeutes-de-nouvelle-caledonie-des-jours-de-negociations-etouffantes-autour-du-blocus-de-saint-louis_6621667_3224.html"
+    },
+    {
+      "title": "Les affrontements à Sweida en Syrie fragilisent le pouvoir en place",
+      "source": "Liberation",
+      "summary": "Les combats à Sweida, région majoritairement druze, déstabilisent le régime syrien, avec un exode massif et des attaques israéliennes contre des sites militaires à Damas.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-syrie-les-affrontements-a-sweida-ebranlent-le-pouvoir-en-place-20250716_3HTIFWSFQVEOPFZ56IED6OEEGA/"
+    }
+  ]
+}

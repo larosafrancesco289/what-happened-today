@@ -1,0 +1,54 @@
+{
+  "date": "2025-07-21",
+  "summary": "La giornata si apre sotto il segno dell’interconnessione tra sicurezza – tanto informatica quanto geopolitica – e complessità dei processi decisionali in Europa. Un massiccio attacco hacker, che sfrutta una vulnerabilità nei sistemi Microsoft SharePoint, ha compromesso migliaia di server a livello planetario, evidenziando la vulnerabilità delle infrastrutture digitali anche presso attori istituzionali e grandi aziende, in un momento in cui la sensibilità sulla protezione dei dati è acuita dai riflessi delle tensioni globali. Su questa scia, il conflitto alle porte dell’Unione si riafferma con l’attacco russo a Kiev, costato vittime e danni tangibili, mentre Bruxelles accusa Mosca di condurre azioni ibride per minare l’autorevolezza istituzionale, in particolare nei confronti della presidente Von der Leyen. Emergono così connessioni tra conflitti militari, digitale e la stabilità stessa del progetto europeo.\n\nA consolidare il quadro di pressione sulle dinamiche europee si aggiungono temi di mobilità e fragilità degli spazi politici: quasi 500 migranti sono arrivati tra Lampedusa e la costa jonica, segnando la persistenza di flussi che impattano la tenuta dei sistemi ordinari e alimentano dibattiti sul governo dei flussi migratori. In parallelo, gli Stati Uniti fissano scadenze stringenti sul fronte dei dazi, costringendo l’Unione Europea a negoziare rapidamente e a prepararsi a possibili rotture commerciali, con ripercussioni sui mercati. In Italia, infine, le dinamiche interne – dalla richiesta del Pd di maggiori garanzie a Sala al caso giudiziario internazionale di Mirabella Costa, oltre alla scoperta di un corpo senza vita a Roma – riflettono quanto la gestione dell’ordine pubblico e delle istituzioni rimanga centrale. Nel complesso, questi sviluppi rafforzano la percezione di una crescente interdipendenza tra sicurezza, governance e coesione sociale, alimentando interrogativi sulla sostenibilità e resilienza dei sistemi europei nei prossimi mesi.",
+  "headlines": [
+    {
+      "title": "Il Pd supporta Sala con richieste di garanzie e cambiamenti politici",
+      "source": "ANSA",
+      "summary": "Il Partito Democratico sostiene il sindaco Sala, evidenziando la necessità di garanzie e di una svolta politica, con aggiornamenti sul nodo di San Siro.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2025/07/20/il-pd-sta-con-sala-ma-servono-garanzie-e-una-svolta_1adc4e23-3a6d-4a97-855b-6cfd57c19421.html"
+    },
+    {
+      "title": "Attacco hacker globale sfrutta vulnerabilità in sistemi Microsoft SharePoint",
+      "source": "ANSA",
+      "summary": "Un attacco informatico di portata mondiale utilizza una falla in Microsoft SharePoint, mettendo a rischio migliaia di server secondo esperti di sicurezza informatica.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/07/21/il-washington-post-attacco-hacker-globale-sfruttata-una-falla-in-microsoft_d25e105c-39b2-4b89-bf48-8bd6cc6eb0c5.html"
+    },
+    {
+      "title": "Quasi 500 migranti sbarcano a Lampedusa e sulla costa jonica italiana",
+      "source": "Rai News",
+      "summary": "Nelle ultime ore, circa 300 migranti arrivano a Lampedusa e oltre 100 sulla costa jonica, provenienti da Libia e altri paesi africani, con oltre 32.000 sbarcati dall'inizio dell'anno.",
+      "link": "https://www.rainews.it/articoli/2025/07/ieri-sbarcati-a-lampedusa-e-sulla-costa-jonica-quasi-500-migranti-aa8f1f6d-be84-4e26-9454-3885623ccda1.html"
+    },
+    {
+      "title": "Italiano detenuto ad Alligator Alcatraz chiede libertà in un appello",
+      "source": "ANSA",
+      "summary": "Mirabella Costa, detenuto negli Stati Uniti, chiede di essere liberato, descrivendo la sua condizione come un incubo in una situazione di detenzione di 32 persone.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/07/20/litaliano-detenuto-ad-alligator-alcatraz-fateci-uscire-da-questo-incubo_4f076114-9c06-4420-9829-d8c50f28b063.html"
+    },
+    {
+      "title": "Gli Stati Uniti fissano il 1° agosto come data vincolante per i dazi, l'UE cerca accordo",
+      "source": "ANSA",
+      "summary": "Gli USA stabiliscono il 1° agosto come termine per i dazi commerciali, mentre l'Unione Europea lavora per raggiungere un'intesa e prepararsi a eventuali rotture.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2025/07/20/gli-usa-il-primo-agosto-vincolante-sui-dazi.-lue-cerca-lintesa_e166f694-187a-47b2-8a7e-eb2701ae5202.html"
+    },
+    {
+      "title": "Kiev colpita da attacchi russi con droni e missili, un morto e feriti",
+      "source": "Rai News",
+      "summary": "Un attacco notturno russo a Kiev provoca un morto e due feriti, con incendi scoppiati su edifici non residenziali, secondo le autorità ucraine.",
+      "link": "https://www.rainews.it/video/2025/07/kiev-avvolta-dal-fumo-degli-incendi-dopo-lattacco-russo-con-droni-e-missili-3f75ae63-0577-4fe3-a1ef-9b28bb69ef3b.html"
+    },
+    {
+      "title": "L'UE accusa Mosca di fomentare sfiducia contro Von der Leyen",
+      "source": "ANSA",
+      "summary": "L'Unione Europea accusa la Russia di orchestrare azioni per minare la fiducia nella presidente Von der Leyen, con commenti di Vannacci sulla questione.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2025/07/20/lue-accusa-mosca-dietro-la-sfiducia-a-von-der-leyen_7958430d-2d74-4bd5-a03d-9b6fd58d389c.html"
+    },
+    {
+      "title": "Cadavere di donna trovato tra le sterpaglie a Roma, indagini in corso",
+      "source": "ANSA",
+      "summary": "Il corpo di una donna, morta presumibilmente da due settimane, viene rinvenuto tra le sterpaglie a Roma, con le autorità che avviano le indagini.",
+      "link": "https://www.ansa.it/lazio/notizie/2025/07/20/trovato-il-cadavere-di-una-donna-tra-le-sterpaglie-a-roma_d399b350-f3d4-43e6-9430-21ae5f75e4e9.html"
+    }
+  ]
+}

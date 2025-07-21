@@ -1,0 +1,66 @@
+{
+  "date": "2025-07-21",
+  "summary": "L'actualité du jour s'organise autour de la tension croissante entre exigences citoyennes et prise de décision politique, tant sur le plan national qu'international. En France, la contestation massive de la loi Duplomb par plus d’un million de signataires interpelle le Parlement, dont la réponse demeure incertaine, illustrant les défis posés par la mobilisation populaire à la légitimité institutionnelle. Parallèlement, la question migratoire divise la droite française, certains élus plaidant en faveur de l’immigration de travail, en décalage avec la posture présidentielle. Cette dynamique interne s’inscrit dans un contexte global où, à l’international, la France et l'Union européenne se préparent à reprendre des pourparlers avec l'Iran sur son programme nucléaire, tentant de réconcilier pression diplomatique et stratégie de dialogue dans une région fragile.\n\nDans ce climat, diverses crises et initiatives mettent en lumière les tensions sous-jacentes et les voies d’innovation. La cyberattaque contre Singapour, dont la Chine nie toute implication, accentue les préoccupations en matière de sécurité numérique, tandis qu’à Dakar, les militants environnementaux dénoncent les risques de l’exploitation des fonds marins, interpellant la communauté internationale sur la gestion durable des ressources. Sur un autre registre, l’annonce des remboursements fiscaux français pour l’été apaise temporairement les contribuables, tandis qu’en Syrie, l’instauration d’un cessez-le-feu à Sweida après une semaine de violences atteste de la fragilité des équilibres locaux. Enfin, l’organisation par Victor Wembanyama d’un tournoi mêlant basket et échecs ainsi que la victoire de Tim Wellens sur le Tour de France témoignent du rôle fédérateur du sport face à une actualité marquée par l’incertitude. Ces développements traduisent l’interdépendance croissante des enjeux locaux et internationaux, qu’il s’agisse de gouvernance, de sécurité ou d’innovation sociale, posant la question de l’adaptation des acteurs politiques et économiques face à des risques systémiques persistants.",
+  "headlines": [
+    {
+      "title": "Plus d’un million de signatures contre la loi Duplomb, débat parlementaire incertain",
+      "source": "Le Monde",
+      "summary": "Une pétition massive demande l'abrogation d'une loi sur les contraintes agricoles, mais son impact politique reste à définir lors de la prochaine session.",
+      "link": "https://www.lemonde.fr/politique/article/2025/07/21/plus-d-un-million-de-signatures-contre-la-loi-duplomb-une-petition-a-succes-mais-un-sort-politique-incertain_6622679_823448.html"
+    },
+    {
+      "title": "Victor Wembanyama organise un tournoi combinant basket et échecs à Chesnay-Rocquencourt",
+      "source": "Le Monde",
+      "summary": "Le basketteur français lance son premier tournoi mêlant ses deux passions, offrant une nouvelle expérience sportive et intellectuelle à ses fans locaux.",
+      "link": "https://www.lemonde.fr/sport/article/2025/07/21/victor-wembanyama-lance-son-tournoi-melant-basket-ball-et-jeu-d-echecs-c-est-difficile-de-me-mettre-dans-une-case_6622642_3242.html"
+    },
+    {
+      "title": "Certains élus de droite en France soutiennent l’immigration de travail, divergence avec le président",
+      "source": "Le Monde",
+      "summary": "Malgré le discours officiel, quelques membres du parti républicain prônent une politique d'immigration plus ouverte pour répondre aux besoins sectoriels.",
+      "link": "https://www.lemonde.fr/politique/article/2025/07/21/chez-les-republicains-quelques-rares-voix-plaident-pour-favoriser-l-immigration-de-travail_6622683_823448.html"
+    },
+    {
+      "title": "Nouvelles discussions sur le programme nucléaire iranien prévues vendredi avec l'Europe",
+      "source": "Le Figaro",
+      "summary": "Téhéran et l'Union européenne se rencontrent pour aborder le dossier nucléaire, alors que l'Iran dément toute intention de développer une arme atomique.",
+      "link": "https://www.lefigaro.fr/international/nucleaire-iranien-de-nouvelles-discussions-entre-teheran-et-les-europeens-vont-avoir-lieu-vendredi-20250721"
+    },
+    {
+      "title": "Incendie d’un Boeing 767-400 à Los Angeles après décollage, deuxième incident de l’année",
+      "source": "Le Figaro",
+      "summary": "Un avion de Delta Air Lines subit un feu moteur peu après son départ, marquant le deuxième incident de ce type pour la compagnie en 2025.",
+      "link": "https://www.lefigaro.fr/flash-actu/les-images-d-un-boeing-767-400-en-feu-apres-son-decollage-de-l-aeroport-de-los-angeles-20250721"
+    },
+    {
+      "title": "Les remboursements d’impôts pour trop-perçus seront effectués en juillet et août",
+      "source": "France Info",
+      "summary": "Des millions de contribuables recevront des virements de remboursement d’ici la fin de l’été, suite à des erreurs de prélèvements dans les années précédentes.",
+      "link": "https://www.franceinfo.fr/economie/impots/impots-les-remboursements-de-trop-percus-vont-etre-effectues-le-25-juillet-et-le-1er-aout_7371157.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Cyberattaque majeure à Singapour, la Chine nie toute implication",
+      "source": "France Info",
+      "summary": "Une cyberattaque grave cible Singapour, suscitant des inquiétudes sur la sécurité nationale, tandis que Pékin dément toute responsabilité dans l'incident.",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/singapour-victime-d-une-grave-cyberattaque-la-chine-nie-toute-implication_7388584.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Fin des combats à Sweida en Syrie, un cessez-le-feu déclaré par le gouvernement",
+      "source": "Liberation",
+      "summary": "Après une semaine de violences, Damas annonce la fin des hostilités à Sweida, bien que des affrontements intercommunautaires aient persisté.",
+      "link": "https://www.liberation.fr/international/moyen-orient/la-fin-dune-semaine-de-combats-sanglants-a-sweida-annoncee-par-le-gouvernement-syrien-20250720_KVSOVZAQLRFM7J43NSJNZJKO54/"
+    },
+    {
+      "title": "Tim Wellens remporte la 15e étape du Tour de France en solitaire après chute massive",
+      "source": "France 24",
+      "summary": "Le Belge Tim Wellens s’impose lors d’une étape marquée par une chute importante, décrochant sa première victoire sur cette édition du Tour.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20250721-belge-tim-wellens-remporte-en-solitaire-15e-%C3%A9tape-tour-de-france-sport-lois-boisson"
+    },
+    {
+      "title": "Militants environnementaux à Dakar alertent sur l’exploitation des fonds marins au Sénégal",
+      "source": "RFI",
+      "summary": "Des activistes organisent une opération de sensibilisation pour dénoncer les risques liés à l’exploitation minière des fonds marins, face à une discussion gouvernementale en cours.",
+      "link": "https://www.rfi.fr/fr/afrique/20250720-s%C3%A9n%C3%A9gal-op%C3%A9ration-de-sensibilisation-contre-l-exploitation-des-fonds-marins-%C3%A0-dakar"
+    }
+  ]
+}

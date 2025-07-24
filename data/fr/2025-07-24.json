@@ -1,0 +1,66 @@
+{
+  "date": "2025-07-24",
+  "summary": "La journée mondiale s'articule autour de la montée des tensions politiques et juridiques pesant sur des institutions majeures, tant au niveau national qu'international. La possible comparution de Rachida Dati pour corruption en 2026 polarise la scène politique parisienne, fragilisant sa stature au sein des Républicains à l'approche d'échéances municipales cruciales. En parallèle, la Cour internationale de justice se prononce unanimement en faveur de la responsabilité des États dans le respect de leurs obligations climatiques, ouvrant la voie à de potentielles réparations et plaçant l'État de droit et les engagements multilatéraux en première ligne dans la gouvernance mondiale. Sur le plan géopolitique, la réponse du Hamas à la proposition de trêve israélienne suscite des attentes, tandis qu'un vote majoritaire des députés israéliens réaffirme le soutien interne à l'annexion de la Cisjordanie, accentuant la complexité du conflit régional.\n\nDans ce contexte de tensions institutionnelles et de responsabilités croissantes, d'autres dynamiques soulignent la fragilité des équilibres nationaux et mondiaux. Le déficit historique des hôpitaux publics français révèle une crise structurelle persistante dans le secteur de la santé, tandis qu'une étude confirme la présence de dioxyde de titane dans le lait maternel et animal malgré son interdiction, soulevant des interrogations sur l'efficacité des politiques de santé publique. Sur le plan international, les affrontements meurtriers à la frontière thaïlando-cambodgienne illustrent la vulnérabilité des régions frontalières aux dérapages violents. Enfin, dans le domaine technologique, la proposition de Donald Trump d'affranchir le développement de l'intelligence artificielle des contraintes réglementaires met en lumière la rivalité croissante pour le leadership numérique et ses possibles conséquences globales. L'ensemble de ces évolutions confirme la prégnance des défis systémiques auxquels États et sociétés doivent répondre pour préserver la stabilité, la confiance institutionnelle et l’équilibre des marchés.",
+  "headlines": [
+    {
+      "title": "Sélection hebdomadaire de livres avec lettres de femmes à Casanova",
+      "source": "Le Monde",
+      "summary": "La rédaction propose cette semaine des ouvrages incluant des lettres de femmes adressées à Casanova, enrichissant la perspective littéraire et historique.",
+      "link": "https://www.lemonde.fr/livres/article/2025/07/24/notre-selection-de-livres-cette-semaine-un-voyage-en-or-remy-de-gourmont-comment-ecrivent-les-ecrivains_6623276_3260.html"
+    },
+    {
+      "title": "Procès de Rachida Dati complique la scène politique parisienne",
+      "source": "Le Monde",
+      "summary": "La possible comparution de la ministre de la Culture pour corruption en 2026 pourrait influencer la campagne municipale à Paris et affaiblir sa position dans Les Républicains.",
+      "link": "https://www.lemonde.fr/politique/article/2025/07/24/le-renvoi-de-rachida-dati-devant-le-tribunal-correctionnel-complique-la-donne-politique-a-paris_6623314_823448.html"
+    },
+    {
+      "title": "Tour de France 2025 : victoire de Jonathan Milan au sprint malgré chute",
+      "source": "France Info",
+      "summary": "Le sprinteur italien remporte la 17e étape sous la pluie à Valence, évitant une chute, et confirme sa deuxième victoire de l'événement dans un groupe restreint.",
+      "link": "https://www.franceinfo.fr/tour-de-france/videos/video-tour-de-france-2025-le-resume-de-la-17e-etape-remportee-au-sprint-par-le-maillot-vert-jonathan-milan-malgre-une-chute-apres-la-flamme-rouge_7394626.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Cour internationale de justice ouvre la voie aux réparations climatiques",
+      "source": "Le Monde",
+      "summary": "Un avis unanime de la Cour internationale de justice indique que les États violant leurs obligations climatiques peuvent être tenus responsables et faire face à des réparations.",
+      "link": "https://www.lemonde.fr/planete/article/2025/07/24/la-cour-internationale-de-justice-ouvre-la-voie-aux-reparations-climatiques_6623318_3244.html"
+    },
+    {
+      "title": "Gaza : Hamas confirme sa réponse à la proposition de cessez-le-feu israélienne",
+      "source": "Le Figaro",
+      "summary": "Les négociations pour une trêve impliquent la libération d'otages israéliens contre des prisonniers palestiniens, avec la réponse du Hamas à la proposition israélienne confirmée.",
+      "link": "https://www.lefigaro.fr/international/gaza-le-hamas-confirme-avoir-soumis-sa-reponse-a-la-proposition-israelienne-de-cessez-le-feu-20250724"
+    },
+    {
+      "title": "Majorité de députés israéliens favorables à l'annexion de la Cisjordanie",
+      "source": "Le Figaro",
+      "summary": "Un vote non contraignant montre un soutien important à l'idée d'annexer la Cisjordanie, territoire occupé depuis 1967 avec une population de colons israéliens.",
+      "link": "https://www.lefigaro.fr/international/une-majorite-de-deputes-israeliens-votent-un-appel-a-l-annexion-de-la-cisjordanie-occupee-20250723"
+    },
+    {
+      "title": "Déficit record dans les hôpitaux publics en 2024, selon la Drees",
+      "source": "Le Figaro",
+      "summary": "Les pertes financières des hôpitaux publics ont atteint entre 2,7 et 2,9 milliards d'euros en 2024, dépassant le déficit de 2023, selon une estimation initiale.",
+      "link": "https://www.lefigaro.fr/social/hopitaux-publics-deficit-record-en-2024-selon-l-administration-20250724"
+    },
+    {
+      "title": "Présence de dioxyde de titane dans le lait maternel et animal, malgré interdiction",
+      "source": "Liberation",
+      "summary": "Une étude révèle la présence de dioxyde de titane, suspecté cancérigène, dans du lait commercialisé et chez les femmes allaitantes, malgré son interdiction comme additif alimentaire.",
+      "link": "https://www.liberation.fr/societe/sante/du-dioxyde-de-titane-interdit-comme-additif-alimentaire-largement-retrouve-dans-du-lait-maternel-et-animal-20250723_HQSGXOBZHFAZPDEXORY2VW5RJM/"
+    },
+    {
+      "title": "Conflits à la frontière Thaïlande-Cambodge : un civil tué",
+      "source": "France 24",
+      "summary": "Des affrontements violents à la frontière entre la Thaïlande et le Cambodge ont causé la mort d'un civil thaïlandais, avec des responsabilités contestées entre les deux pays.",
+      "link": "https://www.france24.com/fr/info-en-continu/20250724-nouveaux-affrontements-%C3%A0-la-fronti%C3%A8re-tha%C3%AFlande-cambodge-3-civils-bless%C3%A9s"
+    },
+    {
+      "title": "Trump propose un plan pour une IA américaine sans régulation stricte",
+      "source": "France 24",
+      "summary": "L'ancien président américain annonce une stratégie pour développer une intelligence artificielle dérégulée, visant à renforcer la domination technologique des États-Unis.",
+      "link": "https://www.france24.com/fr/info-en-continu/20250723-trump-sacre-sans-r%C3%A9serve-l-ia-d%C3%A9r%C3%A9gul%C3%A9e-pour-parvenir-%C3%A0-une-domination-am%C3%A9ricaine"
+    }
+  ]
+}

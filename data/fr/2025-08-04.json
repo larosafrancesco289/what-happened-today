@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-04",
+  "summary": "La journée a été marquée par une intensification notable des tensions internationales, catalysée par la guerre persistante en Ukraine. Alors que le président américain évoque un ultimatum au président Poutine, soulignant un possible tournant décisif dans les dix jours à venir, l'escalade militaire prend une dimension supplémentaire avec le déploiement de sous-marins nucléaires par Donald Trump en réaction aux déclarations de Dmitri Medvedev. Simultanément, la communauté internationale exprime une rare unité dans la condamnation de la diffusion de vidéos d’otages à Gaza et dans la demande de corridors humanitaires, révélant la vulnérabilité croissante de l’ordre international face à la succession de crises et à l’imbrication des réponses diplomatiques et sécuritaires.\n\nDans ce contexte de tensions mondiales et d’incertitudes, plusieurs événements structurent aussi le climat social et environnemental. Sur le plan humanitaire, l’appel de Nétanyahou à la Croix-Rouge pour nourrir les otages met en lumière les défis persistants à Gaza, tandis que la mémoire des tragédies passées renaît à travers l’impact du manga \"Gen\" de Keiji Nakazawa, rappelant la souffrance de Hiroshima et la quête d’espoir. Parallèlement, l’Europe fait face à des crises immédiates : incendie dévastateur en Dordogne, canicule exceptionnelle en Espagne et au Portugal exacerbant les risques d’incendies. Enfin, des sujets de société émergent, comme l’engouement pour les maillots de bain menstruels, accompagné de préoccupations environnementales. Pris ensemble, ces développements soulignent à quel point la stabilité mondiale dépend aujourd’hui de la capacité des États et sociétés à concilier impératifs sécuritaires, mémoire collective et résilience face aux mutations climatiques et sociétales.",
+  "headlines": [
+    {
+      "title": "Pauline Ferrand-Prévot remporte le Tour de France après triomphe olympique",
+      "source": "Le Monde",
+      "summary": "La cycliste française de 33 ans revient au cyclisme sur route et gagne la dernière étape du Tour, complétant sa carrière avec ce titre majeur.",
+      "link": "https://www.lemonde.fr/sport/article/2025/08/03/le-pari-gagne-de-pauline-ferrand-prevot-vainqueure-du-tour-de-france-un-an-apres-son-triomphe-olympique_6626436_3242.html"
+    },
+    {
+      "title": "Guerre en Ukraine : dernières informations en temps réel",
+      "source": "Le Monde",
+      "summary": "Le président américain évoque un déplacement prévu la semaine prochaine et un ultimatum à Poutine pour mettre fin au conflit, avec une échéance dans dix jours.",
+      "link": "https://www.lemonde.fr/international/live/2025/08/04/en-direct-guerre-en-ukraine-les-dernieres-informations_6626390_3210.html"
+    },
+    {
+      "title": "Manga 'Gen' de Keiji Nakazawa évoque la souffrance d'Hiroshima",
+      "source": "Le Monde",
+      "summary": "Ce manga emblématique, dessiné par un survivant de Hiroshima, transmet la douleur et l'espoir des victimes de la première bombe atomique en 1945.",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2025/08/04/gen-le-heros-de-manga-qui-porte-la-souffrance-et-l-espoir-des-survivants-d-hiroshima_6626443_3451060.html"
+    },
+    {
+      "title": "Tensions accrues entre Trump et Poutine sur la guerre en Ukraine",
+      "source": "Le Figaro",
+      "summary": "En réponse aux provocations de Medvedev, Trump déploie deux sous-marins nucléaires dans des régions stratégiques, intensifiant la tension internationale.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-tension-monte-entre-donald-trump-et-vladimir-poutine-20250803"
+    },
+    {
+      "title": "Public ému à Châtel après victoire de Ferrand-Prévot au Tour de France femmes",
+      "source": "France Info",
+      "summary": "La championne française, participant pour la première fois, est acclamée par le public lors de la dernière étape qu'elle remporte avec brio.",
+      "link": "https://www.franceinfo.fr/tour-de-france/femmes/les-yeux-etaient-humides-c-est-tellement-beau-a-chatel-le-public-aux-anges-apres-la-victoire-de-pauline-ferrand-prevot-sur-le-tour-de-france-femmes_7417117.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Incendie en Dordogne : plus de 300 veaux morts dans un élevage à Teillots",
+      "source": "France Info",
+      "summary": "Un incendie dans un élevage de Dordogne a causé la mort de plusieurs centaines de veaux, plusieurs animaux ont été brûlés vifs dans le sinistre.",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/dordogne-plus-de-300-veaux-morts-apres-un-incendie-dans-un-elevage-a-teillots_7417084.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Condamnations internationales après vidéos d'otages à Gaza",
+      "source": "France Info",
+      "summary": "Après la diffusion de vidéos montrant des otages affaiblis, Macron et d'autres leaders européens dénoncent la cruauté du Hamas et appellent à des actions concrètes.",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/paris-berlin-l-union-europeenne-apres-la-publication-par-le-hamas-de-videos-des-otages-affaiblis-a-gaza-les-condamnations-se-multiplient_7415755.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Maillots de bain menstruels : pratiques mais polluants",
+      "source": "Liberation",
+      "summary": "De plus en plus de marques proposent des maillots adaptés aux règles, mais certains contiennent des polluants persistants, soulevant des questions environnementales.",
+      "link": "https://www.liberation.fr/lifestyle/mode/les-maillots-de-bain-se-mettent-a-la-plage-des-regles-20250804_N2YLVXV4BJGJTG6DLLSQZCZJWY/"
+    },
+    {
+      "title": "Nétanyahou sollicite la Croix-Rouge pour nourrir les otages à Gaza",
+      "source": "Liberation",
+      "summary": "Le Premier ministre israélien demande l'aide de la Croix-Rouge pour fournir de la nourriture aux otages détenus par le Hamas, conditionnée à l'ouverture de couloirs humanitaires.",
+      "link": "https://www.liberation.fr/international/moyen-orient/nos-otages-sont-systematiquement-affames-netanyahou-demande-laide-de-la-croix-rouge-pour-fournir-de-la-nourriture-aux-otages-israeliens-a-gaza-20250803_Y4LMMUBV4VAL3E5LWBQWHRS7CE/"
+    },
+    {
+      "title": "Vague de chaleur extrême en Espagne et Portugal, risques d'incendies",
+      "source": "Liberation",
+      "summary": "Une nouvelle canicule entraîne des températures jusqu'à 42°C, avec des alertes pour incendies dans plusieurs régions d'Espagne et du Portugal.",
+      "link": "https://www.liberation.fr/international/europe/une-nouvelle-vague-de-chaleur-intense-sinstalle-en-espagne-et-au-portugal-jusqua-42-c-attendus-avec-des-forts-risques-dincendies-20250803_TXV67MXIWJEK5KXX4GMEMUYCUM/"
+    }
+  ]
+}

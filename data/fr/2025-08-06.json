@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-06",
+  "summary": "La journée s'organise autour de la question croissante de la sécurité, tant sur le plan géopolitique qu'économique. Les secteurs européens de l’acier et de l’aluminium font face à l’incertitude alors que de nouvelles négociations s’ouvrent pour alléger les droits de douane imposés par les États-Unis, faisant écho à la fragilité des alliances commerciales transatlantiques. En parallèle, la sécurité régionale au Moyen-Orient demeure volatile : alors que le Liban annonce un accord prévoyant le désarmement du Hezbollah d’ici la fin de l’année, Israël débat ouvertement d’une possible occupation complète de Gaza, en dépit des pressions du Conseil de sécurité de l’ONU sur la question des otages. Ces discussions soulignent des dynamiques où la recherche de stabilité politique croise des enjeux liés à la souveraineté et à la résilience institutionnelle.\n\nDans ce contexte de vulnérabilité et d’adaptation, plusieurs crises illustrent la nécessité de répondre à des menaces croisées. La Lituanie, confrontée à la découverte d’un drone explosif russe, sollicite l’OTAN pour renforcer sa défense aérienne, accentuant l’attention portée à la sécurité aux frontières orientales de l’Europe en pleine recrudescence des tensions avec la Russie. Par ailleurs, la multiplication des vagues de chaleur et des incendies extrêmes en France et en Espagne, exacerbée par une pénurie de moyens de lutte, met en lumière les conséquences directes du dérèglement climatique—phénomène qui pèse déjà lourdement sur la mortalité et les infrastructures. L’ensemble de ces dynamiques met en exergue la nécessité d’approches concertées, aussi bien face à la volatilité géopolitique que devant les chocs climatiques, pour préserver la stabilité des marchés et la résilience des sociétés.",
+  "headlines": [
+    {
+      "title": "L’acier et l’aluminium européens confrontés à des droits de douane américains",
+      "source": "Le Monde",
+      "summary": "Les secteurs européens de l’acier et de l’aluminium, déjà en difficulté, attendent de nouvelles négociations pour réduire les taxes douanières américaines.",
+      "link": "https://www.lemonde.fr/economie/article/2025/08/06/l-acier-et-l-aluminium-europeens-plonges-dans-le-brouillard-commercial_6626960_3234.html"
+    },
+    {
+      "title": "Liban prévoit de désarmer le Hezbollah d’ici la fin de l’année selon un accord",
+      "source": "France Info",
+      "summary": "Un accord de cessez-le-feu limite le port d’armes à six organismes militaires et sécuritaires, visant à désarmer le Hezbollah au Liban d’ici la fin de l’année.",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/liban/le-liban-prevoit-de-desarmer-le-hezbollah-d-ici-la-fin-de-l-annee_7419715.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Israël envisage une occupation totale de Gaza, selon plusieurs médias",
+      "source": "France Info",
+      "summary": "Le gouvernement israélien discute d’une possible conquête complète de Gaza, en pleine session du Conseil de sécurité de l’ONU sur la situation des otages.",
+      "link": "https://www.franceinfo.fr/monde/israel/guerre-a-gaza-vers-une-occupation-totale-de-l-enclave-palestinienne-par-israel_7419634.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Résumé des événements du 5 août : Trump, Zelensky, opération à Gaza et barrière de corail",
+      "source": "Liberation",
+      "summary": "Les principales actualités du 5 août incluent des discussions entre Trump et Zelensky, une opération israélienne à Gaza, et la blanchiment de la Grande Barrière de corail.",
+      "link": "https://www.liberation.fr/international/europe/trump-et-zelensky-sentretiennent-au-telephone-benyamin-netanyahou-souhaite-une-operation-de-grande-ampleur-a-gaza-la-grande-barriere-de-corail-blanchit-lactu-de-ce-mardi-5-aout-20250805_6CWWE73N6ZHVJD773ULBOHPX4E/"
+    },
+    {
+      "title": "Incendie en Aude : une personne décédée, reprise des opérations de lutte",
+      "source": "Le Monde",
+      "summary": "Un incendie majeur à Ribaute a détruit plus de 11 000 hectares, avec une personne morte et plusieurs blessés, alors que les bombardiers d’eau ont repris leur intervention.",
+      "link": "https://www.lemonde.fr/planete/live/2025/08/06/en-direct-incendie-dans-l-aude-une-personne-est-morte-les-rotations-des-bombardiers-d-eau-ont-repris-mercredi-matin_6626879_3244.html"
+    },
+    {
+      "title": "Hausse de la mortalité liée aux canicules en Espagne, selon surveillance",
+      "source": "Le Monde",
+      "summary": "La mortalité en Espagne a augmenté de plus de 50 % durant la période de canicule entre mi-mai et début août, en raison des températures extrêmes.",
+      "link": "https://www.lemonde.fr/planete/article/2025/08/06/en-espagne-confrontee-a-une-nouvelle-vague-de-chaleur-la-mortalite-attribuee-aux-canicules-en-forte-hausse_6626956_3244.html"
+    },
+    {
+      "title": "Tour de France Femmes : la santé des coureuses demeure peu étudiée",
+      "source": "Le Monde",
+      "summary": "Le cyclisme féminin souffre d’un manque d’attention médicale concernant les spécificités anatomiques et hormonales des coureuses professionnelles.",
+      "link": "https://www.lemonde.fr/sport/article/2025/08/05/tour-de-france-femmes-la-sante-des-coureuses-reste-un-angle-mort-medical_6626852_3242.html"
+    },
+    {
+      "title": "Incendies en Aude : pénurie de Canadairs face à des feux d’intensité extrême",
+      "source": "Le Figaro",
+      "summary": "Les feux dans le massif des Corbières ont parcouru plus de 11 000 hectares, illustrant la pénurie de Canadairs face à des incendies d’une intensité exceptionnelle.",
+      "link": "https://www.lefigaro.fr/actualite-france/ce-sont-des-arbitrages-les-feux-de-marseille-et-de-l-aude-rappellent-la-penurie-de-canadair-20250709"
+    },
+    {
+      "title": "Lituanie sollicite l’OTAN après la découverte d’un drone explosif russe",
+      "source": "Le Figaro",
+      "summary": "Un drone chargé d’explosifs, probablement entré depuis la Biélorussie, a été retrouvé en Lituanie, incitant le pays à demander une assistance de l’OTAN pour sa défense aérienne.",
+      "link": "https://www.lefigaro.fr/international/la-lituanie-appelle-l-otan-a-l-aide-pour-sa-defense-aerienne-apres-la-decouverte-sur-son-sol-d-un-drone-explosif-russe-20250805"
+    },
+    {
+      "title": "Vague de chaleur : températures extrêmes à venir en cartes cette semaine",
+      "source": "Le Figaro",
+      "summary": "Une vague de chaleur s’étend dans le sud de la France, avec des températures extrêmes à visualiser heure par heure grâce à une carte interactive.",
+      "link": "https://www.lefigaro.fr/meteo/canicule-visualisez-les-temperatures-extremes-a-venir-cette-semaine-en-cartes-20250804"
+    }
+  ]
+}

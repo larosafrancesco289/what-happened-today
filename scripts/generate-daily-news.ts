@@ -31,9 +31,9 @@ function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: strin
 async function runPipeline(languageCode: string = 'en') {
   try {
     // Dynamically import modules AFTER env is loaded so OpenAI client picks up the correct key
-    const { fetchAllNews, deduplicateArticles } = await import('../src/lib/news-fetcher.ts');
-    const { filterAndRankArticles, generateHeadlines, generateDailySummary } = await import('../src/lib/openai.ts');
-    const { getDateString, saveDailyNews } = await import('../src/lib/utils.ts');
+    const { fetchAllNews, deduplicateArticles } = await import('../src/lib/news-fetcher');
+    const { filterAndRankArticles, generateHeadlines, generateDailySummary } = await import('../src/lib/openai');
+    const { getDateString, saveDailyNews } = await import('../src/lib/utils');
 
     console.log(`Starting daily news pipeline for language: ${languageCode}...`);
     

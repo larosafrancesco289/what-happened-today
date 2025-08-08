@@ -1,66 +1,66 @@
 {
   "date": "2025-08-08",
-  "summary": "Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.",
+  "summary": "Washington's tentative diplomacy with Moscow — centred on the possibility of direct talks between former President Trump and President Putin — looks unlikely to yield a rapid end to the war in Ukraine, as Kremlin preconditions and battlefield realities stall ceasefire prospects and amplify civilian suffering. That stalemate is reverberating through global energy and alliance politics: proposed U.S. tariff threats over India’s continued purchases of Russian oil have strained a key bilateral relationship even as Europe and South Asia recalibrate supplies, and domestic economic policy shifts in a prospective Trump administration — including proposals to expand private equity in retirement accounts — would alter investment flows and market resilience should the conflict widen or sanctions intensify. Together these threads underscore how geopolitical impasses and U.S. policy choices are reshaping risk across markets and partnerships.\n\nAgainst this backdrop, domestic governance and societal debates expose parallel strains on institutions and public trust. In public health, CDC data showing ultraprocessed foods account for more than half the U.S. diet, coinciding with political initiatives to reshape nutrition policy, and RFK Jr.'s bid to withdraw $500 million in mRNA vaccine funding have provoked expert warnings about preparedness for respiratory outbreaks, underscoring tensions between political priority-setting and long-term resilience. In separate spheres, authorities in Kashmir moved to ban several books and raided shops, raising free-expression concerns that contrast with educational efforts elsewhere, where Hiroshima survivors’ testimonies are being translated into student art to preserve memory. High-profile legal and safety episodes — a California jury’s $50 million verdict against Starbucks, a trial probing alleged attempted poisonings, and Ghana’s recovery of helicopter black boxes — further highlight demands for accountability and transparent inquiries. Together, these developments signal mounting pressure on governance, markets and social cohesion globally.",
   "headlines": [
     {
-      "title": "Netanyahu divides Israelis and allies with plan for new military push in Gaza",
+      "title": "Trump-Putin talks unlikely to end Ukraine war quickly",
       "source": "BBC World",
-      "summary": "The Israeli PM's proposals have provoked condemnation from the UK and the UN...",
-      "link": "https://www.bbc.com/news/articles/cj4w2q9k4pjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Why Trump-Putin talks unlikely to bring rapid end to Ukraine war",
-      "source": "BBC World",
-      "summary": "Even with Trump's direct involvement, Moscow's preconditions for a ceasefire in Ukraine make a swift ending to the bloodshed difficult to reach....",
+      "summary": "Even with possible involvement by Trump, Moscow's preconditions stall a rapid ceasefire, prolonging the conflict and magnifying civilian harm while diplomacy stalls.",
       "link": "https://www.bbc.com/news/articles/c14gkkzvpx8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Mushroom murderer tried to kill husband with pasta, cookies and curry, court was told",
+      "title": "Ultraprocessed foods constitute more than half of US diet",
+      "source": "Al Jazeera English",
+      "summary": "The CDC finding coincides with Kennedy's presidential plan to promote healthier eating and broader policy shifts under Trump, highlighting nutrition policy debates.",
+      "link": "https://www.aljazeera.com/news/2025/8/7/cdc-reports-ultraprocessed-foods-comprise-more-than-half-of-the-us-diet?traffic_source=rss"
+    },
+    {
+      "title": "Police raid shops after India imposes Kashmir book ban",
+      "source": "Deutsche Welle",
+      "summary": "Authorities ban works by notable authors, including Arundhati Roy, accusing publications of inciting secessionism and misguiding youth in the region.",
+      "link": "https://www.dw.com/en/kashmir-police-raid-shops-after-india-imposed-book-ban/a-73563365?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "title": "Trump opens door for private equity in retirement plans",
+      "source": "NPR News",
+      "summary": "The policy could expand investment choices for retirement funds while raising concerns about risk concentration, fees, and transparency for savers.",
+      "link": "https://www.npr.org/2025/08/08/nx-s1-5490047/trump-opens-the-door-for-private-equity-in-retirement-plans"
+    },
+    {
+      "title": "California jury fines Starbucks $50 million for spilled drink",
+      "source": "Voice of America",
+      "summary": "The incident caused severe burns; the verdict anchors accountability claims, though Starbucks plans to appeal and maintains safety standards in stores.",
+      "link": "https://www.voanews.com/a/8011572.html"
+    },
+    {
+      "title": "Mushroom murderer allegedly tried to kill husband with pasta and curry",
       "source": "BBC World",
-      "summary": "One alleged attempt left Simon Patterson in a coma, with his family twice told to say their goodbyes....",
+      "summary": "The court hears details of multiple suspected attempts, including a coma-inducing episode, as the defense recounts the alleged plot in court.",
       "link": "https://www.bbc.com/news/articles/cwy3ngr2n3vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US offers $50m reward for arrest of Venezuelan leader Nicolás Maduro",
+      "title": "Ghana finds helicopter black boxes from crash that killed two ministers",
       "source": "BBC World",
-      "summary": "A reward for information leading to the capture of Maduro, who the US accuses of drug trafficking, has been doubled....",
-      "link": "https://www.bbc.com/news/articles/cwy1wn1x521o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ghana promises full investigation into helicopter crash which killed two ministers",
-      "source": "BBC World",
-      "summary": "The flight data and cockpit voice recorders have been retrieved from the site of the crash which killed two ministers....",
+      "summary": "Mahama pledges comprehensive inquiry into the crash, tracing chain of events and determining accountability, amid calls for transparency and public answers to families.",
       "link": "https://www.bbc.com/news/articles/cq68911m1d5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cacio e pepe: Good Food pasta recipe sparks fury in Italy",
+      "title": "New tariffs strain Trump-Modi ties over Indian oil from Russia",
       "source": "BBC World",
-      "summary": "\"Whoever uses cream does not know what cooking means!\" said one Rome café owner....",
-      "link": "https://www.bbc.com/news/articles/crkz2jv51kmo?at_medium=RSS&at_campaign=rss"
+      "summary": "Tariff threats and public rhetoric raise concerns about the stability of India-U.S. relations amid energy markets and regional influence globally.",
+      "link": "https://www.bbc.com/news/articles/c15lqe7v302o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Heartbreaking search for missing children after India flash floods",
+      "title": "RFK Jr moves to pull mRNA vaccine funding",
       "source": "BBC World",
-      "summary": "Veer Singh and Kali Devi were away buying groceries when flash floods hit their village on Tuesday....",
-      "link": "https://www.bbc.com/news/videos/c4gzky0yjn0o?at_medium=RSS&at_campaign=rss"
+      "summary": "Health experts debate whether halting $500 million in vaccine funding jeopardizes preparedness for flu and Covid, amid political lobbying and public health concerns.",
+      "link": "https://www.bbc.com/news/articles/cly75p9yd67o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump calls for Intel boss to resign immediately, alleging China ties",
+      "title": "Hiroshima survivor stories inspire students to create art",
       "source": "BBC World",
-      "summary": "The unusual demand adds to challenges facing the firm, which has been seen as falling behind in the chip race....",
-      "link": "https://www.bbc.com/news/articles/c70x6602pdyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Convicted rapist quits Australian parliament after losing legal bid to stay",
-      "source": "BBC World",
-      "summary": "Gareth Ward was convicted of rape last month but refused to resign from his electorate....",
-      "link": "https://www.bbc.com/news/articles/c939yjdl432o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Crocs shares slump as US shoppers rein in spending",
-      "source": "BBC World",
-      "summary": "The firms says it expects revenue for the three months to the end of August to fall by about 10% compared with last year....",
-      "link": "https://www.bbc.com/news/articles/cd0dl333e0go?at_medium=RSS&at_campaign=rss"
+      "summary": "Students describe emotional difficulty translating survivors' accounts into artwork, while preserving historical memory and educating peers as part of school program collaborations.",
+      "link": "https://www.bbc.com/news/videos/c3dpk8gd1kdo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

@@ -1,14 +1,22 @@
 #!/usr/bin/env node
 
 // Ensure environment variables are loaded before any other imports
-import 'dotenv/config';
+import fs from 'fs';
+import path from 'path';
+import dotenv from 'dotenv';
+
+// Prefer .env.local (Next.js convention) and fallback to .env
+const envLocalPath = path.join(process.cwd(), '.env.local');
+if (fs.existsSync(envLocalPath)) {
+  // Ensure local file values override any shell-exported vars (useful when a stale OPENAI_API_KEY is exported)
+  dotenv.config({ path: envLocalPath, override: true });
+} else {
+  dotenv.config({ override: true });
+}
 
 // Standalone script to generate daily news for GitHub Actions
-// This script imports the necessary functions and runs the pipeline directly
-
-import { fetchAllNews, deduplicateArticles } from '../src/lib/news-fetcher.js';
-import { filterAndRankArticles, generateHeadlines, generateDailySummary } from '../src/lib/openai.js';
-import { getDateString, saveDailyNews } from '../src/lib/utils.js';
+// IMPORTANT: We dynamically import dependencies AFTER loading env so the correct
+// OPENAI_API_KEY from .env.local is used when initializing the OpenAI client.
 
 // Helper function to add timeout to promises
 function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: string): Promise<T> {
@@ -20,9 +28,12 @@ function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: strin
   ]);
 }
 
-// Import required modules
 async function runPipeline(languageCode: string = 'en') {
   try {
+    // Dynamically import modules AFTER env is loaded so OpenAI client picks up the correct key
+    const { fetchAllNews, deduplicateArticles } = await import('../src/lib/news-fetcher.ts');
+    const { filterAndRankArticles, generateHeadlines, generateDailySummary } = await import('../src/lib/openai.ts');
+    const { getDateString, saveDailyNews } = await import('../src/lib/utils.ts');
 
     console.log(`Starting daily news pipeline for language: ${languageCode}...`);
     

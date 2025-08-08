@@ -2,9 +2,9 @@ import OpenAI from 'openai';
 import type { ProcessedArticle, NewsHeadline } from '@/types/news';
 
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-  timeout: 90000, // 90 second timeout
-  maxRetries: 2, // Retry failed requests up to 2 times
+  apiKey: process.env.OPENAI_API_KEY?.trim(),
+  timeout: 90000,
+  maxRetries: 2,
 });
 
 // Helper function to retry operations with exponential backoff
@@ -321,29 +321,31 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
     const response = await withRetry(() => openai.responses.create({
       model: 'gpt-5-nano',
       input: prompt,
-      temperature: 0.3,
-      response_format: {
-        type: "json_schema",
-        json_schema: {
+      text: {
+        format: {
+          type: "json_schema",
           name: "article_analysis",
+          strict: true,
           schema: {
-            type: "object",
-            properties: {
-              analyses: {
-                type: "array",
-                items: {
-                  type: "object",
-                  properties: {
-                    index: { type: "integer" },
-                    relevanceScore: { type: "integer", minimum: 0, maximum: 10 },
-                    isRelevant: { type: "boolean" },
-                    reason: { type: "string" }
-                  },
-                  required: ["index", "relevanceScore", "isRelevant", "reason"]
+              type: "object",
+              additionalProperties: false,
+              properties: {
+                analyses: {
+                  type: "array",
+                  items: {
+                    type: "object",
+                    additionalProperties: false,
+                    properties: {
+                      index: { type: "integer" },
+                      relevanceScore: { type: "integer", minimum: 0, maximum: 10 },
+                      isRelevant: { type: "boolean" },
+                      reason: { type: "string" }
+                    },
+                    required: ["index", "relevanceScore", "isRelevant", "reason"]
+                  }
                 }
-              }
-            },
-            required: ["analyses"]
+              },
+              required: ["analyses"]
           }
         }
       }
@@ -377,29 +379,31 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
     const response = await withRetry(() => openai.responses.create({
       model: 'gpt-5-nano',
       input: prompt,
-      temperature: 0.3,
-      response_format: {
-        type: "json_schema",
-        json_schema: {
+      text: {
+        format: {
+          type: "json_schema",
           name: "headlines_generation",
+          strict: true,
           schema: {
-            type: "object",
-            properties: {
-              headlines: {
-                type: "array",
-                items: {
-                  type: "object",
-                  properties: {
-                    title: { type: "string" },
-                    source: { type: "string" },
-                    summary: { type: "string" },
-                    link: { type: "string" }
-                  },
-                  required: ["title", "source", "summary", "link"]
+              type: "object",
+              additionalProperties: false,
+              properties: {
+                headlines: {
+                  type: "array",
+                  items: {
+                    type: "object",
+                    additionalProperties: false,
+                    properties: {
+                      title: { type: "string" },
+                      source: { type: "string" },
+                      summary: { type: "string" },
+                      link: { type: "string" }
+                    },
+                    required: ["title", "source", "summary", "link"]
+                  }
                 }
-              }
-            },
-            required: ["headlines"]
+              },
+              required: ["headlines"]
           }
         }
       }
@@ -433,19 +437,21 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     const response = await withRetry(() => openai.responses.create({
       model: 'gpt-5',
       input: prompt,
-      response_format: {
-        type: "json_schema",
-        json_schema: {
+      text: {
+        format: {
+          type: "json_schema",
           name: "daily_summary",
+          strict: true,
           schema: {
-            type: "object",
-            properties: {
-              summary: { 
-                type: "string",
-                description: "Two well-connected paragraphs separated by \\n\\n"
-              }
-            },
-            required: ["summary"]
+              type: "object",
+              additionalProperties: false,
+              properties: {
+                summary: {
+                  type: "string",
+                  description: "Two well-connected paragraphs separated by \\n\\n"
+                }
+              },
+              required: ["summary"]
           }
         }
       }

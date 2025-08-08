@@ -4,15 +4,33 @@ import { cleanText } from './utils';
 import type { RSSFeedItem, ProcessedArticle } from '@/types/news';
 
 const parser = new Parser({
-  timeout: 10000,
-  headers: {
-    'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
+  requestOptions: {
+    timeout: 10000,
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (compatible; WhatHappenedTodayBot/1.0; +https://github.com/franklarosa/what-happened-today)',
+      'Accept': 'application/rss+xml, application/xml;q=0.9, */*;q=0.8',
+    },
   },
 });
 
 export async function fetchRSSFeed(feedUrl: string, sourceName: string): Promise<RSSFeedItem[]> {
   try {
-    const feed = await parser.parseURL(feedUrl);
+    // Prefetch with Node's fetch to better handle status codes and content-type
+    const response = await fetch(feedUrl, {
+      redirect: 'follow',
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; WhatHappenedTodayBot/1.0; +https://github.com/franklarosa/what-happened-today)',
+        'Accept': 'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7',
+        'Accept-Language': 'en-US,en;q=0.9',
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(`Status code ${response.status}`);
+    }
+
+    const xml = await response.text();
+    const feed = await parser.parseString(xml);
     
     return (feed.items || []).map((item: Parser.Item) => ({
       title: cleanText(item.title || ''),

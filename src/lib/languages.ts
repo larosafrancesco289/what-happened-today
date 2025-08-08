@@ -36,12 +36,12 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<string, RSSFeed[]> = {
   en: [
     {
       name: 'Reuters',
-      url: 'http://feeds.reuters.com/reuters/topNews',
+      url: 'https://www.reuters.com/world/rss',
       description: 'Global wire - Fast, factual wire copy; minimal clickbait'
     },
     {
       name: 'Associated Press',
-      url: 'https://apnews.com/index.rss',
+      url: 'https://apnews.com/hub/ap-top-news?utm_source=apnews.com&utm_medium=referral&utm_campaign=rss&output=atom',
       description: 'Global wire #2 - AP "Top News" stream; broad geographic mix'
     },
     {
@@ -81,7 +81,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<string, RSSFeed[]> = {
     },
     {
       name: 'Voice of America',
-      url: 'https://www.voanews.com/api/z$-mqeqt$qti',
+      url: 'https://www.voanews.com/api/epiqq',
       description: 'US-funded world news - VOA adds US foreign-policy lens'
     }
   ],
@@ -135,7 +135,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<string, RSSFeed[]> = {
     },
     {
       name: 'Les Echos',
-      url: 'https://www.lesechos.fr/rss/monde.xml',
+      url: 'https://www.lesechos.fr/rss/rss_ue.xml',
       description: 'Quotidien économique; actualité internationale sous l\'angle économique'
     },
     {

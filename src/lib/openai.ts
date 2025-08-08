@@ -434,8 +434,9 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     : 'Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.';
 
   try {
+    const apiStart = Date.now();
     const response = await withRetry(() => openai.responses.create({
-      model: 'gpt-5',
+      model: 'gpt-5-mini',
       input: prompt,
       text: {
         format: {
@@ -456,6 +457,8 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
         }
       }
     } as unknown as Parameters<typeof openai.responses.create>[0]));
+    const apiMs = Date.now() - apiStart;
+    console.log(`generateDailySummary: OpenAI response time ${apiMs} ms`);
 
     const result = JSON.parse((response as { output_text?: string }).output_text || '{"summary":"Unable to generate summary."}');
     return result.summary || fallbackSummary;

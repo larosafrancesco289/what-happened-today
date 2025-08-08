@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+// Ensure environment variables are loaded before any other imports
+import 'dotenv/config';
+
 // Standalone script to generate daily news for GitHub Actions
 // This script imports the necessary functions and runs the pipeline directly
 

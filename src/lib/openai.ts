@@ -318,9 +318,9 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
   const prompt = prompts.filterPrompt(articles);
 
   try {
-    const response = await withRetry(() => openai.chat.completions.create({
-      model: 'gpt-4.1-nano',
-      messages: [{ role: 'user', content: prompt }],
+    const response = await withRetry(() => openai.responses.create({
+      model: 'gpt-5-nano',
+      input: prompt,
       temperature: 0.3,
       response_format: {
         type: "json_schema",
@@ -347,9 +347,9 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
           }
         }
       }
-    }));
+    } as unknown as Parameters<typeof openai.responses.create>[0]));
 
-    const result = JSON.parse(response.choices[0].message.content || '{"analyses":[]}');
+    const result = JSON.parse((response as { output_text?: string }).output_text || '{"analyses":[]}');
     
     return articles
       .map((article, index) => {
@@ -374,9 +374,9 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
   const prompt = prompts.headlinesPrompt(articles);
 
   try {
-    const response = await withRetry(() => openai.chat.completions.create({
-      model: 'gpt-4.1-nano',
-      messages: [{ role: 'user', content: prompt }],
+    const response = await withRetry(() => openai.responses.create({
+      model: 'gpt-5-nano',
+      input: prompt,
       temperature: 0.3,
       response_format: {
         type: "json_schema",
@@ -403,9 +403,9 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
           }
         }
       }
-    }));
+    } as unknown as Parameters<typeof openai.responses.create>[0]));
 
-    const result = JSON.parse(response.choices[0].message.content || '{"headlines":[]}');
+    const result = JSON.parse((response as { output_text?: string }).output_text || '{"headlines":[]}');
     return result.headlines || [];
   } catch (error) {
     console.error('Error generating headlines:', error);
@@ -430,9 +430,9 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     : 'Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.';
 
   try {
-    const response = await withRetry(() => openai.chat.completions.create({
-      model: 'gpt-4.1',
-      messages: [{ role: 'user', content: prompt }],
+    const response = await withRetry(() => openai.responses.create({
+      model: 'gpt-5',
+      input: prompt,
       response_format: {
         type: "json_schema",
         json_schema: {
@@ -449,9 +449,9 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
           }
         }
       }
-    }));
+    } as unknown as Parameters<typeof openai.responses.create>[0]));
 
-    const result = JSON.parse(response.choices[0].message.content || '{"summary":"Unable to generate summary."}');
+    const result = JSON.parse((response as { output_text?: string }).output_text || '{"summary":"Unable to generate summary."}');
     return result.summary || fallbackSummary;
   } catch (error) {
     console.error('Error generating summary:', error);

@@ -26,15 +26,15 @@ export default function DateNavigation({ currentDate, hasNextDate = false }: Dat
         {/* Previous Date */}
         <Link
           href={`/${previousDate}`}
-          className="group flex items-center gap-3 px-4 lg:px-6 py-3 lg:py-4 bg-white/90 dark:bg-slate-800/90 glass border border-slate-200/60 dark:border-slate-700/60 rounded-2xl hover:bg-white/95 dark:hover:bg-slate-800/95 hover:border-slate-300/80 dark:hover:border-slate-600/80 hover:shadow-xl hover:shadow-slate-200/20 dark:hover:shadow-slate-900/40 transition-all duration-300 ease-out hover:scale-105 active:scale-95"
+          className="focus-outline group flex items-center gap-3 px-4 lg:px-6 py-3 lg:py-4 bg-panel-light/90 dark:bg-panel-dark/90 glass border border-border-light/60 dark:border-border-dark/60 rounded-xl hover:bg-panel-light/95 dark:hover:bg-panel-dark/95 hover:border-border-light dark:hover:border-border-dark hover:shadow-card dark:hover:shadow-cardDark transition-all duration-300 ease-out hover:scale-105 active:scale-95"
         >
-          <ChevronLeftIcon className="w-5 h-5 text-slate-400 dark:text-slate-500 group-hover:text-slate-600 dark:group-hover:text-slate-300 transition-colors" />
+          <ChevronLeftIcon className="w-5 h-5 text-subtle-light dark:text-subtle-dark group-hover:text-text-light dark:group-hover:text-text-dark transition-colors" />
           <div className="text-left hidden sm:block">
-            <div className="text-xs text-slate-500 dark:text-slate-400 uppercase tracking-wide font-medium">{t.navigation.previousDay}</div>
-            <div className="font-semibold text-slate-900 dark:text-slate-100 group-hover:text-slate-700 dark:group-hover:text-slate-200 transition-colors">{formatDate(previousDate, currentLanguage.code)}</div>
+            <div className="text-xs text-subtle-light dark:text-subtle-dark uppercase tracking-wide font-medium">{t.navigation.previousDay}</div>
+            <div className="font-semibold text-text-light dark:text-text-dark group-hover:text-text-light dark:group-hover:text-text-dark transition-colors">{formatDate(previousDate, currentLanguage.code)}</div>
           </div>
           <div className="text-left sm:hidden">
-            <div className="font-semibold text-sm text-slate-900 dark:text-slate-100">{t.navigation.previousDay}</div>
+            <div className="font-semibold text-sm text-text-light dark:text-text-dark">{t.navigation.previousDay}</div>
           </div>
         </Link>
 
@@ -42,9 +42,9 @@ export default function DateNavigation({ currentDate, hasNextDate = false }: Dat
         {!isToday && (
           <Link
             href="/"
-            className="group relative px-6 lg:px-8 py-3 lg:py-4 bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-500 dark:to-indigo-500 text-white rounded-2xl hover:from-blue-700 hover:to-indigo-700 dark:hover:from-blue-600 dark:hover:to-indigo-600 transition-all duration-300 ease-out font-semibold hover:scale-105 active:scale-95 hover:shadow-xl hover:shadow-blue-200/30 dark:hover:shadow-blue-900/30 overflow-hidden"
+            className="group relative px-6 lg:px-8 py-3 lg:py-4 bg-accent-light dark:bg-accent-dark text-text-light dark:text-text-dark rounded-xl transition-all duration-300 ease-out font-semibold hover:scale-105 active:scale-95 shadow-card dark:shadow-cardDark border border-border-light dark:border-border-dark"
           >
-            <div className="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+            <div className="absolute inset-0 rounded-xl bg-accent2-light/10 dark:bg-accent2-dark/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             <span className="relative">{t.navigation.today}</span>
           </Link>
         )}
@@ -53,16 +53,16 @@ export default function DateNavigation({ currentDate, hasNextDate = false }: Dat
         {hasNextDate && (
           <Link
             href={`/${nextDate}`}
-            className="group flex items-center gap-3 px-4 lg:px-6 py-3 lg:py-4 bg-white/90 dark:bg-slate-800/90 glass border border-slate-200/60 dark:border-slate-700/60 rounded-2xl hover:bg-white/95 dark:hover:bg-slate-800/95 hover:border-slate-300/80 dark:hover:border-slate-600/80 hover:shadow-xl hover:shadow-slate-200/20 dark:hover:shadow-slate-900/40 transition-all duration-300 ease-out hover:scale-105 active:scale-95"
+            className="focus-outline group flex items-center gap-3 px-4 lg:px-6 py-3 lg:py-4 bg-panel-light/90 dark:bg-panel-dark/90 glass border border-border-light/60 dark:border-border-dark/60 rounded-xl hover:bg-panel-light/95 dark:hover:bg-panel-dark/95 hover:border-border-light dark:hover:border-border-dark hover:shadow-card dark:hover:shadow-cardDark transition-all duration-300 ease-out hover:scale-105 active:scale-95"
           >
             <div className="text-right hidden sm:block">
-              <div className="text-xs text-slate-500 dark:text-slate-400 uppercase tracking-wide font-medium">{t.navigation.nextDay}</div>
-              <div className="font-semibold text-slate-900 dark:text-slate-100 group-hover:text-slate-700 dark:group-hover:text-slate-200 transition-colors">{formatDate(nextDate, currentLanguage.code)}</div>
+              <div className="text-xs text-subtle-light dark:text-subtle-dark uppercase tracking-wide font-medium">{t.navigation.nextDay}</div>
+              <div className="font-semibold text-text-light dark:text-text-dark transition-colors">{formatDate(nextDate, currentLanguage.code)}</div>
             </div>
             <div className="text-right sm:hidden">
-              <div className="font-semibold text-sm text-slate-900 dark:text-slate-100">{t.navigation.nextDay}</div>
+              <div className="font-semibold text-sm text-text-light dark:text-text-dark">{t.navigation.nextDay}</div>
             </div>
-            <ChevronRightIcon className="w-5 h-5 text-slate-400 dark:text-slate-500 group-hover:text-slate-600 dark:group-hover:text-slate-300 transition-colors" />
+            <ChevronRightIcon className="w-5 h-5 text-subtle-light dark:text-subtle-dark group-hover:text-text-light dark:group-hover:text-text-dark transition-colors" />
           </Link>
         )}
 

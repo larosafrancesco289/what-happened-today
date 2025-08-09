@@ -65,11 +65,11 @@ export default function DatePage({ params }: DatePageProps) {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
+      <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
         <AppHeader />
         <div className="max-w-4xl mx-auto px-4 py-16 text-center">
           <LoadingSpinner />
-          <p className="mt-4 text-slate-600 dark:text-slate-300">{t.common.loading}</p>
+          <p className="mt-4 text-subtle-light dark:text-subtle-dark">{t.common.loading}</p>
         </div>
       </div>
     );
@@ -77,18 +77,18 @@ export default function DatePage({ params }: DatePageProps) {
 
   if (error) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
+      <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
         <AppHeader />
         <div className="max-w-4xl mx-auto px-4 py-16 text-center">
           <h1 className="text-4xl font-bold text-gradient mb-6">
             {t.summary.title}
           </h1>
-          <p className="text-xl text-red-600 dark:text-red-400 mb-8">
+          <p className="text-xl text-accent2-light dark:text-accent2-dark mb-8">
             {error}
           </p>
           <button
             onClick={() => window.location.reload()}
-            className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+            className="px-6 py-3 bg-accent-light text-text-light rounded-xl hover:opacity-90 transition-colors border border-border-light"
           >
             {t.common.retry}
           </button>
@@ -99,19 +99,19 @@ export default function DatePage({ params }: DatePageProps) {
 
   if (!data) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
+      <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
         <AppHeader />
         <div className="max-w-4xl mx-auto px-4 py-16 text-center">
           <h1 className="text-4xl font-bold text-gradient mb-6">
             {t.summary.noSummaryTitle}
           </h1>
-          <p className="text-xl text-slate-600 dark:text-slate-300 mb-8">
+          <p className="text-xl text-subtle-light dark:text-subtle-dark mb-8">
             {currentLanguage.code === 'it' 
               ? `Nessun riassunto disponibile per ${date}.`
               : `No summary available for ${date}.`
             }
           </p>
-          <p className="text-slate-500 dark:text-slate-400">
+          <p className="text-subtle-light dark:text-subtle-dark">
             {currentLanguage.code === 'it'
               ? 'Questa data potrebbe non essere stata ancora elaborata o potrebbe non esistere.'
               : 'This date may not have been processed yet or may not exist.'
@@ -130,7 +130,7 @@ export default function DatePage({ params }: DatePageProps) {
   const hasNextDate = nextDateString <= today;
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
+    <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
       <AppHeader />
       <NewsSummary data={data} />
       <DateNavigation currentDate={date} hasNextDate={hasNextDate} />

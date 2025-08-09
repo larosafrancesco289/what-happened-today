@@ -37,8 +37,9 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     const initialTheme = getInitialTheme();
     setTheme(initialTheme);
     
-    // Apply theme using data-theme attribute for Tailwind v4
+    // Apply theme to root: set data-theme and toggle class for Tailwind darkMode: 'class'
     document.documentElement.setAttribute('data-theme', initialTheme);
+    document.documentElement.classList.toggle('dark', initialTheme === 'dark');
     
     // Enable transitions after a brief delay
     const timer = setTimeout(() => {
@@ -55,8 +56,9 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     // Save to localStorage
     localStorage.setItem('theme', newTheme);
     
-    // Apply theme using data-theme attribute
+    // Apply theme to root: set data-theme and toggle class for Tailwind darkMode: 'class'
     document.documentElement.setAttribute('data-theme', newTheme);
+    document.documentElement.classList.toggle('dark', newTheme === 'dark');
   };
 
   // Prevent hydration mismatch

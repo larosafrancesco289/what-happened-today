@@ -14,7 +14,7 @@ export default function ThemeToggle() {
   // Don't render anything until mounted to avoid hydration mismatch
   if (!mounted) {
     return (
-      <div className="h-12 w-12 rounded-2xl bg-white/90 dark:bg-slate-800/90 glass border border-slate-200/60 dark:border-slate-700/60 animate-pulse" />
+      <div className="h-12 w-12 rounded-xl bg-panel-light/90 dark:bg-panel-dark/90 glass border border-border-light/60 dark:border-border-dark/60 animate-pulse" />
     );
   }
 
@@ -27,13 +27,13 @@ function ThemeToggleClient() {
   return (
     <button
       onClick={toggleTheme}
-      className="group relative inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-white/90 dark:bg-slate-800/90 glass border border-slate-200/60 dark:border-slate-700/60 hover:border-slate-300/80 dark:hover:border-slate-600/80 hover:bg-white/95 dark:hover:bg-slate-800/95 transition-all duration-300 ease-out hover:scale-105 active:scale-95 hover:shadow-lg hover:shadow-slate-200/20 dark:hover:shadow-slate-900/40"
+      className="focus-outline group relative inline-flex h-12 w-12 items-center justify-center rounded-xl bg-panel-light/90 dark:bg-panel-dark/90 glass border border-border-light/60 dark:border-border-dark/60 hover:bg-panel-light dark:hover:bg-panel-dark transition-all duration-300 ease-out hover:scale-105 active:scale-95 hover:shadow-card dark:hover:shadow-cardDark"
       aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
     >
       <div className="relative">
         {/* Sun Icon */}
         <SunIcon 
-          className={`h-5 w-5 text-amber-500 transition-all duration-300 ease-out ${
+          className={`h-5 w-5 text-accent-light transition-all duration-300 ease-out ${
             theme === 'dark' 
               ? 'opacity-0 scale-0 rotate-90' 
               : 'opacity-100 scale-100 rotate-0'
@@ -42,7 +42,7 @@ function ThemeToggleClient() {
         
         {/* Moon Icon */}
         <MoonIcon 
-          className={`absolute inset-0 h-5 w-5 text-indigo-500 dark:text-blue-400 transition-all duration-300 ease-out ${
+          className={`absolute inset-0 h-5 w-5 text-accent2-light dark:text-accent2-dark transition-all duration-300 ease-out ${
             theme === 'light' 
               ? 'opacity-0 scale-0 -rotate-90' 
               : 'opacity-100 scale-100 rotate-0'
@@ -51,7 +51,7 @@ function ThemeToggleClient() {
       </div>
       
       {/* Hover glow effect */}
-      <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-amber-400/10 to-orange-400/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 dark:from-blue-400/10 dark:to-indigo-400/10" />
+      <div className="absolute inset-0 rounded-xl bg-accent-light/10 dark:bg-accent-dark/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
     </button>
   );
 } 

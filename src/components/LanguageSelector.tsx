@@ -13,7 +13,7 @@ export default function LanguageSelector() {
     <div className="relative">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white transition-colors rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800"
+        className="focus-outline flex items-center gap-2 px-3 py-2 text-sm font-medium text-subtle-light dark:text-subtle-dark hover:text-text-light dark:hover:text-text-dark transition-colors rounded-xl hover:bg-muted-light dark:hover:bg-muted-dark"
         aria-label="Select language"
       >
         <GlobeAltIcon className="h-4 w-4" />
@@ -32,7 +32,7 @@ export default function LanguageSelector() {
           />
           
           {/* Dropdown */}
-          <div className="absolute right-0 mt-2 w-48 bg-white dark:bg-slate-800 rounded-lg shadow-lg border border-slate-200 dark:border-slate-700 z-20">
+          <div className="absolute right-0 mt-2 w-48 bg-panel-light dark:bg-panel-dark rounded-xl shadow-card dark:shadow-cardDark border border-border-light dark:border-border-dark z-20">
             <div className="py-1">
               {SUPPORTED_LANGUAGES.map((language) => (
                 <button
@@ -41,17 +41,17 @@ export default function LanguageSelector() {
                     setLanguage(language.code);
                     setIsOpen(false);
                   }}
-                  className={`w-full text-left px-4 py-2 text-sm hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors ${
+                  className={`focus-outline w-full text-left px-4 py-2 text-sm hover:bg-muted-light dark:hover:bg-muted-dark transition-colors ${
                     currentLanguage.code === language.code 
-                      ? 'bg-blue-50 dark:bg-blue-900/20 text-blue-600 dark:text-blue-400' 
-                      : 'text-slate-700 dark:text-slate-300'
+                      ? 'bg-accent-light/10 dark:bg-accent-dark/10 text-text-light dark:text-text-dark' 
+                      : 'text-subtle-light dark:text-subtle-dark'
                   }`}
                 >
                   <div className="flex items-center gap-3">
                     <span className="text-lg">{language.flag}</span>
                     <div>
-                      <div className="font-medium">{language.nativeName}</div>
-                      <div className="text-xs text-slate-500 dark:text-slate-400">{language.name}</div>
+                      <div className="font-medium text-text-light dark:text-text-dark">{language.nativeName}</div>
+                      <div className="text-xs text-subtle-light dark:text-subtle-dark">{language.name}</div>
                     </div>
                   </div>
                 </button>

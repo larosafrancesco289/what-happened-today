@@ -1,0 +1,60 @@
+{
+  "date": "2025-08-09",
+  "summary": "La dynamique la plus saillante de la journée est la montée en puissance de l'action israélienne contre Gaza et les frictions diplomatiques qu'elle suscite. Le gouvernement Netanyahou a détaillé un plan qui vise à reprendre le contrôle du territoire, démanteler le Hamas et accélérer la libération des otages, une stratégie qui a provoqué une vague de condamnations internationales tout en laissant certains partenaires hésitants. Dans ce contexte, l'Allemagne a annoncé la suspension provisoire de ses exportations d'armement, signalant une rupture dans le consensus occidental et mettant en lumière les dilemmes que pose le soutien matériel face aux impératifs humanitaires. Ces développements révèlent une double réalité : une intensification militaire sur le terrain et une recomposition des alignements diplomatiques, avec des alliés tentant de concilier pression politique, opinion publique et obligations stratégiques.\n\nEn parallèle, d'autres signes mettent en relief la fragilité des cadres institutionnels et symboliques qui soutiennent l'ordre public et la coopération internationale. La relation entre Donald Trump et Vladimir Poutine, testée par la guerre en Ukraine mais que le président américain semble vouloir préserver, illustre comment des liens bilatéraux peuvent influencer les réponses collectives aux crises régionales. À l'intérieur, la contestation par la fille des circonstances du feu dans l'Aude et les réactions mitigées au remaniement en RDC signalent des tensions autour de responsabilité et de représentativité, tandis que le sursis infligé pour un geste devant le Soldat inconnu et la projection restaurée de Chronique des années de braise soulignent la concurrence entre mémoire et politique culturelle. Soulignant ces tendances, la canicule qui gagne la France et le retour imminent de l'équipage Crew‑10 rappellent que risques climatiques et collaborations scientifiques continuent de façonner priorités nationales et marchés; ensemble, ces événements nuancent l'évaluation des risques pour la stabilité régionale et économique.",
+  "headlines": [
+    {
+      "title": "Israël intensifie son action à Gaza face à l’opposition internationale",
+      "source": "Le Monde",
+      "summary": "La communauté internationale condamne l’escalade, alors que certains pays restent réticents et que l’Allemagne suspend ses exportations d’armes jusqu’à nouvel ordre.",
+      "link": "https://www.lemonde.fr/international/article/2025/08/09/l-escalade-militaire-d-israel-a-gaza-une-erreur-tres-mauvaise-nouvelle-rejet-categorique-indignations-quasi-unanimes-de-l-europe-aux-pays-arabes_6627570_3210.html"
+    },
+    {
+      "title": "Trump et Poutine entretiennent une relation particulière en diplomatie contemporaine",
+      "source": "Le Figaro",
+      "summary": "Leur proximité a été mise à l’épreuve par la guerre en Ukraine, mais le président américain paraît prêt à maintenir son lien avec le Kremlin.",
+      "link": "https://www.lefigaro.fr/international/trump-et-poutine-l-une-des-plus-etranges-relations-de-la-diplomatie-contemporaine-20250807"
+    },
+    {
+      "title": "La fille conteste la version du maire sur l’incendie de l’Aude",
+      "source": "France Info",
+      "summary": "Selon elle, les pompiers auraient conseillé de ne pas quitter le domicile, contredisant les déclarations officielles et ajoutant des doutes sur les circonstances du décès.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-meurtrier-dans-l-aude/incendie-dans-l-aude-la-fille-de-la-victime-decedee-dans-les-flammes-contredit-la-version-du-maire_7425382.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Chronique des années de braise revient en salle restaurée",
+      "source": "France 24",
+      "summary": "Le titre évoque l’unique Palme d’or africaine; le film est projeté en version restaurée, avec l’invité Malick Lakhdar Hamina à l’écran.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20250808-chroniques-des-ann%C3%A9es-de-braise-l-unique-palme-d-or-africaine-revient-en-salle"
+    },
+    {
+      "title": "Canicule: 28 départements en vigilance orange puis 40",
+      "source": "Le Monde",
+      "summary": "Météo-France prévoit une hausse des températures, marquant le début d’un épisode caniculaire, coïncidant avec le week-end et le trafic sur les routes.",
+      "link": "https://www.lemonde.fr/planete/article/2025/08/09/canicule-28-departements-du-sud-en-vigilance-orange-samedi-midi-puis-40-departements-dimanche_6627430_3245.html"
+    },
+    {
+      "title": "Retour sur Terre imminent pour Crew-10 après cinq mois dans l’ISS",
+      "source": "Le Monde",
+      "summary": "La capsule Dragon va amerrir au large de la côte ouest américain, ramenant deux astronautes et des cosmonautes après leur mission.",
+      "link": "https://www.lemonde.fr/sciences/article/2025/08/09/retour-sur-terre-pour-l-equipage-crew-10-apres-cinq-mois-dans-l-iss_6627572_1650684.html"
+    },
+    {
+      "title": "Remaniement du gouvernement en RDC accueille des réactions mitigées",
+      "source": "RFI",
+      "summary": "L’entrée de deux opposants et la présence d’un tiers des femmes divisent les observateurs, tandis que le président Tshisekedi affirme une évolution des soutiens.",
+      "link": "https://www.rfi.fr/fr/afrique/20250808-rdc-le-gouvernement-suminwa-remani%C3%A9-par-le-pr%C3%A9sident-tshisekedi-re%C3%A7oit-un-accueil-mitig%C3%A9"
+    },
+    {
+      "title": "Sursis de trois mois pour cigarette près du Soldat inconnu",
+      "source": "Le Monde",
+      "summary": "Le geste est qualifié d’indigne par le ministre, et la peine vise à préserver la mémoire des morts pour la France.",
+      "link": "https://www.lemonde.fr/societe/article/2025/08/08/trois-mois-de-prison-avec-sursis-pour-l-homme-qui-avait-allume-sa-cigarette-avec-la-flamme-du-soldat-inconnu_6627560_3224.html"
+    },
+    {
+      "title": "Israël se prépare à prendre le contrôle de Gaza",
+      "source": "Le Figaro",
+      "summary": "Le plan du gouvernement Netanyahou, dénoncé internationalement, prévoit le démantèlement du Hamas et la remise des otages, suscitant une large condamnation.",
+      "link": "https://www.lefigaro.fr/international/en-direct-israel-se-prepare-a-prendre-le-controle-de-la-ville-de-gaza-paris-condamne-le-plan-du-gouvernement-de-netanyahou-20250809"
+    }
+  ]
+}

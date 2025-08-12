@@ -2,7 +2,7 @@
 
 A daily, AI generated summary of global news that prioritizes clarity and neutrality.
 
-Visit the site: `https://what-happened-today.vercel.app`
+Visit the site: [what-happened-today.vercel.app](https://what-happened-today.vercel.app)
 
 ### Why
 

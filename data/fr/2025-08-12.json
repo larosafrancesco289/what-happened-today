@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-12",
+  "summary": "La reconfiguration des relations internationales et économiques domine l’actualité : Washington a prolongé une trêve commerciale de 90 jours avec Pékin tout en consolidant des barrières tarifaires, via un décret fixant des droits de douane à 30 % côté américain et 10 % côté chinois, et en imposant un prélèvement fédéral de 15 % sur certaines livraisons de puces Nvidia vers la Chine. Dans ce cadre, la démarche illustre l’équilibre délicat entre gestion des tensions commerciales et protection des chaînes d’approvisionnement technologiques. En parallèle, sur la scène diplomatique, l’annonce d’un possible sommet entre les États‑Unis et la Russie et les propos de Donald Trump évoquant des échanges territoriaux pour mettre fin au conflit ukrainien complexifient la donne, mêlant pressions économiques et manœuvres politiques qui redessinent les lignes d’engagement global.\n\nEn miroir, des tensions plus prosaïques mais tout aussi structurantes émergent au niveau local et sociétal : en France, la mise en examen de Rachida Dati pour corruption et trafic d’influence, l’agression d’un maire en Isère et le ras‑le‑bol face à la transformation de quartiers par le tourisme parisien dessinent une vie civique sous pression et une gouvernance éprouvée. Soulignant ces tendances, des épisodes environnementaux — un incendie maîtrisé en Charente après 230 hectares brûlés, la sécheresse touchant plus de la moitié des sols européens et la découverte des restes d’un chercheur en Antarctique 66 ans plus tard, facilitée par la fonte des glaces — rappellent la montée des risques matériels et humanitaires. En parallèle, des initiatives culturelles itinérantes comme le collectif cyclo des « oiseaux de trottoir » témoignent d’une réponse inventive des communautés. Ces dynamiques nationales et climatiques accroissent la volatilité des sociétés et des marchés et exigent des réponses politiques et économiques coordonnées pour préserver la stabilité.",
+  "headlines": [
+    {
+      "title": "Prélèvement fédéral de 15% sur Nvidia vers la Chine",
+      "source": "Le Monde",
+      "summary": "Ce prélèvement intervient alors que la Maison Blanche prolonge une trêve commerciale de 90 jours, illustrant les tensions persistantes entre Washington et Pékin.",
+      "link": "https://www.lemonde.fr/economie/article/2025/08/12/le-prelevement-federal-de-15-sur-les-exportations-de-nvidia-en-chine-nouveau-signe-de-lingerence-de-donald-trump-dans-la-vie-economique_6628314_3234.html"
+    },
+    {
+      "title": "Les oiseaux de trottoir déploient leurs airs dans les campagnes",
+      "source": "Liberation",
+      "summary": "Un collectif cyclo itinérant propose une musique de rue dans des villages, offrant une expérience atypique et authentique loin des festivals.",
+      "link": "https://www.liberation.fr/culture/scenes/les-oiseaux-de-trottoir-deploient-leurs-airs-dans-les-campagnes-20250811_5NKC4JZBU5GY3JNAYBXPUIPHDM/"
+    },
+    {
+      "title": "Incendie en Charente maîtrisé après 230 hectares brûlés",
+      "source": "Le Monde",
+      "summary": "Plus de 200 sapeurs-pompiers et des avions ont participé à l intervention; des évacuations ont été ordonnées pour sécuriser les habitants.",
+      "link": "https://www.lemonde.fr/planete/article/2025/08/12/en-charente-l-incendie-qui-a-brule-230-hectares-et-conduit-a-plusieurs-evacuations-est-fixe_6628310_3245.html"
+    },
+    {
+      "title": "Rachida Dati visée par cinq affaires et mise en examen",
+      "source": "Le Monde",
+      "summary": "La ministre est liée à cinq affaires et mise en examen pour corruption et trafic d'influence dans une procédure, selon Le Monde.",
+      "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2025/08/12/de-quoi-rachida-dati-est-elle-accusee-comprendre-en-trois-minutes_6628329_6176282.html"
+    },
+    {
+      "title": "Droits de douane: les États-Unis prolongent la trêve avec la Chine",
+      "source": "Le Monde",
+      "summary": "Le décret prolonge une trêve de 90 jours et fixe des tarifs: 30% côté États-Unis et 10% côté Chine.",
+      "link": "https://www.lemonde.fr/economie/article/2025/08/12/droits-de-douane-les-etats-unis-prolongent-de-90-jours-leur-treve-avec-la-chine_6628315_3234.html"
+    },
+    {
+      "title": "Paris prend des airs de ville touristique au détriment des habitants",
+      "source": "Le Figaro",
+      "summary": "Des quartiers se transforment pour attirer des visiteurs supplémentaires, suscitant le ras-le-bol des résidents et des inquiétudes sur l'accueil futur.",
+      "link": "https://www.lefigaro.fr/conjoncture/paris-est-devenue-la-ville-des-touristes-plus-des-parisiens-le-fleau-du-surtourisme-menace-la-capitale-francaise-20250812"
+    },
+    {
+      "title": "Plus de la moitié des sols d'Europe touchés par la sécheresse",
+      "source": "France Info",
+      "summary": "La sécheresse persiste en Europe de l'Est et dans les Balkans, aggravant les stress hydriques et impactant l'agriculture locale, y compris en milieu rural.",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/plus-de-la-moitie-de-l-europe-et-du-pourtour-mediterraneen-sont-affectes-par-la-secheresse-depuis-avril_7431391.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Agression d'un maire en Isère: l'élu évoque la gravité des faits",
+      "source": "France Info",
+      "summary": "Le maire affirme qu'aucune justification ne peut soutenir l'attaque contre lui et son fils, et précise que l'auteur est en détention provisoire.",
+      "link": "https://www.franceinfo.fr/faits-divers/agression-d-un-maire-en-isere-rien-ne-peut-justifier-de-tenter-de-tuer-le-maire-de-son-village-et-son-fils-souligne-l-elu_7430449.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Trump espère une rencontre constructive avec Poutine et appelle Zelensky",
+      "source": "Libération",
+      "summary": "La rencontre américano-russe prévue serait le premier sommet depuis 2021; Trump affirme des échanges de territoires pour mettre fin à la guerre.",
+      "link": "https://www.liberation.fr/international/amerique/guerre-en-ukraine-trump-espere-une-rencontre-constructive-avec-poutine-et-assure-quil-appellera-zelensky-dans-la-foulee-20250811_TR33W6LSGNBZRGCCOVXUCARLXE/"
+    },
+    {
+      "title": "Restes d’un chercheur disparu en Antarctique retrouvés après 66 ans",
+      "source": "Liberation",
+      "summary": "Dennis Bell était tombé dans une crevasse en 1959; sa dépouille a été localisée par des chercheurs polonais, aidés par la fonte des glaces.",
+      "link": "https://www.liberation.fr/international/en-antarctique-les-restes-dun-chercheur-disparu-il-y-a-66-ans-retrouves-en-raison-de-la-fonte-des-glaces-20250811_GXLAC2NUWZGCRD667DAWFI7C7Y/"
+    }
+  ]
+}

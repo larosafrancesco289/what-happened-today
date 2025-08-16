@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-16",
+  "summary": "La giornata è stata incorniciata dall'incontro tra Donald Trump e Vladimir Putin, con Washington che a bordo dell'Air Force One ha chiesto un cessate il fuoco immediato e ha minacciato di abbandonare il vertice se non fossero stati fatti progressi. Il colloquio, durato circa tre ore, è stato descritto come positivo ma non ha prodotto un accordo su Kiev; in parallelo, fonti israeliane riferiscono che Hamas valuta un'intesa sugli ostaggi mentre l'ONU documenta pesanti perdite a Gaza da maggio, elementi che aumentano la pressione internazionale per una de‑escalation. Su questo sfondo, le dichiarazioni di Trump che invita Zelensky a trattare direttamente con Putin e le polemiche suscitate dal gesto dei due leader che hanno servito cibo ai reporter durante il volo hanno messo in evidenza divergenze di posizioni e la difficoltà di tradurre l'attenzione diplomatica in risultati concreti.\n\nA sottolineare la dimensione etica e sociale della crisi, il papa a Castel Gandolfo ha esortato a non rassegnarsi alla \"logica delle armi\", richiamando un appello pubblico alla ricerca di soluzioni non violente; questa sollecitazione si intreccia con le dinamiche diplomatiche ma entra in contrasto con segnali di fragilità interna, come l'arresto del presunto pirata della strada responsabile dell'investimento mortale di un sedicenne tra San Felice al Circeo e Terracina. In parallelo, fatti culturali e mediatici — dalla vittoria della Bruco nella prova generale del Palio di Siena al confronto creativo tra James Gunn e David Corenswet sul set di Superman — offrono narrazioni pubbliche alternative che influenzano l'umore collettivo. Le implicazioni sono chiare: l'assenza di un accordo negoziale immediato aumenta l'incertezza geopolitica e sui mercati, mentre la combinazione di appelli morali, pressioni diplomatiche e tensioni interne modellerà decisioni e percezioni nei prossimi giorni.",
+  "headlines": [
+    {
+      "title": "Pirata della strada arrestato: investe tre giovani e uccide 16enne",
+      "source": "ANSA",
+      "summary": "Un uomo di 49 anni è responsabile dell'incidente tra San Felice al Circeo e Terracina; arresto eseguito dalla polizia locale.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2025/08/15/investe-tre-giovani-e-uccide-un-16enne-arrestato-il-pirata-della-strada_223757db-003d-45b1-8ac8-10da341ec23f.html"
+    },
+    {
+      "title": "Trump chiede cessate il fuoco oggi mentre vola verso l'Alaska",
+      "source": "Rai News",
+      "summary": "A bordo dell'Air Force One, Trump propone un cessate il fuoco immediato e avverte che potrebbe lasciare il vertice se non vi sono progressi.",
+      "link": "https://www.rainews.it/video/2025/08/vertice-anchorage-trump-sullair-force-one-vorrei-un-cessate-il-fuoco-oggi-403cef04-0cb9-4eaf-8e66-cb6cb2d37feb.html"
+    },
+    {
+      "title": "Trump e Putin servono cibo ai reporter russi durante volo: polemiche",
+      "source": "TGCOM24",
+      "summary": "Sull'aereo verso l'Alaska, Trump e Putin affrontano le domande dei giornalisti e registrano posizioni che divergono, alimentando polemiche sul summit.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/trump-putin-media-russi-servito-pollo-kiev-polemiche_102244396-202502k.shtml"
+    },
+    {
+      "title": "Il Papa invita a non rassegnarsi alla logica delle armi",
+      "source": "ANSA",
+      "summary": "Parlando a Castel Gandolfo, papa Leone XIV richiama Pio XII e Dante, esortando a porre fine all'uso delle armi oggi.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2025/08/15/il-papa-non-dobbiamo-rassegnarci-alla-logica-delle-armi_a9caf0be-a03a-4ab4-867d-5e31a6b13449.html"
+    },
+    {
+      "title": "Bruco vince anche la prova generale del Palio di Siena",
+      "source": "ANSA",
+      "summary": "La Bruco vince la prova generale, dopo cambio fantino, seguito dalla Tartuca che adotta la stessa strategia nel contesto della preparazione al Palio.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2025/08/15/palio-di-siena-la-contrada-del-bruco-vince-anche-la-prova-generalenbsp_69381aa4-9cfd-4ee4-9dc1-6ad2e95e922b.html"
+    },
+    {
+      "title": "Confronto tra James Gunn e Corenswet sul set di Superman",
+      "source": "Rai News",
+      "summary": "Gunn e Corenswet discutono sulla vulnerabilità dell'eroe kryptoniano, evidenziando il processo creativo che guida l'interpretazione e l'impatto emotivo previsto del film.",
+      "link": "https://www.rainews.it/articoli/2025/08/james-gunn-e-david-corenswet-il-confronto-sul-set-di-superman-31d2f0cf-a309-40aa-bf73-73ddf608498f.html"
+    },
+    {
+      "title": "Hamas valuta accordo sugli ostaggi; l'ONU segnala perdite a Gaza",
+      "source": "Rai News",
+      "summary": "Secondo un documento classificato citato da Netanyahu, Hamas valuta un accordo sugli ostaggi; l'ONU riferisce pesanti perdite a Gaza da maggio.",
+      "link": "https://www.rainews.it/maratona/2025/08/media-hamas-potrebbe-accettare-accordo-parziale-sugli-ostaggi-57bb7413-ade0-4289-8439-f397a64b1105.html"
+    },
+    {
+      "title": "Incontro positivo tra Trump e Putin; nessun accordo su Kiev",
+      "source": "Rai News",
+      "summary": "Dopo circa tre ore di vertice, i due leader non definiscono una soluzione comune su Kiev; Nato, Europa e Zelensky devono accettarla.",
+      "link": "https://www.rainews.it/video/2025/08/trump-e-putin-incontro-positivo-ma-laccordo-non-ce-c53d0909-6a75-426a-a425-9ce52ad6a20d.html"
+    },
+    {
+      "title": "Trump dice a Zelensky di trattare con Putin",
+      "source": "Rai News",
+      "summary": "In un'intervista a Fox News, Trump sostiene che Zelensky avrebbe convenienza a negoziare con Putin e si ritiene più forte.",
+      "link": "https://www.rainews.it/articoli/2025/08/trump-a-fox-a-zelensky-conviene-trattare-con-putin-2cc878b8-062e-41fc-8c4c-1d13c80bf309.html"
+    },
+    {
+      "title": "Passi avanti ma nessun accordo sul cessate il fuoco",
+      "source": "Rai News",
+      "summary": "Il vertice non scioglie la crisi: nessun cessate il fuoco, ma Putin ottiene attenzione internazionale; Trump resta con una situazione complicata.",
+      "link": "https://www.rainews.it/articoli/2025/08/passi-avanti-ma-nessun-accordo-nemmeno-sul-cessate-il-fuoco-2d534ce9-24ff-4cff-aeeb-3ec22392ee83.html"
+    }
+  ]
+}

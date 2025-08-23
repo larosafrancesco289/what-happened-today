@@ -436,7 +436,7 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
   try {
     const apiStart = Date.now();
     const response = await withRetry(() => openai.responses.create({
-      model: 'gpt-5-mini',
+      model: 'gpt-5-chat-latest',
       input: prompt,
       text: {
         format: {

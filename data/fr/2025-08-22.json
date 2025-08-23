@@ -1,0 +1,54 @@
+{
+  "date": "2025-08-22",
+  "summary": "Le fil directeur de la journée est la montée des logiques de contrôle et de responsabilité étatiques face à des menaces perçues, qu’elles soient internes ou transnationales. Aux États‑Unis, l’administration annonce un examen exhaustif des dossiers de 55 millions de titulaires de visa, visant dépassements, infractions et liens potentiels avec le terrorisme, signe d’un renforcement des vérifications administratives; dans ce registre de sécurité, la déclaration de l’ancien président évoquant le maintien prolongé d’un dispositif d’ordre à Washington illustre la normalisation de mesures d’ordre public dans l’espace politique intérieur. En parallèle, l’arrestation en Italie d’un ressortissant ukrainien soupçonné d’avoir coordonné le sabotage du gazoduc Nord Stream met en lumière la dimension transnationale des enquêtes et la coopération judiciaire entre États face aux actes d’atteinte aux infrastructures critiques.\n\nEn parallèle, les dossiers économiques et culturels reflètent et contredisent ces dynamiques de contrôle. Sur le plan économique, la finalisation du cadre commercial entre les États‑Unis et l’Union européenne — qui prévoit 15 % de droits sur certaines exportations et exemptions pour la pharmaceutique et l’aéronautique — illustre l’usage d’instruments commerciaux pour calibrer les relations stratégiques, tandis que les accusations du président Zelensky selon lesquelles la Russie chercherait à se soustraire aux négociations de paix rappellent que ces contraintes économiques s’inscrivent d’un contexte de volatilité diplomatique. Soulignant ces tendances, la mort du streameur Jean Pormanove montre les limites du droit face aux contenus violents en ligne, pendant que les récits d’exil comme ceux de Jaleh Bradea et les réinterprétations de La Liberté interrogent la résilience sociale et la recomposition des symboles publics. Ces convergences suggèrent des pressions sur la stabilité politique, les marchés et le tissu social, exigeant une réponse coordonnée d'acteurs juridiques, économiques et culturels.",
+  "headlines": [
+    {
+      "title": "L’administration examine les dossiers de 55 millions titulaires de visa",
+      "source": "Le Monde",
+      "summary": "Le département d’État prévoit d’examiner des critères tels que les dépassements de visa, infractions, activités criminelles et liens avec le terrorisme.",
+      "link": "https://www.lemonde.fr/international/article/2025/08/22/l-administration-trump-dit-examiner-les-dossiers-de-55-millions-de-titulaires-d-un-visa-americain_6633174_3210.html"
+    },
+    {
+      "title": "Les États-Unis et l’Union européenne finalisent leur cadre commercial",
+      "source": "Le Monde",
+      "summary": "Les États-Unis et l’Union européenne détaillent les conditions de l’accord, prévoyant 15 pourcent de droits sur les exportations européennes, exemptions pour pharmaceutique et aviation.",
+      "link": "https://www.lemonde.fr/economie/article/2025/08/22/droits-de-douane-les-etats-unis-et-l-union-europeenne-finalisent-leur-nouveau-cadre-commercial_6633308_3234.html"
+    },
+    {
+      "title": "Premiers jours en France de Jaleh Bradea venue d’Iran",
+      "source": "Le Monde",
+      "summary": "Cette expatriée d’Iran raconte ses premiers jours à Paris, où l’exil a dévoilé les traces de peine et l’adaptation au fil du temps.",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2025/08/22/je-revois-ma-mere-dans-la-cuisine-me-tourner-le-dos-pour-me-cacher-sa-peine-les-premiers-jours-en-france-de-jaleh-bradea-venue-d-iran_6633310_3451060.html"
+    },
+    {
+      "title": "La mort de Jean Pormanove expose l’application du droit sur internet",
+      "source": "France Info",
+      "summary": "Le décès du streameur souligne les limites du cadre juridique face aux contenus violents en ligne et la nécessité d’actions adaptées par les autorités.",
+      "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/mort-du-streameur-francais-jean-pormanove/mort-du-streameur-jean-pormanove-face-aux-contenus-violents-en-ligne-l-applicabilite-du-droit-est-compliquee-sur-internet-regrette-un-avocat_7447003.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "La Liberté guidant le peuple réinterprétée, tatouée et éborgnée",
+      "source": "Liberation",
+      "summary": "Cette réinterprétation contemporaine de l’allégorie traduit une tension entre les aspirations individualistes et les symboles historiques dans une réflexion sur identité et art public.",
+      "link": "https://www.liberation.fr/portraits/tetes-de-lart-la-liberte-guidant-le-peuple-tatouee-et-eborgnee-20250821_HIVXL7M6TZDIPGOY5JU3EZKJQA/"
+    },
+    {
+      "title": "Un Ukrainien arrêté dans l’enquête Nord Stream en Italie",
+      "source": "France 24",
+      "summary": "Un Ukrainien suspecté d’être coordonnateur du sabotage Nord Stream est arrêté en Italie; Berlin affirme son soutien à Kiev dans la suite des enquêtes.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20250821-sabotage-de-nord-stream-un-ukrainien-arr%C3%AAt%C3%A9"
+    },
+    {
+      "title": "Trump annonce que l’ordre à Washington va durer un temps",
+      "source": "Le Monde",
+      "summary": "Trump affirme que l’opération d’ordre public à Washington va durer un certain temps, selon les autorités et après des jours de déploiement.",
+      "link": "https://www.lemonde.fr/international/article/2025/08/22/l-operation-de-retablissement-de-l-ordre-a-washington-va-durer-un-certain-temps-annonce-donald-trump-aux-militaires_6633380_3210.html"
+    },
+    {
+      "title": "Zelensky accuse la Russie de vouloir se soustraire à la paix",
+      "source": "France Info",
+      "summary": "Zelensky accuse la Russie de vouloir se soustraire aux pourparlers de paix, ce qui compliquerait les efforts diplomatiques et renforcerait les tensions.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-a-attaque-le-territoire-ukrainien-avec-614-drones-et-missiles-durant-la-nuit-un-record-depuis-un-mois-selon-kiev_7446568.html#xtor=RSS-3-[lestitres]"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-24",
+  "summary": "Le fil directeur de la journée est la montée des enjeux de responsabilité politique et sociale, incarnée en France par la conférence de presse de François Bayrou à la veille des débats sur le budget 2026, qui s’inscrit dans un climat où une motion de censure plane sur le gouvernement. Dans ce contexte, la scène judiciaire et la pression publique convergent : un gérant de parc de loisirs mis en examen pour refus d’entrée fait l’objet d’une instruction pour discrimination liée à l’origine, tandis que la fermeture d’un groupe de diffusion d’images non consenties résulte d’une mobilisation associative et militante. Ces développements mettent en lumière la simultanéité des contrôles institutionnels — budgetaires et pénaux — et des réactions de la société civile, qui redéfinissent le périmètre de la responsabilité politique et des normes de protection individuelle.\n\nAu plan international, tensions et appels humanitaires coexistent avec des démarches diplomatiques : l’Iran a annoncé l’élimination de six membres d’un groupe qu’elle lie à Israël dans le sud‑est, annonce relayée par un média d’État qui alimente un climat régional tendu, tandis que la Maison‑Blanche a reçu le dirigeant sud‑coréen pour rapprocher positions et relancer les discussions sur la Corée du Nord. En parallèle, Emine Erdoğan invite Melania Trump à plaider pour une accélération de l’aide aux enfants de Gaza, soulignant les pressions internationales sur la crise humanitaire. Côté socioculturel, la France a lancé le Mondial féminin par une victoire contre l’Italie, la disparition de Céline Ratsiraka à Madagascar rappelle des enjeux de droits et de famille, et la restitution du buste de Jim Morrison au Père‑Lachaise clôt une affaire policière. Ces événements conjoints indiquent des risques géopolitiques et des dynamiques sociales susceptibles d’influer sur la stabilité régionale et la confiance des marchés.",
+  "headlines": [
+    {
+      "title": "Bayrou organise une conférence de presse avant le budget 2026",
+      "source": "Le Monde",
+      "summary": "La conférence précède les débats budgétaires sur les économies prévues pour 2026, alors qu'une motion de censure pourrait viser le gouvernement.",
+      "link": "https://www.lemonde.fr/politique/article/2025/08/23/francois-bayrou-tiendra-une-conference-de-presse-lundi-avant-une-rentree-politique-marquee-par-la-preparation-du-budget-2026_6634049_823448.html"
+    },
+    {
+      "title": "Gérant d’un parc de loisirs mis en examen pour refus d’entrée",
+      "source": "Le Monde",
+      "summary": "Un juge d’instruction examine des accusations de discrimination fondée sur l’origine après le refus, et le gérant est laissé en liberté.",
+      "link": "https://www.lemonde.fr/societe/article/2025/08/23/le-gerant-du-parc-de-loisirs-qui-a-refuse-l-entree-a-de-jeunes-vacanciers-israeliens-mis-en-examen_6634079_3224.html"
+    },
+    {
+      "title": "L’Iran affirme avoir tué six membres d’un groupe lié à Israël",
+      "source": "Le Figaro",
+      "summary": "L’annonce, relayée par un média d’État, décrit l’opération dans le sud-est et précise des liens supposés avec l’ennemi farouche de l’Iran.",
+      "link": "https://www.lefigaro.fr/international/l-iran-affirme-avoir-tue-six-membres-d-un-groupe-qualifie-de-terroriste-lie-a-israel-20250823"
+    },
+    {
+      "title": "Emine Erdogan appelle Melania Trump à plaider pour Gaza",
+      "source": "Le Figaro",
+      "summary": "Elle invite à écrire une lettre au Premier ministre israélien pour accélérer l’action humanitaire destinée aux enfants de Gaza dans le cadre d’un appel mondial.",
+      "link": "https://www.lefigaro.fr/international/en-tant-que-mere-que-femme-et-comme-etre-humain-emine-erdogan-exhorte-melania-trump-a-plaider-la-cause-des-enfants-de-gaza-20250823"
+    },
+    {
+      "title": "Trump reçoit le dirigeant sud-coréen pour progresser sur Corée du Nord",
+      "source": "Le Figaro",
+      "summary": "Une rencontre bilatérale vise à rapprocher les positions américaines et coréennes afin de faire avancer les discussions sur le programme nord-coréen.",
+      "link": "https://www.lefigaro.fr/international/donald-trump-recoit-ce-lundi-son-homologue-sud-coreen-avec-l-espoir-d-une-avancee-sur-la-coree-du-nord-20250824"
+    },
+    {
+      "title": "Les Bleues lancent Mondial de rugby par une victoire contre l’Italie",
+      "source": "Le Figaro",
+      "summary": "Le XV de France féminin s’impose 24-0 à Exeter et montre une défense solide et une attaque efficace dès l’ouverture du tournoi.",
+      "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/coupe-du-monde-feminine-de-rugby-les-bleues-lancent-parfaitement-leur-mondial-par-une-victoire-sur-l-italie-20250823"
+    },
+    {
+      "title": "Fermeture d’un groupe de diffusion d’images non consenties sur les femmes",
+      "source": "Liberation",
+      "summary": "Des militantes et associations ont fait pression après la découverte d’un réseau où des photos de femmes étaient partagées sans consentement, entraînant la fermeture.",
+      "link": "https://www.liberation.fr/economie/economie-numerique/des-proies-de-viol-virtuel-facebook-ferme-un-groupe-ou-des-photos-de-femmes-etaient-partagees-a-leur-insu-20250823_3L4QU7GJRFFOLILL3GTSXEQWRA/"
+    },
+    {
+      "title": "Décès de Céline Ratsiraka, ancienne première dame et défenseure des droits",
+      "source": "RFI",
+      "summary": "À Madagascar, elle a œuvré pour améliorer les conditions de divorce et soutenir les droits des femmes et des familles.",
+      "link": "https://www.rfi.fr/fr/afrique/20250824-d%C3%A9c%C3%A8s-de-c%C3%A9line-ratsiraka-ancienne-premi%C3%A8re-dame-engag%C3%A9e-pour-les-droits-des-femmes"
+    },
+    {
+      "title": "Les Bleues battent l’Italie pour leur entrée au Mondial",
+      "source": "Liberation",
+      "summary": "Le XV de France féminin domine l’Italie 24-0 à Exeter pour démarrer la Coupe du monde, établissant une avance dans le groupe.",
+      "link": "https://www.liberation.fr/sports/rugby/coupe-du-monde-de-rugby-les-bleues-reussissent-leur-entree-en-battant-litalie-24-0-20250823_NGHH2HQ3F5DXTP2MKWG22RP25Y/"
+    },
+    {
+      "title": "Buste de Jim Morrison retrouvé au Père-Lachaise après vol",
+      "source": "Liberation",
+      "summary": "La statue dérobée sur la tombe du chanteur a été retrouvée lors d’une perquisition, décrivant un parcours entre la Croatie et le milieu punk parisien.",
+      "link": "https://www.liberation.fr/culture/musique/enlevement-et-reapparition-du-buste-de-jim-morrison-deboires-doutre-tombe-au-pere-lachaise-20250823_XBUCF7S2QNGNFDHM4W3Q65QCHA/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-27",
+  "summary": "La France apparaît aujourd’hui à la croisée des tensions sociales et politiques, un thème qui encadre la journée : l’Institut Montaigne décrypte une « France à deux vitesses » et promeut des dispositifs hybrides, notamment la location‑accession, pour rapprocher les classes moyennes du pacte social. Dans ce contexte, la proposition de vote de confiance de François Bayrou pour le 8 septembre et les scénarios opposés forgés par les bancs de l’Assemblée viennent cristalliser les interrogations sur la capacité du pouvoir à maintenir une majorité stable. En parallèle, la rentrée 2025 met en lumière l’incertitude autour du maintien d’Élisabeth Borne, alors que les ministères évoquent des économies et des tensions budgétaires : ces éléments conjugués soulignent le défi politique de traduire des recommandations économiques en compromis acceptables pour une société fragmentée.\n\nAu plan international et sociétal, une série d’événements illustre la coexistence d’aléas sécuritaires, climatiques et d’ambitions technologiques qui viennent contrebalancer les enjeux intérieurs. En Ukraine, des tirs d’artillerie en oblast de Kherson ont fait un mort et deux blessés, ouvrant une enquête pour crime de guerre, pendant que sur la façade atlantique française l’ancien ouragan Erin génère des vagues de quatre à six mètres et que vingt‑cinq départements restent en vigilance orange pour orages et fortes rafales. Soulignant ces tendances contrastées, SpaceX annonce le succès du dixième vol d’essai de Starship, marquant une avancée technologique potentiellement disruptive, tandis que sur le plan culturel et social la disparition précoce de la numéro 1 française au US Open, le film Miroirs No.3 de Petzold et les propos de Marcel Gauchet sur le progressisme alimentent le débat public sur mémoire, démocratie et identité. Ces dynamiques croisées renforcent l’incertitude pour la stabilité politique et les marchés, obligeant États et acteurs privés à arbitrer entre résilience climatique, sécurité et cohésion sociale.",
+  "headlines": [
+    {
+      "title": "Logement : l’Institut Montaigne signale une France à deux vitesses",
+      "source": "Le Monde",
+      "summary": "Dans un rapport, l’Institut Montaigne promeut des dispositifs hybrides comme la location-accession pour rapprocher les classes moyennes du pacte social.",
+      "link": "https://www.lemonde.fr/societe/article/2025/08/27/crise-du-logement-une-france-a-deux-vitesses-se-dessine-previent-l-institut-montaigne_6635973_3224.html"
+    },
+    {
+      "title": "Tirs d’artillerie russes en Kherson oblast font un mort et deux blessés",
+      "source": "Le Monde",
+      "summary": "Des tirs russes en Kherson font un mort et deux blessés; le parquet ouvre une enquête pour crime de guerre, selon des responsables locaux.",
+      "link": "https://www.lemonde.fr/international/live/2025/08/27/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6634258_3210.html"
+    },
+    {
+      "title": "Boisson s’incline au premier tour de l’US Open",
+      "source": "Le Monde",
+      "summary": "La numéro 1 française est éliminée dès le premier tour de l’US Open après un début de match prometteur face à Viktorija Golubic.",
+      "link": "https://www.lemonde.fr/sport/article/2025/08/26/lois-boisson-s-incline-au-premier-tour-de-l-us-open_6635789_3242.html"
+    },
+    {
+      "title": "Starship prend son envol après une série d’échecs",
+      "source": "Le Figaro",
+      "summary": "SpaceX rapporte la réussite du dixième vol d’essai de Starship, franchissant une étape clé dans les ambitions de voyages interplanétaires.",
+      "link": "https://www.lefigaro.fr/societes/apres-une-serie-d-echecs-la-megafusee-starship-prend-enfin-son-envol-20250827"
+    },
+    {
+      "title": "Ouragan Erin : vagues géantes sur la côte atlantique",
+      "source": "Le Figaro",
+      "summary": "Des vagues de quatre à six mètres liées à l’ancien ouragan Erin frappent la côte atlantique, accompagnées d’importants coefficients de marée.",
+      "link": "https://www.lefigaro.fr/flash-actu/ouragan-erin-les-images-des-vagues-geantes-qui-s-abattent-sur-la-cote-atlantique-20250827"
+    },
+    {
+      "title": "Miroirs No.3 de Petzold explore une rencontre",
+      "source": "Liberation",
+      "summary": "Le film suit une jeune pianiste et une sexagénaire endeuillée dans une rencontre qui révèle leur lien émotionnel et passé.",
+      "link": "https://www.liberation.fr/culture/cinema/miroirs-no3-de-christian-petzold-en-eaux-doubles-20250826_ZXKXZW6DDNGMPIL22T7CCFW4YU/"
+    },
+    {
+      "title": "Vote de confiance du 8 septembre: scénarios pour la France",
+      "source": "France 24",
+      "summary": "Bayrou propose un vote de confiance à l’Assemblée, les oppositions précisant leurs positions et les scénarios envisagés pour la France.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20250826-vote-de-confiance-du-8-septembre-quels-sc%C3%A9narios-pour-la-france"
+    },
+    {
+      "title": "Rentrée 2025 : Borne confrontée au contexte politique et budgétaire",
+      "source": "Le Monde",
+      "summary": "La rentrée 2025 met en lumière l’incertitude autour du maintien de Borne, alors que les ministères évoquent des économies et des tensions budgétaires.",
+      "link": "https://www.lemonde.fr/societe/article/2025/08/27/rentree-2025-a-la-tete-de-l-education-nationale-elisabeth-borne-plombee-par-le-contexte-politique-et-budgetaire_6635964_3224.html"
+    },
+    {
+      "title": "Vingt-cinq départements en vigilance orange pour les orages",
+      "source": "Le Monde",
+      "summary": "Des conditions météorologiques déclenchent une vigilance orange dans 25 départements, des Pyrénées à Haute-Saône, en raison d'une houle et de fortes rafales.",
+      "link": "https://www.lemonde.fr/planete/article/2025/08/27/orages-vingt-cinq-departements-en-vigilance-orange-des-pyrenees-a-la-haute-saone_6636076_3244.html"
+    },
+    {
+      "title": "Gauchet affirme que le progressisme tourne le dos à la démocratie",
+      "source": "Le Monde",
+      "summary": "Gauchet affirme que le progressisme a tourné le dos à l’esprit démocratique, conséquence d’années de dépolitisation et d’individualisme néolibéral dans le contexte contemporain.",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2025/08/26/marcel-gauchet-historien-et-philosophe-le-progressisme-s-est-enferme-dans-le-deni-des-realites-derangeantes_6635155_3451060.html"
+    }
+  ]
+}

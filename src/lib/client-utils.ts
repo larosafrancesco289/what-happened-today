@@ -25,7 +25,7 @@ export function getDateString(date: Date = new Date()): string {
 
 export function formatDate(dateString: string, languageCode: string = 'en'): string {
   const date = new Date(dateString);
-  const locale = languageCode === 'it' ? 'it-IT' : 'en-US';
+  const locale = languageCode === 'it' ? 'it-IT' : languageCode === 'fr' ? 'fr-FR' : 'en-US';
   const formatted = date.toLocaleDateString(locale, {
     weekday: 'long',
     year: 'numeric',

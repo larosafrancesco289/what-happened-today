@@ -32,7 +32,12 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    return NextResponse.json(data);
+    return NextResponse.json(data, {
+      headers: {
+        // Cache for 5 minutes at the edge; allow stale for a day
+        'Cache-Control': 's-maxage=300, stale-while-revalidate=86400'
+      }
+    });
   } catch (error) {
     console.error('Error fetching daily news:', error);
     return NextResponse.json(

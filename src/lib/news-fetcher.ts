@@ -13,17 +13,38 @@ const parser = new Parser({
   },
 });
 
-export async function fetchRSSFeed(feedUrl: string, sourceName: string): Promise<RSSFeedItem[]> {
+function localeHeader(languageCode: string = 'en'): string {
+  switch (languageCode) {
+    case 'it':
+      return 'it-IT,it;q=0.9,en;q=0.8';
+    case 'fr':
+      return 'fr-FR,fr;q=0.9,en;q=0.8';
+    default:
+      return 'en-US,en;q=0.9';
+  }
+}
+
+async function fetchWithTimeout(input: string, init: RequestInit, timeoutMs: number): Promise<Response> {
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeoutMs);
   try {
-    // Prefetch with Node's fetch to better handle status codes and content-type
-    const response = await fetch(feedUrl, {
+    return await fetch(input, { ...init, signal: controller.signal });
+  } finally {
+    clearTimeout(id);
+  }
+}
+
+export async function fetchRSSFeed(feedUrl: string, sourceName: string, languageCode: string = 'en'): Promise<RSSFeedItem[]> {
+  try {
+    // Prefetch with timeout and language-aware headers
+    const response = await fetchWithTimeout(feedUrl, {
       redirect: 'follow',
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; WhatHappenedTodayBot/1.0; +https://github.com/franklarosa/what-happened-today)',
         'Accept': 'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7',
-        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Language': localeHeader(languageCode),
       },
-    });
+    }, 10000);
 
     if (!response.ok) {
       throw new Error(`Status code ${response.status}`);
@@ -50,12 +71,16 @@ export async function fetchAllNews(languageCode: string = 'en'): Promise<Process
   console.log(`Fetching news from all RSS feeds for language: ${languageCode}`);
   
   const feeds = RSS_FEEDS_BY_LANGUAGE[languageCode] || RSS_FEEDS_BY_LANGUAGE.en;
-  
-  const fetchPromises = feeds.map(feed => 
-    fetchRSSFeed(feed.url, feed.name)
-  );
-  
-  const results = await Promise.allSettled(fetchPromises);
+  // Limit concurrency to avoid hammering networks (max 5 at a time)
+  const concurrency = 5;
+  const results: PromiseSettledResult<RSSFeedItem[]>[] = [];
+  for (let i = 0; i < feeds.length; i += concurrency) {
+    const slice = feeds.slice(i, i + concurrency);
+    const settled = await Promise.allSettled(
+      slice.map(feed => fetchRSSFeed(feed.url, feed.name, languageCode))
+    );
+    results.push(...settled);
+  }
   
   const allArticles: RSSFeedItem[] = [];
   results.forEach((result, index) => {
@@ -94,8 +119,17 @@ export async function deduplicateArticles(articles: ProcessedArticle[]): Promise
   const unique: ProcessedArticle[] = [];
   
   for (const article of articles) {
-    // Create a simple fingerprint for deduplication
-    const fingerprint = article.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 50);
+    // Create a stronger fingerprint: host+path + normalized title + first 80 of content
+    let hostPath = '';
+    try {
+      const u = new URL(article.link);
+      hostPath = `${u.host}${u.pathname}`.toLowerCase();
+    } catch {
+      hostPath = article.link.toLowerCase();
+    }
+    const titleKey = article.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 80);
+    const contentKey = article.content.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 80);
+    const fingerprint = `${hostPath}|${titleKey}|${contentKey}`;
     
     if (!seen.has(fingerprint)) {
       seen.add(fingerprint);
@@ -105,4 +139,4 @@ export async function deduplicateArticles(articles: ProcessedArticle[]): Promise
   
   console.log(`Removed ${articles.length - unique.length} duplicate articles`);
   return unique;
-} 
+}

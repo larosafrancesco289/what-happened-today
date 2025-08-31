@@ -16,6 +16,7 @@ export interface Translations {
     noSummaryMessage: string;
     noSummaryDescription: string;
     headlines: string;
+    dailySummary: string;
     readMore: string;
     sources: string;
   };
@@ -43,6 +44,7 @@ export const translations: Record<string, Translations> = {
       noSummaryTitle: "What Happened Today",
       noSummaryMessage: "No summary available for today yet.",
       noSummaryDescription: "The daily summary will be generated automatically.",
+      dailySummary: "Daily Summary",
       headlines: "Headlines",
       readMore: "Read more",
       sources: "Sources"
@@ -69,6 +71,7 @@ export const translations: Record<string, Translations> = {
       noSummaryTitle: "Cosa È Successo Oggi",
       noSummaryMessage: "Nessun riassunto disponibile per oggi.",
       noSummaryDescription: "Il riassunto giornaliero verrà generato automaticamente.",
+      dailySummary: "Riassunto Giornaliero",
       headlines: "Titoli",
       readMore: "Leggi di più",
       sources: "Fonti"
@@ -95,6 +98,7 @@ export const translations: Record<string, Translations> = {
       noSummaryTitle: "Que S'est-il Passé Aujourd'hui",
       noSummaryMessage: "Aucun résumé disponible pour aujourd'hui.",
       noSummaryDescription: "Le résumé quotidien sera généré automatiquement.",
+      dailySummary: "Résumé Quotidien",
       headlines: "Titres",
       readMore: "Lire plus",
       sources: "Sources"

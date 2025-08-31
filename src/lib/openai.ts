@@ -4,7 +4,8 @@ import type { ProcessedArticle, NewsHeadline } from '@/types/news';
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY?.trim(),
   timeout: 90000,
-  maxRetries: 2,
+  // Prefer our custom retry logic to control backoff and logging
+  maxRetries: 0,
 });
 
 // Helper function to retry operations with exponential backoff
@@ -46,268 +47,184 @@ interface ArticleAnalysis {
 const LANGUAGE_PROMPTS = {
   en: {
     filterPrompt: (articles: ProcessedArticle[]) => `
-SYSTEM INSTRUCTIONS (read carefully):
-You are "GlobalNewsRelevance-v1", an experienced, unbiased wire-service editor. Your ONLY task is to decide which of the following articles matter to a GLOBAL audience today and to assign an objective relevance score.
+You are a neutral news editor. Pick the items that matter to most people worldwide today.
 
-Strict evaluation criteria:
-1. FACTUALITY – Keep items corroborated by at least one reputable outlet. Exclude speculation or opinion.
-2. GLOBAL SIGNIFICANCE – Prioritise developments that influence geopolitics, cross-border economics, climate, security, major science or technology. Purely local or celebrity items are almost always OUT unless they have systemic global consequences.
-3. NEUTRALITY – Reject stories written in emotional or sensational language.
-4. TIMELINESS – Focus on events in the past 24 h or whose impact is unfolding now.
-5. NOVELTY – Discard duplicates or minor incremental updates unless they substantially move the story forward.
+Simple rules:
+- Keep major government, business, conflict, disaster, climate, election, science/tech stories.
+- Drop celebrity, local-only items, opinion, or tiny incremental updates.
+- Be careful with rumor or clickbait; prefer facts.
 
-Scoring rubric:
-- relevanceScore 0-10 (integer). 10 = indispensable knowledge for global decision-makers; 5 = notable but not game-changing; 0 = no relevance.
-- isRelevant = true if relevanceScore ≥ 6, else false.
+Scoring:
+- relevanceScore: 0–10 (10 = must-know globally; 5 = notable; 0 = not relevant)
+- isRelevant: true if score >= 6
+- index is zero-based (0..N-1)
 
-OUTPUT FORMAT (MANDATORY): Return ONLY valid JSON matching exactly the schema below, **without** markdown or commentary.
-{
-  "analyses": [
-    {
-      "index": <integer>,
-      "relevanceScore": <integer>,
-      "isRelevant": <boolean>,
-      "reason": "<≤300 characters explanation in English>"
-    }
-  ]
-}
-
-If you are uncertain, err on the side of marking the article NOT relevant.
-
-Articles to analyse:
-${articles.map((article, index) => `
-${index + 1}. ${article.title}
-Source: ${article.source}
-Content (truncated): ${article.content.substring(0, 500)}...
-`).join('\n')}
-`,
-    headlinesPrompt: (articles: ProcessedArticle[]) => `
-SYSTEM INSTRUCTIONS:
-You are "GlobalNewsHeadliner-v1", a seasoned international copy-editor.
-
-Goal: Craft a neutral, information-dense headline (6-12 words, ≤ 70 characters) and a SINGLE, 20-25-word summary sentence for each article deemed relevant.
-
-Rules:
-• Use present tense where possible; no sensational adjectives.
-• Do NOT mention the news outlet inside the headline.
-• The summary must add essential context not obvious from the headline.
-
-OUTPUT FORMAT (MANDATORY): Valid JSON only, matching this schema exactly and nothing else.
-{
-  "headlines": [
-    {
-      "title": "...",
-      "source": "...",     // copy exactly as provided
-      "summary": "...",
-      "link": "..."
-    }
-  ]
-}
+Return ONLY JSON matching this shape:
+{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "... <=200 chars" } ] }
 
 Articles:
 ${articles.map((article, index) => `
-${index + 1}. Title: ${article.title}
+Index: ${index}
+Title: ${article.title}
 Source: ${article.source}
-Content: ${article.content}
+Content (short): ${article.content.substring(0, 500)}
+`).join('\n')}
+`,
+    headlinesPrompt: (articles: ProcessedArticle[]) => `
+Write a clear, neutral headline and one short sentence of context for each item.
+
+Rules:
+- Headline: 6–12 words, present tense, no hype.
+- Summary: 18–24 words, add key context not obvious from the headline.
+- Do not include the outlet in the headline; copy source exactly in the field.
+
+Return ONLY JSON like:
+{ "headlines": [ { "title": "...", "source": "...", "summary": "...", "link": "..." } ] }
+
+Items:
+${articles.map((article, index) => `
+Index: ${index}
+Title: ${article.title}
+Source: ${article.source}
+Content (short): ${article.content.substring(0, 600)}
 Link: ${article.link}
 `).join('\n')}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
-SYSTEM INSTRUCTIONS:
-You are "GlobalNewsSynthesiser-v1", an elite analyst crafting daily briefings for senior diplomats.
+Write two short, connected paragraphs that explain today to a general reader.
 
-Task: Produce TWO elegantly-connected paragraphs (each 120-160 words) that weave the day's most consequential global developments into a coherent narrative.
+Guidance:
+- Para 1 (90–130 words): lead with the most important development; connect 2–3 items.
+- Para 2 (90–130 words): cover the rest by theme; explain why it matters.
+- Use simple, precise language. Neutral tone. No lists.
 
-Writing guidance:
-1. Lead with the single development or theme that best frames the day. Integrate 2-3 linked stories within the first paragraph.
-2. In paragraph two, address the remaining items, grouping them thematically and explaining how they reinforce or contrast the opening theme.
-3. Use sophisticated transitions (e.g., "Against this backdrop,", "In parallel,", "Underscoring these trends."). Avoid list-like writing.
-4. Conclude with 1-2 sentences that articulate the broader implications for global stability, markets, or society.
-5. Maintain neutral, precise tone. Avoid adjectives that convey judgement ("shocking", "stunning", etc.).
+Return ONLY JSON like {"summary":"<p1>\\n\\n<p2>"}
 
-OUTPUT FORMAT (MANDATORY): Return ONLY JSON like {"summary":"<paragraph1>\n\n<paragraph2>"}
-
-Top stories to synthesise:
+Top items:
 ${headlines.map((headline, index) => `
-${index + 1}. ${headline.title} (${headline.source}) – ${headline.summary}
+${index + 1}. ${headline.title} (${headline.source}) — ${headline.summary}
 `).join('\n')}
 `
   },
   it: {
     filterPrompt: (articles: ProcessedArticle[]) => `
-ISTRUZIONI DI SISTEMA (leggere con attenzione):
-Sei "GlobalNewsRelevance-v1", un redattore di agenzia internazionale imparziale con decenni di esperienza. Il tuo UNICO compito è stabilire quali degli articoli seguenti siano rilevanti per un pubblico GLOBALE oggi e assegnare un punteggio di rilevanza.
+Sei un redattore neutrale. Scegli gli articoli che contano per la maggior parte delle persone nel mondo oggi.
 
-Criteri rigorosi di valutazione:
-1. FATTUALITÀ – Mantieni solo elementi confermati da almeno una fonte autorevole. Escludi opinioni e speculazioni.
-2. RILEVANZA GLOBALE – Dai priorità agli sviluppi che incidono su geopolitica, economia transfrontaliera, clima, sicurezza, scienza o tecnologia di ampia portata. Le notizie strettamente locali o di spettacolo sono da escludere salvo conseguenze sistemiche globali.
-3. NEUTRALITÀ – Scarta articoli con linguaggio emotivo o sensazionalistico.
-4. ATTUALITÀ – Concentrati su eventi avvenuti nelle ultime 24 h o con impatto in corso.
-5. NOVITÀ – Elimina duplicati o aggiornamenti marginali che non cambiano sostanzialmente la storia.
+Regole semplici:
+- Tieni decisioni di governi e aziende, conflitti, disastri, clima, elezioni, scienza/tecnologia importanti.
+- Escludi gossip, notizie solo locali, opinioni, micro‑aggiornamenti.
+- Preferisci fatti a toni sensazionalistici.
 
-Schema di punteggio:
-- relevanceScore 0-10 (intero). 10 = informazione indispensabile per decisori globali; 5 = rilevante ma non determinante; 0 = irrilevante.
-- isRelevant = true se relevanceScore ≥ 6, altrimenti false.
+Punteggio:
+- relevanceScore: 0–10 (10 = essenziale; 5 = notevole; 0 = irrilevante)
+- isRelevant: true se score >= 6
+- index è a base zero (0..N-1)
 
-FORMATO DI OUTPUT (OBBLIGATORIO): restituisci SOLO JSON valido conforme esattamente allo schema seguente, senza markdown o commenti.
-{
-  "analyses": [
-    {
-      "index": <integer>,
-      "relevanceScore": <integer>,
-      "isRelevant": <boolean>,
-      "reason": "<spiegazione ≤300 caratteri in italiano>"
-    }
-  ]
-}
-
-In caso di dubbio, preferisci segnare l'articolo come NON rilevante.
-
-Articoli da analizzare:
-${articles.map((article, index) => `
-${index + 1}. ${article.title}
-Fonte: ${article.source}
-Contenuto (troncato): ${article.content.substring(0, 500)}...
-`).join('\n')}
-`,
-    headlinesPrompt: (articles: ProcessedArticle[]) => `
-ISTRUZIONI DI SISTEMA:
-Sei "GlobalNewsHeadliner-v1", un titolista esperto di agenzia stampa internazionale.
-
-Obiettivo: Genera un titolo neutro e denso di informazioni (6-12 parole, ≤ 70 caratteri) e UNA frase riassuntiva di 20-25 parole per ciascun articolo rilevante.
-
-Regole:
-• Usa preferibilmente il presente; evita aggettivi sensazionalistici.
-• Non citare la testata nel titolo.
-• Il riassunto deve aggiungere contesto essenziale non evidente dal titolo.
-
-FORMATO DI OUTPUT (OBBLIGATORIO): solo JSON valido che rispetti esattamente questo schema, nient'altro.
-{
-  "headlines": [
-    {
-      "title": "...",
-      "source": "...",   // copia esattamente come fornito
-      "summary": "...",
-      "link": "..."
-    }
-  ]
-}
+Restituisci SOLO JSON così:
+{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "... <=200 caratteri" } ] }
 
 Articoli:
 ${articles.map((article, index) => `
-${index + 1}. Titolo: ${article.title}
+Index: ${index}
+Titolo: ${article.title}
 Fonte: ${article.source}
-Contenuto: ${article.content}
+Contenuto (breve): ${article.content.substring(0, 500)}
+`).join('\n')}
+`,
+    headlinesPrompt: (articles: ProcessedArticle[]) => `
+Scrivi un titolo chiaro e neutro e una frase breve di contesto per ciascun articolo.
+
+Regole:
+- Titolo: 6–12 parole, tempo presente, senza enfasi.
+- Sommario: 18–24 parole, aggiungi contesto chiave non evidente dal titolo.
+- Non inserire la testata nel titolo; copia esattamente la fonte nel campo.
+
+Restituisci SOLO JSON così:
+{ "headlines": [ { "title": "...", "source": "...", "summary": "...", "link": "..." } ] }
+
+Articoli:
+${articles.map((article, index) => `
+Index: ${index}
+Titolo: ${article.title}
+Fonte: ${article.source}
+Contenuto (breve): ${article.content.substring(0, 600)}
 Link: ${article.link}
 `).join('\n')}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
-ISTRUZIONI DI SISTEMA:
-Sei "GlobalNewsSynthesiser-v1", un analista di alto livello che redige briefing quotidiani per diplomatici senior.
+Scrivi due paragrafi brevi e collegati che spieghino la giornata a un lettore generale.
 
-Compito: Produci DUE paragrafi connessi in modo elegante (ognuno 120-160 parole) che intreccino gli sviluppi globali più significativi del giorno in una narrazione coerente.
+Guida:
+- Paragrafo 1 (90–130 parole): apri con lo sviluppo principale; collega 2–3 notizie.
+- Paragrafo 2 (90–130 parole): tratta il resto per tema; spiega perché conta.
+- Linguaggio semplice e preciso. Tono neutro. Niente elenchi.
 
-Guida alla scrittura:
-1. Apri con lo sviluppo o il tema che meglio incornicia la giornata; integra 2-3 storie collegate nel primo paragrafo.
-2. Nel secondo paragrafo affronta gli altri elementi, raggruppandoli tematicamente e spiegando come rafforzano o contrastano il tema iniziale.
-3. Usa transizioni sofisticate (es. "Su questo sfondo", "In parallelo", "A sottolineare questa tendenza"). Evita la scrittura a elenco.
-4. Concludi con 1-2 frasi che evidenzino le implicazioni più ampie per stabilità globale, mercati o società.
-5. Mantieni tono neutro e preciso. Evita aggettivi di giudizio ("scioccante", "sbalorditivo", ecc.).
+Restituisci SOLO JSON del tipo {"summary":"<p1>\\n\\n<p2>"}
 
-FORMATO DI OUTPUT (OBBLIGATORIO): restituisci SOLO JSON del tipo {"summary":"<paragrafo1>\n\n<paragrafo2>"}
-
-Principali notizie da sintetizzare:
+Notizie principali:
 ${headlines.map((headline, index) => `
-${index + 1}. ${headline.title} (${headline.source}) – ${headline.summary}
+${index + 1}. ${headline.title} (${headline.source}) — ${headline.summary}
 `).join('\n')}
 `
   },
   fr: {
     filterPrompt: (articles: ProcessedArticle[]) => `
-INSTRUCTIONS SYSTÈME (lire attentivement) :
-Vous êtes « GlobalNewsRelevance-v1 », un rédacteur en chef d'agence de presse internationale impartial avec des décennies d'expérience. Votre SEULE tâche est de déterminer quels articles parmi les suivants sont pertinents pour un public MONDIAL aujourd'hui et d'attribuer un score de pertinence objectif.
+Vous êtes un éditeur neutre. Choisissez les sujets qui comptent pour le plus grand nombre dans le monde aujourd'hui.
 
-Critères d'évaluation stricts :
-1. FACTUALITÉ – Conservez uniquement les éléments corroborés par au moins une source réputée. Excluez les spéculations ou opinions.
-2. PERTINENCE MONDIALE – Priorisez les développements qui influencent la géopolitique, l'économie transfrontalière, le climat, la sécurité, la science ou la technologie majeure. Les éléments purement locaux ou de célébrité sont presque toujours EXCLUS sauf s'ils ont des conséquences systémiques mondiales.
-3. NEUTRALITÉ – Rejetez les articles rédigés dans un langage émotionnel ou sensationnel.
-4. ACTUALITÉ – Concentrez-vous sur les événements des dernières 24h ou dont l'impact se déroule maintenant.
-5. NOUVEAUTÉ – Écartez les doublons ou les mises à jour mineures sauf si elles font substantiellement avancer l'histoire.
+Règles simples :
+- Gardez décisions publiques/privées majeures, conflits, catastrophes, climat, élections, science/tech importantes.
+- Écartez people, local pur, opinion, micro‑mises à jour.
+- Privilégiez les faits aux effets de style.
 
-Système de notation :
-- relevanceScore 0-10 (entier). 10 = connaissance indispensable pour les décideurs mondiaux ; 5 = notable mais pas déterminant ; 0 = aucune pertinence.
-- isRelevant = true si relevanceScore ≥ 6, sinon false.
+Notation :
+- relevanceScore : 0–10 (10 = essentiel ; 5 = notable ; 0 = hors sujet)
+- isRelevant : true si score >= 6
+- index est à base zéro (0..N-1)
 
-FORMAT DE SORTIE (OBLIGATOIRE) : Retournez UNIQUEMENT du JSON valide correspondant exactement au schéma ci-dessous, **sans** markdown ni commentaire.
-{
-  "analyses": [
-    {
-      "index": <entier>,
-      "relevanceScore": <entier>,
-      "isRelevant": <booléen>,
-      "reason": "<explication ≤300 caractères en français>"
-    }
-  ]
-}
-
-En cas de doute, privilégiez marquer l'article comme NON pertinent.
-
-Articles à analyser :
-${articles.map((article, index) => `
-${index + 1}. ${article.title}
-Source : ${article.source}
-Contenu (tronqué) : ${article.content.substring(0, 500)}...
-`).join('\n')}
-`,
-    headlinesPrompt: (articles: ProcessedArticle[]) => `
-INSTRUCTIONS SYSTÈME :
-Vous êtes « GlobalNewsHeadliner-v1 », un titreur expérimenté d'agence de presse internationale.
-
-Objectif : Créer un titre neutre et riche en informations (6-12 mots, ≤ 70 caractères) et UNE phrase de résumé de 20-25 mots pour chaque article jugé pertinent.
-
-Règles :
-• Utilisez le présent quand possible ; pas d'adjectifs sensationnels.
-• Ne mentionnez PAS le média dans le titre.
-• Le résumé doit ajouter un contexte essentiel non évident du titre.
-
-FORMAT DE SORTIE (OBLIGATOIRE) : JSON valide uniquement, correspondant exactement à ce schéma et rien d'autre.
-{
-  "headlines": [
-    {
-      "title": "...",
-      "source": "...",     // copiez exactement comme fourni
-      "summary": "...",
-      "link": "..."
-    }
-  ]
-}
+Retournez UNIQUEMENT du JSON ainsi :
+{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "... <=200 caractères" } ] }
 
 Articles :
 ${articles.map((article, index) => `
-${index + 1}. Titre : ${article.title}
+Index : ${index}
+Titre : ${article.title}
 Source : ${article.source}
-Contenu : ${article.content}
+Contenu (court) : ${article.content.substring(0, 500)}
+`).join('\n')}
+`,
+    headlinesPrompt: (articles: ProcessedArticle[]) => `
+Rédigez un titre clair et neutre et une courte phrase de contexte pour chaque article.
+
+Règles :
+- Titre : 6–12 mots, présent, sans emphase.
+- Résumé : 18–24 mots, ajouter le contexte clé non évident du titre.
+- Ne mettez pas le média dans le titre ; copiez exactement la source dans le champ.
+
+Retournez UNIQUEMENT du JSON :
+{ "headlines": [ { "title": "...", "source": "...", "summary": "...", "link": "..." } ] }
+
+Articles :
+${articles.map((article, index) => `
+Index : ${index}
+Titre : ${article.title}
+Source : ${article.source}
+Contenu (court) : ${article.content.substring(0, 600)}
 Lien : ${article.link}
 `).join('\n')}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
-INSTRUCTIONS SYSTÈME :
-Vous êtes « GlobalNewsSynthesiser-v1 », un analyste d'élite rédigeant des briefings quotidiens pour des diplomates senior.
+Écrivez deux courts paragraphes reliés qui expliquent la journée au grand public.
 
-Tâche : Produire DEUX paragraphes élégamment connectés (chacun 120-160 mots) qui tissent les développements mondiaux les plus conséquents du jour en un récit cohérent.
+Guide :
+- Paragraphe 1 (90–130 mots) : l’info principale ; reliez 2–3 sujets.
+- Paragraphe 2 (90–130 mots) : le reste par thème ; pourquoi c’est important.
+- Langage simple et précis. Ton neutre. Pas de liste.
 
-Guidance de rédaction :
-1. Commencez par le développement ou thème unique qui cadre le mieux la journée. Intégrez 2-3 histoires liées dans le premier paragraphe.
-2. Dans le deuxième paragraphe, abordez les éléments restants, en les regroupant thématiquement et en expliquant comment ils renforcent ou contrastent le thème d'ouverture.
-3. Utilisez des transitions sophistiquées (ex. « Dans ce contexte », « En parallèle », « Soulignant ces tendances »). Évitez l'écriture en liste.
-4. Concluez par 1-2 phrases qui articulent les implications plus larges pour la stabilité mondiale, les marchés ou la société.
-5. Maintenez un ton neutre et précis. Évitez les adjectifs qui véhiculent un jugement (« choquant », « stupéfiant », etc.).
+Retournez UNIQUEMENT du JSON : {"summary":"<p1>\\n\\n<p2>"}
 
-FORMAT DE SORTIE (OBLIGATOIRE) : Retournez UNIQUEMENT du JSON comme {"summary":"<paragraphe1>\\n\\n<paragraphe2>"}
-
-Principales histoires à synthétiser :
+Sujets clés :
 ${headlines.map((headline, index) => `
-${index + 1}. ${headline.title} (${headline.source}) – ${headline.summary}
+${index + 1}. ${headline.title} (${headline.source}) — ${headline.summary}
 `).join('\n')}
 `
   }

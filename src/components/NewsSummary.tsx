@@ -79,7 +79,7 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
         <div className="flex items-center gap-4 mb-8 lg:mb-12">
           <div className="w-12 h-1 rounded-full bg-accent2-light dark:bg-accent2-dark" />
           <h2 className="text-2xl lg:text-3xl font-semibold text-text-light dark:text-text-dark">
-            {currentLanguage.code === 'it' ? 'Riassunto Giornaliero' : 'Daily Summary'}
+            {t.summary.dailySummary}
           </h2>
         </div>
         

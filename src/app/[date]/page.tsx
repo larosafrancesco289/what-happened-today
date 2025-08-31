@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { fetchDailySummary, getDateString } from '@/lib/client-utils';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getTranslations } from '@/lib/i18n';
@@ -9,38 +9,31 @@ import DateNavigation from '@/components/DateNavigation';
 import AppHeader from '@/components/AppHeader';
 import LoadingSpinner from '@/components/LoadingSpinner';
 import type { DailyNews } from '@/types/news';
-import { notFound } from 'next/navigation';
+import { useParams } from 'next/navigation';
 
-interface DatePageProps {
-  params: Promise<{ date: string }>;
-}
-
-export default function DatePage({ params }: DatePageProps) {
+export default function DatePage() {
   const { currentLanguage } = useLanguage();
   const [data, setData] = useState<DailyNews | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [date, setDate] = useState<string>('');
+  const [hasNextDate, setHasNextDate] = useState<boolean>(false);
   
   const t = getTranslations(currentLanguage.code);
+  const params = useParams<{ date: string }>();
 
   useEffect(() => {
-    async function getParams() {
-      const resolvedParams = await params;
-      const dateParam = resolvedParams.date;
-      
-      // Validate date format (YYYY-MM-DD)
-      const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
-      if (!dateRegex.test(dateParam)) {
-        notFound();
-        return;
-      }
-      
-      setDate(dateParam);
+    const dateParam = params?.date;
+    if (!dateParam) return;
+    // Validate date format (YYYY-MM-DD)
+    const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
+    if (!dateRegex.test(dateParam)) {
+      setError(t.common.error);
+      setLoading(false);
+      return;
     }
-    
-    getParams();
-  }, [params]);
+    setDate(dateParam);
+  }, [params, t.common.error]);
 
   useEffect(() => {
     if (!date) return;
@@ -62,6 +55,28 @@ export default function DatePage({ params }: DatePageProps) {
 
     fetchData();
   }, [date, currentLanguage.code, t.common.error]);
+
+  // Determine if next date exists by probing the API
+  useEffect(() => {
+    if (!date) return;
+    const next = new Date(date);
+    next.setDate(next.getDate() + 1);
+    const nextDateString = next.toISOString().split('T')[0];
+    const today = getDateString();
+    if (nextDateString > today) {
+      setHasNextDate(false);
+      return;
+    }
+    let cancelled = false;
+    fetchDailySummary(nextDateString, currentLanguage.code)
+      .then(res => {
+        if (!cancelled) setHasNextDate(!!res);
+      })
+      .catch(() => {
+        if (!cancelled) setHasNextDate(false);
+      });
+    return () => { cancelled = true; };
+  }, [date, currentLanguage.code]);
 
   if (loading) {
     return (
@@ -122,13 +137,6 @@ export default function DatePage({ params }: DatePageProps) {
     );
   }
 
-  // Check if there's a next date by seeing if tomorrow's data exists
-  const nextDate = new Date(date);
-  nextDate.setDate(nextDate.getDate() + 1);
-  const nextDateString = nextDate.toISOString().split('T')[0];
-  const today = getDateString();
-  const hasNextDate = nextDateString <= today;
-
   return (
     <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
       <AppHeader />
@@ -136,4 +144,4 @@ export default function DatePage({ params }: DatePageProps) {
       <DateNavigation currentDate={date} hasNextDate={hasNextDate} />
     </div>
   );
-} 
+}

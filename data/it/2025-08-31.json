@@ -1,12 +1,60 @@
 {
   "date": "2025-08-31",
-  "summary": "I mercati globali e gli affari internazionali hanno continuato la loro progressione costante oggi, con vari sviluppi nei settori economico, politico e sociale. Nel frattempo, gli indicatori chiave suggeriscono una stabilità continua nella maggior parte delle regioni, mentre le istituzioni di tutto il mondo coordinano le risposte alle sfide emergenti.\n\nQuesti sviluppi riflettono un modello più ampio di cooperazione internazionale e resilienza economica. Mentre governi e organizzazioni navigano dinamiche globali complesse, il loro approccio coordinato dimostra un impegno a mantenere la stabilità affrontando al contempo iniziative strategiche a lungo termine attraverso canali diplomatici ed economici consolidati.",
+  "summary": "Una flottiglia di circa cinquanta imbarcazioni è partita da Barcellona diretta a Gaza per chiedere l'apertura di corridoi umanitari e l'accesso alla Striscia, in una missione sostenuta anche da Greta Thunberg che ha criticato il silenzio internazionale. L'iniziativa si inserisce in un quadro più ampio di proposte per la regione: gli Stati Uniti hanno presentato un piano per la cosiddetta 'Gaza Riviera' che incentiva trasferimenti e investimenti, puntando su turismo e sviluppo high-tech per favorire ricollocazioni economiche. Le due mosse mostrano approcci differenti ma complementari per tentare di alleviare la crisi umanitaria e stimolare soluzioni economiche.\n\nAltri sviluppi politici e umanitari mostrano la portata regionale del conflitto e le tensioni internazionali. Parigi ha accusato l'Italia di dumping fiscale in una disputa che coinvolge presunti paradisi fiscali, e Palazzo Chigi si prepara a coordinarne la risposta a livello europeo; sul versante diplomatico l'Italia ha ribadito la contrarietà a qualsiasi occupazione della Striscia di Gaza e della Cisgiordania, con il ministro Tajani che annuncia un incontro imminente con autorità palestinesi. Nel frattempo l'Ucraina denuncia attacchi russi alle centrali energetiche e riceve aiuti italiani per ospedali, mentre decine di studenti palestinesi con borse in Italia chiedono corridoi umanitari. Manifestazioni in Messico per 130.000 scomparsi evidenziano poi crisi civili di altra natura.",
   "headlines": [
     {
-      "title": "Flotilla riprova missione internazionale verso Gaza",
+      "title": "Piano statunitense per Gaza Riviera incentiva trasferimenti economici",
+      "source": "ANSA",
+      "summary": "Il piano prevede incentivi economici per chi lascia l'area, con particolare attenzione al turismo e allo sviluppo high-tech",
+      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2025/08/31/wp-piano-usa-per-gaza-riviera-turismo-e-high-tech_7da25273-e9fb-4193-a8b0-98a7c8b6b3be.html"
+    },
+    {
+      "title": "Parigi accusa l'Italia di dumping fiscale",
+      "source": "ANSA",
+      "summary": "La disputa coinvolge paradisi fiscali e posizioni italiane, con Palazzo Chigi pronta a coordinarsi in sede europea per una risposta comune.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2025/08/31/parigi-accusa-litalia-di-dumping-fiscale-palazzo-chigi-lo-combattano-in-europa-con_aa5fbca5-0dac-44f6-9843-c734c4901c5b.html"
+    },
+    {
+      "title": "Flottiglia globale per Gaza parte da Barcellona, Greta critica silenzio internazionale",
+      "source": "ANSA",
+      "summary": "La flotta comprende circa cinquanta imbarcazioni provenienti da diverse nazioni europee, chiedendo corridoi umanitari e accesso a Gaza.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2025/08/31/salpata-da-barcellona-verso-gaza-la-global-sumud-flotilla-greta-come-puo_8d01e18c-fec5-4559-b41f-e8c879179a16.html"
+    },
+    {
+      "title": "Ucraina denuncia attacchi russi alle centrali energetiche",
       "source": "Rai News",
-      "summary": "La Global Sumud Flotilla parte da Barcellona con una ventina di imbarcazioni e aiuti per Gaza, contando 300 attivisti a bordo.",
-      "link": "https://www.rainews.it/articoli/2025/08/la-global-sumud-flotilla-ci-riprova-limponente-missione-civile-internazionale-pronta-a-salpare-in-aiuto-di-gaza-053a67dd-ebdb-4827-ad15-3ec896f00066.html"
+      "summary": "Svitlana Hrynchuk riferisce all'Italia che ha donato milioni di euro provenienti dal fondo UE, fornendo equipaggiamenti e pannelli solari per ospedali",
+      "link": "https://www.rainews.it/video/2025/08/ministra-dellenergia-ucraina-la-russia-colpisce-le-nostre-centrali-per-colpire-la-vita-civile-tg1-0cb65964-7378-46dd-8cc1-96b608e77f34.html"
+    },
+    {
+      "title": "Italia si oppone a occupazione della Striscia di Gaza e a Cisgiordania",
+      "source": "Rai News",
+      "summary": "Tajani ribadisce la contrarietà italiana a soluzioni unilaterali, annunciando un imminente incontro con le autorità palestinesi per discutere veicoli diplomatici",
+      "link": "https://www.rainews.it/video/2025/08/tajani-italia-contraria-a-occupazione-della-striscia-di-gaza-e-annessione-della-cisgiordania-2da7781d-5d5b-40bd-b059-561fb1b4bb8e.html"
+    },
+    {
+      "title": "L'appello degli studenti palestinesi per corridoi umanitari che li facciano arrivare in Italia",
+      "source": "Rai News",
+      "summary": "Decine di studenti hanno borse di studio italiane, ma restano bloccati nella Striscia; altri Paesi hanno già attivato corridoi.",
+      "link": "https://www.rainews.it/video/2025/08/appello-degli-studenti-palestinesi-per-corridoi-umanitari-che-li-facciano-arrivare-in-italia-tg3-1620025c-b998-4d7f-ba4b-9d834e8994a1.html"
+    },
+    {
+      "title": "Israele uccide portavoce di Hamas e prepara controllo della Cisgiordania",
+      "source": "Rai News",
+      "summary": "I raid IDF hanno causato decine di morti mentre diverse fonti riferiscono condizioni critiche di popolazione e controversie territoriali",
+      "link": "https://www.rainews.it/video/2025/08/israele-uccide-obeida-il-portavoce-di-hamas-e-si-prepara-al-controllo-della-cisgiordania-3e7cd65f-42bb-413a-9ad3-f8b6c8f22cf3.html"
+    },
+    {
+      "title": "Flotilla umanitaria parte da Barcellona diretta a Gaza",
+      "source": "TGCOM24",
+      "summary": "La missione mira a rompere il blocco e aprire corridoi umanitari, sostenuta da Greta Thunberg nonché altri attori internazionali.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/flottiglia-umanitaria-gaza-a-bordo-greta-thunberg_102882210-202502k.shtml"
+    },
+    {
+      "title": "Manifestano in Messico per 130.000 scomparsi",
+      "source": "ANSA",
+      "summary": "La protesta chiede maggiore impegno governativo e chiarezza sulle sparizioni, in un contesto di anni di indagini e tensioni.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/08/31/a-migliaia-manifestano-in-messico-per-i-130.000-scomparsi_18ae13a3-424a-4c66-ac65-205025a99b67.html"
     }
   ]
 }

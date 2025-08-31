@@ -1,12 +1,48 @@
 {
   "date": "2025-08-31",
-  "summary": "Les marchés mondiaux et les affaires internationales ont poursuivi leur progression constante aujourd'hui, avec divers développements dans les secteurs économique, politique et social. Parallèlement, les indicateurs clés suggèrent une stabilité continue dans la plupart des régions, tandis que les institutions du monde entier coordonnent leurs réponses aux défis émergents.\n\nCes développements reflètent un modèle plus large de coopération internationale et de résilience économique. Alors que les gouvernements et les organisations naviguent dans des dynamiques mondiales complexes, leur approche coordonnée démontre un engagement à maintenir la stabilité tout en abordant des initiatives stratégiques à long terme à travers des canaux diplomatiques et économiques établis.",
+  "summary": "Sur plusieurs fronts, la situation sécuritaire reste tendue et les opérations militaires se poursuivent. En Ukraine, le président Volodymyr Zelensky promet de nouvelles frappes et maintien des actions pour défendre le pays, tandis que les forces se préparent à de nouvelles phases de combat. Dans la bande de Gaza, l’agence Wafa fait état d’environ 80 personnes tuées depuis l’aube, dont 31 victimes lors de tirs intervenus pendant une distribution d’aide, accentuant la crise humanitaire. Enfin, selon l’ONU, les Houthis ont arrêté au moins onze employés dans le cadre d’une campagne d’arrestations liée à la mort, le 28 août, de leur premier ministre dans des frappes israéliennes.\n\nEn France, le gouvernement met l’accent sur les finances publiques: face à un déficit et une dette qui pèsent sur les comptes, le Premier ministre présente un plan d’économies présenté comme inévitable, pendant que Franceinfo consulte des économistes pour éclairer les chiffres et leurs conséquences sur les services publics et les impôts. Sur le plan politique, Gérald Darmanin tend la main aux socialistes et évoque une « fibre sociale » alors qu’il est cité comme possible occupant de Matignon, signe d’un effort pour élargir les majorités. Parallèlement, la ville de Paris commence à raccorder cinq écoles et un collège au réseau de froid urbain pour réduire la climatisation, tandis que Météo‑France alerte sur des orages violents et des inondations plaçant huit départements en vigilance orange, susceptible de s’étendre.",
   "headlines": [
     {
-      "title": "Zelensky promet de nouvelles frappes en profondeur",
+      "title": "En direct, guerre en Ukraine : les dernières informations",
       "source": "Le Monde",
-      "summary": "Après un entretien avec le général Syrsky, le président ukrainien affirme poursuivre les opérations actives pour défendre l'Ukraine, avec forces et ressources prêtes.",
-      "link": "https://www.lemonde.fr/international/live/2025/08/31/en-direct-guerre-en-ukraine-volodymyr-zelensky-promet-de-nouvelles-frappes-en-profondeur_6637567_3210.html"
+      "summary": "Le président Zelensky promet de nouvelles frappes et poursuit les opérations actives pour défendre l'Ukraine, avec les forces en préparation.",
+      "link": "https://www.lemonde.fr/international/live/2025/08/31/en-direct-guerre-en-ukraine-les-dernieres-informations_6637567_3210.html"
+    },
+    {
+      "title": "Déficit public et dette: les chiffres qui entravent la France",
+      "source": "France Info",
+      "summary": "Le Premier ministre présente son plan d'économies, jugé inévitable pour redresser les finances, et Franceinfo sollicite des économistes pour éclairer les chiffres.",
+      "link": "https://www.franceinfo.fr/economie/deficit-public-dette-interets-alors-que-francois-bayrou-alerte-sur-la-situation-economique-de-la-france-que-disent-les-chiffres_7457734.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Darmanin tend la main aux socialistes et parle fibre sociale",
+      "source": "Le Monde",
+      "summary": "Le ministre de la justice, envisageant Matignon, a adressé des gestes au PS lors de la rentrée des Populaires.",
+      "link": "https://www.lemonde.fr/politique/article/2025/08/31/a-tourcoing-gerald-darmanin-tend-la-main-aux-socialistes-et-fait-valoir-sa-fibre-sociale_6637931_823448.html"
+    },
+    {
+      "title": "Gaza : nouveau bilan sur les victimes selon Wafa",
+      "source": "Le Monde",
+      "summary": "Selon l’agence Wafa, 80 personnes tuées depuis l’aube dans la bande de Gaza, et 31 victimes dans des tirs lors d’une distribution d’aide.",
+      "link": "https://www.lemonde.fr/international/live/2025/08/31/en-direct-gaza-80-personnes-tuees-depuis-l-aube-dans-la-bande-de-gaza-selon-un-nouveau-bilan-de-wafa_6635968_3210.html"
+    },
+    {
+      "title": "ONU : les Houthis arrêtent au moins onze employés",
+      "source": "Le Monde",
+      "summary": "Les houthistes lancent une campagne d’arrestations après la mort jeudi 28 août de leur premier ministre dans des frappes israéliennes.",
+      "link": "https://www.lemonde.fr/international/article/2025/08/31/yemen-les-rebelles-houthistes-ont-arrete-un-employe-du-programme-alimentaire-mondial-selon-l-agence-de-l-onu_6637918_3210.html"
+    },
+    {
+      "title": "À Paris, premières écoles raccordées au réseau de froid urbain",
+      "source": "Le Monde",
+      "summary": "Après un été de travaux, cinq écoles et un collège vont bénéficier du réseau de froid souterrain, moins polluant que la climatisation.",
+      "link": "https://www.lemonde.fr/planete/article/2025/08/31/a-paris-les-premieres-ecoles-raccordees-au-reseau-de-froid-pour-faire-face-aux-canicules_6637572_3244.html"
+    },
+    {
+      "title": "Orages et inondations : huit départements en vigilance orange dimanche soir",
+      "source": "Le Monde",
+      "summary": "Des orages violents pourraient toucher le Sud-Est, et Météo-France prévoit une extension de la vigilance orange à dix départements lundi.",
+      "link": "https://www.lemonde.fr/climat/article/2025/08/31/orages-et-inondations-meteo-france-etend-sa-vigilance-orange-dimanche-soir-dans-huit-departements_6637615_1652613.html"
     }
   ]
 }

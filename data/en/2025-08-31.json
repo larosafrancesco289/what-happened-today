@@ -1,42 +1,54 @@
 {
   "date": "2025-08-31",
-  "summary": "Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.",
+  "summary": "Russia launched a large, coordinated attack on Ukraine today as Kyiv said it struck refineries in response. Ukrainian officials reported strikes across 14 regions, with casualties including at least one dead and dozens injured, and separate early reports said a major strike on the capital killed at least 19 people, including children. Authorities also reported waves of drones overnight that damaged power infrastructure in Odesa and Chernihiv, leaving about 60,000 households without electricity and prompting Kyiv to vow retaliation. Fighting continues to disrupt civilian life and energy supplies across the country.\n\nElsewhere, world leaders met in China at a regional security summit where Vladimir Putin and Narendra Modi joined about 20 others, underscoring shifting diplomatic alignments and a focus on regional stability. In New York, the United States blocked a Palestinian leader from attending a UN meeting even as France pushes recognition of Palestinian statehood, highlighting divisions in international diplomacy. Israel said a strike killed Hamas spokesman Abu Obeida, a claim not yet independently verified. Researchers warned that climate change is slowing hurricanes and increasing rainfall, raising new risks for coastal communities, while Ukraine’s president rejected buffer zone proposals, signaling continued resistance to demilitarization offers.",
   "headlines": [
     {
-      "title": "Russia launches large-scale attack on Ukraine, Kyiv reports",
+      "title": "Russia launches large attack on Ukraine as Kyiv targets refineries",
       "source": "BBC World",
-      "summary": "Reports say Russia strikes 14 Ukrainian regions, with casualties and ongoing clashes amid intensified fighting as Kyiv reports airstrikes continue.",
+      "summary": "Kyiv reports strikes across 14 regions, with casualties reported including at least one dead and dozens injured so far.",
       "link": "https://www.bbc.com/news/articles/c4g614x9kqko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Putin, Modi and other world leaders attend regional security summit in China",
+      "title": "Russia carries out deadly attack on Kyiv, reports say",
       "source": "BBC World",
-      "summary": "Among 20 leaders, the gathering aims to discuss regional security and strategic issues, with no immediate note of outcomes.",
+      "summary": "A major strike hits Ukraine's capital, killing at least 19 people, including children, according to early reports from authorities.",
+      "link": "https://www.bbc.com/news/videos/c9wy42kjndzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Putin, Modi join others at China regional security summit",
+      "source": "BBC World",
+      "summary": "Putin and Modi attend a regional security summit in China with about 20 other world leaders as part of a broader gathering.",
       "link": "https://www.bbc.com/news/videos/c5y310qngqpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Pakistan's Punjab province faces worst floods in history",
-      "source": "Al Jazeera English",
-      "summary": "Over two million people affected in Punjab during floods described as the province's most severe, with evacuations ongoing.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2025/8/31/pakistans-punjab-province-faces-worst-floods-in-its-history?traffic_source=rss"
+      "title": "Climate change is intensifying hurricanes, researchers say",
+      "source": "France 24",
+      "summary": "Recent analysis links storms slowing and increasing rainfall to warming oceans, highlighting heightened risks and adaptation challenges for coasts.",
+      "link": "https://www.france24.com/en/environment/20250831-is-climate-change-making-hurricanes-stronger"
     },
     {
-      "title": "Prominent Ukrainian politician Parubiy is shot dead in Lviv",
+      "title": "Ukraine vows retaliation after drone strikes cut power",
+      "source": "France 24",
+      "summary": "Russia launches 142 drones overnight, hitting energy sites in Odesa and Chernihiv, leaving about 60,000 households without power.",
+      "link": "https://www.france24.com/en/europe/20250831-thousands-left-without-power-in-ukraine-s-odesa-after-russian-drone-strikes"
+    },
+    {
+      "title": "US blocks Palestinian leader from attending UN meeting in New York",
       "source": "BBC World",
-      "summary": "Zelensky condemns the killing as a terrible murder, while authorities pursue suspects in a widening manhunt across Lviv and surrounding areas.",
-      "link": "https://www.bbc.com/news/articles/cjw6ep37469o?at_medium=RSS&at_campaign=rss"
+      "summary": "The move coincides with international efforts led by France to push for Palestinian state recognition at next month's UN gathering.",
+      "link": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "New footage shows Israel strikes Gaza's Nasser Hospital four times",
+      "title": "Zelensky rejects buffer zone proposals to end Ukraine war",
       "source": "BBC World",
-      "summary": "The video evidence suggests four strikes occurred at Nasser Hospital, revising earlier casualty counts and prompting renewed international calls.",
-      "link": "https://www.bbc.com/news/articles/cly6lxn1l4po?at_medium=RSS&at_campaign=rss"
+      "summary": "Zelensky argues buffer zones would ignore modern warfare realities, signaling no concession to demilitarization plans as long-term strategy.",
+      "link": "https://www.bbc.com/news/articles/c04r0z1pr25o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tariffs largely illegal, appeals court says, may stay for now",
-      "source": "Deutsche Welle",
-      "summary": "A US appeals court ruled that most tariffs imposed by President Donald Trump are illegal, and the administration plans to appeal.",
-      "link": "https://www.dw.com/en/us-president-trump-s-sweeping-tariffs-largely-illegal-but-can-stay-in-place-for-now-appeals-court-rules/a-73817095?maca=en-rss-en-top-1022-rdf"
+      "title": "Hamas spokesman Abu Obeida killed in Gaza strike, Israel says",
+      "source": "BBC World",
+      "summary": "Israel says the military strike killed Hamas's public spokesperson; Hamas has not confirmed the death, as the conflict widens and verification remains incomplete.",
+      "link": "https://www.bbc.com/news/articles/cm214r5rd29o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

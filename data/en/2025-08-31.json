@@ -1,66 +1,42 @@
 {
   "date": "2025-08-31",
-  "summary": "Escalating violence and targeted killings framed the day's geopolitics, as the Iran-backed Houthi movement confirmed its prime minister was killed in an Israeli strike while Russia mounted a large, multi‑regional assault on Ukraine even as Kyiv struck back at fuel infrastructure. The Houthi admission, coming after strikes on a rebel-held site that reportedly killed Ahmed Ghaleb Nasser al-Rahawi and other officials, signals widening ripples of the Israel‑Hamas conflict into adjacent theatres and underscores Tehran's regional footprint. In Europe, Moscow's strikes across 14 Ukrainian regions—followed by Kyiv's reported damage to oil refineries—intensify a cycle of strategic targeting that blends military, economic and energy dimensions. Against this backdrop, the fatal shooting of former Ukrainian parliamentary speaker Andriy Parubiy in Lviv compounds concerns about internal political violence and the vulnerabilities facing leadership amid sustained external pressure.\n\nIn parallel, domestic governance strains and information vulnerabilities deepened. In the United States, Chicago's mayor issued an order to resist a potential federal enforcement push tied to the White House, reflecting fault lines between municipal authorities and national security priorities; that friction coincided with a deadly elementary‑school attack in Minneapolis, renewing scrutiny of mental‑health and gun‑violence prevention. Judicial intervention and political volatility surfaced in Thailand as the Constitutional Court removed the prime minister after a leaked call. Underscoring technology's role, investigators exposed a transnational web monetising AI‑generated Holocaust imagery while Indonesia's president cancelled a China visit as protests spread and TikTok halted live feeds, showing how platforms shape civic dynamics. Even environmental shocks offered contrast: wildfires ravaged much of Turkey but spared a Bursa orchard, a reminder of uneven climate impacts. Together, these developments point to fragmented authority, heightened market sensitivity to conflict and growing strain on public trust and information integrity.",
+  "summary": "Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.",
   "headlines": [
     {
-      "title": "Houthis confirm prime minister killed in Israeli strike",
+      "title": "Russia launches large-scale attack on Ukraine, Kyiv reports",
       "source": "BBC World",
-      "summary": "The Iran-backed group says Ahmed Ghaleb Nasser al-Rahawi and several other Houthi officials were killed in the Israeli attack on a rebel-held site.",
-      "link": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Andriy Parubiy shot dead in Lviv",
-      "source": "BBC World",
-      "summary": "President Zelensky called the killing a terrible murder as authorities search for the assailant following Parubiy's shooting in western Ukraine.",
-      "link": "https://www.bbc.com/news/articles/cjw6ep37469o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Russia launches large attack on Ukraine as Kyiv hits oil refineries",
-      "source": "BBC World",
-      "summary": "Russia strikes 14 Ukrainian regions, killing at least one and injuring about 30, while Kyiv reports widespread damage and retaliatory strikes.",
+      "summary": "Reports say Russia strikes 14 Ukrainian regions, with casualties and ongoing clashes amid intensified fighting as Kyiv reports airstrikes continue.",
       "link": "https://www.bbc.com/news/articles/c4g614x9kqko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Chicago mayor signs order to resist potential Trump crackdown",
+      "title": "Putin, Modi and other world leaders attend regional security summit in China",
       "source": "BBC World",
-      "summary": "The move follows a feud over crime and immigration between the White House and Illinois officials, marking another confrontation in national security debates.",
-      "link": "https://www.bbc.com/news/articles/czr6d5jm50do?at_medium=RSS&at_campaign=rss"
+      "summary": "Among 20 leaders, the gathering aims to discuss regional security and strategic issues, with no immediate note of outcomes.",
+      "link": "https://www.bbc.com/news/videos/c5y310qngqpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Minneapolis school attacker obsessed with idea of killing children, officials say",
-      "source": "BBC World",
-      "summary": "Two children killed were Fletcher Merkel, eight, and Harper Moyski, 10, as investigators describe the attack and search for a suspect.",
-      "link": "https://www.bbc.com/news/articles/c4g0lyny7ydo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Life inside notorious Alligator Alcatraz in its final days",
-      "source": "BBC World",
-      "summary": "Families say detainees disappeared inside the facility as authorities prepare to close the controversial immigration detention site amid criticisms of conditions and treatment of detainees.",
-      "link": "https://www.bbc.com/news/articles/cwy3zel0r3go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Thai prime minister removed by Constitutional Court amid leak",
-      "source": "BBC World",
-      "summary": "The Constitutional Court removes another prime minister after a leaked call linked to the Shinawatra era, continuing a cycle of political upheaval and court interventions.",
-      "link": "https://www.bbc.com/news/articles/cdrkvy2pn87o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Web of spammers profiting from AI-generated Holocaust images",
-      "source": "BBC World",
-      "summary": "Investigators identify an international network exploiting AI-generated Holocaust images for social media profits, highlighting risks to victims' memory and platform policy gaps.",
-      "link": "https://www.bbc.com/news/articles/ckg4xjk1g1xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Orchard in Turkey endures wildfire, remains largely untouched",
-      "source": "BBC World",
-      "summary": "Recent wildfires scorched vast areas across Turkey, but the Bursa orchard remained untouched, illustrating microclimate or terrain factors that limited spread.",
-      "link": "https://www.bbc.com/news/videos/c890jk8v5vlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Indonesian president scraps China trip amid protests, TikTok halts live feed",
+      "title": "Pakistan's Punjab province faces worst floods in history",
       "source": "Al Jazeera English",
-      "summary": "Protests spread nationwide, prompting Prabowo to cancel his trip to China while TikTok stops live broadcasts in response to public outcry.",
-      "link": "https://www.aljazeera.com/news/2025/8/31/indonesias-prabowo-scraps-china-trip-tiktok-halts-live-feed-amid-protests?traffic_source=rss"
+      "summary": "Over two million people affected in Punjab during floods described as the province's most severe, with evacuations ongoing.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2025/8/31/pakistans-punjab-province-faces-worst-floods-in-its-history?traffic_source=rss"
+    },
+    {
+      "title": "Prominent Ukrainian politician Parubiy is shot dead in Lviv",
+      "source": "BBC World",
+      "summary": "Zelensky condemns the killing as a terrible murder, while authorities pursue suspects in a widening manhunt across Lviv and surrounding areas.",
+      "link": "https://www.bbc.com/news/articles/cjw6ep37469o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "New footage shows Israel strikes Gaza's Nasser Hospital four times",
+      "source": "BBC World",
+      "summary": "The video evidence suggests four strikes occurred at Nasser Hospital, revising earlier casualty counts and prompting renewed international calls.",
+      "link": "https://www.bbc.com/news/articles/cly6lxn1l4po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Tariffs largely illegal, appeals court says, may stay for now",
+      "source": "Deutsche Welle",
+      "summary": "A US appeals court ruled that most tariffs imposed by President Donald Trump are illegal, and the administration plans to appeal.",
+      "link": "https://www.dw.com/en/us-president-trump-s-sweeping-tariffs-largely-illegal-but-can-stay-in-place-for-now-appeals-court-rules/a-73817095?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }

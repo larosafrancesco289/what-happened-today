@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-30",
+  "summary": "Le fil conducteur du jour est une montée des tensions politiques et sociales qui met à l'épreuve la capacité des gouvernements à gouverner sans perdre leur assise populaire. En France, l'appel de plusieurs syndicats à une journée de mobilisation le 18 septembre contre les mesures du Budget 2026 s'inscrit dans le prolongement du mouvement « Bloquons tout », signalant une recomposition de la contestation sociale sur fond d'austérité annoncée. Dans le même registre de fragilisation de la sphère publique, la suspension et la démission de Laurent Vallet après son interpellation pour achat de cocaïne posent un enjeu de responsabilité politique et de confiance institutionnelle. Parallèlement, la posture critique d'Édouard Philippe au sein du camp présidentiel, qui ménage une distance stratégique pour préserver sa visibilité, illustre la recomposition des équilibres politiques internes et la recherche de relais d'influence en perspective électorale.\n\nÀ l'échelle internationale, ces fragilités politiques se conjuguent à des dynamiques de confrontation et d'incertitude stratégique. En Ukraine, des attaques mixtes de drones et missiles ont touché plusieurs régions, faisant des blessés à Zaporijia, tandis que des évaluations signalent un rassemblement russe pouvant atteindre 100 000 soldats près d'une ville clé de l'est, renforçant le risque d'intensification militaire. Dans ce contexte, Washington a révoqué les visas de dizaines de responsables de l'Autorité palestinienne avant l'Assemblée générale de l'ONU, alors que des initiatives américaines tentent de rapprocher Poutine et Zelensky et que Moscou récuse les propos du président français. En parallèle, une étude alerte que le changement climatique pourrait pousser près de six millions de jeunes d'Amérique latine vers la pauvreté, et une cour d'appel américaine a jugé illégaux des droits de douane imposés auparavant, épisodes qui soulignent comment chocs climatiques, juridiques et géopolitiques recomposent les risques pour la stabilité mondiale et les marchés.",
+  "headlines": [
+    {
+      "title": "Budget 2026: les syndicats s'organisent pour la mobilisation",
+      "source": "Le Monde",
+      "summary": "Plusieurs syndicats appellent à une journée de mobilisation le 18 septembre contre les mesures budgétaires proposées, en lien avec le mouvement Bloquons tout.",
+      "link": "https://www.lemonde.fr/politique/article/2025/08/30/budget-2026-les-syndicats-se-mettent-en-ordre-de-bataille_6637449_823448.html"
+    },
+    {
+      "title": "Laurent Vallet suspendu après interpellation et démission",
+      "source": "Le Monde",
+      "summary": "La ministre de la culture annonce sa suspension et Vallet démissionne après son arrestation pour achat de cocaïne à son domicile.",
+      "link": "https://www.lemonde.fr/actualite-medias/article/2025/08/29/le-president-de-l-ina-laurent-vallet-suspendu-apres-son-interpellation-pour-achat-de-cocaine-demissionne_6637423_3236.html"
+    },
+    {
+      "title": "Changement climatique pousse six millions de jeunes vers la pauvreté",
+      "source": "RFI",
+      "summary": "Une étude estime que près de six millions de jeunes en Amérique latine pourraient basculer dans la pauvreté d’ici 2030 sans actions climatiques efficaces.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20250829-am%C3%A9rique-latine-le-changement-climatique-pourrait-pousser-six-millions-de-jeunes-dans-la-pauvret%C3%A9-d-ici-%C3%A0-2030"
+    },
+    {
+      "title": "États-Unis révoquent des visas de dirigeants palestiniens avant l’ONU",
+      "source": "Le Monde",
+      "summary": "Le département d’État retire les visas de dizaines de responsables de l’Autorité palestinienne et pourrait empêcher Mahmoud Abbas de voyager à New York.",
+      "link": "https://www.lemonde.fr/international/article/2025/08/30/les-etats-unis-utilisent-l-arme-des-visas-contre-l-autorite-palestinienne-avant-l-assemblee-generale-de-l-onu_6637442_3210.html"
+    },
+    {
+      "title": "Guerre en Ukraine: attaques russes frappent plusieurs régions",
+      "source": "Le Monde",
+      "summary": "Des attaques mixtes de drones et missiles blessent des civils et visent plusieurs régions, faisant notamment des blessés à Zaporijia selon les autorités.",
+      "link": "https://www.lemonde.fr/international/live/2025/08/30/en-direct-guerre-en-ukraine-plusieurs-regions-visees-par-des-attaques-russes-au-moins-un-mort-a-zaporijia_6634258_3210.html"
+    },
+    {
+      "title": "Edouard Philippe conserve une voix critique au sein du camp présidentiel",
+      "source": "Le Monde",
+      "summary": "L’ancien premier ministre entretient une distanciation stratégique avec ses alliés pour gagner en visibilité, tout en évaluant son éventuelle trajectoire vers l’Elysée.",
+      "link": "https://www.lemonde.fr/politique/article/2025/08/29/edouard-philippe-maintient-une-voix-critique-a-l-interieur-du-camp-presidentiel_6637420_823448.html"
+    },
+    {
+      "title": "Russie rassemble jusqu’à 100 000 soldats près d’une ville clé",
+      "source": "Le Figaro",
+      "summary": "La Russie rassemble jusqu’à 100 000 soldats près d’une ville clé de l’est, selon les évaluations militaires et les sources régionales.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-deux-morts-apres-des-frappes-de-l-armee-russe-dans-la-region-de-dnipropetrovsk-20250829"
+    },
+    {
+      "title": "Trump poursuit les efforts en vue d’une rencontre Poutine-Zelensky",
+      "source": "Le Figaro",
+      "summary": "Le leadership américain accélère les contacts en coulisses pour faciliter une éventuelle rencontre entre les deux dirigeants, selon des observations diplomatiques.",
+      "link": "https://www.lefigaro.fr/international/donald-trump-continue-a-travailler-pour-une-rencontre-entre-vladimir-poutine-et-volodymyr-zelensky-20250829"
+    },
+    {
+      "title": "Moscou dénonce les propos de Macron envers Poutine",
+      "source": "Le Figaro",
+      "summary": "La Russie critique les qualificatifs utilisés par le président français, les jugeant déplacés et risquant d’escalader les tensions liées au conflit en Ukraine.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-moscou-denonce-les-insultes-vulgaires-de-macron-contre-poutine-depassant-les-limites-de-la-decence-20250829"
+    },
+    {
+      "title": "Des droits de douane de Trump jugés illégaux en appel",
+      "source": "France Info",
+      "summary": "La cour estime que la loi n’autorise pas le président à imposer ces taxes; Trump assure que la décision pourrait détruire les États-Unis.",
+      "link": "https://www.franceinfo.fr/monde/usa/droits-de-douane/une-partie-des-droits-de-douane-de-donald-trump-sont-declares-illegaux-en-appel-l-affaire-ira-devant-la-cour-supreme-americaine_7463050.html#xtor=RSS-3-[lestitres]"
+    }
+  ]
+}

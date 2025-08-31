@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-25",
+  "summary": "Le fil conducteur de la journée est la montée des tensions, à la fois géopolitiques et internes, qui redessinent les marges de l'action publique. À Sanaa, des frappes israéliennes visant des sites houthis ont fait, selon les bilans locaux, six morts et 86 blessés, et les écarts de comptage entre sources soulignent la difficulté d'établir une image unifiée d'une escalade régionale susceptible d'entraîner des répercussions transfrontalières. En parallèle, la diplomatie bilatérale a été mise sous pression : le Quai d'Orsay a convoqué l'ambassadeur américain après des critiques sur la manière dont la France aborde l'antisémitisme, geste révélateur d'une sensibilité accrue qui pèse sur la coopération entre alliés. À l'intérieur, cette conjonction de facteurs alimente la contestation sociale : la gauche appelle à une journée de mobilisation nationale le 10 septembre tandis que des préavis de grève menacent de perturber la rentrée, traduisant un climat politique incertain.\n\nEn arrière-plan de ces affrontements, la vie culturelle, économique et judiciaire illustre des recompositions plus quotidiennes mais non moins significatives. Les repères culinaires autour de musées à Rodez, Giverny et Marseille signent une reprise du tourisme culturel et une demande d'accessibilité, tandis que les groupes audiovisuels remodèlent leurs grilles — recrutement d'animateurs pour reconquérir l'audience — dans un paysage fragilisé par des arrêts de diffusion et des changements éditoriaux. En parallèle, la coopération judiciaire internationale avance avec la possible collaboration d'un fondateur de cartel de longue date, pendant que des militants identitaires se tournent vers un catholicisme traditionaliste, réorientant des discours civiques. La sécheresse, enfin, met à mal les filières bio et la production laitière, rappelant que les chocs climatiques convergent désormais avec les crises politiques et sécuritaires. Ces dynamiques interconnectées renforcent les pressions sur la stabilité nationale et les marchés, tout en érodant la confiance sociale et institutionnelle.",
+  "headlines": [
+    {
+      "title": "Bilan des frappes sur Sanaa: six morts et 86 blessés",
+      "source": "Le Monde",
+      "summary": "Des raids aériens israéliens visent des sites houthis à Sanaa, faisant un bilan distinct de ceux annoncés par les insurgés.",
+      "link": "https://www.lemonde.fr/international/live/2025/08/25/en-direct-gaza-les-dernieres-informations_6632172_3210.html"
+    },
+    {
+      "title": "Repas au musée à Rodez, Giverny et Marseille",
+      "source": "Le Monde",
+      "summary": "Le magazine M repère trois restaurants près d'expositions; La Matinale recommande des lieux pour allier découverte culinaire et plaisir sans dépenser excessivement.",
+      "link": "https://www.lemonde.fr/le-monde-passe-a-table/article/2025/08/25/a-rodez-giverny-ou-marseille-un-repas-au-musee_6634649_6082232.html"
+    },
+    {
+      "title": "Bloquons tout le 10 septembre: gauche mobilisée",
+      "source": "Liberation",
+      "summary": "Partis de gauche prévoient une journée de mobilisation nationale, en tentant d'éviter le scénario des gilets jaunes tout en restant incertains sur le mouvement.",
+      "link": "https://www.liberation.fr/politique/bloquons-tout-le-10-septembre-une-gauche-remontee-a-bloc-20250824_GN2LQV37CVDCZB3CFVCRHSN6RY/"
+    },
+    {
+      "title": "Rentrée perturbée par une grève illimitée",
+      "source": "Le Monde",
+      "summary": "Un préavis déposé pour contester des réformes, y compris l'arrêt de Mouv' sur FM et des changements éditoriaux internes au sein du groupe.",
+      "link": "https://www.lemonde.fr/actualite-medias/article/2025/08/25/la-rentree-de-radio-france-perturbee-par-une-greve_6634725_3236.html"
+    },
+    {
+      "title": "Ambassadeur américain convoqué après critique de Macron sur l’antisémitisme",
+      "source": "Le Monde",
+      "summary": "Le représentant américain critique l'action française contre l'antisémitisme; le Quai d'Orsay convoque l'ambassadeur pour clarifier la position bilatérale et les engagements.",
+      "link": "https://www.lemonde.fr/international/article/2025/08/24/charles-kushner-ambassadeur-des-etats-unis-en-france-convoque-au-quai-d-orsay-apres-avoir-critique-l-absence-d-action-suffisante-d-emmanuel-macron-contre-l-antisemitisme_6634567_3211.html"
+    },
+    {
+      "title": "Un des fondateurs du cartel se prépare à coopérer avec la justice américaine",
+      "source": "Le Monde",
+      "summary": "Le détenu âgé de 77 ans prévoit de dénoncer de nombreux complices parmi trafiquants et responsables politiques, après cinquante ans d'activité dans le narcotrafic.",
+      "link": "https://www.lemonde.fr/international/article/2025/08/25/el-mayo-l-un-des-fondateurs-du-cartel-de-sinaloa-s-apprete-a-collaborer-avec-la-justice-americaine_6634650_3210.html"
+    },
+    {
+      "title": "Comment les identitaires se convertissent au catholicisme",
+      "source": "Liberation",
+      "summary": "Des militants identitaires passent du paganisme autoproclamé à une ligne catholique traditionaliste, réutilisant la foi pour nourrir leur discours civilisateur.",
+      "link": "https://www.liberation.fr/politique/extreme-droite-comment-les-identitaires-se-sont-opportunement-convertis-au-catholicisme-20250824_HLXSC2SEKVER5A5GHRY4DMKAWU/"
+    },
+    {
+      "title": "Sécheresse en France: le bio sans eau",
+      "source": "France 24",
+      "summary": "Les agricultures biologiques souffrent d'une rareté d'eau, affectant notamment la production de lait bio et la chaîne d'approvisionnement dans tout le pays.",
+      "link": "https://www.france24.com/fr/info-en-continu/20250824-en-france-le-calvaire-du-bio-sans-eau-face-%C3%A0-la-s%C3%A9cheresse"
+    },
+    {
+      "title": "Frappes israéliennes visent des houthis au Yémen, bilan d'au moins six morts",
+      "source": "France 24",
+      "summary": "Les frappes ciblent des sites militaires et des infrastructures à Sanaa, selon les Houthis, avec un bilan communiqué de six morts et 86 blessés.",
+      "link": "https://www.france24.com/fr/info-en-continu/20250824-y%C3%A9men-frappes-isra%C3%A9liennes-meurtri%C3%A8res-contre-des-cibles-des-rebelles-houthis"
+    },
+    {
+      "title": "Recrutement d'animateurs pour la rentrée radio",
+      "source": "Le Monde",
+      "summary": "La chaîne annonce une nouvelle grille dès lundi, visant à regagner des parts d'audience face aux concurrentes, avec des noms de renom.",
+      "link": "https://www.lemonde.fr/economie/article/2025/08/24/rtl-a-recrute-augustin-trapenard-anne-sophie-lapix-et-andre-dussolier-pour-revenir-dans-le-jeu-des-radios-a-la-rentree_6634573_3234.html"
+    }
+  ]
+}

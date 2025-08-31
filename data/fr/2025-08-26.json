@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-26",
+  "summary": "Le fil directeur d'aujourd'hui est la montée de tensions au sein d'institutions nationales et internationales, où des décisions exécutives redistribuent le pouvoir. Aux États-Unis, le président Trump a limogé une gouverneure de la Réserve fédérale, l'accusant d'avoir menti dans un dossier de prêt et annonçant une réorganisation du conseil pour renforcer son contrôle, une manœuvre qui ravive les inquiétudes sur l'indépendance monétaire et la réaction des marchés. Dans un registre diplomatique plus large, l'Australie a accusé l'Iran d'être derrière des attaques antisémites et a rappelé son ambassadeur, marquant un tournant dans des relations bilatérales déjà tendues et soulevant des enjeux de sécurité régionale. En France, François Bayrou a joué un coup de poker en appelant à un vote de confiance — simulé par les experts comme critique pour la survie du gouvernement — illustrant à la fois le risque de crise gouvernementale et le recours aux procédures constitutionnelles pour recadrer le pouvoir.\n\nEn parallèle, la sphère culturelle et sociale traduit, à une échelle plus diffuse, les mêmes pressions sur la cohésion et la confiance publique. La scène médiatique propose cette semaine des redécouvertes — Empathy, Peacemaker et Hostage — qui interrogent la psychiatrie, l'héroïsme et les crises politiques, tandis que la retraite annoncée de la joueuse Caroline Garcia après l'US Open souligne des transitions personnelles dans un univers sportif fortement médiatisé. Ces récits s'entrecroisent avec des faits divers à Los Angeles où le rappeur Lil Nas X a été inculpé après une arrestation controversée, alimentant le débat sur la relation entre célébrité, ordre public et traitement judiciaire. Parallèlement, des étudiants confrontés à des difficultés de logement et une lettre d'un lecteur envers Jean‑Luc Mélenchon sur le boycott d'un journaliste signalent une usure de la confiance civique. Soulignant ces tendances, la conjonction de tensions institutionnelles et de fractures sociales pourrait peser sur la stabilité politique, influencer la volatilité des marchés et accentuer les demandes de réformes publiques.",
+  "headlines": [
+    {
+      "title": "Trump limoge une gouverneure de la Réserve fédérale après fraude",
+      "source": "Le Monde",
+      "summary": "Le président américain affirme qu'une gouverneure aurait menti dans un dossier de prêt et indique une réorganisation du conseil afin de renforcer son contrôle.",
+      "link": "https://www.lemonde.fr/economie/article/2025/08/26/donald-trump-annonce-qu-il-limoge-une-gouverneure-de-la-reserve-federale-a-la-suite-d-allegations-de-fraude_6635014_3234.html"
+    },
+    {
+      "title": "Sélection séries de la semaine : Empathie, Peacemaker et Hostage",
+      "source": "Le Monde",
+      "summary": "Cette sélection hebdomadaire présente des séries à redécouvrir, abordant psychiatrie, super-héros et crises politiques, avec un focus sur les diffusions à venir.",
+      "link": "https://www.lemonde.fr/culture/article/2025/08/26/les-series-de-la-semaine-empathie-peacemaker-hostage_6635015_3246.html"
+    },
+    {
+      "title": "Caroline Garcia met fin à sa carrière après l'US Open",
+      "source": "Le Monde",
+      "summary": "La Française annonce que ce tournoi sera son dernier, après une défaite au premier tour contre la Russe Kamilla Rakhimova au US Open.",
+      "link": "https://www.lemonde.fr/sport/article/2025/08/26/caroline-garcia-fait-ses-adieux-au-tennis-apres-sa-defaite-a-l-us-open_6634981_3242.html"
+    },
+    {
+      "title": "Lil Nas X inculpé après arrestation à Los Angeles",
+      "source": "Le Monde",
+      "summary": "Le chanteur est inculpé après une arrestation à Los Angeles, les autorités l'accusant d'avoir agressé des policiers lors de l'interpellation.",
+      "link": "https://www.lemonde.fr/international/article/2025/08/26/lil-nas-x-le-rappeur-du-titre-a-succes-old-town-road-inculpe-apres-une-arrestation-spectaculaire_6635160_3210.html"
+    },
+    {
+      "title": "Simulateur: Bayrou peut-il échapper à la chute du gouvernement",
+      "source": "Liberation",
+      "summary": "Le simulateur évalue les chances de renversement du gouvernement si le Premier ministre engage la responsabilité et prononce une motion de censure.",
+      "link": "https://www.liberation.fr/politique/motion-de-censure-notre-simulateur-pour-savoir-si-francois-bayrou-peut-etre-renverse-ou-pas-20250625_5GG6UZY3CZHATNRKZKZHC4KPGU/"
+    },
+    {
+      "title": "Lettre d'un lecteur à Mélenchon sur le boycott d'un journaliste",
+      "source": "Liberation",
+      "summary": "Dans cette lettre au leader de La France insoumise, un électeur déplore le boycott d'un journaliste du Monde et annonce son abstention future.",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/lettre-dun-lecteur-a-melenchon-apres-le-boycott-dun-journaliste-lfi-naura-plus-jamais-mon-vote-20250825_2J7QYY7LLFBMJCSJXI4AUSSKSE/"
+    },
+    {
+      "title": "L’Australie accuse l’Iran d’être derrière des attaques antisémites et renvoie son ambassadeur",
+      "source": "Le Monde",
+      "summary": "L’Australie accuse l’Iran d’être derrière des attaques antisémites et renvoie son ambassadeur, marquant un tournant historique dans les relations bilatérales.",
+      "link": "https://www.lemonde.fr/international/article/2025/08/26/l-australie-accuse-l-iran-d-etre-derriere-deux-attacks-antisemites-et-renvoie-son-ambassadeur_6635231_3210.html"
+    },
+    {
+      "title": "Étudiants en difficulté de logement à l'approche de la rentrée",
+      "source": "Le Figaro",
+      "summary": "Des étudiants peinent à trouver un logement à l'approche de la rentrée, révélant des tensions sur le marché locatif universitaire et l'offre insuffisante.",
+      "link": "https://immobilier.lefigaro.fr/article/dormir-sur-le-parvis-de-la-fac-ces-etudiants-qui-ne-trouvent-pas-de-logement-pour-la-rentree-20250826"
+    },
+    {
+      "title": "Rappeur Lil Nas X inculpé après déambulation nu dans Los Angeles",
+      "source": "France Info",
+      "summary": "Des images montrent le rappeur déambulant nu dans Los Angeles, après une première diffusion montrant seulement un slip, ce qui conduit à une inculpation.",
+      "link": "https://www.franceinfo.fr/culture/musique/rap/le-rappeur-lil-nas-x-inculpe-apres-avoir-deambule-nu-dans-los-angeles_7454437.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Discours de Bayrou: coup de poker pour sa chute",
+      "source": "Liberation",
+      "summary": "En appelant à un vote de confiance surprenant, Bayrou cherche à projeter une image de franchise et à contrecarrer les critiques sur sa gestion.",
+      "link": "https://www.liberation.fr/politique/discours-de-francois-bayrou-un-coup-de-poker-pour-teinter-sa-chute-de-panache-20250825_AHT2GG3FT5CHRFZSOSO3GKIMKY/"
+    }
+  ]
+}

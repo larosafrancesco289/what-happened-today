@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { fetchDailySummary, getDateString } from '@/lib/client-utils';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getTranslations } from '@/lib/i18n';
@@ -20,10 +20,12 @@ export default function DatePage() {
   const [hasNextDate, setHasNextDate] = useState<boolean>(false);
   
   const t = getTranslations(currentLanguage.code);
-  const params = useParams<{ date: string }>();
+  // Avoid relying on generic types for useParams to maximize compatibility
+  const params = useParams();
 
   useEffect(() => {
-    const dateParam = params?.date;
+    const value = params?.["date"];
+    const dateParam = Array.isArray(value) ? value[0] : value;
     if (!dateParam) return;
     // Validate date format (YYYY-MM-DD)
     const dateRegex = /^\d{4}-\d{2}-\d{2}$/;

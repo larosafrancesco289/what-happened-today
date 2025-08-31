@@ -33,6 +33,10 @@ Create `.env.local` in the project root:
 
 ```bash
 OPENAI_API_KEY=your_openai_api_key
+# Optional: override default models (safe defaults provided)
+# OPENAI_MODEL_FILTER=gpt-5-nano
+# OPENAI_MODEL_HEADLINES=gpt-5-nano
+# OPENAI_MODEL_SUMMARY=gpt-5-nano
 ```
 
 ### Quickstart
@@ -108,6 +112,7 @@ Notes:
 
 - The pipeline reads curated RSS feeds per language, filters and ranks with the OpenAI API, generates headlines, and synthesizes a two paragraph summary. Output is saved as JSON under `data/{lang}/YYYY-MM-DD.json`.
 - The UI loads the file for today or for the selected date.
+- For structured JSON outputs, the code uses the Responses API. Some chat models (e.g., certain `chat-latest` variants) may not support JSON-schema output. Defaults use a schema-capable model; you can override via the `OPENAI_MODEL_*` env vars above.
 
 ### License
 

@@ -77,20 +77,35 @@ interface ArticleAnalysis {
 const LANGUAGE_PROMPTS = {
   en: {
     filterPrompt: (articles: ProcessedArticle[]) => `
-You are a neutral news editor. Pick the items that matter to most people worldwide today.
+You are a neutral front-page editor for a global daily brief. Select only unique, consequential developments from the last 24 hours.
 
-Simple rules:
-- Keep major government, business, conflict, disaster, climate, election, science/tech stories.
-- Drop celebrity, local-only items, opinion, or tiny incremental updates.
-- Be careful with rumor or clickbait; prefer facts.
+Keep:
+- Major government/business decisions; conflict/war actions with clear civilian, territorial, or market impact; disasters/climate; elections; public health; science/tech with broad significance.
 
-Scoring:
-- relevanceScore: 0–10 (10 = must-know globally; 5 = notable; 0 = not relevant)
-- isRelevant: true if score >= 6
-- index is zero-based (0..N-1)
+Drop:
+- Celebrity, local-only items, opinion/analysis/body-language, explainers, live blogs with no new facts, micro-updates, pure video clips without added facts.
 
-Return ONLY JSON matching this shape:
-{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "... <=200 chars" } ] }
+Event de-duplication:
+- If multiple items describe the same event (e.g., same quake/strike), keep only the best one; others: set isRelevant=false and in reason note "duplicate of #<index>".
+
+Contested claims:
+- If a party to a conflict claims something without independent corroboration, cap relevanceScore at 5 unless the claim itself is a consequential development (e.g., a ceasefire announcement with official follow-up).
+
+Breadth:
+- Prefer a mix across regions/categories. After selecting 2–3 top items from one conflict, down-score further similar updates.
+
+Scoring rubric:
+- 9–10: watershed/global consequence or mass-casualty disaster.
+- 7–8: major national development with global relevance.
+- 6: notable update with concrete consequences.
+- 3–5: minor/incremental update; soft/analysis; video without new facts.
+- 0–2: duplicate/rumor/opinion/meta.
+
+Coverage:
+- Create one analysis entry for EVERY Index (0..N-1), even for items you drop. Use isRelevant=false and a concise reason when dropping.
+
+Output exactly this JSON:
+{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "... <=200 chars (note duplicates as 'duplicate of #<index>')" } ] }
 
 Articles:
 ${articles.map((article, index) => `
@@ -101,12 +116,16 @@ Content (short): ${article.content.substring(0, 500)}
 `).join('\n')}
 `,
     headlinesPrompt: (articles: ProcessedArticle[]) => `
-Write a clear, neutral headline and one short sentence of context for each item.
+Write one clear, neutral headline per unique event, plus one sentence of context.
 
 Rules:
-- Headline: 6–12 words, present tense, no hype.
-- Summary: 18–24 words, add key context not obvious from the headline.
-- Do not include the outlet in the headline; copy source exactly in the field.
+- One per event: If inputs contain duplicates, output a single merged entry using the most informative link (prefer article over video).
+- Headline: 8–14 words, subject first, present tense, no hype.
+- Summary: 20–30 words with why it matters or a concrete next step.
+- Attribution: For unilateral claims start with "X says ..."; for alleged wrongdoing use "Officials/investigators allege ...".
+- Numbers: Prefer "at least X" and include the source when possible; avoid "reports vary" phrasing.
+- Do not include the outlet in the title; copy the source exactly into the field.
+- Aim for 6–9 items when available.
 
 Return ONLY JSON like:
 { "headlines": [ { "title": "...", "source": "...", "summary": "...", "link": "..." } ] }
@@ -121,12 +140,13 @@ Link: ${article.link}
 `).join('\n')}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
-Write two short, connected paragraphs that explain today to a general reader.
+Write two connected paragraphs that explain today for a general reader.
 
-Guidance:
-- Para 1 (90–130 words): lead with the most important development; connect 2–3 items.
-- Para 2 (90–130 words): cover the rest by theme; explain why it matters.
-- Use simple, precise language. Neutral tone. No lists.
+Paragraph 1 (110–140 words): Lead with the single most important development; say what changed today; connect 2–3 items; include a near-term implication or next step.
+Paragraph 2 (90–120 words): Group the rest by theme; include at least one non-conflict item if available; explain why it matters (markets, policy, rights, safety, science).
+
+Attribution and numbers: Flag contested claims; use "at least X" for early casualty counts and name an authority when possible.
+Style: Simple, precise language. Neutral tone. No lists or filler. Avoid phrases like "Taken together"; end with a concrete risk, deadline, or action.
 
 Return ONLY JSON like {"summary":"<p1>\\n\\n<p2>"}
 
@@ -138,20 +158,36 @@ ${index + 1}. ${headline.title} (${headline.source}) — ${headline.summary}
   },
   it: {
     filterPrompt: (articles: ProcessedArticle[]) => `
-Sei un redattore neutrale. Scegli gli articoli che contano per la maggior parte delle persone oggi.
+Sei il caporedattore neutrale di un quotidiano globale. Seleziona solo sviluppi unici e significativi nelle ultime 24 ore.
 
-Regole semplici:
-- Tieni decisioni di governi e aziende, conflitti, disastri, clima, elezioni, scienza/tecnologia importanti.
-- Per l'edizione italiana, considera RILEVANTI anche notizie nazionali di grande impatto (politica, economia, giustizia, sicurezza, società) riportate da testate primarie.
-- Escludi gossip, localismi minori, opinioni, micro‑aggiornamenti.
+Tieni:
+- Decisioni importanti di governi/aziende; azioni di guerra con impatto chiaro; disastri/clima; elezioni; salute pubblica; scienza/tech di rilevanza ampia.
+- Per l'edizione italiana, considera RILEVANTI anche grandi notizie nazionali (politica, economia, giustizia, sicurezza, società) da testate primarie.
 
-Punteggio:
-- relevanceScore: 0–10 (10 = essenziale; 5 = notevole; 0 = irrilevante)
-- Mira a selezionare 6–10 articoli se disponibili.
-- index è a base zero (0..N-1)
+Escludi:
+- Gossip, localismi minori, opinioni/analisi/linguaggio del corpo, spiegoni, dirette senza fatti nuovi, micro‑aggiornamenti, solo video senza fatti.
 
-Restituisci SOLO JSON così:
-{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "... <=200 caratteri" } ] }
+De-duplicazione eventi:
+- Se più articoli descrivono lo stesso evento, tieni solo il migliore; gli altri: isRelevant=false e in reason annota "duplicato di #<index>".
+
+Afferm. controverse:
+- Se una parte in conflitto fa un'affermazione senza conferme indipendenti, limita relevanceScore a 5 salvo impatto immediato e verificabile.
+
+Ampiezza:
+- Preferisci mix di regioni/categorie; dopo 2–3 pezzi sullo stesso conflitto, abbassa il punteggio dei successivi.
+
+Rubrica punteggi:
+- 9–10: svolta/conseguenze globali o disastro con molte vittime.
+- 7–8: grande novità nazionale con rilevanza globale.
+- 6: aggiornamento notevole con conseguenze concrete.
+- 3–5: aggiornamento minore/analisi/video senza fatti.
+- 0–2: duplicato/rumor/opinione/meta.
+
+Copertura:
+- Crea una voce di analisi per OGNI Index (0..N-1), anche per gli esclusi. Usa isRelevant=false e una ragione concisa quando escludi.
+
+Restituisci ESATTAMENTE questo JSON:
+{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "... <=200 caratteri (per duplicati: 'duplicato di #<index>')" } ] }
 
 Articoli:
 ${articles.map((article, index) => `
@@ -162,12 +198,16 @@ Contenuto (breve): ${article.content.substring(0, 500)}
 `).join('\n')}
 `,
     headlinesPrompt: (articles: ProcessedArticle[]) => `
-Scrivi un titolo chiaro e neutro e una frase breve di contesto per ciascun articolo.
+Scrivi un solo titolo per ciascun evento unico, con una frase di contesto.
 
 Regole:
-- Titolo: 6–12 parole, tempo presente, senza enfasi.
-- Sommario: 18–24 parole, aggiungi contesto chiave non evidente dal titolo.
-- Non inserire la testata nel titolo; copia esattamente la fonte nel campo.
+- Uno per evento: se ci sono duplicati, produci una voce unica usando il link più informativo (meglio articolo che video).
+- Titolo: 8–14 parole, soggetto all'inizio, presente, senza enfasi.
+- Sommario: 20–30 parole con "perché conta" o un passo successivo concreto.
+- Attribuzione: per affermazioni unilaterali usa "X afferma ..."; per illeciti: "Le autorità/indagini sostengono ...".
+- Numeri: usa "almeno X" e indica la fonte quando possibile; evita "le fonti variano".
+- Non inserire la testata nel titolo; copia la fonte esattamente nel campo.
+- Punta a 6–9 voci quando disponibili.
 
 Restituisci SOLO JSON così:
 { "headlines": [ { "title": "...", "source": "...", "summary": "...", "link": "..." } ] }
@@ -182,12 +222,13 @@ Link: ${article.link}
 `).join('\n')}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
-Scrivi due paragrafi brevi e collegati che spieghino la giornata a un lettore generale.
+Scrivi due paragrafi collegati che spieghino la giornata a un lettore generale.
 
-Guida:
-- Paragrafo 1 (90–130 parole): apri con lo sviluppo principale; collega 2–3 notizie.
-- Paragrafo 2 (90–130 parole): tratta il resto per tema; spiega perché conta.
-- Linguaggio semplice e preciso. Tono neutro. Niente elenchi.
+Paragrafo 1 (110–140 parole): apri con la novità più importante; cosa è cambiato oggi; collega 2–3 notizie; indica una implicazione o prossimo passo.
+Paragrafo 2 (90–120 parole): raggruppa il resto per tema; includi almeno una notizia non di conflitto se disponibile; spiega perché conta (mercati, politiche, diritti, sicurezza, scienza).
+
+Attribuzione e numeri: segnala affermazioni controverse; usa "almeno X" per bilanci provvisori e cita un'autorità quando possibile.
+Stile: linguaggio semplice e preciso. Tono neutro. No elenchi o riempitivi; evita "Nel complesso"; chiudi con rischio/scadenza/azione concreta.
 
 Restituisci SOLO JSON del tipo {"summary":"<p1>\\n\\n<p2>"}
 
@@ -199,20 +240,36 @@ ${index + 1}. ${headline.title} (${headline.source}) — ${headline.summary}
   },
   fr: {
     filterPrompt: (articles: ProcessedArticle[]) => `
-Vous êtes un éditeur neutre. Choisissez les sujets qui comptent aujourd'hui.
+Vous êtes le rédacteur en chef neutre d’un quotidien mondial. Sélectionnez uniquement des développements uniques et significatifs des dernières 24 heures.
 
-Règles simples :
-- Conservez décisions publiques/privées majeures, conflits, catastrophes, climat, élections, science/tech importantes.
-- Pour l'édition française, considérez comme PERTINENTES les grandes actualités nationales (politique, économie, justice, sécurité, société) publiées par des médias de référence.
-- Écartez people, localisme mineur, opinion, micro‑mises à jour.
+À garder :
+- Décisions publiques/privées majeures ; actions de guerre à impact clair ; catastrophes/climat ; élections ; santé publique ; science/tech de portée large.
+- Pour l'édition française, inclure aussi les grandes actualités nationales (politique, économie, justice, sécurité, société) publiées par des médias de référence.
 
-Notation :
-- relevanceScore : 0–10 (10 = essentiel ; 5 = notable ; 0 = hors sujet)
-- Objectif : 6–10 sujets si disponibles.
-- index est à base zéro (0..N-1)
+À exclure :
+- People, localisme mineur, opinion/analyses/langage corporel, explications, directs sans faits nouveaux, micro‑mises à jour, vidéos seules sans faits.
 
-Retournez UNIQUEMENT du JSON ainsi :
-{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "... <=200 caractères" } ] }
+Dé‑duplication d’événements :
+- Si plusieurs items décrivent le même événement, ne garder que le meilleur ; les autres: isRelevant=false et indiquer dans reason « doublon de #<index> ».
+
+Allégations contestées :
+- Si une partie au conflit avance une affirmation sans confirmation indépendante, plafonner relevanceScore à 5 sauf impact immédiat et vérifiable.
+
+Diversité :
+- Préférer un mélange de régions/catégories ; après 2–3 sujets d’un même conflit, baisser le score des suivants.
+
+Barème :
+- 9–10 : tournant/conséquence globale ou catastrophe à nombreuses victimes.
+- 7–8 : grande actualité nationale à résonance mondiale.
+- 6 : mise à jour notable avec conséquences concrètes.
+- 3–5 : mise à jour mineure/analytique/vidéo sans faits.
+- 0–2 : doublon/rumeur/opinion/meta.
+
+Couverture :
+- Créez une entrée d'analyse pour TOUS les Index (0..N-1), même pour les sujets écartés. Utilisez isRelevant=false et une raison concise.
+
+Retourner EXACTEMENT ce JSON :
+{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "... <=200 caractères (doublon de #<index>)" } ] }
 
 Articles :
 ${articles.map((article, index) => `
@@ -223,12 +280,16 @@ Contenu (court) : ${article.content.substring(0, 500)}
 `).join('\n')}
 `,
     headlinesPrompt: (articles: ProcessedArticle[]) => `
-Rédigez un titre clair et neutre et une courte phrase de contexte pour chaque article.
+Rédigez un seul titre par événement unique, avec une phrase de contexte.
 
 Règles :
-- Titre : 6–12 mots, présent, sans emphase.
-- Résumé : 18–24 mots, ajouter le contexte clé non évident du titre.
-- Ne mettez pas le média dans le titre ; copiez exactement la source dans le champ.
+- Un par événement : en cas de doublons, produire une seule entrée avec le lien le plus informatif (article plutôt que vidéo).
+- Titre : 8–14 mots, sujet en premier, présent, sans emphase.
+- Résumé : 20–30 mots avec « pourquoi c’est important » ou une prochaine étape concrète.
+- Attribution : pour les affirmations unilatérales, commencez par « X affirme … » ; pour des soupçons : « Les autorités/les enquêteurs allèguent … ».
+- Chiffres : utilisez « au moins X » et citez la source lorsque possible ; évitez « les bilans varient ».
+- Ne mettez pas le média dans le titre ; copiez la source exactement dans le champ.
+- Visez 6–9 sujets lorsque possible.
 
 Retournez UNIQUEMENT du JSON :
 { "headlines": [ { "title": "...", "source": "...", "summary": "...", "link": "..." } ] }
@@ -243,12 +304,13 @@ Lien : ${article.link}
 `).join('\n')}
 `,
     summaryPrompt: (headlines: NewsHeadline[]) => `
-Écrivez deux courts paragraphes reliés qui expliquent la journée au grand public.
+Écrivez deux paragraphes reliés qui expliquent la journée au grand public.
 
-Guide :
-- Paragraphe 1 (90–130 mots) : l’info principale ; reliez 2–3 sujets.
-- Paragraphe 2 (90–130 mots) : le reste par thème ; pourquoi c’est important.
-- Langage simple et précis. Ton neutre. Pas de liste.
+Paragraphe 1 (110–140 mots) : l’info la plus importante ; ce qui a changé aujourd’hui ; reliez 2–3 sujets ; indiquez une implication ou prochaine étape.
+Paragraphe 2 (90–120 mots) : le reste par thème ; incluez au moins un sujet hors conflit si disponible ; expliquez les enjeux (marchés, politiques, droits, sécurité, science).
+
+Attribution et chiffres : signalez les affirmations contestées ; utilisez « au moins X » pour des bilans provisoires et citez une autorité lorsque possible.
+Style : langage simple et précis. Ton neutre. Pas de listes ni de remplissage ; éviter « Pris ensemble ». Terminez par un risque, une échéance ou une action concrète.
 
 Retournez UNIQUEMENT du JSON : {"summary":"<p1>\\n\\n<p2>"}
 

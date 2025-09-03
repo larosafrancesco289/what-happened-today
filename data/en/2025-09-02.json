@@ -1,48 +1,60 @@
 {
   "date": "2025-09-02",
-  "summary": "Leading scholars have publicly cited allegations that Israel's actions in Gaza amount to genocide, pointing to attacks on healthcare facilities and a high number of child deaths as central evidence in their assessment. Their statements add pressure on governments and international bodies to scrutinize conduct and consider legal and diplomatic responses. In a separate European front, a major Russian strike on Kyiv killed at least 19 people, including children, and has prompted continuing rescue operations and investigations. Taken together, these developments underscore rising international concern about civilian harm in multiple conflict zones and raise questions about accountability and protection of non-combatants.\n\nWorld leaders gathered at a regional security summit in China where Vladimir Putin, Narendra Modi and others met to discuss security issues; analysts noted warm exchanges and hand-holding that signalled cautious cordiality among some participants. Putin told reporters he has reached understandings with former US President Donald Trump on steps toward ending the war in Ukraine, while blaming Western policies for the conflict's persistence. Those diplomatic moves could affect negotiations and international pressure on the parties. Meanwhile, a 6.0-magnitude earthquake struck eastern Afghanistan, destroying towns, killing hundreds—reports vary up to at least 800—and injuring many more, with rescue teams mobilising amid urgent humanitarian needs.",
+  "summary": "An earthquake in eastern Afghanistan today killed at least 1,400 people and flattened remote mountain villages, altering an already fragile humanitarian picture. The Taliban said the scale of destruction requires immediate international aid as rescuers struggle to reach isolated communities by road and by air, and officials warned casualty figures are likely to rise. The disaster adds urgency to broader questions about access and standards for relief in crisis zones, echoing disputes elsewhere over how and when humanitarian needs are declared and met — for example contested assessments of hunger in Gaza. In the near term, international agencies and governments must mobilize coordinated search, shelter and medical operations within days before aftershocks, cold weather and blocked routes make rescue and relief far harder.\n\nElsewhere, world leaders met in Beijing where President Vladimir Putin urged what he called a more just global governance system, and Chinese authorities tightened security ahead of visits and a military parade — moves that can reshape trade ties, sanctions strategies and regional power calculations. Officials said a Russian strike on Kyiv killed at least 19 people, including four children, and a U.S. judge ruled the federal use of the National Guard in Los Angeles unlawful, a decision that could restrict federal intervention in local policing if upheld. Brazil's Bolsonaro faces the final phase of a trial over a 2022 coup plot, and Burkina Faso's new law criminalizing homosexuality raises rights and safety concerns.",
   "headlines": [
     {
-      "title": "Leading scholars cite genocide allegations against Israel",
-      "source": "BBC World",
-      "summary": "Experts cite attacks on healthcare and child deaths as part of their assessment, highlighting alleged genocidal actions in Gaza.",
-      "link": "https://www.bbc.com/news/articles/cde3eyzdr63o?at_medium=RSS&at_campaign=rss"
+      "title": "Afghanistan earthquake kills at least 1,400, devastates eastern villages",
+      "source": "The Guardian",
+      "summary": "Taliban says the earthquake's impact requires international aid as rescuers struggle to reach isolated areas and casualties are expected to rise.",
+      "link": "https://www.theguardian.com/world/2025/sep/02/afghanistan-earthquake-taliban-appeals-for-international-aid-as-rescue-teams-search-for-survivors"
     },
     {
-      "title": "Earthquake in Afghanistan causes widespread casualties and damage",
+      "title": "Putin and China push for a more just global governance system",
       "source": "BBC World",
-      "summary": "Scores are feared dead after a mountainous eastern earthquake, with hundreds reported killed and many more injured amid rescue efforts.",
-      "link": "https://www.bbc.com/news/articles/cwye0lpj9z6o?at_medium=RSS&at_campaign=rss"
+      "summary": "Putin says Russia and China seek a more just global governance system after talks in Beijing, reflecting closer security and economic collaboration amid Western pressure.",
+      "link": "https://www.bbc.com/news/articles/cr4e4ngvvnro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Putin, Modi and other world leaders attend summit in China",
+      "title": "Judge rules Trump's use of National Guard in Los Angeles illegal",
       "source": "BBC World",
-      "summary": "Putin and Modi are among twenty leaders at a regional security summit, signaling high-level discussions amid regional tensions.",
-      "link": "https://www.bbc.com/news/articles/c5y310qngqpo?at_medium=RSS&at_campaign=rss"
+      "summary": "Officials say the ruling restricts federal intervention in local policing and could affect deployments in other cities; possible appeals underway.",
+      "link": "https://www.bbc.com/news/articles/c5ylyd9lkkqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Attack on Kyiv leaves many dead, reports indicate",
+      "title": "Putin, Modi and other world leaders attend security summit in China",
       "source": "BBC World",
-      "summary": "Russian forces launch a major strike on Ukraine's capital; at least 19 killed, including children, as rescue operations continue.",
+      "summary": "Putin, Modi and other world leaders attend security summit in China, signaling close cooperation on regional security and global challenges.",
+      "link": "https://www.bbc.com/news/videos/c5y310qngqpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Officials say Russian attack on Kyiv kills at least 19, including four children",
+      "source": "BBC World",
+      "summary": "Officials say a Russian attack on Kyiv killed at least 19 people, including four children, as the conflict intensifies near the capital.",
       "link": "https://www.bbc.com/news/videos/c9wy42kjndzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Putin says he has reached understandings with Trump on ending Ukraine war",
-      "source": "BBC World",
-      "summary": "Russia blames the West for the war's continuation, while presenting bilateral talks with the United States as progress toward settlement.",
-      "link": "https://www.bbc.com/news/articles/c0qljy44553o?at_medium=RSS&at_campaign=rss"
+      "title": "Officials clash over famine declaration as UN and Israel dispute Gaza hunger measures",
+      "source": "France 24",
+      "summary": "Officials clash over famine declarations as the UN and Israel dispute assessments of hunger and needs in Gaza amid ongoing conflicts.",
+      "link": "https://www.france24.com/en/video/20250902-gaza-s-hunger-crisis-un-and-israel-clash-over-famine-declaration"
     },
     {
-      "title": "Rescue efforts under way after Afghanistan earthquake destroys towns",
-      "source": "BBC World",
-      "summary": "The quake measured 6.0 magnitude; at least 800 killed and thousands injured; authorities mobilize rescue teams and aid.",
-      "link": "https://www.bbc.com/news/videos/cqxgx8d14wwo?at_medium=RSS&at_campaign=rss"
+      "title": "Burkina Faso bans homosexuality, imposes prison sentences up to five years",
+      "source": "Al Jazeera English",
+      "summary": "The new law makes homosexuality a crime punishable by two to five years in prison, drawing regional and rights group criticism.",
+      "link": "https://www.aljazeera.com/news/2025/9/2/burkina-faso-bans-homosexuality-as-a-crime-punishable-with-prison-fines?traffic_source=rss"
     },
     {
-      "title": "Analyses highlight warmth and hand-holding at Xi, Modi and Putin summit",
+      "title": "Brazil's Bolsonaro trial moves into final phase over coup plot",
       "source": "BBC World",
-      "summary": "Video analysis focuses on body language and cordial exchanges among the Chinese, Indian and Russian leaders during the regional security summit in China.",
-      "link": "https://www.bbc.com/news/videos/cn0r02zgjj4o?at_medium=RSS&at_campaign=rss"
+      "summary": "Prosecutors say the former president orchestrated a plan to stay in power after the 2022 election, with implications for Brazil's democracy.",
+      "link": "https://www.bbc.com/news/articles/c4gzgq9n8xjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Beijing tightens control before Xi hosts Putin and Kim at parade",
+      "source": "BBC World",
+      "summary": "Officials say security measures reflect preparations for a large military parade and visits by foreign leaders, highlighting China's growing influence on the world stage.",
+      "link": "https://www.bbc.com/news/articles/cn020wrnw78o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

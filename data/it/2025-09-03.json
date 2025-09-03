@@ -1,12 +1,60 @@
 {
   "date": "2025-09-03",
-  "summary": "È salito a oltre 1.400 il bilancio dei morti per il terremoto in Afghanistan, secondo ANSA; l'agenzia riporta che molte località restano isolate e che il conto provvisorio è destinato a salire. L'Unione europea ha promesso almeno 1 milione di euro in aiuti umanitari, ma le autorità regionali e le ONG avvertono che la logistica — strade interrotte, comunicazioni scarse e condizioni meteorologiche avverse — ostacola la distribuzione. Questa combinazione indica che la priorità immediata è potenziare i soccorsi e aprire corridoi umanitari: senza un rapido aumento delle consegne di generi di prima necessità e assistenza medica, il numero dei morti e dei feriti rischia di aumentare ulteriormente. Organizzazioni umanitarie sul terreno chiedono un massiccio aumento dei fondi e l'apertura immediata dei corridoi per soccorsi.\n\nIl resto delle informazioni riguarda la risposta umanitaria e le conseguenze pratiche: zone isolate rendono difficile evacuare i feriti e fornire cibo, acqua e medicine, aumentando il rischio per la salute pubblica e la vulnerabilità dei diritti fondamentali delle popolazioni colpite. La promessa dell'UE di almeno 1 milione di euro è un primo passo finanziario, ma ONG e operatori sanitari segnalano che servono somme e coordinamento molto maggiori per ricostruire infrastrutture essenziali e prevenire epidemie. La stabilità regionale e la sicurezza delle vie di transito sono messe alla prova; senza un rapido aumento degli aiuti e l'apertura di corridoi logistici nelle prossime 72 ore, la crisi rischia di aggravarsi.",
+  "summary": "Il presidente cinese Xi Jinping ha lanciato oggi un appello netto: il mondo deve scegliere tra pace e guerra, un messaggio pronunciato mentre guidava Putin e Kim alla parata militare, segnando una potenza cinese in crescita che potrebbe ridefinire alleanze. La simultanea presenza di Mosca e Pyongyang a un evento guidato da Pechino ha cambiato lo scenario diplomatico, mentre l'Onu segnala che la guerra a Gaza ha lasciato almeno 40.500 bambini disabili, sottolineando l'urgenza umanitaria. La combinazione di pressione geopolitica e crisi umanitaria rende più probabile un aumento degli sforzi diplomatici multilaterali; prossimo passo: verificare se l'Onu e le grandi potenze avvieranno colloqui per corridoi umanitari e negoziati di de-escalation.\n\nSul fronte dei conflitti, l'esercito israeliano è avanzato verso il centro di Gaza City (ANSA) e Unifil segnala un attacco vicino ai caschi blu in Libano, elementi che complicano la protezione civile. Gli Stati Uniti hanno affondato una barca al largo del Venezuela, uccidendo almeno 11 presunti narcotrafficanti secondo fonti USA; la versione è controversa e sarà verificata. In Italia la Corte d'Appello ha confermato l'ergastolo per Impagnatiello, ritenendo l'azione mirata all'aborto (TGCOM24). Il report Gimbe mostra che le Regioni raggiungono solo 13 livelli essenziali di assistenza e l'amministrazione americana ha imposto restrizioni sui contratti di Google, con implicazioni per mercati e privacy. Conta per sicurezza, diritti e politiche: rischio di pressioni normative nelle prossime settimane.",
   "headlines": [
     {
-      "title": "Salgono a oltre 1.400 i morti per il sisma in Afghanistan",
+      "title": "Xi afferma che il mondo deve scegliere tra pace e guerra",
       "source": "ANSA",
-      "summary": "ANSA afferma che molte località restano isolate e il bilancio tende a salire, perché conta: l'UE ha promesso almeno 1 milione di euro in aiuti umanitari.",
-      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2025/09/02/salgono-a-oltre-1.400-i-morti-per-il-sisma-in-afghanistan_e2e6ebb7-2738-4475-b596-104e82c39837.html"
+      "summary": "La dichiarazione riflette tensioni e alleanze in evoluzione: perché conta come possibile punto di svolta nelle relazioni internazionali e potrebbe spingere sforzi diplomatici.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/09/03/xi-il-mondo-deve-scegliere-tra-la-pace-e-la-guerra_b0e65c8d-b701-484f-8d3e-acfc17ab35a6.html"
+    },
+    {
+      "title": "Onu segnala almeno 40.500 bambini disabili a Gaza per la guerra",
+      "source": "TGCOM24",
+      "summary": "La stima indica almeno 40.500 bambini feriti; perché conta per programmare aiuti mirati e politiche di protezione, sensibilizzando l'opinione pubblica internazionale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/gaza-bambini-feriti-disabili-guerra-israele_103015780-202502k.shtml"
+    },
+    {
+      "title": "Xi guida Putin e Kim alla parata, Cina appare inarrestabile",
+      "source": "la Repubblica",
+      "summary": "La presenza congiunta segnala una crescente influenza cinese; perché conta come indicatore di potenziali riallineamenti diplomatici, spingendo partner e avversari a rivalutare strategie regionali.",
+      "link": "https://www.repubblica.it/esteri/2025/09/03/news/xi_jinping_putin_kim_parata_militare_cina_oggi-424823047/?rss"
+    },
+    {
+      "title": "Esercito israeliano avanza verso il centro di Gaza City",
+      "source": "ANSA",
+      "summary": "L'azione ridisegna il controllo urbano; perché conta per il corso del conflitto, influenzando discussioni su una possibile operazione umanitaria e la protezione civile.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2025/09/03/medio-oriente-esercito-israeliano-verso-il-centro-di-gaza-city_9a7bdf80-37d0-44da-ae71-bf57b0591844.html"
+    },
+    {
+      "title": "Unifil: attacco israeliano contro i caschi blu in Libano",
+      "source": "ANSA",
+      "summary": "Granata a meno di 20 metri dal personale Onu; perché conta per la sicurezza delle missioni di peacekeeping e potrebbe richiedere rafforzamenti logistici.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2025/09/03/unifil-attacco-israeliano-in-libano-contro-i-caschi-blu_8e11444f-072f-424b-871a-94ae12437a5f.html"
+    },
+    {
+      "title": "Impagnatiello avvelenava Tramontano per abortire, non per ucciderla",
+      "source": "TGCOM24",
+      "summary": "La Corte d'Appello conferma ergastolo, sostenendo che l'azione mirava all'aborto; perché conta per definire la severità delle pene in casi di violenza domestica.",
+      "link": "https://www.tgcom24.mediaset.it/2025/video/impagnatiello-avveleno-tramontano-per-farla-abortire-non-per-ucciderla-_103015038-02k.shtml"
+    },
+    {
+      "title": "Usa affondano barca al largo del Venezuela, uccidono almeno 11 narcotrafficanti",
+      "source": "la Repubblica",
+      "summary": "Operazione navale USA: Trump afferma che la barca era carica di droga; perché conta come deterrenza, nonostante le controversie nella regione.",
+      "link": "https://www.repubblica.it/esteri/2025/09/03/news/usa_affondano_barca_venezuela_uccisi_11_narcotrafficanti_trump_droga-424822612/?rss"
+    },
+    {
+      "title": "Regioni raggiungono solo 13 livelli essenziali delle prestazioni sanitarie",
+      "source": "Rai News",
+      "summary": "Il report Gimbe evidenzia un divario nord-sud; perché conta per indirizzare investimenti e riforme, garantendo accesso uniforme e migliorando indicatori di salute regionali.",
+      "link": "https://www.rainews.it/articoli/2025/09/livelli-essenziali-delle-prestazioni-sanitarie-solo-13-regioni-raggiungono-lo-standard-837f5c15-b873-4fc2-8a7f-09d78392d196.html"
+    },
+    {
+      "title": "Governo americano dice: Google non vende Chrome/Android, ma condivide dati",
+      "source": "Rai News",
+      "summary": "La decisione vieta accordi esclusivi e prevede compensi per preinstallare servizi; perché conta per aprire pratiche di concorrenza e protezione dei dati degli utenti.",
+      "link": "https://www.rainews.it/articoli/2025/09/usa-governo-sconfitto-google-non-deve-vendere-chrome-e-android-ma-deve-condividere-i-dati-cc59ed85-8dba-41b0-b087-c1258b6c3e34.html"
     }
   ]
 }

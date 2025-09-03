@@ -112,7 +112,7 @@ ${articles.map((article, index) => `
 Index: ${index}
 Title: ${article.title}
 Source: ${article.source}
-Content (short): ${article.content.substring(0, 500)}
+Content (short): ${article.content.substring(0, 300)}
 `).join('\n')}
 `,
     headlinesPrompt: (articles: ProcessedArticle[]) => `
@@ -194,7 +194,7 @@ ${articles.map((article, index) => `
 Index: ${index}
 Titolo: ${article.title}
 Fonte: ${article.source}
-Contenuto (breve): ${article.content.substring(0, 500)}
+Contenuto (breve): ${article.content.substring(0, 300)}
 `).join('\n')}
 `,
     headlinesPrompt: (articles: ProcessedArticle[]) => `
@@ -276,7 +276,7 @@ ${articles.map((article, index) => `
 Index : ${index}
 Titre : ${article.title}
 Source : ${article.source}
-Contenu (court) : ${article.content.substring(0, 500)}
+Contenu (court) : ${article.content.substring(0, 300)}
 `).join('\n')}
 `,
     headlinesPrompt: (articles: ProcessedArticle[]) => `
@@ -322,67 +322,136 @@ ${index + 1}. ${headline.title} (${headline.source}) — ${headline.summary}
   }
 };
 
-export async function filterAndRankArticles(articles: ProcessedArticle[], languageCode: string = 'en'): Promise<ProcessedArticle[]> {
+// Internal helper: filter a single chunk of articles via the model
+async function filterAndRankArticlesChunk(articles: ProcessedArticle[], languageCode: string): Promise<ProcessedArticle[]> {
   const prompts = LANGUAGE_PROMPTS[languageCode as keyof typeof LANGUAGE_PROMPTS] || LANGUAGE_PROMPTS.en;
   const prompt = prompts.filterPrompt(articles);
   const threshold = (languageCode === 'fr' || languageCode === 'it') ? 5 : 6;
 
-  try {
-    const wantsSchema = supportsJsonSchema(MODEL_FILTER);
-    const response = await withRetry(() => openai.responses.create({
-      model: MODEL_FILTER,
-      input: prompt,
-      ...(wantsSchema ? {
-        text: {
-          format: {
-            type: "json_schema",
-            name: "article_analysis",
-            strict: true,
-            schema: {
-                type: "object",
-                additionalProperties: false,
-                properties: {
-                  analyses: {
-                    type: "array",
-                    items: {
-                      type: "object",
-                      additionalProperties: false,
-                      properties: {
-                        index: { type: "integer" },
-                        relevanceScore: { type: "integer", minimum: 0, maximum: 10 },
-                        isRelevant: { type: "boolean" },
-                        reason: { type: "string" }
-                      },
-                      required: ["index", "relevanceScore", "isRelevant", "reason"]
-                    }
+  const wantsSchema = supportsJsonSchema(MODEL_FILTER);
+  const response = await withRetry(() => openai.responses.create({
+    model: MODEL_FILTER,
+    input: prompt,
+    ...(wantsSchema ? {
+      text: {
+        format: {
+          type: "json_schema",
+          name: "article_analysis",
+          strict: true,
+          schema: {
+              type: "object",
+              additionalProperties: false,
+              properties: {
+                analyses: {
+                  type: "array",
+                  items: {
+                    type: "object",
+                    additionalProperties: false,
+                    properties: {
+                      index: { type: "integer" },
+                      relevanceScore: { type: "integer", minimum: 0, maximum: 10 },
+                      isRelevant: { type: "boolean" },
+                      reason: { type: "string" }
+                    },
+                    required: ["index", "relevanceScore", "isRelevant", "reason"]
                   }
-                },
-                required: ["analyses"]
-            }
+                }
+              },
+              required: ["analyses"]
           }
         }
-      } : {})
-    } as unknown as Parameters<typeof openai.responses.create>[0]));
+      }
+    } : {})
+  } as unknown as Parameters<typeof openai.responses.create>[0]));
 
-    const result = safeParseJSON<{ analyses: ArticleAnalysis[] }>((response as { output_text?: string }).output_text || '{"analyses":[]}', { analyses: [] as ArticleAnalysis[] });
-    
-    return articles
-      .map((article, index) => {
-        const analysis: ArticleAnalysis | undefined = result.analyses?.find((r: ArticleAnalysis) => r.index === index);
-        const score = analysis?.relevanceScore ?? 0;
-        return {
-          ...article,
-          relevanceScore: score,
-          // Apply language-aware threshold to accept significant national news for FR/IT
-          isRelevant: score >= threshold,
-        };
-      })
-      .filter(article => article.isRelevant)
-      .sort((a, b) => b.relevanceScore - a.relevanceScore)
-      .slice(0, 10);
+  const result = safeParseJSON<{ analyses: ArticleAnalysis[] }>((response as { output_text?: string }).output_text || '{"analyses":[]}', { analyses: [] as ArticleAnalysis[] });
+
+  return articles
+    .map((article, index) => {
+      const analysis: ArticleAnalysis | undefined = result.analyses?.find((r: ArticleAnalysis) => r.index === index);
+      const score = analysis?.relevanceScore ?? 0;
+      return {
+        ...article,
+        relevanceScore: score,
+        isRelevant: score >= threshold,
+      };
+    })
+    .filter(article => article.isRelevant)
+    .sort((a, b) => b.relevanceScore - a.relevanceScore);
+}
+
+export async function filterAndRankArticles(articles: ProcessedArticle[], languageCode: string = 'en'): Promise<ProcessedArticle[]> {
+  // Pre-trim: limit per source and overall to keep prompts small and fast
+  const MAX_PER_SOURCE = 8;
+  const MAX_TOTAL = 80;
+  const bySource = new Map<string, ProcessedArticle[]>();
+  for (const a of articles) {
+    const key = a.source || 'Unknown';
+    const arr = bySource.get(key) || [];
+    if (arr.length < MAX_PER_SOURCE) arr.push(a);
+    bySource.set(key, arr);
+  }
+  const trimmed: ProcessedArticle[] = Array.from(bySource.values()).flat();
+  const limited = trimmed.slice(0, MAX_TOTAL);
+
+  // To avoid exceeding model context limits, filter in chunks then merge
+  const CHUNK_SIZE = 30;
+  try {
+    const chunks: ProcessedArticle[][] = [];
+    for (let i = 0; i < limited.length; i += CHUNK_SIZE) {
+      chunks.push(limited.slice(i, i + CHUNK_SIZE));
+    }
+
+    const chunkResults: ProcessedArticle[][] = [];
+    for (const chunk of chunks) {
+      if (chunk.length === 0) continue;
+      try {
+        const res = await filterAndRankArticlesChunk(chunk, languageCode);
+        chunkResults.push(res);
+      } catch (err) {
+        console.error('Chunk filtering failed, using simple fallback for this chunk:', err);
+        // Fallback: take first few from the chunk to ensure coverage
+        chunkResults.push(chunk.slice(0, 3));
+      }
+    }
+
+    // Merge and deduplicate by normalized title + link host/path
+    const merged = ([] as ProcessedArticle[]).concat(...chunkResults);
+    const seen = new Set<string>();
+    const unique: ProcessedArticle[] = [];
+    for (const a of merged) {
+      let hostPath = '';
+      try {
+        const u = new URL(a.link);
+        hostPath = `${u.host}${u.pathname}`.toLowerCase();
+      } catch {
+        hostPath = a.link.toLowerCase();
+      }
+      const titleKey = a.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 80);
+      const fingerprint = `${hostPath}|${titleKey}`;
+      if (!seen.has(fingerprint)) {
+        seen.add(fingerprint);
+        unique.push(a);
+      }
+    }
+
+    // Sort by score and cap
+    const sorted = unique.sort((a, b) => b.relevanceScore - a.relevanceScore).slice(0, 10);
+
+    // Guardrail: if too few items survived, add more from the first chunk to reach minimum coverage
+    if (sorted.length < 5 && limited.length > 5) {
+      const filler = limited
+        .slice(0, 20)
+        .filter(a => !sorted.some(s => s.link === a.link))
+        .slice(0, 5 - sorted.length)
+        .map(a => ({ ...a, relevanceScore: a.relevanceScore || 0, isRelevant: true }));
+      return [...sorted, ...filler];
+    }
+
+    return sorted;
   } catch (error) {
     console.error('Error filtering articles:', error);
-    return articles.slice(0, 10); // Fallback: return first 10 articles
+    return limited.slice(0, 10); // Fallback: return first 10 articles
   }
 }
 

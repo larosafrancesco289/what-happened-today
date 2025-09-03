@@ -1,12 +1,60 @@
 {
   "date": "2025-09-03",
-  "summary": "Selon Le Monde, Emmanuel Macron se tourne vers les socialistes pour sortir de la crise, une démarche qui vise à stabiliser son gouvernement et à élargir le bloc centriste au Parlement. Ce rapprochement, s'il se confirme, implique des concessions sur le programme économique et social afin de trouver un terrain d'entente avec la gauche réformiste, et pourrait rassurer les marchés et réduire la volatilité politique. L'information est contestée par des responsables des partis de droite et par des observateurs qui doutent d'une union durable. La prochaine étape annoncée est la négociation d'un programme commun; son succès dépendra du calendrier parlementaire et d'un vote de confiance possible dans les semaines à venir.\n\nSur le plan thématique, ce réalignement politique pourrait influer sur l'économie, les politiques sociales et la position française en Europe. Une alliance avec les socialistes augmenterait la probabilité de compromis sur les dépenses publiques et les droits sociaux, ce qui intéresse les marchés et les syndicats. Côté sécurité et justice, des concessions pourraient porter sur les moyens des forces de l'ordre et la prévention; sur l'environnement, la gauche demandera probablement des mesures plus ambitieuses. Ces projections restent provisoires et contestées par plusieurs analystes et responsables politiques. La clef sera la durée et la nature des concessions lors des négociations: si aucun accord n'est trouvé avant l'examen parlementaire à venir, la majorité risque de rester fragile.",
+  "summary": "Aujourd'hui, Moscou a lancé une vaste attaque contre l’ouest de l’Ukraine, selon France Info, avec 526 drones et missiles et privant au moins 30 000 personnes d’électricité dans la région de Tcherniguiv. Cette escalade, qui touche des infrastructures civiles, a entraîné une mobilisation humanitaire immédiate et accroît le risque d’un affrontement régional élargi. Dans le même temps, Xi Jinping a présenté une Chine affichant une capacité militaire renforcée (Le Monde), ce qui redessine les équilibres stratégiques et peut influencer les réponses diplomatiques et militaires en Europe et en Asie. Prochaine étape : renforcement de la coordination internationale sur l’aide, examen des postures de défense et discussions sur des renforts de systèmes anti‑aériens.\n\nSur d’autres fronts, la France fait face à tensions diplomatiques et intérieures. Israël accuse Macron de déstabiliser la région après la reconnaissance de la Palestine; selon Gideon Saar cette décision serait dangereuse — une affirmation contestée par Paris (Le Monde). La justice oblige l’État à revoir les procédures d’autorisation des pesticides, une mesure visant à protéger la biodiversité et la santé et susceptible d’entraîner des réformes (France 24). La Commission européenne s’apprête à approuver l’accord UE‑Mercosur avec des sauvegardes agricoles (France Info). La rentrée universitaire atteint 3 227 euros (Libération), et des inquiétudes sur la qualité des médicaments indiens remettent en cause la surveillance sanitaire, appelant des inspections renforcées.",
   "headlines": [
     {
-      "title": "Emmanuel Macron se tourne vers les socialistes pour sortir de la crise",
+      "title": "Moscou frappe l'ouest de l'Ukraine avec 526 drones et missiles",
+      "source": "France Info",
+      "summary": "Cette escalade rappelle pourquoi c’est important : elle affecte des civils et mobilise l’aide humanitaire; au moins 30 000 personnes privées d'électricité dans la région de Tcherniguiv.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-a-lance-526-drones-et-missiles-sur-l-ukraine-une-demonstration-de-l-impunite-de-vladimir-poutine-selon-volodymyr-zelensky_7470463.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Xi Jinping présente une Chine prête à combattre à l’avenir",
       "source": "Le Monde",
-      "summary": "Le Monde affirme qu’Emmanuel Macron s’allie aux socialistes pour sortir de la crise, pourquoi c’est important: stabiliser le gouvernement et élargir le bloc centriste; prochaine étape: négocier un programme commun.",
-      "link": "https://www.lemonde.fr/politique/article/2025/09/03/pour-sortir-de-la-crise-politique-emmanuel-macron-se-tourne-vers-les-socialistes_6638506_823448.html"
+      "summary": "Cette démonstration vise à montrer pourquoi c’est important: elle souligne la réorientation stratégique de la Chine envers des capacités militaires accrues et peut influencer la sécurité régionale.",
+      "link": "https://www.lemonde.fr/international/article/2025/09/03/commemorant-le-passe-xi-jinping-presente-une-chine-prete-a-combattre-a-l-avenir_6638731_3210.html"
+    },
+    {
+      "title": "Israël accuse Macron de déstabiliser la région sur la Palestine",
+      "source": "Le Monde",
+      "summary": "Gideon Saar affirme que la reconnaissance de la Palestine par la France est dangereuse et qu’elle n'apportera ni paix ni sécurité dans la région.",
+      "link": "https://www.lemonde.fr/international/article/2025/09/03/reconnaissance-de-la-palestine-israel-accuse-emmanuel-macron-de-destabiliser-la-region_6638725_3210.html"
+    },
+    {
+      "title": "La justice française oblige l'État à revoir les procédures d'autorisation des pesticides",
+      "source": "France 24",
+      "summary": "Pourquoi c’est important : cette décision vise à protéger biodiversité et santé, et pourrait inspirer des révisions plus strictes des autorisations des pesticides.",
+      "link": "https://www.france24.com/fr/plan%C3%A8te/20250903-justice-pour-le-vivant-france-condamnation-pesticides-proc%C3%A9dures-autorisation"
+    },
+    {
+      "title": "Bayrou se dit prêt à envisager une solution alternative aux jours fériés",
+      "source": "Le Monde",
+      "summary": "Pourquoi c’est important : cette ouverture du dialogue pourrait influencer le calendrier parlementaire et les choix budgétaires, alors que le vote de confiance approche.",
+      "link": "https://www.lemonde.fr/politique/article/2025/09/03/vote-de-confiance-francois-bayrou-se-dit-pret-a-examiner-toute-solution-alternative-a-la-suppression-des-jours-feries_6638648_823448.html"
+    },
+    {
+      "title": "Commission européenne s’apprête à approuver l’accord UE-Mercosur malgré la France",
+      "source": "France Info",
+      "summary": "Pourquoi c’est important : des sauvegardes renforcées sur les produits agricoles sensibles pourraient rassurer la France tout en limitant les risques pour l'agriculture européenne.",
+      "link": "https://www.franceinfo.fr/economie/commerce/mercosur/direct-mercosur-la-commission-europeenne-s-apprete-a-approuver-l-accord-malgre-les-reticences-de-la-france_7470508.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Marseille : le maire appelle à plus de policiers après l'attaque",
+      "source": "France Info",
+      "summary": "Pourquoi c’est important : le manque de moyens pourrait compromettre la sécurité publique et influencer les futures dépenses de sécurité urbaine.",
+      "link": "https://www.franceinfo.fr/faits-divers/criminalite-a-marseille/on-a-besoin-de-policiers-dans-la-rue-apres-l-attaque-au-couteau-a-marseille-le-maire-denonce-un-manque-de-moyens_7470421.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Coût de la rentrée universitaire atteint 3 227 euros, alerte les étudiants",
+      "source": "Liberation",
+      "summary": "Pourquoi c’est important : cette hausse reflète la précarité croissante des étudiants et pourrait influencer les aides publiques et les frais de scolarité à venir.",
+      "link": "https://www.liberation.fr/economie/social/un-montant-qui-doit-choquer-et-alerter-le-cout-de-la-rentree-universitaire-seleve-cette-annee-a-3-227-euros-un-chiffre-en-hausse-de-2-20250903_PQPXYPZ53FHTJHWY4TCZLRLINM/"
+    },
+    {
+      "title": "L’Inde peut-elle rester le pharmacien du monde malgré les incidents ?",
+      "source": "France 24",
+      "summary": "Pourquoi c’est important : les scandales de qualité posent des questions sur la sécurité des médicaments exportés et pourraient inciter à une surveillance renforcée.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20250903-pol%C3%A9miques-au-pays-du-m%C3%A9dicament-l-inde-peut-elle-rester-le-pharmacien-du-monde"
     }
   ]
 }

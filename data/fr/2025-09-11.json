@@ -1,0 +1,54 @@
+{
+  "date": "2025-09-11",
+  "summary": "Selon France 24, au moins 89 civils ont été tués aujourd’hui dans l’est de la République démocratique du Congo lors d’attaques attribuées aux forces alliées démocratiques (ADF), un bilan provisoire qui souligne l’urgence d’une réponse sécuritaire et humanitaire renforcée. Dans le même temps, la situation à Gaza s’aggrave : l’OMS annonce qu’elle maintient une présence malgré un ordre d’évacuation (Le Monde) tandis que RFI décrit des flux massifs de déplacés à Gaza-ville, montrant l’ampleur du besoin d’accès humanitaire. Ces violences s’inscrivent dans un contexte de tensions plus larges, illustrées par des provocations russes à l’ouest de l’Ukraine (Le Monde), ce qui complique la coordination internationale et appelle à des corridors de secours et à des mesures diplomatiques immédiates.\n\nSur d’autres fronts, la vie publique et les droits sont affectés par des décisions politiques. En France, Le Monde rapporte que le nouveau Premier ministre, Sébastien Lecornu, veut relancer le débat sur les retraites, une mesure qui pourrait peser sur les finances publiques et susciter des tensions sociales si un calendrier législatif est engagé. Le Monde publie aussi un rapport de commission proposant 43 recommandations pour encadrer TikTok, qualifiée de menace pour la jeunesse — une affirmation contestée par la plateforme. En Haïti, Libération avertit que l’arrêt du financement américain accroît la vulnérabilité des femmes, impactant sécurité et droits. Prochaine action concrète: décisions réglementaires ou parlementaires à court terme.",
+  "headlines": [
+    {
+      "title": "89 personnes tuées dans l’est de la RD Congo par des ADF",
+      "source": "France 24",
+      "summary": "France 24 affirme qu’au moins 89 civils ont été tués lors d’attaques des ADF, soulignant l’urgence d’une réponse sécuritaire et humanitaire renforcée.",
+      "link": "https://www.france24.com/fr%C3%A9missions/journal-de-l-afrique/20250910-89-personnes-tu%C3%A9es-par-les-adf-dans-l-est-de-la-rd-congo"
+    },
+    {
+      "title": "L’OTAN fait face au dilemme des provocations russes à l’ouest de l’Ukraine",
+      "source": "Le Monde",
+      "summary": "Le Monde relate une escalade militaire avec 450 drones russes et une incursion dans l’espace aérien polonais, signifiant un défi croissant pour l’OTAN.",
+      "link": "https://www.lemonde.fr/international/article/2025/09/11/l-otan-face-au-dilemme-de-la-multiplication-des-provocations-militaires-russes_6640365_3210.html"
+    },
+    {
+      "title": "OMS annonce son maintien à Gaza malgré l’ordre d’évacuation",
+      "source": "Le Monde",
+      "summary": "L’OMS affirme être consternée par la décision et souligne l’insuffisance des ressources pour soutenir les personnes présentes et futures, et appelle une assistance accrue.",
+      "link": "https://www.lemonde.fr/international/live/2025/09/11/en-direct-gaza-l-oms-annonce-qu-elle-compte-rester-dans-la-ville-de-gaza-malgre-l-ordre-d-evacuation-israelien_6638986_3210.html"
+    },
+    {
+      "title": "À Gaza-ville, les Palestiniens fuient face à l’assaut israélien",
+      "source": "RFI",
+      "summary": "RFI décrit des flux massifs d’évacuation, montrant l’impact humanitaire et la pression sur les civils; cela souligne la nécessité d’accès humanitaire et de corridors sûrs.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20250911-%C3%A0-gaza-ville-les-palestiniens-de-nouveau-contraints-de-fuir-face-%C3%A0-l-assaut-isra%C3%A9lien"
+    },
+    {
+      "title": "Sébastien Lecornu veut relancer les discussions sur les retraites",
+      "source": "Le Monde",
+      "summary": "Le Monde rapporte que le nouveau premier ministre propose de réactiver le conclave sur les retraites et explore des ruptures possibles.",
+      "link": "https://www.lemonde.fr/politique/article/2025/09/11/pour-sortir-de-la-crise-sebastien-lecornu-veut-relancer-la-discussion-sur-les-retraites_6640378_823448.html"
+    },
+    {
+      "title": "Commission d’enquête TikTok: 43 recommandations et rapport accablant",
+      "source": "Le Monde",
+      "summary": "Le Monde affirme que TikTok est une plateforme ‘à l’assaut de la jeunesse’ et propose 43 recommandations pour encadrer l’usage.",
+      "link": "https://www.lemonde.fr/pixels/article/2025/09/11/commission-d-enquete-tiktok-le-rapport-etrille-une-plateforme-hors-de-controle-a-l-assaut-de-la-jeunesse-et-formule-43-recommandations_6640383_4408996.html"
+    },
+    {
+      "title": "Trump et Obama réagissent au meurtre de Charlie Kirk",
+      "source": "Le Figaro",
+      "summary": "Le Figaro rapporte que Trump, Obama et d’autres dirigeants réagissent au meurtre de Charlie Kirk, illustrant les tensions partisanes et les répercussions diplomatiques potentielles.",
+      "link": "https://www.lefigaro.fr/international/trump-obama-musk-netanyahou-les-politiques-reagissent-au-meurtre-de-charlie-kirk-20250911"
+    },
+    {
+      "title": "Haïti: les femmes premières victimes des coupes américaines dans l’aide au développement",
+      "source": "Liberation",
+      "summary": "Liberation rapporte que l’arrêt du financement USaid aggrave la crise humanitaire, touchant plus particulièrement les femmes et les filles exposées aux violences sexuelles.",
+      "link": "https://www.liberation.fr/international/amerique/haiti-les-femmes-premieres-victimes-des-coupes-americaines-dans-l aide-au-developpement-20250911_DH5URHAJXBCURKCYA5SBOX6WOM/"
+    }
+  ]
+}

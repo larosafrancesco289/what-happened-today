@@ -1,0 +1,60 @@
+{
+  "date": "2025-09-15",
+  "summary": "IDEA says global press freedom fell to a 50-year low today, reporting democracy declined across 94 countries in the past five years even as roughly one-third showed progress. That change matters because free media are central to accountability: while Brazil's President Lula wrote in a New York Times op‑ed that Jair Bolsonaro's sentencing confirms that Brazil's democracy \"is not negotiable\", the U.S. Fourth Circuit allowed directives limiting diversity, equity and inclusion programs in federal agencies, a move reported by Voice of America and likely to shape agency policies during appeals. Policymakers should prioritize legal protections and funding for independent journalism and coordinate emergency measures within weeks to sustain outlets and protect journalists.\n\nElsewhere, conflict and policy developments shaped risks and markets. Israel says 53 people were killed as intensified strikes flattened Gaza City towers, raising famine and displacement risks; Senator Marco Rubio visited Israel to discuss the war. The UN condemned a massacre in a Haitian village, urging investigations and humanitarian access. Non-conflict items include U.S. and U.K. plans for technology and civil nuclear pacts during a state visit, NASA and SpaceX's Crew-10 launch to the ISS to return stuck astronauts and sustain research, and Australia's climate risk assessment warning that rising seas could expose at least 1.5 million Australians by 2050. These events affect aid flows, trade and rights; urgent action is needed to open humanitarian corridors within days.",
+  "headlines": [
+    {
+      "title": "IDEA says global press freedom falls to 50-year low",
+      "source": "The Guardian",
+      "summary": "The IDEA findings show democracy declines across 94 countries in five years, with roughly one-third showing progress; policymakers should prioritize media freedom protections.",
+      "link": "https://www.theguardian.com/media/2025/sep/11/global-press-freedom-suffers-sharpest-fall-in-50-years-report-finds"
+    },
+    {
+      "title": "Lula says Bolsonaro verdict confirms Brazil's democracy is not negotiable",
+      "source": "Al Jazeera English",
+      "summary": "In a NYT op-ed, Lula praises Bolsonaro's sentencing and argues Brazil's democracy must remain non-negotiable amid external pressure.",
+      "link": "https://www.aljazeera.com/news/2025/9/15/lula-defends-bolsonaro-verdict-tells-trump-brazils-democracy-not-on-table?traffic_source=rss"
+    },
+    {
+      "title": "Israel says 53 killed in Gaza as towers are flattened",
+      "source": "Al Jazeera English",
+      "summary": "Israel intensifies bombardment, wiping out multiple buildings as humanitarian toll and famine risk rise.",
+      "link": "https://www.aljazeera.com/news/2025/9/14/israel-flattens-more-gaza-towers-as-strikes-kill-fifty-three-and-famine-toll-rises?traffic_source=rss"
+    },
+    {
+      "title": "UN condemns Haitian village massacre by armed gangs",
+      "source": "The Guardian",
+      "summary": "The UN warns of escalating violence near the capital and urges investigations and humanitarian access.",
+      "link": "https://www.theguardian.com/world/2025/sep/13/un-condemns-reported-haitian-village-massacre-by-armed-gangs"
+    },
+    {
+      "title": "US and UK aim tech and nuclear pacts during Trump's second state visit",
+      "source": "France 24",
+      "summary": "The announcements seek to deepen technology collaboration and civil nuclear energy ties as part of broader trade negotiations, with royal pageantry planned.",
+      "link": "https://www.france24.com/en/uk/20250914-uk-us-tech-energy-trump-visit"
+    },
+    {
+      "title": "NASA and SpaceX launch crew to space station to retrieve stuck astronauts",
+      "source": "Voice of America",
+      "summary": "Crew-10 joins the ISS for a routine rotation, enabling the return of two astronauts already aboard the station; mission clears the way for ongoing research.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html"
+    },
+    {
+      "title": "Fourth Circuit allows Trump administration's DEI crackdown on federal programs",
+      "source": "Voice of America",
+      "summary": "The court upholds directives limiting diversity, equity and inclusion initiatives in federal agencies, with the decision likely shaping agency policies during appeals.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html"
+    },
+    {
+      "title": "Rubio in Israel as IDF destroys more Gaza City buildings",
+      "source": "BBC World",
+      "summary": "The trip aims to discuss the Gaza war's ramifications and push for diplomatic solutions, as Israel expands strikes and international criticism grows.",
+      "link": "https://www.bbc.com/news/articles/c1795pv8g7eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Australia's climate risk assessment says rising seas threaten 1.5 million Australians by 2050",
+      "source": "BBC World",
+      "summary": "The nation's National Climate Risk Assessment projects higher exposure to floods, droughts, and storms, signaling the need for adaptation measures and resilience funding.",
+      "link": "https://www.bbc.com/news/articles/c930454e77xo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-01",
+  "summary": "Le message le plus urgent vient d'Ukraine: Volodymyr Zelensky affirme que la centrale de Zaporizhzhia reste en situation critique et qu'elle est déconnectée depuis au moins une semaine, avec les réparations des lignes et les mesures de sûreté bloquées (Le Figaro); ces affirmations n'ont pas été indépendamment vérifiées. Cette vulnérabilité nucléaire survient au moment où les dirigeants européens à Copenhague renforcent la défense commune pour soutenir l'Ukraine et contrer les incursions par drones (RFI). Parallèlement, le basculement des États‑Unis dans un shutdown menace d'interrompre des activités non essentielles et des financements d'aide, selon les autorités américaines (Le Monde). Conséquence: la coordination internationale nécessaire pour sécuriser la centrale et rétablir l'électricité risque d'être retardée — il faut une inspection et un financement d'urgence.\n\nAutres actualités: un séisme de magnitude 6,9 au large des Philippines a fait au moins cinq morts, entraîné dégâts et coupures et présente un risque de répliques, selon les autorités (Libération). Sur Gaza, le plan de Donald Trump bute sur le refus du Hamas de signer; le retrait israélien n'est pas exigé pour un cessez‑le‑feu, ce qui complique la médiation (Le Monde). En France, le Parlement reprend sans gouvernement après onze semaines et doit attribuer les postes clés, le RN y étant attendu. Le Shift Project alerte: sans plan, la croissance de l'IA pourrait tripler la consommation des centres de données d'ici 2030, nécessitant une trajectoire‑plafond pour limiter l'impact climatique. Risque: aide retardée si le financement n'est pas assuré.",
+  "headlines": [
+    {
+      "title": "Zelensky affirme que Zaporizhzhia reste critique après la déconnexion",
+      "source": "Le Figaro",
+      "summary": "Zelensky affirme que la centrale est en situation critique et déconnectée depuis au moins une semaine, les réparations des lignes et la sécurité restant bloquées.",
+      "link": "https://www.lefigaro.fr/international/ukraine-zelensky-alerte-sur-la-situation-critique-de-la-centrale-nucleaire-de-zaporizhzhia-deconnectee-depuis-une-semaine-20250930"
+    },
+    {
+      "title": "Le séisme au nord de Cebu fait des dégâts et des morts",
+      "source": "Liberation",
+      "summary": "Les autorités rapportent au moins cinq morts et d'importants dégâts après un séisme de 6,9 au large des Philippines, avec des coupures d'électricité et des répliques potentielles.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/au-moins-cinq-morts-dans-un-seisme-de-magnitude-69-au-large-des-philippines-20250930_ENQKR5G3UFFIVMMBPCDZTLXS7I/"
+    },
+    {
+      "title": "Trump présente son plan pour Gaza et le Hamas rechigne à signer",
+      "source": "Le Monde",
+      "summary": "Le plan de Trump pour Gaza est critiqué par le Hamas; le retrait israélien n’est pas condition préalable au cessez-le-feu, compliquant l’accord et l’intervention internationale.",
+      "link": "https://www.lemonde.fr/international/article/2025/10/01/plan-trump-pour-gaza-le-hamas-redoute-de-signer-un-accord-de-reddition_6643810_3210.html"
+    },
+    {
+      "title": "Les États-Unis basculent dans le shutdown, première depuis 2018",
+      "source": "Le Monde",
+      "summary": "Les autorités préviennent que les activités non essentielles pourraient cesser, marquant une paralysie budgétaire sans précédents depuis 2018.",
+      "link": "https://www.lemonde.fr/international/article/2025/10/01/les-etats-unis-basculent-dans-le-shutdown-une-premiere-depuis-2018_6643813_3210.html"
+    },
+    {
+      "title": "En l’absence de gouvernement, le Parlement fait sa rentrée",
+      "source": "Le Figaro",
+      "summary": "Après onze semaines, le Parlement rouvre sans gouvernement et doit attribuer les postes clés, avec le RN attendu dans les instances.",
+      "link": "https://www.lefigaro.fr/politique/en-direct-en-l-absence-de-gouvernement-le-parlement-fait-sa-rentree-et-le-rn-son-retour-dans-les-instances-de-l-assemblee-20251001"
+    },
+    {
+      "title": "À Copenhague, les dirigeants européens renforcent la défense commune",
+      "source": "RFI",
+      "summary": "Cette rencontre concentre l’objectif de soutenir l’Ukraine et de déployer des mesures anti-drones, après des incursions récents, afin de garantir la sécurité européenne.",
+      "link": "https://www.rfi.fr/fr/europe/20251001-%C3%A0-copenhague-le-renforcement-de-la-d%C3%A9fense-europ%C3%A9enne-au-centre-du-sommet-des-dirigeants-de-l-ue"
+    },
+    {
+      "title": "La croissance de l’IA sera insoutenable sans planification, alerte le Shift Project",
+      "source": "Le Monde",
+      "summary": "Le Shift Project prévoit que la consommation électrique des data centers pourrait tripler d’ici 2030 et appelle à une trajectoire-plafond pour respecter les engagements climatiques.",
+      "link": "https://www.lemonde.fr/economie/article/2025/10/01/la-croissance-de-l-ia-sera-insoutenable-sans-planification-alerte-le-shift-project_6643824_3234.html"
+    }
+  ]
+}

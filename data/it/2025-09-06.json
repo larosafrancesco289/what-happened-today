@@ -1,0 +1,60 @@
+{
+  "date": "2025-09-06",
+  "summary": "Novità più importante: l'Italia integra almeno 26 Volenterosi in una forza di rassicurazione per l'Ucraina, secondo Il Sole 24 Ore; si tratta di un impegno concreto la cui portata operativa resta da definire. La mossa arriva mentre il Cremlino avverte che truppe straniere sarebbero \"bersaglio legittimo\" in qualunque scenario — affermazione controversa riportata da ANSA — e mentre Rai News pubblica il filmato di un drone kamikaze abbattuto in Russia, segnale della pressione sui fronti. Queste notizie connettono un rafforzamento di presenza occidentale, minacce retoriche e atti bellici reali: la combinazione aumenta la tensione diplomatica e impone prossimi passi su regole d'ingaggio, chiarimenti sui compiti dei Volenterosi e vigilanza internazionale.\n\nIl resto delle notizie si divide tra economia, società e cultura: Il Sole 24 Ore segnala che il deficit italiano dovrebbe restare sotto il 3% dal 2026, al netto del nodo pensioni, un quadro che conta per i mercati e impone riforme mirate prima della legge di bilancio. Sul fronte civile, TGCOM24 riferisce che la camera ardente per Giorgio Armani è aperta al pubblico; ANSA segnala che Al Bano e Mogol sostengono la candidatura UNESCO della cucina e che il Parco delle Cinque Terre pianifica interventi da 1,2 milioni per la mitigazione idrogeologica. Rai News avverte l'avanzata della variante Stratus: aumenta l'attenzione su vaccini e prevenzione. Rischio concreto: decisioni e finanziamenti da calendarizzare.",
+  "headlines": [
+    {
+      "title": "Italia integra almeno 26 Volenterosi in una forza di rassicurazione",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il Sole 24 Ore afferma che l’Italia integra almeno 26 Volenterosi in una forza di rassicurazione per l’Ucraina; perché conta, segna un impegno concreto e resta da definire i compiti.",
+      "link": "https://www.ilsole24ore.com/art/truppe-sminatori-missili-dettagli-linea-meloni-sull-ucraina-tavolo-volenterosi-AHlUVQTC"
+    },
+    {
+      "title": "Sinner conquista finale agli Us Open dopo una lunga battaglia",
+      "source": "Rai News",
+      "summary": "Rai News riferisce che Sinner batte Auger-Aliassime in quattro set per una finale agli Us Open, offrendo solidità mentale e ritmo costante; prossima sfida contro avversario ancora da definire.",
+      "link": "https://www.rainews.it/video/2025/09/la-palla-sembra-stregata-sinner-la-scaglia-nello-stesso-angolo-di-continuo-contro-auger-us-open-43d26d46-388b-470f-904a-75ea02425804.html"
+    },
+    {
+      "title": "Milano saluta Giorgio Armani con camera ardente aperta al pubblico",
+      "source": "TGCOM24",
+      "summary": "TGCOM24 riferisce che la camera ardente è aperta al pubblico per due giorni nell’Armani/Teatro; perché conta, offre l’ultimo saluto alla vita dello stilista e delineerà orari e funerali.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/milano-in-coda-ultimo-saluto-giorgio-armani_103121537-202502k.shtml"
+    },
+    {
+      "title": "Deficit dell’Italia resta sotto il 3% dal 2026, evidenziando nodo pensioni",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il Sole 24 Ore afferma che il deficit resta sotto il 3% dal 2026, al netto del nodo pensioni; perché conta, riflette stabilità economica e richiede riforme mirate.",
+      "link": "https://www.ilsole24ore.com/art/goldman-sachs-deficit-dell-italia-sotto-3percento-2026-c-e-nodo-pensioni-AH428tTC"
+    },
+    {
+      "title": "Al Bano e Mogol sostengono candidatura UNESCO della Cucina",
+      "source": "ANSA",
+      "summary": "ANSA riferisce che Al Bano e Mogol sostengono una candidatura UNESCO per la Cucina; perché conta, valorizza patrimonio culturale e potrebbe stimolare turismo e produzione locale.",
+      "link": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2025/09/04/al-bano-e-mogol-danno-voce-a-candidatura-unesco-della-cucina_10da4cdd-554f-4c26-ab23-4f0c70f1ef4d.html"
+    },
+    {
+      "title": "Parco Cinque Terre pianifica interventi da 1,2 milioni",
+      "source": "ANSA",
+      "summary": "ANSA riferisce piano interventi da 1,2 milioni per mitigazione rischio idrogeologico e manutenzione percorsi; perché conta, migliora sicurezza e fruibilità del parco.",
+      "link": "https://www.ansa.it/canale_viaggi/regione/liguria/2025/09/04/parco-cinque-terre-piano-interventi-da-12-milioni-di-euro_ae10cb56-715c-47a6-89bc-34bfe8791a24.html"
+    },
+    {
+      "title": "Putin avverte: truppe straniere sono bersaglio legittimo in qualunque scenario",
+      "source": "ANSA",
+      "summary": "ANSA riporta che Putin avverte truppe straniere sono bersaglio legittimo in qualunque scenario e l'Ue pianifica sanzioni coordinate; perché conta, aumenta la tensione diplomatica e richiede vigilanza internazionale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/09/05/putin-avverte-truppe-straniere-un-bersaglio-legittimo_25fe24f8-1be8-476f-af6c-96fc372b6381.html"
+    },
+    {
+      "title": "Covid, Stratus avanza in Italia e tornano i sintomi",
+      "source": "Rai News",
+      "summary": "Rai News riferisce che la variante Stratus avanza in Italia e riprendono i vecchi sintomi; perché conta, aumenta l'attenzione su vaccini antinfluenzali e misure di prevenzione per l'autunno.",
+      "link": "https://www.rainews.it/articoli/2025/09/covid-la-variante-stratus-avanza-in-italia-e-tornano-i-vecchi-sintomi-della-malattia-lallerta-6a278003-3af7-4a5b-b8ab-cf69959ca3d7.html"
+    },
+    {
+      "title": "Drone kamikaze abbattuto nella notte in Russia, filmato",
+      "source": "Rai News",
+      "summary": "Rai News pubblica il video di un drone kamikaze abbattuto nella notte in Russia; perché conta, segnala la pressione sui fronti regionali e la necessità di difese moderne.",
+      "link": "https://www.rainews.it/video/2025/09/fuoco-urla-proiettili-drone-kamikaze-abbattuto-nella-notte-in-russia-video-dellattacco-875142b7-5f6d-4119-9ccd-451e2cc07233.html"
+    }
+  ]
+}

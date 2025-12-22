@@ -1,0 +1,60 @@
+{
+  "date": "2025-09-23",
+  "summary": "Le président Emmanuel Macron affirme la reconnaissance de l’État de Palestine à l’ONU, une déclaration présentée comme un tournant diplomatique qui peut réorienter les débats au Conseil de sécurité et exige une clarification des conditions d’un éventuel accord (selon Le Figaro) — affirmation contestée dans certains milieux. Cette démarche s’inscrit dans un contexte diplomatique tendu à New York, où Volodymyr Zelensky dit avoir discuté avec Donald Trump du renforcement de la défense aérienne et de l’aide militaire (selon Le Monde), tandis que Washington a classé Antifa comme organisation terroriste par décret présidentiel (selon RFI). Ces mouvements appellent des négociations et des précisions à l’ONU; la France devra expliciter ses critères avant tout vote au Conseil, sous peine d’escalade diplomatique.\n\nAutres développements: en Guinée, la participation au référendum constitutionnel atteindrait au moins 91,4 % et le « oui » se confirme, selon France 24; la prochaine étape est la promulgation officielle et une observation internationale renforcée. Le BEA indique qu’une collision d’avions a été évitée à Nice, soulignant des risques aéroportuaires et la nécessité de renforcer les procédures de séparation et le contrôle du trafic (selon Libération). Hong Kong se prépare au typhon Ragasa, avec des mesures pour protéger des millions de personnes et limiter des pertes économiques. En sport, Dembélé remporte le Ballon d’Or 2025, un résultat susceptible d’influencer transferts et choix de clubs. Risque: perturbations aériennes et économiques si les autorités n’annoncent pas rapidement des mesures.",
+  "headlines": [
+    {
+      "title": "Macron affirme la reconnaissance de l'État de Palestine à l'ONU",
+      "source": "Le Figaro",
+      "summary": "Macron affirme la reconnaissance de l’État de Palestine, marquant un tournant diplomatique; cela peut réorienter les débats au Conseil de sécurité et nécessiter une clarification des conditions d’un éventuel accord.",
+      "link": "https://www.lefigaro.fr/international/devant-l-onu-a-new-york-emmanuel-macron-acte-la-reconnaissance-de-l-etat-de-palestine-20250922"
+    },
+    {
+      "title": "Le BEA affirme qu’une collision d’avions a été évitée à Nice",
+      "source": "Liberation",
+      "summary": "Cette situation met en lumière les risques aéroportuaires et poussera les autorités à renforcer les procédures de séparation des vols et les contrôles de trafic.",
+      "link": "https://www.liberation.fr/economie/transports/une-collision-davions-evitee-de-justesse-a-laeroport-de-nice-dimanche-soir-20250922_EVH77245QBGCJPCFN4ZFMNZK2A/"
+    },
+    {
+      "title": "Les Guinéens mobilisés lors du référendum sur une nouvelle Constitution",
+      "source": "France 24",
+      "summary": "La participation atteint 91,4 %, et l’option oui se confirme; prochaine étape: passage officiel des révisions constitutionnelles et observation internationale accrue.",
+      "link": "https://www.france24.com/fr/afrique/20250923-r%C3%A9f%C3%A9rendum-guin%C3%A9e-%C3%A9lecteurs-participation-prononc%C3%A9s-pour-nouvelle-constitution-d%C3%A9pouillement-dj%C3%A9nabou-tour%C3%A9"
+    },
+    {
+      "title": "Dembélé sacre Ballon d’Or 2025, devançant Yamal et les autres favoris",
+      "source": "France 24",
+      "summary": "Cette victoire confirme ses performances et peut influencer les choix de son club et l’équipe de France; prochaine étape: performances en clubs et compétitions internationales.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20250922-le-sacre-d-ousmane-demb%C3%A9l%C3%A9-ballon-d-or-2025"
+    },
+    {
+      "title": "Zelensky rencontre Trump à New York en marge de l’ONU",
+      "source": "Le Monde",
+      "summary": "Zelensky confirme avoir discuté avec Trump à New York sur le renforcement de la défense aérienne et l’aide militaire; prochaine étape: clarifications sur l’agenda diplomatique et les accords éventuels.",
+      "link": "https://www.lemonde.fr/international/live/2025/09/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-rencontrera-donald-trump-mardi-a-new-york-en-marge-de-l-assemblee-generale-de-l-onu_6642198_3210.html"
+    },
+    {
+      "title": "Lecornu poursuit ses consultations pour peaufiner les arbitrages du nouveau gouvernement",
+      "source": "France Info",
+      "summary": "Cela peut influencer la composition du cabinet et les priorités initiales; prochaine étape: annonces officielles des ministères et dates de vote.",
+      "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/nouveau-gouvernement-loin-des-cameras-sebastien-lecornu-poursuit-ses-consultations-et-arbitrages_7507603.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Les discours à suivre lors de l’Assemblée générale des Nations unies en 2025",
+      "source": "Liberation",
+      "summary": "Ces discours façonneront les priorités internationales et les alliances; prochaine étape: analyse des plannings des dirigeants et des résolutions possibles.",
+      "link": "https://www.liberation.fr/international/assemblee-generale-des-nations-unies-les-discours-a-suivre-en-2025-20250923_TWA25OLUTVH2LNAURQO6D3ILGI/"
+    },
+    {
+      "title": "Hong Kong se prépare à une menace grave liée au typhon Ragasa",
+      "source": "France 24",
+      "summary": "La préparation vise à protéger des millions de personnes et à limiter les dégâts économiques; prochaine étape: déploiement des alertes et fermeture d’activités sensibles.",
+      "link": "https://www.france24.com/fr/info-en-continu/20250922-hong-kong-se-pr%C3%A9pare-%C3%A0-une-menace-grave-%C3%A0-l-approche-du-super-typhon-ragasa"
+    },
+    {
+      "title": "Les États-Unis classent Antifa officiellement comme organisation terroriste",
+      "source": "RFI",
+      "summary": "Donald Trump signe le décret, renforçant les mécanismes de sécurité et alimentant les débats sur les droits civiques; prochaine étape: suite judiciaire et réactions internationales.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/%C3%A9tats-unis-le-mouvement-antifa-officiellement-class%C3%A9-comme-organisation-terroriste"
+    }
+  ]
+}

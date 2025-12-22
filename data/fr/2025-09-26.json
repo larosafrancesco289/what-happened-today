@@ -1,0 +1,66 @@
+{
+  "date": "2025-09-26",
+  "summary": "Selon Le Monde, l’ancien président Nicolas Sarkozy a été condamné aujourd’hui à cinq ans de prison ferme, une décision historique qui pourrait déboucher sur une incarcération effective; la date d’écrou annoncée par le journal est le 13 octobre. Parallèlement, la scène internationale a été secouée par des annonces économiques américaines: France 24 et Libération rapportent que l’administration Trump propose des droits de douane massifs, incluant jusqu’à 100 % sur certains médicaments importés — une affirmation contestée qui, si elle était appliquée, risquerait d’alimenter l’inflation et de perturber les marchés mondiaux. Ces deux évolutions lient la politique intérieure et les risques économiques; la prochaine étape à suivre est la confirmation judiciaire en France et la précision de l’administration américaine sur l’entrée en vigueur.\n\nLes autres nouvelles concernent la sécurité, les droits et l’économie. Selon Le Monde, l’Allemagne lance un programme de défense spatiale évalué à au moins 35 milliards d’euros et renforce l’usage de drones pour dissuader un adversaire. France Info affirme que James Comey a été inculpé aux États‑Unis pour entrave à la justice et fausses déclarations, une affaire qui peut accentuer les tensions politiques américaines. RFI signale des manifestations à Madagascar accompagnées de morts et l’instauration d’un couvre‑feu à Antananarivo, menaçant les droits civils. Le Monde indique que Bosch prévoit au moins 13 000 suppressions d’emplois et que l’avion de Benyamin Netanyahou a évité l’espace aérien français; surveillez les effets sur l’emploi et la stabilité régionale.",
+  "headlines": [
+    {
+      "title": "Nicolas Sarkozy est condamné à cinq ans de prison ferme",
+      "source": "Le Monde",
+      "summary": "Selon Le Monde, c’est une étape historique qui pourrait entraîner l’incarcération et invite à observer les suites juridiques, notamment la date d’écrou du 13 octobre.",
+      "link": "https://www.lemonde.fr/societe/article/2025/09/26/nicolas-sarkozy-condamne-a-cinq-ans-de-prison-ferme-pour-association-de-malfaiteurs-retour-sur-un-jugement-historique_6642978_3224.html"
+    },
+    {
+      "title": "Trump annonce des droits de douane dont 100% sur les médicaments importés",
+      "source": "France 24",
+      "summary": "France 24 affirme que ces mesures protectionnistes pourraient raviver les tensions économiques mondiales et alimenter l’inflation, et pourraient influencer les marchés mondiaux dans les semaines à venir.",
+      "link": "https://www.france24.com/fr/info-en-continu/20250926-trump-annonce-de-nouveaux-droits-de-douane-dont-100-pour-les-m%C3%A9dicaments"
+    },
+    {
+      "title": "L’Allemagne lance un programme de défense spatiale et renforce ses drones",
+      "source": "Le Monde",
+      "summary": "Le Monde affirme que Berlin lance un programme de défense spatiale de 35 milliards d’euros et renforce l’usage des drones pour dissuader l’adversaire.",
+      "link": "https://www.lemonde.fr/international/live/2025/09/26/en-direct-guerre-en-ukraine-nouvelle-alerte-aux-drones-au-danemark-un-aeroport-ferme-brievement_6642198_3210.html"
+    },
+    {
+      "title": "James Comey inculpé par la justice américaine dans l’affaire Trump",
+      "source": "France Info",
+      "summary": "France Info affirme que le ministère de la Justice l’inculpe pour entrave à la justice et fausses déclarations dans le cadre de l’enquête sur l’ingérence présidentielle.",
+      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-ancien-directeur-du-fbi-dans-le-viseur-de-donald-trump-inculpe-par-la-justice-americaine_7515073.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Trump annonce des droits de douane dont 100% sur les médicaments importés",
+      "source": "Liberation",
+      "summary": "Libération affirme que ces taxes entreraient en vigueur le 1er octobre et visent les poids lourds et les meubles, augmentant potentiellement les coûts pour les consommateurs.",
+      "link": "https://www.liberation.fr/international/amerique/guerre-commerciale-donald-trump-annonce-des-nouveaux-droits-de-douane-dont-100-pour-les-medicaments-importes-20250926_VFJIZVNN3RBL7AMWFMNDV3BGDQ/"
+    },
+    {
+      "title": "Trump demande à la Turquie d’arrêter ses achats de pétrole russe",
+      "source": "France 24",
+      "summary": "France 24 affirme qu’il est prêt à lever presque immédiatement les sanctions et presse la Turquie d’arrêter ses achats de pétrole russe.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20250925-pr%C3%AAt-lever-sanctions-trump-demande-turquie-arr%C3%At-achats-p%C3%A9trole-russe"
+    },
+    {
+      "title": "La répression des manifestations à Madagascar se poursuit",
+      "source": "RFI",
+      "summary": "RFI affirme que des morts et des pillages accompagnent les manifestations, et qu’un couvre-feu a été instauré dans presque tous les quartiers d’Antananarivo.",
+      "link": "https://www.rfi.fr/fr/afrique/20250926-madagascar-la-r%C3%A9pression-des-manifestations-contre-les-d%C3%A9lestages-se-poursuit-malgr%C3%A9-plusieurs-morts"
+    },
+    {
+      "title": "Trump promet de bloquer l’annexion israélienne de la Cisjordanie",
+      "source": "RFI",
+      "summary": "RFI affirme qu’il a prévenu qu’Israël ne pourra pas annexer la Cisjordanie, en attendant le discours prévu à l’ONU à New York.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20250926-donald-trump-promet-qu-il-ne-laissera-pas-isra%C3%ABl-annexer-la-cisjordanie"
+    },
+    {
+      "title": "L’avion de Netanyahou évite l’espace aérien français en route vers New York",
+      "source": "Le Monde",
+      "summary": "Le Monde affirme que Paris autorisait le survol, mais l’avion a changé d’itinéraire pour rejoindre les États-Unis, malgré le mandat d’arrêt de la CPI.",
+      "link": "https://www.lemonde.fr/international/article/2025/09/26/l-etrange-detour-du-vol-de-benyamin-netanyahou-pour-rejoindre-les-etats-unis_6642991_3210.html"
+    },
+    {
+      "title": "Bosch supprime 13 000 postes face à la crise automobile",
+      "source": "Le Monde",
+      "summary": "Le Monde affirme que Bosch prévoit 13 000 licenciements, aggravant les pertes et touchant les sites allemands les plus exposés.",
+      "link": "https://www.lemonde.fr/economie/article/2025/09/25/frappee-de-plein-fouet-par-la-crise-de-l-automobile-bosch-va-supprimer-13-000-postes_6642964_3234.html"
+    }
+  ]
+}

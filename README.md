@@ -24,7 +24,7 @@ To provide a concise, factual snapshot of the day without sensationalism, helpin
 ```bash
 git clone https://github.com/larosafrancesco289/what-happened-today
 cd what-happened-today
-npm install
+bun install
 ```
 
 2) Configure environment
@@ -32,34 +32,35 @@ npm install
 Create `.env.local` in the project root:
 
 ```bash
-OPENAI_API_KEY=your_openai_api_key
-# Optional: override default models (safe defaults provided)
-# OPENAI_MODEL_FILTER=gpt-5-nano
-# OPENAI_MODEL_HEADLINES=gpt-5-nano
-# OPENAI_MODEL_SUMMARY=gpt-5-nano
+# Required
+OPENROUTER_API_KEY=your_openrouter_api_key
 ```
+
+Get your API key at [openrouter.ai/keys](https://openrouter.ai/keys)
+
+Model configuration is in `src/lib/llm-client.ts` - edit that file directly to change models.
 
 ### Quickstart
 
 ```bash
-npm run dev           # start the app at http://localhost:3000
-npm run build         # build for production
-npm run start         # run the production build
-npm run lint          # run ESLint
+bun run dev           # start the app at http://localhost:3000
+bun run build         # build for production
+bun run start         # run the production build
+bun run lint          # run ESLint
 ```
 
 Pipeline commands:
 
 ```bash
-npm run generate-news:en    # generate English news
-npm run generate-news:it    # generate Italian news
-npm run generate-news:fr    # generate French news
-npm run generate-news:all   # generate all languages
+bun run generate-news:en    # generate English news
+bun run generate-news:it    # generate Italian news
+bun run generate-news:fr    # generate French news
+bun run generate-news:all   # generate all languages
 ```
 
 ### Usage
 
-- Browse `http://localhost:3000` for today’s summary
+- Browse `http://localhost:3000` for today's summary
 - Open `/YYYY-MM-DD` for a specific date (for example `/2025-01-11`)
 - Programmatic access: `/api/news?date=YYYY-MM-DD&language=en|it|fr`
 
@@ -91,9 +92,9 @@ src/
 ├── lib/
 │   ├── client-utils.ts
 │   ├── i18n.ts
-│   ├── languages.ts
+│   ├── languages.ts         # RSS feeds per language
+│   ├── llm-client.ts        # OpenRouter API integration
 │   ├── news-fetcher.ts
-│   ├── openai.ts
 │   ├── rss-feeds.ts
 │   └── utils.ts
 └── types/
@@ -110,9 +111,10 @@ scripts/
 
 Notes:
 
-- The pipeline reads curated RSS feeds per language, filters and ranks with the OpenAI API, generates headlines, and synthesizes a two paragraph summary. Output is saved as JSON under `data/{lang}/YYYY-MM-DD.json`.
+- The pipeline reads curated RSS feeds per language, filters and ranks with OpenRouter, generates headlines, and synthesizes a two paragraph summary. Output is saved as JSON under `data/{lang}/YYYY-MM-DD.json`.
 - The UI loads the file for today or for the selected date.
-- For structured JSON outputs, the code uses the Responses API. Some chat models (e.g., certain `chat-latest` variants) may not support JSON-schema output. Defaults use a schema-capable model; you can override via the `OPENAI_MODEL_*` env vars above.
+- Uses Bun for fast TypeScript execution and package management.
+- Deployed on Vercel with daily GitHub Actions automation.
 
 ### License
 

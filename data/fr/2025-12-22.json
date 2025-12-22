@@ -1,0 +1,54 @@
+{
+  "date": "2025-12-22",
+  "summary": "Le ministère guinéen indique que au moins huit candidats se préparent à affronter le chef de transition Mamadi Doumbouya lors de l’élection du dimanche, et ils quittent leurs villages pour rallier Conakry avant ce jour. Le gouvernement français, par l’intermédiaire de Sébastien Lecornu, présente un projet de loi spéciale 2026 qui sera examiné demain à l’Assemblée et au Sénat. Parallèlement, Jeff Landry, envoyé spécial américain, propose l’intégration du Groenland aux États‑Unis, suscitant la convocation de l’ambassadeur du Danemark. Ces trois évolutions annoncèrent des décisions à prendre d’ici la fin de la semaine : le scrutin guinéen, le vote parlementaire sur la loi spéciale et la réponse diplomatique du Danemark, qui détermineront les orientations politiques immédiates.\n\nLe ministre de l’Agriculture affirme que la Chine taxe les produits laitiers européens, tandis que les organisations françaises de producteurs nie cet impact. La police australienne indique que les auteurs de l’attentat près de Bondi Beach ont planifié l’attentat, entraînant 15 morts, promettent poursuites. Une cyberattaque a paralysé La Poste le 22 décembre, bloquant la distribution de colis festifs, et le groupe prévoit de rétablir les services d’ici le 26 décembre. Le ministère de la Justice retient au moins cent mille dossiers Epstein, irritant l’opposition, qui réclame publication avant fin d’année. Une explosion à l’usine chimique d’Elkem Silicones à Saint‑Fons a fait quatre blessés, et la préfecture a ordonné une enquête sur le risque de toxicité d’ici le 15 janvier.",
+  "headlines": [
+    {
+      "title": "Huit candidats guinéens prennent la route vers Conakry avant dimanche",
+      "source": "France 24",
+      "summary": "Huit candidats se préparent à affronter le chef de transition Mamadi Doumbouya lors de l’élection du dimanche, selon le ministère guinéen.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20251222-pr%C3%A9sidentielle-en-guin%C3%A9e-derniers-jours-de-campagne"
+    },
+    {
+      "title": "Sébastien Lecornu présente le projet de loi spéciale 2026 au Conseil des ministres",
+      "source": "Le Monde",
+      "summary": "Le projet de loi spéciale présenté par Sébastien Lecornu sera examiné demain à l’Assemblée et au Sénat, selon le communiqué du gouvernement.",
+      "link": "https://www.lemonde.fr/politique/live/2025/12/22/en-direct-budget-2026-fin-des-consultations-de-sebastien-lecornu-le-projet-de-loi-speciale-presente-en-conseil-des-ministres-dans-la-soiree_6659093_823448.html"
+    },
+    {
+      "title": "Chine taxe produits laitiers européens, ministre souligne décision",
+      "source": "France Info",
+      "summary": "La Chine taxe les produits laitiers européens, le ministre de l’Agriculture affirme que le secteur français pourrait se fermer, selon ses déclarations publiques.",
+      "link": "https://www.franceinfo.fr/monde/usa/droits-de-douane/la-chine-impose-une-taxe-sur-les-produits-laitiers-europeens-la-ministre-de-l-agriculture-denonce-une-decision-inacceptable_7696438.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Assaillants de Bondi Beach planifient attaque après semaines d’entraînement",
+      "source": "France 24",
+      "summary": "Les auteurs de l’attentat près de Bondi Beach ont planifié l’opération sur plusieurs semaines, entraînement et repérage identifiés, et l’attentat a fait 15 morts, selon le rapport de la police australienne.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20251222-qui-sont-terroristes-bondi-beach-entrainement-reperage-bombes-comment-preparation-attaque"
+    },
+    {
+      "title": "Jeff Landry, envoyé spécial américain, suscite indignation au Danemark",
+      "source": "Le Monde",
+      "summary": "Jeff Landry, envoyé spécial américain, propose l’intégration du Groenland aux États‑Unis, provoquant la convocation de l’ambassadeur par le Danemark, selon le ministère.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/22/la-nomination-d-un-envoye-special-americain-pour-le-groenland-suscite-l-indignation-au-danemark_6659148_3210.html"
+    },
+    {
+      "title": "Cyberattaque bloque La Poste juste avant Noël, activités colis perturbées",
+      "source": "Le Monde",
+      "summary": "Une cyberattaque met hors service l’ensemble des sites et applications de La Poste le 22 décembre, perturbant la distribution de colis pendant la période festive, selon le communiqué du groupe.",
+      "link": "https://www.lemonde.fr/economie/article/2025/12/22/coup-dur-pour-la-poste-bloquee-juste-avant-noel-par-une-cyberattaque_6659156_3234.html"
+    },
+    {
+      "title": "Justice américain retient centaine de milliers de dossiers Epstein",
+      "source": "France Info",
+      "summary": "Le ministère de la Justice américain retient des centaines de milliers de dossiers liés à l’affaire Epstein, provoquant l irritation de l’opposition, selon les déclarations du porte‑parole.",
+      "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-pourquoi-le-caviardage-des-documents-rendus-publics-fait-il-polemique-aux-etats-unis_7695877.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "title": "Explosion dans usine chimique près de Lyon laisse quatre blessés",
+      "source": "France Info",
+      "summary": "Une explosion survient dans l’usine chimique d’Elkem Silicones à Saint‑Fons, faisant quatre blessés ; la préfecture indique que le risque de toxicité est nul, selon le dernier communiqué.",
+      "link": "https://www.franceinfo.fr/faits-divers/accident/direct-explosion-dans-une-usine-chimique-pres-de-lyon-les-riverains-appeles-a-eviter-le-secteur-l-autoroute-a7-coupee-dans-les-deux-sens_7696123.html#xtor=RSS-3-[lestitres]"
+    }
+  ]
+}

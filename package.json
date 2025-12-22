@@ -8,11 +8,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-news": "tsx scripts/generate-news.ts",
-    "generate-news:en": "tsx scripts/generate-news.ts --lang=en",
-    "generate-news:it": "tsx scripts/generate-news.ts --lang=it",
-    "generate-news:fr": "tsx scripts/generate-news.ts --lang=fr",
-    "generate-news:all": "npm run generate-news:en && npm run generate-news:it && npm run generate-news:fr",
+    "generate-news": "bun run scripts/generate-news.ts",
+    "generate-news:en": "bun run scripts/generate-news.ts --lang=en",
+    "generate-news:it": "bun run scripts/generate-news.ts --lang=it",
+    "generate-news:fr": "bun run scripts/generate-news.ts --lang=fr",
+    "generate-news:all": "bun run generate-news:en && bun run generate-news:it && bun run generate-news:fr",
     "setup": "bash scripts/setup.sh",
     "dev:script": "bash scripts/dev.sh",
     "generate": "bash scripts/generate.sh"
@@ -20,7 +20,6 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@vercel/analytics": "^1.5.0",
-    "dotenv": "^16.6.1",
     "next": "15.3.3",
     "openai": "^4.73.1",
     "react": "^19.0.0",
@@ -37,7 +36,6 @@
     "eslint-config-next": "15.3.3",
     "postcss": "^8.5.4",
     "tailwindcss": "^4.1.8",
-    "tsx": "^4.7.0",
     "typescript": "^5"
   }
 }

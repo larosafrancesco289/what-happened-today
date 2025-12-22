@@ -35,14 +35,14 @@ export const SUPPORTED_LANGUAGES: Language[] = [
 export const RSS_FEEDS_BY_LANGUAGE: Record<string, RSSFeed[]> = {
   en: [
     {
-      name: 'Reuters',
-      url: 'https://www.reuters.com/world/rss',
-      description: 'Global wire - Fast, factual wire copy; minimal clickbait'
+      name: 'Associated Press',
+      url: 'https://feedx.net/rss/ap.xml',
+      description: 'Global wire - AP news via FeedX mirror; broad geographic mix'
     },
     {
-      name: 'Associated Press',
-      url: 'https://apnews.com/hub/ap-top-news?utm_source=apnews.com&utm_medium=referral&utm_campaign=rss&output=atom',
-      description: 'Global wire #2 - AP "Top News" stream; broad geographic mix'
+      name: 'New York Times World',
+      url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml',
+      description: 'NYT World desk - In-depth international coverage'
     },
     {
       name: 'BBC World',
@@ -134,9 +134,9 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<string, RSSFeed[]> = {
       description: 'Quotidien de gauche; analyses approfondies et couverture sociale'
     },
     {
-      name: 'Les Echos',
-      url: 'https://www.lesechos.fr/rss/rss_ue.xml',
-      description: 'Quotidien économique; actualité internationale sous l\'angle économique'
+      name: '20 Minutes',
+      url: 'https://www.20minutes.fr/feeds/rss-monde.xml',
+      description: 'Quotidien gratuit populaire; actualité mondiale accessible'
     },
     {
       name: 'L\'Express',

@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { fetchAllNews, deduplicateArticles } from '@/lib/news-fetcher';
-import { filterAndRankArticles, generateHeadlines, generateDailySummary } from '@/lib/openai';
+import { filterAndRankArticles, generateHeadlines, generateDailySummary } from '@/lib/llm-client';
 import { getDateString, saveDailyNews } from '@/lib/utils';
 import type { DailyNews } from '@/types/news';
 

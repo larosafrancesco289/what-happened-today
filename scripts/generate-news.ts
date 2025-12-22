@@ -1,22 +1,11 @@
-#!/usr/bin/env node
+#!/usr/bin/env bun
 
-// Ensure environment variables are loaded before any other imports
-import fs from 'fs';
-import path from 'path';
-import dotenv from 'dotenv';
-
-// Prefer .env.local (Next.js convention) and fallback to .env
-const envLocalPath = path.join(process.cwd(), '.env.local');
-if (fs.existsSync(envLocalPath)) {
-  // Ensure local file values override any shell-exported vars (useful when a stale OPENAI_API_KEY is exported)
-  dotenv.config({ path: envLocalPath, override: true });
-} else {
-  dotenv.config({ override: true });
-}
+// Bun automatically loads .env and .env.local files
+// No explicit dotenv configuration needed
 
 // Standalone script to generate daily news for GitHub Actions
 // IMPORTANT: We dynamically import dependencies AFTER loading env so the correct
-// OPENAI_API_KEY from .env.local is used when initializing the OpenAI client.
+// OPENROUTER_API_KEY from .env.local is used when initializing the LLM client.
 
 // Helper function to add timeout to promises
 function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: string): Promise<T> {
@@ -30,9 +19,9 @@ function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: strin
 
 async function runPipeline(languageCode: string = 'en') {
   try {
-    // Dynamically import modules AFTER env is loaded so OpenAI client picks up the correct key
+    // Dynamically import modules AFTER env is loaded so LLM client picks up the correct key
     const { fetchAllNews, deduplicateArticles } = await import('../src/lib/news-fetcher');
-    const { filterAndRankArticles, generateHeadlines, generateDailySummary } = await import('../src/lib/openai');
+    const { filterAndRankArticles, generateHeadlines, generateDailySummary } = await import('../src/lib/llm-client');
     const { getDateString, saveDailyNews } = await import('../src/lib/utils');
 
     console.log(`Starting daily news pipeline for language: ${languageCode}...`);
@@ -109,8 +98,8 @@ async function runPipeline(languageCode: string = 'en') {
 }
 
 // Check if required environment variables are set
-if (!process.env.OPENAI_API_KEY) {
-  console.error('OPENAI_API_KEY environment variable is required');
+if (!process.env.OPENROUTER_API_KEY) {
+  console.error('OPENROUTER_API_KEY environment variable is required');
   process.exit(1);
 }
 

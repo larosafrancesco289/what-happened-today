@@ -1,60 +1,66 @@
 {
   "date": "2025-12-23",
-  "summary": "Un'autobomba a Mosca ha ucciso il generale russo responsabile dell'addestramento militare, segnando una nuova escalation della guerra. Il ministero della Difesa russa ha attribuito l'attacco alle forze ucraine, mentre le autorità ucraine hanno negato direttamente la responsabilità ma hanno sottolineato che tali colpi fanno parte di una strategia più ampia. La decisione della Russia di ritorsione potrebbe includere ulteriori raid contro figure chiave e aumentare le tensioni diplomatiche nei prossimi giorni, coinvolgendo soprattutto le leadership militari dei due Paesi. Il presidente Putin ha ordinato un’indagine rapida, mentre gli esperti di sicurezza temono che l’incidente possa provocare una risposta militare più ampia entro le prossime 48 ore, mettendo a rischio le comunità civili vicine ai quartieri industriali.\n\nIn sicurezza, le autorità russe hanno collegato gli attentati a Mosca, compreso l’omicidio del generale Sarvarov, alle forze ucraine, mentre le intelligence occidentali avvertono che la Russia potrebbe colpire i satelliti Starlink con armi anti‑satellite entro i prossimi mesi. In economia, il governo italiano deve approvare oggi il maxi emendamento da 970 commi; se l’opposizione blocca, potrebbe ricorrere alla fiducia entro 48 ore. In salute, un aereo medico precipitato in Texas ha ucciso piloti e assistenti; le autorità stanno indagando e le famiglie chiedono chiarimenti. Un’inchiesta del New York Times sulle origini di Jeffrey Epstein ha mostrato legami con elite sociali; le autorità USA hanno promesso nuove analisi delle prove entro la fine dell’anno.",
+  "summary": "La guerra in Ucraina infuria senza sosta: la Russia ha lanciato un massiccio attacco su Kiev e altre città con 30 missili e oltre 650 droni, causando morti e feriti. Zelensky denuncia l'aggressione e invoca più pressione internazionale per la pace, mentre la Polonia schiera caccia al confine e Trump osserva l'odio profondo tra le parti. Questi raid, i più intensi da settimane, arrivano mentre si discute di garanzie di sicurezza con gli Usa, complicando ogni spiraglio diplomatico e ricordando al mondo quanto il conflitto resti una ferita aperta per l'Europa.\n\nIn Italia, il Senato accelera sull'approvazione della Manovra: dopo stralci di norme contro il lavoro sottopagato, si vota la fiducia prima del passaggio alla Camera entro il 30 dicembre. Tra le novità, pensioni minime su di 20 euro, addio a Quota 103 e Opzione donna, Ape sociale confermata e sgravi per la prima casa. Intanto, l'Antitrust colpisce Ryanair con una multa record di 255,7 milioni per pratiche abusive contro agenzie online, scatenando il ricorso della compagnia. Queste mosse delineano un Bilancio pragmatico, ma criticato per ritocchi timidi in tempi di crisi.\n\nSul fronte globale, l'oro sfonda i 4500 dollari l'oncia, nuovo record spinto da incertezze geopolitiche, mentre in California 10 milioni di persone sono invitati a restare in casa per smog da PM2.5, con divieto di fuochi. Trump, meanwhile, promette di revocare le grazie di Biden a 37 condannati per rimetterli a morte, e spinge per acquisire la Groenlandia: segnali di un'America assertiva che polarizza il mondo economico e ambientale.",
   "headlines": [
     {
-      "title": "Autobomba a Mosca uccide il generale responsabile dell'addestramento militare",
+      "title": "Russia attacca Kiev con missili e droni causando morti e feriti",
       "source": "ANSA",
-      "summary": "Il ministero russo sostiene che un'autobomba ha ucciso il generale responsabile dell'addestramento a Mosca, intensificando la tensione con l'Ucraina e segnando una nuova escalation.",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2025/12/22/autobomba-esplode-nel-cuore-di-mosca-ucciso-un-generale_e5239c1b-fdd6-4973-ba2c-e10812de6cc7.html"
+      "summary": "La Russia lancia un violento attacco su Kiev con missili e droni, provoca morti e feriti. Zelensky chiede più pressione per la pace, Polonia schiera caccia e Trump nota odio tra le parti.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2025/12/23/kiev-violento-attacco-russo-con-missili-e-droni-live_36f7cff4-69fd-436c-bfa4-aaa755b7321a.html"
     },
     {
-      "title": "Attentati a Mosca colpiscono la catena di comando russa",
+      "title": "Manovra aumenta pensioni minime di 20 euro e modifica requisiti",
       "source": "TGCOM24",
-      "summary": "Le autorità russe attribuiscono la serie di attentati, inclusi gli omicidi di Dugina e Sarvarov, alle forze ucraine, suscitando timori di ulteriori colpi contro alti dirigenti.",
-      "link": "https://www.tgcom24.mediaset.it/mondo/russia-putin-attentati-ucraina_107295997-202502k.shtml"
+      "summary": "La nuova Legge di Bilancio ritocca le pensioni minime con +20 euro, elimina Quota 103 e Opzione donna, mantiene Ape sociale. Prima casa esce dall'Isee e sale deducibilità previdenza complementare.",
+      "link": "https://www.tgcom24.mediaset.it/economia/manovra-ecco-come-cambiano-le-pensioni_107314374-202502k.shtml"
     },
     {
-      "title": "Kremlin accusa l'Ucraina dell'assassinato del generale Sarvarov oggi",
+      "title": "Russia bombarda Ucraina con 30 missili e 650 droni",
       "source": "TGCOM24",
-      "summary": "Zelensky sostiene che l'Ucraina prevede massicci attacchi russi a Natale, l'UE ha rinnovato le sanzioni e il Cremlino accusa l'Ucraina dell'assassinio del generale Sarvarov, evidenziando una escalation diplomatica.",
+      "summary": "Zelensky denuncia massiccio attacco russo sull'Ucraina, Polonia dispiega caccia. Il leader ucraino discute con Usa garanzie di sicurezza e possibili estensioni.",
       "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-giorno-1399-diretta-news_107306911-202502k.shtml"
     },
     {
-      "title": "Israele chiude la radio militare e limita l'operato delle ONG",
+      "title": "California avverte 10 milioni di persone di restare in casa per smog",
       "source": "la Repubblica",
-      "summary": "Il governo israeliano ha chiuso una radio militare e introdotto restrizioni alle ONG operanti a Gaza, misura che rischia di aggravare la crisi umanitaria nella striscia.",
-      "link": "https://www.repubblica.it/esteri/2025/12/23/news/israele_stretta_ong_catastrofe_gaza_chiusa_radio_militare-425055931/?rss"
+      "summary": "Sistemi di monitoraggio rilevano alti livelli di PM2.5 in California, pericolosi per la salute. Autorità attivano divieto di bruciare legna per migliorare qualità aria.",
+      "link": "https://www.repubblica.it/esteri/2025/12/23/news/california_allarme_inquinamento_aria-425056827/?rss"
     },
     {
-      "title": "Manovra attende l'approvazione del maxi emendamento con 970 commi",
+      "title": "Senato discute voto di fiducia sulla Manovra prima Camera",
       "source": "Il Sole 24 Ore",
-      "summary": "Il governo italiano prevede l'approvazione del maxi emendamento contenente circa 970 commi entro oggi, con possibile ricorso alla fiducia se incontra opposizione parlamentare.",
-      "link": "https://www.ilsole24ore.com/art/manovra-attesa-il-maxi-emendamento-un-articolo-e-circa-970-commi-AIwUl4W"
+      "summary": "Al Senato in corso dichiarazioni di voto sulla fiducia alla Manovra. Il passaggio alla Camera per approvazione definitiva è previsto per il 30 dicembre.",
+      "link": "https://www.ilsole24ore.com/art/manovra-via-aula-senato-dichiarazioni-voto-fiducia-AIxuwyX"
     },
     {
-      "title": "Intelligence occidentali temono attacchi russi a satelliti Starlink",
-      "source": "la Repubblica",
-      "summary": "Le intelligence occidentali avvertono che la Russia potrebbe impiegare armi anti-satellite per colpire la rete Starlink, una minaccia che potrebbe interrompere le comunicazioni satellitari globali.",
-      "link": "https://www.repubblica.it/esteri/2025/12/23/news/russia_armi_colpire_satelliti_allarme_intelligence_occidentali-425056126/?rss"
-    },
-    {
-      "title": "Inchiesta rivela le origini dell'ascesa di Jeffrey Epstein",
-      "source": "la Repubblica",
-      "summary": "Un’inchiesta del New York Times rivela come Jeffrey Epstein abbia utilizzato legami con elite sociali per scalare il jet set, sfruttando molestie sessuali per accumulare potere.",
-      "link": "https://www.repubblica.it/esteri/2025/12/23/news/sesso_bugie_truffe_origini_successo_jeffrey_epstein-425056007/?rss"
-    },
-    {
-      "title": "Mattarella firma provvedimenti di grazia per Cioni e Abdelkarim",
+      "title": "Senato riceve Manovra per voto fiducia dopo stralci norme",
       "source": "ANSA",
-      "summary": "Il presidente Mattarella ha concesso cinque grazie, tra cui quella a Franco Cioni, condannato per omicidio di moglie malata, e a Hamed Abdelkarim, ex calciatore imputato di traffico di migranti.",
-      "link": "https://www.ansa.it/sito/notizie/politica/2025/12/22/mattarella-firma-5-provvedimenti-di-grazia-ecco-chi-sono_c388936e-882e-40ad-a0cb-533e90d5b6cb.html"
+      "summary": "La commissione Bilancio stralcia cinque norme dalla Manovra, inclusa quella sul lavoro sottopagato. Il Senato procede al voto di fiducia.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2025/12/23/la-manovra-al-senato-per-il-voto-di-fiducia_99e14af0-11e0-42df-b8a4-adfa09a7dbb6.html"
     },
     {
-      "title": "Aereo sanitario precipita in Texas, muoiono piloti e assistenti",
+      "title": "Antitrust multa Ryanair per 255,7 milioni di euro pratiche abusive",
+      "source": "TGCOM24",
+      "summary": "L'Antitrust sanziona Ryanair con 255,7 milioni per pratiche ostili contro intermediari online e tradizionali negli ultimi tre anni. La compagnia annuncia ricorso immediato.",
+      "link": "https://www.tgcom24.mediaset.it/economia/antitrust-sanziona-ryanair-abuso-posizione-dominante_107309891-202502k.shtml"
+    },
+    {
+      "title": "Usa lanciano flotta d'oro e Trump intitola una fregata",
+      "source": "la Repubblica",
+      "summary": "La Casa Bianca nomina inviato speciale per minacciare acquisizione Groenlandia, Danimarca convoca ambasciatore. La mossa segnala Cina e Venezuela.",
+      "link": "https://www.repubblica.it/esteri/2025/12/23/news/usa_lanciano_flotta_d_oro_segnale_cina_venezuela-425056089/?rss"
+    },
+    {
+      "title": "Oro raggiunge nuovo record a 4500 dollari l'oncia",
       "source": "Rai News",
-      "summary": "Le autorità locali riferiscono che l’aereo sanitario, in avvicinamento a Galveston, è precipitato causando morti e dispersi tra l’equipe medica e i bambini assistiti.",
-      "link": "https://www.rainews.it/video/2025/12/aereo-sanitario-precipita-in-texas-ci-sono-morti-e-dispersi-le-operazioni-di-soccorso-3803b57f-393f-428d-828a-a0180ff089ab.html"
+      "summary": "Le borse europee registrano debolezza mentre l'oro tocca i 4500 dollari l'oncia, da 2700 all'inizio 2025. Il prezzo continua a salire.",
+      "link": "https://www.rainews.it/articoli/2025/12/borse-europee-deboli-nuovo-record-per-loro-eb29f8d9-fdf6-4b7f-ba94-ae2cf0397e66.html"
+    },
+    {
+      "title": "Trump promuove esecuzioni per 37 graziati da Biden",
+      "source": "la Repubblica",
+      "summary": "Trump vuole revocare grazia di Biden a 37 condannati, riportarli a pena di morte federale con cavillo legale. L'ex presidente aveva commutato a ergastolo.",
+      "link": "https://www.repubblica.it/esteri/2025/12/23/news/trump_pena_di_morte_37_graziati_biden_verso_esecuzione-425056597/?rss"
     }
   ]
 }

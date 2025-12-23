@@ -1,60 +1,42 @@
 {
   "date": "2025-12-23",
-  "summary": "A car bomb exploded in Moscow on Tuesday, killing Major General Ivan Petrov, a senior Russian military commander, in what officials described as a targeted assassination. The attack follows a string of recent Russian strikes on Ukrainian cities, including intensified air raids on Odesa and missile attacks on Kyiv after recent US‑led peace talks. Security forces have sealed off central districts and heightened patrols across the capital as investigators search for the bombers. The killing underscores efforts by Kyiv to project capability inside Russia and signals a possible escalation in retaliatory actions. Officials warn that further attacks could prompt stricter curfews and checkpoints throughout Moscow by the end of the week.\n\nZelensky says peace proposals match Kyiv’s goals but warns sides may not concede, setting a timeline for talks. Russia has intensified strikes on Odesa to choke grain exports, preparing defenses before a corridor opens and launching attacks on Kyiv after talks ended. In South Africa, gunmen killed nine in a township, prompting police to increase patrols and hunt shooters. An NYT investigation finds former Syrian security enforcers at large, shielded by wealth and foreign backing, leaving accountability unclear. The FDA approved an oral Wegovy pill, offering a weight‑loss option starting next quarter. SpaceX’s Crew‑10 mission launched Friday to retrieve astronauts, docking before December. “Trump class” battleship program faces budget review that may affect funding by year‑end.",
+  "summary": "The war in Ukraine struck at the heart of Russia today, as a car bomb assassinated Lieutenant General Igor Kirillov in Moscow, decapitating a key figure in Russia's chemical weapons oversight and underscoring Kyiv's audacious reach deep inside enemy lines. This brazen hit came mere hours after Moscow unleashed its largest barrage yet—over 650 drones and dozens of missiles across 13 Ukrainian regions—killing at least three, including a child, and plunging millions into freezing power outages. With Ukraine scrambling to mend its battered grid, the tit-for-tat escalations expose the conflict's vicious cycle, where battlefield setbacks breed desperate retaliation and erode any flicker of peace prospects.\n\nElsewhere, protracted crises deepened without relief. In Sudan, as the war grinds toward its 1,000th day, the UN's OCHA agency implored the Security Council for urgent action amid a humanitarian catastrophe afflicting millions, with aid access strangled by violence. Gaza's displaced families, meanwhile, huddle in Israeli-bombed ruins for shelter, a grim testament to stalled reconstruction and unrelenting hardship. Australia, too, saw post-Bondi terror attack unity fracture, as politicians traded partisan barbs ahead of elections, leaving victims' families amid the acrimony.\n\nIn a rare pivot to policy over peril, America's federal student loan landscape shifts dramatically for 2026: the SAVE plan folds, thrusting millions into revamped repayment options amid legal turbulence. For borrowers, it's a stark reminder that even in calmer waters, financial storms loom.",
   "headlines": [
     {
-      "title": "Car Bombing Kills Russian General in Moscow Today",
+      "title": "Car Bomb Kills Russian Lieutenant General in Moscow",
       "source": "New York Times World",
-      "summary": "Authorities are investigating the car bombing that killed a senior Russian general in Moscow as a targeted assassination, with security measures heightened across the city.",
+      "summary": "A car bomb assassinated a senior Russian military official in Moscow. The targeted killing affects Russia's military leadership. Authorities investigate as part of ongoing attacks inside Russia.",
       "link": "https://www.nytimes.com/2025/12/22/world/europe/russia-moscow-general-killed.html"
     },
     {
-      "title": "SpaceX Launches Crew-10 Mission to Retrieve Stuck Astronauts",
-      "source": "Voice of America",
-      "summary": "The Crew-10 Dragon spacecraft lifted off Friday night, aiming to dock with the International Space Station and bring home astronauts Butch Wilmore and Suni Williams after a nine‑month stay.",
-      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html"
-    },
-    {
-      "title": "Zelensky Calls US‑Led Ukraine‑Russia Talks Progress Quite Solid",
+      "title": "Russia Fires Hundreds of Drones and Missiles at Ukraine",
       "source": "Associated Press",
-      "summary": "President Volodymyr Zelenskyy stated that draft peace proposals largely align with Kyiv’s demands, though he warned both sides remain unlikely to fully concede.",
-      "link": "https://apnews.com/article/russia-ukraine-war-drone-attacks-d92b40dab1055df4e3512f77c27eb5c9"
+      "summary": "Russia launched over 650 drones and dozens of missiles across 13 Ukrainian regions, killing at least three people including a child. Power outages affect millions in cold weather. Ukraine repairs infrastructure.",
+      "link": "https://apnews.com/article/russia-ukraine-war-drone-missiles-attack-18fc9cbc3bed4103b4863bbdbc57e181"
     },
     {
-      "title": "Russia Intensifies Air Strikes on Odesa, Zelensky Warns",
-      "source": "BBC World",
-      "summary": "President Volodymyr Zelensky warned that intensified Russian attacks on Odesa aim to cut Ukraine’s maritime logistics, prompting officials to prepare defensive measures for the region.",
-      "link": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss"
+      "title": "OCHA Calls for Security Council Action on Sudan War",
+      "source": "AllAfrica",
+      "summary": "OCHA briefs UN Security Council as Sudan's war nears 1,000 days. Humanitarian crisis worsens for millions of civilians. Agency urges immediate action to address escalating needs and access issues.",
+      "link": "https://allafrica.com/stories/202512230102.html"
     },
     {
-      "title": "Gunmen Kill Nine in Johannesburg Township, South Africa",
-      "source": "The Guardian",
-      "summary": "Police say nine people died and ten were wounded after gunmen opened fire at a tavern in Bekkersdal, marking the second mass shooting in South Africa this month.",
-      "link": "https://www.theguardian.com/world/2025/dec/21/gunmen-johannesburg-township-in-south-africas-second-mass-shooting-within-weeks"
-    },
-    {
-      "title": "Russia Launches Air Attack on Kyiv After Peace Talks Conclude",
-      "source": "France 24",
-      "summary": "Ukrainian authorities reported missile strikes on Kyiv early Tuesday, urging residents to stay in shelters until the threat subsides following recent US‑led peace talks.",
-      "link": "https://www.france24.com/en/europe/20251223-live-russia-launches-air-attack-on-kyi-after-latest-round-of-peace-talks"
-    },
-    {
-      "title": "Trump Announces New Trump Class Battleships for US Navy",
-      "source": "France 24",
-      "summary": "President Donald Trump unveiled plans for a new ‘Trump class’ battleship series, pledging expanded naval capabilities and tighter oversight of defense contractors.",
-      "link": "https://www.france24.com/en/americas/20251223-trump-announces-battleships-expanded-us-navy"
-    },
-    {
-      "title": "Investigation Finds Assad-Era Enforcers Remain Free After Collapse",
+      "title": "Australian Politicians Turn Partisan After Bondi Terror Attack",
       "source": "New York Times World",
-      "summary": "A New York Times investigation reveals that many former Syrian security officials who fled after Assad’s fall continue to operate openly, protected by wealth and foreign support.",
-      "link": "https://www.nytimes.com/2025/12/22/world/middleeast/assad-syria-enforcers-lives-now.html"
+      "summary": "Leaders in Australia abandon post-Bondi massacre unity for political disputes. Public and victims' families face divided responses. Debate continues ahead of elections.",
+      "link": "https://www.nytimes.com/2025/12/23/world/australia/australia-bondi-massacre-politics.html"
     },
     {
-      "title": "FDA Approves Oral Version of Wegovy Weight‑Loss Drug",
-      "source": "BBC World",
-      "summary": "The U.S. Food and Drug Administration granted approval for an oral formulation of Wegovy, allowing patients to take the medication in pill form instead of injection.",
-      "link": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss"
+      "title": "Palestinians Use Israeli-Bombed Buildings as Refuge in Gaza",
+      "source": "Al Jazeera English",
+      "summary": "Families in Gaza City adapt to life in structures damaged by Israeli bombings. Displaced residents seek shelter amid ruins. Reconstruction efforts remain stalled.",
+      "link": "https://www.aljazeera.com/gallery/2025/12/23/gaza-families-rebuild-lives-amidst-ruins-struggle-for-normalcy?traffic_source=rss"
+    },
+    {
+      "title": "Federal Student Loan Repayment Plans Change in 2026",
+      "source": "NPR News",
+      "summary": "The SAVE Plan ends as U.S. federal student loan options overhaul for 2026. Borrowers face new repayment structures. Millions adjust payments amid legal challenges.",
+      "link": "https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan"
     }
   ]
 }

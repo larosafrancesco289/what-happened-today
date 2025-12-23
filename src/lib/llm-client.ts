@@ -17,8 +17,8 @@ const client = new OpenAI({
 // Fast model for filtering and headlines, quality model for summaries
 // See available models at: https://openrouter.ai/models
 const MODEL_FILTER = 'nvidia/nemotron-3-nano-30b-a3b';
-const MODEL_HEADLINES = 'nvidia/nemotron-3-nano-30b-a3b';
-const MODEL_SUMMARY = 'nvidia/nemotron-3-nano-30b-a3b';
+const MODEL_HEADLINES = 'x-ai/grok-4.1-fast';
+const MODEL_SUMMARY = 'x-ai/grok-4.1-fast';
 
 function safeParseJSON<T = unknown>(text: string, fallback: T): T {
   try {
@@ -75,432 +75,151 @@ interface ArticleAnalysis {
   reason: string;
 }
 
+// =============================================================================
+// NEW SIMPLIFIED PROMPTS - Designed for clarity, language enforcement, and quality
+// =============================================================================
+
 const LANGUAGE_PROMPTS = {
   en: {
-    filterPrompt: (articles: ProcessedArticle[]) => `
-You are a neutral front-page editor for a global daily brief. Select only unique, consequential developments from the last 24 hours.
+    filterPrompt: (articles: ProcessedArticle[]) => `Score each article from 0-10 for newsworthiness. Output JSON only.
 
-KEEP (hard news with verifiable impact):
-- Government decisions: laws passed, executive actions, official policy changes
-- Conflict/security: military actions with confirmed casualties, territorial changes, ceasefires
-- Natural disasters: events with at least 10 casualties or significant displacement
-- Elections: results, major candidate announcements, verified irregularities
-- Public health: disease outbreaks, policy changes, drug approvals
-- Science/technology: peer-reviewed findings, major product launches, regulatory decisions
-- Economics: central bank decisions, major corporate actions, trade agreements
+SCORING:
+9-10 = Major verified event (war, disaster 100+ deaths, election result, major policy)
+7-8 = Significant national news with international relevance
+5-6 = Notable concrete development
+3-4 = Minor update or analysis
+0-2 = Opinion, duplicate, rumor, or entertainment
 
-DROP (soft news, speculation, or meta-content):
-- Celebrity, sports, entertainment (unless death or major scandal with legal consequences)
-- Local-only stories without national/international implications
-- Opinion, analysis, body-language interpretation, "what this means" explainers
-- Live blogs, rolling updates without new substantive facts
-- Aggregated "reactions" to news without new information
-- Video-only content without factual text summary
-- Predictions, forecasts, or "experts say X could happen"
+KEEP: Government actions, confirmed conflicts, natural disasters (10+ casualties), elections, health policy, economics, peer-reviewed science
+DROP: Celebrity/sports, local-only, opinion pieces, predictions, "reactions to" articles, video-only without facts
 
-NEUTRALITY REQUIREMENTS:
-- Never use value-laden terms: "historic", "unprecedented", "shocking", "controversial"
-- Attribute all claims to their sources; do not present disputed claims as fact
-- For conflict coverage: treat all parties' claims equally unless independently verified
-- Avoid passive voice that obscures responsibility
+If same event appears twice, mark lower-quality one as duplicate.
 
-GEOGRAPHIC BALANCE (aim for representation):
-- If most articles are from one region, actively seek to include stories from underrepresented areas
-- Prioritize: Africa (sub-Saharan), Latin America, Southeast Asia, Central Asia, Pacific Islands
-- Do not let Western/US-centric stories dominate unless genuinely more consequential
+OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":"..."},...]}
 
-EVENT DE-DUPLICATION:
-- If multiple items describe the same event, keep only the most informative one
-- Others: set isRelevant=false and in reason note "duplicate of #<index>"
-- Prefer articles over video clips; wire services over aggregators
+ARTICLES:
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 250)}`).join('\n\n')}`,
 
-CONTESTED CLAIMS:
-- If a party to a conflict makes a claim without independent corroboration, cap relevanceScore at 5
-- Exception: the claim itself is a consequential development (e.g., ceasefire announcement with official response)
+    headlinesPrompt: (articles: ProcessedArticle[]) => `Create one headline + summary per news event. Write in plain English.
 
-SCORING RUBRIC:
-- 9-10: Watershed event with verified global consequence OR mass-casualty disaster (100+ deaths)
-- 7-8: Major national development with clear international relevance
-- 6: Notable update with concrete, verifiable consequences
-- 3-5: Minor/incremental update; analysis piece; video without new facts
-- 0-2: Duplicate, rumor, opinion, meta-commentary, or unverifiable claim
+HEADLINE: 8-12 words, subject-verb-object, present tense, no hype words (slams/blasts/rocks)
+SUMMARY: 20-30 words stating what happened, who's affected, what's next
 
-COVERAGE REQUIREMENT:
-- Create one analysis entry for EVERY Index (0..N-1), even for items you drop
-- Use isRelevant=false and a concise reason (<=200 chars) when dropping
-- For duplicates, always note "duplicate of #<index>"
+EXAMPLE:
+{"title":"France Raises Retirement Age to 64 Despite Protests","source":"Reuters","summary":"The French parliament approved raising the retirement age from 62 to 64. Unions plan nationwide strikes next week affecting transport and schools.","link":"..."}
 
-OUTPUT FORMAT (JSON only, no markdown):
-{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "..." } ] }
+OUTPUT JSON: {"headlines":[...]}
 
-Articles to analyze:
-${articles.map((article, index) => `
-Index: ${index}
-Title: ${article.title}
-Source: ${article.source}
-Content (short): ${article.content.substring(0, 300)}
-`).join('\n')}
-`,
-    headlinesPrompt: (articles: ProcessedArticle[]) => `
-Write one clear, neutral headline per unique event, plus one sentence of context.
+ARTICLES:
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 500)}\nLink: ${a.link}`).join('\n\n')}`,
 
-HEADLINE RULES:
-- Length: 8-14 words
-- Structure: Subject first, active voice, present tense
-- No hype words: avoid "slams", "blasts", "sparks", "rocks", "stuns"
-- No leading questions or clickbait constructions
-- Include a specific number, name, or location when possible
+    summaryPrompt: (headlines: NewsHeadline[]) => `Write a 2-3 paragraph news briefing (200-280 words) that tells the STORY of today. Connect events, show why they matter, make it engaging to read. Write like The Economist - smart but accessible.
 
-SUMMARY RULES:
-- Length: 20-30 words
-- Focus on concrete outcome or next step, not "why it matters" in abstract terms
-- Include one of: timeline, affected population size, or immediate consequence
+GOOD EXAMPLE:
+{"summary":"The war in Ukraine reached Moscow's doorstep today when a car bomb killed a senior Russian general in the capital - a brazen strike that signals Kyiv's growing reach inside Russia. The assassination comes just days after peace talks showed unexpected progress, raising questions about whether hardliners are trying to derail diplomacy before it gains momentum.\\n\\nHalf a world away, millions struggling with obesity got rare good news: the FDA cleared the first pill form of Wegovy, potentially making the blockbuster treatment accessible to those who can't tolerate weekly injections. And in Cuba, the lights went out again - the fourth major blackout in months left 10 million people in Havana and western provinces without power, a stark reminder of how sanctions and aging infrastructure have brought the island's grid to its knees."}
 
-ATTRIBUTION REQUIREMENTS:
-- Unilateral claims: "X says..." or "X claims..."
-- Allegations of wrongdoing: "Officials/investigators allege..."
-- Casualty numbers: Use "at least X" and name the source (e.g., "at least 50 dead, health ministry says")
-- Avoid "reports vary" or "sources say" without naming the source
+BAD (don't do this): "Russia attacked Ukraine. A general was killed. The FDA approved a drug. Cuba had a blackout." - This is just a list, not a story.
 
-GEOGRAPHIC REPRESENTATION:
-- If input includes stories from underrepresented regions (Africa, Latin America, Southeast Asia, Central Asia, Pacific), ensure they appear in output unless genuinely lower impact
+TODAY'S STORIES:
+${headlines.map((h, i) => `${i + 1}. ${h.title} — ${h.summary}`).join('\n')}
 
-OUTPUT REQUIREMENTS:
-- Aim for 6-9 items when sufficient quality input exists
-- One headline per unique event (merge duplicates, use most informative link)
-- Do not include the news outlet in the title; copy source exactly to the source field
-- Prefer article links over video links
-
-OUTPUT FORMAT (JSON only):
-{ "headlines": [ { "title": "...", "source": "...", "summary": "...", "link": "..." } ] }
-
-Articles:
-${articles.map((article, index) => `
-Index: ${index}
-Title: ${article.title}
-Source: ${article.source}
-Content (short): ${article.content.substring(0, 600)}
-Link: ${article.link}
-`).join('\n')}
-`,
-    summaryPrompt: (headlines: NewsHeadline[]) => `
-Write two connected paragraphs that explain today's news for a general reader.
-
-PARAGRAPH 1 (110-140 words):
-- Lead with the single most consequential development
-- State what specifically changed today (decision, action, discovery)
-- Connect 2-3 related items if a pattern exists
-- End with a concrete near-term implication: a deadline, a next decision point, or affected population
-
-PARAGRAPH 2 (90-120 words):
-- Group remaining items by theme (economy, security, health, environment, rights)
-- Include at least one non-conflict item if available
-- For each item, state: what happened + who is affected + what comes next
-- End with a concrete risk, deadline, or action rather than a vague "remains to be seen"
-
-STYLE REQUIREMENTS:
-- Simple, precise language (aim for 8th-grade reading level)
-- Neutral tone: no value judgments, no "historic" or "unprecedented"
-- Active voice: name the actor before the action
-- No filler phrases: "taken together", "in a related development", "meanwhile"
-- No lists or bullet points within paragraphs
-
-ATTRIBUTION AND NUMBERS:
-- Flag contested claims explicitly: "X claims... which Y denies"
-- Use "at least X" for preliminary casualty counts
-- Name the authority providing numbers when possible
-- Do not round numbers misleadingly (not "nearly 100" if it's 87)
-
-GEOGRAPHIC REPRESENTATION:
-- Do not focus exclusively on Western/US news if input includes stories from Africa, Latin America, Southeast Asia
-- Treat all regions' crises with equal weight given similar impact
-
-OUTPUT FORMAT (JSON only):
-{"summary":"<paragraph 1>\\n\\n<paragraph 2>"}
-
-Top items to synthesize:
-${headlines.map((headline, index) => `
-${index + 1}. ${headline.title} (${headline.source}) - ${headline.summary}
-`).join('\n')}
-`
+Output JSON: {"summary":"<your briefing here>"}`
   },
+
   it: {
-    filterPrompt: (articles: ProcessedArticle[]) => `
-Sei il caporedattore neutrale di un quotidiano globale. Seleziona solo sviluppi unici e significativi delle ultime 24 ore.
+    filterPrompt: (articles: ProcessedArticle[]) => `Valuta ogni articolo da 0-10 per rilevanza giornalistica. Output solo JSON.
 
-TIENI (notizie verificabili con impatto concreto):
-- Decisioni governative: leggi approvate, azioni esecutive, cambi di politica ufficiali
-- Conflitti/sicurezza: azioni militari con vittime confermate, cambi territoriali, cessate il fuoco
-- Disastri naturali: eventi con almeno 10 vittime o sfollamenti significativi
-- Elezioni: risultati, annunci di candidati, irregolarita verificate
-- Salute pubblica: epidemie, cambi di politica, approvazioni farmaci
-- Scienza/tecnologia: scoperte peer-reviewed, lanci di prodotto importanti, decisioni regolatorie
-- Economia: decisioni delle banche centrali, azioni aziendali importanti, accordi commerciali
-- Per l'Italia: includi grandi notizie nazionali (politica, giustizia, sicurezza) da testate primarie
+PUNTEGGI:
+9-10 = Evento maggiore verificato (guerra, disastro 100+ morti, risultato elettorale, politica importante)
+7-8 = Notizia nazionale significativa con rilevanza internazionale
+5-6 = Sviluppo concreto notevole
+3-4 = Aggiornamento minore o analisi
+0-2 = Opinione, duplicato, rumor, o intrattenimento
 
-ESCLUDI (soft news, speculazione, meta-contenuti):
-- Gossip, sport, intrattenimento (salvo morte o scandalo con conseguenze legali)
-- Notizie locali senza implicazioni nazionali/internazionali
-- Opinioni, analisi, interpretazioni del linguaggio del corpo
-- Dirette, aggiornamenti continui senza fatti nuovi sostanziali
-- "Reazioni" aggregate senza informazioni nuove
-- Solo video senza sintesi testuale
-- Previsioni o "gli esperti dicono che potrebbe accadere X"
+TIENI: Azioni governative, conflitti confermati, disastri naturali (10+ vittime), elezioni, sanità, economia, scienza peer-reviewed
+ESCLUDI: Gossip/sport, solo locale, opinioni, previsioni, "reazioni a", solo video senza fatti
 
-REQUISITI DI NEUTRALITA:
-- Mai usare termini valutativi: "storico", "senza precedenti", "scioccante", "controverso"
-- Attribuisci tutte le affermazioni alle fonti; non presentare affermazioni contestate come fatti
-- Per la copertura dei conflitti: tratta le affermazioni di tutte le parti in modo uguale salvo verifica indipendente
+Se lo stesso evento appare due volte, segna quello di qualità inferiore come duplicato.
 
-EQUILIBRIO GEOGRAFICO (mira alla rappresentazione):
-- Se la maggior parte degli articoli proviene da una regione, cerca attivamente storie da aree sottorappresentate
-- Priorita: Africa subsahariana, America Latina, Sud-est asiatico, Asia centrale, Pacifico
+OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":"..."},...]}
 
-DE-DUPLICAZIONE EVENTI:
-- Se piu articoli descrivono lo stesso evento, tieni solo il piu informativo
-- Altri: isRelevant=false e in reason nota "duplicato di #<index>"
+ARTICOLI:
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 250)}`).join('\n\n')}`,
 
-AFFERMAZIONI CONTESTATE:
-- Se una parte in conflitto fa un'affermazione senza conferma indipendente, limita relevanceScore a 5
-- Eccezione: l'affermazione stessa e uno sviluppo consequenziale
+    headlinesPrompt: (articles: ProcessedArticle[]) => `IMPORTANTE: Scrivi TUTTO in italiano.
 
-RUBRICA PUNTEGGI:
-- 9-10: Evento cruciale con conseguenza globale verificata O disastro con molte vittime (100+)
-- 7-8: Grande sviluppo nazionale con chiara rilevanza internazionale
-- 6: Aggiornamento notevole con conseguenze concrete e verificabili
-- 3-5: Aggiornamento minore/incrementale; pezzo analitico; video senza fatti nuovi
-- 0-2: Duplicato, rumor, opinione, meta-commento, affermazione non verificabile
+Crea un titolo + sommario per ogni notizia. Scrivi in italiano semplice e chiaro.
 
-COPERTURA:
-- Crea una voce di analisi per OGNI Index (0..N-1), anche per gli esclusi
-- Usa isRelevant=false e una ragione concisa (<=200 caratteri) quando escludi
+TITOLO: 8-12 parole, soggetto-verbo-oggetto, tempo presente, niente parole sensazionalistiche
+SOMMARIO: 20-30 parole che spiegano cosa è successo, chi è coinvolto, cosa succede dopo
 
-FORMATO OUTPUT (solo JSON):
-{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "..." } ] }
+ESEMPIO:
+{"title":"La Francia alza l'età pensionabile a 64 anni nonostante le proteste","source":"Reuters","summary":"Il parlamento francese ha approvato l'innalzamento dell'età pensionabile da 62 a 64 anni. I sindacati pianificano scioperi nazionali la prossima settimana.","link":"..."}
 
-Articoli da analizzare:
-${articles.map((article, index) => `
-Index: ${index}
-Titolo: ${article.title}
-Fonte: ${article.source}
-Contenuto (breve): ${article.content.substring(0, 300)}
-`).join('\n')}
-`,
-    headlinesPrompt: (articles: ProcessedArticle[]) => `
-Scrivi un solo titolo chiaro e neutrale per ciascun evento unico, con una frase di contesto.
+OUTPUT JSON: {"headlines":[...]}
 
-REGOLE TITOLO:
-- Lunghezza: 8-14 parole
-- Struttura: soggetto all'inizio, voce attiva, tempo presente
-- Niente parole enfatiche: evita "scoppia", "esplode", "shock", "bufera"
-- Niente domande retoriche o costruzioni clickbait
-- Includi un numero specifico, nome o luogo quando possibile
+ARTICOLI:
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 500)}\nLink: ${a.link}`).join('\n\n')}`,
 
-REGOLE SOMMARIO:
-- Lunghezza: 20-30 parole
-- Focus su esito concreto o prossimo passo, non su astratto "perche conta"
-- Includi uno tra: tempistica, popolazione coinvolta, conseguenza immediata
+    summaryPrompt: (headlines: NewsHeadline[]) => `Scrivi un briefing di 2-3 paragrafi (200-280 parole) IN ITALIANO che racconti la STORIA di oggi. Collega gli eventi, mostra perché contano, rendilo coinvolgente. Scrivi come un giornalista esperto.
 
-REQUISITI DI ATTRIBUZIONE:
-- Affermazioni unilaterali: "X afferma..." o "X sostiene..."
-- Accuse: "Le autorita/gli investigatori sostengono..."
-- Numeri vittime: usa "almeno X" e indica la fonte (es. "almeno 50 morti, dice il ministero")
-- Evita "le fonti variano" senza nominare la fonte
+BUON ESEMPIO:
+{"summary":"La guerra in Ucraina ha raggiunto Mosca oggi quando un'autobomba ha ucciso un generale russo nel cuore della capitale - un attacco audace che segnala la crescente capacità di Kiev di colpire in profondità in Russia. L'assassinio arriva pochi giorni dopo che i colloqui di pace avevano mostrato progressi inaspettati, sollevando interrogativi su chi stia cercando di far deragliare la diplomazia.\\n\\nDall'altra parte del mondo, milioni di persone alle prese con l'obesità hanno ricevuto una rara buona notizia: la FDA ha approvato la prima pillola di Wegovy. E a Cuba, le luci si sono spente di nuovo - il quarto grande blackout in pochi mesi ha lasciato 10 milioni di persone all'Avana senza corrente, un duro promemoria di come sanzioni e infrastrutture fatiscenti abbiano messo in ginocchio la rete elettrica dell'isola."}
 
-RAPPRESENTAZIONE GEOGRAFICA:
-- Se l'input include storie da regioni sottorappresentate, assicurati che appaiano nell'output
+MALE (non fare così): "La Russia ha attaccato l'Ucraina. Un generale è stato ucciso. La FDA ha approvato un farmaco." - Questa è solo una lista, non una storia.
 
-REQUISITI OUTPUT:
-- Punta a 6-9 voci quando disponibili
-- Un titolo per evento unico (unisci duplicati, usa link piu informativo)
-- Non includere la testata nel titolo; copia la fonte esattamente nel campo
+NOTIZIE DI OGGI:
+${headlines.map((h, i) => `${i + 1}. ${h.title} — ${h.summary}`).join('\n')}
 
-FORMATO OUTPUT (solo JSON):
-{ "headlines": [ { "title": "...", "source": "...", "summary": "...", "link": "..." } ] }
-
-Articoli:
-${articles.map((article, index) => `
-Index: ${index}
-Titolo: ${article.title}
-Fonte: ${article.source}
-Contenuto (breve): ${article.content.substring(0, 600)}
-Link: ${article.link}
-`).join('\n')}
-`,
-    summaryPrompt: (headlines: NewsHeadline[]) => `
-Scrivi due paragrafi collegati che spieghino le notizie di oggi per un lettore generale.
-
-PARAGRAFO 1 (110-140 parole):
-- Apri con lo sviluppo piu importante
-- Indica cosa e cambiato specificamente oggi (decisione, azione, scoperta)
-- Collega 2-3 elementi correlati se esiste un pattern
-- Termina con un'implicazione concreta a breve termine: scadenza, prossima decisione, popolazione coinvolta
-
-PARAGRAFO 2 (90-120 parole):
-- Raggruppa gli elementi rimanenti per tema (economia, sicurezza, salute, ambiente, diritti)
-- Includi almeno un elemento non di conflitto se disponibile
-- Per ogni elemento: cosa e successo + chi e coinvolto + cosa viene dopo
-- Termina con rischio, scadenza o azione concreta, non con vago "resta da vedere"
-
-REQUISITI DI STILE:
-- Linguaggio semplice e preciso (livello scuola media)
-- Tono neutro: niente giudizi di valore, niente "storico" o "senza precedenti"
-- Voce attiva: nomina l'attore prima dell'azione
-- Niente frasi riempitive: "nel complesso", "in un sviluppo correlato", "intanto"
-- Niente elenchi puntati nei paragrafi
-
-ATTRIBUZIONE E NUMERI:
-- Segnala esplicitamente affermazioni contestate: "X afferma... Y nega"
-- Usa "almeno X" per conteggi preliminari
-- Nomina l'autorita che fornisce i numeri quando possibile
-
-FORMATO OUTPUT (solo JSON):
-{"summary":"<paragrafo 1>\\n\\n<paragrafo 2>"}
-
-Notizie principali da sintetizzare:
-${headlines.map((headline, index) => `
-${index + 1}. ${headline.title} (${headline.source}) - ${headline.summary}
-`).join('\n')}
-`
+Output JSON: {"summary":"<il tuo briefing qui>"}`
   },
+
   fr: {
-    filterPrompt: (articles: ProcessedArticle[]) => `
-Vous etes le redacteur en chef neutre d'un quotidien mondial. Selectionnez uniquement des developpements uniques et significatifs des dernieres 24 heures.
+    filterPrompt: (articles: ProcessedArticle[]) => `Évaluez chaque article de 0-10 pour sa pertinence journalistique. Output JSON uniquement.
 
-A GARDER (actualites verifiables avec impact concret):
-- Decisions gouvernementales: lois adoptees, actions executives, changements de politique officiels
-- Conflits/securite: actions militaires avec victimes confirmees, changements territoriaux, cessez-le-feu
-- Catastrophes naturelles: evenements avec au moins 10 victimes ou deplacements significatifs
-- Elections: resultats, annonces de candidats majeurs, irregularites verifiees
-- Sante publique: epidemies, changements de politique, approbations de medicaments
-- Science/technologie: decouvertes evaluees par des pairs, lancements de produits majeurs, decisions reglementaires
-- Economie: decisions des banques centrales, actions d'entreprises majeures, accords commerciaux
-- Pour la France: inclure les grandes actualites nationales (politique, justice, securite) des medias de reference
+NOTATION:
+9-10 = Événement majeur vérifié (guerre, catastrophe 100+ morts, résultat électoral, politique majeure)
+7-8 = Actualité nationale significative avec pertinence internationale
+5-6 = Développement concret notable
+3-4 = Mise à jour mineure ou analyse
+0-2 = Opinion, doublon, rumeur, ou divertissement
 
-A EXCLURE (soft news, speculation, meta-contenu):
-- People, sport, divertissement (sauf deces ou scandale majeur avec consequences legales)
-- Actualites locales sans implications nationales/internationales
-- Opinions, analyses, interpretations du langage corporel
-- Directs, mises a jour continues sans nouveaux faits substantiels
-- "Reactions" agregees sans nouvelles informations
-- Contenu video seul sans resume factuel
-- Predictions ou "les experts disent que X pourrait arriver"
+GARDER: Actions gouvernementales, conflits confirmés, catastrophes naturelles (10+ victimes), élections, santé, économie, science peer-reviewed
+EXCLURE: People/sport, local uniquement, opinions, prédictions, "réactions à", vidéo seule sans faits
 
-EXIGENCES DE NEUTRALITE:
-- Ne jamais utiliser de termes charges: "historique", "sans precedent", "choquant", "controverse"
-- Attribuez toutes les affirmations a leurs sources; ne presentez pas les affirmations contestees comme des faits
-- Pour la couverture des conflits: traitez les affirmations de toutes les parties de maniere egale sauf verification independante
+Si le même événement apparaît deux fois, marquez celui de moindre qualité comme doublon.
 
-EQUILIBRE GEOGRAPHIQUE (visez la representation):
-- Si la plupart des articles proviennent d'une region, cherchez activement des histoires de zones sous-representees
-- Priorite: Afrique subsaharienne, Amerique latine, Asie du Sud-Est, Asie centrale, Pacifique
+OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":"..."},...]}
 
-DE-DUPLICATION DES EVENEMENTS:
-- Si plusieurs articles decrivent le meme evenement, gardez seulement le plus informatif
-- Autres: isRelevant=false et dans reason notez "doublon de #<index>"
+ARTICLES:
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 250)}`).join('\n\n')}`,
 
-AFFIRMATIONS CONTESTEES:
-- Si une partie au conflit fait une affirmation sans corroboration independante, plafonnez relevanceScore a 5
-- Exception: l'affirmation elle-meme est un developpement consequent
+    headlinesPrompt: (articles: ProcessedArticle[]) => `IMPORTANT: Écrivez TOUT en français.
 
-BAREME DE NOTATION:
-- 9-10: Evenement majeur avec consequence globale verifiee OU catastrophe avec nombreuses victimes (100+)
-- 7-8: Developpement national majeur avec pertinence internationale claire
-- 6: Mise a jour notable avec consequences concretes et verifiables
-- 3-5: Mise a jour mineure/incrementale; piece analytique; video sans nouveaux faits
-- 0-2: Doublon, rumeur, opinion, meta-commentaire, affirmation non verifiable
+Créez un titre + résumé par événement. Écrivez en français simple et clair.
 
-COUVERTURE:
-- Creez une entree d'analyse pour CHAQUE Index (0..N-1), meme pour les exclus
-- Utilisez isRelevant=false et une raison concise (<=200 caracteres) lors de l'exclusion
+TITRE: 8-12 mots, sujet-verbe-objet, présent, pas de mots sensationnels
+RÉSUMÉ: 20-30 mots expliquant ce qui s'est passé, qui est concerné, quelle suite
 
-FORMAT DE SORTIE (JSON uniquement):
-{ "analyses": [ { "index": 0, "relevanceScore": 8, "isRelevant": true, "reason": "..." } ] }
+EXEMPLE:
+{"title":"La France relève l'âge de la retraite à 64 ans malgré les manifestations","source":"Reuters","summary":"Le parlement français a approuvé le relèvement de l'âge de la retraite de 62 à 64 ans. Les syndicats prévoient des grèves nationales la semaine prochaine.","link":"..."}
 
-Articles a analyser:
-${articles.map((article, index) => `
-Index: ${index}
-Titre: ${article.title}
-Source: ${article.source}
-Contenu (court): ${article.content.substring(0, 300)}
-`).join('\n')}
-`,
-    headlinesPrompt: (articles: ProcessedArticle[]) => `
-Redigez un seul titre clair et neutre par evenement unique, plus une phrase de contexte.
+OUTPUT JSON: {"headlines":[...]}
 
-REGLES DU TITRE:
-- Longueur: 8-14 mots
-- Structure: sujet en premier, voix active, temps present
-- Pas de mots sensationnels: evitez "explose", "secoue", "choc", "polemique"
-- Pas de questions rhetoriques ou constructions clickbait
-- Incluez un nombre specifique, nom ou lieu quand possible
+ARTICLES:
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 500)}\nLink: ${a.link}`).join('\n\n')}`,
 
-REGLES DU RESUME:
-- Longueur: 20-30 mots
-- Focus sur resultat concret ou prochaine etape, pas sur abstrait "pourquoi c'est important"
-- Incluez un parmi: calendrier, population affectee, consequence immediate
+    summaryPrompt: (headlines: NewsHeadline[]) => `Rédigez un briefing de 2-3 paragraphes (200-280 mots) EN FRANÇAIS qui raconte l'HISTOIRE de la journée. Connectez les événements, montrez pourquoi ils comptent, rendez-le captivant. Écrivez comme un journaliste chevronné.
 
-EXIGENCES D'ATTRIBUTION:
-- Affirmations unilaterales: "X affirme..." ou "X declare..."
-- Allegations: "Les autorites/enqueteurs alleguent..."
-- Chiffres de victimes: utilisez "au moins X" et nommez la source (ex. "au moins 50 morts, selon le ministere")
-- Evitez "les bilans varient" sans nommer la source
+BON EXEMPLE:
+{"summary":"La guerre en Ukraine a atteint Moscou aujourd'hui quand une voiture piégée a tué un général russe au cœur de la capitale - une frappe audacieuse qui signale la capacité croissante de Kiev à frapper en profondeur en Russie. L'assassinat survient quelques jours après que les pourparlers de paix ont montré des progrès inattendus, soulevant des questions sur qui cherche à faire dérailler la diplomatie.\\n\\nÀ l'autre bout du monde, des millions de personnes luttant contre l'obésité ont reçu une rare bonne nouvelle: la FDA a approuvé la première pilule Wegovy. Et à Cuba, les lumières se sont éteintes à nouveau - la quatrième grande panne en quelques mois a plongé 10 millions d'habitants de La Havane dans le noir, un rappel brutal de la façon dont les sanctions et les infrastructures vieillissantes ont mis le réseau de l'île à genoux."}
 
-REPRESENTATION GEOGRAPHIQUE:
-- Si l'input inclut des histoires de regions sous-representees, assurez-vous qu'elles apparaissent dans l'output
+MAUVAIS (ne faites pas ça): "La Russie a attaqué l'Ukraine. Un général a été tué. La FDA a approuvé un médicament." - C'est juste une liste, pas une histoire.
 
-EXIGENCES DE SORTIE:
-- Visez 6-9 elements quand disponible
-- Un titre par evenement unique (fusionnez les doublons, utilisez le lien le plus informatif)
-- N'incluez pas le media dans le titre; copiez la source exactement dans le champ
+ACTUALITÉS DU JOUR:
+${headlines.map((h, i) => `${i + 1}. ${h.title} — ${h.summary}`).join('\n')}
 
-FORMAT DE SORTIE (JSON uniquement):
-{ "headlines": [ { "title": "...", "source": "...", "summary": "...", "link": "..." } ] }
-
-Articles:
-${articles.map((article, index) => `
-Index: ${index}
-Titre: ${article.title}
-Source: ${article.source}
-Contenu (court): ${article.content.substring(0, 600)}
-Lien: ${article.link}
-`).join('\n')}
-`,
-    summaryPrompt: (headlines: NewsHeadline[]) => `
-Ecrivez deux paragraphes relies qui expliquent l'actualite du jour pour un lecteur general.
-
-PARAGRAPHE 1 (110-140 mots):
-- Commencez par le developpement le plus consequent
-- Indiquez ce qui a specifiquement change aujourd'hui (decision, action, decouverte)
-- Reliez 2-3 elements connexes si un pattern existe
-- Terminez avec une implication concrete a court terme: echeance, prochaine decision, population affectee
-
-PARAGRAPHE 2 (90-120 mots):
-- Regroupez les elements restants par theme (economie, securite, sante, environnement, droits)
-- Incluez au moins un element non conflictuel si disponible
-- Pour chaque element: ce qui s'est passe + qui est affecte + quelle suite
-- Terminez par risque, echeance ou action concrete, pas par vague "reste a voir"
-
-EXIGENCES DE STYLE:
-- Langage simple et precis (niveau college)
-- Ton neutre: pas de jugements de valeur, pas de "historique" ou "sans precedent"
-- Voix active: nommez l'acteur avant l'action
-- Pas de phrases de remplissage: "pris ensemble", "dans un developpement connexe", "pendant ce temps"
-- Pas de listes a puces dans les paragraphes
-
-ATTRIBUTION ET CHIFFRES:
-- Signalez explicitement les affirmations contestees: "X affirme... Y nie"
-- Utilisez "au moins X" pour les comptages preliminaires
-- Nommez l'autorite fournissant les chiffres quand possible
-
-FORMAT DE SORTIE (JSON uniquement):
-{"summary":"<paragraphe 1>\\n\\n<paragraphe 2>"}
-
-Sujets principaux a synthetiser:
-${headlines.map((headline, index) => `
-${index + 1}. ${headline.title} (${headline.source}) - ${headline.summary}
-`).join('\n')}
-`
+Output JSON: {"summary":"<votre briefing ici>"}`
   }
 };
 
@@ -621,8 +340,15 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
   const prompts = LANGUAGE_PROMPTS[languageCode as keyof typeof LANGUAGE_PROMPTS] || LANGUAGE_PROMPTS.en;
   const prompt = prompts.headlinesPrompt(articles);
 
+  // Language-specific system prompts to enforce output language
+  const systemPrompts: Record<string, string> = {
+    en: 'You are a neutral news editor. Write all headlines and summaries in English. Output valid JSON only.',
+    it: 'Sei un redattore neutrale. Scrivi TUTTI i titoli e sommari in ITALIANO. Output solo JSON valido.',
+    fr: 'Vous êtes un rédacteur neutre. Écrivez TOUS les titres et résumés en FRANÇAIS. Output JSON valide uniquement.'
+  };
+
   try {
-    const systemPrompt = 'You are a neutral news editor. Generate headlines and respond with valid JSON only. No markdown, no explanations.';
+    const systemPrompt = systemPrompts[languageCode] || systemPrompts.en;
     const responseText = await chatCompletion(MODEL_HEADLINES, systemPrompt, prompt);
 
     const result = safeParseJSON(responseText, { headlines: [] as NewsHeadline[] });
@@ -649,9 +375,16 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     ? 'Les marches mondiaux et les affaires internationales ont poursuivi leur progression constante aujourd\'hui, avec divers developpements dans les secteurs economique, politique et social. Parallelement, les indicateurs cles suggerent une stabilite continue dans la plupart des regions, tandis que les institutions du monde entier coordonnent leurs reponses aux defis emergents.\n\nCes developpements refletent un modele plus large de cooperation internationale et de resilience economique. Alors que les gouvernements et les organisations naviguent dans des dynamiques mondiales complexes, leur approche coordonnee demontre un engagement a maintenir la stabilite tout en abordant des initiatives strategiques a long terme a travers des canaux diplomatiques et economiques etablis.'
     : 'Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.';
 
+  // Language-specific system prompts to enforce output language
+  const systemPrompts: Record<string, string> = {
+    en: 'You are a neutral news writer. Write the summary in plain English. Output valid JSON only.',
+    it: 'Sei un giornalista neutrale. Scrivi il riassunto in ITALIANO semplice e chiaro. Output solo JSON valido.',
+    fr: 'Vous êtes un journaliste neutre. Rédigez le résumé en FRANÇAIS simple et clair. Output JSON valide uniquement.'
+  };
+
   try {
     const apiStart = Date.now();
-    const systemPrompt = 'You are a neutral news summarizer. Generate a daily summary and respond with valid JSON only. No markdown, no explanations.';
+    const systemPrompt = systemPrompts[languageCode] || systemPrompts.en;
     const responseText = await chatCompletion(MODEL_SUMMARY, systemPrompt, prompt);
     const apiMs = Date.now() - apiStart;
     console.log(`generateDailySummary: API response time ${apiMs} ms`);

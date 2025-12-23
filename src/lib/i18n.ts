@@ -19,6 +19,25 @@ export interface Translations {
     dailySummary: string;
     readMore: string;
     sources: string;
+    noHeadlines: string;
+  };
+  categories: {
+    all: string;
+    conflict: string;
+    politics: string;
+    economy: string;
+    science: string;
+    environment: string;
+    society: string;
+  };
+  importance: {
+    breaking: string;
+    major: string;
+    notable: string;
+  };
+  sources: {
+    title: string;
+    disclaimer: string;
   };
   meta: {
     title: string;
@@ -47,7 +66,26 @@ export const translations: Record<string, Translations> = {
       dailySummary: "Daily Summary",
       headlines: "Headlines",
       readMore: "Read more",
-      sources: "Sources"
+      sources: "Sources",
+      noHeadlines: "No headlines in this category."
+    },
+    categories: {
+      all: "All",
+      conflict: "Conflict",
+      politics: "Politics",
+      economy: "Economy",
+      science: "Science",
+      environment: "Environment",
+      society: "Society"
+    },
+    importance: {
+      breaking: "BREAKING",
+      major: "MAJOR",
+      notable: "Notable"
+    },
+    sources: {
+      title: "Today's sources",
+      disclaimer: "Stories are sourced from multiple outlets representing diverse geographic and editorial perspectives. Summaries are AI-generated for neutrality and clarity."
     },
     meta: {
       title: "What Happened Today",
@@ -74,7 +112,26 @@ export const translations: Record<string, Translations> = {
       dailySummary: "Riassunto Giornaliero",
       headlines: "Titoli",
       readMore: "Leggi di più",
-      sources: "Fonti"
+      sources: "Fonti",
+      noHeadlines: "Nessun titolo in questa categoria."
+    },
+    categories: {
+      all: "Tutti",
+      conflict: "Conflitto",
+      politics: "Politica",
+      economy: "Economia",
+      science: "Scienza",
+      environment: "Ambiente",
+      society: "Società"
+    },
+    importance: {
+      breaking: "URGENTE",
+      major: "IMPORTANTE",
+      notable: "Notevole"
+    },
+    sources: {
+      title: "Fonti di oggi",
+      disclaimer: "Le notizie provengono da diverse testate che rappresentano prospettive geografiche ed editoriali diverse. I riassunti sono generati dall'IA per neutralità e chiarezza."
     },
     meta: {
       title: "Cosa È Successo Oggi",
@@ -101,7 +158,26 @@ export const translations: Record<string, Translations> = {
       dailySummary: "Résumé Quotidien",
       headlines: "Titres",
       readMore: "Lire plus",
-      sources: "Sources"
+      sources: "Sources",
+      noHeadlines: "Aucun titre dans cette catégorie."
+    },
+    categories: {
+      all: "Tous",
+      conflict: "Conflit",
+      politics: "Politique",
+      economy: "Économie",
+      science: "Science",
+      environment: "Environnement",
+      society: "Société"
+    },
+    importance: {
+      breaking: "URGENT",
+      major: "MAJEUR",
+      notable: "Notable"
+    },
+    sources: {
+      title: "Sources du jour",
+      disclaimer: "Les articles proviennent de plusieurs médias représentant des perspectives géographiques et éditoriales diverses. Les résumés sont générés par IA pour la neutralité et la clarté."
     },
     meta: {
       title: "Que S'est-il Passé Aujourd'hui",
@@ -112,4 +188,4 @@ export const translations: Record<string, Translations> = {
 
 export function getTranslations(languageCode: string): Translations {
   return translations[languageCode] || translations.en;
-} 
+}

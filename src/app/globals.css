@@ -123,6 +123,20 @@
     font-family: var(--font-jetbrains), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  /* Typography improvements for better readability */
+  .summary-text {
+    max-width: 65ch;           /* Optimal reading width */
+    line-height: 1.75;         /* Generous line height for readability */
+    letter-spacing: -0.01em;   /* Slight tightening for body text */
+    text-wrap: pretty;         /* Better text wrapping for modern browsers */
+  }
+
+  /* Headline title styling */
+  .headline-title {
+    line-height: 1.4;
+    letter-spacing: -0.02em;
+  }
+
   /* Accessible focus ring using accent tokens */
   .focus-outline {
     outline: 2px solid transparent;
@@ -134,5 +148,15 @@
   :where(.dark) .focus-outline:focus-visible,
   :where([data-theme="dark"]) .focus-outline:focus-visible {
     outline-color: var(--color-accent2-dark);
+  }
+
+  /* Category filter button active state */
+  .category-active {
+    background-color: var(--color-accent-light);
+    color: white;
+  }
+  :where(.dark) .category-active,
+  :where([data-theme="dark"]) .category-active {
+    background-color: var(--color-accent-dark);
   }
 }

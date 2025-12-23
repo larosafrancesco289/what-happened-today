@@ -1,66 +1,114 @@
 {
   "date": "2025-12-23",
-  "summary": "La Russie a frappé un coup dur à l'Ukraine ce jeudi, lançant 635 drones et missiles contre son réseau électrique, la neuvième attaque de ce type cette année. Des blackouts massifs ont plongé trois oblasts de l’Ouest dans le noir, tuant deux personnes et blessant plusieurs autres, tandis que la Pologne mettait son aviation en alerte pour protéger son ciel. Ces frappes hivernales soulignent la stratégie russe d’étrangler l’économie ukrainienne, rendant l’hiver encore plus impitoyable pour les civils et compliquant les efforts de Kiev à tenir face à l’invasion.\n\nAu même moment, Donald Trump ravive les tensions géopolitiques en réaffirmant sa volonté d’acheter le Groenland au Danemark, justifiant ce projet par la menace chinoise et russe dans l’Arctique. Cette déclaration, qui interpelle l’UE, illustre comment les rivalités mondiales s’étendent aux régions stratégiques riches en ressources. À Gaza, la crise humanitaire s’aggrave : les bombardements israéliens épuisent les stocks de médicaments, paralysant les secours et menaçant des milliers de vies dans un territoire déjà ravagé.\n\nSur le front économique, les semi-conducteurs s’imposent comme le nouveau pétrole, quatrième produit échangé mondial et promis à un marché de 1000 milliards de dollars d’ici 2026, vital pour toutes les industries. En France, le gouvernement active une loi spéciale d’urgence pour assurer la continuité budgétaire après l’échec du 49.3 : elle permettra de percevoir les impôts et de préparer le budget 2026, comme l’explique le ministre Lescure, qualifiant ce texte de « roue de secours ». Aux États-Unis, la justice publie 8000 documents sur Jeffrey Epstein, enrichissant l’enquête sur le réseau pédocriminel avec images et enregistrements choc.",
+  "summary": "La Russie a intensifié son agression contre l'Ukraine ce 23 décembre 2025 en lançant une massive vague de 650 drones et 30 missiles sur son réseau électrique, plongeant des millions de civils dans le froid hivernal avec des coupures de courant généralisées. Cette offensive, la plus importante en plusieurs semaines, survient alors que Kiev peine à défendre ses lignes dans l'est, soulignant la stratégie de Moscou pour briser le moral ukrainien par l'hiver. La Pologne, voisine alliée de l'OTAN, a activé son alerte aérienne et décollé des chasseurs, illustrant comment les ondes de choc de ce conflit de près de quatre ans menacent la stabilité européenne.\n\nPendant ce temps, les tensions géostratégiques s'exacerbent ailleurs : Donald Trump a réaffirmé sa volonté d'acquérir le Groenland pour contrer l'influence chinoise et russe dans l'Arctique, provoquant la colère du Danemark soutenu par l'UE. Cela fait suite à ses déclarations passées et ravive les rivalités polaires sur les ressources minières et maritimes. Aux États-Unis, le ministère de la Justice a publié près de 8 000 documents sur Jeffrey Epstein, incluant images et audios, qui pourraient exposer de nouvelles complicités dans le réseau pédocriminel et relancer les enquêtes judiciaires. À Gaza, la pénurie de médicaments s'aggrave sous les bombardements israéliens persistants, privant les services d'urgence de soins essentiels et aggravant la crise humanitaire pour 2 millions de Palestiniens.\n\nVers l'avenir, les semi-conducteurs émergent comme l'actif stratégique du siècle, avec un marché de près de 1 000 milliards de dollars en 2026, rivalisant avec le pétrole dans leur emprise sur l'industrie mondiale. Cette domination accentue les luttes pour les chaînes d'approvisionnement, comme en témoigne l'explosion récente d'une fusée Starship de SpaceX qui a menacé trois vols commerciaux, questionnant la sécurité des ambitions spatiales face aux corridors aériens.",
   "headlines": [
     {
-      "title": "Armée russe lance 635 drones sur Ukraine et cause coupures d'électricité",
+      "title": "Russie lance drones et missiles sur Ukraine, Pologne active alerte aviation",
+      "source": "20 Minutes",
+      "summary": "La Russie a frappé l'Ukraine avec une pluie de drones et missiles ce 23 décembre 2025, causant de nombreuses coupures de courant. L'aviation polonaise s'est mise en alerte préventive. Ce conflit prolongé menace l'infrastructure énergétique ukrainienne et les pays voisins.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4192916-20251223-direct-guerre-ukraine-nombreuses-coupures-courant-ukraine-apres-frappes-russes?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Semi-conducteurs atteignent valeur stratégique mondiale comme pétrole",
       "source": "Le Monde",
-      "summary": "L’armée russe a attaqué le réseau électrique ukrainien avec 635 drones, la neuvième fois cette année. Trois oblasts de l’Ouest sont presque totalement privés d’électricité.",
-      "link": "https://www.lemonde.fr/international/live/2025/12/23/en-direct-guerre-en-ukraine-635-drones-russes-lances-dans-la-nuit-sur-le-pays-trois-oblasts-de-l-ouest-presque-totalement-prives-d-electricite_6658995_3210.html"
+      "summary": "Les composants électroniques, quatrième produit échangé mondial, pèsent près de 1 000 milliards de dollars en 2026 et dominent industries clés. Ce secteur rivalise en puissance avec le pétrole, influençant géopolitique et chaînes d'approvisionnement globales.",
+      "link": "https://www.lemonde.fr/economie/article/2025/12/23/les-semi-conducteurs-nouveau-carburant-de-l-economie-mondiale_6659185_3234.html",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
     },
     {
-      "title": "Habitants de Gaza subissent pénurie de médicaments due aux destructions",
-      "source": "RFI",
-      "summary": "À Gaza, les bombardements israéliens poursuivent les destructions. Les stocks de médicaments s’épuisent pour habitants et services d’urgence, rendant les soins difficiles.",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20251223-%C3%A0-gaza-les-habitants-et-les-services-d-urgence-font-face-%C3%A0-une-p%C3%A9nurie-de-m%C3%A9dicaments"
-    },
-    {
-      "title": "Semi-conducteurs deviennent carburant essentiel de l’économie mondiale",
-      "source": "Le Monde",
-      "summary": "Les composants électroniques, quatrième produit échangé mondial, sont cruciaux pour les industries. Le secteur atteindra 1000 milliards de dollars en 2026, rivalisant avec le pétrole.",
-      "link": "https://www.lemonde.fr/economie/article/2025/12/23/les-semi-conducteurs-nouveau-carburant-de-l-economie-mondiale_6659185_3234.html"
-    },
-    {
-      "title": "Gouvernement français utilise loi spéciale pour assurer continuité de l’État",
-      "source": "Le Monde",
-      "summary": "Le Parlement examine la loi de finances spéciale pour maintenir services publics et perception d’impôts. Ce texte d’urgence permet de préparer le budget 2026.",
-      "link": "https://www.lemonde.fr/politique/article/2025/12/23/loi-speciale-quelles-seront-les-consequences-du-recours-a-ce-texte-d-urgence-par-le-gouvernement_6659195_823448.html"
-    },
-    {
-      "title": "Ministre Lescure qualifie loi spéciale de roue de secours pour budget 2026",
-      "source": "Le Monde",
-      "summary": "Roland Lescure voit la loi spéciale comme solution provisoire pour percevoir impôts et adopter budget 2026. Le texte passe mardi à l’Assemblée et au Sénat.",
-      "link": "https://www.lemonde.fr/politique/live/2025/12/23/en-direct-budget-2026-le-projet-de-loi-speciale-soumis-mardi-a-l-assemblee-et-au-senat_6659093_823448.html"
-    },
-    {
-      "title": "Roland Lescure compare recours au 49.3 à un doudou pour budget 2026",
-      "source": "Le Figaro",
-      "summary": "Le ministre de l’Économie s’étonne des appels au 49.3 pour le PLF. La loi spéciale assure continuité budgétaire après échec précédent de cet outil.",
-      "link": "https://www.lefigaro.fr/politique/en-direct-budget-2026-pour-sortir-de-l-impasse-le-parlement-se-prononce-sur-une-loi-speciale-ce-mardi-20251223"
-    },
-    {
-      "title": "Justice américaine publie 8000 nouveaux documents sur affaire Epstein",
+      "title": "Ministère Justice américain publie 8 000 documents Epstein",
       "source": "Liberation",
-      "summary": "Le ministère de la Justice dévoile images, vidéos et audios sur le pédocriminel Jeffrey Epstein. Ces documents enrichissent l’enquête en cours.",
-      "link": "https://www.liberation.fr/international/amerique/affaire-epstein-pres-de-8-000-nouveaux-documents-mis-en-ligne-20251223_3JXNAS4LLRDMVNZUSPOXXQHJZQ/"
+      "summary": "Le ministère de la Justice des États-Unis a diffusé près de 8 000 documents, incluant images, vidéos et audios, sur l'affaire du pédocriminel Jeffrey Epstein ce 23 décembre. Ces révélations approfondissent l'enquête et exposent potentiellement de nouvelles complicités.",
+      "link": "https://www.liberation.fr/international/amerique/affaire-epstein-pres-de-8-000-nouveaux-documents-mis-en-ligne-20251223_3JXNAS4LLRDMVNZUSPOXXQHJZQ/",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
     },
     {
-      "title": "Russie bombarde Ukraine avec drones et missiles causant coupures de courant",
+      "title": "Trump réaffirme revendication Groenland contre Chine et Russie",
       "source": "20 Minutes",
-      "summary": "Frappes russes touchent infrastructures énergétiques ukrainiennes, provoquant pannes dans plusieurs régions. Aviation polonaise en alerte pour protéger son espace aérien.",
-      "link": "https://www.20minutes.fr/monde/ukraine/4192916-20251223-direct-guerre-ukraine-nombreuses-coupures-courant-ukraine-apres-frappes-russes?at_medium=display&at_campaign=149"
+      "summary": "Donald Trump insiste sur l'acquisition du Groenland par les États-Unis pour contrer Chine et Russie, provoquant colère du Danemark soutenu par l'UE ce 23 décembre. Cette pression géostratégique ravive tensions arctiques et alliances internationales.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4192913-20251223-trump-martele-vouloir-groenland-faire-face-chine-russie?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
     },
     {
-      "title": "Trump réaffirme vouloir acheter Groenland face à Chine et Russie",
-      "source": "20 Minutes",
-      "summary": "Donald Trump exerce pression sur Danemark et UE pour intégrer Groenland aux États-Unis. Il justifie cela par besoins stratégiques contre rivaux géopolitiques.",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4192913-20251223-trump-martele-vouloir-groenland-faire-face-chine-russie?at_medium=display&at_campaign=149"
-    },
-    {
-      "title": "Frappes russes causent coupures de courant en Ukraine et deux morts",
+      "title": "Habitants Gaza subissent pénurie médicaments due destructions israéliennes",
       "source": "RFI",
-      "summary": "Missiles et drones russes visent infrastructures énergétiques ukrainiennes, entraînant pannes dans plusieurs régions. Deux morts et blessés signalés ; Pologne déploie avions.",
-      "link": "https://www.rfi.fr/fr/europe/20251223-ukraine-des-coupures-de-courant-dans-plusieurs-r%C3%A9gions-apr%C3%A8s-des-frappes-russes"
+      "summary": "À Gaza, stocks de médicaments s'épuisent face aux destructions et bombardements israéliens persistants ce 23 décembre. Services d'urgence alertent sur impossibilité de soins. Cette crise humanitaire aggrave souffrances civiles dans le territoire palestinien.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20251223-%C3%A0-gaza-les-habitants-et-les-services-d-urgence-font-face-%C3%A0-une-p%C3%A9nurie-de-m%C3%A9dicaments",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Enquête révèle explosion Starship SpaceX menace trois avions ligne",
+      "source": "20 Minutes",
+      "summary": "Une enquête du Wall Street Journal montre que l'explosion d'une fusée Starship de SpaceX en janvier 2025 a mis en danger pilotes et passagers de trois avions de ligne. Cela questionne sécurité des tests spatiaux près des couloirs aériens commerciaux.",
+      "link": "https://www.20minutes.fr/monde/4192942-20251223-etats-unis-explosion-fusee-starship-mis-danger-passagers-trois-ligne?at_medium=display&at_campaign=149",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Parlement examine loi finances spéciale pour continuité État",
+      "source": "Le Monde",
+      "summary": "Le Parlement a examiné ce 23 décembre une loi de finances spéciale pour assurer fonctionnement provisoire des services publics. Ce texte d'urgence évite paralysie budgétaire et maintient opérations essentielles de l'État français.",
+      "link": "https://www.lemonde.fr/politique/article/2025/12/23/loi-speciale-quelles-seront-les-consequences-du-recours-a-ce-texte-d-urgence-par-le-gouvernement_6659195_823448.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Explosion pavillon blesse grièvement quatre personnes Yvelines",
+      "source": "Liberation",
+      "summary": "Une explosion dans un pavillon à Magny-les-Hameaux a blessé grièvement quatre personnes, dont trois enfants, ce 23 décembre. Débris projetés sur 100 mètres placent blessés en urgence absolue. Enquête détermine cause et sécurise zone.",
+      "link": "https://www.liberation.fr/societe/yvelines-quatre-personnes-dont-trois-enfants-grievement-blessees-apres-une-explosion-dans-un-pavillon-20251223_KO3ME3E6NFFQXHJSWAMJINUU3Q/",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cyberattaque La Poste diminue intensité mais persiste",
+      "source": "France Info",
+      "summary": "La cyberattaque sur La Poste baisse en intensité mais continue ce 23 décembre, rendant services en ligne inaccessibles. Ministre Économie confirme absence vol données personnelles. Atteinte perturbe période fêtes, vitale pour le groupe public.",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-cyberattaque-de-la-poste-a-baisse-en-intensite-mais-se-poursuit-affirme-le-ministre-de-l-econoie-alors-que-les-services-en-ligne-sont-toujours-inaccessibles_7697725.html#xtor=RSS-3-[lestitres]",
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Météo-France place Hérault vigilance rouge crues exceptionnelles",
+      "source": "France 24",
+      "summary": "L'Hérault passe en vigilance rouge lundi pour crues exceptionnelles, avec cumuls pluvieux débordant fleuve et menaçant Agde. Inondations massives exigent évacuations et surveillances. Événement souligne vulnérabilité sud de la France aux intempéries hivernales.",
+      "link": "https://www.france24.com/fr/france/20251223-crues-exceptionnelles-dans-l-h%C3%A9rault-le-d%C3%A9partement-plac%C3%A9-en-vigilance-rouge",
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
     }
-  ]
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 218,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 2,
+      "politics": 3,
+      "science": 1,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 5,
+      "global": 3,
+      "americas": 1,
+      "middle-east": 1
+    }
+  }
 }

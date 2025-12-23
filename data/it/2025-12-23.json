@@ -1,66 +1,112 @@
 {
   "date": "2025-12-23",
-  "summary": "La guerra in Ucraina infuria senza sosta: la Russia ha lanciato un massiccio attacco su Kiev e altre città con 30 missili e oltre 650 droni, causando morti e feriti. Zelensky denuncia l'aggressione e invoca più pressione internazionale per la pace, mentre la Polonia schiera caccia al confine e Trump osserva l'odio profondo tra le parti. Questi raid, i più intensi da settimane, arrivano mentre si discute di garanzie di sicurezza con gli Usa, complicando ogni spiraglio diplomatico e ricordando al mondo quanto il conflitto resti una ferita aperta per l'Europa.\n\nIn Italia, il Senato accelera sull'approvazione della Manovra: dopo stralci di norme contro il lavoro sottopagato, si vota la fiducia prima del passaggio alla Camera entro il 30 dicembre. Tra le novità, pensioni minime su di 20 euro, addio a Quota 103 e Opzione donna, Ape sociale confermata e sgravi per la prima casa. Intanto, l'Antitrust colpisce Ryanair con una multa record di 255,7 milioni per pratiche abusive contro agenzie online, scatenando il ricorso della compagnia. Queste mosse delineano un Bilancio pragmatico, ma criticato per ritocchi timidi in tempi di crisi.\n\nSul fronte globale, l'oro sfonda i 4500 dollari l'oncia, nuovo record spinto da incertezze geopolitiche, mentre in California 10 milioni di persone sono invitati a restare in casa per smog da PM2.5, con divieto di fuochi. Trump, meanwhile, promette di revocare le grazie di Biden a 37 condannati per rimetterli a morte, e spinge per acquisire la Groenlandia: segnali di un'America assertiva che polarizza il mondo economico e ambientale.",
+  "summary": "L'Unione Europea ha autorizzato il presidente francese Emmanuel Macron a colloqui diretti con il Cremlino per discutere un piano di pace in Ucraina, un passo diplomatico significativo mentre Volodymyr Zelensky valuta proposte solide dagli Stati Uniti e Mosca lamenta progressi lenti. Questo avviene dopo quasi tre anni di guerra, che hanno causato decine di migliaia di morti e crisi energetiche globali: una tregua potrebbe stabilizzare i prezzi del gas per milioni di famiglie europee, ma solleva dubbi su garanzie di sicurezza per Kiev contro future aggressioni russe.\n\nNel frattempo, negli Stati Uniti Donald Trump preme per revocare 37 grazie concesse da Joe Biden a condannati per omicidio, convertendo ergastoli in esecuzioni federali tramite un cavillo legale, riaccendendo divisioni sulla pena capitale alla vigilia della sua inaugurazione. Parallelamente, una manovra bipartisan spinge la ministra Pam Bondi a pubblicare i file Epstein, con nuove foto che mostrano l'ex miliardario con bambini, forzando trasparenza su una rete di abusi sessuali. In Italia, il Senato ha approvato con voto di fiducia la manovra di bilancio 2025, che definirà spesa pubblica e tasse per famiglie e imprese entro il 30 dicembre alla Camera, mentre Ciro Grillo e tre amici sono stati condannati a 6 anni per violenza sessuale di gruppo su una 19enne italo-norvegese, evidenziando fragilità delle vittime e dibattiti sulla violenza di genere.\n\nGuardando avanti, la FDA americana ha approvato la pillola orale di Wegovy, versione accessibile del farmaco dimagrante che riduce costi e aghi, promettendo di ampliare trattamenti per 1 miliardo di obesi globali e trasformare il mercato sanitario. Questo boom arriva mentre autorità californiane invitano 10 milioni di residenti a restare in casa per alti livelli di PM2.5, proteggendo polmoni deboli in una lotta climatica che preme su città mondiali.",
   "headlines": [
     {
-      "title": "Russia attacca Kiev con missili e droni causando morti e feriti",
-      "source": "ANSA",
-      "summary": "La Russia lancia un violento attacco su Kiev con missili e droni, provoca morti e feriti. Zelensky chiede più pressione per la pace, Polonia schiera caccia e Trump nota odio tra le parti.",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2025/12/23/kiev-violento-attacco-russo-con-missili-e-droni-live_36f7cff4-69fd-436c-bfa4-aaa755b7321a.html"
-    },
-    {
-      "title": "Manovra aumenta pensioni minime di 20 euro e modifica requisiti",
-      "source": "TGCOM24",
-      "summary": "La nuova Legge di Bilancio ritocca le pensioni minime con +20 euro, elimina Quota 103 e Opzione donna, mantiene Ape sociale. Prima casa esce dall'Isee e sale deducibilità previdenza complementare.",
-      "link": "https://www.tgcom24.mediaset.it/economia/manovra-ecco-come-cambiano-le-pensioni_107314374-202502k.shtml"
-    },
-    {
-      "title": "Russia bombarda Ucraina con 30 missili e 650 droni",
-      "source": "TGCOM24",
-      "summary": "Zelensky denuncia massiccio attacco russo sull'Ucraina, Polonia dispiega caccia. Il leader ucraino discute con Usa garanzie di sicurezza e possibili estensioni.",
-      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-giorno-1399-diretta-news_107306911-202502k.shtml"
-    },
-    {
-      "title": "California avverte 10 milioni di persone di restare in casa per smog",
-      "source": "la Repubblica",
-      "summary": "Sistemi di monitoraggio rilevano alti livelli di PM2.5 in California, pericolosi per la salute. Autorità attivano divieto di bruciare legna per migliorare qualità aria.",
-      "link": "https://www.repubblica.it/esteri/2025/12/23/news/california_allarme_inquinamento_aria-425056827/?rss"
-    },
-    {
-      "title": "Senato discute voto di fiducia sulla Manovra prima Camera",
-      "source": "Il Sole 24 Ore",
-      "summary": "Al Senato in corso dichiarazioni di voto sulla fiducia alla Manovra. Il passaggio alla Camera per approvazione definitiva è previsto per il 30 dicembre.",
-      "link": "https://www.ilsole24ore.com/art/manovra-via-aula-senato-dichiarazioni-voto-fiducia-AIxuwyX"
-    },
-    {
-      "title": "Senato riceve Manovra per voto fiducia dopo stralci norme",
-      "source": "ANSA",
-      "summary": "La commissione Bilancio stralcia cinque norme dalla Manovra, inclusa quella sul lavoro sottopagato. Il Senato procede al voto di fiducia.",
-      "link": "https://www.ansa.it/sito/notizie/politica/2025/12/23/la-manovra-al-senato-per-il-voto-di-fiducia_99e14af0-11e0-42df-b8a4-adfa09a7dbb6.html"
-    },
-    {
-      "title": "Antitrust multa Ryanair per 255,7 milioni di euro pratiche abusive",
-      "source": "TGCOM24",
-      "summary": "L'Antitrust sanziona Ryanair con 255,7 milioni per pratiche ostili contro intermediari online e tradizionali negli ultimi tre anni. La compagnia annuncia ricorso immediato.",
-      "link": "https://www.tgcom24.mediaset.it/economia/antitrust-sanziona-ryanair-abuso-posizione-dominante_107309891-202502k.shtml"
-    },
-    {
-      "title": "Usa lanciano flotta d'oro e Trump intitola una fregata",
-      "source": "la Repubblica",
-      "summary": "La Casa Bianca nomina inviato speciale per minacciare acquisizione Groenlandia, Danimarca convoca ambasciatore. La mossa segnala Cina e Venezuela.",
-      "link": "https://www.repubblica.it/esteri/2025/12/23/news/usa_lanciano_flotta_d_oro_segnale_cina_venezuela-425056089/?rss"
-    },
-    {
-      "title": "Oro raggiunge nuovo record a 4500 dollari l'oncia",
+      "title": "Ciro Grillo e tre amici ricevono condanna per violenza sessuale di gruppo su 19enne",
       "source": "Rai News",
-      "summary": "Le borse europee registrano debolezza mentre l'oro tocca i 4500 dollari l'oncia, da 2700 all'inizio 2025. Il prezzo continua a salire.",
-      "link": "https://www.rainews.it/articoli/2025/12/borse-europee-deboli-nuovo-record-per-loro-eb29f8d9-fdf6-4b7f-ba94-ae2cf0397e66.html"
+      "summary": "Ciro Grillo e tre amici sono stati condannati il 22 settembre per stupro su una studentessa italo-norvegese di 19 anni, impossibilitata a reagire per brutalità del gruppo. La sentenza sottolinea la fragilità della vittima. Il caso solleva dibattiti su violenza di genere in Italia.",
+      "link": "https://www.rainews.it/articoli/2025/12/caso-grillo-jr-la-condanna-per-stupro-brutalita-del-gruppo-vittima-impossibilitata-a-reagire-a5bcda39-080f-4614-80dc-8080c882497e.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
     },
     {
-      "title": "Trump promuove esecuzioni per 37 graziati da Biden",
+      "title": "Autorità californiane invitano 10 milioni di persone a restare casa per PM2.5 elevati",
       "source": "la Repubblica",
-      "summary": "Trump vuole revocare grazia di Biden a 37 condannati, riportarli a pena di morte federale con cavillo legale. L'ex presidente aveva commutato a ergastolo.",
-      "link": "https://www.repubblica.it/esteri/2025/12/23/news/trump_pena_di_morte_37_graziati_biden_verso_esecuzione-425056597/?rss"
+      "summary": "Sistemi di monitoraggio rilevano alte concentrazioni di PM2.5 in California, pericolose per salute soprattutto deboli. Dieci milioni invitati a non uscire, divieto bruciare legna. Misure riducono rischi respiratori e cardiovascolari per residenti.",
+      "link": "https://www.repubblica.it/esteri/2025/12/23/news/california_allarme_inquinamento_aria-425056827/?rss",
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Antitrust multa Ryanair di 255 milioni per abuso posizione dominante",
+      "source": "Euronews Italiano",
+      "summary": "L'Antitrust accusa Ryanair di ostacolare agenzie viaggio acquistando biglietti sul sito. Multa da 255 milioni euro. La società può ricorrere, decisione impatta concorrenza low-cost in Europa.",
+      "link": "http://it.euronews.com/2025/12/23/ryanair-maxi-multa-da-255-milioni-dallantitrust-abuso-di-posizione-dominante",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump spinge 37 graziati da Biden verso esecuzione capitale federale",
+      "source": "la Repubblica",
+      "summary": "Trump intende revocare grazia di Biden convertendo ergastoli in condanne a morte per 37 assassini usando cavillo legale. Riporta esecuzioni federali. Dibattito su pena capitale divide USA prima inaugurazione.",
+      "link": "https://www.repubblica.it/esteri/2025/12/23/news/trump_pena_di_morte_37_graziati_biden_verso_esecuzione-425056597/?rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Manovra bipartisan preme su ministra Bondi per pubblicare file Epstein",
+      "source": "la Repubblica",
+      "summary": "Nuove foto mostrano Epstein con bambini, cresce pressione bipartisan su Pam Bondi, ministra Trump, per divulgare documenti. Iniziativa forza trasparenza. Caso riaccende indagini su rete abusi sessuali.",
+      "link": "https://www.repubblica.it/esteri/2025/12/23/news/epstein_nuove_foto_bambini_pressing_pam_bondi_pubblicare_file-425056068/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Procuratori liguri accusano Toti di manipolare dati contagi COVID",
+      "source": "Corriere della Sera",
+      "summary": "Intercettazioni pm rivelano governatore Liguria Giovanni Toti ordinare aumento dati contagi COVID al capo gabinetto Cozzani. Indagine su falsificazione numeri pandemia. Procedura penale valuta responsabilità gestione crisi sanitaria.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Senato approva manovra oggi con voto di fiducia",
+      "source": "ANSA",
+      "summary": "Senato vota fiducia oggi sulla manovra di bilancio, approvazione prevista. Testo passa Camera per voto finale 30 dicembre. Decisione definisce spesa pubblica 2025, impatta economia famiglie e imprese italiane.",
+      "link": "https://www.ansa.it/sito/notizie/dirette_live/2025/12/21/la-manovra-approda-nellaula-del-senato_538af98f-ee32-458b-b633-18beb128e002.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Polizia albanese arresta quattro per Molotov contro ufficio premier Rama",
+      "source": "Euronews Italiano",
+      "summary": "Quattro arrestati e sette indagati dopo lancio Molotov contro ufficio primo ministro Edi Rama durante protesta opposizione lunedì a Tirana. Indagini proseguono. Episodio evidenzia tensioni politiche Albania.",
+      "link": "http://it.euronews.com/2025/12/23/albania-molotoc-contro-ufficio-del-primo-ministro-edi-rama-quattro-arresti",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "FDA USA approva pillola orale del farmaco dimagrante Wegovy",
+      "source": "Euronews Italiano",
+      "summary": "FDA autorizza versione pillola di Wegovy per obesità, ampliando accesso riducendo costi iniezioni. Boom mercato dimagranti continua. Esperti prevedono maggiore diffusione trattamenti contro sovrappeso cronico.",
+      "link": "http://it.euronews.com/salute/2025/12/23/usa-approvano-la-versione-in-pillola-del-farmaco-dimagrante-di-successo-wegovy",
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "UE approva colloqui Macron con Cremlino su piano pace Ucraina",
+      "source": "la Repubblica",
+      "summary": "UE dà via libera a Macron per parlare con Putin. Zelensky valuta solido piano USA, Cremlino nota progressi lenti. Iniziative diplomatiche mirano tregua, influenzano aiuti militari Europa.",
+      "link": "https://www.repubblica.it/esteri/2025/12/23/news/ue_da_via_libera_macron_bene_parlare_con_putin-425056194/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
     }
-  ]
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 249,
+    "categoryCounts": {
+      "society": 1,
+      "environment": 1,
+      "economy": 1,
+      "politics": 5,
+      "conflict": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 7,
+      "americas": 3
+    }
+  }
 }

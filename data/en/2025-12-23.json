@@ -1,42 +1,94 @@
 {
   "date": "2025-12-23",
-  "summary": "The war in Ukraine struck at the heart of Russia today, as a car bomb assassinated Lieutenant General Igor Kirillov in Moscow, decapitating a key figure in Russia's chemical weapons oversight and underscoring Kyiv's audacious reach deep inside enemy lines. This brazen hit came mere hours after Moscow unleashed its largest barrage yet—over 650 drones and dozens of missiles across 13 Ukrainian regions—killing at least three, including a child, and plunging millions into freezing power outages. With Ukraine scrambling to mend its battered grid, the tit-for-tat escalations expose the conflict's vicious cycle, where battlefield setbacks breed desperate retaliation and erode any flicker of peace prospects.\n\nElsewhere, protracted crises deepened without relief. In Sudan, as the war grinds toward its 1,000th day, the UN's OCHA agency implored the Security Council for urgent action amid a humanitarian catastrophe afflicting millions, with aid access strangled by violence. Gaza's displaced families, meanwhile, huddle in Israeli-bombed ruins for shelter, a grim testament to stalled reconstruction and unrelenting hardship. Australia, too, saw post-Bondi terror attack unity fracture, as politicians traded partisan barbs ahead of elections, leaving victims' families amid the acrimony.\n\nIn a rare pivot to policy over peril, America's federal student loan landscape shifts dramatically for 2026: the SAVE plan folds, thrusting millions into revamped repayment options amid legal turbulence. For borrowers, it's a stark reminder that even in calmer waters, financial storms loom.",
+  "summary": "A car bomb assassinated Russian Lieutenant General Fanil Sarvarov outside his Moscow apartment today, marking the highest-profile strike inside Russia since the Ukraine war began. The attack, amid an ongoing investigation, underscores Kyiv's deepening reach into enemy territory even as Russian forces press advantages on the ground. Hours later, Moscow retaliated with its largest aerial assault in months: 650 drones and 36 missiles across 13 Ukrainian regions, killing three people including a four-year-old child and knocking out power for millions amid freezing winter temperatures. President Zelenskyy cited recent peace talk progress, but the barrage dims those prospects and heightens civilian risks ahead of Christmas.\n\nThis escalation coincides with NATO's first coordinated response to suspected sabotage of Baltic Sea cables, including a fresh severing that threatens vital undersea communications and energy links. Alliance navies are now patrolling to shield infrastructure from hybrid threats widely attributed to Russia, signaling a broader hardening of Western defenses. Meanwhile, in eastern Congo, Rwanda-backed M23 rebels overran government troops to enter Goma, sparking gunfire and shelling that has displaced over one million people and strained the U.N.'s main aid hub, risking a humanitarian collapse in a conflict killing thousands yearly.\n\nLooking ahead, Israel permitted thousands of displaced Palestinians to return on foot to northern Gaza after crossing a military zone, following a hostage-release deal. The move eases suffering for over two million residents but occurs as fighting persists elsewhere, hinting at fragile steps toward de-escalation amid the 15-month war.",
   "headlines": [
     {
-      "title": "Car Bomb Kills Russian Lieutenant General in Moscow",
-      "source": "New York Times World",
-      "summary": "A car bomb assassinated a senior Russian military official in Moscow. The targeted killing affects Russia's military leadership. Authorities investigate as part of ongoing attacks inside Russia.",
-      "link": "https://www.nytimes.com/2025/12/22/world/europe/russia-moscow-general-killed.html"
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO launches its first coordinated response after another deep-sea cable severs in the Baltic Sea amid suspected sabotage of critical infrastructure. Alliance members protect undersea networks vital for communications and energy. This escalates Western defenses against hybrid threats from Russia.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
     },
     {
-      "title": "Russia Fires Hundreds of Drones and Missiles at Ukraine",
-      "source": "Associated Press",
-      "summary": "Russia launched over 650 drones and dozens of missiles across 13 Ukrainian regions, killing at least three people including a child. Power outages affect millions in cold weather. Ukraine repairs infrastructure.",
-      "link": "https://apnews.com/article/russia-ukraine-war-drone-missiles-attack-18fc9cbc3bed4103b4863bbdbc57e181"
+      "title": "Trump's DOJ Transfers 10 Spared Death Row Inmates to Supermax Prison",
+      "source": "NPR",
+      "summary": "Trump administration officials move 10 of 37 men whose executions Biden halted to ADX Florence, the 'Alcatraz of the Rockies.' One inmate attempts suicide while awaiting transfer. This reverses Biden's commutations, signaling renewed federal death penalty push affecting prisoners and justice policy.",
+      "link": "https://www.npr.org/2025/12/23/nx-s1-5269702/death-row-executions-transfer-commuted",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
     },
     {
-      "title": "OCHA Calls for Security Council Action on Sudan War",
-      "source": "AllAfrica",
-      "summary": "OCHA briefs UN Security Council as Sudan's war nears 1,000 days. Humanitarian crisis worsens for millions of civilians. Agency urges immediate action to address escalating needs and access issues.",
-      "link": "https://allafrica.com/stories/202512230102.html"
+      "title": "Russia Fires 650 Drones and 36 Missiles at Ukraine Killing Three People",
+      "source": "South China Morning Post",
+      "summary": "Russia launches over 650 drones and three dozen missiles across 13 Ukrainian regions, killing three including a 4-year-old child and causing power outages in cold weather. Zelensky notes peace progress, but attacks persist. This undermines talks and endangers civilians ahead of Christmas.",
+      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3337511/russia-strikes-ukraine-christmas-over-650-drones-dozens-missiles?utm_source=rss_feed",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
     },
     {
-      "title": "Australian Politicians Turn Partisan After Bondi Terror Attack",
-      "source": "New York Times World",
-      "summary": "Leaders in Australia abandon post-Bondi massacre unity for political disputes. Public and victims' families face divided responses. Debate continues ahead of elections.",
-      "link": "https://www.nytimes.com/2025/12/23/world/australia/australia-bondi-massacre-politics.html"
+      "title": "US Justice Department Releases Thousands of Epstein-Linked Documents",
+      "source": "France 24",
+      "summary": "Justice Department publishes thousands of new Jeffrey Epstein files, including jail surveillance footage from the month of his death. Documents detail the sex offender's network. Public access aids investigations and accountability for associates, impacting legal proceedings and public trust.",
+      "link": "https://www.france24.com/en/americas/20251223-us-justice-department-releases-thousands-new-epstein-linked-documents",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
     },
     {
-      "title": "Palestinians Use Israeli-Bombed Buildings as Refuge in Gaza",
-      "source": "Al Jazeera English",
-      "summary": "Families in Gaza City adapt to life in structures damaged by Israeli bombings. Displaced residents seek shelter amid ruins. Reconstruction efforts remain stalled.",
-      "link": "https://www.aljazeera.com/gallery/2025/12/23/gaza-families-rebuild-lives-amidst-ruins-struggle-for-normalcy?traffic_source=rss"
+      "title": "Car Bomb Kills Russian Lieutenant General Fanil Sarvarov in Moscow",
+      "source": "France 24",
+      "summary": "A car bomb assassinates Russian Lieutenant General Fanil Sarvarov in Moscow. The attack targets high-ranking military amid Ukraine war. Investigation underway; this escalates internal security threats and potential retaliation, affecting Russia's command structure.",
+      "link": "https://www.france24.com/en/video/20251223-car-bomb-kills-russian-lieutenant-general-fanil-sarvarov-in-moscow",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
     },
     {
-      "title": "Federal Student Loan Repayment Plans Change in 2026",
-      "source": "NPR News",
-      "summary": "The SAVE Plan ends as U.S. federal student loan options overhaul for 2026. Borrowers face new repayment structures. Millions adjust payments amid legal challenges.",
-      "link": "https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan"
+      "title": "SpaceX Launches Crew-10 to Retrieve NASA Astronauts Stuck on ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov from Kennedy Space Center to the ISS. Crew enables return of Butch Wilmore and Suni Williams after nine months. Routine rotations resume normal operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Gazans to cross a military zone into northern Gaza following a hostage release breakthrough. Thousands return on foot. This eases humanitarian crisis for over 2 million residents, though fighting continues in other areas.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma Displacing Over One Million People",
+      "source": "Wall Street Journal",
+      "summary": "M23 rebels overrun Congolese troops and enter Goma, triggering gunfire and shelling. Over one million displaced shelter in the aid hub city. U.N. warns of humanitarian collapse; this intensifies eastern Congo conflict, straining regional stability and aid efforts.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
     }
-  ]
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 477,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 2,
+      "global": 1,
+      "middle-east": 1,
+      "africa": 1
+    }
+  }
 }

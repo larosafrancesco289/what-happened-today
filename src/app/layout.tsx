@@ -1,12 +1,27 @@
 import type { Metadata } from "next";
-import { Inter, JetBrains_Mono as JetBrainsMono } from "next/font/google";
+import { Cormorant_Garamond, Source_Sans_3, JetBrains_Mono as JetBrainsMono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import { LanguageProvider } from "@/contexts/LanguageContext";
 import { Analytics } from '@vercel/analytics/react';
 
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
-const jetbrains = JetBrainsMono({ subsets: ["latin"], variable: "--font-jetbrains" });
+// Editorial serif for headlines - elegant, high-contrast, newspaper feel
+const cormorant = Cormorant_Garamond({
+  subsets: ["latin"],
+  variable: "--font-serif",
+  weight: ["400", "500", "600", "700"],
+  display: "swap"
+});
+
+// Refined sans-serif for body text - clean, readable, modern
+const sourceSans = Source_Sans_3({
+  subsets: ["latin"],
+  variable: "--font-sans",
+  weight: ["300", "400", "500", "600", "700"],
+  display: "swap"
+});
+
+const jetbrains = JetBrainsMono({ subsets: ["latin"], variable: "--font-mono" });
 
 export const metadata: Metadata = {
   title: "What Happened Today",
@@ -43,7 +58,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
-      <body className={`${inter.variable} ${jetbrains.variable} antialiased bg-bg-light text-text-light dark:bg-bg-dark dark:text-text-dark`}>
+      <body className={`${cormorant.variable} ${sourceSans.variable} ${jetbrains.variable} antialiased bg-bg-light text-text-light dark:bg-bg-dark dark:text-text-dark`}>
         <ThemeProvider>
           <LanguageProvider>
             {children}

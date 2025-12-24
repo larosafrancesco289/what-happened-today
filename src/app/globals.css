@@ -5,7 +5,7 @@
 
 /* Tailwind v4 token configuration via @theme */
 @theme {
-  /* Colors: Imperial Archive (light) / Deep Court (dark) */
+  /* Colors: User's original Imperial Archive (light) / Deep Court (dark) palette */
   --color-bg-light: #f4f1ec;
   --color-bg-dark: #08070a;
 
@@ -33,42 +33,134 @@
   /* Radii */
   --radius-xl: 16px;
 
-  /* Shadows */
-  --shadow-card: 0 10px 25px rgba(0,0,0,.1);
-  --shadow-cardDark: 0 8px 24px rgba(0,0,0,.45);
+  /* Shadows - enhanced for editorial depth */
+  --shadow-card: 0 4px 20px rgba(0,0,0,.08), 0 1px 3px rgba(0,0,0,.06);
+  --shadow-cardDark: 0 4px 24px rgba(0,0,0,.5), 0 1px 4px rgba(0,0,0,.3);
+  --shadow-elevated: 0 20px 40px rgba(0,0,0,.12), 0 4px 12px rgba(0,0,0,.08);
+  --shadow-elevatedDark: 0 20px 50px rgba(0,0,0,.6), 0 4px 16px rgba(0,0,0,.4);
+
+  /* Editorial spacing scale */
+  --spacing-editorial: clamp(2rem, 5vw, 4rem);
+
+  /* Animation timing */
+  --ease-editorial: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* Keyframe animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInFromLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes expandWidth {
+  from {
+    width: 0;
+    opacity: 0;
+  }
+  to {
+    width: 100%;
+    opacity: 1;
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
 }
 
 @layer base {
   html {
     scroll-behavior: smooth;
   }
-  
+
   body {
-    font-feature-settings: "rlig" 1, "calt" 1;
-    font-family: var(--font-inter), ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
-    /* Fallback base colors in case utilities are not applied yet */
+    font-feature-settings: "rlig" 1, "calt" 1, "kern" 1;
+    font-family: var(--font-sans), "Source Sans 3", ui-sans-serif, system-ui, -apple-system, sans-serif;
     background-color: var(--color-bg-light);
     color: var(--color-text-light);
+    letter-spacing: -0.01em;
   }
+
   /* Dark theme base fallback */
   :where(.dark, [data-theme="dark"]) body {
     background-color: var(--color-bg-dark);
     color: var(--color-text-dark);
   }
 
+  /* Subtle paper texture overlay for light mode */
+  body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    opacity: 0.03;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+    z-index: 9999;
+  }
+
+  :where(.dark, [data-theme="dark"]) body::before {
+    opacity: 0.015;
+  }
+
   /* Smooth theme transitions */
   *,
   *::before,
   *::after {
-    transition: 
-      background-color 400ms cubic-bezier(0.4, 0, 0.2, 1),
-      border-color 400ms cubic-bezier(0.4, 0, 0.2, 1),
-      color 400ms cubic-bezier(0.4, 0, 0.2, 1),
-      fill 400ms cubic-bezier(0.4, 0, 0.2, 1),
-      stroke 400ms cubic-bezier(0.4, 0, 0.2, 1),
-      opacity 400ms cubic-bezier(0.4, 0, 0.2, 1),
-      box-shadow 400ms cubic-bezier(0.4, 0, 0.2, 1),
-      transform 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition:
+      background-color 400ms var(--ease-editorial),
+      border-color 400ms var(--ease-editorial),
+      color 400ms var(--ease-editorial),
+      fill 400ms var(--ease-editorial),
+      stroke 400ms var(--ease-editorial),
+      opacity 400ms var(--ease-editorial),
+      box-shadow 400ms var(--ease-editorial);
+  }
+
+  /* Separate transform transitions for hover effects */
+  a, button, [role="button"] {
+    transition:
+      background-color 400ms var(--ease-editorial),
+      border-color 400ms var(--ease-editorial),
+      color 400ms var(--ease-editorial),
+      box-shadow 400ms var(--ease-editorial),
+      transform 300ms var(--ease-bounce);
   }
 
   /* Prevent transitions during page load */
@@ -78,63 +170,168 @@
     transition: none !important;
   }
 
-  /* Custom scrollbar for webkit browsers */
+  /* Custom scrollbar for webkit browsers - refined */
   ::-webkit-scrollbar {
-    width: 8px;
+    width: 10px;
   }
-  
+
   ::-webkit-scrollbar-track {
-    @apply bg-muted-light dark:bg-muted-dark;
-    transition: background-color 400ms cubic-bezier(0.4, 0, 0.2, 1);
+    background: var(--color-muted-light);
   }
-  
+
+  :where(.dark, [data-theme="dark"]) ::-webkit-scrollbar-track {
+    background: var(--color-muted-dark);
+  }
+
   ::-webkit-scrollbar-thumb {
-    @apply bg-border-light dark:bg-border-dark rounded-full;
-    transition: background-color 400ms cubic-bezier(0.4, 0, 0.2, 1);
+    background: var(--color-border-light);
+    border-radius: 5px;
+    border: 2px solid var(--color-muted-light);
   }
-  
+
+  :where(.dark, [data-theme="dark"]) ::-webkit-scrollbar-thumb {
+    background: var(--color-border-dark);
+    border-color: var(--color-muted-dark);
+  }
+
   ::-webkit-scrollbar-thumb:hover {
-    @apply bg-subtle-light dark:bg-subtle-dark;
+    background: var(--color-subtle-light);
   }
 
-  /* Modern glass morphism effects */
-  .glass {
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
+  :where(.dark, [data-theme="dark"]) ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-subtle-dark);
   }
 
-  .glass-light {
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+  /* Selection styling */
+  ::selection {
+    background-color: var(--color-accent-light);
+    color: white;
+  }
+
+  :where(.dark, [data-theme="dark"]) ::selection {
+    background-color: var(--color-accent-dark);
+    color: var(--color-bg-dark);
   }
 }
 
 /* Custom utilities */
 @layer utilities {
+  /* Font families */
+  .font-serif {
+    font-family: var(--font-serif), "Cormorant Garamond", "Georgia", "Times New Roman", serif;
+  }
+
+  .font-sans {
+    font-family: var(--font-sans), "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
+  }
+
+  .font-mono {
+    font-family: var(--font-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+
+  /* Editorial headline styles */
+  .headline-editorial {
+    font-family: var(--font-serif), "Cormorant Garamond", serif;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+  }
+
+  .headline-xl {
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+  }
+
+  .headline-lg {
+    font-size: clamp(1.75rem, 4vw, 2.75rem);
+  }
+
+  .headline-md {
+    font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+  }
+
+  /* Text gradients using user's accent colors */
   .text-gradient {
-    /* Accent gradient tuned for Neo‑Byzantine tokens */
     background: linear-gradient(135deg, var(--color-accent-light), var(--color-accent2-light));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
 
-  .font-mono-ui {
-    font-family: var(--font-jetbrains), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  :where(.dark, [data-theme="dark"]) .text-gradient {
+    background: linear-gradient(135deg, var(--color-accent-dark), var(--color-accent2-dark));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* Drop cap for editorial summary */
+  .drop-cap::first-letter {
+    font-family: var(--font-serif), "Cormorant Garamond", serif;
+    font-weight: 700;
+    float: left;
+    font-size: 4.5em;
+    line-height: 0.8;
+    margin-right: 0.1em;
+    margin-top: 0.05em;
+    color: var(--color-accent-light);
+  }
+
+  :where(.dark, [data-theme="dark"]) .drop-cap::first-letter {
+    color: var(--color-accent-dark);
   }
 
   /* Typography improvements for better readability */
   .summary-text {
-    max-width: 65ch;           /* Optimal reading width */
-    line-height: 1.75;         /* Generous line height for readability */
-    letter-spacing: -0.01em;   /* Slight tightening for body text */
-    text-wrap: pretty;         /* Better text wrapping for modern browsers */
+    line-height: 1.8;
+    letter-spacing: -0.005em;
+    text-wrap: pretty;
+    font-weight: 400;
   }
 
-  /* Headline title styling */
-  .headline-title {
-    line-height: 1.4;
-    letter-spacing: -0.02em;
+  /* Decorative rule - horizontal line with editorial flair */
+  .editorial-rule {
+    height: 1px;
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      var(--color-border-light) 15%,
+      var(--color-accent-light) 50%,
+      var(--color-border-light) 85%,
+      transparent 100%
+    );
+  }
+
+  :where(.dark, [data-theme="dark"]) .editorial-rule {
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      var(--color-border-dark) 15%,
+      var(--color-accent-dark) 50%,
+      var(--color-border-dark) 85%,
+      transparent 100%
+    );
+  }
+
+  /* Vertical decorative rule */
+  .editorial-rule-vertical {
+    width: 2px;
+    background: linear-gradient(
+      180deg,
+      transparent 0%,
+      var(--color-accent-light) 20%,
+      var(--color-accent-light) 80%,
+      transparent 100%
+    );
+  }
+
+  :where(.dark, [data-theme="dark"]) .editorial-rule-vertical {
+    background: linear-gradient(
+      180deg,
+      transparent 0%,
+      var(--color-accent-dark) 20%,
+      var(--color-accent-dark) 80%,
+      transparent 100%
+    );
   }
 
   /* Accessible focus ring using accent tokens */
@@ -142,12 +339,101 @@
     outline: 2px solid transparent;
     outline-offset: 2px;
   }
+
   .focus-outline:focus-visible {
     outline-color: var(--color-accent2-light);
   }
-  :where(.dark) .focus-outline:focus-visible,
-  :where([data-theme="dark"]) .focus-outline:focus-visible {
+
+  :where(.dark, [data-theme="dark"]) .focus-outline:focus-visible {
     outline-color: var(--color-accent2-dark);
+  }
+
+  /* Glass morphism - refined */
+  .glass {
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+  }
+
+  .glass-subtle {
+    backdrop-filter: blur(8px) saturate(120%);
+    -webkit-backdrop-filter: blur(8px) saturate(120%);
+  }
+
+  /* Animation utilities */
+  .animate-fade-in-up {
+    animation: fadeInUp 0.6s var(--ease-editorial) forwards;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.5s var(--ease-editorial) forwards;
+  }
+
+  .animate-slide-in-left {
+    animation: slideInFromLeft 0.5s var(--ease-editorial) forwards;
+  }
+
+  .animate-scale-in {
+    animation: scaleIn 0.4s var(--ease-editorial) forwards;
+  }
+
+  .animate-expand-width {
+    animation: expandWidth 0.8s var(--ease-editorial) forwards;
+  }
+
+  /* Stagger delay utilities for orchestrated animations */
+  .stagger-1 { animation-delay: 0.05s; }
+  .stagger-2 { animation-delay: 0.1s; }
+  .stagger-3 { animation-delay: 0.15s; }
+  .stagger-4 { animation-delay: 0.2s; }
+  .stagger-5 { animation-delay: 0.25s; }
+  .stagger-6 { animation-delay: 0.3s; }
+  .stagger-7 { animation-delay: 0.35s; }
+  .stagger-8 { animation-delay: 0.4s; }
+
+  /* Initially hidden for animation */
+  .animate-hidden {
+    opacity: 0;
+  }
+
+  /* Card hover effects - editorial refinement */
+  .card-editorial {
+    position: relative;
+    transition:
+      transform 400ms var(--ease-editorial),
+      box-shadow 400ms var(--ease-editorial);
+  }
+
+  .card-editorial:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-elevated);
+  }
+
+  :where(.dark, [data-theme="dark"]) .card-editorial:hover {
+    box-shadow: var(--shadow-elevatedDark);
+  }
+
+  /* Border accent on hover */
+  .border-accent-hover {
+    position: relative;
+  }
+
+  .border-accent-hover::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--color-accent-light);
+    transition: width 400ms var(--ease-editorial);
+  }
+
+  :where(.dark, [data-theme="dark"]) .border-accent-hover::after {
+    background: var(--color-accent-dark);
+  }
+
+  .border-accent-hover:hover::after {
+    width: 100%;
   }
 
   /* Category filter button active state */
@@ -155,8 +441,53 @@
     background-color: var(--color-accent-light);
     color: white;
   }
-  :where(.dark) .category-active,
-  :where([data-theme="dark"]) .category-active {
+
+  :where(.dark, [data-theme="dark"]) .category-active {
     background-color: var(--color-accent-dark);
+  }
+
+  /* Breaking news pulse effect */
+  .pulse-breaking {
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+
+  /* Masthead styling */
+  .masthead-text {
+    font-family: var(--font-serif), "Cormorant Garamond", serif;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  /* Section label styling */
+  .section-label {
+    font-family: var(--font-sans), "Source Sans 3", sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--color-accent-light);
+  }
+
+  :where(.dark, [data-theme="dark"]) .section-label {
+    color: var(--color-accent-dark);
+  }
+
+  /* Byline styling */
+  .byline {
+    font-family: var(--font-sans), "Source Sans 3", sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    font-style: italic;
+    color: var(--color-subtle-light);
+  }
+
+  :where(.dark, [data-theme="dark"]) .byline {
+    color: var(--color-subtle-dark);
   }
 }

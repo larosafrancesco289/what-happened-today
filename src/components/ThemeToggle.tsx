@@ -11,10 +11,9 @@ export default function ThemeToggle() {
     setMounted(true);
   }, []);
 
-  // Don't render anything until mounted to avoid hydration mismatch
   if (!mounted) {
     return (
-      <div className="h-12 w-12 rounded-xl bg-panel-light/90 dark:bg-panel-dark/90 glass border border-border-light/60 dark:border-border-dark/60 animate-pulse" />
+      <div className="h-10 w-10 border border-border-light/60 dark:border-border-dark/60 animate-pulse" />
     );
   }
 
@@ -27,31 +26,28 @@ function ThemeToggleClient() {
   return (
     <button
       onClick={toggleTheme}
-      className="focus-outline group relative inline-flex h-12 w-12 items-center justify-center rounded-xl bg-panel-light/90 dark:bg-panel-dark/90 glass border border-border-light/60 dark:border-border-dark/60 hover:bg-panel-light dark:hover:bg-panel-dark transition-all duration-300 ease-out hover:scale-105 active:scale-95 hover:shadow-card dark:hover:shadow-cardDark"
+      className="focus-outline group relative inline-flex h-10 w-10 items-center justify-center border border-border-light/60 dark:border-border-dark/60 hover:border-text-light dark:hover:border-text-dark transition-all duration-300 hover:bg-muted-light/50 dark:hover:bg-muted-dark/50"
       aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
     >
       <div className="relative">
-        {/* Sun Icon */}
-        <SunIcon 
-          className={`h-5 w-5 text-accent-light transition-all duration-300 ease-out ${
-            theme === 'dark' 
-              ? 'opacity-0 scale-0 rotate-90' 
+        <SunIcon
+          className={`h-4 w-4 text-subtle-light dark:text-subtle-dark group-hover:text-accent-light dark:group-hover:text-accent-dark transition-all duration-300 ${
+            theme === 'dark'
+              ? 'opacity-0 scale-0 rotate-90'
               : 'opacity-100 scale-100 rotate-0'
           }`}
+          strokeWidth={1.5}
         />
-        
-        {/* Moon Icon */}
-        <MoonIcon 
-          className={`absolute inset-0 h-5 w-5 text-accent2-light dark:text-accent2-dark transition-all duration-300 ease-out ${
-            theme === 'light' 
-              ? 'opacity-0 scale-0 -rotate-90' 
+
+        <MoonIcon
+          className={`absolute inset-0 h-4 w-4 text-subtle-light dark:text-subtle-dark group-hover:text-accent-light dark:group-hover:text-accent-dark transition-all duration-300 ${
+            theme === 'light'
+              ? 'opacity-0 scale-0 -rotate-90'
               : 'opacity-100 scale-100 rotate-0'
           }`}
+          strokeWidth={1.5}
         />
       </div>
-      
-      {/* Hover glow effect */}
-      <div className="absolute inset-0 rounded-xl bg-accent-light/10 dark:bg-accent-dark/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
     </button>
   );
-} 
+}

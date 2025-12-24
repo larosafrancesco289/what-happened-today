@@ -1,0 +1,92 @@
+{
+  "date": "2025-12-24",
+  "summary": "L’armée russe a capturé Siversk, un bastion ukrainien de 10 000 habitants dans la région de Donetsk, après trois ans et demi de farouche résistance. Cette prise marque une avancée significative pour Moscou, dégarnissant le flanc est de la dernière grande conurbation du Donbass encore sous contrôle de Kiev, comme Kramatorsk et Sloviansk. Exposant un quart de la région de Donetsk, elle affaiblit les défenses ukrainiennes face à une offensive russe qui s’intensifie, alors que les forces de Kiev peinent à recruter et à recevoir l’aide occidentale promise. Pour les habitants ordinaires, cela signifie de nouveaux déplacements forcés et une précarité accrue en pleine hiver.\n\nPendant ce temps, les tensions transatlantiques s’exacerbent sur la régulation numérique : les États-Unis ont interdit de séjour à l’ex-commissaire européen Thierry Breton et quatre autres personnalités pour leurs mesures anti-censure en ligne, qualifiées d’entraves à la liberté d’expression. Washington envisage désormais des sanctions contre dix groupes européens actifs sur son sol, dont Mistral, Publicis et Spotify, en riposte au Digital Markets Act de Bruxelles. Paris a dénoncé cette ingérence, soulignant les fractures au sein de l’alliance atlantique sur le contrôle des géants du numérique. Cela survient alors que la Belgique rejoint la procédure sud-africaine devant la Cour internationale de justice, accusant Israël de génocide à Gaza – un soutien européen qui progresse depuis la reconnaissance par Bruxelles de l’État palestinien en 2023.\n\nVers l’avenir, le Venezuela, soutenu par la Russie et la Chine, a dénoncé devant l’ONU le blocus naval américain comme une « extorsion » visant à renverser Nicolas Maduro, accusé de narcotrafic. Parallèlement, des juristes critiquent le plan de Donald Trump pour Gaza, endossé par une résolution onusienne, qui prévoit un conseil de la paix provisoire et une force de stabilisation – jugé illégal alors que le cessez-le-feu d’octobre est violé. Ces développements signalent une escalade géopolitique multipolaire à venir.",
+  "headlines": [
+    {
+      "title": "L’armée russe occupe Siversk, bastion ukrainien de 10 000 habitants dans le Donetsk",
+      "source": "Le Monde",
+      "summary": "L’armée russe a capturé Siversk après trois ans et demi de résistance ukrainienne, dégarnissant le flanc est de la dernière conurbation du Donbass sous contrôle de Kiev. Cela expose un quart de la région de Donetsk et affaiblit les défenses ukrainiennes.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/24/l-ukraine-perd-siversk-un-bastion-protegeant-le-dernier-quart-de-la-region-de-donetsk_6659276_3210.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Belgique rejoint la procédure sud-africaine contre Israël à la CIJ pour génocide à Gaza",
+      "source": "RFI",
+      "summary": "La Cour internationale de justice annonce que la Belgique s’associe à l’Afrique du Sud pour accuser Israël de génocide à Gaza, quelques mois après avoir reconnu l’État palestinien. La procédure lancée en 2023 progresse avec ce soutien européen.",
+      "link": "https://www.rfi.fr/fr/europe/20251224-la-belgique-rejoint-la-proc%C3%A9dure-sud-africaine-qui-accuse-isra%C3%ABl-de-g%C3%A9nocide-%C3%A0-gaza-devant-la-cij",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Washington interdit de séjour à Thierry Breton et quatre Européens pour régulation tech",
+      "source": "Le Monde",
+      "summary": "Le département d’État américain sanctionne cinq personnalités européennes, dont l’ex-commissaire Thierry Breton, pour leurs mesures de contrôle des contenus en ligne qualifiées de censure. Paris dénonce fermement cette décision qui cible la régulation européenne.",
+      "link": "https://www.lemonde.fr/pixels/article/2025/12/23/regulation-de-la-tech-washington-cible-thierry-breton-et-des-ong_6659269_4408996.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Des juristes critiquent le plan Trump pour Gaza prévoyant un conseil de la paix provisoire",
+      "source": "RFI",
+      "summary": "Des juristes dénoncent comme illégal le plan de Donald Trump pour Gaza, endossé par une résolution de l’ONU, qui instaure une force internationale de stabilisation et un Conseil de la paix. Le cessez-le-feu d’octobre reste violé régulièrement.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20251224-plan-trump-pour-gaza-des-juristes-vent-debout-contre-un-protectorat-ill%C3%A9gal",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Une explosion provoque au moins deux morts dans une maison de retraite aux Etats-Unis",
+      "source": "20 Minutes",
+      "summary": "Une explosion due au gaz dans une maison de retraite américaine cause au moins deux morts et un incendie. Les pompiers interviennent sur place, soulignant les risques des installations gazeuses dans les établissements pour seniors.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4193065-20251224-etats-unis-explosion-incendie-moins-deux-morts-maison-retraite?at_medium=display&at_campaign=149",
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le Venezuela dénonce le blocus naval américain comme extorsion devant l’ONU",
+      "source": "Le Monde",
+      "summary": "Caracas, soutenu par la Russie et la Chine, qualifie devant l’ONU le blocus naval des Etats-Unis d’acte militaire visant à renverser Nicolas Maduro, accusé de narcoterrorisme. Cela intensifie les tensions géopolitiques en Amérique latine.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/24/le-venezuela-denonce-devant-l-onu-l-extorsion-des-etats-unis-a-son-egard_6659273_3210.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Les Etats-Unis menacent de sanctions Mistral, Publicis et Spotify pour régulation numérique",
+      "source": "Le Figaro",
+      "summary": "Dans le conflit avec Bruxelles sur la régulation tech, Washington envisage des représailles contre dix groupes européens actifs aux Etats-Unis, dont Mistral, Publicis et Spotify. Cela escalade les tensions transatlantiques sur le numérique.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/ce-type-de-signal-doit-etre-pris-au-serieux-mistral-publicis-spotify-les-etats-unis-menacent-de-sanctions-les-champions-europeens-du-numerique-20251217",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Un ouvrier de 47 ans décède des suites de l’explosion dans une usine chimique près de Lyon",
+      "source": "France Info",
+      "summary": "L’un des quatre blessés d’une explosion dans une usine chimique près de Lyon, un homme de 47 ans, succombe à ses brûlures. L’enquête détermine les causes, mettant en lumière les dangers industriels en France.",
+      "link": "https://www.franceinfo.fr/faits-divers/accident/explosion-dans-une-usine-chimique-pres-de-lyon-l-un-des-quatre-blesses-est-mort_7698478.html#xtor=RSS-3-[lestitres]",
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 213,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 5,
+      "environment": 2
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 2,
+      "americas": 3
+    }
+  }
+}

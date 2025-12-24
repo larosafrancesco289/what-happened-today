@@ -1,0 +1,104 @@
+{
+  "date": "2025-12-24",
+  "summary": "Russian forces seized the strategic town of Siversk in Ukraine's eastern Donetsk region on December 24, after Ukrainian troops withdrew to avert encirclement. Held by Kyiv since early 2022, the stronghold's fall erodes Ukraine's defensive lines amid grinding attrition warfare and dims prospects for negotiations over proposed demilitarized zones. The advance followed an overnight Ukrainian drone barrage targeting Moscow and Tula, where Russian air defenses downed 172 UAVs and contained an industrial fire—evidence of Kyiv's push to impose costs deep inside Russia even as its ground positions weaken.\n\nMeanwhile, in eastern Democratic Republic of Congo, Rwanda-backed M23 rebels overran government troops to enter Goma city, triggering gunfire and shelling that crammed over 1 million displaced people into the lakeside hub. Aid workers warn of surging risks to civilians and operations, as the incursion threatens to unravel fragile regional truces and exacerbate the world's largest displacement crisis. This African flashpoint echoes broader instability, including NATO's launch of its first coordinated patrols in the Baltic Sea after another suspected sabotage of a critical undersea cable, prompting allies to bolster defenses against hybrid attacks on Europe's infrastructure.\n\nLooking ahead, SpaceX's Crew-10 mission lifted off from Kennedy Space Center on Friday, carrying NASA, JAXA, and Roscosmos astronauts to relieve Butch Wilmore and Suni Williams—stranded on the ISS for nine months due to Boeing Starliner's technical woes. Docking Saturday, the handover ensures uninterrupted station operations and underscores commercial spaceflight's reliability amid geopolitical tensions in orbit.",
+  "headlines": [
+    {
+      "title": "Gas Explosion Traps Residents Inside Pennsylvania Nursing Home",
+      "source": "Associated Press",
+      "summary": "A gas explosion occurred at a Bristol Township nursing home on December 23, trapping people inside as first responders battle the fire. Elderly residents face immediate danger. Officials assess structural damage and casualties; the incident highlights vulnerabilities in aging care facilities.",
+      "link": "https://apnews.com/article/nursing-home-gas-explosion-pennsylvania-bristol-5d44b3f1bbd272563743abd9e8cdc612",
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma City Overrunning Congolese Troops",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels advanced into Goma, Congo's safe-haven city, amid gunfire and shelling, displacing over 1 million people into the urban area. Residents and aid workers face heightened risks. U.N. officials monitor escalation; this threatens regional stability and humanitarian operations.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Supreme Court Rules Against Trump on National Guard Deployment to Illinois",
+      "source": "NPR News",
+      "summary": "The U.S. Supreme Court denied Trump's request to deploy National Guard troops to Illinois against the governor's objections. Illinois officials retain control. The ruling limits federal override of state authority, setting precedent for domestic military use.",
+      "link": "https://www.npr.org/2025/12/23/nx-s1-5641959/supreme-court-chicago-national-guard",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Russian Defenses Destroy 172 Ukrainian Drones Targeting Moscow and Tula",
+      "source": "The Hindu",
+      "summary": "Ukraine launched drone attacks overnight on Moscow and sparked an industrial fire in Tula; Russia downed 172 drones, nearly half over border regions. Civilians and infrastructure in central Russia face threats. The strikes escalate aerial warfare, straining defenses.",
+      "link": "https://www.thehindu.com/news/international/ukraine-drone-attacks-target-moscow-at-night-spark-industrial-fire-in-tula-says-russia/article70432540.ece",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russian Forces Capture Siversk Town After Ukrainian Troops Withdraw",
+      "source": "Al Jazeera English",
+      "summary": "Ukraine withdrew from Siversk in eastern Donetsk, allowing Russian forces to seize the stronghold on December 24. Local civilians and remaining Ukrainian positions suffer losses. The fall weakens Kyiv's negotiating stance amid proposed demilitarized zones.",
+      "link": "https://www.aljazeera.com/news/2025/12/24/russian-forces-seize-embattled-siversk-town-as-ukrainian-troops-withdraw?traffic_source=rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Stuck Astronauts from ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX launched Crew-10 from Kennedy Space Center on Friday with NASA, JAXA, and Roscosmos astronauts to relieve Butch Wilmore and Suni Williams, stuck for nine months. The crew docks Saturday. This resolves a Boeing Starliner issue, ensuring ISS operations continue.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Yemen's Houthis and Government Agree to Exchange 2900 Detainees",
+      "source": "New York Times World",
+      "summary": "Houthi rebels and Yemen's recognized government plan the largest prisoner swap in a decade, freeing about 2900 detainees amid stalemate. Families of captives gain relief. The humanitarian move offers rare progress, potentially easing civilian suffering.",
+      "link": "https://www.nytimes.com/2025/12/23/world/middleeast/yemen-houthis-prisoner-exchange.html",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Cross into Northern Gaza",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permitted thousands of displaced Gazans to walk back to northern Gaza after breaking a hostage-release deadlock. Families reunite with homes amid ruins. The move eases humanitarian pressures but tensions persist in the divided enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Coordinates First Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO launched its initial coordinated operation after another deep-sea cable severance in the Baltic Sea, suspecting sabotage against critical infrastructure. European nations and allies enhance security. This counters hybrid threats, protecting transatlantic communications.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 454,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 4,
+      "politics": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "africa": 1,
+      "europe": 3,
+      "global": 1,
+      "middle-east": 2
+    }
+  }
+}

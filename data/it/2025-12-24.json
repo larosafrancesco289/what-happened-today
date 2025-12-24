@@ -1,0 +1,101 @@
+{
+  "date": "2025-12-24",
+  "summary": "La guerra in Ucraina ha raggiunto un nuovo picco di brutalità durante il Natale, con la Russia che ha devastato la rete elettrica del paese usando missili e 650 droni, causando 3 morti e 12 feriti in varie regioni, tra cui blackout prolungati per milioni di civili mentre le temperature crollano. A Zaporizhzhia, un attacco con droni russi ha ferito 2 persone colpendo un palazzo residenziale, evidenziando la vulnerabilità delle città orientali. Nel Donetsk, le forze russe hanno completato la conquista di Siversk, consolidando guadagni territoriali. Questa escalation appare come ritorsione al presunto 'terrorismo' ucraino, culminato nell'esplosione di un'auto a Mosca sulla via del generale Fanil Sarvarov – morto giorni fa – che ha ferito 2 agenti di polizia, alimentando timori per la sicurezza interna russa.\n\nMentre il Papa invoca invano una tregua natalizia di 24 ore, il presidente ucraino Volodymyr Zelensky descrive colloqui positivi con gli Stati Uniti su garanzie di sicurezza, anche se Mosca frena sui negoziati di pace. La Polonia ha schierato caccia per proteggere il proprio spazio aereo dai detriti. Oltre l'Europa, negli USA emergono documenti su Jeffrey Epstein che rivelano 8 voli di Donald Trump sul suo jet nel 1995, alongside una denuncia anonima di violenza sessuale in un palazzo di lusso; l'indagine continua. In Italia, i pm accusano il governatore ligure Giovanni Toti di aver ordinato la manipolazione dei dati Covid-19, gonfiando artificialmente i contagi durante la pandemia.\n\nProspettive future si delineano con Trump che nomina un inviato speciale per la Groenlandia, ribadendo pressioni sulla Danimarca per acquisirla citando navi russe e cinesi come minaccia, rischiando tensioni diplomatiche. In Libia, la morte del capo di stato maggiore in un incidente aereo in Turchia – con 7 vittime totali – crea un vuoto nel comando militare di un paese già fragile, complicando la stabilizzazione regionale.",
+  "headlines": [
+    {
+      "title": "Auto esplode a Mosca nella via del generale Sarvarov ferendo 2 agenti",
+      "source": "Rai News",
+      "summary": "Un'auto è esplosa nella notte a Mosca sulla stessa strada dove il generale russo Fanil Sarvarov è morto giorni fa. Due agenti di polizia stradale sono feriti; squadre di soccorso intervengono. L'episodio solleva tensioni sulla sicurezza interna russa.",
+      "link": "https://www.rainews.it/articoli/2025/12/a-mosca-esplode-auto-nella-via-dove-e-morto-il-generale-sarvarov-2-agenti-feriti-62161ae7-f6e4-4acf-a333-9fe9a8b9f7c3.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Denuncia accusa Trump di 8 voli sull'aereo di Epstein e violenza su donna",
+      "source": "la Repubblica",
+      "summary": "Nuovi documenti su Epstein rivelano che Trump volò 8 volte sul suo jet nel 1995; una denuncia anonima lo accusa di aver violentato una donna in un palazzo di lusso. Epstein scrisse a Nassar su preferenze per giovani. Indagine continua negli USA.",
+      "link": "https://www.repubblica.it/esteri/2025/12/24/news/caso_epstein_trump_aereo_donna_violentata-425058363/?rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia attacca rete elettrica ucraina causando 3 morti e 12 feriti a Natale",
+      "source": "la Repubblica",
+      "summary": "Mosca risponde al 'terrorismo' di Kiev devastando infrastrutture elettriche ucraine, con 3 morti e 12 feriti. Nel Donetsk le forze russe completano la presa di Siversk. Blackout colpiscono civili durante le feste, aggravando la crisi umanitaria.",
+      "link": "https://www.repubblica.it/esteri/2025/12/24/news/ucraina_natale_blackout_russia_vendetta_rete_elettrica-425058290/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Droni russi colpiscono Zaporizhzhia ferendo 2 persone e danneggiando palazzo",
+      "source": "Rai News",
+      "summary": "Un attacco di droni russi con bombe aeree guidate ha mirato un edificio residenziale a Zaporizhzhia, ferendo 2 civili. Le autorità ucraine indagano; l'incidente evidenzia la vulnerabilità delle città orientali. Riparazioni e aiuti in corso.",
+      "link": "https://www.rainews.it/video/2025/12/bombe-aeree-guidate-attacco-di-droni-a-zaporizhzhia-due-feriti-ucraina-47837df7-680f-4d2a-86f5-0c27269ce8ae.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump nomina inviato e minaccia Danimarca per acquisire Groenlandia",
+      "source": "la Repubblica",
+      "summary": "Il presidente USA Donald Trump ribadisce l'interesse per la Groenlandia, citando navi russe e cinesi come minaccia alla sicurezza. Dopo la nomina di un inviato speciale, preme sulla Danimarca proprietaria. Tensioni diplomatiche in aumento.",
+      "link": "https://www.repubblica.it/esteri/2025/12/24/news/trump_minaccia_groenlandia_stati_uniti_danimarca-425058432/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky riporta colloqui positivi con USA mentre Mosca frena su pace",
+      "source": "la Repubblica",
+      "summary": "Il presidente ucraino Volodymyr Zelensky descrive colloqui positivi con gli USA su garanzie di sicurezza; Mosca indica temi irrisolti. Il Papa invoca tregua natalizia respinta. Discussioni proseguono per pressioni su Putin.",
+      "link": "https://www.repubblica.it/esteri/2025/12/24/news/zelensky_colloqui_usa_positivi_russia-425058377/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano governatore Toti di manipolare dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo i pm, Giovanni Toti ordinò al capo gabinetto Matteo Cozzani di alterare i dati pandemici, aumentando artificialmente i contagi. Indagine su irregolarità in Liguria durante la crisi COVID. Procedimento giudiziario in corso.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Papa invoca tregua di 24 ore in Ucraina durante nuovi attacchi russi",
+      "source": "TGCOM24",
+      "summary": "Il Papa chiede una tregua natalizia di 24 ore mentre Russia lancia missili e droni causando morti e blackout. Polonia schiera caccia; Zelensky discute garanzie USA. Escalation militare complica negoziati di pace.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-giorno-1400-diretta-news_107337537-202502k.shtml",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Capo di Stato maggiore libico muore in incidente aereo in Turchia",
+      "source": "Euronews Italiano",
+      "summary": "Il generale libico è perito con altri 7 (4 funzionari e 3 equipaggio) per malfunzionamento aereo in Turchia. Nessun sopravvissuto. Autorità libiche indagano; la perdita crea vuoto nel comando militare libico instabile.",
+      "link": "http://it.euronews.com/2025/12/24/il-capo-di-stato-maggiore-libico-e-morto-in-un-incidente-aereo-in-turchia",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 246,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 4,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 7,
+      "americas": 1,
+      "middle-east": 1
+    }
+  }
+}

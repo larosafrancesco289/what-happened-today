@@ -30,6 +30,14 @@ export interface Translations {
     environment: string;
     society: string;
   };
+  regions: {
+    europe: string;
+    americas: string;
+    'asia-pacific': string;
+    'middle-east': string;
+    africa: string;
+    global: string;
+  };
   importance: {
     breaking: string;
     major: string;
@@ -78,6 +86,14 @@ export const translations: Record<string, Translations> = {
       environment: "Environment",
       society: "Society"
     },
+    regions: {
+      europe: "Europe",
+      americas: "Americas",
+      'asia-pacific': "Asia-Pacific",
+      'middle-east': "Middle East",
+      africa: "Africa",
+      global: "Global"
+    },
     importance: {
       breaking: "BREAKING",
       major: "MAJOR",
@@ -124,8 +140,16 @@ export const translations: Record<string, Translations> = {
       environment: "Ambiente",
       society: "Società"
     },
+    regions: {
+      europe: "Europa",
+      americas: "Americhe",
+      'asia-pacific': "Asia-Pacifico",
+      'middle-east': "Medio Oriente",
+      africa: "Africa",
+      global: "Globale"
+    },
     importance: {
-      breaking: "URGENTE",
+      breaking: "BREAKING",
       major: "IMPORTANTE",
       notable: "Notevole"
     },
@@ -170,8 +194,16 @@ export const translations: Record<string, Translations> = {
       environment: "Environnement",
       society: "Société"
     },
+    regions: {
+      europe: "Europe",
+      americas: "Amériques",
+      'asia-pacific': "Asie-Pacifique",
+      'middle-east': "Moyen-Orient",
+      africa: "Afrique",
+      global: "Mondial"
+    },
     importance: {
-      breaking: "URGENT",
+      breaking: "BREAKING",
       major: "MAJEUR",
       notable: "Notable"
     },

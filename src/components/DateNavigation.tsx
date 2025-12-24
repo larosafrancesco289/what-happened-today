@@ -84,7 +84,8 @@ export default function DateNavigation({ currentDate, hasNextDate = false }: Dat
             </div>
           </Link>
         ) : (
-          <div className="w-28 lg:w-40" />
+          /* Empty placeholder matching the left button width for proper centering */
+          <div className="w-10 h-10 sm:w-40" />
         )}
       </div>
 

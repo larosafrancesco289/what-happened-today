@@ -119,7 +119,7 @@ function HeadlineCard({ headline, index, isFirst }: { headline: NewsHeadline; in
             {headline.category && CategoryIcon && (
               <span className="section-label flex items-center gap-1.5">
                 <CategoryIcon className="w-3.5 h-3.5" strokeWidth={2} />
-                <span>{headline.category}</span>
+                <span>{t.categories?.[headline.category] || headline.category}</span>
               </span>
             )}
 
@@ -127,7 +127,7 @@ function HeadlineCard({ headline, index, isFirst }: { headline: NewsHeadline; in
               <>
                 <span className="text-border-light dark:text-border-dark">|</span>
                 <span className="text-xs text-subtle-light dark:text-subtle-dark uppercase tracking-wide">
-                  {headline.region}
+                  {t.regions?.[headline.region] || headline.region}
                 </span>
               </>
             )}

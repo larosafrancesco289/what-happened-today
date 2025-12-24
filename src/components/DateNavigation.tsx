@@ -25,7 +25,7 @@ export default function DateNavigation({ currentDate, hasNextDate = false }: Dat
       {/* Top decorative rule */}
       <div className="editorial-rule mb-10" />
 
-      <div className="flex items-center justify-between gap-4">
+      <div className="relative flex items-center justify-between gap-4">
         {/* Previous Date */}
         <Link
           href={`/${previousDate}`}
@@ -45,24 +45,27 @@ export default function DateNavigation({ currentDate, hasNextDate = false }: Dat
           </div>
         </Link>
 
-        {/* Today Link */}
-        {!isToday && (
-          <Link
-            href="/"
-            className="group relative px-8 py-3 border-2 border-accent-light dark:border-accent-dark text-accent-light dark:text-accent-dark hover:bg-accent-light dark:hover:bg-accent-dark hover:text-white dark:hover:text-bg-dark transition-all duration-300 font-serif font-semibold tracking-wide"
-          >
-            {t.navigation.today}
-          </Link>
-        )}
+        {/* Center element - absolutely positioned to stay centered */}
+        <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
+          {/* Today Link */}
+          {!isToday && (
+            <Link
+              href="/"
+              className="group relative px-8 py-3 border-2 border-accent-light dark:border-accent-dark text-accent-light dark:text-accent-dark hover:bg-accent-light dark:hover:bg-accent-dark hover:text-white dark:hover:text-bg-dark transition-all duration-300 font-serif font-semibold tracking-wide"
+            >
+              {t.navigation.today}
+            </Link>
+          )}
 
-        {/* Center decoration when on today */}
-        {isToday && (
-          <div className="flex items-center gap-3">
-            <div className="w-8 h-px bg-border-light dark:bg-border-dark" />
-            <div className="w-2 h-2 rotate-45 border border-accent-light dark:border-accent-dark" />
-            <div className="w-8 h-px bg-border-light dark:bg-border-dark" />
-          </div>
-        )}
+          {/* Center decoration when on today */}
+          {isToday && (
+            <div className="flex items-center gap-3">
+              <div className="w-8 h-px bg-border-light dark:bg-border-dark" />
+              <div className="w-2 h-2 rotate-45 border border-accent-light dark:border-accent-dark" />
+              <div className="w-8 h-px bg-border-light dark:bg-border-dark" />
+            </div>
+          )}
+        </div>
 
         {/* Next Date */}
         {hasNextDate ? (
@@ -84,8 +87,8 @@ export default function DateNavigation({ currentDate, hasNextDate = false }: Dat
             </div>
           </Link>
         ) : (
-          /* Empty placeholder matching the left button width for proper centering */
-          <div className="w-10 h-10 sm:w-40" />
+          /* Empty placeholder to maintain layout balance */
+          <div className="w-10 h-10 sm:w-10" />
         )}
       </div>
 

@@ -1,0 +1,122 @@
+{
+  "date": "2025-12-25",
+  "summary": "Two months into a fragile Gaza truce, Israeli strikes targeting militants have killed hundreds of civilians, including those on family outings in Gaza City and shelters in Khan Younis, leaving residents in perpetual danger from operations aimed at Hamas holdouts. This mounting toll erodes the ceasefire's stability, echoing the October 2023 war's devastation that displaced nearly 2 million. It coincides with Israel's approval of 19 new West Bank settlements, condemned by the UK, Canada, and Germany as illegal expansions fueling Palestinian unrest and dimming two-state prospects.\n\nMeanwhile, Rwanda-backed M23 rebels overran Congolese troops and entered Goma amid gunfire and shelling, displacing over one million refugees already sheltering there and sparking UN warnings of a humanitarian catastrophe in eastern Congo. This incursion threatens mineral-rich region's stability, mirroring proxy conflicts that have killed thousands since 2022. Across the globe, Ukrainian President Zelensky proposed withdrawing troops from Donetsk fronts for peace talks, following US-Ukraine alignment on war-ending steps short of full territorial resolution, offering faint hope amid Russia's grinding advances.\n\nLooking ahead, the Pentagon's report flags China positioning nuclear missiles for rapid retaliation despite slowed warhead production, while North Korea's Kim Jong Un inspected an 8,700-ton nuclear-powered submarine under construction—developments heightening deterrence risks for the US and Asian allies in an evolving arms race.",
+  "headlines": [
+    {
+      "title": "Israel Kills Hundreds of Gazans During Two-Month Truce Targeting Militants",
+      "source": "New York Times World",
+      "summary": "Since the Gaza cease-fire began two months ago, Israeli strikes targeting militants have killed hundreds of Gazans, including civilians during family outings or in tents. Gaza residents face ongoing risks. This undermines truce stability and highlights civilian toll in conflict zones.",
+      "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels advanced into Goma amid gunfire and shelling, displacing over one million people sheltering there. Congolese troops retreated; U.N. officials warn of aid crisis. The incursion threatens regional stability and humanitarian efforts in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "DOJ Releases Tens of Thousands of Epstein Files Mentioning Trump",
+      "source": "NPR News",
+      "summary": "The Justice Department unsealed tens of thousands of Jeffrey Epstein documents, which reference Donald Trump among others. Victims, investigators and public gain new insights into the sex trafficking case. Full disclosure aids accountability for high-profile associates.",
+      "link": "https://www.npr.org/2025/12/24/g-s1-103629/up-first-newsletter-epstein-files-trump-supreme-court-national-guard-us-gdp",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Supreme Court Orders National Guard to Stay Out of Chicago Operations",
+      "source": "NPR News",
+      "summary": "The U.S. Supreme Court ruled that the National Guard cannot deploy in Chicago without state approval. Chicago residents and local authorities avoid federal intervention. The decision clarifies federal-state military boundaries in domestic policing.",
+      "link": "https://www.npr.org/2025/12/24/g-s1-103629/up-first-newsletter-epstein-files-trump-supreme-court-national-guard-us-gdp",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Zelensky Offers to Withdraw Troops from Eastern Ukraine for Peace Deal",
+      "source": "New York Times World",
+      "summary": "Ukrainian President Zelensky proposes pulling back troops from Donetsk areas to resolve territorial disputes in peace talks with Russia. Ukrainian and Russian forces affected; negotiations advance. This concession boosts prospects for ceasefire amid prolonged war.",
+      "link": "https://www.nytimes.com/2025/12/24/world/europe/zelensky-demilitarized-zone-offer.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pentagon Assesses China Positions Nuclear Missiles for Faster Retaliation",
+      "source": "New York Times World",
+      "summary": "The Pentagon's annual report states China slows warhead production but readies missiles for rapid strikes post-attack. U.S. and Asian allies face heightened deterrence risks. The shift signals evolving nuclear strategy impacting global arms balance.",
+      "link": "https://www.nytimes.com/2025/12/24/world/asia/china-nuclear-forces-pentagon-report.html",
+      "category": "conflict",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. and Ukraine Agree on Key Issues to End War with Russia",
+      "source": "NPR News",
+      "summary": "The U.S. and Ukraine align on critical war-ending steps, leaving eastern territorial control unresolved. Ukrainian civilians and troops benefit from potential de-escalation. Consensus advances diplomacy but requires Russian buy-in for lasting peace.",
+      "link": "https://www.npr.org/2025/12/24/g-s1-103618/u-s-and-ukraine-reach-consensus-on-key-issues",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "North Korea Displays Progress on 8,700-Ton Nuclear-Powered Submarine",
+      "source": "The Hindu",
+      "summary": "Kim Jong Un inspects shipyard advancing construction of an 8,700-ton nuclear-propelled submarine. Regional powers like U.S., South Korea and Japan monitor proliferation risks. The development heightens tensions on Korean Peninsula nuclear capabilities.",
+      "link": "https://www.thehindu.com/news/international/north-korea-displays-apparent-progress-in-construction-of-nuclear-powered-submarine/article70436128.ece",
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "UK, Canada, Germany Condemn Israel's Approval of 19 West Bank Settlements",
+      "source": "France 24",
+      "summary": "The UK, Canada, Germany and others denounce Israel's plan for 19 new West Bank settlements as illegal, urging reversal to curb instability. Palestinians and international community affected. The move escalates occupation tensions and peace process obstacles.",
+      "link": "https://www.france24.com/en/middle-east/20251224-uk-canada-germany-and-others-condemn-israel-s-west-bank-settlement-expansion",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 from Florida to Retrieve Stuck Astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carried NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi and Russia's Kirill Peskov from Kennedy Space Center at 7:03 p.m. Friday. Butch Wilmore and Suni Williams return after nine months; routine rotation restores ISS operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "DOJ Discovers Over One Million Epstein Documents and Seeks Release Delay",
+      "source": "Associated Press",
+      "summary": "The Justice Department finds more than one million Epstein-related files, requesting weeks more past the deadline set by Congress. Senators demand compliance; public awaits full records on sex trafficking network. Delay prolongs transparency into elite involvement.",
+      "link": "https://apnews.com/article/senate-epstein-files-trump-justice-department-bipartisan-fe7de7947b4e5b0bd7f8194cdc760f1f",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 451,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 6,
+      "science": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "africa": 1,
+      "americas": 3,
+      "europe": 3,
+      "global": 2,
+      "asia-pacific": 1
+    }
+  }
+}

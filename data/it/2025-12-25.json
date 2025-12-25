@@ -1,0 +1,112 @@
+{
+  "date": "2025-12-25",
+  "summary": "Un tragico naufragio al largo della Libia ha segnato l'inizio delle festività natalizie, con un barcone affondato che ha lasciato 116 migranti dispersi e un solo sopravvissuto, secondo le ong. Questo disastro, il più grave da mesi nel Mediterraneo centrale, riaccende le polemiche sulle politiche migratorie: le autorità libiche sono accusate di negligenza, mentre il vescovo Perego critica una difesa dei confini che trascura le vite umane. In un contesto di oltre 3.000 morti nel 2024 solo su questa rotta, l'episodio evidenzia come le instabilità in Africa e Medio Oriente spingano migliaia verso l'Europa, complicando i negoziati Ue su rimpatri e soccorsi.\n\nNel frattempo, le tensioni della guerra in Ucraina persistono: nel messaggio natalizio, il presidente Zelensky ha alluso alla morte di una 'figura nemica' – un chiaro riferimento a Putin – invocando pace a Dio, mentre bombardieri russi Tu-95 hanno sorvolato per sette ore i mari neutrali di Barents e Norvegia, inseguiti da jet Nato. Questo avviene parallelamente a una messa di Natale a Betlemme celebrata dal patriarca Pizzaballa, che ha pregato per la pace in mezzo ai raid su Gaza e alla condanna di 14 paesi, inclusa l'Italia, contro gli insediamenti israeliani in Cisgiordania. In Nigeria, invece, una bomba di Boko Haram ha ucciso sette fedeli in una moschea di Maiduguri, prolungando la violenza jihadista nel nord-est.\n\nGuardando avanti, in Italia lo scandalo del governatore ligure Giovanni Toti – accusato di aver truccato i dati Covid con il capo gabinetto Cozzani – promette di influenzare il dibattito politico pre-elezioni, mentre nevicate e venti forti attivano l'allerta rossa in Emilia-Romagna, minacciando trasporti per Natale. Altrove, i sopravvissuti del volo Azerbaijan Airlines, abbattuto un anno fa da un missile russo con 38 morti, chiedono giustizia, segnalando rischi crescenti per l'aviazione vicino ai conflitti.",
+  "headlines": [
+    {
+      "title": "Naufragio al largo Libia dispersa 116 migranti lascia un solo sopravvissuto",
+      "source": "Il Sole 24 Ore",
+      "summary": "Un barcone con migranti naufraga al largo della Libia causando 116 dispersi e un unico sopravvissuto. Ong accusano gestione inadeguata dell'emergenza, Monsignor Perego critica difesa confini senza proteggere vite umane. Polemiche riaccendono dibattito su politiche migratorie mediterranee.",
+      "link": "https://www.ilsole24ore.com/art/naufragio-largo-libia-116-migranti-dispersi-solo-sopravvissuto-l-accusa-ong-AIZCUJZ",
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Pizzaballa celebra messa Natale Betlemme invoca pace nonostante attacchi Gaza",
+      "source": "Rai News",
+      "summary": "Patriarca Pizzaballa tiene messa a Betlemme con messaggio speranza e pace amid nuovi raid aerei su Gaza. 14 Paesi inclusa Italia condannano insediamenti Cisgiordania, Israele respinge critiche. Knesset approva commissione inchiesta su 7 ottobre, interesse per escalation regionale.",
+      "link": "https://www.rainews.it/maratona/2025/12/betlemme-natale-gaza-messaggio-speranza-pace-nuovi-attacchi-a-gaza-48fc6017-0335-435f-a864-d8c4ebe25dae.html",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Procuratori accusano Toti di manipolare dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Pm rivelano intercettazioni dove governatore Toti ammette a capo gabinetto Cozzani di aver truccato numeri contagi pandemia. Indagine su alterazione dati Liguria, procedono accertamenti giudiziari. Caso evidenzia rischi falsificazione statistiche sanitarie pubbliche.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Zelensky allude morte Putin nel discorso Natale invoca pace Ukraine",
+      "source": "TGCOM24",
+      "summary": "Nel messaggio natalizio Zelensky esprime sogno morte di figura nemica alludendo Putin ma chiede pace a Dio. Contemporaneamente bombardieri russi Tu-95 volano su Mari Barents e Norvegia. Tensioni aeree persistono alimentando instabilità guerra Russia-Ucraina.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/zelensky-abbiamo-tutti-un-sogno-che-muoia-_107358111-202502k.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Bombardiere russo vola sette ore su acque neutrali Barents seguito jet NATO",
+      "source": "Rai News",
+      "summary": "Bombardiere strategico russo compie missione sette ore su Mari Barents e Norvegia scortato da Su-33, inseguito da caccia NATO. Difesa russa conferma voli pianificati su acque neutrali. Episodio rafforza tensioni aeree tra Russia e Alleanza Atlantica.",
+      "link": "https://www.rainews.it/video/2025/12/russia-bombardieri-in-volo-sulle-acque-neutrali-del-mare-di-barents-jet-nato-li-seguono-ced8c558-0f52-4a18-9a33-60127b6f7d93.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Bomba esplode moschea Maiduguri uccide sette fedeli durante preghiere Nigeria",
+      "source": "la Repubblica",
+      "summary": "Attentato jihadista Boko Haram fa esplodere bomba in moschea a Maiduguri Stato Borno durante preghiere serali causando sette morti. Area colpita da decenni da violenza islamista. Autorità nigeriane intensificano indagini e sicurezza, minaccia persiste nel nord-est.",
+      "link": "https://www.repubblica.it/esteri/2025/12/24/news/nigeria_attentato_bomba_moschea_morti-425059814/?rss",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Neve e vento forte attivano allerta rossa Emilia Romagna Nord Centro Italia",
+      "source": "Il Sole 24 Ore",
+      "summary": "Previsioni meteo annunciano nevicate bassa quota piogge diffuse e venti intensi per Natale, allerta rossa Emilia Romagna. Condizioni instabili spazzano smog al Nord Centro, miglioramento previsto ultimo weekend anno. Impatto su trasporti e sicurezza stradale nazionale.",
+      "link": "https://www.ilsole24ore.com/art/natale-neve-e-vento-forte-allerta-rossa-emilia-romagna-e-condizioni-instabili-nord-e-centro-italia-AIzzyDZ",
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sopravvissuti Azerbaijan Airlines chiedono giustizia un anno dopo abbattimento missile",
+      "source": "Euronews Italiano",
+      "summary": "Vittime e familiari Azerbaijan Airlines reclamano indagini un anno dopo incidente che uccise 38 persone colpito da missile difesa aerea russa. Pressioni per responsabilità, Mosca nega coinvolgimento diretto. Caso solleva questioni sicurezza voli vicino zone conflitto.",
+      "link": "http://it.euronews.com/2025/12/24/i-sopravvissuti-chiedono-giustizia-un-anno-dopo-lincidente-aereo-della-azerbaijan-airlines",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Papa critica governatore Illinois Pritzker per firma legge suicidio assistito",
+      "source": "la Repubblica",
+      "summary": "Papa Francesco esprime delusione verso governatore democratico Pritzker per approvazione suicidio assistito nonostante monito Vaticano su sacralità vita. Incontro novembre Prevost ribadì posizione Chiesa. Dibattito etico divide USA su fine vita assistita.",
+      "link": "https://www.repubblica.it/esteri/2025/12/24/news/suicidio_assistito_papa_leone_contro_il_governatore_democratico_dell_illinois-425059762/?rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Hacker falsificano ordini giudiziari Brasile liberano diversi detenuti",
+      "source": "TGCOM24",
+      "summary": "Ignoti hacker usano password magistrati per falsificare documenti giudiziari in Brasile causando rilascio detenuti. Autorità investigano vulnerabilità sistema giudiziario. Episodio espone rischi cybersecurity su piattaforme ufficiali con potenziali evasioni multiple.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/brasile-hacker-falsificano-ordini-giudiziari-detenuti-tornano-liberi_107355909-202502k.shtml",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 248,
+    "categoryCounts": {
+      "society": 4,
+      "politics": 3,
+      "conflict": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "africa": 2,
+      "middle-east": 1,
+      "europe": 5,
+      "americas": 2
+    }
+  }
+}

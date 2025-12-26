@@ -1,0 +1,73 @@
+{
+  "date": "2025-12-26",
+  "summary": "Les États-Unis ont lancé pour la première fois sous la présidence de Donald Trump des frappes aériennes meurtrières contre l'État islamique au Nigeria, à la demande des autorités locales accusées de fermer les yeux sur des massacres de chrétiens. Trump a promis d'intensifier les attaques si les tueries persistent, marquant une intervention militaire inédite en Afrique de l'Ouest. Cette opération s'inscrit dans la lutte mondiale contre le djihadisme, ravivé par l'instabilité régionale, et souligne la volonté de Washington de projeter sa puissance au-delà du Moyen-Orient, au moment où l'EI cherche à s'implanter en Afrique subsaharienne, menaçant des millions de civils.\n\nPendant ce temps, l'Ukraine a frappé une raffinerie pétrolière russe avec des missiles britanniques Storm Shadow, escaladant les tensions alors que Kiev attend la réaction de Moscou au nouveau plan de paix américain. Les drones et missiles russes continuent de pilonner l'Ukraine quotidiennement, prolongeant un conflit qui épuise les deux camps. En Asie, le Japon a approuvé un budget record de 665 milliards d'euros pour sa Défense à partir d'avril 2026, face aux menaces chinoises et nord-coréennes, reflétant une militarisation accélérée dans un contexte de coûts croissants pour la sécurité sociale.\n\nCes développements font suite aux élections générales au Myanmar, les premières depuis le coup d'État de 2021, jugées ni libres ni équitables par les ONG en raison du contrôle de la junte. En Centrafrique, un quadruple scrutin historique oppose le président Touadéra, candidat à un troisième mandat, dans un climat de tensions sécuritaires. Au Soudan du Sud, Juba marche sur un fil en équilibrant ses liens avec l'armée soudanaise et les paramilitaires soutenus par les Émirats, risquant d'être aspiré dans le conflit voisin.",
+  "headlines": [
+    {
+      "title": "Donald Trump annonce frappes américaines meurtrières contre l'État islamique au Nigeria",
+      "source": "Le Monde",
+      "summary": "Les États-Unis mènent pour la première fois sous Trump des frappes contre l'EI au Nigeria, à la demande des autorités locales accusées de tolérer les massacres de chrétiens. Trump promet plus d'attaques si les tueries persistent, marquant une intervention militaire inédite en Afrique de l'Ouest.",
+      "link": "https://www.lemonde.fr/afrique/article/2025/12/26/donald-trump-annonce-de-nombreuses-frappes-meurtrieres-contre-l-organisation-etat-islamique-au-nigeria_6659436_3212.html",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'Ukraine frappe une raffinerie russe avec des missiles Storm Shadow alors que Kiev attend la réponse de Moscou",
+      "source": "France 24",
+      "summary": "Kiev utilise des missiles britanniques Storm Shadow pour attaquer une raffinerie en Russie tandis que le Kremlin formule sa position sur le nouveau plan de paix américain. Les attaques de missiles et drones russes se poursuivent quotidiennement, prolongeant le conflit sans résolution immédiate.",
+      "link": "https://www.france24.com/fr/europe/20251226-en-direct-ukraine-russie-formuler-position-nouveau-plan-paix-am%C3%A9ricain-zelensky-poutine-etats-unis-europe-guerre",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Le gouvernement japonais approuve un budget record de 665 milliards d'euros pour la Défense",
+      "source": "RTBF",
+      "summary": "Le Japon adopte un budget de 122 300 milliards de yens (665 milliards d'euros) pour l'exercice débutant le 1er avril 2026, renforçant la Défense face aux menaces régionales et anticipant la hausse des coûts de la sécurité sociale. Cela reflète une militarisation accrue du pays.",
+      "link": "https://www.rtbf.be/article/le-gouvernement-japonais-approuve-un-budget-record-de-665-milliards-d-euros-pour-renforcer-sa-defense-et-anticiper-la-hausse-des-couts-de-la-securite-sociale-11653439",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Le Myanmar organise ses premières élections générales depuis le coup d'État militaire de 2021",
+      "source": "Radio-Canada",
+      "summary": "Le Myanmar tient ses premières élections générales post-coup d'État de 2021, mais les organisations de droits humains estiment que le vote ne sera ni libre ni équitable en raison du contrôle militaire. Cela pourrait consolider le pouvoir de la junte face à l'opposition.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2216262/myanmar-premieres-elections-coup-etat-militaire",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "La Centrafrique vote aux élections municipales, régionales, législatives et présidentielle",
+      "source": "RFI",
+      "summary": "Ce 28 décembre, la Centrafrique organise un quadruple scrutin historique, les premiers municipaux et régionaux depuis 1988. Le président Touadéra, sept candidats en lice, brigue un troisième mandat après la nouvelle constitution de 2023, dans un contexte de tensions sécuritaires.",
+      "link": "https://www.rfi.fr/fr/afrique/20251226-%C3%A9lections-en-centrafrique-vers-la-passe-de-trois-pour-faustin-archange-touad%C3%A9ra",
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Soudan du Sud équilibre ses relations entre l'armée soudanaise et les paramilitaires",
+      "source": "Le Monde",
+      "summary": "Proche financièrement des Émirats arabes unis soutenant les paramilitaires soudanais, Juba dépend du transit pétrolier via Port-Soudan contrôlé par l'armée rivale. Cette position d'équilibriste expose le Soudan du Sud aux ondes de choc du conflit soudanais voisin.",
+      "link": "https://www.lemonde.fr/afrique/article/2025/12/26/le-soudan-du-sud-tiraille-entre-les-deux-rivaux-du-conflit-soudanais_6659454_3212.html",
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 208,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4
+    },
+    "regionCounts": {
+      "africa": 3,
+      "europe": 1,
+      "asia-pacific": 2
+    }
+  }
+}

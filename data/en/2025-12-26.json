@@ -1,0 +1,85 @@
+{
+  "date": "2025-12-26",
+  "summary": "Japan's Cabinet approved a record 9 trillion yen ($58 billion) defense budget for fiscal 2026, the largest ever, to acquire cruise missiles and unmanned systems for strike-back capabilities against China. This escalation fortifies coastal defenses in the face of Beijing's growing assertiveness around disputed islands and Taiwan, marking Tokyo's sharpest pivot from postwar pacifism amid the most severe security environment since World War II. Allies like the U.S. welcome the move as it bolsters deterrence in the Indo-Pacific.\n\nMeanwhile, NATO mounted its first coordinated naval response in the Baltic Sea after a critical undersea cable was severed, suspected as sabotage amid hybrid threats from Russia that endanger Europe's communications lifelines. Echoing such brinkmanship, North Korea unveiled the completed hull of a new nuclear-powered submarine following a missile test, heightening tensions on the Korean Peninsula as a U.S. vessel visits South Korea. Further south, Rwanda-backed M23 rebels overran Goma in eastern Congo, shelling positions and trapping over one million displaced people in the lakeside city, straining U.N. aid efforts.\n\nLooking ahead, SpaceX's Crew-10 mission blasted off Friday from Kennedy Space Center, carrying NASA, Japanese, and Russian astronauts to the ISS to finally retrieve Butch Wilmore and Suni Williams after nine months stranded by technical glitches. The handoff ensures uninterrupted station operations, a rare bright spot of multinational cooperation amid earthly conflicts.",
+  "headlines": [
+    {
+      "title": "Japan’s Cabinet Approves Record 9 Trillion Yen Defense Budget to Deter China",
+      "source": "Associated Press",
+      "summary": "Japan’s Cabinet approved a defense budget exceeding 9 trillion yen ($58 billion) for fiscal 2026 to enhance strike-back capabilities with cruise missiles and unmanned systems. Regional tensions with China affect Japan and allies. The plan fortifies coastal defenses amid the most severe security environment since World War II.",
+      "link": "https://apnews.com/article/japan-defense-spending-china-missile-221b2cb5da0760d6e07f63ac01deba93",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO mounted its first coordinated response after a deep-sea cable was severed in the Baltic Sea amid suspected sabotage of critical infrastructure. European nations and NATO allies face heightened risks to undersea communications. Investigations continue to identify perpetrators and prevent further attacks.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Police Arrest CEO and Two Accomplices for Gang Rape of IT Manager in Udaipur",
+      "source": "The Hindu",
+      "summary": "Police arrested a CEO and two others on December 25 for gang-raping a woman IT firm manager in Udaipur, Rajasthan; a court remanded them to four-day custody. The victim and local IT sector suffer direct impact. The case underscores workplace safety concerns and prompts stricter enforcement against sexual violence.",
+      "link": "https://www.thehindu.com/news/national/rajasthan/ceo-among-three-held-for-gang-rape-of-woman-it-firm-manager-in-udaipur/article70438992.ece",
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "SpaceX Launches Crew-10 from Florida to Retrieve Stuck NASA Astronauts from ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX’s Falcon 9 launched Crew-10 at 7:03 p.m. Friday from Kennedy Space Center, carrying NASA’s Anne McClain and Nichole Ayers, Japan’s Takuya Onishi, and Russia’s Kirill Peskov to the ISS. Astronauts Butch Wilmore and Suni Williams, stuck nine months, prepare to return. The mission ensures continuous station operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "North Korea Unveils Completed Hull of New Nuclear Submarine",
+      "source": "New York Times World",
+      "summary": "North Korea displayed the finished hull of a nuclear submarine after testing a surface-to-air missile and amid a U.S. submarine visit to South Korea. The Korean Peninsula and global powers face escalated nuclear threats. Further tests and deployments signal advancing military capabilities.",
+      "link": "https://www.nytimes.com/2025/12/25/world/asia/north-korea-nuclear-submarine.html",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma Forcing One Million into Safe-Haven City",
+      "source": "Wall Street Journal World",
+      "summary": "Rwanda-backed rebels entered Goma after overrunning Congolese troops, triggering gunfire and shelling; U.N. officials report over one million displaced people now sheltering there. Eastern Congo residents and aid operations suffer. Negotiations and reinforcements aim to restore control and humanitarian access.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "President Trump Announces U.S. Strike on ISIS Targets in Nigeria",
+      "source": "NPR News",
+      "summary": "President Trump announced a U.S. strike on ISIS targets in Nigeria late Thursday via social media, responding to attacks on Christians. Nigerian civilians and ISIS fighters bear the impact. The action disrupts terrorist operations and reinforces U.S. counterterrorism commitments in Africa.",
+      "link": "https://www.npr.org/2025/12/25/g-s1-103704/nigeria-isis-islamic-state",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 454,
+    "categoryCounts": {
+      "politics": 1,
+      "conflict": 4,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 3,
+      "europe": 1,
+      "americas": 1,
+      "africa": 2
+    }
+  }
+}

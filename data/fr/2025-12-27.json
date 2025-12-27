@@ -1,0 +1,67 @@
+{
+  "date": "2025-12-27",
+  "summary": "La Russie a lancé vendredi 26 décembre une vaste attaque nocturne sur Kiev et plusieurs régions ukrainiennes, utilisant drones et missiles juste avant la rencontre prévue dimanche en Floride entre Volodymyr Zelensky et Donald Trump. Cette offensive, la plus intense depuis des semaines, vise à affaiblir les infrastructures ukrainiennes alors que Kiev peine à regagner du terrain. Trump a averti que Zelensky n'obtiendra rien sans son aval, tandis que Moscou accuse Kiev de saboter les négociations de paix en fin d'année, soulignant les tensions croissantes qui pourraient redessiner l'équilibre européen.\n\nPendant ce temps, en Asie du Sud-Est, la Thaïlande et le Cambodge ont signé samedi 27 décembre un cessez-le-feu immédiat après trois semaines de combats frontaliers ayant fait 47 morts et déplacé près d'un million de personnes. Ce pacte, fruit de pressions internationales, ouvre la voie à des négociations sur un différend territorial vieux de décennies et stabilise une région clé pour le commerce mondial. En Afrique, Israël a reconnu vendredi la République autoproclamée du Somaliland, indépendant de la Somalie depuis 1991, provoquant les condamnations de la Somalie, Djibouti, l'Égypte et la Turquie – une manœuvre diplomatique qui renforce les alliances israéliennes face aux tensions au Moyen-Orient.\n\nAux États-Unis, le prix Nobel d'économie Joseph Stiglitz a critiqué dans Le Monde les politiques autoritaires, anti-immigration et protectionnistes de Donald Trump, prédisant qu'elles fragiliseront l'économie américaine et ébranleront la mondialisation post-1945. Par ailleurs, des frappes américaines conjointes avec le Nigeria contre l'État islamique jeudi soir signalent une intensification de la lutte antiterroriste en Afrique de l'Ouest, avec d'autres opérations imminentes qui pourraient remodeler la sécurité régionale.",
+  "headlines": [
+    {
+      "title": "Russie vise Kiev et plusieurs régions ukrainiennes par attaque nocturne",
+      "source": "Le Monde",
+      "summary": "La Russie a ciblé Kiev et plusieurs régions ukrainiennes lors d'une attaque nocturne ce vendredi 26 décembre, avant la rencontre prévue dimanche entre Zelensky et Trump en Floride. Trump avertit que Zelensky n'obtient rien sans son accord ; Russie accuse Kiev de torpiller les négociations. Cela influence les efforts de paix avant fin d'année.",
+      "link": "https://www.lemonde.fr/international/live/2025/12/27/en-direct-guerre-en-ukraine-kiev-vise-par-une-attaque-nocturne-avant-la-rencontre-zelensky-trump-prevue-dimanche_6658995_3210.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israël reconnaît officiellement le Somaliland comme État indépendant",
+      "source": "Liberation",
+      "summary": "Israël a reconnu vendredi la République autoproclamée du Somaliland, indépendante de la Somalie depuis 1991. La Somalie, Djibouti, Égypte et Turquie condamnent cette décision. Cela marque une première diplomatique pour Israël en Afrique et renforce ses alliances régionales face aux tensions au Moyen-Orient.",
+      "link": "https://www.liberation.fr/environnement/animaux/un-moment-historique-israel-reconnait-officiellement-le-somaliland-comme-etat-independant-une-premiere-20251226_MKXHXCPQPZCFTBU6AG62FMHURI/",
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Thaïlande et Cambodge conviennent de cessez-le-feu immédiat après 47 morts",
+      "source": "RFI",
+      "summary": "La Thaïlande et le Cambodge ont signé samedi 27 décembre un cessez-le-feu immédiat après trois semaines de combats frontaliers causant 47 morts et près d'un million de déplacés. Les deux pays entament des négociations pour résoudre le différend territorial. Cela soulage les populations et stabilise la région.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20251227-la-tha%C3%AFlande-et-le-cambodge-conviennent-d-un-cessez-le-feu-imm%C3%A9diat-apr%C3%A8s-trois-semaines-de-combats-frontaliers",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Joseph Stiglitz critique politiques de Donald Trump sur économie américaine",
+      "source": "Le Monde",
+      "summary": "Joseph Stiglitz, Prix Nobel d'économie 2001, écrit dans Le Monde que les mesures autoritaires, anti-immigration et protectionnistes de Trump fragilisent l'économie des États-Unis et ébranlent la mondialisation post-Seconde Guerre mondiale. Cela prédit des répercussions mondiales sur le commerce et l'emploi.",
+      "link": "https://www.lemonde.fr/idees/article/2025/12/27/joseph-stiglitz-prix-nobel-d-economie-2001-donald-trump-tire-une-balle-dans-le-pied-de-l-economie-americaine_6659531_3232.html",
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis frappent État islamique au Nigeria en opération conjointe",
+      "source": "France 24",
+      "summary": "Les États-Unis ont effectué des frappes contre l'État islamique au Nigeria dans la nuit de jeudi à vendredi. Les autorités nigérianes confirment une opération conjointe et prévoient d'autres actions imminentes contre les jihadistes. Cela intensifie la coopération antiterroriste en Afrique de l'Ouest.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20251226-frappe-des-etats-unis-au-nig%C3%A9ria-une-op%C3%A9ration-conjointe-selon-abuja",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 212,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 1,
+      "africa": 1,
+      "asia-pacific": 1,
+      "americas": 1,
+      "middle-east": 1
+    }
+  }
+}

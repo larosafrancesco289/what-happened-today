@@ -1,0 +1,112 @@
+{
+  "date": "2025-12-27",
+  "summary": "Ukrainian President Volodymyr Zelenskyy has scheduled a Sunday meeting with US President-elect Donald Trump in Florida to hash out peace terms for the grinding war with Russia—just hours after Moscow hammered Kyiv with air strikes that wounded civilians and shredded infrastructure, according to the city's mayor. This high-stakes sit-down follows Kyiv's battlefield setbacks and hints at a seismic shift in American support, which has sustained Ukraine since Russia's full-scale invasion nearly three years ago. For ordinary Ukrainians enduring blackouts and bombardments, the talks could dictate whether respite or escalation lies ahead.\n\nMeanwhile, NATO mounted its first coordinated response to suspected sabotage after another deep-sea cable snapped in the Baltic Sea, mobilizing alliance ships to guard undersea lifelines critical for global data flows amid rising hybrid threats from actors like Russia. In Southeast Asia, Thailand and Cambodia inked an immediate ceasefire to halt three weeks of border clashes that killed 47 and displaced over a million, though Phnom Penh accused Bangkok of airstrikes on a northwest site during talks—prompting an emergency ASEAN huddle in Kuala Lumpur on Monday to avert wider turmoil.\n\nLooking forward, Israel's move to let over 100,000 displaced Palestinians trek back into northern Gaza after a hostage deal breakthrough eases a humanitarian chokehold and fuels fragile ceasefire hopes in the enclave. Elsewhere, a SpaceX Falcon 9 roared off from Florida carrying NASA astronauts McClain, Ayers, Japan's Onishi, and Russia's Peskov to the ISS, setting the stage for the return of two Americans stranded nine months amid Boeing Starliner woes and ensuring seamless US access to orbit.",
+  "headlines": [
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO launches its initial coordinated operation after another deep-sea cable severs in the Baltic Sea amid suspected sabotage targeting critical infrastructure. Alliance members affected; investigations continue to identify perpetrators. This escalates NATO's role in protecting undersea assets vital for global communications.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Recognizes Somaliland as Sovereign State and Establishes Diplomatic Ties",
+      "source": "The Guardian",
+      "summary": "Israel signs agreement with Somaliland for full diplomatic relations, including embassies, 34 years after its independence declaration from Somalia. Somaliland gains first recognition; African Union criticizes potential instability. Move bolsters Israel's Horn of Africa presence amid regional rivalries.",
+      "link": "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Zelensky Schedules Sunday Meeting with Trump to Discuss Ending Ukraine War",
+      "source": "BBC World",
+      "summary": "Ukrainian President Zelensky plans Florida talks with Trump as Russia launches air strikes on Kyiv, per the capital's mayor. Ukrainian civilians and infrastructure affected; discussions aim at peace terms. Meeting signals potential US shift in support influencing war trajectory.",
+      "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Thailand and Cambodia Sign Immediate Ceasefire After Border Clashes Kill 47",
+      "source": "South China Morning Post",
+      "summary": "Thailand and Cambodia agree to ceasefire ending three weeks of fighting that killed 47 and displaced over 1 million across border provinces. Civilians and militaries impacted; prior truce failed. Agreement restores calm, prevents wider Southeast Asian conflict escalation.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3337871/thailand-cambodia-sign-ceasefire-deal-after-weeks-deadly-border-clashes?utm_source=rss_feed",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "WHO Warns Sudan Health System Collapses After 1,000 Days of Civil War",
+      "source": "AllAfrica",
+      "summary": "WHO reports Sudan's health system faces collapse from war outbreaks, shortages, malnutrition and deaths after nearly 1,000 days of conflict. 10 million displaced affected; aid appeals intensify. Crisis threatens regional stability and global humanitarian response efforts.",
+      "link": "https://allafrica.com/stories/202512270012.html",
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck Nine Months",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts McClain, Ayers, Japan's Onishi and Russia's Peskov from Florida to ISS, enabling return of Wilmore and Williams after nine months. Current station crew transitions; docking expected Saturday night. Mission ensures uninterrupted US space access.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Cambodia Reports Thai Airstrikes on Northwest Site During Border Peace Talks",
+      "source": "Associated Press",
+      "summary": "Cambodia's Defense Ministry states Thailand conducted airstrike Saturday amid talks to end December border combat that reignited post-ceasefire. Border populations affected; ASEAN ministers meet Monday in Kuala Lumpur. Incident tests fragile de-escalation in Southeast Asia.",
+      "link": "https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-wildlife-93e7c405baa7d446134b2bfad0410cf4",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "ISIS Splinter Kills 8 Worshipers in Syria Mosque Explosion During Friday Prayers",
+      "source": "New York Times World",
+      "summary": "Ansar al-Sunna claims Homs mosque blast killing 8 as Syrian government confirms. Worshipers and locals affected; security forces investigate. Attack highlights persistent jihadist threat in post-Assad Syria, complicating stabilization.",
+      "link": "https://www.nytimes.com/2025/12/26/world/middleeast/syria-homs-mosque-explosion.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits Gazans to cross military zone back to northern Gaza following hostage release breakthrough. 100,000-plus displaced affected; returns proceed on foot. Development eases humanitarian strain amid ceasefire hopes in enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US Launches Strikes Against Islamic State Targets in Nigeria",
+      "source": "BBC World",
+      "summary": "US conducts airstrikes on ISIS positions in Nigeria, where Trump previously criticized government protection of Christians. Nigerian civilians and jihadists impacted; operations continue. Action reinforces US counterterrorism in Africa, addressing rising threats.",
+      "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 465,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 3,
+      "science": 2
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 3,
+      "asia-pacific": 2,
+      "africa": 2,
+      "global": 1
+    }
+  }
+}

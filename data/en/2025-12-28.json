@@ -1,0 +1,103 @@
+{
+  "date": "2025-12-28",
+  "summary": "Russia hammered Kyiv with ballistic missiles and drones on Saturday, killing one civilian and wounding 27 in apartment blocks, as rescuers sifted rubble amid ongoing explosions. The barrage, the latest in a string of winter assaults on Ukraine's power grid and cities, came hours before President Volodymyr Zelenskyy was due to meet Donald Trump in Florida for talks on ending the three-year war. President Vladimir Putin, fresh from the strikes, warned that Moscow would pursue all its goals by force if Kyiv shuns peace negotiations—a stark message stiffening lines just as faint diplomatic hopes flicker.\n\nNATO launched its first alliance-wide response to suspected sabotage after rebels cut another Baltic Sea communications cable, underscoring hybrid threats to undersea infrastructure that powers transatlantic economies and defenses—threats many fingers point at Russia amid the Ukraine grind. Farther afield, Rwanda-backed M23 rebels stormed into Congo's Goma, trading fire with retreating troops and trapping over 1 million displaced people in the lakeside aid hub, compounding a crisis that has uprooted 7 million in eastern Congo's mineral-rich chaos.\n\nSunday's Trump-Zelenskyy summit in Florida offers a potential pivot, with the US president pushing for a ceasefire that could freeze frontlines and reshape alliances—even as recent strikes test resolve. Elsewhere, Israel eased its grip by allowing thousands of displaced Palestinians to trek back to northern Gaza's ruins post-hostage deal, while recognizing Somaliland's sovereignty to gain a Horn of Africa foothold, moves that hint at de-escalation in one theater and realignments in another.",
+  "headlines": [
+    {
+      "title": "Russia Strikes Kyiv with Missiles and Drones, Kills 1 and Wounds 27",
+      "source": "Associated Press",
+      "summary": "Russia launched ballistic missiles and drones at Ukraine's capital Kyiv on Saturday, killing one person and injuring 27 in apartment strikes. Rescuers continue operations amid explosions. The attack, timed before Zelenskyy-Trump talks, signals Moscow's resolve to press militarily, heightening risks for civilians and diplomacy.",
+      "link": "https://apnews.com/article/russia-ukraine-war-kyiv-strikes-67c576b92273cc0953de64590572e159",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO initiated its first alliance-wide action after rebels severed another deep-sea communications cable in the Baltic Sea. Critical undersea infrastructure faces hybrid threats. This response bolsters defenses against sabotage, protecting transatlantic data flows vital for economies and security.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Putin Warns Ukraine of Escalation if It Rejects Peace Talks",
+      "source": "South China Morning Post",
+      "summary": "Russian President Vladimir Putin stated Moscow will achieve all goals by force if Ukraine avoids peace negotiations. Remarks followed Saturday's Kyiv strikes. Zelenskyy countered that Russia prolongs war. This rhetoric stiffens positions ahead of Zelenskyy-Trump meeting, complicating ceasefire prospects.",
+      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3337927/russias-putin-warns-escalation-if-ukraine-rejects-peace-talks?utm_source=rss_feed",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump Hosts Zelenskyy in Florida for Russia-Ukraine Peace Talks",
+      "source": "The Hindu",
+      "summary": "US President Donald Trump hosts Ukrainian President Volodymyr Zelenskyy on Sunday in Florida to pursue a peace deal ending nearly four years of war. Efforts face hurdles from recent Russian strikes. Success could halt fighting, reshape alliances, and stabilize Europe.",
+      "link": "https://www.thehindu.com/news/international/ukraine-us-zelenskyy-trump-florida-russia-ukraine-war-meet-update/article70445648.ece",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Myanmar Holds First Election Since 2021 Military Coup",
+      "source": "Al Jazeera English",
+      "summary": "Myanmar's military government opened polls nationwide, its first vote since the 2021 coup ousted civilian rule. UN and opposition decry the process as unfree and uncredible. Results will cement junta control, affecting 55 million citizens and regional stability.",
+      "link": "https://www.aljazeera.com/news/2025/12/28/polls-open-in-myanmar-as-military-stages-first-election-since-2021-coup?traffic_source=rss",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Hundreds Mourn Eight Killed in Homs Mosque Bombing",
+      "source": "Associated Press",
+      "summary": "Hundreds gathered in Syria's Homs for funerals of eight Alawite victims from Friday's Imam Ali bin Abi Talib Mosque attack. Mourners braved rain in Wadi al-Dhahab neighborhood. The bombing exacerbates sectarian tensions in post-Assad Syria, threatening fragile peace.",
+      "link": "https://apnews.com/article/syria-homs-mosque-bomb-alawite-28c05d4c1f3178a3336a3c2d41a4d60e",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza",
+      "source": "Wall Street Journal World",
+      "summary": "Israel opened a military zone bisecting Gaza, enabling thousands of displaced Palestinians to walk back to northern areas after hostage release impasse ended. Families reunite amid ruins. This eases humanitarian crisis for 2 million Gazans, signals potential de-escalation.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo's Goma with 1 Million Displaced Inside",
+      "source": "Wall Street Journal World",
+      "summary": "Rwanda-supported M23 rebels overran Congolese troops to enter Goma, sparking gunfire and shelling. Over 1 million displaced people cram the aid hub city. Advance disrupts humanitarian operations, worsens eastern Congo crisis displacing 7 million total.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Recognizes Somaliland as Sovereign State and Establishes Ties",
+      "source": "The Guardian",
+      "summary": "Israel signed an agreement recognizing Somaliland's sovereignty 34 years after its independence declaration from Somalia, opening embassies and ambassador exchanges. African Union condemns move. Recognition bolsters Israel's Horn of Africa foothold, challenges Somalia unity, risks continental stability.",
+      "link": "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 454,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 5
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 1,
+      "asia-pacific": 1,
+      "middle-east": 2,
+      "africa": 1,
+      "global": 1
+    }
+  }
+}

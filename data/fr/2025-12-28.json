@@ -1,0 +1,84 @@
+{
+  "date": "2025-12-28",
+  "summary": "Volodymyr Zelensky a atterri en Floride ce dimanche pour une rencontre cruciale avec Donald Trump à Mar-a-Lago, axée sur un projet d’accord de paix négocié avec les Américains pour mettre fin à la guerre en Ukraine. Cette visite fait suite à une escale au Canada, où Mark Carney a annoncé samedi 2,5 milliards de dollars canadiens d’aide supplémentaire lors d’un entretien à Halifax avec le président ukrainien. Ces discussions interviennent alors que Kiev accuse Moscou de bloquer les négociations, au moment où les attaques russes sur les infrastructures énergétiques ukrainiennes s’intensifient, menaçant des millions de civils en hiver. L’issue déterminera le flux futur des aides occidentales, crucial pour la survie de l’Ukraine face à l’épuisement des ressources.\n\nPendant ce temps, Trump reçoit aussi Benjamin Netanyahu en Floride ce lundi pour avancer sur la deuxième phase du cessez-le-feu à Gaza, maintenu depuis deux mois et demi. Les négociations au Qatar portent sur une gouvernance transitoire, incluant un controversé Conseil de paix de deux ans présidé par Trump lui-même, mais les Gazaouis expriment un scepticisme profond quant à sa viabilité. Ce double rôle de Trump en Ukraine et à Gaza souligne son influence croissante sur les conflits majeurs, reliant les dynamiques euro-atlantiques aux tensions moyen-orientales.\n\nEn Afrique, la Centrafrique vote ce dimanche pour une présidentielle sous haute tension, avec Faustin-Archange Touadéra grand favori grâce à des alliés russes et rwandais et une révision constitutionnelle de 2023. Parallèlement, la reconnaissance par Israël du Somaliland vendredi provoque des remous en Afrique et dans le monde musulman, risquant d’attiser les tensions en Corne de l’Afrique. Au Nigeria, des frappes américaines jeudi contre l’État islamique et les djihadistes Lakurawa freinent l’expansion terroriste au Sahel, signalant une vigilance accrue face aux menaces futures sur le continent.",
+  "headlines": [
+    {
+      "title": "Volodymyr Zelensky rencontre Donald Trump en Floride pour discuter projet d'accord paix Ukraine",
+      "source": "Le Monde",
+      "summary": "Volodymyr Zelensky se rend en Floride ce dimanche 28 décembre pour rencontrer Donald Trump à Mar-a-Lago et aborder points débattus du projet d'accord négocié avec les Américains visant à finir la guerre. Il blame Moscou pour les obstacles, après escale au Canada. Cela détermine futures aides occidentales.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/28/guerre-en-ukraine-volodymyr-zelensky-se-rend-en-floride-pour-s-assurer-du-soutien-de-donald-trump_6659600_3210.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Mark Carney annonce 2,5 milliards dollars soutien Ukraine lors rencontre Zelensky à Halifax",
+      "source": "Radio-Canada",
+      "summary": "Mark Carney a annoncé samedi 2,5 milliards de dollars canadiens en soutien à l'Ukraine en marge d'une rencontre avec Volodymyr Zelensky à Halifax, avant sa visite chez Trump. Zelensky a aussi échangé avec alliés européens. Cela renforce appui occidental face attaques russes récentes.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2216336/reunion-mark-carney-volodymyr-zelensky-ukraine-russie",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump rencontre Benjamin Netanyahu en Floride sur deuxième phase cessez-le-feu Gaza",
+      "source": "RTBF",
+      "summary": "Donald Trump reçoit Benjamin Netanyahu ce lundi en Floride pour discuter deuxième phase du cessez-le-feu à Gaza, maintenu depuis deux mois et demi. Négociations critiques portent sur gouvernance transitoire. Succès dépend de consolidation texte américain, impactant stabilité régionale.",
+      "link": "https://www.rtbf.be/article/deuxieme-phase-du-cessez-le-feu-a-gaza-donald-trump-va-rencontrer-benjamin-netanyahu-ce-lundi-en-floride-11653822",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Centrafrique organise scrutin présidentiel sous haute surveillance avec Touadéra favori",
+      "source": "Le Monde",
+      "summary": "La Centrafrique vote ce dimanche pour l'élection présidentielle dans un État fragilisé par groupes armés. Faustin-Archange Touadéra, appuyé par forces russes et rwandaises, est grand favori grâce à modification constitutionnelle de 2023. Résultat influence stabilité régionale.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/28/en-centrafrique-etat-failli-et-menace-par-les-groupes-armes-un-scrutin-presidentiel-sous-haute-surveillance_6659596_3210.html",
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël reconnaît Somaliland provoquant oppositions Afrique et monde musulman",
+      "source": "Liberation",
+      "summary": "Israël a annoncé vendredi 26 décembre la reconnaissance du Somaliland, déclenchant joies locales mais fureurs en Afrique et monde musulman, y compris États-Unis opposés. Cela défie statu quo somalien et risque tensions géopolitiques en Corne de l'Afrique.",
+      "link": "https://www.liberation.fr/international/afrique/le-peuple-du-somaliland-en-plein-reve-apres-sa-reconnaissance-par-israel-lafrique-et-le-monde-musulman-furieux-20251227_G4QLJSQYMVGPVLUQCP2IG6EG6I/",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Gazaouis expriment scepticisme envers Conseil paix Gaza dirigé par Donald Trump",
+      "source": "RFI",
+      "summary": "Les Gazaouis doutent de la mise en place d'un Conseil de paix transitoire de deux ans à Gaza présidé par Donald Trump, malgré cessez-le-feu tenu deux mois et demi. Négociations critiques au Qatar visent consolidation projet américain. Opinion locale influence viabilité plan.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20251228-les-gazaouis-sceptiques-sur-la-mise-en-place-d-un-conseil-de-paix-dirig%C3%A9-par-donald-trump",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Autorités nigérianes confirment frappes américaines jeudi visent djihadistes EI et Lakurawa",
+      "source": "RTBF",
+      "summary": "Les frappes américaines du jeudi au Nigeria ont ciblé djihadistes de l'État islamique et du groupe Lakurawa au Sahel, selon autorités nigérianes. EI fournit armes aux bandits locaux. Opérations freinent expansion terroriste en Afrique de l'Ouest.",
+      "link": "https://www.rtbf.be/article/les-frappes-americaines-jeudi-au-nigeria-ont-vise-des-djihadistes-de-l-etat-islamique-et-du-lakurawa-annoncent-les-autorites-nigerianes-11653831",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 212,
+    "categoryCounts": {
+      "politics": 3,
+      "economy": 1,
+      "conflict": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "africa": 2,
+      "middle-east": 2
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2025-12-28",
+  "summary": "Volodymyr Zelensky ha incontrato oggi Donald Trump a Mar-a-Lago, in Florida, presentando un piano in 20 punti per porre fine alla guerra in Ucraina dopo quasi quattro anni di conflitto. La proposta mira a garantire la sovranità ucraina, ma Mosca l'ha respinta categoricamente, proprio mentre un attacco russo su Kiev ha causato un morto e decine di feriti. Questo dialogo bilaterale, che precede i negoziati multilaterali, evidenzia le divisioni: da un lato Trump spinge per un accordo rapido, dall'altro i leader UE insistono sull'unità europea per evitare concessioni alla Russia, con implicazioni decisive per la sicurezza del continente e i costi energetici per milioni di europei.\n\nNel frattempo, le tensioni nel Pacifico si intensificano: la Cina ha sanzionato 20 aziende della difesa statunitense e 10 dirigenti, congelando i loro beni e vietando l'ingresso nel paese per le vendite di armi a Taiwan. Questa mossa escalatoria colpisce le catene di approvvigionamento globali e le relazioni bilaterali USA-Cina, mentre in Europa l'Italia arresta nove persone, tra cui Mohammad Hannoun, presidente dei palestinesi in Italia, per aver finanziato Hamas con 7 milioni di euro attraverso reti estere. La premier Meloni ha espresso soddisfazione, sottolineando l'impatto sulla sicurezza nazionale in un contesto di crescenti minacce terroristiche.\n\nGuardando al futuro, le transazioni globali di fusioni e acquisizioni raggiungeranno i 4500 miliardi di dollari nel 2025, trainate da 68 megadeal superiori ai 10 miliardi ciascuno, il primo picco dal 2021. Questo boom, che gonfia le commissioni delle banche d'investimento ai secondi livelli storici, segnala una ripresa economica e ridisegna settori chiave, dalla tecnologia all'industria, offrendo opportunità ma anche rischi di concentrazione del potere economico per i consumatori di tutto il mondo.",
+  "headlines": [
+    {
+      "title": "Zelensky incontra Trump a Mar-a-Lago con piano 20 punti per pace in Ucraina",
+      "source": "AGI",
+      "summary": "Volodymyr Zelensky discute oggi con Donald Trump a Mar-a-Lago una proposta in 20 punti per terminare il conflitto con la Russia dopo quasi quattro anni. Mosca non approva, precede attacco russo su Kiev con un morto e decine di feriti. Leader UE spingono per unità e sovranità ucraina. Decisivo per negoziati futuri.",
+      "link": "https://www.agi.it/economia/news/2025-12-28/zelensky-trump-pace-ucraina-34828133/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Cina sanziona 20 aziende difesa USA e 10 dirigenti per vendite armi a Taiwan",
+      "source": "Euronews Italiano",
+      "summary": "Il ministero degli Esteri cinese congela beni di 20 società americane della difesa e vieta accesso a 10 dirigenti per forniture armi a Taiwan. Misura escalata tensioni geopolitiche USA-Cina. Colpisce catene approvvigionamento e relazioni bilaterali nel Pacifico.",
+      "link": "http://it.euronews.com/2025/12/27/la-cina-sanziona-20-aziende-americane-della-difesa-e-10-dirigenti-per-la-vendita-di-armi-a",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Camera italiana approva martedì legge di bilancio 2026 con voto definitivo",
+      "source": "Il Sole 24 Ore",
+      "summary": "La Camera conclude martedì la seconda lettura blindata della legge di bilancio 2026 in quattro giorni. Manovra passa con esito previsto. Definisce spese pubbliche, tasse e investimenti per l'anno prossimo, influenzando economia e finanze nazionali.",
+      "link": "https://www.ilsole24ore.com/art/legge-bilancio-sprint-finale-martedi-via-libera-definitivo-camera-AIIoFAb",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Polizia italiana arresta 9 persone per finanziamento 7 milioni di euro a Hamas",
+      "source": "TGCOM24",
+      "summary": "Indagine porta all'arresto di Mohammad Hannoun, presidente Palestinesi in Italia, e altri 8 per devolvere 7 milioni di euro a Hamas tramite rete estera. Meloni esprime soddisfazione. Colpisce finanziamento terrorismo e sicurezza nazionale europea.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/sette-milioni-di-finanziamenti-ad-hamas-9-arresti-_107388929-202502k.shtml",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Transazioni globali raggiungono 4500 miliardi dollari nel 2025 con 68 megadeal",
+      "source": "AGI",
+      "summary": "Operazioni M&A mondiali totalizzano 4500 miliardi di dollari, primo picco dal 2021 grazie a 68 transazioni oltre 10 miliardi ciascuna in media e industria. Commissioni banche d'investimento al secondo livello storico. Segnala ripresa fusioni e ridisegna settori economici.",
+      "link": "https://www.agi.it/economia/news/2025-12-27/boom-transazioni-globali-raggiunti-4500-dollari-34811566/",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 256,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "asia-pacific": 1,
+      "global": 1
+    }
+  }
+}

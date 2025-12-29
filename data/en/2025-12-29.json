@@ -1,0 +1,86 @@
+{
+  "date": "2025-12-29",
+  "summary": "Ukrainian President Volodymyr Zelensky met with U.S. President-elect Donald Trump at Mar-a-Lago on Monday, presenting a revised 20-point peace plan for the war with Russia amid widespread doubts about Moscow's willingness to negotiate. The high-stakes talks, the first since Trump's election victory, could reshape U.S. policy toward the conflict, potentially accelerating diplomacy or highlighting irreconcilable differences as Kyiv seeks security guarantees and Russia demands territorial concessions. This comes as both sides trade accusations of bad faith, with the plan building on prior proposals that stalled over issues like Crimea's status.\n\nTensions rippled across strategic waterways elsewhere: NATO launched its first coordinated response to suspected sabotage after another undersea cable was severed in the Baltic Sea, deploying ships and aircraft to safeguard Europe's critical data and energy links potentially targeted by hybrid actors like Russia. Beijing, meanwhile, kicked off massive 'Justice Mission 2025' military drills around Taiwan, imposing 10-hour restrictions across five sea and air zones and prompting Taipei to scramble jets in a show of force that heightens risks to global trade routes through the strait. In Gaza, Israel opened a military zone to allow thousands of displaced Palestinians to return north on foot following a hostage release, a tentative step amid fragile ceasefire talks.\n\nLooking ahead, a SpaceX Falcon 9 successfully launched NASA's Crew-10 from Florida, carrying astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the ISS. Their mission will enable the return of stranded crew members Butch Wilmore and Suni Williams after nine months, restoring full operations and underscoring the reliability of international space cooperation even amid earthly conflicts.",
+  "headlines": [
+    {
+      "title": "Zelensky Meets Trump at Mar-a-Lago to Present Revised Ukraine-Russia Peace Plan",
+      "source": "New York Times World",
+      "summary": "Ukraine President Volodymyr Zelensky visits Mar-a-Lago with a 20-point peace proposal amid doubts about Russia's commitment. The meeting influences U.S. policy on the war, potentially accelerating negotiations or exposing impasses.",
+      "link": "https://www.nytimes.com/2025/12/28/world/europe/zelensky-trump-ukraine-russia-talks.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO deploys assets after another deep-sea cable severs in the Baltic Sea, targeting suspected hybrid threats to critical infrastructure. The response protects undersea networks vital for Europe, with investigations identifying perpetrators next.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Train Derails Near Nizanda in Oaxaca Mexico Killing 13 and Injuring 90",
+      "source": "Deutsche Welle",
+      "summary": "A passenger train carrying 250 people partially derails on a bend, killing 13 and injuring over 90, some critically. Mexico's Navy and President Sheinbaum oversee the probe; the incident highlights rail safety needs in southern Mexico.",
+      "link": "https://www.dw.com/en/mexico-at-least-13-killed-in-oaxaca-train-derailment/a-75325471?maca=en-rss-en-top-1022-rdf",
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Fire Kills 16 and Injures 3 at Indonesia Retirement Home in Manado",
+      "source": "Al Jazeera English",
+      "summary": "A blaze at Werdha Damai retirement home claims 16 lives and wounds 3 elderly residents. Police investigate the cause; the tragedy underscores fire safety gaps in Indonesian care facilities serving vulnerable populations.",
+      "link": "https://www.aljazeera.com/news/2025/12/29/fire-at-indonesia-retirement-home-kills-16-people?traffic_source=rss",
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "China Conducts Military Drills Around Taiwan Imposing 10-Hour Sea and Air Restrictions",
+      "source": "Al Jazeera English",
+      "summary": "Beijing deploys army, navy, air and artillery for Justice Mission 2025 exercises in five zones starting 00:00 GMT Tuesday. Taiwan scrambles defenses; the drills signal escalation risks in the Taiwan Strait affecting global trade routes.",
+      "link": "https://www.aljazeera.com/news/2025/12/29/china-to-stage-drills-around-taiwan-in-stern-warning-to-external-forces?traffic_source=rss",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 from Florida to Retrieve Stuck ISS Astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi and Russia's Kirill Peskov to the ISS, enabling return of Butch Wilmore and Suni Williams after nine months. Routine rotation restores full crew capacity.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Cross Zone Back to Northern Gaza",
+      "source": "Wall Street Journal World",
+      "summary": "After a hostage release breakthrough, Israel opens a military zone for Gazans to return north on foot. Thousands affected by displacement benefit; the move advances ceasefire talks amid ongoing conflict in the enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 467,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 2,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "americas": 1,
+      "asia-pacific": 2,
+      "global": 1,
+      "middle-east": 1
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "date": "2025-12-29",
+  "summary": "La Chine a lancé ce lundi des exercices militaires incluant des tirs à munitions réelles autour de Taïwan, forçant l'île à déployer ses forces en alerte maximale. Ces manœuvres, les plus importantes depuis celles d'octobre dernier suite à un discours indépendantiste de la présidente taïwanaise Lai Ching-te, répondent directement aux récentes ventes d'armes américaines à Taïwan pour 2 milliards de dollars. Pékin qualifie ces actions d'« avertissement sévère » contre les « séparatistes », tandis que Washington et Tokyo y voient un risque d'escalade en mer de Chine méridionale, où les routes maritimes vitales pour le commerce mondial transitent.\n\nPendant ce temps, Donald Trump multiplie les rencontres diplomatiques à Mar-a-Lago : d'abord avec Volodymyr Zelensky à Palm Beach, où les deux leaders se sont serré la main sans avancer vers une paix en Ukraine après près de trois ans de guerre, les discussions portant sur des garanties sécuritaires pour Kiev face à Moscou. Trump a ensuite reçu Benyamin Nétanyahou pour discuter de la trêve fragile à Gaza, au milieu de négociations en Égypte influencées par les pressions qatariennes et américaines. Ces tête-à-tête surviennent alors qu'Emmanuel Macron convoque les alliés de l'Ukraine à Paris début janvier pour coordonner un soutien occidental unifié.\n\nÀ l'horizon, l'Iran a lancé trois satellites équipés d'intelligence artificielle depuis la Russie, renforçant ses capacités de surveillance et alimentant les craintes occidentales sur son programme nucléaire balistique. Téhéran vante ces technologies pour la « reconnaissance », mais les experts voient un pas vers des missiles plus précis, signalant une alliance russo-iranienne qui pourrait compliquer les efforts de désescalade mondiale en 2025.",
+  "headlines": [
+    {
+      "title": "La Chine lance exercices militaires avec tirs réels autour de Taïwan",
+      "source": "Radio-Canada",
+      "summary": "La Chine a annoncé le début d'exercices incluant des tirs à munitions réelles autour de Taïwan, provoquant un déploiement de l'armée taïwanaise en réponse. Ces manœuvres suivent des tensions récentes et des ventes d'armes américaines, augmentant les risques d'escalade régionale.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2216513/chine-exercices-militaires-taiwan",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Un train déraille au Mexique et tue 13 personnes sur 250 passagers",
+      "source": "20 Minutes",
+      "summary": "La locomotive d'un train transportant 250 personnes a déraillé au Mexique, causant 13 morts et 98 blessés. Les autorités enquêtent sur les causes, tandis que les secours gèrent les victimes. Cet accident souligne les failles du réseau ferroviaire mexicain.",
+      "link": "https://www.20minutes.fr/monde/4193509-20251229-mexique-moins-13-morts-deraillement-train-mexique?at_medium=display&at_campaign=149",
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump et Volodymyr Zelensky se rencontrent sans avancer la paix Ukraine-Russie",
+      "source": "Le Monde",
+      "summary": "Donald Trump et Volodymyr Zelensky se sont félicités mutuellement après leur déjeuner à Palm Beach, mais un accord de paix avec la Russie reste lointain après près de quatre ans de guerre. Les discussions portent sur des garanties sécuritaires pour Kiev.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/29/apres-la-rencontre-entre-donald-trump-et-volodymyr-zelensky-le-chemin-de-la-paix-entre-la-russie-et-l-ukraine-reste-incertain_6659697_3210.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Emmanuel Macron convoque réunion des alliés de Kiev à Paris début janvier",
+      "source": "France 24",
+      "summary": "Emmanuel Macron a annoncé une réunion des alliés de l'Ukraine à Paris début janvier pour discuter des garanties de sécurité dans un éventuel accord de paix avec la Russie, après la rencontre Trump-Zelensky. Cela vise à coordonner le soutien occidental.",
+      "link": "https://www.france24.com/fr/europe/20251229-guerre-en-ukraine-en-direct-macron-annonce-r%C3%A9union-alli%C3%A9s-de-kiev-d%C3%A9but-janvier-paris-europe-zelensky-trump-poutine-russie-accord",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump reçoit Benyamin Nétanyahou pour discuter trêve à Gaza",
+      "source": "Radio-Canada",
+      "summary": "Donald Trump accueille Benyamin Nétanyahou à Mar-a-Lago en Floride pour aborder l'avenir de la trêve à Gaza. Cette rencontre intervient dans un contexte de négociations fragiles, influençant les efforts de stabilisation au Proche-Orient.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2216515/trump-netanyahu-treve-gaza",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "L'Iran lance trois satellites dotés d'IA depuis la Russie",
+      "source": "20 Minutes",
+      "summary": "L'Iran a lancé trois satellites, dont un équipé d'intelligence artificielle, depuis la Russie, suscitant des craintes occidentales sur l'avancement de son programme nucléaire. Ces technologies améliorent les capacités de surveillance de Téhéran.",
+      "link": "https://www.20minutes.fr/monde/russie/4193508-20251229-depuis-russie-iran-lance-trois-satellites-dont-dote-ia?at_medium=display&at_campaign=149",
+      "category": "science",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 212,
+    "categoryCounts": {
+      "conflict": 1,
+      "environment": 1,
+      "politics": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "americas": 1,
+      "europe": 2,
+      "middle-east": 2
+    }
+  }
+}

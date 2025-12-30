@@ -1,0 +1,75 @@
+{
+  "date": "2025-12-30",
+  "summary": "La Chine a intensifié ses manœuvres militaires autour de Taïwan avec un déploiement massif : 130 avions et 22 navires détectés en 24 heures par le ministère taïwanais de la Défense, simulant un blocus des ports de l'île. Pékin justifie cette opération comme une réponse à un exercice militaire taïwanais récent, marquant l'une des plus grandes démonstrations de force depuis les précédentes incursions en 2022. Cela survient dans un contexte de tensions croissantes dans le détroit de Taïwan, où les visites officielles américaines et les ventes d'armes à Taipei attisent les craintes de Pékin d'une indépendance formelle, risquant une escalade qui perturberait les chaînes d'approvisionnement mondiales en semi-conducteurs.\n\nPendant ce temps, Donald Trump, président américain élu, a critiqué l'attaque de drones ukrainiens contre la résidence de Vladimir Poutine à Moscou, la qualifiant de 'moment délicat' qui complique les négociations de paix. Kiev dément toute implication tandis que Moscou promet une riposte et durcit sa position. Cela fait suite à des divergences entre Européens et Américains sur les garanties de sécurité pour l'Ukraine : Volodymyr Zelensky a approuvé 90% du plan américain en vingt points, mais les Européens hésitent, prolongeant potentiellement le conflit. En parallèle, Trump a reçu Benyamin Nétanyahou à Mar-a-Lago en Floride, unissant leurs voix pour presser le Hamas à respecter ses obligations à Gaza et menacer l'Iran sur son programme nucléaire, fragilisant la trêve fragile au Moyen-Orient.\n\nÀ l'horizon, le réseau scientifique World Weather Attribution alerte sur trente catastrophes extrêmes en 2025 – inondations en Europe, canicules en Asie – majoritairement liées au réchauffement climatique, appelant les gouvernements à durcir leurs politiques d'ici 2026. En Corée du Nord, Kim Jong-un a dévoilé de nouveaux lance-roquettes multiples, accentuant la pression sur Séoul et Washington dans une Asie du Nord-Est déjà tendue, signalant des risques d'instabilité persistants.",
+  "headlines": [
+    {
+      "title": "Le réseau World Weather Attribution étudie trente catastrophes extrêmes en 2025 liées au réchauffement",
+      "source": "Le Monde",
+      "summary": "Le réseau scientifique World Weather Attribution a analysé une trentaine de catastrophes majeures en 2025, dont la majorité porte l'empreinte du réchauffement climatique. Cette étude met en lumière l'intensification des événements extrêmes, incitant les gouvernements à renforcer leurs politiques climatiques d'ici 2026.",
+      "link": "https://www.lemonde.fr/planete/article/2025/12/30/climat-en-2025-une-succession-d-evenements-extremes-marques-par-l-empreinte-du-rechauffement_6659791_3244.html",
+      "category": "environment",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump critique l'attaque de drones ukrainiens contre la résidence de Vladimir Poutine",
+      "source": "Le Monde",
+      "summary": "Donald Trump dénonce l'attaque attribuée à l'Ukraine contre la résidence de Poutine, qualifiant le moment de délicat. Moscou annonce une riposte et révise sa position dans les négociations de paix, tandis que Kiev dément. Cela complique les efforts diplomatiques pour un cessez-le-feu.",
+      "link": "https://www.lemonde.fr/international/live/2025/12/29/en-direct-guerre-en-ukraine-donald-trump-critique-l-attaque-contre-la-residence-de-vladimir-poutine_6659606_3210.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump et Benyamin Nétanyahou se réunissent en Floride pour presser le Hamas et l'Iran",
+      "source": "Le Monde",
+      "summary": "Donald Trump accueille Benyamin Nétanyahou à Mar-a-Lago en Floride, affichant unité malgré désaccords passés sur le plan de paix à Gaza. Ils avertissent le Hamas de respecter ses obligations et menacent l'Iran sur son programme nucléaire, fragilisant la trêve actuelle.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/30/donald-trump-met-ses-desaccords-avec-benyamin-netanyahou-de-cote-et-avertit-le-hamas-et-l-iran_6659798_3210.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "La Chine déploie 130 avions et 22 navires autour de Taïwan pour exercices de blocus",
+      "source": "Le Monde",
+      "summary": "Le ministère taïwanais détecte 130 avions et 22 navires chinois autour de l'île en 24 heures, incluant une simulation de blocus des ports. Pékin répond à un exercice taïwanais par cet avertissement sévère, augmentant les tensions dans le détroit de Taïwan.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/30/la-chine-poursuit-ses-exercices-militaires-autour-de-taiwan-dont-une-simulation-de-blocus-des-ports-de-l-ile_6659780_3210.html",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Européens et Américains divergent sur les garanties de sécurité pour l'Ukraine",
+      "source": "RTBF",
+      "summary": "Volodymyr Zelensky approuve 90% du plan de paix américain en vingt points, mais Européens et Américains diffèrent sur les garanties de sécurité pour Kiev. Ces divergences compliquent les négociations avec la Russie, risquant de prolonger le conflit.",
+      "link": "https://www.rtbf.be/article/garanties-de-securite-pour-l-ukraine-europeens-et-americains-n-ont-pas-la-meme-conception-11654385",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Kim Jong-un dévoile de nouveaux lance-roquettes multiples en Corée du Nord",
+      "source": "20 Minutes",
+      "summary": "Kim Jong-un présente de nouveaux lance-roquettes, accentuant la pression sur les États-Unis et la Corée du Sud. Alliée de la Russie, Pyongyang défie l'Occident avec son arsenal nucléaire, ce qui pourrait escalader les tensions en Asie du Nord-Est.",
+      "link": "https://www.20minutes.fr/monde/coree_du_nord/4193654-20251230-coree-nord-kim-jong-fait-monter-pression-nouveaux-lance-roquettes?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 206,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 3,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "global": 1,
+      "europe": 2,
+      "americas": 1,
+      "asia-pacific": 2
+    }
+  }
+}

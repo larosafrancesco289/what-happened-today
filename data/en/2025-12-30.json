@@ -1,0 +1,95 @@
+{
+  "date": "2025-12-30",
+  "summary": "China's People's Liberation Army pressed on with the second day of its 'Justice Mission 2025' live-fire drills encircling Taiwan, deploying warships, jets, and missiles in a show of force to deter external backing for the island. Taiwan scrambled over 50 aircraft and 20 vessels in response, while the U.S. and Japan condemned the maneuvers as destabilizing. This escalation follows Beijing's fury over Taiwan's new president Lai Ching-te's independence-leaning rhetoric, threatening vital sea lanes that carry half of global container shipping and risking a broader confrontation in the Asia-Pacific.\n\nMeanwhile, Middle East fissures deepened as Saudi jets struck Yemen's Mukalla port after a UAE weapons shipment reached separatist forces, straining the once-close Riyadh-Abu Dhabi alliance amid the grinding Yemen war and imperiling Red Sea trade. In Africa, parallel horrors unfolded: the UN branded Sudan's El-Fasher the 'epicentre of human suffering' post-RSF paramilitary capture, with civilians lacking water amid famine threatening millions; Rwanda-backed M23 rebels overran Congo's Goma, shelling the city and displacing over a million into already strained aid hubs, fueling regional refugee waves.\n\nLooking ahead, the U.S. dangled a 15-year security guarantee to Ukraine as part of a prospective Russia peace deal, which President Zelenskyy said Kyiv and allies are scrutinizing—a potential stabilizer for Europe if Moscow bites, reshaping NATO's eastern flank. NATO, meanwhile, kicked off its first coordinated patrols against suspected Baltic Sea cable sabotage, signaling heightened vigilance against hybrid threats from Russia.",
+  "headlines": [
+    {
+      "title": "China’s PLA Conducts Second Day of Live-Fire Drills Around Taiwan",
+      "source": "Associated Press",
+      "summary": "China’s People’s Liberation Army holds the second day of large-scale drills dubbed “Justice Mission 2025” near Taiwan to deter external support for the island. Taiwan scrambles jets; tensions rise with U.S. and Japan. Escalation threatens regional stability and trade routes.",
+      "link": "https://apnews.com/article/china-military-drills-taiwan-us-japan-cd6600c23c206385822c733dc2016217",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Saudi Arabia Bombs Yemen’s Mukalla Port Over UAE Weapons Shipment",
+      "source": "Associated Press",
+      "summary": "Saudi jets strike Mukalla after a weapons shipment from UAE reaches separatist Southern Transitional Council forces. Escalation strains Saudi-UAE ties amid Yemen conflict. Further strikes possible, impacting Red Sea shipping and humanitarian aid.",
+      "link": "https://apnews.com/article/saudi-arabia-bomb-yemen-mukalla-weapons-uae-9fc56e4678a12f56d61b1ecf855d4a4e",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. Offers Ukraine 15-Year Security Guarantee in Peace Plan",
+      "source": "NPR News",
+      "summary": "President Zelenskyy announces U.S. proposal for 15-year security guarantees to Ukraine as part of Russia peace plan. Ukraine and allies review terms amid ongoing war. Deal could stabilize Europe if Russia agrees, affecting NATO dynamics.",
+      "link": "https://www.npr.org/2025/12/29/g-s1-103906/ukraine-russia-trump-zelenskyy-security",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "UN Declares Sudan’s El-Fasher Epicentre of Human Suffering After RSF Capture",
+      "source": "AllAfrica",
+      "summary": "UN aid coordinator visits El-Fasher, finds civilians without water, sanitation amid famine after RSF paramilitary takeover. Thousands affected in city. Highlights urgent need for aid access, worsening Sudan’s humanitarian crisis displacing millions.",
+      "link": "https://allafrica.com/stories/202512290457.html",
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Stuck Astronauts from ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA’s Anne McClain, Nichole Ayers, Japan’s Takuya Onishi and Russia’s Kirill Peskov to ISS from Florida. Enables return of Butch Wilmore and Suni Williams after nine months. Ensures continuous station operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO coordinates response after deep-sea cable severance in Baltic Sea amid suspected sabotage campaign. Critical infrastructure protected; members boost patrols. Raises hybrid threat concerns from Russia, impacting transatlantic communications.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo’s Goma Overrunning Troops",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels advance into Goma, firing shells and displacing over one million people into the aid hub city. Congolese forces retreat; U.N. warns of crisis. Threatens eastern Congo stability and regional refugee flows.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Recognizes Somaliland as Sovereign State Opening Diplomatic Ties",
+      "source": "The Guardian",
+      "summary": "Israel signs agreement with Somaliland for full diplomatic relations, embassies and ambassadors after 34 years of independence bid. African Union criticizes move. Shifts Horn of Africa geopolitics, challenging Somalia’s claims and aiding Israel’s regional outreach.",
+      "link": "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 480,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 2,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "middle-east": 2,
+      "europe": 2,
+      "africa": 2,
+      "global": 1
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "date": "2025-12-31",
+  "summary": "L'ANSA ha chiuso il 2025 elencando le 10 notizie più lette dai suoi lettori: al primo posto la morte di Papa Francesco, seguita dall'attacco Usa all'Iran e dal miracolo di Lourdes, con un mix di eventi globali, religiosi e cronaca nera come l'omicidio di un influencer. Questa classifica riflette gli interessi degli italiani in un anno segnato da tensioni geopolitiche – dopo l'escalation mediorientale – e dal bisogno di speranza spirituale, mostrando come la fede e la sicurezza nazionale abbiano prevalso su scandali locali. Per milioni di famiglie, questi eventi hanno intrecciato quotidiano e mondo esterno, amplificando dibattiti su pace e miracoli.\n\nNel frattempo, l'economia italiana prepara rincari e sollievi: dal 1 gennaio 2026, le accise sul gasolio salgono di 4,05 centesimi al litro, gravando su trasporti e automobilisti diesel – un costo che potrebbe riflettersi su prezzi alimentari e merci, dopo anni di volatilità energetica. Arera bilancia con un calo del 2,7% sulle bollette luce per clienti vulnerabili nel primo trimestre, alleggerendo famiglie disagiate post-rincari pandemici. Questo segue il ritardo del golden power governativo su banche e assicurazioni, in attesa del parere Ue, per vigilare su acquisizioni straniere e tutelare la sicurezza finanziaria in un contesto di opa crescenti.\n\nGuardando al futuro, George Clooney, moglie Amal e i due figli ottengono la cittadinanza francese per sfuggire ai paparazzi – in Francia, la legge protegge la privacy dei minori, offrendo rifugio alla famiglia hollywoodiana. Intanto, la vigilia della finale di Stranger Things vede polemiche tra i fan per il coming out del personaggio Will, con 500 sale cinematografiche piene: un segnale di come temi Lgbtq+ dividano il pubblico globale, anticipando dibattiti culturali nel 2026.",
+  "headlines": [
+    {
+      "title": "George Clooney con Amal e figli ottiene cittadinanza francese per proteggere privacy familiare",
+      "source": "ANSA",
+      "summary": "George Clooney, moglie Amal e i due figli acquisiscono la cittadinanza francese motivati dalla maggiore privacy: in Francia non fotografano i bambini. La famiglia sceglie il Paese per sfuggire ai paparazzi, garantendo tranquillità ai minori. La decisione interessa per il contrasto con la fama hollywoodiana.",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2025/12/29/george-clooney-con-amal-e-i-figli-diventano-francesi_04b4a787-0996-4461-8e1c-22bced3dfc16.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "ANSA pubblica le 10 notizie più lette del 2025 sul proprio sito",
+      "source": "ANSA",
+      "summary": "ANSA.it elenca le top 10 storie del 2025, dalla morte di Papa Francesco all'attacco Usa all'Iran, dal miracolo di Lourdes ai fatti di cronaca nera. La classifica riflette interessi nazionali su eventi globali e religiosi. I lettori accedono ai dettagli per rivivere l'anno.",
+      "link": "https://www.ansa.it/sito/notizie/speciali/2025/12/26/ecco-le-notizie-piu-lette-nel-2025-su-ansa.it_6ad415e0-8c23-4370-bac1-d21cfe9ac17c.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Fan contestano coming out di Will nella vigilia finale di Stranger Things",
+      "source": "ANSA",
+      "summary": "Nella vigilia della finale di Stranger Things, i fan criticano il coming out del personaggio Will, portando a polemiche. Le sale con sipario raggiungono quota 500. La serie Netflix conclude la stagione tra controversie che dividono il pubblico sui temi LGBTQ+.",
+      "link": "https://www.ansa.it/sito/notizie/cultura/2025/12/30/vigilia-di-finale-tra-le-polemiche-per-stranger-things_ab241558-6560-4203-8c72-c4ae7ea93d6d.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo aumenta accise sul gasolio di 4,05 centesimi al litro da gennaio",
+      "source": "Il Sole 24 Ore",
+      "summary": "Dal 1 gennaio 2026 salgono le accise sul gasolio di 4,05 centesimi/litro per gli automobilisti diesel, mentre la benzina cala al minimo dal 2021. Arera comunica il rincaro che incide sui costi di trasporto. Gli utenti preparano a spese maggiori per il carburante pesante.",
+      "link": "https://www.ilsole24ore.com/art/da-gennaio-salgono-accise-gasolio-calo-benzina-minimo-2021-AIeDutd",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo ritarda golden power su banche e assicurazioni in attesa parere UE",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il golden power su banche e assicurazioni non scatta prima del parere UE, con criteri che includono sicurezza economica e finanziaria. Il governo valuta opa e acquisizioni per tutelare il settore. La norma rafforza controlli su operazioni strategiche nel credito.",
+      "link": "https://www.ilsole24ore.com/art/golden-power-banche-e-assicurazioni-non-scatta-prima-parere-ue-AIYrrpd",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Arera riduce bollette luce del 2,7% per clienti vulnerabili nel primo trimestre 2026",
+      "source": "Il Sole 24 Ore",
+      "summary": "Arera annuncia calo del 2,7% sulle bollette luce per clienti vulnerabili in Maggior Tutela nel primo trimestre 2026. La misura alleggerisce costi per famiglie disagiate dopo rincari passati. I beneficiari riceveranno tariffe inferiori da gennaio.",
+      "link": "https://www.ilsole24ore.com/art/bollette-luce-calo-27percento-i-vulnerabili-i-trimestre-2026-AIRYWkd",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 252,
+    "categoryCounts": {
+      "politics": 6
+    },
+    "regionCounts": {
+      "global": 6
+    }
+  }
+}

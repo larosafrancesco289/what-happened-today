@@ -1,0 +1,97 @@
+{
+  "date": "2025-12-31",
+  "summary": "In West Africa, Guinea's junta leader Mamady Doumbouya has claimed victory in the presidential election, provisional results show, three years after his 2021 coup toppled the elected government. Critics decry the vote as held in a stifled political environment, with opposition figures sidelined—a pattern that entrenches military rule amid fragile transitions from juntas across the region. This development mirrors neighboring Republic of Congo, where President Denis Sassou Nguesso's ruling party yesterday endorsed the 82-year-old strongman for re-election in March 2026, potentially extending his four-decade dominance and testing the country's stability.\n\nMeanwhile, U.S. federal courts delivered setbacks to Trump administration initiatives. A judge temporarily blocked the end of temporary protected status for 300 South Sudanese nationals, safeguarding their work and residency rights past January 2026 amid heated immigration debates. Another mandated pursuit of funding for the Consumer Financial Protection Bureau, ensuring the consumer watchdog endures legal battles over its role in curbing financial abuses. This comes as the administration withheld child care funds from Minnesota over rampant fraud schemes, hitting families and providers while pressuring reforms—a reminder of tensions between federal oversight and state management.\n\nLooking forward, CDC data signals worsening flu season nationwide, with cases surging faster than recent years and hospitalizations climbing; experts urge vaccinations to shield millions through winter. In Iowa, voters head to polls for a special state senate election in Des Moines suburbs, where Republican Lucas Loftin challenges Democrat Renee Hardman—a GOP win would restore their supermajority, steering policy into 2026.",
+  "headlines": [
+    {
+      "title": "Federal Judge Halts Trump Administration's Revocation of TPS for 300 South Sudanese Immigrants",
+      "source": "Associated Press",
+      "summary": "Federal judge temporarily blocks Trump’s plan to end temporary protected status for about 300 South Sudanese nationals in the US, effective January 6, 2026. Court will decide legality soon. This preserves their legal work and residency rights amid immigration debates.",
+      "link": "https://apnews.com/article/south-sudan-immigrants-temporary-protected-status-trump-e94664d917f8d5c8c57e54070e2dce34",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Environmental Journalist Tatiana Schlossberg Dies at Age 35",
+      "source": "Associated Press",
+      "summary": "Tatiana Schlossberg, granddaughter of President John F. Kennedy and environmental journalist, dies at 35. She leaves family including mother Caroline Kennedy. Her death marks loss in journalism and Kennedy legacy, with no cause disclosed.",
+      "link": "https://apnews.com/article/tatiana-schlossberg-jfk-dies-1fa8044f7014c34edfa835d3dab899e9",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Republicans Aim to Flip Iowa State Senate Seat in Special Election",
+      "source": "Associated Press",
+      "summary": "Iowa voters cast ballots in special election for state Senate seat in Des Moines suburbs, pitting Republican Lucas Loftin against Democrat Renee Hardman. Win restores GOP supermajority. Outcome affects state legislative control into 2026.",
+      "link": "https://apnews.com/article/iowa-special-election-state-senate-supermajority-32ecda723de7a58d0da7d1d701dbc980",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump Administration Freezes Child Care Funds to Minnesota Over Fraud Schemes",
+      "source": "NPR News",
+      "summary": "Trump administration withholds child care funding from Minnesota following multiple fraud schemes. Families and providers lose access to federal aid. Action pressures state reforms and highlights national concerns over program integrity.",
+      "link": "https://www.npr.org/2025/12/30/g-s1-104049/trump-minnesota-child-care-funding-freeze-fraud-schemes",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "CDC Data Reveals Surging Flu Cases Nationwide with Increases Expected",
+      "source": "NPR News",
+      "summary": "New CDC data shows flu cases spreading faster than prior years, affecting millions across US. Rates will worsen soon. Public faces higher hospitalization risks; vaccination and precautions gain urgency for winter health.",
+      "link": "https://www.npr.org/sections/shots-health-news/2025/12/30/nx-s1-5661508/flu-cdc-health",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Federal Judge Orders Trump Administration to Pursue CFPB Funding",
+      "source": "NPR News",
+      "summary": "Judge mandates Trump administration continue seeking funds for Consumer Financial Protection Bureau amid ongoing legal battle. Agency protects consumers from financial abuses. Ruling sustains watchdog operations critical to US economic oversight.",
+      "link": "https://www.npr.org/2025/12/30/nx-s1-5661581/cfpb-funding-order",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Guinea Junta Leader Mamady Doumbouya Wins Presidential Election",
+      "source": "France 24",
+      "summary": "Coup leader Mamady Doumbouya secures presidency in provisional results three years after overthrowing government. Critics note controlled political environment. Victory stabilizes junta rule, influencing West African transition from military governance.",
+      "link": "https://www.france24.com/en/africa/20251231-guinea-coup-leader-doumbouya-elected-president",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Congo President Denis Sassou Nguesso Seeks Re-election in March 2026",
+      "source": "France 24",
+      "summary": "Ruling party backs 82-year-old Denis Sassou Nguesso for another term in March 2026 election. Opposition watches closely amid his decades in power. Race shapes Congo's political stability and regional influence.",
+      "link": "https://www.france24.com/en/africa/20251230-congo-president-sassou-nguesso-seeks-re-election-2026",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Search Teams Resume Hunt for MH370 in Southern Indian Ocean",
+      "source": "France 24",
+      "summary": "Renewed search deploys advanced technology in remote southern Indian Ocean for Malaysia Airlines flight MH370, missing since 2014 with 239 aboard. Effort targets wreckage site. Resolution aids families and aviation safety worldwide.",
+      "link": "https://www.france24.com/en/asia-pacific/20251230-mh370-search-resumes-in-indian-ocean-years-after-plane-disappearance",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 3,
+    "articlesProcessed": 479,
+    "categoryCounts": {
+      "politics": 9
+    },
+    "regionCounts": {
+      "global": 9
+    }
+  }
+}

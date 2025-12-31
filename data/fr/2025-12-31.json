@@ -1,0 +1,70 @@
+{
+  "date": "2025-12-31",
+  "summary": "La Russie a accusé l'Ukraine d'avoir lancé une attaque de drones contre la résidence de Vladimir Poutine, située à 400 km de Moscou, affirmant que des explosions ont visé le Kremlin. Sans preuves documentées, Kiev dénonce une fabrication russe destinée à justifier ses barrages massifs de missiles et drones sur l'infrastructure ukrainienne, alors que les négociations de paix impulsées par les États-Unis peinent à avancer. Cette escalade rhétorique survient dans un conflit qui dure depuis plus de deux ans, où Moscou peine à consolider ses gains territoriaux tandis que Kiev dépend toujours de l'aide occidentale pour survivre aux hivers rigoureux.\n\nPendant ce temps, les États-Unis ont marqué un tournant en frappant par drone un entrepôt de drogue du gang vénézuélien Tren de Aragua dans un port du pays, première opération confirmée sur sol vénézuélien. Cette action, attribuée à la CIA, s'inscrit dans la campagne musclée de Donald Trump contre Nicolas Maduro, visant à tarir le trafic de stupéfiants vers l'Amérique du Nord et à affaiblir le régime chaviste. En parallèle, Israël a donné jusqu'à mercredi soir aux ONG pour se conformer à de nouvelles règles de conformité, sous peine d'exclusion de Gaza : une mesure du ministère de la Diaspora qui menace l'aide humanitaire vitale pour 2,3 millions de Palestiniens en pleine crise.\n\nEn France, les maires ont rejeté l'appel du général Fabien Mandon à préparer la population au combat, y compris en acceptant des pertes civiles, en vue des municipales de 2026. Optant pour des liens plus civils avec l'armée, ils reflètent un scepticisme public face aux risques de guerre en Europe, signalant des débats électoraux intenses à venir sur la défense nationale.",
+  "headlines": [
+    {
+      "title": "Russie accuse Ukraine d'attaque drones sur résidence de Poutine sans preuves documentées",
+      "source": "Le Monde",
+      "summary": "La Russie affirme qu'Ukraine a attaqué par drones la résidence de Poutine à 400 km de Moscou, mais aucune frappe n'est documentée. Kiev dénonce un mensonge pour justifier des frappes russes intenses et durcir les négociations de paix américaines. Cela révèle les tensions persistantes dans le conflit.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/31/guerre-en-ukraine-apres-la-supposee-attaque-de-drones-contre-la-residence-de-poutine-les-preuves-introuvables_6660131_3210.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis frappent entrepôt de drogue vénézuélien avec drone contre gang Tren de Aragua",
+      "source": "Le Monde",
+      "summary": "La CIA cible un site portuaire au Venezuela pour détruire un stock de drogue du gang Tren de Aragua, première frappe américaine confirmée sur ce sol. Cela marque l'escalade de la campagne de Donald Trump contre Nicolas Maduro, impactant les relations régionales et le trafic de stupéfiants.",
+      "link": "https://www.lemonde.fr/international/article/2025/12/31/au-venezuela-la-cia-cible-un-site-portuaire-nouvelle-escalade-de-la-campagne-de-donald-trump-contre-le-regime-de-nicolas-maduro_6660125_3210.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Maires français rejettent appel armée à préparer population au combat pour municipales 2026",
+      "source": "Le Monde",
+      "summary": "Les maires expriment circonspection face à la demande du général Fabien Mandon d'accepter de perdre des enfants au combat. Ils reconnaissent le risque de guerre mais optent pour d'autres liens armée-population, influençant les stratégies électorales locales avant 2026.",
+      "link": "https://www.lemonde.fr/politique/article/2025/12/31/municipales-2026-les-maires-circonspects-face-a-l-appel-de-l-armee-a-preparer-les-francais-au-combat_6660121_823448.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël impose aux ONG conformité aux règles pour continuer opérations à Gaza d'ici mercredi soir",
+      "source": "RTBF (Belgian)",
+      "summary": "Le ministère israélien de la Diaspora donne jusqu'à mercredi soir aux ONG pour se conformer aux nouvelles règles, sinon exclusion de Gaza. Cela affecte l'aide humanitaire dans la bande, où les organisations refusant risquent d'interrompre leurs activités vitales pour la population.",
+      "link": "https://www.rtbf.be/article/les-ong-ont-jusqu-a-ce-mercredi-soir-pour-se-conformer-aux-nouvelles-regles-imposees-par-israel-sinon-elles-ne-pourront-plus-travailler-a-gaza-11654755",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Équipe de La Roche-en-Ardenne prépare dizaines de menus gastronomiques pour chambres d'hôtes",
+      "source": "RTBF (Belgian)",
+      "summary": "Virgine Bourivain et son équipe préparent ce mardi des dizaines de menus gastronomiques pour les chambres d'hôtes de La Roche-en-Ardenne. Cet événement local booste le tourisme et l'économie régionale en Ardenne belge, attirant visiteurs pour des expériences culinaires haut de gamme.",
+      "link": "https://www.rtbf.be/article/un-menu-gastronomique-pour-les-chambres-d-hotes-de-la-roche-en-ardenne-11654752",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Famille de Brigitte Bardot refuse hommage proposé par Élysée pour ses obsèques à Saint-Tropez",
+      "source": "RTBF (Belgian)",
+      "summary": "L'Élysée propose un hommage national aux obsèques de Brigitte Bardot la semaine prochaine à Saint-Tropez, mais la famille décline. Marine Le Pen assistera, soulignant les divisions politiques autour de la figure iconique du cinéma français et son héritage culturel.",
+      "link": "https://www.rtbf.be/article/obseques-de-brigitte-bardot-l-elysee-a-propose-d-organiser-un-hommage-mais-la-famille-de-l-actrice-n-a-pas-donne-suite-11654789",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 216,
+    "categoryCounts": {
+      "politics": 6
+    },
+    "regionCounts": {
+      "global": 6
+    }
+  }
+}

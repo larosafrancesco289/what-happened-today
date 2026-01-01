@@ -1,0 +1,114 @@
+{
+  "date": "2026-01-01",
+  "summary": "Les tensions sino-taïwanaises ont atteint un nouveau pic après les vastes exercices militaires chinois autour de Taïwan la semaine dernière, auxquels le président Lai Ching-te a répondu fermement le 31 décembre en réaffirmant la souveraineté de l'île et son droit à la défense, avec le soutien des États-Unis. Le Japon et les Philippines ont exprimé leur inquiétude face à la pression de Pékin, un rappel que ces manœuvres, les plus importantes depuis l'élection de Lai en mai 2024, visent à intimider Taipei au moment où les chaînes d'approvisionnement mondiales en semi-conducteurs restent vulnérables. Au même instant, le géant taïwanais TSMC lançait la production industrielle de puces 2 nanomètres, une avancée cruciale pour l'intelligence artificielle qui intensifie la compétition géostratégique sino-américaine, Pékin cherchant à réduire sa dépendance à Taïwan qui produit 90% des puces avancées mondiales.\n\nCette escalade en Asie survient alors qu'Israël impose de nouvelles restrictions à 37 ONG humanitaires, menaçant de les interdire d'accès à Gaza dès jeudi si elles ne se conforment pas d'ici mercredi soir ; l'Union européenne et la Belgique protestent, soulignant comment ces mesures entravent l'aide vitale dans un conflit qui a déjà déplacé 90% de la population gazaouie. Parallèlement, l'ONU alerte sur un record de malnutrition infantile au Darfour du Nord au Soudan, après 990 jours de guerre entre militaires et Forces de soutien rapide, touchant des millions dans ce qui pourrait devenir la pire crise alimentaire mondiale. En Ukraine, Volodymyr Zelensky a dénoncé la 'tromperie' russe dans ses vœux du Nouvel An, face aux revendications de Poutine sur le Donbass, compliquant les futurs pourparlers sous médiation Trump.\n\nÀ l'horizon, des changements politiques marquent 2025-2026 : Jair Bolsonaro retourne en prison le 1er janvier après son hospitalisation, ravivant les divisions brésiliennes ; Chypre assume la présidence tournante de l'UE, priorisant l'Ukraine et l'autonomie en défense ; tandis qu'à New York, Zohran Mamdani prend ses fonctions de maire le 1er janvier 2026, promettant une ville plus abordable face à Trump, et en Hongrie, Viktor Orban est distancé dans les sondages par Peter Magyar.",
+  "headlines": [
+    {
+      "title": "Jair Bolsonaro retourne en prison le 1er janvier après hospitalisation à la clinique DF Star",
+      "source": "RTBF",
+      "summary": "L'ancien président brésilien Jair Bolsonaro, hospitalisé le 24 décembre 2024 à la clinique DF Star, doit réintégrer la prison le 1er janvier 2025 suite à sa condamnation. Cela marque la fin de sa période d'hospitalisation et relance les procédures judiciaires contre lui.",
+      "link": "https://www.rtbf.be/article/bresil-jair-bolsonaro-doit-retourner-en-prison-le-1er-janvier-apres-son-hospitalisation-11655085",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël menace 37 ONG d'interdiction d'accès à Gaza à partir de jeudi",
+      "source": "RTBF",
+      "summary": "Israël impose de nouvelles règles à 37 organisations humanitaires, sous peine d'interdiction d'accès à Gaza dès jeudi si non-conformité d'ici mercredi soir. L'Union européenne et la Belgique protestent contre cette mesure qui entrave l'aide humanitaire.",
+      "link": "https://www.rtbf.be/article/les-ong-ont-jusqu-a-ce-mercredi-soir-pour-se-conformer-aux-nouvelles-regles-imposees-par-israel-sinon-elles-ne-pourront-plus-travailler-a-gaza-11654755",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Le président taïwanais Lai Ching-te défend fermement la souveraineté après exercices chinois",
+      "source": "20 Minutes",
+      "summary": "Après les récents exercices militaires chinois, le président Lai Ching-te réaffirme l'engagement de Taïwan à défendre sa souveraineté, soutenu par les États-Unis. Le Japon et les Philippines expriment aussi leur inquiétude face à la pression de Pékin.",
+      "link": "https://www.20minutes.fr/monde/4193951-20260101-taiwan-apres-exercices-chinois-president-engage-defendre-fermement-souverainete-ile?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Volodymyr Zelensky accuse la Russie de tromperie dans ses vœux du Nouvel An",
+      "source": "20 Minutes",
+      "summary": "Dans ses vœux du Nouvel An, le président ukrainien Zelensky dénonce la tromperie russe face aux revendications d'annexion du Donbass par Poutine. Les pourparlers de paix sous médiation Trump s'annoncent complexes pour l'Ukraine.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4193938-20260101-guerre-ukraine-v-ux-zelensky-charge-tromperie-russie-aller-vers-paix?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'ONU enregistre un record de malnutrition chez les enfants au Darfour du Nord",
+      "source": "RFI",
+      "summary": "L'ONU et l'UNICEF rapportent des niveaux sans précédent de malnutrition infantile au Darfour du Nord au Soudan, après 990 jours de conflit entre militaires et Forces de soutien rapide. Les déplacements et violences aggravent la crise nutritionnelle.",
+      "link": "https://www.rfi.fr/fr/afrique/20260101-soudan-record-de-malnutrition-chez-les-enfants-au-darfour-du-nord",
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Mamadi Doumbouya remporte la présidentielle guinéenne avec 87% des voix",
+      "source": "Liberation",
+      "summary": "Auteur du coup d'État de 2021, le colonel Mamadi Doumbouya obtient près de 87% des suffrages à la présidentielle du 28 décembre en Guinée. Sa victoire écrasante consolide son pouvoir sans campagne électorale intense.",
+      "link": "https://www.liberation.fr/international/afrique/en-guinee-la-victoire-ecrasante-du-taiseux-mamadi-doumbouya-a-la-presidentielle-20251231_DZVK5GZ5FNEXNHXMPVUHPQAQEE/",
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "TSMC lance la production industrielle de puces 2 nanomètres le 31 décembre",
+      "source": "Liberation",
+      "summary": "Le taïwanais TSMC initie la production de puces 2 nanomètres, un avancée clé pour l'IA et enjeu géostratégique. Ces semi-conducteurs boostent les performances technologiques mondiales et intensifient la compétition sino-américaine.",
+      "link": "https://www.liberation.fr/sciences/technologie-innovation/puces-2-nanometres-boost-pour-lia-et-enjeu-geostrategique-la-nouvelle-generation-de-semi-conducteurs-se-pointe-20251231_UAP3RCSXLNENTAAL6FAON2IG4Y/",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Zohran Mamdani prend ses fonctions de maire de New York le 1er janvier",
+      "source": "RFI",
+      "summary": "Zohran Mamdani, élu face à Andrew Cuomo et Curtis Sliwa, est investi maire de New York le 1er janvier 2026 pour 8,5 millions d'habitants. Il promet de rendre la ville plus abordable et défie Donald Trump.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260101-new-york-les-d%C3%A9fis-de-zohran-mamdani-nouvelle-ic%C3%B4ne-de-la-gauche-et-adversaire-de-donald-trump",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Chypre assume la présidence tournante de l'UE et priorise l'Ukraine",
+      "source": "RFI",
+      "summary": "Chypre, avec 1,5 million d'habitants, prend la présidence de l'UE pour six mois à partir du 1er janvier 2026, succédant au Danemark. Elle met l'accent sur l'autonomie européenne en défense et l'Ukraine.",
+      "link": "https://www.rfi.fr/fr/europe/20260101-pr%C3%A9sidence-tournante-de-l-ue-chypre-entend-faire-de-l-ukraine-une-une-priorit%C3%A9-essentielle",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Viktor Orban entame 2026 distancé dans les sondages par Peter Magyar",
+      "source": "RFI",
+      "summary": "Au pouvoir depuis 2010, le Premier ministre hongrois Viktor Orban aborde 2026 affaibli par des scandales sur la protection de la jeunesse et distancé par Peter Magyar dans les sondages, menaçant sa position.",
+      "link": "https://www.rfi.fr/fr/europe/20260101-hongrie-2026-l-ann%C3%A9e-de-tous-les-dangers-pour-viktor-orban",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 218,
+    "categoryCounts": {
+      "politics": 6,
+      "conflict": 2,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 1,
+      "asia-pacific": 1,
+      "europe": 3,
+      "africa": 2,
+      "global": 1
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "date": "2026-01-01",
+  "summary": "Rwanda-backed M23 rebels seized control of Goma on Wednesday, overrunning Congolese troops and plunging the eastern city—sheltering over one million displaced people—into chaos with sporadic gunfire. This dramatic advance escalates a conflict that has already killed tens of thousands since 2021, fueled by mineral riches and longstanding Rwanda-DRC tensions. The fall of this key aid hub threatens UN peacekeeping operations and risks a broader humanitarian catastrophe in Africa's Great Lakes region, where millions rely on faltering relief efforts.\n\nMeanwhile, Iran's government imposed sweeping shutdowns across 21 of its 31 provinces, including Tehran, closing businesses, universities, and offices to quell protests sparked by soaring inflation and subsidy cuts. The measures affect tens of millions amid economic strain from sanctions and mismanagement. In Gaza, Israel permitted thousands of displaced Palestinians to return to northern areas after opening a military zone bisecting the enclave, following a hostage-release deal that briefly eased a humanitarian deadlock—though intense fighting persists in other parts. Across the Atlantic, NATO launched its first coordinated naval operation in response to suspected sabotage of a Baltic Sea power cable linking Finland and Estonia, underscoring rising hybrid threats to critical infrastructure.\n\nLooking ahead, China's largest property developer Vanke reported massive losses on Thursday, signaling the real estate crisis—once confined to giants like Evergrande—is now engulfing even blue-chip firms, with trillions in exposure at risk. Beijing faces mounting pressure for bailouts to avert financial contagion, as global markets watch for ripples in the world's second-largest economy.",
+  "headlines": [
+    {
+      "title": "Chief Justice Roberts Affirms Constitution Stands Firm Ahead of Major Supreme Court Rulings",
+      "source": "Associated Press",
+      "summary": "Chief Justice John Roberts stated Wednesday that the Constitution remains sturdy after a tumultuous judicial year, with pivotal decisions upcoming. This reassures the public on judicial stability as the court addresses key cases like Trump's agency control push. Affects national legal framework.",
+      "link": "https://apnews.com/article/supreme-court-john-roberts-trump-judges-caad1b61e25a15315b667de3fbe1fabe",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Iran Government Orders Shutdowns in 21 Provinces Amid Protests and Economic Strain",
+      "source": "New York Times World",
+      "summary": "Iranian authorities mandated closures of businesses, universities and offices Wednesday in 21 of 31 provinces, including Tehran, to manage protests and economic woes. Affects millions of residents and economy. Government seeks to restore order amid unrest.",
+      "link": "https://www.nytimes.com/2025/12/31/world/middleeast/iran-shutdown-protests.html",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Return to Northern Gaza After Hostage Breakthrough",
+      "source": "Wall Street Journal World",
+      "summary": "Israel opened a military zone bisecting Gaza, allowing displaced Palestinians to walk back to northern areas after a hostage release deadlock ended. Thousands affected return home. Eases humanitarian crisis but fighting persists in enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Deploys First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO initiated its first joint operation after a deep-sea cable severance in the Baltic Sea, suspecting sabotage against critical infrastructure. Protects alliance members' security and energy links. Signals heightened vigilance against hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zohran Mamdani Sworn In as New York City’s First Muslim Mayor",
+      "source": "NPR News",
+      "summary": "Zohran Mamdani, Democratic Socialists of America member, took oath after midnight Thursday as NYC mayor, pledging focus on affordability and fairness. Impacts 8.3 million residents. Marks historic shift in city leadership priorities.",
+      "link": "https://www.npr.org/2026/01/01/nx-s1-5663372/zohran-mamdani-sworn-in-as-new-york-city-mayor-capping-historic-rise",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "US Issues TSMC Annual License for Chip Tools Import to China Facilities",
+      "source": "South China Morning Post",
+      "summary": "US granted Taiwan Semiconductor Manufacturing Co annual license to import American chip equipment to Nanjing fabs in China, ensuring operations continue. Affects TSMC supply chain and global chip production. Stabilizes deliveries amid trade tensions.",
+      "link": "https://www.scmp.com/tech/big-tech/article/3338380/us-grants-tsmc-annual-licence-import-american-chipmaking-tools-china?utm_source=rss_feed",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Administration Freezes Child Care Funds to All 50 States Over Fraud Probes",
+      "source": "Associated Press",
+      "summary": "Trump administration halted federal child care funding nationwide pending verification data, spotlighting fraud at Minnesota centers run by Somali operators. Impacts programs serving millions of children. Review aims to curb waste across states.",
+      "link": "https://apnews.com/article/minnesota-child-care-funds-fraud-trump-1d6edb8511d916fc3a5dc3b339d94e37",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Vetoes Two Bipartisan Bills Punishing Congressional Opponents",
+      "source": "Associated Press",
+      "summary": "President Trump issued first second-term vetoes Tuesday on low-profile bipartisan measures, including Boebert's water pipeline bill, to target opponents. Affects specific projects and lawmakers. Signals aggressive use of veto power early in term.",
+      "link": "https://apnews.com/article/trump-vetoes-boebert-miccosukee-tribe-alligator-alcatraz-ac59b3ab03fb6f3b09d65b0223f1b495",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "China Developer Vanke Posts Huge Losses Indicating Spreading Property Crisis",
+      "source": "Wall Street Journal World",
+      "summary": "Vanke, leading Chinese property firm, reported massive losses Thursday, highlighting crisis expansion. Affects developers, buyers and economy worth trillions. Raises pressure on state intervention to prevent broader financial contagion.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Capture Goma Sheltering Over One Million Displaced",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels overran Congolese troops to enter Goma Wednesday, sparking gunfire amid one million displaced inside the aid hub city. Threatens civilians and UN operations. Escalates eastern Congo conflict with Rwanda involvement.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 444,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 3,
+      "society": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "americas": 4,
+      "middle-east": 2,
+      "europe": 1,
+      "global": 1,
+      "asia-pacific": 1,
+      "africa": 1
+    }
+  }
+}

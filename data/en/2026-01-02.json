@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-02",
+  "summary": "Tensions across the Taiwan Strait spiked as China's military wrapped up two days of live-fire drills encircling the island, prompting President Lai Ching-te to vow robust defenses against Beijing's expansionist aims. The exercises, the largest since Lai's May inauguration, simulated blockades and targeted key ports, threatening vital global shipping lanes that carry 50% of world container traffic and Taiwan's dominance in semiconductor production. This comes as the U.S. State Department condemned the maneuvers as unnecessary escalations, urging de-escalation alongside allies like Japan—underscoring America's commitment to deterrence in the Asia-Pacific amid fears of disrupted chip supplies for everything from smartphones to cars.\n\nIn eastern Congo, Rwanda-backed M23 rebels pushed into Goma city center, overrunning government troops amid gunfire and shelling that trapped over one million displaced residents in the key humanitarian hub. The advance intensifies a war displacing 7 million overall, endangering U.N. aid operations for millions facing famine. Meanwhile, NATO activated its first coordinated protocol against suspected sabotage of Baltic Sea cables, vital for European energy and data flows, pioneering defenses against hybrid threats from actors like Russia. Across Africa, Guinea's coup leader Gen. Mamady Doumbouya claimed over 80% victory in an election that barred rivals, entrenching military rule and fueling concerns of democratic backsliding from the Sahel to the Great Lakes.\n\nLooking ahead, a SpaceX Falcon 9 roared off from Kennedy Space Center at 7:03 p.m. Friday, carrying NASA's Crew-10—including Anne McClain, Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov—to retrieve astronauts Butch Wilmore and Suni Williams, stuck on the ISS for nine months due to Boeing Starliner issues. The swap ensures uninterrupted science from the orbiting lab, highlighting reliable U.S.-private partnerships amid intensifying space race dynamics.",
+  "headlines": [
+    {
+      "title": "Swiss Investigators Rush to Identify 40 Victims of New Year’s Bar Fire",
+      "source": "Japan Times",
+      "summary": "Around 40 people died and 115 suffered injuries in early morning blaze at Crans-Montana resort bar. Investigators probe cause and notify families. Tragedy exposes fire safety gaps in Alpine party venues, disrupting ski tourism season.",
+      "link": "https://www.japantimes.co.jp/news/2026/01/02/world/swiss-investigators-fire/",
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Taiwan President Lai Vows to Defend Island Sovereignty After Chinese Drills",
+      "source": "NPR News",
+      "summary": "President Lai Ching-te pledges robust defense of self-ruled Taiwan against Beijing's expansionist ambitions post live-fire military drills near shores. Island heightens vigilance. Heightened tensions threaten key shipping lanes and global chip supplies.",
+      "link": "https://www.npr.org/2026/01/01/g-s1-104249/taiwan-president-sovereignty-china-military-drills",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck on ISS Nine Months",
+      "source": "Voice of America",
+      "summary": "Falcon 9 rocket lifts off at 7:03 p.m. Friday from Kennedy Space Center with NASA’s Anne McClain, Nichole Ayers, Japan’s Takuya Onishi, Russia’s Kirill Peskov. Crew enables Butch Wilmore and Suni Williams return. Ensures uninterrupted station science missions.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Guinea Coup Leader Doumbouya Wins Election with Over 80 Percent of Vote",
+      "source": "New York Times World",
+      "summary": "Gen. Mamady Doumbouya, in power over four years after coup, claims victory per his government agency after barring top opponents. Secures over 80% votes. Entrenches military rule, sparking West Africa democratic backsliding concerns.",
+      "link": "https://www.nytimes.com/2026/01/01/world/africa/guinea-election-mamady-doumbouya.html",
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "Alliance activates protocol after deep-sea cable severance amid sabotage campaign targeting critical infrastructure. Protects regional networks. Pioneers NATO hybrid warfare defense, securing vital European energy and data communications.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma City Trapping Over One Million Displaced Residents",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels overrun Congolese troops, sparking gunfire and shelling in Goma aid hub. U.N. counts more than one million displaced inside city limits. Intensifies eastern Congo war, endangering humanitarian operations for millions.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Iran Protests Widen Reporting Deaths from Economic Crisis and Currency Crash",
+      "source": "NPR News",
+      "summary": "Demonstrators decry depreciating currency, economic woes, and theocracy during expanding unrest. Deaths occur as protests grow. Challenges clerical regime control, potentially reshaping Middle East alliances and energy markets.",
+      "link": "https://www.npr.org/2026/01/01/g-s1-104241/iran-protests-deaths-economy",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Saudi Arabia and UAE Unveil Rivalry After Strike in Yemen Conflict Zone",
+      "source": "South China Morning Post",
+      "summary": "Crown Prince Mohammed bin Salman and UAE President expose diverging interests in Yemen strike, ending tandem Gulf projection. Strains former alliance over regional influence and U.S. ties. Alters Middle East power balance and Yemen war dynamics.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3338476/saudi-uae-rivalry-explodes-view-after-strike-war-torn-yemen?utm_source=rss_feed",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. State Department Urges China to End Military Pressure on Taiwan",
+      "source": "Japan Times",
+      "summary": "Spokesman condemns China’s drills and rhetoric toward Taiwan as unnecessary tension-raisers, following Japan and others. U.S. pushes de-escalation. Bolsters deterrence in Asia-Pacific, protecting trade routes and alliance credibility.",
+      "link": "https://www.japantimes.co.jp/news/2026/01/02/asia-pacific/politics/us-china-military-exercises-taiwan/",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 451,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 3,
+      "science": 1,
+      "conflict": 3,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "asia-pacific": 2,
+      "global": 1,
+      "africa": 2,
+      "middle-east": 2
+    }
+  }
+}

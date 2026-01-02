@@ -1,0 +1,57 @@
+{
+  "date": "2026-01-02",
+  "summary": "Israël a ordonné vendredi à 37 organisations non gouvernementales, dont Médecins sans frontières et Médecins du monde, de transmettre la liste de leurs employés à Gaza d'ici le 1er mars, sous peine d'expulsion de la bande palestinienne. Cette mesure, justifiée par Tel-Aviv comme une nécessité sécuritaire face aux risques d'infiltration du Hamas, complique l'aide humanitaire dans une région où plus de 2 millions de Palestiniens font face à une famine imminente et à des bombardements incessants depuis l'attaque du 7 octobre 2023. Alors que l'ONU dénonce une entrave potentielle à l'assistance vitale, cette décision fait suite à des tensions croissantes sur le contrôle des flux d'aide, illustrant les dilemmes entre sécurité israélienne et impératifs humanitaires.\n\nPendant ce temps, en Suisse, les autorités poursuivent l'identification des 40 victimes de l'incendie dévastateur survenu la nuit du Nouvel An au bar Le Constellation de Crans-Montana, qui a aussi blessé 115 personnes, dont neuf Français. Ce drame, dont les causes – probablement un feu d'artifice mal contrôlé – font l'objet d'une enquête, soulève des questions sur la sécurité des établissements festifs en stations de ski, populaires auprès des touristes européens. Parallèlement, en Corée du Nord, Kim Jong-un consolide le rôle public de sa fille Kim Ju Ae lors d'apparitions officielles, renforçant les spéculations sur une succession dynastique au pouvoir depuis 1948 et sur la stabilité du régime isolé de Pyongyang.\n\nÀ New York, Zohran Mamdani, premier maire musulman de la ville élu sur une ligne de gauche, s'est investi jeudi lors d'une cérémonie en plein air, promettant des hausses d'impôts sur les riches pour rendre la métropole plus abordable face à la flambée des loyers et des défis urbains. Ce virage socialiste devra se concrétiser rapidement, alors que les New-Yorkais attendent des résultats concrets dans un contexte économique tendu.",
+  "headlines": [
+    {
+      "title": "Les autorités suisses poursuivent l'identification des 40 victimes mortes dans l'incendie de Crans-Montana",
+      "source": "Le Monde",
+      "summary": "L'incendie survenu la nuit du Nouvel An dans le bar Le Constellation à Crans-Montana a tué une quarantaine de personnes et blessé 115 autres, dont neuf Français. L'enquête détermine les causes tandis que l'identification des victimes avance. Ce drame questionne la sécurité des établissements festifs en station de ski.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/01/a-crans-montana-c-etait-une-scene-de-guerre-des-cheveux-des-visages-et-des-mains-brules_6660304_3210.html",
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Kim Jong-un consolide la position de sa fille Kim Ju Ae pour lui succéder en Corée du Nord",
+      "source": "20 Minutes",
+      "summary": "Kim Jong-un renforce le rôle public de sa fille Kim Ju Ae lors d'apparitions officielles, signalant une possible succession dynastique au pouvoir depuis 1948. Cette évolution intrigue les observateurs internationaux sur la stabilité du régime isolé de Pyongyang.",
+      "link": "https://www.20minutes.fr/monde/coree_du_nord/4194000-20260102-coree-nord-kim-jong-consolide-place-fille-prendre-jour-succession?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Zohran Mamdani s'intronise maire de New York lors d'une cérémonie symbolique en plein air",
+      "source": "Le Monde",
+      "summary": "Zohran Mamdani, premier maire musulman de New York élu à gauche, promet de rendre la ville plus abordable via des hausses d'impôts et des politiques socialistes lors de son investiture jeudi. Il doit maintenant concrétiser ces engagements face aux défis urbains majeurs.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/02/zohran-mamdani-intronise-maire-de-new-york-au-defi-de-realiser-ses-promesses_6660313_3210.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël ordonne à 37 ONG de quitter Gaza d'ici le 1er mars sous peine d'interdiction",
+      "source": "France Info",
+      "summary": "Israël exige de 37 organisations, dont Médecins du monde et Médecins sans frontières, la liste de leurs employés à Gaza sous menace d'expulsion au 1er mars pour refus de transmission. Cette mesure complique l'aide humanitaire dans la bande palestinienne en crise.",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/cinq-questions-sur-la-menace-d-interdiction-d-entrer-dans-la-bande-de-gaza-brandie-par-israel-a-l-encontre-de-37-ong_7714753.html#xtor=RSS-3-[lestitres]",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 209,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 2,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "europe": 1,
+      "asia-pacific": 1,
+      "americas": 1,
+      "middle-east": 1
+    }
+  }
+}

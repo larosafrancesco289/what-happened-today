@@ -1,0 +1,65 @@
+{
+  "date": "2026-01-02",
+  "summary": "Vladimir Putin ha aperto il 2026 con un messaggio di Capodanno che promette una vittoria imminente in Ucraina, accusando Kiev di stragi a Kherson e rafforzando la propaganda interna mentre la guerra entra nel quarto anno. Il leader russo, supportato da Dmitry Medvedev che invoca vendetta per le morti nei territori occupati, ignora i negoziati e punta a consolidare il controllo, in un contesto di stallo militare che prosciuga risorse da entrambe le parti e alimenta tensioni globali sull'energia e i cereali.\n\nLe festività hanno portato tragedie altrove: un incendio al bar Le Constellation di Crans-Montana, in Svizzera, ha ucciso 47 persone durante i festeggiamenti di Capodanno, innescato da torce e petardi che hanno causato un flashover letale. Tra le vittime, 6 italiani dispersi e 13 feriti, un promemoria dei rischi nelle celebrazioni affollate. Questo avviene mentre Jair Bolsonaro, ex presidente brasiliano, rientra in carcere dopo un'operazione per doppia ernia, sotto stretta sorveglianza per i procedimenti su tentato golpe, collegandosi ai crescenti problemi carcerari: in Italia, le prigioni segnalano sovraffollamento, suicidi e autolesionismo all'inizio del 2026, nonostante passati interventi.\n\nGuardando avanti, Zohran Mamdani ha giurato come primo sindaco musulmano di New York sul Corano, alla presenza di Bernie Sanders, promettendo inclusione per immigrati e difesa della città. Questo segna un'era progressista che potrebbe influenzare politiche urbane globali, mentre il governo italiano valuta misure urgenti per le carceri, segnalando sforzi per mitigare tensioni che impattano diritti umani e sicurezza pubblica.",
+  "headlines": [
+    {
+      "title": "Incendio uccide 47 persone in locale di Crans-Montana: 6 italiani dispersi",
+      "source": "la Repubblica",
+      "summary": "Un incendio ha devastato il bar Le Constellation a Crans-Montana in Svizzera durante la festa di Capodanno, causando 47 morti e 112 feriti, tra cui 13 italiani ricoverati e 6 dispersi. Le fiamme, innescate da torce e petardi, hanno prodotto un flashover. Le autorità identificano le vittime ustionate.",
+      "link": "https://www.repubblica.it/esteri/2026/01/02/news/incendio_crans_montana_svizzera_strage_festa_ragazzi_capodanno_morti-425071295/?rss",
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ex presidente Bolsonaro rientra in carcere brasiliano dopo operazione ernia",
+      "source": "TGCOM24",
+      "summary": "Jair Bolsonaro, ex presidente del Brasile, torna in prigione dopo un intervento chirurgico per doppia ernia. L'operazione ha interrotto temporaneamente la detenzione. Le autorità monitorano la salute del leader di destra, coinvolto in procedimenti giudiziari per tentato colpo di stato.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/brasile-l-ex-presidente-bolsonaro-e-tornato-in-carcere_107532143-202602k.shtml",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Carceri italiane registrano sovraffollamento suicidi e autolesionismo nel 2026",
+      "source": "Il Sole 24 Ore",
+      "summary": "Le prigioni italiane affrontano sovraffollamento, carenza servizi, suicidi e autolesionismo all'inizio del 2026. Il fenomeno persiste nonostante interventi passati. Il governo valuta misure urgenti per ridurre tensioni e migliorare condizioni detentive, impattando sicurezza e diritti umani.",
+      "link": "https://www.ilsole24ore.com/art/sovraffollamento-suicidi-e-autolesionismo-spine-carceri-il-2026-AI0jy8e",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zohran Mamdani giura come sindaco di New York sul Corano",
+      "source": "AGI",
+      "summary": "Zohran Mamdani, primo musulmano sindaco di New York, ha giurato a City Hall sul Corano con Bernie Sanders presente. Promette inclusione per immigrati e difesa dalla città. La cerimonia unisce religioni ed etnie, segnando era progressista con enfasi su sinistra governante.",
+      "link": "https://www.agi.it/estero/news/2026-01-01/mamdani-ny-giura-corano-sindaco-34896204/",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Putin annuncia vittoria imminente in Ucraina nel messaggio Capodanno",
+      "source": "la Repubblica",
+      "summary": "Vladimir Putin dichiara vittoria vicina contro Kiev nel discorso di Capodanno, accusando l'Ucraina di stragi a Kherson. Medvedev promette vendetta per morti nei territori occupati. Il tono militarista rafforza propaganda interna mentre guerra continua senza negoziati immediati.",
+      "link": "https://www.repubblica.it/esteri/2026/01/02/news/putin_discorso_capodanno_vicini_vittoria_nuove_accuse_kiev-425071193/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 251,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 2,
+      "society": 1,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 2
+    }
+  }
+}

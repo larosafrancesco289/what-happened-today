@@ -1,0 +1,103 @@
+{
+  "date": "2026-01-03",
+  "summary": "Russia made its biggest territorial gains in Ukraine since the full-scale invasion began in 2022, capturing over 5,600 square kilometers—nearly 1% of Ukrainian land—this year alone. The advances, concentrated in the east, prompted President Zelensky to appoint intelligence chief Kyrylo Budanov as his aide, nominate Mykhailo Fedorov for defense minister, and order frontline evacuations. This surge intensifies pressure on Kyiv ahead of key security talks with allies, underscoring Moscow's grinding strategy amid Western fatigue and winter hardships for Ukrainian troops.\n\nIn Yemen, longstanding Gulf rivalries boiled over as the UAE-backed Southern Transitional Council in Aden unveiled a constitution for an independent southern state, demanding recognition from other factions. Hours later, the Saudi-supported government deployed troops to reclaim separatist-held areas, shattering fragile ceasefires and risking wider violence in a nation already reeling from years of civil war. Meanwhile, NATO launched its first coordinated operation to probe and protect after a deep-sea cable sabotage in the Baltic Sea, heightening fears of Russian hybrid tactics mirroring Ukraine's infrastructure woes.\n\nLooking ahead, a SpaceX Falcon 9 roared off from Kennedy Space Center on Friday evening, carrying NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the ISS. Arriving Saturday, Crew-10 will finally rotate out Butch Wilmore and Suni Williams after nine months in orbit, a reminder of international cooperation amid earthly conflicts—and a step toward NASA's next Mars ambitions.",
+  "headlines": [
+    {
+      "title": "Swiss Families Await Identification of Six Injured in Crans-Montana Bar Fire",
+      "source": "Associated Press",
+      "summary": "Devastating New Year's fire at Le Constellation bar in Swiss Alps killed several and left six injured unidentified after 48 hours. Families like Arthur Brodar's mother endure unbearable waits. Identification process continues, prolonging grief for Crans-Montana residents.",
+      "link": "https://apnews.com/article/switzerland-crans-montana-bar-fire-c63d39a8f288281d18919b3a585d5f29",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "FBI Arrests 18-Year-Old for ISIS-Inspired New Year's Attack Plot in Charlotte",
+      "source": "Associated Press",
+      "summary": "FBI arrested Christian Sturdivant, 18, in North Carolina for plotting New Year's Eve attack on Charlotte grocery store, inspired by Islamic State with loyalty pledge. Charged with material support to terror group. Remains detained; arrest prevents potential mass casualty incident.",
+      "link": "https://apnews.com/article/fbi-islamic-state-group-attack-charlotte-44f31a4463af3d68c3f9c5f2eaac8057",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russia Captures 5,600 Square Kilometers of Ukrainian Territory in 2025",
+      "source": "France 24",
+      "summary": "Russia seized more than 5,600 sq km, nearly 1% of Ukraine, marking largest gains since 2022 invasion. Zelensky appoints Kyrylo Budanov as aide, proposes Mykhailo Fedorov for defense minister, orders frontline evacuations. Intensifies pressure ahead of allied security talks.",
+      "link": "https://www.france24.com/en/live-news/20260102-russia-scores-highest-ukraine-gains-since-first-year-of-war",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Launches Crew-10 to International Space Station for Stuck Astronaut Return",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 lifted off at 7:03 p.m. Friday from Kennedy Space Center with NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, Russia's Kirill Peskov. Crew reaches ISS Saturday to retrieve Butch Wilmore and Suni Williams after nine months.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Yemen Separatists Announce Constitution for Independent Southern State",
+      "source": "Associated Press",
+      "summary": "Southern Transitional Council in Aden announced constitution for independent South Yemen, demanding acceptance from other factions. Escalates rift pitting Saudi Arabia against UAE in civil war. Risks deeper fragmentation and renewed violence in war-torn nation.",
+      "link": "https://apnews.com/article/yemen-saudi-arabia-uae-aden-hadramout-stc-47430060997b893492a4770841a6eab1",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump Vows U.S. Intervention if Iran Kills Economic Hardship Protesters",
+      "source": "New York Times",
+      "summary": "President-elect Trump declares U.S. will rescue Iranian protesters if regime kills them during deadly demonstrations over economic woes. Sharp escalation in rhetoric signals potential military involvement. Alters U.S. posture toward Iran, impacting Middle East tensions.",
+      "link": "https://www.nytimes.com/2026/01/02/world/middleeast/trump-iran-protests.html",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Saudi-Backed Yemen Government Deploys Troops Against UAE-Supported Separatists",
+      "source": "New York Times",
+      "summary": "Yemen's Saudi-backed government sends military forces to reclaim separatist-held territory controlled by UAE-supported faction. Follows separatist constitution declaration. Heightens Gulf proxy conflict, endangering ceasefires and exacerbating humanitarian crisis for millions.",
+      "link": "https://www.nytimes.com/2026/01/02/world/middleeast/yemen-separatists-government.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Return Through Northern Gaza Military Zone",
+      "source": "Wall Street Journal",
+      "summary": "Israel allows thousands of displaced Gazans to cross bisecting military zone back to northern Gaza on foot after hostage release impasse resolves. Eases restrictions amid war. Reduces immediate humanitarian pressures for affected civilians in enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO mounts first coordinated operation after deep-sea cable severed in Baltic Sea amid suspected sabotage of critical infrastructure. Alliance deploys assets to investigate and protect. Strengthens deterrence against hybrid threats targeting European connectivity.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 456,
+    "categoryCounts": {
+      "society": 2,
+      "conflict": 4,
+      "science": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 1,
+      "global": 1,
+      "middle-east": 4
+    }
+  }
+}

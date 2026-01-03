@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-03",
+  "summary": "La cinese BYD ha superato Tesla nelle vendite globali di veicoli elettrici nel 2023, con 3 milioni di unità vendute contro i 1,8 milioni di Elon Musk, grazie a prezzi fino al 30% inferiori e una produzione dominata dalla Cina, che ora controlla il 60% del mercato EV mondiale. Questo sorpasso ridisegna la competizione globale: mentre Tesla punta su tecnologia premium, BYD conquista Europa e America Latina con modelli accessibili, sfidando sussidi USA e dazi europei. Per i consumatori comuni, significa auto elettriche più economiche, ma solleva interrogativi su dipendenze da fornitori cinesi e transizione verde accelerata.\n\nNel frattempo, in Ucraina il presidente Zelensky ha promosso Kyrylo Budanov, capo dell'intelligence noto per operazioni segrete contro Mosca, a capo gabinetto presidenziale, sostituendo il ministro della Difesa in un rimpasto che rafforza il coordinamento militare mentre le truppe russe avanzano. La 150ª Divisione russa ha distrutto fanteria ucraina a Dobropillya con artiglieria e droni, e nella notte decine di droni hanno colpito Zaporizhzhia senza vittime, dopo bombe su Dnipropetrovsk che hanno evacuato 3mila bambini. Questo escalation aerea russa segue l'offensiva nel Donbass, complicando le difese di Kiev.\n\nOltre i fronti caldi, Donald Trump minaccia intervento USA contro l'Iran se Teheran reprime le proteste contro la svalutazione record del rial, con 7 morti già registrati, e blocca un accordo sui chip con HieFo per rischi sicurezza legati a un azionista cinese. Queste mosse segnalano un futuro di tensioni USA-Cina su supply chain tech e instabilità mediorientale, mentre un terremoto di magnitudo 6.5 scuote Città del Messico causando due morti, spingendo autorità a rafforzare allarmi antisismici.",
+  "headlines": [
+    {
+      "title": "BYD supera Tesla nelle vendite globali di veicoli elettrici con prezzi inferiori",
+      "source": "Euronews Italiano",
+      "summary": "La cinese BYD ha superato Tesla nelle vendite di auto elettriche grazie a prezzi più bassi, conquistando mercati europei. Questo spostamento ridisegna la competizione globale, con la Cina che domina la produzione EV e sfida il primato statunitense.",
+      "link": "http://it.euronews.com/business/2026/01/02/byd-supera-tesla-e-la-cina-ridisegna-la-corsa-globale-ai-veicoli-elettrici",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky promuove Budanov e rimuove il ministro della Difesa in rimpasto ucraino",
+      "source": "la Repubblica",
+      "summary": "Il presidente ucraino Zelensky ha promosso Kyrylo Budanov e sostituito il ministro della Difesa, con Mykhailo Fedorov al comando dell'esercito. Bombe russe hanno colpito Zaporizhzhia e Dnipropetrovsk, evacuando 3mila bambini. Il rimpasto rafforza il coordinamento militare.",
+      "link": "https://www.repubblica.it/esteri/2026/01/03/news/ucraina_rimpasto_vertici_zelensky_promuove_budanov_via_ministro_difesa-425073056/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La 150ª Divisione russa distrugge fanteria ucraina a Dobropillya con artiglieria",
+      "source": "Rai News",
+      "summary": "Un video russo mostra la 150ª Divisione Fucilieri Motorizzata che usa artiglieria e droni per distruggere fanteria ucraina a Dobropillya. L'operazione segna un'avanzata russa nel Donbass, intensificando i combattimenti e influenzando il fronte orientale.",
+      "link": "https://www.rainews.it/video/2026/01/offensiva-russa-a-dobropillya-la-150-divisione-fucilieri-motorizzata-distrugge-la-fanteria-il-video-di-propaganda-russa-880f57b9-acd3-411e-bb3c-b9e347a7aab0.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russia lancia attacco massiccio di droni su Zaporizhzhia senza causare vittime",
+      "source": "Euronews Italiano",
+      "summary": "Nella notte di venerdì, la Russia ha colpito Zaporizhzhia con decine di droni, danneggiando edifici ma senza vittime; l'Ucraina ha intercettato la maggior parte. L'attacco evidenzia l'escalation aerea russa, con Kiev che rafforza le difese antiaeree.",
+      "link": "http://it.euronews.com/2026/01/02/la-russia-lancia-un-attacco-massiccio-di-droni-sulla-regione-di-zaporizhzhia",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump minaccia intervento USA contro Iran se uccide manifestanti nelle proteste",
+      "source": "la Repubblica",
+      "summary": "Donald Trump avverte l'Iran di un intervento americano se Teheran reprime i manifestanti contro il carovita, con già 7 morti negli scontri. L'Iran replica minacciando basi USA. La tensione regionale sale, influenzando la politica estera statunitense.",
+      "link": "https://www.repubblica.it/esteri/2026/01/03/news/trump_minaccia_iran_america_interverra_se_uccidete_iraniani_proteste-425072911/?rss",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump blocca accordo sui chip con HieFo per pericoli di sicurezza nazionale",
+      "source": "TGCOM24",
+      "summary": "Il presidente USA Trump ha fermato l'accordo per chip con HieFo, controllata da un cinese tramite Elmore, citando rischi sicurezza. La mossa protegge la supply chain americana, limitando dipendenze da fornitori stranieri sensibili.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/trump-blocca-accordo-con-per-i-chip-con-hiefo-pericolo-per-la-sicurezza-_107558233-202602k.shtml",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky nomina Budanov nuovo braccio destro dopo promozione da capo intelligence",
+      "source": "Rai News",
+      "summary": "Kyrylo Budanov, capo enigmatico dell'intelligence ucraina noto per operazioni contro la Russia, diventa braccio destro di Zelensky. La nomina rafforza il team presidenziale con expertise spionistica, cruciale per coordinamento guerra e diplomazia.",
+      "link": "https://www.rainews.it/articoli/2026/01/chi-e-budanov-da-007-a-nuovo-braccio-destro-di-zelensky-definito-luomo-senza-sorriso-il-ritratto-76cbf106-568b-49bc-8f3a-4ce034d63807.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky nomina capo intelligence Budanov nuovo capo gabinetto presidenziale",
+      "source": "Euronews Italiano",
+      "summary": "Il presidente ucraino Zelensky ha nominato Kyrylo Budanov, capo dell'intelligence, come capo gabinetto, spostandolo al centro del coordinamento politico. Questa mossa insolita integra expertise militare nella diplomazia, durante l'offensiva russa.",
+      "link": "http://it.euronews.com/2026/01/02/ucraina-zelensky-nomina-il-capo-dellintelligence-kyrylo-budanov-come-nuovo-capo-gabinetto",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Proteste in Iran contro svalutazione rial persistono nonostante monito di Trump",
+      "source": "la Repubblica",
+      "summary": "Le proteste contro la svalutazione record del rial assediano il regime iraniano, con Teheran incapace di fermarle ma manifestazioni non ancora di massa. Trump promette supporto ai manifestanti, aumentando pressioni esterne sul governo.",
+      "link": "https://www.repubblica.it/esteri/2026/01/03/news/iran_proteste_trump_minaccia_intervento_usa-425072900/?rss",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Terremoto di magnitudo 6.5 colpisce Città del Messico causando due morti",
+      "source": "TGCOM24",
+      "summary": "Un sisma di magnitudo 6.5 ha scosso Città del Messico, uccidendo due persone; inviate allerte sui cellulari e la presidente Sheinbaum ha sospeso la conferenza stampa. Le autorità valutano danni e rafforzano misure antisismiche.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/terremoto-messico_107547974-202602k.shtml",
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 251,
+    "categoryCounts": {
+      "economy": 1,
+      "politics": 5,
+      "conflict": 2,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "global": 1,
+      "europe": 5,
+      "middle-east": 2,
+      "americas": 2
+    }
+  }
+}

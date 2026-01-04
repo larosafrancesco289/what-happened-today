@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-04",
+  "summary": "Le Venezuela entre dans une ère d'incertitude politique après la capture spectaculaire de Nicolás Maduro par l'armée américaine, suite aux bombardements à Caracas les 2 et 3 janvier. Transféré aux États-Unis, Maduro laisse un vide que la Cour suprême vénézuélienne a comblé en nommant Delcy Rodríguez présidente par intérim. Donald Trump a immédiatement annoncé une direction provisoire soutenue par Washington, marquant une intervention directe des États-Unis dans la crise vénézuélienne, qui couve depuis des années avec hyperinflation, exode massif de 7 millions de personnes et sanctions internationales. Cette transition, contestée par plusieurs pays comme la Russie et la Chine, pourrait redessiner les alliances en Amérique latine et stabiliser ou aggraver la crise humanitaire touchant 30 millions de Vénézuéliens.\n\nPendant ce temps, la France et le Royaume-Uni ont mené une opération conjointe contre un site souterrain de l'État islamique en Syrie, renforçant leur coopération antiterroriste au moment où Daesh tente de se réorganiser dans le désert syrien. Cette frappe fait suite à des attentats récents en Europe et vise à prévenir de nouvelles attaques, illustrant comment les menaces sécuritaires transcendent les frontières européennes. En parallèle, à Téhéran, les manifestations pro-iraniennes scandant « Ni Gaza ni le Liban, ma vie pour l'Iran » ont dégénéré au grand marché des téléphones, tuant un membre des forces de sécurité par balles ; ce mouvement, lancé dimanche, révèle des tensions internes croissantes en Iran, entre pressions régionales et ras-le-bol économique.\n\nCes développements signalent un monde fracturé où les interventions extérieures, comme au Venezuela ou en Syrie, pourraient accélérer des transitions politiques. À Berlin, un incendie de câbles a privé 50 000 ménages d'électricité pour plusieurs jours en pleine vague de froid, testant la résilience des infrastructures européennes et préfigurant les défis climatiques et techniques à venir pour des millions d'Européens.",
+  "headlines": [
+    {
+      "title": "La Cour suprême vénézuélienne nomme Delcy Rodriguez présidente par intérim après capture de Maduro",
+      "source": "RFI",
+      "summary": "Après bombardements à Caracas les 2-3 janvier et capture de Nicolás Maduro par l'armée américaine, arrivée aux États-Unis, la Cour suprême désigne Delcy Rodriguez intérim. Trump annonce direction provisoire par les États-Unis. Cela déclenche transition politique contestée internationalement.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260104-en-direct-capture-de-maduro-la-cour-supr%C3%AAme-v%C3%A9n%C3%A9zu%C3%A9lienne-nomme-delcy-rodriguez-pr%C3%A9sidente-par-int%C3%A9rim",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "La France et le Royaume-Uni mènent attaque conjointe contre site Daesh en Syrie",
+      "source": "20 Minutes",
+      "summary": "La France et le Royaume-Uni frappent ensemble un site souterrain en Syrie soupçonné d'usage par l'État islamique. Cette opération conjointe cible les infrastructures terroristes restantes. Elle renforce la coopération européenne contre Daesh et vise à prévenir nouvelles attaques.",
+      "link": "https://www.20minutes.fr/monde/syrie/4194193-20260104-france-royaume-uni-mene-attaque-conjointe-contre-daesh-syrie?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Manifestations pro-Iran à Téhéran tuent un membre des forces de sécurité par balles",
+      "source": "RTBF (Belgian)",
+      "summary": "Les manifestations scandant 'Ni Gaza ni le Liban, ma vie pour l’Iran' se poursuivent à Téhéran depuis dimanche au grand marché de téléphones. Un membre des forces de sécurité meurt par balles, ampleur du mouvement difficile à évaluer. Cela signale tensions internes croissantes en Iran.",
+      "link": "https://www.rtbf.be/article/ni-gaza-ni-le-liban-ma-vie-pour-l-iran-les-manifestations-se-poursuivent-en-iran-leur-ampleur-difficile-a-evaluer-11655702",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Incendie de câbles prive 50.000 ménages berlinois d'électricité pour plusieurs jours",
+      "source": "RTBF (Belgian)",
+      "summary": "Un incendie de câbles électriques à Berlin prive près de 50.000 ménages d'électricité, certains sans chauffage en hiver. La panne affecte réseaux locaux pour plusieurs jours. Cela impacte quotidiennement des milliers de résidents et teste résilience des infrastructures allemandes.",
+      "link": "https://www.rtbf.be/article/allemagne-pres-de-50-000-menages-berlinois-prives-d-electricite-pour-plusieurs-jours-suite-a-un-incendie-de-cables-electriques-11655885",
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 206,
+    "categoryCounts": {
+      "politics": 1,
+      "conflict": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "middle-east": 2,
+      "europe": 1
+    }
+  }
+}

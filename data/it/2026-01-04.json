@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-04",
+  "summary": "Le forze speciali USA, inclusa la Delta Force, hanno catturato di sorpresa Nicolás Maduro e la moglie Cilia Flores nel sonno durante un raid notturno a Caracas, trasferendoli a New York per affrontare accuse di narcoterrorismo e traffico di droga. L'operazione, facilitata da un tradimento di ufficiali venezuelani, segna una svolta nelle tensioni USA-Venezuela: Maduro, al potere dal 2013 tra sanzioni e crisi economica, atterra a Newburgh e viene scortato in carcere a Brooklyn. Donald Trump ha confermato l'arresto su Truth Social, annunciando una conferenza stampa alle 17 italiane da Mar-a-Lago e dichiarando che gli USA governeranno un governo transitorio in Venezuela per riprendere i pozzi petroliferi, che detengono 303 miliardi di barili, il 17% delle riserve mondiali.\n\nQuesto colpo arriva mentre le Big Oil, come l'Eni, puntano ai giacimenti venezuelani post-Maduro, aprendo opportunità economiche ma rischiando instabilità. Nel frattempo, in Italia emergono scandali: i pm rivelano che il governatore ligure Giovanni Toti manipolava i dati sui contagi Covid-19, inviando messaggi al suo capo gabinetto per gonfiarli, in un'inchiesta che chiarirà responsabilità sanitarie durante la pandemia. A Crans-Montana, in Svizzera, sono state identificate le prime vittime dell'incendio in un residence, con 14 italiani tra i feriti gravi rimpatriati o curati all'estero; le indagini puntano a difetti strutturali e negligenze antincendio.\n\nGuardando avanti, María Corina Machado rivendica il potere in Venezuela, ma Washington la respinge favorendo un approccio diretto; la conferenza di Trump potrebbe delineare il futuro del paese e delle risorse energetiche globali. In Italia, Poste Italiane introduce un canone di 6 euro annui per lo SPID di 28,7 milioni di utenti, cambiando l'accesso ai servizi pubblici digitali, mentre Roma offre ingressi gratuiti ai musei civici domenica 4 gennaio per avvicinare turisti e residenti alla cultura.",
+  "headlines": [
+    {
+      "title": "Forze USA trasferiscono Nicolás Maduro e moglie a New York dopo cattura",
+      "source": "AGI",
+      "summary": "Nicolás Maduro e Cilia Flores, incriminati per narcoterrorismo e traffico droga, arrivano negli USA dopo operazione notturna. Atterrati a Newburgh, scortati FBI a Manhattan e carcere Brooklyn. Segue processo USA con implicazioni geopolitiche sul Venezuela.",
+      "link": "https://www.agi.it/estero/news/2026-01-04/maduro-arresto-venezuela-trump-34921940/",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump annuncia cattura Nicolás Maduro e moglie da parte USA",
+      "source": "AGI",
+      "summary": "Trump su Truth Social conferma cattura Maduro e moglie a Caracas con attacco USA su larga scala. Convoca conferenza stampa ore 17 italiane a Mar-a-Lago. Governo venezuelano denuncia aggressione militare negli stati Miranda e Aragua.",
+      "link": "https://www.agi.it/estero/news/2026-01-03/venezuela-forti-esplosioni-a-caracas-34909398/",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Delta Force USA cattura Maduro e moglie nel sonno durante blitz Caracas",
+      "source": "la Repubblica",
+      "summary": "Unità Delta Force esegue raid notturno in Venezuela sorprese Maduro e moglie addormentati. Tradimento ufficiali protettivi favorisce operazione. L'arresto segna svolta nelle tensioni USA-Venezuela con possibili cambiamenti regime.",
+      "link": "https://www.repubblica.it/esteri/2026/01/04/news/raid_usa_venezuela_delta_force_maduro_arresto_cosa_e_successo-425074773/?rss",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Autorità identificano prime vittime incendio Crans-Montana con 14 italiani feriti",
+      "source": "Euronews Italiano",
+      "summary": "Prime vittime incendio svizzero Crans-Montana identificate e restituite famiglie. 14 italiani tra feriti gravi curati in patria o estero. Indagini su sicurezza antincendio, difetti strutturali e responsabilità penali procedono.",
+      "link": "http://it.euronews.com/2026/01/03/incendio-a-crans-montana-identificate-le-prime-vittime-14-gli-italiani-feriti",
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Compagnie Big Oil puntano giacimenti Venezuela con 303 miliardi barili",
+      "source": "la Repubblica",
+      "summary": "Venezuela detiene 303 miliardi barili petrolio, 17% riserve mondiali. Big Oil mira ai giacimenti post-arresto Maduro, Eni pronta collaborare USA su produzione gas. Opportunità economica per investitori dopo instabilità regime.",
+      "link": "https://www.repubblica.it/esteri/2026/01/04/news/gli_affari_sul_venezuela_mani_sul_petrolio_big_oil_punta_i_giacimenti_piu_grandi_del_mondo-425074790/?rss",
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump dichiara USA governeranno Venezuela e riprenderanno pozzi petrolio",
+      "source": "la Repubblica",
+      "summary": "Trump con Rubio e Hegseth annuncia governo USA transitorio in Venezuela per riprendere pozzi petrolio. Menziona Cuba futura e critica Putin. Dichiarazione segue cattura Maduro con impatto su risorse energetiche globali.",
+      "link": "https://www.repubblica.it/esteri/2026/01/04/news/trump_usa_governeranno_venezuela_transizione_riprendiamo_pozzi_petrolio-425074781/?rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Giovanni Toti manipolava dati contagi COVID in Liguria secondo pm",
+      "source": "Corriere della Sera",
+      "summary": "Procuratori rivelano messaggi Toti a capo gabinetto Cozzani: governatore ammette aver truccato numeri pandemia, aumentando contagi. Indagine su manipolazione dati Liguria durante COVID. Processo chiarirà responsabilità sanitarie.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "María Corina Machado rivendica potere Venezuela ma USA la respingono",
+      "source": "la Repubblica",
+      "summary": "Nobel Machado si dice pronta guidare Venezuela post-Maduro. Washington la scarica, numero 2 regime Rodriguez nega trattative USA e difende risorse. Evoluzione politica incerta dopo cattura con tensioni interne.",
+      "link": "https://www.repubblica.it/esteri/2026/01/04/news/venezuela_operazione_usa_cattura_maduro_nobel_machado_pronta_potere_washington_la_scarica-425074803/?rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Poste Italiane introduce pagamento 6 euro annui SPID per 28,7 milioni utenti",
+      "source": "Il Sole 24 Ore",
+      "summary": "Poste rende a pagamento 6 euro anno PosteID SPID per 28,7 milioni utenti su totale 40 milioni. Altri provider offrono gratis, alcuni già pagano. Cambia accesso servizi pubblici digitali per milioni italiani.",
+      "link": "https://www.ilsole24ore.com/art/spid-non-solo-poste-ecco-provider-che-offrono-gratis-e-chi-fa-gia-pagare-AItPz5g",
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Roma concede ingresso gratis musei civici e aree archeologiche domenica 4 gennaio",
+      "source": "ANSA",
+      "summary": "Domenica 4 gennaio apertura gratuita musei civici Roma, collezioni, mostre e Palazzo Senatorio. Iniziative culturali periodiche aumentano accessibilità siti archeologici. Attrai turisti e residenti con zero costi ingresso.",
+      "link": "https://www.ansa.it/canale_viaggi/regione/lazio/2025/12/29/domenica-gratis-ai-musei-civici-di-roma-e-in-alcune-aree-archeologiche_91025219-fcdd-470f-b5cc-8f9a0159c0b5.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 257,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "environment": 1,
+      "economy": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 6,
+      "europe": 4
+    }
+  }
+}

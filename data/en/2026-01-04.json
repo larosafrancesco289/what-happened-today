@@ -1,0 +1,94 @@
+{
+  "date": "2026-01-04",
+  "summary": "In a stunning escalation of U.S. interventionism, American special forces captured Venezuelan President Nicolás Maduro in a nighttime raid on his Caracas residence, with the Trump administration announcing plans to temporarily govern the oil-rich nation amid crippling economic collapse and disputed elections. The operation, justified as countering narco-terrorism ties, has ignited fierce legal battles in Congress and U.S. courts over violations of international law, echoing post-9/11 debates on executive power. For Venezuela's 28 million citizens, long suffering hyperinflation and shortages, it raises hopes of stability but risks fueling anti-American backlash across Latin America, testing the legitimacy of Washington's hemispheric influence.\n\nThis bold move coincides with surging hybrid threats worldwide. NATO launched its first coordinated defense operation after a suspected sabotage severed a critical undersea cable in the Baltic Sea, prompting alliance navies from Sweden to Germany to patrol vital energy and data links long eyed by Russia. Across Asia, North Korea fired two missiles on erratic trajectories reaching 950km, skirting Japanese airspace and heightening alarms ahead of South Korea-China summits. In Africa, Rwanda-backed M23 rebels stormed Goma, displacing over a million in the Democratic Republic of Congo's key aid hub and worsening famine risks in a conflict that has killed millions since 1996.\n\nLooking ahead, officials from 15 Ukraine-supporting nations, including Britain, France, and Germany, convened in Kyiv—joined virtually by the U.S.—to map a strategy ending Russia's 1,000-day invasion. The talks, blending NATO and EU input, signal momentum toward peace negotiations, potentially easing blackouts and shortages for Ukraine's war-weary population while reshaping European security.",
+  "headlines": [
+    {
+      "title": "Trump Administration Captures Venezuelan President Maduro and Plans to Run Country",
+      "source": "Associated Press",
+      "summary": "U.S. forces seized Venezuela's President Nicolas Maduro in a nighttime raid as part of a campaign against the nation, prompting legal challenges over authority to govern. Congress and courts face decisions on compliance with international law, affecting U.S. foreign policy legitimacy.",
+      "link": "https://apnews.com/article/legal-questions-maduro-trump-venezuela-capture-congress-7c686106ae7ffc759e5a1726e1b85576",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO activates coordinated defenses after a deep-sea cable severance in the Baltic Sea, attributed to sabotage targeting critical infrastructure. Alliance members deploy assets to protect undersea networks vital for communications and energy, signaling heightened vigilance against hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "North Korea Launches Two Missiles on Irregular Trajectories Reaching 950 Kilometers",
+      "source": "Japan Times",
+      "summary": "North Korea conducts its first 2026 missile tests, firing projectiles 900 km and 950 km over irregular paths that threaten southern Japan. Tokyo monitors launches ahead of South Korea-China talks, underscoring regional tensions and proliferation risks for East Asian security.",
+      "link": "https://www.japantimes.co.jp/news/2026/01/04/japan/north-korea-missile-first-2026-japan/",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Swiss Bar Fire Kills 40 People Due to Design and Management Shortcomings",
+      "source": "New York Times World",
+      "summary": "A New Year's Day blaze in a Swiss bar claimed 40 lives, exacerbated by flaws in site design and oversight, experts determine. Investigations continue into building codes, highlighting risks in entertainment venues and prompting safety reforms across Europe.",
+      "link": "https://www.nytimes.com/2026/01/03/world/europe/switzerland-fire-avoidable-hazards.html",
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Palestinians to Return to Northern Gaza After Hostage Release",
+      "source": "Wall Street Journal World",
+      "summary": "Israel opens a military zone bisecting Gaza, allowing displaced residents to walk back north following a hostage deal breakthrough. Hundreds of thousands affected regain access to homes, easing humanitarian strains while ceasefire talks advance.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Seize Congo's Goma Housing Over One Million Displaced",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels overrun Congolese troops to enter Goma amid gunfire and shelling, trapping more than 1 million displaced people in the aid hub city. U.N. warns of humanitarian crisis escalation, complicating regional stability efforts.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Myanmar Junta-Backed Party Secures 90 Percent of Seats in Election First Phase",
+      "source": "South China Morning Post",
+      "summary": "Pro-military party dominates initial voting round, claiming 90% of announced lower house seats in junta-organized polls started a week ago. Results solidify army control post-2021 coup, diminishing pro-democracy hopes amid ongoing civil war.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3338653/myanmars-junta-backed-party-wins-90-seats-first-vote-phase?utm_source=rss_feed",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Ukraine Allies Meet in Kyiv to Discuss Plan Ending Russian Invasion",
+      "source": "Japan Times",
+      "summary": "Officials from 15 nations including Britain, France, Germany, plus NATO and EU representatives, gather in Kyiv with U.S. joining virtually to outline war-end strategy. Meeting advances peace negotiations, offering potential relief to millions enduring conflict.",
+      "link": "https://www.japantimes.co.jp/news/2026/01/04/world/politics/ukraine-allies-talks-end-war/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 460,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 3,
+      "environment": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "europe": 3,
+      "asia-pacific": 2,
+      "middle-east": 1,
+      "africa": 1
+    }
+  }
+}

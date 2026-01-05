@@ -1,0 +1,104 @@
+{
+  "date": "2026-01-05",
+  "summary": "US forces captured Venezuelan President Nicolás Maduro on Saturday in a dramatic raid near Caracas that damaged an apartment complex, leaving streets eerily quiet and stores shuttered the next day. The operation, which comes after years of US sanctions and opposition calls for change amid hyperinflation and mass exodus, creates a power vacuum for 28 million Venezuelans and disrupts global oil supplies from the OPEC founder's vast reserves. Opposition leaders are already plotting a transition, but the move tests America's interventionist stance in Latin America.\n\nNorth Korea responded swiftly, with Kim Jong Un overseeing the launch of two hypersonic missiles near Pyongyang on Monday—a direct rebuke to the US action that Seoul and Tokyo confirmed as advancing Pyongyang's nuclear edge and rattling Asia-Pacific allies. Meanwhile, in Europe, Russia escalated with an overnight air assault on Kyiv that killed at least two civilians, even as NATO launched its first coordinated response to suspected sabotage of a Baltic Sea cable linking critical infrastructure. This comes amid Rwanda-backed rebels overrunning Congolese troops to seize Goma, displacing over a million in the aid-choked city and threatening humanitarian corridors.\n\nLooking ahead, Maduro faces a federal court hearing in New York on Monday, where charges could reshape Venezuela's future and US foreign policy debates. Israel also opened a military zone Sunday, allowing thousands of displaced Palestinians to trek back to northern Gaza's ruins after a hostage impasse eased—hinting at progress in ceasefire talks for the territory's 2 million residents.",
+  "headlines": [
+    {
+      "title": "US Military Captures Venezuelan President Maduro Leaving Caracas in Tense Calm",
+      "source": "Associated Press",
+      "summary": "US forces captured President Nicolás Maduro Saturday in an operation that damaged an apartment complex near Caracas. Residents report quiet streets and closed stores Sunday. The power vacuum affects 28 million Venezuelans and disrupts global oil supplies as opposition eyes transition.",
+      "link": "https://apnews.com/article/maduro-venezuela-caracas-us-a3607a328dbecaa30edc69ae6cc238ee",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Captured Maduro Faces US Federal Court Hearing in New York on Monday",
+      "source": "NPR News",
+      "summary": "US forces detained Venezuelan President Nicolás Maduro Saturday; he awaits trial on federal criminal charges with court appearance Monday in New York City. Venezuelan citizens and opposition leaders face leadership shift. The case tests US intervention policy and Venezuela's political future.",
+      "link": "https://www.npr.org/2026/01/04/nx-s1-5666351/nicolas-maduro-new-york-court-charges",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Bar Fire Kills at Least 40 People in Crans-Montana Swiss Ski Resort",
+      "source": "New York Times World",
+      "summary": "A New Year's Day blaze at a bar in Crans-Montana ski resort kills at least 40, marking one of Switzerland's worst fire disasters. Local residents and visitors struggle to recover. Investigations proceed; the tragedy prompts safety reviews for Alpine venues nationwide.",
+      "link": "https://www.nytimes.com/2026/01/04/world/europe/crans-montana-victims.html",
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Response to Suspected Sabotage of Baltic Sea Cable",
+      "source": "Wall Street Journal World",
+      "summary": "NATO coordinates its initial response after sabotage severs a deep-sea cable in the Baltic Sea, targeting critical infrastructure. Baltic nations and alliance members heighten defenses. The action deters further hybrid threats from adversaries like Russia, safeguarding undersea communications.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Goma City in Eastern Congo",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels backed by Rwanda defeat Congolese troops and enter Goma, where U.N. counts over one million displaced inside the aid hub. Residents endure gunfire and shelling. Evacuations intensify; the advance threatens humanitarian operations in conflict-ridden eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Russian Air Attack Kills at Least Two People Overnight in Kyiv Ukraine",
+      "source": "Deutsche Welle",
+      "summary": "Russian forces launch overnight air attack killing two in Ukraine's capital Kyiv. Civilians suffer casualties amid ongoing war. Defenses intercept some missiles; the strike underscores Russia's escalation, impacting Ukrainian urban populations and NATO support debates.",
+      "link": "https://www.dw.com/en/ukraine-updates-deadly-russian-attack-hits-kyiv/live-75387687?maca=en-rss-en-top-1022-rdf",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "North Korea Launches Two Hypersonic Missiles as Kim Jong Un Oversees Test",
+      "source": "France 24",
+      "summary": "Leader Kim Jong Un supervises hypersonic missile launches near Pyongyang Monday, warning of geopolitical crisis after US Venezuela action. Seoul and Tokyo confirm two ballistic launches. The tests advance nuclear readiness, heightening tensions for Asia-Pacific security and US allies.",
+      "link": "https://www.france24.com/en/asia-pacific/20260105-north-korea-hypersonic-missiles-nuclear-forces",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Launches Crew-10 from Florida to Retrieve Two Stuck NASA Astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 lifts off Friday from Kennedy Space Center carrying NASA astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi and Russia's Kirill Peskov to ISS. Crew-10 enables return of Butch Wilmore and Suni Williams after nine months. Routine rotation restores NASA operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Enter Northern Gaza Across Military Zone",
+      "source": "Wall Street Journal World",
+      "summary": "Israel opens a bisecting military zone permitting thousands of displaced Palestinians to return on foot to northern Gaza after hostage release deadlock breaks. Gazans reclaim homes amid ruins. The move advances ceasefire talks, easing humanitarian crisis for 2 million residents.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 447,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 2,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "europe": 3,
+      "africa": 1,
+      "asia-pacific": 1,
+      "middle-east": 1
+    }
+  }
+}

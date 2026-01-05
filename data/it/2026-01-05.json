@@ -1,0 +1,84 @@
+{
+  "date": "2026-01-05",
+  "summary": "Il Venezuela è scivolato nel caos politico oggi dopo un blitz statunitense che ha portato all'arresto di Nicolás Maduro in aula, con un bilancio di 80 morti. Donald Trump ha dichiarato che gli Stati Uniti 'comandano' nel paese, minacciando la presidente ad interim Delcy Rodríguez e avvertendo Colombia, Messico e Cuba di collaborare sul controllo del petrolio. L'esercito venezuelano ha risposto proclamando Rodríguez presidente legittima, mentre i chavisti manifestano a Caracas e il ministro della Difesa chiama alla stabilizzazione. Questa escalation segue anni di sanzioni USA e crisi economica, rischiando di destabilizzare l'intera America Latina per il suo ruolo nel mercato petrolifero globale.\n\nSpagna, Brasile, Cile, Colombia, Messico e Uruguay – membri del Celac – hanno respinto le affermazioni di Trump, esprimendo preoccupazione per interventi unilaterali e invocando il diritto internazionale per preservare la stabilità regionale. Questo avviene mentre in Italia emerge uno scandalo: i procuratori accusano il governatore ligure Giovanni Toti di aver ordinato la manipolazione dei dati sui contagi Covid dal suo capo gabinetto Matteo Cozzani, ammettendo di averli 'truccati'. L'indagine rivela irregolarità nei report ufficiali, con impatti sulle decisioni sanitarie nazionali durante la pandemia.\n\nGuardando al futuro, la Manovra 2026 italiana attiva bonus immediati per case, famiglie e mamme lavoratrici, fornendo incentivi fiscali per stimolare consumi e natalità in un'economia in ripresa. Intanto, SpaceX abbasserà l'orbita di 4400 satelliti Starlink nel 2026 per ridurre rischi di collisioni spaziali, prevenendo una congestione orbitale catastrofica che minaccia comunicazioni globali; parallelamente, uno studio dell'Università di Tel Aviv su Cell spiega come il melanoma paralizzi i linfociti T, aprendo la porta a immunoterapie rivoluzionarie contro i tumori precoci.",
+  "headlines": [
+    {
+      "title": "Trump afferma di controllare il Venezuela e minaccia Delcy Rodríguez",
+      "source": "ANSA",
+      "summary": "Donald Trump dichiara che gli Usa comandano in Venezuela dopo l'arresto di Nicolás Maduro, oggi in aula, e minaccia la presidente ad interim Delcy Rodríguez se non collaborerà, estendendo avvertenze a Colombia, Messico e Cuba. La mossa mira a influenzare il controllo sul petrolio, rischiando tensioni regionali.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/04/venezuela-maduro-in-cella.-linterim-a-rodriguez-ma-trump-la-minaccia_e9028f56-918b-45fd-902d-f262f2ac67a3.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Spagna e cinque paesi Celac respingono controllo Usa sul Venezuela",
+      "source": "AGI",
+      "summary": "Spagna, Brasile, Cile, Colombia, Messico e Uruguay esprimono preoccupazione per le affermazioni di Trump sul controllo del petrolio venezuelano dopo l'arresto di Maduro. Respingono interventi unilaterali per preservare la stabilità regionale e rispettare il diritto internazionale.",
+      "link": "https://www.agi.it/estero/news/2026-01-05/venezuela-trump-controllo-petrolio-34932246/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Studio rivela come cellule melanoma paralizzano linfociti T",
+      "source": "AGI",
+      "summary": "Ricerca coordinata dall'Università di Tel Aviv dimostra che vescicole extracellulari del melanoma bloccano i linfociti T, favorendo evasione immunitaria nelle fasi iniziali. Pubblicato su Cell, lo studio apre vie per nuove immunoterapie antitumorali efficaci.",
+      "link": "https://www.agi.it/salute/news/2026-01-05/melanoma-vescicole-evasione-immunitaria-34928034/",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "SpaceX abbassa altitudine di 4400 satelliti Starlink nel 2026",
+      "source": "Euronews Italiano",
+      "summary": "SpaceX riduce l'orbita dei suoi circa 4400 satelliti Starlink attivi per minimizzare rischi di collisioni spaziali. La misura, annunciata oggi, affronta congestione orbitale e previene scenari catastrofici per satelliti e detriti, beneficiando operazioni satellitari globali.",
+      "link": "http://it.euronews.com/next/2026/01/04/rischio-collisioni-in-orbita-spacex-ridurra-laltitudine-di-migliaia-di-satelliti-starlink-",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Esercito venezuelano nomina Rodríguez presidente dopo blitz con 80 morti",
+      "source": "la Repubblica",
+      "summary": "L'esercito venezuelano proclama Delcy Rodríguez presidente legittima dopo il blitz statunitense che ha portato all'arresto di Maduro, costato 80 morti. Chavisti manifestano a Caracas; il ministro della Difesa invita a riprendere attività per stabilizzare il paese.",
+      "link": "https://www.repubblica.it/esteri/2026/01/05/news/venezuela_esercito_incorona_rodriguez_presidente_dopo_blitz_usa-425076161/?rss",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Procuratori accusano Toti di manipolare dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo i pm, il governatore ligure Giovanni Toti ordinava al capo gabinetto Matteo Cozzani di alterare dati pandemici, ammettendo di averli 'truccati' o aumentati. L'indagine rivela irregolarità nei report ufficiali, con impatti su decisioni sanitarie nazionali.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Manovra 2026 attiva bonus immediati per casa e mamme lavoratrici",
+      "source": "Il Sole 24 Ore",
+      "summary": "La Manovra 2026 introduce e riconferma bonus per abitazioni, famiglie e lavoratrici madri, alcuni richiedibili da subito. Le misure supportano settori economici chiave, fornendo incentivi fiscali diretti a contribuenti italiani per consumi e natalità.",
+      "link": "https://www.ilsole24ore.com/art/manovra-2026-casa-mamme-lavoratrici-ecco-tutti-bonus-che-si-possono-richiedere-subito-AIM70fh",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 250,
+    "categoryCounts": {
+      "politics": 3,
+      "science": 2,
+      "conflict": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 3,
+      "global": 2
+    }
+  }
+}

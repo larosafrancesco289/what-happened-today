@@ -1,0 +1,87 @@
+{
+  "date": "2026-01-06",
+  "summary": "Venezuela plunged into turmoil as the opposition swore in an interim president in Caracas, hours after US forces abducted President Nicolás Maduro in a dramatic raid. Maduro, facing drug trafficking charges, pleaded not guilty in a New York court, drawing sharp condemnation from leaders across Latin America and beyond. The unprecedented intervention revives memories of US-backed regime changes in the region, risking broader instability as allies like Russia and China decry it as a violation of sovereignty, while testing Washington's legal and diplomatic limits.\n\nIn Gaza, the fragile truce frayed further when Israeli airstrikes hit a tent in al-Mawasi, killing a five-year-old girl and her uncle, pushing the death toll since the ceasefire to 422. Palestinians renewed demands to open the Rafah crossing for aid, even as Israel permitted thousands of displaced Gazans to trek back to northern areas following a hostage release deal—a tentative step amid the enclave's deep divisions. Meanwhile, in Switzerland's Crans-Montana ski resort, residents mourned 40 lives lost in a New Year's bar fire, one of the country's deadliest, prompting urgent calls for safety overhauls that could ripple through Europe's tourism sector.\n\nLooking ahead, Syrian and Israeli officials prepare to resume US-mediated security talks in Paris, aiming for a buffer zone deal along the Golan Heights to ease recent flare-ups. This comes as Guinea's Supreme Court upheld junta leader Gen. Mamadi Doumbouya's presidential win with 86.7% of the vote, signaling a junta-to-civilian transition in West Africa. Separately, a 6.2-magnitude earthquake rattled western Japan with aftershocks but spared major damage, underscoring the region's vigilant seismic readiness.",
+  "headlines": [
+    {
+      "title": "Venezuela Swears in Interim President as Captured Maduro Pleads Not Guilty in US Court",
+      "source": "BBC World",
+      "summary": "Venezuela installs an interim president after US forces abducted Nicolas Maduro from Caracas; he pleaded not guilty to drug charges in New York. Global leaders condemn the action. This escalates US intervention in Latin America, risking regional instability and legal challenges.",
+      "link": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Forces Bomb Gaza Tent Killing Five-Year-Old Girl and Her Uncle",
+      "source": "Al Jazeera English",
+      "summary": "Israeli bombing in al-Mawasi kills a five-year-old girl and her uncle, raising Gaza death toll to 422 since truce. Palestinians demand Rafah crossing opens for aid. Incident underscores fragile ceasefire and ongoing civilian risks in southern Gaza.",
+      "link": "https://www.aljazeera.com/news/2026/1/6/israel-kills-two-in-gaza-as-palestinians-call-for-rafah-crossing-to-open?traffic_source=rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Syrian and Israeli Officials Prepare to Resume US-Mediated Security Talks in Paris",
+      "source": "Associated Press",
+      "summary": "Syrian and Israeli representatives plan US-brokered discussions in Paris to secure a buffer zone agreement defusing Golan Heights tensions. A Syrian official confirmed the restart. Deal could stabilize border after recent escalations, benefiting regional security.",
+      "link": "https://apnews.com/article/syria-israel-us-talks-paris-buffer-21623a9919d031e9d31620902a527089",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Guinea Supreme Court Upholds Junta Leader Doumbouya's Presidential Election Victory",
+      "source": "Associated Press",
+      "summary": "Supreme Court confirms Gen. Mamadi Doumbouya as president-elect with 86.7% of vote in first election since 2021 coup. Junta transitions to elected rule in West Africa. Victory solidifies military hold on power, shaping Guinea's political future.",
+      "link": "https://apnews.com/article/guinea-doumbouya-president-election-supreme-court-conakry-b3cf4eb1e045a525542f59347b08fe1a",
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Crans-Montana Residents Process Aftermath of New Year's Bar Fire That Killed 40 People",
+      "source": "New York Times World",
+      "summary": "Ski resort town Crans-Montana grapples with grief from New Year's Day blaze killing at least 40 in one of Switzerland's worst bar disasters. Locals and victims' families seek answers. Event disrupts tourism economy and prompts safety reforms.",
+      "link": "https://www.nytimes.com/2026/01/04/world/europe/crans-montana-victims.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Cross into Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel opens military zone allowing Gazans to return north on foot following hostage release breakthrough. Thousands affected by prior displacements head home. Move signals partial truce progress amid enclave division.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "6.2-Magnitude Earthquake Hits Western Japan Followed by Multiple Aftershocks",
+      "source": "Deutsche Welle",
+      "summary": "6.2-magnitude quake strikes western Japan with aftershocks but no tsunami warning, injuries, or major damage reported. Residents monitor for further tremors. Event tests preparedness in seismically active region.",
+      "link": "https://www.dw.com/en/6-2-magnitude-earthquake-jolts-western-japan/a-75401318?maca=en-rss-en-top-1022-rdf",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 453,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 1,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "middle-east": 1,
+      "europe": 2,
+      "africa": 1,
+      "asia-pacific": 1,
+      "global": 1
+    }
+  }
+}

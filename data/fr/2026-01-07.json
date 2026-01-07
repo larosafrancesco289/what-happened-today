@@ -1,0 +1,73 @@
+{
+  "date": "2026-01-07",
+  "summary": "Le sommet de Paris sur l'Ukraine a marqué un tournant diplomatique majeur mardi, avec les émissaires de Donald Trump promettant des garanties de sécurité à Kiev en cas de cessez-le-feu avec la Russie. Volodymyr Zelensky, en discussions avec l'émissaire américain Steve Witkoff, a salué ces engagements d'une coalition de 35 pays, tandis qu'Emmanuel Macron a annoncé le déploiement de plusieurs milliers de soldats français dans une force multinationale non combattante post-conflit. Ce développement fait suite à plus de deux ans de guerre dévastatrice, où les forces ukrainiennes tiennent bon malgré les avancées russes à l'est, et vise à dissuader Moscou de relancer les hostilités, sécurisant ainsi l'avenir de millions d'Ukrainiens face à l'hiver rigoureux.\n\nPendant ce temps, Donald Trump consolide ses gains au Venezuela : après la capture du président Nicolás Maduro, Caracas livre entre 30 et 50 millions de barils de pétrole aux États-Unis, renforçant l'approvisionnement énergétique américain au milieu des tensions régionales avec l'Iran et la Russie. Cette opération a cependant déclenché une tempête politique : l'opposition démocrate au Congrès accuse Trump d'avoir violé la Constitution en n'obtenant pas d'autorisation préalable, relançant les débats sur les pouvoirs présidentiels en matière militaire. Parallèlement, la porte-parole de Trump confirme que l'acquisition du Groenland est une priorité de sécurité nationale, avec des options incluant une intervention militaire, provoquant l'inquiétude du Danemark et des divisions au Capitole.\n\nCes initiatives audacieuses signalent un retour à une diplomatie musclée sous Trump, avec des discussions Ukraine-Groenland-Venezuela poursuivies dès mercredi à Paris. Alors que les démocrates préparent d'éventuels recours judiciaires, l'Europe et l'Amérique latine guettent les prochaines étapes, qui pourraient redessiner les alliances mondiales et les flux énergétiques pour les années à venir.",
+  "headlines": [
+    {
+      "title": "Donald Trump annonce livraison 30 à 50 millions barils pétrole vénézuélien aux États-Unis",
+      "source": "Radio-Canada",
+      "summary": "Donald Trump déclare que Caracas livre de 30 à 50 millions de barils de pétrole aux États-Unis suite à la capture de Maduro. Cette remise renforce les relations énergétiques bilatérales et sécurise l'approvisionnement américain face aux tensions régionales.",
+      "link": "https://ici.radio-canada.ca/info/en-direct/1013300/maduro-venezuela-capture-etats-unis-trump",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump étudie options incluant armée pour acquérir Groenland",
+      "source": "Radio-Canada",
+      "summary": "La porte-parole de Donald Trump confirme que l'acquisition du Groenland constitue une priorité de sécurité nationale, avec plusieurs options à l'étude dont l'usage militaire. Cette démarche inquiète le Danemark et soulève des débats au Congrès américain.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2218496/groenland-armee-donald-trump",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Émissaires américains de Trump promettent garanties sécurité à Ukraine depuis Paris",
+      "source": "Le Monde",
+      "summary": "Lors d'un sommet à Paris, les émissaires de Donald Trump offrent des garanties de sécurité à l'Ukraine en cas de cessez-le-feu avec la Russie. La coalition de 35 pays signe une déclaration pour fournir troupes, soutenue par Trump sans signature US.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/07/depuis-paris-les-emissaires-americains-de-donald-trump-promettent-d-offrir-a-l-ukraine-des-garanties-de-securite_6660819_3210.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Volodymyr Zelensky poursuit discussions avec émissaire américain Steve Witkoff à Paris",
+      "source": "Le Monde",
+      "summary": "Zelensky et Steve Witkoff annoncent la poursuite mercredi de leurs discussions à Paris après le sommet de l'Élysée. La coalition s'engage à des garanties pour Kiev post-cessez-le-feu, avec soutien fort de Trump, visant à dissuader une nouvelle attaque russe.",
+      "link": "https://www.lemonde.fr/international/live/2026/01/07/en-direct-guerre-en-ukraine-volodymyr-zelensky-et-l-emissaire-americain-steve-witkoff-annoncent-qu-ils-vont-poursuivre-leurs-discussions-mercredi-a-paris_6660486_3210.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Emmanuel Macron annonce déploiement plusieurs milliers soldats français en Ukraine post-cessez-le-feu",
+      "source": "France Info",
+      "summary": "Emmanuel Macron déclare que plusieurs milliers de soldats français peuvent déployer pour maintenir la paix en Ukraine après un cessez-le-feu, dans une force multinationale non combattante. Cela renforce les engagements alliés lors du sommet parisien de mardi.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-affirme-sur-france-2-que-plusieurs-milliers-de-soldats-francais-pourraient-etre-deployes-pour-maintenir-la-paix-en-ukraine-apres-un-cessez-le-feu_7724527.html#xtor=RSS-3-[lestitres]",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Opposition démocrate accuse Donald Trump violation Constitution pour opération militaire Venezuela",
+      "source": "RFI",
+      "summary": "Après la capture de Maduro, les démocrates reprochent à Trump de ne pas avoir consulté le Congrès avant l'opération au Venezuela. Des experts en droit constitutionnel débattent des pouvoirs présidentiels et recours parlementaires ou judiciaires possibles.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260107-op%C3%A9ration-militaire-am%C3%A9ricaine-au-venezuela-donald-trump-a-t-il-viol%C3%A9-la-constitution-am%C3%A9ricaine",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 213,
+    "categoryCounts": {
+      "economy": 1,
+      "politics": 4,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 4
+    }
+  }
+}

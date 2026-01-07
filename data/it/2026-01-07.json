@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-07",
+  "summary": "Al vertice di Parigi sulla sicurezza ucraina, leader europei come Keir Starmer, Emmanuel Macron e Pedro Sánchez, insieme agli Stati Uniti, hanno approvato garanzie militari con truppe europee e americane per deterrere ulteriori aggressioni russe. Zelensky ha accolto con favore l'impegno americano, mentre Giorgia Meloni ha confermato il sostegno italiano a Kiev con aiuti e pressioni su Mosca, ma ha escluso l'invio di soldati sul campo. Questo passo, che blocca anche mosse sull'indipendenza della Groenlandia, rafforza l'alleanza atlantica in un momento critico della guerra, dove la Russia continua a guadagnare terreno nell'est, ma evidenzia divisioni interne: l'ex generale britannico Richard Schirreff ha criticato il piano come insufficiente, chiedendo truppe da combattimento vere per evitare escalation putiniane.\n\nNel frattempo, in Iran gli scontri tra manifestanti e polizia nel bazar di Teheran hanno causato 27 morti, con agenti che hanno assaltato un ospedale usando lacrimogeni; queste proteste rappresentano l'ultima sfida aperta al regime, rischiando una repressione ancora più dura. Parallelamente, in Medio Oriente l'esercito israeliano ha ferito 11 studenti all'Università di Bir Zeit in Cisgiordania, arrestato giornalisti e colpito tende di profughi a Gaza uccidendo 4 persone, inclusa una bimba di 5 anni, mentre spara su zone Unifil in Libano: l'Ue chiede accesso umanitario, aggravando la crisi in un contesto di tensioni regionali collegate.\n\nGuardando al futuro, la Commissione Ue di Ursula von der Leyen ha proposto 45 miliardi di euro anticipati dai fondi Pac per l'agricoltura europea dal 2028, per calmare gli agricoltori contro l'accordo Mercosur: Italia pro, Francia incerta, con decisione imminente a Bruxelles. Al CES di Las Vegas, robot umanoidi demo come croupier, commessi e ballerini segnalano un'automazione quotidiana in arrivo, trasformando servizi e posti di lavoro.",
+  "headlines": [
+    {
+      "title": "Leader europei e Usa approvano truppe per sicurezza in Ucraina a Parigi",
+      "source": "la Repubblica",
+      "summary": "Al vertice di Parigi, Starmer, Macron e Sánchez confermano garanzie con truppe europee e americane per l'Ucraina; Ue blocca mosse su Groenlandia. Zelensky apprezza aiuto Usa sulla deterrenza. L'accordo rafforza sostegno militare contro Russia.",
+      "link": "https://www.repubblica.it/esteri/2026/01/07/news/accordo_ucraina_volenterosi_truppe_sicurezza_groenlandia_ue-425079248/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Manifestanti iraniani scontri con polizia a Teheran causano 27 morti",
+      "source": "la Repubblica",
+      "summary": "Scontri violenti nel bazar di Teheran tra manifestanti e agenti; polizia assalta ospedale con lacrimogeni. Morti salgono a 27. Proteste rappresentano ultima chance contro regime, con rischi di repressione maggiore.",
+      "link": "https://www.repubblica.it/esteri/2026/01/07/news/iran_rabbia_piazze_proteste_teheran_bazar-425079157/?rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Saint-Tropez seppellisce Brigitte Bardot con funerale discreto",
+      "source": "AGI",
+      "summary": "Brigitte Bardot viene sepolta oggi a Saint-Tropez nella chiesa di Notre-Dame de l'Assomption e cimitero sul mare. Partecipa Marine Le Pen, assente Macron; evento riflette amore per animali e idee di estrema destra. Attesi vip del cinema.",
+      "link": "https://www.agi.it/estero/news/2026-01-07/brigitte-bardot-funerali-saint-tropez-34964122/",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Meloni conferma sostegno a Kiev ma esclude truppe italiane sul campo",
+      "source": "AGI",
+      "summary": "Al vertice di Parigi sui volenterosi, Giorgia Meloni ribadisce appoggio all'Ucraina e pressione su Russia, definendolo costruttivo. Esclude invio soldati italiani; difende Groenlandia come parte Nato. Passaggio chiave per alleanze atlantiche.",
+      "link": "https://www.agi.it/politica/news/2026-01-07/ucraina-meloni-vertice-parigi-34963571/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Esercito israeliano ferisce 11 all'Università di Bir Zeit e arresta giornalisti",
+      "source": "Rai News",
+      "summary": "Raid israeliano a Cisgiordania ferisce 11 studenti all'Università di Bir Zeit e arresta giornalisti. In Libano spara su zona Unifil; Ue chiede accesso Ong a Gaza. Bombe su tende profughi uccidono 4, inclusa bimba di 5 anni, aggravando crisi umanitaria.",
+      "link": "https://www.rainews.it/maratona/2026/01/gaza-guerra-tregua-fragile-raid-israeliano-universita-bir-zeit-feriti-arresti-giornalisti-38a09ca0-79cf-4f2e-8f33-d3c76faacba8.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Von der Leyen offre 45 miliardi euro agricoltura per accordo Mercosur",
+      "source": "Euronews Italiano",
+      "summary": "Commissione Ue propone accesso anticipato a 45 miliardi fondi PAC dal 2028 per calmare agricoltori contro Mercosur. Italia orientata al sì, Francia incerta; decisione a Bruxelles tra mercoledì e venerdì. Pacchetto mitiga impatti su settore europeo.",
+      "link": "http://it.euronews.com/business/2026/01/06/von-der-leyen-subito-45-miliardi-al-settore-agricolo-per-il-via-libera-allaccordo-con-il-m",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Generale Schirreff critica piano volenterosi e chiede truppe da combattimento",
+      "source": "la Repubblica",
+      "summary": "Ex generale britannico Richard Schirreff definisce piano volenterosi passo avanti ma insufficiente contro Russia. Necessarie truppe pronte e capaci di combattere per deterrenza. Intervista evidenzia rischi di ulteriori aggressioni putiniane senza forza adeguata.",
+      "link": "https://www.repubblica.it/esteri/2026/01/07/news/richard_schirreff_intervista_piano_volenterosi_ucraina_serve_forza_militare_forte_fermare_putin-425079151/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm accusano Toti di manipolare dati Covid in Liguria sui contagi",
+      "source": "Corriere della Sera",
+      "summary": "Procuratori rivelano che governatore Giovanni Toti ordinava a capo gabinetto Matteo Cozzani di truccare numeri pandemia, aumentando contagi. Indagine espone irregolarità statistiche in Liguria. Procede inchiesta su falsificazioni dati ufficiali.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Polizia cattura a Desenzano killer capotreno accoltellato a Bologna",
+      "source": "Rai News",
+      "summary": "Forze dell'ordine arrestano Marin Jelenic, 36enne croato, a Desenzano dopo fuga via Milano e Niguarda verso Garda. Identificato con impronte digitali. Cattura chiude caso omicidio capotreno, garantisce sicurezza trasporti.",
+      "link": "https://www.rainews.it/video/2026/01/capotreno-accoltellato-a-bologna-video-della-polizia-mostra-il-sospettato-in-centrale-a-milano-8d684881-4920-4e04-ae65-9911fdccde58.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Robot umanoidi svolgono ruoli croupier commessi e ballerini al CES Las Vegas",
+      "source": "Rai News",
+      "summary": "Al CES di Las Vegas, robot umanoidi demo come croupier casinò, commessi e ballerini mostrano avanzamenti ingegneria. Industria immagina integrazione quotidiana. Evento evidenzia futuro automazione in servizi e intrattenimento.",
+      "link": "https://www.rainews.it/video/2026/01/croupier-al-casino-commessi-o-ballerini-i-robot-umanoidi-protagonisti-al-ces-di-las-vegas-68c7a2e7-4bda-465b-9f9e-cb683e46c5d8.html",
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 257,
+    "categoryCounts": {
+      "conflict": 3,
+      "society": 2,
+      "politics": 3,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 6,
+      "middle-east": 2,
+      "global": 1,
+      "americas": 1
+    }
+  }
+}

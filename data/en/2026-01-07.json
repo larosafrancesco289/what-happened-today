@@ -1,0 +1,94 @@
+{
+  "date": "2026-01-07",
+  "summary": "US special forces raided Nicolas Maduro's Caracas residence on Saturday, capturing Venezuela's ousted leader and his wife on narcoterrorism and drug trafficking charges—a bold assertion of American power in Latin America after years of sanctions stalemate. President Trump quickly announced that Venezuelan officials would ship 30-50 million barrels of sanctioned oil directly to the US, the first major concession from Caracas. This chain of events stabilizes US energy supplies amid global volatility while pressuring authoritarian holdouts, though Asian strongmen are reportedly drawing closer to Russia and China in response.\n\nThe drama unfolded as chaos engulfed eastern Congo, where Rwanda-backed M23 rebels overran government troops and entered Goma city amid gunfire and shelling, cramming over one million displaced people into aid hubs. UN officials scrambled an emergency response, warning of deepened humanitarian crisis and threats to regional stability. Meanwhile, in Europe, Britain and France finalized postwar troop commitments to Ukraine—despite Moscow's rebuffs—while NATO launched its first coordinated assets to probe suspected sabotage of another Baltic Sea cable, underscoring hybrid threats to critical energy and communications links from Kaliningrad to Stockholm.\n\nAs Maduro and his wife pleaded not guilty in New York federal court, their trial promises to expose Venezuela's criminal networks, potentially reshaping counternarcotics across the hemisphere and signaling tougher US stances toward rogue regimes worldwide.",
+  "headlines": [
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "source": "Wall Street Journal World",
+      "summary": "Rwanda-backed rebels overran Congolese troops, entering Goma amid gunfire and shelling. Over one million displaced people now cram the city, straining aid hubs. U.N. officials coordinate emergency response; escalation threatens regional stability and humanitarian access in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "US Special Forces Capture Venezuelan Leader Maduro and Wife in Caracas Raid",
+      "source": "South China Morning Post",
+      "summary": "US special forces stormed Nicolas Maduro's Caracas residence on Saturday, seizing him and his wife for narcoterrorism and drug trafficking charges. Asian autocrats respond by aligning closer with Russia and China. This asserts US influence, reshaping alliances in authoritarian regimes.",
+      "link": "https://www.scmp.com/week-asia/politics/article/3338994/maduro-effect-regime-change-fears-grip-asias-autocrats-after-us-raid-venezuela?utm_source=rss_feed",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "President Trump Announces Venezuela Ships 30 Million to 50 Million Barrels of Oil to US",
+      "source": "New York Times World",
+      "summary": "President Trump states Venezuelan officials agree to ship 30 million to 50 million barrels of sanctioned oil directly to the US. This first major concession follows Maduro's capture. Shipments stabilize US energy supplies and pressure Caracas toward normalization.",
+      "link": "https://www.nytimes.com/live/2026/01/06/world/venezuela-maduro-us-trump",
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Britain and France Agree to Postwar Troop Commitments in Ukraine",
+      "source": "New York Times World",
+      "summary": "Britain and France finalize postwar security provisions, committing troops to Ukraine despite Russian rejection of NATO forces. European allies strengthen Kyiv's defenses. Agreement advances peace talks, securing long-term European security against Russian aggression.",
+      "link": "https://www.nytimes.com/2026/01/06/world/europe/ukraine-talks-europe.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO deploys assets after suspected sabotage severs another deep-sea cable in the Baltic Sea. Critical infrastructure for Europe faces hybrid threats. Alliance protects communications and energy links, deterring aggressors and ensuring transatlantic connectivity.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Nicolás Maduro and Wife Plead Not Guilty to Narcoterrorism Charges in New York",
+      "source": "NPR News",
+      "summary": "Ousted Venezuelan leader Nicolás Maduro and his wife plead not guilty in New York federal court to narcoterrorism and drug trafficking. US lawmakers debate the seizure's legality. Trial exposes Venezuela's networks, influencing regional counternarcotics efforts.",
+      "link": "https://www.npr.org/2026/01/06/g-s1-104740/up-first-newsletter-nicolas-maduro-court-venezuela-congress-vaccine-schedule",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "CDC Reduces Routine Childhood Vaccine Recommendations at Trump Direction",
+      "source": "NPR News",
+      "summary": "CDC scales back routine childhood vaccine schedule following President Trump's directive. Millions of US children receive adjusted immunization plans. States adapt policies, prioritizing parental choice and reshaping public health strategies nationwide.",
+      "link": "https://www.npr.org/2026/01/06/g-s1-104740/up-first-newsletter-nicolas-maduro-court-venezuela-congress-vaccine-schedule",
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Police Probe Murder of Six-Year-Old Girl Outside Bengaluru Family Home",
+      "source": "The Hindu",
+      "summary": "Father returns from lunch to find his six-year-old daughter murdered near their makeshift house in Bengaluru's Whitefield area. Police investigate suspects and motives. Case underscores child safety risks in urban slums, prompting enhanced local patrols.",
+      "link": "https://www.thehindu.com/news/national/karnataka/six-year-old-girl-found-murdered-at-whitefield-in-bengaluru/article70480827.ece",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 465,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 1,
+      "politics": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "africa": 1,
+      "americas": 4,
+      "europe": 2,
+      "global": 1
+    }
+  }
+}

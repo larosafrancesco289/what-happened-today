@@ -1,0 +1,82 @@
+{
+  "date": "2026-01-08",
+  "summary": "Donald Trump ha firmato un decreto che porta gli Stati Uniti fuori da 66 organizzazioni internazionali, definite dalla Casa Bianca come mal gestite e dispendiose. Questa mossa, che riduce le spese pubbliche di miliardi di dollari, riafferma la politica 'America First' del secondo mandato presidenziale, segnando un ulteriore ritiro dal multilateralismo globale iniziato con il primo mandato. Per i cittadini americani, significa minori tasse ma anche un ridimensionamento dell'influenza Usa in forum come l'Onu o l'Oms, mentre i partner internazionali temono un mondo più frammentato.\n\nNel frattempo, la Commissione Ue punta a chiudere entro il weekend l'accordo con il Mercosur, aprendo mercati sudamericani a migliaia di prodotti europei con tagli ai dazi. L'Italia di Giorgia Meloni dà il via libera con garanzie per l'agricoltura, in un contesto di protezionismo crescente: oggi la commissione Ambiente del Senato ha approvato un emendamento che rafforza il Golden Power su settori strategici come energia e tech. Questo avviene mentre Venezuela e Usa avviano negoziati su esportazioni petrolifere da Pdvsa, basati su legalità e reciproco vantaggio, per normalizzare scambi dopo anni di sanzioni.\n\nGuardando avanti, le tensioni interne in Italia rischiano di protrarsi: Antonio Decaro è stato proclamato presidente della Puglia dopo 45 giorni dal voto, ma la giunta slitta per ritardi procedurali, promettendo inclusività. A Roma, cinque proiettili hanno crivellato la sede Cgil di Primavalle e quattro militanti sono stati aggrediti durante le commemorazioni della strage Acca Larentia del 1978; Meloni condanna gli episodi invocando pacificazione, mentre indagini delle forze dell'ordine segnalano fragilità sociali che potrebbero infiammare il 2025.",
+  "headlines": [
+    {
+      "title": "Trump firma decreto per uscita Usa da 66 organizzazioni internazionali",
+      "source": "TGCOM24",
+      "summary": "Donald Trump ha firmato il decreto che porta gli Stati Uniti fuori da 66 organizzazioni internazionali, definite dalla Casa Bianca mal gestite e dispendiose. La mossa riduce le spese pubbliche e riorienta le priorità estere americane.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/trump-firma-l-addio-usa-a-66-organizzazioni-internazionali_107716241-202602k.shtml",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Commissione Ambiente Senato approva emendamento riforma Golden Power",
+      "source": "Il Sole 24 Ore",
+      "summary": "La commissione Ambiente del Senato ha approvato l'emendamento al decreto Transizione 5.0 che modifica i poteri del Golden Power. Oggi passa all'aula del Senato, poi alla Camera. La riforma rafforza i controlli statali su settori strategici.",
+      "link": "https://www.ilsole24ore.com/art/golden-power-primo-ok-riforma-commissione-senato-AIWmUsk",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Commissione Ue punta a approvazione accordo Mercosur entro fine settimana",
+      "source": "Il Sole 24 Ore",
+      "summary": "La Commissione Ue mira all'ok sull'accordo Mercosur entro il weekend. Il ministro Lollobrigida conferma disponibilità italiana con garanzie per l'agricoltura. L'intesa apre mercati sudamericani riducendo dazi su migliaia di prodotti europei.",
+      "link": "https://www.ilsole24ore.com/art/lollobrigida-con-garanzie-agricoltura-pronti-si-mercosur-AIVmURk",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela avvia negoziati con Stati Uniti su esportazioni petrolio",
+      "source": "TGCOM24",
+      "summary": "La compagnia statale Pdvsa annuncia l'avvio di negoziati con gli Usa sul petrolio, basati su legalità, trasparenza e reciproco vantaggio. Le discussioni mirano a normalizzare scambi energetici tra i due paesi dopo tensioni passate.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/venezuela-usa-petrolio-negoziati_107712911-202602k.shtml",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Regione Puglia proclama Antonio Decaro presidente dopo 45 giorni dal voto",
+      "source": "Il Sole 24 Ore",
+      "summary": "Antonio Decaro è stato proclamato presidente della Regione Puglia a un mese e mezzo dalle elezioni regionali. La giunta non è ancora formata per ritardi procedurali. Decaro promette inclusività; la formazione governativa slitta ulteriormente.",
+      "link": "https://www.ilsole24ore.com/art/puglia-un-mese-e-mezzo-elezioni-giunta-regionale-ancora-non-c-e-ecco-perche-AI5Yidk",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ignoti sparano cinque proiettili contro sede Cgil Primavalle a Roma",
+      "source": "Il Sole 24 Ore",
+      "summary": "Nella sede Cgil di Primavalle a Roma sono stati trovati cinque fori di proiettile sulle vetrate e serrande. La Cgil denuncia l'attacco e chiede indagini. L'episodio solleva preoccupazioni su tensioni sindacali nella capitale.",
+      "link": "https://www.ilsole24ore.com/art/roma-trovati-cinque-fori-proiettile-sede-cgil-primavalle-AIbxAik",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Quattro militanti aggrediti a Roma per anniversario strage Acca Larentia",
+      "source": "Il Sole 24 Ore",
+      "summary": "Quattro militanti sono stati aggrediti a Roma durante le commemorazioni della strage Acca Larentia del 1978. Giorgia Meloni condanna l'episodio e invoca pacificazione nazionale. Le forze dell'ordine indagano sugli aggressori.",
+      "link": "https://www.ilsole24ore.com/art/acca-larenzia-meloni-se-dissenso-e-aggressione-democrazia-perde-AIWDeVk",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 257,
+    "categoryCounts": {
+      "politics": 4,
+      "economy": 1,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 5
+    }
+  }
+}

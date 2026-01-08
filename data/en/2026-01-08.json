@@ -1,0 +1,85 @@
+{
+  "date": "2026-01-08",
+  "summary": "President Trump's executive order withdrawing the United States from 66 international organizations, including the UN Population Fund and climate treaty bodies, marks a sharp pivot toward isolationism. This sweeping retreat—suspending funding and participation—affects global efforts on migration, labor rights, and environmental protection, drawing sharp rebukes from diplomats who warn it undermines U.S. influence at a time when collective action is needed most. Coming amid rising geopolitical tensions, the move echoes Trump's first-term skepticism of multilateralism and signals a reorientation of American priorities away from shared governance.\n\nThis comes as U.S. forces escalated enforcement of sanctions by seizing two Venezuelan oil tankers from the shadow fleet in predawn raids across the North Atlantic and Caribbean Sea, heightening friction in the region's political crisis. Meanwhile, NATO launched its first coordinated response to suspected sabotage after another undersea cable was severed in the Baltic Sea, protecting critical infrastructure linking alliance members like Sweden and Finland. These incidents underscore hybrid threats to Western security, paralleling Israel's decision to allow thousands of displaced Palestinians to return on foot to northern Gaza following a hostage-release deal, offering rare humanitarian relief in the enclave's protracted conflict.\n\nLooking ahead, Trump's proposed $1.5 trillion military budget for 2027—the largest ever—aims to bolster advanced weaponry amid these global frictions, though it faces congressional scrutiny over taxpayer costs. In Rome, Pope Francis, 88, was declared stable after four weeks battling double pneumonia at Gemelli hospital, easing concerns for the global Catholic community as less frequent updates are expected.",
+  "headlines": [
+    {
+      "title": "Trump Administration Withdraws US from 66 International Organizations",
+      "source": "Associated Press",
+      "summary": "President Trump signed an executive order suspending US support for 66 organizations, including UN population agency and climate treaty bodies. This retreat affects global cooperation on climate, labor and migration. Diplomats criticize the move as isolating US interests.",
+      "link": "https://apnews.com/article/united-nations-trump-international-organizations-withdrawal-d704fb9b444dc9cf569865d391b544a6",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "US Forces Seize Two Venezuelan Oil Tankers in North Atlantic",
+      "source": "BBC World",
+      "summary": "US forces boarded two shadow fleet tankers linked to Venezuelan oil in predawn operations in the North Atlantic and Caribbean Sea. This escalates tensions amid Venezuela crisis, affecting oil sanctions enforcement. Further US actions on regional control follow.",
+      "link": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Allows Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Palestinians to cross a military zone back to northern Gaza following a hostage release breakthrough. Thousands affected by prior evacuation now return on foot. This eases humanitarian crisis in the enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO coordinates response after another deep-sea cable severance in the Baltic Sea amid suspected sabotage campaign. Critical infrastructure across alliance members faces risks. This sets precedent for defending undersea assets.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump Proposes $1.5 Trillion US Military Budget for 2027",
+      "source": "Deutsche Welle",
+      "summary": "President Trump requests record $1.5 trillion military budget for 2027 to build advanced forces. This impacts defense spending priorities and taxpayer funds amid global tensions. Congress will review the proposal.",
+      "link": "https://www.dw.com/en/trump-seeks-record-military-budget-of-1-5t/a-75426830?maca=en-rss-en-top-1022-rdf",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Vatican Declares Pope Francis Stable After Four Weeks in Hospital",
+      "source": "Voice of America",
+      "summary": "Pope Francis, 88, recovers from double pneumonia at Rome’s Gemelli hospital and exits imminent danger. Less frequent updates expected unless changes occur. Global Catholic community monitors his complex prognosis.",
+      "link": "https://www.voanews.com/a/vatican-francis-stable-out-of-imminent-danger-of-death/8011730.html",
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Florida Governor DeSantis Calls April Special Session for Redistricting",
+      "source": "Associated Press",
+      "summary": "Gov. Ron DeSantis schedules April special session for legislature to redraw congressional districts mid-decade. Florida Republicans aim to gain seats before 2026 elections. Supreme Court ruling may influence process.",
+      "link": "https://apnews.com/article/florida-redistricting-census-desantis-b10b743019ba7f25a2f26d3ccdaf9a67",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 459,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 3,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "global": 1,
+      "americas": 3,
+      "middle-east": 1,
+      "europe": 2
+    }
+  }
+}

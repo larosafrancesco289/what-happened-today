@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-09",
+  "summary": "La Russia ha intensificato la guerra in Ucraina con un massiccio attacco notturno su Kiev, Leopoli e Kherson, utilizzando per la prima volta il supermissile Oreshnik – non intercettabile, con velocità oltre 6.000 km/h e testata multipla – contro Leopoli, vicina al confine polacco. L'offensiva ha causato 4 morti a Kiev e 4 a Kherson, lasciando milioni senza acqua ed elettricità mentre l'inverno avanza. Mosca ha avvertito che truppe anglo-francesi in Ucraina diventeranno obiettivi legittimi, un'escalation che Kiev denuncia come minaccia per l'Europa occidentale, mentre la NATO rafforza il monitoraggio al confine orientale. Questo segue settimane di bombardamenti russi che colpiscono infrastrutture vitali, esacerbando la crisi umanitaria per i civili ucraini.\n\nNel frattempo, tensioni transatlantiche esplodono sull'Artico: gli USA di Trump offrono 100.000 dollari pro capite ai groenlandesi per acquisire l'isola strategica, spingendo l'UE ad attivare l'articolo 42.7 del Trattato per difendere la Danimarca da possibili aggressioni. Parallelamente, agricoltori spagnoli bloccano strade in Catalogna contro l'accordo UE-Mercosur, temendo concorrenza sleale da carne e soia sudamericane; la Francia di Macron voterà contro venerdì a Bruxelles, ma la maggioranza qualificata lo approverà comunque, segnando una frattura interna europea su commercio e agricoltura.\n\nGuardando avanti, la NASA ha sospeso la missione Crew-11 per problemi medici di un astronauta sulla ISS, con rientro imminente nei prossimi giorni, evidenziando i rischi delle missioni prolungate. In Italia, procedono indagini su Giovanni Toti per manipolazione dati COVID in Liguria, mentre Sapienza e Regione Lazio lanciano un progetto da 1 miliardo per rigenerare il Policlinico Umberto I di Roma in una 'città giardino', promettendo migliori cure per milioni di cittadini.",
+  "headlines": [
+    {
+      "title": "Russia attacca Kiev e Leopoli con bombe causando 4 morti a Kiev e 4 a Kherson",
+      "source": "Rai News",
+      "summary": "Nella notte la Russia ha lanciato un massiccio attacco missilistico su Kiev, Leopoli e Kherson, uccidendo 4 persone a Kiev e 4 a Kherson. Milioni di residenti restano senza acqua e elettricità. Mosca avverte che truppe anglo-francesi in Ucraina diventeranno obiettivi legittimi, aggravando le tensioni.",
+      "link": "https://www.rainews.it/maratona/2026/01/ucraina-guerra-nuovo-massiccio-attacco-russo-bombe-su-kiev-e-leopoli-fb58382f-c79f-4da2-aa79-44eb2955c681.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russia colpisce Leopoli con supermissile Oreshnik non intercettabile",
+      "source": "la Repubblica",
+      "summary": "La Russia ha usato il missile Oreshnik, con testata multipla e velocità oltre 6000 km/h, contro Leopoli. L'arma elude le difese antiaeree ucraine e rappresenta una minaccia per l'Europa occidentale. Kiev denuncia l'escalation, mentre l'Occidente valuta risposte difensive.",
+      "link": "https://www.repubblica.it/esteri/2026/01/09/news/ucraina_attacco_russia_leopoli_colpita_supermissile_oreshnik-425083800/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russia lancia missili e droni su Leopoli e altre città ucraine",
+      "source": "TGCOM24",
+      "summary": "Mosca ha sferrato un attacco massiccio con missili e droni contro Leopoli, vicina al confine polacco, e altre aree ucraine. L'offensiva notturna causa danni infrastrutturali significativi. L'Ucraina rafforza le difese aeree, mentre la NATO monitora la situazione al confine orientale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/massiccio-attacco-russo-sull-ucraina-nel-mirino-anche-leopoli_107741521-202602k.shtml",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Procuratori accusano Toti di manipolare dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo i pm, il governatore Giovanni Toti ordinava al capo gabinetto Matteo Cozzani di truccare i numeri dei contagi COVID, ammettendo di averli aumentati. L'inchiesta rivela irregolarità sistematiche sui dati pandemici. Procede l'indagine con possibili conseguenze politiche per Toti.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Sapienza presenta progetto da 1 miliardo per nuovo Policlinico Umberto I",
+      "source": "AGI",
+      "summary": "Università Sapienza e Regione Lazio hanno svelato il piano di rigenerazione del Policlinico Umberto I di Roma, su 280mila mq con 51 edifici storici. Il progetto da 1 miliardo euro crea un 'città giardino'. I lavori partiranno prossimamente, migliorando servizi sanitari per milioni di romani.",
+      "link": "https://www.agi.it/cronaca/news/2026-01-09/sanita-il-nuovo-umberto-i-citt-giardino-34993246/",
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "UE attiva clausola difesa mutua contro mire USA su Groenlandia",
+      "source": "AGI",
+      "summary": "L'articolo 42.7 del Trattato UE obbliga gli Stati membri ad assistere la Danimarca se gli USA minacciano militarmente la Groenlandia. La clausola di difesa mutua si applica in caso di aggressione armata. L'Europa prepara opzioni di risposta per proteggere il territorio artico strategico.",
+      "link": "https://www.agi.it/estero/news/2026-01-09/groenlandia-difesa-europea-clausola-ue-34992709/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA interrompe missione Crew-11 per problemi medici di astronauta su ISS",
+      "source": "Rai News",
+      "summary": "Un astronauta sulla Stazione Spaziale Internazionale ha accusato problemi medici non specificati per privacy, portando la NASA a sospendere la missione Crew-11. Nei prossimi due giorni annuncerà la data di rientro. L'incidente evidenzia rischi sanitari nelle missioni spaziali prolungate.",
+      "link": "https://www.rainews.it/articoli/2026/01/problemi-medici-per-un-astronauta-sulla-iss-la-nasa-interrompe-la-missione-crew-11-d6c485a5-0c70-489c-ab20-c5b8ef67ad36.html",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Agricoltori spagnoli bloccano strade contro accordo Mercosur",
+      "source": "Euronews Italiano",
+      "summary": "Agricultori e allevatori spagnoli protestano contro l'accordo UE-Mercosur bloccando strade, con tensioni in Catalogna dove minacciano scioperi indefiniti. Si uniscono alle manifestazioni europee temendo concorrenza sleale. Il voto cruciale a Bruxelles avviene venerdì.",
+      "link": "http://it.euronews.com/2026/01/09/accordo-mercosur-protesta-degli-agricoltori-anche-in-spagna",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Francia vota contro accordo Mercosur ponendo Macron in minoranza",
+      "source": "Euronews Italiano",
+      "summary": "Parigi opporrà voto contrario all'accordo commerciale UE-Mercosur nel Consiglio di venerdì a Bruxelles. La maggioranza qualificata degli Stati membri lo approverà comunque, segnando una sconfitta per Macron. L'intesa apre mercati sudamericani ma preoccupa settori agricoli europei.",
+      "link": "http://it.euronews.com/my-europe/2026/01/09/parigi-votera-no-al-mercosur-macron-messo-in-minoranza",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "USA offrono 100mila dollari a groenlandesi contro UE",
+      "source": "la Repubblica",
+      "summary": "L'amministrazione Trump prepara un'offerta di 100mila dollari pro capite ai groenlandesi per acquisire l'isola, mentre l'UE valuta quattro opzioni di controfferta finanziaria. La gara per risorse artiche strategiche intensifica tensioni transatlantiche. La Danimarca resiste alle pressioni esterne.",
+      "link": "https://www.repubblica.it/esteri/2026/01/09/news/groenlandia_soldi_usa_e_ue-425083442/?rss",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 257,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "science": 2,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 8,
+      "global": 2
+    }
+  }
+}

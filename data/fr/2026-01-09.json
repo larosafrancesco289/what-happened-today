@@ -1,0 +1,73 @@
+{
+  "date": "2026-01-09",
+  "summary": "Les autorités iraniennes ont imposé une panne totale d'Internet dans tout le pays pour contrer les manifestations massives contre le régime qui paralysent Téhéran. Confirmée par NetBlocks, une ONG spécialisée, cette mesure isole les protestataires, empêche la diffusion d'images de répression et rappelle les blackouts de 2019 et 2022 lors des soulèvements pour Mahsa Amini. Alors que des centaines de milliers descendent dans la rue contre la corruption et l'autoritarisme, cette coupure accentue la crise politique, risquant d'exacerber les tensions internes et d'isoler davantage l'Iran sur la scène internationale.\n\nEn Europe, Emmanuel Macron a déclaré que la France votera contre l'accord commercial UE-Mercosur, soutenu par l'Autriche, l'Italie et les Pays-Bas qui exigent des garanties strictes sur les normes environnementales et sanitaires. Cela protège les 10 millions d'agriculteurs européens face à la concurrence sud-américaine, menaçant de torpiller les négociations de sept ans. Le même jour, la Russie a libéré le chercheur français Laurent Vinatier, détenu 18 mois, en échange du basketteur russe Daniil Kasatkin emprisonné en France depuis juin – un rare échange diplomatique sur fond de bombardements russes massifs sur l'Ukraine, soulignant des canaux secrets malgré l'escalade.\n\nAux États-Unis, des heurts éclatent à Minneapolis après la mort d'une habitante tuée par un agent de l'ICE, et à Portland où des policiers fédéraux blessent deux personnes dans une fusillade, ravivant les critiques sur la brutalité policière et les interventions fédérales. Pendant ce temps, Donald Trump annonce une rencontre la semaine prochaine avec Maria Corina Machado, leader de l'opposition vénézuélienne, signalant un renforcement du soutien américain contre Nicolás Maduro et une possible inflexion de la politique étrangère post-électorale.",
+  "headlines": [
+    {
+      "title": "Les autorités iraniennes coupent Internet face aux manifestations massives dans la capitale",
+      "source": "Radio-Canada",
+      "summary": "Les autorités iraniennes ont coupé Internet dans tout le pays pour freiner les manifestations contre le régime qui gagnent Téhéran. Une ONG confirme la panne totale. Cela isole les protestataires et limite la diffusion d'images de contestation, intensifiant la crise politique.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2219173/internet-coupure-iran-manifestations",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Emmanuel Macron annonce que la France votera contre l'accord UE-Mercosur",
+      "source": "RTBF (Belgian)",
+      "summary": "Emmanuel Macron déclare que la France s'opposera à la signature de l'accord commercial entre l'UE et le Mercosur. L'Autriche, l'Italie et les Pays-Bas exigent des garanties sur les normes environnementales et sanitaires. Cela menace de bloquer l'accord et protège les agriculteurs européens.",
+      "link": "https://www.rtbf.be/article/france-macron-annonce-que-la-france-votera-contre-la-signature-de-l-accord-entre-l-union-europeenne-et-les-pays-du-mercosur-11658554",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La Russie libère le chercheur français Laurent Vinatier contre un prisonnier russe",
+      "source": "20 Minutes",
+      "summary": "La Russie libère Laurent Vinatier, détenu depuis un an et demi, en échange du basketteur Daniil Kasatkin emprisonné en France depuis juin. Moscou bombarde lourdement l'Ukraine le même jour. Cet échange diplomatique révèle des négociations bilatérales malgré le conflit.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4195065-20260108-guerre-ukraine-russie-libere-detenu-francais-bombarde-lourdement?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Des centaines de manifestants protestent à Minneapolis après la mort d'une femme par la police ICE",
+      "source": "Radio-Canada",
+      "summary": "Une habitante tuée par un policier de l'immigration ICE provoque manifestations et heurts à Minneapolis. La Maison-Blanche invoque la légitime défense, contestée par élus et protestataires. Cela ravive les débats sur la brutalité policière et les politiques migratoires américaines.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2219399/manifestations-minneapolis-mort-femme-ice-police-immigration",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Des policiers fédéraux blessent deux personnes lors d'une fusillade à Portland",
+      "source": "Radio-Canada",
+      "summary": "Policiers fédéraux ouvrent le feu à Portland, Oregon, blessant deux personnes hospitalisées, selon la police municipale. L'incident survient dans un contexte de tensions sur les interventions fédérales. Il alimente les critiques contre les forces de l'ordre aux États-Unis.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2219332/fusillade-police-frontaliere-etats-unis-portland",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump annonce une rencontre avec Maria Corina Machado la semaine prochaine",
+      "source": "Radio-Canada",
+      "summary": "Donald Trump prévoit de rencontrer Maria Corina Machado, leader de l'opposition vénézuélienne, à Washington la semaine prochaine et exprime son impatience. Cela renforce son soutien à l'opposition contre Nicolás Maduro et influence la politique américaine envers le Venezuela.",
+      "link": "https://ici.radio-canada.ca/info/en-direct/1013318/trump-machado-venezuela-maduro-capture",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 3,
+    "articlesProcessed": 219,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2,
+      "americas": 3
+    }
+  }
+}

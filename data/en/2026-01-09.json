@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-09",
+  "summary": "Russia hammered Kyiv with a large-scale missile and drone barrage today, killing four residents and sparking apartment fires, hours after Moscow rejected a European plan for post-ceasefire troop deployments. The assault, the latest in the war's fourth year, cripples Ukraine's civilian infrastructure as power outages deepen winter hardships for millions—much like last winter's devastating grid strikes. It underscores Kyiv's vulnerability even as both sides' peace hints fade, prolonging a conflict that has already claimed hundreds of thousands of lives and reshaped global energy markets.\n\nEscalations rippled across other hotspots. In Iran, thousands marched in Tehran and provincial cities defying a nationwide internet blackout, heeding an exiled crown prince's call amid fury over economic collapse and the Israel war; state media warned of mounting casualties as protests stretch into Friday. Gaza's healthcare imploded further, with cancer deaths tripling as Israel bars chemotherapy drugs—permitting snacks but not life-saving meds—leaving patients to die amid the blockade's stranglehold. In eastern Congo, Rwanda-backed rebels overran Goma, routing government troops and trapping over a million displaced people in the key aid hub under gunfire and shelling, per U.N. alarms of looming catastrophe.\n\nGlimmers of de-escalation offered cautious hope. Israel allowed thousands of displaced Palestinians to stream back into northern Gaza on foot after a hostage impasse eased, clearing paths for tentative reconstruction in ruined zones. NATO kicked off its first joint operation to guard Baltic Sea cables severed in suspected sabotage, signaling a unified front against hybrid threats from Russia. These moves, alongside a Syrian ceasefire in Aleppo after 22 deaths, hint at fragile pauses that could shape 2025's volatile security landscape.",
+  "headlines": [
+    {
+      "title": "Iranian Protesters March Through Streets Despite Government Internet Shutdown",
+      "source": "Associated Press",
+      "summary": "Protesters respond to exiled crown prince's call by marching in Tehran and other cities amid nationwide internet and phone blackout. State TV warns of casualties as demonstrations continue into Friday. This escalates anti-government unrest fueled by war and economy.",
+      "link": "https://apnews.com/article/iran-protests-us-israel-war-economy-54e4024a0b9e6a9f3ab49153c8e28f05",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits Gazans to cross military zone into northern Gaza after hostage release deadlock breaks. Thousands stream back on foot to ruined homes. Move signals potential de-escalation in conflict zones, aiding reconstruction efforts.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO mounts operation after deep-sea cable severance in Baltic Sea amid suspected sabotage campaign. Critical infrastructure protected through alliance efforts. Heightens concerns over hybrid threats to European security networks.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma Trapping One Million Displaced People",
+      "source": "Wall Street Journal",
+      "summary": "Rebels defeat Congolese troops and enter Goma, prompting gunfire and shelling. Over one million displaced residents now shelter in the aid hub city. U.N. warns of humanitarian crisis as fighting threatens regional stability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Administration Withdraws U.S. from 66 Global Groups Including U.N. Entities",
+      "source": "NPR News",
+      "summary": "U.S. exits 66 international organizations focused on climate and health under Trump policy. Affects U.N. programs worldwide, reducing American influence. Impacts global cooperation on pandemics and environmental issues for donors and partners.",
+      "link": "https://www.npr.org/sections/goats-and-soda/2026/01/08/nx-s1-5671117/trump-withdrawal-united-nations-health",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Syria Declares Ceasefire in Aleppo After Clashes Kill 22 People",
+      "source": "Al Jazeera English",
+      "summary": "Defence Ministry announces ceasefire in three Aleppo neighborhoods following deadly fighting with Kurdish forces since Tuesday. Rescuers extinguish shelling fires as groups get six hours to leave. Halts escalation in contested northern Syria areas.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/9/syria-live-ceasefire-in-aleppo-after-at-least-22-killed-since-tuesday?traffic_source=rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Gaza Cancer Patients Die as Israel Blocks Chemotherapy Drugs",
+      "source": "Al Jazeera English",
+      "summary": "Cancer deaths triple in Gaza while doctors report Israel permits snacks but bars chemo imports. Patients wait indefinitely for treatment amid blockade. Exposes healthcare collapse, urging international pressure for medical access.",
+      "link": "https://www.aljazeera.com/news/2026/1/9/we-just-sit-and-cry-gazas-cancer-patients-die-waiting-for-treatment?traffic_source=rss",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russia Strikes Kyiv Killing Four After Rejecting Peacekeeping Plan",
+      "source": "France 24",
+      "summary": "Russia launches large-scale attack on Kyiv, igniting apartment fires and killing four residents. Follows Moscow's rejection of European troop deployment post-ceasefire proposal. Prolongs Ukraine war into fourth year, straining civilian infrastructure.",
+      "link": "https://www.france24.com/en/europe/20260109-russia-hits-kyiv-in-large-scale-strike-after-rejecting-peacekeeping-plan",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Minneapolis Residents Protest ICE Officer Shooting of Renee Good",
+      "source": "Associated Press",
+      "summary": "Federal ICE agent fatally shoots woman in Minneapolis, sparking street outrage and memorials on Thursday. Separate Oregon shooting wounds two by federal officers. Prompts national scrutiny of immigration enforcement tactics and safety.",
+      "link": "https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-1aeabfaf747eff0162c15216bf41c9e7",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 460,
+    "categoryCounts": {
+      "society": 3,
+      "politics": 2,
+      "conflict": 4
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "europe": 2,
+      "africa": 1,
+      "americas": 2
+    }
+  }
+}

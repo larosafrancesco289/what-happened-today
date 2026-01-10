@@ -1,0 +1,115 @@
+{
+  "date": "2026-01-10",
+  "summary": "La Russia ha intensificato il conflitto ucraino colpendo Leopoli con un missile balistico Oreshnik – il primo del suo genere usato in combattimento – e bersagliando le centrali elettriche di Kiev con droni, causando 4 morti e invitando il sindaco Vitali Klitschko i residenti a evacuare. Questo attacco segue incursioni di droni ucraini sulla dacia di Putin vicino a Mosca, interpretato dal Cremlino come provocazione occidentale: un segnale diretto a USA e UE alla vigilia della scadenza del trattato New START sul nucleare, il 5 febbraio, mentre Zelensky negozia un accordo di libero scambio a zero dazi con Washington per rafforzare l'economia ucraina contro le pressioni russe.\n\nNel frattempo, l'Iran affronta una repressione sanguinosa durante blackout diffusi: le guardie hanno sparato su manifestanti anti-governative in tutto il Paese, con oltre 50 morti secondo ONG, mentre l'ayatollah Khamenei li bolla come sabotatori. Reza Pahlavi, figlio dello Scià deposto, ha colto l'occasione per chiamare gli iraniani a conquistare centri urbani e rovesciare la Repubblica Islamica, galvanizzando l'opposizione. L'UE, con l'Alta rappresentante Kaja Kallas, ha condannato la violenza e sostenuto le aspirazioni dei manifestanti, isolando ulteriormente Teheran su diritti umani.\n\nGuardando avanti, la maggioranza degli Stati UE ha approvato l'accordo di libero scambio con il Mercosur (Argentina, Brasile, Uruguay, Paraguay), che abbasserà dazi su carne e soia in cambio di export europei di auto e vini: firma prevista lunedì, nonostante proteste di allevatori. Parallelamente, esperti avvertono che l'1% più ricco del mondo ha già esaurito il bilancio carbonio del 2026 in soli 10 giorni, spingendo per tasse su lusso e fossili per centrare gli obiettivi climatici globali.",
+  "headlines": [
+    {
+      "title": "Ricercatori UBC producono cellule T helper umane da staminali pluripotenti in laboratorio",
+      "source": "AGI",
+      "summary": "Ricercatori della University of British Columbia hanno generato cellule T helper umane da cellule staminali pluripotenti in condizioni controllate, superando ostacoli per terapie scalabili contro tumori e malattie autoimmuni. Lo studio su Cell Stem Cell apre a farmaci viventi pronti all'uso, rendendo trattamenti più accessibili ed economici.",
+      "link": "https://www.agi.it/scienza/news/2026-01-10/cellule-t-staminali-ubc-35008600/",
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Maggioranza Stati UE approva accordo libero scambio con Mercosur",
+      "source": "AGI",
+      "summary": "La maggioranza degli Stati UE ha approvato l'accordo con Mercosur (Argentina, Brasile, Uruguay, Paraguay), che riduce dazi su carne bovina, pollame e soia in ingresso, favorendo export UE di auto, macchinari e vini. Produttori carne protestano, esportatori vino approvano; firma possibile lunedì.",
+      "link": "https://www.agi.it/economia/news/2026-01-10/accordo-ue-mercosur-carne-35010603/",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky negozia accordo libero scambio zero dazi con Stati Uniti",
+      "source": "Rai News",
+      "summary": "Il presidente ucraino Zelensky negozia con gli USA un'intesa di libero scambio a zero dazi su alcune aree industriali. L'accordo mira a rafforzare il commercio bilaterale durante il conflitto, offrendo all'Ucraina supporto economico contro le pressioni russe.",
+      "link": "https://www.rainews.it/articoli/2026/01/ucraina-zelensky-negozia-accordo-di-libero-scambio-con-gli-usa-a-zero-dazi-bloomberg-0f00995d-1b76-4d3d-9c89-9efb74f6b997.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia colpisce Leopoli con missile Oreshnik e Kiev con droni",
+      "source": "la Repubblica",
+      "summary": "Mosca lancia un missile Oreshnik su Leopoli e droni sulle centrali di Kiev, causando 4 morti. Il sindaco di Kiev invita i residenti a evacuare. L'attacco intensifica il conflitto, segnalando escalation russa in vista di negoziati.",
+      "link": "https://www.repubblica.it/esteri/2026/01/10/news/kiev_leopoli_ucraina_attacco_russia-425085840/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Guardie iraniane sparano su manifestanti durante blackout nel Paese",
+      "source": "la Repubblica",
+      "summary": "Forze iraniane sparano su manifestanti anti-governative in tutto il Paese durante blackout, con oltre 50 morti secondo ONG. Khamenei definisce i protesters sabotatori e rifiuta concessioni. Le proteste continuano, alimentando tensioni interne e repressione.",
+      "link": "https://www.repubblica.it/esteri/2026/01/10/news/iran_proteste_morti_spari_folla_blackout-425085825/?rss",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Reza Pahlavi invita iraniani alla rivolta contro Repubblica islamica",
+      "source": "TGCOM24",
+      "summary": "Reza Pahlavi, figlio dello Scià, chiama i cittadini a conquistare e difendere centri urbani per rovesciare il regime. L'appello giunge durante proteste diffuse, potenzialmente galvanizzando opposizione e attirando sostegno internazionale contro Teheran.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/iran-reza-pahlavi-chiama-alla-rivolta-metteremo-in-ginocchio-la-repubblica-islamica-_107767672-202602k.shtml",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Esperti avvertono che 1% più ricco esaurisce bilancio carbonio 2026 in 10 giorni",
+      "source": "Euronews Italiano",
+      "summary": "L'1% più ricco del mondo ha consumato il bilancio di carbonio annuale per il 2026 in soli 10 giorni, secondo esperti. Pressione su governi per vietare beni di lusso ad alta emissione e tassare profitti fossili, per centrare obiettivi climatici globali.",
+      "link": "http://it.euronews.com/green/2026/01/10/l1-piu-ricco-ha-esaurito-il-bilancio-di-carbonio-per-il-2026-in-10-giorni-avvertono-gli-es",
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "UE condanna violenza iraniana su manifestanti e sostiene loro aspirazioni",
+      "source": "Euronews Italiano",
+      "summary": "L'UE, con Alta rappresentante Kaja Kallas, respinge la repressione sproporzionata in Iran e appoggia le aspirazioni legittime al cambiamento. La condanna risponde a proteste e morti, isolando ulteriormente Teheran e rafforzando diplomazia europea sui diritti umani.",
+      "link": "http://it.euronews.com/my-europe/2026/01/09/lue-respinge-la-violenza-contro-i-manifestanti-in-iran-e-sostiene-la-legittima-aspirazione",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Corea del Nord abbatte drone-spia sudcoreano vicino al confine",
+      "source": "la Repubblica",
+      "summary": "La Corea del Nord abbatte un drone-spia di Seul, primo incidente dall'insediamento del presidente Lee. Il consiglio di sicurezza sudcoreano convoca riunione d'emergenza. L'episodio alza tensioni sulla penisola, rischiando escalation militare.",
+      "link": "https://www.repubblica.it/esteri/2026/01/10/news/corea_del_nord_drone-spia_seul-425085973/?rss",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Putin invia segnale a USA e UE con attacco su Leopoli per droni su dacia",
+      "source": "la Repubblica",
+      "summary": "Putin risponde a droni su sua dacia con attacco su Leopoli, segnalando vendetta a USA e UE prima della scadenza del trattato nucleare del 5 febbraio. L'azione sottolinea tensioni strategiche, influenzando negoziati sul disarmo e il conflitto ucraino.",
+      "link": "https://www.repubblica.it/esteri/2026/01/10/news/attacco_russia_ucraina_leopoli-425085898/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 260,
+    "categoryCounts": {
+      "science": 1,
+      "economy": 1,
+      "politics": 3,
+      "conflict": 3,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "europe": 5,
+      "middle-east": 2,
+      "global": 1,
+      "asia-pacific": 1
+    }
+  }
+}

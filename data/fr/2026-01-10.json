@@ -1,0 +1,92 @@
+{
+  "date": "2026-01-10",
+  "summary": "L'escalade de la guerre en Ukraine a atteint un nouveau pic ce week-end avec le tir russe d'un missile balistique hypersonique Orechnik, pour la deuxième fois, sur un dépôt gazier à l'ouest du pays, près de la Pologne. Cette arme à têtes multiples défie les défenses européennes et envoie un signal clair à l'OTAN alors que les frappes russes massives sur Kiev ont tué quatre civils, privé la moitié des immeubles de chauffage et plongé 2,5 millions de résidents dans le froid hivernal. Le maire Vitali Klitschko a appelé les habitants à évacuer la capitale, tandis que l'ambassadeur ukrainien Andriï Melnyk a réclamé une réunion d'urgence du Conseil de sécurité de l'ONU lundi pour dénoncer ces attaques contre les infrastructures civiles – un développement qui prolonge la crise énergétique ukrainienne initiée par les sabotages russes depuis l'invasion de 2022, menaçant la santé des populations ordinaires en pleine vague de froid.\n\nPendant ce temps, au Moyen-Orient, l'instabilité persiste : en Syrie, l'armée de Bachar al-Assad a repris ses bombardements sur Alep, sommant les combattants kurdes de se rendre dans un quartier retranché et aggravant la crise humanitaire avec 30 000 familles déplacées selon l'ONU. Cela survient alors que l'Iran fait face à des manifestations réprimées par l'ayatollah Khamenei, qui qualifie les protestataires de saboteurs et promet la fermeté, malgré les appels du fils de l'ex-chah à une intervention de Donald Trump et les exigences d'enquête de l'ONU sur les récents morts. À Gaza, une trêve précaire tient trois mois après le cessez-le-feu impulsé par Trump, avec des frémissements diplomatiques autour d'une phase 2 du plan de paix.\n\nCes tensions annoncent une semaine chargée : la réunion de l'ONU sur l'Ukraine pourrait mobiliser une réponse internationale accrue, tandis qu'en France, le ministre Sébastien Lecornu prépare des législatives anticipées calées sur les municipales en cas de dissolution, optimisant la logistique électorale face à une possible censure de l'Assemblée par RN et LFI.",
+  "headlines": [
+    {
+      "title": "L'ambassadeur ukrainien demande réunion d'urgence du Conseil de sécurité de l'ONU lundi sur frappes à Kiev",
+      "source": "Le Figaro",
+      "summary": "Andriï Melnyk dénonce crimes russes contre civils et infrastructures après frappes sur Kiev, déclenchant réunion urgence lundi au Conseil sécurité ONU. Cela mobilise réponse internationale face à escalade guerre Ukraine.",
+      "link": "https://www.lefigaro.fr/international/frappes-sur-kiev-le-conseil-de-securite-de-l-onu-se-reunira-en-urgence-lundi-20260110",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le maire de Kiev appelle habitants à quitter capitale après panne chauffage dans moitié des immeubles",
+      "source": "20 Minutes",
+      "summary": "Frappes russes tuent 4 personnes et privent moitié immeubles Kiev de chauffage en pleine crise énergétique. Maire Vitali Klitschko urge évacuation. Situation empire conditions hivernales, menace santé 2,5 millions résidents.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4195308-20260110-guerre-ukraine-moitie-kiev-privee-chauffage-maire-appelle-quitter-capitale?at_medium=display&at_campaign=149",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La Russie tire missile balistique Orechnik sur dépôt gazier ouest de l'Ukraine près Pologne",
+      "source": "Le Figaro",
+      "summary": "Russie utilise deuxième fois missile intermédiaire Orechnik hypersonique à têtes multiples sur dépôt gazier ouest Ukraine. Arme défie Europe stratégiquement. Signal fort à OTAN avant potentielle escalade régionale.",
+      "link": "https://www.lefigaro.fr/international/avec-son-missile-orechnik-poutine-frappe-l-ukraine-et-defie-l-europe-20260109",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israéliens et Palestiniens observent trêve précaire à Gaza trois mois après cessez-le-feu Trump",
+      "source": "RFI",
+      "summary": "Trois mois après accord cessez-le-feu Gaza impulsé Donald Trump, trêve tient malgré fragilité avec frémissements diplomatiques. Phase 2 plan paix attendue, ex-diplomate bulgare candidat direction Board of Peace.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260110-gaza-trois-mois-apr%C3%A8s-l-entr%C3%A9e-en-vigueur-du-cessez-le-feu-une-tr%C3%AAve-bien-pr%C3%A9caire",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Jessica Moretti présente excuses après incendie bar Constellation à Crans-Montana tuant 40 personnes",
+      "source": "20 Minutes",
+      "summary": "Copropriétaire Jessica Moretti s'excuse post-audition Sion suite incendie Nouvel An ravageant bar, causant 40 morts et 116 blessés. Enquête judiciaire progresse. Tragédie questionne sécurité établissements suisses.",
+      "link": "https://www.20minutes.fr/monde/4195259-20260109-incendie-crans-montana-jamais-pu-imaginer-ca-jessica-moretti-gerante-bar-presente-excuses?at_medium=display&at_campaign=149",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Sébastien Lecornu charge ministre Intérieur d'étudier législatives aux dates municipales si dissolution",
+      "source": "Le Monde",
+      "summary": "Premier ministre Lecornu anticipe censure RN-LFI en demandant préparation législatives anticipées calées municipales. Exécutif prépare dissolution Assemblée. Mesure optimise logistique électorale, influence calendrier politique France.",
+      "link": "https://www.lemonde.fr/politique/article/2026/01/09/sebastien-lecornu-a-demande-au-ministre-de-l-interieur-d-etudier-l-organisation-de-legislatives-anticipees-aux-dates-des-elections-municipales_6661221_823448.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'ayatollah Khamenei affirme que l'Iran ne recule pas devant manifestants qualifiés de saboteurs",
+      "source": "Le Monde",
+      "summary": "Khamenei promet fermeté face manifestations, fils ex-chah appelle Trump intervention. ONU Volker Türk exige enquête indépendante sur morts récents. Événements contestent autorité régime, risquent déstabilisation intérieure.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/09/iran-l-ayatollah-khamenei-promet-que-le-pays-ne-reculera-pas-face-aux-manifestants-qualifies-de-saboteurs_6661159_3210.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "L'armée syrienne bombarde Alep et somme combattants kurdes de se rendre dans quartier retranché",
+      "source": "France 24",
+      "summary": "Armée reprend frappes Alep contre kurdes, appelle reddition après tensions gouvernement-minorité. ONU signale 30 000 familles déplacées. Affrontements aggravent crise humanitaire, prolongent instabilité Syrie post-conflit.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260110-syrie-%C3%A0-alep-l-arm%C3%A9e-reprend-ses-bombardements-et-appelle-les-combattants-kurdes-%C3%A0-se-rendre",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 235,
+    "categoryCounts": {
+      "conflict": 4,
+      "society": 2,
+      "politics": 2
+    },
+    "regionCounts": {
+      "europe": 5,
+      "middle-east": 2,
+      "global": 1
+    }
+  }
+}

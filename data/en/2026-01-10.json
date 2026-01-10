@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-10",
+  "summary": "Russia escalated its assault on Ukraine today by firing the Oreshnik hypersonic intermediate-range ballistic missile for the second time, targeting sites in the western part of the country. This rare deployment—capable of evading most defenses—signals Moscow's determination to press its advantage even as U.S.-led peace talks gain tentative momentum, raising alarms among Western allies about further infrastructure damage and the risk of broader conflict.\n\nNATO responded swiftly to mounting hybrid threats, launching its first coordinated operation to safeguard Baltic Sea infrastructure after a deep-sea cable was severed in a suspected sabotage campaign. The move highlights how Russia's war in Ukraine reverberates across Europe, straining transatlantic energy and communications links. In the Middle East, Israel allowed thousands of displaced Palestinians to return to northern Gaza following a breakthrough hostage-release deal, temporarily easing humanitarian woes in the enclave—yet Syria's army simultaneously resumed operations in Aleppo's Kurdish district after a ceasefire collapsed, urging fighters to surrender and stoking fears of renewed clashes.\n\nAustralia declared a state of disaster in Victoria as bushfires razed 150,000 hectares and destroyed homes amid a scorching 40°C heatwave, forcing evacuations and reviving traumatic memories of the 2019-2020 Black Summer that claimed 33 lives. Parallel blazes in South Africa's Kouga region prompted helicopter drops and resident flight, underscoring a global surge in climate-fueled wildfires that tests emergency responses and imperils communities from Melbourne to the Eastern Cape.",
+  "headlines": [
+    {
+      "title": "Federal Judge Indira Talwani Plans to Block Trump Administration Effort to End Family Protections",
+      "source": "Associated Press",
+      "summary": "U.S. District Judge Indira Talwani announced plans for a temporary restraining order against the Trump administration's move to terminate protections for over 10,000 relatives of citizens and green card holders. Immigrants' families retain status quo during litigation; decision expected soon. This halts policy change affecting legal pathways.",
+      "link": "https://apnews.com/article/trump-administration-family-reunification-parole-court-hearing-c26e30ee3d511f44e540a754b6dde00d",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Russia Fires Hypersonic Oreshnik Missile at Targets in Western Ukraine",
+      "source": "Associated Press",
+      "summary": "Russia launched its Oreshnik hypersonic intermediate-range ballistic missile for the second time against Ukraine, signaling resolve amid U.S.-led peace talks. Ukrainian infrastructure faces escalated threats; Western allies monitor escalation risks. The strike underscores tensions as negotiations advance.",
+      "link": "https://apnews.com/article/russia-ukraine-war-missile-hypersonic-oreshnik-40502d366170b9830f007913e0b8aa9e",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Australia Declares State of Disaster as Bushfires Destroy Homes in Victoria",
+      "source": "South China Morning Post",
+      "summary": "Authorities declared a state of disaster after bushfires burned 150,000 hectares and destroyed houses in Victoria amid 40°C heatwave. Residents evacuate; firefighters combat flames. Event revives memories of 2019-2020 Black Summer, straining emergency resources nationwide.",
+      "link": "https://www.scmp.com/news/asia/australasia/article/3339429/australia-declares-state-disaster-bushfires-rip-through-victoria-state-leave-go?utm_source=rss_feed",
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Syrian Army Resumes Military Operation in Aleppo Kurdish District After Ceasefire Collapse",
+      "source": "France 24",
+      "summary": "Syrian government forces restarted operations in Aleppo's Kurdish neighborhood, urging Syrian Democratic Forces fighters to surrender following ceasefire breakdown. Local Kurds and fighters face intensified conflict; surrenders or clashes expected. Move heightens instability in northern Syria.",
+      "link": "https://www.france24.com/en/middle-east/20260110-syria-urges-kurdish-fighters-to-surrender-after-ramping-up-aleppo-operation",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Wildfires Force Evacuations in South Africa Kouga Region as Helicopters Battle Flames",
+      "source": "AllAfrica",
+      "summary": "Three major wildfires burn in Kouga, damaging homes in Kromme River and Smith Town areas; helicopters drop water on fires. Residents evacuate; containment efforts continue. Fires threaten communities and ecosystems in Eastern Cape province.",
+      "link": "https://allafrica.com/stories/202601090125.html",
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to International Space Station for Astronaut Retrieval",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carried NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov from Kennedy Space Center to retrieve Butch Wilmore and Suni Williams after nine months stranded. Crew docks Saturday; stranded pair returns soon. Ensures ISS operations continuity.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Palestinians to Return to Northern Gaza After Hostage Release Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permitted displaced Gazans to cross a military zone back to northern Gaza following breakthrough in hostage negotiations. Thousands affected by prior evacuations resettle; aid access improves. Eases humanitarian pressures in divided enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches Coordinated Response to Suspected Sabotage of Baltic Sea Cable",
+      "source": "Wall Street Journal",
+      "summary": "NATO initiated its first coordinated operation after a deep-sea cable severance in the Baltic Sea amid suspected sabotage campaign against infrastructure. Alliance members protect critical links; investigations probe actors. Secures transatlantic communications and energy supplies.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Venezuela Negotiates with United States to Restore Diplomatic Ties",
+      "source": "Japan Times",
+      "summary": "Venezuela engages U.S. talks to reinstate diplomatic relations following leftist leader's capture and President Trump's claim of oversight. Bilateral cooperation advances; embassies may reopen. Signals thaw in tensions, impacting regional stability and oil trade.",
+      "link": "https://www.japantimes.co.jp/news/2026/01/10/world/politics/venezuela-us-diplomatic-ties/",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 451,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 2,
+      "environment": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 1,
+      "asia-pacific": 1,
+      "middle-east": 2,
+      "africa": 1,
+      "global": 2
+    }
+  }
+}

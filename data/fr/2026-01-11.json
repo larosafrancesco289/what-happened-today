@@ -1,0 +1,103 @@
+{
+  "date": "2026-01-11",
+  "summary": "Le Soudan a franchi la barre des 1000 jours de guerre civile ce samedi, opposant l'armée régulière du général Abdel Fattah al-Burhan aux Forces de soutien rapide (FSR) de Mohamed Hamdan Dagalo, dit Hemedti. Ce conflit, qui a éclaté en avril 2023 à Khartoum, a déjà fait des centaines de milliers de morts et déplacé 12 millions de personnes, soit un quart de la population. Alors que les combats s'enlissent dans une guérilla impitoyable, l'ONU alerte sur une catastrophe humanitaire sans précédent, avec des famines menaçant des millions de civils ordinaires dans un pays jadis stable, déstabilisant toute la Corne de l'Afrique.\n\nPendant ce temps, l'Iran bouillonne sous la pression internationale : Donald Trump, briefé sur des options de frappes contre Téhéran pour soutenir les manifestations réclamant la chute du régime islamique, renforce les tensions au Moyen-Orient. Reza Pahlavi, fils de l'ancien chah exilé aux États-Unis, multiplie les appels à la contestation interne, où son nom résonne dans les rues malgré la coupure d'internet. Ces développements font suite aux frappes massives américaines contre Daesh en Syrie, en riposte à une attaque de décembre qui a tué des soldats US, protégeant ainsi les forces coalisées tout en rappelant la persistance du terrorisme régional. En parallèle, des milliers d'Américains manifestent à Minneapolis et ailleurs contre l'ICE après la mort de Renee Nicole Good, tuée par un agent, soulignant les fractures internes sur l'immigration.\n\nÀ l'horizon, les menaces de Trump sur le Groenland provoquent des réactions : le Premier ministre groenlandais Jens-Frederik Nielsen, 34 ans, prône l'unité, tandis que la France dénonce un 'chantage' américain. Ce bras de fer arctique sur les ressources pourrait redessiner les alliances, alors que l'accord commercial UE-Mercosur offre à l'Amérique du Sud un contrepoids face aux pressions US et chinoises, sécurisant échanges et souverainetés futures.",
+  "headlines": [
+    {
+      "title": "Le Soudan marque 1000 jours de guerre entre armée et Forces de Soutien Rapide",
+      "source": "France 24",
+      "summary": "Le conflit au Soudan atteint 1000 jours ce samedi, opposant l'armée du général Al Burhan aux paramilitaires de Hemedti Dagolo, avec des centaines de milliers de morts et 12 millions de déplacés. Cette crise humanitaire majeure s'enlise, aggravant la souffrance des civils et menaçant la stabilité régionale.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260110-1000-jours-de-guerre-au-soudan-le-conflit-s-enlise-et-les-civils-paient-un-lourd-tribut",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump reçoit briefing pour frapper l'Iran contre répression sanglante",
+      "source": "20 Minutes",
+      "summary": "Donald Trump, soutenant les manifestants à Téhéran réclamant la chute du régime islamique, a été briefé sur des frappes contre l'Iran face aux craintes de répression sanglante. Cette menace vise à soutenir la contestation interne, avec des implications géopolitiques majeures au Moyen-Orient.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4195391-20260111-face-craintes-repression-sanglante-trump-briefe-frapper-iran?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Les États-Unis mènent frappes à grande échelle contre Daesh en Syrie",
+      "source": "20 Minutes",
+      "summary": "Les États-Unis ont effectué des frappes massives contre le groupe État islamique en Syrie, en riposte à une attaque de décembre tuant des militaires américains et un traducteur. Ces opérations affaiblissent Daesh et protègent les forces coalisées, renforçant la sécurité régionale.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4195388-20260111-etats-unis-mene-frappes-grande-echelle-contre-daesh-syrie?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Des milliers d'Américains manifestent contre l'ICE après mort de Renee Nicole Good",
+      "source": "Le Monde",
+      "summary": "Des milliers de personnes défilent à Minneapolis et dans de nombreuses villes américaines pour dénoncer l'opacité de l'enquête sur la mort de Renee Nicole Good, tuée par un agent de l'ICE. Ces manifestations exigent justice pour cette mère de famille, soulignant les tensions sur l'immigration.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/10/etats-unis-des-manifestations-massives-apres-la-mort-de-renee-nicole-good-tuee-par-un-agent-de-l-ice_6661323_3210.html",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Reza Pahlavi multiplie appels à manifester contre régime islamique en Iran",
+      "source": "Le Monde",
+      "summary": "Reza Pahlavi, fils de l'ancien chah exilé aux États-Unis, intensifie ses appels à la contestation en Iran où son nom résonne dans les manifestations. Il émerge comme leader de l'opposition, amplifiant la révolte contre le régime post-1979 et influençant la dynamique politique interne.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/11/reza-pahlavi-l-homme-qui-attise-la-revolte-en-iran_6661339_3210.html",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Premier ministre groenlandais Jens-Frederik Nielsen appelle à l'unité face à Trump",
+      "source": "Le Monde",
+      "summary": "Jens-Frederik Nielsen, 34 ans et chef du gouvernement groenlandais depuis mars 2025, prône le dialogue et l'unité contre les menaces de Donald Trump sur le territoire. Cette stratégie vise à préserver la souveraineté face aux pressions américaines sur les ressources arctiques.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/11/au-groenland-le-premier-ministre-mise-sur-l-unite-face-aux-menaces-de-washington_6661344_3210.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Amérique du Sud signe accord commercial UE-Mercosur à dimension géopolitique",
+      "source": "Le Monde",
+      "summary": "L'accord UE-Mercosur offre à l'Amérique du Sud des perspectives face à l'agressivité commerciale américaine et chinoise, malgré une portée économique limitée. Ce traité renforce les liens transatlantiques et sécurise les échanges, aidant les pays sud-américains dans un contexte concurrentiel tendu.",
+      "link": "https://www.lemonde.fr/economie/article/2026/01/11/accord-ue-mercosur-pour-l-amerique-du-sud-un-accord-commercial-a-forte-dimension-geopolitique_6661340_3234.html",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Des Canadiens manifestent en solidarité avec le peuple iranien contre régime",
+      "source": "Radio-Canada",
+      "summary": "Des Canadiens de la diaspora manifestent pour soutenir les Iraniens face à la coupure d'Internet par le régime, inquiets pour leurs proches. Ces rassemblements amplifient la pression internationale sur Téhéran, soulignant les enjeux des droits humains et de la liberté d'expression.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2219818/iran-manifestation-opposition-regime-internet",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "La France dénonce chantage américain sur le Groenland par Donald Trump",
+      "source": "20 Minutes",
+      "summary": "Le ministre français Jean-Noël Barrot hausse le ton contre le 'chantage' des États-Unis, refusant de croire à une intervention militaire de Trump pour s'emparer du Groenland. Cette position défend les alliés arctiques et critique les ambitions expansionnistes, impactant les relations transatlantiques.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4195386-20260111-groenland-france-hausse-contre-chantage-etats-unis?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 209,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "society": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "africa": 1,
+      "americas": 4,
+      "middle-east": 2,
+      "europe": 2
+    }
+  }
+}

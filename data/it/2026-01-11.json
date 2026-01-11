@@ -1,0 +1,112 @@
+{
+  "date": "2026-01-11",
+  "summary": "Le proteste antigovernative in Iran hanno raggiunto il quattordicesimo giorno consecutivo, con un'escalation drammatica a Karaj dove, la sera del 9 gennaio 2026, manifestanti hanno dato fuoco a un edificio governativo, come confermano video verificati. Il regime ha risposto con arresti di massa, decine di morti e blackout totali di internet e telefonia dal venerdì, mentre la tv di Stato trasmette solo strade deserte o cortei pro-governo. Ursula von der Leyen ha condannato duramente la repressione dall'Unione Europea, evidenziando come queste tensioni interne – radicate in anni di malcontento economico e sociale – rischi di destabilizzare ulteriormente la regione, con ripercussioni sul mercato petrolifero globale e sulla gente comune intrappolata tra paura e rabbia.\n\nNel frattempo, l'Ucraina subisce attacchi missilistici da più direzioni su Kiev, proprio mentre Parigi valuta l'invio di 6.000 soldati al termine del conflitto e Londra stanzia 230 milioni di euro per l'esercito ucraino. Questa mossa rafforza il sostegno occidentale post-bellico, ma incontra resistenze interne all'Ue: Viktor Orbán ha avvertito al congresso Fidesz che gli aiuti a Kiev stanno distruggendo l'economia europea, accentuando le divisioni tra Est e Ovest nel blocco. Parallelo a ciò, il Pentagono ha intensificato l'operazione Hawkeye Strike in Siria, con raid aerei su larga scala contro cellule Isis dal 19 dicembre 2025, per prevenire una rinascita terroristica nella regione già instabile.\n\nGuardando avanti, il Dipartimento di Stato Usa invita i cittadini a lasciare immediatamente il Venezuela per rischio milizie armate a caccia di americani, segnalando tensioni crescenti che potrebbero sfociare in crisi regionale. In Italia, una valanga si è staccata dal Corno Grande al Gran Sasso, minacciando escursionisti, mentre lo scandalo su Giovanni Toti – accusato di aver truccato dati Covid in Liguria – riapre ferite sulla trasparenza pandemica. Intanto, X limita l'accesso a Grok solo agli abbonati dopo scandali deepfake, preparando il terreno a regolamentazioni più severe sull'IA nell'Ue.",
+  "headlines": [
+    {
+      "title": "Parigi valuta invio di 6.000 soldati in Ucraina dopo la guerra",
+      "source": "Rai News",
+      "summary": "Parigi considera l'invio di 6.000 soldati in Ucraina al termine del conflitto, mentre Londra stanzia 230 milioni di euro per l'esercito ucraino. Kiev subisce attacchi con decine di missili da diverse direzioni. La mossa rafforza il sostegno occidentale post-bellico.",
+      "link": "https://www.rainews.it/articoli/2026/01/truppe-in-ucraina-parigi-potrebbe-inviare-6000-soldati-dopo-la-guerra-il-conflitto-08e5d7e1-6f25-43a7-835e-db05f2be1798.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Protestanti incendiano edifici governativi a Karaj in Iran",
+      "source": "Euronews Italiano",
+      "summary": "Immagini verificate mostrano un edificio governativo in fiamme a Karaj la sera del 9 gennaio 2026 durante proteste. Le manifestazioni antigovernative persistono. Il video evidenzia l'intensità delle tensioni interne in Iran.",
+      "link": "http://it.euronews.com/video/2026/01/10/video-edifici-governativi-in-fiamme-in-iran-proteste-in-corso",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Autorità iraniane arrestano manifestanti e causano decine di morti",
+      "source": "la Repubblica",
+      "summary": "Al quattordicesimo giorno di proteste, il regime iraniano reprime con arresti, decine di morti e blackout di internet e telefoni. La tv di Stato mostra solo strade vuote o cortei pro-governo. La repressione rischia di inasprire il malcontento popolare.",
+      "link": "https://www.repubblica.it/esteri/2026/01/11/news/iran_morti_arresti_blackout_nemici_dio-425087487/?rss",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagono lancia attacchi su larga scala contro Isis in Siria",
+      "source": "TGCOM24",
+      "summary": "Il Pentagono conduce raid aerei su obiettivi Isis in Siria nell'operazione Hawkeye Strike iniziata il 19 dicembre 2025. Gli attacchi mirano a neutralizzare le cellule terroristiche. L'operazione rafforza la lotta al terrorismo nella regione.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/pentagono-attacchi-su-larga-scala-contro-obiettivi-dell-isis-in-siria_107799892-202602k.shtml",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Von der Leyen condanna repressione proteste in Iran",
+      "source": "Euronews Italiano",
+      "summary": "Le proteste antigovernative in Iran continuano per la 14esima notte, con blocco internet dal venerdì che limita video. Ursula von der Leyen esprime dura condanna dall'Ue. Le prossime ore risultano cruciali per l'evoluzione delle manifestazioni.",
+      "link": "http://it.euronews.com/2026/01/10/iran-prossime-ore-sono-cruciali-von-der-leyen-condanna-la-repressione-delle-proteste",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm accusano Toti di manipolare dati Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo i pm, il governatore ligure Giovanni Toti ammetteva di aver truccato i numeri sui contagi Covid parlando con il capo di gabinetto Matteo Cozzani. L'indagine rivela aumenti artificiali dei dati. Il caso solleva questioni su trasparenza pandemica.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Dipartimento di Stato Usa invita cittadini a lasciare Venezuela",
+      "source": "AGI",
+      "summary": "Il Dipartimento di Stato Usa avverte di milizie armate in Venezuela che cercano americani o prove di sostegno Usa, invitando i cittadini a partire immediatamente. Il Paese ha il massimo livello di rischio. La misura protegge i connazionali da pericoli.",
+      "link": "https://www.agi.it/sport/news/2026-01-10/dipartimento-usa-invita-americani-lasciare-venezuela-35028040/",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Orbán avverte che aiuti a Ucraina distruggono economia europea",
+      "source": "Euronews Italiano",
+      "summary": "Il premier ungherese Viktor Orbán si oppone agli aiuti Ue a Kiev, dichiarando al congresso Fidesz che la politica attuale minaccia l'economia ungherese e europea. La posizione rafforza le divisioni interne all'Ue sulla guerra.",
+      "link": "http://it.euronews.com/my-europe/2026/01/10/viktor-orban-se-continua-cosi-lucraina-distruggera-leconomia-europea",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Valanga si stacca dal Corno Grande al Gran Sasso",
+      "source": "TGCOM24",
+      "summary": "Un imponente distacco di neve avviene sul versante sopra Valle Siciliana e Isola del Gran Sasso, in provincia di Teramo. L'evento interessa il Corno Grande. Le autorità monitorano rischi per escursionisti e infrastrutture locali.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/gran-sasso-imponente-distacco-di-neve-dal-corno-grande_107799891-202602k.shtml",
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "X limita accesso a Grok solo per abbonati",
+      "source": "ANSA",
+      "summary": "X restringe l'uso dell'IA Grok agli abbonati dopo scandalo deepfake sessuali. L'Ue mantiene la sua posizione critica. La decisione risponde a preoccupazioni su contenuti abusivi e rafforza controlli sulla piattaforma.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/01/09/x-limita-ai-soli-abbonati-luso-di-grok_b3e68d83-2ca7-4907-9a86-be6b261736f7.html",
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 252,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 6,
+      "environment": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "middle-east": 4,
+      "americas": 1,
+      "global": 1
+    }
+  }
+}

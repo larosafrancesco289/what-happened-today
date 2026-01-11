@@ -1,0 +1,104 @@
+{
+  "date": "2026-01-11",
+  "summary": "US President Donald Trump ordered large-scale airstrikes on ISIS targets across Syria on Saturday, announced by Central Command, in direct retaliation for last month's ambush that killed two American soldiers and a civilian interpreter. The operation ramps up pressure on the militants, who have regrouped amid Syria's chaos, underscoring Washington's commitment to protecting its forces even as the group shifts tactics to asymmetric attacks. This escalation follows years of fitful campaigns against ISIS, reminding the world of the persistent terrorist threat in the Middle East and its risks to US personnel.\n\nSigns of thawing US-Venezuela relations emerged on multiple fronts: Scott Bessent, overseeing US interests at the IMF and World Bank, signaled readiness to lift more sanctions on Caracas, potentially unlocking global lending for its battered oil economy. Hours later, Venezuela's Vice President Delcy Rodríguez secured US military help to retrieve a rogue oil tanker linked to a political rival, marking rare bilateral cooperation amid Maduro's leadership maneuvers. These developments reflect a pragmatic US pivot toward engagement, contrasting the isolation of recent years and hinting at stabilized energy markets.\n\nLooking ahead, Israel's decision to allow thousands of displaced Palestinians to return to northern Gaza after a hostage-release breakthrough eases acute humanitarian strains in the war-battered enclave, potentially paving the way for localized ceasefires. Meanwhile, NATO launched its first coordinated response to sabotage of Baltic Sea cables, bolstering defenses against hybrid threats from Russia that could disrupt Europe's energy and communications lifelines in the months to come.",
+  "headlines": [
+    {
+      "title": "US President Trump Orders Large-Scale Strikes on ISIS Targets in Syria",
+      "source": "BBC World",
+      "summary": "US President Donald Trump ordered large-scale strikes on Islamic State targets in Syria on Saturday, announced by Central Command, following last month's ambush killing two soldiers and one civilian interpreter. ISIS militants face intensified pressure. This retaliation counters terrorist threats to US forces in the region.",
+      "link": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Bessent Signals US Institutions to Lift More Sanctions on Venezuela",
+      "source": "The Hindu",
+      "summary": "Scott Bessent, overseeing US stakes in IMF and World Bank, revealed the institutions contacted him about Venezuela as US prepares to lift additional sanctions. Venezuelan economy stands to benefit. This shift influences global lending and US foreign policy toward the oil-rich nation.",
+      "link": "https://www.thehindu.com/news/international/us-may-lift-more-venezuela-sanctions-soon-bessent/article70497013.ece",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Venezuela Leader Delcy Rodríguez Enlists US Troops to Retrieve Rogue Oil Tanker",
+      "source": "New York Times World",
+      "summary": "Venezuela's Delcy Rodríguez secured US military assistance to return an oil tanker linked to a political rival that departed without authorization. The ship returns to Venezuelan control. This cooperation signals thawing US-Venezuela ties amid leadership changes.",
+      "link": "https://www.nytimes.com/2026/01/10/world/americas/venezuela-oil-tanker-us.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Cross Back into Northern Gaza",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permitted displaced Gazans to cross a military zone bisecting the enclave into northern Gaza after breaking a hostage release deadlock. Thousands of Palestinians affected regain access to homes. This eases humanitarian strains in the war-torn territory.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Deploys First Coordinated Response to Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO initiated its first coordinated operation against suspected sabotage after another deep-sea cable severed in the Baltic Sea. Critical infrastructure operators and alliance members respond. This defends vital undersea links essential for communications and energy security.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Seize Goma City in Eastern Congo Amid Gunfire",
+      "source": "Wall Street Journal World",
+      "summary": "Rwanda-backed rebels overran Congolese troops and entered Goma, triggering gunfire and shelling, with over one million displaced people now inside the aid hub city. Residents and UN operations face risks. This escalates conflict threatening regional stability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Exiled Reza Pahlavi Calls Iranians to Join Nationwide Protests",
+      "source": "NPR News",
+      "summary": "Iran's exiled Crown Prince Reza Pahlavi, absent 50 years, urges citizens to participate in protests sweeping the country. Demonstrators and regime opponents mobilize. His involvement amplifies opposition momentum challenging Iran's government.",
+      "link": "https://www.npr.org/2026/01/10/nx-s1-5673238/reza-pahlavi-iran-protests",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Authorities Charge 24-Year-Old Man with Six Murders in Mississippi Rampage",
+      "source": "NPR News",
+      "summary": "A 24-year-old faces murder charges after Friday's shooting rampage in northeast Mississippi killed six, including his father, uncle, brother, and 7-year-old relative. Families and Clay County community grieve. Prosecution proceeds as investigators detail the familicide.",
+      "link": "https://www.npr.org/2026/01/10/g-s1-105419/mississippi-shooting-clay-county",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Police Discover Human Remains Confirming Victoria's First Bushfire Fatality",
+      "source": "ABC Australia",
+      "summary": "Victoria police found human remains near a car east of Seymour, confirming the state's first death in ongoing bushfires ravaging the area. Fire victims and emergency responders affected. This underscores rising human toll in Australia's severe fire season.",
+      "link": "https://www.abc.net.au/news/2026-01-11/victoria-bushfires-human-remains-found-longwood-fire/106218144",
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 456,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 4,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "americas": 3,
+      "europe": 1,
+      "africa": 1,
+      "asia-pacific": 1
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-01-12",
+  "summary": "Donald Trump a déclaré que l'Iran cherchait à négocier avec les États-Unis, sans écarter l'option militaire, au milieu de tensions croissantes au Moyen-Orient. Cette affirmation intervient après des menaces répétées de Téhéran et alors que 192 personnes ont péri dans des manifestations anti-gouvernementales selon une ONG. Le président iranien Massoud Pezeshkian a appelé à une 'marche de résistance' lundi à Téhéran, renforçant les fractures internes en Iran et les risques d'escalade régionale, dans un contexte où les sanctions américaines pèsent lourdement sur l'économie quotidienne des Iraniens.\n\nPendant ce temps, la Cour internationale de justice (CIJ) a entamé lundi à La Haye trois semaines d'auditions contre la Birmanie pour génocide présumé des Rohingyas, un dossier porté par la Gambie qui pourrait ouvrir la voie à des sanctions internationales et poser un précédent pour les crimes contre l'humanité. En République démocratique du Congo (RDC), l'ONU a recensé 626 attaques contre les humanitaires en 2025, dont 48 en décembre à l'est du pays par des groupes armés, compliquant l'aide à des millions de déplacés. Ces crises humanitaires rappellent les défis persistants en Afrique et en Asie, où l'insécurité entrave les efforts internationaux.\n\nSamedi, Ursula von der Leyen a confirmé la signature du traité commercial UE-Mercosur avec l'Argentine, le Brésil, le Paraguay et l'Uruguay, ouvrant un marché de 780 millions de personnes malgré l'opposition française et les craintes des agriculteurs pour la concurrence sud-américaine. Ce jalon économique survient alors que, à Kiev, les habitants subissent des coupures d'électricité, de chauffage et d'eau en plein hiver, pendant que la Russie présente son missile hypersonique Orechnik à l'ONU, signalant une possible escalade militaire à venir.",
+  "headlines": [
+    {
+      "title": "Donald Trump affirme que l'Iran veut négocier avec les États-Unis sans écarter options militaires",
+      "source": "France Info",
+      "summary": "Donald Trump déclare que Téhéran souhaite négocier après ses menaces, tandis que 192 personnes ont péri dans les manifestations selon une ONG. Le président iranien Pezeshkian appelle à une marche de résistance lundi. Cela renforce les tensions géopolitiques au Moyen-Orient.",
+      "link": "https://www.franceinfo.fr/monde/iran/manifestations/direct-manifestations-en-iran-donald-trump-affirme-que-teheran-veut-negocier-avec-les-etats-unis-mais-n-ecarte-pas-des-options-militaires_7736074.html#xtor=RSS-3-[lestitres]",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "La Cour internationale de justice auditionne la Birmanie pour génocide des Rohingyas",
+      "source": "France 24",
+      "summary": "Dès lundi pour trois semaines, la CIJ examine si la Birmanie a violé la Convention sur le génocide envers les Rohingyas, dossier porté par la Gambie. Cela pourrait aboutir à des sanctions internationales et marquer un précédent pour les crimes contre l'humanité.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260112-la-birmanie-devant-la-cour-internationale-de-justice-pour-le-g%C3%A9nocide-des-rohingyas",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "L'ONU recense 626 incidents contre humanitaires en RDC en 2025 surtout à l'Est",
+      "source": "RFI",
+      "summary": "Ocha rapporte 626 attaques contre les humanitaires en RDC en 2025, dont 48 en décembre à l'Est dues à groupes armés et vols. La situation empire, rendant l'aide à haut risque et menaçant l'assistance aux millions de déplacés.",
+      "link": "https://www.rfi.fr/fr/afrique/20260112-rdc-l-onu-alerte-sur-626-incidents-contre-des-humanitaires-en-2025-notamment-dans-l-est",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Ursula von der Leyen confirme signature du traité UE-Mercosur samedi malgré opposition française",
+      "source": "20 Minutes",
+      "summary": "L'UE signe samedi avec Argentine, Brésil, Paraguay et Uruguay le traité Mercosur, opposé par la France et les agriculteurs craignant concurrence. Cela ouvre un marché de 780 millions de personnes mais soulève des craintes pour l'agriculture européenne.",
+      "link": "https://www.20minutes.fr/monde/bresil/4195431-20260112-agriculture-ue-confirme-ursula-von-der-leyen-signera-bien-samedi-traite-mercosur?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Kiéviens subissent coupures d'électricité chauffage et eau pendant débat ONU sur missile russe Orechnik",
+      "source": "20 Minutes",
+      "summary": "Les habitants de Kiev manquent d'électricité, chauffage et eau en hiver, tandis que la Russie présente le missile hypersonique Orechnik à l'ONU. Cela aggrave la crise humanitaire ukrainienne et intensifie les tensions internationales sur l'escalade militaire.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4195423-20260111-guerre-ukraine-kieviens-electricite-ni-chauffage-ni-eau-missile-orechnik-table-onu?at_medium=display&at_campaign=149",
+      "category": "environment",
+      "region": "global",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 212,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "asia-pacific": 1,
+      "africa": 1,
+      "europe": 1,
+      "global": 1
+    }
+  }
+}

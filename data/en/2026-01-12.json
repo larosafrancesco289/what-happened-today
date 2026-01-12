@@ -1,0 +1,87 @@
+{
+  "date": "2026-01-12",
+  "summary": "Tensions between the Trump administration and the Federal Reserve boiled over as the Department of Justice issued subpoenas to the central bank and threatened criminal indictment of Chair Jerome Powell over his congressional testimony about building renovations. This extraordinary pressure—unprecedented in modern U.S. history—raises alarms about the erosion of the Fed's independence, which has long insulated monetary policy from political interference. With inflation still a concern for households nationwide, any perceived meddling could unsettle markets and everyday borrowing costs.\n\nMeanwhile, NATO mounted its first coordinated response to suspected sabotage, deploying forces across the Baltic Sea after another deep-sea cable was severed, heightening fears of hybrid attacks on Europe's critical infrastructure. This vigilance echoes the clampdown in Iran, where the protest death toll has climbed above 540 amid economic despair and internet blackouts; President Trump revealed that Tehran's leaders have reached out for negotiations following U.S. threats of military action over the crackdown, potentially averting escalation but spotlighting America's leverage in global hotspots.\n\nLooking ahead, the International Court of Justice kicks off three-week hearings on Monday into Gambia's genocide case against Myanmar over its 2017 Rohingya crackdown, a ruling that could shape precedents for cases like South Africa versus Israel on Gaza. In Congo, Rwanda-backed rebels overran government troops to seize Goma, trapping over one million displaced people and straining UN aid efforts in the region's endless conflict. Upward, NASA and SpaceX launched the Crew-10 mission from Kennedy Space Center, carrying astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the ISS, paving the way for the return of stranded duo Butch Wilmore and Suni Williams.",
+  "headlines": [
+    {
+      "title": "Department of Justice Subpoenas Federal Reserve, Threatens Criminal Indictment Over Powell Testimony",
+      "source": "Associated Press",
+      "summary": "The DOJ served subpoenas on the Federal Reserve and threatened indictment regarding Chair Jerome Powell's testimony on building renovations. The central bank faces unprecedented pressure from President Trump's administration. This escalates tensions between executive branch and independent Fed, impacting monetary policy independence.",
+      "link": "https://apnews.com/article/federal-reserve-trump-subpoena-bf4fc6c690fa248fbc531bc9bc7f1758",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO deploys forces after another deep-sea cable severance in the Baltic Sea amid suspected sabotage of critical infrastructure. Alliance members coordinate protection efforts. This marks NATO's initial hybrid threat response, signaling heightened vigilance against underwater attacks on Europe.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iran Protests Death Toll Rises to Over 540 Amid Regime Clampdown",
+      "source": "Deutsche Welle",
+      "summary": "Activists report over 540 deaths in ongoing protests against Iran's clerical rulers, fueled by economic woes despite internet blackouts. Government plans national resistance march Monday. Escalation challenges regime stability, drawing international attention to human rights abuses.",
+      "link": "https://www.dw.com/en/iran-protests-death-toll-rises-to-over-540-activists/live-75463923?maca=en-rss-en-top-1022-rdf",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump States Iran Seeks Negotiations After US Military Intervention Threats",
+      "source": "France 24",
+      "summary": "President Trump reveals Iran's leadership contacted him to negotiate following US threats of military action against protester killings, with hundreds dead. Live updates track developments. This shifts US-Iran dynamics, potentially averting escalation while pressuring Tehran on domestic unrest.",
+      "link": "https://www.france24.com/en/middle-east/20260112-live-trump-says-iran-wants-to-negotiate-after-us-threatens-military-intervention",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "ICJ Opens Hearings on Myanmar Rohingya Genocide Case Filed by Gambia",
+      "source": "Al Jazeera English",
+      "summary": "The International Court of Justice begins three-week hearings Monday on allegations Myanmar committed genocide against Rohingya Muslims during 2017 crackdown. Rohingya refugees in Bangladesh seek justice. Ruling could set precedents for ICJ cases like South Africa versus Israel over Gaza.",
+      "link": "https://www.aljazeera.com/news/2026/1/12/un-top-court-set-to-open-myanmar-rohingya-genocide-case?traffic_source=rss",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck on ISS Nine Months",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 rocket carries NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov from Kennedy Space Center to ISS. Crew arrives Saturday, enabling return of Butch Wilmore and Suni Williams. Mission restores routine rotations, ensuring station operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops, Enter Goma Displacing Over One Million",
+      "source": "Wall Street Journal",
+      "summary": "Rebels seize Goma amid gunfire and shelling, trapping over one million displaced people in the UN safe-haven city. Congolese forces retreat. Conflict exacerbates humanitarian crisis in eastern Congo, straining aid efforts and regional stability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 453,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 2,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 1,
+      "middle-east": 1,
+      "asia-pacific": 1,
+      "global": 1,
+      "africa": 1
+    }
+  }
+}

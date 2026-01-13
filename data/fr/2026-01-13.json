@@ -1,0 +1,75 @@
+{
+  "date": "2026-01-13",
+  "summary": "Donald Trump a durci lundi la pression économique sur l'Iran en annonçant, via Truth Social, des droits de douane supplémentaires de 25 % pour tout pays commerçant avec Téhéran, une mesure immédiate et définitive qui s'ajoute aux sanctions américaines existantes. Cette décision fait suite aux bombardements américains de juin 2025 sur des sites nucléaires iraniens en appui à Israël, et survient alors que Washington envisage des options militaires face à la répression violente des manifestations en Iran. Pour les entreprises mondiales et les économies dépendantes du pétrole iranien, comme la Chine ou l'Inde, cela risque de perturber les chaînes d'approvisionnement et d'attiser l'inflation énergétique.\n\nPendant ce temps, les États-Unis ont dénoncé mardi 13 janvier 2026 la Russie devant le Conseil de sécurité de l'ONU pour ses actions en Ukraine, cherchant à isoler diplomatiquement Moscou et à rallier un soutien accru pour Kiev. Cette offensive rhétorique s'inscrit dans un contexte de tensions persistantes, où les États-Unis mènent une stratégie d'encerclement contre les axes Russie-Iran, tandis que Moscou et Téhéran approfondissent leur partenariat militaire. En Europe, ces frictions géopolitiques contrastent avec des drames locaux : en Corse-du-Sud, Alain Orsoni, ex-leader nationaliste exilé au Nicaragua, a été abattu d'un tir de précision lors des obsèques de sa mère à Vero, un meurtre évoquant les règlements de comptes mafieux qui gangrènent l'île.\n\nÀ Paris, le procès en appel de Marine Le Pen et onze cadres du Rassemblement national s'est ouvert mardi 13 janvier pour l'affaire des assistants parlementaires européens, jugée jusqu'au 11 février avec une décision attendue à l'été. Condamnée en première instance à quatre ans de prison dont deux ferme et cinq ans d'inéligibilité, la leader d'extrême droite joue son éligibilité pour la présidentielle de 2027, un enjeu qui pourrait redessiner le paysage politique français face aux crises internationales.",
+  "headlines": [
+    {
+      "title": "Donald Trump impose droits de douane de 25 % à tout pays commerçant avec l'Iran",
+      "source": "Le Monde",
+      "summary": "Donald Trump annonce lundi sur Truth Social des droits de douane supplémentaires de 25 % pour tout pays commerçant avec l'Iran, décision définitive et immédiate. Cette mesure renforce les sanctions économiques américaines contre Téhéran, impactant le commerce international.",
+      "link": "https://www.lemonde.fr/international/live/2026/01/12/en-direct-iran-donald-trump-annonce-des-droits-de-douane-de-25-supplementaires-pour-tout-pays-commercant-avec-l-iran_6661368_3210.html",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump envisage options militaires contre la répression iranienne des manifestants",
+      "source": "France 24",
+      "summary": "Donald Trump examine des options fortes, y compris militaires, face à la répression violente en Iran, après les bombardements de juin 2025 sur sites nucléaires en appui à Israël. Washington maintient la pression pour soutenir les manifestants et contrer Téhéran.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260113-trump-maintient-la-pression-sur-l-iran-l-option-militaire-toujours-sur-la-table-selon-washington",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis critiquent la Russie devant le Conseil de sécurité de l'ONU sur l'Ukraine",
+      "source": "20 Minutes",
+      "summary": "Les États-Unis dénoncent mardi 13 janvier 2026 la Russie au Conseil de sécurité de l'ONU pour ses actions en Ukraine. Cette critique publique vise à isoler Moscou diplomatiquement et à mobiliser un soutien international accru pour Kiev.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4195741-20260113-direct-guerre-ukraine-etats-unis-critiquent-russie-devant-conseil-securite-onu?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Adolescent de 13-14 ans provoque accident de minibus tuant 11 personnes en Bolivie",
+      "source": "20 Minutes",
+      "summary": "Un minibus conduit par un adolescent âgé de 13-14 ans percute un arbre près du Brésil, causant 11 morts dont 4 mineurs et 7 adultes. Cet accident souligne les failles en matière de contrôle des conducteurs et de sécurité routière en Bolivie.",
+      "link": "https://www.20minutes.fr/monde/4195737-20260113-bolivie-accident-minibus-conduit-ado-age-13-14-ans-fait-11-morts?at_medium=display&at_campaign=149",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Assassins tuent Alain Orsoni lors de l'enterrement de sa mère en Corse-du-Sud",
+      "source": "Le Monde",
+      "summary": "Alain Orsoni, ex-leader nationaliste corse vivant au Nicaragua, est assassiné d'un tir à longue distance à Vero lors des obsèques de sa mère. La police note des similitudes avec d'autres homicides liés à son fils, signalant l'emprise criminelle sur l'île.",
+      "link": "https://www.lemonde.fr/societe/article/2026/01/13/l-assassinat-d-alain-orsoni-pilier-de-l-histoire-du-nationalisme-corse-un-signe-de-l-emprise-criminelle-sur-l-ile_6661755_3224.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Marine Le Pen et onze prévenus comparent en appel pour affaire des assistants RN à Paris",
+      "source": "France 24",
+      "summary": "Le procès en appel de Marine Le Pen, du Rassemblement national et onze prévenus s'ouvre mardi 13 janvier à Paris jusqu'au 11 février, décision attendue à l'été. Condamnée en première instance à 4 ans de prison dont 2 ferme et 5 ans d'inéligibilité, elle joue son avenir pour 2027.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260113-le-proc%C3%A8s-en-appel-du-rn-s-ouvre-%C3%A0-paris-marine-le-pen-joue-son-avenir-pr%C3%A9sidentiel",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 218,
+    "categoryCounts": {
+      "economy": 1,
+      "conflict": 1,
+      "politics": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 1,
+      "europe": 3
+    }
+  }
+}

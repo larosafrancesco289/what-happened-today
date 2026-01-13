@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-13",
+  "summary": "Israel took a rare step toward easing Gaza's humanitarian plight today, allowing thousands of displaced Palestinians to return to the northern part of the enclave after a breakthrough in hostage negotiations. Families crossed a heavily militarized zone on foot to reclaim homes shattered by 15 months of war, alleviating overcrowding in the south where over 1.9 million people have been squeezed into tent cities. This cautious concession follows the release of several captives and signals fragile progress in ceasefire talks, even as Israeli forces maintain operations against Hamas—offering ordinary Gazans a glimmer of normalcy amid devastation that has killed over 44,000.\n\nThe relief contrasted sharply with escalations elsewhere. In eastern Congo, Rwanda-backed M23 rebels overran government troops and entered Goma, shelling the lakeside city and trapping more than one million residents in the region's main aid hub; UN officials warned of collapsed humanitarian operations. Meanwhile, Iranian security forces unleashed a nationwide crackdown on anti-government protesters, with eyewitnesses reporting dozens killed in cities like Tehran and Isfahan, drawing global condemnation. President Trump amplified pressure by imposing 25% tariffs on imports from Iran's trading partners—China, Brazil, Turkey, and Russia—hiking costs for global exporters and squeezing Tehran's oil-funded economy.\n\nLooking ahead, Trump's administration is reviewing diplomatic signals from Tehran, where officials declared readiness for war but openness to talks following US warnings over the protest deaths. This delicate dance could shape Middle East stability, while in orbit, SpaceX's Crew-10 mission launched from Kennedy Space Center with NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov—poised to finally bring home Butch Wilmore and Suni Williams after nine months stranded on the ISS, restoring NASA's routine rotations.",
+  "headlines": [
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Breakthrough",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits Gazans to cross a military zone bisecting the enclave following a hostage release deadlock resolution. Thousands of displaced residents return on foot. This development enables families to reclaim homes amid ongoing conflict, reducing southern overcrowding.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels seize Goma after gunfire and shelling displace Congolese troops, trapping over one million people inside the aid hub. U.N. officials monitor the escalation. This threatens humanitarian operations and stability in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iranian Security Forces Attack Anti-Government Protesters Across Country",
+      "source": "BBC World",
+      "summary": "Eyewitnesses report security forces killing protesters in a nationwide crackdown. Demonstrators and civilians suffer deaths and injuries. Accounts highlight regime's violent response, escalating tensions and drawing international scrutiny to Iran's stability.",
+      "link": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump Imposes 25% Tariff on Goods from Iran's Trading Partners",
+      "source": "Deutsche Welle",
+      "summary": "President Trump targets countries like China, Brazil, Turkey and Russia with 25% tariffs on imports for trading with Iran. Global exporters face higher costs. This pressures Tehran's economy and alters international trade dynamics.",
+      "link": "https://www.dw.com/en/trump-announces-25-tariff-on-iran-s-trading-partners/a-75481137?maca=en-rss-en-top-1022-rdf",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "US Judge Sentences Navy Sailor Jinchao Wei to 200 Months for Espionage",
+      "source": "South China Morning Post",
+      "summary": "Federal court in San Diego jails 25-year-old Jinchao Wei for selling US Navy ship manuals to Chinese intelligence officer, receiving over $12,000. Navy and national security affected. Verdict deters espionage amid US-China tensions.",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3339702/former-us-navy-sailor-jailed-16-years-selling-ship-secrets-chinese-contact?utm_source=rss_feed",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump Administration Denounces Russia’s Oreshnik Missile Use in Ukraine",
+      "source": "Al Jazeera English",
+      "summary": "US condemns Russia's nuclear-capable Oreshnik missile strikes as dangerous escalation during UN Security Council meeting. Ukrainian civilians face deadly attacks. This heightens NATO-Russia confrontation risks and impacts global security.",
+      "link": "https://www.aljazeera.com/news/2026/1/13/us-slams-russias-dangerous-escalation-in-ukraine-amid-new-deadly-strikes?traffic_source=rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Stuck Astronauts from Space Station",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA’s Anne McClain, Nichole Ayers, Japan’s Takuya Onishi and Russia’s Kirill Peskov from Kennedy Space Center to ISS. Astronauts Butch Wilmore and Suni Williams return after nine months. Mission restores routine rotations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Refrains from Military Action Against Iran While Reviewing Tehran Messages",
+      "source": "Associated Press",
+      "summary": "President Trump weighs US response to Iran's crackdown killing nearly 600 and arresting thousands of protesters. Administration explores diplomatic signals from Tehran. Decision affects Middle East stability and US-Iran relations.",
+      "link": "https://apnews.com/article/trump-iran-protests-military-tariffs-28972b6ac7f67b5f28a7a3089ea2cf23",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Senator Mark Kelly Sues Pentagon Over Punishment for Warning About Illegal Orders",
+      "source": "Associated Press",
+      "summary": "Democratic Sen. Mark Kelly files lawsuit against Pentagon for intimidating him after criticizing illegal military strikes on drug-smuggling vessels. Lawmakers and military personnel involved. Case challenges executive overreach on congressional oversight.",
+      "link": "https://apnews.com/article/pentagon-kelly-hegseth-illegal-orders-lawsuit-9c6fe0ed8241f93211a0638a27bfe7d8",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran Declares Readiness for War but Openness to Negotiate After Trump Warnings",
+      "source": "New York Times World",
+      "summary": "Iranian officials state preparedness for conflict yet willingness to talk following Trump's threats over protest repression. Government and protesters impacted. Position influences US policy decisions and regional peace prospects.",
+      "link": "https://www.nytimes.com/2026/01/12/world/middleeast/iran-protests-trump-us.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 469,
+    "categoryCounts": {
+      "conflict": 4,
+      "economy": 1,
+      "politics": 4,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "africa": 1,
+      "americas": 3,
+      "europe": 1,
+      "global": 1
+    }
+  }
+}

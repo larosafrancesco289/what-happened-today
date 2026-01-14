@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-14",
+  "summary": "Mass protests convulsed Tehran today, with demonstrators battling security forces over economic woes and repression, prompting Iranian leaders to accuse President Trump of inciting chaos as a pretext for military strikes. Trump's recent vow of 'strong action' against the regime intensified the rhetoric, exacerbating US-Iran frictions that have spiked oil prices and destabilized the Middle East since the 2018 nuclear deal withdrawal. An accompanying internet blackout in Iran stifled reporting, leaving ordinary Iranians cut off from the world.\n\nThis digital clampdown follows Uganda's nationwide internet shutdown ahead of divisive elections, revealing a pattern among autocracies to mute dissent and obscure vote-rigging claims. In northeast Thailand, a construction crane collapsed onto a passenger train from Bangkok, killing 22 and injuring dozens in a derailment that exposed chronic safety lapses in the country's expanding rail infrastructure, relied on by millions of daily commuters. Meanwhile, President Trump rebuffed warnings that his revived push to seize Greenland would fracture NATO alliances, even as bipartisan US senators advanced a bill barring funds for any such occupation.\n\nLooking ahead, a SpaceX Falcon 9 roared off from Kennedy Space Center carrying NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov toward the ISS, slated to relieve Butch Wilmore and Suni Williams after nine months marooned by Boeing Starliner glitches. Scientists confirmed 2025 as the third-hottest year on record despite Pacific cooling, driven by greenhouse gases—a stark signal for governments to accelerate emission cuts amid looming extreme weather threats.",
+  "headlines": [
+    {
+      "title": "Construction Crane Falls on Passenger Train Killing 22 in Northeast Thailand",
+      "source": "Al Jazeera English",
+      "summary": "A crane collapsed onto a train traveling from Bangkok to northeast Thailand, derailing it and killing at least 22 passengers. Rescue operations continue amid investigations into construction safety. This accident highlights vulnerabilities in Thailand's rail infrastructure, affecting commuters and transport reliability.",
+      "link": "https://www.aljazeera.com/news/2026/1/14/at-least-22-people-killed-after-crane-falls-on-train-in-northeast-thailand?traffic_source=rss",
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tehran Accuses Trump of Encouraging Destabilisation Amid Iran Protests",
+      "source": "Al Jazeera English",
+      "summary": "Iran claims US President Trump seeks pretext for military intervention by warning of strong action during mass protests. Protesters and government forces clash in Tehran. This escalates US-Iran tensions, impacting regional stability and oil markets.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck on ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 rocket carries NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov from Kennedy Space Center. Crew reaches station Saturday, enabling Butch Wilmore and Suni Williams' return after nine months. This resolves Boeing Starliner issues, ensuring ISS operations continue.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "House Republicans Demand Clintons Testify in Epstein Investigation",
+      "source": "NPR News",
+      "summary": "Republicans pursue depositions from Bill and Hillary Clinton on Jeffrey Epstein ties, warning of contempt charges. Clintons provided written statements claiming limited knowledge. Probe examines Epstein network, affecting political accountability and public trust in oversight.",
+      "link": "https://www.npr.org/2026/01/13/nx-s1-5676148/bill-clinton-hillary-clinton-jeffrey-epstein-house-oversight-depositions",
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Supreme Court Reviews State Bans on Transgender Athletes in 27 States",
+      "source": "NPR News",
+      "summary": "Justices hear arguments on laws barring transgender girls from female school sports in 27 states. Rulings expected soon shape youth athletics nationwide. Decision balances fairness in competition against transgender rights, influencing policies for millions of students.",
+      "link": "https://www.npr.org/2026/01/13/nx-s1-5675261/supreme-court-state-bans-trans-athletes",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Dismisses Greenland Takeover Fears Harming NATO Alliance",
+      "source": "ABC Australia",
+      "summary": "President Trump rejects concerns that seizing Greenland destroys NATO, as Greenlandic and Danish ministers meet US VP JD Vance and Secretary Marco Rubio in Washington. Talks address renewed US control threats over Arctic island. Move strains alliances, affects Arctic resource access.",
+      "link": "https://www.abc.net.au/news/2026-01-14/donald-trump-greenland-takeover-nato-alliance/106229044",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Chinese Study Warns Space Solar Stations Risk Zapping Satellites",
+      "source": "South China Morning Post",
+      "summary": "Beijing Institute research highlights lasers from China's planned space solar power stations overheating or discharging nearby satellites due to errors. Low-Earth orbit congestion grows with satellites. Findings urge safety protocols, impacting global space race and satellite operations.",
+      "link": "https://www.scmp.com/news/china/science/article/3339829/chinese-risk-study-finds-space-solar-power-stations-could-accidentally-zap-satellites?utm_source=rss_feed",
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran and Uganda Cut Internet Access to Suppress Dissent",
+      "source": "Japan Times",
+      "summary": "Iran restricts internet during protests; Uganda blacks out ahead of elections. Tactic silences opposition in both nations. Pattern spreads to other countries, limiting free speech and information flow critical for global democracy monitoring.",
+      "link": "https://www.japantimes.co.jp/news/2026/01/14/world/politics/countries-internet-blackouts-dissent/",
+      "category": "society",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Scientists Confirm 2025 as Third-Hottest Year Despite Pacific Cooling",
+      "source": "Japan Times",
+      "summary": "Greenhouse gases offset equatorial Pacific cooling, making 2025 the third-warmest year recorded. Global temperatures rise steadily. Data underscores accelerating climate change, pressing governments for emission cuts to avert extreme weather impacts worldwide.",
+      "link": "https://www.japantimes.co.jp/environment/2026/01/14/climate-change/scientists-2025-third-hottest-year/",
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "US Senators Introduce Bill Barring Trump from Seizing Greenland",
+      "source": "Al Jazeera English",
+      "summary": "Bipartisan legislation blocks funding for occupying NATO ally Denmark's Greenland territory amid Trump's renewed threats. Bill advances in Senate. Measure protects alliances, prevents unilateral Arctic expansion affecting international relations and resources.",
+      "link": "https://www.aljazeera.com/news/2026/1/14/us-senators-introduce-bill-to-stop-trump-seizing-greenland?traffic_source=rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 473,
+    "categoryCounts": {
+      "environment": 2,
+      "politics": 5,
+      "science": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "middle-east": 1,
+      "americas": 4,
+      "europe": 1,
+      "global": 2
+    }
+  }
+}

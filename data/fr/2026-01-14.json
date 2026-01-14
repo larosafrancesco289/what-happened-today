@@ -1,0 +1,110 @@
+{
+  "date": "2026-01-14",
+  "summary": "L'Iran est plongé dans une répression sanglante ces derniers jours, selon la chaîne en exil Iran International qui estime à 12 000 le nombre de tués par les forces du régime, un bilan bien plus élevé que les 2 571 morts recensés par l'ONG Iran Human Rights depuis le début des contestations en 2022. Cette escalade fait suite à la mort de Mahsa Amini en septembre 2022, qui avait déclenché des manifestations massives contre le régime des ayatollahs. Pour les Iraniens ordinaires, cela signifie une peur quotidienne accrue, des arrestations arbitraires et une répression qui étouffe toute dissidence, tout en attirant une condamnation internationale de l'ONU pour ces violations flagrantes des droits humains.\n\nPendant ce temps, la Russie a intensifié son offensive en Ukraine avec 25 missiles et 293 drones visant quatre régions, touchant même deux pétroliers grecs en mer Noire et causant des coupures d'électricité massives. Cela survient alors que le parquet sud-coréen requiert la peine de mort contre l'ex-président Yoon Suk Yeol, accusé d'insurrection pour sa tentative présumée d'instaurer une dictature en 2024. Ces événements soulignent un thème récurrent d'instabilité politique : d'un côté, des régimes autoritaires réprimant par la force, de l'autre, des accountability judiciaires dans des démocraties fragiles, avec des répercussions économiques mondiales via les chocs énergétiques.\n\nDonald Trump, de retour au pouvoir, affronte un dilemme majeur face à l'Iran : promettre une aide aux manifestants contre le guide suprême Khamenei, menacer une intervention militaire ou neutraliser le programme nucléaire. Le département d'État américain a déjà ordonné à ses ressortissants de quitter Téhéran immédiatement, tandis que Trump durcit sa rhétorique et classe des branches des Frères musulmans comme terroristes. Ces postures risquent d'embraser le Moyen-Orient, signalant une ère de confrontations directes qui pourraient redessiner les alliances régionales.",
+  "headlines": [
+    {
+      "title": "Chaîne Iran International rapporte 12 000 tués par régime iranien lors répression récente",
+      "source": "Le Figaro",
+      "summary": "La chaîne en exil Iran International estime à au moins 12 000 le nombre de personnes tuées ces derniers jours par la répression en Iran. Ce bilan élevé souligne l'escalade de violence du régime, impactant la contestation populaire et les relations internationales.",
+      "link": "https://www.lefigaro.fr/international/le-regime-tue-sans-retenue-en-iran-la-repression-vire-au-massacre-20260113",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "ONG Iran Human Rights recense 2571 morts de manifestants lors répression en Iran",
+      "source": "RTBF (Belgian)",
+      "summary": "L'ONG Iran Human Rights publie un bilan de 2571 morts depuis le début du mouvement de contestation en Iran. Cette répression massive met en lumière les violations des droits humains, suscitant une attention mondiale sur la stabilité du régime.",
+      "link": "https://www.rtbf.be/article/manifestations-en-iran-probablement-des-milliers-de-manifestants-tues-selon-une-ong-11661087",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russie lance 25 missiles et 293 drones sur quatre régions ukrainiennes",
+      "source": "Radio-Canada",
+      "summary": "La Russie a attaqué l'Ukraine avec 25 missiles et 293 drones, touchant quatre régions et deux pétroliers grecs en mer Noire. Ces frappes causent morts et coupures d'électricité, prolongeant le conflit et ses répercussions économiques globales.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2220261/frappes-russes-morts-coupures-courant-ukraine",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Parquet sud-coréen requiert peine de mort contre ex-président Yoon Suk Yeol",
+      "source": "20 Minutes",
+      "summary": "Le parquet accuse Yoon Suk Yeol d'insurrection pour tentative d'instaurer une dictature en 2024 et demande la peine capitale. Ce procès judiciaire marque un tournant politique en Corée du Sud, avec possible impact sur la démocratie locale.",
+      "link": "https://www.20minutes.fr/monde/coree_du_sud/4195940-20260114-coree-sud-accuse-insurrection-ex-president-yoon-suk-yeol-risque-peine-mort?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis appellent ressortissants à quitter immédiatement l'Iran Trump menace action forte",
+      "source": "RTBF (Belgian)",
+      "summary": "Le département d'État américain ordonne le départ immédiat de ses ressortissants d'Iran où une exécution par pendaison est prévue aujourd'hui. Trump promet une réponse très forte, escaladant les tensions et risquant un conflit régional.",
+      "link": "https://www.rtbf.be/article/les-etats-unis-appellent-leurs-ressortissants-a-quitter-immediatement-l-iran-trump-menace-d-agir-de-maniere-tres-forte-si-l-iran-execute-des-manifestants-11661189",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump intensifie pression sur Téhéran qui répond par menaces réciproques",
+      "source": "Radio-Canada",
+      "summary": "Trump accroît la pression sur l'Iran au milieu des manifestations réprimées causant 2000 morts selon un responsable. L'ONU exprime horreur face aux violences ; échanges de menaces risquent d'aggraver la crise et d'impliquer les puissances mondiales.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2220266/iran-manifestations-2000-morts-selon-responsable",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump menace intervention pour soutenir manifestants iraniens contre Khamenei",
+      "source": "20 Minutes",
+      "summary": "Face à la répression sanglante en Iran, Trump agite la menace d'intervention américaine pour faire tomber le régime des ayatollahs. Cette posture encourage les protestataires et pourrait mener à une confrontation directe avec Téhéran.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4195910-20260114-menacant-intervenir-trump-pousse-peuple-iran-faire-revolution?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump confronte dilemme opération militaire contre régime iranien à Téhéran",
+      "source": "Le Monde",
+      "summary": "Trump promet aide aux manifestants iraniens mais hésite sur les moyens : décapiter le régime, neutraliser répression ou négocier nucléaire. Ce débat interne à Washington détermine l'évolution des tensions au Moyen-Orient.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/14/donald-trump-confronte-au-dilemme-d-une-operation-militaire-contre-l-iran_6662106_3210.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Administration Trump désigne branches Frères musulmans organisations terroristes",
+      "source": "RTBF (Belgian)",
+      "summary": "L'administration Trump classe des branches des Frères musulmans comme terroristes, lançant une campagne contre leur violence. Cette mesure marque une politique sécuritaire ferme, affectant relations avec pays musulmans et lutte antiterroriste.",
+      "link": "https://www.rtbf.be/article/etats-unis-l-administration-trump-designe-des-branches-des-freres-musulmans-comme-organisations-terroristes-11661036",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump ordonne frappes causant plus de 1000 victimes en un an selon ONG",
+      "source": "Radio-Canada",
+      "summary": "Selon l'ONG Acled, les frappes américaines sous Trump en un an égalent presque celles de Biden et font plus de 1000 victimes. Cette intensification reflète une stratégie militaire agressive, influençant conflits mondiaux et bilans humains.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2220475/frappes-americaines-trump-biden-acled",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 209,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 5
+    },
+    "regionCounts": {
+      "middle-east": 6,
+      "europe": 1,
+      "asia-pacific": 1,
+      "americas": 2
+    }
+  }
+}

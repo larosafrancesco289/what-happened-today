@@ -1,0 +1,76 @@
+{
+  "date": "2026-01-14",
+  "summary": "Donald Trump ha esortato oggi gli iraniani a persistere nelle proteste contro il regime di Teheran, promettendo aiuti imminenti dagli Stati Uniti e consigliando agli americani di lasciare il Paese. Questo appello audace arriva mentre le manifestazioni, nate nel 2022 dopo la morte di Mahsa Amini, si intensificano tra timori di 12.000 morti; Mosca ha denunciato le parole di Trump come 'minacce inaccettabili', e l'ONU ha espresso orrore per un'esecuzione prevista domani di un manifestante. L'intervento potrebbe escalare le tensioni geopolitiche, con possibili interventi USA che riaccenderebbero vecchie rivalità in Medio Oriente, colpendo prezzi energetici globali e stabilità regionale.\n\nNel frattempo, una gru da cantiere è crollata su un treno passeggeri a nord di Bangkok, causando 22 morti e oltre 30 feriti tra i 195 viaggiatori: l'incidente, avvenuto alle 9 ora locale, ha provocato un deragliamento e un incendio, con autorità thailandesi che aprono un'inchiesta sulle cause strutturali. Negli USA, Bill e Hillary Clinton hanno saltato la deposizione del 13 gennaio davanti alla commissione Vigilanza della Camera sul caso Epstein, rischiando procedimenti per disprezzo; il repubblicano Comer indaga sui loro legami passati, alimentando polemiche politiche in vista delle elezioni. Questi eventi, da incidenti quotidiani a scandali, ricordano come infrastrutture precarie e eredità controverse influenzino la vita comune.\n\nGuardando avanti, il servizio Copernicus ha confermato il 2025 come terzo anno più caldo mai registrato, con l'Europa che si scalda oltre la media globale negli ultimi 11 record: fattori come El Niño spingono politiche climatiche urgenti, impattando ecosistemi e società. Parallelamente, uno studio della Hebrew University di Gerusalemme ha mappato rotture precoci del DNA nelle cellule mammarie di donne con mutazioni BRCA, aprendo la via a screening preventivi contro il cancro al seno anni prima della diagnosi.",
+  "headlines": [
+    {
+      "title": "Trump esorta iraniani a continuare proteste annunciando aiuti imminenti",
+      "source": "ANSA",
+      "summary": "Trump invita la popolazione iraniana a persistere nelle manifestazioni contro il regime, promettendo aiuti e consigliando agli americani di lasciare il Paese. Mosca denuncia minacce inaccettabili, ONU esprime orrore per timori di 12 mila morti e esecuzione di un manifestante domani. La tensione sale con possibili interventi USA.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/13/in-iran-si-temono-12-mila-morti.-trump-avanti-con-le-proteste-presto-gli_1719a49c-8453-450d-b277-c423d9cd2c9f.html",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Studio israeliano rileva rotture DNA precoci nel cancro al seno BRCA",
+      "source": "AGI",
+      "summary": "Ricerca della Hebrew University analizza cellule mammarie di donne con mutazioni BRCA1 e BRCA2, mappando rotture a doppio filamento nei geni tumorali anni prima del tumore. Lo studio su Cell Death & Disease spiega i primi eventi oncogeni, aprendo a screening precoci per prevenire il cancro al seno.",
+      "link": "https://www.agi.it/salute/news/2026-01-14/mutazioni-brca-rotture-dna-cancro-35073233/",
+      "category": "science",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Gru crolla su treno thailandese causando 22 morti e 30 feriti",
+      "source": "Euronews Italiano",
+      "summary": "Un treno con 195 passeggeri deraglia a nord di Bangkok quando una gru di un cantiere collassa sul convoglio alle 9 ora locale, uccidendo 22 persone e ferendone oltre 30 con incendio. Autorità aprono inchiesta sulle cause, mentre proseguono soccorsi tra le lamiere.",
+      "link": "http://it.euronews.com/2026/01/14/disastro-ferroviario-in-thailandia-gru-crolla-su-treno-a-nord-di-bangkok-decine-di-morti-e",
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "UE obbliga Stati membri a monitorare PFAS nell'acqua potabile da lunedì",
+      "source": "AGI",
+      "summary": "Dal 12 gennaio gli Stati UE devono controllare concentrazioni di PFAS, sostanze chimiche persistenti, nell'acqua potabile e intervenire se superano i limiti. Prima regolamentazione sistematica contro rischi sanitari, i 'forever chemicals' usate in vari prodotti industriali.",
+      "link": "https://www.agi.it/estero/news/2026-01-14/pfas-acqua-potabile-limiti-ue-35077311/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Bill e Hillary Clinton saltano deposizione commissione su Epstein",
+      "source": "AGI",
+      "summary": "I coniugi Clinton non si presentano martedì 13 gennaio alla convocazione della commissione Vigilanza della Camera USA per testimoniare sul caso Epstein, nonostante minaccia di procedimento per disprezzo. Il repubblicano Comer indaga sui legami, alimentando controversie politiche.",
+      "link": "https://www.agi.it/estero/news/2026-01-14/epstein-bill-e-hillary-clinton-non-testimoniano-a-camera-35072975/",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Copernicus registra 2025 come terzo anno più caldo globalmente",
+      "source": "Euronews Italiano",
+      "summary": "Il servizio Copernicus conferma 2025 terzo anno più caldo mai misurato, con Europa che si scalda più della media mondiale negli ultimi 11 anni record. Due fattori principali guidano il trend, rilevante per politiche climatiche e impatti su ecosistemi e società.",
+      "link": "http://it.euronews.com/green/2026/01/14/copernicus-2025-terzo-anno-piu-caldo-a-livello-globale-e-in-europa-con-due-fattori-princip",
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 251,
+    "categoryCounts": {
+      "politics": 3,
+      "science": 1,
+      "environment": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "europe": 1,
+      "americas": 1,
+      "global": 1
+    }
+  }
+}

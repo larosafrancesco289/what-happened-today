@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-15",
+  "summary": "The fragile ceasefire in Gaza advanced to its second phase today, with US Special Envoy Steve Witkoff announcing the disarming of Hamas fighters, infrastructure rebuilding, and deployment of Palestinian security forces—milestones from the Trump-brokered plan. This follows Israel's decision to open a northern military zone, allowing thousands of displaced Palestinians to return home after a hostage release breakthrough. For ordinary Gazans, the moves promise relief from 18 months of devastation, though skeptics question Hamas's compliance amid lingering distrust.\n\nTensions simmered elsewhere in a web of hybrid threats and attrition warfare. NATO launched its first coordinated response to sabotage of a Baltic Sea cable, deploying ships and surveillance to shield critical undersea networks after suspects severed the line—echoing fears of Russian meddling that have rattled energy supplies from Europe to Ukraine. There, Russian strikes plunged millions into an energy emergency at -19°C, as President Zelenskyy raced to restore power grids battered by drones and missiles, exacerbating civilian hardships in the grinding two-year conflict. Meanwhile, in eastern Congo, Rwanda-backed M23 rebels overran Goma, trapping over one million displaced people and firing shells into the UN aid hub, deepening what aid groups call Africa's forgotten crisis.\n\nLooking ahead, NASA's Crew-10 mission blasted off aboard a SpaceX Falcon 9, carrying astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the ISS. Docking Saturday, they will facilitate the return of four crewmates—including the first medically evacuated astronauts Mike Fincke and others—ensuring seamless rotations amid growing US-Russia space cooperation.",
+  "headlines": [
+    {
+      "title": "NASA Returns Four Astronauts from ISS in First Medical Evacuation",
+      "source": "Associated Press",
+      "summary": "NASA returned astronauts Mike Fincke, Oleg Platonov, Zena Cardman and Kimiya Yui to Earth from the International Space Station due to medical needs. The mission marks the first such evacuation. Crew rotation continues with replacement arrivals.",
+      "link": "https://apnews.com/article/nasa-astronauts-space-crew-spacex-medical-california-13d6c5246a1afec200a811e6cfc049bf",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "US Announces Gaza Ceasefire Enters Second Phase Disarming Hamas",
+      "source": "Associated Press",
+      "summary": "US Special Envoy Steve Witkoff states Gaza advances to the ceasefire's next phase, which disarms Hamas fighters, rebuilds infrastructure and deploys Palestinian security experts. Trump brokered the plan. Progress stabilizes the region post-war.",
+      "link": "https://apnews.com/article/mideast-wars-israel-hamas-gaza-trump-witkoff-bb39015d25aeb627a5b9ce73dd4e1155",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO coordinates its initial response after suspects severed a deep-sea cable in the Baltic Sea, targeting critical infrastructure. Member states deploy assets to protect undersea networks. Escalation risks wider regional tensions.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Enter Northern Gaza",
+      "source": "Wall Street Journal World",
+      "summary": "Israel opens a military zone for thousands of displaced Gazans to return north after resolving a hostage release impasse. Families reunite amid ongoing truce. Movement eases humanitarian strains in the enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Capture Goma Trapping One Million Displaced",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels overrun Congolese troops to enter Goma, firing shells and displacing over one million people into the aid hub city. UN warns of crisis. Evacuations strain regional stability and humanitarian aid.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump Administration Restores $2 Billion Mental Health Grant Funding",
+      "source": "NPR News",
+      "summary": "The administration reverses cuts to over $2 billion in mental health and addiction grants following bipartisan backlash. Programs serving millions regain funds immediately. Restoration bolsters public health services nationwide.",
+      "link": "https://www.npr.org/2026/01/14/nx-s1-5677714/trump-administration-mental-health-addiction-grant-cuts-restored",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Russian Strikes Create Energy Crisis in Ukraine at -19 Degrees Celsius",
+      "source": "Al Jazeera English",
+      "summary": "Russian attacks disrupt heat and power across Ukraine as Zelenskyy declares an energy emergency amid -19C temperatures. Millions face blackouts. Restoration efforts prioritize civilian survival in winter.",
+      "link": "https://www.aljazeera.com/news/2026/1/15/russian-attacks-cause-energy-emergency-in-freezing-ukraine-says-zelenskyy?traffic_source=rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "US Senate Defeats War Powers Resolution Limiting Trump 3-3 Republican Split",
+      "source": "Al Jazeera English",
+      "summary": "Senate rejects a resolution curbing Trump's war powers with three Republicans joining Democrats in a tie broken by JD Vance. Measure fails outright. Decision preserves executive military flexibility.",
+      "link": "https://www.aljazeera.com/news/2026/1/15/us-senate-defeats-war-powers-resolution-designed-to-rein-in-trump?traffic_source=rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck on ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi and Russia's Kirill Peskov to the ISS, enabling return of Butch Wilmore and Suni Williams after nine months. Docking occurs Saturday.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "NTSB Reports UPS Crash Part Failed Four Times on Prior Flights",
+      "source": "Associated Press",
+      "summary": "A component that broke during the November 2025 UPS plane crash in Louisville, killing both pilots, had failed four times on other aircraft since Boeing's 2011 warning. NTSB investigates safety implications for MD-11 fleet.",
+      "link": "https://apnews.com/article/ups-louisville-plane-crash-ntsb-md11-6d4cfff0c3937f847a3ac39809e31c11",
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 460,
+    "categoryCounts": {
+      "science": 2,
+      "conflict": 4,
+      "politics": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "global": 2,
+      "middle-east": 2,
+      "europe": 2,
+      "africa": 1,
+      "americas": 3
+    }
+  }
+}

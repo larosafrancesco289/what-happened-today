@@ -1,0 +1,93 @@
+{
+  "date": "2026-01-15",
+  "summary": "Donald Trump ha dichiarato oggi, in un'intervista a Reuters, che Vladimir Putin è pronto a un accordo di pace per fermare la guerra in Ucraina, mentre Volodymyr Zelensky continua a resistere. Citando perdite mensili di 30.000 soldati ucraini e russi, Trump ha sottolineato l'interesse europeo per garanzie di sicurezza e la necessità di negoziati rapidi. Questo segue oltre due anni di conflitto che hanno devastato l'economia ucraina e alimentato l'inflazione globale, offrendo speranza a milioni di civili intrappolati tra stalli militari e crisi energetiche.\n\nNel frattempo, in Medio Oriente, un governo tecnico ha iniziato le attività a Gaza con l'approvazione dell'Autorità Nazionale Palestinese e di Hamas, supervisionando la ricostruzione della Striscia devastata dal conflitto. Steve Witkoff, inviato USA, ha definito questa la 'fase 2' post-bellica, essenziale per stabilizzare la regione e attrarre aiuti internazionali. Parallelamente, Trump ha rafforzato la sua influenza nelle Americhe ospitando Maria Corina Machado, leader dell'opposizione venezuelana, alla Casa Bianca, dopo colloqui con Delcy Rodríguez e mentre il Senato USA respingeva una risoluzione che limitava i suoi poteri militari su Caracas, preservando flessibilità presidenziale.\n\nGuardando al futuro, Trump ha annunciato una soluzione imminente per la Groenlandia dopo incontri con ministri danesi e groenlandesi, tra allarmi europei per possibili annessioni, mentre il vicepremier groenlandese prevede l'arrivo di truppe NATO extra la prossima settimana per difendere interessi artici. Oltre all'orizzonte geopolitico, la NASA ha confermato il lancio di Artemis II il 6 febbraio, la prima missione con equipaggio attorno alla Luna da 50 anni, aprendo la via a basi permanenti e nuove esplorazioni spaziali per l'umanità.",
+  "headlines": [
+    {
+      "title": "Trump afferma che Putin accetta accordo pace in Ucraina mentre Zelensky rifiuta",
+      "source": "AGI",
+      "summary": "Donald Trump, in intervista a Reuters, dichiara che Putin è pronto a un accordo per fermare la guerra, ma Zelensky resiste; cita 30.000 soldati ucraini e russi persi al mese. L'Europa aiuterà nelle garanzie di sicurezza, interesse per negoziati rapidi.",
+      "link": "https://www.agi.it/estero/news/2026-01-15/trump-zelensky-putin-accordo-russia-35098805/",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "NASA conferma lancio Artemis II il 6 febbraio verso orbita lunare",
+      "source": "AGI",
+      "summary": "La NASA annuncia il lancio di Artemis II il 6 febbraio, prima missione con equipaggio intorno alla Luna dopo 50 anni. L'umanità torna a esplorare il satellite naturale, aprendo fase nuove missioni Artemis per basi permanenti.",
+      "link": "https://www.agi.it/estero/news/2026-01-15/artemis-orbita-terrestre-luna-35098266/",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Governo tecnico Gaza inizia attività con via libera ANP e Hamas",
+      "source": "la Repubblica",
+      "summary": "Il governo tecnico di Gaza debutta oggi per sovrintendere la ricostruzione della Striscia, approvato da ANP e Hamas. Witkoff definisce questa la fase 2 post-conflitto, cruciale per stabilizzare la regione e attrarre aiuti internazionali.",
+      "link": "https://www.repubblica.it/esteri/2026/01/15/news/gaza_governo_tecnico_witkoff_inizio_fase_2-425095483/?rss",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump incontra leader opposizione venezuelana Machado alla Casa Bianca",
+      "source": "AGI",
+      "summary": "Donald Trump riceve oggi Maria Corina Machado dopo telefonata con Delcy Rodriguez; conferma trattative con leadership Caracas post-cattura Maduro da forze USA. Visita rafforza opposizione, mira a transizione politica stabile in Venezuela.",
+      "link": "https://www.agi.it/estero/news/2026-01-15/trump-machado-venezuela-nobel-35098613/",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump annuncia soluzione per Groenlandia dopo incontro ministri danesi",
+      "source": "AGI",
+      "summary": "Donald Trump dichiara che si troverà una soluzione per Groenlandia dopo colloqui con ministri danese e groenlandese, JD Vance e segretari USA. Allarme europei per possibile annessione, ma USA mantengono buoni rapporti con Danimarca.",
+      "link": "https://www.agi.it/estero/news/2026-01-15/groenlandia-trump-danimarca-35098267/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Senato USA respinge risoluzione che limita poteri Trump su Venezuela",
+      "source": "Rai News",
+      "summary": "Il Senato blocca risoluzione contro poteri militari Trump in Venezuela grazie a voto JD Vance e dietrofront due repubblicani, rompendo pareggio 50-50. Decisione mantiene flessibilità presidenziale, evita restrizioni su interventi esteri.",
+      "link": "https://www.rainews.it/video/2026/01/jd-vance-al-senato-voto-aeff6f37-621b-47c6-9baa-4f1ef2ea7743.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Vicepremier Groenlandia annuncia arrivo truppe NATO extra la prossima settimana",
+      "source": "TGCOM24",
+      "summary": "Il vicepremier groenlandese prevede maggiore presenza soldati NATO sull'isola dai prossimi giorni, con rinforzi settimana prossima. Rafforza difese artiche amid tensioni USA-Danimarca, protegge interessi strategici contro rivendicazioni territoriali.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/vicepremier-groenlandia-settimana-prossima-altre-truppe-_107923039-202602k.shtml",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Scienziati riportano in vita enzima cannabis attivo milioni anni fa",
+      "source": "ANSA",
+      "summary": "Ricercatori resuscitano enzima ancestrali della cannabis, attivo milioni anni or sono, aprendo sviluppo nuovi farmaci. Scoperta biotech promette terapie innovative per malattie, sfruttando meccanismi evolutivi della pianta.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/01/14/riportato-in-vita-un-enzima-della-cannabis-attivo-milioni-di-anni-fa_199b4895-5e5d-4c75-ac83-25ec9cedc7e1.html",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 252,
+    "categoryCounts": {
+      "conflict": 2,
+      "science": 2,
+      "politics": 4
+    },
+    "regionCounts": {
+      "europe": 3,
+      "global": 2,
+      "middle-east": 1,
+      "americas": 2
+    }
+  }
+}

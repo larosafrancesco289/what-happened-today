@@ -1,0 +1,64 @@
+{
+  "date": "2026-01-16",
+  "summary": "Donald Trump a ravivé les tensions transatlantiques en menaçant d'annexer le Groenland, territoire autonome danois dans l'Arctique, évoquant même une intervention militaire si Copenhague refuse de vendre. Cette déclaration, faite lors d'un meeting à Palm Beach, fait suite à ses propositions similaires en 2019 et intervient alors que la fonte des glaces ouvre de nouvelles routes maritimes et ressources stratégiques. Elle alarme les Européens, qui y voient une menace à l'OTAN, alliance fondée après la Seconde Guerre mondiale pour contenir l'URSS, et un signal que l'Amérique de Trump pourrait se désengager de ses alliés européens face à la Chine et la Russie.\n\nEn réponse immédiate, le Danemark a annoncé une mission de reconnaissance militaire européenne à Nuuk, sa capitale groenlandaise, impliquant potentiellement des forces de plusieurs pays de l'UE pour renforcer la présence locale face aux ambitions américaines. Pendant ce temps, Trump multiplie les initiatives personnelles : il a lancé le 'Conseil de la paix pour Gaza', qu'il préside, supervisant un comité palestinien temporaire dirigé par Ali Shaath, marquant la deuxième phase de son plan malgré les incertitudes sur le désarmement du Hamas et le retrait israélien. Ces mouvements illustrent un réalignement géopolitique où Washington cherche à imposer sa vision unilatérale.\n\nCe développement survient alors que le Canada amorce un dégel avec Pékin : son premier ministre, lors de sa première visite en huit ans, a salué un nouveau partenariat bilatéral lors d'entretiens avec le président Xi Jinping, axés sur l'économie et la politique. En Europe, la France suspend les débats sur le budget 2026 jusqu'à mardi, le gouvernement préparant l'article 49.3 pour imposer son texte face à l'absence de majorité parlementaire, signalant des turbulences politiques qui pourraient façonner l'agenda européen en 2025.",
+  "headlines": [
+    {
+      "title": "Donald Trump menace d'annexer le Groenland et met en péril l'OTAN",
+      "source": "France Info",
+      "summary": "Donald Trump convoite le territoire autonome danois du Groenland dans l'océan Arctique et envisage une annexion par la force. Cela risque de précipiter la fin de l'OTAN, alliance atlantique post-Seconde Guerre mondiale, alarmant les Européens sur la stabilité transatlantique.",
+      "link": "https://www.franceinfo.fr/monde/otan/un-changement-majeur-comment-les-menaces-de-donald-trump-sur-le-groenland-mettent-en-peril-l-otan_7743103.html#xtor=RSS-3-[lestitres]",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le Danemark déploie une mission militaire européenne au Groenland contre Trump",
+      "source": "Le Monde",
+      "summary": "Le royaume du Danemark organise une mission de reconnaissance militaire européenne à Nuuk, capitale du Groenland, pour contrer les ambitions de Donald Trump. Les contours restent hésitants sans chiffres sur les soldats déployés, visant à renforcer la présence face aux menaces américaines.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/16/au-groenland-une-mission-militaire-europeenne-aux-contours-encore-hesitants-pour-contrer-les-ambitions-de-donald-trump_6662465_3210.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Le premier ministre canadien salue un nouveau partenariat avec la Chine à Pékin",
+      "source": "Radio-Canada",
+      "summary": "Le premier ministre canadien rencontre le président chinois à Pékin pour la première fois en huit ans et annonce un nouveau partenariat bilatéral. Cette visite marque un dégel des relations diplomatiques, avec des entretiens sur la coopération économique et politique.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2221210/debut-entretiens-president-chinois-premier-ministre-canadien",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump annonce la formation du Conseil de la paix pour Gaza",
+      "source": "France 24",
+      "summary": "Donald Trump forme le Conseil de la paix pour Gaza, présidé par lui, qui supervise un comité palestinien temporaire dirigé par Ali Shaath. Cette étape lance la deuxième phase du plan américain, malgré des questions sur le désarmement du Hamas et le retrait israélien.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260116-gaza-conseil-de-la-paix-forme-donald-trump",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Le gouvernement français suspend les débats sur le budget 2026 jusqu'à mardi",
+      "source": "Le Figaro",
+      "summary": "Le gouvernement suspend les débats parlementaires sur le projet de loi de finances 2026 jusqu'à mardi, faute de majorité. Il prépare l'usage du 49.3 ou d'une ordonnance budgétaire pour imposer le texte, face à des revers répétés au Parlement.",
+      "link": "https://www.lefigaro.fr/conjoncture/budget-2026-le-gouvernement-suspend-les-debats-jusqu-a-mardi-et-se-prepare-au-49-3-ou-a-l-ordonnance-20260116",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 212,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3
+    },
+    "regionCounts": {
+      "europe": 3,
+      "global": 1,
+      "middle-east": 1
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "date": "2026-01-16",
+  "summary": "Russia intensified its war on Ukraine's civilians this winter with its most devastating strikes yet on heating and power grids, blacking out cities like Kyiv and leaving millions shivering in sub-zero temperatures. The barrages of drones and missiles, the largest since autumn, expose Ukraine's fragile energy system—already battered by two years of conflict—and underscore Moscow's strategy to erode public resilience even as frontlines in the east remain frozen. Repairs are underway, but the attacks risk a humanitarian crisis deeper than last winter's blackouts.\n\nThis escalation coincides with other global flashpoints testing alliances and institutions. In eastern Congo, Rwanda-backed rebels overran Goma amid gunfire and shelling, trapping over one million displaced residents and overwhelming aid efforts as UN teams scramble evacuations amid Rwanda-DRC tensions. Meanwhile, a South Korean court sentenced former President Yoon Suk-yeol to five years in prison for obstructing justice over his failed December 2024 martial law declaration, a verdict reinforcing democratic checks in a region wary of authoritarian drifts. NATO, for its part, launched its first coordinated response to suspected sabotage of a Baltic Sea cable, signaling unified deterrence against hybrid threats from Russia.\n\nLooking ahead, Ugandan researchers unveiled a game-changer against malaria: cloth wraps treated with permethrin slashed infant infections by two-thirds in trials, offering a cheap, scalable shield for babies in Africa, Asia, and Latin America as climate shifts boost daytime mosquito bites. With malaria killing 600,000 yearly, mostly children, this could save countless lives if rolled out widely.",
+  "headlines": [
+    {
+      "title": "South Korean Court Sentences Former President Yoon to Five Years in Prison",
+      "source": "South China Morning Post",
+      "summary": "A South Korean court sentenced ex-president Yoon Suk-yeol to five years for obstructing justice during his December 3, 2024, martial law declaration that sparked protests. Yoon faces more trials; this verdict holds leaders accountable for subverting democracy in the region.",
+      "link": "https://www.scmp.com/week-asia/politics/article/3340120/south-koreas-yoon-gets-5-years-prison-obstructing-justice-during-martial-law-bid?utm_source=rss_feed",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Russia Targets Ukraine's Heating and Power Grids in Most Devastating Winter Attacks",
+      "source": "New York Times World",
+      "summary": "Russia launched unprecedented attacks on Ukraine's energy infrastructure this winter, knocking out heat and power across cities like Kyiv. Millions of Ukrainians face freezing conditions; repairs continue amid ongoing war, highlighting Russia's strategy to weaken civilian resilience.",
+      "link": "https://www.nytimes.com/2026/01/15/world/europe/ukraine-kyiv-winter-heating-power-outages.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO coordinates its initial response after rebels severed another deep-sea cable in the Baltic Sea amid suspected sabotage of critical infrastructure. European nations and alliances affected; investigations proceed to deter hybrid threats to undersea connectivity.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ugandan Researchers Treat Cloth Wraps with Permethrin Cutting Infant Malaria by Two-Thirds",
+      "source": "The Guardian",
+      "summary": "Ugandan study shows permethrin-treated cloth wraps reduce malaria infections in carried infants by two-thirds as daytime mosquito bites rise. Babies in Africa, Latin America, and Asia benefit; this low-cost method scales up to save lives in malaria-endemic areas.",
+      "link": "https://www.theguardian.com/global-development/2026/jan/16/cloth-wraps-treated-with-insecticide-cut-malaria-cases-in-babies",
+      "category": "science",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "US Forces Seize Sixth Venezuela-Linked Tanker as Interim Leader Pledges Oil Reforms",
+      "source": "Al Jazeera English",
+      "summary": "US military seized a sixth tanker tied to Venezuela while interim leader vows oil sector overhaul under Trump administration pressure. Venezuelan oil industry and global markets affected; reforms aim to stabilize exports and counter sanctions.",
+      "link": "https://www.aljazeera.com/news/2026/1/16/us-seizes-sixth-tanker-as-venezuelas-interim-leader-vows-oil-sector-reform?traffic_source=rss",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to International Space Station for Astronaut Retrieval",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 launched Crew-10 from Kennedy Space Center at 7:03 p.m. Friday, carrying NASA, JAXA, and Roscosmos astronauts to retrieve Butch Wilmore and Suni Williams stuck nine months. They dock Saturday; swap enables routine ISS rotations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Federal Immigration Agents Deploy Tear Gas and Rifles Against Minneapolis Protesters",
+      "source": "Associated Press",
+      "summary": "Immigration officers used rifles and chemical irritants on Minneapolis protesters outside a federal building on January 15, 2026. Demonstrators and officers affected; experts cite training gaps raising escalation risks in US protest policing.",
+      "link": "https://apnews.com/article/minneapolis-protests-immigration-agents-crowd-control-policing-ice-dhs-bd9335c2b0b793a3bff5c51287a80819",
+      "category": "society",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump Hosts Venezuelan Opposition Leader Maria Corina Machado at White House",
+      "source": "Associated Press",
+      "summary": "President Trump meets opposition leader María Corina Machado on Thursday to discuss Venezuela's future after US raid ousted Nicolás Maduro. Venezuelan factions and US policy impacted; talks shape post-Maduro transition and regional stability.",
+      "link": "https://apnews.com/article/trump-machado-venezuela-maduro-nobel-peace-prize-ed23992bccabf128b7e849259d3c29a8",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel opens a military zone allowing Gazans to walk back to northern areas after hostage release breakthrough ends deadlock. Over a million displaced Palestinians affected; returns ease humanitarian crisis but fighting persists.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma Trapping Over One Million Displaced Residents",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels advanced into Goma with gunfire and shelling, defeating Congolese troops and trapping more than one million displaced people. Eastern Congo civilians face aid shortages; UN coordinates evacuations amid Rwanda-Congo tensions.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 481,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 5,
+      "science": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "europe": 2,
+      "africa": 2,
+      "americas": 3,
+      "global": 1,
+      "middle-east": 1
+    }
+  }
+}

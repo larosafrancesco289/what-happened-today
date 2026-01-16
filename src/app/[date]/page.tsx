@@ -123,7 +123,7 @@ export default function DatePage() {
             {t.summary.noSummaryTitle}
           </h1>
           <p className="text-xl text-subtle-light dark:text-subtle-dark mb-8">
-            {currentLanguage.code === 'it' 
+            {currentLanguage.code === 'it'
               ? `Nessun riassunto disponibile per ${date}.`
               : `No summary available for ${date}.`
             }
@@ -135,6 +135,24 @@ export default function DatePage() {
             }
           </p>
         </div>
+      </div>
+    );
+  }
+
+  // Handle unavailable state - news generation failed for this language
+  if (data.unavailable) {
+    return (
+      <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
+        <AppHeader />
+        <div className="max-w-4xl mx-auto px-4 py-16 text-center">
+          <h1 className="text-4xl font-bold text-gradient mb-6">
+            {t.common.unavailableTitle}
+          </h1>
+          <p className="text-xl text-subtle-light dark:text-subtle-dark mb-8">
+            {t.common.unavailableMessage}
+          </p>
+        </div>
+        <DateNavigation currentDate={date} hasNextDate={hasNextDate} />
       </div>
     );
   }

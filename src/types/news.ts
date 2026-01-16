@@ -41,6 +41,10 @@ export interface DailyNews {
   summary: string;
   headlines: NewsHeadline[];
   metadata?: DailyNewsMetadata;
+  /** If true, news generation failed - display "unavailable" message to user */
+  unavailable?: boolean;
+  /** Reason for unavailability (for debugging) */
+  unavailableReason?: string;
 }
 
 export interface RSSFeedItem {

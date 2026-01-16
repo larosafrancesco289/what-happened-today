@@ -161,6 +161,43 @@ async function runPipeline(languageCode: string = 'en') {
     const headlines = await withTimeout(generateHeadlines(filteredArticles, languageCode), 180000, 'Headlines generation');
     console.log(`  Generated ${headlines.length} headlines\n`);
 
+    // CRITICAL: Check if headlines generation failed
+    // If empty, save "unavailable" file instead of generating hallucinated summary
+    if (headlines.length === 0) {
+      console.error(`\n${'='.repeat(60)}`);
+      console.error(`WARNING: No headlines generated for ${languageCode}`);
+      console.error(`This would cause the summary to hallucinate old/fake news.`);
+      console.error(`Saving "unavailable" state instead.`);
+      console.error(`${'='.repeat(60)}\n`);
+
+      const today = getDateString(new Date());
+      const unavailableNews: DailyNews = {
+        date: today,
+        summary: '',
+        headlines: [],
+        unavailable: true,
+        unavailableReason: `Headline generation failed: LLM returned 0 headlines from ${filteredArticles.length} filtered articles (${rawArticles.length} total fetched)`,
+        metadata: {
+          sourcesUsed: 0,
+          articlesProcessed: rawArticles.length,
+          categoryCounts: {},
+          regionCounts: {},
+        },
+      };
+
+      await withTimeout(saveDailyNews(unavailableNews, languageCode), 10000, 'File saving');
+      console.log(`Saved unavailable state for ${languageCode} - frontend will show appropriate message`);
+
+      return {
+        success: false,
+        date: today,
+        language: languageCode,
+        articlesProcessed: rawArticles.length,
+        headlinesGenerated: 0,
+        unavailable: true,
+      };
+    }
+
     // 6. Categorize headlines
     console.log('Step 6/7: Categorizing headlines...');
     const categorizedHeadlines = await withTimeout(categorizeHeadlines(headlines, languageCode), 60000, 'Categorization');
@@ -171,9 +208,46 @@ async function runPipeline(languageCode: string = 'en') {
 
     // 7. Generate summary with AI
     console.log('Step 7/7: Generating daily summary with AI...');
-    const summary = await withTimeout(generateDailySummary(categorizedHeadlines, languageCode), 180000, 'Summary generation');
-    console.log(`  Summary length: ${summary.length} characters`);
-    console.log(`  Preview: ${summary.substring(0, 100)}...\n`);
+    let summary: string;
+    try {
+      summary = await withTimeout(generateDailySummary(categorizedHeadlines, languageCode), 180000, 'Summary generation');
+      console.log(`  Summary length: ${summary.length} characters`);
+      console.log(`  Preview: ${summary.substring(0, 100)}...\n`);
+    } catch (summaryError) {
+      // If summary generation fails, save unavailable state instead of crashing
+      console.error(`\n${'='.repeat(60)}`);
+      console.error(`WARNING: Summary generation failed for ${languageCode}`);
+      console.error(`Error: ${(summaryError as Error).message}`);
+      console.error(`Saving "unavailable" state instead.`);
+      console.error(`${'='.repeat(60)}\n`);
+
+      const today = getDateString(new Date());
+      const unavailableNews: DailyNews = {
+        date: today,
+        summary: '',
+        headlines: [],
+        unavailable: true,
+        unavailableReason: `Summary generation failed: ${(summaryError as Error).message}`,
+        metadata: {
+          sourcesUsed: new Set(filteredArticles.map(a => a.source)).size,
+          articlesProcessed: rawArticles.length,
+          categoryCounts,
+          regionCounts,
+        },
+      };
+
+      await withTimeout(saveDailyNews(unavailableNews, languageCode), 10000, 'File saving');
+      console.log(`Saved unavailable state for ${languageCode} - frontend will show appropriate message`);
+
+      return {
+        success: false,
+        date: today,
+        language: languageCode,
+        articlesProcessed: rawArticles.length,
+        headlinesGenerated: categorizedHeadlines.length,
+        unavailable: true,
+      };
+    }
 
     // Create daily news object with metadata
     const today = getDateString(new Date());

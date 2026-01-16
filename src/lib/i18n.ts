@@ -4,6 +4,8 @@ export interface Translations {
     error: string;
     noData: string;
     retry: string;
+    unavailableTitle: string;
+    unavailableMessage: string;
   };
   navigation: {
     previousDay: string;
@@ -59,7 +61,9 @@ export const translations: Record<string, Translations> = {
       loading: "Loading...",
       error: "An error occurred",
       noData: "No data available",
-      retry: "Try again"
+      retry: "Try again",
+      unavailableTitle: "News Temporarily Unavailable",
+      unavailableMessage: "We couldn't generate today's news summary for this language. Please try another language or check back later."
     },
     navigation: {
       previousDay: "Previous day",
@@ -113,7 +117,9 @@ export const translations: Record<string, Translations> = {
       loading: "Caricamento...",
       error: "Si è verificato un errore",
       noData: "Nessun dato disponibile",
-      retry: "Riprova"
+      retry: "Riprova",
+      unavailableTitle: "Notizie Temporaneamente Non Disponibili",
+      unavailableMessage: "Non è stato possibile generare il riassunto delle notizie di oggi per questa lingua. Prova un'altra lingua o ricontrolla più tardi."
     },
     navigation: {
       previousDay: "Giorno precedente",
@@ -167,7 +173,9 @@ export const translations: Record<string, Translations> = {
       loading: "Chargement...",
       error: "Une erreur s'est produite",
       noData: "Aucune donnée disponible",
-      retry: "Réessayer"
+      retry: "Réessayer",
+      unavailableTitle: "Actualités Temporairement Indisponibles",
+      unavailableMessage: "Nous n'avons pas pu générer le résumé des actualités du jour pour cette langue. Veuillez essayer une autre langue ou revenir plus tard."
     },
     navigation: {
       previousDay: "Jour précédent",

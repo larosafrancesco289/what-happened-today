@@ -512,25 +512,19 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
     return result.headlines || [];
   } catch (error) {
     console.error('Error generating headlines:', error);
-    // Fallback: create basic headlines from articles
-    return articles.map(article => ({
-      title: article.title,
-      source: article.source,
-      summary: article.content.substring(0, 200) + '...',
-      link: article.link,
-    }));
+    // Return empty array - the pipeline will handle this as "unavailable"
+    return [];
   }
 }
 
 export async function generateDailySummary(headlines: NewsHeadline[], languageCode: string = 'en'): Promise<string> {
+  // CRITICAL: Refuse to generate summary with no headlines - this causes hallucination of old news
+  if (!headlines || headlines.length === 0) {
+    throw new Error('Cannot generate summary: no headlines provided. This would cause the LLM to hallucinate old/fake news.');
+  }
+
   const prompts = LANGUAGE_PROMPTS[languageCode as keyof typeof LANGUAGE_PROMPTS] || LANGUAGE_PROMPTS.en;
   const prompt = prompts.summaryPrompt(headlines);
-
-  const fallbackSummary = languageCode === 'it'
-    ? 'I mercati globali e gli affari internazionali hanno continuato la loro progressione costante oggi, con vari sviluppi nei settori economico, politico e sociale. Nel frattempo, gli indicatori chiave suggeriscono una stabilita continua nella maggior parte delle regioni, mentre le istituzioni di tutto il mondo coordinano le risposte alle sfide emergenti.\n\nQuesti sviluppi riflettono un modello piu ampio di cooperazione internazionale e resilienza economica. Mentre governi e organizzazioni navigano dinamiche globali complesse, il loro approccio coordinato dimostra un impegno a mantenere la stabilita affrontando al contempo iniziative strategiche a lungo termine attraverso canali diplomatici ed economici consolidati.'
-    : languageCode === 'fr'
-    ? 'Les marches mondiaux et les affaires internationales ont poursuivi leur progression constante aujourd\'hui, avec divers developpements dans les secteurs economique, politique et social. Parallelement, les indicateurs cles suggerent une stabilite continue dans la plupart des regions, tandis que les institutions du monde entier coordonnent leurs reponses aux defis emergents.\n\nCes developpements refletent un modele plus large de cooperation internationale et de resilience economique. Alors que les gouvernements et les organisations naviguent dans des dynamiques mondiales complexes, leur approche coordonnee demontre un engagement a maintenir la stabilite tout en abordant des initiatives strategiques a long terme a travers des canaux diplomatiques et economiques etablis.'
-    : 'Global markets and international affairs continued their steady progression today, with various developments across economic, political, and social sectors. Meanwhile, key indicators suggest ongoing stability in most regions, as institutions worldwide coordinate responses to emerging challenges.\n\nThese developments reflect a broader pattern of international cooperation and economic resilience. As governments and organizations navigate complex global dynamics, their coordinated approach demonstrates a commitment to maintaining stability while addressing long-term strategic initiatives through established diplomatic and economic channels.';
 
   // Language-specific system prompts to enforce output language
   const systemPrompts: Record<string, string> = {
@@ -546,11 +540,18 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     const apiMs = Date.now() - apiStart;
     console.log(`generateDailySummary: API response time ${apiMs} ms`);
 
-    const result = safeParseJSON(responseText, { summary: fallbackSummary });
-    return result.summary || fallbackSummary;
+    const result = safeParseJSON<{ summary?: string }>(responseText, {});
+
+    // CRITICAL: Do not use generic fallback summaries - they mislead users
+    // If we can't generate a real summary, throw and let the pipeline handle it
+    if (!result.summary || result.summary.trim().length === 0) {
+      throw new Error(`Summary generation returned empty result. Raw response: ${responseText.substring(0, 300)}`);
+    }
+
+    return result.summary;
   } catch (error) {
     console.error('Error generating summary:', error);
-    return fallbackSummary;
+    throw new Error(`Failed to generate summary for ${languageCode}: ${(error as Error).message}`);
   }
 }
 

@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-17",
+  "summary": "L'Ucraina affronta una crisi energetica senza precedenti mentre le sue difese aeree esauriscono le munizioni durante un attacco russo massiccio, esponendo centrali elettriche e reti di distribuzione a raid incessanti. Il presidente Volodymyr Zelensky ha proclamato lo stato di emergenza a Kiev, dove solo il 60% del fabbisogno energetico è soddisfatto tra blackout prolungati e temperature sotto lo zero: un colpo durissimo per 40 milioni di civili già provati da quasi tre anni di guerra, che dipende ora da aiuti occidentali urgenti per missili e generatori.\n\nNel frattempo, tensioni geopolitiche si accendono sull'Artico: la premier italiana Giorgia Meloni, da Tokyo, ha indicato la Groenlandia come priorità di sicurezza Nato da discutere con gli alleati, ribadendo il ruolo strategico del Giappone contro minacce ibride. Questo segue le minacce di Donald Trump di imporre dazi su prodotti farmaceutici a paesi come la Danimarca che resistono al controllo Usa sull'isola, un nodo che rischia di incrinare l'unità atlantica proprio mentre Russia e Cina avanzano nel Polo Nord. In Venezuela, Nicolás Rodríguez ha destituito il ministro Alex Saab, accusato dagli Stati Uniti di riciclaggio per Nicolás Maduro, in un contesto di crisi politica che potrebbe ridefinire alleanze regionali.\n\nVerso il futuro, la causa di Ashley St. Clair contro xAI a New York – per deepfake sessuali generati dal chatbot Grok – solleva interrogativi su responsabilità delle IA, mentre in Russia le feste natalizie sotto Putin evolvono in rituali politici per cementare lealtà militari fino all'Epifania ortodossa, segnalando come le narrazioni identitarie modellino il 2025 globale.",
+  "headlines": [
+    {
+      "title": "Difese aeree ucraine esauriscono munizioni durante attacco russo",
+      "source": "Euronews Italiano",
+      "summary": "Le difese antiaeree ucraine hanno finito le munizioni durante un attacco russo, esponendo infrastrutture energetiche critiche. Zelensky esorta gli alleati occidentali a fornire più munizioni e sistemi di difesa. La carenza minaccia la protezione da raid continui.",
+      "link": "http://it.euronews.com/2026/01/16/le-difese-aeree-dellucraina-sono-rimaste-senza-munizioni-durante-un-attacco-russo",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zelensky proclama stato di emergenza per crisi energetica in Ucraina",
+      "source": "la Repubblica",
+      "summary": "Il presidente ucraino Zelensky ha dichiarato lo stato di emergenza a Kiev per blackout e gelo, con solo il 60% del fabbisogno energetico soddisfatto. La Russia attacca infrastrutture, aggravando la situazione. Gli sforzi si concentrano su riparazioni e aiuti internazionali.",
+      "link": "https://www.repubblica.it/esteri/2026/01/17/news/ucraina_emergenza_energia_kiev_gelo_blackout-425100296/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano governatore Toti di manipolare dati Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo i pm genovesi, il governatore Giovanni Toti e il capo gabinetto Matteo Cozzani manipolavano i dati sui contagi Covid, con Toti che ammetteva aumenti artificiali. L'indagine rivela irregolarità statistiche durante la pandemia. Procede l'inchiesta giudiziaria.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Studente 18enne muore dopo accoltellamento da compagno a La Spezia",
+      "source": "Il Sole 24 Ore",
+      "summary": "Un 18enne accoltellato al fianco da un compagno di scuola durante una lite è morto all'ospedale di La Spezia. La polizia ha fermato l'aggressore. Il ministro Valditara definisce l'episodio una tragedia nazionale, con indagini in corso sulla scuola.",
+      "link": "https://www.ilsole24ore.com/art/la-spezia-18enne-accoltellato-scuola-e-gravissimo-AIly4Ku",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Meloni definisce Groenlandia tema di sicurezza da affrontare nella Nato",
+      "source": "AGI",
+      "summary": "Durante la visita a Tokyo, la premier Giorgia Meloni ha indicato la Groenlandia come questione di sicurezza artica da discutere nella Nato, ribadendo il valore strategico del Giappone. La missione asiatica continua a Seoul, focalizzandosi su dossier globali.",
+      "link": "https://www.agi.it/politica/news/2026-01-17/meloni-tokyo-groenlandia-nato-35131954/",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Meloni auspica de-escalation in Iran e conferma Groenlandia tema Nato",
+      "source": "Rai News",
+      "summary": "La premier Giorgia Meloni lavora per de-escalation in Iran e ribadisce che la Groenlandia è questione interna alla Nato, escludendo intenti divisivi con gli Usa e interventi militari di terra. Non commenta dimissioni Garante Privacy per mancanza di elementi.",
+      "link": "https://www.rainews.it/articoli/2026/01/meloni-lavoriamo-per-de-escalation-in-iran-italia-in-board-gaza-disponibili-a-ruolo-primo-piano-f1558300-fa04-4471-a229-8c219310dac2.html",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump minaccia dazi su farmaceutici contro paesi contrari a Groenlandia Usa",
+      "source": "Euronews Italiano",
+      "summary": "Donald Trump minaccia dazi su prodotti farmaceutici per paesi che ostacolano il controllo Usa sulla Groenlandia. Una delegazione del Congresso ha visitato la Danimarca. La mossa intensifica tensioni geopolitiche sull'Artico, influenzando alleanze atlantiche.",
+      "link": "http://it.euronews.com/2026/01/16/trump-minaccia-dazi-per-i-paesi-contrari-a-controllo-usa-sulla-groenlandia",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Rodríguez destituisce ministro Alex Saab in Venezuela",
+      "source": "la Repubblica",
+      "summary": "Il presidente ad interim Nicolás Rodríguez ha licenziato Alex Saab, ministro dell'Industria e presunto prestanome di Maduro per operazioni illecite secondo gli Usa. La mossa avviene in piena crisi politica venezuelana. Procedono indagini internazionali su Saab.",
+      "link": "https://www.repubblica.it/esteri/2026/01/17/news/alex_saab_licenziato_ministro_maduro_rodriguez_venezuela-425100449/?rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Feste natalizie in Russia diventano rituali politici sotto Putin",
+      "source": "AGI",
+      "summary": "Nella Russia di Putin, le festività natalizie evolvono in rituali politici per rafforzare lealtà, identità e ruolo dei militari come élite. L'antropologa Alexandra Arkhipova analizza il fenomeno fino all'Epifania ortodossa del 19 gennaio.",
+      "link": "https://www.agi.it/estero/news/2026-01-17/russia-putin-feste-rituali-politici-35123208/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ashley St. Clair cita xAI per deepfake sessuali generati da Grok",
+      "source": "AGI",
+      "summary": "Ashley St. Clair, madre di un figlio di Elon Musk, ha fatto causa a xAI a New York accusando il chatbot Grok di creare immagini deepfake sessuali non consensuali. La querela denuncia sfruttamento via AI. Il processo valuta responsabilità della piattaforma.",
+      "link": "https://www.agi.it/economia/news/2026-01-17/xai-elon-musk-deepfake-grok-35123810/",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 257,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 6,
+      "society": 1,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 5,
+      "global": 2,
+      "middle-east": 1,
+      "americas": 2
+    }
+  }
+}

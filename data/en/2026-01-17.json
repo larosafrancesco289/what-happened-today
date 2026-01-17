@@ -1,0 +1,104 @@
+{
+  "date": "2026-01-17",
+  "summary": "Rwanda-backed M23 rebels overran Goma, the largest city in eastern Democratic Republic of Congo, on Friday, routing government troops in fierce street fighting and shelling that sent over one million people fleeing for shelter within the city itself. The UN estimates this latest advance exacerbates a conflict that has displaced 7 million since 2022, turning Goma—a key humanitarian hub—into a sprawling refugee camp and threatening to destabilize neighbors like Rwanda and Uganda amid accusations of cross-border meddling.\n\nThis surge in African violence echoes escalations elsewhere: in Gaza, Israel allowed thousands of displaced Palestinians to trek back to the north on foot after a hostage-release deal, signaling potential de-escalation—yet fresh raids killed dozens more, undermining a fragile ceasefire even as President-elect Trump named a 'Board of Peace' to mediate. Meanwhile, NATO launched its first coordinated naval operation in response to suspected sabotage of a Baltic Sea power cable, linking up alliance ships to patrol critical infrastructure amid hybrid threats widely blamed on Russia.\n\nForward momentum emerged on multiple fronts. Canada and China slashed tariffs on electric vehicles and canola oil, boosting trade and helping Ottawa diversify from U.S. reliance. A Ugandan trial found insecticide-treated baby wraps cutting infant malaria infections by two-thirds, a low-cost innovation poised to save lives across malaria hotspots in Africa, Asia, and Latin America.",
+  "headlines": [
+    {
+      "title": "U.S. Judge Rules Federal Officers Cannot Detain Peaceful Protesters in Minneapolis Immigration Operation",
+      "source": "Associated Press",
+      "summary": "U.S. District Judge Kate Menendez ruled Friday that federal officers in Minneapolis cannot detain or use tear gas on peaceful protesters during a major immigration enforcement. Activists sued in December; thousands monitor ICE activities. Ruling protects First Amendment rights amid operations.",
+      "link": "https://apnews.com/article/minneapolis-immigration-operation-lawsuit-8805b301ff4a7bfb0058e085ffa8c034",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Supreme Court Agrees to Hear Bayer Appeal Blocking Thousands of Roundup Cancer Lawsuits",
+      "source": "Associated Press",
+      "summary": "The Supreme Court will review Bayer's appeal to dismiss thousands of state lawsuits claiming Roundup weedkiller causes cancer, based on EPA approval without warnings. Justices consider federal preemption; Trump administration supports Bayer. Decision affects agrochemical liability.",
+      "link": "https://apnews.com/article/supreme-court-bayer-roundup-glyphosate-cancer-2e8e03708f125a84999259e624fb695c",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Release Breakthrough",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits Palestinians to cross a military zone back to northern Gaza on foot following a hostage deal resolution. Displaced residents affected; returns ease humanitarian pressures. Move signals potential de-escalation in ongoing conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO deploys its first coordinated operation after a deep-sea cable severance in the Baltic Sea amid suspected sabotage campaign. Critical infrastructure operators and alliance members affected. Response bolsters defenses against hybrid threats from adversaries.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israeli Raids Raise Gaza Death Toll Despite Ceasefire as Trump Names Peace Board",
+      "source": "Al Jazeera English",
+      "summary": "Israeli raids kill more in Gaza, increasing casualties despite ceasefire agreement. Palestinian civilians affected; Trump appoints 'Board of Peace' amid tensions. Escalation undermines truce; board aims to mediate regional conflicts.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/17/live-gaza-death-toll-rises-by-israeli-raids-trump-names-board-of-peace?traffic_source=rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Canada and China Cut Tariffs on Electric Vehicles and Canola Products",
+      "source": "New York Times",
+      "summary": "Prime Minister Mark Carney announces tariff reductions on Chinese EVs into Canada and Canadian canola into China during Beijing visit Friday. Trade partners and farmers benefit; diversifies Canada from U.S. reliance. Deal boosts bilateral commerce.",
+      "link": "https://www.nytimes.com/2026/01/16/world/canada/canada-slash-tariffs-chinese-evs.html",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma Forcing Over One Million Displaced into Congo City",
+      "source": "Wall Street Journal",
+      "summary": "Rebels defeat Congolese troops entering Goma, prompting gunfire and shelling; U.N. estimates over one million displaced now shelter there. Residents and aid operations affected. Advance threatens regional stability and humanitarian hub.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ugandan Study Shows Insecticide-Treated Cloth Wraps Reduce Infant Malaria Cases by Two-Thirds",
+      "source": "The Guardian",
+      "summary": "Researchers treat traditional baby-carrying wraps with permethrin, cutting malaria infections in Ugandan infants by two-thirds amid rising daytime mosquito bites. Mothers and babies in Africa, Asia, Latin America affected. Simple tool enhances malaria prevention efforts.",
+      "link": "https://www.theguardian.com/global-development/2026/jan/16/cloth-wraps-treated-with-insecticide-cut-malaria-cases-in-babies",
+      "category": "science",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Measles Cases Exceed 550 in South Carolina's Spartanburg County Outbreak",
+      "source": "NPR News",
+      "summary": "Over 550 measles cases confirmed in Spartanburg County, S.C., in rapid outbreak linked to rising nonmedical school vaccine exemptions. Children and unvaccinated communities affected nationwide. Highlights need for stronger vaccination policies.",
+      "link": "https://www.npr.org/2026/01/16/nx-s1-5677299/measles-outbreak-vaccines-kids-health",
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 465,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 4,
+      "economy": 1,
+      "science": 2
+    },
+    "regionCounts": {
+      "americas": 3,
+      "middle-east": 2,
+      "europe": 1,
+      "global": 1,
+      "africa": 2
+    }
+  }
+}

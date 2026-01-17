@@ -1,0 +1,93 @@
+{
+  "date": "2026-01-17",
+  "summary": "Les menaces de Donald Trump sur le Groenland ont dominé l'actualité mondiale ce week-end, fragilisant l'OTAN née en 1949 pour contrer l'URSS. Vendredi, le président américain a réitéré son envie d'annexer l'île arctique danoise par la force, invoquant des enjeux stratégiques face à la fonte des glaces et aux tensions avec la Chine et la Russie. Cette déclaration survient après des années de convoitise – Trump avait tenté un achat en 2019 – et alarme les Européens, qui craignent un démantèlement de l'alliance atlantique. À Copenhague et Nuuk, 17 000 Groenlandais expatriés au Danemark, soit un tiers de la population insulaire, ont manifesté pour leur souveraineté, certains appelant à une réconciliation impossible face aux pressions américaines.\n\nPendant ce temps, Trump a dévoilé son conseil de la paix pour Gaza, composé de sept membres influents dont Tony Blair, Marco Rubio, Jared Kushner et Steve Witkoff, chargé de superviser l'administration palestinienne en phase deux de son plan post-conflit. Cela fait suite à ses pressions au Moyen-Orient, où l'Arabie saoudite et le Qatar l'ont convaincu de renoncer à frapper l'Iran, évitant une déstabilisation régionale tout en maintenant des sanctions sur ses missiles balistiques. En parallèle, une juge fédérale à Minneapolis a interdit à l'ICE d'arrêter des manifestants pacifiques ou d'utiliser du gaz lacrymogène, forçant Trump à reporter l'Insurrection Act et calmant les tensions locales.\n\nEn Europe, ces turbulences transatlantiques contrastent avec des avancées commerciales : l'Union européenne a signé un accord ambitieux avec le Mercosur, supprimant les droits de douane sur les produits agricoles et industriels, malgré les protestations des agriculteurs français. En France, le ministre Sébastien Lecornu a accordé des concessions aux socialistes pour le budget 2026, préparant un passage en force via l'article 49.3, ce qui pourrait définir la trajectoire économique du pays pour l'année prochaine.",
+  "headlines": [
+    {
+      "title": "Sébastien Lecornu accorde nouvelles concessions au PS pour adopter budget 2026",
+      "source": "Le Monde",
+      "summary": "Sébastien Lecornu a dévoilé vendredi soir des propositions d'évolution du budget 2026 lors d'une allocution télévisée, satisfaisant les socialistes mais pas la gauche ni le socle commun. Il prépare un passage en force via 49.3 ou ordonnances pour éviter la censure. Cela détermine l'approbation finale du budget national.",
+      "link": "https://www.lemonde.fr/politique/article/2026/01/17/budget-2026-sebastien-lecornu-fait-de-nouvelles-concessions-au-ps-pour-faire-accepter-un-potentiel-passage-en-force_6662679_823448.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump révèle sept membres de son conseil de la paix pour Gaza",
+      "source": "Le Monde",
+      "summary": "Donald Trump a annoncé les sept membres de son conseil de la paix pour Gaza, incluant Tony Blair, Marco Rubio, Jared Kushner et Steve Witkoff. Ce conseil supervise le comité palestinien d'administration de Gaza en phase deux de son plan. Cela influence la gestion future du territoire post-conflit.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/17/gaza-tony-blair-marco-rubio-jared-kushner-et-steve-witkoff-parmi-les-sept-membres-du-conseil-de-la-paix-reveles-par-donald-trump_6662601_3210.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump menace d'annexer Groenland et fragilise l'OTAN",
+      "source": "France Info",
+      "summary": "Donald Trump convoite le Groenland danois et menace de l'annexer par la force, risquant la fin de l'OTAN créée après 1945. Les Européens craignent un scénario catastrophe pour l'alliance atlantique. Cela met en péril la cohésion militaire occidentale face aux tensions arctiques.",
+      "link": "https://www.franceinfo.fr/monde/otan/un-changement-majeur-comment-les-menaces-de-donald-trump-sur-le-groenland-mettent-en-peril-l-otan_7743103.html#xtor=RSS-3-[lestitres]",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "17 000 Groenlandais au Danemark expriment inquiétude pour souveraineté",
+      "source": "Le Monde",
+      "summary": "17 000 Groenlandais vivant au Danemark, un tiers de la population de l'île, s'inquiètent pour leur existence avant des manifestations en soutien à la souveraineté. Certains envisagent une réconciliation, d'autres la jugent impossible face aux menaces américaines. Cela souligne les tensions identitaires arctiques.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/16/au-danemark-l-inquietude-de-la-communaute-groenlandaise-c-est-notre-existence-meme-qui-est-en-jeu_6662591_3210.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Juge fédérale interdit à ICE d'arrêter manifestants pacifiques à Minneapolis",
+      "source": "Le Monde",
+      "summary": "Une juge fédérale restreint l'action de l'ICE à Minneapolis, interdisant les arrestations de manifestants pacifiques et l'usage de gaz lacrymogènes. Donald Trump renonce pour l'instant à l'Insurrection Act pour déployer l'armée. Cela calme les tensions locales et limite les pouvoirs fédéraux.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/16/minneapolis-donald-trump-ne-voit-pas-de-raison-pour-le-moment-d-invoquer-l-insurrection-act-qui-lui-permettrait-de-deployer-l-armee_6662577_3210.html",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Arabie saoudite et Qatar dissuadent Donald Trump de frapper l'Iran",
+      "source": "Le Figaro",
+      "summary": "L'Arabie saoudite et le Qatar ont convaincu Donald Trump de renoncer à frapper l'Iran pour éviter une déstabilisation régionale. Ils prônent des pressions continues contre les missiles balistiques iraniens. Cela maintient une stabilité fragile au Moyen-Orient et influence la politique américaine.",
+      "link": "https://www.lefigaro.fr/international/comment-les-pays-du-golfe-ont-dissuade-donald-trump-de-frapper-l-iran-20260116",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Iraniens à frontière irakienne témoignent répression après recul de Trump",
+      "source": "France Info",
+      "summary": "Des Iraniens à la frontière irakienne décrivent une répression sanglante contre l'opposition, amplifiée par la coupure d'Internet et le recul de Trump sur une frappe. Beaucoup expriment le désespoir face à l'étouffement de la contestation. Cela révèle l'ampleur interne de la crise iranienne.",
+      "link": "https://www.franceinfo.fr/monde/iran/manifestations/maintenant-que-trump-a-recule-beaucoup-de-gens-sont-desesperes-a-la-frontiere-irakienne-des-iraniens-se-confient-en-exclusivite-sur-ce-qu-ils-vivent-a-l-interieur-du-pays_7746319.html#xtor=RSS-3-[lestitres]",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Union européenne signe accord de libre-échange ambitieux avec Mercosur",
+      "source": "France 24",
+      "summary": "L'UE et le Mercosur signent samedi un traité commercial supprimant droits de douane sur marchés agricoles et industriels. Agriculteurs protestent, filières soutenues saluent la libéralisation. Cela booste les échanges transatlantiques mais divise les secteurs européens sensibles.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260117-accord-libre-%C3%A9change-ue-mercosur-que-prevoit-il-et-a-qui-profite-t-il-union-europeenne-agriculture-droits-douane",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 220,
+    "categoryCounts": {
+      "politics": 4,
+      "society": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 2,
+      "middle-east": 2,
+      "global": 1
+    }
+  }
+}

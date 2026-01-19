@@ -1,0 +1,75 @@
+{
+  "date": "2026-01-19",
+  "summary": "Une tragédie ferroviaire a secoué l'Espagne dimanche soir près d'Adamuz, en Andalousie : un train à grande vitesse Iryo a déraillé avant de percuter un convoi Renfe, faisant 39 morts et plus de 120 blessés. Le Premier ministre Pedro Sánchez s'est rendu sur place, tandis que le trafic AVE reste paralysé et que les enquêtes portent sur une possible défaillance technique ou humaine. Cet accident, le plus meurtrier sur le réseau espagnol depuis des années, ravive les débats sur la sécurité des lignes à grande vitesse, essentielles pour relier Madrid à Séville et au-delà, affectant des milliers de voyageurs quotidiens et l'économie régionale.\n\nPendant ce temps, les tensions transatlantiques s'intensifient avec Donald Trump qui relance une guerre commerciale contre l'Europe et le Danemark pour forcer la cession du Groenland, ce 19 janvier 2026. Ces pressions, suivies en direct, menacent la souveraineté danoise sur ce territoire autonome riche en ressources arctiques et les relations OTAN. Cela survient alors que l'Ukraine annonce des discussions substantielles avec les États-Unis sur le conflit avec la Russie, visant un soutien militaire accru qui pourrait influencer les négociations de paix en cours et stabiliser le front est.\n\nCes développements font suite à l'annonce par le ministre français Sébastien Lecornu d'une surtaxe maintenue à 8 milliards d'euros sur les profits des grandes entreprises pour boucler le budget 2026, abandonnant la baisse de la CVAE et pesant sur l'industrie face à un déficit public croissant. Parallèlement, des rapports alertent sur les violences sexuelles massives au Soudan et en Ukraine, utilisées comme armes de guerre et touchant des milliers de femmes et filles, appelant à une justice internationale renforcée – un fléau qui risque de perdurer sans intervention globale.",
+  "headlines": [
+    {
+      "title": "Train Iryo déraille et percute train Renfe près d'Adamuz faisant 39 morts",
+      "source": "Le Monde",
+      "summary": "Un train à grande vitesse Iryo a déraillé dimanche soir près d'Adamuz en Andalousie avant de heurter un convoi Renfe, causant 39 morts et plus de 120 blessés. Pedro Sanchez se rend sur place. Le trafic AVE reste interrompu, enquêtes en cours sur les causes.",
+      "link": "https://www.lemonde.fr/international/live/2026/01/19/en-direct-accident-de-trains-en-espagne-au-moins-39-morts-et-plus-de-120-blesses-pedro-sanchez-attendu-sur-place_6663183_3210.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Violences sexuelles ciblent femmes et filles comme armes de guerre au Soudan et en Ukraine",
+      "source": "RTBF",
+      "summary": "Les violences sexuelles massives servent d'armes dans les conflits au Soudan et en Ukraine, touchant des milliers de victimes invisibles. L'article de Terriennes alerte sur ce fléau sous-estimé, appelant à une reconnaissance internationale et à des poursuites judiciaires renforcées.",
+      "link": "https://www.rtbf.be/article/violences-sexuelles-comme-armes-de-guerre-fleau-invisible-des-guerres-au-soudan-et-en-ukraine-11662704",
+      "category": "conflict",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Présentéisme excessif nuit à productivité et santé des salariés dans les entreprises françaises",
+      "source": "RTBF",
+      "summary": "L'enquête française DARES montre que le présentéisme forcé réduit la performance et augmente l'absentéisme. Les entreprises perdent en efficacité en priorisant la présence physique sur le bien-être, recommandant des politiques flexibles pour booster la productivité.",
+      "link": "https://www.rtbf.be/article/pourquoi-le-presenteisme-a-tout-prix-nuit-aux-entreprises-11660228",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump relance guerre commerciale pour forcer cession du Groenland aux États-Unis",
+      "source": "20 Minutes",
+      "summary": "Donald Trump intensifie les pressions commerciales sur l'Europe et le Danemark ce 19 janvier 2026 pour annexer le Groenland. Suivi en direct des négociations, cela menace les relations transatlantiques et la souveraineté danoise sur ce territoire autonome.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4196785-20260119-direct-groenland-trump-relance-guerre-commerciale-annexer-groenland?at_medium=display&at_campaign=149",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Ukraine annonce discussions substantielles avec États-Unis sur conflit avec Russie",
+      "source": "20 Minutes",
+      "summary": "L'Ukraine rapporte ce 19 janvier 2026 des pourparlers avancés avec les États-Unis sur la guerre russo-ukrainienne. Ces échanges visent un soutien renforcé, impactant les stratégies militaires et les négociations de paix en cours.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4196784-20260119-direct-guerre-ukraine-ukraine-dit-avoir-discussions-substantielles-etats-unis?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Sébastien Lecornu maintient surtaxe de 8 milliards d'euros sur profits des grandes entreprises",
+      "source": "Le Monde",
+      "summary": "Pour boucler le budget 2026, Lecornu conserve la surtaxe à près de 8 milliards d'euros sur les grands groupes et abandonne la baisse de CVAE. Cela assure les finances publiques mais pèse sur l'industrie, évitant un déficit accru.",
+      "link": "https://www.lemonde.fr/politique/article/2026/01/19/budget-2026-sebastien-lecornu-va-faire-payer-les-grandes-entreprises-pour-sortir-de-l-impasse_6663172_823448.html",
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 213,
+    "categoryCounts": {
+      "society": 2,
+      "conflict": 1,
+      "economy": 2,
+      "politics": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "global": 1,
+      "americas": 1
+    }
+  }
+}

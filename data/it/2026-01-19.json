@@ -1,0 +1,66 @@
+{
+  "date": "2026-01-19",
+  "summary": "Un tragico deragliamento ferroviario ha scosso la Spagna oggi, quando un treno ad alta velocità Iryo con 300 passeggeri è uscito dai binari ad Adamuz, vicino a Cordoba in Andalusia, invadendo il binario opposto e scontrandosi con un treno AVE. Il bilancio è di 39 morti e 152 feriti, di cui 24 gravi, in uno degli incidenti più gravi nella storia dei trasporti spagnoli. Le autorità indagano su possibili cause tecniche come un giunto saltato, mentre il premier Pedro Sanchez ha espresso il cordoglio della nazione, dichiarando tre giorni di lutto. Questo disastro solleva interrogativi sulla sicurezza delle reti ad alta velocità europee, usate da milioni di pendolari quotidiani per collegare città e ridurre le emissioni.\n\nNel frattempo, sul fronte climatico, incendi boschivi nel sud del Cile hanno causato 19 morti e l'evacuazione di oltre 50.000 persone da comunità dipendenti da turismo e agricoltura, con le fiamme che minacciano ulteriori aree boschive. Questo avviene mentre la Russia ha intensificato gli attacchi con droni su Odessa e Dnipro in Ucraina, ferendo una persona e danneggiando infrastrutture energetiche e del gas nella notte del 19 gennaio; Kiev ha risposto con difese aeree, in un'escalation che prolunga la sofferenza di civili già provati dal conflitto.\n\nGuardando al futuro, l'Italia di Giorgia Meloni ha siglato a Seul un'alleanza strategica con il presidente sudcoreano Lee Jae-myung su semiconduttori, intelligenza artificiale, aerospazio e minerali critici, per rendere più sicure le catene globali del valore. Parallelamente, in Portogallo Andre Ventura del partito sovranista Chega ha portato l'estrema destra al ballottaggio presidenziale dietro il socialista Pedro Seguro, un evento storico che potrebbe ridefinire l'orientamento politico europeo nei prossimi mesi.",
+  "headlines": [
+    {
+      "title": "Treno ad alta velocità deraglia vicino Cordoba causando 39 morti e 152 feriti",
+      "source": "ANSA",
+      "summary": "Un treno Iryo con 300 passeggeri deraglia ad Adamuz in Andalusia invadendo il binario opposto e scontrandosi con un treno AVE. Salgono a 39 i morti e 152 i feriti, di cui 24 gravi. Le autorità indagano sulle cause, inclusa ipotesi di giunto saltato; premier Sanchez esprime cordoglio nazionale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/01/19/due-treni-alta-velocita-deragliano-in-spagna-almeno-39-morti-e-decine-di-feriti_17ffd3a6-640c-4d6c-a268-9f172e0eae10.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Incendi boschivi uccidono 19 persone ed evacuano 50.000 nel Cile meridionale",
+      "source": "Euronews Italiano",
+      "summary": "Fiamme devastano comunità nel sud del Cile, causando 19 morti e l'evacuazione di oltre 50.000 persone. Le autorità gestiscono l'emergenza con squadre di soccorso; gli incendi minacciano ulteriori aree boschive, interessando la sicurezza e l'economia locale dipendente dal turismo e dall'agricoltura.",
+      "link": "http://it.euronews.com/video/2026/01/19/incendi-boschivi-in-cile-almeno-19-morti-50000-evacuati",
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Meloni sigla alleanza con presidente sudcoreano Lee su semiconduttori e minerali critici",
+      "source": "Il Sole 24 Ore",
+      "summary": "Giorgia Meloni e Lee Jae-myung rafforzano partenariato Italia-Sud Corea in intelligenza artificiale, aerospazio, semiconduttori e materie prime critiche durante vertice a Seul. L'accordo mira a catene del valore più sicure; rafforza cooperazione bilaterale e multilaterale per sfide globali.",
+      "link": "https://www.ilsole24ore.com/art/minerali-critici-e-semiconduttori-meloni-sigla-l-alleanza-il-coreano-lee-AI3aO8v",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Russia attacca Odessa e Dnipro con droni ferendo una persona e danneggiando infrastrutture",
+      "source": "TGCOM24",
+      "summary": "Droni russi colpiscono regioni di Odessa e Dnipropetrovsk nella notte del 19 gennaio, distruggendo edifici e danneggiando reti energetiche e del gas. Una persona ferita; Pokrovska bombardata con artiglieria. Kiev risponde con difese aeree, escalation continua nel conflitto.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/droni-russi-odessa-ucraina_108067484-02k.shtml",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Andre Ventura porta estrema destra al ballottaggio presidenziali Portogallo",
+      "source": "la Repubblica",
+      "summary": "Nei risultati del primo turno, Andre Ventura del partito sovranista Chega accede al ballottaggio dietro il socialista Pedro Seguro e davanti ai conservatori. Evento storico per l'estrema destra portoghese; il secondo turno deciderà il nuovo presidente, influenzando l'orientamento politico nazionale.",
+      "link": "https://www.repubblica.it/esteri/2026/01/19/news/presidenziali_portogallo_ballottaggio_seguro_ventura-425103447/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 253,
+    "categoryCounts": {
+      "society": 1,
+      "environment": 1,
+      "politics": 2,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 1,
+      "global": 1
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-01-19",
+  "summary": "An Iranian official confirmed at least 5,000 deaths in the country's recent protests, including 500 security personnel, marking the deadliest unrest in decades. The toll, verified amid clashes across major cities, highlights how economic hardship and demands for reform have fueled nationwide violence, surpassing even the 2009 Green Movement. This escalation has intensified international pressure on Tehran for restraint, raising fears of further instability in the oil-rich nation.\n\nDisasters compounded global woes today. In Spain, a high-speed train from Málaga to Madrid derailed near Córdoba and collided with another, killing 39 among over 400 passengers—the deadliest rail crash in over a decade—and prompting urgent safety probes. Across the Atlantic, wildfires ravaged Chile's Biobío region, claiming 16 lives, destroying neighborhoods, and displacing thousands as mayors plead for national aid amid climate-amplified blazes. This comes as Israel eased restrictions by opening a northern Gaza corridor, allowing thousands of displaced Palestinians to return home after a hostage impasse broke, offering rare humanitarian relief in the enclave's protracted conflict.\n\nLooking ahead, world leaders gathered at Davos for the World Economic Forum, where U.S. President Trump discussed soaring inequality as billionaires amassed trillions. EU ambassadors, meanwhile, chose negotiation over retaliation against Trump's tariff threats, scheduling Brussels talks to safeguard transatlantic trade. NATO also launched its first coordinated response to a severed Baltic Sea cable, suspected sabotage underscoring hybrid threats to energy and communications infrastructure.",
+  "headlines": [
+    {
+      "title": "Spanish Police Raise Train Collision Death Toll to 39 Near Córdoba",
+      "source": "Associated Press",
+      "summary": "A high-speed train from Málaga to Madrid derailed and collided with another train near Córdoba, killing at least 39 people among over 400 passengers. Rescuers continue searching for bodies as dozens receive hospital treatment. This marks Spain's deadliest rail crash in over a decade, prompting safety investigations.",
+      "link": "https://apnews.com/article/spain-train-crash-adamuz-2705807909c7bfb3ed80bcf27a52ad7d",
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iranian Official Reports 5,000 Deaths in Recent Protests",
+      "source": "ABC Australia",
+      "summary": "An Iranian official verifies at least 5,000 deaths in ongoing protests, including 500 security personnel, surpassing any unrest in decades. Protesters and forces across the country face losses. The toll underscores escalating violence, fueling international calls for restraint and reform.",
+      "link": "https://www.abc.net.au/news/2026-01-19/iranian-official-says-verified-deaths-in-iran-protests-5000/106246384",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "World Leaders Convene in Davos Amid Rising Global Inequality",
+      "source": "Associated Press",
+      "summary": "Corporate leaders and officials, including U.S. President Trump, gather for the World Economic Forum in Davos, Switzerland, as billionaires gain trillions while inequality surges. Global elites discuss economic progress. The event highlights tensions between pro-business policies and public unease over wealth gaps.",
+      "link": "https://apnews.com/article/trump-davos-wef-economy-wealth-housing-affordability-1b6ef1ad007d795d29bef5681fa97280",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "EU Ambassadors Opt for Negotiation on Trump Tariff Threat",
+      "source": "New York Times",
+      "summary": "EU ambassadors hold emergency meeting and schedule leaders' talks in Brussels to negotiate rather than retaliate against U.S. President Trump's tariff plans. The 27-nation bloc prepares responses. This approach aims to preserve trade ties amid threats disrupting transatlantic commerce.",
+      "link": "https://www.nytimes.com/2026/01/18/world/europe/european-union-respond-trump-greenland.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Wildfires Kill 16 People in Chile's Biobío Region",
+      "source": "New York Times",
+      "summary": "Wildfires destroy neighborhoods in southern Chile's Biobío region, killing 16 and forcing widespread evacuations. Mayors request national aid as flames spread. The disaster displaces thousands, straining emergency resources and highlighting climate-driven fire risks in the area.",
+      "link": "https://www.nytimes.com/2026/01/18/world/americas/chile-wildfires.html",
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Permits Palestinians to Return to Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel opens a military zone bisecting Gaza, allowing displaced Palestinians to walk back to northern areas after a hostage release deadlock breaks. Thousands affected by prior evacuations benefit. This eases humanitarian pressures in the enclave amid ongoing conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts First Response to Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO coordinates its initial response after a deep-sea cable severs in the Baltic Sea amid suspected sabotage targeting critical infrastructure. Alliance members investigate. The action bolsters defenses against hybrid threats disrupting communications and energy supplies.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 473,
+    "categoryCounts": {
+      "society": 1,
+      "conflict": 3,
+      "politics": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 2,
+      "global": 1,
+      "americas": 1
+    }
+  }
+}

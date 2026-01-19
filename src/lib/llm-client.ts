@@ -440,18 +440,20 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
       chunks.push(limited.slice(i, i + CHUNK_SIZE));
     }
 
-    const chunkResults: ProcessedArticle[][] = [];
-    for (const chunk of chunks) {
-      if (chunk.length === 0) continue;
-      try {
-        const res = await filterAndRankArticlesChunk(chunk, languageCode);
-        chunkResults.push(res);
-      } catch (err) {
-        console.error('Chunk filtering failed, using simple fallback for this chunk:', err);
-        // Fallback: take first few from the chunk to ensure coverage
-        chunkResults.push(chunk.slice(0, 3));
-      }
-    }
+    // Process chunks in parallel for faster execution
+    const chunkPromises = chunks
+      .filter(chunk => chunk.length > 0)
+      .map(async (chunk) => {
+        try {
+          return await filterAndRankArticlesChunk(chunk, languageCode);
+        } catch (err) {
+          console.error('Chunk filtering failed, using simple fallback for this chunk:', err);
+          // Fallback: take first few from the chunk to ensure coverage
+          return chunk.slice(0, 3);
+        }
+      });
+
+    const chunkResults = await Promise.all(chunkPromises);
 
     // Merge and deduplicate by normalized title + link host/path
     const merged = ([] as ProcessedArticle[]).concat(...chunkResults);

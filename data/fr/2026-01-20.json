@@ -1,0 +1,73 @@
+{
+  "date": "2026-01-20",
+  "summary": "Donald Trump a multiplié les provocations diplomatiques ce dimanche, menaçant d’imposer 200 % de droits de douane sur les vins et champagnes français en riposte au refus d’Emmanuel Macron de rejoindre son « conseil de paix » pour Gaza, concurrent de l’ONU. Paris a confirmé son opposition, invoquant les principes onusiens, alors que Trump invite parallèlement Vladimir Poutine à un conseil similaire pour l’Ukraine, où Kiev négocie déjà une trêve avec Washington. Ces initiatives, qui court-circuitent les Nations unies, ravivent les tensions transatlantiques et soulèvent des questions sur la crédibilité des efforts de paix de l’ancien président américain, potentiellement de retour à la Maison Blanche.\n\nPendant ce temps, une tragédie a frappé l’Espagne : deux trains à grande vitesse se sont percutés dimanche soir près d’Adamuz, dans le sud du pays, faisant 40 morts et 122 blessés. Le ministre des Transports Óscar Puente a qualifié l’accident d’« extrêmement étrange », déclenchant une enquête pour identifier les causes et éviter de futurs drames sur un réseau ferroviaire pourtant moderne. En Bulgarie, l’instabilité politique s’aggrave avec la démission surprise du président Roumen Radev, après celle du Premier ministre, à l’approche des élections législatives anticipées, compliquant l’adhésion pleine et entière du pays à l’Union européenne.\n\nÀ l’horizon, Trump prédit une faible résistance européenne à son projet d’annexion du Groenland danois et accepte une réunion cette semaine à Davos avec Mark Rutte, secrétaire général de l’OTAN. Ce dossier, au menu du Forum économique mondial, pourrait redéfinir les relations États-Unis-Europe et influencer la cohésion atlantique face aux défis géopolitiques croissants.",
+  "headlines": [
+    {
+      "title": "Donald Trump menace d’imposer 200 % de droits de douane sur vins et champagnes français",
+      "source": "Le Monde",
+      "summary": "Donald Trump réagit au refus d’Emmanuel Macron de rejoindre son « conseil de paix » pour Gaza en menaçant de taxes de 200 % sur les vins et champagnes français. Paris confirme son refus pour respecter les principes de l’ONU. Cela risque d’aggraver les tensions commerciales transatlantiques.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/20/donald-trump-menace-d-imposer-200-de-droits-de-douane-sur-les-vins-et-les-champagnes-francais-apres-le-refus-d-emmanuel-macron-de-rejoindre-son-conseil-de-paix_6663302_3210.html",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump invite Vladimir Poutine à rejoindre son Conseil de la paix pour l’Ukraine",
+      "source": "20 Minutes",
+      "summary": "Kiev négocie une trêve avec les États-Unis tandis que Trump invite Poutine à son « Conseil de la paix » concurrent de l’ONU. Les discussions se poursuivent pour arrêter le conflit. Cela pourrait accélérer les pourparlers de paix en Ukraine.",
+      "link": "https://www.20minutes.fr/monde/4196945-20260119-guerre-ukraine-kiev-negocie-arracher-treve-poutine-recoit-invitation-venant-trump?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Deux trains à grande vitesse entrent en collision en Espagne et font 40 morts",
+      "source": "20 Minutes",
+      "summary": "Dimanche soir près d’Adamuz, sud de l’Espagne, deux trains à grande vitesse se percutent, causant 40 morts et 122 blessés. Le ministre des transports qualifie l’accident d’« extrêmement étrange ». Une enquête détermine les causes pour prévenir de futurs drames.",
+      "link": "https://www.20minutes.fr/monde/espagne/4196923-20260119-accident-trains-espagne-collision-extremement-etrange-comment-va-derouler-enquete?at_medium=display&at_campaign=149",
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Une victime de Jeffrey Epstein révèle avoir massé le prince Andrew sous contrainte",
+      "source": "20 Minutes",
+      "summary": "Une ancienne mannequin des années 1990 sous emprise d’Epstein témoigne mi-janvier avoir été forcée de masser le prince Andrew, déchu de ses titres royaux. Ses révélations renforcent les accusations contre l’ex-prince pour ses liens avec le proxénète.",
+      "link": "https://www.20minutes.fr/monde/4196909-20260119-voulais-faire-revelations-victime-jeffrey-epstein-forcee-masser-prince-andrew?at_medium=display&at_campaign=149",
+      "category": "society",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump prédit peu de résistance européenne à son projet d’annexion du Groenland",
+      "source": "Le Monde",
+      "summary": "Donald Trump affirme que les dirigeants européens ne résisteront pas beaucoup à son projet sur le Groenland danois et accepte une réunion à Davos avec Mark Rutte. Le forum suisse abordera le dossier cette semaine, influençant les relations OTAN-États-Unis.",
+      "link": "https://www.lemonde.fr/international/live/2026/01/20/en-direct-groenland-donald-trump-affirme-que-les-dirigeants-europeens-ne-vont-pas-resister-beaucoup-a-son-projet-de-s-emparer-du-territoire-autonome-danois_6662929_3210.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Le président bulgare Roumen Radev annonce sa démission avant les élections",
+      "source": "RTBF",
+      "summary": "Après le Premier ministre, Roumen Radev démissionne à l’approche des élections législatives anticipées en Bulgarie. Cette double crise politique approfondit l’instabilité du pays, compliquant sa trajectoire vers l’intégration européenne.",
+      "link": "https://www.rtbf.be/article/bulgarie-apres-le-premier-ministre-c-est-au-tour-du-president-roumen-radev-d-annoncer-sa-demission-11664406",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 228,
+    "categoryCounts": {
+      "economy": 1,
+      "politics": 3,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 5,
+      "global": 1
+    }
+  }
+}

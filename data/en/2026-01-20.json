@@ -1,0 +1,106 @@
+{
+  "date": "2026-01-20",
+  "summary": "Rwanda-backed M23 rebels overran Goma, the key aid hub in eastern Democratic Republic of Congo, today amid intense gunfire and shelling, displacing over one million people already sheltering there. The rapid advance, which caught UN peacekeepers off-guard, severs humanitarian supply lines and risks drawing in neighboring states like Rwanda and Uganda into a broader regional war. This escalation follows two years of M23 gains, fueled by mineral-rich turf disputes, leaving ordinary Congolese families fleeing for a second or third time with nowhere safe to go.\n\nEurope grappled with infrastructure crises of its own. In southern Spain, two high-speed trains collided near Altamura, killing 40 people and hospitalizing 41—including 12 in intensive care—disrupting rail travel and sparking EU-wide safety audits after crews sifted through wreckage for clues. This comes as NATO launched its first coordinated naval operation to guard Baltic Sea cables, severed again in suspected sabotage targeting data and energy links vital to the continent. The moves underscore rising hybrid threats, from state actors probing Western vulnerabilities to scrutiny of aging transport systems.\n\nForward steps emerged elsewhere: Israel opened a military zone bisecting Gaza, letting thousands of displaced Palestinians trek back north after a hostage-release impasse eased, hinting at fragile ceasefire progress amid stalled talks. In Bangladesh, Gen Z voters—44% of the electorate—head to polls for the first competitive election since toppling Sheikh Hasina, their choices poised to steer the nation's wobbly democratic transition.",
+  "headlines": [
+    {
+      "title": "Two High-Speed Trains Collide in Southern Spain, Killing 40 People",
+      "source": "New York Times World",
+      "summary": "Two high-speed trains derailed after colliding in southern Spain, killing 40 and hospitalizing 41, with 12 in intensive care. Crews retrieve bodies amid track scrutiny by authorities. The accident disrupts rail travel and prompts safety investigations across Europe.",
+      "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO deploys its initial coordinated operation after another deep-sea cable severs in the Baltic Sea amid suspected sabotage targeting critical infrastructure. Alliance members protect undersea networks vital for communications and energy. The response escalates defenses against hybrid threats from state actors.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Ex-Colleague Disguises as Woman and Steals US$10,500 from Chinese Man",
+      "source": "South China Morning Post",
+      "summary": "Former colleague Yang disguises as a woman, breaks into Xu's home in Xiamen, and steals US$10,500 flaunted online in April 2024. Prosecutors handle the theft case. The incident highlights risks of social media boasts fueling crimes in China.",
+      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3339845/chinese-man-flaunts-cash-online-envious-ex-colleague-disguises-woman-steals-us10500?utm_source=rss_feed",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Bangladeshi Youth Decide Next Prime Minister After Ousting Hasina",
+      "source": "Al Jazeera English",
+      "summary": "Gen Z voters, 44% of electorate, topple Sheikh Hasina and now shape Bangladesh's first competitive election. Young people, new to free voting, influence leadership selection. Their role determines democratic transition stability in the nation.",
+      "link": "https://www.aljazeera.com/features/2026/1/20/bangladeshi-youth-toppled-hasina-now-they-could-decide-next-prime-minister?traffic_source=rss",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Stuck Astronauts from ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 launches Crew-10 from Kennedy Space Center, carrying NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the ISS. They enable return of Butch Wilmore and Suni Williams after nine months. Routine rotations ensure continuous station operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump Threats Force Latin American Progressives to Toughen Crime Stance",
+      "source": "Associated Press",
+      "summary": "Trump administration pressures and Bukele's El Salvador gang crackdown push Latin American progressive leaders toward harsher organized crime responses. Voters in nations like Guatemala demand action amid rising violence. Leaders balance human rights with security to retain support.",
+      "link": "https://apnews.com/article/latin-america-politics-bukele-organized-crime-5d76ddc581eda87584372a84d505b602",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump Coerces European Leaders Over Greenland Control",
+      "source": "New York Times World",
+      "summary": "President Trump pressures European allies on Greenland acquisition, straining the 80-year US-Europe alliance. Leaders consider alliance future amid coercion tactics. The dispute tests NATO unity and transatlantic security commitments.",
+      "link": "https://www.nytimes.com/2026/01/19/world/europe/trump-greenland-europe-nato-alliance.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Return to Northern Gaza",
+      "source": "Wall Street Journal World",
+      "summary": "Israel opens a military zone bisecting Gaza, allowing displaced residents to walk back to northern areas after hostage release deadlock breaks. Thousands affected by prior evacuations regain access. The move advances fragile ceasefire efforts in the conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma, Displacing Over One Million",
+      "source": "Wall Street Journal World",
+      "summary": "Rwanda-supported rebels seize Goma from Congolese troops amid gunfire and shelling, trapping over one million displaced people in the aid hub city. U.N. officials coordinate evacuations. The advance threatens regional stability and humanitarian access in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump Confirms Greenland Tariffs Threat as EU Vows to Defend Interests",
+      "source": "BBC World",
+      "summary": "President Trump affirms 100% commitment to impose tariffs over Greenland, prompting EU foreign policy chief Kaja Kallas to pledge bloc defense. European leaders unify against pressure. The standoff risks trade war and alliance fractures with global security implications.",
+      "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 459,
+    "categoryCounts": {
+      "politics": 10
+    },
+    "regionCounts": {
+      "global": 10
+    }
+  }
+}

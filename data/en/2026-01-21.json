@@ -1,0 +1,115 @@
+{
+  "date": "2026-01-21",
+  "summary": "Wall Street indexes tumbled on January 20, 2026, with nearly every sector posting losses after President Trump threatened 25% tariffs on eight European countries—Denmark, Sweden, Finland, Norway, Germany, the Netherlands, Poland, and the UK—over their refusal to cede control of Greenland. The Dow fell 2.3%, the S&P 500 shed 2.1%, and Nasdaq dropped 2.5%, erasing early-year gains and heightening fears of a transatlantic trade war. This escalation follows Trump's repeated bids to buy the strategic Arctic island, vital for rare earth minerals and military positioning, straining NATO allies already on edge from Russian aggression.\n\nThe market rout coincided with NATO's first coordinated response to suspected sabotage of a Baltic Sea telecom cable, deploying warships and underwater drones after the latest cut near Sweden's Gotland island. This comes as Russian strikes severed heat supplies to thousands in freezing Kyiv, leaving civilians huddling amid blackouts in sub-zero temperatures—a grim reminder of Moscow's winter campaign to break Ukrainian resolve. Meanwhile, U.S. forces seized a seventh Venezuelan-linked oil tanker, the Motor Vessel Sagitta, in international waters, further choking Caracas's revenue and bolstering America's energy dominance under Trump's assertive foreign policy.\n\nPresident Trump heads to the Davos World Economic Forum on January 21 to confront European leaders directly on Greenland, testing NATO cohesion and global alliances at a pivotal moment. With tariff threats looming and hybrid threats rising, the talks could either defuse tensions or ignite broader economic fallout.",
+  "headlines": [
+    {
+      "title": "Wall Street Indexes Fall After Trump Threatens Tariffs on Eight European Countries Over Greenland",
+      "source": "Associated Press",
+      "summary": "Stocks slumped across Wall Street on January 20, 2026, with nearly every sector declining after President Trump threatened tariffs on eight European nations amid Greenland tensions. Investors face extended losses in a volatile year start, heightening transatlantic trade risks.",
+      "link": "https://apnews.com/article/stock-markets-trump-greenland-inflation-58a6fed13a1e04afd57f0a22a2c9cfb0",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "US Forces Seize Seventh Venezuelan-Linked Oil Tanker in International Waters",
+      "source": "Associated Press",
+      "summary": "US military boarded and controlled the Motor Vessel Sagitta on January 20, 2026, marking the seventh tanker seizure in Trump's campaign to dominate Venezuela's oil exports. This disrupts Venezuelan revenue, escalates regional tensions, and bolsters US energy leverage.",
+      "link": "https://apnews.com/article/venezuela-oil-tanker-us-military-trump-086d42db3d56f0e952014f97fa30faaf",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Train Crash Near Córdoba Kills 41 as Spanish Investigators Probe Tracks",
+      "source": "New York Times",
+      "summary": "A train derailed near Córdoba, Spain, on January 20, 2026, killing at least 41 people, with officials identifying bodies and focusing on track defects. Families grieve while probes continue, underscoring urgent rail safety needs across Europe.",
+      "link": "https://www.nytimes.com/2026/01/20/world/europe/spain-train-crash-track-investigation.html",
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO deployed forces after another deep-sea cable severed in the Baltic Sea on January 20, 2026, addressing suspected sabotage of critical infrastructure. This protects allied communications and signals heightened vigilance against hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Yoweri Museveni Secures Seventh Term in Uganda with Over 70% of Vote",
+      "source": "The Guardian",
+      "summary": "State authorities declared Museveni winner with more than 70% on January 17, 2026, amid internet shutdowns and fraud claims by opponent Bobi Wine, who alleges kidnappings and urges protests. This entrenches long-term rule, sparking stability concerns.",
+      "link": "https://www.theguardian.com/world/2026/jan/17/yoweri-museveni-wins-ugandan-election-as-opponent-condemns-fake-result",
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Travels to Davos for Talks with European Leaders on Greenland Dispute",
+      "source": "France 24",
+      "summary": "President Trump arrives at Davos World Economic Forum on January 21, 2026, to confront Europeans over his Greenland control bid, following tariff threats. This tests NATO unity and transatlantic ties, impacting global alliances.",
+      "link": "https://www.france24.com/en/europe/20260121-live-trump-heads-for-davos-maelstrom-over-greenland",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Japanese Court Sentences Shinzo Abe Assassin to Life in Prison",
+      "source": "France 24",
+      "summary": "Judge Shinichi Tanaka imposed life sentence on the gunman in Nara court on January 21, 2026, for the 2022 killing of former PM Shinzo Abe. This closes a high-profile case, reinforcing security amid public shock.",
+      "link": "https://www.france24.com/en/asia-pacific/20260121-japan-shinzo-abe-assassination-trial",
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Syrian Government Advances Control Over Kurdish-Held Areas Amid New Clashes",
+      "source": "New York Times",
+      "summary": "President Ahmed al-Sharaa's forces moved into Kurdish territories on January 20, 2026, securing a deal but triggering fresh fighting. This tests regime stability in post-war Syria, affecting millions and regional powers.",
+      "link": "https://www.nytimes.com/2026/01/20/world/middleeast/syria-fighting-kurdish-deal.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russian Attacks Sever Heat Supply to Thousands in Kyiv During Freeze",
+      "source": "New York Times",
+      "summary": "Russian strikes hit Ukraine's energy grid on January 20, 2026, cutting heat to thousands in freezing Kyiv as authorities decry submission tactics. Civilians endure blackouts, prolonging war's humanitarian toll.",
+      "link": "https://www.nytimes.com/2026/01/20/world/europe/ukraine-russia-kyiv-heat-cold.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Cross into Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel opened a military zone bisecting Gaza on January 20, 2026, allowing Palestinians to return north after hostage release deadlock broke. Displaced families reclaim homes, easing humanitarian crisis in the enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 467,
+    "categoryCounts": {
+      "economy": 1,
+      "conflict": 4,
+      "environment": 1,
+      "politics": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 4,
+      "americas": 1,
+      "africa": 1,
+      "global": 1,
+      "asia-pacific": 1,
+      "middle-east": 2
+    }
+  }
+}

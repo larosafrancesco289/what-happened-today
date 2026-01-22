@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-22",
+  "summary": "Russia's relentless assaults on Ukraine's power grid plunged Kyiv into crisis today, leaving 4,000 buildings without heat and 60% of the capital powerless as subzero temperatures grip the country. President Volodymyr Zelenskyy highlighted the plight of millions enduring blackouts, a stark reminder of Moscow's strategy to break civilian resolve through winter hardship. This escalation precedes a pivotal meeting between U.S. President Donald Trump and Zelenskyy, which could signal fresh U.S. pushes for peace talks amid stalled frontlines and war fatigue on both sides.\n\nThe energy sabotage echoes broader hybrid threats in Europe, prompting NATO to launch its first alliance-wide response after another Baltic Sea cable was severed, suspected to be deliberate attacks on critical undersea links vital for communications and trade. Meanwhile, in the Middle East, Israel permitted thousands of displaced Palestinians to return to northern Gaza after a hostage-release deal, easing strains in the war-torn enclave where families have trekked miles to reclaim homes amid ongoing fighting. Across Africa, Rwanda-backed rebels overran Goma in eastern Congo, displacing over one million and turning the aid hub into a humanitarian flashpoint with gunfire and shelling.\n\nLooking ahead, Trump's diplomatic overtures extend to Venezuela, where interim president Delcy Rodriguez is set to visit the U.S., potentially unlocking oil supplies in exchange for eased sanctions—a pragmatic move that could stabilize global energy markets while reshaping Washington's engagement with adversaries.",
+  "headlines": [
+    {
+      "title": "Trump Plans Meeting with Zelenskyy as Russia Leaves 4,000 Kyiv Buildings Without Heat",
+      "source": "Associated Press",
+      "summary": "Ukraine's Zelenskyy reports 4,000 buildings in Kyiv lack heat and 60% of the capital lacks power after Russian attacks on the grid. Residents endure winter shortages. U.S. President Trump prepares to meet Zelenskyy, signaling potential peace talks amid energy crisis affecting millions.",
+      "link": "https://apnews.com/article/russia-ukraine-war-electricity-winter-peace-davos-89c320c8841486398ebc7fdee373d2d2",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits Gazans to cross a military zone back to northern Gaza following a hostage release breakthrough. Displaced residents walk home. This eases humanitarian strains in the enclave divided by conflict, allowing families to reclaim homes amid ongoing war.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO deploys its initial alliance-wide action after another deep-sea cable severs in the Baltic Sea amid sabotage suspicions. Critical infrastructure operators face risks. This strengthens defenses against hybrid threats targeting undersea communications vital to Europe.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Chinese Scientists Map Gene Mutation That Raises Asthma Risk in Carriers",
+      "source": "South China Morning Post",
+      "summary": "Chinese researchers identify a gene mutation linked to higher asthma risk and create an immune cell atlas showing genetic impacts on disease. Affected individuals gain insights into susceptibility. This tool advances precision medicine for respiratory conditions worldwide.",
+      "link": "https://www.scmp.com/news/china/science/article/3340553/asthma-has-no-cure-some-risk-written-gene-china-team-finds?utm_source=rss_feed",
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Bomb Kills Five in Attack on Yemen Convoy Carrying Giants Brigades Commander",
+      "source": "Al Jazeera English",
+      "summary": "Attackers bomb a military convoy in Yemen, killing five including allies of the Saudi-backed government. Giants Brigades members suffer losses. Incident escalates violence in the region, complicating stability efforts and U.S.-backed counter-Houthi operations.",
+      "link": "https://www.aljazeera.com/news/2026/1/22/five-killed-in-treacherous-attack-on-military-convoy-in-yemen?traffic_source=rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 from Florida to Retrieve Stuck Astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the ISS. Butch Wilmore and Suni Williams return after nine months. Routine rotation restores normal operations for space research.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "ICE Memo Grants Officers Authority to Enter Homes Without Judicial Warrants",
+      "source": "Associated Press",
+      "summary": "Internal ICE document claims federal immigration agents can force entry into homes without judges' warrants, reversing prior policy. U.S. residents face heightened enforcement risks. This expands deportation powers under Trump, raising civil liberties concerns nationwide.",
+      "link": "https://apnews.com/article/ice-arrests-warrants-minneapolis-trump-00d0ab0338e82341fd91b160758aeb2d",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma Displacing Over One Million Congolese",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels overrun Congolese troops in Goma, prompting gunfire and shelling. Over one million displaced people crowd the aid hub city. U.N. warns of humanitarian catastrophe, straining regional stability and refugee support in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Yoweri Museveni Secures Seventh Term in Uganda with Over 70% of Vote",
+      "source": "The Guardian",
+      "summary": "State authorities declare Museveni winner with more than 70% amid internet shutdowns. Opponent Bobi Wine alleges fraud and kidnappings, calls for protests. Victory extends 40-year rule, sparking tensions over democracy in East Africa.",
+      "link": "https://www.theguardian.com/world/2026/jan/17/yoweri-museveni-wins-ugandan-election-as-opponent-condemns-fake-result",
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela Interim President Delcy Rodriguez Schedules Visit to United States",
+      "source": "France 24",
+      "summary": "U.S. officials confirm Rodriguez's upcoming trip, signaling Trump's engagement with her government for oil access. Venezuelan leaders and U.S. energy firms benefit. This deepens bilateral ties, easing sanctions to secure vital oil supplies globally.",
+      "link": "https://www.france24.com/en/americas/20260122-venezuela-interim-president-to-visit-usa",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 468,
+    "categoryCounts": {
+      "conflict": 5,
+      "science": 2,
+      "politics": 3
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "americas": 2,
+      "africa": 2,
+      "global": 1
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-22",
+  "summary": "La guerra in Ucraina ha raggiunto un nuovo picco di sofferenza civile: oltre 600mila residenti hanno abbandonato Kiev nelle ultime ore, in fuga da blackout elettrici totali e temperature sotto lo zero causati dagli attacchi russi alle centrali elettriche. Zelensky ha accusato il sindaco Vitali Klitschko di una gestione fallimentare dell'emergenza, intensificando le tensioni interne mentre l'esodo aggrava la crisi umanitaria, con rischi immediati per anziani e bambini. Questo sviluppo segue settimane di bombardamenti mirati all'infrastruttura energetica ucraina, un'arma tattica russa che lascia milioni senza luce e riscaldamento proprio nel cuore dell'inverno.\n\nNel frattempo, l'Unione Europea celebra un traguardo storico: per la prima volta, solare ed eolico hanno superato i combustibili fossili nella produzione elettrica, accelerando gli obiettivi di decarbonizzazione al 2030. Eppure, esperti avvertono che le reti obsolete frenano il ritmo, un contrasto netto con la dipendenza energetica che ha alimentato la crisi ucraina. A Davos, Donald Trump ha criticato aspramente l'UE e i suoi leader, ma ha annunciato un accordo con la NATO su Groenlandia che elimina dazi e preserva la sovranità danese, evitando tensioni commerciali e militari artiche – Rutte ha confermato l'intesa, mentre le capitali europee osservano con cautela l'impatto sulle alleanze transatlantiche.\n\nGuardando avanti, il Parlamento UE ha bloccato la ratifica dell'accordo Mercosur richiedendo un parere alla Corte di Giustizia, un voto combattuto che ritarda di 18-24 mesi le ambizioni commerciali della Commissione. Questo freno complica la diversificazione delle rotte UE post-USA, mentre scandali come quello del governatore ligure Giovanni Toti – accusato di aver manipolato dati Covid – e i 155 casi di mancanza d'acqua a Roma segnalano urgenze domestiche che potrebbero influenzare la coesione europea nei prossimi mesi.",
+  "headlines": [
+    {
+      "title": "600mila residenti fuggono da Kiev per blackout e gelo dopo attacchi russi",
+      "source": "la Repubblica",
+      "summary": "600mila persone abbandonano Kiev a causa di blackout elettrici e temperature gelide provocati dagli attacchi russi alle centrali. Zelensky accusa il sindaco Klitschko di gestione errata. L'esodo intensifica la crisi umanitaria ucraina con rischi per la popolazione civile.",
+      "link": "https://www.repubblica.it/esteri/2026/01/22/news/grande_fuga_kiev_gelo_blackout-425110386/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Solare ed eolico superano fossili nella produzione elettrica UE per prima volta",
+      "source": "Euronews Italiano",
+      "summary": "Solare ed eolico hanno superato i combustibili fossili nella generazione di elettricità UE. Esperti avvertono che la rete obsoleta rallenta la transizione. Il traguardo accelera gli obiettivi di energia pulita e decarbonizzazione entro il 2030.",
+      "link": "http://it.euronews.com/green/2026/01/22/solare-ed-eolico-superano-i-fossili-nellue-per-la-prima-volta-la-rete-elettrica-reggera",
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump attacca UE a Davos poi annuncia accordo su dazi per Groenlandia",
+      "source": "la Repubblica",
+      "summary": "Durante il discorso a Davos, Trump critica UE e leader poi sigla accordo per eliminare dazi su Groenlandia. L'intesa evita tensioni commerciali. Le cancellerie europee attendono dettagli per valutare impatti su alleanze transatlantiche.",
+      "link": "https://www.repubblica.it/esteri/2026/01/22/news/show_trump_davos_attacca_ue_accordo_dazi_groenlandia-425110434/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano Toti di manipolazione dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Procuratori rivelano che governatore Giovanni Toti ordinava di truccare dati COVID, come ammettere 'li ho un po’ aumentati' al capo gabinetto Cozzani. Indagine penale prosegue. Lo scandalo mina fiducia nelle statistiche pandemiche ufficiali.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump annuncia accordo NATO su Groenlandia senza dazi",
+      "source": "ANSA",
+      "summary": "Trump proclama intesa con NATO che elimina dazi e preserva sovranità Groenlandia, ottenendo tutte richieste USA. Rutte conferma sovranità intatta. Le reazioni europee restano prudenti in attesa di dettagli per stabilità atlantica.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/21/la-svolta-di-trump-niente-dazi-accordo-con-la-nato-per-la-groenlandia_c2a3eb1e-1d93-475c-98b4-6ad20e58f2ff.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump annuncia stop dazi e niente intervento militare su Groenlandia",
+      "source": "AGI",
+      "summary": "Trump su Truth Social annuncia accordo NATO su Groenlandia senza dazi né invasione, risolvendo crisi Davos. Cancellerie europee reagiscono con cautela. L'intesa rafforza alleanze evitando escalation artica e commerciale.",
+      "link": "https://www.agi.it/estero/news/2026-01-22/trump-svolta-groenlandia-dazi-35217559/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cittadinanzattiva denuncia 155 casi mancanza acqua potabile a Roma",
+      "source": "AGI",
+      "summary": "Rapporto Cittadinanzattiva su 155 segnalazioni 2025 rivela che oltre 70% Roma soffre disservizi cronici acqua potabile. Critica strutturale incide su migliaia residenti. Necessari investimenti urgenti per garantire diritto fondamentale.",
+      "link": "https://www.agi.it/cronaca/news/2026-01-22/roma-acqua-disservizi-35210488/",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Parlamento UE blocca ratifica Mercosur richiedendo parere Corte giustizia",
+      "source": "AGI",
+      "summary": "Parlamento Europeo chiede parere Corte su compatibilità accordo Mercosur firmato in Paraguay, bloccando ratifica per 18-24 mesi. Voto combattuto frena ambizioni Commissione. Il ritardo complica diversificazione commerciale UE post-USA.",
+      "link": "https://www.agi.it/sport/news/2026-01-22/accordo-mercosur-bloccato-ratifica-35210471/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Autorità iraniane pubblicano bilancio vittime proteste diverso da ONG",
+      "source": "Euronews Italiano",
+      "summary": "Tv di Stato diffonde dati ministero Interno su vittime proteste Iran, inferiori a stime ONG. Fondazione Martiri conferma cifre ufficiali. Discrepanza solleva dubbi su trasparenza regime e scala repressione interna.",
+      "link": "http://it.euronews.com/2026/01/22/proteste-in-iran-le-autorita-diffondo-il-primo-bilancio-delle-vittime-dati-non-corrispondo",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "ICE avvia operazioni contro immigrazione illegale nello Stato Maine",
+      "source": "la Repubblica",
+      "summary": "Dipartimento sicurezza USA lancia controlli ICE Maine contro immigrazione illegale, simile a Minnesota con proteste. Operazioni mirano rimpatri. Misure rafforzano politiche Trump su confini, scatenando dibattiti su diritti migranti.",
+      "link": "https://www.repubblica.it/esteri/2026/01/22/news/l_ice_nel_maine_pronte_operazioni_contro_l_immigrazione_illegale_vance_a_minneapolis-425110575/?rss",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 258,
+    "categoryCounts": {
+      "conflict": 1,
+      "environment": 1,
+      "politics": 6,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 8,
+      "middle-east": 1,
+      "americas": 1
+    }
+  }
+}

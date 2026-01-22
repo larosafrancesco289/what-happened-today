@@ -1,0 +1,75 @@
+{
+  "date": "2026-01-22",
+  "summary": "À Davos, ce 22 janvier 2026, Donald Trump a dévoilé son nouveau Conseil de paix mondiale lors d'une rencontre avec le président ukrainien Volodymyr Zelensky, renforçant son image de médiateur après les tensions récentes sur le Groenland. Cette initiative survient dans un contexte de guerre prolongée en Ukraine, où Trump promet d'influencer les négociations internationales, tout en excluant l'usage de la force pour le Groenland. Parallèlement, il a annoncé un accord futur avec l'OTAN et le Danemark, incluant des concessions sur des bases militaires en échange d'une renonciation aux droits de douane, en attente de l'approbation danoise et groenlandaise. Ces pas diplomatiques visent à apaiser les alliés atlantiques tout en projetant une Amérique isolationniste mais influente.\n\nAux États-Unis, la Cour suprême a exprimé sa réticence, lors d'une audience le 21 janvier, à autoriser Trump à révoquer la gouverneure de la Fed Lisa Cook sans motif sérieux, préservant ainsi l'indépendance de la banque centrale face aux pressions politiques. Cela fait suite à des tentatives répétées de l'ex-président d'influencer la politique monétaire. Pendant ce temps, en République démocratique du Congo, l'inflation explose à Uvira, dans l'est, depuis la fermeture de la frontière burundaise par Bujumbura après la prise de la ville par les rebelles AFC/M23. Les prix des biens burundais flambent, paralysant le commerce local et aggravant la crise pour des millions de Congolais ordinaires.\n\nL'ONU a recensé une hausse de 28% des violations des droits humains en zones de conflit en RDC pour novembre 2025, appelant à une réponse urgente face à l'escalade. En Europe, le Parlement européen a saisi la Cour de justice sur la compatibilité de l'accord UE-Mercosur, gelant sa ratification et semant l'incertitude sur les futurs échanges commerciaux avec l'Amérique du Sud, alors que la Commission envisage une application provisoire.",
+  "headlines": [
+    {
+      "title": "Donald Trump dévoile son Conseil de paix et rencontre Volodymyr Zelensky à Davos",
+      "source": "Le Figaro",
+      "summary": "Donald Trump présente son nouveau Conseil de paix et rencontre le président ukrainien Volodymyr Zelensky ce jeudi 22 janvier 2026 à Davos, pour renforcer son image de faiseur de paix après le conflit sur le Groenland. Cette initiative vise à influencer les négociations internationales.",
+      "link": "https://www.lefigaro.fr/international/en-direct-forum-de-davos-apres-sa-volte-face-sur-le-groenland-donald-trump-presente-son-conseil-de-paix-et-rencontre-volodymyr-zelensky-20260122",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump annonce un accord futur sur le Groenland avec l'OTAN à Davos",
+      "source": "Le Figaro",
+      "summary": "Donald Trump exclut l'usage de la force pour le Groenland et annonce un accord avantageux avec l'OTAN, renonçant aux droits de douane sur le Danemark. Mark Rutte, secrétaire général de l'OTAN, propose des concessions sur des bases militaires, en attente d'approbation danoise et groenlandaise.",
+      "link": "https://www.lefigaro.fr/international/donald-trump-renonce-a-employer-la-force-pour-s-emparer-du-groenland-20260121",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "La Cour suprême américaine protège l'indépendance de la Fed contre Donald Trump",
+      "source": "Le Monde",
+      "summary": "Lors d'une audience le 21 janvier 2026, les juges de la Cour suprême expriment leur réticence à autoriser Donald Trump à révoquer la gouverneure de la Fed Lisa Cook sans motif sérieux. Cette décision préserve l'autonomie de la banque centrale face aux ingérences politiques.",
+      "link": "https://www.lemonde.fr/economie/article/2026/01/21/la-cour-supreme-semble-vouloir-preserver-l-independance-de-la-fed-et-ne-pas-laisser-trump-revoquer-la-gouverneure-lisa-cook_6663585_3234.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "L'inflation explose à Uvira en RD Congo avec la frontière burundaise fermée",
+      "source": "France 24",
+      "summary": "À Uvira dans l'est de la RD Congo, l'inflation galope depuis la fermeture de la frontière par le Burundi après la prise de la ville par les rebelles AFC/M23. Le commerce s'arrête, les prix des biens burundais flambent, aggravant la crise économique locale.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260121-rd-congo-inflation-galopante-%C3%A0-uvira-la-fronti%C3%A8re-avec-le-burundi-toujours-ferm%C3%A9e",
+      "category": "economy",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'ONU recense 28% de violations des droits humains en plus en zones de conflit en RDC",
+      "source": "RFI",
+      "summary": "Le Bureau conjoint des droits de l'homme de l'ONU publie en janvier 2026 son rapport sur novembre 2025, notant une hausse de 28% des violations en RD Congo par rapport à octobre. Cela souligne l'escalade des abus dans les zones de conflit, appelant à une réponse urgente.",
+      "link": "https://www.rfi.fr/fr/afrique/20260122-zones-de-conflit-en-rdc-les-violations-des-droits-humains-en-nette-augmentation-signale-l-onu",
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Le Parlement européen saisit la Cour de justice sur l'accord UE-Mercosur",
+      "source": "Le Monde",
+      "summary": "Les eurodéputés saisissent la Cour de justice de l'UE sur la compatibilité du traité de libre-échange UE-Mercosur, gelant sa ratification. La Commission peut opter pour une application provisoire, mais l'incertitude persiste sur ce commerce avec l'Amérique du Sud.",
+      "link": "https://www.lemonde.fr/economie/article/2026/01/21/le-parlement-europeen-plonge-l-accord-ue-mercosur-dans-l-incertitude_6663564_3234.html",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 216,
+    "categoryCounts": {
+      "politics": 3,
+      "economy": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "global": 1,
+      "americas": 1,
+      "africa": 2
+    }
+  }
+}

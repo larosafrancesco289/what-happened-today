@@ -1,0 +1,76 @@
+{
+  "date": "2026-01-23",
+  "summary": "Vladimir Poutine a reçu jeudi soir à Moscou Steve Witkoff, émissaire de Donald Trump, pour discuter de la guerre en Ukraine. Le Kremlin a qualifié l'échange d'«utile», annonçant une réunion trilatérale vendredi à Abu Dhabi impliquant aussi l'Ukraine. Ce développement fait suite à l'accord récent entre Volodymyr Zelensky et Trump sur des garanties de sécurité pour Kiev, ouvrant potentiellement la voie à des négociations après trois ans de conflit dévastateur qui a déjà coûté des centaines de milliers de vies et dévasté l'économie ukrainienne. Pour les Européens et les Américains ordinaires, cela pourrait signifier un tournant vers la paix, mais aussi des tensions avec les alliés de Moscou si les concessions peinent.\n\nPendant ce temps, des catastrophes ont frappé plusieurs pays : un incendie a ravagé un centre commercial à Karachi au Pakistan, tuant 67 personnes selon des autopsies confirmées jeudi, exposant les failles criantes en matière de sécurité incendie dans les infrastructures commerciales surpeuplées. En Espagne, les autorités ont retrouvé deux corps supplémentaires jeudi à Adamuz en Andalousie après la collision dimanche de deux trains à grande vitesse, portant le bilan à 45 morts et 122 blessés – la pire catastrophe ferroviaire du pays depuis des décennies. À Anvers en Belgique, une attaque au couteau a blessé six personnes jeudi, déclenchant une enquête pour tentative d'assassinat ; la communauté kurde locale dénonce un acte ciblé, accentuant les tensions sécuritaires en Europe face aux violences ethniques.\n\nVers l'avenir, ByteDance a cédé jeudi sa filiale TikTok aux États-Unis à un consortium américain incluant Oracle, Silver Lake et MGX, évitant ainsi l'interdiction prévue par la loi de 2024 et préservant 170 millions d'utilisateurs. Parallèlement, les Premiers ministres du Groenland et du Danemark ont posé des lignes rouges face aux ambitions de Trump sur la défense de 1951, acceptant un élargissement otanien mais protégeant leur souveraineté arctique – un signe des frictions géopolitiques à venir dans un monde multipolaire.",
+  "headlines": [
+    {
+      "title": "Vladimir Poutine rencontre émissaire américain Witkoff à Moscou sur guerre en Ukraine",
+      "source": "Le Monde",
+      "summary": "Vladimir Poutine a reçu Steve Witkoff jeudi soir à Moscou ; le Kremlin qualifie l'échange d'utile et annonce une réunion trilatérale vendredi à Abu Dhabi avec Ukraine et États-Unis. Zelensky obtient accord avec Trump sur garanties sécurité, ouvrant voie à négociations.",
+      "link": "https://www.lemonde.fr/international/live/2026/01/23/en-direct-guerre-en-ukraine-la-rencontre-entre-vladimir-poutine-et-les-emissaires-americains-utile-a-tous-points-de-vue-selon-le-kremlin_6663004_3210.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Incendie ravage centre commercial au Pakistan tuant 67 personnes",
+      "source": "RTBF",
+      "summary": "Un incendie a détruit un centre commercial au Pakistan, faisant 67 morts confirmés par autopsies. Le porte-parole provincial du gouvernement l'annonce jeudi. L'événement souligne les failles en matière de sécurité incendie dans les infrastructures commerciales du pays.",
+      "link": "https://www.rtbf.be/article/incendie-d-un-centre-commercial-au-pakistan-fait-67-morts-11666652",
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Autorités espagnoles retrouvent deux corps portant bilan collision trains à 45 morts",
+      "source": "20 Minutes",
+      "summary": "Deux nouveaux corps découverts jeudi à Adamuz en Andalousie après collision dimanche de deux trains à grande vitesse : bilan à 45 morts et 122 blessés. Les recherches se poursuivent, révélant l'ampleur de la catastrophe ferroviaire la plus meurtrière d'Espagne récente.",
+      "link": "https://www.20minutes.fr/monde/4197467-20260122-catastrophe-ferroviaire-espagne-deux-nouveaux-corps-retrouves-bilan-monte-45-morts?at_medium=display&at_campaign=149",
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Attaquant au couteau blesse six personnes à Anvers déclenchant enquête assassinat",
+      "source": "RTBF",
+      "summary": "Six personnes blessées jeudi dans une attaque au couteau à Anvers ; police ouvre enquête pour tentative d'assassinat. Communauté kurde belge dénonce l'acte via NavBel. Cela renforce les tensions sécuritaires en Belgique face aux violences ciblées.",
+      "link": "https://www.rtbf.be/article/une-attaque-au-couteau-fait-6-blesses-a-anvers-une-enquete-ouverte-pour-tentative-d-assassinat-11666651",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Groenland et Danemark posent lignes rouges après revirement Trump sur défense",
+      "source": "Le Monde",
+      "summary": "Premiers ministres groenlandais et danois expriment prudence jeudi face à accord esquissé par Trump et OTAN à Davos sur défense de 1951. Ils acceptent élargissement mais fixent conditions claires, protégeant souveraineté face aux ambitions américaines.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/23/le-groenland-et-le-danemark-restent-prudents-et-posent-leurs-lignes-rouges-apres-le-revirement-de-donald-trump_6663747_3210.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "TikTok cède activités américaines à consortium Oracle-Silver Lake-MGX",
+      "source": "Le Monde",
+      "summary": "ByteDance vend filiale TikTok US à consortium américain incluant Oracle, Silver Lake et MGX pour respecter loi 2024 évitant interdiction. Transaction jeudi contourne sanctions contre apps chinoises, préservant 170 millions d'utilisateurs et marché vital.",
+      "link": "https://www.lemonde.fr/economie/article/2026/01/23/tiktok-vend-ses-activites-americaines-a-un-consortium-pour-eviter-l-interdiction-aux-etats-unis_6663738_3234.html",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 216,
+    "categoryCounts": {
+      "conflict": 1,
+      "environment": 2,
+      "society": 1,
+      "politics": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "asia-pacific": 1,
+      "americas": 1
+    }
+  }
+}

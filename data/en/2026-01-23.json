@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-23",
+  "summary": "President Donald Trump kicked off his second term with a dramatic executive order withdrawing the United States from the World Health Organization, slashing over $700 million in annual U.S. funding to the Geneva-based body. This move revives his first-term criticisms of the WHO's COVID-19 response and perceived bias toward China, but critics warn it could hobble global health coordination amid rising threats like bird flu outbreaks, leaving poorer nations more vulnerable and straining alliances built over decades.\n\nThe order drew fresh scrutiny as former special counsel Jack Smith testified before the House Judiciary Committee, detailing how Trump allegedly exploited supporters to challenge the 2020 election, culminating in the January 6 Capitol riot. His accounts of witness intimidation and pressure campaigns fuel ongoing legal battles, even as Trump consolidates power. Meanwhile, disasters compounded global woes: Spain's death toll from a high-speed train derailment in Andalusia rose to 45 after recovering two more bodies, sparking investigations into rail safety amid Europe's aging infrastructure; Pakistan confirmed 67 dead in a Karachi mall fire, highlighting urban fire code failures; and a New Zealand landslide killed two, with searches ongoing in rain-soaked terrain.\n\nLooking ahead, U.S., Russian, and Ukrainian officials plan security talks in the UAE on Friday to discuss ending the war, building on a recent U.S.-Putin meeting despite deep divides over territory. Israel eased restrictions, allowing thousands of displaced Palestinians to return to northern Gaza post-hostage deal, offering humanitarian relief but not resolving the enclave's divisions. In tech, Peking University researchers unveiled an analogue AI chip 12 times faster than rivals while using 1/200th the energy, promising greener computing for everything from recommendations to image analysis.",
+  "headlines": [
+    {
+      "title": "Landslide Kills Two in New Zealand as Authorities Search for Missing",
+      "source": "ABC Australia",
+      "summary": "A landslide struck a home in New Zealand, killing two people, while another slip leaves several feared dead. Rescue teams continue searches amid risks in landslide-prone areas. This highlights vulnerabilities in regions with steep terrain and heavy rain.",
+      "link": "https://www.abc.net.au/news/2026-01-23/how-landslides-happen-and-where-they-are-most-common/106261240",
+      "category": "environment",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Investigators Recover Two Bodies Raising Spain Train Crash Death Toll to 45",
+      "source": "France 24",
+      "summary": "Spanish teams pulled two more bodies from a high-speed train wreckage in Andalusia, increasing deaths to 45 in the deadliest rail disaster in over a decade. Spain observes mourning; investigations probe safety lapses affecting national rail trust.",
+      "link": "https://www.france24.com/en/europe/20260123-spain-train-collision-death-toll-45",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Jack Smith Testifies on Trump Efforts to Overturn 2020 Election",
+      "source": "Associated Press",
+      "summary": "Former special counsel Jack Smith details before House Judiciary Committee how Trump preyed on supporters to retain power, leading to Jan. 6 riot. Testimony covers witnesses and threats; it shapes ongoing legal scrutiny of former president.",
+      "link": "https://apnews.com/article/jack-smith-trump-prosecution-testimony-congress-riot-31a32aa0f81f409b2830dd4d19eafe1d",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Signs Order Triggering US Exit from World Health Organization",
+      "source": "Deutsche Welle",
+      "summary": "President Trump executes withdrawal from WHO on his second term's first day via executive order, removing US from Geneva-based agency. This ends major funding contributions, impacting global health coordination and pandemic responses.",
+      "link": "https://www.dw.com/en/us-officially-exits-world-health-organization/a-75614294?maca=en-rss-en-top-1022-rdf",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Chinese Researchers Unveil Analogue AI Chip 12 Times Faster on 1/200th Energy",
+      "source": "South China Morning Post",
+      "summary": "Peking University team advances analogue chip for real-world AI tasks like recommendations and image processing, outperforming digital rivals. This breakthrough reduces AI energy demands, potentially transforming hardware for global tech applications.",
+      "link": "https://www.scmp.com/news/china/science/article/3340939/chinas-analogue-ai-chip-runs-12-times-fast-1/200th-energy-digital-rivals?utm_source=rss_feed",
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Officials Raise Karachi Shopping Mall Fire Death Toll to 67",
+      "source": "The Hindu",
+      "summary": "Rescue operations continue at Gul Plaza in Karachi after blaze damages structure, with death toll at 67 confirmed by police surgeon. Teams search debris; incident exposes fire safety gaps in Pakistan's urban centers.",
+      "link": "https://www.thehindu.com/news/international/karachi-shopping-mall-fire-death-toll-rises/article70541151.ece",
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "US Russia Ukraine Officials Plan Security Talks in UAE on Friday",
+      "source": "France 24",
+      "summary": "Kremlin announces talks in United Arab Emirates following US-Putin meeting on Ukraine war end plan. Divisions over territory remain; diplomacy escalation affects global security and potential ceasefire prospects.",
+      "link": "https://www.france24.com/en/europe/20260123-us-ukrainian-russian-negotiators-uae-security-talks",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Negotiators Propose US Bases on Greenland Land to Counter Russia",
+      "source": "New York Times World",
+      "summary": "Talks after Trump ultimatum include transferring Greenland sovereignty pockets to US for bases, barring Russian drilling, opposed by Denmark. Aims to check Arctic influence; impacts alliances and resource control.",
+      "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Displaced Gazans cross military zone back to northern Gaza following breakthrough on hostages. Israel lifts restrictions; movement eases humanitarian crisis but tensions persist in divided enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 472,
+    "categoryCounts": {
+      "environment": 2,
+      "society": 1,
+      "politics": 4,
+      "science": 1,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "global": 3,
+      "europe": 1,
+      "americas": 2,
+      "asia-pacific": 2,
+      "middle-east": 1
+    }
+  }
+}

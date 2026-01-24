@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-24",
+  "summary": "À Davos le 22 janvier, Volodymyr Zelensky a lancé une critique acerbe contre les alliés européens, les accusant d'inaction face à la Russie et d'échec à forger un nouvel ordre mondial. Cette sortie, relayée à Kiev par des responsables ukrainiens appelant à plus d'engagement, survient alors que la Russie intensifie son offensive hivernale : vendredi, plus de 15% des immeubles de la capitale ukrainienne sont privés de chauffage, d'eau et d'électricité en pleine vague de froid, a annoncé le maire Vitali Klitschko, conseillant aux habitants de quitter la ville. Cette tactique, qualifiée d'arme contre les civils, aggrave la crise humanitaire deux ans après l'invasion, exposant les limites du soutien occidental.\n\nPendant ce temps, l'Europe révèle ses vulnérabilités stratégiques vis-à-vis des États-Unis en défense, spatial, télécoms et énergie, alors que les relations transatlantiques se dégradent. Cela fait écho aux tensions au Moyen-Orient, où un haut responsable iranien a averti vendredi d'une « guerre totale » face à l'armada navale américaine avançant vers le golfe Persique, risquant une escalade régionale. En Ouganda, le chef de l'armée Muhoozi Kainerugaba s'est félicité de 30 opposants tués et 2 000 arrêtés après les élections, une répression condamnée par l'UE qui illustre les fragilités démocratiques en Afrique.\n\nÀ Davos toujours, l'administration Trump a dévoilé un plan de reconstruction de Gaza en destination touristique, après deux ans de frappes israéliennes, avec un financement incertain qui divise sur sa réalisme. En France, Emmanuel Macron pousse pour une autonomie européenne d'ici 2027 face à un Trump potentiel, tandis que le ministre Sébastien Lecornu annonce 2 millions de logements d'ici 2030 pour juguler la crise immobilière : ces initiatives esquissent un avenir où l'Europe cherche son indépendance dans un monde instable.",
+  "headlines": [
+    {
+      "title": "Volodymyr Zelensky critique frontalement les alliés européens lors de discours à Davos",
+      "source": "Le Monde",
+      "summary": "Le 22 janvier à Davos, Volodymyr Zelensky a reproché aux Européens leur incapacité à se défendre face à la Russie et à construire un nouvel ordre mondial. À Kiev, responsables ukrainiens comprennent cette critique et appellent à plus d'action de l'Europe, soulignant les faiblesses du soutien occidental.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/24/guerre-en-ukraine-a-kiev-on-comprend-la-critique-de-l-europe-et-l-appel-a-l-action-de-volodymy-zelensky_6663889_3210.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Haut responsable iranien avertit de guerre totale face à armada américaine",
+      "source": "Le Figaro",
+      "summary": "Vendredi, un haut responsable iranien déclare que Téhéran traitera toute attaque comme une guerre totale et répondra le plus durement possible. Cela survient alors qu'une armada navale US avance vers le golfe Persique, augmentant les tensions régionales et risquant une escalade militaire.",
+      "link": "https://www.lefigaro.fr/flash-actu/l-iran-menace-de-traiter-toute-attaque-comme-une-guerre-totale-20260124",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russie prive 15% des immeubles de Kiev de chauffage en pleine vague de froid",
+      "source": "France Info",
+      "summary": "Vendredi, plus de 15% des immeubles de Kiev manquent de chauffage, d'eau et d'électricité selon le maire Vitali Klitschko, qui conseille aux habitants de partir. La Russie utilise le froid comme arme contre la population, aggravant la crise humanitaire en Ukraine.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/coupures-d-eau-et-d-electricite-appartements-non-chauffes-a-kiev-la-russie-utilise-le-froid-comme-arme-contre-la-population-ukrainienne_7760534.html#xtor=RSS-3-[lestitres]",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L’Europe expose ses dépendances multiples aux États-Unis dans secteurs stratégiques",
+      "source": "Le Monde",
+      "summary": "La détérioration des relations transatlantiques révèle les fragilités européennes en défense, spatial, télécoms, numérique, énergie et paiements. Cela met en lumière la vulnérabilité économique du Vieux Continent face aux décisions américaines, poussant à repenser l’autonomie stratégique.",
+      "link": "https://www.lemonde.fr/economie/article/2026/01/24/l-europe-souffre-de-multiples-dependances-aux-etats-unis_6663899_3234.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Administration Trump présente plan reconstruction Gaza lors du Conseil de paix à Davos",
+      "source": "France Info",
+      "summary": "À Davos, l'administration Trump dévoile sa vision pour Gaza, dévasté par deux ans de frappes israéliennes : nouveau Gaza touristique avec financement flou. Ce plan suscite débats sur la faisabilité et les intentions US en Moyen-Orient post-conflit.",
+      "link": "https://www.franceinfo.fr/monde/palestine/gaza/nouveau-gaza-zone-touristique-financement-flou-ce-que-l-on-sait-du-plan-americain-pour-reconstruire-le-territoire-palestinien-devaste_7760408.html#xtor=RSS-3-[lestitres]",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "HRW alerte sur risques graves pour civils d’Uvira après retrait du M23",
+      "source": "France 24",
+      "summary": "Human Rights Watch publie un rapport alertant sur les abus potentiels contre civils à Uvira (Sud-Kivu) suite au retrait des rebelles M23 mi-décembre sous pression diplomatique. La ville est désormais aux mains des autorités congolaises, mais la sécurité reste précaire.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260123-hrw-alerte-sur-les-conditions-des-civils-suite-au-retrait-du-m23-d-uvira",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Muhoozi Kainerugaba se félicite de 30 opposants tués et 2000 arrêtés en Ouganda",
+      "source": "RFI",
+      "summary": "Vendredi, le chef de l'armée ougandaise Muhoozi Kainerugaba annonce 30 morts et 2000 arrestations parmi opposants après élections. L'UE condamne ces violences, qui illustrent la répression post-électorale et menacent la stabilité politique en Ouganda.",
+      "link": "https://www.rfi.fr/fr/afrique/20260124-ouganda-30-membres-de-l-opposition-tu%C3%A9s-et-2000-arrestations-selon-le-chef-de-l-arm%C3%A9e",
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Sébastien Lecornu annonce plan construction 2 millions logements d’ici 2030",
+      "source": "Le Monde",
+      "summary": "À Rosny-sous-Bois, le Premier ministre Sébastien Lecornu fixe objectif de 400 000 logements par an jusqu'en 2030 pour sortir de la crise du logement. Ce changement de doctrine vise à relancer la construction face à la pénurie persistante en France.",
+      "link": "https://www.lemonde.fr/societe/article/2026/01/24/logement-le-gouvernement-change-de-doctrine-et-lance-un-plan-pour-sortir-de-la-crise_6663892_3224.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Emmanuel Macron prépare autonomie européenne face à Donald Trump d’ici 2027",
+      "source": "Le Figaro",
+      "summary": "Malgré affaiblissement politique, Emmanuel Macron maintient projet d’autonomie européenne vis-à-vis des États-Unis dans contexte chaotique international. Ce combat contre Trump souligne enjeux stratégiques pour la France et l’Europe jusqu’en 2027.",
+      "link": "https://www.lefigaro.fr/politique/tenir-tete-a-trump-le-dernier-combat-d-emmanuel-macron-d-ici-a-2027-20260123",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ex-esclaves cambodgiens d’arnaques en ligne errent sans papiers après raids policiers",
+      "source": "Liberation",
+      "summary": "Après raids récents de la police cambodgienne, immigrés forcés dans centres de cyberescroquerie s’échappent mais errent sans papiers ni organisation. Ils tentent de rentrer chez eux, révélant l’ampleur de l’esclavage numérique en Asie du Sud-Est.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/au-cambodge-la-sinistre-errance-des-ex-esclaves-de-larnaque-en-ligne-20260124_ARAWQM3CV5D2ZO77VIUKBCS4G4/",
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 221,
+    "categoryCounts": {
+      "politics": 5,
+      "conflict": 3,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 5,
+      "middle-east": 2,
+      "africa": 2,
+      "asia-pacific": 1
+    }
+  }
+}

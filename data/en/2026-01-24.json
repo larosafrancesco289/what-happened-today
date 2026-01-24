@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-24",
+  "summary": "Rwanda-backed M23 rebels overran Congolese troops to seize key positions in Goma today, unleashing gunfire and shelling that trapped over one million displaced residents inside the city, according to UN officials. This dramatic advance in eastern Democratic Republic of Congo escalates a conflict simmering since 2021, where foreign-backed militias vie for mineral-rich territory; aid groups warn of blocked deliveries to a major humanitarian hub, leaving civilians—already fleeing prior violence—at acute risk of starvation and abuse, as Human Rights Watch highlighted militia atrocities in nearby Uvira.\n\nMeanwhile, US, Ukrainian, and Russian negotiators convened the first trilateral peace talks in Abu Dhabi on Friday, hashing out a Trump administration-backed plan to end the four-year war, with Donbas autonomy remaining the chief impasse. This diplomatic flicker occurs amid heightened tensions: NATO activated its inaugural coordinated response to suspected sabotage severing another Baltic Sea cable, targeting vital communications, while the Pentagon's 2026 National Defense Strategy prioritizes homeland protection and deterring China over aid to European allies—prompting NATO partners to recalibrate amid Russian hybrid threats.\n\nLooking ahead, Israel permitted hundreds of thousands of displaced Palestinians to cross a bisecting military zone back into northern Gaza following a hostage-release breakthrough, potentially jumpstarting reconstruction in the war-ravaged enclave even as the truce's durability hangs in the balance for ordinary families eyeing a return to shattered homes.",
+  "headlines": [
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo's Goma City Displacing Over One Million Residents",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels overran Congolese troops in Goma, prompting gunfire and shelling that trapped more than one million displaced people inside the city, per U.N. officials. Residents face heightened risks; aid delivery complicates as fighting blocks access to this humanitarian hub.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "US Ukraine and Russia Negotiators Hold First Trilateral Peace Talks in Abu Dhabi",
+      "source": "France 24",
+      "summary": "Negotiators from the US, Ukraine, and Russia met Friday in Abu Dhabi to discuss a US-backed plan ending the four-year war, with Donbas remaining the main dispute. Troops and civilians in eastern Ukraine benefit if deal advances; Trump administration pushes resolution.",
+      "link": "https://www.france24.com/en/europe/20260123-us-ukraine-and-russia-meet-in-abu-dhabi-for-first-trilateral-peace-talks",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO activated its first unified response after another deep-sea cable severed in the Baltic Sea amid suspected sabotage targeting critical infrastructure. European nations and allies secure communications; investigations identify perpetrators to prevent future disruptions.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iran Deploys Military Weapons in Central Crackdown Beyond Kurdish Areas",
+      "source": "France 24",
+      "summary": "Iranian forces used automatic machine guns in Tehran and central protests, tactics previously limited to Kurdish regions, Amnesty International reports. Kurdish minority and protesters face escalated violence; expansion signals regime's broader repression strategy.",
+      "link": "https://www.france24.com/en/middle-east/20260124-iran-s-military-grade-crackdown-expands-from-kurdish-areas-%E2%80%93-and-kurds-fear-the-worst",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagon Releases 2026 Strategy Prioritizing US Homeland Defense Over Ally Support",
+      "source": "France 24",
+      "summary": "The Pentagon's 2026 National Defense Strategy directs forces to protect the homeland and deter China while limiting aid to European and other allies. US taxpayers fund shift; NATO partners adjust to reduced commitments amid global tensions.",
+      "link": "https://www.france24.com/en/americas/20260124-us-military-to-prioritise-homeland-defence-limit-support-for-allies",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Human Rights Watch Warns Uvira Civilians Face Militia Abuses in DRC",
+      "source": "France 24",
+      "summary": "Militia groups control Uvira in the Democratic Republic of Congo, endangering civilians with abuse risks, Human Rights Watch states. Local population suffers violence; international monitors urge intervention to restore security.",
+      "link": "https://www.france24.com/en/several-dead-in-mozambique-floods",
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Mozambique Floods Kill 13 People Across Southern Regions in Two Weeks",
+      "source": "France 24",
+      "summary": "Devastating floods submerged southern Mozambique, killing at least 13 over the last two weeks, authorities report. Displaced communities rebuild; aid organizations deliver relief to mitigate further deaths and property loss.",
+      "link": "https://www.france24.com/en/several-dead-in-mozambique-floods",
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Kebbi State Reports 608 Child Deaths from Malnutrition in Nine Months",
+      "source": "AllAfrica",
+      "summary": "Kebbi's Nutrition Office records 608 severely malnourished children died from January to September 2025 across 21 centers in five areas. Families and children in northern Nigeria suffer; government expands treatment to curb rising toll.",
+      "link": "https://allafrica.com/stories/202601230039.html",
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Leaked Videos Spark Scandal Threatening Peru President José Jerí's Ouster",
+      "source": "New York Times World",
+      "summary": "Videos expose Peru President José Jerí's secret meetings with two investigated Chinese businessmen, fueling impeachment calls. Peruvian public demands accountability; Congress debates removal over corruption allegations.",
+      "link": "https://www.nytimes.com/2026/01/23/world/americas/peru-president-chinese-businessmen-meetings.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permitted displaced Gazans to cross a bisecting military zone into northern Gaza following a hostage release breakthrough. Hundreds of thousands regain access to homes; reconstruction efforts accelerate amid fragile truce.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 461,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "society": 1,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "africa": 4,
+      "middle-east": 3,
+      "europe": 1,
+      "americas": 2
+    }
+  }
+}

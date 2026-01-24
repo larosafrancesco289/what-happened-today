@@ -1,0 +1,75 @@
+{
+  "date": "2026-01-24",
+  "summary": "Il Pentagono ha svelato la nuova Strategia di Difesa Nazionale, elevando la difesa del territorio americano a priorità assoluta e spostando l'attenzione sulla deterrenza contro la Cina nel Pacifico, mentre definisce la Russia una minaccia 'gestibile' e riduce il peso strategico dell'Europa. Questo documento, atteso da mesi, segna un'evoluzione dalla postura post-11 settembre verso un approccio più selettivo, negando accuse di isolazionismo ma influenzando alleanze come la Nato: per i cittadini europei significa minori garanzie USA immediate, mentre per gli asiatici rafforza la presenza americana contro Pechino.\n\nNel frattempo, il conflitto ucraino vede un'escalation militare parallela a spiragli diplomatici. Le forze russe hanno colpito Kiev e Kharkiv con missili balistici e droni nella notte, causando un morto, 23 feriti, incendi e danni a case private, mentre l'Ucraina era in allerta aerea. Da Leopoli a Kiev, il ministero dell'Interno ha diffuso un decalogo per civili – scorte di cibo, piani di evacuazione, preparativi per blackout – segnalando timori di un'offensiva finale russa. Questo avviene mentre a tre, con mediatori, partono i primi negoziati ad Abu Dhabi sui parametri di pace per il Donbass: Zelensky ha ottenuto munizioni USA per i Patriot, ma Peskov insiste sul ritiro ucraino, con scontri immediati che potrebbero aprire o chiudere porte.\n\nProspettive future aggiungono tensione: Israele ha attivato l'allerta massima per un possibile attacco preventivo iraniano, temuto dopo rapporti di Keshet 12 su piani di Teheran contro un raid USA, rischiando un'escalation mediorientale. In Europa, la Svizzera ha liberato Jacques Moretti, scatenando l'ira di Giorgia Meloni che lo definisce 'oltraggio', con l'Italia pronta a chiedere conto: due feriti dell'incidente al Niguarda sono dimessi, ma il caso evidenzia fragilità bilaterali.",
+  "headlines": [
+    {
+      "title": "Pentagono diffonde nuova dottrina di difesa priorizzando la nazione",
+      "source": "ANSA",
+      "summary": "Il Pentagono ha pubblicato la nuova Strategia di Difesa Nazionale che pone la difesa della nazione come priorità numero uno, con deterrenza verso la Cina, Russia come minaccia gestibile e Europa meno rilevante. Nega isolazionismo. Ridefinisce le priorità strategiche USA influenzando alleanze globali.",
+      "link": "https://www.ansa.it/sito/notizie/topnews/2026/01/24/nuova-dottrina-di-difesa-usa-priorita-numero-uno-difesa-della-nazione_dfb89bfe-d492-47f0-b634-962115dee783.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia causa un morto e 23 feriti con attacchi su Kiev e Kharkiv",
+      "source": "Rai News",
+      "summary": "Le forze russe hanno lanciato missili balistici e droni su Kiev e Kharkiv durante la notte, causando un morto, 23 feriti, incendi e danni alle abitazioni. Il Paese era in allerta aerea. Le autorità valutano i danni e rafforzano le difese.",
+      "link": "https://www.rainews.it/articoli/2026/01/notte-di-attacchi-russi-un-morto-e-23-feriti-tra-kiev-e-kharkiv-loffensiva-russa-e4cdf122-9a35-4c60-8463-31742fd70674.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ministero ucraino diffonde decalogo per sopravvivere all'offensiva russa",
+      "source": "la Repubblica",
+      "summary": "Da Leopoli a Kiev cresce la paura per un'offensiva finale russa con blackout. Il ministero dell'Interno ha pubblicato un decalogo con scorte, piani di fuga e preparativi. Aiuta i civili a prepararsi, segnalando escalation del conflitto.",
+      "link": "https://www.repubblica.it/esteri/2026/01/24/news/leopoli_kiev_paura_russia_prepara_offensiva_finale_buio-425114832/?rss",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia e Ucraina avviano primo negoziato ad Abu Dhabi sul Donbass",
+      "source": "la Repubblica",
+      "summary": "A tre - Russia, Ucraina e mediatori - sono partiti i colloqui ad Abu Dhabi sui parametri per la pace, con scontro immediato sul Donbass. Zelensky ottiene munizioni USA per Patriot, Peskov chiede ritiro ucraino. Potrebbe aprire spiragli diplomatici.",
+      "link": "https://www.repubblica.it/esteri/2026/01/24/news/parte_primo_negoziato_russia_ucraina_scontro_donbass-425114701/?rss",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israele attiva stato d'allerta per possibile attacco iraniano",
+      "source": "Euronews Italiano",
+      "summary": "Le forze armate israeliane sono in allerta massima dopo rapporti secondo cui l'Iran, temendo un attacco USA, pianificherebbe un colpo preventivo contro Israele. Basato su fonti di Keshet 12. Aumenta tensioni in Medio Oriente con rischi di escalation regionale.",
+      "link": "http://it.euronews.com/2026/01/23/medio-oriente-israele-in-stato-dallerta-per-un-possibile-attacco-delliran",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Svizzera libera Jacques Moretti suscitando indignazione di Meloni",
+      "source": "ANSA",
+      "summary": "Jacques Moretti è stato liberato dalle autorità svizzere, definita da Meloni un 'oltraggio'. L'Italia chiederà conto alla Svizzera. Due feriti nell'incidente lasciano l'ospedale Niguarda. Caso evidenzia tensioni bilaterali tra Italia e Svizzera.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/23/jacques-moretti-libero.-meloni-indignata-e-un-oltraggio_0c62c008-7ffe-4605-8932-dddbaba1137d.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 257,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "europe": 3,
+      "global": 1,
+      "middle-east": 1
+    }
+  }
+}

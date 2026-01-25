@@ -1,0 +1,104 @@
+{
+  "date": "2026-01-25",
+  "summary": "Russian missile and drone strikes plunged much of Kyiv into darkness and cold today, cutting heat, water, and power to millions amid subzero temperatures just as Ukraine, Russia, and the U.S. began talks to end their four-year war. The barrage, one of Moscow's largest recently, killed at least five and wounded dozens, underscoring the Kremlin's willingness to intensify civilian suffering even as diplomats probe for cease-fire openings. This escalation follows Ukraine's recent deep strikes into Russia, highlighting a vicious cycle that dims hopes for peace and burdens ordinary Ukrainians with blackouts during the harshest winter.\n\nAcross conflict zones, humanitarian crises mounted. In eastern Congo, Rwanda-backed M23 rebels overran government troops to enter Goma, trapping over one million displaced people amid gunfire and shelling that overwhelmed U.N. aid operations. Similarly, Gaza's tent camps erupted in disease outbreaks from sewage and waste, afflicting thousands of displaced families in Israel's ongoing war and demanding urgent global intervention. Meanwhile, NATO launched its first coordinated patrols in the Baltic Sea after another undersea cable sabotage, signaling alliance-wide vigilance against hybrid threats from adversaries like Russia.\n\nLooking ahead, Syria's government under President Ahmed al-Sharaa extended a cease-fire with Kurdish forces in the northeast hours after the prior truce expired, aiming to consolidate nationwide control but risking renewed clashes if talks falter. In Gaza, Israel allowed thousands of displaced Palestinians to cross a military zone back to the north following a hostage deal breakthrough, easing immediate strains but exposing returnees to persistent dangers.",
+  "headlines": [
+    {
+      "title": "Border Patrol Agent Kills Man in Minneapolis Prompting Protesters to Demand Departure",
+      "source": "Associated Press",
+      "summary": "U.S. Border Patrol agent fatally shoots man identified as Alex in Minneapolis, drawing hundreds of protesters demanding federal officers leave Minnesota. City faces heightened tensions after recent shooting. Escalates national debates on immigration enforcement in Democrat-led states.",
+      "link": "https://apnews.com/article/shooting-minneapolis-protests-ice-immigration-0af10ec433181aa9300deea26d1cc8c5",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO deploys coordinated response after another deep-sea cable severs in Baltic Sea amid suspected sabotage campaign targeting critical infrastructure. Alliance members protect undersea assets. Signals heightened alliance vigilance against hybrid threats from adversaries.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russian Strikes Cut Heat Water and Power in Freezing Kyiv During Peace Talks",
+      "source": "NPR News",
+      "summary": "Russian attacks leave much of Kyiv without heat water or power amid subzero temperatures as Ukraine Russia and U.S. hold talks to end four-year war. Millions endure cold blackouts. Underscores war's civilian toll despite diplomatic efforts.",
+      "link": "https://www.npr.org/2026/01/24/g-s1-107248/russia-strikes-kyiv-cold",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Waste and Sewage Spark Disease Outbreaks in Gaza Tent Camps Amid War",
+      "source": "Al Jazeera English",
+      "summary": "Gaza residents in tent camps suffer public health crisis from waste sewage and poor sanitation causing illness outbreaks during Israel's war. Displaced families face daily despair. Highlights humanitarian collapse requiring urgent international aid intervention.",
+      "link": "https://www.aljazeera.com/features/2026/1/25/gaza-tent-life-pollution-illness-daily-despair?traffic_source=rss",
+      "category": "environment",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Syria Government Announces Cease-Fire Extension After Kurdish Truce Expires",
+      "source": "New York Times",
+      "summary": "Syria's government under President Ahmed al-Sharaa extends cease-fire with Kurdish-led forces in northeast hours after prior truce ends amid clashes. Seeks nationwide authority. Stabilizes volatile region but risks renewed fighting if talks fail.",
+      "link": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Palestinians to Cross Zone Back to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Gazans to walk through bisecting military zone to northern Gaza following breakthrough in hostage release deadlock. Thousands return home. Eases humanitarian strain but exposes returnees to ongoing conflict risks.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma Trapping One Million Displaced in Congo",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-supported rebels overrun Congolese troops to enter Goma aid hub drawing gunfire and shelling. U.N. counts over one million displaced inside city. Overwhelms humanitarian operations threatening regional stability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Threatens Canada with 100% Tariffs Over New Trade Deal with China",
+      "source": "NPR News",
+      "summary": "U.S. President Trump warns of 100% tariffs on Canada reversing prior praise for Prime Minister Mark Carney's China trade deal amid escalating tensions. Affects cross-border commerce. Disrupts North American trade relations and supply chains.",
+      "link": "https://www.npr.org/2026/01/24/nx-s1-5687236/canada-china-tariffs-trump",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Winter Storm Cancels 13,000 Flights and Causes Power Outages Across US",
+      "source": "Deutsche Welle",
+      "summary": "Major winter storm hits central and eastern U.S. canceling 13,000 flights and cutting power to thousands in subzero cold. Millions hunker down. Disrupts travel economy and daily life during peak winter hazards.",
+      "link": "https://www.dw.com/en/us-winter-storm-13-000-flights-canceled-as-temperatures-dip/a-75645912?maca=en-rss-en-top-1022-rdf",
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 454,
+    "categoryCounts": {
+      "society": 1,
+      "conflict": 4,
+      "environment": 2,
+      "politics": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "europe": 2,
+      "middle-east": 3,
+      "africa": 1
+    }
+  }
+}

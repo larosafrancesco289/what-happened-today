@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-25",
+  "summary": "I negoziatori internazionali hanno registrato progressi incoraggianti nel primo round di colloqui a tre ad Abu Dhabi per una tregua tra Russia e Ucraina. È emerso ottimismo per un centro di controllo militare che riduca l'intensità degli scontri, anche se Mosca insiste sul ritiro ucraino da Donetsk e non c'è accordo sui territori. Questo sviluppo segue mesi di stallo e potrebbe aprire la strada a un vertice Putin-Zelensky, alleviando la pressione sui prezzi dell'energia globale e offrendo respiro a milioni di civili colpiti dal conflitto iniziato nel 2022.\n\nNel frattempo, ondate di maltempo estremo paralizzano Stati Uniti e Italia. A New York, la peggiore ondata di gelo in cinque anni ha portato temperature a -9°C, 17 cm di neve e la cancellazione di 12.000 voli, con misure di emergenza per servizi essenziali. In parallelo, il Sud Italia affronta danni per oltre 1 miliardo di euro – 750 milioni in Sicilia, 300 in Calabria e 200 in Sardegna – spingendo il governo Meloni a deliberare lo stato d'emergenza per accelerare aiuti e ricostruzione in agricoltura e pesca. Questi eventi, mentre l'Italia commemora i 10 anni dalla scomparsa di Giulio Regeni al Cairo, rinnovano dibattiti su resilienza climatica e giustizia internazionale.\n\nGuardando avanti, la Federal Reserve ha mantenuto i tassi invariati, stabilizzando l'inflazione ma frenando la crescita immediata, con mercati che puntano su Rieder come possibile successore di Powell. Intanto, l'aviaria ha colpito 60 focolai in Ue in tre settimane, legata ad allevamenti intensivi: un rischio pandemico che spinge controlli più stretti, minacciando sicurezza alimentare e salute pubblica in vista dell'inverno.",
+  "headlines": [
+    {
+      "title": "New York annulla 12mila voli per ondata di gelo con 17 centimetri di neve",
+      "source": "la Repubblica",
+      "summary": "New York affronta la peggiore ondata di gelo in cinque anni con temperature a -9°C e fino a 17 cm di neve. Cancellati 12.000 voli, allerta per servizi essenziali. La città attiva misure di emergenza per garantire sicurezza e trasporti durante il picco previsto oggi.",
+      "link": "https://www.repubblica.it/esteri/2026/01/25/news/usa_new_york_ondata_gelo_12mila_voli_cancellati_e_allerta_per_i_servizi-425116654/?rss",
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Italia commemora 10 anni dalla scomparsa di Giulio Regeni in Egitto",
+      "source": "TGCOM24",
+      "summary": "Dieci anni fa Giulio Regeni scomparve al Cairo, seguito da torture, depistaggi egiziani e stop ai processi. Famiglia e Italia continuano battaglie giudiziarie e diplomatiche. L'anniversario rinnova richieste di giustizia contro impunità, influenzando relazioni bilaterali.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/giulio-regeni-10-anni-dalla-scomparsa_108270445-202602k.shtml",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Agenti ICE sparano tre colpi e uccidono uomo immobilizzato a Minneapolis",
+      "source": "TGCOM24",
+      "summary": "Agenti dell'ICE uccidono un uomo immobilizzato con tre colpi a Minneapolis. Governatore Walz attiva Guardia Nazionale e intima all'agenzia di lasciare lo Stato. Trump difende l'azione su Truth Social sostenendo che l'uomo era armato, scatenando tensioni.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ice-minneapolis-sparatoria-stati-uniti_108258017-202602k.shtml",
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Governo italiano delibera stato d'emergenza per maltempo al Sud",
+      "source": "TGCOM24",
+      "summary": "Maltempo devasta Sud Italia con danni oltre 1 miliardo di euro: 750 milioni in Sicilia, 300 in Calabria, 200 in Sardegna per agricoltura e pesca. Governo approva stato d'emergenza per aiuti immediati. La misura accelera fondi e ricostruzione nelle aree colpite.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/maltempo-al-sud-il-governo-pronto-a-deliberare-lo-stato-d-emergenza_108262695-02k.shtml",
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Agente federale uccide infermiere Alex Pretti a Minneapolis",
+      "source": "ANSA",
+      "summary": "Agente federale spara e uccide Alex Pretti, infermiere dei veterani, a Minneapolis, provocando proteste. Trump definisce agenti patrioti e accusa autorità locali di insurrezione. Walz mobilita Guardia Nazionale; incidente legato a operazioni ICE include deportazione bimba di 2 anni.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/24/un-agente-federale-spara-e-uccide-un-uomo-monta-la-rabbia-a-minneapolis_87f2052b-4562-478e-baa6-fdc848b365f2.html",
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Meloni critica parole di Trump sugli alleati in Afghanistan",
+      "source": "ANSA",
+      "summary": "Premier Meloni definisce inaccettabili le critiche di Trump al ruolo alleati in Afghanistan; Trump si corregge su soldati britannici. Opposizioni italiane reagiscono con protesta. La tensione evidenzia divergenze su impegno NATO, rilevante per alleanze future.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/01/24/meloni-stupita-inaccettabili-le-parole-di-trump-sugli-alleati-in-afghanistan_7b4ed337-112a-4e7e-b093-192f5e93c876.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Negoziatori ottengono progressi su tregua a Abu Dhabi per Russia-Ucraina",
+      "source": "la Repubblica",
+      "summary": "Primo round negoziato a tre ad Abu Dhabi registra ottimismo con centro controllo per tregua militare. Nessun accordo su territori, Mosca richiede ritiro da Donetsk. Prossimo vertice Putin-Zelensky possibile; sviluppi riducono intensità conflitto influenzando energia globale.",
+      "link": "https://www.repubblica.it/esteri/2026/01/25/news/guerra_russia_ucraina_negoziato_a_tre_ad_abu_dhabi-425116457/?rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Meloni esprime stupore per critiche di Trump agli alleati in Afghanistan",
+      "source": "Il Sole 24 Ore",
+      "summary": "Meloni replica a Trump che sminuisce ruolo alleati in Afghanistan; ministro Crosetto e Tajani onorano 53 militari italiani caduti. La risposta italiana difende impegno NATO. Dibattito influisce su relazioni transatlantiche e memoria missioni passate.",
+      "link": "https://www.ilsole24ore.com/art/crosetto-trump-afghanistan-niente-lezioni-impegno-italia-AI3eGe2",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Fed mantiene tassi invariati e valuta Rieder per presidenza",
+      "source": "AGI",
+      "summary": "Federal Reserve tiene tassi fermi almeno fino a marzo, forse fine mandato Powell a maggio. Mercati puntano su Rieder come successore. Cambio da attese tagli precedenti; decisione stabilizza inflazione ma frena crescita economica immediata.",
+      "link": "https://www.agi.it/economia/news/2026-01-25/fed-nuovo-presidente-trump-35258878/",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Aviaria registra 60 focolai in Ue in tre settimane per allevamenti intensivi",
+      "source": "Rai News",
+      "summary": "Epidemia aviaria colpisce 60 focolai in Unione Europea in tre settimane, attribuita ad allevamenti intensivi dall'epidemiologo Ciccozzi. Virus presenta rischio pandemico per umani. Autorità rafforzano controlli; minaccia impatta sicurezza alimentare e salute pubblica.",
+      "link": "https://www.rainews.it/video/2026/01/aviaria-si-diffonde-in-ue-60-focolai-in-3-settimane-ciccozzi-colpa-degli-allevamenti-intensivi-ddc596a0-f7c2-465e-b035-5c75656cac09.html",
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 205,
+    "categoryCounts": {
+      "environment": 2,
+      "society": 3,
+      "politics": 2,
+      "conflict": 1,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 4,
+      "europe": 5,
+      "middle-east": 1
+    }
+  }
+}

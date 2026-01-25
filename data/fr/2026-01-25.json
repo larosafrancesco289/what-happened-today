@@ -1,0 +1,65 @@
+{
+  "date": "2026-01-25",
+  "summary": "Les négociations entre l'Ukraine et la Russie à Abou Dhabi ce samedi représentent un espoir fragile de progrès dans un conflit qui dure depuis plus de trois ans. Ces pourparlers, les plus avancés depuis des mois, font suite à une intensification des frappes aériennes russes sur les ports ukrainiens de la mer Noire, lancées depuis décembre 2025. Moscou vise à étouffer les exportations de céréales et de conteneurs de Kiev, malgré l'absence de flotte navale ukrainienne, menaçant ainsi la sécurité alimentaire mondiale alors que 20 millions de tonnes ont déjà transité par ces routes alternatives. L'OTAN, de son côté, propose une zone de défense automatisée en Ukraine, un signal que l'Alliance pourrait durcir son soutien face à l'escalade.\n\nAux États-Unis, deux crises internes soulignent les fractures politiques. Des agents de la Border Patrol ont abattu Alex Pretti, un infirmier de 37 ans à Minneapolis, alors qu'il secourait une migrante à terre – le deuxième incident mortel après Renee Good le 7 janvier. Des vidéos contredisent la version officielle, déclenchant des manifestations et des menaces de shutdown budgétaire du DHS par les démocrates. Cela survient alors que Washington finalise son retrait de l'OMS jeudi, un an après l'annonce, affaiblissant l'organisation dirigée par Tedros Adhanom Ghebreyesus face aux futures pandémies, ses fonds américains représentant 16 % du budget.\n\nTournée vers l'avenir, l'administration Trump déploie ce week-end des hauts responsables à Jérusalem pour imposer un plan de paix post-Gaza et contrer l'Iran. Ce mouvement diplomatique vise à stabiliser le Moyen-Orient, influencer la reconstruction de Gaza et redessiner les alliances régionales, potentiellement sous une présidence isolationniste qui pourrait remodeler l'ordre mondial.",
+  "headlines": [
+    {
+      "title": "Agents fédéraux abattent infirmier américain de 37 ans à Minneapolis lors d'intervention antimigrants",
+      "source": "Le Monde",
+      "summary": "Alex Pretti, infirmier de 37 ans, a été tué par des agents de la Border Patrol en secourant une femme à terre, deuxième mort après Renee Good le 7 janvier. Vidéos contredisent la version officielle. Manifestations éclatent, démocrates menacent de bloquer budget du DHS, risquant un shutdown.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/25/a-minneapolis-la-police-de-l-immigration-fait-une-nouvelle-victime-et-attise-la-colere_6664019_3210.html",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis finalisent leur retrait de l'OMS après délai réglementaire d'un an",
+      "source": "Le Monde",
+      "summary": "Le retrait américain de l'Organisation mondiale de la santé prend effet jeudi, un an après annonce. Le directeur général Tedros juge les motifs invoqués faux. Cela affaiblit le financement et l'influence de l'OMS face aux crises sanitaires mondiales futures.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/25/retrait-des-etats-unis-de-l-oms-le-patron-de-l-agence-onusienne-estime-que-les-raisons-invoquees-pour-la-quitter-sont-fausses_6663997_3210.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Ukraine et Russie poursuivent négociations à Abou Dhabi sur conflit en cours",
+      "source": "20 Minutes",
+      "summary": "Kiev et Moscou engagent discussions à Abou Dhabi ce samedi pour avancer sur la guerre. L'OTAN propose une zone de défense automatisée en Ukraine. Ces pourparlers pourraient influencer l'aide militaire et la durée du conflit, impactant sécurité européenne.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4197818-20260124-guerre-ukraine-kiev-moscou-vont-continuer-parler-otan-veut-zone-defense-automatisee?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russie multiplie frappes aériennes sur ports ukrainiens en mer Noire depuis décembre 2025",
+      "source": "Le Monde",
+      "summary": "Moscou intensifie attaques aériennes contre infrastructures portuaires ukrainiennes pour bloquer trafic maritime. Kiev maintient export céréales et conteneurs malgré absence de flotte. Menace drones navals grandit, menaçant sécurité alimentaire mondiale et économie ukrainienne.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/25/en-mer-noire-la-russie-redouble-ses-efforts-pour-paralyser-le-trafic-maritime-vers-l-ukraine_6664001_3210.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis lancent offensive diplomatique en Israël sur Gaza et dossier iranien",
+      "source": "RFI",
+      "summary": "Administration Trump déploie hauts responsables à Israël ce week-end pour imposer plan paix post-guerre Gaza et contrer menace iranienne militaire. Cela vise à stabiliser région, influencer reconstruction Gaza et relations Moyen-Orient sous présidence Trump.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260125-isra%C3%ABl-offensive-diplomatique-am%C3%A9ricaine-sur-le-plan-de-paix-pour-gaza-et-le-dossier-iranien",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 209,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 2
+    },
+    "regionCounts": {
+      "americas": 1,
+      "global": 1,
+      "middle-east": 2,
+      "europe": 1
+    }
+  }
+}

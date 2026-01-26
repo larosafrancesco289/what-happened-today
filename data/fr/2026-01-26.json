@@ -1,0 +1,92 @@
+{
+  "date": "2026-01-26",
+  "summary": "Volodymyr Zelensky a annoncé ce lundi que l’accord sur les garanties de sécurité entre l’Ukraine et les États-Unis est « 100 % prêt », n’attendant plus que la confirmation américaine pour une date et un lieu de signature. Ce document, qui devra être ratifié par le Congrès américain et le Parlement ukrainien, vise à protéger Kiev contre les menaces russes à long terme. Il survient après plus de trois ans de guerre, marqués par l’épuisement des forces ukrainiennes sur le front est et les bombardements russes sur les infrastructures civiles, offrant un espoir de stabilité alors que l’Europe redoute une escalade sous l’ère Trump.\n\nAu Moyen-Orient, les tensions persistent malgré les trêves récentes : des frappes israéliennes ont tué deux personnes dans le sud du Liban, un an après le cessez-le-feu de novembre 2024 avec le Hezbollah, menaçant la fragile stabilité régionale. À Gaza, l’armée israélienne a avancé la « ligne jaune » convenue avec le Hamas lors de la trêve d’octobre, tandis qu’Israël rouvre partiellement le poste-frontière de Rafah aux piétons sous pression américaine de Jared Kushner et Steve Witkoff, conditionnée à la libération de l’otage Ran Gvili. Ces mouvements font suite à des négociations sous médiation Trump, facilitant potentiellement l’aide humanitaire mais ravivant les accusations mutuelles de violations.\n\nEn Iran, des sources estiment le bilan réel de la répression post-protestations à plus de 30 000 morts, bien au-delà des chiffres officiels, soulignant des violations massives des droits humains qui attirent une attention internationale croissante. Aux États-Unis, la mort d’Alex Pretti, abattu par la police fédérale ICE lors d’une opération à Minneapolis, accentue les critiques contre la politique d’immigration musclée de Donald Trump, même au sein de son camp, signalant des divisions qui pourraient compliquer ses ambitions géopolitiques globales.",
+  "headlines": [
+    {
+      "title": "Volodymyr Zelensky annonce un accord prêt sur garanties de sécurité avec États-Unis",
+      "source": "Le Monde",
+      "summary": "Le président ukrainien Volodymyr Zelensky affirme que le document est 100% prêt et attend confirmation américaine pour date et lieu de signature. Ratification par Congrès US et Parlement ukrainien nécessaire. Cela vise à sécuriser l'Ukraine contre les menaces russes.",
+      "link": "https://www.lemonde.fr/international/live/2026/01/25/en-direct-guerre-en-ukraine-un-accord-sur-les-garanties-de-securite-est-pret-a-etre-signe-avec-les-etats-unis-affirme-volodymyr-zelensky_6663004_3210.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Quatre accusés entament procès en appel pour assassinat de Samuel Paty",
+      "source": "RTBF",
+      "summary": "Le procès en appel de quatre des huit accusés reconnus coupables en première instance en décembre 2024 débute ce lundi. L'assassinat de l'enseignant en 2020 avait choqué la France. La justice cherche à confirmer les peines pour complicité.",
+      "link": "https://www.rtbf.be/article/le-proces-en-appel-de-quatre-accuses-dans-l-assassinat-de-samuel-paty-debute-lundi-11666688",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Frappes israéliennes tuent deux personnes dans sud du Liban malgré cessez-le-feu",
+      "source": "RTBF",
+      "summary": "Malgré la trêve de novembre 2024 avec le Hezbollah, des frappes israéliennes causent deux morts dans le sud du Liban. Les hostilités persistent un an après. Cela menace la stabilité régionale post-conflit.",
+      "link": "https://www.rtbf.be/article/liban-deux-morts-dans-des-frappes-israeliennes-sur-le-sud-malgre-le-cessez-le-feu-en-vigueur-11667820",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Diocèse négocie fermeture du collège Notre-Dame-de-Bétharram après scandales",
+      "source": "Libération",
+      "summary": "Au cœur de plus de 200 plaintes pour violences physiques et sexuelles sur mineurs depuis les années 1950, l'établissement privé catholique fait l'objet de tractations jusqu'à Rome pour changer de tutelle et fermer. Cela répond aux victimes et à la justice.",
+      "link": "https://www.liberation.fr/societe/education/notre-dame-de-betharram-apres-le-scandale-les-dessous-de-la-fermeture-annoncee-de-letablissement-20260126_C3JBHXXNBNFTPIN4TMYMFOC74M/",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Sources estiment bilan répression en Iran à plus de 30 000 morts",
+      "source": "France 24",
+      "summary": "La presse révèle que le bilan réel de la répression en Iran pourrait dépasser 30 000 morts, bien au-delà des chiffres officiels. Cette estimation souligne l'ampleur des violations des droits humains post-protestations, attirant l'attention internationale.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260126-r%C3%A9pression-en-iran-le-bilan-r%C3%A9el-pourrait-d%C3%A9passer-les-30-000-morts",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Mort d'Alex Pretti à Minneapolis conteste politique immigration de Donald Trump",
+      "source": "Le Monde",
+      "summary": "Un manifestant, Alex Pretti, tué samedi par la police fédérale ICE lors de l'opération Metro Surge à Minneapolis, accentue les critiques contre la stratégie de tension de Trump. Même son camp questionne l'approche, amplifiant les divisions aux États-Unis.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/26/apres-la-mort-d-alex-pretti-a-minneapolis-la-politique-d-immigration-de-donald-trump-plus-contestee-que-jamais_6664098_3210.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël annonce réouverture limitée du poste-frontière de Rafah à Gaza",
+      "source": "Le Monde",
+      "summary": "Israël rouvre partiellement Rafah aux piétons avec inspections complètes, sous pression américaine de Jared Kushner et Steve Witkoff. Conditionnée à restitution de l'otage Ran Gvili, cela facilite l'aide humanitaire à Gaza dans le plan de paix Trump.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/26/israel-annonce-une-reouverture-limitee-du-poste-frontiere-de-rafah-entre-la-bande-de-gaza-et-l-egypte_6664088_3210.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Armée israélienne déplace ligne jaune à son avantage dans bande de Gaza",
+      "source": "RFI",
+      "summary": "Malgré cessez-le-feu d'octobre avec Hamas, l'armée israélienne avance la ligne de démarcation convenue dans plusieurs quartiers de Gaza. Les accusations mutuelles de violations persistent, retardant phase 2 sous médiation Trump.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260126-gaza-l-arm%C3%A9e-isra%C3%A9lienne-d%C3%A9place-la-ligne-jaune-%C3%A0-son-avantage-dans-l-enclave-palestinienne",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 218,
+    "categoryCounts": {
+      "politics": 2,
+      "society": 3,
+      "conflict": 3
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 4,
+      "americas": 1
+    }
+  }
+}

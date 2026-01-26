@@ -1,0 +1,95 @@
+{
+  "date": "2026-01-26",
+  "summary": "Rwanda-backed M23 rebels seized Goma, the largest city in eastern Democratic Republic of Congo, overrunning government troops amid intense gunfire and shelling that displaced over one million people. Many are now sheltering in the very aid hub they once relied on, exacerbating what the UN calls one of the world's most neglected humanitarian crises. This escalation, following years of simmering conflict fueled by mineral riches and regional rivalries, threatens to destabilize the Great Lakes region further, complicating peace efforts led by African Union mediators.\n\nMeanwhile, authoritarian regimes doubled down on control elsewhere: in Iran, security forces crushed protests with lethal force during a nationwide communications blackout, with videos showing brutality against demonstrators and bystanders that has sharpened global scrutiny of Tehran's stability. In Myanmar, the junta-backed party declared a majority win in elections widely dismissed as fraudulent by watchdogs, entrenching military rule and dimming hopes for Aung San Suu Kyi's opposition amid her continued detention. This comes as NATO launched its first coordinated response to suspected sabotage of undersea cables in the Baltic Sea, bolstering defenses against hybrid threats that echo Russia's tactics in Ukraine.\n\nLooking ahead, glimmers of progress emerged in Gaza, where Israel conducted a large-scale operation to recover the body of hostage Ran Gvili, held by Hamas since October 2023, while allowing thousands of displaced Palestinians to return north of a military zone following a hostage deal. These steps signal potential advances in ceasefire talks. In space, NASA and SpaceX launched Crew-10 from Kennedy Space Center—astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov—to relieve Butch Wilmore and Suni Williams after nine months on the ISS, ensuring uninterrupted operations.",
+  "headlines": [
+    {
+      "title": "Iran Regime Crushes Protests with Lethal Force Amid Communications Blackout",
+      "source": "New York Times World",
+      "summary": "Iranian authorities suppressed citizen uprisings using deadly tactics during a nationwide communications blackout. Video and witness accounts reveal regime brutality, affecting protesters and families. Emerging details expose suppression methods, impacting global views on Iran's stability.",
+      "link": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-how-crackdown-was-done.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Deep-Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO launches its initial coordinated action after rebels sever another undersea cable in the Baltic Sea. Critical infrastructure operators face disruptions, with alliance members enhancing defenses. This escalates hybrid threat responses, safeguarding transatlantic communications.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Philippines Ferry Sinks with 300 Passengers Killing 15 and Leaving 28 Missing",
+      "source": "BBC World",
+      "summary": "MV Trisha Kerstin ferry capsizes off southern Philippines en route to Jolo Island, killing 15 of 300 aboard. Coast guard rescues hundreds but searches for 28 missing. Incident highlights risks in overloaded vessels, prompting safety investigations.",
+      "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss",
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Myanmar Pro-Military Party Declares Election Majority Win Despite Fraud Claims",
+      "source": "South China Morning Post",
+      "summary": "Junta-backed party claims majority in month-long election dismissed as fraudulent by watchdogs. Aung San Suu Kyi remains detained, affecting opposition supporters. Vote reinforces army control, diminishing hopes for democratic transition.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3341224/myanmars-junta-backed-party-declares-majority-poll-decried-fraudulent?utm_source=rss_feed",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck on Space Station",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov from Kennedy Space Center. Crew reaches station Saturday to relieve Butch Wilmore and Suni Williams after nine months. Rotation ensures continuous ISS operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Military Conducts Large-Scale Operation for Last Hostage in Gaza",
+      "source": "Associated Press",
+      "summary": "Israeli forces launch major search for Ran Gvili's body, held by Hamas since October 2023 attack. Mediators push ceasefire next phase amid pressures. Operation affects Gaza residents and hostage families, advancing release negotiations.",
+      "link": "https://apnews.com/article/gaza-israel-hamas-palestinians-hostage-gvili-d57a28eb5371785588d4b955f9dd2a46",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits Gazans to cross military zone back to northern areas following hostage release breakthrough. Displaced families regain access to homes. Move eases humanitarian strains, signaling ceasefire progress amid ongoing conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma Displacing Over One Million in Congo",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels overrun Congolese troops in Goma, triggering gunfire and shelling. Over one million displaced shelter in the aid hub city. U.N. warns of humanitarian crisis, complicating regional stability efforts.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 454,
+    "categoryCounts": {
+      "conflict": 4,
+      "environment": 1,
+      "politics": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 1,
+      "asia-pacific": 2,
+      "global": 1,
+      "africa": 1
+    }
+  }
+}

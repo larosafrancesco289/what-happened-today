@@ -1,0 +1,114 @@
+{
+  "date": "2026-01-27",
+  "summary": "La visite surprise du général Valeri Guérassimov, chef d'état-major russe, dans la zone d'opérations spéciales de l'est de l'Ukraine marque une intensification des efforts militaires de Moscou, à quelques jours de pourparlers à Abou Dhabi impliquant Russes, Ukrainiens et Américains. Cette inspection, annoncée par le Kremlin, souligne la détermination de la Russie à consolider ses gains territoriaux après des mois de combats acharnés, alors que Kiev peine à mobiliser ses réserves face à l'hiver rigoureux. Pour les civils ukrainiens, cela signifie une prolongation des souffrances, avec des fronts figés qui hypothèquent les négociations de paix.\n\nPendant ce temps, aux États-Unis, Donald Trump apaise les tensions à Minneapolis en s'entretenant avec le gouverneur du Minnesota et le maire, suite à la mort de deux manifestants tués par des agents de l'ICE ; Gregory Bovino, patron local de l'agence, quitte son poste mardi avec une partie des forces fédérales, marquant un recul face aux critiques sur les méthodes brutales. Ce développement fait suite à la tempête Fern, qui a causé des morts par froid polaire, exploitée par Trump pour réaffirmer son scepticisme climatique. Parallèlement, Trump annonce 25 % de droits de douane sur les produits sud-coréens, faute de ratification parlementaire de l'accord commercial, ravivant une guerre tarifaire qui menace les exportateurs de Séoul et les chaînes d'approvisionnement mondiales.\n\nVers l'avenir, la Cour d'appel de Paris ouvre le procès des complices de l'assassinat de Samuel Paty en 2020, ravivant les débats sur la laïcité et la liberté d'expression en France, tandis que l'armée israélienne récupère le corps de l'otage Ran Gvili à Gaza, clôturant une douloureuse saga. L'Inde et l'UE finalisent leur accord de libre-échange pour contrer les tensions trumpiennes, et l'Assemblée nationale française interdit les réseaux sociaux aux moins de 15 ans, protégeant la jeunesse des écrans excessifs.",
+  "headlines": [
+    {
+      "title": "La cour d'appel ouvre le procès de l'assassinat de Samuel Paty à Paris",
+      "source": "RTBF",
+      "summary": "Le procès en appel de l'assassinat de Samuel Paty, enseignant décapité le 16 octobre 2020 près de son collège à Conflans-Sainte-Honorine, s'est ouvert à Paris. Les accusés comparaissent pour leur rôle dans le meurtre. Ce procès ravive le débat sur la liberté d'expression et la laïcité en France.",
+      "link": "https://www.rtbf.be/article/le-proces-en-appel-de-l-assassinat-de-samuel-paty-s-est-ouvert-a-paris-11668448",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump discute avec gouverneur et maire après morts de deux manifestants à Minneapolis",
+      "source": "Le Monde",
+      "summary": "Donald Trump s'entretient avec le gouverneur du Minnesota et le maire de Minneapolis suite à la mort de deux manifestants tués par l'ICE. Une partie des agents fédéraux quittera les lieux mardi. Cela apaise les tensions nées des interventions de la police de l'immigration.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/27/donald-trump-cherche-a-eteindre-l-incendie-declenche-par-son-administration-a-minneapolis_6664249_3210.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Valéri Guérassimov inspecte les troupes russes dans l'est de l'Ukraine",
+      "source": "Le Monde",
+      "summary": "Valéri Guérassimov, chef d'état-major russe, visite la zone d'opérations spéciales dans l'est de l'Ukraine, selon Moscou. Cela survient avant des pourparlers à Abou Dhabi entre Russes, Ukrainiens et Américains. La visite souligne l'intensification russe sur le front.",
+      "link": "https://www.lemonde.fr/international/live/2026/01/27/en-direct-guerre-en-ukraine-les-pourparlers-devraient-reprendre-dimanche-entre-ukrainiens-russes-et-americains-selon-volodymyr-zelensky_6664247_3210.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "La tempête Fern cause des morts par froid polaire aux États-Unis",
+      "source": "20 Minutes",
+      "summary": "La tempête Fern provoque des morts liées au froid polaire aux États-Unis. Donald Trump réaffirme son climatoscepticisme en exploitant l'événement. Les autorités gèrent les impacts sur les populations vulnérables, soulignant les défis climatiques actuels.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4198193-20260127-tempete-neige-trump-sceptique-froid-polaire-seme-mort-etats-unis?at_medium=display&at_campaign=149",
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'armée israélienne retrouve le corps du sergent Ran Gvili à Gaza",
+      "source": "Le Monde",
+      "summary": "L'armée israélienne récupère le corps du sergent Ran Gvili, 24 ans, tué le 7 octobre et retenu otage par le Hamas dans un cimetière du nord de Gaza. Héros pour avoir aidé civils et soldats malgré son arrêt maladie. Cela clôt l'identification des otages.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/27/ran-gvili-le-dernier-otage-du-hamas-identifie-un-heros-israelien_6664256_3210.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Nestlé Lactalis et Danone rappellent des lots de laits infantiles contaminés",
+      "source": "France Info",
+      "summary": "Nestlé, Lactalis et Danone rappellent des laits infantiles en France et ailleurs pour risque de céréulide, toxine bactérienne. Parents surveillent symptômes comme nausées. Des produits de remplacement sont disponibles, protégeant la santé des nourrissons.",
+      "link": "https://www.franceinfo.fr/sante/alimentation/lait-infantile-contamine/laits-infantiles-contamines-symptomes-a-surveiller-marche-a-suivre-produits-de-remplacement-cinq-reponses-aux-interrogations-de-parents-inquiets_7765619.html#xtor=RSS-3-[lestitres]",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump impose 25% de droits de douane sur produits sud-coréens",
+      "source": "France 24",
+      "summary": "Donald Trump annonce des taxes de 25% sur produits sud-coréens car le parlement n'a pas ratifié l'accord commercial. Cela relance la guerre commerciale avec Séoul. Les entreprises exportatrices sud-coréennes anticipent des pertes économiques majeures.",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260126-droits-de-douane-donald-trump-relance-guerre-commerciale-coree-du-sud",
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "L'Inde et l'Union européenne finalisent leur accord de libre-échange",
+      "source": "20 Minutes",
+      "summary": "L'Inde et l'UE concluent leur accord de libre-échange pour booster les échanges face à la guerre commerciale de Trump et la concurrence chinoise. La signature approche. Cela renforce les liens économiques bilatéraux et diversifie les marchés.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4198192-20260127-accord-libre-echange-entre-inde-union-europeenne-finalise-signature-approche?at_medium=display&at_campaign=149",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Les députés approuvent l'interdiction des réseaux sociaux aux moins de 15 ans",
+      "source": "Le Monde",
+      "summary": "L'Assemblée nationale adopte l'interdiction des réseaux sociaux pour les moins de 15 ans et des téléphones dans les lycées, le 26 janvier. Soutenue par Macron, la loi bénéficie d'une procédure accélérée. Cela protège les adolescents des écrans excessifs.",
+      "link": "https://www.lemonde.fr/pixels/article/2026/01/26/l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-approuvee-par-les-deputes_6664229_4408996.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Gregory Bovino quitte son poste de patron de l'ICE à Minneapolis",
+      "source": "Le Figaro",
+      "summary": "Gregory Bovino, chef de l'ICE, part de Minneapolis avec des agents suite à la polémique sur méthodes brutales après deux morts de manifestants. L'administration Trump recule. Cela marque une détente dans les tensions locales avec la police fédérale.",
+      "link": "https://www.lefigaro.fr/international/le-depart-de-gregory-bovino-un-premier-signe-de-detente-a-minneapolis-20260127",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 217,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 1,
+      "environment": 1,
+      "economy": 3,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 3,
+      "middle-east": 1,
+      "global": 2,
+      "asia-pacific": 1
+    }
+  }
+}

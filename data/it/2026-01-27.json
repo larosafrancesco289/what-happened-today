@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-27",
+  "summary": "Gli attacchi missilistici russi hanno devastato Kharkiv, seconda città ucraina, ieri sera: droni e proiettili hanno colpito case, una scuola e infrastrutture, lasciando l'80% della popolazione senza elettricità mentre i vigili del fuoco combattono ancora oggi le fiamme. Questo raid intensifica la pressione sul fronte orientale, dove Mosca mira a indebolire Kiev prima dell'inverno, proprio mentre Mykhailo Podolyak, consigliere di Zelensky, accusa l'UE di burocrazia eccessiva nei ritardi su armi e sanzioni, esortando decisioni più rapide per non perdere slancio nella difesa ucraina.\n\nNel frattempo, l'Italia si trova al centro di tensioni mediorientali: un colono israeliano armato ha umiliato due carabinieri italiani in Cisgiordania vicino a Ramallah, costringendoli in ginocchio nonostante i tesserini diplomatici, spingendo il governo Meloni a convocare l'ambasciatore israeliano. Pochi giorni dopo, Roma ha inserito i Pasdaran iraniani nella black list dei terroristi, provocando l'evacuazione parziale dell'ambasciata italiana a Teheran e l'arrivo della portaerei USA Abraham Lincoln nella regione. Queste mosse, mentre la Camera preliminare della CPI deferisce l'Italia all'Assemblea degli Stati per presunte violazioni, evidenziano come le scelte romane stiano complicando i rapporti con Israele e Iran, in un contesto di crescenti frizioni diplomatiche.\n\nGuardando avanti, la tempesta artica negli USA ha causato 21 morti e lasciato oltre 700mila persone senza luce in vari stati, un monito sulle vulnerabilità infrastrutturali al clima estremo. In Sicilia, la frana a Niscemi si allarga a quattro chilometri, evacuando mille residenti e trasferendo 300 famiglie, richiedendo interventi urgenti. Intanto, studi su JAMA e CMAJ indicano che farmaci per la gotta come l'allopurinolo e diete vegetali EAT-Lancet riducono rischi cardiovascolari e renali, spingendo verso terapie preventive per milioni di pazienti.",
+  "headlines": [
+    {
+      "title": "Vigili del fuoco combattono incendio a Kharkiv dopo attacco missilistico russo",
+      "source": "Rai News",
+      "summary": "Attacchi missilistici e droni russi hanno colpito ieri Kharkiv, seconda città ucraina, danneggiando case e una scuola e lasciando l'80% della città senza energia elettrica. I vigili del fuoco intervengono oggi per spegnere le fiamme. L'evento evidenzia la continua pressione russa sul fronte orientale.",
+      "link": "https://www.rainews.it/video/2026/01/kharkiv-vigili-del-fuoco-combattono-lincendio-attacco-aereo-russo-colpisce-case-e-una-scuola-video-da38fb93-f8b3-4946-bc6d-d8f32cdd5426.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Colono armato costringe due carabinieri a inginocchiarsi vicino Ramallah",
+      "source": "la Repubblica",
+      "summary": "Un estremista israeliano ha bloccato e umiliato due carabinieri italiani in missione in Cisgiordania ignorando i loro tesserini diplomatici. Il governo Meloni convoca l'ambasciatore israeliano alla Farnesina. L'incidente alza tensioni tra Italia e Israele.",
+      "link": "https://www.repubblica.it/esteri/2026/01/27/news/carabinieri_cisgiordania_ginocchio_colono_meloni-425120262/?rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Serbia vende raffineria Nis a Mol ungherese con sconto del 20%",
+      "source": "Euronews Italiano",
+      "summary": "Belgrado cede la raffineria sanzionata ex russa Nis alla compagnia magiara Mol per quasi un miliardo di euro, con sconto del 20% sul valore stimato. La transazione risponde all'urgenza di investitori dopo sanzioni USA su Gazprom Neft. Rafforza legami energetici Serbia-Ungheria.",
+      "link": "http://it.euronews.com/2026/01/27/con-lo-sconto-belgrado-vende-allazienda-magiara-mol-la-raffineria-ex-russa-e-sanzionata-ni",
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia inserisce Pasdaran nella black list dei terroristi",
+      "source": "la Repubblica",
+      "summary": "Roma sanziona i Pasdaran iraniani come terroristi, scatenando scontro con Teheran che evacua parte dell'ambasciata italiana. La portaerei USA Lincoln arriva nella regione. La mossa italiana intensifica tensioni mediorientali e richiede vigilanza diplomatica.",
+      "link": "https://www.repubblica.it/esteri/2026/01/27/news/sanzioni_pasdaran_scontro_italia_iran_portaerei_usa_lincoln-425120097/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Giudici CPI deferiscono Italia all'Assemblea degli Stati",
+      "source": "Il Sole 24 Ore",
+      "summary": "La Camera preliminare della Corte Penale Internazionale ha deciso a maggioranza di deferire l'Italia all'Assemblea degli Stati, su richiesta di Almasri. La procedura valuta presunte violazioni. L'esito influenzerà la posizione italiana in ambito diritti umani internazionali.",
+      "link": "https://www.ilsole24ore.com/art/almasri-l-italia-deferita-all-assemblea-stati-cpi-AITO4P4",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Tempesta artica causa 21 morti negli Stati Uniti",
+      "source": "TGCOM24",
+      "summary": "Il bilancio della tempesta artica si aggrava con almeno 21 morti e oltre 700mila persone senza elettricità, secondo il New York Times. Le autorità gestiscono emergenze in vari stati. L'evento sottolinea vulnerabilità infrastrutture USA al clima estremo.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/usa-aggrava-bilancio-tempesta-artica-almeno-21-morti_108332749-202602k.shtml",
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Farmaci gotta riducono rischio infarto e ictus se dosati adeguatamente",
+      "source": "AGI",
+      "summary": "Studio dell'University of Nottingham su JAMA Internal Medicine mostra che allopurinolo abbassa uricemia sotto 360 micromol/L e riduce rischi cardiovascolari. Coinvolti pazienti con gotta. I risultati spingono medici a ottimizzare terapie per prevenzione.",
+      "link": "https://www.agi.it/salute/news/2026-01-27/farmaci-gotta-rischio-cardiovascolare-35280254/",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Dieta vegetale abbassa rischio malattia renale cronica del 2,7%",
+      "source": "AGI",
+      "summary": "Ricerca su 179.508 partecipanti UK da Southern Medical University, pubblicata su CMAJ, lega dieta vegetale EAT-Lancet a minor incidenza MRC in 12 anni di follow-up con 4.819 casi. Beneficia reni limitando zuccheri e grassi, guida stili alimentari salutari.",
+      "link": "https://www.agi.it/salute/news/2026-01-27/dieta-vegetale-prevenzione-mrc-35283470/",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Podolyak critica burocrazia europea per ritardi aiuti a Kiev",
+      "source": "la Repubblica",
+      "summary": "Consigliere di Zelensky accusa UE di eccessiva burocrazia su armi e sanzioni, chiedendo decisioni rapide, pur ringraziando alleati. L'intervista evidenzia necessità accelerare supporto militare. Miglioramenti procedurali UE potrebbero rafforzare difesa ucraina.",
+      "link": "https://www.repubblica.it/esteri/2026/01/27/news/intervista_mikhailo_podolyak_europa_burocrazia_aiuti_ue_ucraina-425120196/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Frana a Niscemi trasferisce 300 famiglie ed evacua mille persone",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il fronte frana si allarga a quattro chilometri, il sindaco istituisce zona rossa impedendo rientri. Autorità trasferiscono 300 famiglie e evacuano mille residenti. Emergenza richiede interventi urgenti per sicurezza e ricostruzione in Sicilia.",
+      "link": "https://www.ilsole24ore.com/art/niscemi-si-allarga-fronte-frana-trasferite-300-famiglie-evacuate-mille-persone-AIA2BJ4",
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 259,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 1,
+      "politics": 3,
+      "environment": 2,
+      "science": 2
+    },
+    "regionCounts": {
+      "europe": 5,
+      "middle-east": 1,
+      "global": 3,
+      "americas": 1
+    }
+  }
+}

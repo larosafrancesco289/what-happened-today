@@ -1,0 +1,96 @@
+{
+  "date": "2026-01-27",
+  "summary": "A deadly Cyclone Harry has turned the Mediterranean into a graveyard for migrants, with Italy's coastguard estimating up to 380 drowned last week in multiple shipwrecks. Maltese authorities confirmed 50 deaths in one vessel and a lone survivor, while the UN verified further incidents. This tragedy underscores the perilous risks of Central Mediterranean crossings, where rough winter seas compound smugglers' callousness and pushback policies, leaving thousands dead annually as people flee war and poverty in Africa and the Middle East.\n\nSouthern Africa's summer rains have unleashed parallel devastation, killing over 100 across Zimbabwe (70 deaths), South Africa (30), and Mozambique since January, displacing hundreds of thousands amid crocodile attacks, cholera outbreaks, and looming hunger. Authorities scramble for aid as resources strain. This comes as NATO coordinates its first response to suspected sabotage of a Baltic Sea power cable linking Finland and Estonia, heightening fears of hybrid warfare targeting Europe's energy and communications infrastructure—echoing last year's severed gas pipelines.\n\nLooking ahead, Japan's new Prime Minister Sanae Takaichi warned that the US alliance could collapse if Tokyo fails to aid American forces attacked during Taiwan operations, signaling deepening commitments amid Beijing's assertiveness. Meanwhile, Indian PM Narendra Modi announced a landmark free-trade agreement with the European Union at their summit, creating a market of 2 billion people and 25% of global GDP to slash tariffs and bolster supply chains against economic fragmentation.",
+  "headlines": [
+    {
+      "title": "Italian Coastguard Estimates 380 Migrants Drown in Mediterranean During Cyclone Harry",
+      "source": "The Guardian",
+      "summary": "Italian coastguard reports up to 380 drowned last week amid Cyclone Harry, with Maltese authorities confirming 50 deaths in one shipwreck and one survivor. Migrants attempting sea crossings face deadly risks; UN verifies multiple incidents. This highlights ongoing migration perils in stormy weather.",
+      "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Indian PM Modi Announces Free Trade Agreement with European Union",
+      "source": "Deutsche Welle",
+      "summary": "At India-EU summit, PM Modi announces FTA creating market of 2 billion people and 25% of global GDP. Businesses in both regions gain tariff reductions and market access. Deal boosts trade ties amid global economic shifts.",
+      "link": "https://www.dw.com/en/india-eu-summit-modi-announces-free-trade-agreement-with-eu/live-75669574?maca=en-rss-en-top-1022-rdf",
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Japan's PM Takaichi Warns US Alliance Collapses if Tokyo Ignores Taiwan Attacks",
+      "source": "South China Morning Post",
+      "summary": "PM Sanae Takaichi states Japan-US ties end if Tokyo ignores attacks on US forces in Taiwan operations. Japan prepares potential joint rescues of citizens. Statement escalates regional tensions and alliance commitments.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3341359/takaichi-says-ties-will-collapse-if-us-forces-are-hit-taiwan-and-tokyo-does-nothing?utm_source=rss_feed",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck on Space Station",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 launches Crew-10 Friday from Florida with NASA, JAXA, Roscosmos astronauts to relieve Butch Wilmore and Suni Williams after nine months. Crew docks Saturday; return enables rotation. Ensures continuous ISS operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "European Union Launches Investigation into Musk's Grok over Sexual Deepfakes",
+      "source": "Associated Press",
+      "summary": "EU probes X platform after Grok AI generates nonconsensual sexual deepfakes, expanding prior review of recommendation systems. Users face harmful content; regulators seek compliance. Probes enforce digital safety standards across tech firms.",
+      "link": "https://apnews.com/article/elon-musk-x-grok-ai-deepfakes-sexual-c1a3039e5aaeb4dd517d995b8b301537",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Announces Rafah Crossing Reopening with Egypt after Captive Search",
+      "source": "New York Times World",
+      "summary": "Israel plans to reopen Gaza-Egypt Rafah crossing in days following search for last captive's remains. Palestinians and aid groups gain potential aid flow; monitors closure impacts. Eases humanitarian access amid conflict.",
+      "link": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO coordinates response after deep-sea cable severance in Baltic Sea amid sabotage suspicions. Critical infrastructure operators secure lines; alliance deters hybrid threats. Protects transatlantic communications and energy supplies.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Floods Kill More Than 100 People in South Africa, Mozambique and Zimbabwe",
+      "source": "The Guardian",
+      "summary": "Floods since year start kill over 100, including 70 in Zimbabwe and 30 in South Africa, displacing hundreds of thousands. Authorities warn of crocodiles, cholera, hunger. Disaster strains regional resources and aid delivery.",
+      "link": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 465,
+    "categoryCounts": {
+      "society": 1,
+      "economy": 1,
+      "politics": 4,
+      "science": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "asia-pacific": 2,
+      "global": 2,
+      "middle-east": 1,
+      "africa": 1
+    }
+  }
+}

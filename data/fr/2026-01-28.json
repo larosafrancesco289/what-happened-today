@@ -1,0 +1,85 @@
+{
+  "date": "2026-01-28",
+  "summary": "Benjamin Netanyahu a fixé ses conditions pour toute reconstruction de Gaza : le désarmement total du Hamas et la démilitarisation de l'enclave par l'élimination des armes et des tunnels. Ces exigences, exprimées lors d'une conférence de presse mercredi, sont rejetées par le Hamas, qui les qualifie d'inacceptables, prolongeant ainsi un conflit qui a déjà fait plus de 45 000 morts côté palestinien selon les autorités locales de Gaza. Ce bras de fer survient après trois mois de trêve précaire et complique les efforts diplomatiques qataris et égyptiens, soulignant les tensions persistantes au Moyen-Orient qui menacent la stabilité régionale et les flux migratoires vers l'Europe.\n\nEn Ukraine, des frappes russes ont tué trois personnes mercredi à Bilogorodska, banlieue sud-est de Kiev, intensifiant les combats près de la capitale malgré les appels internationaux à la désescalade. Cela met en lumière la vulnérabilité énergétique européenne : quatre ans après l'invasion, EDF continue d'envoyer de l'uranium à Rosatom pour enrichissement, échappant aux sanctions, tandis que les autorités allemandes retardent depuis trois ans l'alliance Framatome-Rosatom pour la production de combustible nucléaire en Basse-Saxe. Ces dépendances rappellent comment la guerre russe pèse sur la sécurité énergétique du Vieux Continent.\n\nAux États-Unis, une tempête hivernale a causé au moins 38 morts et privé 500 000 clients d'électricité mardi soir, avec une nouvelle vague de froid prévue ce week-end qui risque d'aggraver la crise. En France, le tribunal a condamné l'ex-sénateur Joël Guerriau, 68 ans, à quatre ans de prison – dont 18 mois ferme – pour avoir drogué la députée Sandrine Josso dans l'intention de viol ; il a annoncé appel. Parallèlement, les auditions des propriétaires Moretti renforcent les soupçons dans l'enquête sur l'incendie mortel du Constellation à Crans-Montana.",
+  "headlines": [
+    {
+      "title": "Tribunal condamne ex-sénateur Joël Guerriau à quatre ans de prison pour drogue sur Sandrine Josso",
+      "source": "Le Monde",
+      "summary": "Le tribunal a reconnu l’intention de viol ou agression sexuelle de Joël Guerriau, 68 ans, qui a drogué la députée Sandrine Josso. Il écope de quatre ans de prison dont 18 mois ferme, cinq ans d’inéligibilité et obligation de soins. Il annonce appel.",
+      "link": "https://www.lemonde.fr/societe/article/2026/01/28/le-tribunal-reconnait-que-l-ex-senateur-joel-guerriau-a-drogue-a-son-insu-la-deputee-sandrine-josso-et-le-condamne-a-quatre-ans-de-prison-dont-dix-huit-mois-ferme_6664390_3224.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Tempête hivernale cause 38 morts aux Etats-Unis et prive 500 000 clients d’électricité",
+      "source": "Le Monde",
+      "summary": "Une tempête hivernale a tué au moins 38 personnes aux Etats-Unis, avec près de 500 000 clients toujours sans électricité mardi soir. Une nouvelle vague de froid arrive ce week-end, risquant une autre tempête majeure qui aggrave la crise énergétique et humanitaire.",
+      "link": "https://www.lemonde.fr/planete/article/2026/01/28/tempete-hivernale-aux-etats-unis-au-moins-38-morts-une-grande-partie-du-pays-toujours-en-proie-a-un-froid-intense_6664389_3244.html",
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Auditions révèlent contradictions des propriétaires Moretti dans incendie de Crans-Montana",
+      "source": "Le Figaro",
+      "summary": "Nouvelles auditions de Jacques et Jessica Moretti, propriétaires du Constellation, montrent des incohérences sur les risques d’incendie à Crans-Montana. Images du bar confirment les pratiques dangereuses. Cela renforce les charges contre eux dans l’enquête sur l’incendie.",
+      "link": "https://www.lefigaro.fr/faits-divers/incendie-de-crans-montana-ces-nouveaux-elements-qui-accablent-les-proprietaires-du-constellation-20260127",
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Benjamin Netanyahu exige désarmement du Hamas et démilitarisation de Gaza pour Israël",
+      "source": "France 24",
+      "summary": "Benjamin Netanyahu pose comme priorités le désarmement du Hamas et la démilitarisation de Gaza via élimination d’armes et tunnels avant toute reconstruction. Le Hamas refuse ces conditions, prolongeant le conflit et bloquant les efforts de paix au Moyen-Orient.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260127-desarmer-hamas-demilitariser-gaza-priorites-israel-benjamin-netanyahu",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Attaques russes tuent trois personnes près de Kiev en Ukraine",
+      "source": "France Info",
+      "summary": "Des frappes russes ont tué trois personnes à Bilogorodska, banlieue sud-est de Kiev, mercredi 28 janvier. Cela intensifie les combats près de la capitale ukrainienne, soulignant la persistance des attaques malgré les efforts diplomatiques internationaux.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-deux-morts-dans-une-attaque-russe-pres-de-kiev_7769513.html#xtor=RSS-3-[lestitres]",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "EDF enrichit uranium russe pour réacteurs nucléaires français malgré invasion ukrainienne",
+      "source": "Liberation",
+      "summary": "Quatre ans après l’invasion russe de l’Ukraine, EDF dépend toujours de Rosatom pour enrichir uranium et gérer combustibles usés, échappant aux sanctions. Rapport Greenpeace alerte sur cette vulnérabilité énergétique française face à Moscou.",
+      "link": "https://www.liberation.fr/economie/uranium-le-nucleaire-francais-continue-a-enrichir-la-russie-20260128_ZS6C5SLE5VBMXMLLYK5JQI4ESA/",
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Autorités allemandes retardent alliance Framatome-Rosatom pour combustible nucléaire",
+      "source": "Liberation",
+      "summary": "La filiale d’EDF Framatome attend depuis trois ans l’approbation allemande de son projet avec Rosatom en Basse-Saxe pour produire combustible nucléaire. La guerre russo-ukrainienne complique ce dossier, affectant la sécurité énergétique européenne.",
+      "link": "https://www.liberation.fr/economie/nucleaire-en-allemagne-le-mariage-entre-le-francais-framatome-et-le-russe-rosatom-vire-au-casse-tete-20260128_Z5XJ4OHYHBGGPBA6WQVNRQCSAQ/",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 218,
+    "categoryCounts": {
+      "politics": 3,
+      "environment": 2,
+      "conflict": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "americas": 1,
+      "middle-east": 1,
+      "global": 1
+    }
+  }
+}

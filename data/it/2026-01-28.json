@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-28",
+  "summary": "Gli scienziati del Bulletin of the Atomic Scientists hanno spostato le lancette dell'Orologio dell'Apocalisse al record di 85 secondi dalla mezzanotte, il più vicino mai registrato al disastro globale. Questa mossa riflette l'escalation di minacce multiple: il rischio nucleare accentuato dalla guerra in Ucraina, il cambiamento climatico con ondate di calore record, pandemie biologiche e l'ascesa incontrollata dell'intelligenza artificiale. Per miliardi di persone, significa un campanello d'allarme: senza azioni urgenti da leader mondiali, catastrofi esistenziali potrebbero colpire economie, cibo e sicurezza quotidiana.\n\nNel frattempo, negli Stati Uniti, la deputata democratica Ilhan Omar è stata aggredita con una siringa contenente liquido ignoto durante un comizio a Minneapolis, un episodio che solleva allarme sulla violenza politica in un paese polarizzato, proprio mentre due agenti di frontiera sparano a un uomo, Alex Pretti, in una colluttazione ravvicinata nella stessa città. Questo avviene mentre il Financial Times rivela una proposta americana a Kiev per garanzie di sicurezza in cambio di una rinuncia al Donbass, smentita dalla Casa Bianca ma supportata da stime di 2 milioni tra morti e feriti in quattro anni di conflitto, spingendo verso negoziati che potrebbero ridisegnare l'Europa orientale.\n\nGuardando al futuro, l'Unione Europea annuncia la rete satellitare sovrana Iris² entro il 2029, guidata dal commissario Andrius Kubilius, per ridurre la dipendenza da Starlink e rafforzare comunicazioni governative sicure contro cyber minacce da Russia e Cina – un passo verso l'autonomia strategica. In Italia, il ministro Piantedosi ordina metal detector nelle scuole e il Ministero della Salute pubblica linee guida per defibrillatori, mirando a salvare vite da 60mila arresti cardiaci annui, mentre scienziati prevedono un calo del livello del mare in Groenlandia che potrebbe alterare proiezioni climatiche globali.",
+  "headlines": [
+    {
+      "title": "Scienziati Bulletin Atomico spostano lancette Orologio Apocalisse a 85 secondi da mezzanotte",
+      "source": "ANSA",
+      "summary": "Il Bulletin of the Atomic Scientists ha aggiornato l'Orologio dell'Apocalisse al record di 85 secondi dalla mezzanotte, considerando rischi nucleari, guerre, clima, biologici e IA. La mossa segnala pericoli globali estremi e urge azioni immediate per ridurre minacce esistenziali.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/ricerca_istituzioni/2026/01/27/lorologio-dellapocalisse-mai-cosi-vicino-a-mezzanotte-lancette-a-85-secondi-dalla-catastrofe_3cd14f23-a7e5-4748-b7fc-ff6f5a9a3231.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Uomo aggredisce deputata democratica Ilhan Omar con siringa a comizio Minneapolis",
+      "source": "la Repubblica",
+      "summary": "Un uomo ha aggredito la deputata Ilhan Omar con una siringa contenente liquido sconosciuto durante un comizio a Minneapolis; l'aggressore è stato arrestato. L'incidente solleva preoccupazioni sulla sicurezza dei politici e avvia indagini sul liquido e motivazioni.",
+      "link": "https://www.repubblica.it/esteri/2026/01/28/news/minneapolis_deputata_dem_ilhan_omar_aggredita_comizio_siringa-425122492/?rss",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Stati Uniti propongono a Kiev garanzie sicurezza in cambio rinuncia Donbass",
+      "source": "la Repubblica",
+      "summary": "Il Financial Times rivela proposta USA a Kiev per garanzie di sicurezza se rinuncia al Donbass; Casa Bianca smentisce ma nota sviluppi positivi. Uno studio indica 2 milioni tra morti e feriti in 4 anni di guerra, influenzando negoziati futuri per pace.",
+      "link": "https://www.repubblica.it/esteri/2026/01/28/news/proposta_usa_kiev_garanzie_sicurezza_rinuncia_donbass-425122039/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ministero Salute e Sis 118 pubblicano linee guida rianimazione con defibrillatori",
+      "source": "ANSA",
+      "summary": "Ministero della Salute e Sis 118 emanano linee guida per formare cittadini all'uso di defibrillatori contro 60mila morti annue da arresto cardiaco improvviso. Il documento mira a potenziare soccorsi laici, riducendo decessi e migliorando sopravvivenza.",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/01/27/formare-i-cittadini-alluso-del-defibrillatore-arrivano-le-linee-guida-sulla-rianimazione_9c5632b7-7265-4738-b35e-1204fe78f975.html",
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Due agenti sparano ad Alex Pretti durante colluttazione a Minneapolis",
+      "source": "AGI",
+      "summary": "Rapporto preliminare rivela che due agenti di Dogana e Protezione Frontiere hanno sparato ad Alex Pretti sabato a Minneapolis dopo urla di 'Ha una pistola'. L'indagine continua al Congresso, chiarendo responsabilità e protocolli di sicurezza.",
+      "link": "https://www.agi.it/estero/news/2026-01-28/alex-pretti-sparatoria-minneapolis-35309439/",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Commissario UE Kubilius annuncia rete satellitare Iris2 entro 2029",
+      "source": "AGI",
+      "summary": "Commissario europeo alla Difesa Andrius Kubilius presenta progetto Iris2 per comunicazioni satellitari sovrane UE entro 2029, con Govsatcom già avviato. La rete rafforza autonomia da Starlink, garantendo sicurezza governativa in tre fasi.",
+      "link": "https://www.agi.it/estero/news/2026-01-28/rete-satelliti-ue-iris2-musk-starlink-35304795/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ministro Piantedosi emette direttiva presidi per metal detector scuole",
+      "source": "Rai News",
+      "summary": "Ministro Interno Matteo Piantedosi invia direttiva ai presidi per installare metal detector contro coltelli, anche a sorpresa con prefetti. La misura risponde a incidenti scolastici, migliorando sicurezza studenti e personale.",
+      "link": "https://www.rainews.it/articoli/2026/01/coltelli-a-scuola-piantedosi-direttiva-ai-presidi-per-mettere-metal-detector-anche-a-sorpresa-7ad7a00c-9142-4df7-8f9e-381f348ae3e1.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Scienziati prevedono calo livello mare in Groenlandia nonostante crescita globale",
+      "source": "Euronews Italiano",
+      "summary": "Ricerca indica calo imminente del livello del mare in Groenlandia per cambiamenti dinamici, contrariamente all'aumento mondiale. Gli effetti impattano comunità costiere, rotte marittime, pesca e infrastrutture, alterando proiezioni climatiche globali.",
+      "link": "http://it.euronews.com/green/2026/01/28/il-livello-del-mare-cresce-nel-mondo-ma-in-groenlandia-sta-per-calare-dicono-gli-scienziat",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Autorità confermano due casi virus Nipah in India e lanciano allerta internazionale",
+      "source": "Euronews Italiano",
+      "summary": "Due casi di virus Nipah confermati in India attivano allerta OMS e internazionale per il patogeno ad alta letalità trasmesso da pipistrelli. Monitoraggi e contromisure procedono per contenere diffusione e prevenire epidemie.",
+      "link": "http://it.euronews.com/salute/2026/01/28/virus-nipah-in-india-cosa-sappiamo-dei-casi",
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Capo cyber difesa USA carica file sensibili su ChatGPT",
+      "source": "la Repubblica",
+      "summary": "Il responsabile cyber difesa governativa USA carica documenti sensibili su ChatGPT, esponendo vulnerabilità dopo caso Hegseth. L'agenzia protegge siti federali da Russia e Cina; indagini interne valutano danni e rafforzano protocolli.",
+      "link": "https://www.repubblica.it/esteri/2026/01/28/news/stati_uniti_capo_cyber_sicurezza_governo_carica_file_sensibili_chatgpt-425122484/?rss",
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 253,
+    "categoryCounts": {
+      "science": 5,
+      "conflict": 2,
+      "politics": 3
+    },
+    "regionCounts": {
+      "global": 2,
+      "americas": 3,
+      "europe": 4,
+      "asia-pacific": 1
+    }
+  }
+}

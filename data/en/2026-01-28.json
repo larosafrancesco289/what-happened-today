@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-28",
+  "summary": "Rwanda-backed M23 rebels seized Goma, the Democratic Republic of Congo's key eastern aid hub, on Friday amid intense gunfire and shelling, trapping over 1 million displaced people and disrupting UN operations. The fall of this lakeside city of 2 million follows months of rebel advances fueled by longstanding mineral disputes and Rwanda's alleged support, deepening a conflict that has already killed tens of thousands and drawn in neighboring states. For ordinary Congolese, it means severed supply lines for food and medicine, as clashes rage nearby.\n\nThis African crisis unfolded as Israel allowed hundreds of thousands of displaced Palestinians to cross back into northern Gaza after a hostage-release breakthrough, yet Prime Minister Benjamin Netanyahu vowed to disarm Hamas and demilitarize the enclave entirely, stalling reconstruction and Palestinian statehood dreams. Meanwhile, NATO launched its first coordinated patrols in response to suspected sabotage of a vital Baltic Sea power cable linking Finland and Estonia, amid fears of Russian hybrid warfare—a tactic echoing a deadly drone strike on a Ukrainian passenger train carrying nearly 200 people, which President Zelenskyy branded terrorism.\n\nLooking ahead, Netanyahu's hardline stance signals prolonged Israeli operations in Gaza, while U.S. Census data shows population growth slowing to 0.5%—reaching 342 million—due to President Trump's immigration crackdown, raising alarms among economists about looming labor shortages and sluggish GDP growth for businesses and workers.",
+  "headlines": [
+    {
+      "title": "U.S. Census Bureau Reports Trump's Immigration Crackdown Drops Population Growth to 0.5%",
+      "source": "Associated Press",
+      "summary": "U.S. Census Bureau released estimates showing President Trump's immigration policies contributed to 2025 population growth falling to 0.5% from prior year, reaching nearly 342 million. Immigrants and businesses face slower growth impacts; economists track effects on labor force and GDP.",
+      "link": "https://apnews.com/article/census-bureau-immigration-trump-us-population-7130f180e3d8c03185932e3e6f9974e8",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Palestinians to Return to Northern Gaza After Hostage Release Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits displaced Gazans to cross a military zone back to northern Gaza following breakthrough in hostage releases. Hundreds of thousands of Palestinians affected regain access; reconstruction efforts hinge on ongoing security talks.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO deploys coordinated response after suspected sabotage severs deep-sea cable in Baltic Sea. European nations and critical infrastructure operators affected; alliance increases patrols to protect undersea networks vital for communications and energy.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "source": "Wall Street Journal World",
+      "summary": "Rwanda-backed rebels capture Goma, Congo's aid hub, amid gunfire and shelling, trapping over 1 million displaced people. Residents and U.N. aid operations face immediate threats; humanitarian crisis escalates as forces clash nearby.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Italian Coastguard Estimates 380 Migrants Drown in Mediterranean During Cyclone Harry",
+      "source": "The Guardian",
+      "summary": "Cyclone Harry causes shipwreck killing 50 migrants with 380 total feared drowned last week near Italy and Malta; one survivor hospitalized. Migrants from Africa and Middle East affected; search operations continue amid worsening weather risks.",
+      "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zelenskyy Condemns Russian Drone Strike on Passenger Train in Ukraine",
+      "source": "Deutsche Welle",
+      "summary": "Russian drone hits train carriage with nearly 200 passengers in Ukraine, prompting President Zelenskyy to label it terrorism. Passengers and rail infrastructure affected; Ukraine bolsters defenses as Russia intensifies attacks on civilian targets.",
+      "link": "https://www.dw.com/en/zelenskyy-condemns-terrorism-after-russia-hits-train-in-ukraine/a-75686904?maca=en-rss-en-top-1022-rdf",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NTSB Attributes Deadly Midair Collision Near Washington D.C. to Systemic Failures",
+      "source": "NPR News",
+      "summary": "National Transportation Safety Board blames multiple systemic failures for midair crash involving Black Hawk helicopter near D.C., killing all aboard after yearlong probe. Aviation operators and regulators affected; NTSB recommends sweeping safety reforms.",
+      "link": "https://www.npr.org/2026/01/27/nx-s1-5689091/ntsb-dca-midair-collision-black-hawk-helicopter",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Netanyahu Vows to Disarm Hamas and Demilitarize Gaza After Last Hostage Return",
+      "source": "France 24",
+      "summary": "Israeli Prime Minister Netanyahu pledges to disarm Hamas and demilitarize Gaza post-return of final hostage, blocking reconstruction and Palestinian statehood. Gaza residents and Hamas fighters targeted; Israel shifts to long-term security operations.",
+      "link": "https://www.france24.com/en/middle-east/20260127-netanyahu-vows-to-disarm-hamas-demilitarise-gaza",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Floods Kill Over 100 People and Displace Hundreds of Thousands in Southern Africa",
+      "source": "The Guardian",
+      "summary": "Floods since January kill more than 100 in South Africa, Mozambique, and Zimbabwe, displacing hundreds of thousands; authorities warn of crocodiles, cholera, hunger. Evacuees from Kruger park affected; aid groups rush food and health support.",
+      "link": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Ex-North Korean Envoy Claims Kim Jong-un Fears U.S. Decapitation After Maduro Capture",
+      "source": "South China Morning Post",
+      "summary": "Former Pyongyang envoy Lee Il-kyu states Kim Jong-un views U.S. operation capturing Venezuela's Nicolas Maduro as decapitation threat model. North Korean leadership feels vulnerable; Pyongyang likely heightens personal security measures amid tensions.",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3341503/north-korean-ex-envoy-kim-jong-uns-decapitation-fears-after-maduros-capture?utm_source=rss_feed",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 470,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 5,
+      "environment": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 2,
+      "europe": 3,
+      "africa": 2,
+      "asia-pacific": 1
+    }
+  }
+}

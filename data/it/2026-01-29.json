@@ -1,0 +1,110 @@
+{
+  "date": "2026-01-29",
+  "summary": "A Kiev, nel quartiere Troieshchyna, i residenti di un palazzo di 18 piani affrontano inverni rigidi senza riscaldamento e con blackout intermittenti causati dagli attacchi russi alla rete elettrica ucraina. Mentre le temperature scendono sotto lo zero, le famiglie si vestono a strati, cucinano con fornelli a gas e dormono avvolti nei cappotti insieme ai loro animali domestici. Questa storia di resilienza quotidiana, quasi due anni dopo l'invasione russa del febbraio 2022, evidenzia come la guerra non colpisca solo i fronti orientali ma paralizzi la vita civile in tutta l'Ucraina, costringendo milioni a adattarsi a una nuova normalità precaria.\n\nNel frattempo, tragedie aeree e sparatorie riaccendono dibattiti globali sulla sicurezza. In Colombia, un piccolo aereo con 15 passeggeri è precipitato poco dopo il decollo nel nord-est remoto, uccidendo tutti, incluso un membro del Congresso: l'incidente pone l'accento sui rischi cronici dell'aviazione leggera in zone isolane. Negli Stati Uniti, due agenti di Minneapolis sono stati sospesi dopo l'uccisione di un uomo nero di nome Pretti, un caso che riavvia le discussioni sulla violenza poliziesca mentre la deputata democratica Ilhan Omar denuncia un'aggressione con siringa e Donald Trump critica la città per violazioni della legge. Allo stesso tempo, al Consiglio di Sicurezza ONU, l'inviato cinese Fu Cong ha esortato Israele a revocare sanzioni sugli aiuti umanitari a Gaza, aprendo tutti i valichi per scongiurare una catastrofe umanitaria.\n\nGuardando al futuro, l'Europa rischia di perdere la corsa all'intelligenza artificiale: nonostante università d'eccellenza, esperti emigrano verso Stati Uniti e Cina per mancanza di opportunità industriali, minando la competitività Ue. In controtendenza, il Portogallo ha ordinato la prima nave porta-droni europea, per 200 persone, che rafforzerà sorveglianza marina e ricerca, mentre in Italia il ministro Crosetto propone di integrare la riserva volontaria con Carabinieri, preparando una bozza di legge per elevare la sicurezza nazionale.",
+  "headlines": [
+    {
+      "title": "Aereo leggero precipita in Colombia causando 15 morti tra cui membro Congresso",
+      "source": "Euronews Italiano",
+      "summary": "Un aereo leggero con 15 passeggeri precipita poco dopo il decollo su rotta interna nel nord-est della Colombia. Tutti i passeggeri muoiono, incluso un membro del Congresso. L'incidente evidenzia rischi dell'aviazione leggera in zone remote.",
+      "link": "http://it.euronews.com/2026/01/29/colombia-aereo-leggero-precipita-e-provoca-15-morti-membro-del-congresso-del-paese-a-bordo",
+      "category": "society",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Residenti Kiev affrontano freddo e blackout nel palazzo Troieshchyna",
+      "source": "la Repubblica",
+      "summary": "Nel quartiere Troieshchyna di Kiev, un palazzo di 18 piani resiste senza riscaldamento e con elettricità intermittente. I residenti si vestono a strati e dormono con animali. La storia mostra la resilienza ucraina contro gli effetti della guerra russa.",
+      "link": "https://www.repubblica.it/esteri/2026/01/29/news/kiev_palazzo_quartiere_troieshchyna_kiev_resiste_guerra_buio_freddo-425124597/?rss",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Polizia sospende due agenti che uccisero Pretti negli Usa",
+      "source": "la Repubblica",
+      "summary": "Due agenti di polizia negli Usa vengono sospesi dopo l'uccisione di Pretti. Una deputata dem Ilhan Omar subisce aggressione con siringa; Trump critica Minneapolis per violazioni legge. Il caso riaccende dibattiti su violenza poliziesca e sicurezza.",
+      "link": "https://www.repubblica.it/esteri/2026/01/29/news/usa_sospesi_due_agenti_ucciso_pretti_aggredita_deputata_dem-425124541/?rss",
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Crosetto propone riserva volontaria con personale Carabinieri",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il ministro Crosetto annuncia l'affiancamento alla riserva volontaria di cittadini con personale Carabinieri. Il Comitato strategico, riunito il 16 gennaio, prepara bozza disegno di legge sulla Difesa da inviare al Parlamento. La misura rafforza la sicurezza nazionale.",
+      "link": "https://www.ilsole24ore.com/art/sicurezza-crosetto-affiancare-riserva-volontaria-composta-cittadini-personale-carabinieri-AIoJNl6",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo ripropone norma salva-imprenditori su contenziosi sottopagati",
+      "source": "AGI",
+      "summary": "Il governo inserisce nel Dl PNRR, atteso oggi in Cdm, la norma che esclude condanne per differenze retributive o contributive ai datori di lavoratori sottopagati. La misura, stralciata dalla legge di bilancio per proteste, riaccende tensioni tra imprese e sindacati.",
+      "link": "https://www.agi.it/economia/news/2026-01-29/norma-salva-imprenditori-su-sottopagati-35328155/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cina esorta Israele a revocare sanzioni su aiuti umanitari Gaza",
+      "source": "Rai News",
+      "summary": "L'inviato cinese Fu Cong al Consiglio di Sicurezza Onu chiede a Israele di applicare diritto umanitario, aprire tutti i valichi e garantire accesso aiuti a Gaza. L'appello sottolinea l'urgenza di soccorso umanitario nella crisi.",
+      "link": "https://www.rainews.it/video/2026/01/cina-chiede-apertura-gaza-allonu-704f496e-4fd2-45fa-83c7-8409adaf05d1.html",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Europa perde talenti specializzati in Ai verso estero",
+      "source": "Euronews Italiano",
+      "summary": "Esperti europei di intelligenza artificiale emigrano nonostante università e ricerca avanzate. L'Ue fallisce nel trattenere talenti per mancanza di opportunità industriali. Il fenomeno indebolisce la competitività europea contro Usa e Cina.",
+      "link": "http://it.euronews.com/my-europe/2026/01/29/europa-fuga-di-cervelli-specializzati-in-ai-perche-lue-non-riesce-a-trattenere-i-talenti",
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Portogallo acquista prima nave porta-droni Ue",
+      "source": "Euronews Italiano",
+      "summary": "Il Portogallo ordina una nave per 200 persone che lancia e recupera droni aerei e marittimi, consegna prevista quest'anno. Serve ricerca scientifica e sorveglianza della vasta zona marina. Rafforza capacità navale europea.",
+      "link": "http://it.euronews.com/2026/01/29/il-portogallo-sara-il-primo-paese-ue-a-dotarsi-di-una-nave-porta-droni",
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Faide interne indeboliscono teocrazia iraniana dopo proteste",
+      "source": "la Repubblica",
+      "summary": "Tre settimane dopo proteste per svalutazione rial, manifestazioni cessano ma cause persistono. La Repubblica Islamica appare vulnerabile per divisioni interne. La situazione minaccia stabilità del regime.",
+      "link": "https://www.repubblica.it/esteri/2026/01/29/news/iran_tramonto_regime_fragile-425124443/?rss",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano Toti di manipolazione dati Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo i pm, il governatore ligure Giovanni Toti ammetteva di aver truccato dati pandemici, dicendo al capo gabinetto Cozzani di aver aumentato contagi. L'indagine rivela alterazioni sistematiche. Il caso solleva questioni su trasparenza gestione Covid.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 257,
+    "categoryCounts": {
+      "society": 3,
+      "politics": 5,
+      "economy": 2
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 6,
+      "middle-east": 2
+    }
+  }
+}

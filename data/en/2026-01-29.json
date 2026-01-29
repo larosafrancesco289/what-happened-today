@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-29",
+  "summary": "Rwanda-backed M23 rebels overran Goma in eastern Democratic Republic of Congo today, routing government troops and plunging the city into chaos with gunfire and shelling. Over one million displaced people are now trapped inside, overwhelming U.N. aid hubs in what aid groups call a spiraling humanitarian emergency. This escalation revives longstanding accusations of Rwandan support for the insurgents, threatening further instability in a mineral-rich region that has seen millions flee violence since 2022 and underscoring how proxy conflicts exacerbate Africa's deadliest displacement crisis.\n\nThe Congo turmoil compounds other humanitarian shocks: floods triggered by heavy rains have killed over 100 people across South Africa, Mozambique, and Zimbabwe this year alone—70 in Zimbabwe, 30 in South Africa—displacing hundreds of thousands and prompting warnings of cholera, hunger, and crocodile attacks in inundated areas. Meanwhile, Italy's coastguard estimates up to 380 migrants drowned last week crossing the Mediterranean as Cyclone Harry battered southern Italy and Malta; a single shipwreck claimed 50 lives, with one survivor hospitalized. These parallel disasters highlight how climate extremes and conflict amplify migration perils and strain global relief efforts.\n\nForward signals are mixed: Israel allowed thousands of displaced Palestinians to trek back to northern Gaza after a hostage-release deal broke a deadlock, offering rare relief in the war-torn enclave. Yet NATO launched its first coordinated response to a severed Baltic Sea cable—suspected sabotage amid a string of underwater attacks—deploying defenses as members eye hybrid threats from Russia, while Donald Trump warned Iran that time is running out for a nuclear deal amid a U.S. military buildup in the Gulf.",
+  "headlines": [
+    {
+      "title": "New York Times Profiles Five Victims Killed by Iranian Forces in Protest Crackdown",
+      "source": "New York Times",
+      "summary": "Iranian authorities killed thousands during nationwide protests, with the New York Times sharing personal stories of five victims. Families mourn losses amid demands for freedom. This highlights ongoing human rights abuses in Iran, drawing global attention to suppressed dissent.",
+      "link": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Italian Coastguard Estimates 380 Drowned Crossing Mediterranean During Cyclone Harry",
+      "source": "The Guardian",
+      "summary": "Up to 380 migrants drowned last week attempting Mediterranean crossing as Cyclone Harry hit southern Italy and Malta; 50 confirmed dead in one shipwreck with single survivor hospitalized. This underscores deadly risks of migration routes amid extreme weather.",
+      "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Breakthrough",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits Gazans to cross military zone back to northern Gaza following hostage release deadlock resolution. Thousands affected by displacement now return on foot. This eases humanitarian crisis in enclave divided by conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO deploys response after another deep-sea cable severed in Baltic Sea amid suspected sabotage campaign targeting critical infrastructure. Alliance members coordinate defenses. This signals heightened security measures against hybrid threats in Europe.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma Trapping Over One Million Displaced in Congo",
+      "source": "Wall Street Journal",
+      "summary": "Rebels defeat Congolese troops and enter Goma, triggering gunfire and shelling; U.N. reports over one million displaced inside city. Aid hub faces overload. This escalates eastern Congo conflict, worsening humanitarian emergency.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Floods Kill Over 100 Displace Hundreds of Thousands Across Southern Africa",
+      "source": "The Guardian",
+      "summary": "Floods since year start kill more than 100 in South Africa, Mozambique, Zimbabwe; over 70 deaths in Zimbabwe, 30 in South Africa, displacing hundreds of thousands. Authorities warn of cholera, hunger, crocodiles. This amplifies regional vulnerability to climate disasters.",
+      "link": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Warns Iran Time Runs Out for Nuclear Deal as US Builds Up Gulf Forces",
+      "source": "BBC",
+      "summary": "US President Trump demands fair nuclear deal or faces armada, amid Gulf military buildup; Iran vows quick retaliation with forces ready. Tensions rise between superpowers. This risks renewed Middle East escalation affecting global energy markets.",
+      "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "China Executes 11 Ringleaders of Myanmar-Based Online Scam Operations",
+      "source": "ABC Australia",
+      "summary": "China carries out executions of 11 key members linked to Myanmar criminal gangs running online scams. Targets include fraud networks preying on victims globally. This deters cross-border cybercrime, signaling Beijing's crackdown on illicit activities.",
+      "link": "https://www.abc.net.au/news/2026-01-29/china-executes-online-scam-ring-leaders-from-myanmar/106284248",
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Shenzhen Gold Trading Platform Collapses Leaving Investors US$1.4 Billion Losses",
+      "source": "South China Morning Post",
+      "summary": "JWR online gold platform shuts down amid gold price rally, causing over 10 billion yuan (US$1.4 billion) losses for tens of thousands of retail investors in Shenzhen. Probe underway. This exposes risks in China's speculative investment boom.",
+      "link": "https://www.scmp.com/economy/china-economy/article/3341633/chinas-gold-fever-sparks-us1-billion-scandal-trading-platform-collapses?utm_source=rss_feed",
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 469,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 2,
+      "politics": 2,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 2,
+      "africa": 2,
+      "global": 1,
+      "asia-pacific": 2
+    }
+  }
+}

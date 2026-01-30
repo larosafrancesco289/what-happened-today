@@ -1,0 +1,94 @@
+{
+  "date": "2026-01-30",
+  "summary": "Tensions in the Middle East spiked as Iran warned the United States of 'unlimited retaliation' using medium-range missiles against its Gulf military assets, following recent U.S. airstrikes on Iran-backed militias. With Tehran's forces within striking distance of key shipping lanes, the threat risks igniting a broader regional war, disrupting global oil supplies already strained by Red Sea attacks and sending crude prices up 2% today. This escalation underscores Iran's precarious position amid domestic protests and proxy losses in Yemen and Iraq.\n\nThe development follows Israel's decision to allow thousands of displaced Palestinians to return on foot to northern Gaza, crossing a military zone after a hostage-release breakthrough in ceasefire talks. Yet humanitarian relief remains fragile, hinging on compliance amid ongoing skirmishes. Meanwhile, in Africa, Rwanda-backed M23 rebels overran Goma in eastern Congo, shelling the aid hub and displacing over a million in a conflict that threatens UN operations; southern Africa's floods have meanwhile killed more than 100 across South Africa, Zimbabwe, and Mozambique, with rains set to continue into February, straining emergency responses in climate-vulnerable nations.\n\nLooking ahead, a SpaceX Falcon 9 launch from Kennedy Space Center carried NASA's Crew-10—astronauts McClain, Ayers, Japan's Onishi, and Russia's Peskov—to the International Space Station, paving the way for the return of stranded duo Wilmore and Williams after nine months. The mission ensures uninterrupted ISS research amid U.S.-Russia cooperation, a rare bright spot in geopolitics.",
+  "headlines": [
+    {
+      "title": "Iran Warns United States of Retaliation Using Medium-Range Missiles in Gulf",
+      "source": "New York Times",
+      "summary": "Iran threatens unlimited retaliation against US attacks, citing military assets in missile range amid heightened tensions. The Islamic Republic faces internal unrest and recent airstrikes. Escalation risks regional war, affecting global oil markets and US allies.",
+      "link": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Floods Kill More Than 100 People Across South Africa, Zimbabwe and Mozambique",
+      "source": "New York Times",
+      "summary": "Heavy rains cause devastating floods in southern Africa, confirming over 100 deaths. Rains continue through February, displacing thousands in affected countries. Event strains emergency resources and highlights climate vulnerability in region.",
+      "link": "https://www.nytimes.com/2026/01/29/world/africa/mozambique-south-africa-flood.html",
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits Gazans to cross military zone back to northern Gaza following hostage release breakthrough. Thousands affected by prior displacement return on foot. Move eases humanitarian crisis but depends on sustained ceasefire compliance.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma City in Eastern Congo",
+      "source": "Wall Street Journal",
+      "summary": "Rebels defeat Congolese troops and enter Goma, prompting gunfire and shelling. Over one million displaced people shelter in the aid hub city. Conflict threatens humanitarian operations and regional stability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Cyclone Causes Shipwreck Killing 50 Migrants Crossing Mediterranean to Italy",
+      "source": "The Guardian",
+      "summary": "Maltese authorities confirm 50 deaths in Friday shipwreck during Cyclone Harry; Italian coastguard estimates 380 total drowned last week. One survivor hospitalized in Malta. Incident underscores dangers of migrant routes amid severe weather.",
+      "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela's Acting President Signs Law Privatizing Oil Sector",
+      "source": "France 24",
+      "summary": "Acting President Delcy Rodriguez approves oil privatization, reversing 20 years of socialist policy after US sanctions ease and Maduro's seizure. US firms expand operations. Shift boosts investment but risks social unrest over resource control.",
+      "link": "https://www.france24.com/en/americas/20260130-venezuela-oil-sector-privatisation-policy-shift",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Nigerian Authorities Foil Coup Plot to Assassinate President Tinubu",
+      "source": "AllAfrica",
+      "summary": "Investigators uncover plot to topple and kill President Tinubu, Vice President Shettima, Senate President Akpabio and Speaker Abbas. Plotters arrested, preventing violence. Event stabilizes government amid political tensions in Africa's largest economy.",
+      "link": "https://allafrica.com/stories/202601300056.html",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck on Space Station",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts McClain and Ayers, Japan's Onishi and Russia's Peskov from Kennedy Space Center. Crew arrives Saturday to enable return of Wilmore and Williams after nine months. Mission ensures continuous ISS operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 449,
+    "categoryCounts": {
+      "conflict": 4,
+      "environment": 2,
+      "politics": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "africa": 3,
+      "global": 2,
+      "americas": 1
+    }
+  }
+}

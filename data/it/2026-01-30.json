@@ -1,0 +1,94 @@
+{
+  "date": "2026-01-30",
+  "summary": "La guerra in Ucraina ha visto un raro momento di tregua annunciata oggi da Donald Trump: Vladimir Putin ha accettato di sospendere per una settimana gli attacchi su civili e infrastrutture energetiche, a causa delle temperature polari a -30°C che hanno lasciato 613 edifici senza riscaldamento. Questa pausa umanitaria, lodata da Volodymyr Zelensky e supportata da 50 milioni di euro di aiuti dall'UE e dalla BEI, segue settimane di bombardamenti russi e arriva mentre negoziati su territori occupati avanzano grazie a mediatori come Steve Witkoff. Per milioni di ucraini, significa un respiro vitale contro il gelo, ma solleva interrogativi su quanto durerà in un conflitto che dura dal 2022.\n\nNel frattempo, l'UE ha equiparato i Pasdaran iraniani a gruppi come Isis e Hamas nella lista terroristica, una mossa storica celebrata da Israele ma contestata da Teheran, che limita drasticamente le attività dei guardiani della rivoluzione in Europa e rafforza le sanzioni esistenti. Questo passo arriva mentre gli Stati Uniti evitano un nuovo shutdown governativo grazie a un accordo bipartisan al Senato, dopo i 43 giorni di paralisi di pochi mesi fa, garantendo continuità a servizi federali e finanzi pubblici per 330 milioni di americani. Parallelo a ciò, il Venezuela ha aperto il settore petrolifero ai privati, con gli USA che allentano sanzioni in risposta, un'inversione dal chavismo per attrarre investimenti e rilanciare un'economia in crisi.\n\nGuardando al futuro, la NASA ha lanciato l'equipaggio di Artemis II verso l'orbita lunare, il primo volo umano intorno alla Luna dal 1972, testando tecnologie per basi permanenti e missioni successive. Questo traguardo, con astronauti NASA a bordo, promette di ridefinire l'esplorazione spaziale nei prossimi anni.",
+  "headlines": [
+    {
+      "title": "Consiglio UE inserisce Pasdaran iraniani nella lista nera terroristica",
+      "source": "la Repubblica",
+      "summary": "Il Consiglio dei ministri degli Esteri UE ha equiparato i Pasdaran, fedelissimi del regime iraniano, a gruppi come Isis e Hamas nella lista dei terroristi. Teheran contesta la decisione, Israele la celebra come storica. La mossa limita le attività iraniane in Europa e rafforza le sanzioni.",
+      "link": "https://www.repubblica.it/esteri/2026/01/30/news/pasdaran_lista_nera_ue_regime_iraniano_terrorista-425126945/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Regione Sicilia ferma mutui e vieta edificazione in 25 kmq per frana Niscemi",
+      "source": "ANSA",
+      "summary": "La frana di Niscemi, definita più grande del Vajont, ha portato allo stop dei mutui e divieto di costruire su 25 kmq. Musumeci avvia inchiesta sugli interventi post-1997. La misura protegge la sicurezza in zona a rischio idrogeologico in Sicilia.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/29/la-frana-di-niscemi-piu-grande-del-vajont-stop-ai-mutui_b5e53227-7619-4e92-8013-23e4362a06fd.html",
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Senato USA approva accordo Democratici-Repubblicani per evitare shutdown",
+      "source": "Euronews Italiano",
+      "summary": "Un accordo bipartisan al Senato ha scongiurato lo shutdown governativo negli Stati Uniti, dopo 43 giorni di fermo pochi mesi fa. Coinvolti Democratici e Repubblicani post-incidente Minneapolis. La decisione garantisce continuità servizi federali e finanzi pubblici.",
+      "link": "http://it.euronews.com/2026/01/30/stati-uniti-raggiunto-accordo-tra-democratici-e-repubblicani-al-senato-per-evitare-lo-shut",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump convince Putin a tregua una settimana sugli attacchi in Ucraina per gelo",
+      "source": "la Repubblica",
+      "summary": "Trump annuncia che Putin ha accettato di fermare attacchi su civili ed energia per 7 giorni causa temperature a -30°C in Ucraina, con 613 edifici senza riscaldamento. Zelensky ringrazia, Witkoff segnala progressi su territori. UE e BEI erogano 50 milioni di aiuti contro il gelo.",
+      "link": "https://www.repubblica.it/esteri/2026/01/30/news/ucraina_tregua_civili_trump_putin_putin_stop_raid_settimana-425126998/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Parlamento venezuelano approva ingresso privati nel settore petrolifero",
+      "source": "TGCOM24",
+      "summary": "Il Parlamento del Venezuela ha dato via libera all'ingresso di privati nel petrolio, con attesa firma della presidente ad interim. USA allentano sanzioni in risposta. L'inversione dal chavismo mira a rilanciare economia e attrarre investimenti esteri.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/venezuela-petrolio-privatizzazione-parlamento_108431500-202602k.shtml",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Consiglio ministri approva decreto Pnrr con semplificazioni normative",
+      "source": "AGI",
+      "summary": "Il Cdm ha varato il decreto Pnrr che introduce semplificazioni come carta d'identità valida 50 anni oltre i 70 anni, tessera elettorale elettronica e misure anti-frode Isee. Proroghe fino a fine anno per fondi. La norma accelera chiusura del piano di ripresa italiana.",
+      "link": "https://www.agi.it/economia/news/2026-01-30/dl-pnrr-ok-del-cdm-semplificazioni-in-arrivo-35345196/",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA lancia equipaggio Artemis II verso orbita lunare dopo 50 anni",
+      "source": "Euronews Italiano",
+      "summary": "La NASA prepara la missione Artemis II con astronauti per primo volo umano verso la Luna dal 1972, in orbita senza atterraggio. Coinvolti equipaggi NASA. La missione testa tecnologie per future esplorazioni lunari e basi permanenti.",
+      "link": "http://it.euronews.com/next/2026/01/30/gli-esseri-umani-tornano-verso-la-luna-dopo-50-anni-tutto-sulla-missione-artemis-ii-della",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Studio dimostra che coricarsi tardi aumenta rischio infarto e ictus",
+      "source": "Euronews Italiano",
+      "summary": "Uno studio rileva che dormire regolarmente fino a tardi eleva il rischio di infarto e ictus per alterazioni ritmi circadiani. Coinvolti ricercatori su larga popolazione. I risultati spingono a regolare orari sonno per prevenzione cardiovascolare.",
+      "link": "http://it.euronews.com/salute/2026/01/30/andare-a-letto-tardi-aumenta-il-rischio-di-infarto-e-ictus-secondo-uno-studio",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 255,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 1,
+      "politics": 3,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "americas": 2,
+      "global": 2
+    }
+  }
+}

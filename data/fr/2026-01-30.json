@@ -1,0 +1,112 @@
+{
+  "date": "2026-01-30",
+  "summary": "Les tensions au Moyen-Orient ont atteint un pic jeudi lorsque Donald Trump, président américain, a déclaré espérer éviter d'attaquer l'Iran, tandis que Téhéran promettait une riposte immédiate à toute agression. Ce bras de fer verbal fait suite à des mois d'escarmouches par procuration via le Hezbollah et les Houthis, et s'intensifie avec le déploiement par Washington du porte-avions Abraham Lincoln dans le golfe Persique. Les bases américaines au Qatar et aux Émirats arabes unis sont désormais vulnérables, exposant des milliers de militaires et civils à un risque d'escalade régionale qui pourrait perturber les flux pétroliers mondiaux et faire grimper les prix de l'énergie pour les ménages ordinaires.\n\nPendant ce temps, en Ukraine, le maire de Kiev Vitali Klitschko a averti en entrevue que la situation se détériorait face à l'invasion russe, après deux ans de conflit qui ont déjà coûté des dizaines de milliers de vies et déplacé des millions. Aux États-Unis, un nouveau shutdown budgétaire menace dès vendredi minuit, centré sur le financement de la police à l'immigration : démocrates et républicains s'affrontent, paralysant potentiellement des services fédéraux essentiels comme les contrôles aux frontières et les aides sociales. Au Brésil, la police fédérale a arrêté un suspect préparant un attentat-suicide djihadiste, avec l'aide du FBI, soulignant la vigilance accrue contre le terrorisme mondial.\n\nVers l'avenir, les premiers ministres provinciaux canadiens, réunis à Ottawa, ont réaffirmé l'unité nationale contre tout séparatisme lors du Conseil de la fédération, un message clair face aux tensions internes. Vendredi matin, la Belgique risque la chute de débris d'un lanceur spatial, selon Belspo, appelant à la vigilance publique ; parallèlement, l'Argentine a déclaré l'urgence incendie en Patagonie pour quatre provinces, mobilisant des ressources nationales pour protéger écosystèmes et populations.",
+  "headlines": [
+    {
+      "title": "Donald Trump espère éviter de frapper l'Iran qui promet de riposter",
+      "source": "RTBF",
+      "summary": "Donald Trump déclare jeudi espérer ne pas attaquer l'Iran, tandis que Téhéran menace de riposter contre toute agression. Cette escalade verbale heightens les tensions au Moyen-Orient, risquant un conflit régional plus large impliquant les alliés américains.",
+      "link": "https://www.rtbf.be/article/trump-dit-esperer-ne-pas-avoir-a-frapper-l-iran-qui-promet-de-riposter-11670542",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Vitali Klitschko affirme que la situation se détériore à Kiev",
+      "source": "Radio-Canada",
+      "summary": "En entrevue, le maire de Kiev Vitali Klitschko déclare que la situation s'aggrave en Ukraine face à l'invasion russe. Il insiste sur la poursuite de la résistance, soulignant l'intérêt pour les Canadiens suivant le conflit de près depuis deux ans.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2224455/guerre-ukraine-vitali-klitschko",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis renforcent bases au Qatar et Emirats face à riposte iranienne possible",
+      "source": "20 Minutes",
+      "summary": "Washington déploie le porte-avions Abraham Lincoln dans le Golfe persique, exposant des bases américaines au Qatar et aux Emirats arabes unis à une éventuelle contre-attaque iranienne. Cela intensifie les risques d'escalade militaire régionale.",
+      "link": "https://www.20minutes.fr/monde/4198826-20260129-tensions-iran-qatar-emirats-bases-americaines-exposees-eventuelle-riposte?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Gouvernement argentin déclare l'urgence incendie dans quatre provinces de Patagonie",
+      "source": "RTBF",
+      "summary": "Le gouvernement argentin annonce jeudi l'état d'urgence incendie en Patagonie pour quatre provinces touchées par des feux de forêt dévastateurs. Cette mesure mobilise ressources nationales, protégeant écosystèmes et populations locales vulnérables.",
+      "link": "https://www.rtbf.be/article/feux-de-foret-en-patagonie-argentine-le-gouvernement-declare-l-urgence-incendies-11670537",
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "États-Unis entrent en paralysie budgétaire à minuit vendredi sur police immigration",
+      "source": "RTBF",
+      "summary": "Trois mois après le dernier shutdown, les États-Unis risquent une nouvelle paralysie budgétaire dès vendredi minuit, centrée sur le financement de la police à l'immigration. Le débat divise démocrates et républicains, impactant services fédéraux.",
+      "link": "https://www.rtbf.be/article/les-etats-unis-vont-connaitre-une-paralysie-budgetaire-la-police-de-l-immigration-au-coeur-du-debat-11670554",
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Police brésilienne arrête homme préparant attentat-suicide djihadiste avec aide FBI",
+      "source": "20 Minutes",
+      "summary": "La police fédérale brésilienne arrête jeudi un suspect planifiant un attentat-suicide djihadiste, soutenu par le FBI américain. Cette opération prévient une menace terroriste imminente, renforçant la coopération internationale en sécurité.",
+      "link": "https://www.20minutes.fr/monde/4198825-20260129-bresil-homme-soupconne-preparer-attentat-djihadiste-arrete-soutien-fbi?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump porte plainte contre fisc américain pour déclarations d'impôts",
+      "source": "Radio-Canada",
+      "summary": "Donald Trump dépose plainte contre l'IRS réclamant 230 millions de dollars suite à un audit sur ses déclarations fiscales. Après une demande au ministère de la Justice en octobre, cela prolonge ses batailles judiciaires fiscales.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2224576/trump-plainte-fisc-americain-declarations-impots",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Belspo alerte sur débris de lanceur spatial tombant en Belgique vendredi matin",
+      "source": "RTBF",
+      "summary": "L'agence spatiale belge Belspo prévient que des débris d'un lanceur spatial risquent de tomber en Belgique vendredi matin. Les autorités appellent à la vigilance, cette rentrée atmosphérique menaçant potentiellement la sécurité publique.",
+      "link": "https://www.rtbf.be/article/les-debris-d-un-lanceur-spatial-pourraient-tomber-en-belgique-vendredi-matin-alerte-belspo-11670529",
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump retire certification du Bombardier Global Express canadien",
+      "source": "Radio-Canada",
+      "summary": "Donald Trump annonce le retrait de la certification FAA pour le jet Bombardier Global Express en riposte au refus canadien de certifier les Gulfstream 500 à 800. Cela affecte l'industrie aéronautique bilatérale et les échanges commerciaux.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2224554/trump-retire-certification-bombardier-global-express",
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Premiers ministres provinciaux prônent unité contre séparatisme au Conseil fédéral",
+      "source": "Radio-Canada",
+      "summary": "Réunis à Ottawa, les premiers ministres canadiens rejettent le séparatisme et affirment l'unité nationale lors du Conseil de la fédération. Ce consensus renforce la cohésion fédérale face aux tensions politiques internes.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2224447/separatisme-conseil-federation-premiers-ministres",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 3,
+    "articlesProcessed": 222,
+    "categoryCounts": {
+      "conflict": 4,
+      "environment": 1,
+      "politics": 3,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 3,
+      "americas": 5
+    }
+  }
+}

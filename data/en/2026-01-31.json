@@ -1,0 +1,95 @@
+{
+  "date": "2026-01-31",
+  "summary": "A catastrophic collapse at the Rubaya coltan mine in eastern Democratic Republic of Congo claimed over 200 lives, exposing the deadly perils of artisanal mining that supplies 15% of the world's coltan—essential for capacitors in smartphones and electric vehicles. The disaster disrupts tantalum supply chains at a time when global demand surges amid the green energy transition, while bereaved families in mineral-rich but impoverished North Kivu province demand accountability from officials probing lax safety standards. This tragedy underscores how Congo's resource curse fuels both technological progress and human suffering.\n\nMeanwhile, the US Justice Department unveiled 3 million pages of Jeffrey Epstein files, shedding light on his sex-trafficking network and naming figures like Donald Trump, Elon Musk, and Prince Andrew alongside government awareness. Victims hail the transparency as a step toward justice, though further scrutiny looms. Across the Middle East, Syria's President Ahmed al-Sharaa sealed a deal to integrate Kurdish-led SDF forces in the northeast, stabilizing post-rebel uncertainties since December 2024 and averting factional clashes. This comes as NATO launched its first coordinated response to suspected sabotage of Baltic Sea cables, deploying assets to counter hybrid threats from Russia amid fraying European infrastructure.\n\nForward-looking, Myanmar's military-backed party claimed victory in elections marred by UN-reported 170 deaths and opposition crackdowns, cementing junta control and dimming hopes for democratic transition as international condemnation mounts. The outcome signals prolonged instability in Southeast Asia, rippling through regional trade and refugee flows.",
+  "headlines": [
+    {
+      "title": "Coltan Mine Collapse Kills Over 200 in Eastern Democratic Republic of Congo",
+      "source": "The Guardian",
+      "summary": "Over 200 people died in a collapse at the Rubaya coltan mine, which supplies 15% of global coltan used in phones and electronics. Miners and tantalum supply chains face disruptions. Officials investigate as families demand accountability.",
+      "link": "https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
+      "category": "environment",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Justice Department Releases 3 Million Pages of Jeffrey Epstein Investigation Files",
+      "source": "Associated Press",
+      "summary": "The US Justice Department disclosed 3 million pages detailing Epstein's sexual abuse network and government knowledge, naming Trump, Musk, Prince Andrew, and others. Victims and public gain transparency; further reviews expected.",
+      "link": "https://apnews.com/article/epstein-files-justice-department-trump-ed743598c320b94bd9d91631618678d9",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Syrian Government Seals Deal to Merge Forces with Kurdish-Led Militia",
+      "source": "New York Times",
+      "summary": "President Ahmed al-Sharaa's government agreed to integrate Kurdish SDF forces in northeastern Syria, ending post-rebel takeover uncertainty from December 2024. Local populations stabilize; integration process begins immediately.",
+      "link": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO responds to severed deep-sea cables in the Baltic Sea amid suspected sabotage targeting critical infrastructure. Alliance members deploy assets; investigations intensify to deter hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Italian Coastguard Reports Up to 380 Migrant Deaths in Mediterranean Cyclone",
+      "source": "The Guardian",
+      "summary": "Cyclone Harry caused up to 380 drownings during migrant crossings near Italy and Malta, with 50 confirmed dead in one shipwreck and one survivor. Migrants from Africa suffer; rescues continue.",
+      "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nevada Jury Convicts Dances With Wolves Actor on 13 Sexual Assault Charges",
+      "source": "South China Morning Post",
+      "summary": "Nathan Chasing Horse faces conviction on 13 counts, mainly for assaulting a 14-year-old indigenous girl. Victims in Native communities secure justice; sentencing follows trial in Las Vegas.",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3341931/dances-wolves-actor-convicted-sexually-abusing-indigenous-girls?utm_source=rss_feed",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Myanmar Election Awards Walkover Victory to Military-Backed Party",
+      "source": "Al Jazeera English",
+      "summary": "Military rulers claim free polls deliver win to their party as UN reports 170 killed during voting. Opposition suppressed; junta consolidates power amid international condemnation.",
+      "link": "https://www.aljazeera.com/news/2026/1/31/myanmar-election-delivers-walkover-win-for-military-backed-political-party?traffic_source=rss",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "US Approves $6.6 Billion Sale of 30 Apache Helicopters to Israel",
+      "source": "Al Jazeera English",
+      "summary": "State Department greenlights sale including 30 Apache attack helicopters and assault vehicles for Israeli forces in Gaza. Defense industry benefits; delivery proceeds amid regional conflicts.",
+      "link": "https://www.aljazeera.com/news/2026/1/31/us-approves-6-6bn-sale-of-attack-helicopters-assault-vehicles-to-israel?traffic_source=rss",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 473,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 3,
+      "conflict": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "africa": 1,
+      "americas": 2,
+      "middle-east": 2,
+      "europe": 2,
+      "asia-pacific": 1
+    }
+  }
+}

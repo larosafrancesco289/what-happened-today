@@ -1,0 +1,112 @@
+{
+  "date": "2026-01-31",
+  "summary": "Les ingénieurs militaires ukrainiens ont une fois de plus freiné l'avancée russe dans l'est du pays, utilisant des moyens limités comme des barricades et des pièges pour contrer les drones et les assauts malgré une infériorité en ressources. Cette résistance tenace, illustrée par des positions tenues à Avdiivka et Bakhmout, expose les soldats à des risques extrêmes et met en lumière les défis techniques de Kiev face à la progression laborieuse de Moscou depuis des mois. Cela survient après que la Russie a endommagé le réseau électrique ukrainien, mais Moscou a accepté une pause des frappes sur Kiev jusqu'à dimanche, offrant un répit humanitaire temporaire aux civils en plein hiver.\n\nAux États-Unis, un nouveau shutdown fédéral a paralysé partiellement les services publics pour refus démocrate du budget de la sécurité intérieure, trois mois après le record historique de 35 jours. Le Sénat a toutefois adopté un texte pour y mettre fin début de semaine prochaine, évitant une prolongation qui aurait pesé sur l'économie. Pendant ce temps, Donald Trump accentue sa marque en nommant Kevin Warsh, ex-gouverneur de la Fed, pour remplacer Jerome Powell en mai – une choix hawkish sur l'inflation – et en déployant des navires dans le golfe Persique avec des menaces contre l'Iran pour sa répression des manifestations.\n\nCe développement fait suite à l'approbation par Washington de ventes d'armes massives à Israël et l'Arabie saoudite, renforçant les alliés face aux tensions régionales alors que Trump hésite sur une intervention en Iran. À plus long terme, le secrétaire général de l'ONU Antonio Guterres a averti d'un effondrement financier imminent sans paiements des États membres, risquant de paralyser les opérations de paix mondiales et soulignant la fragilité des institutions internationales.",
+  "headlines": [
+    {
+      "title": "Ingénieurs militaires ukrainiens bloquent l'armée russe avec moyens limités",
+      "source": "Le Monde",
+      "summary": "Les soldats et ingénieurs ukrainiens du génie militaire contiennent l'avancée russe malgré drones et ressources limitées, dans un contexte de progression lente de Moscou. Cette résistance expose les unités à des risques croissants et illustre les défis techniques de la défense ukrainienne.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/31/bloquer-l-armee-russe-la-mission-impossible-du-genie-militaire-ukrainien_6664851_3210.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Washington approuve ventes d'armes importantes à Israël et Arabie saoudite",
+      "source": "France 24",
+      "summary": "Le gouvernement américain valide vendredi plusieurs ventes d'armes majeures à Israël et l'Arabie saoudite, alliés clés au Moyen-Orient, alors que Trump hésite sur une intervention en Iran. Cela renforce les positions US dans la région face aux tensions persistantes.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260131-iran-en-direct-washington-valide-d-importantes-ventes-d-armes-%C3%A0-isra%C3%ABl-et-l-arabie-saoudite",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Guterres avertit d'un effondrement financier imminent de l'ONU",
+      "source": "RTBF",
+      "summary": "Le secrétaire général de l'ONU Antonio Guterres déclare la trajectoire actuelle intenable et appelle les pays à honorer leurs paiements. Sans mesures rapides, l'organisation risque la paralysie, affectant ses opérations mondiales de paix et d'aide humanitaire.",
+      "link": "https://www.rtbf.be/article/la-trajectoire-actuelle-n-est-pas-tenable-guterres-met-en-garde-contre-un-effondrement-financier-imminent-de-l-onu-11671065",
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Justice américaine publie 2000 vidéos et 180000 images de l'affaire Epstein",
+      "source": "20 Minutes",
+      "summary": "Le ministère de la Justice US libère 3,5 millions de pages de documents, 2000 vidéos et plus de 180000 images liés à Jeffrey Epstein sous pression légale. Cela répond à la loi sur la transparence et éclaire le réseau d'exploitation sexuelle impliquant des figures influentes.",
+      "link": "https://www.20minutes.fr/monde/4199035-20260131-affaire-epstein-2-000-videos-plus-180-000-images-sous-pression-justice-publie-nouveaux-documents?at_medium=display&at_campaign=149",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump nomme Kevin Warsh président de la Réserve fédérale",
+      "source": "20 Minutes",
+      "summary": "Donald Trump choisit Kevin Warsh pour remplacer Jerome Powell à la tête de la Fed, mandat achevé en mai, nomination soumise au Sénat. Ancien gouverneur, Warsh influence la politique monétaire US, impactant inflation et croissance économique mondiale.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4199020-20260130-etats-unis-kevin-warsh-nouveau-patron-fed-choisi-trump?at_medium=display&at_campaign=149",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis entrent en shutdown pour refus démocrate du budget sécurité intérieure",
+      "source": "Le Figaro",
+      "summary": "Les États-Unis subissent un nouveau shutdown trois mois après le record historique, dû au blocage démocrate sur le budget de la sécurité intérieure. Une résolution rapide est espérée pour éviter impacts sur services publics et économie.",
+      "link": "https://www.lefigaro.fr/conjoncture/les-etats-unis-entrent-en-shutdown-une-issue-rapide-esperee-20260131",
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump déploie navires et multiplie menaces contre l'Iran",
+      "source": "France Info",
+      "summary": "Donald Trump envoie des navires dans le golfe Persique et reproche à l'Iran sa répression des manifestations depuis un mois, évoquant un accord flou. Une intervention militaire reste incertaine, mais la pression US vise à modifier le comportement du régime.",
+      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/navires-dans-le-golfe-persique-declarations-fluctuanttes-mais-menacantes-comment-donald-trump-met-la-pression-sur-l-iran_7774340.html#xtor=RSS-3-[lestitres]",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sénat américain adopte texte pour écourter la paralysie budgétaire fédérale",
+      "source": "Radio-Canada",
+      "summary": "Le Sénat US approuve un texte qui devrait mettre fin à la paralysie partielle de l'État fédéral au début de la semaine prochaine, liée au shutdown. Cela restaure les opérations gouvernementales et évite prolongations des perturbations économiques.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2224818/senat-texte-adopte-paralysie-budgetaire",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Moscou accepte pause des frappes sur Kiev jusqu'à dimanche",
+      "source": "Radio-Canada",
+      "summary": "La Russie accepte une trêve dans ses attaques contre Kiev jusqu'à dimanche, après avoir endommagé le réseau énergétique ukrainien en hiver. Cela offre un répit temporaire aux civils et infrastructures, dans le cadre de négociations humanitaires.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2224689/russie-accepte-pause-frappes-kiev",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Police arrête deux journalistes en marge de manifestations à Minneapolis",
+      "source": "Le Monde",
+      "summary": "Les autorités américaines arrêtent Don Lemon à Los Angeles et Georgia Fort lors de manifestations à Minneapolis, les relâchant ensuite. Ces faits questionnent la liberté de la presse face à une justice instrumentalisée par l'exécutif.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/31/etats-unis-la-liberte-de-la-presse-en-question-apres-l-arrestation-de-deux-journalistes-en-marge-des-manifestations-a-minneapolis_6664838_3210.html",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 232,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "economy": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 2,
+      "global": 1,
+      "americas": 5
+    }
+  }
+}

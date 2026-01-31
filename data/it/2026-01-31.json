@@ -1,0 +1,95 @@
+{
+  "date": "2026-01-31",
+  "summary": "Il Dipartimento di Giustizia statunitense ha pubblicato oltre tre milioni di pagine di documenti sul caso Jeffrey Epstein, citando Donald Trump 3.200 volte insieme a Bill Clinton, Bill Gates e il principe Andrea. Molte accuse di sesso con minorenni rimangono non provate, ma la disclosure – chiesta da anni da vittime e opinionisti – promuove trasparenza su abusi nell'élite globale, riaccendendo dibattiti su accountability in vista delle elezioni USA e ricordando come scandali passati influenzino ancora la fiducia pubblica.\n\nNel frattempo, tensioni persistono in Ucraina dove Mosca ha accorciato la tregua energetica da domenica a domani, mentre Zelensky la vede appena iniziata: questa lite sui termini complica i negoziati ad Abu Dhabi, esclusi gli USA, e prolunga sofferenze per milioni senza luce e calore. Parallelo dramma in Congo, dove un crollo in una miniera informale ha ucciso oltre 200 minatori – numero in aggiornamento – evidenziando rischi letali nelle estrazioni di cobalto per batterie elettriche globali, che alimentano sia economie povere sia transizioni green ricche. In Venezuela, la presidente Rodríguez ha proclamato amnistia generale per prigionieri politici, trasformando una prigione simbolo in centro sociale, un passo per alleggerire repressioni post-elettorali e stabilizzare un paese in crisi.\n\nVerso il futuro, Elon Musk valuta la fusione tra SpaceX e xAI secondo il Wall Street Journal, integrando Starlink, X e Grok per data center orbitali che rivoluzionerebbero spazio, IA e social; parallelamente, scienziati parigini e del GFZ hanno brevettato il sistema 'Jerk' su Nature Communications, rilevando eruzioni vulcaniche in tempo reale con un sismometro, potenzialmente salvando vite in zone ad alto rischio come Etna o Vesuvio.",
+  "headlines": [
+    {
+      "title": "Dipartimento di Giustizia USA pubblica tre milioni di pagine su caso Epstein",
+      "source": "AGI",
+      "summary": "Il Dipartimento di Giustizia statunitense ha rilasciato oltre tre milioni di pagine di documenti su Jeffrey Epstein, citando Trump 3.200 volte, Clinton, Gates e principe Andrea. Le accuse includono sesso con minorenni non provate; l'operazione promuove trasparenza pubblica.",
+      "link": "https://www.agi.it/estero/news/2026-01-31/epstein-documenti-usa-svelati-35365158/",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX e xAI valutano fusione secondo Wall Street Journal",
+      "source": "Rai News",
+      "summary": "Il Wall Street Journal riferisce che SpaceX e xAI di Elon Musk valutano fusione, integrando Starlink, X e Grok. Investitori informati sul potenziale; la mossa rivoluziona spazio, social e IA, con data center orbitali in valutazione.",
+      "link": "https://www.rainews.it/articoli/2026/01/wsj-spacex-e-xai-valutano-fusione-la-rivoluzione-nellimpero-di-musk-spazio-7690df92-f27e-481f-906e-4dcbcdd8af7a.html",
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Caracas annuncia amnistia generale per prigionieri politici in Venezuela",
+      "source": "TGCOM24",
+      "summary": "La presidente Rodríguez ha proclamato amnistia per prigionieri politici e convertito una prigione simbolo in centro sociale. La misura alleggerisce tensioni post-repressione; autorità valutano liberazioni immediate per stabilizzare il paese.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/venezuela-caracas-amnistia-prigionieri-politici_108474261-202602k.shtml",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Crollo miniera in Congo causa oltre 200 morti tra i minatori",
+      "source": "TGCOM24",
+      "summary": "Una miniera in Congo è crollata intrappolando minatori sotto macerie, con oltre 200 morti confermate e numero vittime in aggiornamento. Soccorsi in corso; l'incidente evidenzia rischi estremi nelle miniere informali del paese.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/congo-crolla-miniera-200-morti_108470520-202602k.shtml",
+      "category": "environment",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Mosca limita cessate il fuoco in Ucraina fino a domani",
+      "source": "la Repubblica",
+      "summary": "Il Cremlino accorcia tregua energetica in Ucraina da domenica a domani, mentre Zelensky la considera appena iniziata. Lite su durata; vertice ad Abu Dhabi esclude Usa, con negoziati futuri incerti.",
+      "link": "https://www.repubblica.it/esteri/2026/01/31/news/mosca_accorcia_cessate_il_fuoco_ucraina_no_bombe_domani-425129458/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Senato approva modifica ddl stupri su consenso libero e attuale",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il Senato ha approvato emendamento leghista di Giulia Bongiorno al ddl violenza sessuale, distinguendo 'volontà contraria' da 'consenso libero e attuale'. Opposizioni criticano; la norma rafforza definizioni penali per procedimenti giudiziari.",
+      "link": "https://www.ilsole24ore.com/art/ddl-stupri-differenza-volonta-contraria-e-consenso-libero-e-attuale-AINeCp8",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Farmaci antiobesità e antidiabete proteggono salute mentale da depressione",
+      "source": "ANSA",
+      "summary": "Nuovi farmaci come quelli antiobesità e antidiabete riducono rischi di depressione, disturbo bipolare e aumento peso da psicofarmaci. Studi confermano benefici; medici li prescrivono per trattamenti integrati, migliorando qualità vita pazienti.",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/01/30/i-nuovi-farmaci-antiobesita-e-antidiabete-sono-anche-alleati-della-salute-mentale_daab9040-cfcf-462e-8b22-1bf41296c603.html",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Ricercatori creano sistema Jerk per allerta precoce eruzioni vulcaniche",
+      "source": "AGI",
+      "summary": "Scienziati di Parigi e GFZ sviluppano tecnica 'Jerk' su Nature Communications, che rileva segnali precoci eruzioni con un sismometro. Monitoraggio real-time salva vite; testata su vulcani, applicabile globalmente per autorità.",
+      "link": "https://www.agi.it/scienza/news/2026-01-31/previsione-eruzioni-vulcaniche-35356544/",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 256,
+    "categoryCounts": {
+      "politics": 4,
+      "economy": 1,
+      "environment": 1,
+      "conflict": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "africa": 1,
+      "europe": 2,
+      "global": 2
+    }
+  }
+}

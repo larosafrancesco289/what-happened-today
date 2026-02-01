@@ -1,0 +1,110 @@
+{
+  "date": "2026-02-01",
+  "summary": "Il trattato New Start, ultimo baluardo contro la corsa agli armamenti nucleari tra USA e Russia, scade il 5 febbraio senza proroga, aprendo la porta a un'espansione degli arsenali strategici per la prima volta dal 1972. Questa scadenza arriva in un momento di tensioni estreme, seguita da un incontro 'costruttivo' a Miami tra delegazioni USA e russe per discutere passi verso un accordo di pace in Ucraina. Zelensky ha definito la fase 'difficile', mentre la vincitrice Nobel per la Pace Oleksandra Matviichuk bolla la tregua invernale proposta da Putin come una 'farsa', accusando negoziati prematuri di causare più morti e rifiutando cessioni territoriali.\n\nNel frattempo, l'Italia affronta echi della pandemia con i procuratori che accusano il governatore ligure Giovanni Toti di aver manipolato i dati sui contagi COVID, rivelati da intercettazioni con il capo di gabinetto Matteo Cozzani: un caso che espone falle nella gestione sanitaria regionale e apre a procedimenti penali. A Torino, lo sgombero del centro sociale Askatasuna ha scatenato guerriglia con bombe carta e roghi, repressa dalla polizia con lacrimogeni; la premier Meloni lo definisce un pretesto per violenze organizzate, rafforzando le indagini su occupazioni abusive.\n\nGuardando al futuro, Nvidia accelera la corsa all'IA con l'annuncio del CEO Jensen Huang di un investimento fino a 100 miliardi di dollari in OpenAI per 10 gigawatt di potenza di calcolo, garantendo risorse chiave in un mercato competitivo nonostante dubbi iniziali. Intanto, Donald Trump avvia trattative per acquisire la Groenlandia, mirate a risorse artiche, e impiega meme generati da IA – da re a Jedi – per dominare i social, polarizzando il dibattito politico mentre nuovi file Epstein riaccendono accuse contro il principe Andrea con foto incriminanti.",
+  "headlines": [
+    {
+      "title": "Procuratori accusano governatore Toti di manipolare dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo i pm, il governatore Giovanni Toti confessava al capo di gabinetto Matteo Cozzani di aver truccato i numeri sui contagi in Liguria durante la pandemia. L'indagine rivela intercettazioni che provano la manipolazione. Il caso espone irregolarità nella gestione sanitaria regionale e apre a procedimenti penali.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trattato New Start tra USA e Russia scade il 5 febbraio senza limiti nucleari",
+      "source": "AGI",
+      "summary": "Il 5 febbraio termina il New Start, ultimo accordo su armamenti strategici nucleari tra USA e Russia, senza proroga annunciata. Le potenze espanderanno arsenali a lungo raggio per la prima volta dal 1972. La scadenza aumenta tensioni globali e rischi di corsa agli armamenti.",
+      "link": "https://www.agi.it/estero/news/2026-02-01/scadenza-new-start-russia-usa-35372813/",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Nvidia congela accordo da 100 miliardi di dollari con OpenAI per chip IA",
+      "source": "AGI",
+      "summary": "Nvidia blocca il piano di investimento fino a 100 miliardi di dollari in OpenAI dopo dubbi interni, secondo il Wall Street Journal. L'accordo prevedeva 10 gigawatt di potenza di calcolo. OpenAI perde risorse chiave per modelli IA, ritardando sviluppo in mercato competitivo.",
+      "link": "https://www.agi.it/economia/news/2026-02-01/nvidia-openai-accordo-100-miliardi-35366698/",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Delegazioni USA e Russia conducono incontro costruttivo a Miami su pace ucraina",
+      "source": "Euronews Italiano",
+      "summary": "USA e Russia definiscono costruttivo l'incontro a Miami per passi verso accordo di pace in Ucraina. Zelensky descrive la fase come difficile. Le discussioni preparano negoziati futuri, cruciali per risolvere il conflitto e stabilizzare l'Europa orientale.",
+      "link": "http://it.euronews.com/my-europe/2026/01/31/piano-di-pace-in-ucraina-incontro-costruttivo-tra-usa-e-russia-a-miami",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Nobel ucraina Matviichuk critica tregua del gelo di Putin come farsa",
+      "source": "la Repubblica",
+      "summary": "Oleksandra Matviichuk, vincitrice Nobel per la Pace del Center for Civil Liberties, definisce farsa la tregua invernale di Putin e rifiuta cessioni territoriali. Accusa negoziati Trump-Russia di aver causato più morti. L'intervista sottolinea resistenza ucraina e rischi di accordi sfavorevoli.",
+      "link": "https://www.repubblica.it/esteri/2026/02/01/news/nobel_ucraina_matviichuk_tregua_del_gelo_di_putin_una_farsa-425131197/?rss",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Manifestanti lanciano bombe carta e provocano roghi durante sgombero Askatasuna a Torino",
+      "source": "TGCOM24",
+      "summary": "A Torino scoppia guerriglia con bombe carta, roghi e violenze per lo sgombero del centro Askatasuna; polizia risponde con lacrimogeni. Meloni definisce pretesto per azioni organizzate. Le indagini identificano responsabili, rafforzando misure contro occupazioni abusive.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/askatasuna-i-manifestanti-lanciano-bombe-carta-la-polizia-risponde-coi-lacrimogeni_108495424-202602k.shtml",
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "CEO Nvidia Huang annuncia investimento enorme da 100 miliardi in OpenAI",
+      "source": "AGI",
+      "summary": "Jensen Huang, CEO Nvidia, conferma investimento fino a 100 miliardi di dollari in OpenAI per chip avanzati e leadership IA, smentendo malcontento. Annunciato a settembre per 10 gigawatt di calcolo. L'operazione garantisce a OpenAI risorse per competere in IA generativa.",
+      "link": "https://www.agi.it/economia/news/2026-02-01/nvidia-investimento-openai-huang-35374195/",
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump rilancia meme generati da IA nella strategia di comunicazione presidenziale",
+      "source": "AGI",
+      "summary": "La Casa Bianca usa immagini IA di Trump come re, papa o Jedi per dominare social e spostare dibattiti su guerre culturali, etichettate Slopaganda dal Guardian. Esempi recenti influenzano opinione pubblica. La tattica rafforza engagement ma polarizza discorso politico.",
+      "link": "https://www.agi.it/economia/news/2026-02-01/ia-meme-trump-slopaganda-35376248/",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump avvia trattative per acquisire Groenlandia con accordo vantaggioso",
+      "source": "Rai News",
+      "summary": "Il presidente USA Donald Trump annuncia inizio trattative per Groenlandia, definendolo buon accordo per tutti. La mossa mira a espandere influenza artica. Negoziati procedono, con implicazioni geopolitiche per risorse e sicurezza strategica globale.",
+      "link": "https://www.rainews.it/articoli/2026/02/groenlandia-trump-abbiamo-avviato-le-trattative-303a8822-77d2-4421-96aa-4686e823433a.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Nuove foto nei file Epstein coinvolgono principe Andrea secondo accuse vittima",
+      "source": "la Repubblica",
+      "summary": "File Epstein rivelano nuove foto del principe Andrea; una vittima lo accusa di abusi. Starmer e democratici USA chiedono testimonianza in tribunale. Il premier britannico appoggia, riaprendo indagini su rete pedofila e pressione su reali britannici.",
+      "link": "https://www.repubblica.it/esteri/2026/02/01/news/andrea_foto_epstein_starmer-425131296/?rss",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 250,
+    "categoryCounts": {
+      "politics": 6,
+      "economy": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 5,
+      "global": 1,
+      "americas": 4
+    }
+  }
+}

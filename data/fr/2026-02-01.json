@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-01",
+  "summary": "Le président ukrainien Volodymyr Zelensky a annoncé dimanche que Kiev prépare des réunions avec la Russie la semaine prochaine, visant des avancées concrètes dans le conflit déclenché en 2022. Ce signal diplomatique survient après des mois de combats intenses dans l'est de l'Ukraine et de barrages russes sur les infrastructures énergétiques, alors que l'hiver aggrave les souffrances des civils. Si ces discussions aboutissent, elles pourraient redessiner les lignes de front et soulager des millions de personnes déplacées, mais Moscou exige des concessions territoriales que Kiev rejette fermement.\n\nPendant ce temps, une tragédie minière a frappé la République démocratique du Congo : l'effondrement de la plus grande mine de coltan de Rubaya, due à des tunnels trop profonds, a tué près de 200 mineurs artisanaux. Ces opérations informelles fournissent des minerais essentiels pour les batteries et l'électronique mondiale, mais l'instabilité structurelle menace les exportations vitales pour l'économie congolaise. Au Moyen-Orient, Israël a bombardé Gaza tuant 32 personnes samedi – les frappes les plus létales depuis le cessez-le-feu – avant de rouvrir partiellement le passage de Rafah dimanche pour un flux limité d'individus, sous pression égyptienne. En Asie du Sud, des séparatistes baloutches ont lancé des attaques kamikazes au Pakistan, faisant 125 morts dont 92 assaillants, 18 civils et 15 soldats, ravivant l'insurrection dans cette province frontalière.\n\nCes violences interconnectées – de l'Afrique aux confins de l'Eurasie – s'accompagnent d'une escalade verbale : l'Iran a qualifié de terroristes les armées des 27 pays européens en riposte à l'UE, malgré les canaux diplomatiques maintenus par Washington face aux menaces d'intervention de Donald Trump. Au Costa Rica, 3,7 millions d'électeurs votent ce dimanche pour la présidentielle et les législatives, un test crucial pour la démocratie centraméricaine face à la montée du populisme sécuritaire.",
+  "headlines": [
+    {
+      "title": "Effondrement de la mine de Rubaya tue près de 200 mineurs en RDC",
+      "source": "RTBF",
+      "summary": "La mine de coltan de Rubaya, la plus grande en République démocratique du Congo, s'effondre à cause de tunnels trop profonds, causant près de 200 morts. L'instabilité structurelle souterraine menace les opérations minières vitales pour l'export de minerais stratégiques.",
+      "link": "https://www.rtbf.be/article/pres-de-200-morts-dans-la-mine-de-rubaya-en-rdc-avec-des-tunnels-trop-profonds-la-structure-souterraine-n-est-plus-stable-11671452",
+      "category": "environment",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israël bombarde Gaza et rouvre partiellement le passage de Rafah",
+      "source": "Le Monde",
+      "summary": "Des frappes israéliennes tuent 32 personnes samedi à Gaza, les plus meurtrières depuis le cessez-le-feu. Israël rouvre dimanche le passage de Rafah pour un mouvement limité de personnes seulement, sous restrictions strictes, après appel égyptien à la retenue.",
+      "link": "https://www.lemonde.fr/international/article/2026/01/31/a-gaza-12-morts-dans-les-bombardements-israeliens-les-plus-meurtriers-depuis-le-debut-du-cessez-le-feu-selon-le-ministere-de-la-sante-de-l-enclave_6664884_3210.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Volodymyr Zelensky prépare rencontres ukrainiennes avec la Russie la semaine prochaine",
+      "source": "France Info",
+      "summary": "Le président ukrainien Volodymyr Zelensky annonce que Kiev se prépare à des réunions la semaine prochaine pour avancer les négociations avec Moscou. Ces discussions visent des résultats concrets dans le conflit en cours depuis 2022.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-se-prepare-a-des-rencontres-la-semaine-prochaine-pour-faire-avancer-les-negociations-avec-moscou-annonce-volodymyr-zelensky_7776956.html#xtor=RSS-3-[lestitres]",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis et Iran poursuivent diplomatie malgré menaces de Trump",
+      "source": "20 Minutes",
+      "summary": "Washington et Téhéran maintiennent le dialogue diplomatique malgré les menaces d'intervention militaire de Donald Trump contre le régime iranien. Cette tension persiste au milieu de négociations pour éviter une escalade régionale.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4199090-20260201-entre-etats-unis-iran-diplomatie-reste-uvre-fond-menaces-trump?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Séparatistes baloutches attaquent au Pakistan et tuent 125 personnes",
+      "source": "20 Minutes",
+      "summary": "Des attaques kamikazes revendiquées par les séparatistes du Baloutchistan font 92 assaillants, 18 civils et 15 forces de sécurité morts samedi. Ces violences soulignent l'instabilité persistante dans la province pakistanaise.",
+      "link": "https://www.20minutes.fr/monde/4199088-20260201-pakistan-civils-kamikazes-attaques-separatistes-font-plus-100-morts?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Iran qualifie d’organisations terroristes les armées européennes",
+      "source": "Le Figaro",
+      "summary": "En représailles à la décision de l’UE de désigner terroriste les Gardiens de la Révolution, l’Iran déclare terroristes les forces armées des 27 pays européens. Cette escalade diplomatique risque d’aggraver les tensions régionales.",
+      "link": "https://www.lefigaro.fr/international/iran-trump-netanyahou-et-l-europe-ont-attise-les-tensions-lors-des-recentes-manifestations-lache-le-president-iranien-20260131",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Costa Rica élit président et députés au milieu de débats autoritaires",
+      "source": "RFI",
+      "summary": "Les 3,7 millions d’électeurs costaricains votent dimanche 1er février 2026 pour la présidentielle et les législatives. La montée du discours sécuritaire et populiste divise le pays, perçu comme pilier démocratique en Amérique centrale.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260201-%C3%A9lection-pr%C3%A9sidentielle-au-costa-rica-la-tentation-autoritaire-divise-le-pays",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Proches des victimes de l’incendie de Crans-Montana manifestent à Lutry",
+      "source": "France Info",
+      "summary": "Un mois après l’incendie de Crans-Montana en Suisse, les proches manifestent à Lutry et exigent la vérité, alors que 70 blessés restent hospitalisés. L’enquête sur les causes du drame se poursuit pour éviter de futurs incidents.",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-la-colere-des-proches-un-mois-apres-le-drame_7776998.html#xtor=RSS-3-[lestitres]",
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 213,
+    "categoryCounts": {
+      "environment": 2,
+      "conflict": 2,
+      "politics": 4
+    },
+    "regionCounts": {
+      "africa": 1,
+      "middle-east": 3,
+      "europe": 2,
+      "asia-pacific": 1,
+      "americas": 1
+    }
+  }
+}

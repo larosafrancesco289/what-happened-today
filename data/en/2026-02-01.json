@@ -1,0 +1,97 @@
+{
+  "date": "2026-02-01",
+  "summary": "US special envoy Steve Witkoff met Russia's Kirill Dmitriev, Putin's economic adviser, in Florida for constructive talks on ending the Ukraine war, signaling potential diplomatic progress ahead of broader Ukraine-Russia negotiations in Abu Dhabi. This comes as Moscow grapples with plummeting oil revenues—down sharply due to sanctions and market shifts—forcing tax hikes and increased borrowing that strain Russia's war chest and citizens alike. The Kremlin's fiscal woes, detailed in recent reports, weaken its leverage just as the Trump administration pushes for a resolution, altering global energy dynamics and security calculations.\n\nIn Gaza, Israeli strikes killed at least 26 people targeting Hamas commanders near Rafah, according to health officials, even as Israel plans a partial reopening of the crossing after two years to allow limited aid and exits—steps that could advance fragile cease-fire efforts amid mounting civilian tolls. Meanwhile, heavy rains triggered a collapse at a rebel-held coltan mine in Rubaya, eastern Democratic Republic of Congo, killing over 200 miners and disrupting 15% of the world's tantalum supply for smartphones and electronics, with rescue operations ongoing and tech firms bracing for shortages. Across the Atlantic, US Ambassador Laura Dogu landed in Caracas to reopen the American embassy after seven years, easing tensions post-Trump's recent military action and paving the way for prisoner swaps and economic talks that benefit Venezuelan families and US interests.\n\nBrightening the outlook, the Carter Center reported just 10 human Guinea worm cases worldwide in 2025—a record low after decades of work—edging closer to eradicating the debilitating parasite that once afflicted millions, honoring Jimmy Carter's legacy while underscoring global health triumphs amid persistent crises.",
+  "headlines": [
+    {
+      "title": "New Epstein Files Reveal 2003 Emails Between LA Olympics Chair Wasserman and Maxwell",
+      "source": "Associated Press",
+      "summary": "Government releases latest Jeffrey Epstein files containing 2003 emails where LA28 Olympics chairperson Casey Wasserman tells Ghislaine Maxwell he thinks of her often. Wasserman faces scrutiny; Olympics organizers monitor fallout. Ties prominent sports executive to Epstein network, raising ethical concerns ahead of 2028 Games.",
+      "link": "https://apnews.com/article/epstein-maxwell-wasserman-olympics-bf365cd5231304395af05abc3deb9cf7",
+      "category": "society",
+      "region": "global",
+      "importance": "breaking"
+    },
+    {
+      "title": "US Ambassador Dogu Arrives in Caracas to Reopen Diplomatic Mission After Seven Years",
+      "source": "Associated Press",
+      "summary": "US Ambassador Laura Dogu lands in Venezuela's capital to resume operations at the American embassy closed since 2019. Venezuelan government and US citizens benefit from restored ties following Trump's military action last month. Eases bilateral tensions, enables prisoner releases and economic discussions.",
+      "link": "https://apnews.com/article/venezuela-prisoners-ambassador-united-states-80b5262f4254a0325df80c8126650e79",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Coltan Mine Collapse Kills More Than 200 Miners in Eastern Democratic Republic of Congo",
+      "source": "The Guardian",
+      "summary": "Heavy rains trigger collapse at rebel-controlled Rubaya coltan mine, producing 15% of global supply for smartphones and electronics. Miners and local communities suffer massive losses. Rescue efforts continue; incident disrupts tantalum supply chains worldwide, impacting tech manufacturers.",
+      "link": "https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Military Strikes Gaza Killing 26 Targeting Hamas Commanders Near Rafah",
+      "source": "New York Times World",
+      "summary": "Israel conducts attacks in Gaza, killing at least 26 per health officials while targeting Hamas leaders; plans partial Rafah crossing reopening after two years for limited movement. Gaza residents face casualties; crossing aids aid and exits. Advances potential cease-fire steps amid conflict.",
+      "link": "https://www.nytimes.com/2026/01/31/world/middleeast/israel-strikes-gaza-rafah-reopening.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US Envoy Witkoff Holds Constructive Talks on Ukraine with Russian Adviser Dmitriev",
+      "source": "France 24",
+      "summary": "US special envoy Steve Witkoff meets Kirill Dmitriev, Putin's economic adviser, in Florida ahead of Ukraine-Russia talks in Abu Dhabi. Trump administration pushes war end; affects global security. Meetings signal diplomatic progress toward potential peace negotiations.",
+      "link": "https://www.france24.com/en/americas/20260131-us-envoy-witkoff-holds-constructive-ukraine-talks-with-russia",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Carter Center Reports Only 10 Human Guinea Worm Cases Worldwide in 2025",
+      "source": "AllAfrica",
+      "summary": "Global Guinea worm disease hits record low with 10 human cases in 2025, nearing eradication after decades of effort. Affected communities in endemic areas celebrate; Carter Center continues surveillance. Historic milestone honors Jimmy Carter's legacy, prevents painful parasitic infections.",
+      "link": "https://allafrica.com/stories/202601300463.html",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump Instructs Noem to Refrain from Intervening in Democratic Cities Protests Unless Requested",
+      "source": "Associated Press",
+      "summary": "President Trump directs Homeland Security Secretary Kristi Noem to withhold federal aid from protests in Democrat-led cities without local requests. City residents and protesters experience localized policing; federal resources focus elsewhere. Policy respects state rights amid rising demonstrations.",
+      "link": "https://apnews.com/article/trump-democratic-cities-ice-federal-buildings-e14e47e9a55576d6b5750c4dd776aad0",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia Faces Plummeting Oil Revenue Forcing Tax Hikes and Increased Debt",
+      "source": "New York Times World",
+      "summary": "Russia's oil income drops sharply, compelling Kremlin to raise taxes and borrow more amid Ukraine peace talks. Russian economy and citizens bear higher costs; impacts war funding. Weakens Moscow's leverage in negotiations, alters global energy dynamics.",
+      "link": "https://www.nytimes.com/2026/01/31/world/europe/russia-economy-oil.html",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 465,
+    "categoryCounts": {
+      "society": 1,
+      "politics": 3,
+      "environment": 1,
+      "conflict": 1,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "global": 2,
+      "americas": 2,
+      "africa": 1,
+      "middle-east": 1,
+      "europe": 2
+    }
+  }
+}

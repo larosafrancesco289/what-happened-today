@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-02",
+  "summary": "La guerra in Ucraina ha visto un'escalation brutale durante una tregua fragile: droni russi hanno colpito un gruppo di 15 minatori a Zaporizhzhia, uccidendoli e danneggiando un ospedale vicino. Il presidente Zelensky ha definito l'attacco un 'crimine di guerra', che ha fatto slittare le trattative previste oggi a mercoledì ad Abu Dhabi. Questo episodio arriva dopo mesi di stalli sul fronte orientale, dove Kiev lotta per difendere il terreno conquistato, e sottolinea come le pause umanitarie siano sempre più precarie, lasciando i civili – come questi minatori che riparavano infrastrutture – esposti al fuoco nemico.\n\nNel frattempo, conflitti paralleli complicano gli sforzi umanitari: Israele ha intimato a Medici Senza Frontiere (MSF) di lasciare Gaza entro febbraio, richiedendo la lista di tutti i dipendenti per il rifiuto di fornirla, mentre il valico di Rafah riapre con restrizioni severe. Altrove, le urne parlano: in Costa Rica, la conservatrice Laura Fernández, 39 anni, ha trionfato al primo turno con il 49,6% dei voti (su 69,4% scrutinato), promettendo una 'terza repubblica' contro la criminalità dilagante. Negli USA, i democratici hanno confermato un seggio e conquistato una contea trumpiana nelle suppletive texane, un colpo per i repubblicani mentre Trump crolla nei sondaggi nazionali.\n\nGuardando avanti, l'Italia rafforza la sicurezza: la premier Meloni ha convocato a Palazzo Chigi la task force dopo gli incidenti di Torino, con Salvini che spinge fermi preventivi e cauzioni per i cortei. La BCE terrà i tassi al 2% giovedì per la quinta volta, tra incertezze su Trump nonostante la marcia indietro sui dazi a otto paesi europei. Intanto, una ricerca dell'Università di Tel Aviv avverte di una moria di massa di ricci di mare nelle Canarie, rischiando l'estinzione locale e squilibri ecosistemici globali, mentre scienziati identificano un 'interruttore genetico' nei topi contro le cellule adipose, aprendo vie a terapie per obesità e diabete.",
+  "headlines": [
+    {
+      "title": "Droni russi uccidono 15 minatori ucraini durante tregua",
+      "source": "la Repubblica",
+      "summary": "Droni russi hanno colpito un gruppo di minatori in Ucraina, uccidendo 15 persone durante una tregua, e danneggiato un ospedale a Zaporizhzhia. Zelensky definisce l'attacco un crimine. Le trattative previste slittano a mercoledì ad Abu Dhabi.",
+      "link": "https://www.repubblica.it/esteri/2026/02/02/news/strage_minatori_ucraina_droni_russi-425132761/?rss",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Laura Fernandez vince presidenziali Costa Rica con 49,6% voti",
+      "source": "Rai News",
+      "summary": "La conservatrice Laura Fernandez, 39 anni, ha vinto al primo turno le elezioni presidenziali in Costa Rica con il 49,6% dopo lo spoglio del 69,4% delle schede. Priorità alla lotta alla criminalità. Annuncia cambiamenti per una terza repubblica.",
+      "link": "https://www.rainews.it/articoli/2026/02/conservatrice-ex-ministra-laura-fernandez-39-anni-vince-le-elezioni-presidenziali-in-costa-rica-d5bf82f5-1df1-4e0a-8673-1566a3a7fb25.html",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Governo Meloni convoca riunione sicurezza Palazzo Chigi",
+      "source": "Il Sole 24 Ore",
+      "summary": "La premier Meloni riunisce la task force sicurezza dopo gli incidenti di Torino. Salvini rilancia fermo preventivo e cauzione per i cortei. Il pacchetto mira a rafforzare le misure contro la criminalità urbana.",
+      "link": "https://www.ilsole24ore.com/art/sicurezza-riunione-palazzo-chigi-e-salvini-rilancia-fermo-preventivo-e-cauzione-i-cortei-AIjmqvBB",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "BCE mantiene tassi al 2% per quinta riunione consecutiva",
+      "source": "AGI",
+      "summary": "La Banca centrale europea terrà giovedì la riunione senza variazioni sui tassi al 2%, per la quinta volta. L'impennata dell'euro deriva dall'incertezza su Trump, nonostante marcia indietro sui dazi a 8 Paesi europei.",
+      "link": "https://www.agi.it/economia/news/2026-02-02/bce-riunione-tassi-euro-35366711/",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Studio documenta moria globale ricci di mare nelle Canarie",
+      "source": "AGI",
+      "summary": "Ricerca internazionale coordinata da Università Tel Aviv rileva moria di massa ricci di mare nelle Isole Canarie, con rischio estinzione locale di specie chiave. L'evento minaccia ecosistemi marini globali.",
+      "link": "https://www.agi.it/scienza/news/2026-02-02/ricci-mare-estinzione-canarie-35377747/",
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Israele ordina a MSF di lasciare Gaza entro febbraio",
+      "source": "la Repubblica",
+      "summary": "Israele richiede a Medici Senza Frontiere la lista di tutti i dipendenti e intima uscita da Gaza entro febbraio per rifiuto. Il valico di Rafah riapre con restrizioni. Tensioni su operazioni umanitarie.",
+      "link": "https://www.repubblica.it/esteri/2026/02/02/news/israele_msf_via_gaza_febbraio-425132729/?rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Democratici vincono elezioni suppletive Texas contro repubblicani",
+      "source": "TGCOM24",
+      "summary": "Nei supplementari texani, democratici confermano seggio vacante e conquistano contea trumpiana. Sconfitta per repubblicani pesa su Trump, che crolla nei sondaggi nazionali dopo la tornata.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/donald-trump-elezioni-texas-sconfitta-democratici_108554120-202602k.shtml",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Ricercatori identificano interruttore genetico contro cellule adipose",
+      "source": "ANSA",
+      "summary": "Osservato nei topi, interruttore genetico blocca produzione cellule adipose. Scoperta apre a terapie future contro obesità e diabete. Studio pubblicato in biotech promette applicazioni cliniche.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/02/01/ce-un-interruttore-che-blocca-la-produzione-di-cellule-adipose_ff74ec86-30bc-4606-bbb4-983c1df65591.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 259,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "economy": 1,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "americas": 1,
+      "middle-east": 1,
+      "global": 2
+    }
+  }
+}

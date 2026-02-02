@@ -1,0 +1,105 @@
+{
+  "date": "2026-02-02",
+  "summary": "Israel took a significant step toward easing Gaza's humanitarian crisis today, permitting thousands of displaced Palestinians to return on foot to northern areas after resolving a hostage-release deadlock. This follows the extraction of shrapnel from freed Israeli women hostages—held alone in tunnels for eight months since the October 7 attack—highlighting the war's enduring brutality. Hours later, Israel reopened the Rafah crossing after nearly a year, allowing 150 wounded Gazans daily to seek treatment in Egypt and others to reunite with families. These moves signal potential de-escalation in the 14-month conflict, offering relief to 2.3 million residents in the blockaded enclave amid fears of famine.\n\nThe developments coincide with escalating crises elsewhere. In eastern Congo, Rwanda-backed M23 rebels overran government troops and entered Goma amid gunfire, trapping over 1 million displaced people in the key aid hub and threatening U.N. operations in a war-torn region. This comes as NATO launched its first alliance-wide response to suspected sabotage of a Baltic Sea power cable, deploying ships to patrol vital undersea infrastructure after repeated cuts that have heightened fears of hybrid warfare from Russia. Meanwhile, Russia-U.S. talks delayed Ukraine peace negotiations by days, prolonging uncertainty for Kyiv's defenders and global energy markets.\n\nLooking ahead, SpaceX's Crew-10 mission lifted off from Florida with NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov, set to retrieve Butch Wilmore and Suni Williams—stranded nine months on the ISS—and dock by Saturday, restoring full crew operations.",
+  "headlines": [
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Breakthrough",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits Gazans to cross a military zone bisecting the enclave on foot following a hostage release deadlock resolution. Displaced residents return home amid ongoing conflict. This enables thousands to access northern areas previously restricted, signaling potential de-escalation.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Opens Rafah Crossing for 150 Wounded Palestinians to Exit to Egypt Daily",
+      "source": "Al Jazeera English",
+      "summary": "Israel reopens Rafah border after nearly one year, operating six hours daily to let 150 patients leave Gaza for medical care in Egypt. Wounded residents gain evacuation access. Residents can also return to families, easing humanitarian pressures in the blockaded territory.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO deploys its initial alliance-wide operation after another deep-sea cable severs in the Baltic Sea amid sabotage suspicions. Critical infrastructure operators face heightened risks. This sets precedent for defending undersea assets vital to global communications and energy.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Interpol Issues Red Notice for Indonesian Oil Tycoon in US$285 Million Scandal",
+      "source": "South China Morning Post",
+      "summary": "Interpol targets Mohammad Riza Chalid, 66, for arrest over Pertamina corruption from 2018-2023 involving money laundering and lease manipulation totaling US$285 million. Indonesian authorities pursue extradition. This exposes graft in state oil firm, impacting energy sector transparency.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3342062/interpol-issues-red-notice-indonesian-oil-tycoon-us285-million-corruption-scandal?utm_source=rss_feed",
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "SpaceX Launches Crew-10 to Retrieve Two Stuck NASA Astronauts from Space Station",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi and Russia's Kirill Peskov from Florida to the ISS. Butch Wilmore and Suni Williams return after nine months. Routine rotation restores full crew operations by Saturday docking.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia and U.S. Meeting Delays Ukraine Peace Talks by Several Days",
+      "source": "New York Times World",
+      "summary": "Negotiations expected Sunday postpone after Russia-U.S. discussions, with no clear reason stated. Ukrainian and Russian delegates affected by the holdup. Delay prolongs conflict uncertainty, affecting global security and aid flows to Ukraine.",
+      "link": "https://www.nytimes.com/2026/02/01/world/europe/ukraine-russia-us-peace-talks.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Doctors Remove Shrapnel from Freed Hostages Bodies from October 7 Attack",
+      "source": "Wall Street Journal World",
+      "summary": "Medical officials treat women hostages held alone for months in tunnels, extracting shrapnel from the October 7 assault after eight months captivity. Freed Israelis receive ongoing care. Findings highlight attack brutality and long-term health impacts on survivors.",
+      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma Displacing 1 Million",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels seize Goma amid gunfire and shelling, trapping over 1 million displaced people in the aid hub city. Congolese forces retreat as U.N. warns of crisis. Event threatens regional stability and humanitarian operations in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA Conducts Wet Dress Rehearsal for Artemis II Moon Mission Astronauts",
+      "source": "NPR News",
+      "summary": "NASA performs critical fueling tests on the SLS rocket and Orion spacecraft at Kennedy Space Center before Artemis II lunar flyby. Four astronauts prepare for first crewed lunar orbit since Apollo. Successful rehearsal clears path for 2026 launch, advancing U.S. moon return.",
+      "link": "https://www.npr.org/2026/02/01/nx-s1-5695787/artemis-ii-moon-nasa-wet-dress-rehearsal",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 465,
+    "categoryCounts": {
+      "conflict": 3,
+      "society": 1,
+      "economy": 1,
+      "science": 2,
+      "politics": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 2,
+      "asia-pacific": 1,
+      "global": 3,
+      "africa": 1
+    }
+  }
+}

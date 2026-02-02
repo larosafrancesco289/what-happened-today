@@ -1,0 +1,75 @@
+{
+  "date": "2026-02-02",
+  "summary": "La précarité du cessez-le-feu à Gaza, annoncé le 10 octobre 2025 dans le cadre du plan de paix américain, s'est accentuée avec plus de 500 Palestiniens tués depuis lors, tandis que Benyamin Nétanyahou maintient un contrôle sécuritaire israélien strict sur la bande. Ce développement survient alors qu'Israël a ordonné à Médecins sans frontières de quitter Gaza avant le 28 février, après deux ans de guerre contre le Hamas. Cette expulsion risque d'aggraver la crise humanitaire et sanitaire dans une zone dévastée, où les civils peinent déjà à accéder aux soins, soulignant les tensions persistantes au Proche-Orient malgré les trêves internationales.\n\nPendant ce temps, en France, l'Assemblée nationale examine deux motions de censure déposées par le Rassemblement national et La France insoumise contre le Premier ministre Sébastien Lecornu, visant à bloquer l'adoption du budget 2026. Leur rejet quasi certain consolidera son autorité après cinq mois à Matignon, stabilisant un gouvernement minoritaire au milieu des divisions parlementaires. De l'autre côté de l'Atlantique, au Costa Rica, la candidate de droite Laura Fernandez a remporté l'élection présidentielle au premier tour grâce à sa promesse de répression ferme contre la violence liée au narcotrafic, marquant un tournant sécuritaire en Amérique centrale où les cartels gagnent du terrain.\n\nCes mouvements sécuritaires font écho aux Grammys 2026 à Los Angeles, où Bad Bunny est devenu le premier artiste à remporter l'album de l'année avec un disque en espagnol, tandis que plusieurs stars critiquaient l'ICE et l'administration Trump sur l'immigration. Cette soirée illustre l'ascension culturelle latine aux États-Unis, au moment où les débats sur la sécurité et les flux migratoires s'intensifient, annonçant des clivages persistants pour les mois à venir.",
+  "headlines": [
+    {
+      "title": "Assemblée nationale examine deux motions de censure contre Lecornu pour adopter budget 2026",
+      "source": "Le Monde",
+      "summary": "L'Assemblée nationale examine lundi 2 février les deux motions de censure déposées par RN et LFI contre le Premier ministre Sébastien Lecornu. Leur rejet probable permet l'adoption définitive du projet de loi de finances 2026, marquant la consolidation de son autorité après cinq mois à Matignon.",
+      "link": "https://www.lemonde.fr/politique/article/2026/02/02/de-la-nomination-de-sebastien-lecornu-au-vote-du-budget-retour-sur-les-cinq-mois-qui-ont-permis-au-premier-ministre-de-s-imposer_6665043_823448.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Plus de 500 Palestiniens meurent à Gaza depuis cessez-le-feu d'octobre 2025",
+      "source": "Le Monde",
+      "summary": "Depuis le 10 octobre 2025, date du cessez-le-feu annoncé dans le plan américain de paix, plus de 500 Palestiniens ont été tués à Gaza. Benyamin Nétanyahou maintient le contrôle sécuritaire israélien sur la bande, rendant le cessez-le-feu précaire et prolongeant les tensions régionales.",
+      "link": "https://www.lemonde.fr/international/article/2026/02/02/a-gaza-des-morts-quasi-quotidiennes-en-depit-du-cessez-le-feu_6665038_3210.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Avocat de grand-mère d'Émile demande fouilles complémentaires autour du hameau",
+      "source": "France Info",
+      "summary": "L'avocat de la grand-mère du petit Émile requiert aux juges d'instruction d'Aix-en-Provence des fouilles de lieux près du hameau dans l'enquête sur sa mort. Cette démarche vise à relancer les investigations, apportant potentiellement de nouveaux éléments sur la disparition survenue en 2023.",
+      "link": "https://www.franceinfo.fr/faits-divers/disparition-du-petit-emile/info-franceinfo-mort-du-petit-emile-l-avocat-de-la-grand-mere-du-garcon-reclame-des-investigations-complementaires_7779314.html#xtor=RSS-3-[lestitres]",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Laura Fernandez remporte élection présidentielle au Costa Rica au premier tour",
+      "source": "20 Minutes",
+      "summary": "Laura Fernandez, candidate de droite, gagne la présidence du Costa Rica dès le premier tour grâce à sa promesse de répression ferme contre la violence liée au narcotrafic. Cette victoire renforce la droite au pouvoir et marque un tournant sécuritaire dans le pays d'Amérique centrale.",
+      "link": "https://www.20minutes.fr/monde/4199254-20260202-candidate-droite-laura-fernandez-elue-presidente-costa-rica-premier-tour?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Israël ordonne à Médecins sans frontières de quitter Gaza avant 28 février",
+      "source": "20 Minutes",
+      "summary": "Israël impose à l'ONG Médecins sans frontières de quitter la bande de Gaza avant le 28 février, après deux ans de guerre contre le Hamas. Cette expulsion limite l'aide humanitaire dans une zone dévastée, aggravant la crise sanitaire et humanitaire pour les civils.",
+      "link": "https://www.20minutes.fr/monde/israel/4199155-20260202-conflit-israelo-palestinien-ultimatum-aide-humanitaire-israel-met-medecins-frontieres-porte-gaza?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Bad Bunny remporte Grammy du meilleur album pour œuvre en espagnol à Los Angeles",
+      "source": "Le Monde",
+      "summary": "Aux Grammy Awards 2026 à Los Angeles, Bad Bunny devient le premier artiste à gagner l'album de l'année avec un disque en espagnol, tandis que de nombreux artistes critiquent l'ICE et l'administration Trump sur l'immigration. Cette cérémonie souligne l'influence latine et les tensions politiques aux États-Unis.",
+      "link": "https://www.lemonde.fr/culture/article/2026/02/02/aux-grammy-awards-les-artistes-relevent-la-tete-contre-l-ice-et-l-administration-trump_6665060_3246.html",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 192,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 2,
+      "americas": 1,
+      "global": 1
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2026-02-03",
+  "summary": "Israel and Egypt reopened the Rafah border crossing into Gaza on Friday after seven months of closure since May 2024, a critical step easing the enclave's humanitarian crisis amid a fragile ceasefire. The move allows desperately needed aid trucks and civilian evacuations, following Israel's permissions for displaced families to cross a military zone back to northern Gaza and for five patients to exit for medical treatment—though one Palestinian was killed in the process. For Gaza's 2.3 million residents, starved of supplies and medicine, this signals tentative relief but underscores how border access hinges on volatile security pacts.\n\nThis comes as Middle East tensions show glimmers of diplomacy: Iran's president directed his foreign minister to pursue 'fair negotiations' with the United States, paving the way for a Friday meeting in Istanbul between President Trump's Middle East envoy—his son-in-law—and Iran's top diplomat, despite recent U.S. threats. The talks aim to defuse nuclear standoffs and regional clashes, watched closely by policymakers in Tehran and Washington. Meanwhile, Trump's administration faces a federal lawsuit from nonprofits and U.S. citizens challenging its visa suspension for immigrants from 75 countries, nearly half the world's nations, delaying families and workers as courts weigh legality.\n\nLooking ahead, a SpaceX Falcon 9 launched NASA's Crew-10 mission from Kennedy Space Center at 7:03 p.m. Friday, carrying astronauts including Americans Anne McClain and Nichole Ayers to retrieve Butch Wilmore and Suni Williams—stuck aboard the ISS for nine months—docking Saturday for their long-awaited return. House GOP leaders, led by Speaker Mike Johnson, gear up for a Tuesday vote to fund the government and avert a partial shutdown, ensuring continuity for federal workers past key deadlines.",
+  "headlines": [
+    {
+      "title": "Israel and Egypt Reopen Rafah Crossing in Gaza After Months of Closure",
+      "source": "New York Times World",
+      "summary": "Israel and Egypt resume operations at Rafah border crossing, closed since May 2024, enabling aid and civilian movement amid fragile ceasefire. Gazans gain improved humanitarian access; further crossings depend on security agreements.",
+      "link": "https://www.nytimes.com/2026/02/02/world/middleeast/gaza-rafah-border-crossing.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Nonprofits and Citizens Sue Trump Administration Over Visa Freeze on 75 Countries",
+      "source": "NPR News",
+      "summary": "Nonprofit organizations and U.S. citizens file lawsuit challenging Trump administration's suspension of immigrant visas from 75 countries, affecting nearly half the world's nations. Immigrants face delays; courts will decide legality and potential reversal.",
+      "link": "https://www.npr.org/2026/02/02/nx-s1-5696686/visa-freeze-lawsuit-trump",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Kills Palestinian While Allowing Five to Exit Gaza for Medical Care",
+      "source": "Al Jazeera English",
+      "summary": "Israeli forces kill one Palestinian as five others exit Gaza for medical treatment; a dozen re-enter while critical patients remain blocked. Gaza residents suffer health access issues; more exits hinge on border permissions.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 from Florida to Retrieve Stuck Astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 launches Crew-10, including NASA’s Anne McClain and Nichole Ayers, Japan’s Takuya Onishi and Russia’s Kirill Peskov, at 7:03 p.m. Friday from Kennedy Space Center. Astronauts Butch Wilmore and Suni Williams, stuck nine months, prepare return; crew docks Saturday.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Iran President Instructs Foreign Minister to Pursue Negotiations with United States",
+      "source": "Associated Press",
+      "summary": "Iran’s president directs foreign minister to seek fair negotiations with U.S. amid high tensions post-conflict. Iranian citizens and U.S. policymakers watch closely; talks aim to ease nuclear and regional disputes.",
+      "link": "https://apnews.com/article/iran-trump-protests-negotiations-nuclear-deal-9758adb33c0d01c70a07ad7de0f5221b",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "House GOP Leaders Push for Procedural Vote to End Partial Government Shutdown",
+      "source": "Associated Press",
+      "summary": "Speaker Mike Johnson rallies Republicans for Tuesday House vote on bill funding government and averting prolonged shutdown. Federal workers and services face disruption; passage ensures continuity through key deadlines.",
+      "link": "https://apnews.com/article/government-shutdown-ice-funding-471e55ba4c3247051739ee1b50b2857a",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Envoy and Iranian Foreign Minister Plan Meeting in Istanbul",
+      "source": "New York Times World",
+      "summary": "President Trump’s Middle East envoy and son-in-law meet Iran’s foreign minister Friday in Istanbul despite U.S. threats. Both nations seek dialogue; outcome influences Mideast stability and nuclear tensions.",
+      "link": "https://www.nytimes.com/2026/02/02/world/middleeast/us-iran-meeting-trump-threats.html",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Cross into Northern Gaza",
+      "source": "Wall Street Journal World",
+      "summary": "Israel allows Gazans to traverse military zone to northern Gaza after hostage release deadlock breaks. Displaced families return home; movement eases humanitarian crisis in divided enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO coordinates response after deep-sea cable severance in Baltic Sea amid suspected sabotage campaign. European infrastructure and alliances strengthen defenses; investigations identify perpetrators.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Islamic State Claims Militant Attack on Niger Airport and Airbase with Drones",
+      "source": "The Guardian",
+      "summary": "Islamic State militants on motorcycles strike Niamey airport and airbase Thursday using heavy weapons and drones, damaging Ivorian and Togolese planes. Niger security forces counter; Sahel jihadist threat escalates regional instability.",
+      "link": "https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 462,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 4,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "americas": 2,
+      "global": 1,
+      "europe": 1,
+      "africa": 1
+    }
+  }
+}

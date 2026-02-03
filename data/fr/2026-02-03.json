@@ -1,0 +1,85 @@
+{
+  "date": "2026-02-03",
+  "summary": "La nuit du 2 au 3 février 2026 a marqué le retour des frappes russes sur Kiev, blessant deux personnes après une pause observée jusqu'au 1er février suite à une demande de Donald Trump. Cette escalade survient alors que l'Ukraine peine à résister sur le front est, où les forces russes avancent lentement mais sûrement depuis des mois. Les missiles et drones ont visé des infrastructures énergétiques, rappelant les hivers précédents où des millions d'Ukrainiens ont souffert de blackouts prolongés. Pour les habitants de la capitale, cela signifie une menace accrue sur la stabilité quotidienne, alors que Kiev alerte sur un possible hiver de bombardements intensifiés.\n\nAux États-Unis, la paralysie budgétaire fédérale s'aggrave avec le shutdown bloquant le financement du département de la Sécurité intérieure, comme l'a dénoncé Donald Trump qui presse le Congrès d'agir sans délai pour éviter des failles en sécurité nationale et des salaires impayés pour des milliers de fonctionnaires. Cela survient au milieu d'un scandale persistant : Bill et Hillary Clinton ont accepté de témoigner devant le Congrès sur leurs liens avec Jeffrey Epstein, après un refus initial qualifié d'entrave à la justice. Parallèlement, New York déplore 13 morts par hypothermie en 11 jours dus à une vague de froid exceptionnelle, forçant la mairie à renforcer les abris pour sans-abri – un rappel brutal des vulnérabilités climatiques pour les populations précaires.\n\nCes tensions géopolitiques pourraient s'apaiser avec l'approbation du président iranien Massoud Pezeshkian pour des négociations directes avec les États-Unis sur le nucléaire, protégeant les intérêts nationaux sans escalade. Pendant ce temps, Elon Musk défend la fusion SpaceX-xAI, valorisée à 1 250 milliards de dollars, visant à intégrer l'IA dans les ambitions spatiales – un pari audacieux qui pourrait redéfinir la course à l'espace d'ici la fin de la décennie.",
+  "headlines": [
+    {
+      "title": "Bill et Hillary Clinton acceptent de témoigner devant le Congrès sur l'affaire Epstein",
+      "source": "Radio-Canada",
+      "summary": "Bill et Hillary Clinton ont accepté de témoigner devant le Congrès après une procédure d'entrave pour refus initial. Cette décision intervient dans l'enquête sur les liens avec Jeffrey Epstein. Les auditions pourraient révéler de nouveaux éléments sur leurs relations avec le financier décédé.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2225247/affaire-epstein-bill-hillary-clinton-congres",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump exhorte le Congrès à mettre fin sans délai à la paralysie budgétaire de l'État",
+      "source": "Radio-Canada",
+      "summary": "Donald Trump presse le Congrès d'agir immédiatement pour débloquer le financement du département de la Sécurité intérieure, au cœur du shutdown fédéral actuel. Ce blocage paralyse des services essentiels. Une résolution rapide éviterait des impacts sur la sécurité nationale et les fonctionnaires.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2225118/incertitude-congres-americain-paralysie-ice",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "New York déplore 13 morts d'hypothermie causées par la vague de froid exceptionnelle",
+      "source": "20 Minutes",
+      "summary": "Une vague de froid a provoqué 16 décès en 11 jours à New York, dont 13 par hypothermie. La mairie renforce les abris et prises en charge pour sans-abri. Cet événement souligne les risques climatiques extrêmes pour les populations vulnérables aux États-Unis.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4199415-20260202-etats-unis-touchee-vague-froid-exceptionnelle-new-york-deplore-13-morts-hypothermie?at_medium=display&at_campaign=149",
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "La Russie reprend ses frappes sur Kiev et blesse deux personnes dans la nuit",
+      "source": "Le Monde",
+      "summary": "Des frappes russes ont visé Kiev dans la nuit du 2 au 3 février 2026, blessant deux personnes après une pause suite à une demande de Donald Trump jusqu'au 1er février. Les autorités ukrainiennes alertent sur une escalade. Cela menace la stabilité de la capitale et son réseau énergétique.",
+      "link": "https://www.lemonde.fr/international/live/2026/02/03/en-direct-guerre-en-ukraine-la-russie-a-repris-ses-attaques-sur-kiev-apres-quelques-jours-de-pause_6664947_3210.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Belgique planifie la libéralisation du rail d'ici 2032 pour transformer la SNCB",
+      "source": "RTBF",
+      "summary": "La libéralisation du rail belge est prévue d'ici 2032, avec des grèves récentes et suppressions de lignes au centre des débats. Cela impacte la SNCB et ses voyageurs. L'ouverture à la concurrence vise à améliorer services et efficacité, mais inquiète sur l'emploi et la qualité.",
+      "link": "https://www.rtbf.be/article/liberalisation-du-rail-quel-avenir-pour-la-sncb-a-l-horizon-2032-11672234",
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Elon Musk défend la fusion SpaceX-xAI valorisée à 1 250 milliards de dollars",
+      "source": "Le Monde",
+      "summary": "Elon Musk justifie la fusion SpaceX et xAI, créant la société non cotée la plus chère au monde à 1 250 milliards de dollars. Les analystes doutent de sa viabilité face aux leaders en IA. Ce projet vise à intégrer l'IA dans l'espace, boostant ambitions spatiales de Musk.",
+      "link": "https://www.lemonde.fr/economie/article/2026/02/03/fusion-spacex-xai-elon-musk-defend-son-projet-d-ia-d-l-espace-les-analystes-s-interrogent-sur-la-viabilite-de-l-ensemble_6665163_3234.html",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Le président iranien Massoud Pezeshkian approuve des négociations avec les États-Unis",
+      "source": "Le Figaro",
+      "summary": "Massoud Pezeshkian donne son feu vert sur X pour poursuivre les discussions avec les États-Unis, en protégeant les intérêts nationaux sans menaces excessives. Cela recentre sur le nucléaire après tensions. Les pourparlers pourraient apaiser les relations et limiter le programme atomique iranien.",
+      "link": "https://www.lefigaro.fr/international/en-direct-iran-le-president-iranien-donne-son-feu-vert-pour-des-negociations-avec-les-etats-unis-20260203",
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 216,
+    "categoryCounts": {
+      "politics": 3,
+      "environment": 1,
+      "conflict": 1,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "europe": 2,
+      "global": 2
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-02-04",
+  "summary": "La Russie a lancé mardi sa plus massive attaque de drones et missiles de l'année contre l'Ukraine, ciblant principalement les infrastructures énergétiques et causant des coupures massives d'électricité dans plusieurs régions alors que l'hiver s'installe. Cette offensive, impliquant des centaines de projectiles, survient à la veille de pourparlers à Abou Dhabi réunissant négociateurs ukrainiens, russes et américains pour discuter d'un possible cessez-le-feu après quatre ans de guerre dévastatrice. Ce timing souligne les tensions persistantes : Moscou intensifie ses frappes pour affaiblir Kiev militairement, tandis que les diplomates cherchent une issue face à l'épuisement des deux camps et à la lassitude internationale.\n\nEn parallèle, l'instabilité politique secoue d'autres fronts. En France, le parquet a requis quatre ans de prison, dont un ferme, et cinq ans d'inéligibilité contre Marine Le Pen pour détournement présumé de 1,4 million d'euros de fonds européens via des assistants parlementaires du RN, un coup dur pour sa candidature à la présidentielle de 2027 qui pourrait la priver de la course. Aux États-Unis, le Congrès a adopté un texte budgétaire après trois jours de shutdown partiel, signé par Donald Trump, évitant une paralysie plus longue des services fédéraux mais révélant les fractures persistantes au Capitole. En Libye, Seif al-Islam Kadhafi, fils de l'ex-dictateur et recherché par la CPI, a été abattu par des hommes armés dans sa résidence, ravivant les rivalités tribales et miliciennes dans ce pays fracturé depuis 2011.\n\nCes développements annoncent des défis à venir : les talks d'Abou Dhabi pourraient poser les bases d'une trêve ukrainienne, tandis qu'en France, un élève de troisième a grièvement blessé une professeure au couteau à Sanary-sur-Mer – cinquième agression scolaire à l'arme blanche en moins d'un an –, relançant le débat sur la sécurité en milieu éducatif et les mesures préventives urgentes.",
+  "headlines": [
+    {
+      "title": "Parquet requiert quatre ans de prison et cinq ans d'inéligibilité contre Marine Le Pen",
+      "source": "Le Monde",
+      "summary": "Au procès en appel des assistants parlementaires du FN, le parquet a requis mardi quatre ans de prison dont un ferme et cinq ans d'inéligibilité sans exécution provisoire contre Marine Le Pen pour détournement de 1,4 million d'euros. La décision de la cour est attendue prochainement, impactant sa candidature en 2027.",
+      "link": "https://www.lemonde.fr/politique/article/2026/02/04/au-proces-en-appel-des-assistants-du-fn-les-requisitions-du-parquet-il-s-agit-d-une-organisation-systemique-durable-assumee-et-dirigee-par-la-tete-du-parti_6665289_823448.html",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russie lance attaque massive de drones et missiles sur Ukraine avant pourparlers à Abou Dhabi",
+      "source": "Le Monde",
+      "summary": "La Russie a effectué mardi sa plus puissante attaque de drones et missiles de l'année sur l'Ukraine, visant des sites énergétiques. Négociateurs ukrainiens, russes et américains se réunissent à Abou Dhabi pour un nouveau cycle de pourparlers visant un cessez-le-feu après quatre ans de guerre.",
+      "link": "https://www.lemonde.fr/international/live/2026/02/04/en-direct-guerre-en-ukraine-les-negociateurs-ukrainiens-russes-et-americains-se-retrouvent-a-abou-dhabi-pour-un-nouveau-cycle-de-pourparlers_6664947_3210.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Congrès américain adopte texte budgétaire et Trump signe fin du shutdown après trois jours",
+      "source": "20 Minutes",
+      "summary": "Après trois jours de shutdown, la Chambre des représentants a adopté mardi un texte budgétaire que Donald Trump a promulgué, résolvant partiellement la crise budgétaire. Cela évite une paralysie prolongée des services fédéraux et relance les opérations gouvernementales.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4199603-20260204-etats-unis-congres-americain-vote-fin-shutdown-trump-promulgue-loi?at_medium=display&at_campaign=149",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Hommes armés tuent Seif al-Islam Kadhafi recherché par CPI dans sa résidence libyenne",
+      "source": "20 Minutes",
+      "summary": "Seif al-Islam Kadhafi, fils de l'ex-dictateur Mouammar Kadhafi et recherché par la CPI pour crimes contre l'humanité, a été tué lundi à 53 ans par quatre hommes armés dans sa résidence en Libye. Cet événement ravive les tensions dans le pays instable post-2011.",
+      "link": "https://www.20minutes.fr/monde/4199600-20260203-libye-mort-seif-al-islam-kadhafi-fils-celebre-dictateur-defunt-recherche-cpi?at_medium=display&at_campaign=149",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Élève de troisième porte plusieurs coups de couteau à enseignante à Sanary-sur-Mer",
+      "source": "Le Monde",
+      "summary": "Mardi, un élève de troisième a grièvement blessé au couteau une professeure d'arts plastiques à Sanary-sur-Mer, cinquième agression à l'arme blanche dans un établissement scolaire en moins d'un an. L'enquête détermine les circonstances, alimentant le débat sur la sécurité scolaire.",
+      "link": "https://www.lemonde.fr/societe/article/2026/02/03/a-sanary-sur-mer-une-enseignante-grievement-blessee-apres-avoir-ete-poignardee-par-un-eleve_6665285_3224.html",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 219,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 1,
+      "africa": 1
+    }
+  }
+}

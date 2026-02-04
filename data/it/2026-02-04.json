@@ -1,0 +1,104 @@
+{
+  "date": "2026-02-04",
+  "summary": "Le tensioni tra Stati Uniti e Iran hanno raggiunto un picco drammatico nel Golfo Persico, dove le forze americane hanno abbattuto un drone iraniano che si avvicinava pericolosamente a una portaerei Usa, denunciando rischi di collisione e destabilizzazione regionale. L'incidente, avvenuto a poche ore dall'annuncio del presidente Donald Trump di trattative in corso con Teheran, segue l'ordine del presidente iraniano Masoud Pezeshkian al ministro degli Esteri di avviare colloqui 'costruttivi ed equi' con Washington, probabilmente in Oman venerdì. Questa mossa segnala un possibile cambio di rotta della Guida Suprema, aprendo spiragli di de-escalation dopo anni di sanzioni e provocazioni reciproche, con implicazioni per i prezzi del petrolio e la stabilità mediorientale che colpiscono milioni di consumatori globali.\n\nNel frattempo, l'Europa rafforza le difese ucraine con un accordo tra Ue e Stati Uniti: in caso di attacco russo post-tregua, Kiev interviene prima, seguita da europei e americani entro 72 ore. Questo patto di deterrenza arriva mentre a Gaza nove civili, tra cui tre minori e un neonato, perdono la vita in attacchi, con l'Idf sotto accusa per l'impatto sulla popolazione in un conflitto che dura da mesi. Parallelamente, nel Mediterraneo orientale una barca di migranti si scontra con una nave della guardia costiera greca al largo di Chio, causando 14 morti, diversi dispersi e 24 soccorsi, un ennesimo dramma che lega migrazioni forzate ai conflitti regionali.\n\nGuardando avanti, il Congresso Usa ha approvato la legge di bilancio, ponendo fine allo shutdown iniziato a ottobre e stabilizzando i fondi federali per evitare paralisi economica. Sul fronte positivo, esperti Onu dichiarano la dracunculiasi – il verme della Guinea – prossima all'eradicazione, con soli 10 casi nel 2025, seconda solo al vaiolo: un trionfo delle campagne globali che promette di salvare vite in Africa e rafforzare la salute pubblica mondiale.",
+  "headlines": [
+    {
+      "title": "Squadra Mobile Napoli arresta Giuseppe Musella per omicidio sorella Ilenia",
+      "source": "AGI",
+      "summary": "La Squadra Mobile di Napoli ha arrestato Giuseppe Musella, 28 anni, fratello di Ilenia Musella, 22 anni, uccisa ieri con una coltellata alla schiena a Ponticelli. Fermato per omicidio volontario e portato nel carcere di Secondigliano. La lite familiare emerge dalle indagini iniziali.",
+      "link": "https://www.agi.it/cronaca/news/2026-02-04/omicidio-ilenia-musella-napoli-35423946/",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Barca migranti collide con nave guardia costiera greca causando 14 morti a Chio",
+      "source": "Euronews Italiano",
+      "summary": "Un'imbarcazione di migranti si scontra con una nave della guardia costiera greca al largo di Chio, causando 14 morti e diversi dispersi. Ventiquattro sopravvissuti sono stati soccorsi. Proseguono le ricerche in mare, evidenziando i rischi delle rotte migratorie nel Mediterraneo orientale.",
+      "link": "http://it.euronews.com/2026/02/04/tragedia-a-chio-scontro-tra-barca-migranti-e-guardia-costiera-greca-14-morti-e-diversi-dis",
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Attacchi a Gaza uccidono nove persone inclusi tre minori",
+      "source": "la Repubblica",
+      "summary": "Nove persone, tra cui tre minori e un neonato, muoiono in attacchi nella Striscia di Gaza. L'Idf risponde a fuoco contro le truppe israeliane. Le vittime civili sottolineano l'impatto del conflitto sulla popolazione, con indagini in corso sulle responsabilità.",
+      "link": "https://www.repubblica.it/esteri/2026/02/04/news/gaza_attacchi_morti_attacchi_neonato_idf-425137361/?rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Congresso USA approva legge bilancio ponendo fine allo shutdown",
+      "source": "TGCOM24",
+      "summary": "Il Congresso americano approva la legge di bilancio, chiudendo definitivamente lo shutdown iniziato a ottobre e interrotto parzialmente a novembre. I fondi federali riprendono a fluire. La misura evita paralisi governativa e stabilizza l'economia statunitense.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/shutdown-governo-usa-donald-trump-legge-bilancio-congresso_108619254-202602k.shtml",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Presidente iraniano Pezeshkian incarica negoziati equi con USA in Oman",
+      "source": "Euronews Italiano",
+      "summary": "Il presidente iraniano Masoud Pezeshkian ordina al ministro degli Esteri colloqui costruttivi con gli Stati Uniti per ridurre tensioni, con sede probabile in Oman venerdì. La mossa indica cambio di linea della Guida Suprema, aprendo a dialoghi per prevenire conflitti regionali.",
+      "link": "http://it.euronews.com/2026/02/04/iran-presidente-pezeshkian-chiede-colloqui-giusti-ed-equi-con-gli-usa-nuova-sede-in-oman",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Esperti dichiarano verme Guinea prossima seconda malattia eradicata dopo vaiolo",
+      "source": "Euronews Italiano",
+      "summary": "Nel 2025 registrati solo 10 casi di dracunculiasi, il verme della Guinea, in tutto il mondo. La malattia avanza verso l'eradicazione totale, seconda dopo il vaiolo. Campagne globali di prevenzione rafforzano la salute pubblica internazionale.",
+      "link": "http://it.euronews.com/salute/2026/02/04/la-malattia-del-verme-della-guinea-e-vicina-a-diventare-la-seconda-eradicata-dopo-il-vaiol",
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "UE e USA siglano accordo garanzie sicurezza per Kiev con intervento in 72 ore",
+      "source": "la Repubblica",
+      "summary": "UE e Stati Uniti firmano intesa per difendere Kiev: dopo tregua, Ucraina interviene prima, seguita da europei e americani entro 72 ore in caso di attacco russo. L'accordo rafforza deterrenza contro aggressioni, stabilizzando il fronte ucraino.",
+      "link": "https://www.repubblica.it/esteri/2026/02/04/news/garanzie_sicurezza_kiev__accordo_ue_usa-425137025/?rss",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano governatore Toti di manipolazione dati COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo i pm, il governatore ligure Giovanni Toti e il capo gabinetto Matteo Cozzani manipolavano dati pandemici, con Toti che ammetteva di averli truccati. L'indagine rivela alterazioni su contagi per scopi politici, con procedimenti giudiziari in corso.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "USA abbattono drone iraniano vicino portaerei e Trump annuncia trattative Teheran",
+      "source": "TGCOM24",
+      "summary": "Forze USA abbattono drone iraniano vicino a portaerei americana, denunciando rischi di collisione e destabilizzazione. Trump conferma trattative in corso con Teheran. L'incidente e i colloqui segnalano tensioni ma anche passi verso de-escalation regionale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/usa-drone-iran-portaerei_108611374-202602k.shtml",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 259,
+    "categoryCounts": {
+      "society": 2,
+      "conflict": 2,
+      "politics": 4,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 3,
+      "americas": 1,
+      "africa": 1,
+      "global": 1
+    }
+  }
+}

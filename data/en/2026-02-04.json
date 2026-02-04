@@ -1,0 +1,112 @@
+{
+  "date": "2026-02-04",
+  "summary": "Russia hammered Ukraine's power grid with missiles overnight, targeting facilities in Kyiv and beyond, just hours before US-brokered peace talks kick off in Abu Dhabi. The barrage, defying President Trump's call for a pause, has plunged civilians into blackouts amid sub-zero temperatures, exacerbating a winter crisis after repeated strikes on energy infrastructure. This escalation tests the resolve of negotiators from Kyiv, Moscow, and Washington to address eastern territorial disputes and de-escalate a four-year war that has drained global resources.\n\nIn Gaza, thousands of displaced Palestinians streamed back to the north on foot after Israel permitted access following a hostage deal breakthrough, easing strains in the bisected enclave—yet overnight strikes killed at least 10, including a four-year-old girl, while women returning via Rafah reported being bound and interrogated by troops. Meanwhile, Rwanda-backed rebels overran Goma in eastern Congo, defeating government forces in fierce fighting and displacing over one million into the lakeside aid hub, threatening regional stability as gunfire echoes across borders.\n\nThese flare-ups come as a Geneva Academy study tallies over 100,000 civilian deaths—including 18,592 children in Gaza alone—across 23 conflicts in 18 months, underscoring rampant war crimes from torture to rape. NATO's first coordinated response to suspected sabotage of Baltic Sea cables signals bolstered deterrence against hybrid threats, while today's Abu Dhabi talks and NASA's Crew-10 launch to retrieve stranded ISS astronauts hint at glimmers of diplomacy and routine amid chaos.",
+  "headlines": [
+    {
+      "title": "Russia Launches Missiles at Ukraine Power Plants Before Peace Talks",
+      "source": "New York Times World",
+      "summary": "Russia fired missiles overnight at electrical facilities in Kyiv and other Ukrainian regions despite President Trump’s call for a pause. Ukrainian civilians face blackouts in freezing weather. Talks begin today in Abu Dhabi, testing ceasefire prospects.",
+      "link": "https://www.nytimes.com/2026/02/03/world/europe/ukraine-missiles-attack.html",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Palestinians Cross Military Zone Back to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits displaced Gazans to enter northern Gaza following breakthrough in hostage release negotiations. Thousands affected by prior displacement return on foot. Movement eases humanitarian crisis in bisected enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO launches its initial collective action after another deep-sea cable severs in Baltic Sea amid suspected sabotage campaign. Critical infrastructure operators and member states affected. Response bolsters alliance deterrence against hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Study Documents 100,000 Civilian Deaths in 23 Conflicts Over 18 Months",
+      "source": "The Guardian",
+      "summary": "Geneva Academy report details over 100,000 civilian killings, including 18,592 children in Gaza, amid rampant war crimes like torture and rape. Global populations suffer unchecked violations. Findings urge stronger enforcement of humanitarian law.",
+      "link": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
+      "category": "conflict",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "India Supreme Court Orders SIT Probe into Anil Ambani Bank Fraud Case",
+      "source": "The Hindu",
+      "summary": "Supreme Court directs Special Investigation Team to probe allegations against Anil Ambani and ADAG firms, criticizing CBI and ED delays. Banking sector and investors affected. Probe accelerates accountability in major financial misconduct claims.",
+      "link": "https://www.thehindu.com/news/national/supreme-court-orders-sit-probe-anil-ambani-adag-alleged-bank-fraud-case/article70590512.ece",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Israeli Forces Kill 10 Palestinians in Overnight Gaza Attacks",
+      "source": "Al Jazeera English",
+      "summary": "Israeli strikes across Gaza kill at least 10 people, including a four-year-old girl. Gaza residents face ongoing casualties. Attacks heighten tensions amid ceasefire efforts and humanitarian needs.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/4/live-israeli-forces-kill-10-palestinians-in-overnight-attacks-across-gaza?traffic_source=rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukraine and Russia Negotiators Meet in Abu Dhabi for US-Brokered Talks",
+      "source": "France 24",
+      "summary": "Ukraine, Russia, and US teams gather in Abu Dhabi to discuss ending four-year war, focusing on eastern territories. Ukrainian energy infrastructure suffers continued strikes. Talks address core disputes for potential de-escalation.",
+      "link": "https://www.france24.com/en/europe/20260204-live-ukraine-russia-set-to-meet-in-abu-dhabi-for-us-brokered-peace-talks",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Stranded ISS Astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA’s Anne McClain, Nichole Ayers, Japan’s Takuya Onishi, and Russia’s Kirill Peskov from Kennedy Space Center to ISS. Astronauts Butch Wilmore and Suni Williams return after nine months. Mission restores routine rotations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Troops Interrogate Women Returning to Gaza via Rafah Crossing",
+      "source": "Associated Press",
+      "summary": "Women entering Gaza through reopened Rafah crossing from Egypt report troops bound and questioned them. Returnees and families in Khan Younis affected. Incidents complicate aid flow and reunifications post-border reopening.",
+      "link": "https://apnews.com/article/rafah-crossing-gaza-interrogations-israel-cfe0bc79343e2701c7a339f2259770a0",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma Displacing One Million in Congo",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels seize Goma after defeating Congolese troops, prompting gunfire and shelling. Over one million displaced people cram into the aid hub city. Advance threatens regional stability and humanitarian operations.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 466,
+    "categoryCounts": {
+      "conflict": 8,
+      "politics": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 3,
+      "global": 2,
+      "asia-pacific": 1,
+      "africa": 1
+    }
+  }
+}

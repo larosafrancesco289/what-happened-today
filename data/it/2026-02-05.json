@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-05",
+  "summary": "Le forze israeliane hanno condotto raid notturni a Gaza, uccidendo 24 palestinesi tra cui civili in rientro dal valico di Rafah e un operatore della Mezzaluna Rossa palestinese. Questi attacchi, che seguono denunce di procedure umilianti e ritardi negli aiuti umanitari, evidenziano l'escalation del conflitto mentre la popolazione di Gaza affronta fame e sfollamenti: oltre 43.000 morti dall'ottobre 2023. L'episodio, mentre Israele intensifica operazioni contro Hamas, solleva preoccupazioni internazionali per la protezione dei civili e del personale umanitario.\n\nNel frattempo, Washington e Teheran si incontreranno venerdì a Muscat, in Oman, per negoziati sulle tensioni nucleari e regionali, con Steve Witkoff e Jared Kushner coinvolti dal Qatar e Donald Trump che avverte l'ayatollah Khamenei. Questo dialogo arriva mentre i presidenti Xi Jinping e Vladimir Putin, in videochiamata, confrontano strategie contro gli Stati Uniti, rafforzando l'asse eurasiatico che sfida l'Occidente. Antonio Guterres, segretario generale ONU in Italia per le Olimpiadi, denuncia il rischio di collasso dell'istituzione per la 'legge del più forte', invocando multilateralismo sui migranti.\n\nUn barlume di speranza dal fronte scientifico: ricercatori del Wistar Institute di Philadelphia hanno testato con successo un vaccino anti-Hiv su primati non umani, inducendo anticorpi neutralizzanti con una sola dose, come pubblicato su Nature Immunology. Questo sviluppo potrebbe rivoluzionare la lotta all'Aids, semplificando vaccini globali e salvando milioni di vite nei paesi in via di sviluppo, mentre procedono trial umani.",
+  "headlines": [
+    {
+      "title": "Forze israeliane uccidono 24 palestinesi nei raid su Gaza",
+      "source": "la Repubblica",
+      "summary": "Raid israeliani causano 24 morti palestinesi a Gaza, con ingressi e uscite lenti al valico di Rafah e denunce di procedure umilianti. Coinvolti civili in rientro. L'episodio evidenzia l'escalation del conflitto, con rischi per aiuti umanitari.",
+      "link": "https://www.repubblica.it/esteri/2026/02/05/news/gaza_strage_24_palestinesi_uccisi_raid_israeliani-425139380/?rss",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Casa Bianca conferma negoziati Usa-Iran a Muscat venerdì",
+      "source": "AGI",
+      "summary": "Washington e Teheran si incontrano venerdì a Muscat in Oman per discutere tensioni, con Witkoff e Kushner da Qatar. Trump avverte Khamenei. La trattativa segue smentite su Istanbul e interessa la stabilità mediorientale.",
+      "link": "https://www.agi.it/estero/news/2026-02-04/trump-avverte-khamenei-35439008/",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Ricercatori Wistar Institute testano vaccino anti-Hiv su primati",
+      "source": "AGI",
+      "summary": "Un vaccino anti-Hiv induce anticorpi neutralizzanti dopo una sola dose su primati non umani, risultato pubblicato su Nature Immunology. Sviluppato dal Vaccine & Immunotherapy Center di Philadelphia. Potrebbe semplificare protocolli vaccinali globali contro l'Aids.",
+      "link": "https://www.agi.it/salute/news/2026-02-05/vaccino-hiv-funziona-singola-dose-35435146/",
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Guardia di Finanza scopre banca abusiva ad Ancona con 500 vittime",
+      "source": "Rai News",
+      "summary": "Banca abusiva con schema Ponzi ad Ancona movimenta 4 milioni di euro, offre conti e prestiti senza autorizzazioni, ramificazioni in Polonia e Bulgaria. Denunciate 4 persone per truffa e riciclaggio. Indagine protegge risparmiatori italiani.",
+      "link": "https://www.rainews.it/articoli/2026/02/guardia-di-finanza-scopre-banca-abusiva-4-milioni-di-euro-movimentati-500-vittime-in-tutta-italia-ac0d87fd-ebe5-4372-b6c2-0dfc948da9d0.html",
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Guterres avverte rischio collasso Onu per legge del potere globale",
+      "source": "la Repubblica",
+      "summary": "Il segretario generale Onu Antonio Guterres, in Italia per Olimpiadi, denuncia destabilizzazione mondiale e invoca risposte multilaterali sui migranti dal governo italiano. L'intervista sottolinea crisi dell'istituzione internazionale.",
+      "link": "https://www.repubblica.it/esteri/2026/02/05/news/guterres_intervista_onu_rischio_collasso-425139415/?rss",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano Toti di manipolazione dati Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Governatore ligure Giovanni Toti ammette a capo gabinetto Cozzani di aver truccato numeri contagi Covid. Indagine pm rivela aumenti artificiali. Procede inchiesta su falsificazione dati pandemia, con impatti su politiche sanitarie.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Mezzaluna Rossa denuncia uccisione operatore umanitario a Gaza",
+      "source": "TGCOM24",
+      "summary": "Un operatore della Mezzaluna Rossa palestinese muore in Gaza durante conflitto. Croce Rossa Italiana esprime rammarico. L'episodio evidenzia rischi per personale umanitario, con appelli a rispettare civili e aiuti.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/gaza-mezzaluna-rossa-ucciso-un-nostro-operatore-_108654511-202602k.shtml",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Xi Jinping e Putin discutono Stati Uniti in videochiamata",
+      "source": "Euronews Italiano",
+      "summary": "Presidenti Cina e Russia confrontano strategie su tensioni geopolitiche e legami bilaterali, prima di chiamate con Trump. La discussione rafforza alleanza eurasiatica, influenzando equilibri globali contro Occidente.",
+      "link": "http://it.euronews.com/2026/02/05/xi-jinping-discute-di-stati-uniti-e-crisi-globali-nella-videochiamata-con-vladimir-putin",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 257,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "global": 2,
+      "europe": 2,
+      "asia-pacific": 1
+    }
+  }
+}

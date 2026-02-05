@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-05",
+  "summary": "The expiration of the New START treaty has unshackled U.S. and Russian nuclear arsenals for the first time since 1972, erasing the last mutual limits on strategic warheads amid soaring global tensions. The United Nations warned of the highest nuclear risk in decades, as both powers maintain over 1,500 deployed warheads each. This development follows years of fraying arms control—exacerbated by Russia's invasion of Ukraine—and raises fears of a new arms race, with ordinary citizens worldwide facing heightened prospects of escalation in an already volatile era.\n\nThis comes as Ukraine and Russia held a second day of U.S.-brokered peace talks in Abu Dhabi, building on a productive first round with discussions on prisoner swaps and de-escalation steps, though Moscow's hardline demands persist despite ongoing strikes. NATO, meanwhile, launched its first coordinated defense against suspected sabotage after another Baltic Sea cable cut, underscoring hybrid threats from Russia that echo the nuclear standoff. In Gaza, Israeli airstrikes killed 24 Palestinians—the latest in 556 deaths since the U.S.-brokered October ceasefire—straining mediation efforts and deepening the humanitarian crisis for 2.3 million residents.\n\nLooking ahead, Nigeria reels from its deadliest attacks this year, with gunmen slaughtering 162 villagers in Kwara state's Wuru and Nuku communities, prompting calls for security reinforcements against jihadist incursions. In Mozambique, floods have killed 150 and displaced 800,000 in the south and center, as aid ramps up for rebuilding—signaling how climate shocks compound instability in the Global South.",
+  "headlines": [
+    {
+      "title": "Gunmen Kill 162 Residents in Attacks on Two Villages in Western Nigeria",
+      "source": "The Guardian",
+      "summary": "Armed men rounded up and shot 162 residents in Wuru and Nuku villages in Kwara state on Tuesday, marking Nigeria's deadliest attacks this year. Communities face ongoing violence from jihadists. Local leaders demand security reinforcements to prevent further assaults.",
+      "link": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Supreme Court Allows California to Use Democrat-Favoring Congressional Maps",
+      "source": "Associated Press",
+      "summary": "The U.S. Supreme Court rejected Republicans' plea and permitted California's new voter-approved congressional districts for 2026 elections. The maps advantage Democrats. This decision shapes House control amid partisan redistricting disputes nationwide.",
+      "link": "https://apnews.com/article/supreme-court-california-congressional-maps-8362a34b739ea91d37a190eee1b6a6d1",
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Ukraine and Russia Hold Second Day of US-Brokered Peace Talks in Abu Dhabi",
+      "source": "New York Times World",
+      "summary": "Ukrainian, Russian, and U.S. negotiators continue talks in the UAE aiming for peace steps and prisoner exchanges after a productive first day. Russia maintains tough demands despite ongoing attacks on Ukraine. Progress could reduce hostilities.",
+      "link": "https://www.nytimes.com/2026/02/04/world/europe/ukraine-russia-us-peace-talks.html",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO activates coordinated defenses after another deep-sea cable severance in the Baltic Sea amid suspected sabotage of critical infrastructure. Alliance members protect undersea assets. This escalates hybrid threat responses in Europe.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Court Sentences Man to Life Imprisonment for 2024 Trump Assassination Attempt",
+      "source": "BBC World",
+      "summary": "Ryan Routh, 59, receives life sentence for attempting to assassinate Donald Trump in Florida in 2024. Prosecutors note his unrepentance. The ruling deters political violence ahead of elections.",
+      "link": "https://www.bbc.com/news/articles/cre2gjj3pxpo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "New START Treaty Expires Removing US-Russia Limits on Nuclear Stockpiles",
+      "source": "Deutsche Welle",
+      "summary": "The last U.S.-Russia nuclear arms control pact expired, allowing unlimited strategic weapons for the first time since 1972. UN warns of highest nuclear risk in decades. Nations face heightened arms race pressures.",
+      "link": "https://www.dw.com/en/new-start-last-us-russia-nuclear-treaty-expires-raising-fears-of-new-global-arms-race/a-75812014?maca=en-rss-en-top-1022-rdf",
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Strikes Kill 24 Palestinians in Gaza Raising Post-Ceasefire Total to 556",
+      "source": "South China Morning Post",
+      "summary": "Israeli airstrikes killed 24 Palestinians on Wednesday, part of 556 deaths since the October U.S.-brokered ceasefire. Gaza hospitals receive victims amid mediation failures. Violence undermines truce efforts and worsens humanitarian crisis.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3342483/gazas-violent-reality-hundreds-have-been-killed-october-ceasefire?utm_source=rss_feed",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Floods Kill 150 People and Affect 800000 in Southern and Central Mozambique",
+      "source": "Al Jazeera English",
+      "summary": "Torrential floods killed over 150 and displaced 800,000 across Mozambique's southern and central provinces. Victims rebuild homes amid losses. Government coordinates aid as recovery efforts intensify to restore communities.",
+      "link": "https://www.aljazeera.com/features/2026/2/5/we-have-to-rebuild-mozambique-flood-victims-persevere-in-face-of-loss?traffic_source=rss",
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 462,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "environment": 1
+    },
+    "regionCounts": {
+      "africa": 2,
+      "americas": 2,
+      "middle-east": 2,
+      "europe": 1,
+      "global": 1
+    }
+  }
+}

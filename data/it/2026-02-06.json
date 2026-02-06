@@ -1,111 +1,190 @@
 {
   "date": "2026-02-06",
-  "summary": "Gli Stati Uniti e l'Iran hanno avviato oggi a Muscat, in Oman, i primi negoziati diretti sul programma nucleare dopo l'entrata di Washington nella guerra tra Israele e Teheran nel giugno 2025, con raid aerei su siti nucleari iraniani. Il ministro iraniano Abbas Araghchi ha insistito sul 'rispetto reciproco' tra storici nemici, mentre gli USA sondano margini diplomatici per evitare escalation militari. Questi colloqui, complessi per le tensioni recenti, potrebbero influenzare sanzioni, stabilità regionale e prezzi energetici globali, offrendo una rara chance di de-escalation mentre il Medio Oriente resta instabile.\n\nNel frattempo, in Italia Giorgia Meloni ha annunciato un pacchetto sicurezza più duro, criticando i magistrati per 'doppiopesismo' e rafforzando controlli e pene per l'ordine pubblico: il testo passa oggi in Consiglio dei ministri, con Nordio che avverte di nuove Br e Salvini che spinge per cautele. Questo arriva mentre Matteo Salvini azzera l'iter per il Ponte sullo Stretto di Messina, rilanciando i lavori per connettere Sicilia e continente in un dibattito su costi e priorità infrastrutturali. Lo stesso Salvini ha incontrato JD Vance in una cena con Zaia, Tajani e Rubio, preparando il bilaterale Vance-Meloni che rafforza legami Italia-USA su Olimpiadi e altro, dopo frizioni recenti.\n\nGuardando avanti, uno studio su quasi 100mila donne pubblicato oggi mostra che l'intelligenza artificiale rileva precocemente tumori al seno aggressivi, riducendo diagnosi tardive e migliorando sopravvivenza: presto applicabile negli screening mammografici ospedalieri, promette di salvare vite comuni. Intanto, nuove immagini dal carcere di Manhattan rivelano una figura misteriosa ore prima della morte di Jeffrey Epstein nel 2019, riaccendendo dubbi sul suicidio e influenzando indagini su abusi élite.",
+  "summary": "Un attentatore ha sparato diversi colpi contro il generale Vladimir Alekseev, vicecapo dell'intelligence militare russa, in un edificio residenziale di Mosca, ferendolo gravemente. Alekseev è stato ricoverato in ospedale. Il ministro degli Esteri russo Sergej Lavrov accusa Kiev di coinvolgimento, mentre le autorità ucraine non hanno commentato. Il Comitato Investigativo russo conduce le indagini, in un contesto di tensioni tra Russia e Ucraina che potrebbero intensificarsi.\n\nElon Musk ha disattivato i servizi Starlink in territori ucraini occupati e distretti russi, riducendo la precisione dei droni russi Geran 2. Kiev riporta rallentamenti negli assalti russi, rafforzando il vantaggio tecnologico ucraino nel conflitto. Separatamente, un attentato suicida ha colpito una moschea sciita a Islamabad durante la preghiera del venerdì, causando 31 morti e oltre 100 feriti. Le autorità pakistane puntano a gruppi estremisti; le indagini sono in corso e sollevano preoccupazioni sulla sicurezza settaria. Gli Stati Uniti e l'Iran hanno avviato colloqui sul nucleare in Oman, primo incontro dal giugno scorso dopo attacchi Usa su siti iraniani. I negoziati discutono il programma nucleare iraniano e potrebbero ridurre tensioni regionali.\n\nIn Portogallo, inondazioni dal fiume Sado ad Alcácer do Sal hanno causato un morto e evacuazioni in barca; si avvicina la tempesta Marta con venti a 120 km/h e onde a 13 metri, con allarmi per ulteriori danni. Uno studio attribuisce un caso di demenza su otto all'insonnia cronica, fattore modificabile simile a ipertensione. In Italia, il presidente Mattarella ha inaugurato Casa Italia a Milano per le Olimpiadi di Cortina 2026; il governo ha azzerato l'iter per una nuova delibera sul ponte sullo Stretto di Messina. Giudici a Torino hanno condannato otto agenti penitenziari per torture nel carcere Lorusso e Cotugno tra 2017 e 2019; motivazioni su Bibbiano indicano clamore mediatico dannoso per i bambini. Amsterdam ha vietato pubblicità di carne e combustibili fossili negli spazi pubblici. Intercettazioni mostrano il governatore ligure Giovanni Toti ammettere manipolazione dati Covid con Cozzari; l'inchiesta procede.",
   "headlines": [
     {
-      "title": "Meloni introduce stretta sulla sicurezza e critica magistrati per doppiopesismo",
-      "source": "ANSA",
-      "summary": "Giorgia Meloni annuncia misure più dure sulla sicurezza, attacca i magistrati e invoca fine al doppiopesismo; Nordio avverte contro nuove Br, Salvini spinge per cauzione. Il pacchetto passa oggi in Consiglio dei ministri, rafforza controlli e pene per impatto su ordine pubblico.",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/02/05/meloni-vara-la-stretta-sulla-sicurezza.-nordio-evitiamo-le-nuove-br_b49ecb7d-b238-42f0-8cd8-5fea5702a9c2.html",
-      "category": "politics",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "Stati Uniti e Iran iniziano negoziati oggi in Oman sul programma nucleare",
+      "title": "Attentatore ferisce Vladimir Alekseev vicecapo intelligence militare russa a Mosca",
       "source": "AGI",
-      "summary": "Iran e Stati Uniti si incontrano a Muscat per discutere nucleare e altri dossier, primo contatto dopo entrata USA nella guerra Israele-Iran nel giugno 2025 con raid su siti nucleari. Washington verifica margini diplomatici prima di opzioni militari, interessa stabilità regionale.",
-      "link": "https://www.agi.it/estero/news/2026-02-06/programma-nucleare-iran-usa-muscat-trump-35461184/",
-      "category": "politics",
-      "region": "middle-east",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Un attentatore spara diversi colpi contro il generale Vladimir Alekseev in un edificio residenziale di Mosca, ferendolo gravemente. Lo ricoverano in ospedale. Lavrov accusa Kiev di coinvolgimento. L'episodio aumenta tensioni tra Russia e Ucraina, con indagini in corso dal Comitato Investigativo russo.",
+      "link": "https://www.agi.it/estero/news/2026-02-06/attentato-intelligence-russa-35465206/",
+      "tier": "top",
+      "category": "conflict",
+      "region": "europe",
       "importance": "breaking"
     },
     {
-      "title": "Studio su 100mila donne mostra IA individua tumori seno aggressivi precocemente",
+      "title": "Attentatore suicida uccide 31 persone in moschea di Islamabad durante preghiera",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "TGCOM24"
+      ],
+      "summary": "Un attentato suicida colpisce una moschea sciita a Islamabad durante la preghiera del venerdì, causando 31 morti e oltre 100 feriti. Le autorità pakistane confermano l'attacco. Le indagini puntano a gruppi estremisti; l'evento solleva preoccupazioni sulla sicurezza settaria in Pakistan.",
+      "link": "https://www.rainews.it/articoli/2026/02/pakistan-esplosione-in-una-moschea-di-islamabad-oltre-30-morti-e-100-feriti-8ed0cd6a-f7e2-4fa1-a907-838bfea0e34c.html",
+      "tier": "top",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Mattarella inaugura Casa Italia a Milano per Olimpiadi Cortina 2026",
+      "source": "ANSA",
+      "summary": "Sergio Mattarella inaugura Casa Italia a Milano per Milano Cortina 2026. Papa lancia appello per tregua olimpica. Meloni arriva per incontrare Vance e emiro Qatar. L'evento avvia celebrazioni olimpiche, promuovendo unità nazionale e sportiva internazionale.",
+      "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/06/milano-cortina-meloni-arrivata-a-milano-alle-13-lincontro-con-vance_0a3dc58a-f70b-4f0c-adca-342f552b6104.html",
+      "tier": "top",
+      "sources": [
+        "ANSA"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Inondazioni causano un morto in Portogallo mentre arriva tempesta Marta",
       "source": "Euronews Italiano",
-      "summary": "Ricerca su quasi 100mila donne rivela che intelligenza artificiale rileva tumori al seno a crescita rapida e difficili da curare in fase precoce, riducendone il numero diagnosticato tardi. Migliora sopravvivenza e trattamenti, applicabile presto in ospedali per screening mammografici.",
-      "link": "http://it.euronews.com/salute/2026/02/06/ia-possibile-diagnosi-precoce-dei-tumori-al-seno-piu-aggressivi",
+      "summary": "Le peggiori inondazioni da decenni esondano il fiume Sado ad Alcácer do Sal, causando un morto e evacuazioni in barca. Si avvicina la settima tempesta dell'anno, Marta, con venti a 120 km/h e onde a 13 metri. Le autorità preparano allarmi per rischio ulteriori danni.",
+      "link": "http://it.euronews.com/video/2026/02/06/portogallo-le-peggiori-inondazioni-da-decenni-mentre-si-avvicina-la-tempesta-marta",
+      "tier": "top",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ricercatori attribuiscono un caso di demenza su otto all'insonnia cronica",
+      "source": "ANSA",
+      "summary": "Studio identifica insonnia come fattore di rischio modificabile per demenza, simile a ipertensione e perdita udito, responsabile di un caso su otto. Interventi sul sonno potrebbero prevenire casi. La scoperta interessa milioni di anziani per strategie di salute pubblica.",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/02/05/demenza-un-caso-su-8-potrebbe-essere-attribuito-allinsonnia_74ed4544-631a-4e1a-9b3c-e0d689877d2c.html",
+      "tier": "also",
+      "sources": [
+        "ANSA"
+      ],
       "category": "science",
       "region": "global",
       "importance": "notable"
     },
     {
-      "title": "Nuove immagini sorveglianza carcere New York mostrano figura prima morte Epstein",
+      "title": "Elon Musk disattiva Starlink per soldati russi riducendo efficacia droni",
       "source": "la Repubblica",
-      "summary": "Video dal carcere di Manhattan rivela figura arancione misteriosa ore prima del decesso di Jeffrey Epstein nel 2019, riaccende dubbi sul suicidio ufficiale. Procura esamina prove, Epstein collegato a scandali élite, indagine riaperta influisce su casi correlati come rete abusi.",
-      "link": "https://www.repubblica.it/esteri/2026/02/06/news/jeffrey_epstein_nuove_immagini_seminano_dubbi_sul_suicidio-425141935/?rss",
+      "summary": "Musk spegne Starlink in territori ucraini occupati e distretti russi, colpendo droni Geran 2 russi che perdono precisione. Kiev riporta caos e rallentamenti negli assalti. Il blocco rafforza vantaggio tecnologico ucraino nel conflitto.",
+      "link": "https://www.repubblica.it/esteri/2026/02/06/news/musk_spegne_starlink_soldati_russi-425142454/?rss",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Governo azzera iter per nuova delibera su ponte sullo Stretto di Messina",
+      "source": "Il Sole 24 Ore",
+      "summary": "Decreto Salvini sulle infrastrutture azzera iter del ponte sullo Stretto dopo stallo di un mese. Priorità nel pacchetto sicurezza. La mossa riavvia progetto controverso, con impatti su trasporti e economia meridionale.",
+      "link": "https://www.ilsole24ore.com/art/ponte-stretto-iter-azzerato-la-nuova-delibera-AIzWqGHB",
+      "tier": "also",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
       "category": "politics",
-      "region": "americas",
+      "region": "europe",
       "importance": "notable"
     },
     {
-      "title": "Procuratori accusano Toti di manipolare dati contagi COVID in Liguria",
-      "source": "Corriere della Sera",
-      "summary": "Secondo pm, governatore Giovanni Toti ammette ad assistente Matteo Cozzani di aver truccato numeri pandemia, aumentando contagi. Indagine su falsi dati sanitari durante emergenza, processo valuta responsabilità penali per impatto su politiche nazionali e fiducia pubblica.",
-      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
-      "category": "politics",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "Salvini azzera iter per nuova delibera sul Ponte sullo Stretto",
-      "source": "Il Sole 24 Ore",
-      "summary": "Decreto infrastrutture di Matteo Salvini, nel pacchetto sicurezza, rilancia Ponte Messina dopo stallo mensile azzerando procedura precedente. Priorità primo punto agenda, accelera lavori per connettere Sicilia-continente, genera dibattito su costi e opere strategiche nazionali.",
-      "link": "https://www.ilsole24ore.com/art/ponte-stretto-iter-azzerato-la-nuova-delibera-AIzWqGHB",
-      "category": "politics",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "Auto sfonda supermercato Los Angeles causando 3 morti e feriti",
-      "source": "TGCOM24",
-      "summary": "Berlina argentata irrompe in negozio di Los Angeles uccidendo 3 persone e ferendone diverse, immagini mostrano veicolo dentro struttura. Polizia indaga su incidente o dolo, emergenza mobilita soccorsi, colpisce sicurezza urbana e trasporti in grandi città.",
-      "link": "https://www.tgcom24.mediaset.it/mondo/los-angeles-auto-contro-supermercato-tre-morti_108687461-202602k.shtml",
+      "title": "Giudici Torino condannano otto agenti penitenziari per torture in carcere",
+      "source": "Rai News",
+      "summary": "Otto condanne per violenze tra 2017 e 2019 nel carcere Lorusso e Cotugno di Torino: sette per tortura, una per rivelazione atti. Sei prosciolti. La sentenza rafforza lotta contro abusi nelle carceri italiane.",
+      "link": "https://www.rainews.it/articoli/2026/02/torino-otto-condanne-per-gli-agenti-penitenziari-a-processo-per-presunte-violenze-in-carcere-7e94538a-dd41-4ae9-9a4e-b44001ef43d2.html",
+      "tier": "also",
+      "sources": [
+        "Rai News"
+      ],
       "category": "society",
-      "region": "americas",
-      "importance": "breaking"
+      "region": "europe",
+      "importance": "notable"
     },
     {
-      "title": "Araghchi rappresenta Iran nei colloqui Oman con Stati Uniti sul nucleare",
-      "source": "TGCOM24",
-      "summary": "Ministro iraniano Araghchi partecipa negoziati a Muscat con USA su programma nucleare, insiste su rispetto reciproco tra storici nemici. Colloqui complessi dopo tensioni guerra, Teheran cerca de-escalation, monitorati per effetti su sanzioni e Medio Oriente.",
-      "link": "https://www.tgcom24.mediaset.it/mondo/iran-araghchi-in-oman-per-i-colloqui-con-gli-usa-serve-rispetto-reciproco-_108692003-202602k.shtml",
+      "title": "Giudici motivano sentenza Bibbiano: clamore mediatico travolge bambini",
+      "source": "Rai News",
+      "summary": "Motivazioni sentenza Bibbiano: tre condanne sospese contro richieste a 15 anni; clamore mediatico danneggia bambini e famiglie. Il caso evidenzia rischi di processi mediatici su affidamenti minorili.",
+      "link": "https://www.rainews.it/articoli/2026/02/caso-bibbiano-i-giudici-il-clamore-mediatico-ha-travolto-i-bambini-familiari-649ca5e7-4f42-448f-9376-58bd492a02d7.html",
+      "tier": "also",
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Amsterdam vieta pubblicità carne e combustibili fossili negli spazi pubblici",
+      "source": "Euronews Italiano",
+      "summary": "Amsterdam diventa prima città al mondo a proibire pubblicità di carne e fossili negli spazi pubblici, proposta dal 2020. La misura promuove sostenibilità ambientale riducendo consumi impattanti.",
+      "link": "http://it.euronews.com/green/2026/02/06/amsterdam-stop-alla-pubblicita-di-carne-e-combustibili-fossili-negli-spazi-pubblici",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Stati Uniti e Iran avviano colloqui sul nucleare in Oman",
+      "source": "Euronews Italiano",
+      "summary": "Primo incontro diplomatico Usa-Iran dal giugno scorso, dopo attacchi Usa su siti nucleari iraniani. Discutono programma nucleare. I negoziati potrebbero ridurre tensioni regionali e prevenire escalation.",
+      "link": "http://it.euronews.com/2026/02/06/via-ai-colloqui-sul-nucleare-tra-iran-e-stati-uniti-in-oman",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "I colloqui sono partiti oggi in Oman dopo conferma Casa Bianca di ieri su negoziati a Muscat",
+      "sources": [
+        "Euronews Italiano"
+      ],
       "category": "politics",
       "region": "middle-east",
-      "importance": "breaking"
+      "importance": "major"
     },
     {
-      "title": "Margot Robbie e Jacob Elordi presentano Cime Tempestose alla prima londinese",
-      "source": "Rai News",
-      "summary": "Adattamento rivisitato di Cime Tempestose debutta a Londra con Robbie e Elordi in ruoli passionali, film esplora ferite protagonisti oltre cliché sensuali. Cast racconta melodramma doloroso sotto pioggia, atteso rilascio influenza cinema e adattamenti classici.",
-      "link": "https://www.rainews.it/video/2026/02/cime-tempestose-rivisitate-un-melodramma-con-margot-robbie-e-jacob-elordi-497b616a-e7bb-4864-ae03-72b2e78b707b.html",
-      "category": "society",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Vance incontra Meloni oggi dopo cena con Zaia Tajani e Rubio",
-      "source": "la Repubblica",
-      "summary": "JD Vance partecipa cena potenti con Zaia e Tajani, scherza prima bilaterale Italia-USA con Meloni dopo tensioni recenti. Incontro rilancia diplomazia transatlantica su Olimpiadi e altro, Rubio presente rafforza legami bilaterali contro frizioni passate.",
-      "link": "https://www.repubblica.it/esteri/2026/02/06/news/cena_olimpiadi_vance_tavolo_sala_oggi_incontro_meloni-425141856/?rss",
+      "title": "Pm rivelano intercettazioni Toti ammette manipolazione dati Covid Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Intercettazioni mostrano governatore Toti dire a Cozzani di aver aumentato contagi Covid. Indagine su manipolazione dati. Procede inchiesta, con implicazioni su gestione pandemia e responsabilità politiche.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Nuove intercettazioni rivelano ammissioni dirette di Toti su aumento dati contagi, ampliando accuse pm di ieri",
+      "sources": [
+        "Corriere della Sera"
+      ],
       "category": "politics",
       "region": "europe",
-      "importance": "notable"
+      "importance": "breaking"
     }
   ],
   "metadata": {
     "sourcesUsed": 8,
     "articlesProcessed": 252,
     "categoryCounts": {
-      "politics": 7,
+      "conflict": 3,
+      "politics": 4,
+      "environment": 2,
       "science": 1,
       "society": 2
     },
     "regionCounts": {
-      "europe": 5,
-      "middle-east": 2,
-      "global": 1,
-      "americas": 2
+      "europe": 8,
+      "asia-pacific": 1,
+      "global": 2,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6,
+      "developing": 2
     }
   }
 }

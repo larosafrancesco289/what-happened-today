@@ -1,75 +1,208 @@
 {
   "date": "2026-02-06",
-  "summary": "Les États-Unis et l'Iran ont entamé ce 6 février 2026 à Mascate, à Oman, des négociations cruciales sur le programme nucléaire de Téhéran, pilotées par Steve Witkoff pour Washington et Abbas Araghchi pour Téhéran. Téhéran veut limiter les discussions au nucléaire, tandis que les Américains exigent d'aborder les missiles balistiques et l'influence régionale, sous menace explicite de frappes militaires. Ces pourparlers surviennent après des années de tensions post-accord de 2015, abrogé par Trump en 2018, et alors que l'enrichissement d'uranium iranien frôle le niveau militaire, risquant une escalade qui perturberait les marchés pétroliers et menacerait la stabilité du Moyen-Orient pour des millions de civils.\n\nPendant ce temps, la Russie a repris ses frappes massives en Ukraine suite à des discussions stériles entre Kiev et Moscou, prolongeant un conflit qui a déjà causé des centaines de milliers de victimes et des déplacements massifs. Cela survient alors que les gangs armés contrôlent désormais 80 % de Port-au-Prince en Haïti, multipliant les viols contre toutes les tranches d'âge pour terroriser les quartiers, aggravant une crise humanitaire qui complique l'aide internationale dans ce pays caribéen en déliquescence depuis 2022. Aux États-Unis, Donald Trump a contredit son administration sur la présence de Tulsi Gabbard, directrice du renseignement national, lors d'une perquisition du FBI en Géorgie, révélant des fissures internes qui sapent la cohésion de son équipe.\n\nÀ l'horizon, le Canada rétablit pour cinq ans les subventions à l'achat de véhicules électriques et abandonne l'objectif de 60 % de ventes neuves d'ici 2030, une mesure pragmatique face au ralentissement du marché qui pourrait relancer la transition énergétique sans contraindre les constructeurs, influençant d'autres nations dans la course au verdissement.",
+  "summary": "Un attentat-suicide a tué 30 personnes et blessé 130 autres dans une mosquée chiite d'Islamabad vendredi lors de la prière. Un kamikaze a fait exploser sa charge dans la capitale pakistanaise. Les autorités enquêtent sur les auteurs, dans un contexte de tensions sectaires sunnites-chiites. Aucune revendication immédiate n'a été rapportée, et la stabilité régionale reste menacée.\n\nEn Russie, le général Vladimir Alekseïev, premier adjoint du renseignement militaire, a été blessé par des tirs dans un immeuble du nord-ouest de Moscou et hospitalisé. Le Kremlin accuse l'Ukraine d'un acte terroriste, tandis que Kiev n'a pas commenté. Cela aggrave les tensions russo-ukrainiennes au-delà du front. Au Moyen-Orient, les États-Unis et l'Iran ont entamé des négociations à Oman vendredi, premières depuis les frappes américaines de juin. Parallèlement, les Gardiens de la révolution iraniens ont déployé le missile balistique Khorramshahr-4, capable d'atteindre Mach 16 hors atmosphère. Des milieux israéliens estiment réaliste une chute du régime iranien sans le guide suprême Khamenei, doutant de l'efficacité des discussions.\n\nLes dossiers Epstein révèlent un cabinet dentaire mystérieux et une vidéo introuvable, avec des publications continues sur le réseau criminel et ses liens. La France a identifié une opération de désinformation russe via un site usurpant France Soir, publiant un article faux impliquant Emmanuel Macron. Jack Lang, cité 673 fois dans les documents, est convoqué dimanche par le Quai d'Orsay. À Gaza, les réfugiés hésitent à rentrer via le passage de Rafah réouvert par l'Égypte depuis le 1er février, en raison de craintes sécuritaires.",
   "headlines": [
     {
-      "title": "L'Iran et les États-Unis entament négociations nucléaires à Oman sous menace militaire américaine",
-      "source": "Le Monde",
-      "summary": "L'Iran et les États-Unis commencent ce 6 février 2026 à Mascate des pourparlers sur le nucléaire iranien. Téhéran limite le débat au nucléaire, Washington élargit à balistique et influence régionale avec menace de frappes. Piloté par Witkoff et Araghchi, échec risque escalade guerre.",
-      "link": "https://www.lemonde.fr/international/article/2026/02/06/pour-l-iran-sous-la-menace-de-frappes-americaines-les-negociations-de-la-derniere-chance-sur-le-nucleaire_6665611_3210.html",
-      "category": "politics",
-      "region": "middle-east",
-      "importance": "major"
+      "title": "Attentat-suicide tue 30 personnes et blesse 130 dans mosquée chiite d'Islamabad",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "RFI"
+      ],
+      "summary": "Un kamikaze fait exploser sa charge à l'heure de la prière du vendredi dans une mosquée chiite de la capitale pakistanaise, alourdissant le bilan à 30 morts et 130 blessés. Les autorités enquêtent sur les auteurs, soulignant les tensions sectaires qui menacent la stabilité régionale.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/pakistan-un-attentat-suicide-fait-15-morts-et-plus-de-80-blesses-dans-une-mosquee-chiite-20260206_UGPGA4O7NVALXPXTPD6N7PIECE/",
+      "tier": "top",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
     },
     {
-      "title": "Les gangs contrôlent 80% de Port-au-Prince et multiplient violences sexuelles en Haïti",
-      "source": "RFI",
-      "summary": "Depuis 2022, gangs armés contrôlent plus de 80% de Port-au-Prince et font exploser cas de viols contre toutes tranches d'âge pour terroriser quartiers. Cela aggrave insécurité humanitaire, complique aide internationale et stabilisation pays caribéen en crise profonde.",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260206-en-ha%C3%AFti-les-gangs-font-exploser-les-cas-de-violences-sexuelles",
-      "category": "society",
-      "region": "americas",
-      "importance": "major"
-    },
-    {
-      "title": "Trump contredit administration sur présence Gabbard lors perquisition FBI en Géorgie",
-      "source": "Radio-Canada",
-      "summary": "Lors perquisition FBI en Géorgie, Trump contredit membres administration sur présence directrice renseignement national Tulsi Gabbard. Contradictions internes sapent cohésion équipe Trump, soulèvent questions transparence et fiabilité déclarations officielles sur affaire judiciaire.",
-      "link": "https://ici.radio-canada.ca/nouvelle/2225996/perquisition-fbi-georgie-trump-gabbard",
-      "category": "politics",
-      "region": "americas",
-      "importance": "notable"
-    },
-    {
-      "title": "Ottawa rétablit subventions véhicules électriques sur 5 ans et lève objectif 60% d'ici 2030",
-      "source": "Radio-Canada",
-      "summary": "Gouvernement canadien rétablit pour 5 ans subventions achat véhicules électriques et supprime obligation 60% ventes neuves électriques d'ici 2030. Mesure relance adoption VE face ralentissement marché, soutient transition énergétique sans contrainte stricte pour constructeurs.",
-      "link": "https://ici.radio-canada.ca/nouvelle/2225914/retour-subvention-voitures-electriques-federal-carney",
-      "category": "economy",
-      "region": "americas",
-      "importance": "major"
-    },
-    {
-      "title": "Russie reprend frappes en Ukraine après discussions stériles Kiev-Moscou",
-      "source": "20 Minutes",
-      "summary": "Ce 6 février 2026, frappes russes reprennent en Ukraine suite discussions infructueuses entre Kiev et Moscou. Intensification combat prolonge conflit, aggrave souffrances civiles et défis aide internationale, complique perspectives paix dans guerre prolongée.",
-      "link": "https://www.20minutes.fr/monde/ukraine/4200009-20260206-direct-guerre-ukraine-apres-discussions-steriles-frappes-russes-repris?at_medium=display&at_campaign=149",
+      "title": "Général russe Vladimir Alekseïev blessé par tirs à Moscou",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "RFI"
+      ],
+      "summary": "Premier adjoint du renseignement militaire russe hospitalisé après coups de feu dans un immeuble du nord-ouest de la capitale. Kremlin accuse Ukraine d'acte terroriste, aggravant les tensions russo-ukrainiennes au-delà du front.",
+      "link": "https://www.liberation.fr/international/europe/un-haut-responsable-militaire-russe-blesse-par-des-tirs-a-moscou-20260206_DWE3GBHBFVDG3BYOMRMB3VTOJU/",
+      "tier": "top",
       "category": "conflict",
       "region": "europe",
       "importance": "major"
     },
     {
-      "title": "Personnel hôpital Montreuil exprime trahison après violences sexuelles sur nourrissons",
-      "source": "Liberation",
-      "summary": "Après révélations Libération sur viols bébés en néonatalogie hôpital André-Grégoire Montreuil, soignants expriment choc et défiance familles. Sentiment trahison érode confiance interne, pousse réexamen protocoles sécurité pour prévenir récidive et restaurer crédibilité établissement.",
-      "link": "https://www.liberation.fr/societe/police-justice/on-se-demande-ce-quon-a-rate-apres-les-violences-sexuelles-sur-des-nourrissons-a-montreuil-le-sentiment-de-trahison-du-personnel-de-lhopital-20260206_OQ6WPJC5X5ECJBTZV2EOU54LZM/",
+      "title": "États-Unis et Iran entament négociations à Oman",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "Le Monde"
+      ],
+      "summary": "Téhéran et Washington se rencontrent vendredi à Oman pour premières discussions depuis frappes américaines de juin, malgré armada navale de Trump et répression sanglante en Iran. Enjeu majeur pour désamorcer escalade militaire régionale.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2226247/teheran-washington-negociations-oman",
+      "tier": "top",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "France identifie opération de désinformation russe sur Epstein visant Macron",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Viginum détecte site usurpant France Soir publiant article faux impliquant Emmanuel Macron dans affaire Epstein. Opération russe vise à semer discorde, renforçant vigilance contre ingérences étrangères en pleine publication des dossiers.",
+      "link": "https://www.lefigaro.fr/international/affaire-epstein-la-france-a-identifie-une-operation-de-desinformation-liee-a-la-russie-visant-emmanuel-macron-20260206",
+      "tier": "top",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Gardiens de la révolution iraniens déploient missile Khorramshahr-4",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Nouveau missile balistique atteint Mach 16 hors atmosphère et Mach 8 dedans, déployé par Gardiens face à pressions américaines. Renforce posture défensive de Téhéran lors négociations à Oman, impactant équilibre Moyen-Orient.",
+      "link": "https://www.20minutes.fr/monde/4200071-20260206-iran-quoi-missile-khorramshahr-4-gardiens-revolution-viennent-deployer?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Magistrate de Grenoble et sa mère libérées après 30 heures de séquestration",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Liberation",
+        "France Info"
+      ],
+      "summary": "Deux femmes enlevées en Isère pour rançon liée à cryptomonnaies retrouvées blessées à Bourg-lès-Valence. Compagnon de magistrate investisseur crypto visé, illustrant hausse des 'cryptorapt' en France.",
+      "link": "https://www.lemonde.fr/societe/article/2026/02/06/enlevements-lies-aux-cryptomonnaies-une-magistrate-et-sa-mere-liberees-apres-leur-enlevement-et-leur-sequestration_6665660_3224.html",
+      "tier": "also",
       "category": "society",
       "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Femme de 92 ans tue trois personnes en encastrant voiture dans magasin de Los Angeles",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Conductrice perd contrôle de véhicule percutant commerce, causant trois morts et six blessés. Accident met en lumière enjeux mobilité personnes âgées aux États-Unis, avec enquêtes en cours.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4200083-20260206-etats-unis-femme-92-ans-perd-controle-voiture-encastre-magasin-trois-personnes-tuees?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Réfugiés gazaouis hésitent à rentrer via passage de Rafah réouvert",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Depuis 1er février, Égypte autorise retours limités mais peur freine familles palestiniennes au Caire. Dilemme humanitaire persiste malgré réouverture, prolongeant crise réfugiés Gaza.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260206-r%C3%A9ouverture-du-passage-de-rafah-rentrer-ou-rester-le-dilemme-des-r%C3%A9fugi%C3%A9s-gazaouis-en-%C3%A9gypte",
+      "tier": "also",
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Militants contestent ouverture des JO d'hiver 2026 à Milan",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Pressions montent en Lombardie contre jeux Milan-Cortina, avec manifestations visibles. Contestations environnementales et sociales challengent organisation, influençant image événement.",
+      "link": "https://www.lemonde.fr/sport/article/2026/02/06/jo-2026-en-images-a-milan-les-jeux-s-ouvrent-sous-la-pression-des-militants_6665631_3242.html",
+      "tier": "also",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Assemblée enterre vingt mesures du budget 2026 après débats",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Taxe Zucman et abattement fiscal retraités abandonnés malgré six mois discussions. Décisions reflètent arbitrages politiques, impactant finances publiques et équité fiscale française.",
+      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/02/06/budget-2026-ces-mesures-enterrees-apres-six-mois-de-debats-intenses_6665663_4355770.html",
+      "tier": "also",
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Dossiers Epstein révèlent cabinet dentaire mystérieux et vidéo introuvable",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Publication continue des 'Epstein Files' expose détails dérangeants sur réseau criminel et liens puissants. Intérêt public grandit pour implications judiciaires persistantes.",
+      "link": "https://madame.lefigaro.fr/societe/actu/le-mysterieux-cabinet-dentaire-l-introuvable-video-de-torture-les-revelations-les-plus-perturbantes-des-dossiers-epstein-20260206",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Nouvelles révélations détaillent éléments comme cabinet dentaire et vidéo manquante, au-delà des liens initiaux avec Musk, Gates et Hoffman.",
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Jack Lang convoqué par Quai d'Orsay pour affaire Epstein",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Nom cité 673 fois dans documents, président Institut monde arabe attendu dimanche. Exécutif pousse départ malgré résistance attendue, testant gouvernance culturelle française.",
+      "link": "https://www.lemonde.fr/politique/article/2026/02/06/affaire-epstein-jack-lang-convoque-par-le-quai-d-orsay-dimanche-l-executif-s-attend-a-une-resistance-du-president-de-l-institut-du-monde-arabe_6665647_823448.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Convocation officielle de Jack Lang s'ajoute aux révélations et désinfo russe.",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Milieux israéliens estiment chute régime iranien réaliste sans Khamenei",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Israël doute efficacité négociations Oman, voyant opportunité chute Téhéran via élimination guide suprême. Analyse sécuritaire influence posture alliés face Iran.",
+      "link": "https://www.lemonde.fr/international/article/2026/02/06/vu-d-israel-la-possibilite-que-le-regime-iranien-tombe-est-desormais-realiste_6665653_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Négociations US-Iran débutent à Oman tandis qu'Israël anticipe possible effondrement régime.",
+      "category": "politics",
+      "region": "middle-east",
       "importance": "notable"
     }
   ],
   "metadata": {
     "sourcesUsed": 7,
-    "articlesProcessed": 218,
+    "articlesProcessed": 214,
     "categoryCounts": {
-      "politics": 2,
-      "society": 2,
-      "economy": 1,
-      "conflict": 1
+      "conflict": 3,
+      "politics": 5,
+      "society": 5
     },
     "regionCounts": {
-      "middle-east": 1,
-      "americas": 3,
-      "europe": 2
+      "asia-pacific": 1,
+      "europe": 6,
+      "middle-east": 4,
+      "americas": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6,
+      "developing": 3
     }
   }
 }

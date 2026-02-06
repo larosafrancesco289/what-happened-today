@@ -62,6 +62,28 @@ export interface Translations {
     title: string;
     description: string;
   };
+  pipeline: {
+    filterRatio: string;
+    funnelFetched: string;
+    funnelDedup: string;
+    funnelFiltered: string;
+    funnelPublished: string;
+    sourcePlural: string;
+    singleSource: string;
+    regionCoverage: string;
+    sourceType: Record<string, string>;
+    sourcePerspective: Record<string, string>;
+  };
+  weekly: {
+    title: string;
+    subtitle: string;
+    persistentStories: string;
+    persistentDays: string;
+    topHeadlines: string;
+    daysWithData: string;
+    noDigest: string;
+    backToToday: string;
+  };
 }
 
 export const translations: Record<string, Translations> = {
@@ -128,6 +150,40 @@ export const translations: Record<string, Translations> = {
     meta: {
       title: "What Happened Today",
       description: "A clean, AI-generated daily summary of global news — free from clickbait, emotion, and information overload."
+    },
+    pipeline: {
+      filterRatio: "{stories} stories selected from {articles} articles across {sources} sources",
+      funnelFetched: "fetched",
+      funnelDedup: "deduplicated",
+      funnelFiltered: "filtered",
+      funnelPublished: "published",
+      sourcePlural: "sources",
+      singleSource: "Single source",
+      regionCoverage: "Coverage today",
+      sourceType: {
+        wire: "Wire service",
+        broadsheet: "Broadsheet",
+        tabloid: "Popular press",
+        "public-broadcaster": "Public broadcaster",
+        aggregator: "Aggregator",
+      },
+      sourcePerspective: {
+        left: "Left-leaning",
+        "center-left": "Center-left",
+        center: "Center",
+        "center-right": "Center-right",
+        right: "Right-leaning",
+      },
+    },
+    weekly: {
+      title: "This Week",
+      subtitle: "Weekly briefing",
+      persistentStories: "Persistent stories",
+      persistentDays: "days",
+      topHeadlines: "Top headlines this week",
+      daysWithData: "days covered",
+      noDigest: "No weekly digest available yet.",
+      backToToday: "Back to today",
     }
   },
   it: {
@@ -193,6 +249,40 @@ export const translations: Record<string, Translations> = {
     meta: {
       title: "Cosa È Successo Oggi",
       description: "Un riassunto giornaliero pulito e generato dall'IA delle notizie globali — libero da clickbait, emozioni e sovraccarico di informazioni."
+    },
+    pipeline: {
+      filterRatio: "{stories} notizie selezionate da {articles} articoli di {sources} fonti",
+      funnelFetched: "raccolti",
+      funnelDedup: "deduplicati",
+      funnelFiltered: "filtrati",
+      funnelPublished: "pubblicati",
+      sourcePlural: "fonti",
+      singleSource: "Fonte unica",
+      regionCoverage: "Copertura di oggi",
+      sourceType: {
+        wire: "Agenzia di stampa",
+        broadsheet: "Quotidiano di qualità",
+        tabloid: "Stampa popolare",
+        "public-broadcaster": "Emittente pubblica",
+        aggregator: "Aggregatore",
+      },
+      sourcePerspective: {
+        left: "Sinistra",
+        "center-left": "Centro-sinistra",
+        center: "Centro",
+        "center-right": "Centro-destra",
+        right: "Destra",
+      },
+    },
+    weekly: {
+      title: "Questa Settimana",
+      subtitle: "Briefing settimanale",
+      persistentStories: "Storie persistenti",
+      persistentDays: "giorni",
+      topHeadlines: "Titoli principali della settimana",
+      daysWithData: "giorni coperti",
+      noDigest: "Nessun digest settimanale disponibile.",
+      backToToday: "Torna a oggi",
     }
   },
   fr: {
@@ -258,6 +348,40 @@ export const translations: Record<string, Translations> = {
     meta: {
       title: "Que S'est-il Passé Aujourd'hui",
       description: "Un résumé quotidien propre et généré par l'IA de l'actualité mondiale — libre de clickbait, d'émotion et de surcharge d'informations."
+    },
+    pipeline: {
+      filterRatio: "{stories} sujets retenus sur {articles} articles de {sources} sources",
+      funnelFetched: "collectés",
+      funnelDedup: "dédupliqués",
+      funnelFiltered: "filtrés",
+      funnelPublished: "publiés",
+      sourcePlural: "sources",
+      singleSource: "Source unique",
+      regionCoverage: "Couverture du jour",
+      sourceType: {
+        wire: "Agence de presse",
+        broadsheet: "Quotidien de référence",
+        tabloid: "Presse populaire",
+        "public-broadcaster": "Média public",
+        aggregator: "Agrégateur",
+      },
+      sourcePerspective: {
+        left: "Gauche",
+        "center-left": "Centre-gauche",
+        center: "Centre",
+        "center-right": "Centre-droit",
+        right: "Droite",
+      },
+    },
+    weekly: {
+      title: "Cette Semaine",
+      subtitle: "Briefing hebdomadaire",
+      persistentStories: "Histoires persistantes",
+      persistentDays: "jours",
+      topHeadlines: "Grands titres de la semaine",
+      daysWithData: "jours couverts",
+      noDigest: "Aucun digest hebdomadaire disponible.",
+      backToToday: "Retour à aujourd'hui",
     }
   }
 };

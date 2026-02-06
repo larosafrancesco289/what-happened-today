@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getDailySummary } from '@/lib/utils';
+import { loadDailyNews } from '@/lib/utils';
 
 export async function GET(request: NextRequest) {
   try {
@@ -23,7 +23,7 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    const data = await getDailySummary(date, language);
+    const data = await loadDailyNews(date, language);
 
     if (!data) {
       return NextResponse.json(

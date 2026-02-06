@@ -8,15 +8,7 @@
 // OPENROUTER_API_KEY from .env.local is used when initializing the LLM client.
 
 import type { DailyNews, NewsHeadline, Category, Region, Tier, ProcessedArticle } from '../src/types/news';
-
-function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: string): Promise<T> {
-  return Promise.race([
-    promise,
-    new Promise<never>((_, reject) =>
-      setTimeout(() => reject(new Error(`${operation} timed out after ${timeoutMs}ms`)), timeoutMs)
-    ),
-  ]);
-}
+import { withTimeout } from '../src/lib/utils';
 
 function ensureSourceDiversity(articles: ProcessedArticle[]): ProcessedArticle[] {
   const MAX_PER_SOURCE = 5;
@@ -208,7 +200,15 @@ async function runPipeline(languageCode: string = 'en') {
         reason: `Headline generation failed: LLM returned 0 headlines from ${filteredArticles.length} filtered articles (${rawArticles.length} total fetched)`,
         articlesProcessed: rawArticles.length,
         headlinesGenerated: 0,
-        metadata: { sourcesUsed: 0, articlesProcessed: rawArticles.length, categoryCounts: {}, regionCounts: {} },
+        metadata: {
+          sourcesUsed: 0,
+          articlesProcessed: rawArticles.length,
+          articlesAfterDedup: uniqueArticles.length,
+          articlesAfterDiversity: balancedArticles.length,
+          articlesAfterFilter: filteredArticles.length,
+          categoryCounts: {},
+          regionCounts: {},
+        },
         saveDailyNews,
       });
     }
@@ -238,6 +238,9 @@ async function runPipeline(languageCode: string = 'en') {
         metadata: {
           sourcesUsed: new Set(filteredArticles.map(a => a.source)).size,
           articlesProcessed: rawArticles.length,
+          articlesAfterDedup: uniqueArticles.length,
+          articlesAfterDiversity: balancedArticles.length,
+          articlesAfterFilter: filteredArticles.length,
           categoryCounts,
           regionCounts,
         },
@@ -254,6 +257,9 @@ async function runPipeline(languageCode: string = 'en') {
       metadata: {
         sourcesUsed: new Set(filteredArticles.map(a => a.source)).size,
         articlesProcessed: rawArticles.length,
+        articlesAfterDedup: uniqueArticles.length,
+        articlesAfterDiversity: balancedArticles.length,
+        articlesAfterFilter: filteredArticles.length,
         categoryCounts,
         regionCounts,
         tierCounts,

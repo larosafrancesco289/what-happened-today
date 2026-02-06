@@ -1,190 +1,174 @@
 {
   "date": "2026-02-06",
-  "summary": "Un attentatore ha sparato diversi colpi contro il generale Vladimir Alekseev, vicecapo dell'intelligence militare russa, in un edificio residenziale di Mosca, ferendolo gravemente. Alekseev è stato ricoverato in ospedale. Il ministro degli Esteri russo Sergej Lavrov accusa Kiev di coinvolgimento, mentre le autorità ucraine non hanno commentato. Il Comitato Investigativo russo conduce le indagini, in un contesto di tensioni tra Russia e Ucraina che potrebbero intensificarsi.\n\nElon Musk ha disattivato i servizi Starlink in territori ucraini occupati e distretti russi, riducendo la precisione dei droni russi Geran 2. Kiev riporta rallentamenti negli assalti russi, rafforzando il vantaggio tecnologico ucraino nel conflitto. Separatamente, un attentato suicida ha colpito una moschea sciita a Islamabad durante la preghiera del venerdì, causando 31 morti e oltre 100 feriti. Le autorità pakistane puntano a gruppi estremisti; le indagini sono in corso e sollevano preoccupazioni sulla sicurezza settaria. Gli Stati Uniti e l'Iran hanno avviato colloqui sul nucleare in Oman, primo incontro dal giugno scorso dopo attacchi Usa su siti iraniani. I negoziati discutono il programma nucleare iraniano e potrebbero ridurre tensioni regionali.\n\nIn Portogallo, inondazioni dal fiume Sado ad Alcácer do Sal hanno causato un morto e evacuazioni in barca; si avvicina la tempesta Marta con venti a 120 km/h e onde a 13 metri, con allarmi per ulteriori danni. Uno studio attribuisce un caso di demenza su otto all'insonnia cronica, fattore modificabile simile a ipertensione. In Italia, il presidente Mattarella ha inaugurato Casa Italia a Milano per le Olimpiadi di Cortina 2026; il governo ha azzerato l'iter per una nuova delibera sul ponte sullo Stretto di Messina. Giudici a Torino hanno condannato otto agenti penitenziari per torture nel carcere Lorusso e Cotugno tra 2017 e 2019; motivazioni su Bibbiano indicano clamore mediatico dannoso per i bambini. Amsterdam ha vietato pubblicità di carne e combustibili fossili negli spazi pubblici. Intercettazioni mostrano il governatore ligure Giovanni Toti ammettere manipolazione dati Covid con Cozzari; l'inchiesta procede.",
+  "summary": "La Commissione europea ha proposto il ventesimo pacchetto di sanzioni contro la Russia, in prossimità del quarto anniversario dell'invasione dell'Ucraina. Le misure colpiscono i settori dell'energia, dei servizi finanziari e del commercio. Il pacchetto è ora al vaglio del Consiglio Ue. Rafforza le restrizioni esistenti su esportazioni e transazioni, mentre proseguono le indagini su crimini di guerra in Ucraina.\n\nElon Musk ha disattivato il servizio Starlink in aree russe e occupate, interrompendo il funzionamento di droni Geran 2 e rallentando operazioni militari russe secondo fonti ucraine. Mosca riporta perdite di precisione e coordinamento negli assalti. Separatamente, gli Stati Uniti hanno ordinato ai cittadini americani di lasciare immediatamente l'Iran e di mantenere un profilo basso. L'ambasciata Usa cita tensioni in aumento; l'Oman conferma colloqui seri tra delegazioni Usa-Iran con Araghchi e Witkoff a Muscat venerdì, preceduti da nuove sanzioni su petrolio iraniano e flotta ombra. In parallelo, forze israeliane hanno bendato e ammanettato donne palestinesi al valico di Rafah durante interrogatori di ore e confische di effetti personali, secondo testimonianze di rientranti a Gaza.\n\nA Milano, la premier Giorgia Meloni ha incontrato per due ore e mezza il vicepresidente Usa Jd Vance e il segretario di Stato Rubio, confermando la cooperazione bilaterale Italia-Stati Uniti. In Liguria, intercettazioni rivelano il governatore Giovanni Toti ammettere con collaboratori la manipolazione di dati sui contagi Covid; l'indagine coinvolge Spinelli e incontri su yacht, con possibile processo per falsificazione. A Mosca, un attentato ha ferito gravemente Vladimir Alekseyev, vicecapo dell'intelligence militare russa, colpito alle spalle a casa sua; è in corso un'indagine interna. Donald Trump ha condiviso su Truth Social un video manipolato che ritrae Michelle e Barack Obama come scimmie. La Commissione Ue ha aperto un'indagine preliminare su TikTok per violazioni del design nella legge sui servizi digitali, con possibili sanzioni fino al 6% del fatturato annuo. Il ministro Gilberto Pichetto Fratin ha visitato Algeri per rafforzare il partenariato energetico Italia-Algeria sul gas nel Mediterraneo.",
   "headlines": [
     {
-      "title": "Attentatore ferisce Vladimir Alekseev vicecapo intelligence militare russa a Mosca",
+      "title": "Commissione europea propone ventesimo pacchetto sanzioni contro Russia su energia finanza commercio",
       "source": "AGI",
       "sources": [
         "AGI",
+        "TGCOM24"
+      ],
+      "summary": "La Commissione europea ha annunciato il ventesimo pacchetto di sanzioni alla Russia, in prossimità del quarto anniversario dell'invasione ucraina. Colpisce energia, servizi finanziari e commercio; ora al vaglio del Consiglio UE. Rafforza pressione su Mosca mentre proseguono crimini di guerra.",
+      "link": "https://www.agi.it/estero/news/2026-02-06/sanzioni-ue-russia-ucraina-35475123/",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Giorgia Meloni incontra JD Vance conferma solidità rapporto strategico Italia-Usa",
+      "source": "AGI",
+      "summary": "La premier Meloni ha accolto a Milano il vicepresidente Usa Vance e il segretario di Stato Rubio per due ore e mezza, confermando la cooperazione bilaterale durante le Olimpiadi. Rafforza alleanze occidentali in contesto geopolitico teso.",
+      "link": "https://www.agi.it/politica/news/2026-02-06/meloni-vance-occidente-35471257/",
+      "tier": "top",
+      "sources": [
+        "AGI"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Elon Musk disattiva Starlink per soldati russi causando caos negli assalti",
+      "source": "la Repubblica",
+      "summary": "Musk ha spento il servizio Starlink in zone russe e occupate, colpendo droni Geran 2 e rallentando operazioni russe secondo Kiev. Mosca perde precisione e coordinamento; vantaggio tattico per Ucraina nel conflitto.",
+      "link": "https://www.repubblica.it/esteri/2026/02/06/news/musk_spegne_starlink_soldati_russi-425142454/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
         "la Repubblica"
       ],
-      "summary": "Un attentatore spara diversi colpi contro il generale Vladimir Alekseev in un edificio residenziale di Mosca, ferendolo gravemente. Lo ricoverano in ospedale. Lavrov accusa Kiev di coinvolgimento. L'episodio aumenta tensioni tra Russia e Ucraina, con indagini in corso dal Comitato Investigativo russo.",
-      "link": "https://www.agi.it/estero/news/2026-02-06/attentato-intelligence-russa-35465206/",
-      "tier": "top",
       "category": "conflict",
       "region": "europe",
       "importance": "breaking"
     },
     {
-      "title": "Attentatore suicida uccide 31 persone in moschea di Islamabad durante preghiera",
-      "source": "Rai News",
+      "title": "Stati Uniti ordinano a cittadini americani di lasciare immediatamente l'Iran",
+      "source": "ANSA",
       "sources": [
-        "Rai News",
+        "ANSA",
         "TGCOM24"
       ],
-      "summary": "Un attentato suicida colpisce una moschea sciita a Islamabad durante la preghiera del venerdì, causando 31 morti e oltre 100 feriti. Le autorità pakistane confermano l'attacco. Le indagini puntano a gruppi estremisti; l'evento solleva preoccupazioni sulla sicurezza settaria in Pakistan.",
-      "link": "https://www.rainews.it/articoli/2026/02/pakistan-esplosione-in-una-moschea-di-islamabad-oltre-30-morti-e-100-feriti-8ed0cd6a-f7e2-4fa1-a907-838bfea0e34c.html",
-      "tier": "top",
-      "category": "conflict",
-      "region": "asia-pacific",
-      "importance": "major"
-    },
-    {
-      "title": "Mattarella inaugura Casa Italia a Milano per Olimpiadi Cortina 2026",
-      "source": "ANSA",
-      "summary": "Sergio Mattarella inaugura Casa Italia a Milano per Milano Cortina 2026. Papa lancia appello per tregua olimpica. Meloni arriva per incontrare Vance e emiro Qatar. L'evento avvia celebrazioni olimpiche, promuovendo unità nazionale e sportiva internazionale.",
-      "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/06/milano-cortina-meloni-arrivata-a-milano-alle-13-lincontro-con-vance_0a3dc58a-f70b-4f0c-adca-342f552b6104.html",
-      "tier": "top",
-      "sources": [
-        "ANSA"
-      ],
-      "category": "politics",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Inondazioni causano un morto in Portogallo mentre arriva tempesta Marta",
-      "source": "Euronews Italiano",
-      "summary": "Le peggiori inondazioni da decenni esondano il fiume Sado ad Alcácer do Sal, causando un morto e evacuazioni in barca. Si avvicina la settima tempesta dell'anno, Marta, con venti a 120 km/h e onde a 13 metri. Le autorità preparano allarmi per rischio ulteriori danni.",
-      "link": "http://it.euronews.com/video/2026/02/06/portogallo-le-peggiori-inondazioni-da-decenni-mentre-si-avvicina-la-tempesta-marta",
-      "tier": "top",
-      "sources": [
-        "Euronews Italiano"
-      ],
-      "category": "environment",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Ricercatori attribuiscono un caso di demenza su otto all'insonnia cronica",
-      "source": "ANSA",
-      "summary": "Studio identifica insonnia come fattore di rischio modificabile per demenza, simile a ipertensione e perdita udito, responsabile di un caso su otto. Interventi sul sonno potrebbero prevenire casi. La scoperta interessa milioni di anziani per strategie di salute pubblica.",
-      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/02/05/demenza-un-caso-su-8-potrebbe-essere-attribuito-allinsonnia_74ed4544-631a-4e1a-9b3c-e0d689877d2c.html",
-      "tier": "also",
-      "sources": [
-        "ANSA"
-      ],
-      "category": "science",
-      "region": "global",
-      "importance": "notable"
-    },
-    {
-      "title": "Elon Musk disattiva Starlink per soldati russi riducendo efficacia droni",
-      "source": "la Repubblica",
-      "summary": "Musk spegne Starlink in territori ucraini occupati e distretti russi, colpendo droni Geran 2 russi che perdono precisione. Kiev riporta caos e rallentamenti negli assalti. Il blocco rafforza vantaggio tecnologico ucraino nel conflitto.",
-      "link": "https://www.repubblica.it/esteri/2026/02/06/news/musk_spegne_starlink_soldati_russi-425142454/?rss",
-      "tier": "also",
-      "sources": [
-        "la Repubblica"
-      ],
-      "category": "conflict",
-      "region": "global",
-      "importance": "major"
-    },
-    {
-      "title": "Governo azzera iter per nuova delibera su ponte sullo Stretto di Messina",
-      "source": "Il Sole 24 Ore",
-      "summary": "Decreto Salvini sulle infrastrutture azzera iter del ponte sullo Stretto dopo stallo di un mese. Priorità nel pacchetto sicurezza. La mossa riavvia progetto controverso, con impatti su trasporti e economia meridionale.",
-      "link": "https://www.ilsole24ore.com/art/ponte-stretto-iter-azzerato-la-nuova-delibera-AIzWqGHB",
-      "tier": "also",
-      "sources": [
-        "Il Sole 24 Ore"
-      ],
-      "category": "politics",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Giudici Torino condannano otto agenti penitenziari per torture in carcere",
-      "source": "Rai News",
-      "summary": "Otto condanne per violenze tra 2017 e 2019 nel carcere Lorusso e Cotugno di Torino: sette per tortura, una per rivelazione atti. Sei prosciolti. La sentenza rafforza lotta contro abusi nelle carceri italiane.",
-      "link": "https://www.rainews.it/articoli/2026/02/torino-otto-condanne-per-gli-agenti-penitenziari-a-processo-per-presunte-violenze-in-carcere-7e94538a-dd41-4ae9-9a4e-b44001ef43d2.html",
-      "tier": "also",
-      "sources": [
-        "Rai News"
-      ],
-      "category": "society",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Giudici motivano sentenza Bibbiano: clamore mediatico travolge bambini",
-      "source": "Rai News",
-      "summary": "Motivazioni sentenza Bibbiano: tre condanne sospese contro richieste a 15 anni; clamore mediatico danneggia bambini e famiglie. Il caso evidenzia rischi di processi mediatici su affidamenti minorili.",
-      "link": "https://www.rainews.it/articoli/2026/02/caso-bibbiano-i-giudici-il-clamore-mediatico-ha-travolto-i-bambini-familiari-649ca5e7-4f42-448f-9376-58bd492a02d7.html",
-      "tier": "also",
-      "sources": [
-        "Rai News"
-      ],
-      "category": "society",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Amsterdam vieta pubblicità carne e combustibili fossili negli spazi pubblici",
-      "source": "Euronews Italiano",
-      "summary": "Amsterdam diventa prima città al mondo a proibire pubblicità di carne e fossili negli spazi pubblici, proposta dal 2020. La misura promuove sostenibilità ambientale riducendo consumi impattanti.",
-      "link": "http://it.euronews.com/green/2026/02/06/amsterdam-stop-alla-pubblicita-di-carne-e-combustibili-fossili-negli-spazi-pubblici",
-      "tier": "also",
-      "sources": [
-        "Euronews Italiano"
-      ],
-      "category": "environment",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Stati Uniti e Iran avviano colloqui sul nucleare in Oman",
-      "source": "Euronews Italiano",
-      "summary": "Primo incontro diplomatico Usa-Iran dal giugno scorso, dopo attacchi Usa su siti nucleari iraniani. Discutono programma nucleare. I negoziati potrebbero ridurre tensioni regionali e prevenire escalation.",
-      "link": "http://it.euronews.com/2026/02/06/via-ai-colloqui-sul-nucleare-tra-iran-e-stati-uniti-in-oman",
+      "summary": "L'ambasciata Usa avverte i cittadini di evacuare l'Iran e profilo basso; Oman conferma colloqui seri Usa-Iran con Araghchi e Witkoff. Nuove sanzioni su petrolio e flotta ombra; tensioni in crescita pre-negoziati.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/06/usa-gli-americani-in-iran-lascino-subito-il-paese-_9b61d65e-c4fd-43be-b39a-349d5e141e1a.html",
       "tier": "developing",
       "dayNumber": 2,
-      "previousContext": "I colloqui sono partiti oggi in Oman dopo conferma Casa Bianca di ieri su negoziati a Muscat",
-      "sources": [
-        "Euronews Italiano"
-      ],
+      "previousContext": "USA emettono allerta evacuazione per cittadini dopo conferma colloqui ieri; Oman definisce negoziati seri con sanzioni su petrolio.",
+      "singleSource": false,
       "category": "politics",
       "region": "middle-east",
       "importance": "major"
     },
     {
-      "title": "Pm rivelano intercettazioni Toti ammette manipolazione dati Covid Liguria",
+      "title": "Pm rivelano intercettazioni Toti ammette manipolazione dati Covid in Liguria",
       "source": "Corriere della Sera",
-      "summary": "Intercettazioni mostrano governatore Toti dire a Cozzani di aver aumentato contagi Covid. Indagine su manipolazione dati. Procede inchiesta, con implicazioni su gestione pandemia e responsabilità politiche.",
+      "summary": "Intercettazioni mostrano governatore Toti dire a collaboratori di aver truccato numeri contagi Covid. Indagine su Spinelli e incontri yacht; processo possibile per falsificazione dati pandemia.",
       "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
       "tier": "developing",
       "dayNumber": 2,
-      "previousContext": "Nuove intercettazioni rivelano ammissioni dirette di Toti su aumento dati contagi, ampliando accuse pm di ieri",
+      "previousContext": "Nuove intercettazioni audio confermano ammissioni Toti su aumento contagi dopo accuse pm ieri.",
       "sources": [
         "Corriere della Sera"
       ],
+      "singleSource": true,
       "category": "politics",
       "region": "europe",
-      "importance": "breaking"
+      "importance": "notable"
+    },
+    {
+      "title": "Attentato ferisce Vladimir Alekseyev vicecapo intelligence militare russa a Mosca",
+      "source": "la Repubblica",
+      "summary": "Alekseyev colpito alle spalle a casa sua, ricoverato grave. Indagine interna su attentato; possibile escalation tensioni interne Russia durante guerra Ucraina.",
+      "link": "https://www.repubblica.it/esteri/2026/02/06/news/attentato_mosca_ferito_vicecapo_intelligence_militare_russa-425142881/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Forze israeliane bendano e ammanettano donne palestinesi al valico Rafah",
+      "source": "la Repubblica",
+      "summary": "Palestinesi rientranti a Gaza denunciano interrogatori ore, confische effetti personali da IDF. Umiliazioni sistematiche post-riapertura valico; tensioni umanitarie in Striscia.",
+      "link": "https://www.repubblica.it/esteri/2026/02/06/news/donne_bendate_ammanettate_valico_rafah_umiliazione_idf_palestinesi_ritorno_gaza-425143445/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump rilancia video razzista su Truth Social con Obama come scimmie",
+      "source": "Rai News",
+      "summary": "Trump condivide video manipolato Michelle e Barack Obama come scimmie; Ue ricorda regole anti-deepfake. Non prima volta; polarizza campagna Usa contro disinformazione.",
+      "link": "https://www.rainews.it/articoli/2026/02/trump-rilancia-video-razzista-michelle-e-barack-obama-come-scimmie-su-truth-social-872f3a47-6163-486a-8736-ca8b62189328.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Commissione Ue indaga TikTok per violazioni design nella legge servizi digitali",
+      "source": "Rai News",
+      "summary": "Indagine preliminare su design TikTok viola Dsa; possibili sanzioni fino 6% fatturato annuo. Protegge minori e trasparenza piattaforme digitali in Ue.",
+      "link": "https://www.rainews.it/articoli/2026/02/indagine-commissione-europea-tiktok-viola-la-legge-sui-servizi-digitali-per-il-suo-design-b703e190-21cc-4759-bcdb-e47594f82fbf.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Gilberto Pichetto Fratin rafforza partenariato energetico Italia-Algeria ad Algeri",
+      "source": "AGI",
+      "summary": "Ministro Ambiente visita Algeri per ponte energetico euro-africano contro crisi Ue. Strategico per sicurezza gas Mediterraneo post-tensioni geopolitiche.",
+      "link": "https://www.agi.it/maeci/it/news/2026-02-06/cooperazione-energia-italia-algeria-pichetto-fratin-ad-algeri-35475283/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
     }
   ],
   "metadata": {
-    "sourcesUsed": 8,
-    "articlesProcessed": 252,
+    "sourcesUsed": 7,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 20,
     "categoryCounts": {
+      "politics": 6,
       "conflict": 3,
-      "politics": 4,
-      "environment": 2,
-      "science": 1,
-      "society": 2
+      "economy": 1
     },
     "regionCounts": {
-      "europe": 8,
-      "asia-pacific": 1,
-      "global": 2,
-      "middle-east": 1
+      "europe": 7,
+      "middle-east": 2,
+      "americas": 1
     },
     "tierCounts": {
-      "top": 4,
-      "also": 6,
-      "developing": 2
+      "top": 3,
+      "developing": 2,
+      "also": 5
     }
   }
 }

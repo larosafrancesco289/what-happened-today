@@ -1,25 +1,18 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { DailyNews, NewsHeadline, Category } from '@/types/news';
+import { DailyNews, NewsHeadline, Category, Region } from '@/types/news';
 import { formatDate } from '@/lib/client-utils';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getTranslations } from '@/lib/i18n';
+import type { Translations } from '@/lib/i18n';
+import { RSS_FEEDS_BY_LANGUAGE } from '@/lib/languages';
 import { ArrowTopRightOnSquareIcon, ChevronDownIcon } from '@heroicons/react/24/outline';
-import { Swords, Landmark, TrendingUp, FlaskConical, Globe, Users, LucideIcon } from 'lucide-react';
+import { categoryIcons } from '@/lib/category-icons';
 
 interface NewsSummaryProps {
   data: DailyNews;
 }
-
-const categoryIcons: Record<Category, LucideIcon> = {
-  conflict: Swords,
-  politics: Landmark,
-  economy: TrendingUp,
-  science: FlaskConical,
-  environment: Globe,
-  society: Users,
-};
 
 function sourceLabel(headline: NewsHeadline): string {
   if (headline.sources && headline.sources.length > 1) {
@@ -28,10 +21,19 @@ function sourceLabel(headline: NewsHeadline): string {
   return headline.source;
 }
 
-function HeadlineFooter({ headline, readMoreLabel }: { headline: NewsHeadline; readMoreLabel: string }) {
+function HeadlineFooter({ headline, readMoreLabel, translations }: { headline: NewsHeadline; readMoreLabel: string; translations: Translations }) {
+  const isSingle = headline.singleSource === true || (headline.sources?.length ?? 1) <= 1;
+
   return (
     <div className="flex flex-wrap items-center justify-between gap-4 pt-4 border-t border-border-light/40 dark:border-border-dark/40">
-      <span className="byline">{sourceLabel(headline)}</span>
+      <span className="byline">
+        {sourceLabel(headline)}
+        {isSingle && (
+          <span className="text-xs not-italic text-subtle-light/60 dark:text-subtle-dark/60 ml-2">
+            ({translations.pipeline?.singleSource || 'Single source'})
+          </span>
+        )}
+      </span>
       <a
         href={headline.link}
         target="_blank"
@@ -154,6 +156,15 @@ function HeadlineCard({ headline, index, isFirst, compact = false }: { headline:
               </>
             )}
 
+            {headline.sources && headline.sources.length > 1 && (
+              <>
+                <span className="text-border-light dark:text-border-dark">|</span>
+                <span className="bg-border-light/30 dark:bg-border-dark/30 text-subtle-light dark:text-subtle-dark text-xs rounded-sm px-2 py-0.5">
+                  {headline.sources.length} {t.pipeline?.sourcePlural || 'sources'}
+                </span>
+              </>
+            )}
+
             <div className="flex-1" />
 
             {(importance === 'breaking' || importance === 'major') && (
@@ -175,7 +186,7 @@ function HeadlineCard({ headline, index, isFirst, compact = false }: { headline:
             {headline.summary}
           </p>
 
-          <HeadlineFooter headline={headline} readMoreLabel={t.summary.readMore} />
+          <HeadlineFooter headline={headline} readMoreLabel={t.summary.readMore} translations={t} />
         </div>
       </div>
     </article>
@@ -193,13 +204,18 @@ function DevelopingCard({ headline, index }: { headline: NewsHeadline; index: nu
     >
       <div className="group relative bg-panel-light dark:bg-panel-dark border border-border-light/60 dark:border-border-dark/60 border-l-4 border-l-amber-500 dark:border-l-amber-400 transition-all duration-500 hover:border-border-light dark:hover:border-border-dark card-editorial">
         <div className="p-4 lg:p-6 flex flex-col sm:flex-row gap-4">
-          {headline.dayNumber && (
-            <div className="flex-shrink-0">
+          <div className="flex-shrink-0 flex flex-wrap gap-2">
+            {headline.dayNumber && (
               <span className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-bold uppercase tracking-wider bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 rounded-sm">
                 {t.continuity?.day || 'Day'} {headline.dayNumber}
               </span>
-            </div>
-          )}
+            )}
+            {headline.sources && headline.sources.length > 1 && (
+              <span className="bg-border-light/30 dark:bg-border-dark/30 text-subtle-light dark:text-subtle-dark text-xs rounded-sm px-2 py-0.5 inline-flex items-center">
+                {headline.sources.length} {t.pipeline?.sourcePlural || 'sources'}
+              </span>
+            )}
+          </div>
 
           <div className="flex-1 min-w-0">
             <h3 className="font-serif font-semibold text-lg text-text-light dark:text-text-dark leading-tight mb-2 group-hover:text-accent-light dark:group-hover:text-accent-dark transition-colors duration-300">
@@ -216,7 +232,7 @@ function DevelopingCard({ headline, index }: { headline: NewsHeadline; index: nu
               {headline.summary}
             </p>
 
-            <HeadlineFooter headline={headline} readMoreLabel={t.summary.readMore} />
+            <HeadlineFooter headline={headline} readMoreLabel={t.summary.readMore} translations={t} />
           </div>
         </div>
       </div>
@@ -224,8 +240,25 @@ function DevelopingCard({ headline, index }: { headline: NewsHeadline; index: nu
   );
 }
 
-function SourcesFooter({ headlines, translations }: { headlines: NewsHeadline[]; translations: ReturnType<typeof getTranslations> }) {
+const perspectiveColors: Record<string, string> = {
+  left: 'bg-blue-500',
+  'center-left': 'bg-sky-400',
+  center: 'bg-gray-400 dark:bg-gray-500',
+  'center-right': 'bg-orange-400',
+  right: 'bg-red-500',
+};
+
+function SourcesFooter({ headlines, translations, languageCode }: { headlines: NewsHeadline[]; translations: ReturnType<typeof getTranslations>; languageCode: string }) {
   const [isExpanded, setIsExpanded] = useState(false);
+
+  const feedLookup = useMemo(() => {
+    const feeds = RSS_FEEDS_BY_LANGUAGE[languageCode] || RSS_FEEDS_BY_LANGUAGE.en || [];
+    const map = new Map<string, { type?: string; perspective?: string }>();
+    for (const feed of feeds) {
+      map.set(feed.name, { type: feed.type, perspective: feed.perspective });
+    }
+    return map;
+  }, [languageCode]);
 
   const sources = useMemo(() => {
     const sourceSet = new Set<string>();
@@ -251,21 +284,39 @@ function SourcesFooter({ headlines, translations }: { headlines: NewsHeadline[];
 
       <div
         className={`overflow-hidden transition-all duration-500 ease-out ${
-          isExpanded ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
+          isExpanded ? 'max-h-[32rem] opacity-100' : 'max-h-0 opacity-0'
         }`}
       >
         <div className="py-6 border-t border-border-light/40 dark:border-border-dark/40">
-          <ul className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-3">
-            {sources.map((source, idx) => (
-              <li
-                key={source}
-                className="flex items-center gap-2.5 text-sm text-subtle-light dark:text-subtle-dark animate-fade-in animate-hidden"
-                style={{ animationDelay: `${idx * 0.03}s` }}
-              >
-                <span className="w-1 h-1 rounded-full bg-accent-light dark:bg-accent-dark flex-shrink-0" />
-                <span className="font-medium">{source}</span>
-              </li>
-            ))}
+          <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-4">
+            {sources.map((source, idx) => {
+              const info = feedLookup.get(source);
+              const typeLabel = info?.type ? translations.pipeline?.sourceType?.[info.type] || info.type : null;
+              const perspectiveLabel = info?.perspective ? translations.pipeline?.sourcePerspective?.[info.perspective] || info.perspective : null;
+              const dotColor = info?.perspective ? perspectiveColors[info.perspective] || 'bg-gray-400' : null;
+
+              return (
+                <li
+                  key={source}
+                  className="flex items-start gap-3 text-sm text-subtle-light dark:text-subtle-dark animate-fade-in animate-hidden"
+                  style={{ animationDelay: `${idx * 0.03}s` }}
+                >
+                  {dotColor ? (
+                    <span className={`w-2 h-2 rounded-full ${dotColor} flex-shrink-0 mt-1.5`} title={perspectiveLabel || undefined} />
+                  ) : (
+                    <span className="w-2 h-2 rounded-full bg-accent-light dark:bg-accent-dark flex-shrink-0 mt-1.5" />
+                  )}
+                  <div className="min-w-0">
+                    <span className="font-medium text-text-light dark:text-text-dark">{source}</span>
+                    {(typeLabel || perspectiveLabel) && (
+                      <div className="text-xs text-subtle-light/70 dark:text-subtle-dark/70 mt-0.5">
+                        {[typeLabel, perspectiveLabel].filter(Boolean).join(' · ')}
+                      </div>
+                    )}
+                  </div>
+                </li>
+              );
+            })}
           </ul>
 
           <p className="mt-6 text-xs text-subtle-light/70 dark:text-subtle-dark/70 max-w-2xl">
@@ -337,6 +388,38 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
           <div className="w-16 h-0.5 bg-accent-light dark:bg-accent-dark" />
         </div>
       </header>
+
+      {/* Pipeline transparency stats */}
+      {data.metadata && (
+        <div className="text-center mb-12 lg:mb-16 animate-fade-in stagger-1 animate-hidden">
+          <p className="text-sm text-subtle-light/70 dark:text-subtle-dark/70 tracking-wide">
+            {t.pipeline?.filterRatio
+              .replace('{stories}', String(data.headlines.length))
+              .replace('{articles}', String(data.metadata.articlesProcessed))
+              .replace('{sources}', String(data.metadata.sourcesUsed))}
+          </p>
+
+          {data.metadata.regionCounts && Object.keys(data.metadata.regionCounts).length > 0 && (
+            <div className="flex flex-wrap items-center justify-center gap-2 mt-4">
+              <span className="text-xs text-subtle-light/50 dark:text-subtle-dark/50 uppercase tracking-wider mr-1">
+                {t.pipeline?.regionCoverage || 'Coverage today'}
+              </span>
+              {(Object.entries(data.metadata.regionCounts) as [Region, number][])
+                .filter(([, count]) => count > 0)
+                .sort(([, a], [, b]) => b - a)
+                .map(([region, count]) => (
+                  <span
+                    key={region}
+                    className="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs bg-border-light/20 dark:bg-border-dark/20 text-subtle-light dark:text-subtle-dark rounded-sm"
+                  >
+                    <span>{t.regions?.[region] || region}</span>
+                    <span className="text-subtle-light/50 dark:text-subtle-dark/50">{count}</span>
+                  </span>
+                ))}
+            </div>
+          )}
+        </div>
+      )}
 
       {/* Daily Summary Section */}
       <section className="mb-20 lg:mb-28 animate-fade-in-up stagger-2 animate-hidden">
@@ -439,7 +522,7 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
           </div>
         )}
 
-        <SourcesFooter headlines={data.headlines} translations={t} />
+        <SourcesFooter headlines={data.headlines} translations={t} languageCode={currentLanguage.code} />
       </section>
     </div>
   );

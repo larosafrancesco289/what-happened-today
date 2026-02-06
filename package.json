@@ -13,6 +13,11 @@
     "generate-news:it": "bun run scripts/generate-news.ts --lang=it",
     "generate-news:fr": "bun run scripts/generate-news.ts --lang=fr",
     "generate-news:all": "bun run generate-news:en && bun run generate-news:it && bun run generate-news:fr",
+    "generate-weekly": "bun run scripts/generate-weekly.ts",
+    "generate-weekly:en": "bun run scripts/generate-weekly.ts --lang=en",
+    "generate-weekly:it": "bun run scripts/generate-weekly.ts --lang=it",
+    "generate-weekly:fr": "bun run scripts/generate-weekly.ts --lang=fr",
+    "generate-weekly:all": "bun run generate-weekly:en && bun run generate-weekly:it && bun run generate-weekly:fr",
     "setup": "bash scripts/setup.sh",
     "dev:script": "bash scripts/dev.sh",
     "generate": "bash scripts/generate.sh"

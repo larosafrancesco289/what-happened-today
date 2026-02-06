@@ -1,208 +1,161 @@
 {
   "date": "2026-02-06",
-  "summary": "Un attentat-suicide a tué 30 personnes et blessé 130 autres dans une mosquée chiite d'Islamabad vendredi lors de la prière. Un kamikaze a fait exploser sa charge dans la capitale pakistanaise. Les autorités enquêtent sur les auteurs, dans un contexte de tensions sectaires sunnites-chiites. Aucune revendication immédiate n'a été rapportée, et la stabilité régionale reste menacée.\n\nEn Russie, le général Vladimir Alekseïev, premier adjoint du renseignement militaire, a été blessé par des tirs dans un immeuble du nord-ouest de Moscou et hospitalisé. Le Kremlin accuse l'Ukraine d'un acte terroriste, tandis que Kiev n'a pas commenté. Cela aggrave les tensions russo-ukrainiennes au-delà du front. Au Moyen-Orient, les États-Unis et l'Iran ont entamé des négociations à Oman vendredi, premières depuis les frappes américaines de juin. Parallèlement, les Gardiens de la révolution iraniens ont déployé le missile balistique Khorramshahr-4, capable d'atteindre Mach 16 hors atmosphère. Des milieux israéliens estiment réaliste une chute du régime iranien sans le guide suprême Khamenei, doutant de l'efficacité des discussions.\n\nLes dossiers Epstein révèlent un cabinet dentaire mystérieux et une vidéo introuvable, avec des publications continues sur le réseau criminel et ses liens. La France a identifié une opération de désinformation russe via un site usurpant France Soir, publiant un article faux impliquant Emmanuel Macron. Jack Lang, cité 673 fois dans les documents, est convoqué dimanche par le Quai d'Orsay. À Gaza, les réfugiés hésitent à rentrer via le passage de Rafah réouvert par l'Égypte depuis le 1er février, en raison de craintes sécuritaires.",
+  "summary": "Les émissaires iraniens et américains ont tenu vendredi une première session de pourparlers à Oman dans une atmosphère positive, convenant de poursuivre les discussions malgré de nouvelles sanctions pétrolières américaines contre Téhéran. Ces négociations relancent le dialogue nucléaire interrompu depuis juin 2023, impliquant des acteurs clés pour la stabilité régionale au Moyen-Orient. Les prochaines sessions sont attendues dans les semaines à venir, sans calendrier précis annoncé.\n\nEn Syrie, les forces kurdes ont signé un accord avec le pouvoir de Damas d'Ahmed al-Charaa, mettant fin après douze ans à l'administration autonome du Rojava dans le nord-est syrien, avec l'aval des États-Unis et de la Russie. Cet accord consolide le contrôle central sur des territoires stratégiques contre l'État islamique. Au camp Roj, les prisonnières djihadistes étrangères, détenues depuis 2019, anticipent une libération progressive suite à la reprise des camps par Damas. Séparément, à Moscou, le général russe Vladimir Alekseïev, premier adjoint du renseignement militaire et chef de délégation à Abou Dhabi sur l'Ukraine, a été blessé par balles vendredi, dans un contexte de tensions persistantes liées au conflit ukrainien ; l'enquête est en cours sans revendication.\n\nAu Canada, la police de York a arrêté sept officiers actifs et un retraité pour corruption après une enquête longue, révélant des failles internes affectant la confiance publique. En France, une magistrate de 35 ans et sa mère ont été libérées après plus de 24 heures de séquestration à Grenoble, s'enfuyant en Drôme ; la piste d'un cryptorapt est privilégiée après demande de rançon au conjoint. Le militant anti-narcotrafic Amine Kessaci a été exfiltré d'un meeting à Aix-en-Provence jeudi suite à une balise GPS détectée sur un véhicule, l'enquête confiée au parquet anticriminalité. À Bruxelles, un avion a tenté un décollage à plus de 200 km/h sur une voie de circulation jeudi, entraînant une annulation de vol. Une étude lie les confinements COVID du début des années 2020 à une hausse brutale du méthane atmosphérique, gaz à effet de serre 28 fois plus puissant que le CO2, contribuant à un quart du réchauffement actuel.",
   "headlines": [
     {
-      "title": "Attentat-suicide tue 30 personnes et blesse 130 dans mosquée chiite d'Islamabad",
+      "title": "Iran et États-Unis conviennent de poursuivre négociations après première session à Oman",
       "source": "Liberation",
       "sources": [
         "Liberation",
+        "France Info",
+        "France 24",
         "RFI"
       ],
-      "summary": "Un kamikaze fait exploser sa charge à l'heure de la prière du vendredi dans une mosquée chiite de la capitale pakistanaise, alourdissant le bilan à 30 morts et 130 blessés. Les autorités enquêtent sur les auteurs, soulignant les tensions sectaires qui menacent la stabilité régionale.",
-      "link": "https://www.liberation.fr/international/asie-pacifique/pakistan-un-attentat-suicide-fait-15-morts-et-plus-de-80-blesses-dans-une-mosquee-chiite-20260206_UGPGA4O7NVALXPXTPD6N7PIECE/",
-      "tier": "top",
-      "category": "conflict",
-      "region": "asia-pacific",
-      "importance": "breaking"
-    },
-    {
-      "title": "Général russe Vladimir Alekseïev blessé par tirs à Moscou",
-      "source": "Liberation",
-      "sources": [
-        "Liberation",
-        "RFI"
-      ],
-      "summary": "Premier adjoint du renseignement militaire russe hospitalisé après coups de feu dans un immeuble du nord-ouest de la capitale. Kremlin accuse Ukraine d'acte terroriste, aggravant les tensions russo-ukrainiennes au-delà du front.",
-      "link": "https://www.liberation.fr/international/europe/un-haut-responsable-militaire-russe-blesse-par-des-tirs-a-moscou-20260206_DWE3GBHBFVDG3BYOMRMB3VTOJU/",
-      "tier": "top",
-      "category": "conflict",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "États-Unis et Iran entament négociations à Oman",
-      "source": "Radio-Canada",
-      "sources": [
-        "Radio-Canada",
-        "Le Monde"
-      ],
-      "summary": "Téhéran et Washington se rencontrent vendredi à Oman pour premières discussions depuis frappes américaines de juin, malgré armada navale de Trump et répression sanglante en Iran. Enjeu majeur pour désamorcer escalade militaire régionale.",
-      "link": "https://ici.radio-canada.ca/nouvelle/2226247/teheran-washington-negociations-oman",
-      "tier": "top",
+      "summary": "Les émissaires iraniens et américains ont tenu vendredi une première session de pourparlers à Oman dans une atmosphère positive, convenant de poursuivre les discussions malgré de nouvelles sanctions pétrolières américaines contre Téhéran. Cela relance le dialogue nucléaire interrompu depuis juin, crucial pour la stabilité régionale.",
+      "link": "https://www.liberation.fr/international/moyen-orient/avant-le-debut-de-leurs-pourparlers-a-oman-liran-et-les-etats-unis-ne-sont-deja-pas-daccord-sur-le-programme-20260206_YHQSYEMC2NBLHPUAUSKBI5EJRY/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Première session de négociations achevée avec accord pour poursuivre, malgré sanctions pétrolières imposées par Washington",
+      "singleSource": false,
       "category": "politics",
       "region": "middle-east",
       "importance": "major"
     },
     {
-      "title": "France identifie opération de désinformation russe sur Epstein visant Macron",
+      "title": "Forces kurdes syriennes signent accord avec pouvoir de Damas finissant administration autonome Rojava",
+      "source": "France 24",
+      "summary": "Les Kurdes syriens concluent un accord avec le nouveau régime d'Ahmed al-Charaa, mettant fin après douze ans au Rojava dans le nord-est syrien, avec aval américain et russe. Cela consolide le contrôle central sur des territoires clés contre l'État islamique.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-monde-dans-tous-ses-%C3%A%A9tats/20260206-syrie-les-kurdes-l%C3%A2ch%C3%A9s-par-tous",
+      "tier": "top",
+      "sources": [
+        "France 24"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Général russe Vladimir Alekseïev blessé par balles à Moscou après négociations Abou Dhabi",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Vladimir Alekseïev, premier adjoint du renseignement militaire russe et chef de délégation à Abou Dhabi sur l'Ukraine, subit une blessure par balles à Moscou. L'incident survient amid tensions persistantes, potentiellement lié au conflit ukrainien.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4200168-20260206-guerre-ukraine-general-russe-vladimir-alekseiev-blesse-balles-moscou?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Magistrate de Grenoble et sa mère libérées après plus de 24 heures de séquestration",
       "source": "Le Figaro",
       "sources": [
         "Le Figaro",
-        "France Info"
+        "Liberation"
       ],
-      "summary": "Viginum détecte site usurpant France Soir publiant article faux impliquant Emmanuel Macron dans affaire Epstein. Opération russe vise à semer discorde, renforçant vigilance contre ingérences étrangères en pleine publication des dossiers.",
-      "link": "https://www.lefigaro.fr/international/affaire-epstein-la-france-a-identifie-une-operation-de-desinformation-liee-a-la-russie-visant-emmanuel-macron-20260206",
+      "summary": "Une magistrate de 35 ans et sa mère, séquestrées depuis jeudi à Grenoble, s'enfuient pendant l'absence des ravisseurs et sont retrouvées blessées en Drôme. Piste d'un cryptorapt privilégiée après demande de rançon au conjoint, sans paiement.",
+      "link": "https://www.lefigaro.fr/faits-divers/magistrate-sequestree-a-grenoble-les-deux-femmes-ont-profite-de-l-absence-de-leurs-ravisseurs-pour-s-enfuir-selon-le-procureur-20260206",
       "tier": "top",
-      "category": "politics",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Gardiens de la révolution iraniens déploient missile Khorramshahr-4",
-      "source": "20 Minutes",
-      "sources": [
-        "20 Minutes"
-      ],
-      "summary": "Nouveau missile balistique atteint Mach 16 hors atmosphère et Mach 8 dedans, déployé par Gardiens face à pressions américaines. Renforce posture défensive de Téhéran lors négociations à Oman, impactant équilibre Moyen-Orient.",
-      "link": "https://www.20minutes.fr/monde/4200071-20260206-iran-quoi-missile-khorramshahr-4-gardiens-revolution-viennent-deployer?at_medium=display&at_campaign=149",
-      "tier": "also",
-      "category": "conflict",
-      "region": "middle-east",
-      "importance": "major"
-    },
-    {
-      "title": "Magistrate de Grenoble et sa mère libérées après 30 heures de séquestration",
-      "source": "Le Monde",
-      "sources": [
-        "Le Monde",
-        "Liberation",
-        "France Info"
-      ],
-      "summary": "Deux femmes enlevées en Isère pour rançon liée à cryptomonnaies retrouvées blessées à Bourg-lès-Valence. Compagnon de magistrate investisseur crypto visé, illustrant hausse des 'cryptorapt' en France.",
-      "link": "https://www.lemonde.fr/societe/article/2026/02/06/enlevements-lies-aux-cryptomonnaies-une-magistrate-et-sa-mere-liberees-apres-leur-enlevement-et-leur-sequestration_6665660_3224.html",
-      "tier": "also",
+      "singleSource": false,
       "category": "society",
       "region": "europe",
       "importance": "notable"
     },
     {
-      "title": "Femme de 92 ans tue trois personnes en encastrant voiture dans magasin de Los Angeles",
-      "source": "20 Minutes",
-      "sources": [
-        "20 Minutes"
-      ],
-      "summary": "Conductrice perd contrôle de véhicule percutant commerce, causant trois morts et six blessés. Accident met en lumière enjeux mobilité personnes âgées aux États-Unis, avec enquêtes en cours.",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4200083-20260206-etats-unis-femme-92-ans-perd-controle-voiture-encastre-magasin-trois-personnes-tuees?at_medium=display&at_campaign=149",
+      "title": "Police de York arrête sept policiers et un agent retraité pour corruption à Toronto",
+      "source": "Radio-Canada",
+      "summary": "La police régionale de York inculpe sept officiers actifs et un retraité pour corruption après une longue enquête. Cela révèle des failles internes dans les forces de l'ordre canadiennes, impactant la confiance publique.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2226306/police-toronto-corruption-arrestation-york",
       "tier": "also",
-      "category": "society",
-      "region": "americas",
-      "importance": "notable"
-    },
-    {
-      "title": "Réfugiés gazaouis hésitent à rentrer via passage de Rafah réouvert",
-      "source": "RFI",
+      "singleSource": true,
       "sources": [
-        "RFI"
+        "Radio-Canada"
       ],
-      "summary": "Depuis 1er février, Égypte autorise retours limités mais peur freine familles palestiniennes au Caire. Dilemme humanitaire persiste malgré réouverture, prolongeant crise réfugiés Gaza.",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20260206-r%C3%A9ouverture-du-passage-de-rafah-rentrer-ou-rester-le-dilemme-des-r%C3%A9fugi%C3%A9s-gazaouis-en-%C3%A9gypte",
-      "tier": "also",
-      "category": "society",
-      "region": "middle-east",
-      "importance": "notable"
-    },
-    {
-      "title": "Militants contestent ouverture des JO d'hiver 2026 à Milan",
-      "source": "Le Monde",
-      "sources": [
-        "Le Monde"
-      ],
-      "summary": "Pressions montent en Lombardie contre jeux Milan-Cortina, avec manifestations visibles. Contestations environnementales et sociales challengent organisation, influençant image événement.",
-      "link": "https://www.lemonde.fr/sport/article/2026/02/06/jo-2026-en-images-a-milan-les-jeux-s-ouvrent-sous-la-pression-des-militants_6665631_3242.html",
-      "tier": "also",
-      "category": "society",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Assemblée enterre vingt mesures du budget 2026 après débats",
-      "source": "Le Monde",
-      "sources": [
-        "Le Monde"
-      ],
-      "summary": "Taxe Zucman et abattement fiscal retraités abandonnés malgré six mois discussions. Décisions reflètent arbitrages politiques, impactant finances publiques et équité fiscale française.",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/02/06/budget-2026-ces-mesures-enterrees-apres-six-mois-de-debats-intenses_6665663_4355770.html",
-      "tier": "also",
-      "category": "politics",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "Dossiers Epstein révèlent cabinet dentaire mystérieux et vidéo introuvable",
-      "source": "Le Figaro",
-      "sources": [
-        "Le Figaro"
-      ],
-      "summary": "Publication continue des 'Epstein Files' expose détails dérangeants sur réseau criminel et liens puissants. Intérêt public grandit pour implications judiciaires persistantes.",
-      "link": "https://madame.lefigaro.fr/societe/actu/le-mysterieux-cabinet-dentaire-l-introuvable-video-de-torture-les-revelations-les-plus-perturbantes-des-dossiers-epstein-20260206",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Nouvelles révélations détaillent éléments comme cabinet dentaire et vidéo manquante, au-delà des liens initiaux avec Musk, Gates et Hoffman.",
       "category": "society",
       "region": "global",
       "importance": "notable"
     },
     {
-      "title": "Jack Lang convoqué par Quai d'Orsay pour affaire Epstein",
-      "source": "Le Monde",
+      "title": "Militant anti-narcotrafic Amine Kessaci exfiltré d'un meeting à Aix-en-Provence",
+      "source": "Le Figaro",
       "sources": [
-        "Le Monde"
+        "Le Figaro"
       ],
-      "summary": "Nom cité 673 fois dans documents, président Institut monde arabe attendu dimanche. Exécutif pousse départ malgré résistance attendue, testant gouvernance culturelle française.",
-      "link": "https://www.lemonde.fr/politique/article/2026/02/06/affaire-epstein-jack-lang-convoque-par-le-quai-d-orsay-dimanche-l-executif-s-attend-a-une-resistance-du-president-de-l-institut-du-monde-arabe_6665647_823448.html",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Convocation officielle de Jack Lang s'ajoute aux révélations et désinfo russe.",
-      "category": "politics",
+      "summary": "Amine Kessaci, militant écologiste contre le narcotrafic, est exfiltré en urgence jeudi d'un meeting à Aix après détection d'une balise GPS sur un véhicule. Parquet anticriminalité saisit l'enquête pour projet criminel présumé.",
+      "link": "https://www.lefigaro.fr/marseille/narcotrafic-le-parquet-anticriminalite-organisee-se-saisit-apres-l-exfiltration-en-urgence-d-amine-kessaci-d-un-meeting-20260206",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
       "region": "europe",
       "importance": "notable"
     },
     {
-      "title": "Milieux israéliens estiment chute régime iranien réaliste sans Khamenei",
+      "title": "Prisonnières djihadistes du camp Roj en Syrie anticipent libération après accord kurde",
       "source": "Le Monde",
+      "summary": "Au camp Roj, détenues étrangères de l'État islamique, rejoignant depuis 2010, se réjouissent de l'avancée gouvernementale syrienne reprenant camps kurdes per accord du 30 janvier. Cela pose risques sécuritaires accrus.",
+      "link": "https://www.lemonde.fr/international/article/2026/02/06/en-syrie-dans-le-camp-de-roj-les-prisonnieres-djihadistes-persuadees-d-etre-bientot-liberees_6665672_3210.html",
+      "tier": "also",
+      "singleSource": true,
       "sources": [
         "Le Monde"
       ],
-      "summary": "Israël doute efficacité négociations Oman, voyant opportunité chute Téhéran via élimination guide suprême. Analyse sécuritaire influence posture alliés face Iran.",
-      "link": "https://www.lemonde.fr/international/article/2026/02/06/vu-d-israel-la-possibilite-que-le-regime-iranien-tombe-est-desormais-realiste_6665653_3210.html",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Négociations US-Iran débutent à Oman tandis qu'Israël anticipe possible effondrement régime.",
-      "category": "politics",
+      "category": "conflict",
       "region": "middle-east",
       "importance": "notable"
+    },
+    {
+      "title": "Avion lancé à plus de 200 km/h tente décollage sur voie circulation à Bruxelles",
+      "source": "20 Minutes",
+      "summary": "Jeudi à l'aéroport de Bruxelles, un avion s'élance à plus de 200 km/h sur une voie de circulation au lieu de la piste, entraînant annulation urgente du vol. Incident rare soulignant enjeux sécurité aérienne.",
+      "link": "https://www.20minutes.fr/monde/4200161-20260206-lance-plus-200-km-h-avion-tente-decoller-alors-piste-vol-annule-urgence?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Étude lie confinements à hausse brutale méthane atmosphérique début années 2020",
+      "source": "RFI",
+      "summary": "Recherche révèle que confinements COVID augmentent fortement méthane, gaz à effet de serre 28 fois plus puissant que CO2, expliquant hausse inexpliquée et contribuant à un quart du réchauffement actuel.",
+      "link": "https://www.rfi.fr/fr/environnement/20260206-climat-les-confinements-ont-entra%C3%AEn%C3%A9-une-forte-hausse-du-m%C3%A9thane-dans-l-atmosph%C3%A8re-selon-une-%C3%A9tude",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
     }
   ],
   "metadata": {
-    "sourcesUsed": 7,
-    "articlesProcessed": 214,
+    "sourcesUsed": 9,
+    "articlesProcessed": 213,
+    "articlesAfterDedup": 213,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
     "categoryCounts": {
+      "politics": 1,
       "conflict": 3,
-      "politics": 5,
-      "society": 5
+      "society": 4,
+      "science": 1
     },
     "regionCounts": {
-      "asia-pacific": 1,
-      "europe": 6,
-      "middle-east": 4,
-      "americas": 1,
-      "global": 1
+      "middle-east": 3,
+      "europe": 4,
+      "global": 2
     },
     "tierCounts": {
-      "top": 4,
-      "also": 6,
-      "developing": 3
+      "developing": 1,
+      "top": 3,
+      "also": 5
     }
   }
 }

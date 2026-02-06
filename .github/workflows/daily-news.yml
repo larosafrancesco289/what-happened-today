@@ -4,6 +4,8 @@ on:
   schedule:
     # Run daily at 6:00 AM UTC
     - cron: '0 6 * * *'
+    # Run weekly digest on Mondays at 8:00 AM UTC
+    - cron: '0 8 * * 1'
   workflow_dispatch: # Allow manual triggering
 
 permissions:
@@ -47,6 +49,48 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Daily news update: $(date +'%Y-%m-%d')"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  weekly-digest:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 8 * * 1'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Build project
+        run: bun run build
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+      - name: Generate weekly digest for all languages
+        run: bun run generate-weekly:all
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+      - name: Commit and push weekly digest
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Weekly digest: $(date +'%Y-W%V')"
             git push
           fi
         env:

@@ -32,11 +32,16 @@ export interface NewsHeadline {
   dayNumber?: number;
   /** For developing tier: what changed since the previous day */
   previousContext?: string;
+  /** True when only one source covers this story */
+  singleSource?: boolean;
 }
 
 export interface DailyNewsMetadata {
   sourcesUsed: number;
   articlesProcessed: number;
+  articlesAfterDedup?: number;
+  articlesAfterDiversity?: number;
+  articlesAfterFilter?: number;
   categoryCounts?: Partial<Record<Category, number>>;
   regionCounts?: Partial<Record<Region, number>>;
   tierCounts?: Partial<Record<Tier, number>>;
@@ -71,4 +76,25 @@ export interface ProcessedArticle {
   isRelevant: boolean;
   /** Other sources covering the same story (set during cross-source grouping) */
   coveringSources?: string[];
+}
+
+export interface WeeklyDigest {
+  weekId: string;
+  startDate: string;
+  endDate: string;
+  summary: string;
+  persistentStories: string[];
+  topHeadlines: Array<{
+    date: string;
+    title: string;
+    category?: Category;
+    region?: Region;
+  }>;
+  metadata: {
+    totalArticlesProcessed: number;
+    totalSourcesUsed: number;
+    daysWithData: number;
+    categoryCounts: Partial<Record<Category, number>>;
+    regionCounts: Partial<Record<Region, number>>;
+  };
 }

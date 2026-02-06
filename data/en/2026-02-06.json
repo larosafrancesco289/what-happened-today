@@ -1,71 +1,88 @@
 {
   "date": "2026-02-06",
-  "summary": "Rwanda-backed rebels defeated Congolese troops and entered Goma in eastern Democratic Republic of Congo, prompting gunfire and shelling. Over one million displaced residents are trapped in the city, affecting U.N. aid operations that serve as a humanitarian hub. The incursion threatens regional stability as fighting escalates in the area.\n\nIn Pakistan, a suicide bomber detonated at a Shiite mosque in Islamabad during Friday prayers, killing at least 30 worshippers and wounding over 130. Police are investigating the attack, which heightens risks of sectarian violence amid regional instability. Separately, U.S. and Iranian diplomats began talks in Oman on Iran's nuclear program, amid a U.S. military buildup. Progress may occur on nuclear limits, though Iranian officials express doubts over U.S. demands on other issues. An unidentified assailant shot Russian Lt. Gen. Vladimir Alekseyev, deputy chief of military intelligence, multiple times in Moscow; he was hospitalized in an incident echoing prior attacks on military figures during the Ukraine conflict.\n\nNATO launched a coordinated response after another Baltic Sea cable severance, amid a suspected sabotage campaign targeting infrastructure; Baltic allies increased defenses against hybrid threats attributed by some to Russia. Nigerian troops deployed to villages Woro and Nuku in Kwara state following jihadist attacks that killed 162 residents. Israel permitted hundreds of thousands of displaced Palestinians to cross into northern Gaza after a hostage release ended a military zone restriction, though Israeli forces killed two Palestinians in strikes in northern Gaza and Khan Younis amid limited Rafah crossings. NASA and SpaceX launched the Crew-10 mission from Florida on a Falcon 9, carrying four astronauts to the ISS to enable the return of two NASA crew members stuck for nine months. The EU Commission found TikTok's infinite scroll and notifications addictive, violating the Digital Services Act and risking a fine up to 6% of ByteDance's global revenue. A U.S. appeals court in the Fourth Circuit lifted an injunction on Trump administration executive orders halting federal DEI programs. A Nigerian court ordered Britain to pay 420 million pounds to families of 21 coal miners killed by colonial authorities.",
+  "summary": "A suicide bomber struck a Shiite mosque on the outskirts of Islamabad during Friday prayers, killing 31 worshippers and wounding 169. The attack, rare for Pakistan's capital, underscores a militant surge challenging government control. Officials are probing ties to militant groups and have increased security nationwide, affecting millions of residents. Further investigations and potential group claims are expected.\n\nIn Oman, Iran and the United States conducted indirect talks on Tehran's nuclear program, the first amid post-strike tensions and President-elect Trump threats. Iran's foreign minister called it a good start, with follow-up meetings planned; the discussions impact global nonproliferation efforts. In Gaza, Israel allowed thousands of displaced Palestinians to enter northern areas after breaking a hostage release deadlock, affecting 2 million enclave residents and facilitating aid and rebuilding amid the conflict. Separately, the US Congress approved a $50 billion foreign aid bill for democracy programs, scholarships, embassies, and health initiatives worldwide, overriding Trump administration reduction plans; funds will deploy immediately to global partners.\n\nA gunman shot Russian Lt. Gen. Vladimir Alekseyev, an intelligence officer sanctioned twice by the US for Ukraine invasion support, in Moscow; the investigation proceeds amid attacks on senior officers. Ukraine disabled Russian access to Starlink terminals and bolstered drone defenses after strikes on energy infrastructure and logistics, hindering Moscow's operations. NATO deployed its first coordinated response following a second Baltic Sea cable severance. The US accused China of secret nuclear tests after New START expiration. US authorities arrested Zubayr al-Bakoush for his role in the 2012 Benghazi attack killing Ambassador Stevens and three others; he faces US prosecution. NASA and SpaceX launched Crew-10 with four astronauts from Florida to the International Space Station, enabling the return of Butch Wilmore and Suni Williams after nine months.",
   "headlines": [
     {
-      "title": "Suicide Bomber Kills 30 Worshippers at Shiite Mosque in Islamabad",
-      "source": "France 24",
+      "title": "Suicide bomber kills 31 worshippers at Shiite mosque on Islamabad outskirts",
+      "source": "Associated Press",
       "sources": [
-        "France 24",
-        "BBC World",
-        "ABC Australia",
-        "Deutsche Welle"
+        "Associated Press",
+        "NPR News",
+        "BBC World"
       ],
-      "summary": "Suicide bomber detonates at Shiite mosque in Islamabad during Friday prayers, killing at least 30 and wounding over 130. Worshippers and responders affected in Pakistan's capital. Police investigate; attack escalates sectarian violence risks amid regional instability.",
-      "link": "https://www.france24.com/en/asia-pacific/20260206-suicide-bombing-islamabad-shiite-mosque-kills-at-least-20-people",
+      "summary": "Suicide bomber strikes Shiite mosque during Friday prayers on Islamabad outskirts, killing 31 and wounding 169 in rare capital attack. Militant surge challenges Pakistan government control. Officials probe group ties; heightens security nationwide affecting millions.",
+      "link": "https://apnews.com/article/pakistan-islamabad-shiite-mosque-blast-8f0b7b8a8783db37644d88610512c9af",
       "tier": "top",
+      "singleSource": false,
       "category": "conflict",
       "region": "asia-pacific",
       "importance": "major"
     },
     {
-      "title": "Unidentified Assailant Shoots Russian Lt. Gen. Vladimir Alekseyev in Moscow",
+      "title": "US authorities arrest Zubayr al-Bakoush for role in 2012 Benghazi attack killing four Americans",
       "source": "Associated Press",
       "sources": [
-        "Associated Press",
+        "Al Jazeera English",
+        "Associated Press"
+      ],
+      "summary": "Attorney General Pam Bondi announces custody of Zubayr al-Bakoush, key participant in 2012 Benghazi compound attack that killed Ambassador Stevens and three others. He faces prosecution in US. Brings partial justice after 14 years, impacts counterterrorism efforts.",
+      "link": "https://apnews.com/article/fbi-benghazi-justice-department-a0eadc00e01e892e6dba827ccfadbae0",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Oman mediates indirect nuclear talks between Iran and United States",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
         "New York Times World"
       ],
-      "summary": "Deputy chief of Russian military intelligence shot multiple times in Moscow and hospitalized. Officer and investigators affected. Incident echoes prior attacks on Russian military figures, signaling internal security threats amid Ukraine conflict.",
-      "link": "https://apnews.com/article/russia-military-intelligence-officer-shot-moscow-82f1878b3ad7236b1d29279b522c2a2c",
+      "summary": "Iran and US hold first indirect talks on Tehran's nuclear program in Oman amid post-strike tensions and Trump threats. Iran's minister calls it good start. Affects global nonproliferation; parties plan follow-up meetings.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3342722/oman-mediates-iran-us-nuclear-talks-amid-tensions-and-trumps-threats?utm_source=rss_feed",
       "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel allows displaced Palestinians to cross into northern Gaza",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits thousands of displaced Gazans to walk back to northern Gaza after breaking hostage release deadlock. Affects 2 million residents in enclave. Signals potential de-escalation; enables aid and rebuilding amid ongoing conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Gunman shoots Russian Lt. Gen. Vladimir Alekseyev in Moscow",
+      "source": "New York Times World",
+      "summary": "Assailant shoots Lt. Gen. Vladimir Alekseyev, Ukraine invasion intelligence provider, in latest Moscow attack on top officers. US sanctioned him twice. Investigation ongoing; escalates internal threats amid war, affects Russian military leadership.",
+      "link": "https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
       "category": "conflict",
       "region": "europe",
       "importance": "major"
     },
     {
-      "title": "U.S. and Iran Officials Begin Talks on Nuclear Program in Oman",
-      "source": "New York Times World",
-      "sources": [
-        "New York Times World",
-        "BBC World",
-        "Deutsche Welle"
-      ],
-      "summary": "U.S. and Iranian diplomats meet in Oman to discuss nuclear program amid U.S. military buildup. Regional actors and global non-proliferation efforts affected. Progress possible on nukes but doubts over other demands heighten Middle East tensions.",
-      "link": "https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html",
-      "tier": "top",
-      "category": "politics",
-      "region": "middle-east",
-      "importance": "notable"
-    },
-    {
-      "title": "Rwanda-Backed Rebels Overrun Goma Trapping One Million Displaced in Congo",
-      "source": "Wall Street Journal World",
-      "summary": "Rebels defeat Congolese troops and enter Goma, prompting gunfire and shelling. Over one million displaced residents and U.N. aid operations affected. Escalation threatens humanitarian hub and regional stability in eastern Congo.",
-      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
-      "tier": "top",
-      "sources": [
-        "Wall Street Journal World"
-      ],
-      "category": "conflict",
-      "region": "africa",
-      "importance": "major"
-    },
-    {
-      "title": "NASA and SpaceX Launch Crew-10 from Florida to Retrieve Stuck ISS Astronauts",
+      "title": "NASA and SpaceX launch four astronauts to retrieve two stuck on space station",
       "source": "Voice of America",
-      "summary": "SpaceX Falcon 9 carries four astronauts to ISS for six-month rotation, enabling return of two stuck NASA crew after nine months. Astronauts and space program affected. Mission restores routine operations for international station.",
+      "summary": "SpaceX Crew-10 with NASA, JAXA, Roscosmos astronauts launches from Florida to International Space Station, enabling return of Butch Wilmore and Suni Williams after nine months. Routine rotation ensures continuous operations; boosts US space partnerships.",
       "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
       "tier": "also",
+      "singleSource": true,
       "sources": [
         "Voice of America"
       ],
@@ -74,97 +91,73 @@
       "importance": "major"
     },
     {
-      "title": "Israel Permits Displaced Palestinians to Cross into Northern Gaza",
-      "source": "Wall Street Journal World",
-      "summary": "Israel allows Gazans to return north after hostage release breakthrough ends military zone deadlock. Hundreds of thousands of displaced affected. Move eases humanitarian crisis but ongoing risks persist post-ceasefire.",
-      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "title": "Congress passes 50 billion dollar foreign aid bill despite Trump 2025 cuts",
+      "source": "NPR News",
+      "summary": "US Congress approves $50 billion for democracy, scholarships, embassies, health programs worldwide, overriding Trump administration reductions. Affects global partners and US interests. Funds deploy immediately; counters isolationism in foreign policy.",
+      "link": "https://www.npr.org/2026/02/06/nx-s1-5702252/congress-passes-50-billion-foreign-aid-bill-despite-the-trumps-cuts-in-2025",
       "tier": "also",
+      "singleSource": true,
       "sources": [
-        "Wall Street Journal World"
-      ],
-      "category": "politics",
-      "region": "middle-east",
-      "importance": "notable"
-    },
-    {
-      "title": "EU Commission Finds TikTok Addictive Design Violates Digital Services Act",
-      "source": "South China Morning Post",
-      "summary": "Preliminary probe cites infinite scroll and notifications as addictive, risking 6% global revenue fine for ByteDance. EU users and platform affected. Forces design changes to protect minors and curb harmful features.",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3342692/eu-finds-tiktok-addictive-digital-law-probe-6-fine-looms-bytedance?utm_source=rss_feed",
-      "tier": "also",
-      "sources": [
-        "South China Morning Post"
-      ],
-      "category": "politics",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "U.S. Appeals Court Lifts Injunction on Trump Administration DEI Crackdown",
-      "source": "Voice of America",
-      "summary": "Fourth Circuit panel rules executive orders halting federal DEI programs likely constitutional. Government agencies and employees affected. Enables enforcement nationwide, reshaping workplace diversity policies.",
-      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
-      "tier": "also",
-      "sources": [
-        "Voice of America"
+        "NPR News"
       ],
       "category": "politics",
       "region": "americas",
       "importance": "major"
     },
     {
-      "title": "Nigerian Court Orders Britain to Pay 420 Million Pounds for 21 Colonial-Era Coal Miner Deaths",
-      "source": "AllAfrica",
-      "summary": "Court mandates UK payment to families of miners killed by colonial administration, faulting Nigeria's government for inaction. Victims' relatives affected. Ruling revives reparations push for colonial injustices.",
-      "link": "https://allafrica.com/stories/202602060048.html",
+      "title": "Ukraine disables Russian Starlink access and strengthens drone defenses",
+      "source": "Al Jazeera English",
+      "summary": "Ukraine cuts Russian use of Starlink and bolsters drone defenses amid strikes on energy sites and logistics. Impacts Russian operations far from front lines. Enhances Kyiv resilience; prolongs conflict dynamics for Europe.",
+      "link": "https://www.aljazeera.com/features/2026/2/6/ukraine-pulls-plug-on-russian-starlink-beefs-up-drone-defence?traffic_source=rss",
       "tier": "also",
+      "singleSource": true,
       "sources": [
-        "AllAfrica"
-      ],
-      "category": "society",
-      "region": "africa",
-      "importance": "notable"
-    },
-    {
-      "title": "NATO Launches Coordinated Response After Another Baltic Sea Cable Severance",
-      "source": "Wall Street Journal World",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Alliance activates first joint operation following new suspected sabotage incident",
-      "summary": "NATO responds to severed deep-sea cable amid sabotage campaign targeting critical infrastructure. Baltic allies and energy security affected. Heightens defenses against hybrid threats from Russia.",
-      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "sources": [
-        "Wall Street Journal World"
+        "Al Jazeera English"
       ],
       "category": "conflict",
       "region": "europe",
-      "importance": "breaking"
-    },
-    {
-      "title": "Nigerian Troops Deploy to Western Villages After Jihadists Kill 162 Residents",
-      "source": "The Guardian",
-      "sources": [
-        "The Guardian"
-      ],
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Village chief recounts killing of two sons and kidnapping of wife as military arrives",
-      "summary": "Government sends troops to Woro and Nuku following massacre. 162 killed, families like chief's affected. Deployment aims to curb jihadist violence spreading in Kwara state.",
-      "link": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
-      "category": "conflict",
-      "region": "africa",
       "importance": "major"
     },
     {
-      "title": "Israeli Forces Kill Two Palestinians in Northern Gaza Amid Rafah Trickle",
-      "source": "Al Jazeera English",
+      "title": "NATO deploys first coordinated response after another Baltic Sea cable severance",
+      "source": "Wall Street Journal World",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
       "tier": "developing",
       "dayNumber": 2,
-      "previousContext": "Post-ceasefire returns begin north while strikes continue and Rafah crossing sees minimal movement",
-      "summary": "Strikes target northern Gaza and Khan Younis, killing two as some cross Rafah. Palestinians affected. Underscores fragile truce and restricted mobility in enclave.",
-      "link": "https://www.aljazeera.com/news/2026/2/6/israel-kills-two-in-northern-gaza-as-rafah-crossing-sees-little-movement?traffic_source=rss",
+      "previousContext": "Alliance activates response following severance of second deep-sea cable amid suspected sabotage campaign",
+      "singleSource": true,
       "sources": [
-        "Al Jazeera English"
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "US accuses China of secret nuclear tests after New START expiration",
+      "source": "ABC Australia",
+      "link": "https://www.abc.net.au/news/2026-02-07/us-accuses-china-of-secret-nuclear-testing/106316826",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "US levels accusations and pushes for new arms deal including China post-US-Russia treaty lapse",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel permits Gazans to enter northern zone after prior strikes",
+      "source": "Wall Street Journal World",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel opens military zone for returns following hostage deal breakthrough after deadly strikes",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
       ],
       "category": "conflict",
       "region": "middle-east",
@@ -172,25 +165,26 @@
     }
   ],
   "metadata": {
-    "sourcesUsed": 12,
-    "articlesProcessed": 478,
+    "sourcesUsed": 13,
+    "articlesProcessed": 425,
+    "articlesAfterDedup": 423,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
     "categoryCounts": {
-      "conflict": 6,
-      "politics": 4,
-      "science": 1,
-      "society": 1
+      "conflict": 5,
+      "politics": 5,
+      "science": 1
     },
     "regionCounts": {
       "asia-pacific": 1,
-      "europe": 3,
+      "americas": 2,
       "middle-east": 3,
-      "africa": 3,
-      "global": 1,
-      "americas": 1
+      "europe": 3,
+      "global": 2
     },
     "tierCounts": {
       "top": 4,
-      "also": 5,
+      "also": 4,
       "developing": 3
     }
   }

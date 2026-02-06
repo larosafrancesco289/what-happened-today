@@ -1,7 +1,7 @@
 import OpenAI from 'openai';
 import type { ProcessedArticle, NewsHeadline, Category, Region, Importance, Tier } from '@/types/news';
+import { safeParseJSON } from '@/lib/utils';
 
-// OpenRouter client configuration
 const client = new OpenAI({
   apiKey: process.env.OPENROUTER_API_KEY?.trim(),
   baseURL: 'https://openrouter.ai/api/v1',
@@ -19,29 +19,6 @@ const client = new OpenAI({
 const MODEL_FILTER = 'nvidia/nemotron-3-nano-30b-a3b';
 const MODEL_HEADLINES = 'x-ai/grok-4.1-fast';
 const MODEL_SUMMARY = 'x-ai/grok-4.1-fast';
-
-function safeParseJSON<T = unknown>(text: string, fallback: T): T {
-  try {
-    return JSON.parse(text) as T;
-  } catch {
-    // Try to extract JSON from code fences or raw braces
-    const fenceMatch = text.match(/```(?:json)?\n([\s\S]*?)```/i);
-    let candidate = fenceMatch?.[1] ?? '';
-
-    if (!candidate) {
-      const start = text.indexOf('{');
-      const end = text.lastIndexOf('}');
-      if (start !== -1 && end > start) {
-        candidate = text.slice(start, end + 1);
-      }
-    }
-
-    if (candidate) {
-      try { return JSON.parse(candidate) as T; } catch { /* ignore */ }
-    }
-    return fallback;
-  }
-}
 
 // Helper function to retry operations with exponential backoff
 async function withRetry<T>(
@@ -79,9 +56,31 @@ interface ArticleAnalysis {
   reason: string;
 }
 
-// =============================================================================
-// NEW SIMPLIFIED PROMPTS - Designed for clarity, language enforcement, and quality
-// =============================================================================
+type SupportedPromptLang = 'en' | 'it' | 'fr';
+
+function getPrompts(languageCode: string): typeof LANGUAGE_PROMPTS[SupportedPromptLang] {
+  return LANGUAGE_PROMPTS[(languageCode as SupportedPromptLang)] ?? LANGUAGE_PROMPTS.en;
+}
+
+const SYSTEM_PROMPTS: Record<SupportedPromptLang, { headlines: string; summary: string }> = {
+  en: {
+    headlines: 'You are a neutral news editor. Write all headlines and summaries in English. Output valid JSON only.',
+    summary: 'You are a neutral news writer. Write the summary in plain English. Output valid JSON only.',
+  },
+  it: {
+    headlines: 'Sei un redattore neutrale. Scrivi TUTTI i titoli e sommari in ITALIANO. Output solo JSON valido.',
+    summary: 'Sei un giornalista neutrale. Scrivi il riassunto in ITALIANO semplice e chiaro. Output solo JSON valido.',
+  },
+  fr: {
+    headlines: 'Vous êtes un rédacteur neutre. Écrivez TOUS les titres et résumés en FRANÇAIS. Output JSON valide uniquement.',
+    summary: 'Vous êtes un journaliste neutre. Rédigez le résumé en FRANÇAIS simple et clair. Output JSON valide uniquement.',
+  },
+};
+
+function getSystemPrompt(languageCode: string, role: 'headlines' | 'summary'): string {
+  const lang = (languageCode as SupportedPromptLang);
+  return SYSTEM_PROMPTS[lang]?.[role] ?? SYSTEM_PROMPTS.en[role];
+}
 
 const LANGUAGE_PROMPTS = {
   en: {
@@ -132,10 +131,11 @@ For ongoing stories from yesterday with new developments, place them in the "dev
 
       return `Create headlines + summaries for distinct news events. Write in clear, factual English.
 
-TIER SYSTEM — Generate 12-15 headlines in 3 tiers:
-- "top" (3-4): Day's most important events, full detailed summaries
-- "also" (5-6): Important but not lead stories, shorter summaries
-- "developing" (2-3): Ongoing stories from yesterday with what specifically changed today
+TIER SYSTEM — Generate 8-15 headlines in 3 tiers:
+- "top" (2-4): Day's most important events, full detailed summaries
+- "also" (3-6): Important but not lead stories, shorter summaries
+- "developing" (0-3): Ongoing stories from yesterday with what specifically changed today
+If fewer than 8 stories meet the quality threshold, produce fewer. Never pad with marginal stories.
 ${memorySection}
 HEADLINE RULES:
 - 8-14 words, active voice, present tense for today's events
@@ -151,8 +151,10 @@ SUMMARY RULES:
 
 MULTI-SOURCE: When input articles have coveringSources, include all sources in a "sources" array field.
 
+SINGLE-SOURCE: If an article has NO [Also: ...] annotation, include "singleSource": true in the JSON.
+
 OUTPUT JSON FORMAT:
-{"headlines":[{"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
+{"headlines":[{"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"SingleSource","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
 
 ARTICLES:
 ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [Also: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`;
@@ -244,10 +246,11 @@ Per storie in corso da ieri con nuovi sviluppi, inseriscile nel livello "develop
 
 Crea titoli + sommari per ogni notizia distinta. Scrivi in italiano chiaro e fattuale.
 
-SISTEMA A LIVELLI — Genera 12-15 titoli in 3 livelli:
-- "top" (3-4): Le notizie più importanti del giorno, sommari dettagliati completi
-- "also" (5-6): Importanti ma non di apertura, sommari più brevi
-- "developing" (2-3): Storie in corso da ieri con cosa è cambiato specificamente oggi
+SISTEMA A LIVELLI — Genera 8-15 titoli in 3 livelli:
+- "top" (2-4): Le notizie più importanti del giorno, sommari dettagliati completi
+- "also" (3-6): Importanti ma non di apertura, sommari più brevi
+- "developing" (0-3): Storie in corso da ieri con cosa è cambiato specificamente oggi
+Se meno di 8 storie raggiungono la soglia di qualità, producine meno. Non aggiungere mai storie marginali.
 ${memorySection}
 REGOLE PER I TITOLI:
 - 8-14 parole, voce attiva, tempo presente per eventi di oggi
@@ -263,8 +266,10 @@ REGOLE PER I SOMMARI:
 
 MULTI-FONTE: Quando gli articoli in input hanno coveringSources, includi tutte le fonti in un campo array "sources".
 
+FONTE UNICA: Se un articolo NON ha annotazione [Anche: ...], includi "singleSource": true nel JSON.
+
 FORMATO JSON OUTPUT:
-{"headlines":[{"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
+{"headlines":[{"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"FonteUnica","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
 
 ARTICOLI:
 ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [Anche: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`;
@@ -356,10 +361,11 @@ Pour les histoires en cours depuis hier avec de nouveaux développements, placez
 
 Créez titres + résumés par événement distinct. Écrivez en français clair et factuel.
 
-SYSTÈME DE NIVEAUX — Générez 12-15 titres en 3 niveaux:
-- "top" (3-4): Les événements les plus importants du jour, résumés détaillés complets
-- "also" (5-6): Importants mais pas en une, résumés plus courts
-- "developing" (2-3): Histoires en cours depuis hier avec ce qui a spécifiquement changé aujourd'hui
+SYSTÈME DE NIVEAUX — Générez 8-15 titres en 3 niveaux:
+- "top" (2-4): Les événements les plus importants du jour, résumés détaillés complets
+- "also" (3-6): Importants mais pas en une, résumés plus courts
+- "developing" (0-3): Histoires en cours depuis hier avec ce qui a spécifiquement changé aujourd'hui
+Si moins de 8 sujets atteignent le seuil de qualité, produisez-en moins. Ne remplissez jamais avec des sujets marginaux.
 ${memorySection}
 RÈGLES POUR LES TITRES:
 - 8-14 mots, voix active, présent pour les événements du jour
@@ -375,8 +381,10 @@ RÈGLES POUR LES RÉSUMÉS:
 
 MULTI-SOURCE: Quand les articles en entrée ont coveringSources, incluez toutes les sources dans un champ tableau "sources".
 
+SOURCE UNIQUE: Si un article n'a PAS d'annotation [Aussi: ...], incluez "singleSource": true dans le JSON.
+
 FORMAT JSON OUTPUT:
-{"headlines":[{"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
+{"headlines":[{"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"SourceUnique","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
 
 ARTICLES:
 ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [Aussi: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`;
@@ -433,20 +441,18 @@ async function chatCompletion(model: string, systemPrompt: string, userPrompt: s
   return response.choices[0]?.message?.content || '';
 }
 
-// Internal helper: filter a single chunk of articles via the model
 async function filterAndRankArticlesChunk(articles: ProcessedArticle[], languageCode: string): Promise<ProcessedArticle[]> {
-  const prompts = LANGUAGE_PROMPTS[languageCode as keyof typeof LANGUAGE_PROMPTS] || LANGUAGE_PROMPTS.en;
-  const prompt = prompts.filterPrompt(articles);
+  const prompt = getPrompts(languageCode).filterPrompt(articles);
   const threshold = (languageCode === 'fr' || languageCode === 'it') ? 5 : 6;
 
   const systemPrompt = 'You are a neutral news editor. Analyze articles and respond with valid JSON only. No markdown, no explanations.';
   const responseText = await chatCompletion(MODEL_FILTER, systemPrompt, prompt);
 
-  const result = safeParseJSON<{ analyses: ArticleAnalysis[] }>(responseText, { analyses: [] as ArticleAnalysis[] });
+  const result = safeParseJSON<{ analyses: ArticleAnalysis[] }>(responseText, { analyses: [] });
 
   return articles
     .map((article, index) => {
-      const analysis: ArticleAnalysis | undefined = result.analyses?.find((r: ArticleAnalysis) => r.index === index);
+      const analysis = result.analyses?.find(r => r.index === index);
       const score = analysis?.relevanceScore ?? 0;
       return {
         ...article,
@@ -495,8 +501,7 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
 
     const chunkResults = await Promise.all(chunkPromises);
 
-    // Merge and deduplicate by normalized title + link host/path
-    const merged = ([] as ProcessedArticle[]).concat(...chunkResults);
+    const merged = chunkResults.flat();
     const seen = new Set<string>();
     const unique: ProcessedArticle[] = [];
     for (const a of merged) {
@@ -536,29 +541,24 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
 }
 
 export async function generateHeadlines(articles: ProcessedArticle[], languageCode: string = 'en', yesterdayHeadlines: NewsHeadline[] = []): Promise<NewsHeadline[]> {
-  const prompts = LANGUAGE_PROMPTS[languageCode as keyof typeof LANGUAGE_PROMPTS] || LANGUAGE_PROMPTS.en;
-  const prompt = prompts.headlinesPrompt(articles, yesterdayHeadlines);
-
-  // Language-specific system prompts to enforce output language
-  const systemPrompts: Record<string, string> = {
-    en: 'You are a neutral news editor. Write all headlines and summaries in English. Output valid JSON only.',
-    it: 'Sei un redattore neutrale. Scrivi TUTTI i titoli e sommari in ITALIANO. Output solo JSON valido.',
-    fr: 'Vous êtes un rédacteur neutre. Écrivez TOUS les titres et résumés en FRANÇAIS. Output JSON valide uniquement.'
-  };
+  const prompt = getPrompts(languageCode).headlinesPrompt(articles, yesterdayHeadlines);
 
   try {
-    const systemPrompt = systemPrompts[languageCode] || systemPrompts.en;
-    const responseText = await chatCompletion(MODEL_HEADLINES, systemPrompt, prompt, 4096);
+    const responseText = await chatCompletion(MODEL_HEADLINES, getSystemPrompt(languageCode, 'headlines'), prompt, 4096);
 
     const result = safeParseJSON(responseText, { headlines: [] as NewsHeadline[] });
     const headlines = result.headlines || [];
 
-    // Post-parse fallback: ensure all headlines have tier and sources
-    return headlines.map(h => ({
-      ...h,
-      tier: (h.tier as Tier) || 'also',
-      sources: h.sources && h.sources.length > 0 ? h.sources : [h.source],
-    }));
+    // Post-parse fallback: ensure all headlines have tier, sources, and singleSource
+    return headlines.map(h => {
+      const sources = h.sources && h.sources.length > 0 ? h.sources : [h.source];
+      return {
+        ...h,
+        tier: (h.tier as Tier) || 'also',
+        sources,
+        singleSource: h.singleSource ?? (sources.length <= 1),
+      };
+    });
   } catch (error) {
     console.error('Error generating headlines:', error);
     // Return empty array - the pipeline will handle this as "unavailable"
@@ -572,17 +572,8 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     throw new Error('Cannot generate summary: no headlines provided. This would cause the LLM to hallucinate old/fake news.');
   }
 
-  const prompts = LANGUAGE_PROMPTS[languageCode as keyof typeof LANGUAGE_PROMPTS] || LANGUAGE_PROMPTS.en;
-  const prompt = prompts.summaryPrompt(headlines, yesterdayHeadlines);
-
-  // Language-specific system prompts to enforce output language
-  const systemPrompts: Record<string, string> = {
-    en: 'You are a neutral news writer. Write the summary in plain English. Output valid JSON only.',
-    it: 'Sei un giornalista neutrale. Scrivi il riassunto in ITALIANO semplice e chiaro. Output solo JSON valido.',
-    fr: 'Vous êtes un journaliste neutre. Rédigez le résumé en FRANÇAIS simple et clair. Output JSON valide uniquement.'
-  };
-
-  const systemPrompt = systemPrompts[languageCode] || systemPrompts.en;
+  const prompt = getPrompts(languageCode).summaryPrompt(headlines, yesterdayHeadlines);
+  const systemPrompt = getSystemPrompt(languageCode, 'summary');
   const MAX_ATTEMPTS = 2;
 
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
@@ -673,7 +664,7 @@ OUTPUT: {"categories":[{"index":0,"category":"conflict","region":"europe","impor
     const result = safeParseJSON<{ categories: HeadlineCategorization[] }>(responseText, { categories: [] });
 
     return headlines.map((headline, index) => {
-      const match = result.categories?.find((c: HeadlineCategorization) => c.index === index);
+      const match = result.categories?.find(c => c.index === index);
       return {
         ...headline,
         category: match?.category ?? defaultMeta.category,

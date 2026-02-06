@@ -1,13 +1,11 @@
-// News categories for organizing headlines by topic
 export type Category =
-  | 'conflict'      // Wars, military actions, terrorism
-  | 'politics'      // Elections, policy, diplomacy
-  | 'economy'       // Markets, trade, business
-  | 'science'       // Research, technology, health
-  | 'environment'   // Climate, disasters, conservation
-  | 'society';      // Human rights, culture, demographics
+  | 'conflict'
+  | 'politics'
+  | 'economy'
+  | 'science'
+  | 'environment'
+  | 'society';
 
-// Geographic regions for filtering
 export type Region =
   | 'europe'
   | 'americas'
@@ -16,8 +14,9 @@ export type Region =
   | 'africa'
   | 'global';
 
-// Story importance levels
 export type Importance = 'breaking' | 'major' | 'notable';
+
+export type Tier = 'top' | 'also' | 'developing';
 
 export interface NewsHeadline {
   title: string;
@@ -27,6 +26,12 @@ export interface NewsHeadline {
   category?: Category;
   region?: Region;
   importance?: Importance;
+  sources?: string[];
+  tier?: Tier;
+  /** For developing tier: how many consecutive days this story has run */
+  dayNumber?: number;
+  /** For developing tier: what changed since the previous day */
+  previousContext?: string;
 }
 
 export interface DailyNewsMetadata {
@@ -34,6 +39,7 @@ export interface DailyNewsMetadata {
   articlesProcessed: number;
   categoryCounts?: Partial<Record<Category, number>>;
   regionCounts?: Partial<Record<Region, number>>;
+  tierCounts?: Partial<Record<Tier, number>>;
 }
 
 export interface DailyNews {
@@ -63,4 +69,6 @@ export interface ProcessedArticle {
   link: string;
   relevanceScore: number;
   isRelevant: boolean;
-} 
+  /** Other sources covering the same story (set during cross-source grouping) */
+  coveringSources?: string[];
+}

@@ -1,94 +1,197 @@
 {
   "date": "2026-02-06",
-  "summary": "NATO launched its first alliance-wide response today to suspected sabotage after another deep-sea cable was severed in the Baltic Sea, linking Finland and Germany. This marks the third such incident in months, amid fears of hybrid warfare targeting critical infrastructure—likely aimed at sowing discord among NATO's eastern flank. The coordinated bolstering of defenses underscores the alliance's shift from deterrence to active protection, as members like Estonia and Sweden report heightened Russian shadow activities since the Ukraine invasion.\n\nViolence surged elsewhere: in Nigeria's Kwara state, jihadists massacred 162 villagers in Woro and Nuku, rounding them up and shooting in the deadliest attack this year on the northwest's restive communities, prompting troop deployments. Across Africa, U.N.-backed experts warned of famine engulfing Sudan's Darfur region, where army-paramilitary clashes have displaced millions and choked aid, threatening mass starvation for 25 million. In the U.S., Ryan Wesley Routh received a life sentence for his September 2024 attempt to assassinate Donald Trump at a Florida golf course, a stark reminder of political violence amid election strains.\n\nForward steps emerged amid the gloom: Israel permitted hundreds of thousands of displaced Palestinians to return on foot to northern Gaza after a hostage-release breakthrough eased a military blockade, hinting at phased de-escalation. The U.S. and Iran scheduled direct nuclear talks in Oman, testing restraint as an American carrier nears and Trump issues threats. Meanwhile, Indonesia and Australia inked a security pact to counter China tensions, fortifying Indo-Pacific alliances.",
+  "summary": "Rwanda-backed rebels defeated Congolese troops and entered Goma in eastern Democratic Republic of Congo, prompting gunfire and shelling. Over one million displaced residents are trapped in the city, affecting U.N. aid operations that serve as a humanitarian hub. The incursion threatens regional stability as fighting escalates in the area.\n\nIn Pakistan, a suicide bomber detonated at a Shiite mosque in Islamabad during Friday prayers, killing at least 30 worshippers and wounding over 130. Police are investigating the attack, which heightens risks of sectarian violence amid regional instability. Separately, U.S. and Iranian diplomats began talks in Oman on Iran's nuclear program, amid a U.S. military buildup. Progress may occur on nuclear limits, though Iranian officials express doubts over U.S. demands on other issues. An unidentified assailant shot Russian Lt. Gen. Vladimir Alekseyev, deputy chief of military intelligence, multiple times in Moscow; he was hospitalized in an incident echoing prior attacks on military figures during the Ukraine conflict.\n\nNATO launched a coordinated response after another Baltic Sea cable severance, amid a suspected sabotage campaign targeting infrastructure; Baltic allies increased defenses against hybrid threats attributed by some to Russia. Nigerian troops deployed to villages Woro and Nuku in Kwara state following jihadist attacks that killed 162 residents. Israel permitted hundreds of thousands of displaced Palestinians to cross into northern Gaza after a hostage release ended a military zone restriction, though Israeli forces killed two Palestinians in strikes in northern Gaza and Khan Younis amid limited Rafah crossings. NASA and SpaceX launched the Crew-10 mission from Florida on a Falcon 9, carrying four astronauts to the ISS to enable the return of two NASA crew members stuck for nine months. The EU Commission found TikTok's infinite scroll and notifications addictive, violating the Digital Services Act and risking a fine up to 6% of ByteDance's global revenue. A U.S. appeals court in the Fourth Circuit lifted an injunction on Trump administration executive orders halting federal DEI programs. A Nigerian court ordered Britain to pay 420 million pounds to families of 21 coal miners killed by colonial authorities.",
   "headlines": [
     {
-      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "title": "Suicide Bomber Kills 30 Worshippers at Shiite Mosque in Islamabad",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "BBC World",
+        "ABC Australia",
+        "Deutsche Welle"
+      ],
+      "summary": "Suicide bomber detonates at Shiite mosque in Islamabad during Friday prayers, killing at least 30 and wounding over 130. Worshippers and responders affected in Pakistan's capital. Police investigate; attack escalates sectarian violence risks amid regional instability.",
+      "link": "https://www.france24.com/en/asia-pacific/20260206-suicide-bombing-islamabad-shiite-mosque-kills-at-least-20-people",
+      "tier": "top",
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Unidentified Assailant Shoots Russian Lt. Gen. Vladimir Alekseyev in Moscow",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "New York Times World"
+      ],
+      "summary": "Deputy chief of Russian military intelligence shot multiple times in Moscow and hospitalized. Officer and investigators affected. Incident echoes prior attacks on Russian military figures, signaling internal security threats amid Ukraine conflict.",
+      "link": "https://apnews.com/article/russia-military-intelligence-officer-shot-moscow-82f1878b3ad7236b1d29279b522c2a2c",
+      "tier": "top",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. and Iran Officials Begin Talks on Nuclear Program in Oman",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "BBC World",
+        "Deutsche Welle"
+      ],
+      "summary": "U.S. and Iranian diplomats meet in Oman to discuss nuclear program amid U.S. military buildup. Regional actors and global non-proliferation efforts affected. Progress possible on nukes but doubts over other demands heighten Middle East tensions.",
+      "link": "https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html",
+      "tier": "top",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma Trapping One Million Displaced in Congo",
       "source": "Wall Street Journal World",
-      "summary": "NATO launches its initial alliance-wide response after another deep-sea cable severs in the Baltic Sea amid suspected sabotage of critical infrastructure. NATO members face heightened hybrid threats. Response bolsters defenses against future attacks.",
+      "summary": "Rebels defeat Congolese troops and enter Goma, prompting gunfire and shelling. Over one million displaced residents and U.N. aid operations affected. Escalation threatens humanitarian hub and regional stability in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 from Florida to Retrieve Stuck ISS Astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries four astronauts to ISS for six-month rotation, enabling return of two stuck NASA crew after nine months. Astronauts and space program affected. Mission restores routine operations for international station.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Cross into Northern Gaza",
+      "source": "Wall Street Journal World",
+      "summary": "Israel allows Gazans to return north after hostage release breakthrough ends military zone deadlock. Hundreds of thousands of displaced affected. Move eases humanitarian crisis but ongoing risks persist post-ceasefire.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "EU Commission Finds TikTok Addictive Design Violates Digital Services Act",
+      "source": "South China Morning Post",
+      "summary": "Preliminary probe cites infinite scroll and notifications as addictive, risking 6% global revenue fine for ByteDance. EU users and platform affected. Forces design changes to protect minors and curb harmful features.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3342692/eu-finds-tiktok-addictive-digital-law-probe-6-fine-looms-bytedance?utm_source=rss_feed",
+      "tier": "also",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. Appeals Court Lifts Injunction on Trump Administration DEI Crackdown",
+      "source": "Voice of America",
+      "summary": "Fourth Circuit panel rules executive orders halting federal DEI programs likely constitutional. Government agencies and employees affected. Enables enforcement nationwide, reshaping workplace diversity policies.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "also",
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Nigerian Court Orders Britain to Pay 420 Million Pounds for 21 Colonial-Era Coal Miner Deaths",
+      "source": "AllAfrica",
+      "summary": "Court mandates UK payment to families of miners killed by colonial administration, faulting Nigeria's government for inaction. Victims' relatives affected. Ruling revives reparations push for colonial injustices.",
+      "link": "https://allafrica.com/stories/202602060048.html",
+      "tier": "also",
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches Coordinated Response After Another Baltic Sea Cable Severance",
+      "source": "Wall Street Journal World",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Alliance activates first joint operation following new suspected sabotage incident",
+      "summary": "NATO responds to severed deep-sea cable amid sabotage campaign targeting critical infrastructure. Baltic allies and energy security affected. Heightens defenses against hybrid threats from Russia.",
       "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "sources": [
+        "Wall Street Journal World"
+      ],
       "category": "conflict",
       "region": "europe",
       "importance": "breaking"
     },
     {
-      "title": "Gunmen Kill 162 Residents in Attacks on Two Villages in Western Nigeria",
+      "title": "Nigerian Troops Deploy to Western Villages After Jihadists Kill 162 Residents",
       "source": "The Guardian",
-      "summary": "Jihadists massacre 162 people in Woro and Nuku villages in Kwara state by rounding up and shooting residents. Over 160 families grieve losses; Nigeria deploys troops. Deadliest attack this year escalates jihadist violence in northwest.",
-      "link": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+      "sources": [
+        "The Guardian"
+      ],
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Village chief recounts killing of two sons and kidnapping of wife as military arrives",
+      "summary": "Government sends troops to Woro and Nuku following massacre. 162 killed, families like chief's affected. Deployment aims to curb jihadist violence spreading in Kwara state.",
+      "link": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
       "category": "conflict",
       "region": "africa",
       "importance": "major"
     },
     {
-      "title": "Court Sentences Ryan Wesley Routh to Life for Attempting to Assassinate Trump",
-      "source": "ABC Australia",
-      "summary": "Ryan Wesley Routh, who waited 12 hours to target Trump at a Florida golf course in September 2024, receives life sentence. US public and democracy targeted. Verdict deters political violence amid election tensions.",
-      "link": "https://www.abc.net.au/news/2026-02-06/ryan-wesley-routh-life-sentence-assassination-attempt/106310824",
-      "category": "politics",
-      "region": "americas",
-      "importance": "notable"
-    },
-    {
-      "title": "Indonesia and Australia Sign New Security Treaty to Deepen Bilateral Ties",
-      "source": "The Hindu",
-      "summary": "Indonesia and Australia formalize security pact amid rising China tensions in Indo-Pacific. Both nations enhance defense cooperation. Treaty strengthens Australia's regional posture against geopolitical shifts.",
-      "link": "https://www.thehindu.com/news/international/indonesia-australia-sign-new-security-treaty-to-affirm-deeper-ties/article70598923.ece",
-      "category": "politics",
-      "region": "asia-pacific",
-      "importance": "major"
-    },
-    {
-      "title": "U.N.-Backed Experts Warn Famine Spreads Across Sudan’s Darfur Region",
-      "source": "Japan Times",
-      "summary": "Famine expands in Darfur due to army-paramilitary war displacing millions and blocking aid.  Millions face hunger in Sudan. Warning urges international intervention to avert mass starvation.",
-      "link": "https://www.japantimes.co.jp/news/2026/02/06/world/sudan-famine-spread/",
-      "category": "society",
-      "region": "africa",
-      "importance": "major"
-    },
-    {
-      "title": "US and Iran Schedule Nuclear Talks in Oman Amid Trump Military Threats",
-      "source": "France 24",
-      "summary": "US and Iran hold first direct talks in Oman on Tehran's nuclear program post-Israel bombings and Iranian protests. Regional stability at stake with US carrier approaching. Talks test de-escalation amid tensions.",
-      "link": "https://www.france24.com/en/live-us-and-iran-prepare-high-stakes-talks-oman-trump-threatens-military-action",
-      "category": "politics",
-      "region": "middle-east",
-      "importance": "major"
-    },
-    {
-      "title": "Hong Kong Court Schedules Jimmy Lai Sentencing for Monday After Security Conviction",
-      "source": "Associated Press",
-      "summary": "Pro-democracy publisher Jimmy Lai, 78, faces up to life in prison under Beijing's national security law following December conviction. Hong Kong activists watch closely. Case highlights press freedom erosion.",
-      "link": "https://apnews.com/article/hong-kong-jimmy-lai-national-security-df660ddc87aa019122b3ed2ac55a8693",
-      "category": "society",
-      "region": "asia-pacific",
-      "importance": "notable"
-    },
-    {
-      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
-      "source": "Wall Street Journal World",
-      "summary": "Israel permits Gazans to cross military zone back to northern Gaza after hostage release deadlock breaks. Hundreds of thousands displaced return on foot. Move eases humanitarian crisis in divided enclave.",
-      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "title": "Israeli Forces Kill Two Palestinians in Northern Gaza Amid Rafah Trickle",
+      "source": "Al Jazeera English",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Post-ceasefire returns begin north while strikes continue and Rafah crossing sees minimal movement",
+      "summary": "Strikes target northern Gaza and Khan Younis, killing two as some cross Rafah. Palestinians affected. Underscores fragile truce and restricted mobility in enclave.",
+      "link": "https://www.aljazeera.com/news/2026/2/6/israel-kills-two-in-northern-gaza-as-rafah-crossing-sees-little-movement?traffic_source=rss",
+      "sources": [
+        "Al Jazeera English"
+      ],
       "category": "conflict",
       "region": "middle-east",
-      "importance": "major"
+      "importance": "notable"
     }
   ],
   "metadata": {
-    "sourcesUsed": 7,
-    "articlesProcessed": 467,
+    "sourcesUsed": 12,
+    "articlesProcessed": 478,
     "categoryCounts": {
-      "conflict": 3,
-      "politics": 3,
-      "society": 2
+      "conflict": 6,
+      "politics": 4,
+      "science": 1,
+      "society": 1
     },
     "regionCounts": {
-      "europe": 1,
-      "africa": 2,
-      "americas": 1,
-      "asia-pacific": 2,
-      "middle-east": 2
+      "asia-pacific": 1,
+      "europe": 3,
+      "middle-east": 3,
+      "africa": 3,
+      "global": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 3
     }
   }
 }

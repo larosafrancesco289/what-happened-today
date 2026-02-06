@@ -1,5 +1,5 @@
 import OpenAI from 'openai';
-import type { ProcessedArticle, NewsHeadline, Category, Region, Importance } from '@/types/news';
+import type { ProcessedArticle, NewsHeadline, Category, Region, Importance, Tier } from '@/types/news';
 
 // OpenRouter client configuration
 const client = new OpenAI({
@@ -24,14 +24,18 @@ function safeParseJSON<T = unknown>(text: string, fallback: T): T {
   try {
     return JSON.parse(text) as T;
   } catch {
-    // Try to extract JSON from code fences or stray text
+    // Try to extract JSON from code fences or raw braces
     const fenceMatch = text.match(/```(?:json)?\n([\s\S]*?)```/i);
-    const candidate = fenceMatch ? fenceMatch[1] : (() => {
+    let candidate = fenceMatch?.[1] ?? '';
+
+    if (!candidate) {
       const start = text.indexOf('{');
       const end = text.lastIndexOf('}');
-      if (start !== -1 && end !== -1 && end > start) return text.slice(start, end + 1);
-      return '';
-    })();
+      if (start !== -1 && end > start) {
+        candidate = text.slice(start, end + 1);
+      }
+    }
+
     if (candidate) {
       try { return JSON.parse(candidate) as T; } catch { /* ignore */ }
     }
@@ -118,65 +122,76 @@ OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":".
 ARTICLES:
 ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
 
-    headlinesPrompt: (articles: ProcessedArticle[]) => `Create one headline + summary per distinct news event. Write in clear, factual English.
+    headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
+      const memorySection = yesterdayHeadlines.length > 0 ? `
+YESTERDAY'S HEADLINES (for continuity — do NOT repeat unless there is a NEW development):
+${yesterdayHeadlines.map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
+For ongoing stories from yesterday with new developments, place them in the "developing" tier with dayNumber (how many consecutive days) and previousContext (what specifically changed today).
 
+` : '';
+
+      return `Create headlines + summaries for distinct news events. Write in clear, factual English.
+
+TIER SYSTEM — Generate 12-15 headlines in 3 tiers:
+- "top" (3-4): Day's most important events, full detailed summaries
+- "also" (5-6): Important but not lead stories, shorter summaries
+- "developing" (2-3): Ongoing stories from yesterday with what specifically changed today
+${memorySection}
 HEADLINE RULES:
 - 8-14 words, active voice, present tense for today's events
 - Subject-Verb-Object structure (WHO did WHAT to WHOM)
 - NO sensational words: slams, blasts, rocks, shock, stunning, chaos, crisis (unless literal)
 - NO question headlines or cliffhangers
 - Include specific numbers when available (casualties, amounts, percentages)
-- For ongoing stories, focus on TODAY'S development
 
 SUMMARY RULES:
 - 25-40 words covering: What happened, Who is affected, What happens next
 - Include specific numbers, dates, or locations when relevant
 - State the significance: why this matters to readers
-- Avoid hedging language (could, might, may) unless genuinely uncertain
 
-EXAMPLE (GOOD):
-{"title":"EU Parliament Approves Landmark AI Regulation Affecting Major Tech Companies","source":"Reuters","summary":"The European Parliament passed the AI Act, the world's first comprehensive AI law, requiring companies like OpenAI and Google to comply by 2026. Non-compliance carries fines up to 7% of global revenue.","link":"..."}
+MULTI-SOURCE: When input articles have coveringSources, include all sources in a "sources" array field.
 
-AVOID THESE PATTERNS:
-- "Breaking: Shocking Development Rocks Markets" (sensational, vague)
-- "Is Democracy in Danger?" (question, vague)
-- "What Happened Will Surprise You" (clickbait)
-- "Experts React to News" (no new facts)
-
-OUTPUT JSON: {"headlines":[...]}
+OUTPUT JSON FORMAT:
+{"headlines":[{"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
 
 ARTICLES:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`,
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [Also: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`;
+    },
 
-    summaryPrompt: (headlines: NewsHeadline[]) => `Write a 2-3 paragraph daily news briefing (220-300 words) that tells TODAY'S STORY. Your goal is to help readers understand the world in 90 seconds.
+    summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
+      const yesterdaySection = yesterdayHeadlines.length > 0 ? `
+YESTERDAY'S CONTEXT (for reference — do not repeat old information, only mention what changed):
+${yesterdayHeadlines.slice(0, 5).map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
+
+` : '';
+
+      return `Write a 2-3 paragraph daily news briefing (250-350 words). Your goal is to help readers understand the world in 90 seconds.
 
 STRUCTURE:
-Paragraph 1: Lead with the most significant global story. Connect it to broader context or ongoing developments.
-Paragraph 2: Cover 2-3 other major stories, showing how they relate to each other or to larger themes when possible.
-Paragraph 3: End with a forward-looking story or development that signals what's coming next.
-
-STORYTELLING REQUIREMENTS:
-- Connect events narratively: show cause and effect, parallel developments, or thematic links
-- Provide context: what came before, why it matters, what it means for ordinary people
-- Use transitions that show relationships: "Meanwhile", "This comes as", "The development follows"
-- Name specific places, people, and numbers - be concrete, not abstract
-- Write like The Economist or The Atlantic: intelligent but accessible
+Paragraph 1: Lead with the most significant global story. Provide factual context.
+Paragraph 2: Cover 2-3 other major stories, connecting related events where factual links exist.
+Paragraph 3: Cover remaining important stories and any developing situations.
+${yesterdaySection}
+WRITING RULES:
+- Present events in order of global impact, not narrative drama
+- State what happened, who is affected, what is expected next
+- When sources or actors disagree, state both positions
+- NO narrative arc, NO editorial framing, NO value-laden adjectives
+- DO provide factual context and connections between related events
+- Factual transitions ("In [region]", "Separately") not dramatic ones ("Meanwhile, as tensions mount")
+- Name specific places, people, and numbers — be concrete, not abstract
 
 TONE:
-- Neutral and factual, but not boring
+- Neutral and factual throughout
 - Present multiple perspectives when relevant
-- Avoid editorializing, but contextualization is encouraged
-- No sensationalism, but acknowledge significance
-
-GOOD EXAMPLE:
-{"summary":"The war in Ukraine struck Moscow's heart today when a car bomb killed Lieutenant General Igor Kirillov outside his apartment building - the highest-profile assassination inside Russia since the conflict began. The brazen hit, claimed by Ukraine's security services, signals Kyiv's growing capacity to strike deep within enemy territory even as its forces struggle to hold ground in the east.\\n\\nThe attack came hours after Russia unleashed its largest aerial barrage in weeks: 650 drones and 30 missiles targeting Ukraine's power grid, leaving millions without heat as temperatures plunge below freezing. Poland scrambled fighter jets to protect its airspace, a reminder of how the war's shockwaves extend well beyond Ukraine's borders. The tit-for-tat escalation dims already faint hopes for peace talks that both sides had hinted at in recent weeks.\\n\\nBeyond Europe, Sudan's humanitarian catastrophe deepened as the UN warned the Security Council that nearly 1,000 days of civil war have created what may be the world's worst hunger crisis, with 25 million people needing aid."}
-
-BAD (don't do this): "Russia attacked Ukraine. A general was killed. Sudan has a humanitarian crisis." - This is just a list, not a story. No connections, no context, no narrative.
+- No editorializing — let facts speak for themselves
+- No sensationalism — acknowledge significance through specifics, not adjectives
 
 TODAY'S STORIES:
 ${headlines.map((h, i) => `${i + 1}. ${h.title} — ${h.summary}`).join('\n')}
 
-Output JSON: {"summary":"<your briefing here>"}`
+Output JSON: {"summary":"<your briefing here>"}`;
+    }
   },
 
   it: {
@@ -217,66 +232,78 @@ OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":".
 ARTICOLI:
 ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
 
-    headlinesPrompt: (articles: ProcessedArticle[]) => `IMPORTANTE: Scrivi TUTTO in italiano.
+    headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
+      const memorySection = yesterdayHeadlines.length > 0 ? `
+TITOLI DI IERI (per continuità — NON ripetere a meno che non ci sia uno sviluppo NUOVO):
+${yesterdayHeadlines.map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
+Per storie in corso da ieri con nuovi sviluppi, inseriscile nel livello "developing" con dayNumber (quanti giorni consecutivi) e previousContext (cosa è cambiato oggi specificamente).
 
-Crea un titolo + sommario per ogni notizia distinta. Scrivi in italiano chiaro e fattuale.
+` : '';
 
+      return `IMPORTANTE: Scrivi TUTTO in italiano.
+
+Crea titoli + sommari per ogni notizia distinta. Scrivi in italiano chiaro e fattuale.
+
+SISTEMA A LIVELLI — Genera 12-15 titoli in 3 livelli:
+- "top" (3-4): Le notizie più importanti del giorno, sommari dettagliati completi
+- "also" (5-6): Importanti ma non di apertura, sommari più brevi
+- "developing" (2-3): Storie in corso da ieri con cosa è cambiato specificamente oggi
+${memorySection}
 REGOLE PER I TITOLI:
 - 8-14 parole, voce attiva, tempo presente per eventi di oggi
 - Struttura Soggetto-Verbo-Oggetto (CHI ha fatto COSA a CHI)
 - NO parole sensazionalistiche: shock, clamoroso, bomba, incredibile, assurdo
 - NO titoli con domande o cliffhanger
 - Includi numeri specifici quando disponibili (vittime, importi, percentuali)
-- Per storie in corso, concentrati sullo sviluppo di OGGI
 
 REGOLE PER I SOMMARI:
 - 25-40 parole che coprono: Cosa è successo, Chi è coinvolto, Cosa succede dopo
 - Includi numeri specifici, date o luoghi quando rilevanti
 - Spiega il significato: perché interessa ai lettori
-- Evita linguaggio vago (potrebbe, forse) a meno che non sia genuinamente incerto
 
-ESEMPIO (BUONO):
-{"title":"Il Parlamento UE approva la storica regolamentazione sull'IA per le big tech","source":"Reuters","summary":"Il Parlamento Europeo ha approvato l'AI Act, la prima legge completa sull'intelligenza artificiale al mondo, che obbliga aziende come OpenAI e Google a conformarsi entro il 2026. La non conformità comporta multe fino al 7% del fatturato globale.","link":"..."}
+MULTI-FONTE: Quando gli articoli in input hanno coveringSources, includi tutte le fonti in un campo array "sources".
 
-PATTERN DA EVITARE:
-- "Breaking: Sviluppo shock scuote i mercati" (sensazionalistico, vago)
-- "La democrazia è in pericolo?" (domanda, vago)
-- "Non crederai a cosa è successo" (clickbait)
-
-OUTPUT JSON: {"headlines":[...]}
+FORMATO JSON OUTPUT:
+{"headlines":[{"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
 
 ARTICOLI:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`,
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [Anche: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`;
+    },
 
-    summaryPrompt: (headlines: NewsHeadline[]) => `Scrivi un briefing quotidiano di 2-3 paragrafi (220-300 parole) IN ITALIANO che racconti la STORIA di oggi. Il tuo obiettivo è aiutare i lettori a capire il mondo in 90 secondi.
+    summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
+      const yesterdaySection = yesterdayHeadlines.length > 0 ? `
+CONTESTO DI IERI (per riferimento — non ripetere vecchie informazioni, menziona solo cosa è cambiato):
+${yesterdayHeadlines.slice(0, 5).map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
+
+` : '';
+
+      return `Scrivi un briefing quotidiano di 2-3 paragrafi (250-350 parole) IN ITALIANO. Il tuo obiettivo è aiutare i lettori a capire il mondo in 90 secondi.
 
 STRUTTURA:
-Paragrafo 1: Apri con la storia globale più significativa. Collegala al contesto più ampio o agli sviluppi in corso.
-Paragrafo 2: Copri 2-3 altre storie importanti, mostrando come si collegano tra loro o a temi più ampi quando possibile.
-Paragrafo 3: Concludi con una storia o sviluppo che guarda al futuro e segnala cosa sta arrivando.
-
-REQUISITI NARRATIVI:
-- Collega gli eventi in modo narrativo: mostra causa ed effetto, sviluppi paralleli o collegamenti tematici
-- Fornisci contesto: cosa è successo prima, perché conta, cosa significa per la gente comune
-- Usa transizioni che mostrano relazioni: "Nel frattempo", "Questo avviene mentre", "Lo sviluppo segue"
-- Nomina luoghi, persone e numeri specifici - sii concreto, non astratto
-- Scrivi come The Economist o Internazionale: intelligente ma accessibile
+Paragrafo 1: Apri con la notizia globale più significativa. Fornisci contesto fattuale.
+Paragrafo 2: Copri 2-3 altre storie importanti, collegando eventi correlati dove esistono legami fattuali.
+Paragrafo 3: Copri le restanti notizie importanti e eventuali situazioni in sviluppo.
+${yesterdaySection}
+REGOLE DI SCRITTURA:
+- Presenta gli eventi in ordine di impatto globale, non di dramma narrativo
+- Indica cosa è successo, chi è coinvolto, cosa ci si aspetta dopo
+- Quando fonti o attori sono in disaccordo, riporta entrambe le posizioni
+- NESSUN arco narrativo, NESSUN inquadramento editoriale, NESSUN aggettivo di valore
+- Fornisci contesto fattuale e connessioni tra eventi correlati
+- Transizioni fattuali ("In [regione]", "Separatamente") non drammatiche ("Nel frattempo, mentre le tensioni aumentano")
+- Nomina luoghi, persone e numeri specifici — sii concreto, non astratto
 
 TONO:
-- Neutrale e fattuale, ma non noioso
+- Neutrale e fattuale in tutto il testo
 - Presenta più prospettive quando rilevante
-- Evita di editorializzare, ma la contestualizzazione è incoraggiata
-- Niente sensazionalismo, ma riconosci l'importanza
-
-BUON ESEMPIO:
-{"summary":"La guerra in Ucraina ha colpito il cuore di Mosca oggi quando un'autobomba ha ucciso il Tenente Generale Igor Kirillov fuori dal suo appartamento - l'assassinio più eclatante in Russia dall'inizio del conflitto. L'attacco audace, rivendicato dai servizi segreti ucraini, segnala la crescente capacità di Kiev di colpire in profondità nel territorio nemico anche mentre le sue forze faticano a mantenere il terreno nell'est.\\n\\nL'attentato è arrivato ore dopo che la Russia ha scatenato il più grande bombardamento aereo delle ultime settimane: 650 droni e 30 missili contro la rete elettrica ucraina, lasciando milioni di persone senza riscaldamento mentre le temperature scendono sotto zero. La Polonia ha fatto decollare caccia per proteggere il suo spazio aereo, un promemoria di come le onde d'urto della guerra si estendano ben oltre i confini ucraini.\\n\\nOltre l'Europa, la catastrofe umanitaria del Sudan si è aggravata mentre l'ONU ha avvertito il Consiglio di Sicurezza che quasi 1.000 giorni di guerra civile hanno creato quella che potrebbe essere la peggiore crisi alimentare del mondo, con 25 milioni di persone bisognose di aiuti."}
-
-MALE (non fare così): "La Russia ha attaccato l'Ucraina. Un generale è stato ucciso. Il Sudan ha una crisi umanitaria." - Questa è solo una lista, non una storia. Nessun collegamento, nessun contesto, nessuna narrativa.
+- Nessuna editorializzazione — lascia parlare i fatti
+- Nessun sensazionalismo — riconosci l'importanza attraverso i dettagli specifici, non gli aggettivi
 
 NOTIZIE DI OGGI:
 ${headlines.map((h, i) => `${i + 1}. ${h.title} — ${h.summary}`).join('\n')}
 
-Output JSON: {"summary":"<il tuo briefing qui>"}`
+Output JSON: {"summary":"<il tuo briefing qui>"}`;
+    }
   },
 
   fr: {
@@ -317,66 +344,78 @@ OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":".
 ARTICLES:
 ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
 
-    headlinesPrompt: (articles: ProcessedArticle[]) => `IMPORTANT: Écrivez TOUT en français.
+    headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
+      const memorySection = yesterdayHeadlines.length > 0 ? `
+TITRES D'HIER (pour continuité — NE PAS répéter sauf s'il y a un NOUVEAU développement):
+${yesterdayHeadlines.map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
+Pour les histoires en cours depuis hier avec de nouveaux développements, placez-les dans le niveau "developing" avec dayNumber (combien de jours consécutifs) et previousContext (ce qui a spécifiquement changé aujourd'hui).
 
-Créez un titre + résumé par événement distinct. Écrivez en français clair et factuel.
+` : '';
 
+      return `IMPORTANT: Écrivez TOUT en français.
+
+Créez titres + résumés par événement distinct. Écrivez en français clair et factuel.
+
+SYSTÈME DE NIVEAUX — Générez 12-15 titres en 3 niveaux:
+- "top" (3-4): Les événements les plus importants du jour, résumés détaillés complets
+- "also" (5-6): Importants mais pas en une, résumés plus courts
+- "developing" (2-3): Histoires en cours depuis hier avec ce qui a spécifiquement changé aujourd'hui
+${memorySection}
 RÈGLES POUR LES TITRES:
 - 8-14 mots, voix active, présent pour les événements du jour
 - Structure Sujet-Verbe-Objet (QUI a fait QUOI à QUI)
 - PAS de mots sensationnels: choc, incroyable, scandaleux, stupéfiant, hallucinant
 - PAS de titres interrogatifs ou de cliffhangers
 - Incluez des chiffres spécifiques quand disponibles (victimes, montants, pourcentages)
-- Pour les histoires en cours, concentrez-vous sur le développement d'AUJOURD'HUI
 
 RÈGLES POUR LES RÉSUMÉS:
 - 25-40 mots couvrant: Ce qui s'est passé, Qui est concerné, Quelle suite
 - Incluez des chiffres spécifiques, dates ou lieux quand pertinents
 - Expliquez la signification: pourquoi cela intéresse les lecteurs
-- Évitez le langage vague (pourrait, peut-être) sauf si vraiment incertain
 
-EXEMPLE (BON):
-{"title":"Le Parlement européen adopte la réglementation historique sur l'IA pour les géants tech","source":"Reuters","summary":"Le Parlement européen a adopté l'AI Act, la première loi complète sur l'intelligence artificielle au monde, obligeant des entreprises comme OpenAI et Google à se conformer d'ici 2026. La non-conformité entraîne des amendes jusqu'à 7% du chiffre d'affaires mondial.","link":"..."}
+MULTI-SOURCE: Quand les articles en entrée ont coveringSources, incluez toutes les sources dans un champ tableau "sources".
 
-MODÈLES À ÉVITER:
-- "Breaking: Développement choc secoue les marchés" (sensationnel, vague)
-- "La démocratie est-elle en danger?" (question, vague)
-- "Vous n'allez pas croire ce qui s'est passé" (clickbait)
-
-OUTPUT JSON: {"headlines":[...]}
+FORMAT JSON OUTPUT:
+{"headlines":[{"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
 
 ARTICLES:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`,
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [Aussi: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`;
+    },
 
-    summaryPrompt: (headlines: NewsHeadline[]) => `Rédigez un briefing quotidien de 2-3 paragraphes (220-300 mots) EN FRANÇAIS qui raconte l'HISTOIRE du jour. Votre objectif est d'aider les lecteurs à comprendre le monde en 90 secondes.
+    summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
+      const yesterdaySection = yesterdayHeadlines.length > 0 ? `
+CONTEXTE D'HIER (pour référence — ne pas répéter d'anciennes informations, mentionner uniquement ce qui a changé):
+${yesterdayHeadlines.slice(0, 5).map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
+
+` : '';
+
+      return `Rédigez un briefing quotidien de 2-3 paragraphes (250-350 mots) EN FRANÇAIS. Votre objectif est d'aider les lecteurs à comprendre le monde en 90 secondes.
 
 STRUCTURE:
-Paragraphe 1: Ouvrez avec l'histoire mondiale la plus significative. Reliez-la au contexte plus large ou aux développements en cours.
-Paragraphe 2: Couvrez 2-3 autres histoires majeures, en montrant comment elles se relient entre elles ou à des thèmes plus larges quand possible.
-Paragraphe 3: Terminez avec une histoire ou un développement tourné vers l'avenir qui signale ce qui arrive.
-
-EXIGENCES NARRATIVES:
-- Connectez les événements de manière narrative: montrez cause et effet, développements parallèles ou liens thématiques
-- Fournissez du contexte: ce qui s'est passé avant, pourquoi c'est important, ce que ça signifie pour les gens ordinaires
-- Utilisez des transitions qui montrent les relations: "Pendant ce temps", "Cela survient alors que", "Ce développement fait suite à"
-- Nommez des lieux, personnes et chiffres spécifiques - soyez concret, pas abstrait
-- Écrivez comme The Economist ou Le Monde diplomatique: intelligent mais accessible
+Paragraphe 1: Ouvrez avec l'événement mondial le plus significatif. Fournissez un contexte factuel.
+Paragraphe 2: Couvrez 2-3 autres histoires majeures, en reliant les événements connexes là où des liens factuels existent.
+Paragraphe 3: Couvrez les histoires importantes restantes et toute situation en développement.
+${yesterdaySection}
+RÈGLES D'ÉCRITURE:
+- Présentez les événements par ordre d'impact mondial, pas de drame narratif
+- Indiquez ce qui s'est passé, qui est concerné, ce qui est attendu ensuite
+- Quand les sources ou acteurs sont en désaccord, exposez les deux positions
+- PAS d'arc narratif, PAS de cadrage éditorial, PAS d'adjectifs de valeur
+- Fournissez contexte factuel et connexions entre événements liés
+- Transitions factuelles ("En [région]", "Séparément") pas dramatiques ("Pendant ce temps, alors que les tensions montent")
+- Nommez des lieux, personnes et chiffres spécifiques — soyez concret, pas abstrait
 
 TON:
-- Neutre et factuel, mais pas ennuyeux
+- Neutre et factuel tout au long
 - Présentez plusieurs perspectives quand pertinent
-- Évitez d'éditorialiser, mais la contextualisation est encouragée
-- Pas de sensationnalisme, mais reconnaissez l'importance
-
-BON EXEMPLE:
-{"summary":"La guerre en Ukraine a frappé le cœur de Moscou aujourd'hui quand une voiture piégée a tué le Lieutenant-Général Igor Kirillov devant son immeuble - l'assassinat le plus retentissant en Russie depuis le début du conflit. Cette frappe audacieuse, revendiquée par les services secrets ukrainiens, signale la capacité croissante de Kiev à frapper en profondeur en territoire ennemi alors même que ses forces peinent à tenir le terrain dans l'est.\\n\\nL'attaque est survenue quelques heures après que la Russie a déclenché son plus grand barrage aérien en plusieurs semaines: 650 drones et 30 missiles ciblant le réseau électrique ukrainien, laissant des millions de personnes sans chauffage alors que les températures plongent sous zéro. La Pologne a fait décoller des chasseurs pour protéger son espace aérien, un rappel de la façon dont les ondes de choc de la guerre s'étendent bien au-delà des frontières ukrainiennes.\\n\\nAu-delà de l'Europe, la catastrophe humanitaire au Soudan s'est aggravée alors que l'ONU a averti le Conseil de sécurité que près de 1 000 jours de guerre civile ont créé ce qui pourrait être la pire crise alimentaire au monde, avec 25 millions de personnes ayant besoin d'aide."}
-
-MAUVAIS (ne faites pas ça): "La Russie a attaqué l'Ukraine. Un général a été tué. Le Soudan a une crise humanitaire." - C'est juste une liste, pas une histoire. Aucune connexion, aucun contexte, aucune narration.
+- Pas d'éditorialisation — laissez les faits parler d'eux-mêmes
+- Pas de sensationnalisme — reconnaissez l'importance par les détails spécifiques, pas les adjectifs
 
 ACTUALITÉS DU JOUR:
 ${headlines.map((h, i) => `${i + 1}. ${h.title} — ${h.summary}`).join('\n')}
 
-Output JSON: {"summary":"<votre briefing ici>"}`
+Output JSON: {"summary":"<votre briefing ici>"}`;
+    }
   }
 };
 
@@ -476,7 +515,7 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
     }
 
     // Sort by score and cap
-    const sorted = unique.sort((a, b) => b.relevanceScore - a.relevanceScore).slice(0, 10);
+    const sorted = unique.sort((a, b) => b.relevanceScore - a.relevanceScore).slice(0, 20);
 
     // Guardrail: if too few items survived, add more from the first chunk to reach minimum coverage
     if (sorted.length < 5 && limited.length > 5) {
@@ -491,13 +530,13 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
     return sorted;
   } catch (error) {
     console.error('Error filtering articles:', error);
-    return limited.slice(0, 10); // Fallback: return first 10 articles
+    return limited.slice(0, 20); // Fallback: return first 20 articles
   }
 }
 
-export async function generateHeadlines(articles: ProcessedArticle[], languageCode: string = 'en'): Promise<NewsHeadline[]> {
+export async function generateHeadlines(articles: ProcessedArticle[], languageCode: string = 'en', yesterdayHeadlines: NewsHeadline[] = []): Promise<NewsHeadline[]> {
   const prompts = LANGUAGE_PROMPTS[languageCode as keyof typeof LANGUAGE_PROMPTS] || LANGUAGE_PROMPTS.en;
-  const prompt = prompts.headlinesPrompt(articles);
+  const prompt = prompts.headlinesPrompt(articles, yesterdayHeadlines);
 
   // Language-specific system prompts to enforce output language
   const systemPrompts: Record<string, string> = {
@@ -511,7 +550,14 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
     const responseText = await chatCompletion(MODEL_HEADLINES, systemPrompt, prompt);
 
     const result = safeParseJSON(responseText, { headlines: [] as NewsHeadline[] });
-    return result.headlines || [];
+    const headlines = result.headlines || [];
+
+    // Post-parse fallback: ensure all headlines have tier and sources
+    return headlines.map(h => ({
+      ...h,
+      tier: (h.tier as Tier) || 'also',
+      sources: h.sources && h.sources.length > 0 ? h.sources : [h.source],
+    }));
   } catch (error) {
     console.error('Error generating headlines:', error);
     // Return empty array - the pipeline will handle this as "unavailable"
@@ -519,14 +565,14 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
   }
 }
 
-export async function generateDailySummary(headlines: NewsHeadline[], languageCode: string = 'en'): Promise<string> {
+export async function generateDailySummary(headlines: NewsHeadline[], languageCode: string = 'en', yesterdayHeadlines: NewsHeadline[] = []): Promise<string> {
   // CRITICAL: Refuse to generate summary with no headlines - this causes hallucination of old news
   if (!headlines || headlines.length === 0) {
     throw new Error('Cannot generate summary: no headlines provided. This would cause the LLM to hallucinate old/fake news.');
   }
 
   const prompts = LANGUAGE_PROMPTS[languageCode as keyof typeof LANGUAGE_PROMPTS] || LANGUAGE_PROMPTS.en;
-  const prompt = prompts.summaryPrompt(headlines);
+  const prompt = prompts.summaryPrompt(headlines, yesterdayHeadlines);
 
   // Language-specific system prompts to enforce output language
   const systemPrompts: Record<string, string> = {
@@ -573,6 +619,12 @@ interface HeadlineCategorization {
 export async function categorizeHeadlines(headlines: NewsHeadline[], languageCode: string = 'en'): Promise<NewsHeadline[]> {
   if (headlines.length === 0) return headlines;
 
+  const defaultMeta = {
+    category: 'politics' as Category,
+    region: 'global' as Region,
+    importance: 'notable' as Importance,
+  };
+
   const prompt = `Categorize each headline by topic, region, and importance. Output JSON only.
 
 CATEGORIES (pick one per headline):
@@ -607,33 +659,17 @@ OUTPUT: {"categories":[{"index":0,"category":"conflict","region":"europe","impor
     const responseText = await chatCompletion(MODEL_FILTER, systemPrompt, prompt);
     const result = safeParseJSON<{ categories: HeadlineCategorization[] }>(responseText, { categories: [] });
 
-    // Apply categorizations to headlines
     return headlines.map((headline, index) => {
-      const categorization = result.categories?.find((c: HeadlineCategorization) => c.index === index);
-      if (categorization) {
-        return {
-          ...headline,
-          category: categorization.category,
-          region: categorization.region,
-          importance: categorization.importance,
-        };
-      }
-      // Default categorization if not found
+      const match = result.categories?.find((c: HeadlineCategorization) => c.index === index);
       return {
         ...headline,
-        category: 'politics' as Category,
-        region: 'global' as Region,
-        importance: 'notable' as Importance,
+        category: match?.category ?? defaultMeta.category,
+        region: match?.region ?? defaultMeta.region,
+        importance: match?.importance ?? defaultMeta.importance,
       };
     });
   } catch (error) {
     console.error('Error categorizing headlines:', error);
-    // Return headlines with default categorization
-    return headlines.map(headline => ({
-      ...headline,
-      category: 'politics' as Category,
-      region: 'global' as Region,
-      importance: 'notable' as Importance,
-    }));
+    return headlines.map(headline => ({ ...headline, ...defaultMeta }));
   }
 }

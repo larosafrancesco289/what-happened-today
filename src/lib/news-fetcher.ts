@@ -92,11 +92,10 @@ export async function fetchAllNews(languageCode: string = 'en'): Promise<Process
     }
   });
   
-  // Filter out articles with insufficient content and convert to ProcessedArticle
   const processedArticles: ProcessedArticle[] = allArticles
-    .filter(article => 
-      article.title && 
-      article.link && 
+    .filter(article =>
+      article.title &&
+      article.link &&
       article.content &&
       article.title.length > 10 &&
       article.content.length > 50
@@ -106,8 +105,8 @@ export async function fetchAllNews(languageCode: string = 'en'): Promise<Process
       source: article.source || 'Unknown',
       content: article.content || '',
       link: article.link,
-      relevanceScore: 0, // Will be set by AI filtering
-      isRelevant: false, // Will be set by AI filtering
+      relevanceScore: 0,
+      isRelevant: false,
     }));
   
   console.log(`Processed ${processedArticles.length} articles total for ${languageCode}`);
@@ -138,5 +137,29 @@ export async function deduplicateArticles(articles: ProcessedArticle[]): Promise
   }
   
   console.log(`Removed ${articles.length - unique.length} duplicate articles`);
-  return unique;
+
+  // Group articles about the same story from different sources using a loose
+  // fingerprint (first 50 alphanumeric chars of title)
+  const looseGroups = new Map<string, ProcessedArticle[]>();
+  for (const article of unique) {
+    const looseKey = article.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 50);
+    const group = looseGroups.get(looseKey) || [];
+    group.push(article);
+    looseGroups.set(looseKey, group);
+  }
+
+  const grouped: ProcessedArticle[] = [];
+  for (const group of looseGroups.values()) {
+    const representative = group.reduce((best, curr) =>
+      curr.content.length > best.content.length ? curr : best
+    );
+    const allSources = [...new Set(group.map(a => a.source))];
+    grouped.push({
+      ...representative,
+      coveringSources: allSources.length > 1 ? allSources : undefined,
+    });
+  }
+
+  console.log(`Cross-source grouping: ${unique.length} → ${grouped.length} distinct stories`);
+  return grouped;
 }

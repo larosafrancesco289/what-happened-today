@@ -45,6 +45,15 @@ export interface Translations {
     major: string;
     notable: string;
   };
+  tiers: {
+    topStories: string;
+    alsoToday: string;
+    developing: string;
+  };
+  continuity: {
+    day: string;
+    updated: string;
+  };
   sources: {
     title: string;
     disclaimer: string;
@@ -103,6 +112,15 @@ export const translations: Record<string, Translations> = {
       major: "MAJOR",
       notable: "Notable"
     },
+    tiers: {
+      topStories: "Top Stories",
+      alsoToday: "Also Today",
+      developing: "Developing"
+    },
+    continuity: {
+      day: "Day",
+      updated: "Updated"
+    },
     sources: {
       title: "Today's sources",
       disclaimer: "Stories are sourced from multiple outlets representing diverse geographic and editorial perspectives. Summaries are AI-generated for neutrality and clarity."
@@ -158,6 +176,15 @@ export const translations: Record<string, Translations> = {
       breaking: "BREAKING",
       major: "IMPORTANTE",
       notable: "Notevole"
+    },
+    tiers: {
+      topStories: "Notizie Principali",
+      alsoToday: "Anche Oggi",
+      developing: "In Sviluppo"
+    },
+    continuity: {
+      day: "Giorno",
+      updated: "Aggiornato"
     },
     sources: {
       title: "Fonti di oggi",
@@ -215,6 +242,15 @@ export const translations: Record<string, Translations> = {
       major: "MAJEUR",
       notable: "Notable"
     },
+    tiers: {
+      topStories: "A la Une",
+      alsoToday: "Également Aujourd'hui",
+      developing: "En Développement"
+    },
+    continuity: {
+      day: "Jour",
+      updated: "Mis à jour"
+    },
     sources: {
       title: "Sources du jour",
       disclaimer: "Les articles proviennent de plusieurs médias représentant des perspectives géographiques et éditoriales diverses. Les résumés sont générés par IA pour la neutralité et la clarté."
@@ -227,5 +263,5 @@ export const translations: Record<string, Translations> = {
 };
 
 export function getTranslations(languageCode: string): Translations {
-  return translations[languageCode] || translations.en;
+  return translations[languageCode] ?? translations.en;
 }

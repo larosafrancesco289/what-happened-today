@@ -12,14 +12,38 @@ interface NewsSummaryProps {
   data: DailyNews;
 }
 
-const categoryConfig: Record<Category, { icon: LucideIcon; labelKey: string }> = {
-  conflict: { icon: Swords, labelKey: 'conflict' },
-  politics: { icon: Landmark, labelKey: 'politics' },
-  economy: { icon: TrendingUp, labelKey: 'economy' },
-  science: { icon: FlaskConical, labelKey: 'science' },
-  environment: { icon: Globe, labelKey: 'environment' },
-  society: { icon: Users, labelKey: 'society' },
+const categoryIcons: Record<Category, LucideIcon> = {
+  conflict: Swords,
+  politics: Landmark,
+  economy: TrendingUp,
+  science: FlaskConical,
+  environment: Globe,
+  society: Users,
 };
+
+function sourceLabel(headline: NewsHeadline): string {
+  if (headline.sources && headline.sources.length > 1) {
+    return headline.sources.join(', ');
+  }
+  return headline.source;
+}
+
+function HeadlineFooter({ headline, readMoreLabel }: { headline: NewsHeadline; readMoreLabel: string }) {
+  return (
+    <div className="flex flex-wrap items-center justify-between gap-4 pt-4 border-t border-border-light/40 dark:border-border-dark/40">
+      <span className="byline">{sourceLabel(headline)}</span>
+      <a
+        href={headline.link}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="focus-outline inline-flex items-center gap-2 text-accent2-light dark:text-accent2-dark hover:text-accent-light dark:hover:text-accent-dark font-medium text-sm transition-all duration-300 group/link border-accent-hover"
+      >
+        <span>{readMoreLabel}</span>
+        <ArrowTopRightOnSquareIcon className="w-4 h-4 transition-transform duration-300 group-hover/link:translate-x-0.5 group-hover/link:-translate-y-0.5" />
+      </a>
+    </div>
+  );
+}
 
 const importanceStyles: Record<string, { border: string; badge: string; size: 'featured' | 'major' | 'standard' }> = {
   breaking: {
@@ -73,7 +97,7 @@ function CategoryFilter({
         {translations.categories?.all || 'All'}
       </button>
       {categories.map((category, idx) => {
-        const Icon = categoryConfig[category]?.icon;
+        const Icon = categoryIcons[category];
         return (
           <button
             key={category}
@@ -94,15 +118,15 @@ function CategoryFilter({
   );
 }
 
-function HeadlineCard({ headline, index, isFirst }: { headline: NewsHeadline; index: number; isFirst: boolean }) {
+function HeadlineCard({ headline, index, isFirst, compact = false }: { headline: NewsHeadline; index: number; isFirst: boolean; compact?: boolean }) {
   const { currentLanguage } = useLanguage();
   const t = getTranslations(currentLanguage.code);
 
   const importance = headline.importance || 'notable';
   const styles = importanceStyles[importance];
-  const CategoryIcon = headline.category ? categoryConfig[headline.category]?.icon : null;
+  const CategoryIcon = headline.category ? categoryIcons[headline.category] : null;
 
-  const isFeatured = isFirst && importance !== 'notable';
+  const isFeatured = !compact && isFirst && importance !== 'notable';
 
   return (
     <article
@@ -110,11 +134,9 @@ function HeadlineCard({ headline, index, isFirst }: { headline: NewsHeadline; in
       style={{ animationDelay: `${0.1 + index * 0.08}s` }}
     >
       <div className={`group relative h-full bg-panel-light dark:bg-panel-dark border border-border-light/60 dark:border-border-dark/60 ${styles.border} transition-all duration-500 hover:border-border-light dark:hover:border-border-dark card-editorial`}>
-        {/* Accent line at top */}
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-border-light dark:via-border-dark to-transparent" />
 
-        <div className={`p-6 lg:p-8 ${isFeatured ? 'lg:p-10' : ''}`}>
-          {/* Top row: Category + Source + Importance */}
+        <div className={compact ? 'p-4 lg:p-5' : `p-6 lg:p-8 ${isFeatured ? 'lg:p-10' : ''}`}>
           <div className="flex flex-wrap items-center gap-3 mb-4">
             {headline.category && CategoryIcon && (
               <span className="section-label flex items-center gap-1.5">
@@ -134,47 +156,67 @@ function HeadlineCard({ headline, index, isFirst }: { headline: NewsHeadline; in
 
             <div className="flex-1" />
 
-            {importance === 'breaking' && (
+            {(importance === 'breaking' || importance === 'major') && (
               <span className={`px-2.5 py-1 text-xs font-bold uppercase tracking-wider ${styles.badge}`}>
-                {t.importance?.breaking || 'Breaking'}
-              </span>
-            )}
-            {importance === 'major' && (
-              <span className={`px-2.5 py-1 text-xs font-bold uppercase tracking-wider ${styles.badge}`}>
-                {t.importance?.major || 'Major'}
+                {t.importance?.[importance] || importance}
               </span>
             )}
           </div>
 
-          {/* Headline title */}
           <h3 className={`font-serif font-semibold text-text-light dark:text-text-dark leading-tight mb-4 group-hover:text-accent-light dark:group-hover:text-accent-dark transition-colors duration-300 ${
-            isFeatured ? 'text-2xl lg:text-3xl' : 'text-xl lg:text-2xl'
+            compact ? 'text-lg lg:text-xl' : isFeatured ? 'text-2xl lg:text-3xl' : 'text-xl lg:text-2xl'
           }`}>
             {headline.title}
           </h3>
 
-          {/* Summary */}
           <p className={`text-subtle-light dark:text-subtle-dark leading-relaxed mb-5 ${
-            isFeatured ? 'text-base lg:text-lg' : 'text-base'
+            compact ? 'text-sm' : isFeatured ? 'text-base lg:text-lg' : 'text-base'
           }`}>
             {headline.summary}
           </p>
 
-          {/* Bottom row: Source + Read more */}
-          <div className="flex flex-wrap items-center justify-between gap-4 pt-4 border-t border-border-light/40 dark:border-border-dark/40">
-            <span className="byline">
-              {headline.source}
-            </span>
+          <HeadlineFooter headline={headline} readMoreLabel={t.summary.readMore} />
+        </div>
+      </div>
+    </article>
+  );
+}
 
-            <a
-              href={headline.link}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="focus-outline inline-flex items-center gap-2 text-accent2-light dark:text-accent2-dark hover:text-accent-light dark:hover:text-accent-dark font-medium text-sm transition-all duration-300 group/link border-accent-hover"
-            >
-              <span>{t.summary.readMore}</span>
-              <ArrowTopRightOnSquareIcon className="w-4 h-4 transition-transform duration-300 group-hover/link:translate-x-0.5 group-hover/link:-translate-y-0.5" />
-            </a>
+function DevelopingCard({ headline, index }: { headline: NewsHeadline; index: number }) {
+  const { currentLanguage } = useLanguage();
+  const t = getTranslations(currentLanguage.code);
+
+  return (
+    <article
+      className="animate-fade-in-up animate-hidden"
+      style={{ animationDelay: `${0.1 + index * 0.08}s` }}
+    >
+      <div className="group relative bg-panel-light dark:bg-panel-dark border border-border-light/60 dark:border-border-dark/60 border-l-4 border-l-amber-500 dark:border-l-amber-400 transition-all duration-500 hover:border-border-light dark:hover:border-border-dark card-editorial">
+        <div className="p-4 lg:p-6 flex flex-col sm:flex-row gap-4">
+          {headline.dayNumber && (
+            <div className="flex-shrink-0">
+              <span className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-bold uppercase tracking-wider bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 rounded-sm">
+                {t.continuity?.day || 'Day'} {headline.dayNumber}
+              </span>
+            </div>
+          )}
+
+          <div className="flex-1 min-w-0">
+            <h3 className="font-serif font-semibold text-lg text-text-light dark:text-text-dark leading-tight mb-2 group-hover:text-accent-light dark:group-hover:text-accent-dark transition-colors duration-300">
+              {headline.title}
+            </h3>
+
+            {headline.previousContext && (
+              <p className="text-sm text-amber-700 dark:text-amber-300 mb-2">
+                <span className="font-medium">{t.continuity?.updated || 'Updated'}:</span> {headline.previousContext}
+              </p>
+            )}
+
+            <p className="text-sm text-subtle-light dark:text-subtle-dark leading-relaxed mb-3">
+              {headline.summary}
+            </p>
+
+            <HeadlineFooter headline={headline} readMoreLabel={t.summary.readMore} />
           </div>
         </div>
       </div>
@@ -247,6 +289,26 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
     return data.headlines.filter(h => h.category === selectedCategory);
   }, [data.headlines, selectedCategory]);
 
+  // Group headlines by tier with backward compatibility
+  const { topStories, alsoToday, developing } = useMemo(() => {
+    const hasTiers = filteredHeadlines.some(h => h.tier);
+
+    if (hasTiers) {
+      return {
+        topStories: filteredHeadlines.filter(h => h.tier === 'top'),
+        alsoToday: filteredHeadlines.filter(h => h.tier === 'also'),
+        developing: filteredHeadlines.filter(h => h.tier === 'developing'),
+      };
+    }
+
+    // Backward compat: old data without tiers — first 3 as top, rest as also
+    return {
+      topStories: filteredHeadlines.slice(0, 3),
+      alsoToday: filteredHeadlines.slice(3),
+      developing: [] as NewsHeadline[],
+    };
+  }, [filteredHeadlines]);
+
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
       {/* Masthead */}
@@ -311,17 +373,65 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
           translations={t}
         />
 
-        {/* Newspaper-style grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
-          {filteredHeadlines.map((headline: NewsHeadline, index: number) => (
-            <HeadlineCard
-              key={index}
-              headline={headline}
-              index={index}
-              isFirst={index === 0}
-            />
-          ))}
-        </div>
+        {/* Top Stories — 2-column grid */}
+        {topStories.length > 0 && (
+          <div className="mb-12 lg:mb-16">
+            <div className="flex items-center gap-4 mb-6">
+              <span className="section-label">{t.tiers?.topStories || 'Top Stories'}</span>
+              <div className="flex-1 h-px bg-border-light/50 dark:bg-border-dark/50" />
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
+              {topStories.map((headline: NewsHeadline, index: number) => (
+                <HeadlineCard
+                  key={`top-${index}`}
+                  headline={headline}
+                  index={index}
+                  isFirst={index === 0}
+                />
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Also Today — 3-column grid, compact cards */}
+        {alsoToday.length > 0 && (
+          <div className="mb-12 lg:mb-16">
+            <div className="flex items-center gap-4 mb-6">
+              <span className="section-label">{t.tiers?.alsoToday || 'Also Today'}</span>
+              <div className="flex-1 h-px bg-border-light/50 dark:bg-border-dark/50" />
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-6">
+              {alsoToday.map((headline: NewsHeadline, index: number) => (
+                <HeadlineCard
+                  key={`also-${index}`}
+                  headline={headline}
+                  index={index}
+                  isFirst={false}
+                  compact
+                />
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Developing — vertical list with day badges */}
+        {developing.length > 0 && (
+          <div className="mb-12 lg:mb-16">
+            <div className="flex items-center gap-4 mb-6">
+              <span className="section-label">{t.tiers?.developing || 'Developing'}</span>
+              <div className="flex-1 h-px bg-border-light/50 dark:bg-border-dark/50" />
+            </div>
+            <div className="flex flex-col gap-4">
+              {developing.map((headline: NewsHeadline, index: number) => (
+                <DevelopingCard
+                  key={`dev-${index}`}
+                  headline={headline}
+                  index={index}
+                />
+              ))}
+            </div>
+          </div>
+        )}
 
         {filteredHeadlines.length === 0 && (
           <div className="text-center py-16 text-subtle-light dark:text-subtle-dark">

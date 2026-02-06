@@ -7,9 +7,8 @@
 // IMPORTANT: We dynamically import dependencies AFTER loading env so the correct
 // OPENROUTER_API_KEY from .env.local is used when initializing the LLM client.
 
-import type { DailyNews, NewsHeadline, Category, Region, ProcessedArticle } from '../src/types/news';
+import type { DailyNews, NewsHeadline, Category, Region, Tier, ProcessedArticle } from '../src/types/news';
 
-// Helper function to add timeout to promises
 function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: string): Promise<T> {
   return Promise.race([
     promise,
@@ -19,7 +18,6 @@ function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: strin
   ]);
 }
 
-// Ensure source diversity by capping articles per source
 function ensureSourceDiversity(articles: ProcessedArticle[]): ProcessedArticle[] {
   const MAX_PER_SOURCE = 5;
   const MIN_SOURCES = 5;
@@ -34,12 +32,8 @@ function ensureSourceDiversity(articles: ProcessedArticle[]): ProcessedArticle[]
     bySource.set(source, arr);
   }
 
-  const balanced: ProcessedArticle[] = [];
-  for (const sourceArticles of bySource.values()) {
-    balanced.push(...sourceArticles);
-  }
+  const balanced = Array.from(bySource.values()).flat();
 
-  // Log warning if too few sources
   if (bySource.size < MIN_SOURCES) {
     console.warn(`Warning: Only ${bySource.size} sources available (recommend ${MIN_SOURCES}+)`);
   } else {
@@ -49,23 +43,16 @@ function ensureSourceDiversity(articles: ProcessedArticle[]): ProcessedArticle[]
   return balanced;
 }
 
-// Count headlines by category
-function countByCategory(headlines: NewsHeadline[]): Partial<Record<Category, number>> {
-  const counts: Partial<Record<Category, number>> = {};
+/** Count headline occurrences for any field that serves as a grouping key. */
+function countByField<K extends string>(
+  headlines: NewsHeadline[],
+  field: keyof NewsHeadline
+): Partial<Record<K, number>> {
+  const counts: Partial<Record<K, number>> = {};
   for (const h of headlines) {
-    if (h.category) {
-      counts[h.category] = (counts[h.category] || 0) + 1;
-    }
-  }
-  return counts;
-}
-
-// Count headlines by region
-function countByRegion(headlines: NewsHeadline[]): Partial<Record<Region, number>> {
-  const counts: Partial<Record<Region, number>> = {};
-  for (const h of headlines) {
-    if (h.region) {
-      counts[h.region] = (counts[h.region] || 0) + 1;
+    const value = h[field] as K | undefined;
+    if (value) {
+      counts[value] = ((counts[value] as number) || 0) + 1;
     }
   }
   return counts;
@@ -87,8 +74,8 @@ function validateDailyNews(news: DailyNews): { valid: boolean; warnings: string[
   if (news.headlines.length < 4) {
     warnings.push(`Too few headlines (${news.headlines.length}, recommend 4+)`);
   }
-  if (news.headlines.length > 15) {
-    warnings.push(`Too many headlines (${news.headlines.length}, recommend <15)`);
+  if (news.headlines.length > 20) {
+    warnings.push(`Too many headlines (${news.headlines.length}, recommend <20)`);
   }
 
   // Check for duplicate headlines
@@ -118,12 +105,52 @@ function validateDailyNews(news: DailyNews): { valid: boolean; warnings: string[
   };
 }
 
+interface UnavailableParams {
+  date: string;
+  languageCode: string;
+  reason: string;
+  articlesProcessed: number;
+  headlinesGenerated: number;
+  metadata: DailyNews['metadata'];
+  saveDailyNews: (news: DailyNews, lang: string) => Promise<void>;
+}
+
+async function saveUnavailable(params: UnavailableParams) {
+  const { date, languageCode, reason, articlesProcessed, headlinesGenerated, metadata, saveDailyNews } = params;
+
+  console.error(`\n${'='.repeat(60)}`);
+  console.error(`WARNING: ${reason}`);
+  console.error(`Saving "unavailable" state instead.`);
+  console.error(`${'='.repeat(60)}\n`);
+
+  const unavailableNews: DailyNews = {
+    date,
+    summary: '',
+    headlines: [],
+    unavailable: true,
+    unavailableReason: reason,
+    metadata,
+  };
+
+  await withTimeout(saveDailyNews(unavailableNews, languageCode), 10000, 'File saving');
+  console.log(`Saved unavailable state for ${languageCode} - frontend will show appropriate message`);
+
+  return {
+    success: false,
+    date,
+    language: languageCode,
+    articlesProcessed,
+    headlinesGenerated,
+    unavailable: true,
+  };
+}
+
 async function runPipeline(languageCode: string = 'en') {
   try {
     // Dynamically import modules AFTER env is loaded so LLM client picks up the correct key
     const { fetchAllNews, deduplicateArticles } = await import('../src/lib/news-fetcher');
     const { filterAndRankArticles, generateHeadlines, generateDailySummary, categorizeHeadlines } = await import('../src/lib/llm-client');
-    const { getDateString, saveDailyNews } = await import('../src/lib/utils');
+    const { getDateString, getPreviousDate, loadDailyNews, saveDailyNews } = await import('../src/lib/utils');
 
     console.log(`\n${'='.repeat(60)}`);
     console.log(`Starting daily news pipeline for language: ${languageCode.toUpperCase()}`);
@@ -156,53 +183,41 @@ async function runPipeline(languageCode: string = 'en') {
     }
     console.log(`  Filtered articles: ${filteredArticles.length}\n`);
 
+    // 4b. Load yesterday's output for continuity
+    const today = getDateString(new Date());
+    const yesterday = getPreviousDate(today);
+    const yesterdayNews = await loadDailyNews(yesterday, languageCode);
+    const yesterdayHeadlines = yesterdayNews?.headlines || [];
+    if (yesterdayHeadlines.length > 0) {
+      console.log(`  Loaded ${yesterdayHeadlines.length} headlines from yesterday (${yesterday}) for continuity\n`);
+    } else {
+      console.log(`  No yesterday data found (${yesterday}) — running without memory\n`);
+    }
+
     // 5. Generate headlines with AI
     console.log('Step 5/7: Generating headlines with AI...');
-    const headlines = await withTimeout(generateHeadlines(filteredArticles, languageCode), 180000, 'Headlines generation');
+    const headlines = await withTimeout(generateHeadlines(filteredArticles, languageCode, yesterdayHeadlines), 180000, 'Headlines generation');
     console.log(`  Generated ${headlines.length} headlines\n`);
 
-    // CRITICAL: Check if headlines generation failed
-    // If empty, save "unavailable" file instead of generating hallucinated summary
+    // If no headlines were generated, save "unavailable" instead of letting the
+    // summary step hallucinate old/fake news from an empty headline list.
     if (headlines.length === 0) {
-      console.error(`\n${'='.repeat(60)}`);
-      console.error(`WARNING: No headlines generated for ${languageCode}`);
-      console.error(`This would cause the summary to hallucinate old/fake news.`);
-      console.error(`Saving "unavailable" state instead.`);
-      console.error(`${'='.repeat(60)}\n`);
-
-      const today = getDateString(new Date());
-      const unavailableNews: DailyNews = {
+      return saveUnavailable({
         date: today,
-        summary: '',
-        headlines: [],
-        unavailable: true,
-        unavailableReason: `Headline generation failed: LLM returned 0 headlines from ${filteredArticles.length} filtered articles (${rawArticles.length} total fetched)`,
-        metadata: {
-          sourcesUsed: 0,
-          articlesProcessed: rawArticles.length,
-          categoryCounts: {},
-          regionCounts: {},
-        },
-      };
-
-      await withTimeout(saveDailyNews(unavailableNews, languageCode), 10000, 'File saving');
-      console.log(`Saved unavailable state for ${languageCode} - frontend will show appropriate message`);
-
-      return {
-        success: false,
-        date: today,
-        language: languageCode,
+        languageCode,
+        reason: `Headline generation failed: LLM returned 0 headlines from ${filteredArticles.length} filtered articles (${rawArticles.length} total fetched)`,
         articlesProcessed: rawArticles.length,
         headlinesGenerated: 0,
-        unavailable: true,
-      };
+        metadata: { sourcesUsed: 0, articlesProcessed: rawArticles.length, categoryCounts: {}, regionCounts: {} },
+        saveDailyNews,
+      });
     }
 
     // 6. Categorize headlines
     console.log('Step 6/7: Categorizing headlines...');
     const categorizedHeadlines = await withTimeout(categorizeHeadlines(headlines, languageCode), 60000, 'Categorization');
-    const categoryCounts = countByCategory(categorizedHeadlines);
-    const regionCounts = countByRegion(categorizedHeadlines);
+    const categoryCounts = countByField<Category>(categorizedHeadlines, 'category');
+    const regionCounts = countByField<Region>(categorizedHeadlines, 'region');
     console.log(`  Categories: ${JSON.stringify(categoryCounts)}`);
     console.log(`  Regions: ${JSON.stringify(regionCounts)}\n`);
 
@@ -210,47 +225,28 @@ async function runPipeline(languageCode: string = 'en') {
     console.log('Step 7/7: Generating daily summary with AI...');
     let summary: string;
     try {
-      summary = await withTimeout(generateDailySummary(categorizedHeadlines, languageCode), 180000, 'Summary generation');
+      summary = await withTimeout(generateDailySummary(categorizedHeadlines, languageCode, yesterdayHeadlines), 180000, 'Summary generation');
       console.log(`  Summary length: ${summary.length} characters`);
       console.log(`  Preview: ${summary.substring(0, 100)}...\n`);
     } catch (summaryError) {
-      // If summary generation fails, save unavailable state instead of crashing
-      console.error(`\n${'='.repeat(60)}`);
-      console.error(`WARNING: Summary generation failed for ${languageCode}`);
-      console.error(`Error: ${(summaryError as Error).message}`);
-      console.error(`Saving "unavailable" state instead.`);
-      console.error(`${'='.repeat(60)}\n`);
-
-      const today = getDateString(new Date());
-      const unavailableNews: DailyNews = {
+      return saveUnavailable({
         date: today,
-        summary: '',
-        headlines: [],
-        unavailable: true,
-        unavailableReason: `Summary generation failed: ${(summaryError as Error).message}`,
+        languageCode,
+        reason: `Summary generation failed: ${(summaryError as Error).message}`,
+        articlesProcessed: rawArticles.length,
+        headlinesGenerated: categorizedHeadlines.length,
         metadata: {
           sourcesUsed: new Set(filteredArticles.map(a => a.source)).size,
           articlesProcessed: rawArticles.length,
           categoryCounts,
           regionCounts,
         },
-      };
-
-      await withTimeout(saveDailyNews(unavailableNews, languageCode), 10000, 'File saving');
-      console.log(`Saved unavailable state for ${languageCode} - frontend will show appropriate message`);
-
-      return {
-        success: false,
-        date: today,
-        language: languageCode,
-        articlesProcessed: rawArticles.length,
-        headlinesGenerated: categorizedHeadlines.length,
-        unavailable: true,
-      };
+        saveDailyNews,
+      });
     }
 
     // Create daily news object with metadata
-    const today = getDateString(new Date());
+    const tierCounts = countByField<Tier>(categorizedHeadlines, 'tier');
     const dailyNews: DailyNews = {
       date: today,
       summary,
@@ -260,6 +256,7 @@ async function runPipeline(languageCode: string = 'en') {
         articlesProcessed: rawArticles.length,
         categoryCounts,
         regionCounts,
+        tierCounts,
       },
     };
 

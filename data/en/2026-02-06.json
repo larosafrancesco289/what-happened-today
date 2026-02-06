@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-06",
+  "summary": "NATO launched its first alliance-wide response today to suspected sabotage after another deep-sea cable was severed in the Baltic Sea, linking Finland and Germany. This marks the third such incident in months, amid fears of hybrid warfare targeting critical infrastructure—likely aimed at sowing discord among NATO's eastern flank. The coordinated bolstering of defenses underscores the alliance's shift from deterrence to active protection, as members like Estonia and Sweden report heightened Russian shadow activities since the Ukraine invasion.\n\nViolence surged elsewhere: in Nigeria's Kwara state, jihadists massacred 162 villagers in Woro and Nuku, rounding them up and shooting in the deadliest attack this year on the northwest's restive communities, prompting troop deployments. Across Africa, U.N.-backed experts warned of famine engulfing Sudan's Darfur region, where army-paramilitary clashes have displaced millions and choked aid, threatening mass starvation for 25 million. In the U.S., Ryan Wesley Routh received a life sentence for his September 2024 attempt to assassinate Donald Trump at a Florida golf course, a stark reminder of political violence amid election strains.\n\nForward steps emerged amid the gloom: Israel permitted hundreds of thousands of displaced Palestinians to return on foot to northern Gaza after a hostage-release breakthrough eased a military blockade, hinting at phased de-escalation. The U.S. and Iran scheduled direct nuclear talks in Oman, testing restraint as an American carrier nears and Trump issues threats. Meanwhile, Indonesia and Australia inked a security pact to counter China tensions, fortifying Indo-Pacific alliances.",
+  "headlines": [
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO launches its initial alliance-wide response after another deep-sea cable severs in the Baltic Sea amid suspected sabotage of critical infrastructure. NATO members face heightened hybrid threats. Response bolsters defenses against future attacks.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Gunmen Kill 162 Residents in Attacks on Two Villages in Western Nigeria",
+      "source": "The Guardian",
+      "summary": "Jihadists massacre 162 people in Woro and Nuku villages in Kwara state by rounding up and shooting residents. Over 160 families grieve losses; Nigeria deploys troops. Deadliest attack this year escalates jihadist violence in northwest.",
+      "link": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Court Sentences Ryan Wesley Routh to Life for Attempting to Assassinate Trump",
+      "source": "ABC Australia",
+      "summary": "Ryan Wesley Routh, who waited 12 hours to target Trump at a Florida golf course in September 2024, receives life sentence. US public and democracy targeted. Verdict deters political violence amid election tensions.",
+      "link": "https://www.abc.net.au/news/2026-02-06/ryan-wesley-routh-life-sentence-assassination-attempt/106310824",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Indonesia and Australia Sign New Security Treaty to Deepen Bilateral Ties",
+      "source": "The Hindu",
+      "summary": "Indonesia and Australia formalize security pact amid rising China tensions in Indo-Pacific. Both nations enhance defense cooperation. Treaty strengthens Australia's regional posture against geopolitical shifts.",
+      "link": "https://www.thehindu.com/news/international/indonesia-australia-sign-new-security-treaty-to-affirm-deeper-ties/article70598923.ece",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "U.N.-Backed Experts Warn Famine Spreads Across Sudan’s Darfur Region",
+      "source": "Japan Times",
+      "summary": "Famine expands in Darfur due to army-paramilitary war displacing millions and blocking aid.  Millions face hunger in Sudan. Warning urges international intervention to avert mass starvation.",
+      "link": "https://www.japantimes.co.jp/news/2026/02/06/world/sudan-famine-spread/",
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "US and Iran Schedule Nuclear Talks in Oman Amid Trump Military Threats",
+      "source": "France 24",
+      "summary": "US and Iran hold first direct talks in Oman on Tehran's nuclear program post-Israel bombings and Iranian protests. Regional stability at stake with US carrier approaching. Talks test de-escalation amid tensions.",
+      "link": "https://www.france24.com/en/live-us-and-iran-prepare-high-stakes-talks-oman-trump-threatens-military-action",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Hong Kong Court Schedules Jimmy Lai Sentencing for Monday After Security Conviction",
+      "source": "Associated Press",
+      "summary": "Pro-democracy publisher Jimmy Lai, 78, faces up to life in prison under Beijing's national security law following December conviction. Hong Kong activists watch closely. Case highlights press freedom erosion.",
+      "link": "https://apnews.com/article/hong-kong-jimmy-lai-national-security-df660ddc87aa019122b3ed2ac55a8693",
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits Gazans to cross military zone back to northern Gaza after hostage release deadlock breaks. Hundreds of thousands displaced return on foot. Move eases humanitarian crisis in divided enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 467,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 1,
+      "africa": 2,
+      "americas": 1,
+      "asia-pacific": 2,
+      "middle-east": 2
+    }
+  }
+}

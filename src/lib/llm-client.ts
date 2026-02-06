@@ -420,13 +420,14 @@ Output JSON: {"summary":"<votre briefing ici>"}`;
 };
 
 // Helper to make Chat Completions API calls
-async function chatCompletion(model: string, systemPrompt: string, userPrompt: string): Promise<string> {
+async function chatCompletion(model: string, systemPrompt: string, userPrompt: string, maxTokens?: number): Promise<string> {
   const response = await withRetry(() => client.chat.completions.create({
     model,
     messages: [
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userPrompt }
     ],
+    ...(maxTokens ? { max_tokens: maxTokens } : {}),
   }));
 
   return response.choices[0]?.message?.content || '';
@@ -547,7 +548,7 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
 
   try {
     const systemPrompt = systemPrompts[languageCode] || systemPrompts.en;
-    const responseText = await chatCompletion(MODEL_HEADLINES, systemPrompt, prompt);
+    const responseText = await chatCompletion(MODEL_HEADLINES, systemPrompt, prompt, 4096);
 
     const result = safeParseJSON(responseText, { headlines: [] as NewsHeadline[] });
     const headlines = result.headlines || [];
@@ -581,26 +582,38 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     fr: 'Vous êtes un journaliste neutre. Rédigez le résumé en FRANÇAIS simple et clair. Output JSON valide uniquement.'
   };
 
-  try {
-    const apiStart = Date.now();
-    const systemPrompt = systemPrompts[languageCode] || systemPrompts.en;
-    const responseText = await chatCompletion(MODEL_SUMMARY, systemPrompt, prompt);
-    const apiMs = Date.now() - apiStart;
-    console.log(`generateDailySummary: API response time ${apiMs} ms`);
+  const systemPrompt = systemPrompts[languageCode] || systemPrompts.en;
+  const MAX_ATTEMPTS = 2;
 
-    const result = safeParseJSON<{ summary?: string }>(responseText, {});
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      const apiStart = Date.now();
+      const responseText = await chatCompletion(MODEL_SUMMARY, systemPrompt, prompt, 2048);
+      const apiMs = Date.now() - apiStart;
+      console.log(`generateDailySummary: API response time ${apiMs} ms (attempt ${attempt}/${MAX_ATTEMPTS})`);
 
-    // CRITICAL: Do not use generic fallback summaries - they mislead users
-    // If we can't generate a real summary, throw and let the pipeline handle it
-    if (!result.summary || result.summary.trim().length === 0) {
-      throw new Error(`Summary generation returned empty result. Raw response: ${responseText.substring(0, 300)}`);
+      const result = safeParseJSON<{ summary?: string }>(responseText, {});
+
+      if (!result.summary || result.summary.trim().length === 0) {
+        if (attempt < MAX_ATTEMPTS) {
+          console.warn(`Summary empty/truncated on attempt ${attempt}, retrying...`);
+          continue;
+        }
+        throw new Error(`Summary generation returned empty result. Raw response: ${responseText.substring(0, 300)}`);
+      }
+
+      return result.summary;
+    } catch (error) {
+      if (attempt < MAX_ATTEMPTS) {
+        console.warn(`Summary generation failed on attempt ${attempt}, retrying...`);
+        continue;
+      }
+      console.error('Error generating summary:', error);
+      throw new Error(`Failed to generate summary for ${languageCode}: ${(error as Error).message}`);
     }
-
-    return result.summary;
-  } catch (error) {
-    console.error('Error generating summary:', error);
-    throw new Error(`Failed to generate summary for ${languageCode}: ${(error as Error).message}`);
   }
+
+  throw new Error(`Failed to generate summary for ${languageCode} after ${MAX_ATTEMPTS} attempts`);
 }
 
 // Categorization interface for AI response

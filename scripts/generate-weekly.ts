@@ -26,6 +26,49 @@ function getLastWeekRange(referenceDate: Date = new Date()): { startDate: string
   return { startDate, endDate, weekId };
 }
 
+/** Tier priority: lower = more important. Used to keep the highest tier per day. */
+const TIER_PRIORITY: Record<string, number> = { top: 0, also: 1, developing: 2 };
+
+interface StoryEntry {
+  title: string;
+  tiers: Map<number, string>;
+}
+
+interface ClassifiedStories {
+  persistent: string[];
+  faded: string[];
+  escalated: string[];
+}
+
+/**
+ * Classify tracked stories into persistent (3+ days), faded (1 day only),
+ * and escalated (started low, ended as top story).
+ */
+function classifyStories(tracker: Map<string, StoryEntry>): ClassifiedStories {
+  const persistent: string[] = [];
+  const faded: string[] = [];
+  const escalated: string[] = [];
+
+  for (const [, entry] of tracker) {
+    const dayCount = entry.tiers.size;
+    const tiers = Array.from(entry.tiers.entries()).sort(([a], [b]) => a - b);
+    const firstTier = tiers[0]?.[1];
+    const lastTier = tiers[tiers.length - 1]?.[1];
+
+    if (dayCount >= 3) {
+      persistent.push(entry.title);
+    } else if (dayCount === 1 && (firstTier === 'top' || firstTier === 'also')) {
+      faded.push(entry.title);
+    }
+
+    if (dayCount >= 2 && (firstTier === 'also' || firstTier === 'developing') && lastTier === 'top') {
+      escalated.push(entry.title);
+    }
+  }
+
+  return { persistent, faded, escalated };
+}
+
 /** Generate all dates between start and end (inclusive), as YYYY-MM-DD strings. */
 function dateRange(start: string, end: string): string[] {
   const dates: string[] = [];
@@ -68,11 +111,16 @@ async function runWeeklyPipeline(languageCode: string = 'en') {
     process.exit(1);
   }
 
-  // 2. Collect top-tier headlines
+  // 2. Collect top headlines and track each story's tier progression across days
   const topHeadlines: WeeklyDigest['topHeadlines'] = [];
-  for (const day of dailyData) {
+  const storyTracker = new Map<string, StoryEntry>();
+
+  for (let dayIdx = 0; dayIdx < dailyData.length; dayIdx++) {
+    const day = dailyData[dayIdx];
     for (const h of day.headlines) {
-      if (h.tier === 'top' || (!h.tier && day.headlines.indexOf(h) < 3)) {
+      const tier = h.tier || (day.headlines.indexOf(h) < 3 ? 'top' : 'also');
+
+      if (tier === 'top') {
         topHeadlines.push({
           date: day.date,
           title: h.title,
@@ -80,51 +128,38 @@ async function runWeeklyPipeline(languageCode: string = 'en') {
           region: h.region,
         });
       }
-    }
-  }
 
-  // 3. Identify persistent stories (title words appearing on 3+ days)
-  const titlesByDay = dailyData.map(d => d.headlines.map(h => h.title.toLowerCase()));
-  const titleCounts = new Map<string, Set<number>>();
-  for (let dayIdx = 0; dayIdx < titlesByDay.length; dayIdx++) {
-    for (const title of titlesByDay[dayIdx]) {
-      // Normalize: take first 6 significant words
-      const key = title.replace(/[^a-z0-9\s]/g, '').split(/\s+/).slice(0, 6).join(' ');
-      if (!titleCounts.has(key)) titleCounts.set(key, new Set());
-      titleCounts.get(key)!.add(dayIdx);
-    }
-  }
-
-  // Find stories that span 3+ days, return original title from first appearance
-  const persistentStories: string[] = [];
-  const seenKeys = new Set<string>();
-  for (const day of dailyData) {
-    for (const h of day.headlines) {
       const key = h.title.toLowerCase().replace(/[^a-z0-9\s]/g, '').split(/\s+/).slice(0, 6).join(' ');
-      if (!seenKeys.has(key) && (titleCounts.get(key)?.size ?? 0) >= 3) {
-        persistentStories.push(h.title);
-        seenKeys.add(key);
+      if (!storyTracker.has(key)) {
+        storyTracker.set(key, { title: h.title, tiers: new Map() });
+      }
+      const entry = storyTracker.get(key)!;
+      const existing = entry.tiers.get(dayIdx);
+      if (!existing || (TIER_PRIORITY[tier] ?? 1) < (TIER_PRIORITY[existing] ?? 1)) {
+        entry.tiers.set(dayIdx, tier);
       }
     }
   }
 
+  // 3. Classify stories by lifecycle pattern
+  const { persistent: persistentStories, faded: fadedStories, escalated: escalatedStories } = classifyStories(storyTracker);
+
   // 4. Aggregate stats
   let totalArticlesProcessed = 0;
-  const allSources = new Set<number>();
+  let maxSourcesPerDay = 0;
   const categoryCounts: Partial<Record<Category, number>> = {};
   const regionCounts: Partial<Record<Region, number>> = {};
 
   for (const day of dailyData) {
     totalArticlesProcessed += day.metadata?.articlesProcessed ?? 0;
-    allSources.add(day.metadata?.sourcesUsed ?? 0);
+    maxSourcesPerDay = Math.max(maxSourcesPerDay, day.metadata?.sourcesUsed ?? 0);
     for (const h of day.headlines) {
       if (h.category) categoryCounts[h.category] = (categoryCounts[h.category] ?? 0) + 1;
       if (h.region) regionCounts[h.region] = (regionCounts[h.region] ?? 0) + 1;
     }
   }
 
-  // Total unique sources = max across days (rough approximation)
-  const totalSourcesUsed = Math.max(...Array.from(allSources));
+  const totalSourcesUsed = maxSourcesPerDay;
 
   // 5. Generate weekly summary via LLM
   console.log('\nGenerating weekly summary with LLM...');
@@ -151,17 +186,26 @@ async function runWeeklyPipeline(languageCode: string = 'en') {
     ? `\nPERSISTENT STORIES (appeared 3+ days):\n${persistentStories.map(s => `  - ${s}`).join('\n')}\n`
     : '';
 
+  const fadedSection = fadedStories.length > 0
+    ? `\nSTORIES THAT FADED QUICKLY (appeared only 1 day):\n${fadedStories.slice(0, 5).map(s => `  - ${s}`).join('\n')}\n`
+    : '';
+
+  const escalatedSection = escalatedStories.length > 0
+    ? `\nSTORIES THAT ESCALATED (grew in prominence):\n${escalatedStories.map(s => `  - ${s}`).join('\n')}\n`
+    : '';
+
   const langPrompts: Record<string, { system: string; user: string }> = {
     en: {
       system: 'You are a neutral news editor. Write in clear English. Output valid JSON only.',
       user: `Write a 300-400 word weekly news briefing covering ${startDate} to ${endDate}. Summarize what mattered, what developed, and what resolved.
 
 ${headlinesByDay}
-${persistentSection}
+${persistentSection}${fadedSection}${escalatedSection}
 RULES:
 - Neutral, factual tone
 - Cover the most significant stories first
 - Note stories that persisted or developed across the week
+- Briefly note which stories proved lasting vs. which faded — this helps readers calibrate their sense of what truly mattered
 - Mention specific dates, names, numbers
 - No editorializing
 
@@ -172,11 +216,12 @@ Output JSON: {"summary":"<your briefing>"}`,
       user: `Scrivi un briefing settimanale di 300-400 parole che copra dal ${startDate} al ${endDate}. Riassumi cosa è stato importante, cosa si è sviluppato e cosa si è risolto.
 
 ${headlinesByDay}
-${persistentSection}
+${persistentSection}${fadedSection}${escalatedSection}
 REGOLE:
 - Tono neutrale e fattuale
 - Copri prima le storie più significative
 - Nota le storie persistenti o in sviluppo durante la settimana
+- Nota brevemente quali storie sono durate e quali sono svanite — questo aiuta i lettori a capire cosa ha contato davvero
 - Menziona date specifiche, nomi, numeri
 - Nessuna editorializzazione
 
@@ -187,11 +232,12 @@ Output JSON: {"summary":"<il tuo briefing>"}`,
       user: `Rédigez un briefing hebdomadaire de 300-400 mots couvrant du ${startDate} au ${endDate}. Résumez ce qui a compté, ce qui s'est développé et ce qui s'est résolu.
 
 ${headlinesByDay}
-${persistentSection}
+${persistentSection}${fadedSection}${escalatedSection}
 RÈGLES:
 - Ton neutre et factuel
 - Couvrez d'abord les histoires les plus significatives
 - Notez les histoires persistantes ou en développement au cours de la semaine
+- Notez brièvement quelles histoires ont duré et lesquelles ont disparu — cela aide les lecteurs à calibrer ce qui a vraiment compté
 - Mentionnez des dates, noms et chiffres spécifiques
 - Pas d'éditorialisation
 
@@ -232,6 +278,8 @@ Output JSON: {"summary":"<votre briefing>"}`,
     endDate,
     summary,
     persistentStories,
+    fadedStories: fadedStories.length > 0 ? fadedStories.slice(0, 10) : undefined,
+    escalatedStories: escalatedStories.length > 0 ? escalatedStories : undefined,
     topHeadlines,
     metadata: {
       totalArticlesProcessed,
@@ -254,6 +302,8 @@ Output JSON: {"summary":"<votre briefing>"}`,
   console.log(`  Days with data: ${dailyData.length}/7`);
   console.log(`  Top headlines: ${topHeadlines.length}`);
   console.log(`  Persistent stories: ${persistentStories.length}`);
+  console.log(`  Faded stories: ${fadedStories.length}`);
+  console.log(`  Escalated stories: ${escalatedStories.length}`);
   console.log(`  Total articles processed: ${totalArticlesProcessed}`);
   console.log(`${'='.repeat(60)}\n`);
 }

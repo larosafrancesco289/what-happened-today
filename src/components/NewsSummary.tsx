@@ -7,7 +7,7 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { getTranslations } from '@/lib/i18n';
 import type { Translations } from '@/lib/i18n';
 import { RSS_FEEDS_BY_LANGUAGE } from '@/lib/languages';
-import { ArrowTopRightOnSquareIcon, ChevronDownIcon } from '@heroicons/react/24/outline';
+import { ArrowTopRightOnSquareIcon, ChevronDownIcon, EyeIcon } from '@heroicons/react/24/outline';
 import { categoryIcons } from '@/lib/category-icons';
 
 interface NewsSummaryProps {
@@ -21,7 +21,13 @@ function sourceLabel(headline: NewsHeadline): string {
   return headline.source;
 }
 
-function HeadlineFooter({ headline, readMoreLabel, translations }: { headline: NewsHeadline; readMoreLabel: string; translations: Translations }) {
+interface HeadlineFooterProps {
+  headline: NewsHeadline;
+  readMoreLabel: string;
+  translations: Translations;
+}
+
+function HeadlineFooter({ headline, readMoreLabel, translations }: HeadlineFooterProps) {
   const isSingle = headline.singleSource === true || (headline.sources?.length ?? 1) <= 1;
 
   return (
@@ -43,6 +49,51 @@ function HeadlineFooter({ headline, readMoreLabel, translations }: { headline: N
         <span>{readMoreLabel}</span>
         <ArrowTopRightOnSquareIcon className="w-4 h-4 transition-transform duration-300 group-hover/link:translate-x-0.5 group-hover/link:-translate-y-0.5" />
       </a>
+    </div>
+  );
+}
+
+interface FramingSectionProps {
+  headline: NewsHeadline;
+  translations: Translations;
+}
+
+function FramingSection({ headline, translations: t }: FramingSectionProps) {
+  const [isOpen, setIsOpen] = useState(false);
+
+  if (!headline.framings || headline.framings.length < 2) return null;
+
+  return (
+    <div className="mt-3">
+      <button
+        onClick={() => setIsOpen(!isOpen)}
+        className="flex items-center gap-2 text-xs text-subtle-light/70 dark:text-subtle-dark/70 hover:text-text-light dark:hover:text-text-dark transition-colors group/framing"
+      >
+        <EyeIcon className="w-3.5 h-3.5" />
+        <span>{t.framing.title}</span>
+        <ChevronDownIcon className={`w-3 h-3 transition-transform duration-300 ${isOpen ? 'rotate-180' : ''}`} />
+      </button>
+
+      <div className={`overflow-hidden transition-all duration-400 ease-out ${isOpen ? 'max-h-96 opacity-100 mt-3' : 'max-h-0 opacity-0'}`}>
+        <div className="space-y-2 pl-4 border-l-2 border-border-light/40 dark:border-border-dark/40">
+          {headline.framings.map((f, idx) => (
+            <div key={idx} className="flex items-start gap-2 text-sm">
+              <span className="font-medium text-text-light dark:text-text-dark whitespace-nowrap">{f.source}</span>
+              <span className="text-subtle-light dark:text-subtle-dark">{f.angle}</span>
+              {f.link && (
+                <a
+                  href={f.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex-shrink-0 text-accent2-light dark:text-accent2-dark hover:text-accent-light dark:hover:text-accent-dark"
+                >
+                  <ArrowTopRightOnSquareIcon className="w-3.5 h-3.5" />
+                </a>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
     </div>
   );
 }
@@ -120,7 +171,14 @@ function CategoryFilter({
   );
 }
 
-function HeadlineCard({ headline, index, isFirst, compact = false }: { headline: NewsHeadline; index: number; isFirst: boolean; compact?: boolean }) {
+interface HeadlineCardProps {
+  headline: NewsHeadline;
+  index: number;
+  isFirst: boolean;
+  compact?: boolean;
+}
+
+function HeadlineCard({ headline, index, isFirst, compact = false }: HeadlineCardProps) {
   const { currentLanguage } = useLanguage();
   const t = getTranslations(currentLanguage.code);
 
@@ -187,13 +245,19 @@ function HeadlineCard({ headline, index, isFirst, compact = false }: { headline:
           </p>
 
           <HeadlineFooter headline={headline} readMoreLabel={t.summary.readMore} translations={t} />
+          <FramingSection headline={headline} translations={t} />
         </div>
       </div>
     </article>
   );
 }
 
-function DevelopingCard({ headline, index }: { headline: NewsHeadline; index: number }) {
+interface DevelopingCardProps {
+  headline: NewsHeadline;
+  index: number;
+}
+
+function DevelopingCard({ headline, index }: DevelopingCardProps) {
   const { currentLanguage } = useLanguage();
   const t = getTranslations(currentLanguage.code);
 
@@ -233,6 +297,7 @@ function DevelopingCard({ headline, index }: { headline: NewsHeadline; index: nu
             </p>
 
             <HeadlineFooter headline={headline} readMoreLabel={t.summary.readMore} translations={t} />
+            <FramingSection headline={headline} translations={t} />
           </div>
         </div>
       </div>

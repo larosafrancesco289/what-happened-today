@@ -62,6 +62,38 @@ function getPrompts(languageCode: string): typeof LANGUAGE_PROMPTS[SupportedProm
   return LANGUAGE_PROMPTS[(languageCode as SupportedPromptLang)] ?? LANGUAGE_PROMPTS.en;
 }
 
+/**
+ * Format articles for inclusion in headline prompts.
+ * Shared across all language prompts to avoid duplicating the covering-articles logic.
+ */
+function formatArticlesForPrompt(articles: ProcessedArticle[], alsoLabel: string): string {
+  return articles.map((a, i) => {
+    let entry = `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [${alsoLabel}: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`;
+    if (a.coveringArticles && a.coveringArticles.length > 0) {
+      entry += '\n' + a.coveringArticles.map(ca => `${ca.source} version (300 chars): ${ca.content.substring(0, 300)}\nLink: ${ca.link}`).join('\n');
+    }
+    return entry;
+  }).join('\n\n');
+}
+
+/**
+ * Format a "yesterday headlines" section for memory/continuity.
+ * Returns an empty string when there are no yesterday headlines.
+ */
+function formatYesterdayMemory(yesterdayHeadlines: NewsHeadline[], header: string, instructions: string): string {
+  if (yesterdayHeadlines.length === 0) return '';
+  return `\n${header}:\n${yesterdayHeadlines.map((h, i) => `${i + 1}. ${h.title}`).join('\n')}\n${instructions}\n\n`;
+}
+
+/**
+ * Format a "yesterday context" section for summary prompts.
+ * Returns an empty string when there are no yesterday headlines.
+ */
+function formatYesterdayContext(yesterdayHeadlines: NewsHeadline[], header: string): string {
+  if (yesterdayHeadlines.length === 0) return '';
+  return `\n${header}:\n${yesterdayHeadlines.slice(0, 5).map((h, i) => `${i + 1}. ${h.title}`).join('\n')}\n\n`;
+}
+
 const SYSTEM_PROMPTS: Record<SupportedPromptLang, { headlines: string; summary: string }> = {
   en: {
     headlines: 'You are a neutral news editor. Write all headlines and summaries in English. Output valid JSON only.',
@@ -122,12 +154,11 @@ ARTICLES:
 ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
 
     headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const memorySection = yesterdayHeadlines.length > 0 ? `
-YESTERDAY'S HEADLINES (for continuity — do NOT repeat unless there is a NEW development):
-${yesterdayHeadlines.map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
-For ongoing stories from yesterday with new developments, place them in the "developing" tier with dayNumber (how many consecutive days) and previousContext (what specifically changed today).
-
-` : '';
+      const memorySection = formatYesterdayMemory(
+        yesterdayHeadlines,
+        "YESTERDAY'S HEADLINES (for continuity — do NOT repeat unless there is a NEW development)",
+        'For ongoing stories from yesterday with new developments, place them in the "developing" tier with dayNumber (how many consecutive days) and previousContext (what specifically changed today).'
+      );
 
       return `Create headlines + summaries for distinct news events. Write in clear, factual English.
 
@@ -153,19 +184,24 @@ MULTI-SOURCE: When input articles have coveringSources, include all sources in a
 
 SINGLE-SOURCE: If an article has NO [Also: ...] annotation, include "singleSource": true in the JSON.
 
+FRAMING: For multi-source stories, add a "framings" array showing how each source approached the story.
+Each framing: {"source":"AP","angle":"Led with casualty figures and blast mechanics","link":"..."}
+The angle should be 8-15 words describing what the source emphasized, NOT an opinion about the source.
+
+IMPORTANT: Each story must appear in exactly ONE tier. Do not place the same event in both "top" and "developing".
+
 OUTPUT JSON FORMAT:
-{"headlines":[{"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"SingleSource","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
+{"headlines":[{"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top","framings":[{"source":"AP","angle":"...","link":"..."}]},{"title":"...","source":"SingleSource","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
 
 ARTICLES:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [Also: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`;
+${formatArticlesForPrompt(articles, 'Also')}`;
     },
 
     summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const yesterdaySection = yesterdayHeadlines.length > 0 ? `
-YESTERDAY'S CONTEXT (for reference — do not repeat old information, only mention what changed):
-${yesterdayHeadlines.slice(0, 5).map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
-
-` : '';
+      const yesterdaySection = formatYesterdayContext(
+        yesterdayHeadlines,
+        "YESTERDAY'S CONTEXT (for reference — do not repeat old information, only mention what changed)"
+      );
 
       return `Write a 2-3 paragraph daily news briefing (250-350 words). Your goal is to help readers understand the world in 90 seconds.
 
@@ -182,6 +218,18 @@ WRITING RULES:
 - DO provide factual context and connections between related events
 - Factual transitions ("In [region]", "Separately") not dramatic ones ("Meanwhile, as tensions mount")
 - Name specific places, people, and numbers — be concrete, not abstract
+
+AVOID THESE PATTERNS (editorial leakage):
+- "underscores", "highlights", "raises fears of", "raises questions about"
+- "in an already [adjective] era/world/region"
+- "signaling how X compounds/deepens Y"
+- "erasing/unshackling/unleashing" (dramatic imagery for policy changes)
+- Analytical conclusions: "This development follows years of..."
+- Speculative framing: "heightened prospects of..."
+USE INSTEAD:
+- "This follows [specific factual predecessor]"
+- "X happened. [Factual context]. Y is expected next."
+- Connect events with facts, not interpretation
 
 TONE:
 - Neutral and factual throughout
@@ -222,7 +270,7 @@ DA ESCLUDERE:
 - "Reazioni a" o "Analisi di" senza fatti nuovi
 - Contenuti solo video senza fatti testuali
 - Contenuti promozionali o sponsorizzati
-- Titoli con parole sensazionalistiche: "shock", "clamoroso", "bomba"
+- Titoli con parole sensazionalistiche: "shock", "clamoroso", "bomba", "incredibile", "assurdo", "caos", "crisi" (salvo uso letterale), "attacca", "tuona", "scuote", "drammatico", "sconvolgente"
 
 REQUISITI DI DIVERSITÀ:
 - Se lo stesso evento è coperto da più fonti, tieni la versione più completa
@@ -235,12 +283,11 @@ ARTICOLI:
 ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
 
     headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const memorySection = yesterdayHeadlines.length > 0 ? `
-TITOLI DI IERI (per continuità — NON ripetere a meno che non ci sia uno sviluppo NUOVO):
-${yesterdayHeadlines.map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
-Per storie in corso da ieri con nuovi sviluppi, inseriscile nel livello "developing" con dayNumber (quanti giorni consecutivi) e previousContext (cosa è cambiato oggi specificamente).
-
-` : '';
+      const memorySection = formatYesterdayMemory(
+        yesterdayHeadlines,
+        'TITOLI DI IERI (per continuità — NON ripetere a meno che non ci sia uno sviluppo NUOVO)',
+        'Per storie in corso da ieri con nuovi sviluppi, inseriscile nel livello "developing" con dayNumber (quanti giorni consecutivi) e previousContext (cosa è cambiato oggi specificamente).'
+      );
 
       return `IMPORTANTE: Scrivi TUTTO in italiano.
 
@@ -255,7 +302,7 @@ ${memorySection}
 REGOLE PER I TITOLI:
 - 8-14 parole, voce attiva, tempo presente per eventi di oggi
 - Struttura Soggetto-Verbo-Oggetto (CHI ha fatto COSA a CHI)
-- NO parole sensazionalistiche: shock, clamoroso, bomba, incredibile, assurdo
+- NO parole sensazionalistiche: shock, clamoroso, bomba, incredibile, assurdo, caos, crisi (salvo uso letterale), attacca, tuona, scuote, drammatico, sconvolgente
 - NO titoli con domande o cliffhanger
 - Includi numeri specifici quando disponibili (vittime, importi, percentuali)
 
@@ -268,19 +315,26 @@ MULTI-FONTE: Quando gli articoli in input hanno coveringSources, includi tutte l
 
 FONTE UNICA: Se un articolo NON ha annotazione [Anche: ...], includi "singleSource": true nel JSON.
 
+FRAMING: Per le storie multi-fonte, aggiungi un array "framings" che mostri come ogni fonte ha trattato la notizia.
+Ogni framing: {"source":"ANSA","angle":"Ha aperto con le cifre delle vittime e la meccanica dell'esplosione","link":"..."}
+L'angle deve essere di 8-15 parole che descrivono cosa la fonte ha enfatizzato, NON un'opinione sulla fonte.
+
+Descrivi i fatti, non caratterizzarli. Invece di 'video razzista', descrivi il contenuto del video e lascia giudicare il lettore.
+
+IMPORTANTE: Ogni notizia deve apparire in UN SOLO livello. Non inserire lo stesso evento sia in "top" che in "developing".
+
 FORMATO JSON OUTPUT:
-{"headlines":[{"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"FonteUnica","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
+{"headlines":[{"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","tier":"top","framings":[{"source":"ANSA","angle":"...","link":"..."}]},{"title":"...","source":"FonteUnica","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
 
 ARTICOLI:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [Anche: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`;
+${formatArticlesForPrompt(articles, 'Anche')}`;
     },
 
     summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const yesterdaySection = yesterdayHeadlines.length > 0 ? `
-CONTESTO DI IERI (per riferimento — non ripetere vecchie informazioni, menziona solo cosa è cambiato):
-${yesterdayHeadlines.slice(0, 5).map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
-
-` : '';
+      const yesterdaySection = formatYesterdayContext(
+        yesterdayHeadlines,
+        'CONTESTO DI IERI (per riferimento — non ripetere vecchie informazioni, menziona solo cosa è cambiato)'
+      );
 
       return `Scrivi un briefing quotidiano di 2-3 paragrafi (250-350 parole) IN ITALIANO. Il tuo obiettivo è aiutare i lettori a capire il mondo in 90 secondi.
 
@@ -297,6 +351,16 @@ REGOLE DI SCRITTURA:
 - Fornisci contesto fattuale e connessioni tra eventi correlati
 - Transizioni fattuali ("In [regione]", "Separatamente") non drammatiche ("Nel frattempo, mentre le tensioni aumentano")
 - Nomina luoghi, persone e numeri specifici — sii concreto, non astratto
+
+EVITA QUESTI PATTERN (editorializzazione):
+- "sottolinea", "evidenzia", "alimenta timori di", "solleva interrogativi su"
+- "in un'era/mondo/regione già [aggettivo]"
+- "segnalando come X aggrava/approfondisce Y"
+- Immagini drammatiche per cambiamenti politici
+- Conclusioni analitiche: "Questo sviluppo fa seguito ad anni di..."
+USA INVECE:
+- "Questo fa seguito a [predecessore fattuale specifico]"
+- "X è successo. [Contesto fattuale]. Y è atteso dopo."
 
 TONO:
 - Neutrale e fattuale in tutto il testo
@@ -337,7 +401,7 @@ CRITÈRES DE NOTATION:
 - "Réactions à" ou "Analyse de" sans faits nouveaux
 - Contenus vidéo seuls sans faits textuels
 - Contenus promotionnels ou sponsorisés
-- Titres avec mots sensationnels: "choc", "incroyable", "scandaleux"
+- Titres avec mots sensationnels: "choc", "incroyable", "scandaleux", "stupéfiant", "hallucinant", "chaos", "crise" (sauf usage littéral), "fustige", "torpille", "secoue", "dramatique", "bouleversant"
 
 EXIGENCES DE DIVERSITÉ:
 - Si le même événement est couvert par plusieurs sources, gardez la version la plus complète
@@ -350,12 +414,11 @@ ARTICLES:
 ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
 
     headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const memorySection = yesterdayHeadlines.length > 0 ? `
-TITRES D'HIER (pour continuité — NE PAS répéter sauf s'il y a un NOUVEAU développement):
-${yesterdayHeadlines.map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
-Pour les histoires en cours depuis hier avec de nouveaux développements, placez-les dans le niveau "developing" avec dayNumber (combien de jours consécutifs) et previousContext (ce qui a spécifiquement changé aujourd'hui).
-
-` : '';
+      const memorySection = formatYesterdayMemory(
+        yesterdayHeadlines,
+        "TITRES D'HIER (pour continuité — NE PAS répéter sauf s'il y a un NOUVEAU développement)",
+        'Pour les histoires en cours depuis hier avec de nouveaux développements, placez-les dans le niveau "developing" avec dayNumber (combien de jours consécutifs) et previousContext (ce qui a spécifiquement changé aujourd\'hui).'
+      );
 
       return `IMPORTANT: Écrivez TOUT en français.
 
@@ -370,7 +433,7 @@ ${memorySection}
 RÈGLES POUR LES TITRES:
 - 8-14 mots, voix active, présent pour les événements du jour
 - Structure Sujet-Verbe-Objet (QUI a fait QUOI à QUI)
-- PAS de mots sensationnels: choc, incroyable, scandaleux, stupéfiant, hallucinant
+- PAS de mots sensationnels: choc, incroyable, scandaleux, stupéfiant, hallucinant, chaos, crise (sauf usage littéral), fustige, torpille, secoue, dramatique, bouleversant
 - PAS de titres interrogatifs ou de cliffhangers
 - Incluez des chiffres spécifiques quand disponibles (victimes, montants, pourcentages)
 
@@ -383,19 +446,26 @@ MULTI-SOURCE: Quand les articles en entrée ont coveringSources, incluez toutes 
 
 SOURCE UNIQUE: Si un article n'a PAS d'annotation [Aussi: ...], incluez "singleSource": true dans le JSON.
 
+FRAMING: Pour les histoires multi-sources, ajoutez un tableau "framings" montrant comment chaque source a traité l'info.
+Chaque framing: {"source":"AFP","angle":"A ouvert avec les chiffres des victimes et la mécanique de l'explosion","link":"..."}
+L'angle doit faire 8-15 mots décrivant ce que la source a mis en avant, PAS une opinion sur la source.
+
+Décrivez les faits, ne les caractérisez pas. Au lieu de 'vidéo raciste', décrivez le contenu et laissez le lecteur juger.
+
+IMPORTANT: Chaque événement doit apparaître dans UN SEUL niveau. Ne placez pas le même événement dans "top" et "developing".
+
 FORMAT JSON OUTPUT:
-{"headlines":[{"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top"},{"title":"...","source":"SourceUnique","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
+{"headlines":[{"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top","framings":[{"source":"AFP","angle":"...","link":"..."}]},{"title":"...","source":"SourceUnique","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
 
 ARTICLES:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [Aussi: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`).join('\n\n')}`;
+${formatArticlesForPrompt(articles, 'Aussi')}`;
     },
 
     summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const yesterdaySection = yesterdayHeadlines.length > 0 ? `
-CONTEXTE D'HIER (pour référence — ne pas répéter d'anciennes informations, mentionner uniquement ce qui a changé):
-${yesterdayHeadlines.slice(0, 5).map((h, i) => `${i + 1}. ${h.title}`).join('\n')}
-
-` : '';
+      const yesterdaySection = formatYesterdayContext(
+        yesterdayHeadlines,
+        "CONTEXTE D'HIER (pour référence — ne pas répéter d'anciennes informations, mentionner uniquement ce qui a changé)"
+      );
 
       return `Rédigez un briefing quotidien de 2-3 paragraphes (250-350 mots) EN FRANÇAIS. Votre objectif est d'aider les lecteurs à comprendre le monde en 90 secondes.
 
@@ -412,6 +482,15 @@ RÈGLES D'ÉCRITURE:
 - Fournissez contexte factuel et connexions entre événements liés
 - Transitions factuelles ("En [région]", "Séparément") pas dramatiques ("Pendant ce temps, alors que les tensions montent")
 - Nommez des lieux, personnes et chiffres spécifiques — soyez concret, pas abstrait
+
+ÉVITEZ CES FORMULATIONS (glissement éditorial):
+- "souligne", "met en lumière", "alimente les craintes de", "soulève des questions sur"
+- "dans une ère/un monde/une région déjà [adjectif]"
+- "signalant comment X aggrave/approfondit Y"
+- Images dramatiques pour des changements politiques
+UTILISEZ PLUTÔT:
+- "Ceci fait suite à [prédécesseur factuel spécifique]"
+- "X s'est produit. [Contexte factuel]. Y est attendu ensuite."
 
 TON:
 - Neutre et factuel tout au long
@@ -443,7 +522,7 @@ async function chatCompletion(model: string, systemPrompt: string, userPrompt: s
 
 async function filterAndRankArticlesChunk(articles: ProcessedArticle[], languageCode: string): Promise<ProcessedArticle[]> {
   const prompt = getPrompts(languageCode).filterPrompt(articles);
-  const threshold = (languageCode === 'fr' || languageCode === 'it') ? 5 : 6;
+  const threshold = 6;
 
   const systemPrompt = 'You are a neutral news editor. Analyze articles and respond with valid JSON only. No markdown, no explanations.';
   const responseText = await chatCompletion(MODEL_FILTER, systemPrompt, prompt);
@@ -540,6 +619,49 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
   }
 }
 
+/** Priority ordering for tiers: lower number = higher priority. */
+const TIER_PRIORITY: Record<Tier, number> = { top: 0, also: 1, developing: 2 };
+
+function tierPriorityOf(tier: string | undefined): number {
+  return TIER_PRIORITY[(tier as Tier)] ?? TIER_PRIORITY.also;
+}
+
+/**
+ * Remove duplicate stories that appear in multiple tiers, keeping the
+ * higher-priority tier version (top > also > developing).
+ */
+function deduplicateAcrossTiers(headlines: NewsHeadline[]): NewsHeadline[] {
+  const seenLinks = new Map<string, number>();
+  const seenTitles = new Map<string, number>();
+  const toRemove = new Set<number>();
+
+  for (let i = 0; i < headlines.length; i++) {
+    const h = headlines[i];
+    const link = h.link?.toLowerCase() || '';
+    const titleKey = h.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 40);
+
+    const existingIdx = (link ? seenLinks.get(link) : undefined) ?? seenTitles.get(titleKey);
+
+    if (existingIdx !== undefined) {
+      const existingPriority = tierPriorityOf(headlines[existingIdx].tier);
+      const currentPriority = tierPriorityOf(h.tier);
+      const keepCurrent = currentPriority < existingPriority;
+
+      toRemove.add(keepCurrent ? existingIdx : i);
+      if (keepCurrent) {
+        if (link) seenLinks.set(link, i);
+        seenTitles.set(titleKey, i);
+      }
+      console.log(`Cross-tier dedup: removed duplicate "${h.title.substring(0, 50)}..." (kept ${keepCurrent ? 'current' : 'existing'} tier)`);
+    } else {
+      if (link) seenLinks.set(link, i);
+      seenTitles.set(titleKey, i);
+    }
+  }
+
+  return headlines.filter((_, i) => !toRemove.has(i));
+}
+
 export async function generateHeadlines(articles: ProcessedArticle[], languageCode: string = 'en', yesterdayHeadlines: NewsHeadline[] = []): Promise<NewsHeadline[]> {
   const prompt = getPrompts(languageCode).headlinesPrompt(articles, yesterdayHeadlines);
 
@@ -550,7 +672,7 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
     const headlines = result.headlines || [];
 
     // Post-parse fallback: ensure all headlines have tier, sources, and singleSource
-    return headlines.map(h => {
+    const enriched = headlines.map(h => {
       const sources = h.sources && h.sources.length > 0 ? h.sources : [h.source];
       return {
         ...h,
@@ -559,9 +681,10 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
         singleSource: h.singleSource ?? (sources.length <= 1),
       };
     });
+
+    return deduplicateAcrossTiers(enriched);
   } catch (error) {
     console.error('Error generating headlines:', error);
-    // Return empty array - the pipeline will handle this as "unavailable"
     return [];
   }
 }

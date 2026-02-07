@@ -74,6 +74,10 @@ export interface Translations {
     sourceType: Record<string, string>;
     sourcePerspective: Record<string, string>;
   };
+  framing: {
+    title: string;
+    angle: string;
+  };
   weekly: {
     title: string;
     subtitle: string;
@@ -83,6 +87,10 @@ export interface Translations {
     daysWithData: string;
     noDigest: string;
     backToToday: string;
+    fadedStories: string;
+    fadedDescription: string;
+    escalatedStories: string;
+    escalatedDescription: string;
   };
 }
 
@@ -175,6 +183,10 @@ export const translations: Record<string, Translations> = {
         right: "Right-leaning",
       },
     },
+    framing: {
+      title: "How sources framed this",
+      angle: "Emphasis",
+    },
     weekly: {
       title: "This Week",
       subtitle: "Weekly briefing",
@@ -184,6 +196,10 @@ export const translations: Record<string, Translations> = {
       daysWithData: "days covered",
       noDigest: "No weekly digest available yet.",
       backToToday: "Back to today",
+      fadedStories: "Faded quickly",
+      fadedDescription: "Appeared one day only",
+      escalatedStories: "Grew in prominence",
+      escalatedDescription: "Started small, became a top story",
     }
   },
   it: {
@@ -274,6 +290,10 @@ export const translations: Record<string, Translations> = {
         right: "Destra",
       },
     },
+    framing: {
+      title: "Come le fonti hanno trattato la notizia",
+      angle: "Enfasi",
+    },
     weekly: {
       title: "Questa Settimana",
       subtitle: "Briefing settimanale",
@@ -283,6 +303,10 @@ export const translations: Record<string, Translations> = {
       daysWithData: "giorni coperti",
       noDigest: "Nessun digest settimanale disponibile.",
       backToToday: "Torna a oggi",
+      fadedStories: "Svanite rapidamente",
+      fadedDescription: "Apparse un solo giorno",
+      escalatedStories: "Cresciute di importanza",
+      escalatedDescription: "Iniziate in sordina, diventate notizia principale",
     }
   },
   fr: {
@@ -373,6 +397,10 @@ export const translations: Record<string, Translations> = {
         right: "Droite",
       },
     },
+    framing: {
+      title: "Comment les sources ont traité cette info",
+      angle: "Angle",
+    },
     weekly: {
       title: "Cette Semaine",
       subtitle: "Briefing hebdomadaire",
@@ -382,6 +410,10 @@ export const translations: Record<string, Translations> = {
       daysWithData: "jours couverts",
       noDigest: "Aucun digest hebdomadaire disponible.",
       backToToday: "Retour à aujourd'hui",
+      fadedStories: "Disparues rapidement",
+      fadedDescription: "Apparues un seul jour",
+      escalatedStories: "Montées en importance",
+      escalatedDescription: "Commencées discrètement, devenues une des nouvelles principales",
     }
   }
 };

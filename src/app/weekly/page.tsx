@@ -7,9 +7,54 @@ import { fetchWeeklyDigest, getLastWeekId, formatDate } from '@/lib/client-utils
 import AppHeader from '@/components/AppHeader';
 import LoadingSpinner from '@/components/LoadingSpinner';
 import type { WeeklyDigest, Region } from '@/types/news';
-import { ArrowLeftIcon } from '@heroicons/react/24/outline';
+import { ArrowLeftIcon, ArrowTrendingDownIcon, ArrowTrendingUpIcon } from '@heroicons/react/24/outline';
 import { categoryIcons } from '@/lib/category-icons';
 import Link from 'next/link';
+
+interface StoryListSectionProps {
+  stories: string[];
+  title: string;
+  description: string;
+  Icon: React.ComponentType<React.SVGProps<SVGSVGElement>>;
+  borderColor: string;
+  iconColor: string;
+  textColor?: string;
+}
+
+function StoryListSection({ stories, title, description, Icon, borderColor, iconColor, textColor = 'text-text-light dark:text-text-dark' }: StoryListSectionProps) {
+  if (stories.length === 0) return null;
+
+  return (
+    <section className="mb-16 lg:mb-20 animate-fade-in-up stagger-3 animate-hidden">
+      <div className="flex items-center gap-4 mb-8">
+        <span className="section-label flex items-center gap-2">
+          <Icon className="w-4 h-4" />
+          {title}
+        </span>
+        <div className="flex-1 h-px bg-border-light/50 dark:bg-border-dark/50" />
+      </div>
+
+      <p className="text-sm text-subtle-light/60 dark:text-subtle-dark/60 mb-4">
+        {description}
+      </p>
+
+      <div className="space-y-3">
+        {stories.map((story, idx) => (
+          <div
+            key={idx}
+            className={`flex items-start gap-3 p-3 lg:p-4 bg-panel-light dark:bg-panel-dark border border-border-light/60 dark:border-border-dark/60 border-l-4 ${borderColor} animate-fade-in animate-hidden`}
+            style={{ animationDelay: `${idx * 0.06}s` }}
+          >
+            <Icon className={`w-4 h-4 ${iconColor} flex-shrink-0 mt-1`} />
+            <p className={`font-serif text-base ${textColor} leading-snug`}>
+              {story}
+            </p>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
 
 export default function WeeklyPage() {
   const { currentLanguage } = useLanguage();
@@ -213,6 +258,27 @@ export default function WeeklyPage() {
             </div>
           </section>
         )}
+
+        {/* Escalated Stories */}
+        <StoryListSection
+          stories={data.escalatedStories || []}
+          title={t.weekly.escalatedStories}
+          description={t.weekly.escalatedDescription}
+          Icon={ArrowTrendingUpIcon}
+          borderColor="border-l-emerald-500 dark:border-l-emerald-400"
+          iconColor="text-emerald-500 dark:text-emerald-400"
+        />
+
+        {/* Faded Stories */}
+        <StoryListSection
+          stories={data.fadedStories || []}
+          title={t.weekly.fadedStories}
+          description={t.weekly.fadedDescription}
+          Icon={ArrowTrendingDownIcon}
+          borderColor="border-l-gray-400 dark:border-l-gray-500"
+          iconColor="text-gray-400 dark:text-gray-500"
+          textColor="text-subtle-light dark:text-subtle-dark"
+        />
 
         {/* Top Headlines by Date */}
         <section className="mb-16 lg:mb-20 animate-fade-in-up stagger-4 animate-hidden">

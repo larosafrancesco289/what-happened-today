@@ -154,9 +154,17 @@ export async function deduplicateArticles(articles: ProcessedArticle[]): Promise
       curr.content.length > best.content.length ? curr : best
     );
     const allSources = [...new Set(group.map(a => a.source))];
+    // Preserve full articles from other sources for framing comparison (cap at 4)
+    const coveringArticles = allSources.length > 1
+      ? group
+          .filter(a => a !== representative)
+          .slice(0, 4)
+          .map(a => ({ source: a.source, title: a.title, content: a.content, link: a.link }))
+      : undefined;
     grouped.push({
       ...representative,
       coveringSources: allSources.length > 1 ? allSources : undefined,
+      coveringArticles,
     });
   }
 

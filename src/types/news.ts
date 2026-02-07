@@ -34,6 +34,8 @@ export interface NewsHeadline {
   previousContext?: string;
   /** True when only one source covers this story */
   singleSource?: boolean;
+  /** How different sources framed the same story */
+  framings?: Array<{ source: string; angle: string; link: string }>;
 }
 
 export interface DailyNewsMetadata {
@@ -76,6 +78,8 @@ export interface ProcessedArticle {
   isRelevant: boolean;
   /** Other sources covering the same story (set during cross-source grouping) */
   coveringSources?: string[];
+  /** Full articles from covering sources, for framing comparison */
+  coveringArticles?: Array<{ source: string; title: string; content: string; link: string }>;
 }
 
 export interface WeeklyDigest {
@@ -84,6 +88,10 @@ export interface WeeklyDigest {
   endDate: string;
   summary: string;
   persistentStories: string[];
+  /** Stories that appeared only 1 day then faded */
+  fadedStories?: string[];
+  /** Stories that grew in prominence over the week */
+  escalatedStories?: string[];
   topHeadlines: Array<{
     date: string;
     title: string;

@@ -1,0 +1,174 @@
+{
+  "date": "2026-02-07",
+  "summary": "Les forces russes ont lancé une offensive nocturne contre les infrastructures électriques ukrainiennes, causant des coupures de courant dans la plupart des régions du pays selon Ukrenergo. Cette attaque aggrave la crise énergétique hivernale, affectant des millions de civils et les opérations militaires. Kiev prévoit des mesures d'urgence pour restaurer l'électricité, tandis que Moscou n'a pas commenté l'opération. Des combats se poursuivent sur le front est.\n\nDonald Trump a salué les discussions nucléaires avec l'Iran comme très positives après la première session à Oman et annoncé un nouveau round la semaine prochaine, marquant un progrès par rapport à l'accord hier pour poursuivre les négociations. À part, l'État islamique a revendiqué un attentat-suicide dans une mosquée de Quetta au Pakistan, tuant 31 fidèles et en blessant 170 lors de la prière du vendredi. Islamabad renforce la sécurité dans la province du Baloutchistan, où le groupe persiste malgré les opérations antiterroristes. Le Congrès américain obtient un accès exclusif aux documents non censurés de l'affaire Epstein pour les élus uniquement, sans copies ni personnel, afin d'examiner les réseaux du financier décédé en 2019.\n\nEn Haïti, le mandat du Conseil présidentiel de transition s'achève après 22 mois sans élections organisées, laissant les gangs contrôler des zones clés de Port-au-Prince et accentuant l'instabilité humanitaire. La Chine a commué la condamnation à mort d'un Canadien condamné pour trafic de drogue en prison à vie, signalant une détente avec Ottawa après des tensions consulaires. Le parquet national financier français a ouvert une enquête contre Jack Lang, président de l'Institut du monde arabe, et sa fille Caroline pour blanchiment de fraude fiscale lié à Jeffrey Epstein. Un problème technique au contrôle des passeports à Brussels Airport perturbe arrivées et départs avec des files d'attente jusqu'à 100 minutes depuis vendredi.",
+  "headlines": [
+    {
+      "title": "Forces russes lancent offensive nocturne provoquant coupures de courant dans la plupart des régions ukrainiennes",
+      "source": "Le Monde",
+      "summary": "Une offensive russe dans la nuit cause des dégâts aux infrastructures électriques, entraînant des coupures d'urgence dans une grande partie de l'Ukraine selon Ukrenergo. Cela aggrave la crise énergétique hivernale, affectant des millions de civils et militaires.",
+      "link": "https://www.lemonde.fr/international/live/2026/02/07/en-direct-guerre-en-ukraine-volodymyr-zelensky-dit-qu-il-va-s-entretenir-samedi-avec-des-partenaires-europeens_6664947_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "État islamique revendique attentat-suicide dans mosquée pakistanaise tuant 31 fidèles et blessant 170",
+      "source": "20 Minutes",
+      "summary": "Un kamikaze de l'État islamique fait exploser une bombe dans une mosquée bondée lors de la prière hebdomadaire au Pakistan. L'attaque souligne la menace persistante du groupe dans la région, avec des tensions sécuritaires accrues.",
+      "link": "https://www.20minutes.fr/monde/4200223-20260206-pakistan-attentat-kamikaze-mosquee-fait-moins-31-morts-130-blesses?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump diffuse vidéo raciste représentant Barack et Michelle Obama en singes sur Truth Social",
+      "source": "Le Monde",
+      "summary": "Le président américain partage une vidéo raciste sur son compte, provoquant l'embarras de la Maison Blanche qui l'attribue à une erreur d'équipe et la supprime. Cela ravive les controverses sur le racisme au sein de son administration.",
+      "link": "https://www.lemonde.fr/international/article/2026/02/07/la-diffusion-par-donald-trump-d-une-video-raciste-representant-le-couple-obama-en-singes-met-la-maison-blanche-dans-l_embarras_6665742_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Parquet national financier ouvre enquête contre Jack Lang et sa fille pour blanchiment de fraude fiscale liée à Epstein",
+      "source": "Le Monde",
+      "sources": [
+        "France Info",
+        "Le Monde"
+      ],
+      "summary": "Le PNF cible Jack Lang, président de l'Institut du monde arabe, et Caroline Lang pour des échanges et une entreprise commune avec Jeffrey Epstein. Jack Lang rencontre le ministre des Affaires étrangères dimanche pour s'expliquer, menaçant sa position.",
+      "link": "https://www.lemonde.fr/politique/article/2026/02/07/affaire-epstein-jack-lang-desormais-vise-par-une-enquete-en-france-sur-la-sellette-a-l-institut-du-monde-arabe_6665747_823448.html",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Chine annule condamnation à mort d'un Canadien accusé de trafic de drogue",
+      "source": "Radio-Canada",
+      "summary": "Pékin commue la peine capitale en prison à vie, signe de détente avec Ottawa après des années de tensions diplomatiques. Cela pourrait améliorer les relations bilatérales sur fond de différends commerciaux et consulaires.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2226536/chine-annule-condamnation-mort-canadien-trafic-drogue",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Mandat du Conseil présidentiel de transition s'achève à Haïti dans un chaos dominé par les gangs",
+      "source": "France 24",
+      "summary": "Après 22 mois, le conseil censé stabiliser le pays expire sans élections, laissant les gangs contrôler des zones clés. Cela accentue l'instabilité humanitaire et politique, appelant à une intervention internationale urgente.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20260206-ha%C3%AFti-le-pouvoir-aux-gangs",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "JD Vance et sa femme sifflés par le public lors de la cérémonie d'ouverture des JO 2026 à Milan",
+      "source": "Le Figaro",
+      "summary": "Le vice-président américain et Usha Vance subissent des sifflets au stade San Siro, reflétant des tensions anti-américaines. L'incident marque les débuts controversés des Jeux italiens hivernaux.",
+      "link": "https://www.lefigaro.fr/sports/jeux-olympiques/jo-2026-le-vice-president-americain-jd-vance-siffle-lors-de-la-ceremonie-d-ouverture-20260207",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Congrès américain obtient accès exclusif aux documents non censurés de l'affaire Epstein",
+      "source": "Radio-Canada",
+      "summary": "Seuls les élus, sans personnel ni copies, consulteront les dossiers complets. Cela vise à éclaircir les réseaux d'Epstein, influençant enquêtes en cours et débats publics sur la justice.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2226622/epstein-congres-documents-non-censures",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump salue très bonnes discussions nucléaires avec l'Iran et annonce reprise la semaine prochaine",
+      "source": "20 Minutes",
+      "summary": "Après la première session à Oman, le président américain qualifie les négociations positives et fixe un nouveau round. Ce progrès diplomatique réduit les risques d'escalade au Moyen-Orient.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4200252-20260207-iran-trump-salue-tres-bonnes-discussions-teheran-avant-reprise-semaine-prochaine?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump qualifie les discussions de très bonnes et annonce une nouvelle rencontre la semaine prochaine à Oman",
+      "sources": [
+        "20 Minutes"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Problème technique de contrôle des passeports s'aggrave à Brussels Airport touchant arrivées et départs",
+      "source": "RTBF",
+      "summary": "Le dysfonctionnement débuté vendredi perturbe désormais tous les flux, causant des files d'attente jusqu'à 100 minutes. Cela impacte des milliers de voyageurs et la réputation de l'aéroport européen.",
+      "link": "https://www.rtbf.be/article/jusqu-a-100-minutes-d-attente-a-l-arrivee-a-brussels-airport-en-raison-d-un-probleme-technique-11675341",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Le souci s'étend aux départs en plus des arrivées, aggravant les retards",
+      "sources": [
+        "RTBF"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 215,
+    "articlesAfterDedup": 213,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 7,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "asia-pacific": 2,
+      "americas": 3,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4,
+      "developing": 2
+    }
+  }
+}

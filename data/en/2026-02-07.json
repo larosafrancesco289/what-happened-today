@@ -1,0 +1,208 @@
+{
+  "date": "2026-02-07",
+  "summary": "Jihadists killed 162 residents in attacks on Woro and Nuku villages in Kwara state, western Nigeria, on Tuesday. Gunmen rounded up, bound, and executed the victims in the deadliest assaults this year by such groups. Nigeria deployed troops to secure the area as insecurity spreads in the northwest.\n\nRwanda-backed rebels overran Congolese troops and entered Goma after gunfire and shelling displaced the forces, trapping over one million people in the aid hub city. The U.N. warned of a humanitarian crisis, with evacuations underway; the advance escalates Rwanda-Congo tensions and regional instability. In related nuclear developments, U.S. and Iran negotiators held positive indirect talks in Oman on Tehran's nuclear program, with President Trump calling them 'very good' and set to resume next week. Satellite images show Iran repairing missile facilities quickly and nuclear sites slowly after last year's Israeli and U.S. strikes. Trump signed an executive order threatening 25 percent tariffs on countries trading with Iran, affecting partners like China and Europe, with enforcement details pending.\n\nIsrael permitted displaced Palestinians to stream back into northern Gaza after progress on a hostage release deal, with thousands crossing the military zone on foot; the next phase involves aid access. Storm Leonardo dumped 700mm of rain on parts of Spain and caused flash floods in Morocco since Tuesday, displacing over 100,000 people and bringing annual rainfall equivalent to Grazalema in days; alerts continue amid travel and agriculture disruptions. Separately, the U.S. and India unveiled a framework for an interim trade deal easing tensions over India's Russian oil purchases and shelving a U.S. levy. China property developer Vanke reported huge losses amid the real estate crisis affecting homeowners and investors. NATO deployed its first coordinated response after Baltic Sea cable severances, suspected as sabotage, with ongoing patrols planned. A gunman wounded Russian Lt. Gen. Vladimir Alekseyev in Moscow; investigations continue amid high-level hits. The Milan Cortina Olympics began with a four-site opening ceremony featuring two cauldrons.",
+  "headlines": [
+    {
+      "title": "Jihadists kill 162 residents in attacks on two villages in western Nigeria",
+      "source": "The Guardian",
+      "summary": "Gunmen rounded up, bound, and executed 162 people in Woro and Nuku villages, Kwara state, on Tuesday. Local communities reel from deadliest assaults this year by jihadist groups. Nigeria sends troops to secure area; highlights spreading insecurity in northwest.",
+      "link": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun Congolese troops and enter Goma",
+      "source": "Wall Street Journal",
+      "summary": "Rebels seized Goma after gunfire and shelling displaced Congolese forces, trapping over one million people in the aid hub city. U.N. warns of humanitarian crisis. Evacuations underway; escalates Rwanda-Congo tensions and regional instability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Trump signs executive order threatening 25 percent tariffs on countries trading with Iran",
+      "source": "BBC",
+      "summary": "President Trump issues order targeting nations trading with Iran, citing 25% rate as example amid nuclear tensions. Affects global trade partners like China and Europe. Enforcement details pending; aims to pressure Tehran in ongoing standoff.",
+      "link": "https://www.bbc.com/news/articles/c4glgz2l83vo?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Iran repairs missile and nuclear sites hit by Israeli and U.S. strikes",
+      "source": "New York Times",
+      "summary": "Satellite images reveal Iran rebuilding key missile facilities quickly and nuclear sites slowly after last year's strikes. Impacts regional security amid U.S.-Iran talks. Monitoring continues; signals Tehran's defiance and potential escalation risks.",
+      "link": "https://www.nytimes.com/2026/02/06/world/middleeast/iran-missile-nuclear-repairs.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "science",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Milan Cortina Olympics begin four-site opening ceremony with two cauldrons",
+      "source": "Associated Press",
+      "summary": "Unprecedented ceremony across four Italian sites honors da Vinci, Dante, and culture with Mariah Carey performance. Athletes and spectators attend in Milan. Events start; boosts global attention on 2026 Winter Games amid tourism surge.",
+      "link": "https://apnews.com/article/olympics-opening-ceremony-milan-cortina-e98f512c4dd8328bff2da166224740fa",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Storm Leonardo dumps 700mm rain on Spain floods Morocco displacing 100,000",
+      "source": "The Guardian",
+      "summary": "Slow-moving storm brings torrential rain, winds to Iberian peninsula and flash floods in Morocco since Tuesday. Over 100,000 evacuated; Grazalema sees annual rainfall equivalent. Alerts persist; disrupts travel, agriculture across Europe and Africa.",
+      "link": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. and India unveil framework for interim trade deal",
+      "source": "Deutsche Welle",
+      "summary": "Agreement eases tensions over India's Russian oil buys, shelves 25% U.S. levy. Benefits exporters in both nations amid supply chain shifts. Final deal negotiations next; strengthens bilateral ties post-election uncertainties.",
+      "link": "https://www.dw.com/en/us-india-unveil-interim-trade-deal-framework/a-75852428?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "China property developer Vanke reports huge loss in real estate crisis",
+      "source": "Wall Street Journal",
+      "summary": "Vanke posts massive losses, signaling spread of property woes to top firms. Affects millions of homeowners, investors. Beijing may intervene; threatens economic growth as crisis deepens.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Gunman shoots Russian Lt. Gen. Vladimir Alekseyev in Moscow",
+      "source": "New York Times",
+      "summary": "Attacker wounds general who aided Ukraine invasion intelligence, previously sanctioned by U.S. Moscow investigates amid series of high-level hits. Heightens concerns over internal military dissent.",
+      "link": "https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Palestinians stream back to northern Gaza after hostage release breakthrough",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Gazans to cross military zone bisecting enclave following hostage deal progress. Thousands affected return on foot. Eases humanitarian strain; next aid access phase critical.",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Displaced residents begin returning after deadlock over hostage releases broken",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. and Iran hold positive indirect talks in Oman on nuclear program",
+      "source": "France 24",
+      "summary": "Negotiators meet amid U.S. military buildup; Trump calls talks 'very good,' set to resume next week. Involves top U.S. commander. Advances diplomacy post-strikes; reduces near-term conflict risks.",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump hails 'very good' round; sides agree to continue early next week in positive atmosphere",
+      "link": "https://www.france24.com/en/asia-pacific/20260207-live-trump-hails-very-good-iran-talks-says-negotiations-will-continue-early-next-week",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO mounts first coordinated response after Baltic Sea cable severance",
+      "source": "Wall Street Journal",
+      "summary": "Alliance deploys to counter suspected sabotage campaign targeting undersea infrastructure. Protects critical communications for Europe. Ongoing patrols planned; bolsters deterrence against hybrid threats.",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Triggers coordinated action following another cable cut in suspected sabotage series",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 451,
+    "articlesAfterDedup": 450,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "science": 1,
+      "society": 1,
+      "environment": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "africa": 2,
+      "americas": 1,
+      "middle-east": 3,
+      "europe": 3,
+      "global": 1,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "date": "2026-02-08",
+  "summary": "Il presidente ucraino Volodymyr Zelensky ha dichiarato che gli Stati Uniti esercitano pressioni per concludere negoziati di pace entro giugno, prima delle elezioni presidenziali americane di novembre. I colloqui affrontano ostacoli su confini e garanzie di sicurezza. Questa rivelazione fa seguito ai colloqui Usa-Iran in Oman sul nucleare e missili annunciati ieri da Trump come positivi.\n\nIn Portogallo, oltre 11 milioni di elettori votano oggi al ballottaggio presidenziale per il successore di Marcelo Rebelo de Sousa, tra l'ex ministro socialista António José Seguro e il leader di Chega André Ventura. Il vincitore assumerà l'incarico per cinque anni. In Ucraina, l'esercito russo ha bombardato Kherson con sistemi MLRS, ferendo undici civili tra cui due donne estratte dalle macerie. Le difese aeree russe hanno abbattuto 22 droni ucraini. Un soldato ucraino, Nazar Daletskyi, creduto morto nel 2023, è stato liberato in uno scambio di prigionieri e ha contattato la famiglia.\n\nTre valanghe hanno colpito scialpinisti in Valtellina e Trentino, causando tre morti e feriti; il Soccorso alpino è intervenuto con elicotteri e cani. Durante una protesta contro la presenza di Ice a Milano, antagonisti hanno lanciato petardi contro la polizia, che ha risposto con cariche e idranti, denunciando sei persone; l'evento segue l'inaugurazione dei Giochi olimpici invernali ieri. Il ministro della Difesa Guido Crosetto ha annunciato 12.000 Carabinieri ausiliari per l'Operazione Strade Sicure, su indicazione del premier Meloni; la riforma della difesa arriverà in Cdm entro marzo. Automotive Cells Company ha rinunciato ai piani per gigafabbriche di batterie in Italia e Germania per domanda di auto elettriche inferiore alle attese. Negli Usa, il Washington Post ha annunciato le dimissioni immediate del ceo Will Lewis dopo tagli al personale; un 33enne è stato arrestato per minacce di morte a Jd Vance e possesso di materiale pedopornografico. A Milano, un 30enne cinese è morto in ospedale dopo aver aggredito una guardia giurata e sparato contro la polizia.",
+  "headlines": [
+    {
+      "title": "Tre valanghe travolgono scialpinisti in Valtellina e Trentino causando tre morti",
+      "source": "Il Sole 24 Ore",
+      "summary": "Due distacchi di neve in Valtellina e uno in Trentino colpiscono gruppi di scialpinisti, provocando tre morti e diversi feriti. Il Soccorso alpino interviene con elicotteri e unità cinofile. L'episodio sottolinea i rischi crescenti in montagna durante il periodo dei Giochi olimpici invernali.",
+      "link": "https://www.ilsole24ore.com/art/valanga-travolge-3-scialpinisti-valtellina-morto-e-disperso-AIfSy3IB",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Undici milioni di portoghesi votano ballottaggio presidenziale tra Seguro e Ventura",
+      "source": "AGI",
+      "summary": "Oggi oltre 11 milioni di elettori scelgono il successore di Marcelo Rebelo de Sousa tra l'ex ministro socialista António José Seguro e il leader di Chega André Ventura. Il vincitore assumerà la presidenza per i prossimi cinque anni in un confronto tra centro-sinistra ed estrema destra.",
+      "link": "https://www.agi.it/estero/news/2026-02-08/portogallo-elezioni-presidenziali-35495423/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky rivela pressioni Usa per concludere pace in Ucraina entro giugno",
+      "source": "la Repubblica",
+      "summary": "Il presidente ucraino Volodymyr Zelensky descrive le richieste della Casa Bianca di negoziati rapidi prima delle elezioni americane di novembre. Rimangono ostacoli nei colloqui, con focus su confini e sicurezza. La dichiarazione influisce sulle dinamiche del conflitto in corso.",
+      "link": "https://www.repubblica.it/esteri/2026/02/08/news/zelensky_usa_pace_entro_giugno-425146270/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Bombardamento russo con MLRS su Kherson ferisce undici civili inclusa due donne",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "Rai News"
+      ],
+      "summary": "L'esercito russo attacca Kherson con razzi multipli, causando nove feriti totali di cui due donne estratte dalle macerie e ricoverate. Difese aeree russe abbattono 22 droni ucraini. L'episodio evidenzia l'intensificarsi degli attacchi nel sud dell'Ucraina.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-1437-giorno-di-guerra_108766886-202602k.shtml",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Descrive bombardamenti russi su Kherson con due donne in ospedale e nove feriti totali più abbattimento droni",
+          "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-1437-giorno-di-guerra_108766886-202602k.shtml"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Riporta massiccio bombardamento MLRS su Kherson con sei feriti e salvataggio due donne dalle macerie",
+          "link": "https://www.rainews.it/video/2026/02/kherson-lesercito-russo-ha-effettuato-un-massiccio-bombardamento-della-citta-con-mlrs-6-feriti-video-e021c19c-26aa-4ead-8942-02331a0eef78.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Antagonisti lanciano petardi contro polizia in corteo anti-Olimpiadi a Milano",
+      "source": "la Repubblica",
+      "summary": "Durante protesta pacifica contro presenza Ice a Milano, antagonisti attaccano agenti con petardi. Polizia risponde con cariche e idranti, denunciando sei persone. L'incidente avviene all'indomani dell'inaugurazione dei Giochi olimpici invernali.",
+      "link": "https://milano.repubblica.it/cronaca/2026/02/08/news/milano_olimpiadi_scontri_antagonisti_polizia_corteo_ice-425146260/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ministro Crosetto annuncia 12mila Carabinieri ausiliari per Operazione Strade Sicure",
+      "source": "Il Sole 24 Ore",
+      "summary": "Su indicazione premier Meloni, il ministro della Difesa Guido Crosetto potenzia i controlli con 12mila ausiliari. La riforma della difesa approderà in Cdm entro marzo. Misura risponde all'esigenza di maggiore sicurezza urbana in Italia.",
+      "link": "https://www.ilsole24ore.com/art/sicurezza-mossa-crosetto-12mila-carabinieri-ausiliari-strada-AIwMH6HB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Automotive Cells Company accantona gigafabbriche batterie in Italia e Germania",
+      "source": "Euronews Italiano",
+      "summary": "L'azienda europea Acc rinuncia ai piani per impianti in Italia e Germania causa domanda auto elettriche inferiore alle attese. Decisione riflette rallentamento transizione verde in Europa. Progetti originally previsti per produzione batterie veicoli elettrici.",
+      "link": "http://it.euronews.com/business/2026/02/07/cala-la-domanda-di-auto-elettriche-acc-accantona-lapertura-di-gigafabbriche-in-italia-e-ge",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Washington Post annuncia dimissioni ceo Will Lewis dopo tagli al personale",
+      "source": "AGI",
+      "summary": "Il quotidiano di Jeff Bezos vede uscire il ceo e direttore editoriale Will Lewis con effetto immediato, in seguito a drastici licenziamenti criticati da abbonati e dipendenti. La testata affronta perdite finanziarie nel settore editoriale Usa.",
+      "link": "https://www.agi.it/economia/news/2026-02-08/washington-post-dimissione-ceo-35497953/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Soldato ucraino Nazar Daletskyi torna casa dopo tre anni prigionia russa",
+      "source": "la Repubblica",
+      "summary": "Creduto morto e sepolto nel 2023, il militare Nazar Daletskyi viene liberato in scambio prigionieri e contatta la madre. Riunione familiare emozionante dopo cattura. Episodio umano nel contesto prolungato conflitto Russia-Ucraina.",
+      "link": "https://www.repubblica.it/esteri/2026/02/08/news/ucraina_soldato_creduto_morto_torna_casa_scambio_prigionieri_nazar_daletskyi-425146363/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Polizia arresta 33enne per minaccia morte a vice presidente Usa JD Vance",
+      "source": "TGCOM24",
+      "summary": "Un 33enne finisce in manette per minacce di uccisione contro JD Vance, rischiando fino a cinque anni più 20 per materiale pedopornografico. Indagine Fbi porta all'arresto. Caso solleva temi sicurezza leader politici americani.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-jd-vance-minacciato-di-morte_108766392-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "30enne cinese muore ospedale dopo sparatoria con polizia a Milano",
+      "source": "TGCOM24",
+      "summary": "L'uomo aggredisce guardia giurata, le strappa pistola e spara contro agenti prima di essere ferito mortalmente. Decede in ospedale. Episodio evidenzia tensioni sicurezza urbana nella metropoli lombarda.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/sparatoria-milano-morto-cinese-in-ospedale_108766734-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 256,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 14,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 4,
+      "conflict": 2,
+      "society": 2,
+      "economy": 2
+    },
+    "regionCounts": {
+      "europe": 9,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 7
+    }
+  }
+}

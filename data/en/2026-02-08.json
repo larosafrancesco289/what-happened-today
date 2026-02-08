@@ -1,0 +1,188 @@
+{
+  "date": "2026-02-08",
+  "summary": "Ukraine President Volodymyr Zelensky announced that the United States proposed talks between Russia and Ukraine for a peace deal by June. Washington offers a meeting of negotiators next week in the U.S. amid President Trump's mediation efforts. The proposal addresses the war that began in 2022 and has caused over 500,000 casualties and disrupted global grain exports. Russian participation remains uncertain.\n\nTwo U.S. appeals courts upheld Trump administration policies. The Fifth Circuit affirmed detaining immigrants without bond hearings, overturning lower court blocks and affecting thousands in custody as federal enforcement continues amid legal challenges. The Fourth Circuit allowed executive orders pausing federal DEI programs, lifting a block in Virginia and enabling enforcement across government agencies. Separately, the Pentagon terminated military training fellowships with Harvard University, halting programs for service members due to a White House dispute over the university's stance.\n\nIn Japan, polls opened Sunday for lower house elections where Prime Minister Sanae Takaichi seeks a major win for the Liberal Democratic Party despite scandals. Results will shape government stability and legislative control. Israeli Prime Minister Benjamin Netanyahu scheduled a Wednesday meeting with Trump in Washington on U.S.-Iran talks via Oman channels, as Iran threatens U.S. bases following recent strikes and repairs to its sites. Rapid Support Forces conducted a drone strike near Er Rahad in Sudan's North Kordofan, killing 24 displaced people including eight children. A suicide bomber attacked a mosque in Pakistan. Storm Leonardo delivered 700mm of rain to Spain, floods to Morocco, and downpours to Portugal, displacing 100,000 people since Tuesday with weather alerts across Europe and North Africa. SpaceX launched the Crew-10 Falcon 9 Friday, sending four astronauts including Anne McClain to the ISS for a six-month rotation to retrieve two stranded NASA crew members.",
+  "headlines": [
+    {
+      "title": "Fifth Circuit Court affirms Trump policy detaining immigrants without bond",
+      "source": "Associated Press",
+      "summary": "Panel of judges ruled Friday evening that administration can continue detaining immigrants without bond hearings, countering lower court blocks. Affects thousands in custody; strengthens federal immigration enforcement amid nationwide legal battles.",
+      "link": "https://apnews.com/article/fifth-circuit-immigrant-detainees-denied-bond-f5265ecf771d1f8e9f20d48bddfb1a25",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Japanese voters cast ballots in parliamentary elections led by Prime Minister Sanae Takaichi",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "The Hindu"
+      ],
+      "summary": "Polls opened Sunday for lower house elections where popular PM Takaichi seeks major win for Liberal Democratic Party despite scandals to enact conservative agenda. Shapes Japan's government stability; results determine legislative control.",
+      "link": "https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Highlighted Takaichi's popularity and LDP scandals in push for conservative agenda",
+          "link": "https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Focused on Takaichi's personal popularity contrasting ruling party's scandal troubles",
+          "link": "https://www.thehindu.com/news/international/japan-parliamentary-elections-polling-sanae-takaichi-on-february-8-2026/article70606413.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky announces U.S. proposes Russia-Ukraine talks for peace by June",
+      "source": "France 24",
+      "summary": "Ukraine president says Washington offers negotiators meeting next week in U.S. to secure deal by June amid Trump mediation push. Impacts prolonged war; potential breakthrough hinges on Russian participation.",
+      "link": "https://www.france24.com/en/europe/20260207-donald-trump-us-pushes-peace-ukraine-by-june-zelensky-trump-putin-witkoff-diplomacy-war",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX launches Crew-10 rocket retrieving two stuck NASA astronauts from space station",
+      "source": "Voice of America",
+      "summary": "Falcon 9 lifted off Friday carrying four astronauts including Anne McClain to ISS for six-month rotation enabling nine-month stranded crew return. Ensures station continuity; highlights commercial space reliance.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Fourth Circuit Court allows Trump executive orders cracking down on federal DEI programs",
+      "source": "Voice of America",
+      "summary": "Appeals panel in Virginia lifted lower court block deeming directives constitutional pausing DEI support in government. Affects federal workforce policies; enables enforcement against diversity initiatives.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagon terminates military training fellowships certificates with Harvard University",
+      "source": "NPR News",
+      "summary": "Defense Department cuts all ties amid White House dispute over university's 'woke' stance halting programs for service members. Impacts officer education; reflects cultural policy enforcement.",
+      "link": "https://www.npr.org/2026/02/07/g-s1-109213/pentagon-says-its-cutting-ties-with-woke-harvard-ending-military-training",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Rapid Support Forces drone kills 24 displaced people including eight children in Sudan",
+      "source": "The Guardian",
+      "summary": "Paramilitary strike hit vehicle fleeing fighting near Er Rahad in North Kordofan killing families per doctors network. Exacerbates civilian toll in civil war; underscores dangers for 7 million displaced.",
+      "link": "https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Suicide bomber attacks mosque in Pakistan undercutting gains against militants",
+      "source": "New York Times",
+      "summary": "Bloody blast at worship site shows fragility of progress versus Islamic State other groups despite crackdowns. Threatens public safety; may spur intensified military operations.",
+      "link": "https://www.nytimes.com/2026/02/07/world/asia/pakistan-mosque-bombing.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Prime Minister Netanyahu schedules meeting with Trump on U.S.-Iran talks",
+      "source": "Associated Press",
+      "summary": "Netanyahu to visit Washington Wednesday discussing Oman indirect talks as Iran threatens U.S. bases post-discussions. Coordinates strategy on nuclear program; escalates regional tensions.",
+      "link": "https://apnews.com/article/iran-israel-netanyahu-trump-washington-aad9f0290212fad4e9f81576f99becf2",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Netanyahu announces Wednesday Washington meeting amid Iranian threats following positive U.S.-Iran indirect nuclear talks",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Storm Leonardo delivers 700mm rain to Spain floods Morocco displacing 100,000 people",
+      "source": "The Guardian",
+      "summary": "Slow-moving system continues battering Iberian peninsula Portugal with torrential downpours flash floods forcing mass evacuations since Tuesday. Disrupts millions; weather alerts persist across Europe North Africa.",
+      "link": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Storm extends to Portugal with additional torrential rain and intensified Morocco flooding evacuating over 100,000",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 456,
+    "articlesAfterDedup": 451,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 5,
+      "conflict": 3,
+      "science": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "asia-pacific": 2,
+      "global": 3,
+      "africa": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

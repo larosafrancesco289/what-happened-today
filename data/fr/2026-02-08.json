@@ -1,0 +1,228 @@
+{
+  "date": "2026-02-08",
+  "summary": "Les États-Unis proposent des pourparlers trilatéraux entre l'Ukraine et la Russie sur leur territoire d'ici juin. Volodymyr Zelensky rapporte que Washington fixe un délai à Kiev et Moscou pour un accord de fin de guerre. La prochaine série de discussions est prévue la semaine prochaine à Miami. Cela marque une implication directe américaine dans les négociations de paix, après des mois de soutien militaire à l'Ukraine sans médiation formelle.\n\nLa Russie a lancé une nouvelle attaque massive contre les installations du réseau électrique ukrainien. Les autorités ukrainiennes rapportent des assauts sur les infrastructures énergétiques, suivant l'offensive nocturne de la veille qui a causé des coupures de courant dans la plupart des régions. La stabilité hivernale est menacée, avec des réparations en cours. Au Japon, la Première ministre Sanae Takaichi et son Parti libéral-démocrate devraient consolider leur pouvoir lors des élections législatives anticipées dissoutes le 19 janvier. Les résultats sont attendus ce soir, avec une ligne ultraconservatrice et une politique dure sur l'immigration. Au Portugal, le second tour de la présidentielle oppose dimanche le socialiste Antonio José Seguro au candidat de Chega, André Ventura. Le modéré est favori après le premier tour, malgré la campagne perturbée par des tempêtes récentes.\n\nBenjamin Netanyahou rencontre Donald Trump mercredi à Washington pour discuter des négociations sur le nucléaire iranien. Cela suit les salutations de Trump hier sur les progrès. Jack Lang propose sa démission de la présidence de l'Institut du monde arabe suite à l'enquête du Parquet national financier pour blanchiment de fraude fiscale liée à Epstein, qui le mentionne 673 fois avec sa fille. Les pressions judiciaires et médiatiques augmentent depuis l'ouverture de l'enquête. Au Soudan, les combats persistent entre forces armées rivales malgré une alerte sur une crise alimentaire aiguë touchant des millions, avec des humanitaires bloqués. En Éthiopie, des réfugiés affluent vers des camps au Tigré face à des tensions régionales. À Madagascar, la tempête Fytia a causé 12 morts et 85 000 sinistrés fin janvier, avec des inondations à Antananarivo et des débats sur les mesures préventives. Les États-Unis réunissent Algérie, Maroc, Mauritanie et Polisario à Madrid dimanche pour le Sahara occidental.",
+  "headlines": [
+    {
+      "title": "États-Unis proposent pourparlers trilatéraux à Ukraine et Russie sur leur territoire jusqu'en juin",
+      "source": "Le Monde",
+      "summary": "Volodymyr Zelensky rapporte que Washington donne à Kiev et Moscou jusqu'en juin pour un accord de fin de guerre. Prochaine série de discussions prévue semaine prochaine à Miami. Cela marque une implication directe américaine dans les négociations de paix.",
+      "link": "https://www.lemonde.fr/international/live/2026/02/08/en-direct-guerre-en-ukraine-les-etats-unis-proposent-des-pourparlers-trilateraux-sur-leur-territoire_6665836_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Première ministre japonaise Sanae Takaichi remporte pari des élections législatives anticipées",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Radio-Canada"
+      ],
+      "summary": "Les Japonais votent pour législatives anticipées dissoutes le 19 janvier. Sanae Takaichi et son Parti libéral-démocrate devraient consolider pouvoir avec ligne ultraconservatrice et dure sur immigration. Résultats attendus ce soir.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260208-l%C3%A9gislatives-au-japon-la-premi%C3%A8re-ministre-ultraconservatrice-takaichi-en-passe-de-gagner-son-pari",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Met l'accent sur vote en cours et faveur pour Takaichi ultraconservatrice sur immigration",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260208-l%C3%A9gislatives-au-japon-la-premi%C3%A8re-ministre-ultraconservatrice-takaichi-en-passe-de-gagner-son-pari"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Rappelle dissolution chambre basse par Sanae Takaichi le 19 janvier",
+          "link": "https://ici.radio-canada.ca/nouvelle/2226838/elections-japon-sanae-takaichi"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Portugais votent second tour présidentielle opposant modéré à candidat extrême droite",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Radio-Canada"
+      ],
+      "summary": "Après premier tour, Antonio José Seguro socialiste affronte André Ventura de Chega dimanche. Campagne perturbée par tempêtes récentes. Résultats attendus soir, modéré favori contre montée extrême droite.",
+      "link": "https://www.france24.com/fr/europe/20260208-portugal-au-second-tour-de-la-pr%C3%A9sidentielle-un-mod%C3%A9r%C3%A9-favori-face-%C3%A0-l-extr%C3%AAme-droite-seguro-socialiste-ventura-chega",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Ouvre sur campagne perturbée par tempêtes et duel Seguro-Ventura",
+          "link": "https://www.france24.com/fr/europe/20260208-portugal-au-second-tour-de-la-pr%C3%A9sidentielle-un-mod%C3%A9r%C3%A9-favori-face-%C3%A0-l-extr%C3%AAme-droite-seguro-socialiste-ventura-chega"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Souligne ascension parti extrême droite en quelques années",
+          "link": "https://ici.radio-canada.ca/nouvelle/2226841/second-tour-presidentielle-elections-portugal"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Madagascar cherche solutions contre inondations récurrentes à Antananarivo après tempête Fytia",
+      "source": "RFI",
+      "summary": "Tempête Fytia cause 12 morts et 85 000 sinistrés fin janvier. Capitale inondée, alertes crues émises cette semaine. Débats sur mesures préventives face à risques répétés liés à urbanisation et rivières.",
+      "link": "https://www.rfi.fr/fr/afrique/20260208-madagascar-quelles-solutions-pour-%C3%A9viter-les-inondations-%C3%A0-antananarivo",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis réunissent Algérie Maroc Mauritanie et Polisario à Madrid pour Sahara occidental",
+      "source": "RFI",
+      "summary": "Session négociations lancée fin janvier à Washington se tient dimanche à ambassade USA en Espagne. Parties discutent avenir territoire disputé. Processus vise résolution conflit régional persistant.",
+      "link": "https://www.rfi.fr/fr/afrique/20260208-sahara-occidental-les-%C3%A9tats-unis-r%C3%A9unissent-l-alg%C3%A9rie-et-le-maroc-%C3%A0-madrid-pour-des-n%C3%A9gociations",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Combats persistent au Soudan malgré alerte crise alimentaire aiguë touchant millions",
+      "source": "RTBF",
+      "summary": "Experts IPC alertent sur situation alimentaire critique due violence. Forces armées rivales continuent affrontements. Humanitaire bloqué, risque famine généralisée intéresse communauté internationale.",
+      "link": "https://www.rtbf.be/article/le-soudan-dans-la-spirale-de-la-violence-la-situation-alimentaire-tres-critique-n-empeche-pas-la-poursuite-des-combats-11675509",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Réfugiés affluent vers camps au Tigré en Éthiopie face regain tensions régionales",
+      "source": "RFI",
+      "summary": "Familles fuient discriminations au Tigré occidental administré par Amhara vers Shire. Se joignent à déplacés conflit 2020-2022. Tensions menacent stabilité post-paix fragile.",
+      "link": "https://www.rfi.fr/fr/afrique/20260208-%C3%A9thiopie-regain-de-tension-au-tigr%C3%A9-les-r%C3%A9fugi%C3%A9s-affluent-dans-les-camps-de-d%C3%A9plac%C3%A9s",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Russie lance nouvelle attaque massive contre installations réseau électrique ukrainien",
+      "source": "RTBF",
+      "summary": "Autorités ukrainiennes rapportent assaut russe sur infrastructures énergétiques. Suivi d'offensive nocturne hier causant coupures étendues. Menace stabilité hiver aggrave crise humanitaire.",
+      "link": "https://www.rtbf.be/article/guerre-en-ukraine-nouvelle-attaque-russe-massive-sur-le-le-reseau-electrique-11675398",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Nouvelle attaque massive cible installations électriques après offensive nocturne hier",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Jack Lang propose démission présidence Institut monde arabe suite enquête Epstein",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Monde",
+        "Le Figaro",
+        "Libération",
+        "France Info"
+      ],
+      "summary": "Enquête PNF pour blanchiment fraude fiscale liée Epstein mentionne Jack Lang et fille 673 fois. Pressions judiciaires médiatiques poussent à renoncement poste occupé depuis 2013. Préserve institution culturelle.",
+      "link": "https://www.france24.com/fr/france/20260207-affaire-epstein-jack-lang-propose-sa-d%C3%A9mission-de-la-pr%C3%A9sidence-de-l-institut-du-monde-arabe",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Propose démission sous pression après ouverture enquête préliminaire sur liens financiers Epstein",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Cite lettre à ministre Affaires étrangères et enquête veille pour blanchiment",
+          "link": "https://www.france24.com/fr/france/20260207-affaire-epstein-jack-lang-propose-sa-d%C3%A9mission-de-la-pr%C3%A9sidence-de-l-institut-du-monde-arabe"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Insiste sur pressions judiciaires médiatiques contraint à proposer démission",
+          "link": "https://www.lemonde.fr/culture/article/2026/02/08/affaire-epstein-sous-pression-judiciaire-et-mediatique-jack-lang-contraint-de-proposer-sa-demission-de-l-institut-du-monde-arabe_6665840_3246.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Révèle enquête préliminaire contre Lang et fille pour blanchiment fraude aggravée",
+          "link": "https://www.lefigaro.fr/actualite-france/epstein-le-parquet-national-financier-ouvre-une-enquete-preliminaire-contre-caroline-lang-pour-blanchiment-de-fraude-fiscale-aggravee-20260206"
+        },
+        {
+          "source": "Libération",
+          "angle": "Raconte semaine révélations Epstein menant à convocation Quai d'Orsay et démission",
+          "link": "https://www.liberation.fr/politique/les-epstein-files-et-jack-lang-recit-dune-semaine-de-revelations-et-de-pressions-20260207_HO2HXPHO25EUVMG2UL4PIFSKS4/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Benyamin Netanyahou rencontre Donald Trump mercredi à Washington sur négociations Iran",
+      "source": "20 Minutes",
+      "summary": "Services Premier ministre israélien annoncent rendez-vous pour discuter discussions nucléaires Iran. Suit salutations Trump hier sur progrès. Coordonne positions alliés face programme iranien.",
+      "link": "https://www.20minutes.fr/monde/4200303-20260207-benyamin-netanyahou-rencontrera-donald-trump-mercredi-washington-parler-iran?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Annonce rencontre mercredi après salutations Trump sur bonnes discussions nucléaires Iran",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 5,
+      "environment": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "asia-pacific": 1,
+      "africa": 4,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 3
+    }
+  }
+}

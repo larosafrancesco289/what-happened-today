@@ -1,6 +1,6 @@
 'use client';
 
-import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import { createContext, useContext, useState, useEffect, type ReactNode } from 'react';
 import { detectBrowserLanguage, getLanguageFromCode, type Language } from '@/lib/languages';
 
 interface LanguageContextType {
@@ -29,18 +29,18 @@ export function LanguageProvider({ children }: LanguageProviderProps) {
   });
 
   useEffect(() => {
-    // Check for saved language preference first
-    const savedLanguage = localStorage.getItem('preferred-language');
-    if (savedLanguage && getLanguageFromCode(savedLanguage)) {
-      setCurrentLanguage(getLanguageFromCode(savedLanguage)!);
+    let saved: string | null = null;
+    try { saved = localStorage.getItem('preferred-language'); } catch { /* SSR */ }
+
+    const savedLang = saved ? getLanguageFromCode(saved) : null;
+    if (savedLang) {
+      setCurrentLanguage(savedLang);
       return;
     }
 
-    // Fall back to browser language detection
-    const detectedLanguage = detectBrowserLanguage();
-    const language = getLanguageFromCode(detectedLanguage);
-    if (language) {
-      setCurrentLanguage(language);
+    const detected = getLanguageFromCode(detectBrowserLanguage());
+    if (detected) {
+      setCurrentLanguage(detected);
     }
   }, []);
 
@@ -48,7 +48,7 @@ export function LanguageProvider({ children }: LanguageProviderProps) {
     const language = getLanguageFromCode(languageCode);
     if (language) {
       setCurrentLanguage(language);
-      localStorage.setItem('preferred-language', languageCode);
+      try { localStorage.setItem('preferred-language', languageCode); } catch { /* ignore */ }
     }
   };
 

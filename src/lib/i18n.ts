@@ -188,7 +188,7 @@ export const translations: Record<string, Translations> = {
       angle: "Emphasis",
     },
     weekly: {
-      title: "This Week",
+      title: "Last Week",
       subtitle: "Weekly briefing",
       persistentStories: "Persistent stories",
       persistentDays: "days",
@@ -295,7 +295,7 @@ export const translations: Record<string, Translations> = {
       angle: "Enfasi",
     },
     weekly: {
-      title: "Questa Settimana",
+      title: "La Settimana Scorsa",
       subtitle: "Briefing settimanale",
       persistentStories: "Storie persistenti",
       persistentDays: "giorni",
@@ -402,7 +402,7 @@ export const translations: Record<string, Translations> = {
       angle: "Angle",
     },
     weekly: {
-      title: "Cette Semaine",
+      title: "La Semaine Dernière",
       subtitle: "Briefing hebdomadaire",
       persistentStories: "Histoires persistantes",
       persistentDays: "jours",

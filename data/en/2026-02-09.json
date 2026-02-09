@@ -1,16 +1,203 @@
 {
   "date": "2026-02-09",
-  "summary": "",
-  "headlines": [],
-  "unavailable": true,
-  "unavailableReason": "Headline generation failed: LLM returned 0 headlines from 20 filtered articles (463 total fetched)",
+  "summary": "Rwanda-backed M23 rebels entered Goma in eastern Democratic Republic of Congo, displacing over one million residents. The rebels overran Congolese troops in the city, where gunfire and shelling occurred. Goma had functioned as a safe haven for people displaced by prior fighting in the region. Aid groups report strained resources for the one million affected. Further clashes threaten regional stability as the eastern Congo conflict escalates.\n\nIn Japan, Prime Minister Sanae Takaichi's Liberal Democratic Party won 316 seats, a supermajority in the lower house of parliament. This result followed voting the previous day. The Nikkei stock index rose 5% to a record high. Reforms on security and economy are planned, affecting Japanese policy. Separately, Israel permitted displaced Palestinians to return to northern Gaza after a hostage deal. Hundreds of thousands crossed the military zone bisecting the enclave on foot. Returns affect civilians in the Gaza war. In Ukraine, Russian missile and drone strikes killed four people, including a child, in Kharkiv region. This follows a US proposal for Russia-Ukraine peace talks by June, as announced by President Zelensky. Ukraine requests an EU ban on Russians participating in the war.\n\nA Hong Kong court sentenced media tycoon Jimmy Lai to 20 years in prison under the national security law. Appeals are expected, affecting the media landscape in the city. Off Libya, a migrant boat capsized north of Zuwara in the Mediterranean Sea, leaving 53 dead or missing according to a UN agency; two survivors were rescued, and search efforts continue. Storm Marta killed two people in Spain and Portugal with torrential rain, the third such storm in two weeks; more rain is forecast amid recovery from prior floods. NATO launched its first coordinated response to suspected sabotage of a Baltic Sea deep-sea cable. Investigations into infrastructure security proceed. New Mexico began a trial against Meta, alleging the company hid dangers of child exploitation on its social media platforms; testimony starts, affecting minors and setting a precedent for tech firms.",
+  "headlines": [
+    {
+      "title": "Hong Kong court sentences media tycoon Jimmy Lai to 20 years in prison",
+      "source": "BBC",
+      "sources": [
+        "BBC",
+        "France24"
+      ],
+      "summary": "Hong Kong court jails pro-democracy activist Jimmy Lai for 20 years under national security law, sparking global outcry over press freedoms. Affects media landscape in city; appeals expected. Signals Beijing's tightening control, impacting international views on Hong Kong autonomy.",
+      "link": "https://www.bbc.com/news/articles/c8d5pl34vv0o?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC",
+          "angle": "Contrasts supporters' death sentence view with authorities' rule of law claim",
+          "link": "https://www.bbc.com/news/articles/c8d5pl34vv0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France24",
+          "angle": "Highlights rights groups' condemnation as curtain falling on press freedom",
+          "link": "https://www.france24.com/en/asia-pacific/20260209-curtain-falls-on-hong-kong-press-freedom-jimmy-lai-prison-sentence-sparks-outcry"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "UN agency reports 53 dead or missing after migrant boat capsizes off Libya",
+      "source": "The Guardian",
+      "summary": "Boat with migrants overturns north of Zuwara in Mediterranean Sea; only two survivors rescued. Affects vulnerable migrants from Africa; search ongoing. Underscores deadly risks of Mediterranean crossings amid ongoing migration pressures.",
+      "link": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Goma displacing over one million residents",
+      "source": "Wall Street Journal",
+      "summary": "M23 rebels overrun Congolese troops in Goma; gunfire and shelling reported. Affects 1 million displaced in safe-haven city; aid strained. Escalates eastern Congo conflict, threatening regional stability and humanitarian crisis.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israel allows displaced Palestinians to return to northern Gaza after hostage deal",
+      "source": "Wall Street Journal",
+      "summary": "Gazans cross military zone bisecting enclave following breakthrough on hostages. Affects hundreds of thousands displaced; returns begin on foot. Advances potential de-escalation in Gaza war, impacting ceasefire prospects.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russia kills child among four in missile and drone strikes across Ukraine",
+      "source": "Al Jazeera",
+      "sources": [
+        "Al Jazeera",
+        "Deutsche Welle"
+      ],
+      "summary": "Russian barrage hits Ukraine killing four including child in Kharkiv region. Affects civilians; Ukraine seeks EU ban on war-participating Russians. Heightens urgency for aid and diplomacy amid prolonged invasion.",
+      "link": "https://www.aljazeera.com/news/2026/2/9/child-among-4-killed-in-latest-russian-missile-and-drone-barrage-ukraine?traffic_source=rss",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Al Jazeera",
+          "angle": "Leads with child casualty and foreign minister's EU entry ban demand",
+          "link": "https://www.aljazeera.com/news/2026/2/9/child-among-4-killed-in-latest-russian-missile-and-drone-barrage-ukraine?traffic_source=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Details mother-child deaths in Kharkiv plus German bomb plot indictment",
+          "link": "https://www.dw.com/en/ukraine-updates-child-killed-in-russian-drone-strike/live-75873602?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "New Mexico opens trial against Meta for child exploitation on social media",
+      "source": "Associated Press",
+      "summary": "State prosecutors launch first standalone suit alleging Meta hid platform dangers. Affects minors exposed to exploitation; testimony starts. Sets precedent for tech accountability in child safety lawsuits.",
+      "link": "https://apnews.com/article/meta-new-mexico-child-exploitation-trial-19195fc680dba782fb971d68082e11a4",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NATO mounts first coordinated response to suspected Baltic Sea cable sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance acts after deep-sea cable severed in sabotage campaign. Affects critical infrastructure security; investigations continue. Signals heightened NATO vigilance against hybrid threats in Europe.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump calls US Olympic skier loser over tolerance advocacy",
+      "source": "NPR",
+      "summary": "President attacks skier Hunter Hess and others face online hate for LGBTQ rights calls. Affects US athletes at Olympics; backlash grows. Highlights political divisions spilling into international sports.",
+      "link": "https://www.npr.org/2026/02/09/nx-s1-5706017/as-us-olympians-call-for-tolerance-and-lgbtq-rights-some-face-trump-attacks-and-online-hate",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Prime Minister Takaichi's LDP secures 316-seat supermajority in Japan election",
+      "source": "BBC",
+      "sources": [
+        "France24",
+        "Associated Press",
+        "BBC"
+      ],
+      "summary": "Liberal Democratic Party wins two-thirds majority; Nikkei surges 5% to record. Affects Japanese policy on security and economy; reforms planned. Boosts global markets and conservative shift in Asia.",
+      "link": "https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "LDP claims 316 of 465 seats for supermajority; stocks rally worldwide; PM vows policy overhaul",
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Storm Marta kills two in Spain and Portugal after prior deadly storms",
+      "source": "The Guardian",
+      "summary": "Third storm in two weeks brings torrential rain over Iberian peninsula. Affects residents recovering from floods; more rain forecast. Compounds weather devastation, straining recovery efforts in Europe.",
+      "link": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Marta sweeps region killing two days after Leonardo's floods",
+      "sources": [
+        "The Guardian"
+      ],
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
   "metadata": {
-    "sourcesUsed": 0,
-    "articlesProcessed": 463,
-    "articlesAfterDedup": 462,
+    "sourcesUsed": 11,
+    "articlesProcessed": 461,
+    "articlesAfterDedup": 461,
     "articlesAfterDiversity": 75,
     "articlesAfterFilter": 20,
-    "categoryCounts": {},
-    "regionCounts": {}
+    "categoryCounts": {
+      "politics": 4,
+      "society": 2,
+      "conflict": 3,
+      "environment": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "africa": 2,
+      "middle-east": 1,
+      "europe": 3,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4,
+      "developing": 2
+    }
   }
 }

@@ -3,25 +3,14 @@
   "summary": "",
   "headlines": [],
   "unavailable": true,
-  "unavailableReason": "Summary generation failed: Failed to generate summary for en: Summary generation returned empty result. Raw response: {\"summary:\"}\nGunmen killed 162 residents in attacks on Woro and Nuku villages in Kwara state, western Nigeria. Attackers bound and shot people in the deadliest assaults this year by armed groups. Troops deployed to the area. Repeated violence from such groups affects millions across Nigeria, with in",
+  "unavailableReason": "Headline generation failed: LLM returned 0 headlines from 20 filtered articles (463 total fetched)",
   "metadata": {
-    "sourcesUsed": 10,
-    "articlesProcessed": 464,
-    "articlesAfterDedup": 463,
+    "sourcesUsed": 0,
+    "articlesProcessed": 463,
+    "articlesAfterDedup": 462,
     "articlesAfterDiversity": 75,
     "articlesAfterFilter": 20,
-    "categoryCounts": {
-      "conflict": 3,
-      "politics": 6,
-      "society": 1,
-      "economy": 1
-    },
-    "regionCounts": {
-      "africa": 2,
-      "asia-pacific": 4,
-      "europe": 2,
-      "middle-east": 2,
-      "americas": 1
-    }
+    "categoryCounts": {},
+    "regionCounts": {}
   }
 }

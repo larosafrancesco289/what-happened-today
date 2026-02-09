@@ -1,78 +1,60 @@
 {
   "date": "2026-02-09",
-  "summary": "Des frappes russes par drones ont tué trois personnes dans des zones résidentielles ukrainiennes. Une femme et un enfant de 10 ans sont morts à Bohodoukhiv près de Kharkiv, et une victime à Odessa. Le service d'urgence ukrainien a rapporté ces attaques nocturnes, survenues après des négociations trilatérales à Abu Dhabi. Une intensification du conflit est observée malgré les efforts diplomatiques en cours.\n\nUn tribunal de Hong Kong a condamné Jimmy Lai, magnat de la presse et figure de l'opposition âgé de 78 ans, à vingt ans de prison ferme pour collusion avec l'étranger et publication séditieuse sous la loi sur la sécurité nationale. Il dirigeait le journal Apple Daily avant son arrestation en 2020. Un appel est possible dans les vingt-huit jours. Au Portugal, Antonio José Seguro, socialiste modéré, a remporté l'élection présidentielle avec 66 pour cent des voix contre 34 pour cent pour André Ventura de l'extrême droite, sur 95 pour cent des circonscriptions comptabilisées. Ce résultat fait suite au second tour du dimanche. Le Haut-Commissariat au plan européen a publié un rapport proposant un droit de douane de 30 pour cent sur les importations chinoises, jugeant insuffisantes les mesures ciblées actuelles pour contrer la concurrence industrielle chinoise.\n\nJack Lang a démissionné de la présidence de l'Institut du monde arabe après des justifications sur ses liens avec Jeffrey Epstein et un tollé médiatique ; une enquête judiciaire suit. Un accident de la route dans le nord du Nigeria a causé au moins 30 morts dimanche matin en raison d'une conduite imprudente ; une enquête détermine les circonstances. Le point de passage de Rafah à Gaza a rouvert une semaine, permettant l'entrée de 88 personnes et la sortie de 179 malades palestiniens prioritairement pour évacuations médicales gérées par le Hamas et l'Égypte. Le groupe Thales annonce le recrutement de 9 000 personnes dans le monde, dont 3 300 en France, pour des postes de soudeurs, techniciens logiciels et chercheurs en IA. Au Sénégal, la police a démantelé un réseau pédopornographique impliquant 14 hommes à Dakar et Kaolack dans une enquête conjointe avec la France ; un procès suit vendredi.",
+  "summary": "Des frappes aériennes russes ont tué trois personnes à Kharkiv et Odessa en Ukraine dans la nuit de dimanche à lundi. Ces attaques ont touché l'est et le sud du pays, après les propositions américaines de pourparlers trilatéraux avec la Russie jusqu'en juin. Kiev rapporte des dommages aux infrastructures civiles, tandis que Moscou justifie les frappes par des cibles militaires. Une escalade est observée malgré les efforts diplomatiques à Abu Dhabi.\n\nUn tribunal de Hong Kong a condamné Jimmy Lai, fondateur du journal Apple Daily, à vingt ans de prison ferme pour collusion avec des puissances étrangères et publication séditieuse, sous la loi sur la sécurité nationale. Âgé de 78 ans, Lai est détenu depuis 2020. Pékin qualifie la sentence de nécessaire pour la stabilité, tandis que des groupes de défense des droits humains dénoncent une répression contre la presse. Le Haut-Commissariat au plan européen propose un droit de douane uniforme de 30 % sur les importations chinoises, estimant les mesures ciblées insuffisantes face à la concurrence industrielle. La Commission européenne examinera le rapport cette semaine. À Caracas, des hommes armés ont enlevé Juan Pablo Guanipa, chef de l'opposition vénézuélienne, peu après sa libération dimanche. Maria Corina Machado dénonce une répression du régime Maduro avant les élections.\n\nAu Japon, Sanae Takaichi, Première ministre du Parti libéral-démocrate, obtient une majorité absolue à la Chambre basse après les élections anticipées. Cela fait suite à sa victoire initiale et consolide son pouvoir pour des réformes internes. À Madrid, les États-Unis ont réuni Algérie, Maroc, Mauritanie et Polisario le 8 février pour le Sahara occidental, visant l'adoption du plan d'autonomie marocain. L'Algérie soutient un référendum pour l'indépendance. Jean-Pierre Lacroix, secrétaire général adjoint de l'ONU, visite la RDC pour les conflits à l'est et un dialogue national, avec des rencontres à Kinshasa et dans l'est.",
   "headlines": [
     {
-      "title": "Tribunal de Hong Kong condamne Jimmy Lai à vingt ans de prison ferme",
+      "title": "Tribunal de Hong Kong condamne Jimmy Lai à vingt ans de prison pour collusion avec étranger",
       "source": "Le Monde",
       "sources": [
         "Le Monde",
-        "Libération",
-        "France Info",
         "20 Minutes",
         "Radio-Canada"
       ],
-      "summary": "Jimmy Lai, magnat de la presse et figure prodémocratie hongkongaise de 78 ans, écope de vingt ans de prison pour collusion avec l'étranger et publication séditieuse sous loi sécurité nationale. Il dirigeait Apple Daily avant arrestation en 2020. Appel possible en vingt-huit jours. Renforce emprise Pékin sur opposition et médias indépendants.",
+      "summary": "Jimmy Lai, 78 ans, fondateur du journal prodémocratie Apple Daily, reçoit vingt ans de prison ferme lundi pour collusion avec l'étranger et publication séditieuse sous loi sécurité nationale. Cela renforce contrôle Pékin sur presse et opposition à Hong Kong, impactant libertés fondamentales.",
       "link": "https://www.lemonde.fr/international/article/2026/02/09/jimmy-lai-magnat-de-la-presse-hongkongais-devenu-l-ennemi-public-numero-un-du-regime-communiste-chinois-condamne-a-vingt-ans-de-prison_6665953_3210.html",
       "tier": "top",
       "framings": [
         {
           "source": "Le Monde",
-          "angle": "Présente Jimmy Lai comme opposant anti-communiste influent et dirigeant Next Digital",
+          "angle": "Présente âge 78 ans opposant anticommuniste dirigeant Next Digital arrêté 2020 loi sécurité",
           "link": "https://www.lemonde.fr/international/article/2026/02/09/jimmy-lai-magnat-de-la-presse-hongkongais-devenu-l-ennemi-public-numero-un-du-regime-communiste-chinois-condamne-a-vingt-ans-de-prison_6665953_3210.html"
         },
         {
-          "source": "Libération",
-          "angle": "Dépeint la peine comme arrêt de mort pour militant et annonce délai appel",
-          "link": "https://www.liberation.fr/international/asie-pacifique/un-arret-de-mort-a-hongkong-le-militant-prodemocratie-jimmy-lai-condamne-a-vingt-ans-de-prison-20260209_VOT7J5QDANAOFBPN6F5Q354WOU/"
-        },
-        {
-          "source": "France Info",
-          "angle": "Rappelle culpabilité mi-décembre pour trois chefs d'accusation incluant collusion",
-          "link": "https://www.franceinfo.fr/monde/chine/hong-kong/un-tribunal-de-hong-kong-prononce-une-peine-de-20-ans-de-prison-contre-le-magnat-de-la-presse-prodemocratie-jimmy-lai_7793870.html#xtor=RSS-3-[lestitres]"
-        },
-        {
           "source": "20 Minutes",
-          "angle": "Mentionne fondation Apple Daily et réactions ONG sur liberté presse",
+          "angle": "Détaille charges collusion étranger publication séditieuse et réactions ONG liberté presse",
           "link": "https://www.20minutes.fr/monde/chine/4200481-20260209-hong-kong-magnat-presse-prodemocratie-jimmy-lai-condamne-20-prison?at_medium=display&at_campaign=149"
         },
         {
           "source": "Radio-Canada",
-          "angle": "Précise que Jimmy Lai encourait la prison à vie pour ces faits",
+          "angle": "Mentionne encourait prison à vie fondateur journal prodémocratie Apple Daily",
           "link": "https://ici.radio-canada.ca/nouvelle/2227014/hong-kong-jimmy-lai-prison"
         }
       ],
       "singleSource": false,
-      "category": "society",
+      "category": "politics",
       "region": "asia-pacific",
       "importance": "major"
     },
     {
-      "title": "Attaques russes de drones tuent trois personnes à Kharkiv et Odessa",
-      "source": "Le Monde",
+      "title": "Attaques aériennes russes tuent trois personnes à Kharkiv et Odessa en Ukraine",
+      "source": "20 Minutes",
       "sources": [
-        "Le Monde",
-        "France 24",
-        "20 Minutes"
+        "20 Minutes",
+        "France 24"
       ],
-      "summary": "Frappes russes nocturnes visent zones résidentielles de Bohodoukhiv près Kharkiv, tuant une femme et un enfant de 10 ans, plus une victime à Odessa. Service urgence ukrainien rapporte. Interviennent après négociations trilatérales Abu Dhabi. Marquent intensification conflit malgré efforts diplomatiques.",
-      "link": "https://www.lemonde.fr/international/live/2026/02/09/en-direct-guerre-en-ukraine-des-attaques-russes-tuent-trois-personnes-dans-la-region-de-kharkiv-et-a-odessa-selon-les-autorites-locales_6665836_3210.html",
+      "summary": "Frappes russes dans nuit dimanche-lundi causent trois morts à Kharkiv est et Odessa sud Ukraine, après négociations trilatérales Abu Dhabi. Cela prolonge escalade malgré efforts paix, menaçant civils et infrastructures.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4200478-20260209-direct-guerre-ukraine-attaque-aerienne-russe-fait-mort-odessa?at_medium=display&at_campaign=149",
       "tier": "top",
       "framings": [
         {
-          "source": "Le Monde",
-          "angle": "Détaille frappes drones sur Bohodoukhiv et corps femme enfant retrouvés",
-          "link": "https://www.lemonde.fr/international/live/2026/02/09/en-direct-guerre-en-ukraine-des-attaques-russes-tuent-trois-personnes-dans-la-region-de-kharkiv-et-a-odessa-selon-les-autorites-locales_6665836_3210.html"
+          "source": "20 Minutes",
+          "angle": "Suit direct conflit russo-ukrainien avec attaques aériennes trois morts Kharkiv Odessa",
+          "link": "https://www.20minutes.fr/monde/ukraine/4200478-20260209-direct-guerre-ukraine-attaque-aerienne-russe-fait-mort-odessa?at_medium=display&at_campaign=149"
         },
         {
           "source": "France 24",
-          "angle": "Compte au moins trois morts après deux cycles négociations Abu Dhabi",
+          "angle": "Indique au moins trois morts région Kharkiv Odessa après cycles négociations Abu Dhabi",
           "link": "https://www.france24.com/fr/ukraine-direct-attaques-aeriennes-russes-negociations-paix-zelensky-poutine-etats-unis"
-        },
-        {
-          "source": "20 Minutes",
-          "angle": "Suit en direct conflit avec morts confirmés Kharkiv et Odessa",
-          "link": "https://www.20minutes.fr/monde/ukraine/4200478-20260209-direct-guerre-ukraine-attaque-aerienne-russe-fait-mort-odessa?at_medium=display&at_campaign=149"
         }
       ],
       "singleSource": false,
@@ -81,9 +63,9 @@
       "importance": "breaking"
     },
     {
-      "title": "Haut-Commissariat au plan propose droit de douane européen de 30 pour cent contre Chine",
+      "title": "Haut-Commissariat au plan propose droit de douane européen global de 30 pour cent contre Chine",
       "source": "Le Monde",
-      "summary": "Rapport publié lundi juge insuffisantes mesures ciblées UE face concurrence chinoise industrielle. Propose tarif global 30 pour cent sur importations. Vise protection économie européenne. Intérêt pour lecteurs : renforce débat protectionnisme commercial intra-blocs.",
+      "summary": "Rapport lundi estime mesures UE ciblées insuffisantes face concurrence industrielle chinoise, préconise tarif uniforme 30 %. Cela vise protéger industries européennes, signalant durcissement commercial transatlantique.",
       "link": "https://www.lemonde.fr/economie/article/2026/02/09/le-haut-commissariat-au-plan-propose-un-droit-de-douane-europeen-global-de-30-face-au-rouleau-compresseur-chinois_6665956_3234.html",
       "tier": "top",
       "singleSource": true,
@@ -92,145 +74,134 @@
       ],
       "category": "economy",
       "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Hommes armés enlèvent Juan Pablo Guanipa chef opposition vénézuélienne à Caracas après libération",
+      "source": "France 24",
+      "summary": "Juan Pablo Guanipa, ex-vice-président Parlement, libéré dimanche puis enlevé par hommes armés, dénonce Maria Corina Machado. Cela accentue répression régime Maduro contre opposition avant échéances électorales.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260209-venezuela-l-opposition-d%C3%A9nonce-l-enl%C3%A8vement-d-un-de-ses-chefs-tout-juste-lib%C3%A9r%C3%A9-de-prison",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "americas",
       "importance": "notable"
     },
     {
-      "title": "Jack Lang démissionne de la présidence de l'Institut du monde arabe suite affaire Epstein",
+      "title": "Associations américaines dénoncent expulsions record immigrés vietnamiens malgré accord protecteur",
+      "source": "RFI",
+      "summary": "Police immigration cible Vietnamiens Asie Sud-Est casier judiciaire malgré peines purgées et résidences permanentes, violant accord. Cela inquiète communautés installées, risquant renvois massifs sous politique migratoire.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260209-%C3%A9tats-unis-les-associations-s-inqui%C3%A8tent-des-renvois-record-de-vietnamiens-malgr%C3%A9-un-accord-les-prot%C3%A9geant-immigration-refugies-ice-police-expulsions",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Ambassadrice norvégienne Mona Juul démissionne suite enquête liens avec Jeffrey Epstein",
       "source": "Le Figaro",
-      "sources": [
-        "Le Figaro",
-        "France Info"
-      ],
-      "summary": "Jack Lang quitte poste après justifications liens Epstein et tollé médiatique. Enquête judiciaire suit. Lié à déclassement documents impliquant personnalités mondiales, dont chef cabinet Premier ministre britannique parti dimanche. Impact sur figures publiques impliquées.",
-      "link": "https://www.lefigaro.fr/actualite-france/affaire-epstein-la-folle-semaine-qui-a-accule-jack-lang-a-la-demission-20260208",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Jack Lang confirme démission effective après proposition hier face à enquête et réactions publiques",
-      "framings": [
-        {
-          "source": "Le Figaro",
-          "angle": "Raconte semaine justifications menant à démission Institut monde arabe",
-          "link": "https://www.lefigaro.fr/actualite-france/affaire-epstein-la-folle-semaine-qui-a-accule-jack-lang-a-la-demission-20260208"
-        },
-        {
-          "source": "France Info",
-          "angle": "Lie démission Lang à départ chef cabinet britannique et documents déclassifiés",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/affaire-epstein-ces-personnalites-du-monde-entier-impliquees-dans-le-dossier_7792712.html#xtor=RSS-3-[lestitres]"
-        }
-      ],
-      "singleSource": false,
-      "category": "politics",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "Antonio José Seguro remporte élection présidentielle au Portugal avec 66 pour cent des voix",
-      "source": "RFI",
-      "sources": [
-        "RFI",
-        "France Info"
-      ],
-      "summary": "Socialiste modéré Antonio José Seguro devance largement André Ventura extrême droite avec 66 pour cent contre 34 pour cent sur 95 pour cent circonscriptions. Succède après second tour dimanche. Stabilise paysage politique portugais face montée extrêmes.",
-      "link": "https://www.rfi.fr/fr/europe/20260208-pr%C3%A9sidentielle-au-portugal-le-socialiste-antonio-jos%C3%A9-seguro-%C3%A9lu-face-au-candidat-d-extr%C3%AAme-droite",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Publication résultats définitifs confirment victoire après second tour scrutinisé hier",
-      "framings": [
-        {
-          "source": "RFI",
-          "angle": "Annonce victoire large socialiste sur 95 pour cent circonscriptions dépouillées",
-          "link": "https://www.rfi.fr/fr/europe/20260208-pr%C3%A9sidentielle-au-portugal-le-socialiste-antonio-jos%C3%A9-seguro-%C3%A9lu-face-au-candidat-d-extr%C3%AAme-droite"
-        },
-        {
-          "source": "France Info",
-          "angle": "Confirme 66 pour cent voix pour Seguro contre 34 pour cent Ventura",
-          "link": "https://www.franceinfo.fr/monde/europe/presidentielle-au-portugal-le-socialiste-antonio-jose-seguro-l-emporte-largement-face-au-candidat-d-extreme-droite-andre-ventura-selon-les-premieres-estimations-des-medias_7792736.html#xtor=RSS-3-[lestitres]"
-        }
-      ],
-      "singleSource": false,
-      "category": "politics",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "Accident de la route tue au moins trente personnes dans le nord du Nigeria",
-      "source": "20 Minutes",
-      "summary": "Conduite imprudente provoque crash dimanche matin nord Nigeria, causant au moins 30 morts. Met en lumière problèmes sécurité routière persistants pays. Enquête suit pour déterminer circonstances exactes.",
-      "link": "https://www.20minutes.fr/monde/4200394-20260209-nigeria-conduite-imprudente-terrible-accident-route-fait-moins-30-morts?at_medium=display&at_campaign=149",
+      "summary": "Mona Juul, figure négociations israélo-palestiniennes 1990, quitte poste Jordanie dimanche après ouverture enquête sur liens Epstein. Cela prolonge révélations dossiers impactant élites internationales.",
+      "link": "https://www.lefigaro.fr/flash-actu/affaire-epstein-demission-d-une-diplomate-norvegienne-de-renom-20260208",
       "tier": "also",
       "singleSource": true,
       "sources": [
-        "20 Minutes"
+        "Le Figaro"
       ],
-      "category": "society",
-      "region": "africa",
-      "importance": "notable"
-    },
-    {
-      "title": "Groupe Thales annonce recrutement de 9 000 personnes dont 3 300 en France",
-      "source": "France Info",
-      "summary": "Thales recrute 9 000 salariés mondialement, dont 3 300 France, pour soudeurs, techniciens logiciels et chercheurs IA. Secteur défense en expansion. Offres concernent besoins croissants sécurité et technologies.",
-      "link": "https://www.franceinfo.fr/societe/armee-securite-defense/info-franceinfo-le-groupe-thales-va-recruter-plus-de-9-000-personnes-dans-le-monde-dont-3-300-en-france_7792226.html#xtor=RSS-3-[lestitres]",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "France Info"
-      ],
-      "category": "economy",
+      "category": "politics",
       "region": "europe",
       "importance": "notable"
     },
     {
-      "title": "Point de passage Rafah rouvre une semaine à Gaza sans soulager crise sanitaire",
+      "title": "Ghislaine Maxwell refuse témoigner audition Congrès sur affaire Jeffrey Epstein",
+      "source": "Libération",
+      "summary": "Complice Epstein condamnée 2022 invoque droit silence lundi commission James Comer, sans faits nouveaux. Cela freine enquêtes législatives sur réseau exploitation sexuelle impliquant personnalités.",
+      "link": "https://www.liberation.fr/international/amerique/ghislaine-maxwell-complice-de-jeffrey-epstein-invoquera-son-droit-a-garder-le-silence-durant-son-audition-au-congres-20260209_VVHNZFXJKVC4XM7UL7RKSOAMQE/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Libération"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Secrétaire général adjoint ONU visite RDC pour conflits est et dialogue national",
       "source": "RFI",
-      "summary": "Rafah permet entrée 88 personnes et sortie 179 malades Palestiniens en sept jours. Priorité évacuations médicales insuffisante face urgence vitale. Hamas gère flux Égypte. Aggrave tensions humanitaires enclave.",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20260209-gaza-la-r%C3%A9ouverture-intermittente-du-point-de-passage-de-rafah-est-loin-de-soulager-la-crise-sanitaire",
+      "summary": "Jean-Pierre Lacroix rencontre politique confessions société civile Kinshasa puis est deux jours. Cela adresse insécurité persistante et fragilité politique dans zone conflits armés.",
+      "link": "https://www.rfi.fr/fr/afrique/20260209-rdc-conflit-dans-l-est-et-dialogue-national-au-c%C5%93ur-de-la-visite-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-adjoint-de-l-onu",
       "tier": "also",
       "singleSource": true,
       "sources": [
         "RFI"
       ],
-      "category": "society",
-      "region": "middle-east",
-      "importance": "notable"
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
     },
     {
-      "title": "Police sénégalaise démantèle réseau pédopornographique impliquant 14 hommes",
-      "source": "RFI",
-      "summary": "Enquête conjointe Sénégal-France interpelle 14 suspects Dakar Kaolack pour pédopornographie, mineurs et transmissions VIH. Procès suit vendredi. Démantèlement cible trafics transnationaux affectant enfants.",
-      "link": "https://www.rfi.fr/fr/afrique/20260209-s%C3%A9n%C3%A9gal-la-police-d%C3%A9mant%C3%A8le-un-r%C3%A9seau-p%C3%A9dopornographique-avec-l-aide-de-la-justice-fran%C3%A7aise",
-      "tier": "also",
+      "title": "Sanae Takaichi obtient raz-de-marée majorité Chambre basse Parlement japonais",
+      "source": "Libération",
+      "summary": "Première ministre ultraconservatrice Parti libéral-démocrate gagne programme sans coalition post-élections anticipées. Cela consolide pouvoir exécutif pour réformes internes et étrangères.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/japon-raz-de-maree-au-parlement-pour-la-premiere-ministre-ultraconservatrice-sanae-takaichi-20260209_EVON5WEJSZGERDN22HV3PWAQ44/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Cheffe remporte raz-de-marée Chambre basse libérant mise en œuvre programme sans coalition",
+      "sources": [
+        "Libération"
+      ],
       "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis montrent fort engagement réunion Algérie Maroc Mauritanie Polisario Madrid Sahara occidental",
+      "source": "RFI",
+      "summary": "Réunion 8 février vise adoption plan autonomie marocain, Algérie soutien indépendantistes référendum. Cela relance négociations sous médiation américaine sur statut territoire disputé.",
+      "link": "https://www.rfi.fr/fr/afrique/20260209-r%C3%A9union-en-espagne-sur-le-sahara-occidental-ce-qu-il-y-a-de-nouveau-c-est-le-fort-engagement-des-%C3%A9tats-unis",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Détails confirment fort engagement États-Unis pour avancer plan autonomie sous souveraineté marocaine",
       "sources": [
         "RFI"
       ],
-      "category": "society",
-      "region": "africa",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
       "importance": "major"
     }
   ],
   "metadata": {
-    "sourcesUsed": 7,
+    "sourcesUsed": 8,
     "articlesProcessed": 205,
     "articlesAfterDedup": 202,
     "articlesAfterDiversity": 45,
-    "articlesAfterFilter": 20,
+    "articlesAfterFilter": 18,
     "categoryCounts": {
-      "society": 4,
-      "conflict": 1,
-      "economy": 2,
-      "politics": 2
+      "politics": 5,
+      "conflict": 3,
+      "economy": 1,
+      "society": 1
     },
     "regionCounts": {
-      "asia-pacific": 1,
-      "europe": 5,
-      "africa": 2,
-      "middle-east": 1
+      "asia-pacific": 2,
+      "europe": 3,
+      "americas": 3,
+      "africa": 1,
+      "global": 1
     },
     "tierCounts": {
       "top": 3,
-      "developing": 2,
-      "also": 4
+      "also": 5,
+      "developing": 2
     }
   }
 }

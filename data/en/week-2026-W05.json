@@ -1,0 +1,183 @@
+{
+  "weekId": "2026-W05",
+  "startDate": "2026-02-02",
+  "endDate": "2026-02-08",
+  "summary": "The week of February 2-8, 2026, featured persistent tensions in Gaza, Ukraine peace efforts, escalating violence in Africa, and NATO's response to Baltic Sea cable sabotage.\n\nIn Gaza, Israel permitted displaced Palestinians to return to northern areas starting February 2 following a hostage breakthrough, with crossings continuing on February 3, 4, and 6. The Rafah crossing reopened February 3 after months of closure, allowing 150 wounded Palestinians daily to exit to Egypt from February 2, though Israeli forces killed 10 Palestinians in overnight strikes February 4 and 24 more February 5, raising post-ceasefire deaths to 556. Troops interrogated returning women at Rafah February 4.\n\nUkraine-Russia talks advanced despite setbacks: A U.S.-Russia meeting delayed proceedings February 2, but negotiators met February 4 and held a second day February 5 in Abu Dhabi. Russia launched missiles at power plants February 4 beforehand. President Zelensky announced February 8 that the U.S. proposed peace talks by June. Separately, the New START treaty expired February 5, ending nuclear limits.\n\nIn Africa, Rwanda-backed rebels overran Congolese troops and entered Goma February 2, 4, and 7, displacing 1 million—a story that escalated in prominence. Gunmen killed 162 residents in two western Nigerian villages February 5, with jihadists claiming responsibility February 7. Floods killed 150 and affected 800,000 in Mozambique February 5.\n\nNATO mounted its first coordinated response to suspected Baltic Sea cable sabotage on February 2, 3, 4, and 5, signaling an ongoing effort.\n\nIran pursued U.S. negotiations: President instructed the foreign minister February 3, with an envoy meeting planned in Istanbul; Oman mediated indirect nuclear talks February 6. President Trump signed an executive order February 7 threatening 25% tariffs on countries trading with Iran, as it repaired strike-damaged sites.\n\nSpaceX and NASA launched Crew-10 February 3 and 4 from Florida to retrieve two stuck ISS astronauts.\n\nA suicide bomber killed 31 at a Shiite mosque near Islamabad February 6. U.S. authorities arrested Zubayr al-Bakoush February 6 for the 2012 Benghazi attack.\n\nStories that persisted and developed include Gaza returns, NATO's response, Congo rebels, and Ukraine talks. Those that faded quickly: specific hostage shrapnel removals, Indonesian tycoon scandal, and initial Crew-10 launch announcements. (378 words)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Breakthrough",
+    "Israel Opens Rafah Crossing for 150 Wounded Palestinians to Exit to Egypt Daily",
+    "Interpol Issues Red Notice for Indonesian Oil Tycoon in US$285 Million Scandal",
+    "SpaceX Launches Crew-10 to Retrieve Two Stuck NASA Astronauts from Space Station",
+    "Russia and U.S. Meeting Delays Ukraine Peace Talks by Several Days",
+    "Israeli Doctors Remove Shrapnel from Freed Hostages Bodies from October 7 Attack",
+    "NASA Conducts Wet Dress Rehearsal for Artemis II Moon Mission Astronauts",
+    "Israel and Egypt Reopen Rafah Crossing in Gaza After Months of Closure",
+    "Nonprofits and Citizens Sue Trump Administration Over Visa Freeze on 75 Countries",
+    "Israel Kills Palestinian While Allowing Five to Exit Gaza for Medical Care"
+  ],
+  "escalatedStories": [
+    "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma Displacing 1 Million"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-02-02",
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Breakthrough",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-02",
+      "title": "Israel Opens Rafah Crossing for 150 Wounded Palestinians to Exit to Egypt Daily",
+      "category": "society",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-02",
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Israel and Egypt Reopen Rafah Crossing in Gaza After Months of Closure",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Nonprofits and Citizens Sue Trump Administration Over Visa Freeze on 75 Countries",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Israel Kills Palestinian While Allowing Five to Exit Gaza for Medical Care",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-04",
+      "title": "Russia Launches Missiles at Ukraine Power Plants Before Peace Talks",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-04",
+      "title": "Palestinians Cross Military Zone Back to Northern Gaza After Hostage Deal",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-04",
+      "title": "NATO Mounts First Coordinated Response to Baltic Sea Cable Sabotage",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Gunmen Kill 162 Residents in Attacks on Two Villages in Western Nigeria",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Supreme Court Allows California to Use Democrat-Favoring Congressional Maps",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Ukraine and Russia Hold Second Day of US-Brokered Peace Talks in Abu Dhabi",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-06",
+      "title": "Suicide bomber kills 31 worshippers at Shiite mosque on Islamabad outskirts",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-02-06",
+      "title": "US authorities arrest Zubayr al-Bakoush for role in 2012 Benghazi attack killing four Americans",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-06",
+      "title": "Oman mediates indirect nuclear talks between Iran and United States",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-06",
+      "title": "Israel allows displaced Palestinians to cross into northern Gaza",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-07",
+      "title": "Jihadists kill 162 residents in attacks on two villages in western Nigeria",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-02-07",
+      "title": "Rwanda-backed rebels overrun Congolese troops and enter Goma",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-02-07",
+      "title": "Trump signs executive order threatening 25 percent tariffs on countries trading with Iran",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-07",
+      "title": "Iran repairs missile and nuclear sites hit by Israeli and U.S. strikes",
+      "category": "science",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-08",
+      "title": "Fifth Circuit Court affirms Trump policy detaining immigrants without bond",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-08",
+      "title": "Japanese voters cast ballots in parliamentary elections led by Prime Minister Sanae Takaichi",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-02-08",
+      "title": "Zelensky announces U.S. proposes Russia-Ukraine talks for peace by June",
+      "category": "conflict",
+      "region": "global"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 3187,
+    "totalSourcesUsed": 13,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 32,
+      "society": 2,
+      "economy": 3,
+      "science": 7,
+      "politics": 23,
+      "environment": 3
+    },
+    "regionCounts": {
+      "middle-east": 19,
+      "europe": 13,
+      "asia-pacific": 7,
+      "global": 13,
+      "africa": 8,
+      "americas": 10
+    }
+  }
+}

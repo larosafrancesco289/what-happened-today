@@ -1,0 +1,168 @@
+{
+  "weekId": "2026-W05",
+  "startDate": "2026-02-02",
+  "endDate": "2026-02-08",
+  "summary": "Dal 2 al 8 febbraio 2026, la settimana è stata dominata da sviluppi nei negoziati per la pace in Ucraina e dalle tensioni in Medio Oriente, con progressi nei colloqui USA-Iran. Altre notizie significative riguardano l'Italia, con accuse giudiziarie e l'avvio delle Olimpiadi invernali.\n\nIl conflitto ucraino-russo ha visto passi concreti: il 3 febbraio, Ucraina, Stati Uniti e Russia hanno programmato negoziati ad Abu Dhabi per il 4-5 febbraio, con Zelensky che ha annunciato prontezza per passi concreti. Il 4 febbraio, UE e USA hanno siglato un accordo per garanzie di sicurezza a Kiev con intervento entro 72 ore. Il 6 febbraio, Elon Musk ha disattivato Starlink per soldati russi, causando caos negli assalti. L'8 febbraio, Zelensky ha rivelato pressioni USA per concludere la pace entro giugno, mentre un bombardamento russo con MLRS su Kherson ha ferito 11 civili, inclusa due donne. Queste storie sono persistite per tutta la settimana, indicando un momentum diplomatico.\n\nSul fronte mediorientale, l'Iran ha avviato negoziati con gli USA: il 3 febbraio, il presidente Pezeshkian ha ordinato colloqui; il 4 febbraio, ha incaricato negoziati equi in Oman e gli USA hanno abbattuto un drone iraniano vicino a una portaerei; il 5 febbraio, la Casa Bianca ha confermato incontri a Muscat; il 7 febbraio, Trump ha definito 'molto buoni' i colloqui su nucleare e missili. In Gaza, tensioni continue: il 2 febbraio, Israele ha ordinato a MSF di lasciare entro febbraio; il 3 febbraio, Egitto ha riaperto Rafah per cure palestinesi; il 4 febbraio, attacchi hanno ucciso nove persone inclusi tre minori; il 5 febbraio, raid israeliani hanno causato 24 morti palestinesi e l'uccisione di un operatore della Mezzaluna Rossa.\n\nIn Italia, procure hanno accusato il governatore ligure Giovanni Toti di manipolazione dati COVID il 3, 4 e 5 febbraio. Il 4 febbraio, la Squadra Mobile di Napoli ha arrestato Giuseppe Musella per l'omicidio della sorella Ilenia. Il 6 febbraio, Giorgia Meloni ha incontrato JD Vance confermando il rapporto strategico Italia-USA. Il 7 febbraio, il presidente Mattarella ha dichiarato aperti i Giochi olimpici invernali Milano-Cortina. L'8 febbraio, tre valanghe in Valtellina e Trentino hanno causato tre morti tra scialpinisti. La Commissione UE ha proposto il 6 febbraio il ventesimo pacchetto sanzioni contro la Russia su energia, finanza e commercio.\n\nStorie persistenti come negoziati ucraini e iraniani hanno dominato; altre, come l'incidente droni russi su minatori ucraini (2 febbraio), vittoria di Laura Fernandez in Costa Rica (2), riunione sicurezza Meloni (2) e tassi BCE al 2% (2), sono svanite rapidamente. Il Congresso USA ha approvato il bilancio il 4 febbraio, ponendo fine allo shutdown.\n\n(Parole: 378)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Droni russi uccidono 15 minatori ucraini durante tregua",
+    "Laura Fernandez vince presidenziali Costa Rica con 49,6% voti",
+    "Governo Meloni convoca riunione sicurezza Palazzo Chigi",
+    "BCE mantiene tassi al 2% per quinta riunione consecutiva",
+    "Studio documenta moria globale ricci di mare nelle Canarie",
+    "Israele ordina a MSF di lasciare Gaza entro febbraio",
+    "Democratici vincono elezioni suppletive Texas contro repubblicani",
+    "Ricercatori identificano interruttore genetico contro cellule adipose",
+    "Ucraina Stati Uniti e Russia programmano negoziati pace ad Abu Dhabi il 4-5 febbraio",
+    "Trump propone nazionalizzazione voto per riformare sistema elettorale americano"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-02-02",
+      "title": "Droni russi uccidono 15 minatori ucraini durante tregua",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-02",
+      "title": "Laura Fernandez vince presidenziali Costa Rica con 49,6% voti",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-02",
+      "title": "Governo Meloni convoca riunione sicurezza Palazzo Chigi",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Ucraina Stati Uniti e Russia programmano negoziati pace ad Abu Dhabi il 4-5 febbraio",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Trump propone nazionalizzazione voto per riformare sistema elettorale americano",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Egitto riapre valico Rafah permettendo uscita palestinesi da Gaza verso cure",
+      "category": "society",
+      "region": "africa"
+    },
+    {
+      "date": "2026-02-04",
+      "title": "Squadra Mobile Napoli arresta Giuseppe Musella per omicidio sorella Ilenia",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-04",
+      "title": "Barca migranti collide con nave guardia costiera greca causando 14 morti a Chio",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-04",
+      "title": "Attacchi a Gaza uccidono nove persone inclusi tre minori",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Forze israeliane uccidono 24 palestinesi nei raid su Gaza",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Casa Bianca conferma negoziati Usa-Iran a Muscat venerdì",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Ricercatori Wistar Institute testano vaccino anti-Hiv su primati",
+      "category": "science",
+      "region": "global"
+    },
+    {
+      "date": "2026-02-06",
+      "title": "Commissione europea propone ventesimo pacchetto sanzioni contro Russia su energia finanza commercio",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-06",
+      "title": "Giorgia Meloni incontra JD Vance conferma solidità rapporto strategico Italia-Usa",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-06",
+      "title": "Elon Musk disattiva Starlink per soldati russi causando caos negli assalti",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-07",
+      "title": "Mattarella dichiara aperti i Giochi olimpici invernali Milano-Cortina e accesi i due bracieri",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-07",
+      "title": "Trump definisce molto buoni i colloqui Usa-Iran in Oman sul nucleare e missili",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-08",
+      "title": "Tre valanghe travolgono scialpinisti in Valtellina e Trentino causando tre morti",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-08",
+      "title": "Undici milioni di portoghesi votano ballottaggio presidenziale tra Seguro e Ventura",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-08",
+      "title": "Zelensky rivela pressioni Usa per concludere pace in Ucraina entro giugno",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-08",
+      "title": "Bombardamento russo con MLRS su Kherson ferisce undici civili inclusa due donne",
+      "category": "conflict",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1798,
+    "totalSourcesUsed": 7,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 12,
+      "politics": 32,
+      "economy": 6,
+      "environment": 4,
+      "science": 3,
+      "society": 5
+    },
+    "regionCounts": {
+      "europe": 32,
+      "americas": 7,
+      "middle-east": 12,
+      "global": 7,
+      "africa": 2,
+      "asia-pacific": 2
+    }
+  }
+}

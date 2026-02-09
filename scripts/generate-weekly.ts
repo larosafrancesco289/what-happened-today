@@ -81,6 +81,29 @@ function dateRange(start: string, end: string): string[] {
   return dates;
 }
 
+/**
+ * Last-resort extraction when the LLM returns malformed JSON (e.g. missing quotes
+ * around keys). Grabs everything after the "summary" key and strips wrapper chars.
+ */
+function extractSummaryFallback(text: string): string | undefined {
+  const match = text.match(/"summary"?\s*:\s*"?([\s\S]+)/);
+  if (!match) return undefined;
+
+  const cleaned = match[1]
+    .trim()
+    .replace(/^"|["}\s]+$/g, '')           // strip leading " and trailing ", }, whitespace
+    .replace(/\\n/g, '\n')
+    .replace(/\\"/g, '"')
+    .replace(/\\\\/g, '\\')
+    .trim();
+
+  if (cleaned) {
+    console.log('  (recovered summary from malformed JSON via regex fallback)');
+  }
+
+  return cleaned || undefined;
+}
+
 async function runWeeklyPipeline(languageCode: string = 'en') {
   const { loadDailyNews } = await import('../src/lib/utils');
   const fs = await import('fs');
@@ -261,7 +284,10 @@ Output JSON: {"summary":"<votre briefing>"}`,
   );
 
   const responseText = response.choices[0]?.message?.content || '';
-  const { summary } = safeParseJSON<{ summary?: string }>(responseText, {});
+
+  // Try standard JSON parsing first, then regex extraction for malformed JSON
+  const summary = safeParseJSON<{ summary?: string }>(responseText, {}).summary
+    ?? extractSummaryFallback(responseText);
 
   if (!summary) {
     console.error('Failed to generate weekly summary. Raw response:', responseText.substring(0, 500));

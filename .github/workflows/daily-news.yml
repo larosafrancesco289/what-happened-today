@@ -77,8 +77,12 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 
-      - name: Generate weekly digest for all languages
-        run: bun run generate-weekly:all
+      - name: Generate weekly digest (all languages)
+        run: |
+          for lang in en it fr; do
+            echo "--- Generating weekly digest: $lang ---"
+            bun run generate-weekly:$lang || echo "Warning: weekly digest for $lang failed, continuing..."
+          done
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 

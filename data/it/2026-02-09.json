@@ -1,0 +1,188 @@
+{
+  "date": "2026-02-09",
+  "summary": "Sanae Takaichi ha vinto le elezioni in Giappone, diventando la prima premier donna del paese. Il suo Partito Liberal Democratico ha ottenuto una vittoria netta, rafforzando la leadership conservatrice. Takaichi è nota per posizioni ferme su difesa e immigrazione. Eredita scandali legati a fondi neri del partito. Questo risultato consolida le alleanze nel Asia-Pacifico. Si attendono continuità nelle politiche estere.\n\nPedro Seguro ha vinto le elezioni presidenziali in Portogallo con il 67% dei voti contro il 33% di Andre Ventura, in un ballottaggio che ha coinvolto undici milioni di elettori. Questo fa seguito al voto di ieri e consolida il centrosinistra, influenzando alleanze in Europa e politiche interne. A Hong Kong, un tribunale ha condannato Jimmy Lai a 20 anni di carcere per collusione con potenze straniere e pubblicazioni sediziose. Coinvolti Regno Unito e Stati Uniti nelle richieste di rilascio. Reazioni da Taiwan e ong umanitarie.\n\nIn Ucraina, raid russi con droni hanno colpito Odessa e Kharkiv causando tre morti civili, tra cui un bambino di 10 anni, e feriti nel sud e nord-est. Questo fa seguito al bombardamento con MLRS su Kherson ieri. In Italia, la premier Giorgia Meloni ha definito nemici dell'Italia i manifestanti contro le Olimpiadi Milano-Cortina, in seguito al corteo di ieri con petardi contro la polizia. Opposizioni criticano il governo su sicurezza. Lindsey Vonn si è fratturata la gamba destra in una prova di discesa a Cortina dopo 13 secondi, saltando le Olimpiadi 2026. La federazione valuta il recupero. A Liguria, pm accusano il governatore Giovanni Toti di aver manipolato dati Covid tramite messaggi al capo gabinetto. Indagine in corso. Seattle Seahawks hanno vinto il Super Bowl 29-13 contro New England Patriots. Luigi Manna ha confessato l'omicidio di Zoe Trinchero a Nizza Monferrato, ammettendo pugni multipli prima della caduta nel fiume.",
+  "headlines": [
+    {
+      "title": "Tribunale Hong Kong condanna Jimmy Lai a 20 anni carcere per collusione e sedizione",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Un tribunale di Hong Kong ha condannato l'ex magnate pro-democrazia Jimmy Lai a 20 anni di carcere per collusione con potenze straniere e pubblicazioni sediziose. Coinvolti Regno Unito e Usa nelle pressioni per il rilascio. La sentenza segna un duro colpo alla libertà di stampa nel territorio, con reazioni da Taiwan e ong umanitarie.",
+      "link": "https://www.agi.it/estero/news/2026-02-09/hongkong-jimmy-lai-condannato-35510497/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Enfatizza condanna a 20 anni nonostante pressioni internazionali e rischio ergastolo",
+          "link": "https://www.agi.it/estero/news/2026-02-09/hongkong-jimmy-lai-condannato-35510497/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea decisione corte su collusione e sedizione con proteste da Taiwan",
+          "link": "https://www.repubblica.it/esteri/2026/02/09/news/jimmy_lai_condanna_hong_kong-425147948/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta condanna durissima da corte West Kowloon per collusione e sedizione",
+          "link": "https://www.tgcom24.mediaset.it/mondo/hong-kong-condannato-jimmy-lai_108813792-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Lindsey Vonn si frattura gamba in discesa e salta Olimpiadi Cortina 2026",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "Rai News"
+      ],
+      "summary": "Lindsey Vonn cade durante prova discesa a Cortina fratturandosi la gamba destra dopo 13 secondi. L'atleta statunitense, Regina delle nevi, esce dalle Olimpiadi 2026. La federazione valuta recupero, ma stagione compromessa interessa fan sport invernali.",
+      "link": "https://www.ansa.it/sito/videogallery/sport/speciali/milano_cortina_2026/2026/02/08/cortina-maledetta-per-la-regina-delle-nevi_3eda3ff3-e13d-411c-a816-3b2df931c2a3.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Descrive frattura gamba che arresta avventura olimpica a Cortina",
+          "link": "https://www.ansa.it/sito/videogallery/sport/speciali/milano_cortina_2026/2026/02/08/cortina-maledetta-per-la-regina-delle-nevi_3eda3ff3-e13d-411c-a816-3b2df931c2a3.html"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Dettaglia caduta, urla e 13 secondi dramma con stato salute attuale",
+          "link": "https://www.rainews.it/articoli/2026/02/olimpiadi-dal-sogno-allincubo-come-sta-lindsey-vonn-dopo-i-13-secondi-di-dramma-milano-cortina-2026-59b9f032-a02d-44d3-a0a3-29355575219e.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Meloni definisce nemici Italia manifestanti contro Olimpiadi Milano Cortina",
+      "source": "ANSA",
+      "summary": "Premier Giorgia Meloni attacca manifestanti anti-Olimpiadi definendoli nemici dell'Italia. Opposizioni criticano governo su sicurezza, in attesa decreto. Lite tra ministri Crosetto e Gabrielli interessa dibattito su Giochi 2026.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/02/08/meloni-chi-manifesta-contro-le-olimpiadi-e-nemico-dellitalia_99e3534e-126e-4155-b8cb-c3fa7fa0a66a.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russia lancia raid droni su Odessa e Kharkiv causando tre morti inclusi bambino",
+      "source": "TGCOM24",
+      "summary": "Bombardamenti notturni russi con droni colpiscono Odessa e Kharkiv uccidendo tre civili tra cui bambino di 10 anni. Raid feriscono altri nel sud e nord-est ucraino. Escalation guerra preoccupa aiuti internazionali e sfollati.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-1438-giorno-di-guerra_108813806-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Seguro vince elezioni presidenziali Portogallo con 67% voti contro Ventura",
+      "source": "TGCOM24",
+      "summary": "Candidato socialista Pedro Seguro ottiene 67% voti battendo estrema destra Ventura al 33% in ballottaggio. Undici milioni portoghesi votanti consolidano centrosinistra. Risultato influenza alleanze Europa e politiche interne.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/elezioni-in-portogallo-ampia-vittoria-del-socialista-seguro_108809082-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Ieri undici milioni votavano ballottaggio, oggi Seguro vince con 67% confermandosi premier dopo quattro mesi",
+      "sources": [
+        "TGCOM24"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Sanae Takaichi vince elezioni Giappone consolidando leadership conservatrice",
+      "source": "AGI",
+      "summary": "Sanae Takaichi, prima premier donna Giappone, vince nettamente elezioni rafforzando Partito Liberal Democratico. Falco su difesa e immigrazione, eredita scandali fondi neri. Consolidamento influenza alleanze Asia-Pacifico.",
+      "link": "https://www.agi.it/estero/news/2026-02-09/sanae-takaichi-giappone-35505654/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Pm Liguria accusano Toti di manipolare dati Covid aumentando contagi",
+      "source": "Corriere della Sera",
+      "summary": "Procuratori rivelano messaggi governatore Giovanni Toti a capo gabinetto Matteo Cozzani su aumento dati contagi Covid. Indagine su truccatura numeri pandemia. Processo incide fiducia politica sanitaria italiana.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Seattle Seahawks vincono Super Bowl 29-13 contro New England Patriots",
+      "source": "AGI",
+      "summary": "Seahawks travolgono Patriots 29-13 nel Super Bowl grazie difesa solida. Show Bad Bunny halftime, Trump deluso seconda sconfitta consecutiva squadra sostenuta. Evento domina sport Usa e intrattenimento globale.",
+      "link": "https://www.agi.it/estero/news/2026-02-09/superbowl-trump-badbunny-35509969/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Manna confessa omicidio Zoe Trinchero dicendo presa pugni prima fiume",
+      "source": "Rai News",
+      "summary": "20enne Luigi Manna confessa femminicidio Zoe Trinchero a Nizza Monferrato: pugni multipli poi caduta fiume. Vittima 18enne forse salvabile prima. Indagini proseguono su boxeur assassino, solleva dibattito violenza genere.",
+      "link": "https://www.rainews.it/articoli/2026/02/femminicidio-di-zoe-trinchero-forse-poteva-salvarsi-manna-lho-presa-a-pugni-non-so-perche-nizza-monferrato-asti-dc99c824-ee6f-46cf-aeeb-5cebeb3282f7.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 252,
+    "articlesAfterDedup": 252,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "politics": 5,
+      "society": 3,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "europe": 5,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

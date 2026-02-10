@@ -1,0 +1,203 @@
+{
+  "date": "2026-02-10",
+  "summary": "Emmanuel Macron a proposé dans un entretien une capacité d'endettement commun via eurobonds pour financer la transition écologique, l'intelligence artificielle et le quantique au sein des Vingt-Sept. Cette mesure, présentée avant le sommet de Bruxelles, vise à doter l'Union européenne d'investissements communs face aux concurrents mondiaux. Cela fait suite à la proposition du Haut-Commissariat au plan d'un droit de douane européen global de 30 pour cent contre la Chine. Une décision est attendue lors du sommet.\n\nLe cabinet de sécurité israélien a approuvé des règles étendant le contrôle israélien sur les zones A et B de Cisjordanie. L'Union européenne et l'ONU critiquent ces mesures comme une violation des accords d'Oslo, tandis qu'Israël les présente comme un renforcement sécuritaire. Cela complique les perspectives d'un État palestinien. Séparément, les États-Unis ont cédé à l'Italie, la Pologne et l'Allemagne les postes clés de l'OTAN sur les flancs Sud et Est, tout en conservant les commandements alliés en Europe et maritimes. Washington préserve ainsi son influence stratégique dans l'Alliance. Donald Trump a menacé de bloquer l'ouverture du pont Gordie-Howe, financé à 6,4 milliards de dollars par Ottawa, en exigeant une compensation et une propriété partagée. Des tensions bilatérales sur le commerce et les infrastructures transfrontalières sont possibles.\n\nEn Iran, les autorités ont interpellé cinq réformateurs et le fils de l'opposant Karoubi, malgré des discussions avec les États-Unis. L'Insee a publié une hausse du taux de chômage en France à 7,9 pour cent au premier semestre 2025, en augmentation de 0,6 point sur un an. Vingt-quatre familles d'enfants hospitalisés ont attaqué l'État et des industriels en justice pour des laits infantiles contaminés, réclamant des analyses indépendantes. Le groupe Kering a annoncé une chute de 93 pour cent de ses bénéfices nets, impactée par Gucci sous son nouveau directeur général. Ghislaine Maxwell a refusé de témoigner devant le Congrès américain, invoquant le Fifth Amendment, son avocat proposant une grâce de Donald Trump.",
+  "headlines": [
+    {
+      "title": "Emmanuel Macron appelle Union européenne à lancer eurobonds pour investissements communs",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Emmanuel Macron propose dans un entretien une capacité d'endettement commun via eurobonds pour financer transition écologique, IA et quantique chez les Vingt-Sept avant sommet Bruxelles. Cela vise à éviter retard stratégique face concurrents mondiaux.",
+      "link": "https://www.lemonde.fr/economie/article/2026/02/10/emmanuel-macron-c-est-le-moment-pour-l-union-europeenne-de-lancer-une-capacite-commune-d-endettement-via-des-eurobonds_6666101_3234.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec appel eurobonds et domaines investissements avant sommet UE",
+          "link": "https://www.lemonde.fr/economie/article/2026/02/10/emmanuel-macron-c-est-le-moment-pour-l-union-europeenne-de-lancer-une-capacite-commune-d-endettement-via-des-eurobonds_6666101_3234.html"
+        }
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Cabinet sécurité israélien approuve règles étendant contrôle sur Cisjordanie zones A et B",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "France 24"
+      ],
+      "summary": "Cabinet israélien valide mesures renforçant contrôle Cisjordanie, critiquées par UE et ONU pour violation accords Oslo. Cela complique perspectives État palestinien et accentue tensions régionales internationales.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4200651-20260210-conflit-israelo-palestinien-ue-onu-nombreuses-critiques-plan-israel-controler-cisjordanie?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Met en avant critiques UE ONU sur extension contrôle Cisjordanie",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4200651-20260210-conflit-israelo-palestinien-ue-onu-nombreuses-critiques-plan-israel-controler-cisjordanie?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "angle": "Décrit mesures cabinet sécurité et volonté Smotrich enterrer État palestinien",
+          "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260209-isra%C3%ABl-smotrich-veut-enterrer-l-id%C3%A9e-d-un-%C3%A9tat-palestinien"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump menace bloquer ouverture pont Gordie-Howe entre États-Unis et Canada",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "Le Figaro"
+      ],
+      "summary": "Donald Trump exige compensation et propriété partielle pont financé 6,4 milliards dollars par Ottawa. Cela risque tensions bilatérales commerce et infrastructures transfrontalières.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2227300/trump-menace-bloquer-pont-gordie-howe-windsor-detroit",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Signale menace Trump sur pont coût 6,4 milliards financé Ottawa",
+          "link": "https://ici.radio-canada.ca/nouvelle/2227300/trump-menace-bloquer-pont-gordie-howe-windsor-detroit"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Cite déclaration Trump réclamant propriété partie ouvrage",
+          "link": "https://www.lefigaro.fr/conjoncture/nous-devrions-etre-proprietaires-trump-menace-de-bloquer-un-projet-de-pont-entre-les-etats-unis-et-le-canada-20260210"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Insee publie hausse taux chômage France à 7,9 pour cent sur un an",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Chiffres Insee montrent chômage à 7,9% mi-2025, +0,6 point an, éloignant objectif Macron 5% fin mandat. Cela impacte crédibilité politique et perspectives emploi.",
+      "link": "https://www.lemonde.fr/politique/article/2026/02/10/avec-un-taux-de-chomage-en-hausse-la-promesse-de-plein-emploi-d-emmanuel-macron-s-eloigne_6666106_823448.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Vingt-quatre familles attaquent État et industriels justice pour laits infantiles contaminés",
+      "source": "France Info",
+      "sources": [
+        "France Info"
+      ],
+      "summary": "Familles enfants hospitalisés saisissent justice réclamant analyses indépendantes face enquêtes insuffisantes. Autorités orientent vers Nestlé, soulignant failles contrôle sanitaire produits infantiles.",
+      "link": "https://www.franceinfo.fr/sante/alimentation/lait-infantile-contamine/intoxications-au-lait-infantile-des-familles-renvoyees-vers-nestle-faute-d-analyses-officielles_7795667.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis cèdent Italie Pologne Allemagne postes clés OTAN flancs Sud et Est",
+      "source": "Libération",
+      "sources": [
+        "Libération"
+      ],
+      "summary": "Washington accorde commandements régionaux OTAN à Européens mais conserve alliées Europe et maritimes. Cela marque désengagement relatif préservant influence stratégique Alliance.",
+      "link": "https://www.liberation.fr/international/otan-les-etats-unis-cedent-des-postes-cles-aux-europeens-mais-gardent-la-main-sur-lalliance-20260210_DQ3T6WSQ4NDQVA6MAMEUQJHR4Q/",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Groupe Kering annonce chute bénéfices nets 93 pour cent",
+      "source": "Libération",
+      "sources": [
+        "Libération"
+      ],
+      "summary": "Kering sous nouveau DG pâtit Gucci marque phare avec résultats plombés. Chute affecte luxe groupe Pinault et perspectives secteur mode haut de gamme.",
+      "link": "https://www.liberation.fr/economie/le-geant-du-luxe-kering-annonce-une-chute-de-ses-benefice-de-93-20260210_CVHLONLL5ZDWJHQPLDQZPGYKPA/",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Autorités iraniennes interpellent cinq réformateurs et fils opposant Karoubi",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Iran arrête figures Front réformateurs malgré discussions États-Unis. Répression étouffe contestation parallèlement tractations diplomatiques régionales.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260210-malgre-tractations-diplomatiques-iran-accentue-repression-arrestations",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Ghislaine Maxwell refuse témoigner Congrès sauf grâce Donald Trump",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Le Monde"
+      ],
+      "summary": "Ghislaine Maxwell invoque Fifth Amendment refuse commission Chambre représentants. Avocat propose grâce Trump affirmant innocence lui et Clinton. Suites judiciaires Epstein prolongées.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4200632-20260209-affaire-epstein-ghislaine-maxwell-repondra-congres-si-trump-gracie?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Maxwell conditionne témoignage à grâce Trump et avocat déclare innocence Trump Clinton",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Indique refus Maxwell et offre témoignage contre grâce Trump",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4200632-20260209-affaire-epstein-ghislaine-maxwell-repondra-congres-si-trump-gracie?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Détaille invocation Fifth et invitation avocat à Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/02/10/affaire-epstein-ghislaine-maxwell-affirme-qu-elle-ne-repondra-au-congres-qu-en-echange-d-une-grace-presidentielle_6666088_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 228,
+    "articlesAfterDedup": 227,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 1,
+      "economy": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 5,
+      "middle-east": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

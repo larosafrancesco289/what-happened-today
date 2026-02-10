@@ -1,0 +1,201 @@
+{
+  "date": "2026-02-10",
+  "summary": "La Casa Bianca ha riferito che Donald Trump ha bloccato Benjamin Netanyahu sull'annessione della Cisgiordania alla vigilia del loro incontro. Trump ha indicato la necessità di una Cisgiordania stabile per garantire la sicurezza di Israele. Questa decisione influisce sui negoziati di pace in Medioriente, dove palestinesi rientrati a Gaza da Rafah affrontano macerie, bombe e fame.\n\nForti nevicate hanno causato 46 morti in Giappone, tra cui 17 a Niigata, e oltre 600 feriti. Le autorità gestiscono soccorsi, strade bloccate e assistenza a milioni di residenti e viaggiatori nelle zone montane. Il governo giapponese ha aderito all'iniziativa Purl della Nato per fornire munizioni agli Stati Uniti destinate all'Ucraina; droni russi hanno colpito Zaporizhzhia ferendo un bambino. In Iran, le Guardie della Rivoluzione hanno arrestato leader del Fronte Riformista, tra cui Mansouri, mentre Teheran dialoga con gli Stati Uniti.\n\nFrançois Villeroy de Galhau ha annunciato le dimissioni da governatore della Banca di Francia a giugno, prima della scadenza del mandato nel 2027, per presiedere la Fondazione Apprentis d'Auteuil. Friedrich Merz e Giorgia Meloni hanno convocato un vertice a Bruxelles giovedì sulla competitività Ue, escludendo Emmanuel Macron; la Germania si ritira dal progetto supercaccia FCAS con la Francia. I pm liguri hanno rivelato intercettazioni in cui il governatore Giovanni Toti ammette di aver manipolato dati sui contagi Covid con il capo di gabinetto. Re Carlo III si dice pronto a collaborare con la polizia sul caso Epstein riguardante il principe Andrea; Ghislaine Maxwell rifiuta di testimoniare senza grazia presidenziale. Il CIO ha vietato al portabandiera ucraino Oleksandr Heraskevych un casco con foto di atleti uccisi nella guerra a Milano-Cortina. Una giostra Tsunami si è schiantata ad Ahmedabad in India causando un morto e 13 feriti; le autorità indagano sulla sicurezza delle attrazioni fieristiche.",
+  "headlines": [
+    {
+      "title": "Nevicate intense causano 46 morti e oltre 600 feriti in Giappone",
+      "source": "TGCOM24",
+      "summary": "Forti nevicate colpiscono Giappone con 46 morti, soprattutto 17 a Niigata, e oltre 600 feriti. Le autorità gestiscono soccorsi e strade bloccate. L'evento evidenzia vulnerabilità climatica in zone montane, interessando milioni di residenti e viaggiatori.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/maltempo-forti-nevicate-in-giappone-46-morti-e-oltre-600-feriti_108853405-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump blocca Netanyahu su annessione Cisgiordania da Israele",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Fonti Casa Bianca riferiscono stop di Trump a Netanyahu sull'annessione Cisgiordania alla vigilia del loro incontro. Trump motiva con necessità Cisgiordania stabile per sicurezza Israele. La mossa influisce negoziati pace Medioriente.",
+      "link": "https://www.repubblica.it/esteri/2026/02/10/news/cisgiordania_annessione_israele_trump_netanyahu-425150029/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Fonti Casa Bianca confermano stop Trump a Netanyahu alla vigilia incontro leader",
+          "link": "https://www.repubblica.it/esteri/2026/02/10/news/cisgiordania_annessione_israele_trump_netanyahu-425150029/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Trump dichiara contrario ad annessione israeliana Cisgiordania per stabilità regione",
+          "link": "https://www.tgcom24.mediaset.it/mondo/trump-contrario-annessione-cisgiordania-israele_108853219-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Re Carlo offre collaborazione polizia su Epstein, Maxwell rifiuta testimonianza senza grazia",
+      "source": "ANSA",
+      "sources": [
+        "Euronews Italiano",
+        "ANSA"
+      ],
+      "summary": "Re Carlo si dice pronto a collaborare con polizia su principe Andrea nel caso Epstein. Ghislaine Maxwell invoca Quinto Emendamento e testimonia solo con grazia presidenziale, respinta da partiti Usa. Procede inchiesta su rete scandalo.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/09/caso-epstein-re-carlo-pronto-a-collaborare-con-la-polizia-su-andrea_b6993d6f-5068-4434-bf8c-2119e138a791.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ghislaine Maxwell rifiuta risposte Commissione Usa invocando Quinto Emendamento",
+          "link": "http://it.euronews.com/2026/02/10/scandalo-epestein-ghislaine-maxwell-si-rifiuta-di-rispondere-testimonio-solo-se-mi-viene-c"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Re Carlo preoccupato offre collaborazione polizia su Andrea, Maxwell condiziona testimonianza",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/09/caso-epstein-re-carlo-pronto-a-collaborare-con-la-polizia-su-andrea_b6993d6f-5068-4434-bf8c-2119e138a791.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Villeroy de Galhau annuncia dimissioni da governatore Banca Francia a giugno",
+      "source": "AGI",
+      "summary": "François Villeroy de Galhau lascia Banca Francia inizio giugno, prima scadenza 2027 mandato. Passa a presiedere Fondazione Apprentis d'Auteuil per tutela minori. Si apre corsa successione con impatto su politiche eurozona.",
+      "link": "https://www.agi.it/economia/news/2026-02-10/villeroy-galhau-successione-bce-35520842/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Giostra Tsunami si schianta in India causando un morto e 13 feriti",
+      "source": "Rai News",
+      "summary": "Braccio meccanico giostra Tsunami si inclina e cabina precipita durante giro ad Ahmedabad. Una persona muore, 13 ferite. Autorità indiane indagano su sicurezza attrazioni fiere, con rischio per migliaia visitatori.",
+      "link": "https://www.rainews.it/video/2026/02/india-la-giostra-tsunami-si-schianta-al-suolo-un-morto-e-almeno-13-feriti-immagini-shock-ca81f2b1-a7a6-4552-a8ca-645d1c86f4fa.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran arresta leader riformisti inclusi Mansouri del Fronte Riformista",
+      "source": "AGI",
+      "summary": "Guardie Rivoluzione arrestano esponenti Fronte Riformista iraniano tra cui Mansouri, mentre Teheran dialoga con Usa. Campagna repressione elimina opposizioni interne. Solleva timori purghe politiche prima elezioni.",
+      "link": "https://www.agi.it/estero/news/2026-02-10/iran-repressione-anche-tra-politici-riformisti-35520412/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Giappone decide adesione Purl Nato per munizioni a Ucraina, droni russi feriscono bambino Zaporizhzhia",
+      "source": "TGCOM24",
+      "summary": "Governo giapponese aderisce iniziativa Nato Purl fornendo munizioni Usa a Ucraina. Droni russi colpiscono Zaporizhzhia ferendo bambino. Rafforza supporto internazionale Kiev contro Mosca.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-1439-giorno-di-guerra_108853224-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "CIO vieta casco portabandiera ucraino con foto atleti uccisi in guerra",
+      "source": "AGI",
+      "summary": "Portabandiera ucraino Heraskevych pianifica casco con ritratti atleti morti in guerra a Milano Cortina, ma CIO lo blocca come tradimento. Atleta protesta per omaggiare vittime. Aumenta tensioni Olimpiadi su conflitto.",
+      "link": "https://www.agi.it/sport/news/2026-02-10/guerra-ucraina-heraskevych-cio-milano-cortina-35527611/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm Liguria rivelano intercettazioni Toti ammette manipolazione dati Covid",
+      "source": "Corriere della Sera",
+      "summary": "Governatore Toti Liguria intercettato dice a capo gabinetto di aver truccato dati contagi Covid. Procede indagine pm su falsificazione numeri pandemia. Impatta credibilità gestione sanitaria regione.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pm pubblicano intercettazioni con Toti che ammette di aver aumentato dati contagi",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Merz e Meloni convocano vertice Bruxelles contro Macron, Germania esce da supercaccia FCAS",
+      "source": "la Repubblica",
+      "summary": "Leader Germania Italia organizzano incontro giovedì Bruxelles per linea competitività Ue, escludendo Francia. Berlino si ritira da progetto supercaccia FCAS con Parigi. Rafforza asse italo-tedesco difesa europea alternativa.",
+      "link": "https://www.repubblica.it/esteri/2026/02/10/news/merz_meloni_vertice_macron_bruxelles_stop_caccia_francese-425149888/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Aggiunti dettagli strappo con Macron e ritiro Germania da supercaccia franco-tedesco FCAS",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 259,
+    "articlesAfterDedup": 258,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "environment": 2,
+      "politics": 4,
+      "society": 2,
+      "economy": 1,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "middle-east": 2,
+      "global": 1,
+      "europe": 5
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

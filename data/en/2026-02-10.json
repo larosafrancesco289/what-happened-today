@@ -1,0 +1,177 @@
+{
+  "date": "2026-02-10",
+  "summary": "US forces boarded a sanctioned Venezuelan oil tanker in the Indian Ocean after tracking it from the Caribbean to enforce oil sanctions on Venezuela. Defense Secretary Pete Hegseth announced the action. The vessel's crew faces seizure.\n\nIsrael's security cabinet approved measures simplifying land purchases for Jews in the occupied West Bank. Critics including Palestinians and international observers state the move violates the Oslo Accords and accelerates annexation. Settlement expansion is expected next. Separately, displaced Palestinians crossed into northern Gaza on foot through a military zone after Israel lifted the blockade following a hostage deal. This follows Israel's decision yesterday to allow returns for over one million previously displaced Gazans. In the Baltic Sea region, NATO launched its first coordinated response after another deep-sea cable was severed amid a suspected sabotage campaign. Critical infrastructure operators and Baltic nations are affected.\n\nA Rapid Support Forces drone strike killed 24 displaced people including eight children near Er Rahad in central Sudan. The vehicle carried individuals fleeing fighting in Dubeiker, according to the Sudan Doctors Network. Aid access remains challenged in North Kordofan. Iran arrested reformists and activists amid prospects of US nuclear talks, weeks after nationwide unrest, while signaling openness to diplomacy. A US Fourth Circuit appeals court lifted a block on Trump executive orders halting federal DEI programs, pausing a lower court ruling and allowing agencies to resume enforcement. Senate Leader Chuck Schumer initiated Democratic talks offering White House restrictions on Trump immigration plans ahead of DHS funding expiration. SpaceX Falcon 9 launched NASA Crew-10 from Kennedy Space Center with astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to retrieve Butch Wilmore and Suni Williams after nine months on the ISS. Two more deaths raised the toll to 30 from a Meghalaya coal mine blast in an illegal rat-hole operation; rescue efforts continue.",
+  "headlines": [
+    {
+      "title": "US forces board sanctioned Venezuelan oil tanker in Indian Ocean",
+      "source": "France24",
+      "summary": "US military boarded a sanctioned tanker after tracking it from the Caribbean to enforce Venezuela oil sanctions. Defence Secretary Pete Hegseth announced the action, escalating Trump's campaign. Affected vessel crew faces seizure; signals intensified global enforcement against evasion.",
+      "link": "https://www.france24.com/en/asia-pacific/20260210-us-forces-board-sanctioned-tanker",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France24"
+      ],
+      "category": "conflict",
+      "region": "global",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel security cabinet eases land purchases for Jews in West Bank",
+      "source": "New York Times",
+      "summary": "Israel's cabinet approved measures simplifying Jewish land buys in occupied West Bank, violating Oslo Accords per critics. Palestinians and international observers affected by annexation acceleration. Next steps include potential settlement expansion, altering territorial status quo.",
+      "link": "https://www.nytimes.com/2026/02/09/world/middleeast/israel-settlements-west-bank.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "US appeals court lifts block on Trump DEI crackdown orders",
+      "source": "Voice of America",
+      "summary": "Fourth Circuit Court paused lower ruling, allowing Trump executive orders halting federal DEI programs. Government agencies resume enforcement; opponents face policy reversal. Matters for civil service equity debates and administration priorities.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NASA SpaceX rocket launches Crew-10 to retrieve stuck astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carried NASA astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi and Russia's Kirill Peskov from Kennedy Space Center. Enables return of Butch Wilmore and Suni Williams after nine months. Routine rotation restores ISS crew capacity.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "RSF drone strike kills 24 displaced people in central Sudan",
+      "source": "The Guardian",
+      "summary": "Rapid Support Forces drone hit vehicle near Er Rahad, killing 24 including eight children fleeing Dubeiker fighting. Sudan Doctors Network reported casualties. Exacerbates humanitarian crisis in war-torn North Kordofan; aid access remains challenged.",
+      "link": "https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Two more die raising Meghalaya coal mine blast toll to 30",
+      "source": "The Hindu",
+      "summary": "Ramchandra Baishnab and Nimaruddin succumbed in Assam hospital after Friday blast. Miners and rescuers affected in illegal rat-hole mine. Operations continue; highlights persistent safety risks in India's unregulated coal sector.",
+      "link": "https://www.thehindu.com/news/national/meghalaya/meghalaya-coal-mine-blast-death-toll-rescue-operation-updates/article70614128.ece",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Democrats offer White House restrictions on Trump immigration plans",
+      "source": "Associated Press",
+      "summary": "Senate Leader Chuck Schumer initiated talks days before DHS funding expires, seeking curbs on deportations. Impacts migrants and federal operations. Averts potential shutdown; shapes US border policy negotiations.",
+      "link": "https://apnews.com/article/government-shutdown-homeland-security-ice-funding-0a22618791cb6d0aac4d763a87fc1d4f",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Iran arrests reformists and activists amid US nuclear talks prospect",
+      "source": "France 24",
+      "summary": "Tehran escalated protest suppression weeks after nationwide unrest while signaling openness to nuclear diplomacy. Dissidents and public affected. Balances internal control with international relations; influences regional stability.",
+      "link": "https://www.france24.com/en/middle-east/20260210-iran-escalates-crackdown-on-protestors-amid-potential-us-nuclear-talks",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Palestinians cross into northern Gaza after Israel lifts blockade",
+      "source": "Wall Street Journal",
+      "summary": "Displaced residents stream on foot through military zone post-hostage deal breakthrough. Over one million Gazans affected by prior displacement. Allows home returns; eases humanitarian strains in divided enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel permitted returns after hostage deadlock resolved; crossings now underway",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO launches first coordinated response to Baltic Sea cable sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance acts after another deep-sea cable severed amid suspected campaign. Critical infrastructure operators and Baltic nations affected. Bolsters deterrence; prevents future disruptions to energy and data links.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "New cable severance prompted NATO's inaugural joint operation",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 462,
+    "articlesAfterDedup": 461,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "science": 1,
+      "environment": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "global": 2,
+      "middle-east": 3,
+      "americas": 2,
+      "africa": 1,
+      "asia-pacific": 1,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

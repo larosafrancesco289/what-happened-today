@@ -1,0 +1,212 @@
+{
+  "date": "2026-02-11",
+  "summary": "Russian forces advanced toward Huliaipole in southern Ukraine and Pokrovsk in eastern Ukraine after a year of assaults. Ukrainian troops and civilians in those regions are affected. These gains follow slow progress in the conflict and could strengthen Moscow's position in U.S.-mediated peace talks.\n\nIn eastern Congo, Rwanda-backed rebels defeated Congolese troops and entered Goma amid gunfire and shelling. Over one million people were displaced inside the city, an aid hub. U.N. officials warn of a humanitarian crisis threatening regional stability. In the Middle East, Israeli forces conducted raids across Gaza and the West Bank as Prime Minister Netanyahu prepares to meet U.S. President-elect Trump on Iran nuclear talks. Palestinian civilians are affected. Separately in Gaza, Israel allowed hundreds of thousands of displaced Palestinians to cross a military zone into northern areas after progress in hostage release talks.\n\nNATO launched its first coordinated response after another Baltic Sea cable severance, suspected as sabotage targeting undersea energy and data links. Baltic states and NATO allies are affected. In British Columbia, Canada, a gunman killed eight people at Tumbler Ridge Secondary School, including the suspect, and two at a connected home, injuring over 25 including two critically. The town of 2,400 residents is affected; police are investigating connections and motive. The EU Parliament approved fast-track asylum rejections and transfers to safe third countries. The UN human rights chief urged a halt to clashes in Ethiopia's Tigray region. FBI agents seized 2020 election ballots from Fulton County, Georgia offices, citing vote count defects. A migrant boat capsized off Libya's Zuwara, leaving 53 dead or missing; two survivors were rescued.",
+  "headlines": [
+    {
+      "title": "Russian troops advance toward key towns in southern and eastern Ukraine",
+      "source": "New York Times",
+      "sources": [
+        "New York Times"
+      ],
+      "summary": "Russian forces make glacial gains in southern and eastern Ukraine after a year of assaults, nearing capture of Huliaipole and Pokrovsk. Ukrainian troops and civilians affected; could strengthen Moscow's position in U.S.-mediated peace talks. Matters for global security and war trajectory.",
+      "link": "https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Gunman kills eight at British Columbia school and two at connected home",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "France 24"
+      ],
+      "summary": "Shooting at Tumbler Ridge Secondary School leaves eight dead including suspect and two more at a home, injuring over 25 including two critically. 2,400 residents of remote town affected; rare Canadian school shooting. Police probe connections and motive.",
+      "link": "https://apnews.com/article/canada-shooting-british-columbia-66b021ac7c75e857885b81dc78a29d05",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Focuses on casualties, injuries, school location and rarity in Canada",
+          "link": "https://apnews.com/article/canada-shooting-british-columbia-66b021ac7c75e857885b81dc78a29d05"
+        },
+        {
+          "source": "France 24",
+          "angle": "Highlights mass shooting toll of 10 dead and dozens wounded in school",
+          "link": "https://www.france24.com/en/americas/20260211-school-shooting-in-british-columbia-leaves-10-dead-and-dozens-injured"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun Goma displacing over one million people",
+      "source": "Wall Street Journal",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "summary": "Rebels defeat Congolese troops and enter Goma aid hub amid gunfire and shelling. Over one million displaced inside city; U.N. officials warn of humanitarian crisis. Threatens regional stability in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli forces conduct raids across Gaza and West Bank before Netanyahu-Trump meeting",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "BBC"
+      ],
+      "summary": "Israeli attacks target Gaza and occupied West Bank as Netanyahu prepares to meet Trump on Iran nuclear talks. Palestinian civilians affected; could influence U.S.-Israel strategy amid ongoing conflict. Significant for Middle East peace prospects.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/11/live-israeli-attacks-target-gaza-west-bank-as-trump-netanyahu-to-meet?traffic_source=rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Al Jazeera English",
+          "angle": "Emphasizes live raids in Gaza, West Bank amid Trump-Netanyahu preparations",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/2/11/live-israeli-attacks-target-gaza-west-bank-as-trump-netanyahu-to-meet?traffic_source=rss"
+        },
+        {
+          "source": "BBC",
+          "angle": "Highlights Netanyahu pressing Trump to halt Iran uranium enrichment",
+          "link": "https://www.bbc.com/news/articles/c0k1j2j4607o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "UN human rights chief warns of crisis in Ethiopia Tigray amid renewed fighting",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica"
+      ],
+      "summary": "Volker Türk urges parties to halt heavy clashes in precarious Tigray region. War-weary northern Ethiopians at risk of deepening crisis. Matters for Horn of Africa stability and humanitarian aid flows.",
+      "link": "https://allafrica.com/stories/202602100463.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "EU lawmakers approve fast-track asylum rejections and safe country transfers",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Parliament backs tougher rules for quicker asylum denials and transfers to safe third countries. Migrants and rights groups affected; hardens EU migration policy amid border pressures. Impacts European unity on immigration.",
+      "link": "https://www.france24.com/en/europe/20260210-eu-lawmakers-back-tougher-asylum-rules-allowing-fast-track-rejections",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "FBI seizes hundreds of 2020 election ballots from Georgia Fulton County offices",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "NPR"
+      ],
+      "summary": "Agents raid Fulton County citing possible vote count defects in Trump-lost election; affidavit links to Trump lawyer's claims. Voters and officials affected; probes election integrity. Fuels U.S. political divisions.",
+      "link": "https://apnews.com/article/fbi-georgia-elections-fulton-county-2020-ballots-9dfecd778c09134e9aa0bba2848718f5",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Details search warrant, ballot boxes seized for 2020 vote defects probe",
+          "link": "https://apnews.com/article/fbi-georgia-elections-fulton-county-2020-ballots-9dfecd778c09134e9aa0bba2848718f5"
+        },
+        {
+          "source": "NPR",
+          "angle": "Notes investigation started by Trump lawyer using debunked claims",
+          "link": "https://www.npr.org/2026/02/10/nx-s1-5710649/fulton-county-2020-election-affidavit-fbi"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Migrant boat capsizes off Libya leaving 53 dead or missing",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "Vessel overturns north of Zuwara carrying migrants to Europe; only two survivors rescued by UN agency. Desperate travelers from Africa affected; highlights deadly Mediterranean crossing risks. Urges safer migration routes.",
+      "link": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Palestinians stream into northern Gaza after hostage release deadlock breaks",
+      "source": "Wall Street Journal",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "summary": "Israel allows displaced Gazans to cross military zone bisecting enclave post-hostage deal progress. Hundreds of thousands returning; eases humanitarian strain. Advances potential ceasefire steps amid war.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel initially lifted blockade enabling first crossings yesterday",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO mounts first coordinated response after another Baltic Sea cable severance",
+      "source": "Wall Street Journal",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "summary": "Alliance responds to suspected sabotage campaign targeting undersea infrastructure. Baltic states and NATO allies affected; protects critical energy, data links. Signals heightened hybrid threat vigilance.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "NATO initially launched response to first sabotage incident yesterday",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 13,
+    "articlesProcessed": 467,
+    "articlesAfterDedup": 466,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 6,
+      "society": 2,
+      "politics": 2
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 2,
+      "africa": 3,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4,
+      "developing": 2
+    }
+  }
+}

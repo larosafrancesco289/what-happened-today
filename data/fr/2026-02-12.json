@@ -1,0 +1,245 @@
+{
+  "date": "2026-02-12",
+  "summary": "Le cyclone Gezani a frappé Madagascar mardi soir avec des rafales à 250 km/h, causant 31 morts. La deuxième ville du pays, Toamasina, est détruite à 75 %. Cela affecte 250 000 sinistrés et 400 000 habitants. Les autorités malgaches gèrent la crise humanitaire et la reconstruction de cette ville portuaire clé pour l'économie de l'île.\n\nLa tempête Nils a balayé le sud de la France avec des rafales à 160 km/h, provoquant la mort d'un chauffeur de poids lourd près de Dax dans les Landes. Près de 850 000 foyers étaient privés d'électricité jeudi matin. Des écoles ont fermé, les liaisons SNCF ont été interrompues et les domaines skiables fermés. La vigilance rouge pour crues dans la Gironde et Lot-et-Garonne, vents dans l'Aude et avalanches en Savoie est prolongée jusqu'à vendredi, impactant les transports pour des millions de Français. Une fusillade dans un collège-lycée au Canada a tué neuf personnes et blessé 27 autres mardi. L'enquête identifie la suspecte comme une femme transgenre. Les autorités poursuivent les investigations sur les causes et motivations.\n\nLa Chambre des représentants des États-Unis a voté l'abrogation des droits de douane imposés par Donald Trump sur le Canada, malgré une majorité républicaine. Le texte nécessite l'adoption au Sénat, avec un veto probable du président. Cela révèle des divisions chez les républicains sur le protectionnisme et affecte les relations commerciales bilatérales. Le ministre de l'énergie américain Chris Wright a annoncé à Caracas la fin de l'embargo pétrolier sur le Venezuela lors de sa première visite d'un membre du gouvernement américain en 25 ans. Cette mesure vise à relancer l'industrie pétrolière vénézuélienne. Lors de la rencontre à la Maison-Blanche, Donald Trump a insisté auprès de Benjamin Netanyahu pour poursuivre les discussions avec l'Iran, tandis que Netanyahu plaide pour les besoins sécuritaires d'Israël. Les bureaux de vote ont ouvert pour les législatives au Bangladesh, qui testent la stabilité post-Sheikh Hasina, avec le BNP et Jamaat-e-Islami favoris.",
+  "headlines": [
+    {
+      "title": "Tempête Nils provoque mort chauffeur camion Landes prive 850 000 foyers électricité vigilance rouge quatre départements",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Liberation",
+        "France 24",
+        "Le Monde",
+        "France Info"
+      ],
+      "summary": "La tempête Nils balaie sud France rafales 160 km/h causant mort chauffeur poids lourd près Dax Landes. 850 000 foyers privés électricité jeudi matin écoles fermées liaisons SNCF interrompues domaines skiables clos. Vigilance rouge crues Gironde Lot-et-Garonne vents Aude avalanches Savoie prolongée vendredi impacte transport quotidien millions Français.",
+      "link": "https://www.lefigaro.fr/meteo/en-direct-tempete-nils-la-france-balayee-par-de-puissantes-rafales-quatre-departements-en-vigilance-rouge-20260212",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Ouvre sur décès chauffeur camion Landes 850 000 foyers sans électricité fermetures écoles SNCF",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-tempete-nils-la-france-balayee-par-de-puissantes-rafales-quatre-departements-en-vigilance-rouge-20260212"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Met l'accent mort chauffeur poids lourd Dax force rare tempête vigilances rouges crues vents avalanches",
+          "link": "https://www.liberation.fr/environnement/en-direct-tempete-nils-mort-dun-chauffeur-de-poids-lourd-pres-de-dax-850-000-foyers-prives-delectricite-20260212_S372DKRTOZENVL5SQ3YAN6VOY4/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Détaille un mort 850 000 foyers privés électricité rafales 160 km/h sud France",
+          "link": "https://www.france24.com/fr/france/20260212-temp%C3%AAte-nils-en-france-un-mort-850-000-foyers-priv%C3%A9s-d-%C3%A9lectricit%C3%A9"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Signale personne morte Landes 850 000 privés électricité vigilances rouges crues vents avalanches",
+          "link": "https://www.lemonde.fr/planete/live/2026/02/12/tempete-nils-une-personne-retrouvee-morte-dans-les-landes-850-000-personnes-privees-d-electricite_6666430_3244.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Liste vigilance rouge quatre départements crues vents avalanches prolongation crues vendredi",
+          "link": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/direct-quatre-departements-sont-en-vigilance-rouge-avalanches-crues-ou-vent-alors-que-la-tempete-nils-balaye-l-hexagone_7800494.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Cyclone Gezani tue 31 personnes détruit 75% Toamasina Madagascar",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Liberation"
+      ],
+      "summary": "Cyclone Gezani frappe Madagascar mardi soir rafales 250 km/h causant 31 morts. Deuxième ville Toamasina détruite 75% 250 000 sinistrés 400 000 habitants affectés. Autorités malgaches gèrent crise humanitaire reconstruction ville portuaire clé économie île.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260211-cyclone-%C3%A0-madagascar-plus-de-30-morts-la-deuxi%C3%A8me-ville-du-pays-d%C3%A9truite-%C3%A0-75",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Compte 31 morts Toamasina détruite 75% rafales 250 km/h correspondance Aurelie Kouman",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260211-cyclone-%C3%A0-madagascar-plus-de-30-morts-la-deuxi%C3%A8me-ville-du-pays-d%C3%A9truite-%C3%A0-75"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Rapporte rafales 250 km/h défigurent Toamasina 400 000 habitants 250 000 sinistrés",
+          "link": "https://www.liberation.fr/environnement/climat/cyclone-a-madagascar-plus-de-30-morts-la-deuxieme-ville-du-pays-detruite-a-75-20260211_LZJZXGNMHJA2NG4BUUN23PTF4Y/"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Chambre représentants US vote abrogation droits douane Trump Canada",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Chambre représentants rejette droits douane imposés par Trump Canada malgré majorité républicaine. Texte nécessite adoption Sénat veto probable président. Révèle divisions républicains protectionnisme affecte relations commerce bilatéral économique.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2228108/chambre-representants-vote-abrogation-droits-douane-canada",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Indique Congrès inflige revers Trump adoption Sénat improbable veto assuré",
+          "link": "https://ici.radio-canada.ca/nouvelle/2228108/chambre-representants-vote-abrogation-droits-douane-canada"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Décrit coup dur républicains désapprouvent publiquement protectionnisme Trump vote symbolique",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4201052-20260212-coup-dur-congres-etats-unis-trump-droits-douane?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Ministre énergie US Chris Wright annonce fin embargo pétrolier Venezuela",
+      "source": "Liberation",
+      "summary": "Chris Wright visite Caracas première membre gouvernement US 25 ans annonce levée embargo pétrolier. Focus relance industrie pétrolière vénézuélienne tournant historique relations bilatérales impacte économie crise pays.",
+      "link": "https://www.liberation.fr/international/amerique/un-tournant-de-lhistoire-au-venezuela-le-ministre-etasunien-de-lenergie-annonce-la-fin-de-lembargo-petrolier-20260212_BDF6M6KQS5FTPBPRWJCLDU4ZEI/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Autorités sanitaires alertent niveaux préoccupants cadmium plomb aluminium alimentation Français",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Liberation"
+      ],
+      "summary": "Agence sécurité sanitaire analyse 700 échantillons 90% régime alimentaire révèle exposition élevée métaux lourds cancérogènes. Proposition loi examined jeudi interdit cadmium engrais réduit risques sanitaires population.",
+      "link": "https://www.lemonde.fr/sante/article/2026/02/12/cadmium-plomb-aluminium-les-francais-exposes-a-des-niveaux-preoccupants-via-l-alimentation-alertent-les-autorites-de-sante_6666416_1651302.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Présente étude totale 700 échantillons cadmium plomb aluminium préoccupants via nourriture",
+          "link": "https://www.lemonde.fr/sante/article/2026/02/12/cadmium-plomb-aluminium-les-francais-exposes-a-des-niveaux-preoccupants-via-l-alimentation-alertent-les-autorites-de-sante_6666416_1651302.html"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Détaille proposition loi interdire cadmium engrais examinée jeudi député écologiste",
+          "link": "https://www.liberation.fr/societe/sante/il-est-urgent-dagir-des-maintenant-une-proposition-de-loi-pour-interdire-le-cadmium-et-reduire-durablement-le-risque-sanitaire-20260212_SR4O3CXRWNHRZMEUFMCMMCU4EE/"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Bureaux vote ouvrent législatives Bangladesh test démocratie post Sheikh Hasina",
+      "source": "France 24",
+      "summary": "Législatives Bangladesh jeudi tournent page règne Sheikh Hasina parti déclaré hors-la-loi. Favoris BNP Jamaat-e-Islami scrutin historique détermine stabilité politique pays 170 millions habitants.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260212-legislatives-au-bangladesh-un-test-pour-la-d%C3%A9mocratie",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Comité Nobel condamne arrestation lauréate 2023 Narges Mohammadi Iran",
+      "source": "RTBF",
+      "summary": "Comité Nobel exprime horreur arrestation 12 décembre Mashhad militante droits humains Narges Mohammadi 53 ans. Figure opposition régime iranien cas illustre répression dissidents impacte droits femmes.",
+      "link": "https://www.rtbf.be/article/iran-le-comite-nobel-profondement-horrifie-par-l-arrestation-de-la-laureate-2023-narges-mohammadi-11677973",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Cour d'appel fixe 7 juillet verdict procès Marine Le Pen assistants parlementaires",
+      "source": "RFI",
+      "summary": "Procès appel assistants parlementaires FN conclu cour délibère cinq mois fixe sentence 7 juillet. Décision conditionne avenir présidentiel Marine Le Pen avocats demandent relaxe.",
+      "link": "https://www.rfi.fr/fr/france/20260212-francerine",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Fusillade collège-lycée Canada fait neuf morts 27 blessés suspecte femme transgenre",
+      "source": "20 Minutes",
+      "summary": "Fusillade mardi collège-lycée Canada tue neuf personnes blesse 27 enquête identifie suspecte femme transgenre. Canada en deuil autorités poursuivent investigations causes motivations.",
+      "link": "https://www.20minutes.fr/monde/canada/4201031-20260211-canada-bilan-enquete-sait-attaque-fait-dix-morts-27-blesses?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Bilan actualisé neuf morts 27 blessés au lieu dix morts suspecte identifiée femme transgenre enquête avance",
+      "sources": [
+        "20 Minutes"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump insiste Benjamin Netanyahu poursuivre discussions Iran besoins sécuritaires",
+      "source": "RTBF",
+      "summary": "Rencontre Maison-Blanche Trump insiste Netanyahu poursuivre discussions Iran tandis Netanyahu plaide besoins sécuritaires Israël. Échange révèle divergences alliés Moyen-Orient influence politique régionale.",
+      "link": "https://www.rtbf.be/article/a-la-maison-blanche-trump-a-insiste-aupres-de-netanyahu-sur-la-poursuite-des-discussions-avec-l-iran-11677993",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Détails discussions révélés Trump pousse négociations Netanyahu ligne dure sécurité",
+      "sources": [
+        "RTBF"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 215,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "environment": 2,
+      "politics": 5,
+      "science": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 3,
+      "africa": 1,
+      "americas": 3,
+      "asia-pacific": 1,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

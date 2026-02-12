@@ -1,0 +1,172 @@
+{
+  "date": "2026-02-12",
+  "summary": "La Russia ha tentato di bloccare completamente WhatsApp per spingere 100 milioni di utenti verso un'app statale. WhatsApp ha denunciato il tentativo come sforzo per forzare la migrazione verso un servizio controllato dal governo. Mosca ha risposto che Meta deve rispettare le leggi locali. Questo fa seguito a restrizioni precedenti su piattaforme digitali in Russia.\n\nZelensky ha confermato la disponibilità a negoziati sul Donbass il 17 febbraio a Washington, ma ha smentito elezioni a maggio senza cessate il fuoco. Kiev specifica che l'incontro non coinvolge ancora Mosca e dipende da conferme russe. Separatamente, la Camera USA ha approvato con 219 voti contro 211 una risoluzione contro i dazi di Trump sul Canada, bocciando l'uso di emergenza nazionale per tariffe su beni canadesi. Il provvedimento passa al Senato con probabilità di approvazione.\n\nIn Italia, il Consiglio dei ministri ha approvato il disegno di legge sui migranti per attuare il Patto UE, fa seguito alla presentazione di ieri con blocco navale. Germania, Italia e Belgio spingono al vertice UE informale di oggi su freno alla burocrazia e riforme Ets-Cbam per ridurre costi energetici industriali, discutendo autonomia da politiche USA di Trump; Francia e Germania divergono su debito comune. Antagonisti hanno colpito la rete ferroviaria con sabotaggi aumentati del 450% nel 2025, quattro casi da Roma a Milano sotto indagine antiterrorismo; linea Lecco-Tirano verso Milano-Cortina 2026 in esame. Caritas riporta aumento del 154% di disturbi depressivi tra poveri nell'ultimo decennio, con 80% casi legati a povertà materiale, relazionale e sociale; disuguaglianze territoriali limitano accesso a servizi per definanziamento. Francia ha chiesto dimissioni di Francesca Albanese da relatrice ONU per critiche a Israele vicine a Hamas; Lega difende, Unione ebraiche italiane denuncia rischi.",
+  "headlines": [
+    {
+      "title": "Russia tenta blocco totale WhatsApp per spingere 100 milioni utenti verso app statale",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News"
+      ],
+      "summary": "WhatsApp denuncia tentativo russo di bloccare l'app per forzare migrazione verso servizio controllato dallo Stato, con impatto su 100 milioni utenti. Mosca replica che Meta deve rispettare leggi locali. L'episodio solleva preoccupazioni su censura e privacy in Russia.",
+      "link": "https://www.agi.it/estero/news/2026-02-12/blocco-whatsapp-russia-telegram-35565676/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "WhatsApp annuncia tentativo russo di blocco totale per spingere verso app statale",
+          "link": "https://www.agi.it/estero/news/2026-02-12/blocco-whatsapp-russia-telegram-35565676/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "WhatsApp denuncia sforzo russo per bloccare app e obbligare migrazione verso concorrente statale",
+          "link": "https://www.rainews.it/articoli/2026/02/la-russia-sta-cercando-di-bloccare-whatsapp-la-denuncia-di-meta-2fef81c4-00e9-46a0-86e0-56de1a4c6163.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Governo Meloni presenta agenda per vertice UE su energia auto e semplificazioni",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "Rai News",
+        "la Repubblica"
+      ],
+      "summary": "Italia Germania e Belgio spingono freno anti-burocrazia e riforme Ets Cbam per tagliare costi energetici industria. Vertice informale oggi discute autonomia da USA Trump e competitività. Francia e Germania divergono su debito comune.",
+      "link": "https://www.ilsole24ore.com/art/energia-auto-semplificazioni-l-agenda-meloni-il-vertice-europeo-AITP3ONB",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Non paper Italia Germania Belgio propone freno emergenza anti burocrazia e riforme Ets Cbam",
+          "link": "https://www.ilsole24ore.com/art/energia-auto-semplificazioni-l-agenda-meloni-il-vertice-europeo-AITP3ONB"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Leader UE riuniti discutono autonomia strategica da USA Trump e competitività",
+          "link": "https://www.rainews.it/maratona/2026/02/ue-oggi-il-vertice-informale-leuropa-vuole-emanciparsi-dagli-stati-uniti-di-trump-cc1eb10a-1a39-410b-88c5-2ea6a7b95ac2.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Alleanza Italia Germania spaventa altre capitali con spinta a ridare poteri nazionali",
+          "link": "https://www.repubblica.it/esteri/2026/02/12/news/alleanza_italia_germania_meloni_merz_europa-425152650/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Camera USA approva con 219 voti contro 211 risoluzione contro dazi Trump su Canada",
+      "source": "AGI",
+      "summary": "Deputati USA bocciano con 219-211 emergenza nazionale usata da Trump per imporre tariffe punitive su beni canadesi. Provvedimento passa al Senato con buone probabilità approvazione. Segnale di opposizione interna a politiche protezioniste.",
+      "link": "https://www.agi.it/estero/news/2026-02-12/usa-camera-approva-stop-a-dazi-su-canada-35564632/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky dà sì a negoziati su Donbass il 17 febbraio ma smentisce elezioni maggio",
+      "source": "la Repubblica",
+      "summary": "Kiev conferma possibile incontro Washington 17 febbraio su Donbass non ancora da Mosca. Nessuna elezione senza cessate il fuoco. L'apertura mira a sbloccare diplomazia ma dipende da conferme russe.",
+      "link": "https://www.repubblica.it/esteri/2026/02/12/news/donbass_zelensky_negoziati_usa_elezioni_ucraina-425152694/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Antagonisti colpiscono rete ferroviaria italiana con sabotaggi aumentati 450% nel 2025",
+      "source": "Il Sole 24 Ore",
+      "summary": "Quattro casi recenti da Roma a Milano tra anomalie e manomissioni indagati da antiterrorismo. Linea Lecco-Tirano verso Milano-Cortina 2026 sotto esame. Aumenti esplosivi preoccupano sicurezza trasporti.",
+      "link": "https://www.ilsole24ore.com/art/antagonisti-mappa-sabotaggi-rete-ferroviaria-casi-roma-milano-AI54bINB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Caritas segnala aumento 154% disturbi depressivi tra poveri nell'ultimo decennio",
+      "source": "AGI",
+      "summary": "Disturbi mentali colpiscono 80% casi intrecciati a povertà materiale relazionale sociale. Disuguaglianze territoriali aggravano accesso servizi per definanziamento presidi. Rapporto promuove interventi urgenti.",
+      "link": "https://www.agi.it/estero/news/2026-02-12/caritas-salute-mentale-poverta-35559079/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Parigi chiede dimissioni Francesca Albanese per parole oltraggiose su Israele",
+      "source": "ANSA",
+      "summary": "Francia sollecita Onu a rimuovere relatrice Albanese criticata per vicinanza Hamas. Lega presenta risoluzione Italia Avs la difende. Unione ebraiche italiane denuncia pericolo posizioni.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/11/parigi-chiede-le-dimissioni-di-francesca-albanese-parole-oltraggiose-su-israele_35bd1b7c-48ce-4fd3-91b0-674f7462b4f8.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Consiglio ministri approva disegno legge migranti per attuare Patto UE",
+      "source": "TGCOM24",
+      "link": "https://www.tgcom24.mediaset.it/politica/ddl-migranti-via-libera-dal-consiglio-dei-ministri_108909027-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Consiglio dei ministri dà via libera al disegno di legge sull'immigrazione presentato ieri con blocco navale.",
+      "sources": [
+        "TGCOM24"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 259,
+    "articlesAfterDedup": 259,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 5,
+      "conflict": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 7,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

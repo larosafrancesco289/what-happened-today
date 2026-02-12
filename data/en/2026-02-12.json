@@ -1,0 +1,219 @@
+{
+  "date": "2026-02-12",
+  "summary": "Human Rights Activists News Agency updated the death toll from Iran's crackdown on nationwide protests last month to at least 7,002. Protesters and civilians across the country were affected. Additional people are reported missing. This figure comes amid U.S. nuclear talks with Iran.\n\nIn eastern Congo, Rwanda-backed rebels entered Goma, a safe-haven city, with gunfire and shelling after overrunning Congolese troops. Over one million people are displaced inside the city. Separately in Sudan, Rapid Support Forces carried out a drone strike on a vehicle of fleeing families near Er Rahad in North Kordofan, killing 24 displaced people including 8 children. In Gaza, Israeli forces allowed displaced Palestinians to cross a bisecting military zone into northern Gaza on foot. Hundreds of thousands returned home after a hostage deal breakthrough.\n\nRussia evacuated a village near Volgograd after missile debris from a repelled attack sparked a fire at a military facility. Local residents were displaced. Thousands of sanctioned foreign cars reached Russia through sales in China, despite bans by automakers. South Korean intelligence reported North Korean leader Kim Jong-un positioning his daughter Kim Ju-ae for a policy role. The Trump administration released Epstein documents revealing global connections, prompting resignations and investigations beyond U.S. borders. In Madagascar, Cyclone Gezani killed 31 people in Toamasina port city, uprooting trees, downing power poles, and damaging 90% of roofs; thousands of residents face inaccessible roads while recovery efforts begin. SpaceX launched the Crew-10 mission from Kennedy Space Center to the ISS for crew rotation and to retrieve astronauts Wilmore and Williams, who have been stranded for 9 months; docking is scheduled for Saturday.",
+  "headlines": [
+    {
+      "title": "Activists report 7,002 deaths in Iran's crackdown on nationwide protests",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "The Hindu"
+      ],
+      "summary": "Human Rights Activists News Agency updates death toll to at least 7,002 from Iran's crackdown on last month's protests, with more feared missing. Protesters and civilians nationwide affected. Toll highlights regime brutality amid U.S. nuclear talks; international scrutiny intensifies. (32 words)",
+      "link": "https://apnews.com/article/iran-protests-crackdown-52aae887976ec1bbb0f77c42abd600b8",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Detailed latest HRANA figures and context of protest crackdown",
+          "link": "https://apnews.com/article/iran-protests-crackdown-52aae887976ec1bbb0f77c42abd600b8"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Connected rising death toll to Iran's U.S. nuclear negotiations",
+          "link": "https://www.thehindu.com/news/international/deaths-in-irans-crackdown-on-protests-reach-at-least-7000-activists-say/article70622448.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Cyclone Gezani kills 31 people in Madagascar's Toamasina port city",
+      "source": "BBC World",
+      "summary": "Cyclone Gezani tears through Toamasina port, killing 31, uprooting trees, downing power poles and ripping 90% of roofs. Thousands of residents face inaccessible roads and destruction. Recovery efforts start; underscores Madagascar's vulnerability to intensifying cyclones. (32 words)",
+      "link": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Epstein file disclosures trigger resignations and investigations worldwide",
+      "source": "New York Times World",
+      "summary": "Trump administration releases Epstein documents revealing global connections, prompting resignations and legal probes beyond U.S. borders. Officials and figures internationally implicated. Developments fuel accountability demands; affects diplomatic and legal landscapes globally. (30 words)",
+      "link": "https://www.nytimes.com/2026/02/11/world/europe/epstein-files-global-chaos-resignations.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. warns Peru risks losing sovereignty to China over mega port ruling",
+      "source": "NPR News",
+      "summary": "Trump administration cautions Peru after court limits regulator oversight of Chinese-built Chancay port. Peruvian sovereignty and trade at stake. U.S. pushes for review; escalates tensions in U.S.-China influence battle in Latin America. (29 words)",
+      "link": "https://www.npr.org/2026/02/12/g-s1-109738/u-s-says-peru-could-lose-sovereignty-to-china",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "IRS shares thousands of taxpayer records with DHS in data breach",
+      "source": "Associated Press",
+      "summary": "IRS erroneously sends taxpayer data of thousands to DHS under immigrant deportation agreement. U.S. taxpayers' privacy violated. Court filing exposes flaws; lawsuits likely, erodes trust in federal data handling. (27 words)",
+      "link": "https://apnews.com/article/treasury-dhs-irs-taxpayer-data-e5d4ff426610fa6dc0ff20c567da2357",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia evacuates Volgograd village after missile debris hits military site",
+      "source": "France 24",
+      "summary": "Russia repels missile attack but debris sparks fire at Volgograd military facility, prompting village evacuation. Local residents displaced amid Ukraine war escalation. Negotiations continue; raises sabotage fears in ongoing conflict. (28 words)",
+      "link": "https://www.france24.com/en/europe/20260212-live-russia-evacuates-village-in-volgograd-after-military-facility-hit-by-debris",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Kim Jong-un positions daughter Kim Ju-ae for North Korea policy role",
+      "source": "South China Morning Post",
+      "summary": "South Korean intelligence reports Kim Jong-un grooms daughter as successor with policy input. North Korean leadership transition signals. Agency monitors party meeting; impacts regional stability and succession dynamics. (27 words)",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3343278/kim-jong-uns-daughter-shaping-north-korean-policy-succession-signals-deepen?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Thousands of sanctioned foreign cars reach Russia via Chinese sales",
+      "source": "Japan Times",
+      "summary": "Automakers confirm thousands of their cars sold to Russia through China despite sanctions bans. Russian buyers evade restrictions. Companies protest unauthorized trade; weakens enforcement of Western sanctions regime. (26 words)",
+      "link": "https://www.japantimes.co.jp/business/2026/02/12/economy/foreign-cars-russia-china-sanctions/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "RSF drone strike kills 24 displaced people including 8 children in Sudan",
+      "source": "The Guardian",
+      "summary": "Rapid Support Forces drone hits vehicle of fleeing families near Er Rahad, killing 24 with 8 children. Displaced civilians in North Kordofan affected. Doctors track war atrocities; prolongs humanitarian crisis. (28 words)",
+      "link": "https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "NASA SpaceX Crew-10 launches to retrieve stranded ISS astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries Crew-10 from Kennedy Space Center to ISS for routine rotation and return of 9-month stuck astronauts Wilmore and Williams. Four crew members dock Saturday. Ensures continuous station operations. (30 words)",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Goma safe-haven city with gunfire and shelling",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "summary": "Rebels overrun Congolese troops entering Goma aid hub amid reports of gunfire. Over one million displaced inside city. U.N. aids refugees; threatens regional stability in eastern Congo. (26 words)",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels push into city center with shelling; one million now sheltering inside Goma aid hub",
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel allows Palestinians to cross Gaza military zone into north",
+      "source": "Wall Street Journal World",
+      "summary": "Displaced Gazans stream on foot across bisecting military zone to northern Gaza after hostage deal breakthrough. Hundreds of thousands return home. Eases humanitarian strains; tied to ceasefire progress. (27 words)",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Military permits crossing of zone post-hostage release agreement enabling returns",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 473,
+    "articlesAfterDedup": 472,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 1,
+      "politics": 5,
+      "economy": 1,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "africa": 2,
+      "global": 3,
+      "americas": 2,
+      "asia-pacific": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6,
+      "developing": 2
+    }
+  }
+}

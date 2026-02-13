@@ -1,0 +1,28 @@
+{
+  "date": "2026-02-13",
+  "summary": "",
+  "headlines": [],
+  "unavailable": true,
+  "unavailableReason": "Summary generation failed: Failed to generate summary for fr: Summary generation returned empty result. Raw response: {\"summary\": \"L'Agence de protection de l'environnement américaine a abrogé jeudi une réglementation fédérale imposant des normes d'émissions de gaz à effet de serre pour les véhicules thermiques et les centrales électriques. Donald Trump nie les risques du changement climatique. Cette décision affai",
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 215,
+    "articlesAfterDedup": 215,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "environment": 3,
+      "science": 1,
+      "politics": 2,
+      "conflict": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "global": 1,
+      "middle-east": 1,
+      "africa": 2,
+      "europe": 4
+    }
+  }
+}

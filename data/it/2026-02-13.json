@@ -1,0 +1,167 @@
+{
+  "date": "2026-02-13",
+  "summary": "Il presidente USA Donald Trump ha ordinato lo spostamento della portaerei Gerald Ford verso il Medio Oriente per contrastare l'Iran. La Gerald Ford, la nave da guerra americana più grande, è partita dal Mar dei Caraibi e si unirà alla Abraham Lincoln e a tre cacciatorpediniere. L'ordine alza la tensione con Teheran. Gli analisti prevedono che la mossa possa prevenire un'escalation, influenzando gli equilibri energetici globali e la sicurezza di Israele.\n\nSeparatamente, Trump ha revocato la dichiarazione di emergenza climatica emessa da Obama nel 2009, che definiva il clima una minaccia pubblica, ed eliminato norme su emissioni di auto e camion. La decisione segna un'inversione nelle politiche ambientali USA. Organizzazioni scientifiche hanno protestato contro la mossa, che impatta regolamentazioni globali e la transizione energetica. In Africa, il capo di stato maggiore del Niger ha invitato la popolazione a prepararsi a una guerra contro la Francia. Amadou Ibro, membro della giunta militare nigerina, accusa Parigi di destabilizzazione e di sponsorizzare jihadisti dopo un attacco all'aeroporto di Niamey. La tensione nel Sahel minaccia la sicurezza regionale e le missioni francesi.\n\nLa Russia ha colpito infrastrutture energetiche a Odessa con raid aerei, interrompendo forniture di elettricità, riscaldamento e acqua. Quattro feriti, tra cui un uomo in gravi condizioni. Questo fa seguito ai negoziati proposti da Zelensky sul Donbass il 17 febbraio. La Camera argentina ha approvato una legge che abbassa l'imputabilità penale dei minori a 14 anni, ora al Senato per voto definitivo, in risposta all'aumento della criminalità giovanile. In Bangladesh, il partito nazionalista BNP ha rivendicato la vittoria alle elezioni parlamentari, con congratulazioni da USA e India; gli islamisti denunciano manipolazioni. Kathy Ruemmler, ex consigliera di Obama e avvocata da Goldman Sachs, si è dimessa per email che definivano Jeffrey Epstein 'fratello maggiore' minimizzandone i crimini. In Italia, la Camera ha introdotto sanzioni per i deputati che cambiano gruppo: metà dei contributi va al gruppo originario, per stabilizzare le maggioranze parlamentari.",
+  "headlines": [
+    {
+      "title": "Capo Stato maggiore Niger invita popolazione prepararsi guerra contro Francia",
+      "source": "AGI",
+      "summary": "Amadou Ibro, membro giunta militare nigerina, accusa Francia di destabilizzazione e sponsorizza jihadisti. Invita cittadini a prepararsi a conflitto dopo attacco aeroporto Niamey. Tensione sale in Sahel, minaccia sicurezza regionale e missioni francesi.",
+      "link": "https://www.agi.it/estero/news/2026-02-13/niger-francia-guerra-35580643/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump ordina spostamento portaerei Gerald Ford verso Medio Oriente contro Iran",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Gerald Ford, nave Usa più grande, parte da Mar Caraibi unendosi ad Abraham Lincoln e tre cacciatorpediniere. Ordine Trump alza tensione con Teheran. Potrebbe prevenire escalation, interessa equilibri energia globale e sicurezza Israele.",
+      "link": "https://www.repubblica.it/esteri/2026/02/13/news/portaerei_ford_usa_iran_medio_oriente_trump-425155464/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive ordine Trump per spostare Gerald Ford da Caraibi con task force già presente",
+          "link": "https://www.repubblica.it/esteri/2026/02/13/news/portaerei_ford_usa_iran_medio_oriente_trump-425155464/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Sottolinea dimensioni Gerald Ford come nave Usa più grande e tensione crescente Iran",
+          "link": "https://www.tgcom24.mediaset.it/mondo/trump-invia-una-seconda-portaerei-in-medio-oriente_108962614-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump revoca dichiarazione Obama su emergenza climatica e norme anti-inquinamento",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Revocata dichiarazione 2009 Obama che definiva clima minaccia pubblica, eliminate regole su emissioni auto e camion. Mossa segna inversione politica ambientale Usa. Scientifica protesta, impatta regolamentazioni globali e transizione energetica.",
+      "link": "https://www.agi.it/estero/news/2026-02-13/trump-cancella-piano-obama-inquinamento-35582732/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Dettaglia revoca dichiarazione Obama e eliminazione norme inquinamento auto camion",
+          "link": "https://www.agi.it/estero/news/2026-02-13/trump-cancella-piano-obama-inquinamento-35582732/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Evidenzia firma Trump su azzeramento norme emissioni gas serra e rivolta scienziati",
+          "link": "https://www.repubblica.it/esteri/2026/02/13/news/trump_cancella_piano_obama_inquinamento_clima-425155416/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia colpisce infrastrutture energetiche Odessa causando quattro feriti",
+      "source": "TGCOM24",
+      "summary": "Raid aerei russi interrompe forniture elettricità, riscaldamento e acqua a Odessa. Un uomo in gravi condizioni tra quattro feriti. Colpisce civili in guerra protratta, peggiora crisi umanitaria inverno ucraino.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-1450-giorno-di-guerra_108962561-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Camera Argentina approva legge che abbassa imputabilità penale minori a 14 anni",
+      "source": "TGCOM24",
+      "summary": "Testo passa Camera e va a Senato per ok definitivo. Introduce regime minorile più severo. Risponde a aumento criminalità giovanile, influenzerà sistema giudiziario sudamericano.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/argentina-ok-della-camera-alla-legge-che-abbassa-a-14-anni-l-imputabilita-penale_108962558-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Partito nazionalista BNP rivendica vittoria elezioni parlamentari Bangladesh",
+      "source": "Rai News",
+      "summary": "BNP proclama trionfo, congratulazioni da Usa e India. Islamisti denunciano manipolazioni risultati. Definisce nuovo governo, impatta stabilità Asia meridionale post-crisi.",
+      "link": "https://www.rainews.it/articoli/2026/02/bangladesh-il-partito-nazionalista-bnp-rivendica-la-vittoria-alle-parlamentari-5dcc691b-5071-4cfe-b6ad-cc703cd218cb.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Avvocata Kathy Ruemmler si dimette da Goldman Sachs per mail su Epstein",
+      "source": "la Repubblica",
+      "summary": "Ex consigliera Casa Bianca Obama, Ruemmler definiva Epstein 'fratello maggiore' minimizzando crimini. Scandalo travolge ruolo dirigenziale banca. Rafforza indagini su rete pedofilo.",
+      "link": "https://www.repubblica.it/esteri/2026/02/13/news/kathy_ruemmler_epstein_dimissioni_goldman_sachs-425155466/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Camera introduce sanzioni deputati per cambi gruppo con quota solo al 50%",
+      "source": "Il Sole 24 Ore",
+      "summary": "Deputato trasferisce metà contributi gruppo originario al nuovo. Ogni gruppo riceve fondi per iscritti. Riduce instabilità politica italiana, stabilizza maggioranze parlamentari.",
+      "link": "https://www.ilsole24ore.com/art/alla-camera-arrivano-sanzioni-chi-fa-cambi-casacca-AIgMZGOB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 260,
+    "articlesAfterDedup": 259,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 11,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 4,
+      "society": 1
+    },
+    "regionCounts": {
+      "africa": 1,
+      "middle-east": 1,
+      "americas": 3,
+      "europe": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    }
+  }
+}

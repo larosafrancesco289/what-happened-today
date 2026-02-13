@@ -1,0 +1,204 @@
+{
+  "date": "2026-02-13",
+  "summary": "President Trump revoked the 2009 finding that greenhouse gases endanger public health. This removes the central scientific basis for US greenhouse gas regulations. The White House described it as the largest deregulation. Environmentalists state it will impose health and economic costs on Americans. The action reverses 15 years of climate policy and affects US contributions to global emissions efforts.\n\nNATO launched its first coordinated response after a deep-sea cable severed in the Baltic Sea, part of a suspected sabotage campaign. Critical infrastructure operators across alliance members report impacts. Enhanced maritime patrols and investigations are now active. Separately, satellite images show Iran fortifying an underground complex near a nuclear program site amid US talks. US negotiators and global watchdogs continue monitoring.\n\nIndia approved a 3.6 trillion rupee (US$40 billion) purchase of 114 French Rafale fighter jets. The deal increases squadrons from 29 toward 42 needed, with local production boosted amid tensions with Pakistan and China. Kathy Ruemmler resigned as Goldman Sachs top lawyer after emails showed ties to Jeffrey Epstein, following yesterday's file disclosures that prompted resignations and probes. DHS faces shutdown after White House-Democrat funding talks collapsed, affecting millions in border and security operations. A migrant boat capsized north of Zuwara, Libya, leaving 53 dead or missing and two survivors. China banned carmakers from selling vehicles below production cost. Storm Marta killed two in Spain and Portugal after prior storms killed five. Rwanda-backed rebels overran Congolese troops in Goma. Israel allowed Palestinians to return to northern Gaza. South Korea declared Kim Jong Un's daughter his heir.",
+  "headlines": [
+    {
+      "title": "Trump revokes 2009 finding that greenhouse gases endanger public health",
+      "source": "BBC World",
+      "summary": "President Trump revokes the central scientific basis for US greenhouse gas regulations, called largest deregulation by White House. Environmentalists warn of health and economic costs for Americans. This reverses 15 years of climate policy, impacting global emissions efforts.",
+      "link": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO mounts first coordinated response to suspected sabotage of Baltic Sea cable",
+      "source": "Wall Street Journal World",
+      "summary": "NATO activates coordinated response after another deep-sea cable severs in Baltic Sea amid suspected sabotage campaign. Critical infrastructure operators affected across alliance members. Escalates hybrid threat concerns, prompting enhanced maritime patrols and investigations.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "India approves US$40 billion purchase of 114 French Rafale fighter jets",
+      "source": "South China Morning Post",
+      "summary": "India greenlights 3.6 trillion rupee deal for Rafale jets to bolster air force amid Pakistan and China tensions. Local makers gain production boost; squadrons rise from 29 toward 42 needed. Strengthens regional defense posture significantly.",
+      "link": "https://www.scmp.com/week-asia/economics/article/3343434/how-indias-us40-billion-order-french-rafales-will-help-local-fighter-jet-makers?utm_source=rss_feed",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Migrant boat capsizes off Libya leaving 53 dead or missing",
+      "source": "The Guardian",
+      "summary": "UN agency reports boat overturns north of Zuwara carrying migrants to Europe; only two survivors rescued. Displaced Africans and Middle Easterners primarily affected in latest crossing disaster. Highlights ongoing perils, urging safer migration pathways.",
+      "link": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Goldman Sachs top lawyer Kathy Ruemmler resigns over Epstein emails",
+      "source": "Associated Press",
+      "summary": "Kathy Ruemmler quits after emails reveal close ties to Jeffrey Epstein, whom she called 'older brother.' Bank clients and regulators scrutinize amid scandal. Fuels probes into elite networks post-Epstein disclosures.",
+      "link": "https://apnews.com/article/kathy-ruemmler-resigns-goldman-sachs-epstein-3ba7b9e87cc8e38f563f91917630e484",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Homeland Security faces shutdown as White House-Democrat funding talks stall",
+      "source": "Associated Press",
+      "summary": "DHS funding negotiations collapse before congressional break, ensuring shutdown. Millions in border and security operations affected. Disrupts immigration enforcement and disaster response amid partisan divide.",
+      "link": "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran fortifies underground complex near nuclear site amid US talks",
+      "source": "BBC World",
+      "summary": "Satellite images show Iran strengthening facility near nuclear program site during heightened tensions. US negotiators and global watchdogs monitor closely. Raises proliferation fears, complicating diplomacy.",
+      "link": "https://www.bbc.com/news/articles/cwygxz81330o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "China bans carmakers from selling new vehicles below production cost",
+      "source": "South China Morning Post",
+      "summary": "Regulators prohibit discounts and subsidies causing price war losses for producers. EV and auto firms nationwide face penalties. Aims to restore profitability, stabilizing industry amid overcapacity.",
+      "link": "https://www.scmp.com/business/china-evs/article/3343429/beijing-warns-carmakers-stop-killing-your-profitability-hopes-selling-below-cost?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Storm Marta kills two in Spain and Portugal after prior deadly storms",
+      "source": "The Guardian",
+      "summary": "Third storm in two weeks brings torrential rain, killing two on Iberian peninsula following five from prior events. Residents face renewed flooding risks. Signals intensifying weather patterns affecting millions.",
+      "link": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun Congolese troops in Goma",
+      "source": "Wall Street Journal World",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels overrun troops entering safe-haven city; UN estimates over 1 million displaced now inside Goma",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israel allows Palestinians to stream back into northern Gaza",
+      "source": "Wall Street Journal World",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Hostage release deadlock broken; displaced Gazans cross military zone on foot",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "South Korea declares Kim Jong Un's daughter as heir",
+      "source": "BBC World",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Seoul spy agency confirms teen Kim Ju Ae's public role indicates succession choice",
+      "link": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 461,
+    "articlesAfterDedup": 459,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "environment": 2,
+      "conflict": 2,
+      "economy": 2,
+      "society": 2,
+      "politics": 4
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 2,
+      "asia-pacific": 3,
+      "africa": 2,
+      "global": 1,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

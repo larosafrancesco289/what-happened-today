@@ -1,0 +1,28 @@
+{
+  "date": "2026-02-14",
+  "summary": "",
+  "headlines": [],
+  "unavailable": true,
+  "unavailableReason": "Summary generation failed: Failed to generate summary for en: Summary generation returned empty result. Raw response: {\"summary:\")\n\"Tarique Rahman of the Bangladesh Nationalist Party won a landslide victory in Bangladesh's post-uprising election. Interim leader Muhammad Yunus conceded the results. Rahman is positioned to become the next prime minister. The election affects 170 million citizens after months of turmo",
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 460,
+    "articlesAfterDedup": 460,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 4,
+      "economy": 2,
+      "science": 1,
+      "conflict": 4
+    },
+    "regionCounts": {
+      "asia-pacific": 3,
+      "global": 1,
+      "americas": 2,
+      "africa": 2,
+      "europe": 1,
+      "middle-east": 2
+    }
+  }
+}

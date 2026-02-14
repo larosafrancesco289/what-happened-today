@@ -1,0 +1,154 @@
+{
+  "date": "2026-02-14",
+  "summary": "Funzionari statunitensi hanno annunciato preparativi per operazioni prolungate contro l'Iran. Due funzionari USA hanno dichiarato a Reuters che gli Stati Uniti stanno preparando azioni militari estese, con colloqui programmati martedì a Ginevra tra rappresentanti USA e iraniani. Questo fa seguito all'ordine del presidente Trump di spostare la portaerei Gerald Ford verso il Medio Oriente. Si prevede monitoraggio di eventuali escalation nel Golfo Persico.\n\nUn dirigente dell'intelligence USA ha accusato la deputata Tulsi Gabbard di aver nascosto un'intercettazione in cui leader stranieri citano Jared Kushner in una telefonata su affari iraniani. L'accusa coinvolge il genero di Trump e potrebbe portare a un'indagine interna. A Monaco, il presidente francese Emmanuel Macron ha dichiarato che l'Europa definirò autonomamente i parametri di sicurezza, inclusa la deterrenza nucleare comune con colloqui tra alleati. Questo rafforza discussioni sull'autonomia strategica UE.\n\nL'amministrazione Trump ha concesso licenze a Eni e quattro compagnie europee per estrarre gas e petrolio nella Fascia dell'Orinoco in Venezuela, riprendendo attività bloccate da sanzioni. Il dottor Michael Baden, presente all'autopsia del 2019, ha chiesto una nuova indagine sulla morte di Jeffrey Epstein sospettando strangolamento invece di suicidio. La Camera italiana ha approvato 8,769 miliardi di euro per la prima fase del super caccia, con costi totali a 16,6 miliardi. Il Ministero della Salute ha posizionato un bimbo di Napoli primo nella lista nazionale ed europea per trapianto di cuore, con ricerca organi in Italia ed estero. Uno studio della Columbia University su 22.380 decessi dal 2005 al 2023 lega restrizioni statali sull'aborto a un aumento di morti materne tra 15-54 anni.",
+  "headlines": [
+    {
+      "title": "Medico Baden chiede nuova indagine su morte Epstein per strangolamento",
+      "source": "AGI",
+      "summary": "Il dottor Michael Baden, presente all'autopsia del 2019, dubita del suicidio di Jeffrey Epstein in carcere e sospetta strangolamento. Chiede riapertura indagini all'ufficio legale di New York. Interesse per chiarire rete di traffico sessuale minorile e collaborazioni dichiarate.",
+      "link": "https://www.agi.it/estero/news/2026-02-14/morte-jeffrey-epstein-indagine-35607549/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Camera approva 8,7 miliardi di euro per prima fase super caccia",
+      "source": "Il Sole 24 Ore",
+      "summary": "La Camera dei deputati stanzia 8,769 miliardi sul bilancio Difesa per completare prima fase e iniziare seconda del super caccia, con costi totali a 16,6 miliardi triplicati. Finanziato con risorse vigenti. Rafforza capacità aeronautica italiana.",
+      "link": "https://www.ilsole24ore.com/art/si-camera-87-miliardi-il-super-caccia-costi-triplicati-ecco-risorse-al-momento-piatto-AIK7gLPB",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Funzionari Usa annunciano preparativi per operazioni prolungate contro Iran",
+      "source": "TGCOM24",
+      "summary": "Due funzionari Usa dichiarano a Reuters preparativi per operazioni prolungate contro Iran, con colloqui martedì a Ginevra. Potrebbe aggravare tensioni bilaterali. Monitoraggio per escalation militare nel Medio Oriente.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/usa-possibili-operazioni-prolungate-contro-iran_108996653-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Macron dichiara Europa indipendente per sicurezza inclusa deterrenza nucleare",
+      "source": "Euronews Italiano",
+      "summary": "Alla Conferenza di Monaco, il presidente francese Emmanuel Macron afferma che Europa definirà autonomamente parametri sicurezza, con colloqui su deterrenza nucleare comune. Coinvolge alleati. Rafforza autonomia strategica Ue.",
+      "link": "http://it.euronews.com/my-europe/2026/02/13/conferenza-monaco-macron-leuropa-deve-essere-indipendente-per-la-propria-sicurezza-inclusa",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Stati Uniti autorizzano Eni e quattro società a estrarre gas in Venezuela",
+      "source": "Euronews Italiano",
+      "summary": "Amministrazione Trump concede licenza a Eni e altre quattro compagnie europee per sfruttare gas e petrolio nella Fascia dell'Orinoco in Venezuela. Quattro su cinque europee. Riprende attività energetiche bloccate da sanzioni.",
+      "link": "http://it.euronews.com/2026/02/13/gli-stati-uniti-autorizzano-eni-e-altre-4-societa-a-sfruttare-gas-e-petrolio-in-venezuela",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Dirigente intelligence Usa accusa Gabbard di nascondere nastro su Kushner",
+      "source": "la Repubblica",
+      "summary": "Dirigente intelligence Usa denuncia Tulsi Gabbard per insabbiamento intercettazione in cui leader stranieri citano Jared Kushner in telefonata su Iran. Coinvolge genero Trump. Indagine interna possibile.",
+      "link": "https://www.repubblica.it/esteri/2026/02/14/news/tulsi_gabbard_intercettazione_jared_kushner_intelligence-425158038/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Ministero Salute posiziona bimbo Napoli primo lista trapianto cuore",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "ANSA"
+      ],
+      "summary": "Bimbo di Napoli primo in lista nazionale ed europea per trapianto cuore, con ricerca organi in Italia e estero comunicata alla madre. Schillaci e Fico inviano ispettori, sequestrato box conservazione. Urgenza salva vita infantile.",
+      "link": "https://www.rainews.it/video/2026/02/il-bimbo-di-napoli-primo-in-lista-si-cerca-un-cuore-in-italia-e-allestero-d619a170-55bb-456d-aeab-5745d02241b8.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Descrive posizione bimbo primo in lista trapianti e ricerca cuore in Italia estero",
+          "link": "https://www.rainews.it/video/2026/02/il-bimbo-di-napoli-primo-in-lista-si-cerca-un-cuore-in-italia-e-allestero-d619a170-55bb-456d-aeab-5745d02241b8.html"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta invio ispettori da Schillaci Fico e sequestro box conservazione organo",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/13/il-bimbo-di-napoli-primo-in-lista-si-cerca-un-cuore-in-italia-e-allestero_b27be4ee-567b-4ccd-b2a5-bf45ae196da8.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Studio rileva aumento mortalità materna per restrizioni aborto negli Usa",
+      "source": "AGI",
+      "summary": "Ricerca Columbia University su 22.380 decessi 2005-2023 lega restrizioni statali aborto a più morti madri tra 15-54 anni. Presentata al 2026 Pregnancy Meeting. Influenza politiche sanitarie post-Roe v Wade.",
+      "link": "https://www.agi.it/estero/news/2026-02-14/aborto-restrizioni-usa-morti-mamme-35589658/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 253,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 14,
+    "categoryCounts": {
+      "society": 1,
+      "politics": 3,
+      "conflict": 1,
+      "economy": 1,
+      "science": 2
+    },
+    "regionCounts": {
+      "europe": 4,
+      "middle-east": 1,
+      "americas": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    }
+  }
+}

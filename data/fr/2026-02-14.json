@@ -1,0 +1,195 @@
+{
+  "date": "2026-02-14",
+  "summary": "Donald Trump a annoncé l'envoi d'un deuxième porte-avions dans le golfe Persique et a déclaré qu'un changement de régime en Iran serait idéal. Cela intervient alors que les négociations nucléaires entre les États-Unis et l'Iran stagnent depuis 2023. Téhéran rejette les propositions américaines sur l'enrichissement d'uranium. Une pression militaire accrue est attendue dans la région, avec des discussions sur un possible accord nucléaire limitées à court terme.\n\nÀ la conférence de Munich sur la sécurité, Emmanuel Macron a appelé l'Europe à devenir une puissance géopolitique autonome, en réponse aux critiques de Donald Trump sur l'Otan. Friedrich Merz, leader de l'opposition allemande, a réaffirmé l'attachement à la relation transatlantique et à l'Otan. Berlin et Paris discutent de la dissuasion nucléaire française. Cela prolonge le débat sur l'autonomie stratégique européenne initié par le retrait américain partiel d'Afghanistan en 2021. Séparément, aux États-Unis, le département de la Sécurité intérieure subit une paralysie budgétaire partielle, la troisième depuis le début du mandat de Trump. Cela perturbe les opérations de sécurité intérieure. L'agence ICE prévoit d'investir 40 milliards de dollars pour convertir 20 bâtiments en centres de rétention de migrants d'ici novembre 2026.\n\nL'Inde a approuvé l'achat de 114 avions Rafale à la France, après 62 unités déjà acquises en 2016. Dassault Aviation et Safran prévoient une usine locale pour les moteurs. En France, Météo France a placé la Gironde et le Lot-et-Garonne en vigilance rouge pour crues, avec 13 départements en orange après la tempête Nils ; de nouvelles pluies sont prévues sur sols saturés. Au Niger, le général Abdourahamane Tiani a accusé la France d'avoir déstabilisé le pays lors d'une attaque sur l'aéroport de Niamey le 29 janvier. La Cour suprême canadienne a annulé l'élection fédérale de Terrebonne remportée d'une voix par la libérale Tatiana Auguste ; une nouvelle élection est probable. En Cisjordanie, des colons israéliens et membres du gouvernement limitent l'accès à l'eau des Palestiniens.",
+  "headlines": [
+    {
+      "title": "Emmanuel Macron et Friedrich Merz exposent visions divergentes de l'Europe à Munich",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "Lors de la Conférence de Munich sur la sécurité, Emmanuel Macron appelle l'Europe à devenir une puissance géopolitique face aux critiques de Trump, tandis que Friedrich Merz réaffirme l'attachement à la relation transatlantique et à l'Otan. Berlin et Paris discutent dissuasion nucléaire. Cela renforce le débat sur l'autonomie européenne.",
+      "link": "https://www.lemonde.fr/international/article/2026/02/14/a-munich-la-france-et-l-allemagne-exposent-deux-visions-de-l-europe-dans-un-ordre-mondial-bouleverse_6666718_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Met en avant discours de Macron sur fierté européenne et géopolitique face à Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/02/14/a-munich-la-france-et-l-allemagne-exposent-deux-visions-de-l-europe-dans-un-ordre-mondial-bouleverse_6666718_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Souligner discours européens communs pour raviver confiance avec Washington",
+          "link": "https://www.france24.com/fr/europe/20260213-conf%C3%A9rence-munich-s%C3%A9curit%C3%A9-europe-veut-montrer-exemple-etats-unis-trump-macron-merz-allemagne-otan"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Focalise sur discussion Macron-Merz relançant débat dissuasion nucléaire européenne",
+          "link": "https://www.20minutes.fr/monde/4201447-20260214-securite-europe-macron-chancelier-allemand-discute-dissuasion-nucleaire?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump déploie second porte-avions près de l'Iran et évoque changement de régime",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "France 24",
+        "Le Figaro"
+      ],
+      "summary": "Donald Trump annonce envoi d'un deuxième porte-avions dans le Golfe persique et juge qu'un renversement du pouvoir iranien serait idéal, alors que négociations nucléaires stagnent. Cela accentue la pression militaire sur Téhéran avant un possible accord.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4201459-20260214-iran-changement-regime-grosse-pression-militaire-trump-menace-teheran?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Mentionne changement de régime et envoi porte-avions avec négociations nucléaires incertaines",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4201459-20260214-iran-changement-regime-grosse-pression-militaire-trump-menace-teheran?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "angle": "Rapporte déploiement porte-avions et menaces répétées pour négocier nucléaire iranien",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260213-donald-trump-annonce-d%C3%A9ploiement-second-porte-avions-proximit%C3%A9-iran-%C3%A9tats-unis-manifestations-repression-militaire-menace"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Cite déclaration Trump sur renversement pouvoir comme meilleure option pour Iran",
+          "link": "https://www.lefigaro.fr/international/iran-donald-trump-estime-qu-un-renversement-du-pouvoir-serait-la-meilleure-chose-qui-puisse-arriver-20260213"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Météo France place Gironde et Lot-et-Garonne en vigilance rouge pour crues",
+      "source": "Le Monde",
+      "summary": "Après tempête Nils, la France subit crue généralisée avec 2 départements en rouge et 13 en orange, surtout à l'ouest. Nouvelles pluies sur sols saturés provoquent débordements. Cela affecte sécurité populations et infrastructures.",
+      "link": "https://www.lemonde.fr/climat/article/2026/02/14/apres-la-tempete-nils-la-france-en-situation-de-crue-generalisee-la-gironde-et-le-lot-et-garonne-en-vigilance-rouge_6666736_1652612.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Inde approuve achat de 114 avions Rafale à la France",
+      "source": "RFI",
+      "summary": "Ministère indien de la Défense valide commande de 114 Rafale supplémentaires, après 62 déjà acquis, pour Dassault. Safran prévoit usine locale pour moteurs. Cela booste exportations françaises avant visite Macron.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260214-l-inde-commande-114-rafale-fran%C3%A7ais-le-motoriste-safran-se-dit-pr%C3%AAt-%C3%A0-ouvrir-une-usine-sur-placenb",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Département Sécurité intérieure américain entre en paralysie budgétaire",
+      "source": "Radio-Canada",
+      "summary": "Troisième paralysie partielle fédérale depuis début mandat Trump touche DHS. Cela perturbe opérations sécurité intérieure aux États-Unis, impactant services publics et employés fédéraux.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2229000/paralysie-congres-dhs-budget",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "ICE investit 40 milliards de dollars dans centres rétention migrants",
+      "source": "20 Minutes",
+      "summary": "Agence ICE prévoit dépenser 40 milliards pour convertir 20 bâtiments en centres de rétention d'ici novembre 2026. Cela renforce capacité hébergement migrants illégaux aux États-Unis.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4201472-20260214-etats-unis-ice-va-investir-40-milliards-dollars-agrandir-centres-retention-migrants?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Général Tiani accuse France de déstabilisation au Niger à la télévision",
+      "source": "20 Minutes",
+      "summary": "Chef junte militaire nigérienne lie Paris à attaque aéroport Niamey du 29 janvier. Crise diplomatique s'aggrave entre Niger et France, affectant relations bilatérales en Afrique de l'Ouest.",
+      "link": "https://www.20minutes.fr/monde/niger/4201471-20260214-niger-destabilisation-maladive-chef-junte-militaire-prend-nouveau-france-television?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Cour suprême canadienne annule élection fédérale Terrebonne remportée d'une voix",
+      "source": "Radio-Canada",
+      "summary": "Libérale Tatiana Auguste perd siège face à bloquiste après annulation par Cour suprême. Nouvelle élection probable, impactant équilibre parlementaire au Québec et au Canada.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2228645/terrebonne-cour-supreme-bloc-quebecois-vote-sinclair-desgagne",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Colons israéliens réduisent accès à l'eau des Palestiniens en Cisjordanie",
+      "source": "RFI",
+      "summary": "Colons et membres gouvernement israélien confisquent ou limitent eau palestinienne pour chasser populations. Cela exacerbe tensions territoriales et humanitaires en Cisjordanie occupée.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260214-cisjordanie-occup%C3%A9e-l-acc%C3%A8s-%C3%A0-l-eau-des-palestiniens-de-plus-en-plus-cibl%C3%A9-par-des-colons-isra%C3%A9liens",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 235,
+    "articlesAfterDedup": 235,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 2,
+      "environment": 1,
+      "economy": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "americas": 3,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    }
+  }
+}

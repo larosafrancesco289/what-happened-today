@@ -1,0 +1,201 @@
+{
+  "date": "2026-02-15",
+  "summary": "Regno Unito, Francia, Germania, Svezia e Paesi Bassi hanno accusato la Russia di aver ucciso Alexei Navalny con una tossina di rana freccia. Le accuse si basano su analisi di laboratorio condotte su campioni dal corpo di Navalny, morto il 16 febbraio 2024 in una colonia penale artica. Le conclusioni, presentate alla Conferenza di Monaco sulla Sicurezza, attribuiscono la responsabilità allo Stato russo e confermano precedenti sospetti di avvelenamento politico. Si attendono risposte ufficiali da Mosca.\n\nRaid israeliani hanno causato la morte di otto palestinesi vicino alla linea gialla a Gaza. Fonti mediche palestinesi riportano quattro vittime a Khan Younis e quattro ad al-Faluja. L'esercito israeliano accusa gli uomini armati di aver violato la tregua avvicinandosi alle truppe. Alla Conferenza di Monaco, il segretario di Stato Usa Marco Rubio ha ribadito i legami transatlantici con l'Europa ma ha chiesto correzioni per errori degli alleati Ue. Kallas e von der Leyen hanno accolto il messaggio positivamente, mentre Germania e Danimarca hanno espresso riserve. In contemporanea, 200-250 mila persone hanno manifestato a Monaco per Reza Pahlavi, chiedendo sanzioni e un cambio di regime in Iran.\n\nVolodymyr Zelensky ha contattato gli inviati di Trump per un trilaterale a Ginevra sull'Ucraina, con l'obiettivo di progressi nei negoziati di pace. Eni ha annunciato la scoperta di 500 milioni di barili di petrolio in un pozzo esplorativo offshore angolano, con stime preliminari che aprono prospettive di produzione futura. In Italia, il ciclone Oriana ha provocato lo stato di emergenza in Calabria per esondazioni del Crati che hanno allagato la Piana di Sibari; 50 persone sono state evacuate a Fiumicino per il Tevere, con allerta gialla su 11 regioni. Procura accusa il governatore Toti di aver manipolato dati sui contagi Covid in Liguria, basandosi su intercettazioni con il capo gabinetto Cozzani; indagini proseguono. Sabotaggi hanno causato ritardi fino a 140 minuti sulla linea Alta Velocità Napoli-Roma; linee riattivate dopo verifiche, con indagini in corso.",
+  "headlines": [
+    {
+      "title": "Regno Unito e alleati accusano Russia di uccidere Navalny con tossina rana freccia",
+      "source": "AGI",
+      "summary": "Regno Unito, Francia, Germania, Svezia e Paesi Bassi presentano analisi di laboratorio su campioni dal corpo di Navalny, morto il 16 febbraio 2024 in colonia penale artica. Indicando Stato russo responsabile, le conclusioni emergono alla Conferenza di Monaco e rafforzano accuse su avvelenamento politico.",
+      "link": "https://www.agi.it/estero/news/2026-02-14/navalny-veleno-rana-freccia-35618085/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Raid israeliani uccidono otto palestinesi vicino linea gialla a Gaza",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Fonti mediche palestinesi riportano otto morti, quattro a Khan Younis e quattro ad al-Faluja, in raid israeliani. Israele accusa uomini armati di avvicinarsi alle truppe violando tregua. Tensioni rischiano di compromettere cessate il fuoco fragile nella striscia.",
+      "link": "https://www.repubblica.it/esteri/2026/02/15/news/gaza_palestinesi_uccisi_linea_gialla-425159974/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Enfatizza tensione alla linea gialla e accuse reciproche di violazione tregua",
+          "link": "https://www.repubblica.it/esteri/2026/02/15/news/gaza_palestinesi_uccisi_linea_gialla-425159974/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta fonti mediche su otto palestinesi uccisi nella notte con luoghi specifici",
+          "link": "https://www.tgcom24.mediaset.it/mondo/gaza-otto-palestinesi-uccisi_109040163-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Ciclone Oriana provoca stato emergenza Calabria e evacuazioni Fiumicino",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "Maltempo sferza Italia con allerta gialla su 11 regioni; esondazione Crati allaga Piana di Sibari e Laghi di Sibari a Cosenza, 50 evacuati ieri a Fiumicino per Tevere. Governo dichiara emergenza Calabria, monitoraggi proseguono per danni infrastrutturali.",
+      "link": "https://www.rainews.it/articoli/2026/02/ciclone-oriana-italia-sferzata-dal-maltempo-stato-demergenza-in-calabria-evacuazioni-vicino-roma-lallerta-meteo-allerta-gialla-42268c5d-94a8-486a-826d-5a5de2cb2ac1.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Descrive stato emergenza Calabria e 50 evacuati Fiumicino con allerta su 11 regioni",
+          "link": "https://www.rainews.it/articoli/2026/02/ciclone-oriana-italia-sferzata-dal-maltempo-stato-demergenza-in-calabria-evacuazioni-vicino-roma-lallerta-meteo-allerta-gialla-42268c5d-94a8-486a-826d-5a5de2cb2ac1.html"
+        }
+      ],
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Marco Rubio tende mano Europa ma impone correzioni errori alleati",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Segretario di Stato Usa Rubio sottolinea legami transatlantici alla Conferenza Monaco, ma chiede a Ue di correggere errori. Kallas e von der Leyen accolgono positivamente, Germania e Danimarca frenano su lezioni americane. Dialogo riprende con cautela.",
+      "link": "https://www.agi.it/estero/news/2026-02-15/monaco-ue-cauta-su-rubio-35620236/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Riporta sospiro sollievo Ue iniziale ma freni da Berlino e Copenaghen su Rubio",
+          "link": "https://www.agi.it/estero/news/2026-02-15/monaco-ue-cauta-su-rubio-35620236/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea Rubio riapre all'Europa ma detta condizioni correggete errori",
+          "link": "https://www.repubblica.it/esteri/2026/02/15/news/rubio__europa_condizioni_correggete_errori-425159797/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Oltre 200 mila manifestano Monaco per Reza Pahlavi e cambio regime Iran",
+      "source": "Euronews Italiano",
+      "summary": "Reza Pahlavi interviene alla Conferenza Monaco mentre 200-250 mila in piazza chiedono sanzioni e interventi contro regime iraniano. Dimostrazione amplifica pressioni internazionali per transizione politica in Iran.",
+      "link": "http://it.euronews.com/video/2026/02/14/monaco-oltre-200-mila-in-piazza-per-reza-pahlavi-e-il-cambio-di-regime-in-iran",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Eni scopre 500 milioni barili petrolio in pozzo offshore Angola",
+      "source": "Il Sole 24 Ore",
+      "summary": "Eni conferma scoperta in pozzo esplorativo angolano con stime preliminari 500 milioni barili. Annuncio rafforza posizione energetica company in Africa, potenziali future produzioni.",
+      "link": "https://www.ilsole24ore.com/art/eni-conferma-scoperta-olio-un-pozzo-offshore-angola-stima-e-500-milioni-barili-AIJIidQB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky contatta inviati Trump per trilaterale Ginevra su Ucraina",
+      "source": "TGCOM24",
+      "summary": "Zelensky annuncia su X contatto con inviati Trump in vista trilaterale Ginevra. Incontri mirano a progressi negoziati pace, contano su produttività discussioni.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-zelensky-ho-sentito-gli-inviati-di-trump-in-vista-del-trilaterale-a-ginevra-_109037690-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano Toti di manipolare dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Intercettazioni pm rivelano governatore Toti ammettere a capo gabinetto Cozzani di aver aumentato dati contagi. Indagine su alterazioni numeri pandemia, procedono accertamenti giudiziari.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Sabotaggi provocano ritardi oltre 120 minuti su Alta Velocità Napoli-Roma",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "TGCOM24"
+      ],
+      "summary": "Nuovi atti dolosi rallentano treni AV con ritardi fino 140 minuti; autorità giudiziarie accertano, Salvini definisce criminali. Linee riattivate dopo verifiche, indagini identificano responsabili.",
+      "link": "https://www.ilsole24ore.com/art/ancora-atti-dolosi-linee-av-rallentata-circolazione-treni-salvini-atti-criminali-AINWYXQB",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Segnala ritardi oltre 120 minuti e Salvini definisce atti criminali",
+          "link": "https://www.ilsole24ore.com/art/ancora-atti-dolosi-linee-av-rallentata-circolazione-treni-salvini-atti-criminali-AINWYXQB"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta sabotaggi Roma con ritardi 140 minuti e riattivazione linee",
+          "link": "https://www.tgcom24.mediaset.it/cronaca/roma-nuovi-sabotaggi-sull-alta-velocita-disagi-per-migliaia-di-viaggiatori_109008521-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 248,
+    "articlesAfterDedup": 247,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 1,
+      "environment": 1,
+      "society": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 6,
+      "middle-east": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    }
+  }
+}

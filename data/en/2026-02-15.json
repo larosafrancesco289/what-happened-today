@@ -1,0 +1,27 @@
+{
+  "date": "2026-02-15",
+  "summary": "",
+  "headlines": [],
+  "unavailable": true,
+  "unavailableReason": "Summary generation failed: Failed to generate summary for en: Summary generation returned empty result. Raw response: {\"summary:\"}\nUS and Iran schedule indirect nuclear talks in Geneva next week, announced by the Swiss government. The second round follows the first in Oman on February 6, with Oman hosting again. Talks address Tehran's nuclear program amid US warnings from President Trump. Global security and oil ma",
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 456,
+    "articlesAfterDedup": 454,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 3,
+      "science": 1,
+      "conflict": 4,
+      "environment": 2
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "europe": 2,
+      "global": 1,
+      "africa": 2,
+      "asia-pacific": 1
+    }
+  }
+}

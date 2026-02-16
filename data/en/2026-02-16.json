@@ -1,0 +1,28 @@
+{
+  "date": "2026-02-16",
+  "summary": "",
+  "headlines": [],
+  "unavailable": true,
+  "unavailableReason": "Summary generation failed: Failed to generate summary for en: Summary generation returned empty result. Raw response: {\"summary:\"}\n<premise>\nSudanese paramilitary Rapid Support Forces killed more than 6,000 people in a three-day assault on el-Fasher in the Darfur region during late October. The UN report states tens of thousands of civilians were affected by the intense violence. This occurred amid Sudan's civil wa",
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 458,
+    "articlesAfterDedup": 457,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 2,
+      "society": 2,
+      "economy": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "africa": 4,
+      "middle-east": 1,
+      "americas": 2,
+      "europe": 2,
+      "global": 1
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2026-02-16",
+  "summary": "Donald Trump a présenté un plan pour mettre fin à la guerre à Gaza, exigeant la démilitarisation complète et immédiate du Hamas, un retrait progressif des forces israéliennes et le déploiement d'une force internationale. Ce plan vise à résoudre le conflit israélo-palestinien en cours depuis octobre 2023. Trump, candidat à la présidentielle américaine, a détaillé ces mesures lors d'une intervention publique. Les réactions des parties impliquées sont attendues dans les prochains jours.\n\nL'Inde a accueilli à New Delhi un sommet mondial sur l'intelligence artificielle réunissant vingt chefs d'État et dirigeants de sociétés technologiques. Narendra Modi a dirigé les discussions pour élaborer une feuille de route de gouvernance mondiale de l'IA, couvrant son impact économique et sociétal. Séparément, le gouvernement israélien de Benjamin Netanyahu a approuvé un plan d'enregistrement foncier officiel en Cisjordanie occupée, première mesure de ce type depuis 1967. Cela fait suite à des validations récentes de sites et consolide la présence israélienne dans la zone, où vivent 3 millions de Palestiniens et 500 000 colons. Les Palestiniens et la communauté internationale ont exprimé des oppositions. En lien avec le conflit régional, la Chine a annoncé une nouvelle aide humanitaire à l'Ukraine au milieu de discussions internationales sur la guerre russo-ukrainienne.\n\nAu Burkina Faso, une série d'attaques djihadistes a tué au moins dix personnes, la junte au pouvoir depuis 2022 faisant face à une instabilité sécuritaire persistante. Les États-Unis ont intercepté le pétrolier Veronica III dans l'océan Indien près des Caraïbes, renforçant les sanctions contre les contournements d'embargo pétrolier. Le Canada a annoncé une stratégie pour éliminer sa dépendance aux acquisitions de défense américaines d'ici dix ans, visant une réduction de 75 %. En France, le ministre de l'Intérieur Laurent Nuñez a entamé une visite de deux jours en Algérie pour rencontrer son homologue Saïd Sayoud. À Lyon, de nouveaux heurts ont opposé militants ultragauche et nationalistes après la mort de Quentin D., avec une interpellation ; Emmanuel Macron a condamné les violences. En Gironde et Lot-et-Garonne, la vigilance rouge pour crues de la Garonne est prolongée jusqu'à mardi par Météo-France.",
+  "headlines": [
+    {
+      "title": "Donald Trump exige démilitarisation complète et immédiate du Hamas à Gaza",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Donald Trump présente un plan pour fin de guerre à Gaza incluant retrait progressif israélien, désarmement Hamas et force internationale. Cela vise à résoudre conflit israélo-palestinien prolongé, intéressant par position influente de Trump.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4201599-20260216-conflit-israelo-palestinien-trump-exige-demilitarisation-complete-immediate-hamas?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Inde accueille sommet mondial intelligence artificielle avec vingt chefs d'État",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "New Delhi réunit vingt chefs d'État et patrons tech pour élaborer feuille de route gouvernance IA mondiale. Narendra Modi dirige discussions sur collaboration, crucial pour réguler technologies émergentes impactant économie et société.",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260216-inde-accueille-sommet-mondial-intelligence-artificielle-but-elaborer-feuille-route-commune-narendra-modi",
+      "tier": "top",
+      "singleSource": true,
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Gouvernement Netanyahu approuve plan enregistrement foncier Cisjordanie occupée",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Israël valide cadastre officiel en Cisjordanie, première depuis 1967, après mesures récentes. Cela consolide présence israélienne en zone occupée, alimentant tensions avec Palestiniens et communauté internationale.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260216-isra%C3%ABl-le-gouvernement-de-netanyahu-approuve-un-plan-d-enregistrement-foncier-en-cisjordanie",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Série attaques djihadistes tue au moins dix personnes au Burkina Faso",
+      "source": "RTBF",
+      "sources": [
+        "RTBF"
+      ],
+      "summary": "Junte militaire au pouvoir depuis 2022 fait face à attaques djihadistes causant dix morts. Instabilité sécuritaire persiste dans pays sahélien, menaçant population et régionale stabilité ouest-africaine.",
+      "link": "https://www.rtbf.be/article/burkina-faso-une-serie-d-attaques-djihadistes-provoque-au-moins-une-dizaine-de-morts-11680333",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "États-Unis interceptent pétrolier Veronica III dans océan Indien près Caraïbes",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "US saisissent navire fuyant blocus présidentiel dans océan Indien. Cela renforce sanctions contre entités contournant embargo, impactant commerce pétrolier et relations géopolitiques régionales.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4201577-20260215-etats-unis-intercepte-ocean-indien-petrolier-fuyant-blocus-caraibes?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Chine promet nouvelle aide humanitaire à l'Ukraine en pleine agitation diplomatique",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Pékin annonce aide humanitaire supplémentaire à Kiev au moment de discussions internationales sur guerre. Geste stratégique souligne position chinoise équilibrée dans conflit russo-ukrainien.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260216-la-chine-promet-une-nouvelle-aide-humanitaire-%C3%A0-l-ukraine-un-geste-strat%C3%A9gique",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Canada annonce stratégie éliminer dépendance défense États-Unis en dix ans",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "summary": "Ottawa cible réduction 75% acquisitions défense actuelles des USA d'ici dix ans. Cela renforce autonomie stratégique canadienne face à voisin dominant.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2229313/ottawa-defense-strategie-industrielle",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Ministre français Intérieur Laurent Nunez entame visite officielle deux jours Algérie",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Laurent Nunez rencontre homologue algérien Saïd Sayoud à Alger après période tensions. Visite marque possible dégel relations franco-algériennes bilatérales importantes.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260215-laurent-nunez-en-alg%C3%A9rie-on-voit-bien-que-la-relation-n-est-pas-sacrifiable",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Nouveaux heurts militants ultragauche nationalistes Lyon après mort Quentin D.",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Le Monde",
+        "RFI",
+        "France 24",
+        "Libération"
+      ],
+      "summary": "Affrontements samedi impliquent proches Quentin et journaliste agressés mortiers artifice, une interpellation. Macron condamne violence, droite cible La France insoumise. Polémique politique s'intensifie sur violences idéologiques.",
+      "link": "https://www.lefigaro.fr/actualite-france/la-mort-de-quentin-jeune-etudiant-nationaliste-embrase-la-classe-politique-entre-condamnations-et-appels-au-calme-20260215",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Nouveaux heurts signalés samedi avec interpellation, réactions politiques incluant condamnation Macron et accusations contre La France insoumise",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Met en avant embrasement classe politique avec condamnations et appels calme",
+          "link": "https://www.lefigaro.fr/actualite-france/la-mort-de-quentin-jeune-etudiant-nationaliste-embrase-la-classe-politique-entre-condamnations-et-appels-au-calme-20260215"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Cible mise en cause France insoumise par droite extrême droite proximité Jeune Garde",
+          "link": "https://www.lemonde.fr/politique/article/2026/02/16/mort-de-quentin-d-a-lyon-la-france-insoumise-mise-en-cause-par-la-droite-et-l-extreme-droite_6666914_823448.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Signale interpellation après heurts impliquant mortiers artifice contre proches Quentin",
+          "link": "https://www.lefigaro.fr/faits-divers/lyon-une-interpellation-apres-de-nouveaux-heurts-samedi-entre-militants-d-ultragauche-et-de-la-mouvance-nationaliste-20260215"
+        },
+        {
+          "source": "France 24",
+          "angle": "Traite affaire comme violence politique aboutissant meurtre en marge conférence",
+          "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260216-meurtre-de-quentin-%C3%A0-lyon-la-violence-politique-jusqu-au-meurtre"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Gironde et Lot-et-Garonne restent vigilance rouge crues jusqu'à mardi",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Libération"
+      ],
+      "summary": "Météo-France prolonge vigilance rouge Garonne jusqu'à mardi, 14 départements orange, nouvelles pluies Pyrénées attendues. Inondations persistent sud-ouest, impactant vies et infrastructures locales.",
+      "link": "https://www.lemonde.fr/planete/live/2026/02/16/en-direct-tempete-nils-la-gironde-et-le-lot-et-garonne-restent-en-vigilance-rouge-jusqu-a-mardi-de-nouvelles-fortes-pluies-attendues-dans-le-sud-ouest_6666430_3244.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Vigilance rouge prolongée jusqu'à mardi au lieu lundi, 21 départements orange avec pluies abondantes prévues",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Suit en direct prolongation vigilance rouge et pluies attendues sud-ouest",
+          "link": "https://www.lemonde.fr/planete/live/2026/02/16/en-direct-tempete-nils-la-gironde-et-le-lot-et-garonne-restent-en-vigilance-rouge-jusqu-a-mardi-de-nouvelles-fortes-pluies-attendues-dans-le-sud-ouest_6666430_3244.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Rappelle alerte rouge Gironde Lot-et-Garonne et 21 départements orange pluies",
+          "link": "https://www.liberation.fr/societe/inondations-la-gironde-et-du-lot-et-garonne-encore-en-alerte-rouge-21-departements-en-vigilance-orange-20260216_WEI4Z7MAYNEQJPBCEPAGLVZZG4/"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 212,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "science": 1,
+      "politics": 4,
+      "economy": 1,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "africa": 2,
+      "global": 2,
+      "americas": 1,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

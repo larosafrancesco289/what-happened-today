@@ -1,0 +1,147 @@
+{
+  "date": "2026-02-17",
+  "summary": "Steve Witkoff e Jared Kushner, inviati legati a Donald Trump, partecipano oggi a Ginevra a colloqui distinti sul programma nucleare iraniano e sulla guerra in Ucraina. L'Iran ha accettato ispezioni ai siti nucleari ma esclude i missili balistici dai negoziati. La Russia ha rafforzato la sua delegazione per discutere i territori occupati. Questi incontri rappresentano un passo iniziale nella diplomazia statunitense post-elezione Trump, con esiti attesi nei prossimi giorni.\n\nLe Nazioni Unite hanno condannato l'obbligo di registrazione delle proprietà in Cisgiordania imposto da Israele, interrotto dal 1967 e ripreso ieri, definendolo illegale sui terreni occupati. Il governo palestinese ha chiesto un intervento degli Stati Uniti. Israele ha imposto un ultimatum a Hamas per il disarmo, in vista di un consiglio sulla pace a Gaza; questo fa seguito all'offerta della Casa Bianca di 5 miliardi di dollari per la ricostruzione se Hamas disarma. Separatamente, deputati statunitensi bipartisan hanno proposto un emendamento costituzionale per limitare i poteri di grazia presidenziali di Trump, in reazione alle grazie concesse a donatori, trafficanti di droga e partecipanti agli eventi del 6 gennaio 2021.\n\nIl governo italiano sta studiando una road map al 2027 che include un board per Gaza, illustrato da Antonio Tajani in Aula, insieme a riforme sulla legge elettorale, referendum sulle carriere dei giudici e decreti sull'energia. In Corea del Nord, Kim Jong-un ha inaugurato il quartiere Hwaseong a Pyongyang per le famiglie di soldati morti in Ucraina, fornendo case ai familiari. Le intelligence europee hanno rilevato il coinvolgimento del gruppo Wagner in sabotaggi contro l'Unione Europea dopo la morte di Evghenij Prigozhin, con operazioni come manovalanza del Cremlino; l'Ue ha rafforzato la vigilanza. A Genova, i pm hanno pubblicato intercettazioni in cui il governatore Giovanni Toti ammette con il capo gabinetto di aver manipolato i dati sui contagi Covid in Liguria; l'indagine prosegue con nuove prove.",
+  "headlines": [
+    {
+      "title": "Inviati Trump Witkoff e Kushner avviano negoziati su Iran nucleare e Ucraina a Ginevra",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Steve Witkoff e Jared Kushner partecipano oggi a Ginevra a colloqui distinti sul programma nucleare iraniano e la guerra in Ucraina. Iran accetta ispezioni siti nucleari ma esclude missili dai negoziati; Russia rafforza delegazione su territori. Evento chiave per diplomazia USA post-Trump.",
+      "link": "https://www.agi.it/estero/news/2026-02-16/iran-ucraina-ginevra-colloqui-trump-nucleare-35633344/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Enfatizza ruolo Ginevra come capitale diplomazia e presenza inviati Trump su due crisi",
+          "link": "https://www.agi.it/estero/news/2026-02-16/iran-ucraina-ginevra-colloqui-trump-nucleare-35633344/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive colloqui trilaterali USA-Russia-Ucraina su territori con delegazione Cremlino rafforzata",
+          "link": "https://www.repubblica.it/esteri/2026/02/17/news/ucraina_trilaterale_colloqui_usa_russia_ginevra-425163598/?rss"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta ok Iran a ispezioni nucleari e pene morte per 14 manifestanti con esercitazioni Pasdaran",
+          "link": "https://www.repubblica.it/estero/2026/02/17/news/iran_ispezioni_siti_nucleari_pena_morte_manifestanti-425163537/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nazioni Unite condannano obbligo registrazione proprietà in Cisgiordania imposto da Israele",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Onu definisce illegale la misura israeliana su terreni occupati dal 1967; governo palestinese chiede intervento Usa. Israele impone ultimatum Hamas per disarmo in vista consiglio Pace su Gaza. Decisione complica negoziati pace regionale.",
+      "link": "http://it.euronews.com/2026/02/17/onu-condanna-la-registrazione-delle-proprieta-in-cisgiordania-ultimatum-di-israele-su-disa",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Governo italiano studia road map al 2027 su board Gaza e legge elettorale",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Tajani illustra in Aula board per Gaza; centrodestra accelera su referendum carriere giudici e provvedimenti fine legislatura. Priorità includono dl energia e coordinamento partiti. Strategia definisce agenda politica interna.",
+      "link": "https://www.agi.it/politica/news/2026-02-17/centrodestra-dossier-dl-energia-gaza-35647158/",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Deputati USA bipartisan propongono emendamento limita poteri grazia presidenziali di Trump",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Repubblicani e democratici reagiscono a grazia Trump per donatori, trafficanti droga e insurrezionisti 6 gennaio 2021. Emendamento costituzionale ridurrebbe prerogative presidenziali. Dibattito cresce per imbarazzo nel partito.",
+      "link": "https://www.agi.it/estero/news/2026-02-17/trump-grazie-limiti-emendamento-35647825/",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Corea del Nord inaugura quartiere Hwaseong Pyongyang per famiglie  soldati morti in Ucraina",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Kim Jong-un dedica complesso a caduti nordcoreani in Ucraina per incarnare spirito sacrificio. Famiglie ricevono case per vivere orgogliose. Leader prepara Congresso partito in contesto tensioni regionali.",
+      "link": "http://it.euronews.com/2026/02/17/la-corea-del-nord-costruisce-nuovo-quartiere-per-le-famiglie-dei-soldati-morti-in-ucraina",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Intelligence europee rilevano coinvolgimento gruppo Wagner in sabotaggi contro Unione Europea",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Dopo morte Prigozhin, rete Wagner opera come manovalanza Cremlino in guerra ibrida. Allarme su attacchi clandestini post-2023. Ue rafforza vigilanza su minacce interne da Mosca.",
+      "link": "https://www.repubblica.it/esteri/2026/02/17/news/allarme_intelligence_wagner_sabotaggi-425163522/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pm pubblicano intercettazioni Toti ammette manipolazione dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "summary": "Governatore Toti confessa a capo gabinetto Cozzani di aver aumentato numeri contagi. Indagine rivela prassi sistematica su pandemia. Procedimento prosegue con nuove prove giudiziarie.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pm diffondono intercettazioni specifiche in cui Toti ammette aver truccato dati contagi",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 252,
+    "articlesAfterDedup": 252,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 9,
+    "categoryCounts": {
+      "politics": 5,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "global": 1,
+      "middle-east": 1,
+      "europe": 3,
+      "americas": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

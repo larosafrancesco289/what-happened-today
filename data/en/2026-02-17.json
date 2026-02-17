@@ -1,0 +1,194 @@
+{
+  "date": "2026-02-17",
+  "summary": "U.S. and Iran held the second round of nuclear talks in Geneva on Tuesday. The U.S. deployed an aircraft carrier near the region. Iran conducted military drills in the Strait of Hormuz, which handles 20 percent of global seaborne oil trade. The talks address Iran's nuclear program. Progress could reduce tensions; both sides report no agreement yet.\n\nSyrian Army forces advanced into Kurdish-held regions in northern Syria, capturing areas in Hasakah and Deir ez-Zor provinces. The moves affect 3 million Kurds in the northeast and approach full control of Syrian territory by Damascus for the first time since 2011. In central Africa, Rwanda-backed M23 rebels entered Goma in eastern Congo, overrunning government troops amid gunfire and trapping 1 million displaced people in the city. United Nations aid operations face increased strain. Separately in Geneva, Russia and Ukraine held peace talks on territorial issues as President Trump pressed Kyiv to cede land held by Russia since 2014.\n\nIsrael permitted hundreds of thousands of displaced Palestinians to return to northern Gaza after a hostage release agreement ended a prior deadlock. The move follows four hostages freed by Hamas. NATO deployed ships and aircraft for its first coordinated response after another deep-sea cable cut in the Baltic Sea, suspected as sabotage. Investigations target state actors. NASA and SpaceX launched Crew-10 on a Falcon 9 rocket from Florida, carrying U.S. astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the International Space Station. The four will retrieve two stranded crew members and support operations for nine months.",
+  "headlines": [
+    {
+      "title": "U.S. and Iran hold second nuclear talks in Geneva amid naval deployments and drills",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "ABC Australia",
+        "France 24",
+        "The Hindu",
+        "New York Times World",
+        "BBC World"
+      ],
+      "summary": "U.S. and Iran convene second round of nuclear talks in Geneva on Tuesday as U.S. deploys aircraft carrier and Iran conducts Strait of Hormuz drills. Impacts global oil flows through vital strait. Progress averts escalation; stalemate risks military confrontation.",
+      "link": "https://apnews.com/article/iran-us-nuclear-talks-iaea-dbed41b78ce2ddabc8a04349e72abeba",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Details expected second talks Tuesday with U.S. military ramp-up and Iran maritime exercises",
+          "link": "https://apnews.com/article/iran-us-nuclear-talks-iaea-dbed41b78ce2ddabc8a04349e72abeba"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Highlights Iran military drill launch as U.S. deploys carrier eve of Geneva nuclear talks",
+          "link": "https://www.abc.net.au/news/2026-02-17/iran-us-military-drill-trump-geneva-nuclear-talks/106353940"
+        },
+        {
+          "source": "France 24",
+          "angle": "Reports IRGC drills in Hormuz to prepare for potential threats after U.S. naval deployment",
+          "link": "https://www.france24.com/en/iran-s-revolutionary-guards-begin-military-drills-in-strait-of-hormuz"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Notes IRGC war games of unspecified duration target security threats in Hormuz strait",
+          "link": "https://www.thehindu.com/news/international/irans-revolutionary-guards-begin-military-drills-in-strait-of-hormuz/article70640278.ece"
+        },
+        {
+          "source": "New York Times World",
+          "angle": "Covers Iran live drills in Hormuz before talks resume after Trump threatens action",
+          "link": "https://www.nytimes.com/2026/02/16/world/middleeast/iran-strait-hormuz-exercise-talks-geneva-trump.html"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Tracks U.S. warships including USS Abraham Lincoln and jets near Iran pre-talks",
+          "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Syrian Army advances into Kurdish-held regions across northern Syria",
+      "source": "New York Times World",
+      "summary": "Syrian Army pushes into Kurdish areas potentially unifying nearly all Syria under central authority while ending Kurdish autonomy aspirations. Affects millions of Kurds in northeast. Risks renewed fighting or power-sharing deals.",
+      "link": "https://www.nytimes.com/2026/02/16/world/middleeast/syria-army-kurds-war.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Congo safe-haven city of Goma trapping one million displaced",
+      "source": "Wall Street Journal World",
+      "summary": "Rwanda-backed rebels overrun troops entering Goma amid gunfire drawing one million displaced into city. Worsens humanitarian crisis for residents and refugees. U.N. strains aid; rebel control threatens regional stability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israel allows Palestinians to return to northern Gaza after hostage release breakthrough",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits displaced Palestinians to cross military zone back to northern Gaza post-hostage deal deadlock break. Affects hundreds of thousands seeking homes. Eases suffering; signals possible ceasefire phase shift.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX launch Crew-10 with four astronauts to retrieve two stuck ISS crew",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts Anne McClain Nichole Ayers Japan Takuya Onishi Russia Kirill Peskov to ISS for nine-month stuck duo return. Restores station rotations. Ensures continuous science operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "NATO launches first coordinated response to suspected Baltic Sea deep-sea cable sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "NATO deploys initial alliance-wide action after another critical deep-sea cable cut in Baltic Sea sabotage campaign. Safeguards European infrastructure connectivity. Probes intensify; bolsters deterrence against hybrid attacks.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "California braces for winter storm bringing heavy rain snow thunderstorms and high winds",
+      "source": "Associated Press",
+      "summary": "Powerful storm targets California with treacherous thunderstorms high winds and heavy Sierra snow starting Monday. Millions face flooding travel chaos power outages. Urges safety kits; disrupts economy and recreation.",
+      "link": "https://apnews.com/article/california-storm-forecast-snow-wind-rain-3624c992a6fac8d3735b61beffa509e8",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. women's hockey team advances to Olympic gold game after outscoring rivals 31-1",
+      "source": "NPR News",
+      "summary": "U.S. women stay undefeated in six Olympic games outscoring foes 31-1 led by captain Hilary Knight and young stars. Nationwide fans thrilled. Gold medal match elevates team legacy and inspires youth.",
+      "link": "https://www.npr.org/2026/02/16/nx-s1-5715938/team-usa-womens-hockey-gold-medal-match",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump pressures Ukraine for territorial concessions during Russia-Ukraine Geneva peace talks",
+      "source": "Al Jazeera English",
+      "summary": "President Trump ramps pressure on Kyiv to cede land as Russia Ukraine hold talks in Geneva focusing on territories. Shapes war end and borders. Impacts NATO Europe security and refugee flows.",
+      "link": "https://www.aljazeera.com/news/2026/2/17/trump-ups-pressure-on-kyiv-as-russia-ukraine-hold-peace-talks-in-geneva?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 462,
+    "articlesAfterDedup": 458,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 4,
+      "science": 1,
+      "environment": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "global": 3,
+      "middle-east": 2,
+      "africa": 1,
+      "europe": 1,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    }
+  }
+}

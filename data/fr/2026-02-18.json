@@ -1,0 +1,23 @@
+{
+  "date": "2026-02-18",
+  "summary": "",
+  "headlines": [],
+  "unavailable": true,
+  "unavailableReason": "Summary generation failed: Failed to generate summary for fr: Summary generation returned empty result. Raw response: {\"summary\": \"Steve Witkoff, négociateur américain, a déclaré sur X que les pourparlers de mardi à Genève entre délégations ukrainienne et russe, sous médiation américaine, ont marqué un progrès notable. Il attribue ce résultat au président Trump. Ces discussions font suite aux négociations antérieur",
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 217,
+    "articlesAfterDedup": 216,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 6,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 1
+    }
+  }
+}

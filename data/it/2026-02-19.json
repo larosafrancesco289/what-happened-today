@@ -1,0 +1,180 @@
+{
+  "date": "2026-02-19",
+  "summary": "Funzionari militari statunitensi hanno informato il presidente Donald Trump che le forze armate USA sono pronte per un possibile attacco all'Iran a partire da sabato. Trump non ha ancora preso una decisione. I negoziati con Israele rimangono incerti. Questa comunicazione avviene in un contesto di tensioni nel Medio Oriente, con potenziali effetti sull'instabilità energetica globale.\n\nIn Corea del Sud, il tribunale emette oggi la sentenza contro l'ex presidente Yoon per l'imposizione della legge marziale nel dicembre 2024; i pubblici ministeri hanno richiesto la pena di morte. La sicurezza è stata rafforzata a Seul, con sostenitori e oppositori presenti fuori dal tribunale. Mark Zuckerberg ha testimoniato in un processo a Los Angeles contro Meta, accusata da una ventenne di aver creato dipendenza nei social media per profitto; Zuckerberg ha ammesso l'introduzione di maggiori controlli. Separatamente, i colloqui tra delegazioni ucraina e russa a Ginevra si sono conclusi dopo due ore senza intese sui nodi politici; assenti Witkoff e Kushner, è stato raggiunto solo un accordo sul monitoraggio della tregua.\n\nJosé Maria Balcázar, ex giudice e deputato di sinistra, ha giurato come presidente ad interim del Perù, succedendo a José Jerí e superando la favorita Alva. In Italia, il tribunale di Catania ha revocato il fermo di 15 giorni e la multa sulla nave Sea Watch 5 dell'ONG tedesca, che ha annunciato il ritorno nel Mediterraneo per soccorsi. Il Consiglio dei ministri ha fissato le elezioni amministrative per il 24-25 maggio in 626 comuni, inclusi 15 capoluoghi. Il programma di difesa aerea Samp/T è stato aggiornato a un costo di 5,341 miliardi di euro. I pubblici ministeri hanno rivelato intercettazioni in cui il governatore ligure Giovanni Toti ammette di aver aumentato i dati sui contagi COVID con il capo di gabinetto Cozzani, nell'ambito di un'indagine sulla manipolazione dei numeri della pandemia in Liguria.",
+  "headlines": [
+    {
+      "title": "Funzionari USA informano Trump su prontezza forze per attacco all'Iran",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Funzionari militari americani comunicano a Donald Trump che le forze USA sono pronte per un possibile attacco all'Iran da sabato, ma Trump non decide ancora. Negoziati incerti con Israele. Interessa per rischio escalation Medio Oriente e instabilità energetica globale.",
+      "link": "https://www.agi.it/estero/news/2026-02-19/iran-usa-pronti-attacco-trump-35687377/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Riporta comunicazione funzionari esercito a Trump con tempi da sabato ma decisione pendente",
+          "link": "https://www.agi.it/estero/news/2026-02-19/iran-usa-pronti-attacco-trump-35687377/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Enfatizza posizione Pentagono pronto mentre Washington valuta azione con Israele",
+          "link": "https://www.tgcom24.mediaset.it/mondo/iran-usa-attacco-trump_109188072-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tribunale emette sentenza contro ex presidente Yoon per insurrezione Corea del Sud",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "Ex presidente Yoon affronta sentenza oggi per imposizione legge marziale dicembre 2024, pm chiedono pena morte. Sicurezza rafforzata a Seul con sostenitori e oppositori fuori tribunale. Decisione influenza stabilità politica asiatica.",
+      "link": "https://www.rainews.it/articoli/2026/02/corea-del-sud-la-sentenza-per-ex-presidente-yoon-a-processo-per-insurrezione-pena-morte-ergastolo-511f3db3-3018-4fba-a19a-f3614b6141ab.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Descrive richiesta pm pena morte e contesto imposizione legge marziale",
+          "link": "https://www.rainews.it/articoli/2026/02/corea-del-sud-la-sentenza-per-lex-presidente-yoon-rafforzata-la-sicurezza-a-seul-6f89389f-5d0c-44b1-8bc0-a4a0e7c0345c.html"
+        }
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Mark Zuckerberg testimonia in processo contro Meta per dipendenza social giovani",
+      "source": "la Repubblica",
+      "summary": "Mark Zuckerberg difende Meta in aula Los Angeles accusata da 20enne di creare dipendenza social come droga per profitto. Ammette più controlli ora. Causa evidenzia rischi salute mentale adolescenti da piattaforme.",
+      "link": "https://www.repubblica.it/esteri/2026/02/19/news/zuckerberg_processo_social_droga_rovina_giovani-425168223/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Delegazioni Ucraina e Russia falliscono colloqui Ginevra dopo due ore",
+      "source": "la Repubblica",
+      "summary": "Trattative Ginevra tra Ucraina e Russia terminano senza intesa su nodi politici, assenti Witkoff e Kushner, accordo solo su monitoraggio tregua. Colloqui difficili prolungano conflitto europeo.",
+      "link": "https://www.repubblica.it/esteri/2026/02/19/news/ucraina_russia_colloqui_difficili_ginevra_witkoff_kushner-425168304/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "José Maria Balcázar giura come presidente ad interim Perù",
+      "source": "TGCOM24",
+      "summary": "Ex giudice e deputato sinistro José Maria Balcázar succede a José Jerí come presidente interim Perù superando favorita Alva. Svolta politica stabilizza governo andino dopo instabilità.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/peru-jose-maria-balcazar-nuovo-presidente_109188243-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Tribunale Catania revoca fermo 15 giorni e multa su Sea Watch 5",
+      "source": "AGI",
+      "summary": "Tribunale Catania annulla fermo 15 giorni e multa su nave Sea Watch 5 dell'Ong tedesca. Ong annuncia ritorno Mediterraneo per soccorsi. Decisione rafforza attività Ong nel Canale Sicilia.",
+      "link": "https://www.agi.it/cronaca/news/2026-02-19/sea-watch-tribunale-revoca-fermo-35688037/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Consiglio ministri fissa elezioni 24-25 maggio in 626 Comuni italiani",
+      "source": "Il Sole 24 Ore",
+      "summary": "Ministro Piantedosi informa Cdm su elezioni 24-25 maggio per 626 Comuni inclusi 15 capoluoghi. Rinnovo amministrazioni locali influenza governance decentrata Italia.",
+      "link": "https://www.ilsole24ore.com/art/cdm-elezioni-24-e-25-maggio-626-comuni-15-capoluoghi-voto-AIZtwBVB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia aggiorna programma difesa aerea Samp/T a 5,341 miliardi euro",
+      "source": "Il Sole 24 Ore",
+      "summary": "Costo programma Samp/T nuova generazione sale a 5 miliardi 341,87 milioni euro da 2021 per esigenze Difesa. Investimento rafforza capacità antiaeree nazionali.",
+      "link": "https://www.ilsole24ore.com/art/l-italia-punta-difesa-aerea-sale-53-miliardi-conto-la-nuova-generazione-sampt-AIciUdUB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm rivelano intercettazioni Toti ammette aumento dati contagi COVID Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Procuratori diffondono intercettazioni dove governatore Toti dice a capo gabinetto Cozzani di aver aumentato dati contagi COVID. Indagine manipolazione numeri pandemia Liguria.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pm pubblicano intercettazioni dettagliate con Toti che ammette aver truccato i numeri sui contagi",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "science": 1,
+      "society": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "asia-pacific": 1,
+      "global": 1,
+      "europe": 5,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "date": "2026-02-19",
+  "summary": "U.S.-backed Kurdish forces withdrew oversight from 24 detention sites in Syria holding thousands of ISIS members and families. The move has created chaos in the prison system. Risks of mass escapes affect Middle East security. International monitors are assessing threats and planning containment measures for global counterterrorism.\n\nRussia-Ukraine negotiations, mediated by the U.S. in Geneva, extended to a second day with focus on territorial disputes, a major point of disagreement between the parties. This follows their resumption yesterday. Short sessions indicate limited progress so far. Separately, North Korean leader Kim Jong Un unveiled nuclear-capable rocket launchers as a gift ahead of the Ninth Workers' Party Congress. The display affects neighbors and the U.S. amid Korean Peninsula tensions. Party congress discussions are expected on arsenal expansion.\n\nRwanda-backed rebels entered Goma in eastern Congo, overrunning government troops and trapping over 1 million displaced people inside the city amid gunfire and shelling. The U.N. is evaluating crisis response. In Gaza, Israel lifted restrictions allowing displaced Palestinians to cross a military zone into northern areas on foot, affecting hundreds of thousands returning after hostage deal progress. President Trump hosted the first Board of Peace meeting with representatives from 24 countries on Gaza reconstruction; some U.S. allies expressed wariness. Aid trucks delivered food to Sudan's Kordofan region after a two-year blockade amid drone attacks hindering relief for famine-threatened civilians.",
+  "headlines": [
+    {
+      "title": "U.S.-backed Kurdish forces withdraw from 24 ISIS prisons holding thousands in Syria",
+      "source": "New York Times",
+      "summary": "U.S.-backed Kurdish allies withdrew oversight from two dozen detention sites holding thousands of ISIS members and families, upending the prison system into chaos. Risks mass escapes affecting Middle East security. International monitors assess threats and plan containment. Matters for global counterterrorism.",
+      "link": "https://www.nytimes.com/2026/02/18/world/middleeast/syria-prisons-isis.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "North Korean leader Kim Jong Un unveils nuclear-capable rocket launchers for party congress",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "France 24"
+      ],
+      "summary": "Kim Jong Un unveiled a new array of nuclear-capable rocket launchers as a gift ahead of the Ninth Workers' Party Congress. Heightens Korean Peninsula tensions and nuclear proliferation risks for neighbors and U.S. Next steps include congress discussions on arsenal expansion.",
+      "link": "https://www.dw.com/en/north-korea-unveils-nuclear-capable-rocket-launchers/a-76029358?maca=en-rss-en-top-1022-rdf",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Emphasizes Kim's description of launchers as gift for upcoming party congress",
+          "link": "https://www.dw.com/en/north-korea-unveils-nuclear-capable-rocket-launchers/a-76029358?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "France 24",
+          "angle": "Focuses on large rocket array signaling advancement in nuclear weapons program",
+          "link": "https://www.france24.com/en/asia-pacific/20260219-north-korea-kim-jon-un-unveils-nuclear-capable-rocket-system"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX launch Crew-10 with four astronauts to retrieve two stuck on ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 launched NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi and Russia's Kirill Peskov from Kennedy Space Center to ISS. Enables return of Butch Wilmore and Suni Williams after nine months. Restores rotation schedule, bolsters space cooperation.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "President Trump convenes first Board of Peace meeting with 24 countries on Gaza rebuild",
+      "source": "NPR",
+      "summary": "President Trump hosts representatives from over two dozen Board of Peace nations for initial meeting focused on Gaza reconstruction. Some U.S. allies wary of approach. Affects postwar planning; outcomes could coordinate aid and influence Mideast diplomacy.",
+      "link": "https://www.npr.org/2026/02/19/nx-s1-5719053/trump-gathers-members-board-of-peace-first-meeting",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Meta CEO Mark Zuckerberg testifies in trial over social media harm to children",
+      "source": "NPR",
+      "sources": [
+        "NPR",
+        "France 24"
+      ],
+      "summary": "Mark Zuckerberg defended Meta's youth policies in Los Angeles addiction trial, amid documents revealing safety-growth conflicts. Targets teens and tweens; verdict shapes 1,600 pending cases from families and districts. Impacts future platform regulations worldwide.",
+      "link": "https://www.npr.org/2026/02/18/nx-s1-5717117/zuckerberg-testimony-social-media-addiction-trial",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "NPR",
+          "angle": "Highlights grilling on strategies targeting teens and tweens in addiction case",
+          "link": "https://www.npr.org/2026/02/18/nx-s1-5717117/zuckerberg-testimony-social-media-addiction-trial"
+        },
+        {
+          "source": "France 24",
+          "angle": "Stresses defense of child policies with internal docs on safety versus growth",
+          "link": "https://www.france24.com/en/technology/20260219-zuckerberg-defends-meta-policies-on-children-at-landmark-social-media-harm-trial"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Aid trucks deliver food to Sudan's Kordofan region after two-year blockade",
+      "source": "Al Jazeera",
+      "summary": "Food trucks reached Kordofan cut off for two years as over 30 countries alarm at deadly drone attacks hindering relief. Affects famine-threatened civilians; continued strikes risk halting aid, worsening Sudan's humanitarian disaster.",
+      "link": "https://www.aljazeera.com/news/2026/2/19/aid-reaches-sudans-kordofan-as-over-30-countries-alarmed-by-drone-attacks?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Thailand and Cambodia contest narratives over border clashes killing 149 people",
+      "source": "South China Morning Post",
+      "summary": "Cambodia's PM Hun Manet accuses Thailand of truce violations during U.S. visit as Bangkok calls claims distorted after 149 deaths since July along 817km border. Displaces locals; narrative fight threatens fragile ceasefire and ASEAN stability.",
+      "link": "https://www.scmp.com/week-asia/politics/article/3343975/thailand-and-cambodia-fight-worlds-ear-over-deadly-border-feud?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "China's Vanke reports huge loss signaling spread of property crisis",
+      "source": "Wall Street Journal",
+      "summary": "Leading developer Vanke posted massive loss amid deepening real estate woes, questioning state bailout prospects. Affects developers, banks, homebuyers; Beijing intervention vital to curb economic drag with global ripple effects.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Congo's Goma city trapping 1 million displaced",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-backed rebels entered Goma aid hub after overrunning troops, with residents reporting gunfire and shelling. Traps over one million displaced inside city. U.N. evaluates crisis response; heightens East Africa conflict risks.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels entered Goma city limits amid gunfire and shelling, confining over one million displaced within urban areas",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Displaced Palestinians stream back into northern Gaza after Israel lifts restrictions",
+      "source": "Wall Street Journal",
+      "summary": "Israel allowed displaced Gazans to cross bisecting military zone into northern Gaza on foot following hostage deal progress. Affects hundreds of thousands returning; aids reunions but ongoing hostilities limit safety and rebuilding.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Deadlock broken enabling mass crossings of military zone as Palestinians return on foot to northern areas",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia-Ukraine talks extend to second day in Geneva focusing on territories",
+      "source": "New York Times",
+      "summary": "U.S.-mediated Russia-Ukraine negotiations continued second day in Geneva on territorial disputes, major impasse. Short session signals limited advances for war-weary populations. Breakthroughs could enable ceasefire, stabilizing Europe.",
+      "link": "https://www.nytimes.com/2026/02/18/world/europe/russia-ukraine-us-talks-war.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Discussions entered second day centered on territorial issues with brief duration suggesting no major progress",
+      "sources": [
+        "New York Times"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 474,
+    "articlesAfterDedup": 474,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "science": 1,
+      "society": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "asia-pacific": 3,
+      "global": 1,
+      "americas": 1,
+      "africa": 2,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "date": "2026-02-19",
+  "summary": "Le Conseil de paix lancé par Donald Trump se réunit jeudi à Washington pour la première fois. Plusieurs dizaines de pays participent, dont des représentants européens malgré des critiques de certains gouvernements européens. Les États-Unis annoncent un engagement de 5 milliards de dollars pour la bande de Gaza. Cette instance réunit des États pour discuter de la résolution de conflits mondiaux. Une réunion ultérieure est prévue après cette session inaugurale.\n\nSéparément, Kirill Dmitriev, envoyé spécial de Vladimir Poutine, négocie des accords économiques bilatéraux massifs avec l'administration américaine en marge des pourparlers sur l'Ukraine. Ces accords prévoient des investissements américains en Russie en échange d'une levée partielle de sanctions, selon le Kremlin. L'administration américaine confirme les discussions sans détails publics. Prochaines étapes incluent la finalisation des termes d'ici fin février. Au Moyen-Orient, les États-Unis déploient une force navale et aérienne importante et se préparent à des frappes contre l'Iran dès ce week-end si Donald Trump l'ordonne. Cela fait suite à des tensions régionales impliquant des alliés iraniens.\n\nUne étude d'une équipe internationale publiée le 18 février dans la revue Lancet Global Health estime que la mortalité due aux morts violentes à Gaza est sous-évaluée de 35 pour cent par les autorités locales, en raison de données incomplètes. Kim Jong-un a supervisé la présentation d'un nouveau lance-missiles capable de tirer des ogives nucléaires en Corée du Nord. En Corée du Sud, le verdict du procès de l'ex-président Yoon Suk Yeol pour la loi martiale de décembre 2024 est attendu jeudi, avec des peines possibles allant jusqu'à la perpétuité. Mark Zuckerberg compare devant un tribunal de Los Angeles pour justifier l'impact des applications Meta sur les adolescents. Le parquet français ouvre deux enquêtes sur la traite d'êtres humains et le blanchiment dans l'affaire Epstein, impliquant cinq magistrats. Emmanuel Macron défend la régulation européenne de l'IA lors d'un sommet en Inde. À Lyon, onze personnes dont Jacques-Élie Favrot, collaborateur LFI, finissent leur garde à vue et sont présentées aux juges dans l'enquête sur la mort de Quentin Deranque.",
+  "headlines": [
+    {
+      "title": "Donald Trump réunit Conseil de paix première fois Washington annonce 5 milliards dollars Gaza",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "RFI",
+        "RTBF",
+        "20 Minutes"
+      ],
+      "summary": "Le Conseil de paix lancé par Donald Trump se réunit jeudi à Washington pour première fois avec engagements 5 milliards dollars bande Gaza. Plusieurs dizaines pays participent malgré critiques Europe. Instance vise résoudre conflits mondiaux impacte diplomatie internationale.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2230446/reunion-conseil-paix-trump-gaza",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Annonce engagements financiers 5 milliards dollars bande Gaza",
+          "link": "https://ici.radio-canada.ca/nouvelle/2230446/reunion-conseil-paix-trump-gaza"
+        },
+        {
+          "source": "RFI",
+          "angle": "Critiques Europe sur raison d'être composition instance",
+          "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260219-le-conseil-de-paix-voulu-par-donald-trump-se-r%C3%A9unit-pour-la-premi%C3%A8re-fois-%C3%A0-washington"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Ambitions Conseil paix inquiètent diplomatie internationale",
+          "link": "https://www.rtbf.be/article/le-conseil-de-la-paix-de-donald-trump-se-reunit-pour-la-premiere-fois-entre-ambitions-et-inquietudes-diplomatiques-11681934"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Plusieurs dizaines pays annoncent participation lancement officiel",
+          "link": "https://www.20minutes.fr/monde/4202287-20260219-va-participer-lancement-officiel-conseil-paix-donald-trump?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russie négocie accords économiques bilatéraux massifs États-Unis marge pourparlers paix Ukraine",
+      "source": "Le Monde",
+      "summary": "Kirill Dmitriev homme confiance Poutine convainc administration américaine investir Russie contre levée sanctions paix favorable Kremlin. Accords marge négociations Ukraine modifient dynamiques géopolitiques sanctions économiques.",
+      "link": "https://www.lemonde.fr/international/article/2026/02/19/guerre-en-ukraine-la-russie-et-les-etats-unis-negocient-des-accords-economiques-bilateraux-massifs-en-marge-des-pourparlers-de-paix_6667346_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Équipe recherche internationale estime mortalité Gaza sous-évaluée 35 pour cent autorités locales",
+      "source": "Le Monde",
+      "summary": "Étude terrain indépendante publiée 18 février revue Lancet Global Health révèle sous-estimation 35 pour cent morts violentes conflit Gaza. Données autorités locales incomplètes impactent évaluation humanitaire crise.",
+      "link": "https://www.lemonde.fr/international/article/2026/02/19/a-gaza-la-mortalite-massivement-sous-estimee-par-les-autorites-locales-selon-une-equipe-de-recherche-internationale_6667347_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "science",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis déploient force navale aérienne Moyen-Orient prêts frappes Iran week-end ordre Trump",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "RTBF"
+      ],
+      "summary": "Armée américaine prête attaque Iran dès week-end si Donald Trump ordonne suite déploiement important Moyen-Orient. Tensions régionales s'intensifient risquent escalade conflit impliquant alliés régionaux.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4202284-20260219-iran-deploiement-militaire-americain-moyen-orient-donald-trump-pourrait-ordonner-frappes-week-end?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Déploiement force navale aérienne prépare frappes Iran week-end",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4202284-20260219-iran-deploiement-militaire-americain-moyen-orient-donald-trump-pourrait-ordonner-frappes-week-end?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Armée américaine prête attaque Iran sources proches dossier",
+          "link": "https://www.rtbf.be/article/l-armee-americaine-prete-a-lancer-une-attaque-sur-l-iran-des-ce-week-end-selon-plusieurs-sources-11682153"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Kim Jong-un supervise présentation nouveau lance-missiles nucléaire Corée du Nord",
+      "source": "20 Minutes",
+      "summary": "Dirigeant nord-coréen présente lance-missiles tirant ogives nucléaires accentue capacités balistiques régime. Événement renforce tensions péninsule coréenne préoccupe alliés États-Unis région.",
+      "link": "https://www.20minutes.fr/monde/4202290-20260219-coree-nord-kim-jong-supervise-presentation-nouveau-lance-missiles-nucleaire?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Ex-président Yoon Suk Yeol attend verdict jeudi procès loi martiale Corée du Sud",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Radio-Canada"
+      ],
+      "summary": "Procès principal ex-président Yoon sur loi martiale décembre 2024 rend verdict jeudi possible peine capitale perpétuité clémence. Milliers partisans tribunal tensions politiques persistent pays.",
+      "link": "https://www.france24.com/fr/info-en-continu/20260219-cor%C3%A9e-du-sud-verdict-pour-l-ex-pr%C3%A9sident-yoon-dans-le-proc%C3%A8s-de-la-loi-martiale",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Verdict jeudi procès principal loi martiale décembre 2024",
+          "link": "https://www.france24.com/fr/info-en-continu/20260219-cor%C3%A9e-du-sud-verdict-pour-l-ex-pr%C3%A9sident-yoon-dans-le-proc%C3%A8s-de-la-loi-martiale"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Milliers partisans Yoon rassemblés devant tribunal poursuites",
+          "link": "https://ici.radio-canada.ca/nouvelle/2230447/coree-sud-verdict-yoon-loi-martiale"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Mark Zuckerberg comparaît tribunal Los Angeles impact applis Meta ados",
+      "source": "Liberation",
+      "summary": "Patron Meta justifie devant justice californienne accusation jeune fille dépendance Facebook Instagram YouTube. Audiences révèlent débats régulation plateformes numériques affectant santé jeunes.",
+      "link": "https://www.liberation.fr/international/amerique/sous-le-feu-des-critiques-mark-zuckerberg-contraint-de-se-justifier-pour-la-premiere-fois-devant-la-justice-sur-limpact-de-ses-applis-sur-les-ados-20260219_HKWQ5M4M2NCPRBJKOUQF2GMB54/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Parquet français ouvre deux enquêtes cadres affaire Epstein traite humains blanchiment",
+      "source": "Le Monde",
+      "summary": "Justice ouvre enquêtes sur traite êtres humains infractions financières Epstein cinq magistrats trient plaintes signalements. Procédures exploitent nouvelles pistes internationales impliquent personnalités françaises.",
+      "link": "https://www.lemonde.fr/societe/article/2026/02/19/affaire-epstein-la-justice-francaise-au-defi-d-exploiter-les-nouvelles-pistes_6667329_3224.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Emmanuel Macron assure Europe espace sûr innovation intelligence artificielle sommet Inde",
+      "source": "France 24",
+      "summary": "Président français défend régulation européenne IA devant chefs État patrons tech New Delhi contre critiques États-Unis. Position renforce leadership Europe technologies émergentes.",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260219-inde-emmanuel-macron-assure-que-europe-est-un-espace-sur-pour-innovation-dans-ia",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Gardes à vue onze interpellés finissent mort Quentin Deranque Lyon présentation juges",
+      "source": "Le Figaro",
+      "summary": "Onze personnes dont collaborateur LFI Jacques-Élie Favrot finissent gardes à vue présentées juges Lyon pour mise examen mort Quentin Deranque. Enquête progresse violences reconnues complique politique locale.",
+      "link": "https://www.lefigaro.fr/lyon/en-direct-mort-quentin-deranque-lyon-enquete-interpellations-raphael-arnault-assistant-parlementaire-20260219",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Onze interpellations hier suite mort Quentin Deranque Lyon collaborateur LFI mis cause violences",
+      "sources": [
+        "Le Figaro"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 212,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "politics": 3,
+      "economy": 1,
+      "science": 1,
+      "conflict": 2,
+      "society": 3
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 4,
+      "asia-pacific": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

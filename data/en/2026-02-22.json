@@ -1,0 +1,203 @@
+{
+  "date": "2026-02-22",
+  "summary": "A UN-mandated fact-finding mission reported that the Rapid Support Forces' 18-month siege of El Fasher, capital of North Darfur in Sudan, bears hallmarks of genocide. The RSF has targeted Zaghawa and Fur communities for physical destruction during the ongoing Sudan war. The report details occupation tactics affecting these ethnic groups and urges international action to prevent escalation.\n\nPakistan conducted cross-border strikes on terrorist camps in eastern Afghanistan, killing dozens of civilians including women and children in homes and a school, according to Afghan officials. The action escalates tensions between the two countries during Ramadan. In eastern Congo, Rwanda-backed rebels overran troops and entered Goma, an aid hub sheltering over 1 million displaced people amid gunfire and shelling. The UN warned of disruptions to humanitarian operations. Separately, US President Trump raised the global tariff from 10 to 15 percent following a Supreme Court ruling, as businesses seek repayment of $133 billion already collected. The change affects importers, consumers, and global supply chains.\n\nIsraeli strikes on Hezbollah targets in Lebanon killed at least 10 people, including eight Hezbollah members, per Lebanese officials, threatening a fragile cease-fire. Israel allowed displaced Palestinians to return on foot to northern Gaza after a hostage release deadlock broke, affecting hundreds of thousands. Iranian students held large anti-government protests at universities upon reopening, the first major demonstrations since last month's crackdown that killed thousands. A US appeals court in the Fourth Circuit lifted a block on Trump administration executive orders halting federal DEI programs, affecting government workers and contractors. Crews recovered bodies of nine backcountry skiers from a Truckee Tahoe avalanche in California's Sierra Nevada four days after heavy snow. NASA and SpaceX launched Crew-10 from Kennedy Space Center to the ISS, enabling the return of astronauts Butch Wilmore and Suni Williams after nine months.",
+  "headlines": [
+    {
+      "title": "UN mission finds RSF siege of El Fasher bears hallmarks of genocide",
+      "source": "The Guardian",
+      "summary": "UN-mandated fact-finding mission details RSF's 18-month occupation of North Darfur capital, targeting Zaghawa and Fur communities for physical destruction. Affects ethnic groups amid Sudan war. Report urges international action to prevent escalation.",
+      "link": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pakistan launches cross-border strikes in Afghanistan killing dozens of civilians",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Al Jazeera English"
+      ],
+      "summary": "Pakistan targets terrorist camps in eastern Afghanistan; Afghan officials report dozens of civilians, including women and children, killed and wounded in homes and school. Escalates bilateral tensions during Ramadan. Risks broader regional conflict.",
+      "link": "https://www.france24.com/en/asia-pacific/20260222-pakistan-launches-deadly-strikes-in-afghanistan",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Details multiple strikes on terrorist training camps and hideouts amid Ramadan escalation",
+          "link": "https://www.france24.com/en/asia-pacific/20260222-pakistan-launches-deadly-strikes-in-afghanistan"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Emphasizes strikes hitting school and homes killing and wounding dozens of people",
+          "link": "https://www.aljazeera.com/news/2026/2/22/pakistan-carries-out-strikes-in-afghanistan-after-islamabad-suicide-attack?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun troops and enter Congo safe-haven city Goma",
+      "source": "Wall Street Journal",
+      "summary": "Rebels advance into Goma aid hub amid gunfire and shelling; over 1 million displaced people now shelter inside. Threatens humanitarian operations in eastern Congo. UN warns of worsening crisis.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Trump raises US global tariff from 10 to 15 percent after Supreme Court ruling",
+      "source": "Al Jazeera English",
+      "summary": "Trump increases tariff as businesses seek repayment of $133 billion already collected. Impacts importers, consumers and global supply chains. Signals continued protectionist policy amid legal challenges.",
+      "link": "https://www.aljazeera.com/news/2026/2/22/trump-to-raise-us-global-tariff-from-ten-to-fifteen-percent-after-supreme-court-ruling?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Israel strikes Hezbollah targets in Lebanon killing at least 10 people",
+      "source": "New York Times",
+      "summary": "Strikes late Friday kill eight Hezbollah members and others, per Lebanese officials. Threatens fragile cease-fire agreement. Heightens risks of renewed cross-border conflict.",
+      "link": "https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Iranian students stage large anti-government protests as universities reopen",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "BBC"
+      ],
+      "summary": "Students chant and march at semester start, first major protests since last month's deadly crackdown killing thousands. Builds on prior national movement. Indicates ongoing regime opposition among youth.",
+      "link": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Focuses on students reviving protests into national movement as new semester begins",
+          "link": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html"
+        },
+        {
+          "source": "BBC",
+          "angle": "Highlights protests honoring thousands killed in prior nationwide crackdown",
+          "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel allows displaced Palestinians to return to northern Gaza on foot",
+      "source": "Wall Street Journal",
+      "summary": "Gazans cross military zone north after hostage release deadlock breaks. Affects hundreds of thousands seeking homes. Marks potential step toward de-escalation in enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "US appeals court lifts block on Trump administration DEI crackdown",
+      "source": "Voice of America",
+      "summary": "Fourth Circuit panel allows enforcement of executive orders halting federal DEI programs, overturning lower court. Affects government workers and contractors. Advances policy reshaping diversity initiatives.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Crews recover bodies of nine backcountry skiers from California avalanche",
+      "source": "Associated Press",
+      "summary": "Teams retrieve nine bodies four days after Truckee Tahoe avalanche amid heavy snow. Concludes search for missing group. Highlights dangers of backcountry skiing in Sierra Nevada.",
+      "link": "https://apnews.com/article/california-tahoe-search-rescue-avalanche-bodies-recovery-7a07cfede81c6bcdf3282ee6e16cb319",
+      "tier": "developing",
+      "dayNumber": 4,
+      "previousContext": "Avalanche buried skiers amid intense snowfall hindering initial rescue",
+      "sources": [
+        "Associated Press"
+      ],
+      "singleSource": true,
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX launch Crew-10 to retrieve astronauts stuck nine months",
+      "source": "Voice of America",
+      "summary": "Crew-10 launches from Kennedy Space Center to ISS for routine rotation enabling return of Butch Wilmore and Suni Williams. Affects station operations. Resolves extended mission anomaly.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "developing",
+      "dayNumber": 270,
+      "previousContext": "Astronauts stranded since June 2025 due to spacecraft technical issues delaying return",
+      "sources": [
+        "Voice of America"
+      ],
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 469,
+    "articlesAfterDedup": 464,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "economy": 1,
+      "society": 2,
+      "politics": 1,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "africa": 2,
+      "asia-pacific": 1,
+      "americas": 3,
+      "middle-east": 3,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

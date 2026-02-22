@@ -1,0 +1,223 @@
+{
+  "date": "2026-02-22",
+  "summary": "Donald Trump ha aumentato i dazi su tutti i paesi dal 10 al 15 per cento con effetto immediato, dopo una sentenza della Corte Suprema che li aveva bocciati. Coinvolti Stati Uniti e partner commerciali globali. In Italia, il ministro Tajani ha convocato una task force. L'aumento entra in vigore subito e impatta l'export italiano verso gli USA e il commercio mondiale.\n\nIl ministero degli Esteri iraniano ha designato le forze aeree e marine dell'UE come organizzazioni terroristiche, in risposta a una decisione del Consiglio UE. Coinvolti rapporti tra Teheran e Bruxelles. Possibili ritorsioni diplomatiche seguono tensioni nel Medioriente. Media riportano che i Pasdaran iraniani addestrano Hezbollah per operazioni contro USA e Israele. In Asia centrale, il Pakistan ha condotto raid aerei su otto siti talebani in Afghanistan al confine, con decine di morti e feriti inclusi donne e bambini. L'esercito pakistano valuta ulteriori operazioni.\n\nEsplosioni hanno colpito il centro di Leopoli in Ucraina occidentale dopo l'arrivo della polizia; video mostrano le scene. Autorità ucraine procedono con indagini, vicino al confine polacco. In Italia, i carabinieri hanno sequestrato sei cellulari di medici coinvolti nel trapianto di cuore fallito su Domenico il 23 dicembre; la famiglia chiede giustizia e l'avvocato spinge per omicidio colposo. L'Italia prevede 1,36 milioni di assunzioni di stranieri su 4 milioni totali nel 2025, il 23% del totale e raddoppiate dal 2019, con il 42,9% in agricoltura. Il governo avvia Isee automatico antifrode per scuole e università tramite decreto Pnrr. Il vertice Italia-Francia slitta da aprile a giugno dopo il G7 di Evian. La pm ligure riporta che Toti ha ammesso a un collaboratore di aver manipolato dati COVID sui contagi.",
+  "headlines": [
+    {
+      "title": "Iran designa forze aeree e marine UE organizzazioni terroristiche",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "ANSA",
+        "TGCOM24"
+      ],
+      "summary": "Il ministero degli Esteri iraniano risponde alla decisione del Consiglio UE etichettando le forze aeree e marine europee come terroristiche. Coinvolti rapporti tesi tra Teheran e Bruxelles. Prossimi passi includono possibili ritorsioni diplomatiche; interessa per escalation tensioni Medioriente-Europa.",
+      "link": "https://www.repubblica.it/esteri/2026/02/22/news/l_iran_designa_le_forze_aeree_e_marine_dell_ue_come_organizzazioni_terroristiche-425175445/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Apre con dichiarazione ministero Esteri come risposta a decisione UE",
+          "link": "https://www.repubblica.it/esteri/2026/02/22/news/l_iran_designa_le_forze_aeree_e_marine_dell_ue_come_organizzazioni_terroristiche-425175445/?rss"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta risposta iraniana a decisione Consiglio UE",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/22/liran-designa-le-forze-aeree-e-marine-dellue-come-organizzazioni-terroristiche_86ec21a1-4fe5-49e7-91c6-bab8f2414c40.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Specifica decisione giovedì Consiglio europeo come trigger",
+          "link": "https://www.tgcom24.mediaset.it/mondo/iran-forze-unione-europea-organizzazioni-terroristiche_109277383-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump aumenta dazi globali dal 10 al 15 per cento con effetto immediato",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "Euronews Italiano",
+        "AGI"
+      ],
+      "summary": "Donald Trump alza aliquota dazi su tutti i paesi dopo sentenza Corte Suprema che li bocciava. Coinvolti USA e partner commerciali; Tajani convoca task force Italia. Entra in vigore subito, impatta export italiano e globale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/dazi-usa-trump_109265682-202602k.shtml",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Enfatizza attacco Trump a sentenza Corte Suprema e reazione Tajani",
+          "link": "https://www.tgcom24.mediaset.it/mondo/dazi-usa-trump_109265682-202602k.shtml"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Collega aumento al 5% alla sentenza Corte Suprema di venerdì",
+          "link": "http://it.euronews.com/2026/02/21/guerra-commerciale-donald-trump-alza-i-dazi-dal-10-al-15-dopo-la-sentenza-della-corte-supr"
+        },
+        {
+          "source": "AGI",
+          "angle": "Cita annuncio Trump su analisi sentenza Corte Suprema",
+          "link": "https://www.agi.it/estero/news/2026-02-21/dazi-trump-corte-suprema-35732948/"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Pakistan colpisce otto siti talebani in Afghanistan con raid aerei",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Islamabad conferma raid aerei su otto obiettivi al confine afghano, decine morti e feriti inclusi donne e bambini. Coinvolti esercito pakistano e talebani. Islamabad valuta ulteriori operazioni; interessa per instabilità regionale Asia centrale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/afghanistan-raid-pakistan-morti-feriti_109277380-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Esplosioni colpiscono centro Leopoli in Ucraina occidentale",
+      "source": "Rai News",
+      "summary": "Esplosioni avvengono dopo arrivo polizia nel centro città, video mostra scene sul posto. Coinvolte autorità ucraine. Indagini polizia procedono; significativo per intensificarsi conflitto vicino confine Polonia.",
+      "link": "https://www.rainews.it/video/2026/02/leopoli-esplosioni-nel-centro-di-leopoli-nellucraina-occidentale-il-video-e-la-polizia-sul-posto-la-guerra-in-ucraina-8282543d-e08b-47c8-bac6-d9a861980a80.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Carabinieri sequestrano sei cellulari medici per trapianto fallito Domenico",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News"
+      ],
+      "summary": "Indagine su morte piccolo Domenico da cuore trapiantato il 23 dicembre: sequestrati telefoni sei persone coinvolte. Famiglia chiede giustizia, avvocato spinge omicidio colposo. Ricostruiranno catena errori; tocca sanità e responsabilità.",
+      "link": "https://www.agi.it/cronaca/news/2026-02-21/trapianto-cuore-domenico-35734829/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive sequestro cellulari per ricostruire errori trapianto dicembre",
+          "link": "https://www.agi.it/cronaca/news/2026-02-21/trapianto-cuore-domenico-35734829/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Riporta morte ieri e sequestri, mamma chiede giustizia",
+          "link": "https://www.rainews.it/articoli/2026/02/napoli-trapianto-del-cuore-bruciato-morte-del-piccolo-domenico-carabinieri-al-monaldi-sequestrati-i-cellulari-la-mamma-ora-giustizia--2f5e1be3-e19d-4c37-93fe-1e4ac8529c2b.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia prevede 1 milione 360mila assunzioni stranieri su 4 nel 2025",
+      "source": "AGI",
+      "summary": "Assunzioni immigrati raggiungono 23% totale, raddoppiate dal 2019; 42,9% in agricoltura. Settori chiave tessile e altro. Impatta mercato lavoro italiano con crescita domanda manodopera straniera.",
+      "link": "https://www.agi.it/economia/news/2026-02-22/stranieri-economia-italia-35730300/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Governo avvia Isee automatico antifrode per scuole e università",
+      "source": "Il Sole 24 Ore",
+      "summary": "Decreto Pnrr elimina presentazione Isee manuale per bonus e accesso; indicatore calcolato d'ufficio. Coinvolti famiglie e istituzioni. Semplifica procedure, riduce frodi; beneficia milioni studenti.",
+      "link": "https://www.ilsole24ore.com/art/al-via-l-isee-antifrode-scuole-universita-non-servira-piu-presentarlo-AIwL1lXB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Vertice Italia-Francia slitta da aprile a giugno dopo G7 Evian",
+      "source": "Il Sole 24 Ore",
+      "summary": "Incontro Macron-Meloni rinviato post G7 metà giugno. Coinvolti governi Roma-Parigi. Prepara bilaterali su economia; influenza cooperazione UE.",
+      "link": "https://www.ilsole24ore.com/art/italia-francia-vertice-programmato-ad-aprile-slitta-giugno-AI1l8kYB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pasdaran iraniani preparano Hezbollah per possibile guerra",
+      "source": "TGCOM24",
+      "summary": "Media riportano addestramento Hezbollah da Pasdaran contro USA e Israele. Coinvolti Iran e alleati. Previsione escalation; monitora tensioni Medioriente.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/iran-media-i-pasdaran-preparano-hezbollah-in-previsione-della-guerra-_109277257-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pm Liguria: Toti ammette manipolazione dati COVID a collaboratore",
+      "source": "Corriere della Sera",
+      "summary": "Indagine intercetta Toti dire a Cozzani di aver aumentato contagi; coinvolge governatore e staff. Procede inchiesta; espone responsabilità politiche pandemia.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Indagine su dati COVID partisani; oggi emergono intercettazioni Toti-Spinelli yacht",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 252,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 19,
+    "categoryCounts": {
+      "politics": 4,
+      "economy": 2,
+      "conflict": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "americas": 1,
+      "asia-pacific": 1,
+      "europe": 6
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

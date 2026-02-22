@@ -1,0 +1,162 @@
+{
+  "date": "2026-02-22",
+  "summary": "Donald Trump a porté samedi ses tarifs douaniers mondiaux au maximum autorisé de 15 % pour 150 jours, suite à une censure partielle de la Cour suprême vendredi. Cette mesure affecte le commerce international avec les États-Unis. La France appelle l'Union européenne à une réponse unie. Des représailles de la part d'autres pays sont attendues.\n\nEn Ukraine, plusieurs séries d'explosions ont retenti à Kiev dimanche matin lors d'une attaque aux missiles balistiques russes, à deux jours du quatrième anniversaire de l'invasion de 2022. Les autorités ukrainiennes suivent l'événement en direct. Séparément, l'armée ukrainienne a détruit cette semaine un lanceur de missiles de défense russe estimé à 120 millions de dollars, ainsi que d'autres installations. Au Pakistan, Islamabad a effectué dimanche des frappes aériennes sélectives contre des groupes armés en Afghanistan, après plusieurs attentats dont un dans une mosquée à Islamabad. Kaboul accuse des victimes civiles à Nangarhar et Paktika.\n\nAu Nigeria, au moins 38 personnes sont mortes dans des villages en tentant de fuir des hommes armés lors d'attaques récentes ; les violences se poursuivent ces dernières semaines. Au Venezuela, le gouvernement a libéré 80 prisonniers politiques samedi dans une amnistie de 379 personnes promise aux États-Unis après la capture de Nicolás Maduro ; une commission examine 1500 autres dossiers. L'Inde et le Brésil ont conclu un accord pour accroître les investissements sur les minerais critiques, les terres rares et les énergies renouvelables. À Téhéran, des étudiants de l'université de technologie de Sharif poursuivent les manifestations via vidéos sur réseaux sociaux.",
+  "headlines": [
+    {
+      "title": "Donald Trump augmente ses droits de douane mondiaux de 10 % à 15 %",
+      "source": "Le Monde",
+      "sources": [
+        "20 Minutes",
+        "Radio-Canada",
+        "Le Monde"
+      ],
+      "summary": "Donald Trump porte samedi ses tarifs douaniers mondiaux au maximum autorisé de 15 % pour 150 jours, suite à une censure partielle de la Cour suprême vendredi. La France appelle l'UE à une réponse unie. Cela affecte le commerce international et risque d'entraîner des représailles.",
+      "link": "https://www.lemonde.fr/international/live/2026/02/21/en-direct-droits-de-douane-la-france-appelle-a-une-reponse-unie-de-l-ue-apres-la-decision-de-donald-trump-d-augmenter-ses-tarifs-douaniers-mondiaux-de-10-a-15_6667585_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Lien avec la décision de la Cour suprême jugeant illégale une partie de la politique commerciale",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4202746-20260221-droits-douane-donald-trump-veut-faire-passer-taxes-10-15?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Tarifs entrent en vigueur le 24 février pour une durée de 150 jours",
+          "link": "https://ici.radio-canada.ca/nouvelle/2231365/trump-droits-douane-mondiaux-tarifs"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Appel de la France à une réponse unie de l'Union européenne",
+          "link": "https://www.lemonde.fr/international/live/2026/02/21/en-direct-droits-de-douane-la-france-appelle-a-une-reponse-unie-de-l-ue-apres-la-decision-de-donald-trump-d-augmenter-ses-tarifs-douaniers-mondiaux-de-10-a-15_6667585_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Autorités ukrainiennes signalent attaque aux missiles balistiques sur Kiev",
+      "source": "France 24",
+      "summary": "Plusieurs séries d'explosions retentissent à Kiev dimanche matin lors d'une attaque aux missiles balistiques russes, à deux jours du quatrième anniversaire de l'invasion. Les autorités suivent l'événement en direct. Cela intensifie les tensions dans la guerre en cours.",
+      "link": "https://www.france24.com/fr/europe/20260222-ukraine-en-direct-plusieurs-s%C3%A9ries-d-explosions-entendues-%C3%A0-kiev",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pakistan mène frappes aériennes sélectives contre groupes armés en Afghanistan",
+      "source": "France 24",
+      "summary": "Islamabad effectue dimanche des frappes contre des groupes armés en Afghanistan après plusieurs attentats, dont un dans une mosquée à Islamabad. Kaboul accuse des victimes civiles à Nangarhar et Paktika. Cela marque une escalade frontalière entre les deux pays.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260222-nouvelle-escalade-entre-le-pakistan-et-l-afghanistan-apr%C3%A8s-des-frappes-a%C3%A9riennes-d-islamabad",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Hommes armés tuent au moins 38 personnes au Nigeria en fuite",
+      "source": "20 Minutes",
+      "summary": "Au moins 38 personnes meurent dans des villages nigérians en tentant de fuir des hommes armés lors d'attaques récentes. Les violences s'intensifient ces dernières semaines. Cela souligne l'insécurité croissante dans la région.",
+      "link": "https://www.20minutes.fr/monde/4202738-20260221-nigeria-moins-38-personnes-tuees-tentant-fuir-hommes-armes?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Armée ukrainienne détruit lanceur de missiles russe à 120 millions de dollars",
+      "source": "20 Minutes",
+      "summary": "Kiev détruit cette semaine plusieurs installations russes, dont un lanceur de missiles de défense estimé à 120 millions de dollars. Cela affaiblit les capacités stratégiques de Moscou sur le territoire ukrainien.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4202729-20260221-guerre-ukraine-kiev-detruit-lanceur-missiles-russe-estime-120-millions-dollars?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Gouvernement vénézuélien libère 80 prisonniers politiques dans amnistie",
+      "source": "France 24",
+      "summary": "Quatre-vingt prisonniers politiques sortent de prison samedi au Venezuela dans une amnistie de 379 personnes promise aux États-Unis après la capture de Nicolas Maduro. Une commission examine 1500 autres dossiers.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260221-au-venezuela-80-prisonniers-politiques-amnisti%C3%A9s-plus-de-1500-demandent-leur-lib%C3%A9ration",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Inde et Brésil concluent accord sur minerais critiques et terres rares",
+      "source": "RTBF",
+      "summary": "L'Inde et le Brésil signent un accord pour accroître les investissements et la coopération sur minerais critiques, terres rares et énergies renouvelables. Cela renforce leurs chaînes d'approvisionnement stratégiques.",
+      "link": "https://www.rtbf.be/article/l-inde-et-le-bresil-signent-un-accord-sur-les-minerais-critiques-et-les-terres-rares-11683409",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Étudiants iraniens poursuivent manifestations à Téhéran malgré risques",
+      "source": "RTBF",
+      "summary": "Des étudiants à l'université de technologie de Sharif à Téhéran maintiennent la contestation via vidéos sur réseaux sociaux malgré les dangers. Cela prolonge les protestations dans le pays.",
+      "link": "https://www.rtbf.be/article/manifestations-en-iran-malgre-les-risques-des-etudiants-poursuivent-la-contestation-a-teheran-11683556",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 220,
+    "articlesAfterDedup": 219,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "economy": 2,
+      "conflict": 4,
+      "politics": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 2,
+      "asia-pacific": 1,
+      "africa": 1,
+      "global": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    }
+  }
+}

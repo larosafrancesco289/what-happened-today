@@ -8,27 +8,36 @@ cd "$PROJECT_ROOT"
 
 if [ ! -f .env.local ]; then
   cat > .env.local <<'ENV'
-# OpenAI API key for content generation
-OPENAI_API_KEY=
+# OpenRouter API key for content generation
+OPENROUTER_API_KEY=
 
 # Optional: Vercel deploy hook to trigger redeploys after generation
 # VERCEL_DEPLOY_HOOK=
 ENV
-  echo "Created .env.local (fill in OPENAI_API_KEY)"
+  echo "Created .env.local (fill in OPENROUTER_API_KEY)"
 fi
 
-if command -v npm >/dev/null 2>&1; then
+DEV_COMMAND="bun run dev"
+
+if command -v bun >/dev/null 2>&1; then
+  if [ -f bun.lock ] || [ -f bun.lockb ]; then
+    bun install --frozen-lockfile
+  else
+    bun install
+  fi
+elif command -v npm >/dev/null 2>&1; then
+  echo "bun not found; falling back to npm install."
+  DEV_COMMAND="npm run dev"
   if [ -f package-lock.json ]; then
     npm ci
   else
     npm install
   fi
 else
-  echo "npm not found. Please install Node.js LTS and npm first: https://nodejs.org"
+  echo "Neither bun nor npm was found. Install Bun (https://bun.sh) or Node.js/npm (https://nodejs.org)."
   exit 1
 fi
 
 echo "Setup complete. Next steps:"
-echo "- Edit .env.local and set OPENAI_API_KEY"
-echo "- Run development server: npm run dev"
-
+echo "- Edit .env.local and set OPENROUTER_API_KEY"
+echo "- Run development server: ${DEV_COMMAND}"

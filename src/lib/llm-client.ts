@@ -19,6 +19,7 @@ const client = new OpenAI({
 const MODEL_FILTER = 'nvidia/nemotron-3-nano-30b-a3b';
 const MODEL_HEADLINES = 'x-ai/grok-4.1-fast';
 const MODEL_SUMMARY = 'x-ai/grok-4.1-fast';
+const MODEL_SUMMARY_FALLBACK = process.env.OPENROUTER_MODEL_SUMMARY_FALLBACK?.trim() || 'openai/gpt-4o-mini';
 
 // Helper function to retry operations with exponential backoff
 async function withRetry<T>(
@@ -60,6 +61,51 @@ type SupportedPromptLang = 'en' | 'it' | 'fr';
 
 function getPrompts(languageCode: string): typeof LANGUAGE_PROMPTS[SupportedPromptLang] {
   return LANGUAGE_PROMPTS[(languageCode as SupportedPromptLang)] ?? LANGUAGE_PROMPTS.en;
+}
+
+function normalizeSummaryText(text: string): string {
+  return text
+    .replace(/\r\n/g, '\n')
+    .replace(/\\n/g, '\n')
+    .replace(/\\"/g, '"')
+    .trim();
+}
+
+/**
+ * Recover summary text from malformed model output that is close to JSON but invalid.
+ * This avoids false "unavailable" days when the model returns usable prose with broken wrappers.
+ */
+function recoverSummaryFromMalformedOutput(responseText: string): string | null {
+  const trimmed = responseText.trim();
+  if (!trimmed) return null;
+
+  const valid = safeParseJSON<{ summary?: string }>(trimmed, {});
+  if (valid.summary && valid.summary.trim().length > 0) {
+    return valid.summary.trim();
+  }
+
+  const summaryKeyMatch = trimmed.match(/"summary"\s*:\s*"([\s\S]*)$/i);
+  if (summaryKeyMatch?.[1]) {
+    const candidate = normalizeSummaryText(summaryKeyMatch[1]).replace(/"\s*}?\s*$/, '').trim();
+    if (candidate.length >= 120) return candidate;
+  }
+
+  const brokenKeyThenText = trimmed.match(/^\s*\{\s*"summary:?["']?\s*\}?\s*\n?([\s\S]+)$/i);
+  if (brokenKeyThenText?.[1]) {
+    const candidate = normalizeSummaryText(brokenKeyThenText[1]);
+    if (candidate.length >= 120) return candidate;
+  }
+
+  if (trimmed.includes('\n')) {
+    const afterFirstLine = normalizeSummaryText(trimmed.slice(trimmed.indexOf('\n') + 1))
+      .replace(/^summary\s*[:\-]\s*/i, '')
+      .trim();
+    if (afterFirstLine.length >= 120 && !afterFirstLine.startsWith('{')) {
+      return afterFirstLine;
+    }
+  }
+
+  return null;
 }
 
 /**
@@ -697,37 +743,53 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
 
   const prompt = getPrompts(languageCode).summaryPrompt(headlines, yesterdayHeadlines);
   const systemPrompt = getSystemPrompt(languageCode, 'summary');
-  const MAX_ATTEMPTS = 2;
+  const MAX_ATTEMPTS_PER_MODEL = 2;
+  const summaryModels = Array.from(
+    new Set([MODEL_SUMMARY, MODEL_SUMMARY_FALLBACK].filter((m): m is string => Boolean(m)))
+  );
+  let lastError: Error | undefined;
 
-  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-    try {
-      const apiStart = Date.now();
-      const responseText = await chatCompletion(MODEL_SUMMARY, systemPrompt, prompt, 2048);
-      const apiMs = Date.now() - apiStart;
-      console.log(`generateDailySummary: API response time ${apiMs} ms (attempt ${attempt}/${MAX_ATTEMPTS})`);
+  for (let modelIndex = 0; modelIndex < summaryModels.length; modelIndex++) {
+    const model = summaryModels[modelIndex];
 
-      const result = safeParseJSON<{ summary?: string }>(responseText, {});
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS_PER_MODEL; attempt++) {
+      try {
+        const apiStart = Date.now();
+        const responseText = await chatCompletion(model, systemPrompt, prompt, 2048);
+        const apiMs = Date.now() - apiStart;
+        console.log(`generateDailySummary: model=${model} API response time ${apiMs} ms (attempt ${attempt}/${MAX_ATTEMPTS_PER_MODEL})`);
 
-      if (!result.summary || result.summary.trim().length === 0) {
-        if (attempt < MAX_ATTEMPTS) {
-          console.warn(`Summary empty/truncated on attempt ${attempt}, retrying...`);
+        const result = safeParseJSON<{ summary?: string }>(responseText, {});
+        const parsedSummary = result.summary?.trim();
+        if (parsedSummary) return parsedSummary;
+
+        const recoveredSummary = recoverSummaryFromMalformedOutput(responseText);
+        if (recoveredSummary) {
+          console.warn(`Recovered summary from malformed output (model=${model}, attempt ${attempt})`);
+          return recoveredSummary;
+        }
+
+        throw new Error(`Summary generation returned empty/malformed result. Raw response: ${responseText.substring(0, 300)}`);
+      } catch (error) {
+        lastError = error as Error;
+
+        const hasMoreAttemptsOnThisModel = attempt < MAX_ATTEMPTS_PER_MODEL;
+        const hasFallbackModel = modelIndex < summaryModels.length - 1;
+
+        if (hasMoreAttemptsOnThisModel) {
+          console.warn(`Summary generation failed on model=${model} attempt ${attempt}, retrying...`);
           continue;
         }
-        throw new Error(`Summary generation returned empty result. Raw response: ${responseText.substring(0, 300)}`);
-      }
 
-      return result.summary;
-    } catch (error) {
-      if (attempt < MAX_ATTEMPTS) {
-        console.warn(`Summary generation failed on attempt ${attempt}, retrying...`);
-        continue;
+        if (hasFallbackModel) {
+          console.warn(`Summary generation failed on model=${model}. Falling back to model=${summaryModels[modelIndex + 1]}...`);
+        }
       }
-      console.error('Error generating summary:', error);
-      throw new Error(`Failed to generate summary for ${languageCode}: ${(error as Error).message}`);
     }
   }
 
-  throw new Error(`Failed to generate summary for ${languageCode} after ${MAX_ATTEMPTS} attempts`);
+  console.error('Error generating summary:', lastError);
+  throw new Error(`Failed to generate summary for ${languageCode}: ${lastError?.message || 'unknown error'}`);
 }
 
 // Categorization interface for AI response

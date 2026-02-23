@@ -1,180 +1,213 @@
 {
   "date": "2026-02-23",
-  "summary": "<p>Mexican army forces killed Nemesio Oseguera Cervantes, known as El Mencho and leader of the Jalisco New Generation Cartel, during an operation in Jalisco state on Sunday. Cartel members carried out retaliatory arson attacks and road blockades in eight states, leading to school closures and stay-at-home orders. Local residents, schools, businesses, and travelers in those states are affected. Internal power struggles among cartel factions are expected next.</p>\n\n<p>In the United States, the Supreme Court struck down Trump-era tariffs imposed under a 1977 law. Bitcoin prices fell 5 percent to below $65,000, and Asian stock markets recorded mixed results. The Trump administration plans to introduce new 15 percent duties on global imports. China and the European Union have urged cancellation of the tariffs. US consumers, investors, and international trade partners are affected.</p>\n\n<p>Separately, NATO initiated its first coordinated operation following the severance of another undersea cable in the Baltic Sea amid an ongoing suspected sabotage campaign. Critical infrastructure operators and NATO member states are affected.<br>In the Horn of Africa, Ethiopia and Eritrea have increased military preparations over Ethiopia's Red Sea access claims, with clashes escalating along the Tigray border. Local border populations and neighboring countries are affected.<br>Israel allowed displaced Palestinians to enter northern Gaza by crossing a military zone after a hostage release agreement. More than one million Palestinians had been displaced previously. Humanitarian access improves for those returning.<br>Russian drones struck infrastructure in Ukraine's Odesa region overnight, killing three people and wounding several others. Civilians and energy facilities are affected.<br>In Nepal, a bus from Pokhara to Kathmandu plunged off the Prithvi Highway after midnight, killing 17 people, wounding 24, and leaving one Chinese national missing. Passengers and tourists are affected.</p>",
+  "summary": "Hungary vetoed an EU package providing a €90 billion loan to Ukraine and new sanctions against Russia. The decision occurred on the eve of the second anniversary of Russia's full-scale invasion of Ukraine. Ukrainian forces conducted a strike on a Russian pipeline shortly before the veto. Kyiv's defense funding is reduced as a result. Talks among EU member states on the aid package are stalled indefinitely.\n\nIn Mexico, military forces killed Sinaloa Cartel leader Nemesio Oseguera Cervantes, known as El Mencho, during a raid that resulted in at least 62 deaths. Officials confirmed the operation targeted the cartel head. Violence has erupted across the country, affecting 130 million residents. Authorities anticipate retaliatory attacks by rival cartels. Separately, Rwanda-backed rebels fired on Congolese troops inside the safe-haven city of Goma. This follows the rebels overrunning troops and entering Goma yesterday. The EU froze negotiations on a trade deal with the United States after a US Supreme Court ruling enabled President Trump to increase global tariffs from 10 to 15 percent.\n\nNATO initiated its first coordinated response to suspected sabotage after another deep-sea cable was severed in the Baltic Sea. The alliance deployed patrols across the region. Transatlantic data flows and security are disrupted pending investigations. Panama's government ordered occupation of Balboa and Cristobal ports at the Panama Canal, run by Hong Kong-based CK Hutchison. A Supreme Court ruling voided the firm's concession. Global shipping routes face disruptions as assets are seized. A US federal judge in Florida, Aileen Cannon, permanently barred the Justice Department from releasing a report on documents held by Donald Trump. The order cites potential harm to Trump and associates in a classified materials case. Displaced Palestinians returned to northern Gaza after Israel lifted restrictions on a military zone. UK police arrested Peter Mandelson, a former cabinet minister, on suspicion of misconduct linked to Jeffrey Epstein documents. A winter storm halted air and train travel across the northeastern United States from New York to Boston, affecting millions through Tuesday.\n\"}",
   "headlines": [
     {
-      "title": "Mexican army kills Jalisco New Generation Cartel leader El Mencho in operation",
-      "source": "Associated Press",
+      "title": "Mexican Military Kills Cartel Leader El Mencho in Raid That Leaves 62 Dead",
+      "source": "NYT",
+      "summary": "Officials confirm forces targeted Sinaloa Cartel head in operation killing at least 62, sparking violence across Mexico. Affects 130 million residents amid drug war escalation; authorities brace for retaliatory attacks from rival groups.",
+      "link": "https://www.nytimes.com/live/2026/02/23/world/mexico",
+      "tier": "top",
+      "singleSource": true,
       "sources": [
-        "Associated Press",
-        "New York Times",
-        "NPR",
-        "ABC Australia",
-        "France 24"
+        "NYT"
       ],
-      "summary": "Mexican army killed Nemesio Oseguera Cervantes, 'El Mencho,' in a Jalisco state operation Sunday, decapitating Mexico's most powerful cartel. Retaliatory arson and blockades hit eight states, prompting school closures and stay-home orders. This weakens cartels but risks power vacuums and violence escalation, affecting regional security and US drug flows.",
-      "link": "https://apnews.com/article/jalisco-cartel-drugs-mexico-mencho-new-generation-5014a70bc62a81d74849146c59ba19f8",
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Hungary Vetoes EU 90 Billion Euro Loan to Ukraine and New Russia Sanctions Package",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "NYT"
+      ],
+      "summary": "Hungary blocks financial aid worth €90 billion and sanctions on eve of Ukraine war anniversary; Ukrainian strike on Russian pipeline adds tension. Impacts Kyiv's defense funding and EU unity; talks stalled indefinitely.",
+      "link": "https://www.france24.com/en/europe/20260223-hungary-blocks-eu-ukraine-loan-russia-sanctions-on-eve-of-war-anniversary",
       "tier": "top",
       "framings": [
         {
-          "source": "Associated Press",
-          "angle": "Details army operation Sunday killing El Mencho and government official confirmation",
-          "link": "https://apnews.com/article/jalisco-cartel-drugs-mexico-mencho-new-generation-5014a70bc62a81d74849146c59ba19f8"
-        },
-        {
-          "source": "New York Times",
-          "angle": "Highlights El Mencho's long leadership and post-death arson across Mexico",
-          "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html"
-        },
-        {
-          "source": "NPR",
-          "angle": "Focuses on fears of increased violence schools canceled and stay-home warnings",
-          "link": "https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel"
-        },
-        {
-          "source": "ABC Australia",
-          "angle": "Describes gunfight death and retaliation with fires blockades in eight states",
-          "link": "https://www.abc.net.au/news/2026-02-23/el-mencho-mexico-drug-cartels-leader-death-sparks-chaos/106376506"
-        },
-        {
           "source": "France 24",
-          "angle": "Explains wounding during arrest transfer death and nationwide arson blockades",
-          "link": "https://www.france24.com/en/americas/20260223-how-mexico-killed-the-powerful-drug-kingpin-el-mencho-and-what-it-means"
+          "angle": "Highlights veto timing before war anniversary and Ukrainian strike on Druzhba pipeline",
+          "link": "https://www.france24.com/en/europe/20260223-hungary-blocks-eu-ukraine-loan-russia-sanctions-on-eve-of-war-anniversary"
+        },
+        {
+          "source": "NYT",
+          "angle": "Focuses on Hungary blocking sanctions package and $106 billion aid to Kyiv",
+          "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html"
         }
       ],
       "singleSource": false,
-      "category": "conflict",
-      "region": "americas",
+      "category": "politics",
+      "region": "europe",
       "importance": "major"
     },
     {
-      "title": "NATO mounts first coordinated response to Baltic Sea deep-sea cable sabotage",
-      "source": "Wall Street Journal",
-      "summary": "NATO launches its first coordinated operation after another undersea cable severance in the Baltic Sea amid suspected sabotage campaign. Critical infrastructure operators and alliance members affected. Signals heightened alliance vigilance against hybrid threats from Russia, impacting transatlantic security.",
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "WSJ",
+      "summary": "Alliance deploys after another deep-sea cable severed amid suspected hybrid attack on infrastructure. Affects transatlantic data flows and security; NATO increases patrols and investigations across region.",
       "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
       "tier": "top",
       "singleSource": true,
       "sources": [
-        "Wall Street Journal"
+        "WSJ"
       ],
       "category": "conflict",
       "region": "europe",
-      "importance": "breaking"
+      "importance": "major"
     },
     {
-      "title": "US Supreme Court nixes Trump tariffs as bitcoin falls 5 percent below $65000",
-      "source": "The Hindu",
+      "title": "UK Police Arrest Former US Ambassador Peter Mandelson Over Epstein Ties",
+      "source": "AP",
       "sources": [
-        "The Hindu",
-        "France 24",
-        "Associated Press"
+        "AP",
+        "NPR",
+        "SCMP",
+        "France 24"
       ],
-      "summary": "US Supreme Court strikes down Trump-era tariffs under 1977 law prompting bitcoin drop below $65,000 and mixed Asian markets. Investors US consumers and global trade partners affected. Trump plans new 15 percent duties; China EU urge cancellations affecting economic stability.",
-      "link": "https://www.thehindu.com/business/markets/us-futures-bitcoin-fall-asian-markets-mixed-after-supreme-court-nixes-trumps-tariffs/article70665873.ece",
-      "tier": "top",
+      "summary": "London officers detain 72-year-old Mandelson on misconduct suspicion linked to Epstein documents and friendship. Affects UK diplomatic reputation; probe examines ministerial actions with DOJ-released emails.",
+      "link": "https://apnews.com/article/police-arrest-peter-mandelson-epstein-bc1cbabe40687e09d0f145a75f6a77e2",
+      "tier": "also",
       "framings": [
         {
-          "source": "The Hindu",
-          "angle": "Reports bitcoin 5 percent tumble below $65000 and investor shift from speculative assets",
-          "link": "https://www.thehindu.com/business/markets/us-futures-bitcoin-fall-asian-markets-mixed-after-supreme-court-nixes-trumps-tariffs/article70665873.ece"
+          "source": "AP",
+          "angle": "Details arrest at north London address and Metropolitan Police misconduct statement",
+          "link": "https://apnews.com/article/police-arrest-peter-mandelson-epstein-bc1cbabe40687e09d0f145a75f6a77e2"
+        },
+        {
+          "source": "NPR",
+          "angle": "Emphasizes Labour politician's US ambassador role in Epstein investigation",
+          "link": "https://www.npr.org/2026/02/23/g-s1-111196/uk-peter-mandelson-epstein-misconduct-investigation"
+        },
+        {
+          "source": "SCMP",
+          "angle": "Notes firing from ambassador post after Epstein friendship revelations",
+          "link": "https://www.scmp.com/news/world/europe/article/3344381/uks-peter-mandelson-arrested-london-after-revelations-over-his-ties-epstein?utm_source=rss_feed"
         },
         {
           "source": "France 24",
-          "angle": "Covers China urging US to cancel tariffs after Supreme Court ruling on Trump powers",
-          "link": "https://www.france24.com/en/asia-pacific/20260223-china-us-cancel-trump-era-tariffs-supreme-court"
-        },
-        {
-          "source": "Associated Press",
-          "angle": "Details EU demanding US honor trade deal clarity post court blocking Trump tariffs",
-          "link": "https://apnews.com/article/eu-us-trump-tariffs-commission-trade-8c5f9fa35d9f0f13afef0ddbaf88b1f6"
+          "angle": "Cites January DOJ emails showing Mandelson sharing info with Epstein as minister",
+          "link": "https://www.france24.com/en/europe/20260223-britain-s-former-us-ambassador-peter-mandelson-arrested-amid-epstein-revelations"
         }
       ],
       "singleSource": false,
-      "category": "economy",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Panama Orders Occupation of Two Panama Canal Ports Run by Hong Kong Firm",
+      "source": "SCMP",
+      "summary": "Government decrees control of Balboa and Cristobal terminals after Supreme Court voids CK Hutchison concession. Disrupts global shipping routes; authority seizes assets for national interest.",
+      "link": "https://www.scmp.com/news/hong-kong/article/3344379/panama-orders-control-canal-ports-operated-hong-kong-firm-after-supreme-court-ruling?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "SCMP"
+      ],
+      "category": "politics",
       "region": "americas",
       "importance": "notable"
     },
     {
-      "title": "Palestinians stream back into northern Gaza after hostage release breakthrough",
-      "source": "Wall Street Journal",
-      "summary": "Israel permits displaced Gazans to cross military zone into northern Gaza following hostage deal resolution. Over one million Palestinians affected by prior displacements. Eases humanitarian crisis but ongoing risks amid conflict impact regional stability.",
-      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Israel allowed foot returns yesterday; today residents stream back after hostage deadlock broken",
-      "sources": [
-        "Wall Street Journal"
-      ],
+      "title": "US Judge Permanently Bars Justice Department from Releasing Trump Documents Report",
+      "source": "SCMP",
+      "summary": "Florida Judge Aileen Cannon rules release would harm Trump and associates in classified retention case. Affects public transparency on probe; DOJ cannot disclose prosecutor's detailed allegations.",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3344380/us-judge-permanently-blocks-release-report-trump-classified-documents-case?utm_source=rss_feed",
+      "tier": "also",
       "singleSource": true,
-      "category": "conflict",
-      "region": "middle-east",
+      "sources": [
+        "SCMP"
+      ],
+      "category": "politics",
+      "region": "americas",
       "importance": "major"
     },
     {
-      "title": "Russian strikes kill three people wound several in Ukraine Odesa region",
-      "source": "France 24",
-      "summary": "Russian drones hit Odesa infrastructure overnight killing three wounding others ahead of war's four-year mark. Civilians energy sectors affected across Ukraine. Intensifies assaults signaling no ceasefire soon matters for European security aid needs.",
-      "link": "https://www.france24.com/en/europe/20260223-deadly-russian-drone-attack-targets-zaporizhzhia-as-strikes-intensify-across-ukraine",
+      "title": "Winter Storm Halts Air and Train Travel Across Northeastern United States",
+      "source": "NPR",
+      "summary": "Powerful storm brings treacherous conditions shutting airports and roads from New York to Boston. Affects millions of travelers; forecasters warn of continued disruptions through Tuesday.",
+      "link": "https://www.npr.org/2026/02/23/g-s1-111202/winter-storm-northeast-travel-airport-flight-train-roads-new-york-boston",
       "tier": "also",
       "singleSource": true,
       "sources": [
-        "France 24"
+        "NPR"
       ],
-      "category": "conflict",
-      "region": "europe",
+      "category": "environment",
+      "region": "americas",
       "importance": "breaking"
     },
     {
-      "title": "Nepal bus plunges off Prithvi highway killing 17 wounding 24",
-      "source": "South China Morning Post",
-      "summary": "Bus from Pokhara to Kathmandu veers off mountain highway after midnight killing 17 injuring 24 one Chinese missing. Passengers tourists affected. Highlights poor road safety in Himalayas impacting regional travel confidence.",
-      "link": "https://www.scmp.com/news/asia/south-asia/article/3344305/bus-plunges-nepal-mountain-highway-17-dead-chinese-national-missing?utm_source=rss_feed",
-      "tier": "also",
+      "title": "Rwanda-Backed Rebels Fire on Troops Inside Congo Safe-Haven City Goma",
+      "source": "WSJ",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Residents report gunfire and shelling after rebels overrun troops; over 1 million displaced now shelter in city",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
       "singleSource": true,
       "sources": [
-        "South China Morning Post"
-      ],
-      "category": "environment",
-      "region": "asia-pacific",
-      "importance": "notable"
-    },
-    {
-      "title": "Eritrea Ethiopia prepare for war over Red Sea access Tigray border clashes",
-      "source": "AllAfrica",
-      "summary": "Ethiopia Eritrea heighten war preparations amid Ethiopia's Red Sea claims provoking Eritrea border violence escalates in Tigray. Border populations regional powers affected. Risks new Horn of Africa conflict disrupting trade migration.",
-      "link": "https://allafrica.com/stories/202602230020.html",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "AllAfrica"
+        "WSJ"
       ],
       "category": "conflict",
       "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Displaced Palestinians Stream Back to Northern Gaza After Israel Lifts Military Zone Barricade",
+      "source": "WSJ",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel permits crossing bisecting zone following hostage release deadlock; thousands return on foot",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "singleSource": true,
+      "sources": [
+        "WSJ"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "EU Freezes US Trade Deal After Trump Supreme Court Ruling on Tariffs",
+      "source": "DW",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Officials seek clarity on 15 percent global tariff hike before advancing agreement",
+      "link": "https://www.dw.com/en/eu-freezes-us-trade-deal-after-supreme-court-tariff-ruling/a-76095257?maca=en-rss-en-top-1022-rdf",
+      "singleSource": true,
+      "sources": [
+        "DW"
+      ],
+      "category": "economy",
+      "region": "global",
       "importance": "major"
     }
   ],
   "metadata": {
-    "sourcesUsed": 12,
-    "articlesProcessed": 477,
-    "articlesAfterDedup": 475,
+    "sourcesUsed": 9,
+    "articlesProcessed": 446,
+    "articlesAfterDedup": 445,
     "articlesAfterDiversity": 75,
     "articlesAfterFilter": 20,
     "categoryCounts": {
-      "conflict": 5,
-      "economy": 1,
-      "environment": 1
+      "conflict": 3,
+      "politics": 4,
+      "environment": 1,
+      "society": 1,
+      "economy": 1
     },
     "regionCounts": {
-      "americas": 2,
-      "europe": 2,
+      "americas": 4,
+      "europe": 3,
+      "africa": 1,
       "middle-east": 1,
-      "asia-pacific": 1,
-      "africa": 1
+      "global": 1
     },
     "tierCounts": {
       "top": 3,
-      "developing": 1,
-      "also": 3
+      "also": 4,
+      "developing": 3
     }
   }
 }

@@ -1,135 +1,43 @@
 {
   "date": "2026-02-23",
-  "summary": "L'Oman ha annunciato nuovi negoziati tra Stati Uniti e Iran giovedì a Ginevra sul programma nucleare iraniano. Teheran sta coordinando con Hezbollah e acquistando missili russi. Questo fa seguito alle minacce di Trump di attacchi militari limitati. Un fallimento diplomatico potrebbe portare a opzioni militari, con impatti sulle tensioni regionali. Separatamente, la Corte Suprema statunitense ha invalidato alcuni dazi imposti da Trump, dichiarati illegali. La Commissione UE ha sollecitato il rispetto degli impegni commerciali e sospeso la ratifica dell'accordo UE-USA. La Cina ha invocato lo stop alla guerra commerciale. La decisione influisce sugli scambi globali e sulle relazioni bilaterali, in seguito all'aumento dei dazi globali dal 10 al 15 per cento annunciato ieri da Trump.\n\nIn Messico, almeno 26 persone sono morte negli scontri tra polizia e il cartello Jalisco Nuova Generazione dopo l'uccisione del leader El Mencho da parte dell'esercito. Tra le vittime figurano 17 agenti e una donna incinta. Il governo messicano ha offerto prove a Trump sulla lotta al narcotraffico, ma prevede possibili ritorsioni violente. In Ucraina, Volodymyr Zelensky ha dichiarato in un'intervista alla BBC che Putin ha già iniziato la Terza guerra mondiale e va fermato, promettendo il ritorno ai confini del 1991. La dichiarazione precede richieste di aiuti occidentali contro l'aggressione russa e fa seguito alle esplosioni di ieri nel centro di Leopoli. Kim Jong-un è stato rieletto segretario generale del Partito dei Lavoratori della Corea durante il nono congresso, come riportato da KCNA. Ha promesso miglioramenti negli standard di vita nonostante le difficoltà economiche, rafforzando la sua leadership in contesto di isolamento internazionale.\n\nIn Italia, la polizia ha arrestato Ciro Caliendo, 48 anni, per l'omicidio premeditato della moglie Lucia Salcone, 47 anni, avvenuto il 27 settembre 2024 in un finto incidente stradale a San Severo. Ferite alla testa e incendio dell'auto hanno rivelato l'omicidio; le indagini proseguono con sopralluoghi. I pm liguri hanno pubblicato intercettazioni in cui Giovanni Toti discute con l'imprenditore Spinelli richieste pre-elettorali su uno yacht, con frasi come 'Ti chiedo un po’ di robe'. Toti ammette di aver truccato dati sui contagi COVID. L'inchiesta approfondisce corruzione, falsi e legami elettorali, con rischi per la governance regionale. Enel ha annunciato investimenti per 53 miliardi di euro nel periodo 2026-2028, focalizzati sulla transizione energetica.",
+  "summary": "Il Parlamento europeo ha sospeso i lavori e bloccato la ratifica dei dazi annunciati ieri da Donald Trump, passati dal 10 al 15 per cento con effetto immediato. La decisione coinvolge tutti gli Stati membri e fa seguito all'aumento tariffario globale deciso dagli Stati Uniti. Il ministro italiano Antonio Tajani ha proposto una nuova base giuridica per i negoziati, con dialoghi attesi al G7. Questa mossa sospende l'escalation commerciale in attesa di ulteriori discussioni.\n\nIn Messico, scontri tra polizia e cartelli della droga hanno causato almeno 58 morti, tra cui 25 agenti e una donna incinta, dopo l'eliminazione del boss Nemesio Oseguera Cervantes, noto come El Mencho. L'intelligence statunitense ha confermato l'operazione e si è congratulata con le autorità messicane. Il governo di Città del Messico ha rafforzato le operazioni antidroga, con violenze che continuano in diverse regioni.\n\nSeparatamente, le autorità britanniche hanno arrestato Peter Mandelson, ex ambasciatore britannico e politico laburista, per i suoi rapporti con Jeffrey Epstein, dopo l'arresto del principe Andrea. Mandelson è accusato di aver rivelato segreti di Stato; le indagini giudiziarie proseguiranno coinvolgendo figure di alto profilo e relazioni internazionali. In Italia, il medico legale ha testimoniato nel processo a Roma contro Francis Kaufmann per gli omicidi di Villa Pamphili: la piccola Andromeda è stata strangolata con forza dopo digiuno prolungato e traumi al capo. Il procedimento continua.",
   "headlines": [
     {
-      "title": "Scontri in Messico provocano 26 morti dopo eliminazione boss El Mencho",
+      "title": "Autorità arrestano Peter Mandelson ex ambasciatore britannico nel caso Epstein",
       "source": "TGCOM24",
-      "sources": [
-        "TGCOM24",
-        "Euronews Italiano"
-      ],
-      "summary": "Almeno 26 persone muoiono in Messico negli scontri tra polizia e cartello Jalisco Nuova Generazione dopo l'uccisione del leader El Mencho da parte dell'esercito. Tra le vittime 17 agenti e una donna incinta. Il governo messicano offre prova a Trump sulla lotta al narcotraffico, ma teme ritorsioni violente.",
-      "link": "https://www.tgcom24.mediaset.it/mondo/messico-26-morti-scontri-polizia_109321563-202602k.shtml",
+      "summary": "Le autorità fermano Peter Mandelson, ex ambasciatore britannico e politico laburista, per i suoi rapporti con Jeffrey Epstein dopo l'arresto del principe Andrea. Mandelson avrebbe rivelato segreti di Stato. Il caso coinvolge figure di alto profilo e proseguirà con indagini giudiziarie, interessando relazioni internazionali e scandali sessuali.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/jeffrey-epstein-arrestato-peter-mandelson-regno-unito-ambasciatore_109342909-202602k.shtml",
       "tier": "top",
-      "framings": [
-        {
-          "source": "TGCOM24",
-          "angle": "Riporta 26 morti inclusa donna incinta al terzo mese e 17 agenti di polizia",
-          "link": "https://www.tgcom24.mediaset.it/mondo/messico-26-morti-scontri-polizia_109321563-202602k.shtml"
-        },
-        {
-          "source": "Euronews Italiano",
-          "angle": "Sottolinea eliminazione boss da esercito e necessità di controllare reazione cartello",
-          "link": "http://it.euronews.com/2026/02/23/esplode-la-violenza-in-messico-dopo-luccisione-da-parte-dellesercito-de-el-mencho-boss-del"
-        }
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
       ],
-      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Scontri in Messico causano 58 morti dopo eliminazione boss El Mencho",
+      "source": "TGCOM24",
+      "summary": "Almeno 58 persone muoiono negli scontri tra polizia e cartelli dopo la morte del boss della droga Nemesio Oseguera Cervantes detto El Mencho, tra cui una donna incinta e 25 agenti. L'intelligence Usa si congratula. Le violenze continuano e il governo messicano rafforza le operazioni antidroga.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/messico-scontri-polizia-el-mencho-morti_109321563-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
       "category": "conflict",
       "region": "americas",
       "importance": "major"
     },
     {
-      "title": "Oman conferma colloqui USA-Iran sul nucleare giovedì a Ginevra",
-      "source": "Euronews Italiano",
-      "sources": [
-        "Euronews Italiano",
-        "la Repubblica"
-      ],
-      "summary": "L'Oman annuncia nuovi negoziati tra Stati Uniti e Iran giovedì a Ginevra sul programma nucleare, nonostante minacce di Trump di attacchi limitati. Teheran coordina con Hezbollah e acquista missili russi. Fallimento diplomatico potrebbe portare a opzioni militari, influenzando tensioni regionali.",
-      "link": "http://it.euronews.com/2026/02/23/loman-conferma-i-nuovi-colloqui-usa-iran-sul-nucleare-si-svolgeranno-giovedi-a-ginevra",
-      "tier": "top",
-      "framings": [
-        {
-          "source": "Euronews Italiano",
-          "angle": "Conferma data colloqui e nota minacce Trump con apertura diplomatica",
-          "link": "http://it.euronews.com/2026/02/23/loman-conferma-i-nuovi-colloqui-usa-iran-sul-nucleare-si-svolgeranno-giovedi-a-ginevra"
-        },
-        {
-          "source": "la Repubblica",
-          "angle": "Descrive distanze posizioni e preparativi Iran con Hezbollah e missili russi",
-          "link": "https://www.repubblica.it/esteri/2026/02/23/news/iran_usa_nuovi_colloqui_armi_russia-425176655/?rss"
-        }
-      ],
-      "singleSource": false,
-      "category": "politics",
-      "region": "middle-east",
-      "importance": "notable"
-    },
-    {
-      "title": "Corte Suprema USA annulla dazi illegali, Ue e Cina chiedono revoca a Trump",
-      "source": "Euronews Italiano",
-      "sources": [
-        "Euronews Italiano",
-        "TGCOM24"
-      ],
-      "summary": "La Corte Suprema statunitense invalida alcuni dazi imposti da Trump, dichiarati illegali. Commissione Ue sollecita rispetto impegni commerciali e sospende ratifica accordo Ue-Usa. Cina invoca stop guerra commerciale. Decisione impatta scambi globali e relazioni bilaterali.",
-      "link": "http://it.euronews.com/2026/02/23/sentenza-corte-suprema-usa-su-dazi-illegali-lue-chiede-a-trump-di-mantenere-impegni-commer",
-      "tier": "top",
-      "framings": [
-        {
-          "source": "Euronews Italiano",
-          "angle": "Riporta richiesta Ue a Trump e proposta sospensione ratifica accordo commerciale",
-          "link": "http://it.euronews.com/2026/02/23/sentenza-corte-suprema-usa-su-dazi-illegali-lue-chiede-a-trump-di-mantenere-impegni-commer"
-        },
-        {
-          "source": "TGCOM24",
-          "angle": "Cita nota Cina su assenza vincitori in guerra commerciale",
-          "link": "https://www.tgcom24.mediaset.it/mondo/dazi-usa-cina-chiede-revoca_109321566-202602k.shtml"
-        }
-      ],
-      "singleSource": false,
-      "category": "economy",
-      "region": "global",
-      "importance": "major"
-    },
-    {
-      "title": "Polizia arresta imprenditore Ciro Caliendo per omicidio moglie a San Severo",
-      "source": "AGI",
-      "sources": [
-        "AGI",
-        "Rai News"
-      ],
-      "summary": "Agenti Squadra Mobile Foggia arrestano Ciro Caliendo, 48 anni, per omicidio premeditato della moglie Lucia Salcone, 47 anni, uccisa in finto incidente stradale il 27 settembre 2024. Ferita sulla testa e incendio auto rivelano真相. Indagini proseguono con sopralluoghi.",
-      "link": "https://www.agi.it/cronaca/news/2026-02-23/san-severo-uccise-moglie-finto-incidente-imprenditore-35751676/",
-      "tier": "also",
-      "framings": [
-        {
-          "source": "AGI",
-          "angle": "Dettaglia indagini su incidente archiviato e arresto per premeditazione",
-          "link": "https://www.agi.it/cronaca/news/2026-02-23/san-severo-uccise-moglie-finto-incidente-imprenditore-35751676/"
-        },
-        {
-          "source": "Rai News",
-          "angle": "Sottolinea segno ferita sulla testa e carbonizzazione corpo",
-          "link": "https://www.rainews.it/articoli/2026/02/foggia-morta-in-un-incidente-stradale-arrestato-il-marito-omicidio-premeditato-93993180-0acf-4435-b421-8ba22e290484.html"
-        }
-      ],
-      "singleSource": false,
-      "category": "society",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Kim Jong-un ottiene rielezione come segretario generale Partito Lavoratori Corea",
-      "source": "AGI",
-      "summary": "Kim Jong-un viene rieletto segretario generale del Partito dei Lavoratori durante nono congresso, come riportato da media statali KCNA. Promette miglioramenti standard vita nonostante difficoltà economiche. Rafforza leadership in contesto isolamento internazionale.",
-      "link": "https://www.agi.it/estero/news/2026-02-23/kim-rirletto-capo-partito-nordcorea-35751326/",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "AGI"
-      ],
-      "category": "politics",
-      "region": "asia-pacific",
-      "importance": "notable"
-    },
-    {
-      "title": "Zelensky accusa Putin di aver scatenato Terza guerra mondiale",
+      "title": "Parlamento Ue sospende lavori e blocca ratifica dazi Trump",
       "source": "TGCOM24",
-      "summary": "Volodymyr Zelensky dichiara in intervista BBC che Putin ha già iniziato Terza guerra mondiale e va fermato. Promette ritorno confini 1991. Dichiarazione arriva prima anniversario invasione, rafforza appello aiuti occidentali contro aggressione russa.",
-      "link": "https://www.tgcom24.mediaset.it/mondo/zelensky-putin-terza-guerra-mondiale_109321286-202602k.shtml",
-      "tier": "also",
+      "summary": "Il parlamento europeo interrompe i lavori e sospende la ratifica dei dazi Usa passati dal 10 al 15 per cento annunciati da Trump. Ministro Tajani propone nuova base giuridica per negoziati. La mossa evita escalation commerciale e apre a dialoghi G7.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/dazi-usa-ue-bruxelles-sospende-lavori-voto_109340816-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Parlamento europeo sospende i lavori e blocca la ratifica dei dazi imposti da Trump",
       "singleSource": true,
       "sources": [
         "TGCOM24"
@@ -139,75 +47,39 @@
       "importance": "major"
     },
     {
-      "title": "Enel pianifica investimenti per 53 miliardi euro periodo 2026-2028",
-      "source": "Il Sole 24 Ore",
-      "summary": "Enel annuncia piano strategico con 53 miliardi euro investimenti dal 2026 al 2028. Focus su transizione energetica e crescita. Decisione sostiene obiettivi sostenibilità e impatta settore utilities italiano ed europeo.",
-      "link": "https://www.ilsole24ore.com/art/enel-investimenti-53-miliardi-periodo-2026-2028-AIhRJjZB",
+      "title": "Medico legale rivela strangolamento violento su Andromeda negli omicidi Villa Pamphili",
+      "source": "TGCOM24",
+      "summary": "Il medico legale testimonia che Francis Kaufmann strangola con forza la piccola Andromeda dopo digiuno prolungato negli omicidi di Villa Pamphili, con traumi sul capo. Il processo contro l'americano continua a Roma. Il caso evidenzia violenze familiari estreme.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/villa-pamphili-omicidi-francis-kaufmann-processo-figlia-strangolata_109335585-202602k.shtml",
       "tier": "also",
       "singleSource": true,
       "sources": [
-        "Il Sole 24 Ore"
+        "TGCOM24"
       ],
-      "category": "economy",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "Procuratori rivelano intercettazioni Toti su manipolazione dati COVID Liguria",
-      "source": "Corriere della Sera",
-      "summary": "Giovanni Toti ammette a collaboratori di aver truccato dati contagi COVID, secondo pm liguri. Nuove intercettazioni mostrano contatti con imprenditore Spinelli su elezioni. Indagine approfondisce corruzione e falsi, con rischi per governance regionale.",
-      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Emergono intercettazioni su truccatura numeri contagi e incontri yacht con Spinelli prima elezioni",
-      "sources": [
-        "Corriere della Sera"
-      ],
-      "singleSource": true,
-      "category": "politics",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Pm Liguria pubblicano intercettazioni Toti con Spinelli su elezioni",
-      "source": "Corriere della Sera",
-      "summary": "Giovanni Toti discute con imprenditore Spinelli richieste pre-elettorali su yacht, secondo intercettazioni. Frasi come 'Ti chiedo un po’ di robe'. Indagine lega a manipolazione dati COVID, minaccia posizione politica Toti.",
-      "link": "https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Rivelate immagini e dialoghi incontri yacht con Spinelli, collegati a indagini corruzione",
-      "sources": [
-        "Corriere della Sera"
-      ],
-      "singleSource": true,
-      "category": "politics",
+      "category": "society",
       "region": "europe",
       "importance": "notable"
     }
   ],
   "metadata": {
-    "sourcesUsed": 8,
-    "articlesProcessed": 252,
-    "articlesAfterDedup": 252,
+    "sourcesUsed": 2,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 255,
     "articlesAfterDiversity": 40,
-    "articlesAfterFilter": 18,
+    "articlesAfterFilter": 5,
     "categoryCounts": {
+      "politics": 2,
       "conflict": 1,
-      "politics": 5,
-      "economy": 2,
       "society": 1
     },
     "regionCounts": {
-      "americas": 1,
-      "middle-east": 1,
-      "global": 1,
-      "europe": 5,
-      "asia-pacific": 1
+      "europe": 3,
+      "americas": 1
     },
     "tierCounts": {
-      "top": 3,
-      "also": 4,
-      "developing": 2
+      "top": 2,
+      "developing": 1,
+      "also": 1
     }
   }
 }

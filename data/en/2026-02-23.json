@@ -1,0 +1,180 @@
+{
+  "date": "2026-02-23",
+  "summary": "<p>Mexican army forces killed Nemesio Oseguera Cervantes, known as El Mencho and leader of the Jalisco New Generation Cartel, during an operation in Jalisco state on Sunday. Cartel members carried out retaliatory arson attacks and road blockades in eight states, leading to school closures and stay-at-home orders. Local residents, schools, businesses, and travelers in those states are affected. Internal power struggles among cartel factions are expected next.</p>\n\n<p>In the United States, the Supreme Court struck down Trump-era tariffs imposed under a 1977 law. Bitcoin prices fell 5 percent to below $65,000, and Asian stock markets recorded mixed results. The Trump administration plans to introduce new 15 percent duties on global imports. China and the European Union have urged cancellation of the tariffs. US consumers, investors, and international trade partners are affected.</p>\n\n<p>Separately, NATO initiated its first coordinated operation following the severance of another undersea cable in the Baltic Sea amid an ongoing suspected sabotage campaign. Critical infrastructure operators and NATO member states are affected.<br>In the Horn of Africa, Ethiopia and Eritrea have increased military preparations over Ethiopia's Red Sea access claims, with clashes escalating along the Tigray border. Local border populations and neighboring countries are affected.<br>Israel allowed displaced Palestinians to enter northern Gaza by crossing a military zone after a hostage release agreement. More than one million Palestinians had been displaced previously. Humanitarian access improves for those returning.<br>Russian drones struck infrastructure in Ukraine's Odesa region overnight, killing three people and wounding several others. Civilians and energy facilities are affected.<br>In Nepal, a bus from Pokhara to Kathmandu plunged off the Prithvi Highway after midnight, killing 17 people, wounding 24, and leaving one Chinese national missing. Passengers and tourists are affected.</p>",
+  "headlines": [
+    {
+      "title": "Mexican army kills Jalisco New Generation Cartel leader El Mencho in operation",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "New York Times",
+        "NPR",
+        "ABC Australia",
+        "France 24"
+      ],
+      "summary": "Mexican army killed Nemesio Oseguera Cervantes, 'El Mencho,' in a Jalisco state operation Sunday, decapitating Mexico's most powerful cartel. Retaliatory arson and blockades hit eight states, prompting school closures and stay-home orders. This weakens cartels but risks power vacuums and violence escalation, affecting regional security and US drug flows.",
+      "link": "https://apnews.com/article/jalisco-cartel-drugs-mexico-mencho-new-generation-5014a70bc62a81d74849146c59ba19f8",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Details army operation Sunday killing El Mencho and government official confirmation",
+          "link": "https://apnews.com/article/jalisco-cartel-drugs-mexico-mencho-new-generation-5014a70bc62a81d74849146c59ba19f8"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Highlights El Mencho's long leadership and post-death arson across Mexico",
+          "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html"
+        },
+        {
+          "source": "NPR",
+          "angle": "Focuses on fears of increased violence schools canceled and stay-home warnings",
+          "link": "https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Describes gunfight death and retaliation with fires blockades in eight states",
+          "link": "https://www.abc.net.au/news/2026-02-23/el-mencho-mexico-drug-cartels-leader-death-sparks-chaos/106376506"
+        },
+        {
+          "source": "France 24",
+          "angle": "Explains wounding during arrest transfer death and nationwide arson blockades",
+          "link": "https://www.france24.com/en/americas/20260223-how-mexico-killed-the-powerful-drug-kingpin-el-mencho-and-what-it-means"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NATO mounts first coordinated response to Baltic Sea deep-sea cable sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO launches its first coordinated operation after another undersea cable severance in the Baltic Sea amid suspected sabotage campaign. Critical infrastructure operators and alliance members affected. Signals heightened alliance vigilance against hybrid threats from Russia, impacting transatlantic security.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "US Supreme Court nixes Trump tariffs as bitcoin falls 5 percent below $65000",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "France 24",
+        "Associated Press"
+      ],
+      "summary": "US Supreme Court strikes down Trump-era tariffs under 1977 law prompting bitcoin drop below $65,000 and mixed Asian markets. Investors US consumers and global trade partners affected. Trump plans new 15 percent duties; China EU urge cancellations affecting economic stability.",
+      "link": "https://www.thehindu.com/business/markets/us-futures-bitcoin-fall-asian-markets-mixed-after-supreme-court-nixes-trumps-tariffs/article70665873.ece",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Reports bitcoin 5 percent tumble below $65000 and investor shift from speculative assets",
+          "link": "https://www.thehindu.com/business/markets/us-futures-bitcoin-fall-asian-markets-mixed-after-supreme-court-nixes-trumps-tariffs/article70665873.ece"
+        },
+        {
+          "source": "France 24",
+          "angle": "Covers China urging US to cancel tariffs after Supreme Court ruling on Trump powers",
+          "link": "https://www.france24.com/en/asia-pacific/20260223-china-us-cancel-trump-era-tariffs-supreme-court"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Details EU demanding US honor trade deal clarity post court blocking Trump tariffs",
+          "link": "https://apnews.com/article/eu-us-trump-tariffs-commission-trade-8c5f9fa35d9f0f13afef0ddbaf88b1f6"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Palestinians stream back into northern Gaza after hostage release breakthrough",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Gazans to cross military zone into northern Gaza following hostage deal resolution. Over one million Palestinians affected by prior displacements. Eases humanitarian crisis but ongoing risks amid conflict impact regional stability.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel allowed foot returns yesterday; today residents stream back after hostage deadlock broken",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russian strikes kill three people wound several in Ukraine Odesa region",
+      "source": "France 24",
+      "summary": "Russian drones hit Odesa infrastructure overnight killing three wounding others ahead of war's four-year mark. Civilians energy sectors affected across Ukraine. Intensifies assaults signaling no ceasefire soon matters for European security aid needs.",
+      "link": "https://www.france24.com/en/europe/20260223-deadly-russian-drone-attack-targets-zaporizhzhia-as-strikes-intensify-across-ukraine",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nepal bus plunges off Prithvi highway killing 17 wounding 24",
+      "source": "South China Morning Post",
+      "summary": "Bus from Pokhara to Kathmandu veers off mountain highway after midnight killing 17 injuring 24 one Chinese missing. Passengers tourists affected. Highlights poor road safety in Himalayas impacting regional travel confidence.",
+      "link": "https://www.scmp.com/news/asia/south-asia/article/3344305/bus-plunges-nepal-mountain-highway-17-dead-chinese-national-missing?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Eritrea Ethiopia prepare for war over Red Sea access Tigray border clashes",
+      "source": "AllAfrica",
+      "summary": "Ethiopia Eritrea heighten war preparations amid Ethiopia's Red Sea claims provoking Eritrea border violence escalates in Tigray. Border populations regional powers affected. Risks new Horn of Africa conflict disrupting trade migration.",
+      "link": "https://allafrica.com/stories/202602230020.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 477,
+    "articlesAfterDedup": 475,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "economy": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 2,
+      "middle-east": 1,
+      "asia-pacific": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 1,
+      "also": 3
+    }
+  }
+}

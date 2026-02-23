@@ -1,0 +1,117 @@
+{
+  "weekId": "2026-W07",
+  "startDate": "2026-02-16",
+  "endDate": "2026-02-22",
+  "summary": "Weekly News Briefing: February 16-22, 2026\n\nDiplomatic breakthroughs dominated the week. On February 17, U.S. and Iranian negotiators began their second round of nuclear talks in Geneva, overshadowed by naval deployments and drills. By February 18, they announced guiding principles for future discussions, marking a potential de-escalation amid heightened tensions. That same day, Ukrainian and Russian delegations resumed U.S.-mediated peace talks in Geneva, the first such session in months.\n\nConflicts saw significant escalations. Rwanda-backed rebels entered the Congolese safe-haven city of Goma on February 17, trapping one million displaced persons. The crisis intensified by February 22, when the rebels overran government troops and fully entered Goma. In Syria, the Syrian Army advanced into Kurdish-held regions in the north on February 17, while U.S.-backed Kurdish forces withdrew from 24 ISIS prisons holding thousands of detainees on February 19, raising security concerns. On February 22, a UN mission reported that the Rapid Support Forces (RSF) siege of El Fasher in Sudan bears hallmarks of genocide. Pakistan conducted cross-border strikes into Afghanistan on February 22, killing dozens of civilians.\n\nOther notable developments included North Korean leader Kim Jong Un unveiling nuclear-capable rocket launchers on February 19 ahead of a party congress. In space, NASA and SpaceX launched the Crew-10 mission on February 19 with four astronauts tasked to retrieve two crew members stuck on the International Space Station; this story gained prominence through the week.\n\nAdditionally, 85 UN member states condemned Israel's West Bank expansion as de facto annexation on February 18.\n\nStories that persisted and developed included the U.S.-Iran nuclear talks, the Congo rebel advance into Goma, and the NASA-SpaceX Crew-10 mission, which escalated in coverage. Several others faded quickly after single-day mentions: Syrian Army advances into Kurdish areas (February 17), initial Rwanda-backed rebel entry into Goma (February 17), Israel allowing Palestinians to return to northern Gaza after a hostage release breakthrough, and NATO's first coordinated response to suspected Baltic Sea deep-sea cable sabotage.\n\n(Word count: 378)",
+  "persistentStories": [],
+  "fadedStories": [
+    "U.S. and Iran hold second nuclear talks in Geneva amid naval deployments and drills",
+    "Syrian Army advances into Kurdish-held regions across northern Syria",
+    "Rwanda-backed rebels enter Congo safe-haven city of Goma trapping one million displaced",
+    "Israel allows Palestinians to return to northern Gaza after hostage release breakthrough",
+    "NATO launches first coordinated response to suspected Baltic Sea deep-sea cable sabotage",
+    "California braces for winter storm bringing heavy rain snow thunderstorms and high winds",
+    "U.S. women's hockey team advances to Olympic gold game after outscoring rivals 31-1",
+    "Trump pressures Ukraine for territorial concessions during Russia-Ukraine Geneva peace talks",
+    "Iran and U.S. negotiators reach guiding principles in second Geneva nuclear talks",
+    "Ukrainian and Russian negotiators resume U.S.-mediated peace talks in Geneva"
+  ],
+  "escalatedStories": [
+    "NASA and SpaceX launch Crew-10 with four astronauts to retrieve two stuck ISS crew"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-02-17",
+      "title": "U.S. and Iran hold second nuclear talks in Geneva amid naval deployments and drills",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "Syrian Army advances into Kurdish-held regions across northern Syria",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "Rwanda-backed rebels enter Congo safe-haven city of Goma trapping one million displaced",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "Iran and U.S. negotiators reach guiding principles in second Geneva nuclear talks",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "Ukrainian and Russian negotiators resume U.S.-mediated peace talks in Geneva",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "85 UN member states condemn Israel's West Bank expansion as de facto annexation",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "U.S.-backed Kurdish forces withdraw from 24 ISIS prisons holding thousands in Syria",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "North Korean leader Kim Jong Un unveils nuclear-capable rocket launchers for party congress",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "NASA and SpaceX launch Crew-10 with four astronauts to retrieve two stuck on ISS",
+      "category": "science",
+      "region": "global"
+    },
+    {
+      "date": "2026-02-22",
+      "title": "UN mission finds RSF siege of El Fasher bears hallmarks of genocide",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-02-22",
+      "title": "Pakistan launches cross-border strikes in Afghanistan killing dozens of civilians",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-02-22",
+      "title": "Rwanda-backed rebels overrun troops and enter Congo safe-haven city Goma",
+      "category": "conflict",
+      "region": "africa"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1883,
+    "totalSourcesUsed": 12,
+    "daysWithData": 4,
+    "categoryCounts": {
+      "politics": 10,
+      "conflict": 15,
+      "science": 4,
+      "environment": 3,
+      "society": 6,
+      "economy": 2
+    },
+    "regionCounts": {
+      "global": 6,
+      "middle-east": 11,
+      "africa": 6,
+      "europe": 4,
+      "americas": 9,
+      "asia-pacific": 4
+    }
+  }
+}

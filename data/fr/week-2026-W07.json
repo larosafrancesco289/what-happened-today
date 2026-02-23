@@ -1,0 +1,102 @@
+{
+  "weekId": "2026-W07",
+  "startDate": "2026-02-16",
+  "endDate": "2026-02-22",
+  "summary": "Briefing hebdomadaire : 16 au 22 février 2026\n\nCette semaine a été marquée par une intensification des initiatives de Donald Trump au Moyen-Orient et sur le plan économique mondial, ainsi que par des tensions persistantes en Ukraine et en Asie du Sud. Les histoires les plus significatives concernent les actions américaines à Gaza et face à l'Iran, les négociations russo-américaines sur l'Ukraine, et une hausse des droits de douane.\n\nLe 16 février, Donald Trump a exigé la démilitarisation complète et immédiate du Hamas à Gaza, tandis que le gouvernement Netanyahu approuvait un plan d'enregistrement foncier en Cisjordanie occupée. L'Inde accueillait par ailleurs un sommet mondial sur l'intelligence artificielle réunissant vingt chefs d'État. Ces événements n'ont cependant fait l'objet d'aucune suite notable et ont disparu des gros titres dès le lendemain.\n\nLe 19 février, Trump a réuni pour la première fois le Conseil de paix à Washington, annonçant une aide de 5 milliards de dollars pour Gaza. Parallèlement, la Russie négociait des accords économiques bilatéraux massifs avec les États-Unis en marge des pourparlers de paix sur l'Ukraine. Une équipe de recherche internationale estimait que la mortalité à Gaza était sous-évaluée de 35 % par les autorités locales. Les États-Unis ont déployé une force navale et aérienne au Moyen-Orient, prêts à des frappes contre l'Iran sur ordre de Trump pour le week-end. Ces développements sur Gaza et l'Iran ont maintenu une visibilité accrue tout au long de la semaine, sans résolution apparente.\n\nLe 22 février, Trump a augmenté ses droits de douane mondiaux de 10 % à 15 %, une mesure potentiellement liée aux tensions commerciales. Les autorités ukrainiennes ont signalé une attaque aux missiles balistiques sur Kiev, dans un contexte de négociations en cours. Le Pakistan a mené des frappes aériennes sélectives contre des groupes armés en Afghanistan.\n\nParmi les histoires éphémères apparues un seul jour figurent également une série d'attaques djihadistes au Burkina Faso ayant tué au moins dix personnes, et l'interception par les États-Unis du pétrolier Veronica III dans l'océan Indien près des Caraïbes. Ces événements n'ont pas évolué.\n\nAucune affaire majeure n'a été résolue cette semaine, mais les initiatives de Trump sur Gaza, l'Iran et les douanes, ainsi que les tensions ukrainiennes, se sont développées sans conclusion. Les négociations russo-américaines sur l'Ukraine persistent en marge des accords économiques. (378 mots)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Donald Trump exige démilitarisation complète et immédiate du Hamas à Gaza",
+    "Inde accueille sommet mondial intelligence artificielle avec vingt chefs d'État",
+    "Gouvernement Netanyahu approuve plan enregistrement foncier Cisjordanie occupée",
+    "Série attaques djihadistes tue au moins dix personnes au Burkina Faso",
+    "États-Unis interceptent pétrolier Veronica III dans océan Indien près Caraïbes",
+    "Chine promet nouvelle aide humanitaire à l'Ukraine en pleine agitation diplomatique",
+    "Canada annonce stratégie éliminer dépendance défense États-Unis en dix ans",
+    "Ministre français Intérieur Laurent Nunez entame visite officielle deux jours Algérie",
+    "Donald Trump réunit Conseil de paix première fois Washington annonce 5 milliards dollars Gaza",
+    "Russie négocie accords économiques bilatéraux massifs États-Unis marge pourparlers paix Ukraine"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-02-16",
+      "title": "Donald Trump exige démilitarisation complète et immédiate du Hamas à Gaza",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "Inde accueille sommet mondial intelligence artificielle avec vingt chefs d'État",
+      "category": "science",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "Gouvernement Netanyahu approuve plan enregistrement foncier Cisjordanie occupée",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "Donald Trump réunit Conseil de paix première fois Washington annonce 5 milliards dollars Gaza",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "Russie négocie accords économiques bilatéraux massifs États-Unis marge pourparlers paix Ukraine",
+      "category": "economy",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "Équipe recherche internationale estime mortalité Gaza sous-évaluée 35 pour cent autorités locales",
+      "category": "science",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "États-Unis déploient force navale aérienne Moyen-Orient prêts frappes Iran week-end ordre Trump",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-22",
+      "title": "Donald Trump augmente ses droits de douane mondiaux de 10 % à 15 %",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-22",
+      "title": "Autorités ukrainiennes signalent attaque aux missiles balistiques sur Kiev",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-22",
+      "title": "Pakistan mène frappes aériennes sélectives contre groupes armés en Afghanistan",
+      "category": "conflict",
+      "region": "asia-pacific"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 644,
+    "totalSourcesUsed": 9,
+    "daysWithData": 3,
+    "categoryCounts": {
+      "conflict": 8,
+      "science": 2,
+      "politics": 8,
+      "economy": 4,
+      "society": 5,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 6,
+      "asia-pacific": 4,
+      "africa": 3,
+      "global": 3,
+      "americas": 4,
+      "europe": 8
+    }
+  }
+}

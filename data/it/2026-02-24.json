@@ -1,0 +1,170 @@
+{
+  "date": "2026-02-24",
+  "summary": "Gli Stati Uniti hanno applicato dazi del 10% sulle merci importate alle 6 ora italiana, dopo che la Corte Suprema ha respinto un ricorso contro le tariffe globali imposte da Trump. Pechino valuta l'impatto economico e chiede la revoca delle barriere unilaterali. Trump ha promesso un aumento al 15%, con esclusioni per alcuni beni. Questo fa seguito al blocco della ratifica dei dazi da parte del Parlamento Ue ieri e influenza i commerci globali e le tensioni con i partner commerciali.\n\nIl presidente ucraino Zelensky è intervenuto in videoconferenza alla plenaria del Parlamento Ue, mentre i vertici dell'Unione hanno visitato Kiev per il secondo anniversario dell'invasione russa. Von der Leyen ha postato su X un appello per la pace alle condizioni di Kiev. Questo rafforza il sostegno europeo all'Ucraina. Un terremoto di magnitudo 5.6 ha colpito il nord-est di Taiwan, con epicentro in mare largo la contea di Yilan a profondità 66,8 km. Le autorità hanno emesso un'allerta tsunami e monitorano danni a Taipei e onde anomale.\n\nUn ordigno è esploso vicino alla stazione Savolovsky a Mosca, uccidendo un poliziotto e ferendo due agenti. Le autorità indagano origine e movente, senza rivendicazioni immediate. Una nevicata ha lasciato 600.000 persone senza elettricità nel nord-est degli Usa, con 300.000 utenze staccate nel Massachusetts; gli interventi per il ripristino sono in corso. In Liguria, la Procura accusa il governatore Toti di manipolazione dati Covid sui contagi, basandosi su intercettazioni in cui ammette aumenti numerici al capo gabinetto; l'inchiesta procede con audizioni. I sindacati annunciano scioperi aerei e ferroviari giovedì 26 febbraio, con stop a voli e treni nazionali. Peter Mandelson, ex ambasciatore britannico arrestato ieri nel caso Epstein, è stato rilasciato su cauzione; le indagini sulla rete di relazioni proseguono.",
+  "headlines": [
+    {
+      "title": "Stati Uniti applicano dazi al 10% sulle merci importate dopo sentenza Corte Suprema",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "I dazi Usa al 10% entrano in vigore alle 6 ora italiana dopo che la Corte Suprema respinge ricorso contro tariffe globali imposte da Trump. Pechino valuta impatto e chiede revoca barriere unilaterali. Trump promette aumento al 15%, con esclusioni per alcuni beni. Influenza commerci globali e tensioni con partner.",
+      "link": "https://www.agi.it/economia/news/2026-02-24/dazi-trump-corte-suprema-fedex-35766986/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive entrata in vigore dazi al 10% dopo sentenza Corte Suprema e promessa Trump di aumento al 15%",
+          "link": "https://www.agi.it/economia/news/2026-02-24/dazi-trump-corte-suprema-fedex-35766986/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta reazione Cina che valuta impatto sentenza e chiede revoca barriere unilaterali da Washington",
+          "link": "https://www.repubblica.it/esteri/2026/02/24/news/dazi_cina_tariffe_xi_trump-425179385/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky interviene in videoconferenza alla plenaria Parlamento Ue",
+      "source": "TGCOM24",
+      "summary": "Zelensky partecipa oggi in videocollegamento alla seduta Ue mentre vertici Unione visitano Kiev per secondo anniversario guerra. Von der Leyen su X invoca pace alle condizioni di Kiev. Rafforza sostegno europeo all'Ucraina contro Russia.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-1462-giorno-di-guerra_109351067-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Terremoto magnitudo 5.6 colpisce nord-est Taiwan con allerta tsunami",
+      "source": "Rai News",
+      "summary": "Sisma epicentro in mare largo contea Yilan a profondità 66,8 km agita Taipei. Autorità emettono allerta tsunami. Monitoraggio danni e onde anomale in corso per valutare impatti su popolazione.",
+      "link": "https://www.rainews.it/articoli/2026/02/taipei-terremoto-magnitudo-56-e-allerta-tsunami-9b2be8a2-a0d2-43a4-b0e9-f09ca99a1495.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ordigno esplode vicino stazione Savolovsky Mosca uccide poliziotto",
+      "source": "Euronews Italiano",
+      "summary": "Attentato causa morte poliziotto e ferisce due agenti. Autorità indagano origine e movente ordigno non identificato. Indagini preliminari escludono rivendicazioni immediate.",
+      "link": "http://it.euronews.com/2026/02/24/un-poliziotto-ucciso-due-feriti-in-attentato-a-mosca",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Tempesta neve nord-est Usa lascia 600.000 persone senza elettricità",
+      "source": "TGCOM24",
+      "summary": "Nevicata violenta colpisce Massachusetts con 300.000 utenze staccate e resto nord-est. Interventi per ripristino rete elettrica in corso. Impatta mobilità e servizi essenziali.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/usa-tempesta-di-neve-600-000-persone-al-buio_109351535-02k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pm Liguria accusano Toti di manipolazione dati Covid sui contagi",
+      "source": "Corriere della Sera",
+      "summary": "Indagine rivela intercettazioni dove governatore Toti ammette ad aumentato numeri contagi al capo gabinetto. Procura indaga su falsificazione dati pandemia. Procede inchiesta con audizioni.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Sindacati annunciano scioperi aereo e ferroviario giovedì 26 febbraio",
+      "source": "ANSA",
+      "summary": "Mobilitazioni concentrate in trasporti con stop programmati. Impattano voli e treni nazionali. Passeggeri verificano aggiornamenti per alternative viarie.",
+      "link": "https://www.ansa.it/sito/videogallery/economia/2026/02/22/tornano-gli-scioperi-in-arrivo-gli-stop-nei-settori-aereo-e-ferroviario_070993fc-c9ec-4883-aa41-06b79092e738.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Polizia rilascia su cauzione Peter Mandelson dopo arresto Epstein",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "la Repubblica"
+      ],
+      "summary": "Ex ambasciatore britannico fermato per aver condiviso segreti Stato con Epstein esce su cauzione. Segue arresto ex principe Andrea. Indagini proseguono su rete relazioni.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/jeffrey-epstein-arrestato-peter-mandelson-regno-unito-ambasciatore_109342909-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Polizia rilascia Mandelson su cauzione dopo fermo per rivelazione segreti a Epstein",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Sottolinea arresto Mandelson per rapporto con Epstein e accusa rivelazione segreti Stato",
+          "link": "https://www.tgcom24.mediaset.it/mondo/jeffrey-epstein-arrestato-peter-mandelson-regno-unito-ambasciatore_109342909-202602k.shtml"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta rilascio su cauzione ex ambasciatore fermato per documenti riservati condivisi con Epstein",
+          "link": "https://www.repubblica.it/esteri/2026/02/24/news/l_ex_ministro_peter_mandelson_e_stato_rilasciato_su_cauzione-425179416/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 256,
+    "articlesAfterDedup": 256,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "economy": 1,
+      "politics": 3,
+      "environment": 2,
+      "conflict": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 5,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

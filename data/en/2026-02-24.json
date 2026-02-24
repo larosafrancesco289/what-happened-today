@@ -1,0 +1,219 @@
+{
+  "date": "2026-02-24",
+  "summary": "A UN-mandated fact-finding mission reports that the Rapid Support Forces' 18-month siege and capture of El Fasher, capital of North Darfur in Sudan, inflicted conditions intended to destroy Zaghawa and Fur ethnic groups. The findings describe hallmarks of genocide amid Sudan's civil war between the RSF and Sudanese Armed Forces. Displaced populations face ongoing atrocities, escalating calls for international intervention.\n\nRwanda-backed M23 rebels overran Congolese troops and entered Goma, a safe-haven city in eastern Democratic Republic of Congo. Gunfire and shelling occurred as over 1 million displaced people now shelter there, according to UN estimates. The incursion threatens Goma's role as a key humanitarian aid hub and raises risks of refugee outflows to neighboring countries. Separately, EU Commission President Ursula von der Leyen arrived in Kyiv on the fourth anniversary of Russia's 2022 invasion. The visit reinforces EU solidarity as Ukraine faces frontline stalemate, tens of thousands dead, and reconstruction needs. On the same day, Russia struck infrastructure in Zaporizhzhia, damaging key facilities and affecting civilian power supply.\n\nA 6.8-magnitude earthquake struck off Malaysia's Sabah coast, the strongest in the country in 11 years and surpassing the 2015 Ranau 6.0 event that killed 18. Tremors reached Singapore with no immediate deaths reported; coastal communities assess infrastructure damage. Renewed clashes in South Sudan's Jonglei state displaced nearly 280,000 civilians, damaged health facilities, and increased cholera risks amid climate shocks. Four Russian soldiers reported commanders executing troops for refusing Ukraine frontline orders, affecting morale in the protracted invasion. Rogue Kenyan agencies recruited over 1,000 nationals to fight for Russia, prompting parliamentary calls for crackdown. NASA and SpaceX launched Crew-10 from Kennedy Space Center with NASA, Japanese, and Russian astronauts to retrieve stranded crew Butch Wilmore and Suni Williams from the ISS. Mexico deployed thousands of soldiers nationwide after the raid killing cartel leader El Mencho and 62 others; clashes have ebbed under lockdowns. UK police released former US ambassador Peter Mandelson on bail after his arrest on suspicion of misconduct tied to Jeffrey Epstein. Israel permitted thousands of displaced Palestinians to return to northern Gaza after a hostage release breakthrough, easing conditions amid ceasefire talks.\"}",
+  "headlines": [
+    {
+      "title": "UN Mission Concludes RSF Siege of Sudan's El Fasher Bears Hallmarks of Genocide",
+      "source": "The Guardian",
+      "summary": "UN-mandated fact-finding mission reports RSF's 18-month siege and capture of North Darfur capital inflicted conditions to destroy Zaghawa and Fur ethnic groups. Affects displaced populations amid Sudan's civil war. Escalates calls for intervention in atrocities.",
+      "link": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "EU Chief Ursula von der Leyen Arrives in Kyiv to Mark Fourth Anniversary of Russian Invasion",
+      "source": "France 24",
+      "summary": "Von der Leyen visits war-torn Ukraine on February 24 anniversary of 2022 invasion, amid frontline stalemate and reconstruction needs. Tens of thousands dead, infrastructure devastated. Reinforces EU solidarity as Kyiv seeks sustained aid.",
+      "link": "https://www.france24.com/en/europe/20260224-live-ukraine-marks-four-years-of-war-with-russia-amid-reconstruction-challenges",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma Safe-Haven City",
+      "source": "Wall Street Journal",
+      "summary": "Rebels trigger gunfire and shelling in Goma, overrunning troops; UN estimates over 1 million displaced now shelter there. Threatens key humanitarian aid hub in eastern Congo. Risks massive refugee crisis and regional instability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "6.8-Magnitude Earthquake Strikes Off Sabah Coast in Strongest Quake for Malaysia in 11 Years",
+      "source": "South China Morning Post",
+      "summary": "Quake hits early Monday off Sabah, surpassing 2015 Ranau 6.0 event that killed 18; tremors reach Singapore, no immediate deaths reported. Affects coastal communities and infrastructure. Prompts seismic monitoring and preparedness upgrades.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3344426/sabah-quake-strongest-hit-malaysia-11-years-tremors-felt-singapore?utm_source=rss_feed",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Renewed Fighting in South Sudan Displaces Nearly 280,000 Civilians UN Agency Warns",
+      "source": "AllAfrica",
+      "summary": "Jonglei state clashes damage health facilities and fuel cholera spread, creating perfect storm with climate shocks. Nearly 280,000 affected needing urgent aid. Heightens famine risks in fragile nation.",
+      "link": "https://allafrica.com/stories/202602240010.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russian Soldiers Report Commanders Executing Troops for Refusing Ukraine Orders",
+      "source": "BBC World",
+      "summary": "Four soldiers describe witnessing executions of comrades refusing frontline orders in Ukraine war. Exposes command brutality affecting Russian forces. Erodes troop morale in protracted invasion.",
+      "link": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rogue Kenyan Agencies Lure Over 1,000 Nationals to Fight for Russia in Ukraine",
+      "source": "The Guardian",
+      "summary": "Parliament hears intelligence on rogue recruiters sending Kenyans to Russian frontlines. Over 1,000 affected amid ongoing operations. Sparks calls for crackdown, reveals Africa's proxy role in war.",
+      "link": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to International Space Station for Astronaut Retrieval",
+      "source": "Voice of America",
+      "summary": "Falcon 9 carries NASA, Japanese and Russian astronauts from Kennedy Space Center to relieve nine-month stranded Butch Wilmore and Suni Williams. Routine rotation resumes normal ISS operations. Strengthens space partnerships.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Russia Strikes Zaporizhzhia Infrastructure as Ukraine Marks Invasion Anniversary",
+      "source": "Al Jazeera English",
+      "summary": "Strikes damage infrastructure in Zaporizhzhia on war's fourth anniversary. Officials report impacts on key facilities. Affects civilians and power supply, prolonging Ukraine's defense challenges.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/24/live-russia-ukraine-war-enters-fifth-year-as-strikes-hit-zaporizhzhia?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Mexico Deploys Thousands of Soldiers to Quell Violence After Cartel Leader Killing",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "New York Times"
+      ],
+      "summary": "Military sends thousands of troops nationwide after El Mencho's death in raid killing 62 sparks clashes; violence now ebbs with lockdowns. Affects residents and tourists amid cartel tensions. Prevents power vacuum escalations.",
+      "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Government deploys thousands of soldiers as nationwide violence subsides following initial raid aftermath",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Emphasizes eruption of violence and deployment of thousands of soldiers to restore order",
+          "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Highlights violence ebbing one day later with residents and tourists staying indoors",
+          "link": "https://www.nytimes.com/live/2026/02/23/world/mexico"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "UK Releases Former US Ambassador Peter Mandelson After Epstein-Related Arrest",
+      "source": "New York Times",
+      "summary": "Police release Mandelson on suspicion of misconduct in public office tied to Jeffrey Epstein dealings following Monday arrest. Affects elite networks under scrutiny. Investigation proceeds amid public outrage.",
+      "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Suspect released after initial arrest as probe into Epstein connections continues",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Breakthrough",
+      "source": "Wall Street Journal",
+      "summary": "Military permits crossing of bisecting zone post-hostage release deadlock break; thousands stream back on foot. Eases plight of displaced Gazans. Signals potential de-escalation amid ceasefire talks.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Returns accelerate following breakthrough in hostage negotiations lifting prior restrictions",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 470,
+    "articlesAfterDedup": 470,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 7,
+      "politics": 3,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "africa": 4,
+      "europe": 4,
+      "asia-pacific": 1,
+      "global": 1,
+      "americas": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

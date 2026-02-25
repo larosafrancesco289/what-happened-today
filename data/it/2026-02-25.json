@@ -1,0 +1,193 @@
+{
+  "date": "2026-02-25",
+  "summary": "Donald Trump ha pronunciato il discorso sullo Stato dell'Unione più lungo della storia, durato 107 minuti davanti al Congresso degli Stati Uniti. Ha elogiato l'economia e le politiche anti-migranti, criticato la Corte Suprema sulla sentenza che ha portato all'applicazione di dazi al 10% sulle merci importate, e minacciato l'Iran sul programma nucleare. I democratici hanno protestato con interruzioni durante l'evento. Questo fa seguito all'applicazione dei dazi annunciata ieri. Si attendono dibattiti pre-elettorali influenzati dal discorso.\n\nDurante il discorso, la deputata democratica Ilhan Omar ha gridato 'sei tu l'assassino' e 'avete ucciso americani' mentre Trump accusava i democratici di favorire immigrati, e il deputato Al Green è stato espulso dall'aula per aver mostrato un cartello 'i neri non sono scimmie' riferito a un video su Trump e Obama. Separatamente, attivisti con Robert De Niro hanno organizzato un controevento accusando Trump di tradimento. L'amministrazione Trump ha avviato una causa contro l'Università della California per aver ignorato richieste di aiuto da parte di dipendenti ebrei e israeliani su presunta discriminazione. Udienze sono in arrivo che potrebbero influenzare le politiche universitarie.\n\nLe forze Nato in Turchia hanno riorientato la sorveglianza aerea verso l'Iran, spostandola dal Golfo Persico e dal Caucaso, in risposta alle minacce di attacco annunciate da Trump. In Ucraina, il consigliere Podolyak ha chiesto il divieto della propaganda filorussa, invitando i sostenitori a recarsi in Russia; il Cremlino ha dichiarato obiettivi non raggiunti nel conflitto e accusato Londra e Parigi di preparare armi nucleari per Kiev. Questo fa seguito all'intervento di Zelensky al Parlamento Ue ieri. A Napoli, polizia e finanza hanno arrestato quattro persone del clan Contini per controllo su bar, ricoveri e certificati di scarcerazione all'ospedale San Giovanni Bosco tramite minacce e collusioni. Le indagini proseguono su altre attività.",
+  "headlines": [
+    {
+      "title": "Donald Trump pronuncia discorso record di 107 minuti sullo Stato dell'Unione",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "AGI",
+        "la Repubblica",
+        "Rai News",
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Donald Trump tiene il discorso sullo Stato dell'Unione più lungo della storia (1 ora e 47 minuti) davanti al Congresso, elogia economia e politiche anti-migranti, critica Corte Suprema sui dazi e minaccia Iran sul nucleare. Democratici protestano con interruzioni. L'evento polarizza Congresso e pubblico, influenzando dibattito pre-elettorale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/02/25/trump-allo-stato-dellunione-gli-usa-sono-tornati_8231da03-475a-41a7-bda9-a4877e87b9cd.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Trump annuncia ritorno Usa e critica giudici Corte Suprema sui dazi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/02/25/trump-allo-stato-dellunione-gli-usa-sono-tornati_8231da03-475a-41a7-bda9-a4877e87b9cd.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Trump avverte Iran su arma nucleare e missili che minacciano Europa",
+          "link": "https://www.agi.it/estero/news/2026-02-25/iran-trump-non-permetteremo-mai-che-abbiano-arma-nucleare-35786290/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Trump presenta bilancio anno e definisce sentenza dazi totalmente sbagliata",
+          "link": "https://www.repubblica.it/esteri/2026/02/25/news/il_discorso_di_trump_sullo_stato_dell_unione_l_america_e_tornata_questa_e_l_eta_dell_oro-425181955/?rss"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Trump centra discorso su politiche anti-migranti e dazi con proteste democratiche",
+          "link": "http://it.euronews.com/2026/02/25/politiche-anti-migranti-e-dazi-al-centro-del-discorso-fiume-di-trump-sullo-stato-dellunion"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Polizia e finanza arrestano 4 persone per controllo clan Contini su ospedale Napoli",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "TGCOM24"
+      ],
+      "summary": "Clan Contini gestiva bar, ricoveri e certificati scarcerazione all'ospedale San Giovanni Bosco di Napoli tramite minacce, prestanome e collusioni con dirigenti, tra cui un avvocato. Arresti colpiscono rete mafiosa in sanità pubblica, indagini proseguono su altre attività.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/25/un-ospedale-nelle-mani-del-clan-anche-un-avvocato-tra-i-4-arrestati_62a2498e-911f-4551-99b4-d945fd18851d.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Clan controlla ospedale con minacce e collusioni, arrestato anche avvocato",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/25/un-ospedale-nelle-mani-del-clan-anche-un-avvocato-tra-i-4-arrestati_62a2498e-911f-4551-99b4-d945fd18851d.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Gruppo gestiva bar, ricoveri e certificati per scarcerazioni nell'ospedale",
+          "link": "https://www.tgcom24.mediaset.it/cronaca/napoli-ospedale-san-giovanni-bosco-mafia_109384869-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Amministrazione Trump avvia causa contro Università California per antisemitismo",
+      "source": "TGCOM24",
+      "summary": "Governo Usa accusa ateneo di ignorare sistematicamente richieste aiuto da dipendenti ebrei e israeliani terrorizzati. Procedura legale mira a tutelare vittime discriminazione, con udienze in arrivo che potrebbero influenzare politiche universitarie.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/usa-l-amministrazione-trump-fa-causa-all-universita-della-california-per-antisemitismo_109382037-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Deputato democratico Al Green espone cartello e subisce espulsione da Congresso",
+      "source": "AGI",
+      "summary": "Al Green mostra cartello 'i neri non sono scimmie' riferito a video Trump su Obama, viene allontanato dall'aula durante discorso Stato Unione, come anno scorso. Gesto evidenzia tensioni razziali nel Congresso, indagini su video proseguono.",
+      "link": "https://www.agi.it/estero/news/2026-02-25/usa-al-green-espone-cartello-espulso-da-congresso-35785658/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Attivisti con Robert De Niro organizzano controevento al discorso Trump",
+      "source": "Rai News",
+      "summary": "Democratici e attivisti contrari a Trump tengono evento parallelo con De Niro che accusa presidente di tradimento durante Stato Unione. Iniziativa sottolinea divisioni politiche USA, rafforza opposizione in vista midterm.",
+      "link": "https://www.rainews.it/video/2026/02/controevento-al-discorso-sullo-stato-dellunione-attivisti-tra-cui-de-niro-parlano-di-tradimento-4a899286-3964-4d40-bba2-6e7245906836.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Deputata Ilhan Omar provoca Trump urlando durante discorso Stato Unione",
+      "source": "Rai News",
+      "summary": "Ilhan Omar grida 'sei tu l'assassino' e 'avete ucciso americani' mentre Trump accusa democratici di favorire immigrati. Episodio turbolento evidenzia polarizzazione Congresso su priorità cittadini USA.",
+      "link": "https://www.rainews.it/video/2026/02/sei-tu-lassassino-la-deputata-dem-ilhan-omar-provoca-trump-durante-il-discorso-sullo-stato-dellunione-d2d10885-da24-4eb2-93c5-68cc5a98bd00.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Forze Nato in Turchia riorientano sorveglianza aerea verso Iran da Russia",
+      "source": "Euronews Italiano",
+      "summary": "Indiscrezioni indicano spostamento attività Nato in Turchia dal Golfo Persico e Caucaso su Iran per minacce attacco USA. Cambio focus rafforza monitoraggio regionale, risponde a tensioni nucleari post-discorso Trump.",
+      "link": "http://it.euronews.com/2026/02/25/indiscrezioni-forze-nato-in-turchia-riorientano-sorveglianza-da-russia-a-iran",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Consigliere Podolyak chiede divieto propaganda filorussa in Ucraina",
+      "source": "la Repubblica",
+      "summary": "Podolyak invita a vietare propaganda pro-Cremlino, affermando che sostenitori vadano in Russia. Misure mirano a difendere paese da influenze esterne, intensificano controlli interni durante conflitto.",
+      "link": "https://www.repubblica.it/esteri/2026/02/25/news/ucraina_podolyak_intervista_vietare_propaganda_filorussa-425181622/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cremlino dichiara obiettivi non raggiunti in Ucraina e accusa Europa nucleare",
+      "source": "la Repubblica",
+      "summary": "Mosca ammette lavoro incompiuto nel conflitto ucraino, accusa Londra e Parigi di preparare armi nucleari per Kiev. Posizione rafforza narrativa russa, complica negoziati pace internazionali.",
+      "link": "https://www.repubblica.it/esteri/2026/02/25/news/mosca_accusa_europa_atomica_ucraina-425181594/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 258,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "politics": 6,
+      "society": 2,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "americas": 5,
+      "europe": 3,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    }
+  }
+}

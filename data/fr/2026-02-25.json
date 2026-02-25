@@ -1,0 +1,192 @@
+{
+  "date": "2026-02-25",
+  "summary": "Donald Trump a accusé l'Iran de développer des missiles capables d'atteindre l'Europe et bientôt les États-Unis, lors de son discours sur l'état de l'Union devant le Congrès. Il a affirmé que Téhéran reprend son programme nucléaire et a dénoncé la mort de 32 000 manifestants tués par le régime. Ces déclarations font suite aux droits de douane de 10 % activés par Trump sur les importations jusqu'au 24 juillet. Une action militaire américaine est évoquée comme possibilité.\n\nRusses et Ukrainiens ont ignoré les appels mondiaux au cessez-le-feu pour le quatrième anniversaire de l'invasion russe en Ukraine, qui a commencé il y a quatre ans. Cela fait suite à la visite d'Ursula von der Leyen à Kiev hier et à une progression lente des forces russes avec des pertes estimées à deux millions de soldats. L'Union européenne menace d'abandonner l'accord commercial Turnberry signé en juillet 2025 sous pression de Trump, qui imposait des concessions européennes pour éviter une surtaxe de 30 % sur les importations. L'accord détaille des restrictions sur les produits européens.\n\nAu Brésil, des pluies torrentielles ont causé 30 morts et des dizaines de disparus dans plusieurs villes, avec des inondations et glissements de terrain mobilisant les services de secours nationaux. En France, une enquête de France 3 et Disclose révèle des taux records de PFAS dans les sols agricoles, rivières, légumes et sang des habitants de la Meuse et des Ardennes après des épandages de boues industrielles sur des décennies ; une procédure judiciaire est ouverte. Le gouvernement a reconnu l'état de catastrophe naturelle pour 294 communes touchées par des crues, dont 91 en Gironde, 77 en Maine-et-Loire et 63 en Lot-et-Garonne, débloquant des aides financières. Friedrich Merz, chancelier allemand, est arrivé en Chine avec une délégation d'industriels pour deux jours de discussions économiques sur les déséquilibres commerciaux. Vingt pays ont condamné l'accélération de la colonisation israélienne à Homesh en Cisjordanie, où Israël assure une sécurité 24 heures sur 24 malgré les revendications des colons sur les terres. Des candidats macronistes et LR ont refusé une primaire pour une candidature commune en 2027, bloquant une alliance droite-centre.",
+  "headlines": [
+    {
+      "title": "Donald Trump accuse l'Iran de construire missiles capables d'atteindre États-Unis",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Monde",
+        "Le Figaro",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Lors de son discours sur l'état de l'Union devant le Congrès, Donald Trump affirme que l'Iran développe des missiles menaçant l'Europe et bientôt les États-Unis, tout en reprenant son programme nucléaire. Il dénonce 32 000 manifestants tués par Téhéran. Cela prépare l'opinion à une possible action militaire américaine.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260225-trump-affirme-que-l-iran-construit-des-missiles-pouvant-atteindre-des-cibles-am%C3%A9ricaines",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Ouvre avec déclaration Trump sur missiles iraniens visant cibles américaines",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260225-trump-affirme-que-l-iran-construit-des-missiles-pouvant-atteindre-des-cibles-am%C3%A9ricaines"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Met en avant accusations contre Iran et préparation opinion à opération militaire",
+          "link": "https://www.lemonde.fr/international/article/2026/02/25/diviseur-en-chef-devant-le-congres-donald-trump-dessine-une-amerique-qui-n-en-finirait-pas-de-gagner_6668168_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Détaille succès administration Trump et défi lancé aux démocrates au Congrès",
+          "link": "https://www.lefigaro.fr/international/notre-pays-gagne-de-nouveau-au-congres-donald-trump-celebre-ses-succes-et-defie-les-democrates-20260225"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Boues industrielles épandues contaminent sols agricoles Meuse et Ardennes avec PFAS records",
+      "source": "Libération",
+      "sources": [
+        "Libération",
+        "France Info"
+      ],
+      "summary": "Enquête France 3 et Disclose révèle taux records de PFAS dans sols, rivières, légumes et sang habitants après épandage décennies de boues industrielles. Procédure judiciaire ouverte. Cela expose agriculteurs et consommateurs à risques sanitaires graves à long terme.",
+      "link": "https://www.liberation.fr/environnement/pollution/pfas-des-taux-records-dans-des-sols-agricoles-de-la-meuse-et-des-ardennes-20260225_VOVKJ7KFXFGADBY6DML4HIWBEQ/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Libération",
+          "angle": "Pointe épandage boues industrielles sur décennies et ouverture enquête judiciaire",
+          "link": "https://www.liberation.fr/environnement/pollution/pfas-des-taux-records-dans-des-sols-agricoles-de-la-meuse-et-des-ardennes-20260225_VOVKJ7KFXFGADBY6DML4HIWBEQ/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Présente analyses exclusives sols rivières légumes par labo Montréal révélant contamination",
+          "link": "https://www.franceinfo.fr/environnement/pollution/pfas/enquete-polluants-eternels-des-analyses-exclusives-devoilent-la-contamination-des-sols-et-des-legumes-dans-les-ardennes-et-la-meuse_7828508.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pluies torrentielles provoquent 30 morts et dizaines disparus dans villes Brésil",
+      "source": "RTBF",
+      "summary": "Services pompiers brésiliens annoncent bilan 30 morts dans plusieurs villes après pluies torrentielles. Des dizaines disparus suite inondations et glissements terrain. Cela affecte populations vulnérables et mobilise secours nationaux pour opérations sauvetage.",
+      "link": "https://www.rtbf.be/article/intemperies-au-moins-30-morts-et-des-dizaines-de-disparus-dans-des-pluies-torrentielles-au-bresil-11685037",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Gouvernement reconnaît état catastrophe naturelle pour 294 communes après crues",
+      "source": "France Info",
+      "summary": "Sébastien Lecornu annonce reconnaissance pour 294 communes, dont 91 Gironde, 77 Maine-et-Loire, 63 Lot-et-Garonne. Cela débloque aides financières reconstruction. Mesure soulage sinistrés et accélère indemnisations face dommages infrastructures.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-etat-de-catastrophe-naturelle-reconnu-pour-294-communes-apres-les-crues-annonce-sebastien-lecornu_7827407.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Friedrich Merz arrive en Chine avec délégation industriels pour discussions économiques",
+      "source": "RFI",
+      "summary": "Chancelier allemand entame visite deux jours à Pékin, entouré chefs entreprises, durcissant ton sur déséquilibres commerciaux. Rapport force économique inversé motive relance échanges. Cela vise renforcer liens bilatéraux malgré tensions.",
+      "link": "https://www.rfi.fr/fr/europe/20260225-le-chancelier-allemand-friedrich-merz-en-chine-pour-une-visite-centr%C3%A9e-sur-l-%C3%A9conomie",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Vingt pays condamnent accélération colonisation israélienne à Homesh Cisjordanie",
+      "source": "RFI",
+      "summary": "Israël sécurise 24h/24 colonie réoccupée Homesh nord Cisjordanie, malgré condamnations internationales. Colons affirment possession terre. Cela intensifie tensions territoriales et complique processus paix régional.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260225-cette-terre-est-%C3%A0-nous-%C3%A0-homesh-en-cisjordanie-occup%C3%A9e-la-colonisation-isra%C3%A9lienne-s-acc%C3%A9l%C3%A8re",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Candidats macronistes et LR refusent primaire pour candidature commune 2027",
+      "source": "Le Monde",
+      "summary": "Élus présidentiels proposent primaire avec droite, rejetée par principaux candidats des deux camps. Incompatibilités politiques bloquent alliance. Cela fragilise stratégie union droite-centre avant élection présidentielle.",
+      "link": "https://www.lemonde.fr/politique/article/2026/02/25/presidentielle-2027-entre-le-camp-presidentiel-et-lr-l-impasse-d-une-candidature-commune_6668148_823448.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Russes et Ukrainiens ignorent appels mondiaux cessez-le-feu quatrième anniversaire invasion",
+      "source": "20 Minutes",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Appels internationaux cessez-le-feu n'ont pas porté fruits aujourd'hui malgré commémorations",
+      "summary": "Quatrième anniversaire invasion russe voit Ukrainiens résilients soutenus alliés face Kremlin inflexible. Appels mondiaux cessez-le-feu ignorés. Cela prolonge conflit quatre ans, avec enjeux stratégiques pour Europe.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4203232-20260224-guerre-ukraine-ukrainiens-toujours-debout-entoures-quatre-ans-apres-kremlin-toujours-inflexible?at_medium=display&at_campaign=149",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "UE menace abandonner accord commercial Turnberry signé sous pression Trump",
+      "source": "Le Figaro",
+      "summary": "Accord juillet 2025 évitait surtaxe 30% impose concessions européennes perçues humiliantes. Contenu détaille restrictions importations. Menace abandon aggrave tensions transatlantiques commerciales.",
+      "link": "https://www.lefigaro.fr/conjoncture/une-capitulation-que-contient-vraiment-le-deal-commercial-avec-donald-trump-que-l-ue-menace-d-abandonner-20260224",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 217,
+    "articlesAfterDedup": 216,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 3,
+      "environment": 3,
+      "economy": 2,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 5,
+      "asia-pacific": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2026-02-26",
+  "summary": "Il New York Times e la Cnn hanno confermato che mancano oltre 50 pagine dai file pubblicati dal Dipartimento di Giustizia sullo scandalo Epstein, inclusi interrogatori di un'accusatrice contro Donald Trump. Giornalisti hanno verificato lo scoop dell'Npr. Hillary Clinton depone oggi alla Commissione della Camera. L'interesse riguarda un presunto insabbiamento governativo su accuse sessuali al Presidente. Si attendono ulteriori verifiche sui documenti.\n\nA Ginevra è iniziato il terzo round di colloqui sul nucleare tra Stati Uniti e Iran. L'inviato speciale di Trump, Steve Witkoff, ha incontrato il ministro iraniano Abbas Araghchi. Questo passo mira a un possibile accordo che ridurrebbe tensioni regionali e influenzerebbe i prezzi dell'energia globale. Separatamente, Mosca ha annullato un summit con leader su Ucraina. Il Cremlino ha fermato l'incontro trilaterale russo-ucraino-americano. Zelensky ha chiamato Trump per coordinare. Nuovi colloqui a Ginevra tra ucraini e americani preparano un formato trilaterale. La Russia ha lanciato missili e droni su Kiev e altre città, un attacco combinato su centri già bersaglio. Un missile ha colpito un edificio residenziale a Zaporizhia ferendo residenti, con soccorsi sul posto. Raid aerei russi hanno provocato incendi nella regione di Kharkiv, attivando due centrali antincendio. Questi episodi prolungano l'incertezza nella guerra, complicano sforzi diplomatici per un cessate il fuoco e aumentano la pressione sulle difese ucraine e gli aiuti Nato.\n\nAziende tech statunitensi accusano aziende cinesi di rubare ricerche su intelligenza artificiale attraverso attacchi di distillazione per copiare modelli e addestrarne versioni leggere, con furti stimati in miliardi. Jamieson Greer, rappresentante del commercio Usa, ha confermato piani per dazi e punizioni su oppositori. Questo fa seguito al discorso di Trump sullo Stato dell'Unione, dove ha accusato una sentenza della Corte sui dazi di essere sbagliata. A Hong Kong, Jimmy Lai ha vinto il ricorso contro la condanna a 20 anni per frode; il tribunale ha accolto l'appello dell'ex editore di 78 anni. Kim Jong-un ha escluso un dialogo con la Corea del Sud al congresso del partito, ma ha aperto a intese nucleari con gli Usa se riconoscono lo status atomico nordcoreano.",
+  "headlines": [
+    {
+      "title": "New York Times e Cnn confermano pagine mancanti file Epstein su Trump",
+      "source": "AGI",
+      "summary": "Giornalisti verificano scoop Npr: mancano oltre 50 pagine da file pubblicati dal Dipartimento Giustizia su scandalo Epstein, inclusi interrogatori accusatrice Trump. Hillary Clinton depone oggi alla Commissione Camera. Interesse per presunto insabbiamento governo su accuse sessuali al Presidente.",
+      "link": "https://www.agi.it/estero/news/2026-02-26/trump-epstein-files-scoop-clinton-35802973/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Inviato Trump Witkoff incontra ministro iraniano Araghchi per negoziati nucleari",
+      "source": "TGCOM24",
+      "summary": "Terzo round colloqui sul nucleare tra Usa e Iran inizia a Ginevra. Steve Witkoff, inviato speciale Trump in Medioriente, discute con Abbas Araghchi. Passo verso possibile accordo riduce tensioni regionali e influenza energia globale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/iran-usa-nucleare-ginevra-colloqui_109428027-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Mosca annulla summit leader su Ucraina, Zelensky contatta Trump",
+      "source": "la Repubblica",
+      "summary": "Cremlino ferma incontro vertici, nuovo round colloqui a Ginevra senza formato trilaterale russo-ucraino-americano. Zelensky chiama Trump per coordinare. Blocca negoziati pace, prolunga incertezza guerra con impatti su sicurezza europea.",
+      "link": "https://www.repubblica.it/esteri/2026/02/26/news/mosca_stop_summit_leader-425184099/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russia lancia missili e droni su Kiev e altre città ucraine",
+      "source": "TGCOM24",
+      "summary": "Massiccio attacco combinato colpisce capitale e centri già bersaglio. Colloqui Ginevra tra ucraini e americani preparano trilaterale. Escalation intensifica distruzione civile, complica sforzi diplomatici per cessate il fuoco.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-guerra-russia-146a-giorno-di-guerra_109426933-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Missile russo colpisce edificio residenziale a Zaporizhia",
+      "source": "Rai News",
+      "summary": "Raid missilistico russo ferisce residenti in struttura abitativa ucraina. Soccorsi intervengono sul posto. Episodio evidenzia rischi civili in zone occupate, solleva preoccupazioni su escalation bombardamenti.",
+      "link": "https://www.rainews.it/video/2026/02/edificio-residenziale-colpito-durante-lattacco-russo-a-zaporizhia-ucraina-video-del-blitz-di-mosca-53a44845-1f08-42d8-a8cb-324e11326cd8.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russia bombarda regione Kharkiv, attivate due centrali antincendio",
+      "source": "Rai News",
+      "summary": "Raid aerei russi provocano incendi, forze ucraine attivano 2 centraline. Video documenta attacchi. Continua offensiva su fronti orientali, aumenta pressione su difese Kiev e aiuti Nato.",
+      "link": "https://www.rainews.it/video/2026/02/attacco-russo-nella-regione-di-kharkiv-il-video-dei-raid-a-seguito-dei-bombardamenti-sono-state-attivate-2-centrali-antincendio-la-guerra-in-ucraina-8c7ff054-66d7-4f7e-8ff0-9c1c34f336a9.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Aziende tech Usa accusano cinesi di rubare ricerche intelligenza artificiale",
+      "source": "Euronews Italiano",
+      "summary": "Attacchi distillazione copiano risposte modelli IA per addestrare versioni leggere. Tech americane denunciano furti miliardari. Minaccia supremazia tecnologica, avvia tensioni commerciali tra superpotenze.",
+      "link": "http://it.euronews.com/next/2026/02/26/guerra-fredda-dellia-tech-usa-accusano-aziende-cinesi-di-rubare-ricerche-miliardarie",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Jimmy Lai vince ricorso contro condanna 20 anni frode Hong Kong",
+      "source": "la Repubblica",
+      "summary": "Ex editore 78enne annulla sentenza del 9 febbraio. Tribunale accoglie appello. Passo riduce pressione su dissidenti, monitorato per impatto su libertà stampa in Cina.",
+      "link": "https://www.repubblica.it/esteri/2026/02/26/news/hong_kong_jimmy_lai_vince_il_ricorso_contro_una_condanna_per_frode-425184499/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Kim Jong-un rifiuta dialogo con Seul ma apre a Trump su nucleare",
+      "source": "Euronews Italiano",
+      "summary": "Leader nordcoreano al congresso partito esclude disgelo con Corea Sud, accetta intese Usa se riconoscono status atomico. Segnali misti influenzano diplomazia regionale e proliferazione armi.",
+      "link": "http://it.euronews.com/2026/02/26/corea-del-nord-kim-jong-un-rifiuta-il-dialogo-con-seul-ma-non-chiude-la-porta-a-trump",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Rappresentante Greer conferma piano dazi Usa e punizioni oppositori",
+      "source": "la Repubblica",
+      "summary": "Jamieson Greer ribadisce linea governo Trump sul commercio. Tutti comprendono obiettivi Casa Bianca. Procede con tariffe precise, colpisce import e alleati riluttanti.",
+      "link": "https://www.repubblica.it/esteri/2026/02/26/news/dazi_usa_intervista_jamieson_greer-425184210/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump accusa Corte tariffe sentenza sbagliata nel discorso Stato Unione",
+      "source": "la Repubblica",
+      "summary": "Nel record intervento 107 minuti assegna medaglie patrioti, avverte Teheran armi contro Usa, scontri opposizione. Copertura dettagliata evidenzia divisioni politiche interne.",
+      "link": "https://www.repubblica.it/esteri/2026/02/26/news/discorso_stato_unione_trump_al_congresso-425184184/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Aggiunge accuse giudici su tariffe e avvertenze su Iran nucleare oltre record durata",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 252,
+    "articlesAfterDedup": 251,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 4,
+      "science": 1,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "middle-east": 1,
+      "europe": 4,
+      "asia-pacific": 3
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

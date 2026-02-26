@@ -1,0 +1,226 @@
+{
+  "date": "2026-02-26",
+  "summary": "The US and Iran held a third round of indirect nuclear talks in Geneva. President Trump deployed warships and aircraft to the Middle East during the discussions. No deal emerged, with prospects remaining unclear. This affects global energy markets through the Strait of Hormuz and regional stability in the Persian Gulf.\n\nNATO launched its first coordinated response after a second Baltic Sea cable was severed, following a suspected sabotage incident the previous day. The alliance aims to protect undersea links carrying Europe's energy and data. Separately in Sudan, a UN fact-finding mission reported that the Rapid Support Forces' 18-month siege of El Fasher in North Darfur targets Zaghawa and Fur communities for destruction, affecting 500,000 residents. The mission calls for intervention. In Congo, Rwanda-backed M23 rebels overran troops to enter Goma, a city sheltering 1 million displaced persons amid shelling. The UN warns of an aid crisis as the Congolese army retreats.\n\nChina's Vanke reported massive financial losses amid its real estate crisis, impacting investors, homebuyers, and an economy worth trillions. Israel allowed hundreds of thousands of displaced Palestinians to return to northern Gaza on foot after a hostage release agreement, easing a humanitarian crisis amid ruins. In Mexico, Sinaloa Cartel faction fighting turned Culiacán into a war zone, displacing thousands as government forces deployed. SpaceX launched Crew-10 from Kennedy Space Center with two NASA astronauts, Japan's Takuya Onishi, and Russia's Kirill Peskov to retrieve Butch Wilmore and Suni Williams after nine months on the ISS.",
+  "headlines": [
+    {
+      "title": "US and Iran Hold Third Round of Indirect Talks in Geneva Amid Warship Deployment",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "BBC World",
+        "Al Jazeera English"
+      ],
+      "summary": "President Trump deploys warships and aircraft to the Middle East as the US and Iran conduct third indirect nuclear talks in Geneva. Tensions rise with unclear deal prospects, risking escalation. This affects global energy markets and regional stability.",
+      "link": "https://www.france24.com/en/middle-east/20260226-live-us-iran-third-round-talks-trump-warships-mideast",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Live coverage of third round indirect talks in Geneva with Trump military deployment",
+          "link": "https://www.france24.com/en/middle-east/20260226-live-us-iran-third-round-talks-trump-warships-mideast"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Discusses talks as last-ditch nuclear deal effort amid building pressure",
+          "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Liveblog of nuclear talks starting amid massive US military build-up",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/2/26/us-iran-talks-live-nuclear-talks-to-kick-off-in-geneva-amid-tensions?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "UN Mission Finds RSF Siege of Sudan's El Fasher Bears Hallmarks of Genocide",
+      "source": "The Guardian",
+      "summary": "UN fact-finding mission details 18-month RSF occupation of North Darfur capital, targeting Zaghawa and Fur communities for destruction. Affects 500,000 residents; calls for intervention. Signals worsening ethnic violence in Sudan.",
+      "link": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+      "tier": "top",
+      "sources": [
+        "The Guardian"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "SpaceX Launches Four Astronauts to Retrieve NASA Crew Stuck Nine Months on ISS",
+      "source": "Voice of America",
+      "summary": "Crew-10, including two NASA astronauts, Japan's Takuya Onishi and Russia's Kirill Peskov, blasts off from Kennedy Space Center. Enables return of Butch Wilmore and Suni Williams. Routine rotation restores ISS operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "top",
+      "sources": [
+        "Voice of America"
+      ],
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "China's Vanke Reports Huge Losses Signaling Spread of Property Crisis",
+      "source": "Wall Street Journal",
+      "summary": "Leading developer Vanke posts massive financial losses amid deepening real estate woes. Raises bailout questions for state intervention. Impacts investors, homebuyers and China's economy worth trillions.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "top",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Dr. Peter Attia Resigns CBS News Post After Emails Appear in Epstein Files",
+      "source": "Associated Press",
+      "summary": "Medical podcaster and author resigns following Justice Department release naming him in Epstein documents. Affects CBS credibility and Attia's longevity brand. Prompts scrutiny of Epstein connections.",
+      "link": "https://apnews.com/article/cbs-news-epstein-files-attia-medical-428aacc5f6ba7dc3f441047e37d351c6",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "US House Rejects Bill Requiring Aircraft Locators Near Busy Airports",
+      "source": "Associated Press",
+      "summary": "House votes down measure post last year's fatal midair collision near Reagan National killing dozens. Impacts aviation safety for 100 million annual passengers. Next push likely in Senate.",
+      "link": "https://apnews.com/article/washington-dc-midair-collision-congress-reforms-ntsb-134f26d812dc9796fcf3033c42543cc2",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "US Announces Consular Services in West Bank Settlement for First Time",
+      "source": "New York Times",
+      "summary": "State Department to provide embassy services in Israeli settlement, drawing criticism as settlement legitimization. Affects Palestinians and US-Israel ties. Sparks diplomatic backlash worldwide.",
+      "link": "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "BBC Reveals Nepal Police Order Caused Shooting Deaths of 19 Youth Protesters",
+      "source": "BBC World",
+      "summary": "Investigation uncovers police directive led to killing 19 Gen Z demonstrators in school uniforms during Kathmandu protests last September. Affects youth rights; prompts accountability calls.",
+      "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sinaloa Cartel Rivals Turn Mexico's Culiacán into War Zone with Intense Fighting",
+      "source": "BBC World",
+      "summary": "Faction feud surges violence in northern city, instilling widespread fear among residents. Thousands flee; government deploys forces. Threatens regional stability and drug trade routes.",
+      "link": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Allows Palestinians to Stream Back to Northern Gaza After Hostage Deadlock Breaks",
+      "source": "Wall Street Journal",
+      "summary": "Displaced Gazans cross military zone on foot following hostage release agreement. Affects hundreds of thousands returning amid ruins. Eases humanitarian crisis but risks renewed conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel permits crossing military zone after breaking deadlock over hostage releases",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo's Goma Overrunning Troops Amid Shelling",
+      "source": "Wall Street Journal",
+      "summary": "M23 fighters advance into city sheltering 1 million displaced, sparking gunfire. UN warns aid crisis; Congolese army retreats. Escalates regional war displacing millions.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels overrun troops and enter Goma with gunfire, shelling; 1 million displaced inside city",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response After Second Baltic Sea Cable Severed",
+      "source": "Wall Street Journal",
+      "summary": "Alliance acts on suspected sabotage campaign targeting infrastructure. Protects undersea links vital for Europe energy, data. Heightens hybrid threat concerns from Russia.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Another deep-sea cable severed in suspected sabotage prompting NATO action",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 458,
+    "articlesAfterDedup": 457,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 4,
+      "science": 1,
+      "economy": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "africa": 2,
+      "global": 1,
+      "asia-pacific": 2,
+      "americas": 3,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

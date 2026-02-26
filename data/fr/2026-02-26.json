@@ -1,0 +1,163 @@
+{
+  "date": "2026-02-26",
+  "summary": "Les États-Unis et l'Iran ont entamé le 26 février à Genève le troisième cycle de négociations indirectes sur le programme nucléaire iranien. Ces discussions interviennent après des accusations de Donald Trump sur des missiles iraniens capables d'atteindre les États-Unis et des déclarations de Marco Rubio sur le refus iranien de traiter des missiles balistiques. Un déploiement militaire américain persiste dans la région. Les deux parties visent à clarifier les tensions, avec une poursuite des échanges attendue selon les déclarations officielles.\n\nLa Russie a lancé des frappes nocturnes sur Kiev, Kharkiv et Zaporijia, blessant 14 personnes à Kharkiv et 7 à Zaporijia, avec des incendies signalés à Kiev sans victimes. Ces attaques précèdent des discussions entre Kiev, Moscou et Washington à Genève. Séparément, Kim Jong-un a déclaré la Corée du Nord prête à améliorer ses relations avec les États-Unis sous condition de reconnaissance de son statut de puissance nucléaire, tout en qualifiant la Corée du Sud d'ennemi hostile. Une réponse diplomatique américaine est attendue.\n\nAu Brésil, les pluies torrentielles ont causé 36 morts et 33 disparus, aggravant le bilan précédent de 30 morts et des dizaines de disparus, avec une alerte maximale de la défense civile et une mobilisation des secours nationaux. La Cour suprême a condamné les frères Brazão à 76 ans de prison pour avoir commandité l'assassinat en 2018 de la conseillère Marielle Franco à Rio de Janeiro. En mer cubaine, les garde-côtes cubains ont tué quatre occupants et blessé six sur un bateau immatriculé en Floride le 25 février, Cuba dénonçant une infiltration terroriste par des exilés cubains aux États-Unis tandis que la justice floridienne ouvre une enquête. Aux États-Unis, des documents FBI mentionnant Donald Trump sont absents des archives publiées sur Jeffrey Epstein, et Bill et Hillary Clinton ont été auditionnés par le Congrès sur leurs liens avec Epstein.",
+  "headlines": [
+    {
+      "title": "États-Unis et Iran entament troisième cycle de négociations indirectes sur nucléaire à Genève",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "RFI",
+        "France 24",
+        "RTBF"
+      ],
+      "summary": "L'Iran et les États-Unis se réunissent jeudi 26 février à Genève pour discuter du programme nucléaire iranien, sur fond de déploiement militaire américain et d'accusations de Marco Rubio sur le refus iranien de parler missiles balistiques. Cela vise à clarifier la situation de tension persistante, intéressant la stabilité régionale.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260226-iran-en-direct-reprise-des-n%C3%A9gociations-%C3%A0-gen%C3%A8ve-les-forces-am%C3%A9ricaines-se-d%C3%A9ploient-dans-le-golfe",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russie attaque Kiev Kharkiv et Zaporijia blessant 14 personnes à Kharkiv et 7 à Zaporijia",
+      "source": "Le Monde",
+      "summary": "Des frappes russes nocturnes touchent Kiev sans victimes, blessent 14 à Kharkiv et 7 à Zaporijia, provoquant incendies à Kiev. Ces attaques précèdent discussions entre Kiev, Moscou et Washington à Genève. Cela souligne l'escalade malgré efforts diplomatiques, impactant l'Europe.",
+      "link": "https://www.lemonde.fr/international/live/2026/02/26/en-direct-guerre-en-ukraine-plusieurs-villes-visees-par-des-frappes-nocturnes_6667864_3210.html",
+      "tier": "top",
+      "sources": [
+        "Le Monde"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Garde-côtes cubains abattent quatre occupants bateau immatriculé Floride lors affrontement maritime",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France 24"
+      ],
+      "summary": "Mercredi 25 février, garde-côtes cubains tuent quatre personnes et blessent six sur bateau de Floride lors affrontement dans eaux cubaines. Cuba dénonce infiltration terroriste par Cubains exilés aux États-Unis ; justice floridienne ouvre enquête. Cela ravive tensions bilatérales.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260225-cuba-quatre-occupants-d-un-bateau-immatric%C3%A9-aux-%C3%A9tats-unis-abattus-par-les-garde-c%C3%B4tes",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Dénonce tentative infiltration terroriste par occupants bateau avec Cubains résidant États-Unis",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260226-cuba-d%C3%A9nonce-une-tentative-d-infiltration-d-un-groupe-arm%C3%A9-depuis-les-%C3%A9tats-unis"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Cour suprême Brésil condamne frères Brazão à 76 ans prison pour assassinat Marielle Franco",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France 24"
+      ],
+      "summary": "Mercredi 25 février, Cour suprême déclare coupables frères Brazão d'avoir commandité assassinat 2018 de conseillère Rio Marielle Franco. Condamnation met en lumière liens politiciens-milices. Cela marque avancée justice contre criminalité politique au Brésil.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260225-br%C3%A9sil-deux-politiciens-condamn%C3%A9s-pour-avoir-commandit%C3%A9-l-assassinat-de-l-%C3%A9lue-marielle-franco",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Déclare coupables deux politiciens commandite assassinat Marielle Franco et liens avec milices Rio",
+          "link": "https://www.france24.com/fr/info-en-continu/20260225-br%C3%A9sil-deux-politiciens-condamn%C3%A9s-pour-avoir-commandit%C3%A9-l-assassinat-d-une-%C3%A9lue-de-rio"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Kim Jong-un propose entente États-Unis si reconnaissance Corée du Nord puissance nucléaire",
+      "source": "20 Minutes",
+      "summary": "Kim Jong-un déclare prêt à améliorer relations avec États-Unis sous condition reconnaissance statut nucléaire nord-coréen, qualifiant Corée du Sud d'ennemi hostile. Cela ouvre piste diplomatie mais complique alliances régionales.",
+      "link": "https://www.20minutes.fr/monde/4203473-20260226-kim-jon-pret-bien-entendre-etats-unis-si-coree-nord-reconnue-comme-puissance-nucleaire?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Documents FBI mentionnant Trump absents archives publiées affaire Epstein",
+      "source": "20 Minutes",
+      "sources": [
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Fichiers relatant accusations non prouvées agression sexuelle mineure par Trump manquent dans dossiers Epstein publiés par Justice US. Médias relancent questions transparence enquête fédérale, impactant réputation politique.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4203460-20260225-affaire-epstein-manque-documents-mentionnant-trump-dossiers-publies-selon-medias-americains?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Congrès américain auditionne Bill et Hillary Clinton sur liens Epstein",
+      "source": "France Info",
+      "summary": "Bill et Hillary Clinton entendus par Congrès sur relations ex-président avec Jeffrey Epstein, cité多次 dans documents judiciaires. Cela examine connexions élites affaire pédocriminalité, alimentant débats transparence.",
+      "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/on-vous-explique-pourquoi-bill-et-hillary-clinton-sont-auditionnes-sur-l-affaire-epstein-par-le-congres-americain_7813568.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Pluies torrentielles Brésil tuent 36 personnes et laissent 33 disparus",
+      "source": "20 Minutes",
+      "summary": "Défense civile brésilienne alerte maximale après pluies causant 36 morts et 33 disparus. Cela aggrave bilan inondations récentes, mobilisant secours nationaux pour zones affectées.",
+      "link": "https://www.20minutes.fr/monde/4203448-20260225-bresil-36-morts-33-personnes-portees-disparues-apres-pluies-torrentielles?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Bilan s'alourdit de 30 à 36 morts et précise 33 disparus avec alerte maximale défense civile",
+      "sources": [
+        "20 Minutes"
+      ],
+      "singleSource": true,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 221,
+    "articlesAfterDedup": 217,
+    "articlesAfterDiversity": 50,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 5,
+      "conflict": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 1,
+      "americas": 5,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

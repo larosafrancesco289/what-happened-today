@@ -1,0 +1,239 @@
+{
+  "date": "2026-02-27",
+  "summary": "Pakistan's defense minister declared open war on Afghanistan after Pakistani airstrikes targeted Kabul and provinces. The strikes followed Taliban capture of border checkpoints. The escalation threatens stability for millions in the region. World leaders urged restraint. Further military responses from both sides are expected.\n\nRussia launched major strikes across Ukraine ahead of planned U.S.-Ukraine talks in Geneva next week. The attacks impacted civilians in multiple areas. Ukrainian officials stated the strikes highlight stalled diplomacy. In Europe, NATO activated its first joint response after a second deep-sea cable cut in the Baltic Sea. The action aims to protect critical infrastructure. Separately, Israeli airstrikes killed five people at police checkpoints in Gaza City, Khan Younis, and Bureij. The strikes occurred amid mediation efforts and strained ceasefire talks.\n\nAnthropic's CEO rejected Pentagon requests to remove AI safeguards, risking hundreds of millions in contracts. Talks continue ahead of a termination deadline. SpaceX launched Crew-10 from Kennedy Space Center with two NASA, one Japanese, and one Russian astronaut to retrieve two NASA astronauts stranded nine months on the ISS. The mission enables their return and restores station operations. Israel opened a route allowing displaced Palestinians to return to northern Gaza, affecting hundreds of thousands amid the ongoing conflict. Danish Prime Minister Frederiksen called a snap election centered on U.S. threats to annex Greenland. Australian police charged a man with preparing terror attacks on Perth police stations, parliament, and religious buildings.",
+  "headlines": [
+    {
+      "title": "Pakistan Defense Minister Declares Open War on Afghanistan After Cross-Border Strikes",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "NPR News",
+        "Deutsche Welle",
+        "Al Jazeera English",
+        "France 24"
+      ],
+      "summary": "Pakistan's defense minister declared open war after launching airstrikes on Kabul and provinces following Taliban capture of border checkpoints. Regional stability threatened for millions; world urges restraint as escalation risks wider conflict. Further military responses expected.",
+      "link": "https://apnews.com/article/afghanistan-pakistan-airstrikes-open-war-98927b79ee9ef5741bf0804956d3c2e6",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Quoted minister's statement on lost patience and open war after mutual strikes",
+          "link": "https://apnews.com/article/afghanistan-pakistan-airstrikes-open-war-98927b79ee9ef5741bf0804956d3c2e6"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Summarized minister's claim of open war following Afghan cross-border attack",
+          "link": "https://www.npr.org/2026/02/26/g-s1-111783/airstrikes-afghanistan-pakistan-war"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Detailed Taliban checkpoint captures and Pakistani explosions reported in Kabul",
+          "link": "https://www.dw.com/en/afghan-taliban-attacks-met-with-pakistani-strikes-on-kabul/a-76143355?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Reported global calls for restraint amid eruption of Pakistan-Afghanistan fighting",
+          "link": "https://www.aljazeera.com/news/2026/2/27/world-reacts-to-eruption-of-fighting-between-pakistan-afghanistan?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Covered live Pakistani airstrikes in Kabul and three provinces after clashes",
+          "link": "https://www.france24.com/en/asia-pacific/20260227-pakistan-strikes-kabul-declares-open-war-afghanistan-after-border-clashes"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russia Launches Major Strikes on Ukraine Before U.S.-Ukraine Talks in Geneva",
+      "source": "New York Times",
+      "summary": "Russia conducts large strikes as Ukrainian officials eye trilateral peace talks next week. Impacts civilians across Ukraine; highlights stalled diplomacy and war's persistence affecting global security.",
+      "link": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Anthropic CEO Rejects Pentagon Demands to Remove AI Safeguards Amid Contracts Dispute",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "France 24",
+        "NPR News"
+      ],
+      "summary": "Anthropic refuses Pentagon requests for broader AI use, citing conscience, risking hundreds of millions in contracts. Affects U.S. military tech access; talks continue but face termination deadline.",
+      "link": "https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "CEO explains refusal to accede to new contract language on AI restrictions",
+          "link": "https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda"
+        },
+        {
+          "source": "France 24",
+          "angle": "Noted Pentagon warnings of supply chain risk and Cold War-era measures",
+          "link": "https://www.france24.com/en/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagon-s-demands"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Highlighted feud over military AI tools and looming contract deadline",
+          "link": "https://www.npr.org/2026/02/26/nx-s1-5727847/anthropic-defense-hegseth-ai-weapons-surveillance"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israeli Airstrikes Kill Five at Police Sites in Southern and Central Gaza",
+      "source": "Al Jazeera English",
+      "summary": "Israeli attacks on Gaza police checkpoints kill five, including in Gaza City, Khan Younis, Bureij. Strains ceasefire; affects Palestinian security forces and civilians amid mediation efforts.",
+      "link": "https://www.aljazeera.com/news/2026/2/27/israeli-attacks-on-police-sites-kill-five-in-southern-central-gaza?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Australian Police Charge Man with Preparing Terror Acts on Public Buildings",
+      "source": "ABC Australia",
+      "summary": "Police charge man plotting attacks on Perth police stations, parliament, religious buildings. Prevents potential terrorism; affects public safety as investigation uncovers network details.",
+      "link": "https://www.abc.net.au/news/2026-02-27/man-charged-with-preparing-for-terrorist-act-perth/106397996",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Danish Prime Minister Calls Snap Election with Greenland Issue at Center",
+      "source": "BBC",
+      "summary": "Prime Minister schedules election dominated by U.S. annexation threats to Greenland. Impacts Arctic geopolitics and Danish sovereignty; voters influence response to Trump demands.",
+      "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "House Oversight Committee Questions Hillary Clinton for Six Hours on Epstein",
+      "source": "NPR News",
+      "summary": "Clinton faces over six-hour closed-door deposition in Epstein investigation. Probes former official ties; affects political accountability as committee reviews new evidence.",
+      "link": "https://www.npr.org/2026/02/26/nx-s1-5727777/hillary-clinton-deposition-house-oversight-epstein",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Cuban Troops Kill Four Confronting Armed Speedboat Near Island Coast",
+      "source": "Associated Press",
+      "summary": "Soldiers kill four from speedboat carrying 10 armed Cuban exiles firing near shore. Spotlights U.S.-based counter-revolution plots; raises exile community tensions 67 years post-revolution.",
+      "link": "https://apnews.com/article/cuba-troops-clash-armed-speedboat-expatriates-fb2d5bdab3b45e93d46ee827ef099ca4",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Crew-10 Launches from Kennedy Center to Retrieve Stranded NASA Astronauts",
+      "source": "Voice of America",
+      "summary": "Crew-10 with two NASA, one Japanese, one Russian astronauts launches to aid nine-month stranded duo. Enables their return; routine rotation restores ISS operations continuity.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Falcon 9 lifted off Friday at 7:03 p.m., set to dock Saturday night",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Displaced Palestinians Stream Back to Northern Gaza After Israel Opens Route",
+      "source": "Wall Street Journal",
+      "summary": "Israel allows Gazans to cross bisecting military zone post-hostage deadlock break. Affects hundreds of thousands displaced; eases humanitarian crisis in north amid ongoing conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Residents cross on foot following permission after hostage release agreement",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Mounts Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance activates first joint action after another deep-sea cable cut. Protects critical infrastructure; bolsters deterrence against hybrid threats in Europe.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Response triggered by second cable severing in suspected sabotage campaign",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 465,
+    "articlesAfterDedup": 460,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 7,
+      "politics": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "europe": 3,
+      "americas": 4,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

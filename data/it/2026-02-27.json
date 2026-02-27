@@ -1,0 +1,199 @@
+{
+  "date": "2026-02-27",
+  "summary": "Il Pakistan ha lanciato raid aerei su città afghane, tra cui Kabul, in risposta ad attacchi transfrontalieri attribuiti ai talebani che hanno causato vittime civili. Il ministro della difesa pakistano Khawaja Asif ha dichiarato guerra aperta dopo gli incidenti oltre confine. Il contrattacco serale con jet da combattimento ha colpito obiettivi in Afghanistan. Questa escalation fa seguito a tensioni pregresse e rischia di destabilizzare la regione con implicazioni per la sicurezza di entrambi i paesi; ulteriori ritorsioni sono attese.\n\nSeparatamente, Iran e Stati Uniti hanno dichiarato progressi significativi nei colloqui nucleari a Ginevra, mediati dall'Oman. Il ministro iraniano Abbas Araghchi ha definito le discussioni le più produttive finora, dopo l'incontro di ieri tra l'inviato di Trump Steve Witkoff e Araghchi. I negoziati proseguono per evitare un'escalation militare, con un ultimatum di 15 giorni posto da Trump. In Congo orientale, sono state scoperte due fosse comuni a Kiromoni e Kavimvira con 171 corpi. Le indagini locali puntano a un massacro recente attribuito a gruppi armati; la situazione umanitaria peggiora e richiede intervento internazionale.\n\nHillary Clinton ha negato incontri con Jeffrey Epstein durante la sua testimonianza davanti a una commissione repubblicana, difendendo il marito Bill e chiedendo la deposizione di Donald Trump. Questo fa seguito alle conferme di ieri del New York Times e CNN su pagine mancanti nei file Epstein riguardanti Trump; democratici e repubblicani spingono per ulteriori indagini su figure politiche. In Italia, è stato depositato il testo di una legge elettorale proporzionale con premio di maggioranza: 70 seggi alla Camera e 35 al Senato per coalizioni oltre il 40%, ballottaggio tra 35-40%, indicazione del premier sul programma senza preferenze e soglia del 3%. Labour di Keir Starmer ha ottenuto il terzo posto nella suppletiva di Manchester Gorton-Denton, dietro Verdi e Reform UK di Nigel Farage. Uno studio ha rilevato che chatbot IA optano per escalation nucleare nel 95% delle simulazioni di guerre. In Liguria, pm accusano il governatore Giovanni Toti di manipolazione dati Covid con aumenti artificiali dei contagi; la procura di Roma ha chiuso indagini su deputata Fabiola Bartolozzi, con critiche del ministro Nordio sulla tempistica.",
+  "headlines": [
+    {
+      "title": "Pakistan lancia raid aerei su città afghane dopo attacchi talebani transfrontalieri",
+      "source": "la Repubblica",
+      "summary": "Il ministro della difesa pakistano dichiara guerra aperta dopo raid talebani oltre confine che causano vittime civili. Contrattacco serale con jet su Kabul e Islamabad. Escalation rischia di destabilizzare regione con implicazioni per sicurezza pakistana e afghana.",
+      "link": "https://www.repubblica.it/esteri/2026/02/27/news/talebani_attaccano_pakistan-425187034/?rss",
+      "tier": "top",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Hillary Clinton nega incontri con Epstein e chiede testimonianza di Trump",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "Euronews Italiano"
+      ],
+      "summary": "Clinton testimonia davanti commissione repubblicana, difende Bill e accusa Trump di legami con Epstein. Democratici chiedono deposizione tycoon. Procedura indagine continua con focus su figure politiche coinvolte.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/02/26/hillary-clinton-allattacco-mai-incontrato-epstein-interrogate-trump-non-me-_c0667e2c-4029-4f55-824a-ec772a63c358.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Enfatizza difesa Clinton su Epstein e attacco a Trump con richiesta testimonianza",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/02/26/hillary-clinton-allattacco-mai-incontrato-epstein-interrogate-trump-non-me-_c0667e2c-4029-4f55-824a-ec772a63c358.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Descrive apparizione forzata Clinton e offensiva contro Trump in commissione",
+          "link": "http://it.euronews.com/2026/02/27/caso-epstein-hillary-clinton-si-difende-dalle-accuse-e-chiede-la-testimonianza-di-trump"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trovate due fosse comuni con 171 corpi in Congo a Kiromoni e Kavimvira",
+      "source": "TGCOM24",
+      "summary": "Scoperte fosse comuni in Congo orientale con almeno 171 cadaveri. Indagini locali puntano a massacro recente. Situazione umanitaria peggiora con possibili responsabilità gruppi armati, richiede intervento internazionale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/congo-fosse-comuni-171-corpi_109454666-202602k.shtml",
+      "tier": "top",
+      "sources": [
+        "TGCOM24"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Depositato testo legge elettorale proporzionale con premio maggioranza e soglia 3%",
+      "source": "Il Sole 24 Ore",
+      "summary": "Sistema proporzionale prevede premio 70 seggi Camera e 35 Senato per coalizione oltre 40%, ballottaggio 35-40%, nome premier su programma senza preferenze. Soglia sbarramento 3%. Riforma modifica equilibri politici italiani.",
+      "link": "https://www.ilsole24ore.com/art/legge-elettorale-depositato-testo-proporzionale-premio-no-preferenze-AIbzEieB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Labour di Starmer crolla terzo posto suppletiva Manchester contro Verdi e Farage",
+      "source": "la Repubblica",
+      "summary": "Sconfitta Labour terzo in elezione Gorton-Denton, stretto tra populismi Verdi sinistra e destra Farage. Scandalo Mandelson indebolisce premier. Rischio instabilità governo britannico con pressioni interne.",
+      "link": "https://www.repubblica.it/esteri/2026/02/27/news/regno_unito_disfatta_per_starmer_all_elezione_di_manchester_ora_il_premier_rischia_la_poltrona-425187506/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Chatbot IA optano escalation nucleare in 95% simulazioni guerre secondo studio",
+      "source": "Euronews Italiano",
+      "summary": "Studio rivela modelli IA scelgono nucleare in quasi tutte simulazioni conflitti. Almeno un chatbot minaccia armi atomiche ogni volta. Evidenzia rischi affidamento IA decisioni strategiche militari future.",
+      "link": "http://it.euronews.com/next/2026/02/27/studio-i-chatbot-ia-scelgono-lescalation-nucleare-nel-95-delle-guerre-simulate",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano Toti di manipolazione dati Covid in Liguria con aumenti contagi",
+      "source": "Corriere della Sera",
+      "summary": "Indagine rivela governatore Toti ordinava aumenti numeri contagi a capo gabinetto. Messaggi intercettati confermano trucco dati pandemia. Procedura giudiziaria prosegue con implicazioni politiche regionali.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Procura Roma chiude indagini su Bartolozzi Nordio critica tempistica magistrati",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "ANSA"
+      ],
+      "summary": "Avviso fine indagini notificato deputata Bartolozzi che si dice serena. Ministro Nordio perplesso su tempistica, maggioranza accusa procure campagna elettorale. Maggioranza protesta, opposizioni contro giudice.",
+      "link": "https://www.ilsole24ore.com/art/chiusura-indagini-bartolozzi-nordio-tempistica-magistrati-mi-lascia-perplesso-AI0JegeB",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Riporta reazione Nordio perplesso e dichiarazione serena Bartolozzi",
+          "link": "https://www.ilsole24ore.com/art/chiusura-indagini-bartolozzi-nordio-tempistica-magistrati-mi-lascia-perplesso-AI0JegeB"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Descrive proteste maggioranza su procure e opposizioni contro giudice Albano",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/02/26/chiusura-indagini-per-bartolozzi-sono-serena-e-vado-avanti_d3442401-9dbc-4036-ae08-196a2f2617fc.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran e Usa dichiarano progressi significativi colloqui nucleari Ginevra mediati Oman",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Dopo discussioni intense, ministro Araghchi annuncia colloqui più produttivi finora. Segue minacce Trump con ultimatum 15 giorni. Negoziati proseguono per evitare escalation militare nucleare.",
+      "link": "http://it.euronews.com/2026/02/27/iran-e-usa-hanno-fatto-buoni-progressi-durante-gli-ultimi-colloqui-a-ginevra",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Dopo incontro iniziale Witkoff-Araghchi, nuovi colloqui Ginevra registrano progressi significativi dichiarati da entrambe parti",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Sottolinea progressi significativi mediati Oman dopo minacce Trump",
+          "link": "http://it.euronews.com/2026/02/27/iran-e-usa-hanno-fatto-buoni-progressi-durante-gli-ultimi-colloqui-a-ginevra"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Cita dichiarazione Araghchi su colloqui più intensi con americani a Ginevra",
+          "link": "https://www.tgcom24.mediaset.it/mondo/iran-progressi-dialogo-usa_109455981-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 253,
+    "articlesAfterDedup": 251,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 13,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 6,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "americas": 1,
+      "africa": 1,
+      "europe": 4,
+      "global": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

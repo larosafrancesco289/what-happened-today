@@ -1,0 +1,194 @@
+{
+  "date": "2026-02-27",
+  "summary": "Le Pakistan a déclaré vendredi une guerre ouverte aux talibans afghans après une offensive afghane jeudi à la frontière pakistano-afghane. Les forces pakistanaises ont bombardé Kaboul et Kandahar en représailles. Le Premier ministre Shehbaz Sharif a indiqué que le Pakistan dispose de capacités militaires supérieures. Une escalade des conflits frontaliers est attendue dans la région.\n\nAux États-Unis, Anthropic a refusé vendredi l'ultimatum du Pentagone et interdit l'accès à son modèle d'IA Claude pour la surveillance intérieure de masse et les armes autonomes. Le dirigeant Dario Amodei a rejeté la demande de l'administration Trump d'ouvrir le modèle sans restrictions pour des usages militaires. Séparément, la famille Ellison, proche de Donald Trump, a remporté les enchères pour Warner Bros Discovery après le renoncement de Netflix jeudi à surenchérir. Une fusion potentielle avec Paramount Skydance avance, avec des suites attendues sur la concurrence audiovisuelle américaine. En mer Baltique, les forces suédoises ont neutralisé mercredi un drone probablement russe approchant le porte-avions français Charles-de-Gaulle lors d'exercices OTAN à Malmö. Cet incident fait suite aux tensions sécuritaires près de la Russie.\n\nEn France, une fuite de données médicales a exposé les dossiers détaillés de 11 à 15 millions de patients, incluant des informations sensibles de professionnels de santé. Une enquête est en cours sur la protection des données personnelles. Dans l'affaire de la disparition de l'enfant Emile, des tests ADN ont été pratiqués sur les résidents du hameau après la découverte de deux traces dégradées extérieures à la famille sur ses vêtements en mars 2024. En Allemagne, le tribunal administratif de Cologne a refusé jeudi de classer l'AfD comme parti extrémiste avéré, bloquant les mesures des services de renseignement contre ce parti d'opposition avant les élections. Aux États-Unis, Hillary Clinton a été auditionnée jeudi par une commission républicaine sur les liens du couple Epstein et a renvoyé vers Donald Trump pour une audition similaire.",
+  "headlines": [
+    {
+      "title": "Pakistan déclare guerre ouverte à Afghanistan et bombarde Kaboul et Kandahar",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info",
+        "France 24",
+        "20 Minutes",
+        "RTBF"
+      ],
+      "summary": "Le Pakistan annonce vendredi une guerre ouverte aux talibans afghans après une offensive afghane jeudi à la frontière, bombardent Kaboul et Kandahar en représailles. Le Premier ministre Shehbaz Sharif prévient de capacités militaires supérieures. Cela risque d'escalader les tensions régionales frontalières.",
+      "link": "https://www.lemonde.fr/international/article/2026/02/27/le-pakistan-declare-la-guerre-ouverte-a-l-afghanistan-apres-des-frappes-meurtrieres-entre-les-deux-pays_6668424_3211.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur déclaration pakistanaise après offensive afghane jeudi et bombardements de Kaboul et Kandahar",
+          "link": "https://www.lemonde.fr/international/article/2026/02/27/le-pakistan-declare-la-guerre-ouverte-a-l-afghanistan-apres-des-frappes-meurtrieres-entre-les-deux-pays_6668424_3211.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Cite Premier ministre Shehbaz Sharif sur capacités troupes pour écraser ambitions afghanes",
+          "link": "https://www.franceinfo.fr/monde/afghanistan/direct-le-pakistan-declare-la-guerre-ouverte-a-l-afghanistan-apres-des-frappes-entre-les-deux-pays_7833176.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "France 24",
+          "angle": "Suit en direct frappes pakistanaises contre cibles à Kaboul après offensive afghane veille",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260227-en-direct-le-pakistan-m%C3%A8ne-des-frappes-en-afghanistan-se-dit-en-guerre-ouverte"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Mentionne bombardement de Kaboul comme déclaration guerre ouverte aux talibans",
+          "link": "https://www.20minutes.fr/monde/afghanistan/4203694-20260227-afghanistan-bombardant-kaboul-pakistan-declare-guerre-ouverte-talibans?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Rapporte frappes nocturnes sur Kaboul et Kandahar avec fin patience pakistanaise",
+          "link": "https://www.rtbf.be/article/notre-patience-a-atteint-ses-limites-le-pakistan-declare-la-guerre-aux-autorites-talibanes-d-afghanistan-11686131"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Anthropic refuse ultimatum Pentagone et bloque IA Claude pour surveillance masse et armes autonomes",
+      "source": "Le Monde",
+      "summary": "Patron d'Anthropic Dario Amodei rejette vendredi demande administration Trump d'ouvrir modèle Claude sans contraintes pour usages militaires. L'entreprise interdit surveillance intérieure de masse et armes autonomes. Cela défie pressions gouvernementales sur IA privée.",
+      "link": "https://www.lemonde.fr/economie/article/2026/02/27/anthropic-refuse-de-ceder-a-l-ultimatum-du-pentagone-et-bloque-l-utilisation-de-son-ia-pour-la-surveillance-de-masse-et-les-armes-autonomes_6668445_3234.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Famille Ellison proche Trump remporte enchères Warner Bros Discovery face renoncement Netflix",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "Radio-Canada"
+      ],
+      "summary": "Netflix renonce jeudi à surenchérir pour racheter Warner Bros Discovery, laissant Paramount Skydance avancer avec offre famille Ellison. Fusion potentielle redessine paysage médiatique américain malgré inquiétudes politiques. Conséquences sur concurrence audiovisuelle à suivre.",
+      "link": "https://www.lemonde.fr/economie/article/2026/02/27/vente-de-warner-bros-discovery-la-victoire-surprise-de-la-famille-ellison-proche-de-donald-trump-face-a-netflix_6668472_3234.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille victoire famille Ellison sur Netflix et champ libre pour Paramount Skydance",
+          "link": "https://www.lemonde.fr/economie/article/2026/02/27/vente-de-warner-bros-discovery-la-victoire-surprise-de-la-famille-ellison-proche-de-donald-trump-face-a-netflix_6668472_3234.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Annonce renoncement Netflix laissant champ libre à Paramount pour rachat Warner Bros",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260227-netflix-renonce-a-racheter-warner-bros-laisse-champ-libre-paramount"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Présente renoncement Netflix comme coup théâtre après cinq mois rebondissements",
+          "link": "https://ici.radio-canada.ca/nouvelle/2232794/netflix-warner-bros-paramount-rachat"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Fuite données médicales touche 11 à 15 millions personnes en France avec dossiers détaillés",
+      "source": "France Info",
+      "summary": "Une fuite massive expose dossiers médicaux détaillés de 11 à 15 millions patients français, incluant infos sensibles de professionnels santé. Enquête en cours inquiète sur protection données personnelles vitales pour secteur médical.",
+      "link": "https://www.franceinfo.fr/sante/enquete-francetv-une-fuite-massive-de-donnees-medicales-inquiete-en-france_7831823.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tribunal administratif Cologne refuse classement AfD comme parti extrémiste avéré",
+      "source": "20 Minutes",
+      "summary": "Jeudi, tribunal de Cologne bloque classement Alternative pour l'Allemagne comme extrémiste de droite par services renseignements. Décision freine mesures contre parti d'opposition influent avant élections.",
+      "link": "https://www.20minutes.fr/monde/allemagne/4203614-20260226-allemagne-afd-peut-etre-classe-parti-extremiste-droite-stade-selon-justice?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Drone probablement russe neutralisé près porte-avions Charles-de-Gaulle en rade Malmö Suède",
+      "source": "20 Minutes",
+      "summary": "Mercredi, forces suédoises neutralisent drone approchant trop près porte-avions français Charles-de-Gaulle lors exercices OTAN à Malmö. Incident souligne tensions sécuritaires en Baltique près Russie.",
+      "link": "https://www.20minutes.fr/societe/4203617-20260226-charles-gaulle-menace-drone-russe-suede?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tests ADN pratiqués sur habitants hameau dans affaire petit Emile traces extérieures famille",
+      "source": "Liberation",
+      "summary": "Procureurs effectuent tests ADN sur résidents hameau après expertises vêtements Emile mars 2024 révélant deux traces dégradées extérieures famille. Enquête progresse sur disparition enfant deux ans.",
+      "link": "https://www.liberation.fr/societe/police-justice/affaire-du-petit-emile-des-tests-adn-effectues-sur-des-habitants-du-hameau-20260227_35NJJS6H75DRDESIEELA2AEQK4/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Hillary Clinton auditionnée Congrès renvoie vers Donald Trump sur liens Epstein",
+      "source": "20 Minutes",
+      "summary": "Jeudi, commission républicaine auditionne Hillary Clinton sur liens couple Epstein, qui juge Donald Trump devant être entendu. Suit documents FBI manquants et auditions Bill Clinton.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4203689-20260227-affaire-epstein-face-congres-hillary-clinton-juge-donald-trump-doit-etre-entendu?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Hillary Clinton auditionnée jeudi commission républicaine et désigne Donald Trump comme devant témoigner sur liens Epstein",
+      "sources": [
+        "20 Minutes"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 218,
+    "articlesAfterDedup": 217,
+    "articlesAfterDiversity": 49,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "economy": 1,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "americas": 3,
+      "europe": 4
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

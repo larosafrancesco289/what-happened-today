@@ -16,7 +16,9 @@ export interface Translations {
     title: string;
     noSummaryTitle: string;
     noSummaryMessage: string;
+    noSummaryMessageForDate: string;
     noSummaryDescription: string;
+    noSummaryDescriptionForDate: string;
     headlines: string;
     dailySummary: string;
     readMore: string;
@@ -113,7 +115,9 @@ export const translations: Record<string, Translations> = {
       title: "What Happened Today",
       noSummaryTitle: "What Happened Today",
       noSummaryMessage: "No summary available for today yet.",
+      noSummaryMessageForDate: "No summary available for {date}.",
       noSummaryDescription: "The daily summary will be generated automatically.",
+      noSummaryDescriptionForDate: "This date may not have been processed yet or may not exist.",
       dailySummary: "Daily Summary",
       headlines: "Headlines",
       readMore: "Read more",
@@ -220,7 +224,9 @@ export const translations: Record<string, Translations> = {
       title: "Cosa È Successo Oggi",
       noSummaryTitle: "Cosa È Successo Oggi",
       noSummaryMessage: "Nessun riassunto disponibile per oggi.",
+      noSummaryMessageForDate: "Nessun riassunto disponibile per {date}.",
       noSummaryDescription: "Il riassunto giornaliero verrà generato automaticamente.",
+      noSummaryDescriptionForDate: "Questa data potrebbe non essere stata ancora elaborata o potrebbe non esistere.",
       dailySummary: "Riassunto Giornaliero",
       headlines: "Titoli",
       readMore: "Leggi di più",
@@ -327,7 +333,9 @@ export const translations: Record<string, Translations> = {
       title: "Que S'est-il Passé Aujourd'hui",
       noSummaryTitle: "Que S'est-il Passé Aujourd'hui",
       noSummaryMessage: "Aucun résumé disponible pour aujourd'hui.",
+      noSummaryMessageForDate: "Aucun résumé disponible pour le {date}.",
       noSummaryDescription: "Le résumé quotidien sera généré automatiquement.",
+      noSummaryDescriptionForDate: "Cette date n'a peut-être pas encore été traitée ou n'existe pas.",
       dailySummary: "Résumé Quotidien",
       headlines: "Titres",
       readMore: "Lire plus",

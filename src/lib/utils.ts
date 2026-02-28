@@ -2,15 +2,14 @@ import fs from 'fs';
 import path from 'path';
 import type { DailyNews } from '@/types/news';
 
-export { getDateString, formatDate, getPreviousDate, getNextDate } from './date-utils';
+export { getDateString, formatDate, getPreviousDate, getNextDate, getLastWeekRange } from './date-utils';
 
 export function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: string): Promise<T> {
-  return Promise.race([
-    promise,
-    new Promise<never>((_, reject) =>
-      setTimeout(() => reject(new Error(`${operation} timed out after ${timeoutMs}ms`)), timeoutMs)
-    ),
-  ]);
+  let timeoutId: ReturnType<typeof setTimeout>;
+  const timeoutPromise = new Promise<never>((_, reject) => {
+    timeoutId = setTimeout(() => reject(new Error(`${operation} timed out after ${timeoutMs}ms`)), timeoutMs);
+  });
+  return Promise.race([promise, timeoutPromise]).finally(() => clearTimeout(timeoutId));
 }
 
 export function safeParseJSON<T = unknown>(text: string, fallback: T): T {

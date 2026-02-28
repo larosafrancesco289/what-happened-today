@@ -18,7 +18,7 @@ const client = new OpenAI({
 // See available models at: https://openrouter.ai/models
 const MODEL_FILTER = 'nvidia/nemotron-3-nano-30b-a3b';
 const MODEL_HEADLINES = 'x-ai/grok-4.1-fast';
-const MODEL_SUMMARY = 'x-ai/grok-4.1-fast';
+export const MODEL_SUMMARY = 'x-ai/grok-4.1-fast';
 const MODEL_SUMMARY_FALLBACK = process.env.OPENROUTER_MODEL_SUMMARY_FALLBACK?.trim() || 'openai/gpt-4o-mini';
 
 // Helper function to retry operations with exponential backoff
@@ -75,7 +75,7 @@ function normalizeSummaryText(text: string): string {
  * Recover summary text from malformed model output that is close to JSON but invalid.
  * This avoids false "unavailable" days when the model returns usable prose with broken wrappers.
  */
-function recoverSummaryFromMalformedOutput(responseText: string): string | null {
+export function recoverSummaryFromMalformedOutput(responseText: string): string | null {
   const trimmed = responseText.trim();
   if (!trimmed) return null;
 
@@ -554,7 +554,7 @@ Output JSON: {"summary":"<votre briefing ici>"}`;
 
 // Helper to make Chat Completions API calls.
 // When `retry` is false, the caller handles its own retry logic (avoids stacked retries).
-async function chatCompletion(model: string, systemPrompt: string, userPrompt: string, maxTokens?: number, retry: boolean = true): Promise<string> {
+export async function chatCompletion(model: string, systemPrompt: string, userPrompt: string, maxTokens?: number, retry: boolean = true): Promise<string> {
   const doCall = () => client.chat.completions.create({
     model,
     messages: [
@@ -660,7 +660,7 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
 }
 
 /** Priority ordering for tiers: lower number = higher priority. */
-const TIER_PRIORITY: Record<Tier, number> = { top: 0, also: 1, developing: 2 };
+export const TIER_PRIORITY: Record<Tier, number> = { top: 0, also: 1, developing: 2 };
 
 function tierPriorityOf(tier: string | undefined): number {
   return TIER_PRIORITY[(tier as Tier)] ?? TIER_PRIORITY.also;

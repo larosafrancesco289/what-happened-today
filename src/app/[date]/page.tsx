@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { fetchDailySummary, formatDate, getDateString } from '@/lib/client-utils';
+import { fetchDailySummary, formatDate, getDateString, getNextDate } from '@/lib/client-utils';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getTranslations } from '@/lib/i18n';
 import NewsSummary from '@/components/NewsSummary';
@@ -58,26 +58,35 @@ export default function DatePage() {
     fetchData();
   }, [date, currentLanguage.code, t.common.error]);
 
-  // Determine if next date exists by probing the API
+  // Show next arrow only when the next date exists and has data.
   useEffect(() => {
-    if (!date) return;
-    const next = new Date(date);
-    next.setDate(next.getDate() + 1);
-    const nextDateString = getDateString(next);
-    const today = getDateString();
-    if (nextDateString > today) {
+    if (!date) {
       setHasNextDate(false);
       return;
     }
+
+    const nextDateString = getNextDate(date);
+    if (nextDateString > getDateString()) {
+      setHasNextDate(false);
+      return;
+    }
+
     let cancelled = false;
     fetchDailySummary(nextDateString, currentLanguage.code)
-      .then(res => {
-        if (!cancelled) setHasNextDate(!!res);
+      .then((res) => {
+        if (!cancelled) {
+          setHasNextDate(!!res);
+        }
       })
       .catch(() => {
-        if (!cancelled) setHasNextDate(false);
+        if (!cancelled) {
+          setHasNextDate(false);
+        }
       });
-    return () => { cancelled = true; };
+
+    return () => {
+      cancelled = true;
+    };
   }, [date, currentLanguage.code]);
 
   if (loading) {
@@ -116,16 +125,6 @@ export default function DatePage() {
 
   if (!data) {
     const formattedDate = formatDate(date, currentLanguage.code);
-    const noSummaryMessage = currentLanguage.code === 'it'
-      ? `Nessun riassunto disponibile per ${formattedDate}.`
-      : currentLanguage.code === 'fr'
-        ? `Aucun resume disponible pour le ${formattedDate}.`
-        : `No summary available for ${formattedDate}.`;
-    const noSummaryDescription = currentLanguage.code === 'it'
-      ? 'Questa data potrebbe non essere stata ancora elaborata o potrebbe non esistere.'
-      : currentLanguage.code === 'fr'
-        ? "Cette date n'a peut-etre pas encore ete traitee ou n'existe pas."
-        : 'This date may not have been processed yet or may not exist.';
 
     return (
       <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
@@ -135,12 +134,13 @@ export default function DatePage() {
             {t.summary.noSummaryTitle}
           </h1>
           <p className="text-xl text-subtle-light dark:text-subtle-dark mb-8">
-            {noSummaryMessage}
+            {t.summary.noSummaryMessageForDate.replace('{date}', formattedDate)}
           </p>
           <p className="text-subtle-light dark:text-subtle-dark">
-            {noSummaryDescription}
+            {t.summary.noSummaryDescriptionForDate}
           </p>
         </div>
+        <DateNavigation currentDate={date} hasNextDate={hasNextDate} />
       </div>
     );
   }

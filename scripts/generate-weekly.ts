@@ -1,33 +1,8 @@
 #!/usr/bin/env bun
 
 import type { DailyNews, WeeklyDigest, Category, Region } from '../src/types/news';
-import { withTimeout, safeParseJSON } from '../src/lib/utils';
-
-/** Get the Monday–Sunday range for the most recently completed week. */
-function getLastWeekRange(referenceDate: Date = new Date()): { startDate: string; endDate: string; weekId: string } {
-  const d = new Date(referenceDate);
-  // Roll back to last Sunday (end of previous week)
-  const dayOfWeek = d.getDay(); // 0=Sun
-  const daysToLastSunday = dayOfWeek === 0 ? 7 : dayOfWeek;
-  d.setDate(d.getDate() - daysToLastSunday);
-  const endDate = d.toISOString().split('T')[0];
-
-  // Monday of that week = Sunday - 6
-  const monday = new Date(d);
-  monday.setDate(monday.getDate() - 6);
-  const startDate = monday.toISOString().split('T')[0];
-
-  // ISO week number
-  const jan4 = new Date(monday.getFullYear(), 0, 4);
-  const daysSinceJan4 = Math.floor((monday.getTime() - jan4.getTime()) / 86400000);
-  const weekNum = Math.ceil((daysSinceJan4 + jan4.getDay() + 1) / 7);
-  const weekId = `${monday.getFullYear()}-W${String(weekNum).padStart(2, '0')}`;
-
-  return { startDate, endDate, weekId };
-}
-
-/** Tier priority: lower = more important. Used to keep the highest tier per day. */
-const TIER_PRIORITY: Record<string, number> = { top: 0, also: 1, developing: 2 };
+import { withTimeout, safeParseJSON, getLastWeekRange } from '../src/lib/utils';
+import { chatCompletion, recoverSummaryFromMalformedOutput, TIER_PRIORITY, MODEL_SUMMARY } from '../src/lib/llm-client';
 
 interface StoryEntry {
   title: string;
@@ -81,29 +56,6 @@ function dateRange(start: string, end: string): string[] {
   return dates;
 }
 
-/**
- * Last-resort extraction when the LLM returns malformed JSON (e.g. missing quotes
- * around keys). Grabs everything after the "summary" key and strips wrapper chars.
- */
-function extractSummaryFallback(text: string): string | undefined {
-  const match = text.match(/"summary"?\s*:\s*"?([\s\S]+)/);
-  if (!match) return undefined;
-
-  const cleaned = match[1]
-    .trim()
-    .replace(/^"|["}\s]+$/g, '')           // strip leading " and trailing ", }, whitespace
-    .replace(/\\n/g, '\n')
-    .replace(/\\"/g, '"')
-    .replace(/\\\\/g, '\\')
-    .trim();
-
-  if (cleaned) {
-    console.log('  (recovered summary from malformed JSON via regex fallback)');
-  }
-
-  return cleaned || undefined;
-}
-
 async function runWeeklyPipeline(languageCode: string = 'en') {
   const { loadDailyNews } = await import('../src/lib/utils');
   const fs = await import('fs');
@@ -115,12 +67,14 @@ async function runWeeklyPipeline(languageCode: string = 'en') {
   console.log(`Weekly digest: ${weekId} (${startDate} → ${endDate}) [${languageCode.toUpperCase()}]`);
   console.log(`${'='.repeat(60)}\n`);
 
-  // 1. Load daily JSON files
+  // 1. Load daily JSON files in parallel
   const dates = dateRange(startDate, endDate);
-  const dailyData: DailyNews[] = [];
+  const results = await Promise.all(
+    dates.map(async (date) => ({ date, data: await loadDailyNews(date, languageCode) }))
+  );
 
-  for (const date of dates) {
-    const data = await loadDailyNews(date, languageCode);
+  const dailyData: DailyNews[] = [];
+  for (const { date, data } of results) {
     if (data && !data.unavailable && data.headlines.length > 0) {
       dailyData.push(data);
       console.log(`  Loaded ${date}: ${data.headlines.length} headlines`);
@@ -158,7 +112,7 @@ async function runWeeklyPipeline(languageCode: string = 'en') {
       }
       const entry = storyTracker.get(key)!;
       const existing = entry.tiers.get(dayIdx);
-      if (!existing || (TIER_PRIORITY[tier] ?? 1) < (TIER_PRIORITY[existing] ?? 1)) {
+      if (!existing || (TIER_PRIORITY[tier as keyof typeof TIER_PRIORITY] ?? 1) < (TIER_PRIORITY[existing as keyof typeof TIER_PRIORITY] ?? 1)) {
         entry.tiers.set(dayIdx, tier);
       }
     }
@@ -186,20 +140,6 @@ async function runWeeklyPipeline(languageCode: string = 'en') {
 
   // 5. Generate weekly summary via LLM
   console.log('\nGenerating weekly summary with LLM...');
-  const { default: OpenAI } = await import('openai');
-
-  const client = new OpenAI({
-    apiKey: process.env.OPENROUTER_API_KEY?.trim(),
-    baseURL: 'https://openrouter.ai/api/v1',
-    timeout: 90000,
-    maxRetries: 2,
-    defaultHeaders: {
-      'HTTP-Referer': process.env.OPENROUTER_SITE_URL || 'https://what-happened-today.vercel.app',
-      'X-Title': process.env.OPENROUTER_SITE_NAME || 'What Happened Today',
-    },
-  });
-
-  const MODEL_SUMMARY = 'x-ai/grok-4.1-fast';
 
   const headlinesByDay = dailyData.map(d =>
     `${d.date}:\n${d.headlines.filter(h => h.tier === 'top' || !h.tier).map(h => `  - ${h.title}`).join('\n')}`
@@ -270,24 +210,15 @@ Output JSON: {"summary":"<votre briefing>"}`,
 
   const prompts = langPrompts[languageCode] || langPrompts.en;
 
-  const response = await withTimeout(
-    client.chat.completions.create({
-      model: MODEL_SUMMARY,
-      messages: [
-        { role: 'system', content: prompts.system },
-        { role: 'user', content: prompts.user },
-      ],
-      max_tokens: 2048,
-    }),
+  const responseText = await withTimeout(
+    chatCompletion(MODEL_SUMMARY, prompts.system, prompts.user, 2048),
     180000,
     'Weekly summary generation'
   );
 
-  const responseText = response.choices[0]?.message?.content || '';
-
-  // Try standard JSON parsing first, then regex extraction for malformed JSON
+  // Try standard JSON parsing first, then robust recovery for malformed JSON
   const summary = safeParseJSON<{ summary?: string }>(responseText, {}).summary
-    ?? extractSummaryFallback(responseText);
+    ?? recoverSummaryFromMalformedOutput(responseText);
 
   if (!summary) {
     console.error('Failed to generate weekly summary. Raw response:', responseText.substring(0, 500));

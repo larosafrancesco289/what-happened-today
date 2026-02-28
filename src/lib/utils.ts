@@ -2,11 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import type { DailyNews } from '@/types/news';
 
-const LOCALE_MAP: Record<string, string> = {
-  it: 'it-IT',
-  fr: 'fr-FR',
-  en: 'en-US',
-};
+export { getDateString, formatDate, getPreviousDate, getNextDate } from './date-utils';
 
 export function withTimeout<T>(promise: Promise<T>, timeoutMs: number, operation: string): Promise<T> {
   return Promise.race([
@@ -39,26 +35,6 @@ export function safeParseJSON<T = unknown>(text: string, fallback: T): T {
   }
 }
 
-export function getDateString(date: Date = new Date()): string {
-  return date.toISOString().split('T')[0];
-}
-
-export function formatDate(dateString: string, languageCode: string = 'en'): string {
-  const date = new Date(dateString);
-  const locale = LOCALE_MAP[languageCode] ?? LOCALE_MAP.en;
-  const formatted = date.toLocaleDateString(locale, {
-    weekday: 'long',
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric'
-  });
-  
-  // Capitalize the first letter of each word that contains letters (day and month names)
-  return formatted.replace(/\b[a-zA-ZÀ-ÿ]+/g, word => 
-    word.charAt(0).toUpperCase() + word.slice(1)
-  );
-}
-
 export function getDataFilePath(date: string, languageCode: string = 'en'): string {
   return path.join(process.cwd(), 'data', languageCode, `${date}.json`);
 }
@@ -66,24 +42,53 @@ export function getDataFilePath(date: string, languageCode: string = 'en'): stri
 export async function saveDailyNews(dailyNews: DailyNews, languageCode: string = 'en'): Promise<void> {
   const filePath = getDataFilePath(dailyNews.date, languageCode);
   const dataDir = path.dirname(filePath);
-  
-  // Ensure data directory exists
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
-  }
-  
+  fs.mkdirSync(dataDir, { recursive: true });
   await fs.promises.writeFile(filePath, JSON.stringify(dailyNews, null, 2));
 }
 
 export async function loadDailyNews(date: string, languageCode: string = 'en'): Promise<DailyNews | null> {
   const filePath = getDataFilePath(date, languageCode);
-  
+
   try {
     const content = await fs.promises.readFile(filePath, 'utf-8');
     return JSON.parse(content) as DailyNews;
   } catch {
     return null;
   }
+}
+
+/**
+ * Normalize a URL to host+path for deduplication.
+ * Falls back to lowercased raw link on invalid URLs.
+ */
+function normalizeLink(link: string): string {
+  try {
+    const u = new URL(link);
+    return `${u.host}${u.pathname}`.toLowerCase();
+  } catch {
+    return link.toLowerCase();
+  }
+}
+
+function normalizeTitle(title: string, maxLen: number = 80): string {
+  return title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, maxLen);
+}
+
+/**
+ * Create a dedup fingerprint for an article.
+ * When `includeContent` is true the fingerprint is stricter (used for raw-article dedup).
+ */
+export function articleFingerprint(
+  article: { link: string; title: string; content?: string },
+  includeContent: boolean = false,
+): string {
+  const hostPath = normalizeLink(article.link);
+  const titleKey = normalizeTitle(article.title);
+  if (includeContent && article.content) {
+    const contentKey = article.content.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 80);
+    return `${hostPath}|${titleKey}|${contentKey}`;
+  }
+  return `${hostPath}|${titleKey}`;
 }
 
 export function cleanText(text: string): string {
@@ -96,15 +101,3 @@ export function cleanText(text: string): string {
     .replace(/<[^>]*>/g, '') // Remove HTML tags
     .trim();
 }
-
-export function getPreviousDate(dateString: string): string {
-  const date = new Date(dateString);
-  date.setDate(date.getDate() - 1);
-  return getDateString(date);
-}
-
-export function getNextDate(dateString: string): string {
-  const date = new Date(dateString);
-  date.setDate(date.getDate() + 1);
-  return getDateString(date);
-} 

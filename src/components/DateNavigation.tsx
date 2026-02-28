@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/24/outline';
-import { getPreviousDate, getNextDate, formatDate } from '@/lib/client-utils';
+import { getPreviousDate, getNextDate, formatDate, getDateString } from '@/lib/client-utils';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getTranslations } from '@/lib/i18n';
 
@@ -17,7 +17,7 @@ export default function DateNavigation({ currentDate, hasNextDate = false }: Dat
 
   const previousDate = getPreviousDate(currentDate);
   const nextDate = getNextDate(currentDate);
-  const today = new Date().toISOString().split('T')[0];
+  const today = getDateString();
   const isToday = currentDate === today;
 
   return (

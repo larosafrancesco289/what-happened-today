@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { fetchDailySummary, getDateString } from '@/lib/client-utils';
+import { fetchDailySummary, formatDate, getDateString } from '@/lib/client-utils';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getTranslations } from '@/lib/i18n';
 import NewsSummary from '@/components/NewsSummary';
@@ -63,7 +63,7 @@ export default function DatePage() {
     if (!date) return;
     const next = new Date(date);
     next.setDate(next.getDate() + 1);
-    const nextDateString = next.toISOString().split('T')[0];
+    const nextDateString = getDateString(next);
     const today = getDateString();
     if (nextDateString > today) {
       setHasNextDate(false);
@@ -115,6 +115,18 @@ export default function DatePage() {
   }
 
   if (!data) {
+    const formattedDate = formatDate(date, currentLanguage.code);
+    const noSummaryMessage = currentLanguage.code === 'it'
+      ? `Nessun riassunto disponibile per ${formattedDate}.`
+      : currentLanguage.code === 'fr'
+        ? `Aucun resume disponible pour le ${formattedDate}.`
+        : `No summary available for ${formattedDate}.`;
+    const noSummaryDescription = currentLanguage.code === 'it'
+      ? 'Questa data potrebbe non essere stata ancora elaborata o potrebbe non esistere.'
+      : currentLanguage.code === 'fr'
+        ? "Cette date n'a peut-etre pas encore ete traitee ou n'existe pas."
+        : 'This date may not have been processed yet or may not exist.';
+
     return (
       <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
         <AppHeader />
@@ -123,16 +135,10 @@ export default function DatePage() {
             {t.summary.noSummaryTitle}
           </h1>
           <p className="text-xl text-subtle-light dark:text-subtle-dark mb-8">
-            {currentLanguage.code === 'it'
-              ? `Nessun riassunto disponibile per ${date}.`
-              : `No summary available for ${date}.`
-            }
+            {noSummaryMessage}
           </p>
           <p className="text-subtle-light dark:text-subtle-dark">
-            {currentLanguage.code === 'it'
-              ? 'Questa data potrebbe non essere stata ancora elaborata o potrebbe non esistere.'
-              : 'This date may not have been processed yet or may not exist.'
-            }
+            {noSummaryDescription}
           </p>
         </div>
       </div>

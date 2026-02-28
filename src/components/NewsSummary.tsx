@@ -174,11 +174,10 @@ function CategoryFilter({
 interface HeadlineCardProps {
   headline: NewsHeadline;
   index: number;
-  isFirst: boolean;
   compact?: boolean;
 }
 
-function HeadlineCard({ headline, index, isFirst, compact = false }: HeadlineCardProps) {
+function HeadlineCard({ headline, index, compact = false }: HeadlineCardProps) {
   const { currentLanguage } = useLanguage();
   const t = getTranslations(currentLanguage.code);
 
@@ -186,7 +185,7 @@ function HeadlineCard({ headline, index, isFirst, compact = false }: HeadlineCar
   const styles = importanceStyles[importance];
   const CategoryIcon = headline.category ? categoryIcons[headline.category] : null;
 
-  const isFeatured = !compact && isFirst && importance !== 'notable';
+  const isFeatured = !compact && index === 0 && importance !== 'notable';
 
   return (
     <article
@@ -534,7 +533,6 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
                   key={`top-${index}`}
                   headline={headline}
                   index={index}
-                  isFirst={index === 0}
                 />
               ))}
             </div>
@@ -554,7 +552,6 @@ export default function NewsSummary({ data }: NewsSummaryProps) {
                   key={`also-${index}`}
                   headline={headline}
                   index={index}
-                  isFirst={false}
                   compact
                 />
               ))}

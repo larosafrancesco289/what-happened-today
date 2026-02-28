@@ -1,6 +1,6 @@
 import Parser from 'rss-parser';
-import { RSS_FEEDS_BY_LANGUAGE } from './rss-feeds';
-import { cleanText } from './utils';
+import { RSS_FEEDS_BY_LANGUAGE } from './languages';
+import { cleanText, articleFingerprint } from './utils';
 import type { RSSFeedItem, ProcessedArticle } from '@/types/news';
 
 const parser = new Parser({
@@ -118,18 +118,7 @@ export async function deduplicateArticles(articles: ProcessedArticle[]): Promise
   const unique: ProcessedArticle[] = [];
   
   for (const article of articles) {
-    // Create a stronger fingerprint: host+path + normalized title + first 80 of content
-    let hostPath = '';
-    try {
-      const u = new URL(article.link);
-      hostPath = `${u.host}${u.pathname}`.toLowerCase();
-    } catch {
-      hostPath = article.link.toLowerCase();
-    }
-    const titleKey = article.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 80);
-    const contentKey = article.content.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 80);
-    const fingerprint = `${hostPath}|${titleKey}|${contentKey}`;
-    
+    const fingerprint = articleFingerprint(article, true);
     if (!seen.has(fingerprint)) {
       seen.add(fingerprint);
       unique.push(article);

@@ -1,6 +1,6 @@
 import OpenAI from 'openai';
 import type { ProcessedArticle, NewsHeadline, Category, Region, Importance, Tier } from '@/types/news';
-import { safeParseJSON } from '@/lib/utils';
+import { safeParseJSON, articleFingerprint } from '@/lib/utils';
 
 const client = new OpenAI({
   apiKey: process.env.OPENROUTER_API_KEY?.trim(),
@@ -552,17 +552,19 @@ Output JSON: {"summary":"<votre briefing ici>"}`;
   }
 };
 
-// Helper to make Chat Completions API calls
-async function chatCompletion(model: string, systemPrompt: string, userPrompt: string, maxTokens?: number): Promise<string> {
-  const response = await withRetry(() => client.chat.completions.create({
+// Helper to make Chat Completions API calls.
+// When `retry` is false, the caller handles its own retry logic (avoids stacked retries).
+async function chatCompletion(model: string, systemPrompt: string, userPrompt: string, maxTokens?: number, retry: boolean = true): Promise<string> {
+  const doCall = () => client.chat.completions.create({
     model,
     messages: [
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userPrompt }
     ],
     ...(maxTokens ? { max_tokens: maxTokens } : {}),
-  }));
+  });
 
+  const response = retry ? await withRetry(doCall) : await doCall();
   return response.choices[0]?.message?.content || '';
 }
 
@@ -630,15 +632,7 @@ export async function filterAndRankArticles(articles: ProcessedArticle[], langua
     const seen = new Set<string>();
     const unique: ProcessedArticle[] = [];
     for (const a of merged) {
-      let hostPath = '';
-      try {
-        const u = new URL(a.link);
-        hostPath = `${u.host}${u.pathname}`.toLowerCase();
-      } catch {
-        hostPath = a.link.toLowerCase();
-      }
-      const titleKey = a.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 80);
-      const fingerprint = `${hostPath}|${titleKey}`;
+      const fingerprint = articleFingerprint(a);
       if (!seen.has(fingerprint)) {
         seen.add(fingerprint);
         unique.push(a);
@@ -755,7 +749,7 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
     for (let attempt = 1; attempt <= MAX_ATTEMPTS_PER_MODEL; attempt++) {
       try {
         const apiStart = Date.now();
-        const responseText = await chatCompletion(model, systemPrompt, prompt, 2048);
+        const responseText = await chatCompletion(model, systemPrompt, prompt, 2048, false);
         const apiMs = Date.now() - apiStart;
         console.log(`generateDailySummary: model=${model} API response time ${apiMs} ms (attempt ${attempt}/${MAX_ATTEMPTS_PER_MODEL})`);
 
@@ -804,8 +798,8 @@ interface HeadlineCategorization {
  * Categorize headlines by topic, region, and importance.
  * Uses a fast model to add metadata for frontend filtering and visual hierarchy.
  */
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-export async function categorizeHeadlines(headlines: NewsHeadline[], languageCode: string = 'en'): Promise<NewsHeadline[]> {
+// eslint-disable-next-line @typescript-eslint/no-unused-vars -- languageCode reserved for future per-language categorization prompts
+export async function categorizeHeadlines(headlines: NewsHeadline[], _languageCode: string = 'en'): Promise<NewsHeadline[]> {
   if (headlines.length === 0) return headlines;
 
   const defaultMeta = {

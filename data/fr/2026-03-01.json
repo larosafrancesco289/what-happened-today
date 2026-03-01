@@ -1,0 +1,165 @@
+{
+  "date": "2026-03-01",
+  "summary": "La télévision d'État iranienne a confirmé le 1er mars la mort d'Ali Khamenei, guide suprême depuis 1989, survenue lors de frappes américano-israéliennes sur Téhéran le 28 février. Donald Trump avait annoncé cette mort le samedi précédent. Sa fille, son gendre et sa petite-fille ont péri dans la même attaque. Téhéran décrète un deuil national de 40 jours à compter du 1er mars. L'Assemblée des experts doit élire un successeur intérimaire dans les prochaines semaines, selon la Constitution iranienne.\n\nL'Iran a lancé dimanche des missiles et drones sur Tel-Aviv, Jérusalem et des bases américaines à Ryad, Abou Dhabi, Doha, Dubaï, Koweït et Manama, en riposte aux frappes du 28 février. Les Gardiens de la Révolution ont revendiqué ces attaques. Samedi, l'armée israélienne a éliminé sept responsables iraniens lors d'un rassemblement à Téhéran, selon le général Effie Defrin. Les autorités iraniennes n'ont pas commenté cette opération. Une escalade supplémentaire est attendue des deux côtés.\n\nFrance, Allemagne et Royaume-Uni ont publié un communiqué soutenant les frappes américano-israéliennes sans y participer et condamnant les attaques iraniennes sur les bases régionales. Des images vérifiées par Le Monde montrent des dégâts sur des cibles iraniennes à Téhéran et des ripostes iraniennes sur Israël. Ces éléments documentent l'étendue des échanges militaires. Le conflit au Moyen-Orient se développe avec des implications pour la stabilité régionale.",
+  "headlines": [
+    {
+      "title": "Téhéran confirme la mort du guide suprême Ali Khamenei dans les frappes américano-israéliennes",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Radio-Canada",
+        "Le Monde",
+        "France Info",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "La télévision d'État iranienne confirme dimanche 1er mars la mort d'Ali Khamenei, annoncée samedi par Donald Trump après des frappes américano-israéliennes sur Téhéran. Sa fille, gendre et petite-fille périssent aussi. Cela fragilise le régime et risque d'intensifier les tensions régionales.",
+      "link": "https://www.lefigaro.fr/international/en-direct-iran-israel-lance-une-attaque-preventive-plusieurs-explosions-recensees-a-teheran-20260228",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Ouvre avec confirmation iranienne et annonce de Trump sur Truth Social",
+          "link": "https://www.lefigaro.fr/international/en-direct-iran-israel-lance-une-attaque-preventive-plusieurs-explosions-recensees-a-teheran-20260228"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Précise morts de la fille, gendre et petite-fille de Khamenei",
+          "link": "https://ici.radio-canada.ca/info/en-direct/1013513/israel-frappe-iran-teheran"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Mentionne aussi morts du chef des Gardiens et conseiller Shamkhani",
+          "link": "https://www.lemonde.fr/international/live/2026/03/01/en-direct-l-iran-replique-en-israel-et-dans-le-golfe-apres-la-mort-d-ali-khamenei-l-etat-hebreu-annonce-de-nouvelles-frappes-sur-des-cibles-militaires_6668663_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'Iran lance des attaques de missiles sur Israël et bases américaines dans le Golfe",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "RFI",
+        "Liberation"
+      ],
+      "summary": "Téhéran riposte dimanche aux frappes du 28 février par des missiles et drones sur Tel-Aviv, Jérusalem et bases à Ryad, Abou Dhabi, Doha, Dubaï, Koweït, Manama. Les Gardiens promettent une offensive féroce. Cela élargit le conflit au Moyen-Orient.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/01/en-direct-l-iran-replique-en-israel-et-dans-le-golfe-apres-la-mort-d-ali-khamenei-l-etat-hebreu-annonce-de-nouvelles-frappes-sur-des-cibles-militaires_6668663_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille riposte iranienne après mort de Khamenei et menaces Trump",
+          "link": "https://www.lemonde.fr/international/live/2026/03/01/en-direct-l-iran-replique-en-israel-et-dans-le-golfe-apres-la-mort-d-ali-khamenei-l-etat-hebreu-annonce-de-nouvelles-frappes-sur-des-cibles-militaires_6668663_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Signale explosions à Tel-Aviv, Jérusalem et villes du Golfe",
+          "link": "https://www.lefigaro.fr/international/en-direct-attaque-en-iran-le-moyen-orient-s-embrase-apres-la-mort-du-guide-supreme-ali-khamenei-20260301"
+        },
+        {
+          "source": "RFI",
+          "angle": "Annonce attaques sur bases américaines et Israël par médias iraniens",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260301-en-direct-iran-des-milliers-de-personnes-rendent-hommage-%C3%A0-ali-khamenei-dans-le-centre-de-t%C3%A9h%C3%A9ran"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'armée israélienne élimine sept responsables iraniens lors d'un rassemblement",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Le Monde"
+      ],
+      "summary": "Samedi, l'armée israélienne cible un rassemblement de sept responsables du régime iranien à Téhéran, les éliminant selon le général Effie Defrin. Cela affaiblit la hiérarchie militaire iranienne au début du conflit.",
+      "link": "https://www.lefigaro.fr/international/attaque-en-iran-qui-sont-les-responsables-iraniens-tues-dans-les-frappes-20260228",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Explique cible d'un rassemblement de sept responsables terroristes",
+          "link": "https://www.lefigaro.fr/international/attaque-en-iran-qui-sont-les-responsables-iraniens-tues-dans-les-frappes-20260228"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Identifie morts de Pakpour et Shamkhani parmi les victimes",
+          "link": "https://www.lemonde.fr/international/live/2026/03/01/en-direct-l-iran-replique-en-israel-et-dans-le-golfe-apres-la-mort-d-ali-khamenei-l-etat-hebreu-annonce-de-nouvelles-frappes-sur-des-cibles-militaires_6668663_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "France, Allemagne et Royaume-Uni expriment prudence face aux frappes en Iran",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Paris, Berlin et Londres publient un communiqué soutenant tacitement les frappes sans y participer et critiquant les attaques iraniennes régionales. Cela reflète une position européenne mesurée dans l'escalade.",
+      "link": "https://www.lemonde.fr/international/article/2026/02/28/offensive-israelo-americaine-contre-l-iran-la-grande-prudence-de-paris-berlin-et-londres_6668730_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Images vérifiées montrent ampleur des frappes américano-israéliennes et riposte iranienne",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Le Monde vérifie des vidéos révélant dégâts sur cibles iraniennes touchées samedi et ripostes de Téhéran. Cela documente l'étendue des échanges militaires pour évaluer l'évolution du conflit.",
+      "link": "https://www.lemonde.fr/international/video/2026/02/28/attaques-des-etats-unis-et-d-israel-en-iran-ce-que-montrent-les-images-verifiees_6668723_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "L'Iran annonce un deuil national de 40 jours après la mort d'Ali Khamenei",
+      "source": "France Info",
+      "sources": [
+        "France Info"
+      ],
+      "summary": "Téhéran décrète 40 jours de deuil pour le guide suprême tué dans l'attaque israélo-américaine, figure au pouvoir depuis 1989 critiquée pour violations des droits humains. Cela mobilise la population interne.",
+      "link": "https://www.franceinfo.fr/monde/iran/le-guide-supreme-iranien-ali-khamenei-est-mort-dans-l-attaque-israelo-americaine-annonce-donald-trump-pas-de-confirmation-iranienne-pour-l-instant_7837196.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 208,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 48,
+    "articlesAfterFilter": 19,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4
+    }
+  }
+}

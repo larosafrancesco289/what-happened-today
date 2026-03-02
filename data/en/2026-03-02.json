@@ -1,0 +1,237 @@
+{
+  "date": "2026-03-02",
+  "summary": "US military reports first combat casualties from clashes in Iran, with troops killed and wounded after airstrikes on the country. Tehran targeted US bases in the region, affecting personnel stationed across the Middle East. This follows Israeli airstrikes that killed Iran's Supreme Leader Ayatollah Ali Khamenei. Commanders state troops face heightened risks, with further attacks possible.\n\nIn the Gulf, Iran fired hundreds of missiles and drones at Dubai, Abu Dhabi, Qatar, and Bahrain, injuring over 100 people and killing at least four. Strikes damaged infrastructure in retaliation for US-Israeli attacks. Oil prices surged 13 percent as tanker traffic halted in the Strait of Hormuz, raising costs for Asia's import-dependent economies. Separately, Israel struck Hezbollah targets across Lebanon and bombed Beirut suburbs after rockets from the group, displacing Lebanese civilians and hitting over 1,000 Iranian-linked sites.\n\nIran claims over 100 killed in a strike on Minab girls' school near a military site, accusing the US and Israel; Western officials deny knowledge, and aid groups seek access. Crowds in Iran gathered to celebrate and mourn Khamenei's death at age 86, with public opinion divided. US futures fell over 1 percent and Asian shares dropped amid the conflict. In Congo, Rwanda-backed rebels entered Goma, displacing one million as shelling hit the city. Palestinians returned to northern Gaza after a hostage release. A US appeals court lifted a block on Trump's DEI crackdown, allowing federal agencies to halt diversity programs. NATO launched its first coordinated response to a Baltic Sea cable severance, securing undersea assets for alliance members.\n{\"}",
+  "headlines": [
+    {
+      "title": "US confirms troops killed and wounded in Iran clashes",
+      "source": "Deutsche Welle",
+      "summary": "US military reports first combat casualties after airstrikes on Iran, with Tehran targeting bases in the region. Troops stationed across Middle East face heightened risks amid escalating war. This marks direct US involvement, raising fears of broader conflict.",
+      "link": "https://www.dw.com/en/us-confirms-american-troops-killed-wounded-in-iran-clashes/a-76177887?maca=en-rss-en-top-1022-rdf",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran fires hundreds of missiles and drones at Dubai, Abu Dhabi, Qatar and Bahrain",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "BBC"
+      ],
+      "summary": "Strikes injure over 100 and kill at least 4 in Gulf cities, retaliating against US-Israeli attacks. Gulf residents and infrastructure suffer damage. Escalation threatens regional stability and global energy routes.",
+      "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-dubai-persian-gulf-countries-retaliation.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Details injuries, deaths and specific Gulf targets hit by missiles",
+          "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-dubai-persian-gulf-countries-retaliation.html"
+        },
+        {
+          "source": "BBC",
+          "angle": "Highlights attacks on civilian infrastructure in US Gulf allies",
+          "link": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Oil prices surge 13 percent as Strait of Hormuz tanker traffic halts",
+      "source": "South China Morning Post",
+      "sources": [
+        "NPR",
+        "South China Morning Post",
+        "Associated Press"
+      ],
+      "summary": "Benchmark Brent crude jumps amid US-Israeli strikes on Iran and retaliatory attacks disrupting supply. Asia's import-dependent economies face higher costs and inflation risks. Traders anticipate prolonged shortages.",
+      "link": "https://www.scmp.com/week-asia/economics/article/3345098/asia-faces-oil-shock-us-iran-war-chokes-strait-hormuz?utm_source=rss_feed",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "NPR",
+          "angle": "Focuses on global energy supply chain disruptions from regional attacks",
+          "link": "https://www.npr.org/2026/03/01/nx-s1-5731584/oil-prices-iran-us-israel-attacks-war"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "Emphasizes Asia oil shock and near standstill in Hormuz traffic",
+          "link": "https://www.scmp.com/week-asia/economics/article/3345098/asia-faces-oil-shock-us-iran-war-chokes-strait-hormuz?utm_source=rss_feed"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Notes attacks on Hormuz vessels and bets on slowed Middle East oil",
+          "link": "https://apnews.com/article/stocks-markets-oil-gold-iran-trump-25fd9bfa1b20549a6cbbdee61b2ea05f"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel strikes Hezbollah across Lebanon and bombs Beirut suburbs",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Al Jazeera"
+      ],
+      "summary": "Military targets Iranian-backed group, prompting evacuations after rockets fired in retaliation. Lebanese civilians displace amid operations hitting over 1,000 Iranian sites. Widens war to new front.",
+      "link": "https://www.france24.com/en/middle-east/20260302-live-israel-calls-for-evacuations-in-lebanon-after-strikes-on-hezbollah",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Covers evacuations, Trump vows and live updates on Hezbollah strikes",
+          "link": "https://www.france24.com/en/middle-east/20260302-live-israel-calls-for-evacuations-in-lebanon-after-strikes-on-hezbollah"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Reports heavy strikes on Beirut after Hezbollah rocket retaliation",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/israel-bombs-beirut-after-hezbollah-fires-rockets-in-iran-war-retaliation?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US futures fall over 1 percent and Asian shares drop as markets react to Iran war",
+      "source": "Associated Press",
+      "summary": "Oil soars while stocks decline amid attacks rattling investors. Global traders and economies brace for supply disruptions. Signals volatility from Middle East conflict.",
+      "link": "https://apnews.com/article/stocks-markets-oil-gold-iran-trump-25fd9bfa1b20549a6cbbdee61b2ea05f",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Iranians celebrate and mourn Supreme Leader Khamenei's killing in US-Israeli strikes",
+      "source": "New York Times",
+      "summary": "Crowds gather in disbelief after airstrikes kill Ayatollah at 86. Iranian public divides on loss of figurehead. Could spark internal unrest amid ongoing war.",
+      "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-disbelief-khamenei-assassination.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US appeals court lifts block on Trump DEI crackdown in federal government",
+      "source": "Voice of America",
+      "summary": "Fourth Circuit panel deems executive orders constitutional, allowing enforcement. Federal agencies halt diversity programs. Advances administration priorities on policy reversals.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran claims over 100 killed in strike on Minab girls' school",
+      "source": "France 24",
+      "summary": "Tehran accuses US-Israel of Saturday attack near military site; West denies knowledge. Aid groups probe amid restrictions. Highlights civilian toll in war.",
+      "link": "https://www.france24.com/en/middle-east/20260302-iran-school-strike-claims-over-100-dead",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Congo city of Goma with one million displaced",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels overrun troops and advance inside city limits amid gunfire",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "summary": "Residents report shelling as fighters enter safe-haven hub. Over one million displaced pack city. Threatens humanitarian crisis in eastern Congo.",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians stream back to northern Gaza after hostage release breakthrough",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel allows crossing military zone following deadlock break",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "summary": "Displaced Gazans return on foot through bisected enclave. Affects hundreds of thousands resuming life. Eases one blockade amid war.",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO mounts first coordinated response after another Baltic Sea cable severance",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Alliance activates plan following suspected new sabotage incident",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "summary": "Targets critical infrastructure protection amid hybrid threats. Baltic nations secure undersea assets. Bolsters alliance deterrence in region.",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 449,
+    "articlesAfterDedup": 448,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 6,
+      "economy": 2,
+      "politics": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 6,
+      "global": 1,
+      "asia-pacific": 1,
+      "americas": 1,
+      "africa": 1,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4,
+      "developing": 3
+    }
+  }
+}

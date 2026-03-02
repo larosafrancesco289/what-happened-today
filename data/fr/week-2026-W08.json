@@ -1,0 +1,131 @@
+{
+  "weekId": "2026-W08",
+  "startDate": "2026-02-23",
+  "endDate": "2026-03-01",
+  "summary": "Du 23 février au 1er mars 2026, la semaine a été marquée par des escalades géopolitiques majeures, notamment au Moyen-Orient et en Asie du Sud, tandis que le conflit russo-ukrainien a persisté sans avancées décisives.\n\nL'événement le plus significatif a été l'escalade des tensions entre les États-Unis, Israël et l'Iran. Le 25 février, Donald Trump a accusé l'Iran de développer des missiles capables d'atteindre les États-Unis. Le 26 février, un troisième cycle de négociations indirectes sur le nucléaire iranien s'est tenu à Genève entre Washington et Téhéran. Cette dynamique a culminé le 1er mars avec la confirmation par Téhéran de la mort du guide suprême Ali Khamenei lors de frappes américano-israéliennes, suivie de tirs de missiles iraniens sur Israël et des bases américaines dans le Golfe. Ces développements soulignent une intensification rapide d'un dossier en gestation.\n\nEn Asie du Sud, le Pakistan a déclaré une guerre ouverte à l'Afghanistan le 27 février, bombardant Kaboul et Kandahar. Cette annonce marque une rupture majeure sans résolution apparente dans la semaine.\n\nLe conflit en Ukraine a connu une persistance : le 24 février, la Russie a commémoré quatre ans d'invasion avec une progression lente et des pertes estimées à deux millions de soldats ; Ursula von der Leyen s'est rendue à Kiev pour l'occasion. Le 26 février, des attaques russes ont visé Kiev, Kharkiv (14 blessés) et Zaporijia (7 blessés), prolongeant l'usure sans percée.\n\nD'autres développements incluent : le 27 février, Anthropic a refusé un ultimatum du Pentagone et bloqué son IA Claude pour des usages en surveillance de masse et armes autonomes ; la famille Ellison, proche de Trump, a remporté les enchères pour Warner Bros Discovery face au renoncement de Netflix.\n\nDes histoires éphémères, disparues après un jour, ont brièvement capté l'attention : commémorations russo-ukrainiennes du 24 février, déploiement mexicain de 10 000 soldats dans l'ouest après la mort de Nemesio Oseguera dit El Mencho (24 février), activation par Trump de droits de douane de 10 % sur les importations jusqu'au 24 juillet (24 février), et une tempête exceptionnelle perturbant 40 millions de personnes dans le nord-est des États-Unis. En France, la contamination par boues industrielles aux PFAS records dans la Meuse et les Ardennes (25 février), et au Brésil, 30 morts dues à des pluies torrentielles (25 février) n'ont pas persisté. Un affrontement maritime cubain le 26 février, avec l'abattage de quatre occupants d'un bateau immatriculé en Floride par la garde-côtes cubaine, est resté isolé.\n\nCes événements confirment la volatilité mondiale, avec des crises persistantes en Ukraine et au Moyen-Orient dominant l'actualité. (378 mots)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Russie marque quatre ans d'invasion en Ukraine avec progression lente et pertes estimées à deux millions de soldats",
+    "Ursula von der Leyen arrive à Kiev pour commémorer quatrième anniversaire invasion russe",
+    "Mexique déploie 10 000 soldats dans ouest après mort Nemesio Oseguera dit El Mencho",
+    "Donald Trump active droits de douane de 10 % sur importations jusqu'au 24 juillet",
+    "Tempête exceptionnelle perturbe quotidien de 40 millions personnes nord-est États-Unis",
+    "Suisse gèle 750 millions euros d'avoirs liés à Nicolás Maduro et entourage",
+    "Régime russe intensifie répression et autoritarisme quatre ans après invasion Ukraine",
+    "Volodymyr Zelensky déclare Vladimir Poutine échec atteindre objectifs guerre Ukraine",
+    "Donald Trump accuse l'Iran de construire missiles capables d'atteindre États-Unis",
+    "Boues industrielles épandues contaminent sols agricoles Meuse et Ardennes avec PFAS records"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-02-24",
+      "title": "Russie marque quatre ans d'invasion en Ukraine avec progression lente et pertes estimées à deux millions de soldats",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Ursula von der Leyen arrive à Kiev pour commémorer quatrième anniversaire invasion russe",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Mexique déploie 10 000 soldats dans ouest après mort Nemesio Oseguera dit El Mencho",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Donald Trump active droits de douane de 10 % sur importations jusqu'au 24 juillet",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Donald Trump accuse l'Iran de construire missiles capables d'atteindre États-Unis",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Boues industrielles épandues contaminent sols agricoles Meuse et Ardennes avec PFAS records",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Pluies torrentielles provoquent 30 morts et dizaines disparus dans villes Brésil",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "États-Unis et Iran entament troisième cycle de négociations indirectes sur nucléaire à Genève",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Russie attaque Kiev Kharkiv et Zaporijia blessant 14 personnes à Kharkiv et 7 à Zaporijia",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Garde-côtes cubains abattent quatre occupants bateau immatriculé Floride lors affrontement maritime",
+      "category": "conflict",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Pakistan déclare guerre ouverte à Afghanistan et bombarde Kaboul et Kandahar",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Anthropic refuse ultimatum Pentagone et bloque IA Claude pour surveillance masse et armes autonomes",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Famille Ellison proche Trump remporte enchères Warner Bros Discovery face renoncement Netflix",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-01",
+      "title": "Téhéran confirme la mort du guide suprême Ali Khamenei dans les frappes américano-israéliennes",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-01",
+      "title": "L'Iran lance des attaques de missiles sur Israël et bases américaines dans le Golfe",
+      "category": "conflict",
+      "region": "middle-east"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1074,
+    "totalSourcesUsed": 10,
+    "daysWithData": 5,
+    "categoryCounts": {
+      "politics": 20,
+      "environment": 4,
+      "economy": 3,
+      "conflict": 9,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "global": 8,
+      "americas": 10,
+      "europe": 11,
+      "asia-pacific": 3,
+      "middle-east": 7
+    }
+  }
+}

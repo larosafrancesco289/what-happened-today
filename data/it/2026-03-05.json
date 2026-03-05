@@ -1,0 +1,203 @@
+{
+  "date": "2026-03-05",
+  "summary": "Un sottomarino statunitense ha affondato una nave da guerra iraniana nel Golfo Persico, causando almeno 80 morti secondo i media iraniani. L'incidente coinvolge direttamente Stati Uniti e Iran e fa seguito al controllo iraniano sullo Stretto di Hormuz annunciato dalle Guardie Rivoluzionarie. Le autorità iraniane hanno confermato l'affondamento e indicato possibili ritorsioni, mentre il Pentagono ha riferito di un'operazione difensiva contro una minaccia imminente. Si attendono ulteriori escalation che potrebbero influenzare le rotte commerciali globali.\n\nI paesi del Golfo, inclusi Emirati Arabi Uniti e Qatar, valutano se lanciare un contrattacco contro l'Iran dopo le ritorsioni iraniane che hanno causato 13 morti, tra cui 7 civili, o adottare una posizione difensiva. Questo dilemma coinvolge Stati Uniti e Israele come alleati e fa seguito all'attacco iraniano su una base USA in Qatar. Separatamente, un funzionario USA ha segnalato un'offensiva di migliaia di curdi iracheni contro l'Iran via terra, smentita dal governo curdo iracheno e dalle autorità iraniane. Il Senato USA ha bocciato con 53 voti una risoluzione democratica per limitare i poteri bellici del presidente Trump, con il senatore Fetterman che ha votato contro; ciò consolida l'autorità presidenziale nella gestione del conflitto con l'Iran.\n\nUn'esplosione ha danneggiato una petroliera al largo del Kuwait, causando una fuoriuscita di greggio dopo un impatto con un oggetto non identificato; le indagini sono in corso e minacciano l'inquinamento marino e le rotte petrolifere. In Italia, i ministri Tajani e Crosetto riferiscono alle Camere sul crisi iraniana e sugli aiuti al Golfo, senza menzionare basi italiane; Meloni e Crosetto si sono recati al Quirinale. La Task Force Farnesina ha gestito 13.500 contatti con italiani nel Golfo. L'Unione Europea ha rinnovato la missione Aspides contro gli Houthi fino a febbraio 2027, con l'Italia che invia la fregata Luigi Rizzo per proteggere il naviglio commerciale nel Mar Rosso.",
+  "headlines": [
+    {
+      "title": "Sottomarino americano affonda nave da guerra iraniana causando almeno 80 morti",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Un sottomarino statunitense ha affondato una nave da guerra iraniana nel Golfo, secondo media iraniani, con almeno 80 morti. Coinvolti USA e Iran nella escalation. Aumenta tensione regionale, con possibili ritorsioni iraniane che interessano rotte commerciali globali.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/israele-stati-uniti-attacco-iran-quinto-giorno_109631952-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Esplosione danneggia petroliera al largo Kuwait riversando greggio in mare",
+      "source": "Rai News",
+      "sources": [
+        "Euronews Italiano",
+        "Rai News"
+      ],
+      "summary": "Una petroliera è esplosa al largo del Kuwait dopo impatto con oggetto non identificato, causando fuoriuscita di greggio. Coinvolti Golfo Persico e potenze navali. Minaccia inquinamento marino e instabilità rotte petrolifere, con indagini in corso.",
+      "link": "https://www.rainews.it/maratona/2026/03/escalation-medio-oriente-stati-uniti-e-israele-attaccano-iran-idf-raid-in-libano-8d8bf808-eeb5-46f9-b1f6-34aaf6689cfa.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Descrive bombardamenti israeliani su Iran e danno petroliera nel Golfo Persico",
+          "link": "http://it.euronews.com/2026/03/05/guerra-in-medio-oriente-attacchi-da-israele-contro-liran-incendio-su-petroliera-nel-golfo-"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Riporta esplosione petroliera Kuwait con greggio in mare e nuovi raid IDF",
+          "link": "https://www.rainews.it/maratona/2026/03/escalation-medio-oriente-stati-uniti-e-israele-attaccano-iran-idf-raid-in-libano-8d8bf808-eeb5-46f9-b1f6-34aaf6689cfa.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Governo italiano convoca ministri Tajani e Crosetto in Parlamento su crisi Iran",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News",
+        "la Repubblica"
+      ],
+      "summary": "Ministri Esteri e Difesa riferiscono alle Camere su aiuti Golfo senza menzione basi. Meloni e Crosetto al Quirinale definiscono crisi grave. Decisione su coinvolgimento Italia incide su sicurezza nazionale ed europeisti.",
+      "link": "https://www.agi.it/politica/news/2026-03-05/guerra-iran-parlamento-tajani-crosetto-35944340/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Governo riferisce Camere su aiuti Golfo senza accenno basi militari",
+          "link": "https://www.agi.it/politica/news/2026-03-05/guerra-iran-parlamento-tajani-crosetto-35944340/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Informa su informativa Camera con Crosetto e Tajani oggi",
+          "link": "https://www.rainews.it/maratona/2026/03/escalation-medio-oriente-stati-uniti-e-israele-attaccano-iran-idf-raid-in-libano-8d8bf808-eeb5-46f9-b1f6-34aaf6689cfa.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Meloni e Crosetto al Colle da Mattarella su crisi peggiore da decenni",
+          "link": "https://www.repubblica.it/politica/2026/03/05/news/iran_meloni_crosetto_mattarella_crisi-425200677/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Funzionario USA segnala offensiva curdi iracheni contro Iran ma governo smentisce",
+      "source": "AGI",
+      "sources": [
+        "TGCOM24",
+        "ANSA",
+        "AGI"
+      ],
+      "summary": "Migliaia curdi iracheni lanciano offensiva terra su Iran secondo fonti USA, smentita da curdi e autorità. Coinvolti USA, Iran, curdi. Potrebbe aprire nuovo fronte guerra, influenzando equilibri regionali.",
+      "link": "https://www.agi.it/estero/news/2026-03-04/iran-curdi-attaccano-35943781/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Media riportano curdi lanciano offensiva terra contro Iran",
+          "link": "https://www.tgcom24.mediaset.it/mondo/israele-stati-uniti-attacco-iran-quinto-giorno_109631952-202602k.shtml"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Autorità curde smentiscono ingresso curdi-iracheni in Iran",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/05/la-crisi-in-medio-oriente-la-cronaca-del-5-marzo-2026-live-blog_7ce2e749-d630-4edc-89cc-083943725c5d.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Funzionario USA e Segretario Guerra confermano e smentiscono voci",
+          "link": "https://www.agi.it/estero/news/2026-03-04/iran-curdi-attaccano-35943781/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Senato USA boccia risoluzione democratica per limitare poteri guerra Trump",
+      "source": "TGCOM24",
+      "sources": [
+        "Rai News",
+        "TGCOM24"
+      ],
+      "summary": "Senato respinge con 53 voti mozione Dem contro poteri bellici Trump, Fetterman vota no. Coinvolti Congresso USA. Consolida autorità presidenziale in guerra Iran, influenzando strategia.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/iran-senato-usa-boccia-risoluzione-stop-poteri-trump_109657190-202602k.shtml",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Senato USA boccia risoluzione Dem per limitare poteri guerra Trump",
+          "link": "https://www.rainews.it/maratona/2026/03/escalation-medio-oriente-stati-uniti-e-israele-attaccano-iran-idf-raid-in-libano-8d8bf808-eeb5-46f9-b1f6-34aaf6689cfa.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Mozione fallisce con 53 contrari incluso senatore democratico Fetterman",
+          "link": "https://www.tgcom24.mediaset.it/mondo/iran-senato-usa-boccia-risoluzione-stop-poteri-trump_109657190-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Paesi Golfo valutano dilemma tra contrattacco Iran e posizione difensiva",
+      "source": "AGI",
+      "summary": "Dopo 13 morti inclusi 7 civili da ritorsioni iraniane, Golfo decide se attaccare o difendersi. Coinvolti USA, Israele, Iran. Influenza alleanze GCC e flussi energetici globali.",
+      "link": "https://www.agi.it/estero/news/2026-03-05/paesi-golfo-iran-35935623/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Task Force Farnesina gestisce 13500 contatti italiani nel Golfo dall'inizio crisi",
+      "source": "ANSA",
+      "summary": "Farnesina mappa e contatta oltre 13.500 italiani nel Golfo. Coinvolti cittadini italiani e governo. Garantisce sicurezza connazionali in zona guerra, riducendo rischi evacuazioni.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/04/la-mappa-degli-italiani-nel-golfo_863ae0d9-0049-4bf4-9b3e-dc8ce49063dd.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Unione Europea rinnova missione Aspides contro Houthi Italia invia fregata Rizzo",
+      "source": "Il Sole 24 Ore",
+      "summary": "UE rafforza Aspides fino febbraio 2027 per sicurezza marittima, Italia partecipa con fregata Luigi Rizzo. Coinvolti UE, Italia, Houthi. Protegge naviglio commerciale nel Mar Rosso.",
+      "link": "https://www.ilsole24ore.com/art/iran-l-ue-rafforza-missione-aspides-contro-houthi-l-italia-partecipa-la-fregata-luigi-rizzo-AIufkglB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 244,
+    "articlesAfterDedup": 244,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 1,
+      "politics": 4
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "europe": 3,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    }
+  }
+}

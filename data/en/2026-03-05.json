@@ -1,0 +1,270 @@
+{
+  "date": "2026-03-05",
+  "summary": "Iranian drones halted all shipping traffic in the Strait of Hormuz. No vessels transited the strait today, disrupting 20 percent of global oil supply. Energy markets plunged and tankers rerouted to alternate paths. This follows Iran's Revolutionary Guards claim of complete control yesterday. A U.S. submarine sank an Iranian warship in international waters of the Indian Ocean. The Sri Lankan navy reported 140 Iranian personnel missing.\n\nIran launched missile attacks on Israeli bases near Tel Aviv and U.S. bases in Iraq and Syria. Israel conducted airstrikes on Beirut and other Lebanese targets, marking day six of the war. Casualties rose among regional civilians and militaries; further retaliations occurred. In the U.S., Senate Republicans blocked a war powers resolution on the Iran conflict. The Pentagon identified a fifth U.S. Army Reserve soldier killed in an Iranian drone strike. This follows Senate advancement toward a vote yesterday and identification of four soldiers previously. Canadian Prime Minister Mark Carney endorsed the U.S.-Israel strikes on Iran despite regrets over potential legal issues.\n\nChina's Premier Li Qiang set a 2026 GDP growth target of 4.5 to 5 percent, the lowest since 1991, during the National People's Congress. This accompanies a property sector slump. In eastern Democratic Republic of Congo, heavy rains caused a landslide that buried over 200 miners at the Rubaya coltan mine. Rescue efforts continued. Rwanda-backed rebels overran Congolese troops and entered Goma city, displacing over one million people. NASA's Crew-10 mission launched on a SpaceX Falcon 9 from Kennedy Space Center with astronauts McClain, Ayers, Onishi, and Peskov to retrieve Wilmore and Williams, stuck on the ISS for nine months. Israel permitted displaced Palestinians to return to northern Gaza after a hostage release agreement ended a prior deadlock.",
+  "headlines": [
+    {
+      "title": "U.S. submarine sinks Iranian warship in Indian Ocean international waters",
+      "source": "NPR",
+      "sources": [
+        "NPR",
+        "AP",
+        "BBC"
+      ],
+      "summary": "A U.S. submarine sank an Iranian warship in the Indian Ocean, expanding the U.S.-Israel conflict with Iran and prompting fears of 140 missing per Sri Lankan navy. Global shipping faces heightened risks as naval clashes spread beyond the Middle East. This escalates oil market disruptions.",
+      "link": "https://www.npr.org/2026/03/04/nx-s1-5735636/u-s-submarine-sinks-iranian-warship-in-indian-ocean-as-conflict-widens",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "NPR",
+          "angle": "Details conflict widening to Indian Ocean with U.S. submarine sinking Iranian warship",
+          "link": "https://www.npr.org/2026/03/04/nx-s1-5735636/u-s-submarine-sinks-iranian-warship-in-indian-ocean-as-conflict-widens"
+        },
+        {
+          "source": "AP",
+          "angle": "Cites sinking after U.S.-Israel bombardment as trigger for Iran's base attacks",
+          "link": "https://apnews.com/article/iran-israel-us-march-05-2026-6a76668997a43855cc37eff7f4829615"
+        },
+        {
+          "source": "BBC",
+          "angle": "Highlights Sri Lanka navy report of 140 feared missing from sunken vessel",
+          "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran launches missile attacks on Israeli and U.S. bases as Israel strikes Lebanon",
+      "source": "AP",
+      "sources": [
+        "AP",
+        "The Hindu",
+        "France 24"
+      ],
+      "summary": "Iran fired missiles at Israeli and U.S. bases while Israel hit Beirut and Lebanese targets, marking day six of war. Regional civilians and militaries face rising casualties; further retaliations expected, threatening wider Middle East instability and oil supplies.",
+      "link": "https://apnews.com/article/iran-israel-us-march-05-2026-6a76668997a43855cc37eff7f4829615",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AP",
+          "angle": "Leads with Iran's wave of attacks on bases after U.S. submarine action and Israeli strikes",
+          "link": "https://apnews.com/article/iran-israel-us-march-05-2026-6a76668997a43855cc37eff7f4829615"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Emphasizes Iranian threats to infrastructure and Israeli strikes amid market rattles",
+          "link": "https://www.thehindu.com/news/international/israel-us-iran-west-asia-conflict-lebanon-strikes-day-6/article70706158.ece"
+        },
+        {
+          "source": "France 24",
+          "angle": "Covers live Israel interceptions, strikes on Tehran and Beirut plus Iran Kurdistan hits",
+          "link": "https://www.france24.com/en/middle-east/20260305-iran-launches-missiles-at-israel-as-middle-east-conflict-escalates"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "China sets 2026 GDP growth target at 4.5% to 5% amid property slump",
+      "source": "AP",
+      "sources": [
+        "AP",
+        "Japan Times"
+      ],
+      "summary": "Premier Li Qiang announced China's lowest growth target since 1991 during National People's Congress, signaling shift from debt-fueled investment. Global investors and exporters watch for policy shifts; slower growth impacts world trade and commodity demand.",
+      "link": "https://apnews.com/article/china-congress-economy-gdp-trump-target-1822006cd39ff43505fa9a47a4581a16",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AP",
+          "angle": "Reports lower target continuity amid property slump and external uncertainties",
+          "link": "https://apnews.com/article/china-congress-economy-gdp-trump-target-1822006cd39ff43505fa9a47a4581a16"
+        },
+        {
+          "source": "Japan Times",
+          "angle": "Notes lowest target since 1991 as Beijing seeks sustainable growth drivers",
+          "link": "https://www.japantimes.co.jp/business/2026/03/05/economy/china-slower-growth-2026/"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Landslide buries over 200 miners at Rubaya coltan mine in eastern DR Congo",
+      "source": "AllAfrica",
+      "summary": "Heavy rains triggered a landslide killing more than 200 at Rubaya coltan mine, affecting miners and local communities in restive east. Rescue efforts continue; disaster underscores artisanal mining dangers and humanitarian needs in conflict zone.",
+      "link": "https://allafrica.com/stories/202603050074.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Canadian PM Carney endorses U.S.-Israel strikes on Iran with some regret",
+      "source": "NPR",
+      "sources": [
+        "NPR",
+        "Al Jazeera"
+      ],
+      "summary": "Prime Minister Mark Carney backed strikes despite regrets over fraying world order and potential legal issues. Canadian public and allies monitor; possible military involvement looms, signaling Western unity amid Iran escalation.",
+      "link": "https://www.npr.org/2026/03/04/g-s1-112556/carney-says-he-backs-strikes-on-iran-with-some-regret-as-world-order-frays",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "NPR",
+          "angle": "Quotes Carney supporting strikes with regret as example of rupturing world order",
+          "link": "https://www.npr.org/2026/03/04/g-s1-112556/carney-says-he-backs-strikes-on-iran-with-some-regret-as-world-order-frays"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Highlights Carney unable to rule out military role and law inconsistencies",
+          "link": "https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX launch Crew-10 with four astronauts to retrieve stuck ISS pair",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carried NASA’s McClain, Ayers, Japan’s Onishi and Russia’s Peskov from Kennedy Space Center to relieve Wilmore and Williams stuck nine months. Routine rotation restores NASA operations; astronauts return soon.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Displaced Palestinians cross zone back into northern Gaza after hostage breakthrough",
+      "source": "Wall Street Journal",
+      "summary": "Israel permitted Gazans to return north after hostage release deadlock ended, easing enclave division. Over a million affected by prior displacements; rebuilds test ceasefire durability and aid delivery.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Kim Jong Un oversees cruise missile test from North Korea's new 5,000-ton destroyer",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "France 24"
+      ],
+      "summary": "Kim inspected Choe Hyon destroyer and tested strategic missile, boosting naval nuclear deterrent amid Iran lessons and upcoming U.S.-South Korea drills. Regional tensions rise; more tests signal escalation.",
+      "link": "https://www.scmp.com/week-asia/politics/article/3345526/kim-tests-missile-new-destroyer-north-korea-draws-lessons-iran-conflict?utm_source=rss_feed",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "South China Morning Post",
+          "angle": "Links destroyer test to Iran conflict lessons ahead of U.S.-South Korea exercises",
+          "link": "https://www.scmp.com/week-asia/politics/article/3345526/kim-tests-missile-new-destroyer-north-korea-draws-lessons-iran-conflict?utm_source=rss_feed"
+        },
+        {
+          "source": "France 24",
+          "angle": "Details two-day inspection and pledge for naval nuclear capabilities expansion",
+          "link": "https://www.france24.com/en/asia-pacific/20260305-kim-jong-un-inspects-new-destroyer-and-pledges-naval-nuclear-expansion"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun Congolese troops and enter Goma city",
+      "source": "Wall Street Journal",
+      "summary": "Rebels advanced into Goma amid gunfire, displacing over one million into the aid hub. U.N. warns of crisis; humanitarian response intensifies as fighting threatens regional stability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels overran troops and entered city displacing one million inside",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. Senate Republicans block Iran war powers resolution as fifth soldier identified",
+      "source": "New York Times",
+      "summary": "Republicans halted the vote amid Mideast widening; Pentagon named fifth soldier killed in Iranian drone strike. U.S. troops and public affected; limits presidential war actions remain unresolved.",
+      "link": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Republicans blocked resolution and fifth casualty confirmed",
+      "sources": [
+        "New York Times"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Shipping traffic stops completely in Strait of Hormuz due to Iranian drones",
+      "source": "NPR",
+      "summary": "Iranian drones halted all traffic in the strait without blockade, crippling global oil flows. Energy markets plunge; tankers reroute, raising prices worldwide as war disrupts 20% of supply.",
+      "link": "https://www.npr.org/2026/03/04/nx-s1-5736104/iran-war-oil-trump-israel-strait-hormuz-closed-energy-crisis",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Traffic dried up entirely from drone threats",
+      "sources": [
+        "NPR"
+      ],
+      "singleSource": true,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 13,
+    "articlesProcessed": 470,
+    "articlesAfterDedup": 469,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "economy": 2,
+      "environment": 1,
+      "politics": 2,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "asia-pacific": 2,
+      "africa": 2,
+      "americas": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

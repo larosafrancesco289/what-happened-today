@@ -1,0 +1,193 @@
+{
+  "date": "2026-03-05",
+  "summary": "L’armée israélienne a lancé une vague d’attaques à grande échelle sur les centres de commandement et l’appareil sécuritaire à Téhéran, activant les défenses iraniennes. Cela fait suite à la vague précédente achevée hier et intervient au sixième jour du conflit. Israël vise à affaiblir le régime iranien. Des explosions ont été rapportées à Téhéran, avec Israël dominant l’espace aérien iranien. Une escalade régionale est possible.\n\nEn parallèle, les forces israéliennes avancent dans le sud du Liban et ont émis des ordres d’évacuation dans la banlieue de Beyrouth, frappant des cibles du Hezbollah, y compris la zone chrétienne de Hazmieh. Le chef du Hezbollah, Naïm Qassem, a défié Israël. Cela élargit le conflit au Liban, avec un risque d’incursion terrestre. Un sous-marin américain a torpillé une frégate iranienne dans les eaux internationales au large du Sri Lanka, tuant 87 personnes. Cela étend la confrontation navale États-Unis-Iran à l’océan Indien. L’OTAN a intercepté un missile balistique iranien survolant l’Irak et la Syrie avant son entrée dans l’espace aérien turc, marquant sa première intervention dans ce conflit.\n\nLe Sénat américain a rejeté mercredi une résolution démocrate limitant les pouvoirs militaires de Donald Trump contre l’Iran ; un vote est attendu jeudi à la Chambre des représentants. Cela maintient la flexibilité des États-Unis. Le Brésil a ratifié l’accord commercial UE-Mercosur, couvrant 30 % du PIB mondial, après l’Argentine et l’Uruguay ; la France exprime des craintes pour ses agriculteurs, et le Paraguay reste le dernier à ratifier. Des images vérifiées montrent des frappes iraniennes multiples depuis le 28 février contre des cibles dans le golfe Persique et la Méditerranée. Au sixième jour de la guerre, des missiles iraniens ont déclenché des alertes en Israël sans victimes rapportées.",
+  "headlines": [
+    {
+      "title": "Armée israélienne lance vague d’attaques à grande échelle sur Téhéran",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "Libération",
+        "France 24"
+      ],
+      "summary": "L’armée israélienne annonce une vague d’attaques sur centres de commandement et appareil sécuritaire à Téhéran, activant défenses iraniennes. Cela vise à affaiblir le régime pour un possible soulèvement post-conflit. La guerre entre dans son sixième jour, menaçant une escalade régionale.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/05/en-direct-guerre-en-iran-des-explosions-entendues-a-teheran-l-iran-affirme-avoir-vise-les-quartiers-generaux-de-groupes-kurdes-en-irak_6668663_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur activations défenses iraniennes et frappes sur Téhéran avec visée groupes kurdes Irak",
+          "link": "https://www.lemonde.fr/international/live/2026/03/05/en-direct-guerre-en-iran-des-explosions-entendues-a-teheran-l-iran-affirme-avoir-vise-les-quartiers-generaux-de-groupes-kurdes-en-irak_6668663_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Signale alertes Israël après missiles iraniens et explosions à Téhéran au sixième jour",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-donald-trump-benyamin-netanyahou-liban-irak-kurdes-20260305"
+        },
+        {
+          "source": "Libération",
+          "angle": "Annonce attaques israéliennes à grande échelle à Téhéran et bombardements Beyrouth",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-de-nouvelles-attaques-sur-beyrouth-des-explosions-a-teheran-20260305_YUTDS324XJASDMNERCLOXWVZEM/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Déclare frappes israéliennes sur Téhéran après Liban et Iran vise forces kurdes Irak",
+          "link": "https://www.france24.com/fr/moyen-orient/20260305-en-direct-guerre-moyen-orient-sixi%C3%A8me-jour-iran-liban-beyrouth-israel-etats-unis-frappes-trump"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Forces israéliennes avancent sud Liban et frappent banlieue Beyrouth",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Libération"
+      ],
+      "summary": "Tsahal avance dans sud Liban, émet ordres évacuation banlieue Beyrouth et frappe cibles Hezbollah, y compris zone chrétienne Hazmieh. Chef Hezbollah Naïm Qassem défie Israël. Cela élargit conflit, risque incursion terrestre.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260305-chef-hezbollah-defiant-forces-israeliennes-avancent-sud-liban-beyrouth-frappes-evacuation-naim-qassem-guerre",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Met en avant avance sud Liban, ordres évacuation Beyrouth et défi chef Hezbollah",
+          "link": "https://www.france24.com/fr/moyen-orient/20260305-chef-hezbollah-defiant-forces-israeliennes-avancent-sud-liban-beyrouth-frappes-evacuation-naim-qassem-guerre"
+        },
+        {
+          "source": "Libération",
+          "angle": "Signale bombardements Beyrouth et préparation incursion terrestre sud Liban",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-de-nouvelles-attaques-sur-beyrouth-des-explosions-a-teheran-20260305_YUTDS324XJASDMNERCLOXWVZEM/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Sous-marin américain torpille frégate iranienne au large Sri Lanka tuant 87 personnes",
+      "source": "RTBF",
+      "summary": "Un sous-marin américain coule une frégate iranienne dans eaux internationales près Sri Lanka, causant 87 morts. Cela intensifie confrontation navale États-Unis-Iran dans océan Indien, signalant extension conflit maritime.",
+      "link": "https://www.rtbf.be/article/au-moins-87-morts-dans-le-torpillage-d-une-fregate-iranienne-par-un-sous-marin-americain-au-large-du-sri-lanka-11689094",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "OTAN intercepte missile balistique iranien dirigé vers espace aérien turc",
+      "source": "RTBF",
+      "summary": "Un missile lancé d’Iran survolant Irak et Syrie est intercepté par OTAN avant entrée espace turc. Cela marque première intervention OTAN, élargissant risques conflit à Turquie et alliés occidentaux.",
+      "link": "https://www.rtbf.be/article/un-missile-tire-d-iran-et-menacant-la-turquie-intercepte-par-l-otan-11689209",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Sénat américain rejette résolution limitant pouvoirs guerre Donald Trump",
+      "source": "Le Figaro",
+      "summary": "Sénateurs refusent mercredi résolution démocrate restreignant actions militaires Trump contre Iran. Vote attendu Chambre représentants jeudi. Cela maintient flexibilité États-Unis dans conflit, malgré débats internes.",
+      "link": "https://www.lefigaro.fr/international/au-congres-americain-les-democrates-veulent-arreter-la-guerre-contre-l-iran-20260304",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Brésil ratifie accord commercial UE-Mercosur malgré craintes françaises",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "RTBF"
+      ],
+      "summary": "Brésil approuve accord libre-échange UE-Mercosur couvrant 30% PIB mondial, après Argentine et Uruguay. France craint impacts agriculteurs. Paraguay reste dernier à ratifier, potentiellement ouvrant marchés agricoles sud-américains.",
+      "link": "https://www.20minutes.fr/monde/4204606-20260305-bresil-ratifie-accord-entre-ue-mercosur-malgre-craintes-france?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Souligne ratification Brésil malgré menaces pour agriculteurs français",
+          "link": "https://www.20minutes.fr/monde/4204606-20260305-bresil-ratifie-accord-entre-ue-mercosur-malgre-craintes-france?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Note séquence ratifications Argentine Uruguay Brésil vers approbation Mercosur",
+          "link": "https://www.rtbf.be/article/amerique-du-sud-apres-l-argentine-et-l-uruguay-le-bresil-ratifie-l-accord-commercial-ue-mercosur-11689371"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Images vérifiées révèlent ampleur riposte iranienne golfe Persique Méditerranée",
+      "source": "Le Monde",
+      "summary": "Vidéos et satellites montrent frappes iraniennes multiples depuis 28 février contre cibles golfe Persique et Méditerranée. Cela mesure capacité riposte Téhéran malgré bombardements alliés, informant stratégies futures.",
+      "link": "https://www.lemonde.fr/international/article/2026/03/05/guerre-en-iran-les-images-verifiees-montrent-l-ampleur-de-la-riposte-de-teheran-et-la-variete-de-ses-objectifs_6669596_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Guerre Moyen-Orient entre sixième jour avec frappes Téhéran et alertes Israël",
+      "source": "Le Figaro",
+      "summary": "Conflit atteint sixième jour : explosions Téhéran, missiles iraniens déclenchant alertes Israël sans victimes. Cela prolonge hostilités, avec Israël dominant ciel iranien et risques escalade continue.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-donald-trump-benyamin-netanyahou-liban-irak-kurdes-20260305",
+      "tier": "developing",
+      "dayNumber": 6,
+      "previousContext": "Nouvelles explosions Téhéran et missiles iraniens sur Israël marquent poursuite intensifiée des échanges au sixième jour",
+      "sources": [
+        "Le Figaro"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 208,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "global": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

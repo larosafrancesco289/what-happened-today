@@ -1,0 +1,217 @@
+{
+  "date": "2026-03-04",
+  "summary": "L'armée de l'air israélienne a achevé mercredi matin une opération contre des sites de commandement iraniens à Téhéran, guidée par des renseignements. Cela fait suite aux frappes simultanées d'hier sur Téhéran et Beyrouth. Les États-Unis affirment avoir touché près de 2000 cibles en Iran, incluant sites de lancement de missiles et défenses aériennes. Ces opérations conjointes marquent le cinquième jour du conflit. Une poursuite des frappes est prévue si les ripostes iraniennes persistent.\n\nLes Gardiens de la Révolution iraniens déclarent contrôler entièrement le détroit d'Ormuz, par lequel transite 20% du pétrole mondial. Cela perturbe le commerce pétrolier international et fait augmenter les prix. En parallèle, des frappes israéliennes ont visé le sud de Beyrouth et Baalbek au Liban, tuant 11 personnes selon le ministère libanais de la Santé. Ces actions répondent aux attaques du Hezbollah. Une riposte libanaise est attendue.\n\nLa France a rapatrié une centaine de ressortissants vulnérables du Moyen-Orient, atterrissant mercredi à Paris, en réponse aux appels américains d'hier à quitter quatorze pays de la région. Emmanuel Macron a annoncé l'envoi du porte-avions Charles-de-Gaulle en Méditerranée orientale pour une posture défensive. Israël prévoit la réouverture partielle de l'aéroport Ben Gourion jeudi pour des vols de rapatriement limités, après sa fermeture depuis samedi. Le conflit entre dans son cinquième jour avec des évacuations accélérées et des impacts sur les marchés pétroliers mondiaux.",
+  "headlines": [
+    {
+      "title": "L’armée israélienne achève une nouvelle vague de frappes sur les centres de commandement à Téhéran",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro"
+      ],
+      "summary": "L’armée de l’air israélienne a terminé mercredi matin une opération contre des sites de commandement iraniens à Téhéran, guidée par les renseignements. Cela intensifie le conflit au cinquième jour, menaçant la stabilité régionale et les routes pétrolières.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/04/en-direct-iran-les-premiers-francais-rapatries-du-moyen-orient-ont-atterri-a-paris-israel-annonce-avoir-lance-une-nouvelle-large-vague-de-frappes-sur-l-iran_6668663_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec communiqué de l’armée israélienne sur frappes contre centres de commandement à Téhéran",
+          "link": "https://www.lemonde.fr/international/live/2026/03/04/en-direct-iran-les-premiers-francais-rapatries-du-moyen-orient-ont-atterri-a-paris-israel-annonce-avoir-lance-une-nouvelle-large-vague-de-frappes-sur-l-iran_6668663_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Mentionne dizaines de cibles touchées à Téhéran et explosions à Beyrouth au cinquième jour",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-israel-etats-unis-liban-donald-trump-benyamin-netanyahou-20260304"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Les Gardiens de la Révolution iraniens affirment détenir le contrôle total du détroit d’Ormuz",
+      "source": "France 24",
+      "sources": [
+        "Le Figaro",
+        "France 24",
+        "Radio-Canada",
+        "France Info"
+      ],
+      "summary": "Les Gardiens de la Révolution déclarent mercredi contrôler entièrement le détroit d’Ormuz, point clé pour 20% du pétrole mondial. Cela perturbe le commerce pétrolier, fait flamber les prix et inquiète les marchés asiatiques.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260304-moyen-orient-en-direct-iran-israel-liban-etats-unis-donald-trump-netanyahu-ormuz",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Associe le contrôle à la guerre au cinquième jour avec frappes israéliennes",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-israel-etats-unis-liban-donald-trump-benyamin-netanyahou-20260304"
+        },
+        {
+          "source": "France 24",
+          "angle": "Lient au cinquième jour de guerre avec frappes meurtrières au Liban",
+          "link": "https://www.france24.com/fr/moyen-orient/20260304-moyen-orient-en-direct-iran-israel-liban-etats-unis-donald-trump-netanyahu-ormuz"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Explique l’importance du détroit pour le commerce mondial de pétrole",
+          "link": "https://ici.radio-canada.ca/info/en-direct/1013518/guerre-iran-israel-etats-unis"
+        },
+        {
+          "source": "France Info",
+          "angle": "Combine avec 11 morts au Liban et flambée des prix du pétrole",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-l-iran-affirme-avoir-le-controle-total-du-detroit-d-ormuz-de-nouvelles-frappes-israeliennes-font-au-moins-11-morts-au-liban_7844384.html#xtor=RSS-3-[lestitres}"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Des frappes israéliennes tuent au moins 11 personnes au sud de Beyrouth et à Baalbek au Liban",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Libération",
+        "France Info"
+      ],
+      "summary": "Mercredi, l’armée israélienne a visé le sud de Beyrouth et Baalbek, tuant 11 personnes selon le ministère libanais de la Santé. En riposte au Hezbollah, cela élargit le conflit régional au cinquième jour.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260304-guerre-au-moyen-orient-au-moins-11-morts-dans-frappes-isra%C3%A9liennes-sud-de-beyrouth-baalbek-hezbollah-iran",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Précise cibles au sud de Beyrouth et Baalbek en riposte au Hezbollah",
+          "link": "https://www.france24.com/fr/moyen-orient/20260304-guerre-au-moyen-orient-au-moins-11-morts-dans-frappes-isra%C3%A9liennes-sud-de-beyrouth-baalbek-hezbollah-iran"
+        },
+        {
+          "source": "Libération",
+          "angle": "Compte 11 morts dans raids nocturnes au Liban au cinquième jour",
+          "link": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-les-premiers-rapatries-francais-ont-atterri-a-paris-israel-20260304_GNERINNNDJFBJEOI2DAEFOLBY4/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Associe à contrôle Ormuz et impact sur marchés pétroliers",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-l-iran-affirme-avoir-le-controle-total-du-detroit-d-ormuz-de-nouvelles-frappes-israeliennes-font-au-moins-11-morts-au-liban_7844384.html#xtor=RSS-3-[lestitres}"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Les premiers avions rapatriant des Français du Moyen-Orient atterrissent à Paris",
+      "source": "Libération",
+      "sources": [
+        "Le Monde",
+        "Libération",
+        "Le Figaro"
+      ],
+      "summary": "Une centaine de Français vulnérables, dont familles avec enfants, ont été évacués mercredi et atterri à Paris. Cela répond aux appels américains d’hier, protégeant les ressortissants face à l’escalade régionale.",
+      "link": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-les-premiers-rapatries-francais-ont-atterri-a-paris-israel-20260304_GNERINNNDJFBJEOI2DAEFOLBY4/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Mentionne atterrissage des premiers Français rapatriés de la région",
+          "link": "https://www.lemonde.fr/international/live/2026/03/04/en-direct-iran-les-premiers-francais-rapatries-du-moyen-orient-ont-atterri-a-paris-israel-annonce-avoir-lance-une-nouvelle-large-vague-de-frappes-sur-l-iran_6668663_3210.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Situe au cinquième jour avec poursuite des frappes sur l’Iran",
+          "link": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-les-premiers-rapatries-francais-ont-atterri-a-paris-israel-20260304_GNERINNNDJFBJEOI2DAEFOLBY4/"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Décrit voyage long pour 100 places réservées aux vulnérables",
+          "link": "https://www.lefigaro.fr/international/un-premier-avion-evacuant-des-francais-du-moyen-orient-a-atterri-a-paris-20260304"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La France envoie le porte-avions Charles-de-Gaulle en Méditerranée orientale",
+      "source": "Le Monde",
+      "summary": "Emmanuel Macron annonce mardi l’envoi du porte-avions pour une posture défensive face à l’embrasement au Proche-Orient. Cela renforce la présence européenne et complète la doctrine nucléaire détaillée hier.",
+      "link": "https://www.lemonde.fr/international/article/2026/03/04/iran-la-france-s-engage-dans-le-conflit-dans-une-logique-strictement-defensive_6669427_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Les États-Unis revendiquent avoir touché près de 2000 cibles en Iran",
+      "source": "Le Figaro",
+      "summary": "L’armée américaine affirme mercredi avoir frappé près de 2000 cibles iraniennes, incluant sites de lancement et défenses aériennes. Cela marque l’intensification des opérations conjointes avec Israël au cinquième jour.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-donald-trump-moyen-orient-etats-unis-israel-liban-netanyahou-riyad-rubio-20260303",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israël annonce la réouverture progressive de son espace aérien mercredi soir",
+      "source": "Le Figaro",
+      "summary": "L’aéroport Ben Gourion rouvrira jeudi pour vols de rapatriement limités après fermeture depuis samedi. Cela signale une stabilisation partielle malgré les frappes en cours au Moyen-Orient.",
+      "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-israel-annonce-la-reouverture-progressive-de-son-espace-aerien-dans-la-nuit-de-mercredi-a-jeudi-20260304",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "La guerre au Moyen-Orient entre dans son cinquième jour avec nouvelles frappes",
+      "source": "Le Figaro",
+      "summary": "Au cinquième jour consécutif, Israël intensifie frappes sur Téhéran et Liban tandis que l’Iran riposte par missiles et contrôle Ormuz. Les évacuations s’accélèrent, impactant pétrole et marchés mondiaux.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-israel-etats-unis-liban-donald-trump-benyamin-netanyahou-20260304",
+      "tier": "developing",
+      "dayNumber": 5,
+      "previousContext": "Israël achève nouvelle vague de frappes sur Téhéran, Iran proclame contrôle Ormuz et frappes tuent 11 au Liban",
+      "sources": [
+        "Le Figaro"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 215,
+    "articlesAfterDedup": 213,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "society": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "middle-east": 6,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

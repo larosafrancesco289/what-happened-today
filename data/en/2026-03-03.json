@@ -1,0 +1,237 @@
+{
+  "date": "2026-03-03",
+  "summary": "Iran launched two drones at the US Embassy in Riyadh early Tuesday, causing limited fire and minor damage. US and Israeli personnel were affected, and Saudi forces responded by intercepting the drones. This attack follows Iran's missile and drone strikes on Dubai, Abu Dhabi, Qatar, and Bahrain on Monday, as well as US confirmation of troops killed and wounded in clashes with Iranian forces. Further US involvement is possible amid halted tanker traffic in the Strait of Hormuz.\n\nIsrael conducted airstrikes on militant and strategic sites in Tehran and Beirut suburbs early Tuesday, affecting Iranian and Lebanese civilians and militants. In Lebanon, separate Israeli airstrikes killed 52 people targeting Hezbollah positions after rocket fire from the group, according to Lebanese officials; no Israeli casualties were reported, and Lebanese civilians and militants were displaced. Dutch TTF natural gas prices surged over 40 percent due to Middle East conflict disruptions in oil and gas shipments; QatarEnergy reported issues, affecting European consumers and industries with higher bills expected.\n\nPakistan fired missiles that flattened Taliban warehouses at Bagram Air Base in Afghanistan, as shown in satellite images; Taliban forces were affected with no casualty figures released, escalating Pakistan-Afghanistan tensions near the Iran conflict zone. France's President Macron announced an expansion of the nuclear arsenal and potential deployment of nuclear aircraft to eight European allies for deterrence under French control. The US Supreme Court blocked a California law banning parental notification for students changing pronouns or gender expression, allowing notifications pending full review and affecting religious parents and schools. At least 169 people died in a surprise attack in South Sudan, where peacekeepers sheltered 1,000 civilians. NATO is coordinating a response after another Baltic Sea cable severance. Rwanda-backed rebels overran troops and entered Goma city in the Democratic Republic of Congo.",
+  "headlines": [
+    {
+      "title": "Iran strikes US Embassy in Riyadh with two drones",
+      "source": "AP",
+      "sources": [
+        "AP",
+        "New York Times",
+        "France 24"
+      ],
+      "summary": "Iran launched two drones at the US Embassy in Riyadh early Tuesday amid escalating regional attacks, causing limited fire and minor damage. US and Israeli personnel affected; Saudi forces responded. Signals wider conflict, risking further US involvement and oil disruptions.",
+      "link": "https://apnews.com/article/iran-israel-us-03-03-2026-8755877b603e46ed3df8107689c1ee23",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AP",
+          "angle": "Focuses on drone strike details during US and Israeli airstrikes on Iran",
+          "link": "https://apnews.com/article/iran-israel-us-03-03-2026-8755877b603e46ed3df8107689c1ee23"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Covers in live updates alongside UAE strikes and Trump signaling prolonged campaign",
+          "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump"
+        },
+        {
+          "source": "France 24",
+          "angle": "Reports limited damage from drone hit in liveblog with Israel strikes context",
+          "link": "https://www.france24.com/en/middle-east/20260303-live-us-embassy-in-saudi-arabia-attacked-americans-urged-to-leave-dozens-of-countries"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel conducts simultaneous airstrikes on Tehran and Beirut targets",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Associated Press",
+        "Al Jazeera"
+      ],
+      "summary": "Israeli military hit militant and strategic sites in Tehran and Beirut suburbs early Tuesday. Iranian and Lebanese civilians and militants affected. Raises escalation risks in multi-front war, potentially drawing in more allies.",
+      "link": "https://www.france24.com/en/middle-east/20260303-live-us-embassy-in-saudi-arabia-attacked-americans-urged-to-leave-dozens-of-countries",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Highlights simultaneous strikes on militant sites in live updates",
+          "link": "https://www.france24.com/en/middle-east/20260303-live-us-embassy-in-saudi-arabia-attacked-americans-urged-to-leave-dozens-of-countries"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Notes Israeli airstrikes pounding Iran amid embassy attack context",
+          "link": "https://apnews.com/article/iran-israel-us-03-03-2026-8755877b603e46ed3df8107689c1ee23"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Emphasizes ongoing bombing and regime change aims in Iran",
+          "link": "https://www.aljazeera.com/news/2026/3/3/as-bombing-continues-israels-war-aim-in-iran-becomes-clear-regime-change?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pakistan strikes Bagram Air Base in Afghanistan with missiles",
+      "source": "New York Times",
+      "summary": "Satellite images reveal Pakistan flattened Taliban warehouses at former US base Bagram. Taliban forces affected; no casualty figures yet. Escalates Pakistan-Afghan tensions, threatens regional stability near Iran conflict.",
+      "link": "https://www.nytimes.com/2026/03/02/world/asia/pakistan-bagram-airbase-afghanistan-war.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli airstrikes kill 52 people across Lebanon",
+      "source": "BBC",
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "summary": "Israel targeted Hezbollah after rocket fire, killing 52 per Lebanese officials; no Israeli casualties reported. Lebanese civilians and militants displaced. Intensifies border clashes amid broader Middle East war.",
+      "link": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "BBC",
+          "angle": "Leads with 52 deaths from strikes after Hezbollah rocket fire",
+          "link": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Covers repeated Beirut strikes causing mass displacement",
+          "link": "https://www.aljazeera.com/news/2026/3/3/israel-strikes-lebanons-beirut-again-hezbollah-launches-drones-at-israel?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "France expands nuclear arsenal and offers deterrence to allies",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "BBC"
+      ],
+      "summary": "President Macron announces arsenal boost and potential nuclear aircraft deployment to eight European allies. European nations gain extended protection under French control. Bolsters continent security amid global tensions.",
+      "link": "https://www.france24.com/en/france-to-boost-nuclear-arsenal-could-deploy-atomic-weapons-to-european-allies",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Details Macron's plan for arsenal growth and ally deployments",
+          "link": "https://www.france24.com/en/france-to-boost-nuclear-arsenal-could-deploy-atomic-weapons-to-european-allies"
+        },
+        {
+          "source": "BBC",
+          "angle": "Notes eight countries under French nuclear umbrella with Paris control",
+          "link": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Supreme Court blocks California law against outing transgender students",
+      "source": "Associated Press",
+      "summary": "Court halts state ban on parental notification for students changing pronouns or gender expression. Religious parents and California schools affected. Allows notifications pending full review, impacting privacy debates.",
+      "link": "https://apnews.com/article/supreme-court-transgender-students-california-cca311ae39d267f31c1392a0bcf780cd",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Dutch TTF natural gas prices surge over 40 percent",
+      "source": "South China Morning Post",
+      "summary": "Europe faces energy cost spike from Middle East war disrupting oil and gas shipments. European consumers and industries hit; QatarEnergy reports issues. Threatens economic stability with higher bills ahead.",
+      "link": "https://www.scmp.com/economy/global-economy/article/3345229/europe-counts-cost-iran-war-disrupts-energy-shipments?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "At least 169 people die in South Sudan surprise attack",
+      "source": "BBC",
+      "summary": "Attack kills 169; peacekeepers shelter 1,000 civilians near base. South Sudanese civilians affected. Underscores ongoing instability, complicating humanitarian aid efforts.",
+      "link": "https://www.bbc.com/news/articles/c0mgkvy4wr8o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NATO coordinates response after another Baltic Sea cable severance",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "New deep-sea cable severed in suspected sabotage campaign prompts alliance action",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun troops and enter Goma city",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels prompt gunfire and shelling with over one million now displaced inside city",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 469,
+    "articlesAfterDedup": 468,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 6,
+      "politics": 2,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "asia-pacific": 1,
+      "europe": 3,
+      "americas": 1,
+      "africa": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

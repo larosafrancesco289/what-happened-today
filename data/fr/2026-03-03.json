@@ -1,0 +1,212 @@
+{
+  "date": "2026-03-03",
+  "summary": "L'armée israélienne a mené des frappes simultanées sur des sites militaires à Téhéran et Beyrouth au quatrième jour de l'offensive américano-israélienne contre l'Iran. Ces bombardements ont également touché des positions au Liban et des sites iraniens, impliquant les États-Unis dans le conflit régional. Cela fait suite aux frappes israéliennes du troisième jour sur Téhéran et aux tirs de missiles iraniens sur Israël. Une réponse iranienne ou une escalade supplémentaire est attendue.\n\nDes drones iraniens ont touché l'ambassade américaine à Riyad en Arabie saoudite, provoquant des dégâts mineurs. Donald Trump a promis une réponse prochaine. Parallèlement, les Gardiens de la Révolution iraniens ont revendiqué une attaque sur une base aérienne américaine au Bahreïn, après que les États-Unis ont détruit des postes de commandement iraniens. Trump n'a pas exclu l'envoi de troupes américaines au sol en Iran au troisième jour de la guerre israélo-américaine, où six militaires américains ont été tués. Les États-Unis ont appelé leurs ressortissants à quitter quatorze pays du Moyen-Orient, dont l'Égypte, l'Arabie saoudite, l'Irak et la Syrie. Ces événements élargissent le conflit au Golfe.\n\nAu Soudan du Sud, au moins 169 civils sont morts dans des violences intercommunautaires à Abiemnhom fin février, aggravant la crise humanitaire sur fond d'instabilité politique. À Kaboul, des explosions et des combats liés à l'affrontement frontalier afghano-pakistanais ont tué au moins 39 civils depuis jeudi. En France, Emmanuel Macron a annoncé une doctrine nucléaire renforcée avec des têtes supplémentaires et une coopération européenne. Quatre hommes ont été condamnés à six à quinze ans de prison en appel dans le procès sur l'assassinat de Samuel Paty en 2020, les peines les plus lourdes pour un parent d'élève et un militant islamiste.",
+  "headlines": [
+    {
+      "title": "L'armée israélienne mène des frappes simultanées sur Téhéran et Beyrouth",
+      "source": "Libération",
+      "sources": [
+        "Libération",
+        "Le Monde",
+        "RFI",
+        "France 24",
+        "Radio-Canada"
+      ],
+      "summary": "Au quatrième jour de l'offensive américano-israélienne contre l'Iran, Israël cible des sites militaires à Téhéran et Beyrouth, alliée du Hezbollah. Les bombardements touchent aussi le Liban et des positions iraniennes. Cela intensifie le conflit régional impliquant les États-Unis.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-contre-liran-israel-mene-des-frappes-simultanees-sur-teheran-et-beyrouth-plusieurs-sites-americains-vises-dans-la-region-20260303_NMEDY4XS5VADXP6F3YFJJUWQSU/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Libération",
+          "angle": "Ouvre sur frappes simultanées et bilan de 555 morts en Iran",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-contre-liran-israel-mene-des-frappes-simultanees-sur-teheran-et-beyrouth-plusieurs-sites-americains-vises-dans-la-region-20260303_NMEDY4XS5VADXP6F3YFJJUWQSU/"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Mentionne frappe sur ambassade US en Arabie saoudite par drones",
+          "link": "https://www.lemonde.fr/international/live/2026/03/03/en-direct-iran-l-armee-israelienne-dit-mener-des-frappes-simultanees-sur-teheran-et-beyrouth-l-ambassade-americaine-en-arabie-saoudite-touchee-par-des-drones_6668663_3210.html"
+        },
+        {
+          "source": "RFI",
+          "angle": "Détaille destructions US de postes IRGC et attaque iranienne à Bahreïn",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260303-en-direct-l-arm%C3%A9e-isra%C3%A9lienne-m%C3%A8ne-des-frappes-simultan%C3%A9es-sur-t%C3%A9h%C3%A9ran-et-beyrouth-l-iran-attaque-une-base-militaire-au-bahre%C3%AFn"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Des drones iraniens touchent l'ambassade américaine à Riyad en Arabie saoudite",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "France 24"
+      ],
+      "summary": "Deux drones provoquent des dégâts mineurs à l'ambassade US à Riyad. Donald Trump promet une réponse bientôt. Cela élargit le conflit au Golfe, menaçant les alliés américains dans la région.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-donald-trump-moyen-orient-etats-unis-israel-liban-netanyahou-riyad-rubio-20260303",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Signale attaque drones sur ambassade US en Arabie saoudite",
+          "link": "https://www.lemonde.fr/international/live/2026/03/03/en-direct-iran-l-armee-israelienne-dit-mener-des-frappes-simultanees-sur-teheran-et-beyrouth-l-ambassade-americaine-en-arabie-saoudite-touchee-par-des-drones_6668663_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Détaille incendie et fermeture temporaire avec riposte Trump",
+          "link": "https://www.lefigaro.fr/international/attaque-de-drones-fermeture-temporaire-riposte-de-trump-ce-que-l-on-sait-de-l-incendie-a-l-ambassade-americaine-a-riyad-20260303"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'Iran attaque une base aérienne américaine au Bahreïn",
+      "source": "RFI",
+      "sources": [
+        "Le Monde",
+        "RFI"
+      ],
+      "summary": "Les Gardiens de la Révolution revendiquent l'attaque sur une base US à Bahreïn. Les États-Unis ont préalablement détruit des postes de commandement iraniens. Cela risque d'embraser davantage le Golfe.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260303-en-direct-l-arm%C3%A9e-isra%C3%A9lienne-m%C3%A8ne-des-frappes-simultan%C3%A9es-sur-t%C3%A9h%C3%A9ran-et-beyrouth-l-iran-attaque-une-base-militaire-au-bahre%C3%AFn",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Rapporte destruction US de postes IRGC et contre-attaque à Bahreïn",
+          "link": "https://www.lemonde.fr/international/live/2026/03/03/en-direct-iran-l-armee-israelienne-dit-mener-des-frappes-simultanees-sur-teheran-et-beyrouth-l-ambassade-americaine-en-arabie-saoudite-touchee-par-des-drones_6668663_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump n'exclut pas l'envoi de troupes américaines au sol en Iran",
+      "source": "Radio-Canada",
+      "summary": "Au troisième jour de la guerre israélo-américaine, Trump déclare faire ce qu'il faudra, avec six militaires US tués. Cela signale une possible escalade terrestre.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2233871/trump-iran-troupes-sol-offensive-bilan",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Les États-Unis appellent leurs ressortissants à quitter quatorze pays du Moyen-Orient",
+      "source": "Le Figaro",
+      "summary": "L'avis du département d'État cible Égypte, Arabie saoudite, Irak et Syrie. Republié par Marco Rubio, il reflète l'aggravation des tensions régionales.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-iran-les-etats-unis-appellent-leurs-ressortissants-a-partir-maintenant-du-moyen-orient-20260303",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Au moins 169 civils meurent dans un massacre à Abiemnhom au Soudan du Sud",
+      "source": "RFI",
+      "summary": "Violences intercommunautaires tuent plusieurs dizaines de personnes fin février dans le nord. Sur fond d'instabilité politique, cela aggrave la crise humanitaire.",
+      "link": "https://www.rfi.fr/fr/afrique/20260303-soudan-du-sud-au-moins-169-civils-tu%C3%A9s-dans-un-nouveau-massacre-dans-le-nord-du-pays",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Emmanuel Macron détaille une doctrine nucléaire française renforcée avec coopération européenne",
+      "source": "France Info",
+      "summary": "Lundi, il annonce têtes supplémentaires et durcissement. Cela vise à adapter la dissuasion aux menaces actuelles en Europe.",
+      "link": "https://www.franceinfo.fr/societe/armee-securite-defense/tetes-supplementaires-cooperation-europeenne-et-durcissement-de-la-doctrine-ce-qu-il-faut-retenir-du-discours-d-emmanuel-macron-sur-la-dissuasion-nucleaire_7840763.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Quatre hommes condamnés à six à quinze ans de prison dans le procès Paty en appel",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "RTBF",
+        "Libération"
+      ],
+      "summary": "Peines les plus lourdes pour un parent d'élève et un militant islamiste initiateurs de la campagne de haine. Verdict après cinq semaines de débats sur l'assassinat de 2020.",
+      "link": "https://www.france24.com/fr/france/20260302-proc%C3%A8s-paty-en-appel-entre-6-et-15-ans-d-emprisonnement-prononc%C3%A9s-contre-quatre-hommes",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Met l'accent sur peines de dix et quinze ans pour initiateurs",
+          "link": "https://www.france24.com/fr/france/20260302-proc%C3%A8s-paty-en-appel-entre-6-et-15-ans-d-emprisonnement-prononc%C3%A9s-contre-quatre-hommes"
+        },
+        {
+          "source": "Libération",
+          "angle": "Rappelle verdict après cinq semaines de débats à Paris",
+          "link": "https://www.liberation.fr/societe/police-justice/proces-paty-en-appel-entre-six-et-quinze-ans-demprisonnement-prononces-contre-quatre-accuses-20260302_NOPX7BP4QZD5XDSK3HOBACXW2E/"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Des explosions à Kaboul font au moins 39 civils tués depuis jeudi aux combats afghano-pakistanais",
+      "source": "France 24",
+      "summary": "Coups de feu et explosions retombent sur Kaboul alors que Pakistan et Afghanistan s'affrontent à la frontière. Le gouvernement afghan alerte sur l'escalade.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260303-explosions-kaboul-combats-afghanistan-pakistan-continuent-fronti%C3%A8re-taliban",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 211,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 3,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 1,
+      "africa": 1,
+      "europe": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    }
+  }
+}

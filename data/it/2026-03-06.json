@@ -1,0 +1,151 @@
+{
+  "date": "2026-03-06",
+  "summary": "Israele ha condotto raid aerei su infrastrutture chiave a Teheran, colpendo siti nella capitale iraniana. L'Iran ha risposto attaccando un hotel a Manama in Bahrein, con danni strutturali ma nessuna vittima riportata. Questo fa seguito all'affondamento di una nave da guerra iraniana da parte di un sottomarino americano ieri, che ha causato almeno 80 morti. Il presidente Trump ha definito inutile un'operazione terrestre contro l'Iran e ha escluso tale intervento, confermando la prosecuzione di attacchi aerei e un cambio di leadership a Teheran. Israele ha anche colpito obiettivi in Libano. L'escalation, al settimo giorno, influisce sui commerci marittimi nel Golfo Persico.\n\nIn Italia, i ministri Crosetto e Tajani hanno informato il Parlamento sulla crisi iraniana. Crosetto ha dichiarato che Usa e Israele agiscono fuori dal diritto internazionale, mentre Tajani ha ribadito l'impegno per la de-escalation. Il Senato ha approvato una risoluzione della maggioranza, e sono stati annunciati sistemi anti-drone a Cipro con potenziamento della presenza italiana nel Golfo per proteggere cittadini e rotte commerciali. Sette basi Usa in Italia ospitano 13.000 militari, droni e aerei da Sigonella, con accordi che permettono uso logistico libero previa approvazione governativa. La premier Meloni ha anticipato un'informativa parlamentare all'11 marzo dopo colloqui con Francia e Usa, inviando fino a 100 militari extra per il sistema Samp-T nel Golfo. Separatamente, i primi cittadini britannici evacuati da Oman sono atterrati a Stansted, con oltre 300.000 britannici nel Golfo e due voli aggiuntivi previsti entro il 7 marzo.\n\nGli Stati Uniti hanno ristabilito relazioni diplomatiche con il Venezuela, riconoscendo la leader ad interim Delcy Rodriguez dopo la caduta di Maduro e avviando un processo verso elezioni democratiche. Trump ha apprezzato la transizione, che apre cooperazione bilaterale con effetti su migrazioni e petrolio. La situazione nel Golfo rimane in sviluppo, con monitoraggi su ulteriori evacuazioni e impatti energetici globali.",
+  "headlines": [
+    {
+      "title": "Israele lancia raid su infrastrutture Teheran, Iran colpisce hotel Bahrein senza vittime",
+      "source": "TGCOM24",
+      "singleSource": true,
+      "summary": "Israele conduce vasta ondata di attacchi contro infrastrutture chiave della capitale iraniana. Teheran risponde colpendo un hotel a Manama con danni strutturali ma nessuna vittima riportata. Trump definisce inutile operazione terrestre. Escalation settimo giorno preoccupa commerci marittimi nel Golfo.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/israele-stati-uniti-attacco-iran-settimo-giorno_109679534-202602k.shtml",
+      "tier": "top",
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump esclude intervento via terra in Iran e promette cambio leadership Teheran",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Il presidente Usa preclude operazione militare terrestre contro Iran, conferma prosecuzione attacchi aerei e transizione leadership a Teheran. Israele colpisce anche Libano. Dichiarazione riduce rischi invasione ma prolunga tensione regionale con impatti su energia globale.",
+      "link": "http://it.euronews.com/2026/03/06/guerra-in-medio-oriente-trump-esclude-operazione-via-terra-colpite-aree-residenziali-di-te",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Enfatizza esclusione intervento terra e attacchi su aree residenziali Teheran",
+          "link": "http://it.euronews.com/2026/03/06/guerra-in-medio-oriente-trump-esclude-operazione-via-terra-colpite-aree-residenziali-di-te"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Cita Trump su perdita tempo operazione terra e provocazione Teheran su Hormuz",
+          "link": "https://www.tgcom24.mediaset.it/mondo/israele-stati-uniti-attacco-iran-settimo-giorno_109679534-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Crosetto e Tajani informano Parlamento su crisi Iran e dispiegamento difensivo",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Ministro Difesa Crosetto dichiara Usa e Israele fuori diritto internazionale, Tajani ribadisce de-escalation. Annunciati sistemi anti-drone a Cipro e via libera Senato risoluzione maggioranza. Italia potenzia presenza nel Golfo per proteggere cittadini e rotte commerciali.",
+      "link": "https://www.repubblica.it/politica/2026/03/06/news/italia_iran_meloni_crosetto_tajani-425202964/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea dichiarazioni Crosetto su diritto e chiusura temporanea ambasciata Teheran",
+          "link": "https://www.repubblica.it/politica/2026/03/06/news/italia_iran_meloni_crosetto_tajani-425202964/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta impegno Tajani de-escalation e dispiegamento anti-drone anti-missilistici",
+          "link": "https://www.tgcom24.mediaset.it/mondo/israele-stati-uniti-attacco-iran-sesto-giorno_109657599-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Sette basi Usa in Italia ospitano 13mila militari e droni da Sigonella",
+      "source": "Rai News",
+      "singleSource": true,
+      "summary": "Sette installazioni militari americane in Italia includono scali, porti e 13mila soldati, con droni e aerei da Sigonella per rifornimenti. Accordi permettono uso libero logistica, ok governativo necessario per operazioni guerra. Rafforza ruolo Italia in escalation Medio Oriente.",
+      "link": "https://www.rainews.it/articoli/2026/03/dove-sono-le-sette-basi-usa-in-italia-scali-porti-e-13mila-militari-i-droni-da-sigonella-lescalation-in-medio-oriente-3c73abec-672a-42e5-be6b-db7deaf5b04a.html",
+      "tier": "also",
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Primi cittadini britannici evacuati da Oman atterrano a Stanstead",
+      "source": "Rai News",
+      "singleSource": true,
+      "summary": "Oltre 300mila britannici nel Golfo, primi evacuati da Muscat sbarcano a Stanstead con due voli aggiuntivi previsti entro 7 marzo. Operazione risponde a tensioni Iran, garantisce rientro sicuro connazionali e monitora ulteriori spostamenti da area rischio.",
+      "link": "https://www.rainews.it/video/2026/03/evacuazione-oman-arrivo-stanstead-primi-cittadini-britannici-video-reuter-953914c1-48f9-4b06-aca7-4b22c54b8587.html",
+      "tier": "also",
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Stati Uniti ristabiliscono relazioni diplomatiche con Venezuela post-Maduro",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Washington riconosce leader ad interim Delcy Rodriguez dopo caduta Maduro, avvia processo graduale verso elezioni democratiche. Trump apprezza transizione. Passo apre cooperazione bilaterale e stabilizza regione con impatti su migrazioni e petrolio.",
+      "link": "https://www.repubblica.it/esteri/2026/03/06/news/usa_venezuela_relazioni_diplomatiche_trump_delcy_rodriguez-425203034/?rss",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Meloni anticipa informativa Parlamento all'11 marzo su crisi Iran",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Premier fissa intervento urgente dopo colloqui con Francia e Usa, invia fino 100 militari extra per Samp-T nel Golfo. Evita aula iniziale per tentennamenti. Decisione risponde pressioni alleate e informa Parlamento su ripercussioni italiane.",
+      "link": "https://www.repubblica.it/politica/2026/03/06/news/meloni_guerra_iran_rapporto_usa_francia-425202960/?rss",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 259,
+    "articlesAfterDedup": 259,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 5,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 3,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4
+    }
+  }
+}

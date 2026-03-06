@@ -1,0 +1,234 @@
+{
+  "date": "2026-03-02",
+  "summary": "Les frappes américano-israéliennes sur l'Iran entrent dans leur troisième jour depuis le 28 février. Israël annonce avoir éliminé 40 hauts gradés iraniens, dont le guide suprême Ali Khamenei, lors d'opérations à Téhéran et ailleurs. Cela fait suite à la confirmation hier de la mort de Khamenei et à l'élimination initiale de sept responsables. Les États-Unis ont détruit le quartier général des Gardiens de la Révolution. Washington et Tel-Aviv promettent une intensification des opérations, avec Téhéran comme cible principale.\n\nIsraël a bombardé des positions du Hezbollah au Liban en riposte à des tirs de missiles, ordonnant l'évacuation de 50 villages à moins d'un kilomètre des immeubles ciblés. Beyrouth rapporte 31 morts et 149 blessés dus à ces frappes. Parallèlement, l'Iran a lancé une salve de missiles balistiques sur Israël, dont 93 % ont été interceptés par le Dôme de Fer, mais certains ont provoqué des explosions dans des zones civiles à Jérusalem. L'Iran a aussi tiré des missiles sur des bases américaines et des monarchies du Golfe, alliées des États-Unis.\n\nLa France annonce un rehaussement de sa posture militaire dans le Golfe en réponse aux ripostes iraniennes sur la région. Les bombardements en Iran soulèvent des préoccupations sur une fermeture potentielle du détroit d'Ormuz et des attaques sur des navires, pouvant perturber les approvisionnements pétroliers mondiaux. Le conflit s'étend régionalement via le Hezbollah, avec des opérations en cours au Liban et en Iran.",
+  "headlines": [
+    {
+      "title": "L'armée israélienne bombarde des positions du Hezbollah au Liban après tirs de missiles",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "Libération",
+        "France 24",
+        "RFI",
+        "Radio-Canada"
+      ],
+      "summary": "Au troisième jour du conflit, Israël a lancé des frappes sur plusieurs régions libanaises en riposte aux attaques du Hezbollah, ordonnant l'évacuation de 50 villages à 1 000 mètres des immeubles. Cela marque l'extension régionale du conflit israélo-iranien, risquant une escalade plus large.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/02/en-direct-iran-au-troisieme-jour-des-frappes-israelo-americaines-la-crainte-d-une-regionalisation-du-conflit-du-liban-a-l-irak-en-passant-par-le-golfe_6668663_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur tirs Hezbollah et bombardements israéliens avec évacuation de 50 localités",
+          "link": "https://www.lemonde.fr/international/live/2026/03/02/en-direct-iran-au-troisieme-jour-des-frappes-israelo-americaines-la-crainte-d-une-regionalisation-du-conflit-du-liban-a-l-irak-en-passant-par-le-golfe_6668663_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Détaille frappes à grande échelle sur Téhéran et première attaque Hezbollah depuis Liban",
+          "link": "https://www.lefigaro.fr/international/en-direct-attaque-en-iran-le-moyen-orient-s-embrase-apres-la-mort-du-guide-supreme-ali-khamenei-20260301"
+        },
+        {
+          "source": "Libération",
+          "angle": "Rapporte 31 morts au Liban après bombardements israéliens selon Beyrouth",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-contre-liran-les-bombardements-continuent-le-conflit-setend-au-liban-20260302_3TIWGWGEERCTPP7FJSRWQW22B4/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Mentionne ordres d'éloignement pour habitants de 50 villages avant bombardements",
+          "link": "https://www.france24.com/fr/moyen-orient/20260302-en-direct-israel-vise-encore-teheran-iran-hezbollah-implique-conflit-etats-unis-frappes-netanyahu-liban-irak"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israël mène des frappes à grande échelle sur Téhéran au troisième jour de l'opération",
+      "source": "France 24",
+      "sources": [
+        "Le Figaro",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Israël continue ses bombardements massifs sur la capitale iranienne tandis que les États-Unis ont détruit le QG des Gardiens de la Révolution. Téhéran reste la cible principale, avec des opérations promises à intensification, impactant la stabilité régionale.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260302-en-direct-israel-vise-encore-teheran-iran-hezbollah-implique-conflit-etats-unis-frappes-netanyahu-liban-irak",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Indique poursuite frappes à grande échelle sur Téhéran et visée Hezbollah",
+          "link": "https://www.lefigaro.fr/international/en-direct-attaque-en-iran-le-moyen-orient-s-embrase-apres-la-mort-du-guide-supreme-ali-khamenei-20260301"
+        },
+        {
+          "source": "France 24",
+          "angle": "Ouvre sur frappes continues à grande échelle sur Téhéran troisième jour",
+          "link": "https://www.france24.com/fr/moyen-orient/20260302-en-direct-israel-vise-encore-teheran-iran-hezbollah-implique-conflit-etats-unis-frappes-netanyahu-liban-irak"
+        },
+        {
+          "source": "RFI",
+          "angle": "Annonce intensification frappes au Liban et poursuite contre Iran",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260302-en-direct-l-iran-rejette-toute-n%C3%A9gociation-avec-washington-isra%C3%ABl-compte-intensifier-ses-frappes-au-liban-khamenei-trump"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'Iran lance une salve de missiles balistiques sur Israël touchant Jérusalem",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Malgré interception de 93 % par le Dôme de Fer, des missiles iraniens ont provoqué des explosions dans des zones civiles à Jérusalem. Cela souligne les limites du système défensif israélien face aux ripostes iraniennes continues.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260302-le-d%C3%B4me-de-fer-n-est-pas-infaillible-des-explosions-entendues-%C3%A0-j%C3%A9rusalem",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les frappes israéliennes au Liban font 31 morts et 149 blessés selon Beyrouth",
+      "source": "France 24",
+      "sources": [
+        "Libération",
+        "France 24",
+        "Radio-Canada"
+      ],
+      "summary": "Les bombardements israéliens contre des cibles du Hezbollah ont tué 31 personnes et blessé 149 au Liban. Beyrouth accuse Israël, marquant une escalade avec implication directe du Liban dans le conflit.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260302-guerre-au-moyen-orient-isra%C3%ABl-frappe-le-liban-et-vise-des-cibles-du-hezbollah",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Libération",
+          "angle": "Compte au moins 31 morts au Liban après bombardements israéliens",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-contre-liran-les-bombardements-continuent-le-conflit-setend-au-liban-20260302_3TIWGWGEERCTPP7FJSRWQW22B4/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Rapporte 31 morts et 149 blessés selon ministère libanais",
+          "link": "https://www.france24.com/fr/moyen-orient/20260302-guerre-au-moyen-orient-isra%C3%ABl-frappe-le-liban-et-vise-des-cibles-du-hezbollah"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Indique plus de 30 morts et 149 blessés au Liban",
+          "link": "https://ici.radio-canada.ca/info/en-direct/1013514/attaque-etats-unis-israel-iran-khamenei-mort-guerre-moyen-orient"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël annonce avoir éliminé 40 hauts gradés iraniens dont Ali Khamenei",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Au troisième jour, Israël revendique l'élimination de 40 responsables iraniens dans ses opérations. Cela affaiblit la hiérarchie militaire de Téhéran et soutient l'objectif de déstabilisation du régime.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260302-en-direct-l-iran-rejette-toute-n%C3%A9gociation-avec-washington-isra%C3%ABl-compte-intensifier-ses-frappes-au-liban-khamenei-trump",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Emmanuel Macron annonce rehaussement de la posture militaire française dans le Golfe",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Face aux frappes américano-israéliennes et ripostes iraniennes sur le Golfe, la France augmente ses moyens militaires déployés. Cela renforce la présence européenne dans une zone à risque d'escalade.",
+      "link": "https://www.20minutes.fr/monde/israel/4203942-20260301-frappes-iran-france-va-rehausser-posture-militaire-golfe-annonce-emmanuel-macron?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Iran tire des missiles sur les monarchies du Golfe aggravant son isolement",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Monde",
+        "Le Figaro"
+      ],
+      "summary": "Téhéran a visé ses voisins arabes alliés des États-Unis presque autant qu'Israël, les plaçant face à un dilemme entre apaisement iranien et alignement occidental. Cela isole davantage la République islamique.",
+      "link": "https://www.lefigaro.fr/international/l-iran-aggrave-son-isolement-en-ciblant-les-monarchies-du-golfe-20260301",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Décrit dilemme des souverains arabes entre apaisement Téhéran et alignement États-Unis Israël",
+          "link": "https://www.lemonde.fr/international/article/2026/03/01/frappes-americano-israeliennes-en-iran-les-represailles-iraniennes-sur-les-monarchies-du-golfe-placent-ces-regimes-au-pied-du-mur_6668919_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Note tirs iraniens contre voisins arabes pour pression sur alliés États-Unis",
+          "link": "https://www.lefigaro.fr/international/l-iran-aggrave-son-isolement-en-ciblant-les-monarchies-du-golfe-20260301"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Les bombardements en Iran ravivent les craintes d'un choc pétrolier mondial",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "La fermeture potentielle du détroit d'Ormuz et attaques sur navires font craindre une hausse des prix du brut. L'économie mondiale résiste mieux qu'en 1973 mais reste vulnérable aux perturbations d'approvisionnement.",
+      "link": "https://www.lemonde.fr/economie/article/2026/03/01/les-bombardements-en-iran-ravivent-les-craintes-d-un-choc-petrolier_6668907_3234.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Frappes américano-israéliennes sur l'Iran entrent dans leur troisième jour",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Le conflit déclenché le 28 février se poursuit avec intensification promise par Washington et Tel-Aviv, extension au Liban via Hezbollah et élimination de 40 gradés iraniens. L'escalade régionale menace la stabilité.",
+      "link": "https://www.lefigaro.fr/international/en-direct-attaque-en-iran-le-moyen-orient-s-embrase-apres-la-mort-du-guide-supreme-ali-khamenei-20260301",
+      "tier": "developing",
+      "dayNumber": 3,
+      "previousContext": "Extension au Liban avec frappes israéliennes sur Hezbollah et tirs réciproques ; annonce élimination 40 hauts gradés iraniens ; ripostes iraniennes touchent Jérusalem",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 208,
+    "articlesAfterDedup": 208,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 7,
+      "politics": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 9
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

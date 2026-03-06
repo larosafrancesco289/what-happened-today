@@ -1,0 +1,227 @@
+{
+  "date": "2026-03-04",
+  "summary": "Israel launched airstrikes on Iranian infrastructure targets including in Tehran as the war entered its fifth day. Explosions occurred in Jerusalem. Over 50,000 U.S. troops are deployed in the region. The strikes follow yesterday's Israeli attacks on Tehran and Beirut. U.S. Congress weighs limits on intervention. Oil disruptions are possible if fighting affects shipping routes.\n\nIn the U.S., the Senate advanced toward a vote on a war powers resolution challenging President Trump's decision to engage in the Iran conflict. The measure requires congressional approval for continued operations amid fighting without a defined U.S. exit. Separately, Iran's Revolutionary Guards claimed complete control of the Strait of Hormuz and warned vessels of missile and drone threats after explosions in Beirut. The Pentagon identified four U.S. Army Reserve soldiers, aged 20 to 42 from various states, killed in an Iranian drone strike on a Kuwait command center on Sunday. Two others remain unidentified.\n\nPresident Trump threatened to halt U.S. trade with Spain after it denied access to bases for Iran strikes. European allies increased defenses on Cyprus following a drone attack blamed on Iran-backed Hezbollah at the British Akrotiri base. The U.S. discussed operations against western Iran security forces with Kurdish militias in Iraq. Israel struck Hezbollah sites in Lebanese towns, with explosions in Beirut. In Africa, the United Nations reported 169 killed in South Sudan clashes and a mass grave, risking wider violence. Rwanda-backed rebels advanced into Goma, Congo, displacing one million. NATO began coordinated operations after a Baltic Sea cable sabotage suspected as a hybrid attack.\"}",
+  "headlines": [
+    {
+      "title": "Israel launches broad airstrikes on Iranian infrastructure as war enters fifth day",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "Associated Press"
+      ],
+      "summary": "Israel initiates wide-ranging strikes on Iran's infrastructure amid the fifth day of war with the U.S., featuring explosions in Tehran and Jerusalem and over 50,000 U.S. troops deployed. Middle East stability hangs in balance, risking oil disruptions; U.S. Congress weighs intervention limits.",
+      "link": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Highlighted Israel's broad strikes on infrastructure and U.S. Central Command's 50,000 troops involvement",
+          "link": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Reported dawn explosions in Tehran and Jerusalem as retaliatory strikes continue across Gulf",
+          "link": "https://apnews.com/article/iran-israel-us-march-04-2026-e1c316da4ce809407122590a6872aa85"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. Senate advances toward vote on war powers resolution for Iran conflict",
+      "source": "Associated Press",
+      "summary": "Senate debates and nears vote on legislation challenging President Trump's Iran war decision, seeking congressional approval amid spreading Middle East fighting without clear U.S. exit. Impacts American military strategy and global alliances as conflict escalates.",
+      "link": "https://apnews.com/article/iran-war-senate-vote-war-powers-06f9465c16218f90192f7502baa736eb",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Iran's Revolutionary Guards claim complete control of Strait of Hormuz",
+      "source": "France 24",
+      "summary": "Iran asserts dominance over the vital oil shipping route, warning vessels of missile and drone risks amid explosions in Beirut. Threatens global energy trade and tanker traffic; U.S. and allies monitor for blockades impacting economies worldwide.",
+      "link": "https://www.france24.com/en/middle-east/20260304-live-deadly-strikes-in-lebanon-iran-claims-complete-control-of-strait-of-hormuz",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagon identifies four U.S. Army Reserve soldiers killed in Iran war drone strike",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "BBC"
+      ],
+      "summary": "Four reservists from various states, aged 20 to 42, died Sunday when an Iranian drone hit a Kuwait command center; two others pending ID. Affects military families and highlights risks to 50,000 U.S. troops; underscores human cost of escalation.",
+      "link": "https://apnews.com/article/us-soldiers-who-died-iran-war-46f54df716fe1c5290363da0a15f99f3",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Profiled soldiers as devoted parents and reservists supplying troops in logistics roles",
+          "link": "https://apnews.com/article/us-soldiers-who-died-iran-war-46f54df716fe1c5290363da0a15f99f3"
+        },
+        {
+          "source": "BBC",
+          "angle": "Listed ages of four identified soldiers from initial six killed in Kuwait drone attack",
+          "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "President Trump threatens to halt U.S. trade with Spain over base access denial",
+      "source": "BBC",
+      "summary": "Trump targets Spain after it bars U.S. use of bases for Iran strikes, risking bilateral trade ties. Complicates NATO ally relations and U.S. logistics in Europe; could raise costs for American operations in Middle East.",
+      "link": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "European allies rush defenses to Cyprus after drones target British Akrotiri base",
+      "source": "BBC",
+      "summary": "Cypriot government blames Iran-backed Hezbollah for drone attack on UK RAF base; allies bolster island fortifications. Heightens Mediterranean tensions tied to Iran war; protects key logistics hub for regional strikes.",
+      "link": "https://www.bbc.com/news/articles/c4g74npdwnyo?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. discusses potential Iran operation with Kurdish militias in Iraq",
+      "source": "South China Morning Post",
+      "summary": "U.S. consults Iranian Kurdish groups on attacking western Iran security forces amid ongoing war. Aims to weaken Tehran militarily; risks broader ethnic conflicts and escalation involving Iraq's semi-autonomous Kurdistan.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3345359/us-and-kurds-discuss-potential-iran-military-operation-sources?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel strikes Hezbollah sites in Lebanese towns amid Iran war",
+      "source": "Deutsche Welle",
+      "summary": "Israel targets multiple towns in Lebanon claiming hits on Hezbollah; explosions reported in Beirut. Builds on prior strikes killing dozens; advances Israeli goals against regional foes, straining fragile ceasefires.",
+      "link": "https://www.dw.com/en/iran-war-israel-launches-deadly-strikes-on-lebanon/live-76207066?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "United Nations warns of violence resurgence in South Sudan after 169 killed",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica",
+        "The Guardian"
+      ],
+      "summary": "UN voices concern over weekend massacre with mass grave, attributing to intercommunal clashes amid instability. Risks full civil war return; threatens humanitarian aid and regional refugee flows near Sudan border.",
+      "link": "https://allafrica.com/stories/202603040001.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "UN highlights mass grave and intercommunal violence amid political tensions following initial attack",
+      "framings": [
+        {
+          "source": "AllAfrica",
+          "angle": "Cited UN deep concern over massacre and mass grave in intercommunal attacks",
+          "link": "https://allafrica.com/stories/202603040001.html"
+        },
+        {
+          "source": "The Guardian",
+          "angle": "Warned of civil war risk from government-opposition clashes near Sudan border",
+          "link": "https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-backed rebels advance into Goma city displacing one million",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overrun Congolese troops prompting gunfire and shelling in safe-haven city; U.N. reports 1 million displaced inside. Overwhelms aid hub; escalates eastern Congo crisis drawing Rwanda accusations.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Gunfire and shelling reported as over one million displaced shelter in the city",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NATO mounts first coordinated response to Baltic Sea cable sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance activates operations after another deep-sea cable cut suspects hybrid attack on infrastructure. Protects critical undersea links for data and energy; signals heightened deterrence against Russia amid tensions.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Alliance deploys coordinated assets following confirmed severance of additional cable",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 485,
+    "articlesAfterDedup": 484,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 9,
+      "politics": 2
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "americas": 1,
+      "europe": 3,
+      "africa": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

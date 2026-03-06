@@ -1,0 +1,218 @@
+{
+  "date": "2026-03-01",
+  "summary": "Iran's Supreme Leader Ayatollah Ali Khamenei, aged 86, has died following Israeli airstrikes in Tehran, according to Iranian state media. This marks the end of his leadership which began in 1989. His death raises questions over succession amid ongoing regional violence and rising tensions between Iran and the U.S. Meanwhile, Iran has retaliated by launching missiles and drones at Israel and U.S. military bases in the Gulf, resulting in explosions in Dubai. This escalation affects both Gulf citizens and travelers and may lead to stronger support for U.S.-Israel partnerships among Arab states.\n\nIn other developments, Iran has accused the U.S. and Israel of conducting a strike that reportedly killed 108 civilians at a school near a military site, a claim not confirmed by either country. The situation raises concerns over war crimes and may lead to investigations. In the U.S., Congress members are calling for a resolution to limit presidential war powers regarding Iran, which could affect President Trump's authority in future military actions. Meanwhile, UN Secretary-General Antonio Guterres condemned the airstrikes as violations of international law and is urging for diplomatic solutions to avoid further conflict.\n\nAdditionally, Israel has begun allowing displaced Palestinians to return to northern Gaza, helping to alleviate a humanitarian crisis. In Africa, Rwandan-backed rebels have taken control of Goma in the Democratic Republic of Congo, leading to increased displacement and humanitarian concerns. NATO is responding to reported sabotage of a deep-sea cable in the Baltic Sea, indicating heightened vigilance towards hybrid threats. Finally, Ghana has reported the deaths of 55 citizens who were deceived into fighting in Ukraine, straining diplomatic relations with Russia.",
+  "headlines": [
+    {
+      "title": "Israeli airstrikes kill Iran's Supreme Leader Ayatollah Ali Khamenei at age 86",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "BBC",
+        "Deutsche Welle",
+        "NPR",
+        "France 24",
+        "Japan Times"
+      ],
+      "summary": "Iranian state media confirms Supreme Leader Ayatollah Ali Khamenei died in US-supported Israeli airstrikes on Tehran, ending his 36-year rule since 1989. Succession questions arise amid ongoing attacks and Iranian responses. Affects Middle East stability and US-Iran tensions; successor selection imminent.",
+      "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Delivers live updates on leadership succession amid continued Iran attacks",
+          "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump"
+        },
+        {
+          "source": "BBC",
+          "angle": "Highlights end of iron grip confirmed on first day of US Israeli strikes",
+          "link": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Profiles Khamenei as unusual dictator killed at 86 preventing modernization",
+          "link": "https://www.dw.com/en/ali-khamenei-an-unusual-sort-of-dictator-killed-at-86/a-76169184?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Iran launches missiles and drones at Israel and four Gulf Arab countries",
+      "source": "BBC",
+      "sources": [
+        "BBC",
+        "South China Morning Post"
+      ],
+      "summary": "Iran retaliates for strikes killing Khamenei by firing missiles and drones at Israel and US bases in Gulf states, causing blasts in Dubai. Gulf residents and travelers affected. Escalates regional conflict; Arab states may bolster US-Israel support.",
+      "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC",
+          "angle": "Details what is known so far including targets of retaliatory strikes",
+          "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "Describes blasts in Dubai and Gulf fears of internationalization",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3345006/iran-internationalises-battlefield-retaliatory-missiles-put-gulf-firing-line?utm_source=rss_feed"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Iran accuses US and Israel of school strike killing 108 near military site",
+      "source": "BBC",
+      "summary": "Iran claims US-Israeli strikes hit a school near elite troops, killing 108 with no US or Israeli confirmation. Iranian civilians affected. Raises war crime concerns; investigations and responses expected amid escalating violence.",
+      "link": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Congress members demand war powers vote to restrain Trump Iran attack",
+      "source": "Associated Press",
+      "summary": "Key House and Senate members push resolution requiring approval for Trump's unapproved strikes on Iran, risking deeper US involvement. Lawmakers and public affected. Could limit presidential war authority; vote likely soon.",
+      "link": "https://apnews.com/article/congress-war-powers-trump-iran-constitution-37ec6685d9ded1d467a719f91e537487",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "UN Secretary-General Guterres condemns US-Israeli airstrikes on Iran",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "The Hindu"
+      ],
+      "summary": "UN chief Guterres calls strikes violation of international law at Security Council emergency meeting, urging negotiations to avert wider war. Global community affected. Pushes for de-escalation; further diplomacy anticipated.",
+      "link": "https://apnews.com/article/iran-israel-us-un-security-council-airstrikes-9140bca9241fb99be8cb3cff2c650741",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Reports call for return to negotiations at emergency Security Council",
+          "link": "https://apnews.com/article/iran-israel-us-un-security-council-airstrikes-9140bca9241fb99be8cb3cff2c650741"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Quotes Guterres stating strikes violate UN Charter and international law",
+          "link": "https://www.thehindu.com/news/international/un-chief-condemns-us-israeli-attacks-on-iran-during-emergency-security-council-meeting/article70690477.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Palestinians cross military zone to return to northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel allows displaced Gazans back to northern areas after hostage release deadlock breaks. Over 2 million Palestinians affected. Eases humanitarian crisis; reconstruction efforts may follow.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun troops and enter Congo city of Goma",
+      "source": "Wall Street Journal",
+      "summary": "Rebels seize Goma amid gunfire, shelling; UN estimates 1 million displaced inside. Congolese residents and aid operations affected. Threatens regional stability; humanitarian response intensifies.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO coordinates first response after Baltic Sea cable sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance responds to severed deep-sea cable suspected as sabotage targeting infrastructure. European nations and security affected. Signals heightened hybrid threat vigilance; investigations continue.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX launch Crew-10 to retrieve stuck astronauts",
+      "source": "Voice of America",
+      "summary": "Crew-10 launches from Florida to International Space Station, enabling return of Butch Wilmore and Suni Williams after nine months. Astronauts and space program affected. Routine rotation restores normal operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Ghana reports 55 citizens killed after Russia lures them to Ukraine fight",
+      "source": "The Guardian",
+      "summary": "Foreign minister states 55 Ghanaians died and 272 recruited since 2022 via false job promises. Ghanaian families affected. Strains Russia-Africa ties; diplomatic protests likely.",
+      "link": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 449,
+    "articlesAfterDedup": 447,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 1,
+      "global": 2,
+      "africa": 2,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6
+    }
+  }
+}

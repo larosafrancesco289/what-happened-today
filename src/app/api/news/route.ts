@@ -1,11 +1,13 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { loadDailyNews } from '@/lib/utils';
+import { isValidDateString } from '@/lib/date-utils';
+import { DEFAULT_LANGUAGE_CODE, isSupportedLanguageCode } from '@/lib/languages';
 
 export async function GET(request: NextRequest) {
   try {
-    const { searchParams } = new URL(request.url);
+    const { searchParams } = request.nextUrl;
     const date = searchParams.get('date');
-    const language = searchParams.get('language') || 'en';
+    const language = searchParams.get('language') || DEFAULT_LANGUAGE_CODE;
 
     if (!date) {
       return NextResponse.json(
@@ -14,11 +16,16 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // Validate date format (YYYY-MM-DD)
-    const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
-    if (!dateRegex.test(date)) {
+    if (!isValidDateString(date)) {
       return NextResponse.json(
-        { error: 'Invalid date format. Expected YYYY-MM-DD' },
+        { error: 'Invalid date. Expected a real calendar date in YYYY-MM-DD format' },
+        { status: 400 }
+      );
+    }
+
+    if (!isSupportedLanguageCode(language)) {
+      return NextResponse.json(
+        { error: 'Invalid language. Expected one of en, it, fr' },
         { status: 400 }
       );
     }

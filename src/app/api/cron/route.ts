@@ -1,76 +1,101 @@
-import { NextResponse } from 'next/server';
-import { fetchAllNews, deduplicateArticles } from '@/lib/news-fetcher';
-import { filterAndRankArticles, generateHeadlines, generateDailySummary } from '@/lib/llm-client';
-import { getDateString, saveDailyNews } from '@/lib/utils';
-import type { DailyNews } from '@/types/news';
+import { NextRequest, NextResponse } from 'next/server';
+import { authorizeCronRequest } from '@/lib/cron-auth';
+import { SUPPORTED_LANGUAGE_CODES, isSupportedLanguageCode, type LanguageCode } from '@/lib/languages';
+import { runDailyPipelineSafely, type DailyPipelineResult } from '@/lib/pipeline/daily';
 
-export async function GET() {
+function resolveRequestedLanguages(request: NextRequest): LanguageCode[] | null {
+  const requestedLanguage = request.nextUrl.searchParams.get('language');
+
+  if (!requestedLanguage || requestedLanguage === 'all') {
+    return [...SUPPORTED_LANGUAGE_CODES];
+  }
+
+  if (!isSupportedLanguageCode(requestedLanguage)) {
+    return null;
+  }
+
+  return [requestedLanguage];
+}
+
+async function handleCronRequest(request: NextRequest) {
   try {
-    console.log('Starting daily news pipeline...');
-    
-    // 1. Fetch RSS feeds
-    const rawArticles = await fetchAllNews();
-    if (rawArticles.length === 0) {
-      throw new Error('No articles fetched from RSS feeds');
+    const authorization = authorizeCronRequest(request);
+    if (!authorization.authorized) {
+      return NextResponse.json(
+        {
+          success: false,
+          error: authorization.error,
+        },
+        {
+          status: authorization.status ?? 401,
+          headers: {
+            'Cache-Control': 'no-store',
+          },
+        },
+      );
     }
-    
-    // 2. Deduplicate articles
-    const uniqueArticles = await deduplicateArticles(rawArticles);
-    
-    // 3. Filter and rank with AI
-    console.log('Filtering and ranking articles with AI...');
-    const filteredArticles = await filterAndRankArticles(uniqueArticles);
-    
-    if (filteredArticles.length === 0) {
-      throw new Error('No relevant articles after AI filtering');
+
+    const requestedLanguages = resolveRequestedLanguages(request);
+    if (!requestedLanguages) {
+      return NextResponse.json(
+        {
+          success: false,
+          error: `Invalid language. Expected one of ${SUPPORTED_LANGUAGE_CODES.join(', ')} or "all"`,
+        },
+        {
+          status: 400,
+          headers: {
+            'Cache-Control': 'no-store',
+          },
+        },
+      );
     }
-    
-    // 4. Generate headlines with AI
-    console.log('Generating headlines with AI...');
-    const headlines = await generateHeadlines(filteredArticles);
-    
-    // 5. Generate summary with AI
-    console.log('Generating daily summary with AI...');
-    const summary = await generateDailySummary(headlines);
-    
-    // 6. Create daily news object
-    const today = getDateString(new Date());
-    const dailyNews: DailyNews = {
-      date: today,
-      summary,
-      headlines,
-    };
-    
-    // 7. Save to JSON file
-    await saveDailyNews(dailyNews);
-    
-    console.log(`Successfully generated daily news for ${today}`);
-    console.log(`Summary: ${summary.substring(0, 100)}...`);
-    console.log(`Headlines: ${headlines.length} stories`);
-    
-    return NextResponse.json({
-      success: true,
-      date: today,
-      articlesProcessed: rawArticles.length,
-      headlinesGenerated: headlines.length,
-      message: 'Daily news pipeline completed successfully',
-    });
-    
+
+    const results: DailyPipelineResult[] = [];
+    for (const language of requestedLanguages) {
+      results.push(await runDailyPipelineSafely(language));
+    }
+
+    const success = results.every(result => result.success);
+    const status = success ? 200 : 207;
+
+    return NextResponse.json(
+      {
+        success,
+        generatedAt: new Date().toISOString(),
+        requestedLanguage: request.nextUrl.searchParams.get('language') ?? 'all',
+        results,
+      },
+      {
+        status,
+        headers: {
+          'Cache-Control': 'no-store',
+        },
+      },
+    );
   } catch (error) {
-    console.error('Error in daily news pipeline:', error);
-    
+    console.error('Error handling cron request:', error);
+
     return NextResponse.json(
       {
         success: false,
         error: error instanceof Error ? error.message : 'Unknown error',
-        timestamp: new Date().toISOString(),
+        generatedAt: new Date().toISOString(),
       },
-      { status: 500 }
+      {
+        status: 500,
+        headers: {
+          'Cache-Control': 'no-store',
+        },
+      },
     );
   }
 }
 
-// Add a POST method for manual triggering
-export async function POST() {
-  return GET();
-} 
+export async function GET(request: NextRequest) {
+  return handleCronRequest(request);
+}
+
+export async function POST(request: NextRequest) {
+  return handleCronRequest(request);
+}

@@ -2,16 +2,29 @@ import OpenAI from 'openai';
 import type { ProcessedArticle, NewsHeadline, Category, Region, Importance, Tier } from '@/types/news';
 import { safeParseJSON, articleFingerprint } from '@/lib/utils';
 
-const client = new OpenAI({
-  apiKey: process.env.OPENROUTER_API_KEY?.trim(),
-  baseURL: 'https://openrouter.ai/api/v1',
-  timeout: 90000,
-  maxRetries: 0,
-  defaultHeaders: {
-    'HTTP-Referer': process.env.OPENROUTER_SITE_URL || 'https://what-happened-today.vercel.app',
-    'X-Title': process.env.OPENROUTER_SITE_NAME || 'What Happened Today',
-  },
-});
+let client: OpenAI | null = null;
+
+function getClient(): OpenAI {
+  if (client) return client;
+
+  const apiKey = process.env.OPENROUTER_API_KEY?.trim();
+  if (!apiKey) {
+    throw new Error('OPENROUTER_API_KEY environment variable is required');
+  }
+
+  client = new OpenAI({
+    apiKey,
+    baseURL: 'https://openrouter.ai/api/v1',
+    timeout: 90000,
+    maxRetries: 0,
+    defaultHeaders: {
+      'HTTP-Referer': process.env.OPENROUTER_SITE_URL || 'https://what-happened-today.vercel.app',
+      'X-Title': process.env.OPENROUTER_SITE_NAME || 'What Happened Today',
+    },
+  });
+
+  return client;
+}
 
 // Model configuration (OpenRouter format: provider/model)
 // Fast model for filtering and headlines, quality model for summaries
@@ -71,6 +84,13 @@ function normalizeSummaryText(text: string): string {
     .trim();
 }
 
+export function sanitizeGeneratedSummary(text: string): string {
+  return normalizeSummaryText(text)
+    .replace(/\n{3,}/g, '\n\n')
+    .replace(/\n?\(Word count:\s*\d+\)\s*$/i, '')
+    .trim();
+}
+
 /**
  * Recover summary text from malformed model output that is close to JSON but invalid.
  * This avoids false "unavailable" days when the model returns usable prose with broken wrappers.
@@ -81,23 +101,23 @@ export function recoverSummaryFromMalformedOutput(responseText: string): string 
 
   const valid = safeParseJSON<{ summary?: string }>(trimmed, {});
   if (valid.summary && valid.summary.trim().length > 0) {
-    return valid.summary.trim();
+    return sanitizeGeneratedSummary(valid.summary);
   }
 
   const summaryKeyMatch = trimmed.match(/"summary"\s*:\s*"([\s\S]*)$/i);
   if (summaryKeyMatch?.[1]) {
-    const candidate = normalizeSummaryText(summaryKeyMatch[1]).replace(/"\s*}?\s*$/, '').trim();
+    const candidate = sanitizeGeneratedSummary(summaryKeyMatch[1].replace(/"\s*}?\s*$/, '').trim());
     if (candidate.length >= 120) return candidate;
   }
 
   const brokenKeyThenText = trimmed.match(/^\s*\{\s*"summary:?["']?\s*\}?\s*\n?([\s\S]+)$/i);
   if (brokenKeyThenText?.[1]) {
-    const candidate = normalizeSummaryText(brokenKeyThenText[1]);
+    const candidate = sanitizeGeneratedSummary(brokenKeyThenText[1]);
     if (candidate.length >= 120) return candidate;
   }
 
   if (trimmed.includes('\n')) {
-    const afterFirstLine = normalizeSummaryText(trimmed.slice(trimmed.indexOf('\n') + 1))
+    const afterFirstLine = sanitizeGeneratedSummary(trimmed.slice(trimmed.indexOf('\n') + 1))
       .replace(/^summary\s*[:\-]\s*/i, '')
       .trim();
     if (afterFirstLine.length >= 120 && !afterFirstLine.startsWith('{')) {
@@ -555,7 +575,7 @@ Output JSON: {"summary":"<votre briefing ici>"}`;
 // Helper to make Chat Completions API calls.
 // When `retry` is false, the caller handles its own retry logic (avoids stacked retries).
 export async function chatCompletion(model: string, systemPrompt: string, userPrompt: string, maxTokens?: number, retry: boolean = true): Promise<string> {
-  const doCall = () => client.chat.completions.create({
+  const doCall = () => getClient().chat.completions.create({
     model,
     messages: [
       { role: 'system', content: systemPrompt },
@@ -678,7 +698,11 @@ function deduplicateAcrossTiers(headlines: NewsHeadline[]): NewsHeadline[] {
   for (let i = 0; i < headlines.length; i++) {
     const h = headlines[i];
     const link = h.link?.toLowerCase() || '';
-    const titleKey = h.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 40);
+    const titleKey = h.title
+      .normalize('NFKD')
+      .replace(/[^\p{L}\p{N}]/gu, '')
+      .toLowerCase()
+      .substring(0, 40);
 
     const existingIdx = (link ? seenLinks.get(link) : undefined) ?? seenTitles.get(titleKey);
 
@@ -754,7 +778,7 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
         console.log(`generateDailySummary: model=${model} API response time ${apiMs} ms (attempt ${attempt}/${MAX_ATTEMPTS_PER_MODEL})`);
 
         const result = safeParseJSON<{ summary?: string }>(responseText, {});
-        const parsedSummary = result.summary?.trim();
+        const parsedSummary = result.summary ? sanitizeGeneratedSummary(result.summary) : '';
         if (parsedSummary) return parsedSummary;
 
         const recoveredSummary = recoverSummaryFromMalformedOutput(responseText);

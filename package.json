@@ -8,6 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "test": "TZ=America/Los_Angeles bun test",
+    "check": "bun run lint && bun run test && bun run build",
     "generate-news": "bun run scripts/generate-news.ts",
     "generate-news:en": "bun run scripts/generate-news.ts --lang=en",
     "generate-news:it": "bun run scripts/generate-news.ts --lang=it",

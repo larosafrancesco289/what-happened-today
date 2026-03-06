@@ -187,7 +187,7 @@ export default function WeeklyPage() {
             <span className="text-border-light dark:text-border-dark">|</span>
             <span>{data.topHeadlines.length} {t.weekly.topHeadlines.toLowerCase()}</span>
             <span className="text-border-light dark:text-border-dark">|</span>
-            <span>{data.metadata.totalArticlesProcessed.toLocaleString()} articles</span>
+            <span>{t.weekly.articlesProcessed.replace('{count}', data.metadata.totalArticlesProcessed.toLocaleString())}</span>
           </div>
 
           {/* Region coverage pills */}

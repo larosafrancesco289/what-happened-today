@@ -11,10 +11,17 @@ if [ ! -f .env.local ]; then
 # OpenRouter API key for content generation
 OPENROUTER_API_KEY=
 
+# Protects the /api/cron endpoint in production
+CRON_SECRET=
+
+# Optional OpenRouter analytics headers
+OPENROUTER_SITE_URL=https://what-happened-today.vercel.app
+OPENROUTER_SITE_NAME=What Happened Today
+
 # Optional: Vercel deploy hook to trigger redeploys after generation
 # VERCEL_DEPLOY_HOOK=
 ENV
-  echo "Created .env.local (fill in OPENROUTER_API_KEY)"
+  echo "Created .env.local (fill in OPENROUTER_API_KEY and CRON_SECRET)"
 fi
 
 DEV_COMMAND="bun run dev"
@@ -40,4 +47,5 @@ fi
 
 echo "Setup complete. Next steps:"
 echo "- Edit .env.local and set OPENROUTER_API_KEY"
+echo "- If deploying, also set CRON_SECRET"
 echo "- Run development server: ${DEV_COMMAND}"

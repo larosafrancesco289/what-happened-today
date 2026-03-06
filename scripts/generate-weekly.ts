@@ -1,8 +1,9 @@
 #!/usr/bin/env bun
 
 import type { DailyNews, WeeklyDigest, Category, Region } from '../src/types/news';
-import { withTimeout, safeParseJSON, getLastWeekRange } from '../src/lib/utils';
-import { chatCompletion, recoverSummaryFromMalformedOutput, TIER_PRIORITY, MODEL_SUMMARY } from '../src/lib/llm-client';
+import { withTimeout, safeParseJSON, getLastWeekRange, getNextDate } from '../src/lib/utils';
+import { chatCompletion, recoverSummaryFromMalformedOutput, sanitizeGeneratedSummary, TIER_PRIORITY, MODEL_SUMMARY } from '../src/lib/llm-client';
+import { DEFAULT_LANGUAGE_CODE, isSupportedLanguageCode, type LanguageCode } from '../src/lib/languages';
 
 interface StoryEntry {
   title: string;
@@ -47,16 +48,17 @@ function classifyStories(tracker: Map<string, StoryEntry>): ClassifiedStories {
 /** Generate all dates between start and end (inclusive), as YYYY-MM-DD strings. */
 function dateRange(start: string, end: string): string[] {
   const dates: string[] = [];
-  const current = new Date(start);
-  const last = new Date(end);
-  while (current <= last) {
-    dates.push(current.toISOString().split('T')[0]);
-    current.setDate(current.getDate() + 1);
+  let current = start;
+
+  while (current <= end) {
+    dates.push(current);
+    current = getNextDate(current);
   }
+
   return dates;
 }
 
-async function runWeeklyPipeline(languageCode: string = 'en') {
+async function runWeeklyPipeline(languageCode: LanguageCode = DEFAULT_LANGUAGE_CODE) {
   const { loadDailyNews } = await import('../src/lib/utils');
   const fs = await import('fs');
   const path = await import('path');
@@ -106,7 +108,13 @@ async function runWeeklyPipeline(languageCode: string = 'en') {
         });
       }
 
-      const key = h.title.toLowerCase().replace(/[^a-z0-9\s]/g, '').split(/\s+/).slice(0, 6).join(' ');
+      const key = h.title
+        .normalize('NFKD')
+        .replace(/[^\p{L}\p{N}\s]/gu, '')
+        .toLowerCase()
+        .split(/\s+/)
+        .slice(0, 6)
+        .join(' ');
       if (!storyTracker.has(key)) {
         storyTracker.set(key, { title: h.title, tiers: new Map() });
       }
@@ -123,20 +131,27 @@ async function runWeeklyPipeline(languageCode: string = 'en') {
 
   // 4. Aggregate stats
   let totalArticlesProcessed = 0;
-  let maxSourcesPerDay = 0;
+  const sourceTracker = new Set<string>();
   const categoryCounts: Partial<Record<Category, number>> = {};
   const regionCounts: Partial<Record<Region, number>> = {};
 
   for (const day of dailyData) {
     totalArticlesProcessed += day.metadata?.articlesProcessed ?? 0;
-    maxSourcesPerDay = Math.max(maxSourcesPerDay, day.metadata?.sourcesUsed ?? 0);
+    day.headlines.forEach(headline => {
+      if (headline.sources?.length) {
+        headline.sources.forEach(source => sourceTracker.add(source));
+      } else if (headline.source) {
+        sourceTracker.add(headline.source);
+      }
+    });
+
     for (const h of day.headlines) {
       if (h.category) categoryCounts[h.category] = (categoryCounts[h.category] ?? 0) + 1;
       if (h.region) regionCounts[h.region] = (regionCounts[h.region] ?? 0) + 1;
     }
   }
 
-  const totalSourcesUsed = maxSourcesPerDay;
+  const totalSourcesUsed = sourceTracker.size;
 
   // 5. Generate weekly summary via LLM
   console.log('\nGenerating weekly summary with LLM...');
@@ -217,8 +232,10 @@ Output JSON: {"summary":"<votre briefing>"}`,
   );
 
   // Try standard JSON parsing first, then robust recovery for malformed JSON
-  const summary = safeParseJSON<{ summary?: string }>(responseText, {}).summary
-    ?? recoverSummaryFromMalformedOutput(responseText);
+  const parsedSummary = safeParseJSON<{ summary?: string }>(responseText, {}).summary;
+  const summary = parsedSummary
+    ? sanitizeGeneratedSummary(parsedSummary)
+    : recoverSummaryFromMalformedOutput(responseText);
 
   if (!summary) {
     console.error('Failed to generate weekly summary. Raw response:', responseText.substring(0, 500));
@@ -274,11 +291,16 @@ if (!process.env.OPENROUTER_API_KEY) {
 // Parse language arg
 const args = process.argv.slice(2);
 const languageArg = args.find(arg => arg.startsWith('--lang='));
-const languageCode = languageArg ? languageArg.split('=')[1] : 'en';
+const requestedLanguage = languageArg ? languageArg.split('=')[1] : DEFAULT_LANGUAGE_CODE;
 
-console.log(`Running weekly digest for language: ${languageCode}`);
+if (!isSupportedLanguageCode(requestedLanguage)) {
+  console.error(`Unsupported language: ${requestedLanguage}. Expected one of en, it, fr.`);
+  process.exit(1);
+}
 
-runWeeklyPipeline(languageCode).then(() => {
+console.log(`Running weekly digest for language: ${requestedLanguage}`);
+
+runWeeklyPipeline(requestedLanguage).then(() => {
   console.log('Weekly digest completed successfully!');
   process.exit(0);
 }).catch((error) => {

@@ -1,173 +1,37 @@
 'use client';
 
-import { useEffect, useState } from 'react';
-import { fetchDailySummary, formatDate, getDateString, getNextDate } from '@/lib/client-utils';
+import { useMemo } from 'react';
+import { useParams } from 'next/navigation';
+import DailyNewsPageContent from '@/components/DailyNewsPageContent';
+import { useDailyNews } from '@/hooks/use-daily-news';
+import { isValidDateString } from '@/lib/date-utils';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getTranslations } from '@/lib/i18n';
-import NewsSummary from '@/components/NewsSummary';
-import DateNavigation from '@/components/DateNavigation';
-import AppHeader from '@/components/AppHeader';
-import LoadingSpinner from '@/components/LoadingSpinner';
-import type { DailyNews } from '@/types/news';
-import { useParams } from 'next/navigation';
+
+function getDateParam(params: ReturnType<typeof useParams>): string {
+  const value = params?.date;
+  if (Array.isArray(value)) return value[0] ?? '';
+  return value ?? '';
+}
 
 export default function DatePage() {
-  const { currentLanguage } = useLanguage();
-  const [data, setData] = useState<DailyNews | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-  const [date, setDate] = useState<string>('');
-  const [hasNextDate, setHasNextDate] = useState<boolean>(false);
-  
-  const t = getTranslations(currentLanguage.code);
-  // Avoid relying on generic types for useParams to maximize compatibility
   const params = useParams();
-
-  useEffect(() => {
-    const value = params?.["date"];
-    const dateParam = Array.isArray(value) ? value[0] : value;
-    if (!dateParam) return;
-    // Validate date format (YYYY-MM-DD)
-    const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
-    if (!dateRegex.test(dateParam)) {
-      setError(t.common.error);
-      setLoading(false);
-      return;
-    }
-    setDate(dateParam);
-  }, [params, t.common.error]);
-
-  useEffect(() => {
-    if (!date) return;
-    
-    async function fetchData() {
-      setLoading(true);
-      setError(null);
-      
-      try {
-        const dailyNews = await fetchDailySummary(date, currentLanguage.code);
-        setData(dailyNews);
-      } catch (err) {
-        setError(t.common.error);
-        console.error('Error fetching daily news:', err);
-      } finally {
-        setLoading(false);
-      }
-    }
-
-    fetchData();
-  }, [date, currentLanguage.code, t.common.error]);
-
-  // Show next arrow only when the next date exists and has data.
-  useEffect(() => {
-    if (!date) {
-      setHasNextDate(false);
-      return;
-    }
-
-    const nextDateString = getNextDate(date);
-    if (nextDateString > getDateString()) {
-      setHasNextDate(false);
-      return;
-    }
-
-    let cancelled = false;
-    fetchDailySummary(nextDateString, currentLanguage.code)
-      .then((res) => {
-        if (!cancelled) {
-          setHasNextDate(!!res);
-        }
-      })
-      .catch(() => {
-        if (!cancelled) {
-          setHasNextDate(false);
-        }
-      });
-
-    return () => {
-      cancelled = true;
-    };
-  }, [date, currentLanguage.code]);
-
-  if (loading) {
-    return (
-      <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
-        <AppHeader />
-        <div className="max-w-4xl mx-auto px-4 py-16 text-center">
-          <LoadingSpinner />
-          <p className="mt-4 text-subtle-light dark:text-subtle-dark">{t.common.loading}</p>
-        </div>
-      </div>
-    );
-  }
-
-  if (error) {
-    return (
-      <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
-        <AppHeader />
-        <div className="max-w-4xl mx-auto px-4 py-16 text-center">
-          <h1 className="text-4xl font-bold text-gradient mb-6">
-            {t.summary.title}
-          </h1>
-          <p className="text-xl text-accent2-light dark:text-accent2-dark mb-8">
-            {error}
-          </p>
-          <button
-            onClick={() => window.location.reload()}
-            className="px-6 py-3 bg-accent-light text-text-light rounded-xl hover:opacity-90 transition-colors border border-border-light"
-          >
-            {t.common.retry}
-          </button>
-        </div>
-      </div>
-    );
-  }
-
-  if (!data) {
-    const formattedDate = formatDate(date, currentLanguage.code);
-
-    return (
-      <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
-        <AppHeader />
-        <div className="max-w-4xl mx-auto px-4 py-16 text-center">
-          <h1 className="text-4xl font-bold text-gradient mb-6">
-            {t.summary.noSummaryTitle}
-          </h1>
-          <p className="text-xl text-subtle-light dark:text-subtle-dark mb-8">
-            {t.summary.noSummaryMessageForDate.replace('{date}', formattedDate)}
-          </p>
-          <p className="text-subtle-light dark:text-subtle-dark">
-            {t.summary.noSummaryDescriptionForDate}
-          </p>
-        </div>
-        <DateNavigation currentDate={date} hasNextDate={hasNextDate} />
-      </div>
-    );
-  }
-
-  // Handle unavailable state - news generation failed for this language
-  if (data.unavailable) {
-    return (
-      <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
-        <AppHeader />
-        <div className="max-w-4xl mx-auto px-4 py-16 text-center">
-          <h1 className="text-4xl font-bold text-gradient mb-6">
-            {t.common.unavailableTitle}
-          </h1>
-          <p className="text-xl text-subtle-light dark:text-subtle-dark mb-8">
-            {t.common.unavailableMessage}
-          </p>
-        </div>
-        <DateNavigation currentDate={date} hasNextDate={hasNextDate} />
-      </div>
-    );
-  }
+  const requestedDate = getDateParam(params);
+  const isValidDate = useMemo(() => isValidDateString(requestedDate), [requestedDate]);
+  const { currentLanguage } = useLanguage();
+  const t = getTranslations(currentLanguage.code);
+  const { data, error, hasNextDate, loading } = useDailyNews(isValidDate ? requestedDate : null, {
+    checkNextDate: isValidDate,
+  });
 
   return (
-    <div className="min-h-screen bg-bg-light dark:bg-bg-dark">
-      <AppHeader />
-      <NewsSummary data={data} />
-      <DateNavigation currentDate={date} hasNextDate={hasNextDate} />
-    </div>
+    <DailyNewsPageContent
+      currentDate={requestedDate}
+      data={data}
+      error={requestedDate && !isValidDate ? t.common.invalidDate : error}
+      hasNextDate={hasNextDate}
+      loading={!requestedDate || (isValidDate && loading)}
+      showNavigationOnError={isValidDate}
+    />
   );
 }

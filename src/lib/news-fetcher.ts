@@ -1,5 +1,5 @@
 import Parser from 'rss-parser';
-import { RSS_FEEDS_BY_LANGUAGE } from './languages';
+import { DEFAULT_LANGUAGE_CODE, RSS_FEEDS_BY_LANGUAGE, type LanguageCode } from './languages';
 import { cleanText, articleFingerprint } from './utils';
 import type { RSSFeedItem, ProcessedArticle } from '@/types/news';
 
@@ -13,7 +13,7 @@ const parser = new Parser({
   },
 });
 
-function localeHeader(languageCode: string = 'en'): string {
+function localeHeader(languageCode: LanguageCode = DEFAULT_LANGUAGE_CODE): string {
   switch (languageCode) {
     case 'it':
       return 'it-IT,it;q=0.9,en;q=0.8';
@@ -34,7 +34,7 @@ async function fetchWithTimeout(input: string, init: RequestInit, timeoutMs: num
   }
 }
 
-export async function fetchRSSFeed(feedUrl: string, sourceName: string, languageCode: string = 'en'): Promise<RSSFeedItem[]> {
+export async function fetchRSSFeed(feedUrl: string, sourceName: string, languageCode: LanguageCode = DEFAULT_LANGUAGE_CODE): Promise<RSSFeedItem[]> {
   try {
     // Prefetch with timeout and language-aware headers
     const response = await fetchWithTimeout(feedUrl, {
@@ -67,10 +67,10 @@ export async function fetchRSSFeed(feedUrl: string, sourceName: string, language
   }
 }
 
-export async function fetchAllNews(languageCode: string = 'en'): Promise<ProcessedArticle[]> {
+export async function fetchAllNews(languageCode: LanguageCode = DEFAULT_LANGUAGE_CODE): Promise<ProcessedArticle[]> {
   console.log(`Fetching news from all RSS feeds for language: ${languageCode}`);
   
-  const feeds = RSS_FEEDS_BY_LANGUAGE[languageCode] || RSS_FEEDS_BY_LANGUAGE.en;
+  const feeds = RSS_FEEDS_BY_LANGUAGE[languageCode];
   // Limit concurrency to avoid hammering networks (max 5 at a time)
   const concurrency = 5;
   const results: PromiseSettledResult<RSSFeedItem[]>[] = [];
@@ -131,7 +131,11 @@ export async function deduplicateArticles(articles: ProcessedArticle[]): Promise
   // fingerprint (first 50 alphanumeric chars of title)
   const looseGroups = new Map<string, ProcessedArticle[]>();
   for (const article of unique) {
-    const looseKey = article.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 50);
+    const looseKey = article.title
+      .normalize('NFKD')
+      .replace(/[^\p{L}\p{N}]/gu, '')
+      .toLowerCase()
+      .substring(0, 50);
     const group = looseGroups.get(looseKey) || [];
     group.push(article);
     looseGroups.set(looseKey, group);

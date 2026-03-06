@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import type { DailyNews } from '@/types/news';
+import { DEFAULT_LANGUAGE_CODE, type LanguageCode } from './languages';
 
 export { getDateString, formatDate, getPreviousDate, getNextDate, getLastWeekRange } from './date-utils';
 
@@ -34,26 +35,36 @@ export function safeParseJSON<T = unknown>(text: string, fallback: T): T {
   }
 }
 
-export function getDataFilePath(date: string, languageCode: string = 'en'): string {
+export function getDataFilePath(date: string, languageCode: string = DEFAULT_LANGUAGE_CODE): string {
   return path.join(process.cwd(), 'data', languageCode, `${date}.json`);
 }
 
-export async function saveDailyNews(dailyNews: DailyNews, languageCode: string = 'en'): Promise<void> {
-  const filePath = getDataFilePath(dailyNews.date, languageCode);
+async function writeJsonFileAtomic(filePath: string, value: unknown): Promise<void> {
   const dataDir = path.dirname(filePath);
-  fs.mkdirSync(dataDir, { recursive: true });
-  await fs.promises.writeFile(filePath, JSON.stringify(dailyNews, null, 2));
+  const tempPath = `${filePath}.${process.pid}.${Date.now()}.tmp`;
+
+  await fs.promises.mkdir(dataDir, { recursive: true });
+  await fs.promises.writeFile(tempPath, JSON.stringify(value, null, 2), 'utf-8');
+  await fs.promises.rename(tempPath, filePath);
 }
 
-export async function loadDailyNews(date: string, languageCode: string = 'en'): Promise<DailyNews | null> {
-  const filePath = getDataFilePath(date, languageCode);
+export async function saveDailyNews(dailyNews: DailyNews, languageCode: LanguageCode | string = DEFAULT_LANGUAGE_CODE): Promise<void> {
+  const filePath = getDataFilePath(dailyNews.date, languageCode);
+  await writeJsonFileAtomic(filePath, dailyNews);
+}
 
+export async function loadJsonFile<T>(filePath: string): Promise<T | null> {
   try {
     const content = await fs.promises.readFile(filePath, 'utf-8');
-    return JSON.parse(content) as DailyNews;
+    return safeParseJSON<T | null>(content, null);
   } catch {
     return null;
   }
+}
+
+export async function loadDailyNews(date: string, languageCode: string = DEFAULT_LANGUAGE_CODE): Promise<DailyNews | null> {
+  const filePath = getDataFilePath(date, languageCode);
+  return loadJsonFile<DailyNews>(filePath);
 }
 
 /**
@@ -70,7 +81,11 @@ function normalizeLink(link: string): string {
 }
 
 function normalizeTitle(title: string, maxLen: number = 80): string {
-  return title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, maxLen);
+  return title
+    .normalize('NFKD')
+    .replace(/[^\p{L}\p{N}]/gu, '')
+    .toLowerCase()
+    .substring(0, maxLen);
 }
 
 /**
@@ -84,7 +99,11 @@ export function articleFingerprint(
   const hostPath = normalizeLink(article.link);
   const titleKey = normalizeTitle(article.title);
   if (includeContent && article.content) {
-    const contentKey = article.content.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 80);
+    const contentKey = article.content
+      .normalize('NFKD')
+      .replace(/[^\p{L}\p{N}]/gu, '')
+      .toLowerCase()
+      .substring(0, 80);
     return `${hostPath}|${titleKey}|${contentKey}`;
   }
   return `${hostPath}|${titleKey}`;

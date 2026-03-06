@@ -1,68 +1,135 @@
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import { getDateString, saveDailyNews } from '@/lib/utils';
+import { DEFAULT_LANGUAGE_CODE, isSupportedLanguageCode } from '@/lib/languages';
 import type { DailyNews, NewsHeadline } from '@/types/news';
 
-export async function GET() {
+function buildMockDailyNews(date: string): DailyNews {
+  const mockHeadlines: NewsHeadline[] = [
+    {
+      title: 'Global Markets Show Steady Growth in Technology Sector',
+      source: 'Reuters',
+      summary: 'International stock markets posted moderate gains after technology companies reported strong earnings. Major indices across Asia, Europe, and the Americas moved higher as investors watched the next round of central bank guidance.',
+      link: 'https://example.com/tech-growth',
+      tier: 'top',
+      category: 'economy',
+      region: 'global',
+      importance: 'major',
+      sources: ['Reuters'],
+      singleSource: true,
+    },
+    {
+      title: 'International Climate Conference Reaches New Renewable Energy Agreement',
+      source: 'BBC',
+      summary: 'Delegates from 50 countries agreed on updated renewable energy targets and financing milestones. The deal gives governments a new timeline for reporting progress and expands support for grid infrastructure.',
+      link: 'https://example.com/climate-conference',
+      tier: 'also',
+      category: 'environment',
+      region: 'global',
+      importance: 'notable',
+      sources: ['BBC'],
+      singleSource: true,
+    },
+    {
+      title: 'Medical Research Networks Expand Cross-Border Data Sharing Partnership',
+      source: 'Associated Press',
+      summary: 'Hospitals and public research institutes announced a shared framework for treatment studies and data exchange. The move is intended to speed up access to trial results and improve coordination during health emergencies.',
+      link: 'https://example.com/healthcare-innovation',
+      tier: 'developing',
+      dayNumber: 2,
+      previousContext: 'Researchers extended the initial pilot program into a formal multi-country network',
+      category: 'science',
+      region: 'global',
+      importance: 'notable',
+      sources: ['Associated Press'],
+      singleSource: true,
+    },
+  ];
+
+  return {
+    date,
+    summary: 'Technology earnings helped lift global markets while policymakers reached a new climate agreement focused on renewable energy targets and infrastructure funding. Separately, public health research institutions expanded data-sharing arrangements intended to speed up international collaboration on treatment studies and emergency response planning.\n\nTogether, the updates point to steady institutional coordination across finance, climate policy, and medical research. The market move will be watched for durability in the next trading sessions, while the climate and health agreements now shift toward implementation and reporting milestones.',
+    headlines: mockHeadlines,
+    metadata: {
+      sourcesUsed: 3,
+      articlesProcessed: 3,
+      articlesAfterDedup: 3,
+      articlesAfterDiversity: 3,
+      articlesAfterFilter: 3,
+      categoryCounts: {
+        economy: 1,
+        environment: 1,
+        science: 1,
+      },
+      regionCounts: {
+        global: 3,
+      },
+      tierCounts: {
+        top: 1,
+        also: 1,
+        developing: 1,
+      },
+    },
+  };
+}
+
+export async function GET(request: NextRequest) {
+  if (process.env.NODE_ENV === 'production') {
+    return NextResponse.json(
+      {
+        success: false,
+        error: 'Test pipeline is only available outside production',
+      },
+      { status: 404 },
+    );
+  }
+
   try {
+    const requestedLanguage = request.nextUrl.searchParams.get('language') || DEFAULT_LANGUAGE_CODE;
+    if (!isSupportedLanguageCode(requestedLanguage)) {
+      return NextResponse.json(
+        {
+          success: false,
+          error: 'Invalid language. Expected one of en, it, fr',
+        },
+        { status: 400 },
+      );
+    }
+
     console.log('Running test pipeline with mock data...');
-    
-    // Mock headlines for testing
-    const mockHeadlines: NewsHeadline[] = [
-      {
-        title: "Global Markets Show Steady Growth in Technology Sector",
-        source: "Reuters",
-        summary: "International stock markets demonstrated consistent gains as technology companies reported strong quarterly earnings. Major indices across Asia, Europe, and America posted modest increases.",
-        link: "https://example.com/tech-growth"
-      },
-      {
-        title: "International Climate Conference Reaches Key Agreements",
-        source: "BBC",
-        summary: "Delegates from 50 countries concluded discussions on renewable energy initiatives. New frameworks for carbon reduction were established with implementation timelines through 2025.",
-        link: "https://example.com/climate-conference"
-      },
-      {
-        title: "Healthcare Innovation Partnerships Expand Globally",
-        source: "Associated Press",
-        summary: "Medical research institutions announced collaborative projects focused on treatment accessibility. Cross-border healthcare technology sharing agreements were formalized.",
-        link: "https://example.com/healthcare-innovation"
-      }
-    ];
-    
-    // Mock summary
-    const mockSummary = "Global markets demonstrated resilience today as technology sector earnings exceeded expectations across multiple regions. International cooperation on climate initiatives continued to strengthen with new agreements on renewable energy frameworks. Healthcare innovation partnerships expanded their reach through formalized cross-border collaboration agreements.\n\nThese developments reflect ongoing stability in key economic sectors while institutional cooperation addresses long-term challenges. Market indicators suggest continued confidence in technological advancement and sustainable development initiatives as priority areas for international investment and policy coordination.";
-    
-    // Create daily news object
+
     const today = getDateString(new Date());
-    const dailyNews: DailyNews = {
-      date: today,
-      summary: mockSummary,
-      headlines: mockHeadlines,
-    };
-    
-    // Save to JSON file
-    await saveDailyNews(dailyNews);
-    
-    console.log(`Successfully generated test daily news for ${today}`);
-    
-    return NextResponse.json({
-      success: true,
-      date: today,
-      mode: 'test',
-      headlinesGenerated: mockHeadlines.length,
-      message: 'Test pipeline completed successfully',
-      data: dailyNews,
-    });
-    
+    const dailyNews = buildMockDailyNews(today);
+
+    await saveDailyNews(dailyNews, requestedLanguage);
+
+    console.log(`Successfully generated test daily news for ${today} (${requestedLanguage})`);
+
+    return NextResponse.json(
+      {
+        success: true,
+        date: today,
+        language: requestedLanguage,
+        mode: 'test',
+        headlinesGenerated: dailyNews.headlines.length,
+        message: 'Test pipeline completed successfully',
+        data: dailyNews,
+      },
+      {
+        headers: {
+          'Cache-Control': 'no-store',
+        },
+      },
+    );
   } catch (error) {
     console.error('Error in test pipeline:', error);
-    
+
     return NextResponse.json(
       {
         success: false,
         error: error instanceof Error ? error.message : 'Unknown error',
         timestamp: new Date().toISOString(),
       },
-      { status: 500 }
+      { status: 500 },
     );
   }
-} 
+}

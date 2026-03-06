@@ -2,6 +2,7 @@ export interface Translations {
   common: {
     loading: string;
     error: string;
+    invalidDate: string;
     noData: string;
     retry: string;
     unavailableTitle: string;
@@ -83,6 +84,7 @@ export interface Translations {
   weekly: {
     title: string;
     subtitle: string;
+    articlesProcessed: string;
     persistentStories: string;
     persistentDays: string;
     topHeadlines: string;
@@ -101,6 +103,7 @@ export const translations: Record<string, Translations> = {
     common: {
       loading: "Loading...",
       error: "An error occurred",
+      invalidDate: "This date isn't valid. Use the YYYY-MM-DD format.",
       noData: "No data available",
       retry: "Try again",
       unavailableTitle: "News Temporarily Unavailable",
@@ -194,6 +197,7 @@ export const translations: Record<string, Translations> = {
     weekly: {
       title: "Last Week",
       subtitle: "Weekly briefing",
+      articlesProcessed: "{count} articles processed",
       persistentStories: "Persistent stories",
       persistentDays: "days",
       topHeadlines: "Top headlines this week",
@@ -210,6 +214,7 @@ export const translations: Record<string, Translations> = {
     common: {
       loading: "Caricamento...",
       error: "Si è verificato un errore",
+      invalidDate: "Questa data non è valida. Usa il formato YYYY-MM-DD.",
       noData: "Nessun dato disponibile",
       retry: "Riprova",
       unavailableTitle: "Notizie Temporaneamente Non Disponibili",
@@ -303,6 +308,7 @@ export const translations: Record<string, Translations> = {
     weekly: {
       title: "La Settimana Scorsa",
       subtitle: "Briefing settimanale",
+      articlesProcessed: "{count} articoli elaborati",
       persistentStories: "Storie persistenti",
       persistentDays: "giorni",
       topHeadlines: "Titoli principali della settimana",
@@ -319,6 +325,7 @@ export const translations: Record<string, Translations> = {
     common: {
       loading: "Chargement...",
       error: "Une erreur s'est produite",
+      invalidDate: "Cette date n'est pas valide. Utilisez le format YYYY-MM-DD.",
       noData: "Aucune donnée disponible",
       retry: "Réessayer",
       unavailableTitle: "Actualités Temporairement Indisponibles",
@@ -412,6 +419,7 @@ export const translations: Record<string, Translations> = {
     weekly: {
       title: "La Semaine Dernière",
       subtitle: "Briefing hebdomadaire",
+      articlesProcessed: "{count} articles traités",
       persistentStories: "Histoires persistantes",
       persistentDays: "jours",
       topHeadlines: "Grands titres de la semaine",

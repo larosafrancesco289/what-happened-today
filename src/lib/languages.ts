@@ -1,5 +1,11 @@
+export const SUPPORTED_LANGUAGE_CODES = ['en', 'it', 'fr'] as const;
+
+export type LanguageCode = (typeof SUPPORTED_LANGUAGE_CODES)[number];
+
+export const DEFAULT_LANGUAGE_CODE: LanguageCode = 'en';
+
 export interface Language {
-  code: string;
+  code: LanguageCode;
   name: string;
   nativeName: string;
   flag: string;
@@ -39,7 +45,7 @@ export const SUPPORTED_LANGUAGES: Language[] = [
   }
 ] as const;
 
-export const RSS_FEEDS_BY_LANGUAGE: Record<string, RSSFeed[]> = {
+export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
   en: [
     // Wire Services (factual baseline)
     {
@@ -359,15 +365,18 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<string, RSSFeed[]> = {
   ]
 } as const;
 
-export function getLanguageFromCode(code: string): Language | undefined {
+export function isSupportedLanguageCode(code: string | null | undefined): code is LanguageCode {
+  return Boolean(code && SUPPORTED_LANGUAGE_CODES.includes(code as LanguageCode));
+}
+
+export function getLanguageFromCode(code: string | null | undefined): Language | undefined {
+  if (!isSupportedLanguageCode(code)) return undefined;
   return SUPPORTED_LANGUAGES.find(lang => lang.code === code);
 }
 
-export function detectBrowserLanguage(): string {
-  if (typeof window === 'undefined') return 'en';
-  
+export function detectBrowserLanguage(): LanguageCode {
+  if (typeof window === 'undefined') return DEFAULT_LANGUAGE_CODE;
+
   const browserLang = navigator.language.split('-')[0];
-  const supportedCodes = SUPPORTED_LANGUAGES.map(lang => lang.code);
-  
-  return supportedCodes.includes(browserLang) ? browserLang : 'en';
-} 
+  return isSupportedLanguageCode(browserLang) ? browserLang : DEFAULT_LANGUAGE_CODE;
+}

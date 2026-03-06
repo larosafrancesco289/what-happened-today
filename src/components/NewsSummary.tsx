@@ -6,7 +6,7 @@ import { formatDate } from '@/lib/client-utils';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getTranslations } from '@/lib/i18n';
 import type { Translations } from '@/lib/i18n';
-import { RSS_FEEDS_BY_LANGUAGE } from '@/lib/languages';
+import { RSS_FEEDS_BY_LANGUAGE, type LanguageCode } from '@/lib/languages';
 import { ArrowTopRightOnSquareIcon, ChevronDownIcon, EyeIcon } from '@heroicons/react/24/outline';
 import { categoryIcons } from '@/lib/category-icons';
 
@@ -312,7 +312,7 @@ const perspectiveColors: Record<string, string> = {
   right: 'bg-red-500',
 };
 
-function SourcesFooter({ headlines, translations, languageCode }: { headlines: NewsHeadline[]; translations: ReturnType<typeof getTranslations>; languageCode: string }) {
+function SourcesFooter({ headlines, translations, languageCode }: { headlines: NewsHeadline[]; translations: ReturnType<typeof getTranslations>; languageCode: LanguageCode }) {
   const [isExpanded, setIsExpanded] = useState(false);
 
   const feedLookup = useMemo(() => {

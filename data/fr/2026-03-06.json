@@ -1,0 +1,173 @@
+{
+  "date": "2026-03-06",
+  "summary": "L'armée israélienne a mené des frappes sur les infrastructures du régime iranien à Téhéran pour le septième jour consécutif du conflit. Elle a également réalisé des raids dans le sud du Liban. Les Gardiens de la révolution iraniens ont tiré des missiles vers Tel-Aviv. Donald Trump a déclaré que l'envoi de troupes américaines au sol serait une perte de temps. Ces actions font suite aux attaques israéliennes lancées hier à grande échelle sur Téhéran et aux avancées dans le sud du Liban. Le conflit affecte la stabilité régionale et les marchés énergétiques mondiaux, avec une paralysie du détroit d'Ormuz qui transporte 20 % du pétrole mondial.\n\nLa Chambre des représentants américaine a rejeté jeudi une résolution limitant les pouvoirs de guerre de Donald Trump contre l'Iran, suivant le rejet du Sénat la veille. Le vote a suivi des lignes partisanes et renforce l'autonomie de l'exécutif pour les actions militaires au Moyen-Orient. Donald Trump a limogé la ministre de la Sécurité intérieure Kristi Noem après des auditions critiques au Congrès jeudi, et l'a remplacée par le sénateur républicain Markwayne Mullin, ancien combattant d'arts martiaux mixtes. Ce changement intervient dans le contexte des tensions sécuritaires liées à la guerre avec l'Iran. Des documents du FBI publiés jeudi révèlent des accusations de violences sexuelles sur une mineure dans les années 1980 portées contre Donald Trump, issues de quatre auditions en 2019 liées à l'affaire Epstein. Ces révélations surviennent avant des échéances électorales.\n\nLes États-Unis et le Venezuela ont rétabli leurs relations diplomatiques rompues en 2019, deux mois après la capture de Nicolas Maduro. Le ministre de l'Intérieur américain a visité Caracas pour évoquer des perspectives minières et pétrolières, ouvrant une coopération économique bilatérale. Un vol spécial Air France de Paris vers Dubaï, rapatriant des Français, a fait demi-tour le 5 mars après des tirs de missiles dans la zone de guerre iranienne, illustrant les risques pour l'aviation civile. H&M Logistics a annoncé la fermeture de son centre de distribution à Ghlin en Belgique jeudi, menaçant 440 emplois. Les analyses indiquent une résilience accrue de l'économie mondiale au choc pétrolier par rapport à 1973, grâce à la diversification des sources d'énergie.",
+  "headlines": [
+    {
+      "title": "Armée israélienne frappe infrastructure régime iranien à Téhéran pendant septième jour conflit",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Libération",
+        "France 24",
+        "20 Minutes",
+        "Le Monde"
+      ],
+      "summary": "L’armée israélienne annonce frappes à grande échelle sur infrastructures pouvoir à Téhéran et raids sud Liban. Gardiens révolution iraniens tirent missiles vers Tel-Aviv. Donald Trump juge envoi troupes au sol perte temps. Conflit impacte stabilité régionale et marchés énergétiques mondiaux.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-israel-donald-trump-liban-etats-unis-hezbollah-benyamin-netanyahou-20260306",
+      "tier": "developing",
+      "dayNumber": 7,
+      "previousContext": "Israël lance nouvelle phase frappes Téhéran et Liban sud, Trump déclare troupes sol perte temps, Iran riposte missiles Tel-Aviv",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Ouvre avec déclaration Trump sur troupes sol et frappes israéliennes Téhéran",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-israel-donald-trump-liban-etats-unis-hezbollah-benyamin-netanyahou-20260306"
+        },
+        {
+          "source": "Libération",
+          "angle": "Met l’accent sur septième jour conflit sans apaisement et fronts multiples Israël",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-avec-liran-pour-trump-lenvoi-de-troupes-au-sol-serait-une-perte-de-temps-20260306_D6USPURDMJBGZIGFXTWCKNFGXQ/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Détaille vague frappes grande échelle Téhéran et estimation Trump sur troupes",
+          "link": "https://www.france24.com/fr/moyen-orient/20260306-guerre-au-moyen-orient-en-direct-iran-frappes-teheran-israel-etats-unis-liban-hezbollah-golfe"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Documents FBI publient accusations violences sexuelles Donald Trump sur mineure années 1980",
+      "source": "Le Monde",
+      "summary": "Quatre auditions FBI août-octobre 2019 révèlent accusations femme contre Donald Trump pour violences sexuelles mineure années 1980 affaire Epstein. Ces révélations interviennent avant échéances électorales et ravivent débats sur passé président américain.",
+      "link": "https://www.lemonde.fr/international/article/2026/03/06/affaire-epstein-de-nouveaux-documents-contenant-des-accusations-contre-donald-trump-sont-publies_6669716_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump limoge ministre Sécurité intérieure Kristi Noem remplace par sénateur Markwayne Mullin",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Donald Trump annonce renvoi Kristi Noem après auditions critiques Congrès jeudi. Sénateur républicain Markwayne Mullin ancien combattant MMA nommé remplaçant. Changement intervient contexte tensions sécuritaires liées guerre Iran.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4204783-20260305-etats-unis-coup-tonnerre-maison-blanche-trump-limoge-ministre-securite-interieure-kristi-noem?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Insiste sur auditions Congrès critiques et profil MMA nouveau ministre",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4204807-20260306-etats-unis-venu-mma-markwayne-mullin-prochain-ministre-securite-interieure?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Chambre représentants américaine rejette résolution limitant pouvoirs guerre Donald Trump contre Iran",
+      "source": "France 24",
+      "summary": "Chambre vote jeudi contre texte obligeant autorisation Congrès poursuite guerre Iran, lignes partisanes. Suit rejet Sénat veille. Renforce autonomie exécutif américain actions militaires Moyen-Orient.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260305-etats-unis-guerre-iran-chambre-des-representants-refuse-limiter-les-pouvoirs-donald-trump-congres-moyen-orient",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Chambre représentants refuse résolution après rejet Sénat précédent jour",
+      "sources": [
+        "France 24"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis et Venezuela rétablissent relations diplomatiques rompues en 2019 après capture Maduro",
+      "source": "France 24",
+      "summary": "Deux mois après capture Nicolas Maduro, États-Unis concluent rétablissement liens diplomatiques. Ministre Intérieur américain visite Caracas évoque perspectives minières pétrolières. Ouvre coopération économique bilatérale.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260305-les-%C3%A9tats-unis-et-le-venezuela-vont-r%C3%A9tablir-leurs-relations-diplomatiques-rompues-en-2019",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Vol Air France direction Dubaï fait demi-tour après tirs missiles zone guerre Iran",
+      "source": "20 Minutes",
+      "summary": "Vol spécial Air France Paris-Dubaï rapatrie Français fait demi-tour jeudi 5 mars suite tirs missiles. Incident illustre risques aviation civile prolongement conflit Moyen-Orient.",
+      "link": "https://www.20minutes.fr/monde/4204779-20260305-guerre-iran-vol-air-france-direction-dubai-oblige-faire-demi-tour-apres-tirs-zone?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "H&M Logistics annonce fin activités centre distribution Ghlin menace 440 emplois Belgique",
+      "source": "RTBF",
+      "summary": "H&M Logistics ferme centre Ghlin jeudi, met fin 440 emplois. Décision impacte logistique Belgique affecte travailleurs région.",
+      "link": "https://www.rtbf.be/article/ghlin-h-m-logistics-annonce-la-fin-des-activites-du-centre-de-distribution-11689701",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Économie mondiale montre vulnérabilité réduite choc pétrolier malgré paralysie détroit Ormuz",
+      "source": "Le Figaro",
+      "summary": "Paralysie détroit Ormuz transit 20% pétrole mondial fait flamber cours. Analyses indiquent résilience supérieure 1973 grâce diversification sources énergie.",
+      "link": "https://www.lefigaro.fr/conjoncture/guerre-en-iran-pourquoi-l-economie-mondiale-est-moins-vulnerable-a-un-choc-petrolier-qu-en-1973-20260306",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 207,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "americas": 4,
+      "europe": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 2,
+      "also": 4
+    }
+  }
+}

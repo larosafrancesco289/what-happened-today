@@ -1,0 +1,185 @@
+{
+  "date": "2026-03-07",
+  "summary": "Israel conducted extensive airstrikes early Saturday targeting locations near Mehrabad Airport in Tehran, marking an escalation in the ongoing conflict with Iran, now in its eighth day. Iranian missiles were fired at Tel Aviv, but no casualties were reported. The strikes have significant implications for civilians in Tehran, as more strikes are anticipated in the region, potentially drawing in broader international involvement and affecting global alliances.\n\nIn related developments, U.S. President Trump has demanded Iran's unconditional surrender and the establishment of leadership approved by the White House, which puts pressure on Iran's government and population. Concurrently, U.S. intelligence officials have reported that Russia provided Iran with critical information to launch strikes against U.S. warships and military assets in the region, raising concerns about the escalation of hostilities. In another worrying incident, satellite images reportedly connect a recent U.S. airstrike to the deaths of students at a school in Minab, highlighting the civilian toll amidst the conflict.\n\nElsewhere, Israeli forces are amassing tanks near the Lebanese border, signaling a potential ground invasion against Hezbollah, which poses risks to border communities. In Gaza, Israel has begun allowing displaced Palestinians to return, easing some humanitarian issues in the aftermath of a hostage release. Additionally, clashes in South Sudan near the Sudan border have resulted in the deaths of at least 169 people, raising fears of a return to civil war. Lastly, in Congo, Rwanda-backed rebels have taken the city of Goma, displacing over one million residents and disrupting aid operations.",
+  "headlines": [
+    {
+      "title": "Israel launches broad airstrikes on Tehran targets near Mehrabad Airport",
+      "source": "NYT",
+      "sources": [
+        "NYT",
+        "France24"
+      ],
+      "summary": "Israel's military sent a broad wave of strikes against Tehran early Saturday, hitting sites near Mehrabad Airport with explosions and smoke reported. Iranian missiles struck Tel Aviv causing no casualties. Tehran residents bear brunt; more strikes expected. Heightens eighth-day US-Israel-Iran war, risks broader regional involvement.",
+      "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "NYT",
+          "angle": "Detailed new wave of airstrikes battering Tehran with strikes near Mehrabad Airport and smoke columns",
+          "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon"
+        },
+        {
+          "source": "France24",
+          "angle": "Reported live broad-scale Israeli strikes on Tehran after Iranian missiles caused Tel Aviv explosions without casualties",
+          "link": "https://www.france24.com/en/middle-east/20260307-live-israel-launches-broader-attacks-on-tehran-as-war-goes-into-eighth-day"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump demands unconditional surrender from Iran after six days of war",
+      "source": "BBC",
+      "summary": "US President Trump calls for Iran's unconditional surrender and installation of new leaders acceptable to White House. Affects Iranian leadership and population amid conflict. Tehran must respond; Putin spoke with Iran's president. Signals US intent to end war decisively, impacts global alliances.",
+      "link": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Russia provides Iran intelligence to strike US warships aircraft and assets",
+      "source": "AP",
+      "summary": "Russia shared information with Iran enabling strikes on US warships aircraft and regional assets per US intelligence officials. Impacts US forces in Middle East. Tehran may use data soon; US monitors closely. Raises escalation risks in US-Iran war with Russian involvement.",
+      "link": "https://apnews.com/article/trump-iran-russia-intelligence-35afae34198408d670941f971d383378",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AP"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Evidence links US airstrike to deaths of scores at Iranian school",
+      "source": "AP",
+      "summary": "Satellite images expert analysis and US official confirm explosion killing scores of students at Minab school likely from US airstrike. Iranian students and families affected. Investigations continue; military denies. Highlights civilian toll in US-Iran war drawing international scrutiny.",
+      "link": "https://apnews.com/article/iran-minab-girls-school-airstrike-us-israel-c3095dc9729881b567277a1c5c47efb2",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AP"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israeli troops mass tanks near Lebanon border against Hezbollah",
+      "source": "BBC",
+      "summary": "Israeli forces gather troops and tanks near Lebanon border signaling potential full ground invasion of Hezbollah positions. Lebanese border communities at risk. Hezbollah prepares response; war expands. Threatens new front in Iran proxy conflicts affecting regional stability.",
+      "link": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel allows Palestinians to cross zone back into northern Gaza",
+      "source": "WSJ",
+      "summary": "Israel permits displaced Palestinians to return on foot to northern Gaza after hostage release deadlock breaks. Hundreds of thousands affected in enclave. Reconstruction next; aid flows resume. Eases humanitarian crisis post-hostage deal in ongoing conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "WSJ"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Congo safe-haven city of Goma",
+      "source": "WSJ",
+      "summary": "Rebels overrun Congolese troops entering Goma with gunfire and shelling; over one million displaced inside city per UN. Goma residents and aid operations disrupted. Government counteroffensive planned. Worsens eastern Congo crisis straining humanitarian resources.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "WSJ"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NASA SpaceX launch Crew-10 retrieves two astronauts stuck nine months",
+      "source": "VOA",
+      "summary": "SpaceX Falcon 9 launched Crew-10 from Florida carrying NASA Japan Russia astronauts to ISS for routine rotation. Enables return of Butch Wilmore Suni Williams stuck nine months. Docking Saturday; swap completes. Restores normal ISS operations vital for space research.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "VOA"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "South Sudan clashes kill 169 near Sudan border as violence escalates",
+      "source": "The Guardian",
+      "summary": "Government and opposition forces clash killing at least 169 in raid near Sudan border; risks full civil war return. Thousands displaced in young nation. Ceasefire talks urged. Undermines fragile peace threatening famine and refugee flows to neighbors.",
+      "link": "https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "US-Israel attacks kill 1,332 in Iran through day eight of war",
+      "source": "Al Jazeera",
+      "summary": "Casualties reach at least 1,332 from US-Israeli strikes on Iran since last weekend launch; airstrikes continue. Iranian civilians military affected nationwide. War enters day eight; response pending. Update shows rising death toll amplifying calls for de-escalation.",
+      "link": "https://www.aljazeera.com/news/2026/3/7/iran-war-what-is-happening-on-day-eight-of-us-israel-attacks?traffic_source=rss",
+      "tier": "developing",
+      "dayNumber": 8,
+      "previousContext": "US and Israel initiated attacks on Iran last weekend sparking full war with initial strikes on military targets",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 448,
+    "articlesAfterDedup": 447,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 7,
+      "politics": 1,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 6,
+      "americas": 1,
+      "africa": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

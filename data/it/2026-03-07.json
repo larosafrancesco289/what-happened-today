@@ -1,0 +1,185 @@
+{
+  "date": "2026-03-07",
+  "summary": "Israele ha bombardato l'aeroporto Mehrabad di Teheran con raid dell'Idf, colpendo lo scalo della capitale iraniana. Questo fa seguito ai raid israeliani di ieri su infrastrutture di Teheran. L'Iran e Israele sono coinvolti nell'escalation. Mosca fornisce intelligence ai pasdaran contro forze Usa, secondo media. Si monitorano ulteriori ritorsioni e impatti su aviazione civile.\n\nDonald Trump ha intimato all'Iran di arrendersi e di accettare la sua scelta per la Guida suprema come condizioni per fine guerra. Coinvolti Iran e Stati Uniti. Rubio minaccia bombardamenti prolungati. L'Iran ha attaccato con missili la base aerea Ali al Salem in Kuwait, che ospita Kuwait Air Force, US 386th Wing e italiani del Task Group Typhoon da Istrana. Nessuna vittima riportata. Italia, Usa e Kuwait valutano danni a operazioni logistiche. La Russia fornisce coordinate a Iran per colpire bersagli americani, con Cina che collabora su missili, secondo media. Pasdaran usano i dati contro forze Usa.\n\nIl Qatar avverte di possibile stop export energia per crisi nello Stretto di Hormuz, con traffico azzerato causa guerra in Medio Oriente; il greggio supera 90 dollari, influenzando prezzi carburanti e inflazione tra produttori globali. Blackout internet in Iran dura oltre sei giorni, con connettività all'1% confermata da Netblocks dopo attacco Usa-Israele; impatta comunicazioni, economia e dissenso interno. L'Italia schiera la fregata Martinengo con 160 marinai a difesa di Cipro, equipaggiata con missili Aster e siluri. Autorità azere smantellano cellule terroristiche iraniane, fermando attacchi su oleodotto Baku-Tbilisi-Ceyhan, ambasciata israeliana e leader ebrei. Un tornado devasta Union City in Michigan, con 4 morti e 12 feriti; autorità gestiscono emergenza e danni strutturali.",
+  "headlines": [
+    {
+      "title": "Israele bombarda aeroporto Mehrabad di Teheran",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "L'Idf colpisce lo scalo della capitale iraniana in nuovi raid. Coinvolti Iran e Israele nella escalation. Mosca fornisce intelligence ai pasdaran contro forze Usa secondo media. Monitorano ulteriori ritorsioni e impatti su aviazione civile.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-live-ultime-notizie-7-marzo_109709872-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Idf bombarda specificamente l'aeroporto Mehrabad, mentre emerge aiuto russo con intelligence contro Usa",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Idf bombarda lo scalo della capitale e cita media su Mosca che aiuta pasdaran contro Usa",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-live-ultime-notizie-7-marzo_109709872-202602k.shtml"
+        },
+        {
+          "source": "Washington Post",
+          "angle": "Russia fornisce informazioni d'intelligence alla Repubblica islamica per colpire l'esercito americano",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-live-ultime-notizie-7-marzo_109709872-202602k.shtml"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump intima all'Iran di arrendersi e scegliere lui la Guida suprema",
+      "source": "la Repubblica",
+      "summary": "Il presidente Usa pone condizioni per fine guerra: arrendersi e accettare sua scelta di leader religioso. Coinvolti Iran e Stati Uniti. Rubio minaccia bombardamenti prolungati. Influenza negoziati e outcome conflitto regionale.",
+      "link": "https://www.repubblica.it/esteri/2026/03/07/news/trump_iran_arrendetevi_e_fatemi_scegliere_la_guida_suprema-425205148/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump specifica arrendersi e lasciargli nominare Guida suprema, anche antidemocratica se favorevole",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran attacca base aerea Ali al Salem in Kuwait con militari italiani",
+      "source": "Il Sole 24 Ore",
+      "summary": "Missili iraniani colpiscono la base che ospita Kuwait Air Force, US 386th Wing e italiani del Task Group Typhoon da Istrana. Nessuna vittima riportata. Coinvolti Italia, Usa, Kuwait; valutano danni a operazioni logistiche.",
+      "link": "https://www.ilsole24ore.com/art/colpita-dall-iran-ali-salem-dove-sono-schierati-anche-militari-italiani-ecco-caratteristiche-base-AICL2LoB",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russia fornisce coordinate a Iran per colpire bersagli americani",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Media rivelano Mosca dà aiuti intelligence e coordinate, Cina collabora su missili. Coinvolti Russia, Iran, Usa. Pasdaran usano dati contro forze americane. Alza tensioni globali e ruolo potenze in conflitto.",
+      "link": "https://www.repubblica.it/esteri/2026/03/07/news/russia_aiuta_iran_contro_gli_usa-425205040/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Rivelazioni indicano Russia fornisce coordinate e aiuti, Cina collabora alla produzione missili",
+          "link": "https://www.repubblica.it/esteri/2026/03/07/news/russia_aiuta_iran_contro_gli_usa-425205040/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Media riportano Mosca aiuta pasdaran con intelligence contro forze Usa",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-live-ultime-notizie-7-marzo_109709872-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Qatar avverte stop export energia per crisi Hormuz e petrolio supera 90 dollari",
+      "source": "Rai News",
+      "summary": "Paese arabo lancia allarme su scenario che blocca greggio e crolla economie. Traffico Hormuz azzerato causa guerra Medio Oriente. Coinvolti produttori globali; greggio balza influenzando prezzi carburanti e inflazione.",
+      "link": "https://www.rainews.it/articoli/2026/03/lallarme-del-qatar-verso-lo-stop-dellexport-di-energia-ed-il-petrolio-vola-la-guerra-in-medio-oriente-7b428599-3601-4518-afe0-8d25825e890b.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Blackout internet in Iran dura oltre sei giorni con connettività all'1%",
+      "source": "ANSA",
+      "summary": "Netblocks conferma rete al minimo da attacco Usa-Israele. Coinvolti governo iraniano e utenti. Impatta comunicazioni, economia e dissenso interno; valutano durata e riattivazione.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/03/06/il-blackout-di-internet-in-iran-dura-da-piu-di-sei-giorni_86b1d77c-1025-4a3f-a422-9147cf43dd40.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia schiera fregata Martinengo con 160 marinai a difesa di Cipro",
+      "source": "Il Sole 24 Ore",
+      "summary": "Nave equipaggiata con missili Aster e siluri raggiunge area. Coinvolti Marina Militare italiana e alleati. Rafforza posture difensive nel Mediterraneo orientale; monitorano minacce regionali.",
+      "link": "https://www.ilsole24ore.com/art/dai-missili-aster-siluri-ecco-com-e-fatta-fregata-martinengo-inviata-dall-italia-difesa-cipro-AInXNeoB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Tornado devasta Union City in Michigan con 4 morti e 12 feriti",
+      "source": "TGCOM24",
+      "summary": "Ciclone distrugge case e alberi nella cittadina americana. Coinvolti residenti e soccorritori. Video mostrano avanzata; autorità gestiscono emergenza e valutano danni strutturali.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/tornado-si-abbatte-sul-michigan-case-e-alberi-distrutti_109710211-02k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Autorità azere smantellano cellule terroristiche iraniane in Azerbaigian",
+      "source": "Euronews Italiano",
+      "summary": "Fermati attacchi su oleodotto Baku-Tbilisi-Ceyhan, ambasciata israeliana, leader ebrei. Coinvolti Sepah iraniana e Baku. Prevenuti sabotaggi; tensioni tra paesi caucasici e Iran.",
+      "link": "http://it.euronews.com/2026/03/06/azerbaigian-fermati-attacchi-terroristici-iraniani-smantellate-le-cellule-del-terrore",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 249,
+    "articlesAfterDedup": 248,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 2,
+      "economy": 1,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "europe": 3,
+      "americas": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "date": "2026-03-07",
+  "summary": "Au huitième jour du conflit entre Israël et l'Iran, l'armée israélienne a déployé plus de 80 avions de chasse pour frapper des cibles gouvernementales à Téhéran et dans le centre de l'Iran, incluant un aéroport. Cela fait suite à une salve de missiles iraniens vers Israël. Donald Trump a exigé la capitulation de l'Iran. Les marchés pétroliers ont réagi à l'escalade. L'Iran n'a pas commenté les frappes immédiatement ; Israël prévoit de poursuivre les opérations tant que les menaces persistent.\n\nUn tribunal américain a déclaré coupable Asif Merchant, ressortissant pakistanais, d'avoir planifié des assassinats contre Donald Trump, Joe Biden et Nikki Haley avec soutien iranien. Il risque la prison à vie. Cela révèle des ingérences étrangères dans la sécurité des États-Unis. Séparément, au Liban, l'armée israélienne intensifie ses frappes et avancées terrestres contre le Hezbollah dans la banlieue sud de Beyrouth, provoquant des évacuations massives et du chaos. La population libanaise exprime un épuisement envers le Hezbollah, qui perd du soutien politique local face à la supériorité israélienne. Israël vise à éradiquer le groupe et à élargir une zone tampon à la frontière.\n\nEn Ukraine, une frappe russe a détruit un immeuble résidentiel de cinq étages à Kharkiv, tuant quatre personnes et en blessant dix, dont trois mineurs. L'Europe a condamné Volodymyr Zelensky après ses critiques contre la Hongrie d'Orban, qui bloque un prêt de 90 milliards d'euros pour l'Ukraine. Ailleurs, la Cour suprême du Canada a ordonné au Québec d'autoriser les demandeurs d'asile dans les centres de la petite enfance et de modifier son règlement sur les contributions. En RDC, l'armée a saisi des caisses de munitions, des AK-47 et des grenades près de Noro en Ituri, liées à la milice de Thomas Lubanga.\"}",
+  "headlines": [
+    {
+      "title": "Armée israélienne déploie plus de 80 avions de chasse pour frapper Téhéran et centre Iran",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Au huitième jour du conflit, Tsahal mène une vague de frappes de grande ampleur sur des cibles gouvernementales à Téhéran, dont un aéroport, après une salve de missiles iraniens vers Israël. Donald Trump exige la capitulation iranienne. Cela intensifie les tensions régionales et impacte les marchés pétroliers.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/07/en-direct-guerre-au-moyen-orient-israel-a-lance-une-vague-de-frappes-de-grande-ampleur-sur-teheran-en-reponse-a-une-attaque-de-missiles-menee-depuis-l-iran_6669855_3210.html",
+      "tier": "developing",
+      "dayNumber": 8,
+      "previousContext": "Israël cible infrastructures régime avec 80 avions après détection salve missiles iraniens ; Trump réitère appel à capitulation",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur vague frappes grande ampleur sur Téhéran après missiles iraniens et affrontements Hezbollah",
+          "link": "https://www.lemonde.fr/international/live/2026/03/07/en-direct-guerre-au-moyen-orient-israel-a-lance-une-vague-de-frappes-de-grande-ampleur-sur-teheran-en-reponse-a-une-attaque-de-missiles-menee-depuis-l-iran_6669855_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Précise plus de 80 avions frappent infrastructures régime terroriste iranien à Téhéran et centre",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-la-marine-iranienne-dit-avoir-lance-une-vague-massive-d-attaques-de-drones-contre-les-forces-americaines-20260307"
+        },
+        {
+          "source": "France 24",
+          "angle": "Détaille bombardement aéroport Téhéran au huitième jour après déclaration Trump sur capitulation",
+          "link": "https://www.france24.com/fr/moyen-orient/20260307-en-direct-guerre-moyen-orient-iran-israel-etats-unis-liban-trump"
+        },
+        {
+          "source": "RFI",
+          "angle": "Annonce frappes grande ampleur contre cibles gouvernementales après Trump et salve missiles",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260307-en-direct-guerre-au-moyen-orient-isra%C3%ABl-annonce-mener-des-frappes-de-grande-ampleur-sur-t%C3%A9h%C3%A9ran"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tribunal américain reconnaît Pakistanais Asif Merchant coupable projet assassinat Trump Biden Haley",
+      "source": "20 Minutes",
+      "summary": "Asif Merchant, Pakistanais accusé d'avoir planifié des assassinats contre Donald Trump, Joe Biden et Nikki Haley avec soutien iranien, est déclaré coupable vendredi. Il risque la prison à vie. Cela révèle ingérences étrangères dans sécurité États-Unis.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4205008-20260307-etats-unis-voulait-assassiner-trump-biden-pakistanais-reconnu-coupable-risque-prison-vie?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Frappe russe détruit immeuble résidentiel Kharkiv tue quatre personnes blesse dix autres",
+      "source": "Le Monde",
+      "summary": "Une frappe russe touche un immeuble de cinq étages à Kharkiv, tuant au moins quatre personnes et blessant dix autres dont trois mineurs. Une partie du bâtiment est détruite. Cela souligne persistance attaques civiles en Ukraine.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/07/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-une-frappe-russe-sur-un-immeuble-residentiel-de-kharkiv_6668763_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Frappes israéliennes provoquent chaos banlieue sud Beyrouth avec évacuations massives",
+      "source": "France 24",
+      "summary": "Des frappes israéliennes tous les heures ciblent banlieue sud Beyrouth, entraînant chaos et ordres évacuation. Nombreux réfugiés dorment dehors dans froid. Intensité supérieure à précédente guerre contre Hezbollah.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260307-le-chaos-r%C3%A8gne-dans-la-banlieue-sud-de-beyrouth-bombard%C3%A9e",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Population libanaise exprime épuisement envers Hezbollah perdant soutien politique",
+      "source": "Le Figaro",
+      "summary": "Libanais se disent épuisés et humiliés par jusqu’au-boutisme Hezbollah sans leader Nasrallah face supériorité israélienne. Parti perd terrain politique local. Cela affaiblit position groupe allié Iran.",
+      "link": "https://www.lefigaro.fr/international/les-gens-sont-epuises-pire-ils-sont-humilies-au-liban-la-population-se-detourne-du-hezbollah-20260306",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Tsahal multiplie frappes au Liban pour éradiquer Hezbollah et élargir zone tampon",
+      "source": "Le Figaro",
+      "summary": "Armée israélienne intensifie frappes et avancées terrestres contre milice chiite Hezbollah au Liban. Objectif détruire reste groupe et sécuriser frontière. Opportunité liée faiblesse actuelle Hezbollah.",
+      "link": "https://www.lefigaro.fr/international/une-opportunite-de-detruire-ce-qu-il-reste-du-hezbollah-au-liban-israel-veut-en-finir-avec-la-milice-chiite-20260306",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Cour suprême Canada ordonne Québec autoriser demandeurs asile dans CPE",
+      "source": "Radio-Canada",
+      "summary": "Plus haut tribunal canadien tranche que demandeurs d’asile doivent accéder aux centres de la petite enfance. Québec doit modifier règlement contribution réduite. Assure égalité services familles vulnérables.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2235373/demandeurs-asile-cpe-cour-supreme",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Armée RDC découvre cache armes munitions grenades près Noro en Ituri",
+      "source": "RFI",
+      "summary": "Forces armées congolaises saisissent dizaines caisses munitions, AK-47 et grenades à Noro, territoire Djugu Ituri. Armes liées milice Thomas Lubanga revenu région. Renforce lutte groupes armés est RDC.",
+      "link": "https://www.rfi.fr/fr/afrique/20260307-est-de-la-rdc-l-arm%C3%A9e-annonce-la-d%C3%A9couverte-d-une-importante-cache-d-armes-dans-l-ituri",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Europe condamne Zelensky après clash Orban blocage prêt 90 milliards Ukraine",
+      "source": "20 Minutes",
+      "summary": "De retour front, Volodymyr Zelensky critiqué par Europe pour propos sur Hongrie bloquant prêt 90 milliards euros. Point quotidien conflit marque tensions alliés occidentaux Ukraine.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4204985-20260306-guerre-ukraine-retour-front-zelensky-fait-recadrer-europe-apres-clash-orban?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 216,
+    "articlesAfterDedup": 215,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 3,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 2,
+      "europe": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 2,
+      "also": 6
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-03-08",
+  "summary": "L'Iran ha avvertito i paesi del Golfo di non attaccarlo, promettendo colpi solo contro navi USA e israeliane. Teheran si è scusata con i vicini del Golfo, promettendo di fermarsi se non intervengono, ma ha affermato di non arrendersi. Questo fa seguito all'attacco iraniano del giorno precedente alla base aerea Ali al Salem in Kuwait. Nuovi raid israeliani hanno segnato il nono giorno di guerra, dopo il bombardamento dell'aeroporto Mehrabad di Teheran. Si attendono ritorsioni limitate per evitare fronti multipli.\n\nIn Libano, l'esercito israeliano ha colpito comandanti della Forza Quds iraniana in un hotel di Beirut. I capi dei Pasdaran, accusati di pianificare attentati, erano riuniti durante l'attacco preciso. Secondo media israeliani, il figlio della Guida suprema iraniana Ali Khamenei è rimasto ferito in attacchi israeliani, mentre l'IDF ha bombardato depositi di petrolio iraniani. Teheran non ha confermato la ferita. Queste operazioni espandono il conflitto in Libano e minacciano ritorsioni.\n\nIn Italia, imprese stimano rincari per 10 miliardi di euro sui 15,9 miliardi di importazioni energetiche, con rischi su 27,8 miliardi di export, causati dalla guerra in Medio Oriente. I settori manifatturieri preparano contromisure. Il ministro degli Esteri Antonio Tajani ha annunciato il rimpatrio di oltre 20mila italiani dall'Iran in una settimana di escalation, grazie a operazioni diplomatiche. Questo garantisce la sicurezza dei connazionali in zone di tensione. I mercati energetici globali registrano preoccupazioni dopo l'avvertimento del Qatar sullo stop alle esportazioni per la crisi di Hormuz, con il petrolio oltre 90 dollari.",
+  "headlines": [
+    {
+      "title": "Iran avverte paesi Golfo di non attaccarlo e promette colpi solo a navi USA e israeliane",
+      "source": "ANSA",
+      "summary": "Teheran si scusa con i vicini del Golfo promettendo di fermarsi se non intervengono, ma afferma di non arrendersi mai. Nuovi raid israeliani segnano il nono giorno di guerra. La mossa cerca di evitare fronti multipli e preoccupa i mercati energetici globali.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/07/liran-non-ci-arrenderemo-mai-e-si-scusa-con-il-golfo.-per-la-prima-volta_d1c4b130-7429-4c63-be13-2e446c75c6f5.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israele colpisce comandanti Forza Quds iraniana in hotel di Beirut",
+      "source": "AGI",
+      "summary": "L'esercito israeliano esegue attacco preciso contro capi della Forza Quds dei Pasdaran in un hotel a Beirut, accusati di pianificare attentati. Colpiti mentre si riunivano. L'operazione espande il conflitto libanese e minaccia ritorsioni iraniane.",
+      "link": "https://www.agi.it/estero/news/2026-03-08/guerra-iran-notizie-in-diretta-36001464/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Media israeliani riportano ferita al figlio di Ali Khamenei",
+      "source": "TGCOM24",
+      "summary": "Secondo fonti israeliane il figlio della Guida suprema iraniana risulta ferito in attacchi. L'IDF bombarda anche depositi petrolio iraniani. La notizia solleva interrogativi sulla successione e intensifica tensioni interne al regime di Teheran.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-live-ultime-notizie-7-marzo_109709872-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Imprese italiane stimano rincari energia per 10 miliardi di euro",
+      "source": "Rai News",
+      "summary": "Le aziende avvertono di costi extra per 10 miliardi sui 15,9 miliardi di import energia e rischi su 27,8 miliardi di export. Causati dalla guerra in Medio Oriente. I settori manifatturieri preparano contromisure per tutelare competitività.",
+      "link": "https://www.rainews.it/articoli/2026/03/prezzi-benzina-lallarme-delle-imprese-per-la-guerra-rincari-energia-per-10-miliardi-la-guerra-in-medio-oriente-bb7ea3b8-54f5-4a18-87da-b4b1a2d72ed6.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Antonio Tajani annuncia rimpatrio di oltre 20mila italiani dall'Iran",
+      "source": "Il Sole 24 Ore",
+      "summary": "Da una settimana di escalation rimpatriati più di 20mila connazionali grazie a operazioni diplomatiche. Annuncio del ministro degli Esteri. Garantisce sicurezza degli italiani all'estero in zona di tensione.",
+      "link": "https://www.ilsole24ore.com/art/iran-tajani-rimpatriati-piu-20mila-italiani-AINblipB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 254,
+    "articlesAfterDedup": 254,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 5,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 2
+    }
+  }
+}

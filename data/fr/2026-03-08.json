@@ -1,0 +1,200 @@
+{
+  "date": "2026-03-08",
+  "summary": "Au neuvième jour du conflit entre Israël, les États-Unis et l'Iran depuis le 28 février, l'armée israélienne a mené une frappe par drone sur une chambre de l'hôtel Ramada à Beyrouth, ciblant des commandants des Gardiens de la Révolution iraniens présents au Liban. Israël confirme l'opération dans le cadre des frappes continues sur Téhéran, suite au déploiement de plus de 80 avions de chasse la veille. L'Iran a attaqué plusieurs pétroliers dans le détroit d'Ormuz, par lequel transite 20 % du pétrole mondial, depuis une semaine. Aucune victime n'est signalée dans les attaques iraniennes sur le Golfe. Les Gardiens de la Révolution affirment pouvoir soutenir six mois de guerre intense contre les États-Unis et Israël, après avoir frappé 200 cibles. Poursuite des frappes et sécurisation du détroit sont attendues.\n\nUn sondage indique que 81 % des Israéliens soutiennent la poursuite de la guerre contre l'Iran, alors que le Premier ministre Netanyahu promet l'annihilation du programme nucléaire iranien et la chute du régime. La France a rapatrié 4300 ressortissants de douze pays affectés par l'extension du conflit depuis le 28 février, sur près de 400 000 présents. En Ukraine, des frappes russes nocturnes sur Kharkiv ont tué dix personnes, contre quatre tués et dix blessés rapportés la veille ; le président Zelensky attend une réponse de ses partenaires internationaux.\n\nAu Kenya, des pluies torrentielles ont provoqué des inondations à Nairobi faisant 23 morts et affectant les populations vulnérables ainsi que les infrastructures ; une aide humanitaire immédiate est nécessaire. Au Pérou, une explosion dans une discothèque a blessé plus de 30 personnes, dont cinq graves ; l'enquête privilégie la piste d'un attentat dans une zone de crime organisé et examine les failles sécuritaires régionales.",
+  "headlines": [
+    {
+      "title": "Israël frappe commandants Gardiens de la Révolution iraniens à hôtel Ramada de Beyrouth",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Radio-Canada",
+        "RFI"
+      ],
+      "summary": "L'armée israélienne a mené une frappe par drone sur une chambre d'hôtel Ramada à Beyrouth, ciblant des Gardiens de la Révolution iraniens présents au Liban. Israël confirme l'opération dans le cadre de l'escalade contre l'Iran. Cela intensifie les tensions régionales et justifie les évacuations massives.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/08/en-direct-guerre-au-moyen-orient-israel-assure-avoir-cible-des-gardiens-de-la-revolution-iraniens-presents-a-beyrouth_6669855_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec déclaration Netanyahu sur plan méthodique contre régime iranien",
+          "link": "https://www.lemonde.fr/international/live/2026/03/08/en-direct-guerre-au-moyen-orient-israel-assure-avoir-cible-des-gardiens-de-la-revolution-iraniens-presents-a-beyrouth_6669855_3210.html"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Précise frappe ciblée par drone contre chambre hôtel Ramada",
+          "link": "https://ici.radio-canada.ca/info/en-direct/1013534/jour-8-guerre-israelo-americaine-contre-liran"
+        },
+        {
+          "source": "RFI",
+          "angle": "Mentionne bombardements au Liban visant chefs Gardiens",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260308-en-direct-guerre-au-moyen-orient-les-bombardements-se-poursuivent-au-liban-les-sir%C3%A8nes-d-alerte-retentissent-au-nord-d-isra%C3%ABl"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Gardiens de la Révolution iraniens affirment tenir six mois de guerre intense",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Les Gardiens revendiquent capacité à affronter au moins six mois de guerre contre États-Unis et Israël, après avoir frappé 200 cibles. Cela signale résistance prolongée, impactant durée conflit et marchés énergétiques.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-la-marine-iranienne-dit-avoir-lance-une-vague-massive-d-attaques-de-drones-contre-les-forces-americaines-20260307",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Cite Gardiens prêts à six mois malgré cérémonial Trump pour soldats",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-la-marine-iranienne-dit-avoir-lance-une-vague-massive-d-attaques-de-drones-contre-les-forces-americaines-20260307"
+        },
+        {
+          "source": "France 24",
+          "angle": "Affirme capacité six mois et frappes sur 200 cibles",
+          "link": "https://www.france24.com/fr/moyen-orient/20260308-en-direct-guerre-moyen-orient-iran-israel-etats-unis-liban-golfe"
+        },
+        {
+          "source": "RFI",
+          "angle": "Indique préparation six mois au neuvième jour de guerre",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260308-en-direct-guerre-au-moyen-orient-les-bombardements-se-poursuivent-au-liban-les-sir%C3%A8nes-d-alerte-retentissent-au-nord-d-isra%C3%ABl"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Guerre Israël-États-Unis-Iran entre neuvième jour avec frappes continues",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France 24",
+        "Le Figaro"
+      ],
+      "summary": "Au neuvième jour depuis 28 février, Israël bombarde Téhéran, Iran attaque Golfe sans victimes signalées. Trump évoque capitulation. Cela prolonge instabilité, motive rapatriements et surveille marchés pétrole.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260308-en-direct-guerre-au-moyen-orient-les-bombardements-se-poursuivent-au-liban-les-sir%C3%A8nes-d-alerte-retentissent-au-nord-d-isra%C3%ABl",
+      "tier": "developing",
+      "dayNumber": 9,
+      "previousContext": "Frappes israéliennes se poursuivent à Téhéran et Liban, Iran cible pays Golfe",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Volodymyr Zelensky dénonce frappes russes à Kharkiv tuant dix personnes",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Après bombardements nocturnes tuant dix personnes à Kharkiv, Zelensky attend réponse partenaires et qualifie attaques de sauvages. Cela souligne besoin aide internationale face escalade russe.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/08/en-direct-guerre-en-ukraine-apres-l-attaque-a-kharkiv-volodymyr-zelensky-attend-une-reponse-de-ses-partenaires_6669953_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Bilan passe de quatre morts dix personnes, Zelensky appelle réponse alliés",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pluies torrentielles causent 23 morts par inondations à Nairobi au Kenya",
+      "source": "RTBF",
+      "summary": "Inondations soudaines dues à pluies torrentielles tuent 23 personnes à Nairobi. Cela affecte populations vulnérables et infrastructure, nécessitant aide humanitaire immédiate.",
+      "link": "https://www.rtbf.be/article/kenya-au-moins-23-morts-dans-des-inondations-subites-a-nairobi-11690733",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Explosion dans discothèque péruvienne blesse plus de 30 personnes",
+      "source": "20 Minutes",
+      "summary": "Forte détonation dans discothèque fait plus de 30 blessés dont cinq graves, piste attentat privilégiée en zone crime organisé. Enquête examine causes sécuritaires régionales.",
+      "link": "https://www.20minutes.fr/monde/4205054-20260308-explosion-discotheque-perou-piste-attentat-privilegiee?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "France rapatrie 4300 ressortissants de pays touchés par guerre Moyen-Orient",
+      "source": "Le Figaro",
+      "summary": "Près de 400 000 Français dans douzaine pays affectés depuis 28 février, 4300 rentrés. Cela répond à extension conflit, protège citoyens et évalue risques voyages.",
+      "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-4300-ressortissants-ont-pu-rentrer-en-france-20260307",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "81 pour cent Israéliens soutiennent poursuite guerre contre Iran",
+      "source": "France 24",
+      "summary": "Sondage montre 81 % Israéliens favorables à poursuite, Netanyahu promet victoire par annihilation programme iranien et chute régime. Cela renforce soutien domestique à opérations militaires.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260308-les-isra%C3%A9liens-favorables-%C3%A0-la-poursuite-de-la-guerre-netanyahu-va-continuer-jusqu-%C3%A0-la-victoire",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran attaque plusieurs pétroliers dans détroit d'Ormuz",
+      "source": "France Info",
+      "summary": "Depuis une semaine, Téhéran frappe navires dans détroit transitant 20 % pétrole mondial. Pistes sécurisation discutées pour éviter impact économique durable.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/quelles-sont-les-pistes-pour-securiser-le-detroit-d-ormuz-ou-plusieurs-petroliers-ont-ete-frappes-par-l-iran_7851887.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 212,
+    "articlesAfterDedup": 210,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "environment": 1,
+      "society": 2,
+      "politics": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "europe": 2,
+      "africa": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "developing": 2,
+      "also": 5
+    }
+  }
+}

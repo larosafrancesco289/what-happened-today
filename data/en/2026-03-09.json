@@ -1,0 +1,210 @@
+{
+  "date": "2026-03-09",
+  "summary": "Iran's Assembly of Experts appointed 56-year-old Mojtaba Khamenei, son of slain Ayatollah Ali Khamenei, as the new supreme leader. The decision occurred amid the US-Israeli war with Iran. Military leaders pledged allegiance to Mojtaba Khamenei. This follows the death of Ali Khamenei, who held the position since 1989. The appointment affects Iran's governance and its role in ongoing regional conflicts.\n\nBrent crude oil prices reached $101.19 per barrel, up 9.2 percent, due to disruptions in Middle East production and shipping from the Iran war. Global consumers face higher gasoline prices. Bahrain's state oil company declared force majeure on shipments after an Iran attack, affecting Gulf exporters and buyers. G7 leaders plan talks on releasing emergency oil reserves, as prices rose 25 percent to 2022 highs. Israel struck Tehran oil depots and infrastructure to counter an imminent weapons threat, according to an Israeli spokesperson. The attacks impact Iranian civilians and leadership.\n\nThousands of displaced Palestinians crossed into northern Gaza after Israel permitted returns following a hostage release deal. Families reunited amid damaged buildings, though fighting continues. In eastern Lebanon, Hezbollah fighters clashed with Israeli ground forces landed by helicopter from Syria; Iran launched its first post-leadership drones at Israel. Lebanese civilians face intensified cross-border fighting, with ceasefire talks stalled. Rwanda-backed rebels overran Goma in the Democratic Republic of Congo, defeating troops and prompting gunfire and shelling; over one million residents were displaced. The UN warned of a humanitarian disaster as aid operations are endangered. NATO activated defenses after a deep-sea cable severance in the Baltic Sea, suspected as sabotage; European connectivity is at risk.\"}",
+  "headlines": [
+    {
+      "title": "Iran's Assembly of Experts names Mojtaba Khamenei supreme leader",
+      "source": "Associated Press",
+      "sources": [
+        "Al Jazeera English",
+        "Associated Press",
+        "South China Morning Post",
+        "New York Times World",
+        "BBC World",
+        "Deutsche Welle"
+      ],
+      "summary": "Iran's Assembly of Experts appoints 56-year-old Mojtaba Khamenei, son of slain Ayatollah Ali Khamenei, as new supreme leader amid US-Israeli war. Military leaders pledge allegiance, signaling hardline continuity. This entrenches regime stability, prolonging conflict and impacting global energy markets.",
+      "link": "https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Al Jazeera English",
+          "angle": "Reports military pledges to new leader as Israel bombs Tehran",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Details oil price surge alongside leadership transition announcement",
+          "link": "https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "Profiles new leader's background and hardliner selection process",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3345910/who-mojtaba-khamenei-son-and-successor-irans-supreme-leader?utm_source=rss_feed"
+        },
+        {
+          "source": "New York Times World",
+          "angle": "Notes potential anger among Iranians seeking post-war change",
+          "link": "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-supreme-leader.html"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Highlights expectation of continued hardline policies",
+          "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Emphasizes confrontational path chosen during war",
+          "link": "https://www.dw.com/en/who-is-mojtaba-khamenei-iran-s-new-supreme-leader/a-76271184?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Brent crude oil prices reach $101.19 per barrel amid Iran war",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "NPR News",
+        "Al Jazeera English"
+      ],
+      "summary": "Iran war disrupts Middle East production and shipping, pushing Brent crude to $101.19 per barrel, up 9.2%. Global consumers face higher gasoline prices; markets await G7 response on reserves. This threatens economic growth worldwide.",
+      "link": "https://apnews.com/article/oil-prices-crude-brent-iran-ecab41ec6a365e58282f4cfbab62a9ff",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Cites specific price of $101.19 and Chicago trading details",
+          "link": "https://apnews.com/article/oil-prices-crude-brent-iran-ecab41ec6a365e58282f4cfbab62a9ff"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Predicts rising US gasoline prices without quick war end",
+          "link": "https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Notes 20 percent surge threatening global energy supplies",
+          "link": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel strikes Tehran oil depots to limit Iranian regime governance",
+      "source": "France 24",
+      "summary": "Israeli forces target Tehran infrastructure including oil facilities to weaken regime control during war. Spokesperson cites imminent weapons threat. Attacks affect Iranian civilians and leadership; escalation risks broader regional involvement.",
+      "link": "https://www.france24.com/en/video/20260308-israeli-strikes-on-tehran-infrastructure-aim-to-limit-regime-s-ability-to-govern",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Palestinians cross into northern Gaza after hostage release deal",
+      "source": "Wall Street Journal World",
+      "summary": "Israel permits thousands of displaced Gazans to return north following breakthrough on hostages. Families reunite amid ruins. This eases humanitarian crisis but fighting persists, impacting reconstruction efforts.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun Goma displacing one million people",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels defeat Congolese troops and enter Goma aid hub, prompting gunfire and shelling. Over one million displaced residents affected. UN warns of humanitarian disaster; aid operations now endangered.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NATO coordinates first response to Baltic Sea cable sabotage",
+      "source": "Wall Street Journal World",
+      "summary": "Alliance activates defenses after deep-sea cable severance in suspected sabotage campaign. European connectivity at risk. This tests NATO unity amid hybrid threats from Russia.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Hezbollah clashes with Israeli ground forces in eastern Lebanon",
+      "source": "France 24",
+      "summary": "Hezbollah fighters engage Israeli troops landed by helicopter from Syria. Iran launches first post-leadership drones at Israel. Lebanese civilians face intensified cross-border fighting; ceasefire talks stalled.",
+      "link": "https://www.france24.com/en/middle-east/20260309-war-in-middle-east-live-asian-stocks-tumble-oil-prices-soar-as-war-threatens-shipping",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "G7 leaders plan talks on releasing emergency oil reserves",
+      "source": "The Hindu",
+      "summary": "Group discusses joint reserve release as oil surges 25 percent to 2022 highs from Iran war. Consumers worldwide brace for inflation. Coordinated action could stabilize prices short-term.",
+      "link": "https://www.thehindu.com/business/markets/g7-to-discuss-joint-release-of-emergency-oil-reserves-say-reports/article70721435.ece",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Bahrain oil company declares force majeure on shipments post-attack",
+      "source": "The Hindu",
+      "summary": "State firm invokes clause after Iran attack disrupts contracts. Gulf exporters and buyers affected. This exacerbates global supply fears amid soaring prices.",
+      "link": "https://www.thehindu.com/news/international/bahrains-state-oil-company-declares-force-majeure-on-its-shipments-after-iran-attack/article70721442.ece",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 450,
+    "articlesAfterDedup": 447,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 1,
+      "economy": 3,
+      "conflict": 5
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "global": 2,
+      "africa": 1,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    }
+  }
+}

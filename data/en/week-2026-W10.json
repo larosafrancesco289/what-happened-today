@@ -1,0 +1,138 @@
+{
+  "weekId": "2026-W10",
+  "startDate": "2026-03-02",
+  "endDate": "2026-03-08",
+  "summary": "The week of March 2-8, 2026, was dominated by escalating conflict in the Middle East, entering its sixth day by March 7, with sustained military exchanges between Israel, Iran, the United States, and regional actors. This overshadowed initial market shocks and isolated strikes.\n\nOn March 2, the U.S. confirmed troops killed and wounded in clashes with Iran, while Iran fired hundreds of missiles and drones at Dubai, Abu Dhabi, Qatar, and Bahrain. Oil prices surged 13 percent as tanker traffic halted in the Strait of Hormuz, and Israel struck Hezbollah across Lebanon, bombing Beirut suburbs. U.S. futures fell over 1 percent, with Asian shares dropping. These early reports largely faded, receiving no further coverage.\n\nEscalation persisted on March 3: Iran struck the U.S. Embassy in Riyadh with two drones; Israel conducted simultaneous airstrikes on Tehran and Beirut targets; Pakistan launched missiles at Bagram Air Base in Afghanistan.\n\nBy March 4, as war hit day five, Israel launched broad airstrikes on Iranian infrastructure. The U.S. Senate advanced a war powers resolution for the Iran conflict, and Iran's Revolutionary Guards claimed complete control of the Strait of Hormuz—a development echoing the prior halt in traffic.\n\nMarch 5 saw a U.S. submarine sink an Iranian warship in international waters in the Indian Ocean. Iran responded with missile attacks on Israeli and U.S. bases, alongside Israeli strikes in Lebanon.\n\nOn March 7, Israel targeted Tehran near Mehrabad Airport. President Trump demanded Iran's unconditional surrender after six days of war. Russia provided Iran with intelligence to strike U.S. warships, aircraft, and assets.\n\nThe core Israel-Iran-U.S. confrontation proved enduring, with repeated airstrikes, naval actions, and great-power involvement developing across multiple days. Strait of Hormuz tensions lingered into March 4. In contrast, Gulf city attacks, initial oil and market reactions, Hezbollah strikes, and the Pakistan action faded after single-day mentions.\n\nElsewhere, China set its 2026 GDP growth target at 4.5-5 percent on March 5 amid a property slump, a standalone economic note with no follow-up by week's end.\n\nNo major resolutions emerged; the conflict intensified without de-escalation signals.",
+  "persistentStories": [],
+  "fadedStories": [
+    "US confirms troops killed and wounded in Iran clashes",
+    "Iran fires hundreds of missiles and drones at Dubai, Abu Dhabi, Qatar and Bahrain",
+    "Oil prices surge 13 percent as Strait of Hormuz tanker traffic halts",
+    "Israel strikes Hezbollah across Lebanon and bombs Beirut suburbs",
+    "US futures fall over 1 percent and Asian shares drop as markets react to Iran war",
+    "Iranians celebrate and mourn Supreme Leader Khamenei's killing in US-Israeli strikes",
+    "US appeals court lifts block on Trump DEI crackdown in federal government",
+    "Iran claims over 100 killed in strike on Minab girls' school",
+    "Iran strikes US Embassy in Riyadh with two drones",
+    "Israel conducts simultaneous airstrikes on Tehran and Beirut targets"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-03-02",
+      "title": "US confirms troops killed and wounded in Iran clashes",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "Iran fires hundreds of missiles and drones at Dubai, Abu Dhabi, Qatar and Bahrain",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "Oil prices surge 13 percent as Strait of Hormuz tanker traffic halts",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "Israel strikes Hezbollah across Lebanon and bombs Beirut suburbs",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "Iran strikes US Embassy in Riyadh with two drones",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "Israel conducts simultaneous airstrikes on Tehran and Beirut targets",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "Pakistan strikes Bagram Air Base in Afghanistan with missiles",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "Israel launches broad airstrikes on Iranian infrastructure as war enters fifth day",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "U.S. Senate advances toward vote on war powers resolution for Iran conflict",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "Iran's Revolutionary Guards claim complete control of Strait of Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "U.S. submarine sinks Iranian warship in Indian Ocean international waters",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Iran launches missile attacks on Israeli and U.S. bases as Israel strikes Lebanon",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "China sets 2026 GDP growth target at 4.5% to 5% amid property slump",
+      "category": "economy",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-03-07",
+      "title": "Israel launches broad airstrikes on Tehran targets near Mehrabad Airport",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-07",
+      "title": "Trump demands unconditional surrender from Iran after six days of war",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-07",
+      "title": "Russia provides Iran intelligence to strike US warships aircraft and assets",
+      "category": "conflict",
+      "region": "middle-east"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2321,
+    "totalSourcesUsed": 19,
+    "daysWithData": 5,
+    "categoryCounts": {
+      "conflict": 32,
+      "economy": 5,
+      "politics": 9,
+      "society": 4,
+      "environment": 1,
+      "science": 2
+    },
+    "regionCounts": {
+      "middle-east": 24,
+      "global": 3,
+      "asia-pacific": 4,
+      "americas": 6,
+      "africa": 9,
+      "europe": 7
+    }
+  }
+}

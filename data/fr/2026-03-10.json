@@ -1,0 +1,181 @@
+{
+  "date": "2026-03-10",
+  "summary": "La guerre entre Israël, États-Unis et Iran entre dans son onzième jour avec le refus iranien de toute négociation. Le ministre des Affaires étrangères iranien a rejeté la reprise des discussions nucléaires avec les États-Unis, malgré les déclarations de Donald Trump sur une fin prochaine du conflit. Les Gardiens de la Révolution affirment décider seuls de la fin des hostilités et poursuivre les attaques aussi longtemps que nécessaire. Cela fait suite à la désignation hier de Mojtaba Khamenei comme nouveau Guide suprême. Les cours du pétrole WTI ont chuté de 10 pour cent ce mardi, après avoir atteint 113,90 dollars le baril la veille, en réaction aux signaux de désescalade potentielle de Trump malgré la poursuite des hostilités.\n\nDonald Trump a menacé l'Iran de frappes beaucoup plus fortes en cas de blocage des flux pétroliers, au onzième jour de la guerre, pour dissuader Téhéran et stabiliser les marchés énergétiques. Par ailleurs, Trump a annoncé une enquête sur la frappe contre une école à Minab en Iran. Il avait initialement attribué l'attaque à l'Iran, mais un rapport du New York Times évoque un missile Tomahawk américain. L'Iran accuse des centaines de victimes parmi les élèves. Des attaques croisées persistent au Liban et aux Émirats arabes unis, succédant aux opérations israéliennes héliportées dans l'est du Liban et aux bombardements de Beyrouth sud hier.\n\nEn France, Yann Le Cun, ex-directeur IA de Meta, a levé 900 millions d’euros pour la start-up AMI, valorisée à 3 milliards d’euros, visant des applications d’IA au monde réel. Le gouvernement français a écarté un nouveau bouclier tarifaire face à la hausse récente du pétrole, malgré les pressions du Rassemblement national et de La France insoumise, en raison de l’absence de marge budgétaire après le précédent post-Ukraine. La guerre au Moyen-Orient reste en développement sans calendrier de fin, avec un impact continu sur les marchés énergétiques mondiaux.",
+  "headlines": [
+    {
+      "title": "Iran exclut négociations avec États-Unis et affirme poursuivre attaques aussi longtemps nécessaire",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "Libération",
+        "France Info",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Le ministre iranien des Affaires étrangères rejette toute reprise des discussions nucléaires avec les États-Unis malgré déclarations de Trump sur fin prochaine de la guerre. Les Gardiens de la Révolution affirment décider seuls de la fin du conflit. Cela prolonge l'escalade régionale et impacte les marchés énergétiques mondiaux.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/10/en-direct-guerre-au-moyen-orient-donald-trump-estime-que-la-guerre-en-iran-va-se-terminer-bientot-les-gardiens-de-la-revolution-disent-que-ce-sont-eux-qui-decideront_6669855_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec exclusion négociations iraniennes et bombardements israéliens au Liban",
+          "link": "https://www.lemonde.fr/international/live/2026/03/10/en-direct-guerre-au-moyen-orient-donald-trump-estime-que-la-guerre-en-iran-va-se-terminer-bientot-les-gardiens-de-la-revolution-disent-que-ce-sont-eux-qui-decideront_6669855_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Mentionne menaces Trump de frappes plus fortes et attaques iraniennes sur Émirats",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-israel-liban-frappes-emirats-arabes-unis-etats-unis-20260310"
+        },
+        {
+          "source": "Libération",
+          "angle": "Cite réponse iranienne à Trump et chute de 10% des cours du pétrole",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-se-dit-pret-a-se-battre-aussi-longtemps-que-necessaire-20260310_3UVAJ2AVC5BB7GIVFYCA7SQ5IM/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Cours du pétrole chutent de 10 pour cent après déclarations de Donald Trump",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Libération",
+        "France 24"
+      ],
+      "summary": "Les prix du pétrole reculent de 10% ce mardi suite aux propos de Trump indiquant une fin prochaine de la guerre. Cela suit une hausse précédente à 113,90 dollars le baril. Les marchés réagissent aux signaux de désescalade potentielle malgré poursuite des hostilités.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4205405-20260310-direct-guerre-iran-cours-petrole-redescendent-apres-annonces-trump?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Suit évolution cours pétrole après annonces Trump sur guerre en Iran",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4205405-20260310-direct-guerre-iran-cours-petrole-redescendent-apres-annonces-trump?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Libération",
+          "angle": "Associe baisse pétrole à réponse iranienne sur durée du conflit",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-se-dit-pret-a-se-battre-aussi-longtemps-que-necessaire-20260310_3UVAJ2AVC5BB7GIVFYCA7SQ5IM/"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump menace Iran de frappes beaucoup plus fortes en cas de blocage pétrole",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "20 Minutes"
+      ],
+      "summary": "Le président américain prévient Téhéran de frappes intensifiées si blocage des flux pétroliers, promettant victoire totale. Cela intervient au 11e jour de guerre. Les déclarations visent à dissuader l'Iran et stabiliser les marchés énergétiques mondiaux.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-israel-liban-frappes-emirats-arabes-unis-etats-unis-20260310",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Met en avant menaces Trump et attaques iraniennes sur Émirats arabes unis",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-israel-liban-frappes-emirats-arabes-unis-etats-unis-20260310"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump annonce enquête en cours sur frappe école à Minab en Iran",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Le Figaro"
+      ],
+      "summary": "Trump attribue initialement frappe école à Iran mais lance enquête après rapport New York Times sur missile Tomahawk américain. L'Iran accuse centaines de victimes élèves. Cela soulève questions sur responsabilités dans frappes alliées.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4205402-20260310-guerre-iran-victimes-tomahawk-sait-frappe-ecole-iranienne?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Détaille accusations iraniennes et déni initial de Trump",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4205402-20260310-guerre-iran-victimes-tomahawk-sait-frappe-ecole-iranienne?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Yann Le Cun lève 900 millions d’euros pour start-up IA AMI basée en France",
+      "source": "Le Monde",
+      "summary": "L’ex-directeur IA de Meta collecte 900 millions d’euros pour AMI valorisée 3 milliards, visant IA appliquée au monde réel. Cela renforce position France en IA et attire investissements étrangers dans tech européenne.",
+      "link": "https://www.lemonde.fr/economie/article/2026/03/10/intelligence-artificielle-yann-le-cun-leve-900-millions-d-euros-pour-sa-start-up-basee-en-france_6670181_3234.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Gouvernement français écarte instauration nouveau bouclier tarifaire face hausse pétrole",
+      "source": "Le Monde",
+      "summary": "Malgré pression RN et LFI, Paris refuse bouclier tarifaire supplémentaire dû à envolée pétrole, faute de marge budgétaire. Cela suit précédent coûteux post-Ukraine. Hausse carburants pèse sur inflation et pouvoir d’achat Français.",
+      "link": "https://www.lemonde.fr/economie/article/2026/03/10/la-france-sans-marge-de-man-uvre-budgetaire-face-a-l-envolee-du-petrole_6670165_3234.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Guerre Israël-États-Unis-Iran entre dans onzième jour avec refus négociations iranien",
+      "source": "RFI",
+      "summary": "Conflit atteint 11e jour consécutif avec Iran excluant négociations USA, baisse pétrole 10% et attaques croisées Liban-Émirats. Cela succède à 10e jour hier marqué par opérations israéliennes. Escalade persiste sans calendrier fin.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260310-en-direct-guerre-au-moyen-orient-des-n%C3%A9gociations-avec-les-%C3%A9tats-unis-plus-%C3%A0-l-ordre-du-jour-dit-l-iran",
+      "tier": "developing",
+      "dayNumber": 11,
+      "previousContext": "Iran refuse négociations avec États-Unis, cours pétrole chutent 10 pour cent, attaques iraniennes sur Émirats et israéliennes sur Liban",
+      "sources": [
+        "RFI"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 207,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 1,
+      "politics": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "global": 1,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 1
+    }
+  }
+}

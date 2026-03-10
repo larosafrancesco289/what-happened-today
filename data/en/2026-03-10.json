@@ -1,0 +1,191 @@
+{
+  "date": "2026-03-10",
+  "summary": "Iran launched missile attacks on the United Arab Emirates, Bahrain, and Saudi Arabia. Missiles prompted sirens in Dubai and Bahrain, while Saudi Arabia downed two drones. Five pro-Iran militants died in an Iraq airstrike. This follows Israel's strikes on Tehran oil depots yesterday. Gulf states report heightened risks, with more retaliation expected. The attacks escalate the regional war affecting global oil security.\n\nUS President Trump warned of massive strikes if Iran blocks the Strait of Hormuz, after Revolutionary Guards threatened to halt oil exports. Brent crude prices reached $101.19 per barrel yesterday amid the conflict. G7 finance ministers agreed to measures stabilizing oil prices over $100, including discussions on energy supply support and possible reserve releases. Kentucky Army Sgt. Benjamin Pennington, 26, died from wounds in a March 1 attack on a Saudi base, marking the seventh US casualty. The war drives up global energy and fertilizer prices, raising costs in nations like Pakistan and complicating inflation controls.\n\nIsrael allowed displaced Palestinians to stream back into northern Gaza after a hostage release deal. Rwanda-backed rebels overran Congolese troops and entered Goma, with gunfire and shelling displacing over one million into the aid hub. Human Rights Watch verified images of airburst munitions, identified as white phosphorus, over Yohmor in Lebanon on March 3, causing fires; Israel may investigate. NASA and SpaceX launched Crew-10 with astronauts McClain, Ayers, Onishi, and Peskov from Florida on Friday to retrieve Wilmore and Williams after nine months on the ISS. NATO mounted a coordinated response after another Baltic Sea deep-sea cable severance, increasing patrols on energy and data links.\"}",
+  "headlines": [
+    {
+      "title": "Iran launches missile attacks on UAE, Bahrain and Saudi Arabia",
+      "source": "AP",
+      "sources": [
+        "AP"
+      ],
+      "summary": "Iran fired missiles prompting sirens in Dubai and Bahrain while Saudi Arabia downed two drones; five pro-Iran militants died in Iraq airstrike. Gulf states face heightened risks; more retaliation expected. Escalates regional war impacting global oil security.",
+      "link": "https://apnews.com/article/iran-israel-us-march-10-2026-acf2af139d179fbef62927a8bf9bea55",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US President Trump threatens Iran with massive strikes over Hormuz blockade",
+      "source": "France24",
+      "sources": [
+        "France24",
+        "Deutsche Welle"
+      ],
+      "summary": "Trump warns of harder US hits if Iran blocks Strait of Hormuz oil flow following Revolutionary Guards threat to halt exports. Global trade and energy markets affected; potential for wider conflict rises. Threatens further economic disruption worldwide.",
+      "link": "https://www.france24.com/en/middle-east/20260310-middle-east-war-live-trump-us-strikes-iiran-oil-strait-of-hormuz",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France24",
+          "angle": "Liveblog covers Trump warning and Iran Guards oil export threat amid ongoing war",
+          "link": "https://www.france24.com/en/middle-east/20260310-middle-east-war-live-trump-us-strikes-iiran-oil-strait-of-hormuz"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Highlights Trump twenty-times harder strike threat plus Iranian footballers asylum in Australia",
+          "link": "https://www.dw.com/en/iran-war-us-to-hit-twenty-times-harder-if-oil-flow-stops/live-76284477?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Kentucky Army Sgt. Benjamin Pennington dies as seventh US casualty in Iran war",
+      "source": "AP",
+      "sources": [
+        "AP"
+      ],
+      "summary": "26-year-old Sgt. Pennington succumbed to wounds from March 1 attack on Saudi base. US military families and forces impacted; investigations continue. Raises toll in expanding conflict pressuring US strategy.",
+      "link": "https://apnews.com/article/iran-war-us-military-soldier-died-40535c69cd3b8451e0926e808c3df43c",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran war drives up global energy and fertilizer prices",
+      "source": "AP",
+      "sources": [
+        "AP"
+      ],
+      "summary": "Conflict spikes costs threatening food shortages in poor nations like Pakistan and complicating central bank inflation fights. Consumers worldwide face higher bills; G7 weighs interventions. Undermines economic recovery efforts.",
+      "link": "https://apnews.com/article/iran-war-trump-economy-oil-gas-66806b02a000235f1979e591279b6554",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Human Rights Watch accuses Israel of white phosphorus use over Lebanon town",
+      "source": "France24",
+      "sources": [
+        "France24"
+      ],
+      "summary": "HRW verified images of airburst munitions over Yohmor homes on March 3 causing fires. Lebanese civilians and responders affected; Israel may investigate claims. Fuels war crimes debates in multi-front conflict.",
+      "link": "https://www.france24.com/en/middle-east/20260309-hrw-accuses-israel-white-phosphorus-lebanon",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX launch four astronauts to retrieve stuck ISS crew",
+      "source": "Voice of America",
+      "sources": [
+        "Voice of America"
+      ],
+      "summary": "Crew-10 including McClain, Ayers, Onishi and Peskov lifted off Friday from Florida reaching station Saturday. Wilmore and Williams return after nine months; routine rotations resume. Boosts US space program reliability.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "G7 finance ministers agree to measures stabilizing oil prices over $100",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "summary": "Ministers and IEA discuss supporting energy supplies amid surge. Global consumers and economies hit by volatility; releases from reserves possible. Counters Iran war disruptions to markets.",
+      "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel allows Palestinians to stream back into northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Displaced residents cross military zone bisecting enclave after hostage release breakthrough. Northern Gaza population affected; rebuilding efforts begin. Eases humanitarian strains post-deal.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel permits crossing of military zone after deadlock broken on hostages",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun Goma troops entering safe-haven city",
+      "source": "Wall Street Journal",
+      "summary": "Gunfire and shelling displace over one million into city aid hub. Congolese forces and residents impacted; UN aids refugees. Heightens eastern Congo instability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels advance past troops with reports of gunfire and one million-plus inside city",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NATO mounts coordinated response to Baltic Sea deep-sea cable sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance acts after another cable severed in suspected campaign against infrastructure. European energy and data links threatened; patrols increase. Signals heightened alliance vigilance.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Additional cable cut prompts first NATO-led infrastructure protection measures",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 479,
+    "articlesAfterDedup": 477,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 2,
+      "economy": 2,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 1,
+      "global": 3,
+      "africa": 1,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 3
+    }
+  }
+}

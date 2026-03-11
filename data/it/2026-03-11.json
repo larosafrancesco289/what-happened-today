@@ -1,0 +1,222 @@
+{
+  "date": "2026-03-11",
+  "summary": "L'Iran ha lanciato missili balistici su basi militari americane in Iraq e Bahrein nel dodicesimo giorno di conflitto. L'Arabia Saudita ha abbattuto sei missili balistici mentre esplosioni hanno attivato sirene d'allarme a Tel Aviv. Le forze israeliane hanno condotto intensi attacchi aerei su Teheran, con il primo ministro Netanyahu che ha dichiarato che le operazioni continuano. Immagini satellitari mostrano danni alle basi aeree iraniane di Isfahan, Korghu e Kerman dopo attacchi Usa. L'Iran ha minacciato il presidente Trump di cancellazione totale. Questo fa seguito ai lanci iraniani sugli Emirati Arabi Uniti ieri.\n\nI servizi segreti Usa hanno rilevato mine posate dai Pasdaran nello Stretto di Hormuz, che trasporta il 20% del petrolio mondiale. Trump ha esatto la rimozione immediata e minacciato conseguenze gravi. Il primo ministro britannico Starmer ha consultato la premier italiana Meloni e il cancelliere tedesco Merz per scorte navali europee. Netanyahu ha ribadito che il lavoro contro l'Iran non è finito, frenando aperture al dialogo mentre persistono i raid aerei.\n\nIl governo italiano ha convocato per venerdì il Consiglio supremo di difesa per discutere l'invio del sistema missilistico Samp/T agli Emirati Arabi Uniti; il ministro Tajani ha confermato aiuto anche al Kuwait. In Svizzera, la polizia indaga su un bus turistico carbonizzato con sei morti, con testimone che descrive un uomo che si dà fuoco e pista dolosa in esame. Intercettazioni rivelano che il governatore ligure Toti ha ammesso di aver aumentato i dati sui contagi Covid. Il Consiglio dei ministri ha inserito la maternità surrogata tra i reati di tratta di esseri umani e posticipato 2,8 miliardi di euro per il Ponte sullo Stretto.",
+  "headlines": [
+    {
+      "title": "Iran lancia missili su basi Usa in Iraq e Bahrein. Arabia Saudita abbatte sei balistici",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "L'Iran colpisce basi militari americane in Iraq e Bahrein con missili balistici. L'Arabia Saudita ne abbatte sei mentre esplosioni provocano sirene d'allarme a Tel Aviv. L'escalation nel dodicesimo giorno di conflitto minaccia la stabilità del Medio Oriente e i traffici petroliferi.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-11-marzo_109854373-202602k.shtml",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta attacchi su basi Usa e abbattimenti sauditi con sirene a Tel Aviv",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-11-marzo_109854373-202602k.shtml"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Intelligence Usa rileva mine iraniane nello Stretto di Hormuz. Trump esige rimozione",
+      "source": "la Repubblica",
+      "sources": [
+        "ANSA",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "I servizi segreti americani confermano mine posate dai Pasdaran nello Stretto di Hormuz. Trump minaccia conseguenze gravi mentre Starmer consulta Meloni e Merz per scorte navali europee. La mossa iraniana rischia di bloccare il 20% del petrolio mondiale.",
+      "link": "https://www.repubblica.it/esteri/2026/03/11/news/allarme_mine_navi_europee_stretto_hormuz_consultazioni-425213269/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Menziona mine iraniane e giallo su petroliera scortata da Usa",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/10/netanyahu-il-lavoro-non-e-finito.-teheran-minaccia-trump_9e277383-9f0f-4dff-8bcc-33e4ad3a0eb8.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive allarme Usa e consultazioni Starmer con Roma e Berlino per scorte",
+          "link": "https://www.repubblica.it/esteri/2026/03/11/news/allarme_mine_navi_europee_stretto_hormuz_consultazioni-425213269/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Cita 007 Usa su intento iraniano e richiesta Trump di rimozione mine",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-10-marzo_109823225-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Forze israeliane lanciano vasta ondata di attacchi su Teheran",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "la Repubblica"
+      ],
+      "summary": "L'Idf annuncia intensi blitz aerei contro Teheran mentre Netanyahu avverte che il lavoro non è finito. Sirene d'allarme risuonano a Tel Aviv. L'operazione prolunga il conflitto mirando a indebolire le capacità iraniane.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-10-marzo_109823225-202602k.shtml",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Apre con annuncio Idf su ondata attacchi e sirene Tel Aviv",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-10-marzo_109823225-202602k.shtml"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta blitz più intensi su Iran con freno Netanyahu",
+          "link": "https://www.repubblica.it/esteri/2026/03/11/news/blitz_iran_trump_apre_dialogo_netanyahu_frena-425213282/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Immagini satellitari mostrano basi aeree iraniane danneggiate a Isfahan Korghu Kerman",
+      "source": "Rai News",
+      "summary": "Foto satellitari rivelano distruzioni alle basi di Isfahan, Korghu e Kerman prima e dopo attacchi Usa. Le immagini confermano impatti significativi sulle infrastrutture militari iraniane nel dodicesimo giorno di ostilità.",
+      "link": "https://www.rainews.it/video/2026/03/le-immagini-satellitari-mostrano-prima-e-dopo-gli-attacchi-alliran-18882c7c-bea2-4e34-9686-c79189bf9d75.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Netanyahu avverte che il lavoro contro l'Iran non è finito",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "la Repubblica"
+      ],
+      "summary": "Il premier israeliano Netanyahu dichiara che le operazioni contro Teheran continuano. L'Iran minaccia Trump di cancellazione totale. La posizione frena aperture al dialogo mentre persistono i raid aerei.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/10/netanyahu-il-lavoro-non-e-finito.-teheran-minaccia-trump_9e277383-9f0f-4dff-8bcc-33e4ad3a0eb8.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Apre con dichiarazione Netanyahu e minaccia iraniana a Trump",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/10/netanyahu-il-lavoro-non-e-finito.-teheran-minaccia-trump_9e277383-9f0f-4dff-8bcc-33e4ad3a0eb8.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Evidenzia freno Netanyahu a dialogo Usa",
+          "link": "https://www.repubblica.it/esteri/2026/03/11/news/blitz_iran_trump_apre_dialogo_netanyahu_frena-425213282/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo italiano valuta invio Samp/T agli Emirati per Consiglio supremo difesa",
+      "source": "Il Sole 24 Ore",
+      "summary": "Venerdì riunione del Consiglio supremo di difesa discute invio del sistema missilistico Samp/T agli Emirati. Tajani conferma aiuto anche al Kuwait. La misura risponde alla crisi nel Golfo.",
+      "link": "https://www.ilsole24ore.com/art/crisi-iran-venerdi-riunione-consiglio-supremo-difesa-tavolo-anche-l-invio-sampt-emirati-AILXGQsB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Polizia svizzera indaga su rogo bus con sei morti e pista dolosa",
+      "source": "Rai News",
+      "summary": "Un bus turistico carbonizzato in Svizzera causa sei morti. Testimone descrive uomo che si dà fuoco. Le autorità non escludono atto volontario mentre proseguono accertamenti.",
+      "link": "https://www.rainews.it/video/2026/03/svizzera-il-bus-carbonizzato-dopo-il-rogo-che-ha-causato-sei-morti-1117baf2-fb79-4735-b7b3-f3bad9d1601b.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm pubblicano intercettazioni Toti ammette aumento dati contagi Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Intercettazioni rivelano governatore Toti dire al capo gabinetto di aver aumentato numeri contagi. L'inchiesta su manipolazione dati della pandemia avanza con nuove prove.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pm diffondono intercettazioni in cui Toti confessa di aver truccato i dati sui contagi",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo inserisce maternità surrogata tra reati di tratta nel Codice penale",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il Consiglio dei ministri amplia reati antitratta includendo maternità surrogata. La stretta mira a contrastare sfruttamento esseri umani con pene più severe.",
+      "link": "https://www.ilsole24ore.com/art/stretta-antitratta-governo-maternita-surrogata-entra-codice-penale-integrare-reati-AIqiAasB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cdm approva decreto: slittano 2,8 miliardi euro per Ponte sullo Stretto",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il Consiglio dei ministri posticipa 2,8 miliardi per il Ponte sullo Stretto. Salvini rinuncia a fissare scadenze per avvio lavori dopo limature tecniche.",
+      "link": "https://www.ilsole24ore.com/art/ponte-stretto-slittano-28-miliardi-euro-salvini-sull-avvio-lavori-non-do-piu-scadenze-AIZTTusB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 228,
+    "articlesAfterDedup": 228,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 16,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 5,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "europe": 5
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "date": "2026-03-11",
+  "summary": "U.S. forces destroyed 16 Iranian mine-laying vessels near the Strait of Hormuz, a key oil shipping route. The strikes wounded 140 American service members, including eight severely. Iran responded by vowing a full oil export blockade. This escalates the 11-day war, following Iran's missile attacks on UAE, Bahrain, and Saudi Arabia and U.S. President Trump's threats of massive retaliation over the Hormuz blockade. Global energy markets face continued pressure from disrupted supplies.\n\nIsrael intercepted Iranian missiles targeting the country while Iran's Revolutionary Guards struck Israeli and U.S. sites, injuring civilians near Tel Aviv. The exchange follows Human Rights Watch accusations of Israel's white phosphorus use over a Lebanon town. Iran's new Supreme Leader inherited his father's National Security Office, a secretive body expanded into a major security apparatus, amid the U.S. strikes and ongoing war. Senate Democrats demanded public hearings on the Trump Administration's Iran war timeline and objectives, targeting Congress and voters as U.S. casualties rise to at least seven.\n\nEU leaders debated adherence to global rules amid the Iran conflict, with national officials differing on responses. NATO launched coordinated patrols after a second Baltic Sea undersea cable was severed, protecting critical infrastructure. Rwanda-backed rebels entered Goma in Congo, displacing over one million residents and worsening the humanitarian crisis. Four suspects in the 2021 assassination of Haiti President Jovenel Moise appeared in a U.S. court in South Florida. U.S. Immigration and Customs Enforcement detention centers recorded 23 deaths since October from overcrowding and poor health care. Palestinians crossed into northern Gaza after a hostage release deadlock broke, affecting hundreds of thousands of displaced people.\n\"}",
+  "headlines": [
+    {
+      "title": "U.S. Military Strikes 16 Iranian Mine-Laying Vessels Near Strait of Hormuz",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "France 24"
+      ],
+      "summary": "The U.S. destroyed 16 Iranian vessels laying mines near key oil routes, with 140 American service members wounded including eight severely. Iran vows oil export blockade. This escalates the 11-day war, threatening global energy supplies and markets.",
+      "link": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Focused on U.S. strike details, unclear mine-laying status and casualty figures",
+          "link": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel"
+        },
+        {
+          "source": "France 24",
+          "angle": "Highlighted war intensification, civilian casualties and oil export threats",
+          "link": "https://www.france24.com/en/middle-east/20260311-us-strikes-iranian-mine-laying-vessels-as-middle-east-war-intensifies"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Activates Air Defenses Against Iranian Missile Salvoes Across Middle East",
+      "source": "France 24",
+      "summary": "Israel intercepted Iranian missiles while Revolutionary Guards hit Israeli and U.S. sites, injuring civilians near Tel Aviv. The exchange widens regional conflict. Ongoing strikes risk broader escalation involving Gulf states and Lebanon.",
+      "link": "https://www.france24.com/en/middle-east/20260311-israel-and-iran-exchange-strikes-as-missile-threats-escalate",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran's New Supreme Leader Inherits Father's Secretive National Security Office",
+      "source": "New York Times",
+      "summary": "The successor to Ayatollah Ali Khamenei takes control of a powerful office expanded into a security juggernaut. This shift occurs amid U.S. strikes and war. It affects Iran's war strategy and internal power dynamics.",
+      "link": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Senate Democrats Demand Public Hearings on Trump Administration's Iran War Plans",
+      "source": "NPR",
+      "summary": "Democrats pressure for transparency on war timeline and objectives from administration officials. This targets U.S. voters and Congress amid rising casualties. Hearings could influence policy and public support.",
+      "link": "https://www.npr.org/2026/03/10/g-s1-113167/democrats-iran-trump",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Immigration Detention Centers Record 23 Deaths in Fiscal Year to Date",
+      "source": "NPR",
+      "summary": "Twenty-three people died in ICE custody since October due to overcrowding and poor health care. Advocates warn of risks to migrants. Reforms may follow scrutiny, affecting U.S. immigration policy.",
+      "link": "https://www.npr.org/2026/03/10/g-s1-111238/immigration-detention-deaths-custody",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Suspects in 2021 Haiti President Assassination Face Trial in U.S. Court",
+      "source": "New York Times",
+      "summary": "Four men accused of plotting Jovenel Moise's killing appear in South Florida court. Haiti's chaos persists post-assassination. Verdicts could aid stability efforts in the region.",
+      "link": "https://www.nytimes.com/2026/03/10/world/americas/haiti-president-murder-assassination-trial-miami-florida.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "EU Leaders Clash Over Adherence to Global Rules Amid Iran War Tensions",
+      "source": "South China Morning Post",
+      "summary": "European officials debate if international norms bind the bloc during the Iran conflict. National leaders spar over responses. This divides Europe, impacting alliances and war diplomacy.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3346188/might-makes-right-rules-based-order-trial-europe-iran-war-deepens-divide?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches Coordinated Response After Second Baltic Sea Cable Severed",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Alliance activates first joint operation following additional suspected sabotage incident",
+      "summary": "NATO responds to campaign targeting undersea cables with coordinated patrols. Critical infrastructure at risk affects Europe. Further investigations and defenses expected.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma Displacing Over One Million Residents",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels overrun troops and advance into city with gunfire and shelling",
+      "summary": "Rebels seize Congo safe-haven city, trapping 1M displaced amid fighting. U.N. aids civilians. Humanitarian crisis worsens, potential for wider conflict grows.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians Return to Northern Gaza After Hostage Release Deadlock Breaks",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel permits crossings following agreement on hostages",
+      "summary": "Displaced Gazans cross military zone into north post-breakthrough. Affects hundreds of thousands. Ceasefire talks may progress, easing enclave divisions.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 454,
+    "articlesAfterDedup": 453,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 3,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 3,
+      "europe": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 3
+    }
+  }
+}

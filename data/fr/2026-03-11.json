@@ -1,0 +1,227 @@
+{
+  "date": "2026-03-11",
+  "summary": "L'Iran affirme avoir lancé sa vague de frappes la plus lourde depuis le début du conflit, au 12e jour de la guerre. Ces attaques ont touché un champ pétrolier saoudien et un navire dans le détroit d'Ormuz, visant des cibles américaines et israéliennes. Israël a répondu par des frappes contre des infrastructures du Hezbollah à Beyrouth. Les deux parties poursuivent les opérations ; une extension du conflit au Liban est observée.\n\nL'Agence internationale de l'énergie propose de puiser dans les réserves stratégiques de pétrole pour stabiliser les prix mondiaux, en hausse suite aux perturbations d'approvisionnement. Cela fait suite à une chute de 10 % des cours la veille après des déclarations de Donald Trump. Bahreïn et l'Iran dénoncent des attaques contre des usines de dessalement d'eau potable, endommageant la production vitale dans une région où plus de la moitié de la population subit un stress hydrique. Des coups de feu ont visé le consulat américain à Toronto, au Canada ; la police enquête dans le contexte des tensions liées à la guerre au Moyen-Orient.\n\nÀ Nairobi, au Kenya, des inondations ont causé 49 morts et des dégâts importants ; le gouverneur critique l'indiscipline des habitants, tandis que les autorités gèrent les tensions dans la capitale. Un incendie d'autocar à Chiètres, en Suisse, a tué 6 personnes et blessé 5 autres, dont 3 grièvement ; une enquête détermine les causes. À Paris, 27 pays appellent à accélérer les investissements nucléaires pour tripler les capacités d'ici 2050, lors d'un sommet. Greenpeace estime le coût du plan français entre 380 et 650 milliards d'euros jusqu'en 2050, contestant la viabilité économique.",
+  "headlines": [
+    {
+      "title": "Iran revendique frappes les plus violentes contre cibles américaines et israéliennes",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "RFI",
+        "Liberation"
+      ],
+      "summary": "L'Iran affirme avoir lancé la vague de frappes la plus lourde depuis le début de la guerre au 12e jour du conflit, touchant un champ pétrolier saoudien et un navire dans le détroit d'Ormuz. Cela intensifie les tensions régionales et affecte les prix du pétrole, menaçant l'approvisionnement mondial.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/11/en-direct-guerre-au-moyen-orient-l-iran-affirme-avoir-mene-l-attaque-la-plus-violente-et-la-plus-lourde-depuis-le-debut-de-la-guerre_6669855_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Iran affirme attaque la plus violente et lourde depuis début guerre ; Israël frappe Hezbollah à Beyrouth",
+          "link": "https://www.lemonde.fr/international/live/2026/03/11/en-direct-guerre-au-moyen-orient-l-iran-affirme-avoir-mene-l-attaque-la-plus-violente-et-la-plus-lourde-depuis-le-debut-de-la-guerre_6669855_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Iran revendique frappes grande ampleur au 12e jour ; AIE propose réserves pétrole",
+          "link": "https://www.france24.com/fr/moyen-orient/20260311-en-direct-guerre-au-moyen-orient-iran-revendique-frappes-grande-ampleur-israel-etats-unis-golfe-petrole"
+        },
+        {
+          "source": "RFI",
+          "angle": "Israël frappe centre Beyrouth ; ministre US annonce jour intense de frappes",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260311-en-direct-guerre-au-moyen-orient-nouvelle-frappe-isra%C3%A9lienne-sur-le-centre-de-beyrouth"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Iran lance vague frappes violente ; champ pétrolier saoudien et navire Ormuz ciblés",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-un-champ-petrolier-en-arabie-saoudite-et-un-navire-dans-le-detroit-dormuz-cibles-20260311_7K4ROW7DSJGJLATJXEJUQDTYWM/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israël mène frappes contre infrastructures Hezbollah à Beyrouth",
+      "source": "RFI",
+      "sources": [
+        "Le Monde",
+        "RFI"
+      ],
+      "summary": "L'armée israélienne cible des infrastructures du Hezbollah dans la capitale libanaise au 12e jour de la guerre. Cela s'inscrit dans l'escalade du conflit avec l'Iran et ses alliés, risquant d'élargir le front nord pour Israël.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260311-en-direct-guerre-au-moyen-orient-nouvelle-frappe-isra%C3%A9lienne-sur-le-centre-de-beyrouth",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Armée israélienne commence frappes contre infrastructures Hezbollah à Beyrouth",
+          "link": "https://www.lemonde.fr/international/live/2026/03/11/en-direct-guerre-au-moyen-orient-l-iran-affirme-avoir-mene-l-attaque-la-plus-violente-et-la-plus-lourde-depuis-le-debut-de-la-guerre_6669855_3210.html"
+        },
+        {
+          "source": "RFI",
+          "angle": "Nouvelle frappe israélienne sur centre Beyrouth au matin du 11 mars",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260311-en-direct-guerre-au-moyen-orient-nouvelle-frappe-isra%C3%A9lienne-sur-le-centre-de-beyrouth"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Agence internationale énergie propose puiser réserves stratégiques pétrole",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Liberation"
+      ],
+      "summary": "Face à la flambée des prix due à la guerre, l'AIE suggère de débloquer les réserves pour stabiliser le marché mondial. Cela vise à atténuer l'impact économique sur les consommateurs et industries dépendantes du pétrole.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260311-en-direct-guerre-au-moyen-orient-iran-revendique-frappes-grande-ampleur-israel-etats-unis-golfe-petrole",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "AIE propose puiser réserves stratégiques pétrole pour stabiliser marché",
+          "link": "https://www.france24.com/fr/moyen-orient/20260311-en-direct-guerre-au-moyen-orient-iran-revendique-frappes-grande-ampleur-israel-etats-unis-golfe-petrole"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Réserves stratégiques pourraient débloquer pour baisser prix pétrole",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-un-champ-petrolier-en-arabie-saoudite-et-un-navire-dans-le-detroit-dormuz-cibles-20260311_7K4ROW7DSJGJLATJXEJUQDTYWM/"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Bahreïn et Iran dénoncent attaques endommageant usines dessalement eau potable",
+      "source": "France Info",
+      "summary": "Des attaques visent des usines cruciales dans une région où plus de moitié population subit stress hydrique. Cela menace production vitale d'eau, aggravant vulnérabilités sanitaires et humanitaires au Moyen-Orient.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/si-vous-ciblez-une-usine-de-dessalement-ca-va-tres-vite-au-moyen-orient-la-guerre-menace-la-production-vitale-d-eau-potable_7857929.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Colère monte à Nairobi après inondations causant 49 morts",
+      "source": "RFI",
+      "summary": "Autorités kenyanes critiquées pour gestion inondations à Nairobi faisant 49 morts et dégâts importants. Gouverneur invoque indiscipline habitants ; tensions risquent d'affecter stabilité capitale.",
+      "link": "https://www.rfi.fr/fr/afrique/20260311-kenya-la-col%C3%A8re-monte-%C3%A0-nairobi-apr%C3%A8s-les-inondations-meurtri%C3%A8res-qui-ont-touch%C3%A9-le-pays",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Incendie autocar à Chiètres en Suisse tue 6 personnes",
+      "source": "RTBF",
+      "summary": "Six morts et cinq blessés dont trois graves dans incendie d'autocar mardi soir en Suisse. Enquête en cours détermine causes ; impact sur sécurité transports routiers européens.",
+      "link": "https://www.rtbf.be/article/incendie-d-un-autocar-en-suisse-plusieurs-morts-et-blesses-11692414",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Coups de feu visent consulat américain à Toronto au Canada",
+      "source": "20 Minutes",
+      "summary": "Attaque armée mardi contre consulat US à Toronto dans contexte tensions guerre Iran. Police enquête ; renforce alertes sécuritaires dans pays alliés face risques inspirés conflit.",
+      "link": "https://www.20minutes.fr/monde/canada/4205568-20260310-canada-coups-feu-eclatent-devant-consulat-americain-toronto?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "27 pays appellent accélérer investissements nucléaire tripler capacités 2050",
+      "source": "France 24",
+      "summary": "Sommet nucléaire Paris réunit 27 pays soutenant objectif COP28. Emmanuel Macron défend rôle civil ; booste transition énergétique face défis climatiques et dépendance fossiles.",
+      "link": "https://www.france24.com/fr/france/20260310-sommet-du-nucleaire-paris-27-pays-appellent-acclerer-investissements-publics-prives-macron",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Guerre Moyen-Orient entre dans douzième jour avec escalade frappes",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "RFI",
+        "Le Figaro"
+      ],
+      "summary": "Au 12e jour, Iran mène frappes massives et Israël cible Beyrouth. Conflit s'étend affectant Liban et alliés ; Lecornu réunit partis français sur menace et position Paris.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-donald-trump-israel-liban-etats-unis-hezbollah-benyamin-netanyahou-20260311",
+      "tier": "developing",
+      "dayNumber": 12,
+      "previousContext": "Iran revendique vague frappes la plus violente depuis début ; Israël frappe centre Beyrouth et Hezbollah",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Greenpeace estime coût relance nucléaire Macron entre 380 et 650 milliards d'euros",
+      "source": "Liberation",
+      "summary": "ONG chiffre facture EPR et usines cycle combustible jusqu'en 2050. Conteste projet gouvernemental au jour anniversaire Fukushima ; alimente débat sur viabilité économique énergie nucléaire.",
+      "link": "https://www.liberation.fr/economie/greenpeace-chiffre-entre-380-et-650-milliards-le-cout-de-la-relance-du-nucleaire-voulue-par-macron-20260311_62IBNWNFXVDANAL6CPLF2TKEZQ/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 212,
+    "articlesAfterDedup": 212,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "economy": 1,
+      "environment": 3,
+      "politics": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "global": 3,
+      "africa": 1,
+      "europe": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

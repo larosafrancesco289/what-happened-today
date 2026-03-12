@@ -1,0 +1,176 @@
+{
+  "date": "2026-03-12",
+  "summary": "Iran war effectively closes Strait of Hormuz, the key Persian Gulf passage for 20% of world oil shipments. Gasoline prices rise worldwide. Governments draft plans to reopen the strait after fighting ends. Consumers and economies face higher energy costs and supply risks. This follows U.S. military strikes on 16 Iranian mine-laying vessels near the strait.\n\nAn Israeli strike killed seven people on central Beirut seafront early Thursday as Hezbollah fired missiles at Israel. Explosions damaged two oil tankers in the Persian Gulf off Iraq, killing one crew member and affecting global shipping lanes; further strikes expected. Pentagon officials reported $11.3 billion in U.S. costs for the first six days of airstrikes against Iran, excluding prior buildup expenses. Oil prices surged past $100 per barrel amid strikes on Beirut and Tehran.\n\nOver 45 Democratic senators demanded details from the Trump administration on evidence linking the U.S. to a February 28 strike on Minab elementary school in Iran that killed 165, mostly children. In eastern Congo, Rwanda-backed rebels overran Congolese troops and entered Goma with gunfire and shelling; United Nations counts over one million displaced in the city, threatening the aid hub. NASA and SpaceX launched four astronauts on a Falcon 9 from Kennedy Space Center to retrieve Butch Wilmore and Suni Williams after nine months on the International Space Station; docking set for Saturday. A U.S. appeals court lifted a block on Trump executive orders halting federal diversity, equity and inclusion programs. Flash floods and landslides from heavy rains killed 30 in Gamo Zone highlands of southern Ethiopia. Rapid Support Forces drone attack killed 17 including students in Sudan White Nile State. Displaced Palestinians crossed a bisecting military zone to return to northern Gaza on foot.\"}",
+  "headlines": [
+    {
+      "title": "Israeli Strike Kills Seven People on Central Beirut Seafront Amid Gulf Tanker Explosions",
+      "source": "France 24",
+      "summary": "Lebanon reports an Israeli strike kills seven on Beirut seafront early Thursday as Hezbollah fires missiles at Israel. Explosions hit two oil tankers in Persian Gulf off Iraq, killing one. Affects Lebanese civilians and global shipping lanes; further strikes expected in escalating war.",
+      "link": "https://www.france24.com/en/middle-east/20260312-middle-east-war-live-israel-lebanon-iran-gulf",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran War Blocks Strait of Hormuz Disrupting Global Oil and Gas Shipments",
+      "source": "Associated Press",
+      "summary": "Iran war effectively closes Strait of Hormuz, key Persian Gulf passage for 20% of world oil, driving up gasoline prices. Governments draft reopening plans post-fighting. Impacts consumers and economies worldwide with higher energy costs and supply risks.",
+      "link": "https://apnews.com/article/iran-war-hormuz-oil-shipping-49a1901c35cf2507830776a29706cf98",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagon Reports $11.3 Billion U.S. Cost in First Six Days of Iran War",
+      "source": "New York Times",
+      "summary": "Defense officials inform Congress first six days of airstrikes against Iran cost $11.3 billion excluding buildup expenses. Oil surges past $100 per barrel amid Beirut and Tehran strikes. Signals heavy taxpayer burden as conflict persists with uncertain duration.",
+      "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Four Astronauts to Retrieve Crew Stuck on Space Station",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries Crew-10 including NASA, JAXA and Roscosmos astronauts from Kennedy Space Center to relieve and return Butch Wilmore and Suni Williams after nine months. Docks Saturday for routine rotation. Ensures continuous ISS research and operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Over 45 Democratic Senators Demand Answers on U.S. Involvement in Iran School Strike",
+      "source": "Associated Press",
+      "summary": "Dozens of Democratic senators press Trump administration for details on evidence linking U.S. to February 28 strike killing 165 at Minab elementary school, mostly children. Seeks Defense Secretary response. Highlights civilian casualty accountability in war.",
+      "link": "https://apnews.com/article/iran-us-school-hegseth-trump-2ffff06808f7a584b0a03831897ab0b8",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. Appeals Court Allows Trump Administration to Enforce DEI Program Crackdown",
+      "source": "Voice of America",
+      "summary": "Fourth Circuit panel lifts block on Trump executive orders halting federal diversity, equity and inclusion initiatives, ruling them likely constitutional. Overrides Maryland judge. Affects government workers and ends DEI support across agencies.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Flash Floods and Landslides Kill 30 in Southern Ethiopia Gamo Zone Highlands",
+      "source": "AllAfrica",
+      "summary": "Heavy rains trigger landslides and floods in Gamo Zone, South Ethiopia Regional State, killing 30 per local authorities. Impacts highland residents and agriculture. Response efforts underway; highlights climate risks in vulnerable areas.",
+      "link": "https://allafrica.com/stories/202603120109.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "RSF Drone Attack Kills 17 Including Students in Sudan White Nile State",
+      "source": "Al Jazeera English",
+      "summary": "Rapid Support Forces drone strike kills 17 with students among dead in White Nile State, per Sudanese Doctors Network calling it a horrific crime. Affects civilians in ongoing civil war. Likely prompts investigations and international condemnation.",
+      "link": "https://www.aljazeera.com/news/2026/3/12/students-among-17-dead-in-rsf-drone-attack-in-sudans-white-nile-state?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Displaced Palestinians Cross Military Zone to Return to Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel allows Gazans to cross bisecting military zone after hostage release deadlock ends, enabling returns on foot. Affects displaced families seeking homes. Supports potential reconstruction but tensions persist.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel opens crossing of military zone bisecting enclave post-hostage breakthrough",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Congo Safe-Haven City Goma",
+      "source": "Wall Street Journal",
+      "summary": "Rebels enter Goma with gunfire and shelling after defeating Congolese forces; U.N. counts over one million displaced inside city. Threatens aid hub in eastern Congo. Exacerbates humanitarian crisis for refugees.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels overrun troops triggering gunfire and shelling inside city limits",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 464,
+    "articlesAfterDedup": 464,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "economy": 1,
+      "science": 1,
+      "politics": 2,
+      "environment": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "global": 2,
+      "americas": 2,
+      "africa": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

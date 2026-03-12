@@ -1,0 +1,206 @@
+{
+  "date": "2026-03-12",
+  "summary": "L'armée israélienne a mené des frappes mercredi soir sur la banlieue sud de Beyrouth, tuant huit personnes selon le ministère libanais de la Santé. Ceci fait suite aux frappes israéliennes du jour précédent contre des infrastructures du Hezbollah dans la même zone. Le conflit régional entre Israël, le Liban et l'Iran entre dans son 13e jour. Emmanuel Macron a exhorté Israël à renoncer à une offensive terrestre au Liban. Une réponse du Hezbollah est attendue.\n\nLe baril de Brent a dépassé 100 dollars mercredi, au 13e jour du conflit, malgré la libération par l'Agence internationale de l'énergie de 400 millions de barils de réserves stratégiques par 32 pays membres. Cette mesure vise à stabiliser les prix mondiaux de l'énergie. Donald Trump, président américain, a déclaré que l'Iran est proche de la défaite dans la guerre au Moyen-Orient, tandis que Téhéran prépare une guerre d'usure. Une enquête de l'armée américaine confirme la responsabilité des États-Unis dans la frappe du 28 février sur une école à Minjab, sud de l'Iran, ayant tué plus de 150 personnes.\n\nKirill Dmitriev, émissaire de Vladimir Poutine, a annoncé une rencontre productive avec des négociateurs américains en Floride sur des projets russo-américains et la crise énergétique, au milieu du conflit en Ukraine. Donald Trump a relancé une procédure de nouveaux droits de douane contre la Chine, l'Union européenne, le Japon, l'Inde et le Mexique via des enquêtes sous la loi de 1974, après une annulation partielle par la Cour suprême. L'armée malienne a tué sept civils dans une zone frontalière avec la Mauritanie et le Sénégal, selon des sources locales ; les autorités maliennes n'ont pas réagi. Une analyse de vidéosurveillance montre que l'incendie du sous-sol d'un bar à Crans-Montana, en Suisse, s'est propagé en 92 secondes le soir du Nouvel An, causant 41 morts et 115 blessés.",
+  "headlines": [
+    {
+      "title": "Israël mène frappes à grande échelle sur banlieue sud Beyrouth tuant huit personnes",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Libération",
+        "France 24",
+        "Le Figaro"
+      ],
+      "summary": "L'armée israélienne a frappé mercredi soir la banlieue sud de Beyrouth, causant huit morts selon le ministère libanais de la Santé. Emmanuel Macron exhorte Israël à renoncer à une offensive terrestre au Liban. Cela intensifie le conflit régional au 13e jour.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/12/en-direct-guerre-au-moyen-orient-plusieurs-morts-au-liban-dans-des-frappes-israeliennes-emmanuel-macron-exhorte-de-nouveau-israel-a-renoncer-a-une-offensive-terrestre_6669855_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec huit morts dans frappe sur Beyrouth et appel Macron à désescalade",
+          "link": "https://www.lemonde.fr/international/live/2026/03/12/en-direct-guerre-au-moyen-orient-plusieurs-morts-au-liban-dans-des-frappes-israeliennes-emmanuel-macron-exhorte-de-nouveau-israel-a-renoncer-a-une-offensive-terrestre_6669855_3210.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Signale sept morts à Beyrouth et déclaration Trump sur défaite Iran",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-proche-orient-sept-morts-a-beyrouth-trump-assure-que-liran-est-proche-de-la-defaite-20260312_SXW5VJVFCRAU7LG3YSUV6H4KYA/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Rapporte au moins sept morts dans attaque sur front de mer Beyrouth",
+          "link": "https://www.france24.com/fr/moyen-orient/20260312-moyen-orient-en-direct-iran-israel-etats-unis-liban-beyrouth-ormuz-petrole"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Mentionne appels Macron et Trump dans contexte guerre prolongée",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-israel-liban-petrole-etats-unis-benyamin-netanyahou-20260312"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Baril Brent dépasse 100 dollars malgré déblocage réserves stratégiques pétrole",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "France Info",
+        "20 Minutes"
+      ],
+      "summary": "Le pétrole Brent repasse au-dessus de 100 dollars au 13e jour du conflit, malgré libération mercredi de réserves par l'AIE. Cela affecte les prix mondiaux de l'énergie et les économies malgré efforts pour stabiliser le marché.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260312-moyen-orient-en-direct-iran-israel-etats-unis-liban-beyrouth-ormuz-petrole",
+      "tier": "top",
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump déclare Iran proche de la défaite dans guerre Moyen-Orient",
+      "source": "Libération",
+      "sources": [
+        "Libération",
+        "Le Figaro",
+        "20 Minutes"
+      ],
+      "summary": "Le président américain affirme que Téhéran sera bientôt défait, alors que l'Iran prépare une guerre d'usure. Cela contraste avec positions iraniennes et influence perceptions internationales du conflit.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-proche-orient-sept-morts-a-beyrouth-trump-assure-que-liran-est-proche-de-la-defaite-20260312_SXW5VJVFCRAU7LG3YSUV6H4KYA/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Libération",
+          "angle": "Met en avant frappes israéliennes et assurance Trump sur défaite Iran",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-proche-orient-sept-morts-a-beyrouth-trump-assure-que-liran-est-proche-de-la-defaite-20260312_SXW5VJVFCRAU7LG3YSUV6H4KYA/"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Rappelle Iran prêt pour guerre longue et Trump proche défaite",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-israel-liban-petrole-etats-unis-benyamin-netanyahou-20260312"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Lien avec Gardiens de la révolution et pilonnage intérêts occidentaux",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4205800-20260312-guerre-iran-gardiens-revolution-prets-guerre-usure-detruire-economie-mondiale?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Enquête armée américaine confirme responsabilité frappe école Minjab 150 morts",
+      "source": "France 24",
+      "summary": "Une enquête révèle la responsabilité des États-Unis dans la frappe du 28 février sur une école à Minjab en Iran sud, tuant plus de 150 personnes. Cela alimente critiques sur bavures dans le conflit.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260312-une-enqu%C3%AAte-de-l-arm%C3%A9e-am%C3%A9ricaine-confirme-sa-responsabilit%C3%A9-dans-la-bavure-de-minjab",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Kirill Dmitriev annonce rencontre productive négociateurs américains Floride",
+      "source": "France Info",
+      "sources": [
+        "20 Minutes",
+        "France Info"
+      ],
+      "summary": "L'émissaire russe de Poutine discute projets russo-américains et crise énergétique avec négociateurs US. Cela pourrait ouvrir à rétablissement relations au milieu conflit Ukraine.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-emissaire-russe-de-valadimir-poutine-annonce-une-rencontre-productive-avec-les-negociateurs-americains_7862483.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump relance procédure nouveaux droits douane Chine UE Japon Inde Mexique",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "France 24"
+      ],
+      "summary": "Après annulation partielle par Cour suprême, Trump cible ces pays via enquêtes commerciales sous loi 1974. Cela vise à protéger économie US contre importations.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4205786-20260312-etats-unis-donald-trump-relance-procedure-nouveaux-droits-douane?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Armée malienne tue sept civils zone frontalière Mauritanie et Sénégal",
+      "source": "RFI",
+      "summary": "Sources locales accusent les Famas d'avoir tué sept civils dans région jihadiste active. Autorités maliennes n'ont pas réagi, ce qui soulève questions sur opérations antiterroristes.",
+      "link": "https://www.rfi.fr/fr/afrique/20260312-l-arm%C3%A9e-malienne-accus%C3%A9e-d-avoir-tu%C3%A9-sept-civils-dans-la-zone-frontali%C3%A8re-avec-la-mauritanie-et-le-s%C3%A9n%C3%A9gal",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Images vidéosurveillance montrent embrasement sous-sol bar Crans-Montana 92 secondes",
+      "source": "France Info",
+      "summary": "Analyse révèle propagation feu en 92 secondes lors Nouvel An, causant 41 morts et 115 blessés. Cela aide instruction judiciaire sur causes du drame suisse.",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-l-embrasement-generalise-du-sous-sol-bar-a-eu-lieu-en-92-secondes-selon-l-analyse-des-images-de-videosurveillance_7861292.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "32 pays débloquent 400 millions barils réserves stratégiques pétrole AIE",
+      "source": "20 Minutes",
+      "summary": "Membres AIE libèrent 400 millions de barils pour contrer hausse prix due conflit. Cela vise stabilisation marché mondial malgré tensions persistantes.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4205782-20260311-stocks-strategiques-petrole-point-400-milliards-barils-debloques-32-pays?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Déblocage massif effectif de 400 millions de barils par 32 pays après proposition d'hier",
+      "sources": [
+        "20 Minutes"
+      ],
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 217,
+    "articlesAfterDedup": 215,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 3,
+      "politics": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "global": 4,
+      "africa": 1,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

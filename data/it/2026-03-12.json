@@ -1,0 +1,185 @@
+{
+  "date": "2026-03-12",
+  "summary": "L'Iran ha lanciato missili sulla base di Erbil in Iraq, dove operano 120 militari italiani addestrati per le forze curde. Tutti i militari si sono rifugiati nei bunker senza vittime. Il ministro della Difesa Crosetto ha confermato contatti continui con le autorità locali. Questo fa seguito ai lanci iraniani di ieri su basi Usa in Iraq e Bahrein, e agli attacchi israeliani su Teheran e basi aeree a Isfahan, Korghu e Kerman.\n\nI prezzi del petrolio greggio hanno superato i 100 dollari al barile dopo gli attacchi iraniani di mercoledì su navi mercantili nello Stretto di Hormuz, che hanno portato l'Iraq a sospendere le operazioni dei terminali petroliferi. Gli Stati Uniti hanno autorizzato il prelievo di 172 milioni di barili dalle riserve strategiche per stabilizzare i mercati energetici globali. Il presidente Trump ha dichiarato che lo Stretto di Hormuz è in ottima forma dopo gli attacchi. L'intelligence Usa rileva ancora mine iraniane nella zona, con Trump che esige la loro rimozione.\n\nIn Italia, il Senato ha approvato definitivamente il disegno di legge sugli affidi, che garantisce priorità al collocamento dei minori nelle famiglie naturali contro abusi. La procura ha annunciato una perizia decisiva sul caso Garlasco, sull'indagato Alberto Sempio per l'omicidio di Chiara Poggi del 2007. La Guardia di Finanza ha arrestato 5 persone a Catania per truffa sulle accise di prodotti energetici, con sequestri di oltre 235mila euro e 7 indagati. Uno studio ha rilevato che un ciclo di antibiotici altera il microbioma intestinale con effetti persistenti fino a 8 anni. Nuove intercettazioni mostrano il governatore ligure Giovanni Toti ammettere di aver truccato i dati sui contagi Covid con il capo di gabinetto Cozzani; l'inchiesta procede.",
+  "headlines": [
+    {
+      "title": "Iran lancia missili su base italiana Erbil, 120 militari restano illesi",
+      "source": "AGI",
+      "sources": [
+        "TGCOM24",
+        "AGI",
+        "Euronews Italiano",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Missili iraniani colpiscono la base di Erbil in Iraq dove operano 120 militari italiani addestrati per forze curde; tutto il personale si rifugia nei bunker senza vittime. Ministro Crosetto conferma contatti continui. L'episodio aumenta tensioni nel contingente italiano in Medio Oriente.",
+      "link": "https://www.agi.it/estero/news/2026-03-12/iran-attacco-base-italiana-erbil-hormuz-36066159/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive attacco missilistico su Erbil e blocco nave thailandese con tre dispersi",
+          "link": "https://www.agi.it/estero/news/2026-03-12/iran-attacco-base-italiana-erbil-hormuz-36066159/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta base italiana colpita a Erbil e Crosetto rassicura su stato militari",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-11-marzo_109854373-202602k.shtml"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Sottolinea ruolo base Erbil nell'addestramento 50mila curdi da 700 italiani",
+          "link": "https://www.ilsole24ore.com/art/crisi-iran-colpita-base-italiana-erbil-qui-vengono-addestrate-forze-sicurezza-curde-AI5EoVuB"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Prezzo petrolio supera 100 dollari al barile dopo attacchi iraniani navi Stretto Hormuz",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Attacchi iraniani mercoledì colpiscono navi mercantili nello Stretto di Hormuz, Iraq sospende operazioni terminali petroliferi. Prezzi greggio impennano oltre 100 dollari dopo calo martedì. Impatto economico globale su energia e inflazione.",
+      "link": "http://it.euronews.com/2026/03/12/il-prezzo-del-petrolio-supera-i-cento-dollari-al-barile-dopo-attacchi-iraniani-alle-navi-c",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Evidenzia impennata prezzi petrolio oltre 100 dollari dopo attacchi navi",
+          "link": "http://it.euronews.com/2026/03/12/il-prezzo-del-petrolio-supera-i-cento-dollari-al-barile-dopo-attacchi-iraniani-alle-navi-c"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Menziona sospensione operazioni irachene e tre dispersi su nave thailandese",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-12-marzo_109888442-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Stati Uniti approvano prelievo 172 milioni barili riserve strategiche petrolio",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Amministrazione Trump autorizza estrazione 172 milioni barili dalle riserve strategiche Usa in risposta a crisi Iran. Trump afferma Hormuz in ottima forma dopo attacchi. Misura mira a stabilizzare mercati energetici globali.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-12-marzo_109888442-202602k.shtml",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Collega prelievo riserve a tensioni Hormuz e dichiarazioni Trump",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-12-marzo_109888442-202602k.shtml"
+        }
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Senato approva definitivamente Ddl affidi, garantisce diritto minori a famiglie naturali",
+      "source": "Il Sole 24 Ore",
+      "summary": "Aula Senato dà via libera definitivo per alzata di mano al disegno legge tutela minori in affido. Priorità a collocamento in famiglie d'origine contro abusi. Norma rafforza protezioni legali per infanzia italiana.",
+      "link": "https://www.ilsole24ore.com/art/via-libera-definitivo-senato-ddl-affidi-garantito-diritto-minori-vivere-proprie-famiglie-AIq110tB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Procura annuncia perizia decisiva caso Garlasco su indagato Alberto Sempio",
+      "source": "Rai News",
+      "summary": "Inchiesta omicidio Chiara Poggi verso conclusione con perizia chiave su Sempio. Possibili archiviazione o rinvio giudizio dopo discovery. Evento segna svolta dopo anni indagini su delitto del 2007.",
+      "link": "https://www.rainews.it/articoli/2026/03/caso-garlasco-in-arrivo-la-perizia-decisiva-svolta-e-la-fine-delle-indagini-la-nuova-perizia-lomicidio-chiara-poggi-ec8fad78-19e6-4962-82f6-c3afef098ce8.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Guardia di finanza arresta 5 per truffa accise prodotti energetici Catania",
+      "source": "AGI",
+      "summary": "Finanzieri catanesi eseguono 5 misure cautelari e sequestri oltre 235mila euro in maxi truffa accise gasolio. Coinvolti 7 indagati tra divieti impresa e obblighi presentazione. Indagine da intercettazioni.",
+      "link": "https://www.agi.it/cronaca/news/2026-03-12/truffa-accise-gasolio-catania-36066368/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Studio rileva effetti nocivi antibiotici su microbioma intestinale fino 8 anni",
+      "source": "ANSA",
+      "summary": "Ricerca dimostra un ciclo antibiotico altera batteri intestino con tracce persistenti fino 8 anni. Impatto salute a lungo termine su resistenza e benessere. Necessari usi più cauti dei farmaci.",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/03/11/antibiotici-gli-effetti-nocivi-sul-microbioma-intestinale-durano-anni_2038e2eb-d38f-40d7-8afb-1eb0527ca215.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm pubblicano intercettazioni Toti ammette aver truccato dati contagi Covid Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Nuove intercettazioni rivelano governatore Toti dice a capo gabinetto Cozzani di aver già truccato numeri contagi. Indagine su manipolazione dati pandemia. Procede inchiesta con possibili conseguenze politiche.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pubblicate intercettazioni dettagliate con ammissione esplicita di aver truccato dati in conversazione privata",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 232,
+    "articlesAfterDedup": 232,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "conflict": 1,
+      "economy": 2,
+      "politics": 3,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "americas": 1,
+      "europe": 3,
+      "global": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

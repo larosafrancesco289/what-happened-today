@@ -1,0 +1,181 @@
+{
+  "date": "2026-03-13",
+  "summary": "Un groupe armé pro-iranien, Ashab al-Kahf, a revendiqué une attaque de drone à Erbil, dans le Kurdistan irakien, tuant un soldat français et blessant cinq autres. Cet incident marque la première mort d'un militaire français depuis le début de la guerre au Moyen-Orient le 28 février. Le président Macron a rappelé que la présence française s'inscrit dans un cadre antiterroriste ; le groupe a menacé les intérêts français après le déploiement du porte-avions Charles de Gaulle. Une enquête est en cours pour évaluer les suites.\n\nAu Soudan, l'ONU a recensé plus de 200 civils tués par des frappes de drones ces derniers jours dans le conflit opposant depuis 2023 deux anciens alliés, avec une intensification récente. Une enquête vise à identifier les responsables. En Afghanistan, le Pakistan a bombardé des maisons civiles à Kaboul, causant quatre morts et quinze blessés. Kaboul a dénoncé l'attaque et promis une réponse, ravivant les tensions frontalières avec les talibans. En Arabie saoudite, les forces aériennes ont abattu des drones suite à des menaces iraniennes contre des installations pétrolières, dans le contexte de la guerre au Moyen-Orient ; Riyad a renforcé sa vigilance.\n\nLes États-Unis ont autorisé pour un mois la vente de pétrole russe stocké sur navires, après le dépassement du baril Brent à plus de 100 dollars hier, pour accroître l'offre mondiale liée à la guerre au Moyen-Orient. Le secrétaire général de l'OTAN, Mark Rutte, a appelé les industriels à accélérer la production d'armements face à l'épuisement des stocks occidentaux en Ukraine et au Moyen-Orient. Le Canada a annoncé un plan de plus de 40 milliards de dollars pour renforcer la défense et l'économie dans l'Arctique, visant une résilience face aux rivalités polaires internationales. Ces situations sont en développement.",
+  "headlines": [
+    {
+      "title": "Groupe armé pro-iranien tue un soldat français et blesse cinq à Erbil en Irak",
+      "source": "France Info",
+      "sources": [
+        "Le Monde",
+        "Liberation",
+        "France Info",
+        "France 24",
+        "RFI",
+        "Le Figaro"
+      ],
+      "summary": "Un soldat français est mort et cinq autres blessés lors d'une attaque de drone revendiquée par le groupe Ashab al-Kahf à Erbil, Kurdistan irakien. Premier militaire français tué depuis le début de la guerre au Moyen-Orient le 28 février. Macron rappelle le cadre antiterroriste de la présence française; le groupe menace les intérêts français après déploiement du Charles de Gaulle.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/six-soldats-francais-ont-ete-blesses-lors-d-une-attaque-de-drones-en-irak-annonce-l-etat-major_7863875.html#xtor=RSS-3-[lestitres]",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec mort soldat et menaces groupe Ashab Al-Kahf contre France",
+          "link": "https://www.lemonde.fr/international/live/2026/03/13/en-direct-guerre-au-moyen-orient-apres-la-mort-d-un-chasseur-alpin-dans-une-attaque-de-drone-un-groupe-arme-pro-iranien-annonce-vouloir-cibler-les-interets-francais-en-irak-et-dans-la-region_6669855_3210.html"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Met en avant premier soldat français tué depuis début guerre Moyen-Orient",
+          "link": "https://www.liberation.fr/international/moyen-orient/un-soldat-francais-tue-en-irak-le-premier-depuis-le-debut-de-la-guerre-au-moyen-orient-20260313_DZEQR76PHVD7PPKYQMZ3D7WYHA/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Signale mort lors attaque Erbil et menaces contre intérêts français",
+          "link": "https://www.france24.com/fr/moyen-orient/20260313-en-direct-guerre-moyen-orient-iran-israel-etats-unis-petrole-golfe-liban"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "ONU recense plus de 200 civils tués par frappes de drones au Soudan ces derniers jours",
+      "source": "RTBF",
+      "summary": "L'ONU rapporte plus de 200 civils tués par des frappes de drones dans la guerre soudanaise opposant depuis 2023 d'anciens alliés, intensifiée récemment. Cela souligne l'escalade du conflit et les risques pour les civils; une enquête est en cours pour identifier les responsables.",
+      "link": "https://www.rtbf.be/article/guerre-au-soudan-plus-de-200-civils-tues-dans-des-frappes-de-drones-ces-derniers-jours-affirme-l-onu-11693661",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Pakistan bombarde Kaboul en Afghanistan tuant quatre civils et blessant quinze",
+      "source": "France 24",
+      "summary": "Le Pakistan reprend ses frappes sur l'Afghanistan, touchant des maisons civiles à Kaboul avec quatre morts et quinze blessés. Cela ravive les tensions frontalières avec les talibans; Kaboul dénonce l'attaque et promet une réponse.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260313-pakistan-reprend-frappes-afghanistan-quatre-morts-kaboul-taliban-ttp",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis autorisent temporairement vente de pétrole russe stocké sur navires",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Radio-Canada",
+        "Le Monde"
+      ],
+      "summary": "L'administration Trump permet pour un mois la vente de pétrole russe sur navires pour accroître l'offre mondiale, après approbation précédente vers l'Inde. Cela vise à freiner la hausse des prix due à la guerre au Moyen-Orient mais alimente craintes d'inflation aux États-Unis.",
+      "link": "https://www.liberation.fr/international/guerre-au-moyen-orient-les-etats-unis-assouplissent-encore-les-sanctions-contre-le-petrole-russe-20260313_JDJXYQZFANG7TDGVQ5RTBTLJEE/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Présente autorisation comme assouplissement supplémentaire sanctions pétrole russe",
+          "link": "https://www.liberation.fr/international/guerre-au-moyen-orient-les-etats-unis-assouplissent-encore-les-sanctions-contre-le-petrole-russe-20260313_JDJXYQZFANG7TDGVQ5RTBTLJEE/"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Explique mesure pour accroître portée mondiale de l'offre pétrolière existante",
+          "link": "https://ici.radio-canada.ca/nouvelle/2238419/etats-unis-autoriser-petrole-russe"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Arabie saoudite abat drones après menaces iraniennes sur installations pétrolières",
+      "source": "Radio-Canada",
+      "summary": "L'Arabie saoudite intercepte des drones suite aux menaces iraniennes de détruire des sites pétroliers. Cela accentue les risques d'escalade dans le Golfe liée à la guerre au Moyen-Orient; Riyad renforce sa vigilance aérienne.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2238431/iran-petrole-guerre-arabie-saoudite",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Secrétaire général OTAN Mark Rutte appelle industriels à accélérer production armements",
+      "source": "20 Minutes",
+      "summary": "Mark Rutte exhorte l'industrie de défense à augmenter la cadence face aux tensions en Ukraine et Moyen-Orient qui épuisent les stocks occidentaux. Cela prépare une réponse à long terme aux besoins militaires accrus des alliés.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4205976-20260312-ukraine-iran-prets-patron-otan-appelle-industriels-armement-accelerer-cadence?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Gouvernement canadien annonce plan économique et militaire de 40 milliards pour Grand Nord",
+      "source": "Radio-Canada",
+      "summary": "Ottawa dévoile un plan de plus de 40 milliards de dollars pour renforcer défense et économie dans l'Arctique, passant de dépendance à résilience. Cela répond aux enjeux stratégiques face aux rivalités polaires internationales.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2238280/ottawa-plan-nord-defense-armee",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis autorisent vente temporaire pétrole russe pour stabiliser prix Brent",
+      "source": "Le Monde",
+      "summary": "Suite à dépassement Brent 100 dollars hier, Washington assouplit sanctions en autorisant un mois la vente de stocks russes sur navires. Cela cherche à contrer hausse prix due guerre Moyen-Orient mais soulève questions inflationnistes.",
+      "link": "https://www.lemonde.fr/economie/article/2026/03/13/les-signaux-contradictoires-envoyes-par-donald-trump-sur-le-prix-du-petrole-alimentent-les-craintes-sur-l-inflation-aux-etats-unis_6670968_3234.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "États-Unis autorisent temporairement vente pétrole russe stocké sur navires après approbation livraisons Inde",
+      "sources": [
+        "Le Monde"
+      ],
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 210,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "conflict": 4,
+      "economy": 3,
+      "politics": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "africa": 1,
+      "asia-pacific": 1,
+      "global": 2,
+      "europe": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

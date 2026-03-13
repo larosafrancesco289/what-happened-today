@@ -1,0 +1,249 @@
+{
+  "date": "2026-03-13",
+  "summary": "Mojtaba Khamenei, Iran's new Supreme Leader, pledged in his first statement to seal the Strait of Hormuz and target U.S. bases during the ongoing war. This follows disruptions to global oil and gas shipments from the conflict. Commercial ships now avoid the waterway due to fears of Iranian mines, drones, and missiles, further halting tanker traffic. Prolonged blockade risks global energy shortages and price increases affecting consumers worldwide.\n\nA U.S. KC-135 Stratotanker crashed in Iraq during anti-Iran operations, not due to hostile or friendly fire, according to U.S. Central Command. Rescue efforts continue, impacting military logistics. Separately, a pro-Iran militia, Ashab Alkahf, vowed to target French interests after a soldier died and others were wounded in Iraqi Kurdistan; French President Macron condemned the attack following the arrival of a French aircraft carrier. In South Asia, Pakistani jets struck Kabul and Afghan border provinces targeting Pakistani Taliban militants, killing four civilians including women and children, Afghan officials reported; Islamabad cited rising militant attacks from those areas.\n\nRussia tripled strikes on Ukraine's energy infrastructure this winter despite repairs and Western aid, pushing the grid near collapse and affecting millions of civilians. In Congo, Rwanda-backed M23 rebels overran troops and entered Goma, displacing over one million residents inside the city amid gunfire and shelling, according to the U.N. NATO mounted its first coordinated response after a suspected sabotage severed a Baltic Sea cable critical for data and energy links. SpaceX's Crew-10 mission, launched Friday from Kennedy Space Center with NASA, JAXA, and Roscosmos astronauts, expects docking at the International Space Station Saturday to retrieve astronauts stuck nine months. Taiwan's parliament authorized signing stalled U.S. arms deals to bolster defenses. Israel permitted displaced Palestinians to return to northern Gaza after a hostage deal broke a deadlock bisecting a military zone.\"}",
+  "headlines": [
+    {
+      "title": "U.S. Military KC-135 Refueling Plane Crashes in Iraq Rescue Efforts Underway",
+      "source": "AP",
+      "sources": [
+        "AP",
+        "New York Times"
+      ],
+      "summary": "A U.S. KC-135 Stratotanker crashed in Iraq during anti-Iran operations, not due to hostile or friendly fire, U.S. Central Command stated. Rescue operations continue. This incident raises concerns over U.S. operational safety amid escalating Middle East conflict, affecting military logistics.",
+      "link": "https://apnews.com/article/us-military-aircraft-down-loss-iraq-6d182239315cf9d2a20c669c5ac8418d",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AP",
+          "angle": "Detailed U.S. Central Command statement on crash cause and ongoing rescue in Iraq",
+          "link": "https://apnews.com/article/us-military-aircraft-down-loss-iraq-6d182239315cf9d2a20c669c5ac8418d"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Linked crash to Iran war context with mentions of Hormuz mining and Trump Russia sanctions",
+          "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "global",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pro-Iran Militia Vows to Target French Interests After Soldier Killed in Northern Iraq",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Al Jazeera"
+      ],
+      "summary": "A French soldier died and others wounded in an attack in Iraqi Kurdistan, prompting President Macron's condemnation. Pro-Iran Ashab Alkahf group threatened French targets post-aircraft carrier arrival. Escalation risks broader coalition involvement in regional conflicts.",
+      "link": "https://www.france24.com/en/middle-east/20260313-middle-east-war-live-iraq-iran-lebanon-israel-gulf",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Covered Macron statement on soldier death alongside pro-Iran threats to French interests",
+          "link": "https://www.france24.com/en/middle-east/20260313-middle-east-war-live-iraq-iran-lebanon-israel-gulf"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Highlighted Macron calling attack unacceptable in Kurdish region of northern Iraq",
+          "link": "https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pakistan Air Force Strikes Kabul and Afghan Border Provinces Killing Four Civilians",
+      "source": "France 24",
+      "sources": [
+        "Deutsche Welle",
+        "Al Jazeera",
+        "France 24"
+      ],
+      "summary": "Pakistani jets hit Kabul and provinces targeting Pakistani Taliban, Afghan officials reported four deaths including women and children. Islamabad cites rising militant attacks. This cross-border escalation heightens South Asia tensions disrupting regional stability.",
+      "link": "https://www.france24.com/en/asia-pacific/20260313-pakistan-airstrikes-kabul-afghanistan-four-killed",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Reported Taliban claims of Pakistani air force strikes on Kabul and border areas",
+          "link": "https://www.dw.com/en/pakistan-bombs-kabul-and-afghan-border-provinces/a-76341327?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Noted women and children killed in alleged Pakistani attacks on Afghan homes",
+          "link": "https://www.aljazeera.com/news/2026/3/13/afghanistan-accuses-pakistan-of-air-attacks-on-homes-in-kabul-kandahar?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Confirmed four killed in Kabul by Pakistani strikes targeting TTP militants",
+          "link": "https://www.france24.com/en/asia-pacific/20260313-pakistan-airstrikes-kabul-afghanistan-four-killed"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran's New Supreme Leader Mojtaba Khamenei Vows to Block Strait of Hormuz",
+      "source": "BBC",
+      "summary": "Mojtaba Khamenei pledged in first statement to seal Hormuz strait and target U.S. bases amid war. This threatens global oil shipments already disrupted. Prolonged blockade could spike energy prices worldwide impacting economies.",
+      "link": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russia Triples Strikes on Ukraine Energy Systems Winter Pushing Grid Near Collapse",
+      "source": "New York Times",
+      "summary": "Russian attacks on power infrastructure tripled this winter despite repairs and Western aid. Ukrainian grid faces breakdown risk affecting millions. Heightened energy vulnerability prolongs war hardships for civilians.",
+      "link": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-russia-energy-system.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response After Suspected Sabotage Severs Baltic Sea Cable",
+      "source": "Wall Street Journal",
+      "summary": "Alliance responds to deep-sea cable cut in Baltic Sea amid sabotage fears targeting infrastructure. Critical undersea links vital for data and energy. Signals NATO readiness to counter hybrid threats from adversaries.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA Sets Artemis II Crewed Lunar Orbit Mission for April 1 Launch Window",
+      "source": "NPR",
+      "summary": "Six-day window opens April 1 from Kennedy Space Center for first humans to moon since 1972. Advances U.S. lunar program goals. Success boosts space exploration momentum and international partnerships.",
+      "link": "https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Taiwan Parliament Authorizes Government to Sign Stalled U.S. Arms Deals",
+      "source": "The Hindu",
+      "summary": "Legislature approves defense spending for key U.S. weapons amid China tensions. Taiwan's top arms supplier U.S. welcomes move. Bolsters island defenses against potential invasion raising Indo-Pacific security stakes.",
+      "link": "https://www.thehindu.com/news/international/taiwan-parliament-authorises-government-to-sign-stalled-us-arms-deals/article70738202.ece",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Crew Fears of Iranian Mines Further Slow Oil Tanker Traffic in Strait of Hormuz",
+      "source": "NPR",
+      "summary": "Commercial ships avoid vital waterway due to mine drone missile threats halting flows. Builds on prior disruptions. Global oil supply risks shortages and price surges affecting consumers everywhere.",
+      "link": "https://www.npr.org/2026/03/12/g-s1-113471/strait-hormuz-mines-drones-missiles-oil-tankers",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Launches Crew-10 to International Space Station Retrieve Astronauts Stuck Nine Months",
+      "source": "Voice of America",
+      "summary": "Falcon 9 carried NASA JAXA Roscosmos astronauts from Kennedy Friday docking expected Saturday. Enables return of Butch Wilmore Suni Williams. Routine rotation restores ISS operations continuity.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Crew-10 launched successfully 7:03 p.m. Friday from Florida reaching station around 11:30 p.m. Saturday",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Displaced Palestinians Stream Back to Northern Gaza After Israel Breaks Hostage Deadlock",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits crossing bisecting military zone post-hostage deal. Thousands affected by prior displacement return home. Eases humanitarian strains but security risks persist in enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel allows mass foot crossings into north after hostage release impasse resolved",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops Enter Goma Displacing Over One Million Residents",
+      "source": "Wall Street Journal",
+      "summary": "M23 fighters advance into Congo aid hub with gunfire shelling reported. U.N. notes 1M displaced inside city. Threatens humanitarian crisis worsens East Congo instability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels enter Goma after overrunning troops residents report gunfire shelling 1M now inside city",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 462,
+    "articlesAfterDedup": 460,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 7,
+      "politics": 3,
+      "science": 2
+    },
+    "regionCounts": {
+      "global": 3,
+      "middle-east": 4,
+      "asia-pacific": 2,
+      "europe": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 3
+    }
+  }
+}

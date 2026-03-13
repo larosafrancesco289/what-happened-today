@@ -1,0 +1,219 @@
+{
+  "date": "2026-03-13",
+  "summary": "Il Ministro della Difesa Guido Crosetto ha definito l'attacco iraniano alla base di Erbil un atto deliberato e ha avviato il ritiro del contingente italiano. Partono i rientri via terra di 120 militari italiani verso il Kurdistan e la Turchia, con un presidio che resta con gli Usa. Questo fa seguito all'attacco di ieri con missili e 25 droni che hanno bucato la contraerea Usa: nessun ferito italiano, ma 1 francese morto e 6 feriti da un drone a Erbil. Un aereo cisterna americano si è schiantato in Iraq con 3 militari. Media Usa rilevano mine iraniane nello Stretto di Hormuz, dove Khamenei ha chiuso lo strettoio, colpendo i commerci marittimi globali.\n\nGli Stati Uniti hanno autorizzato un acquisto limitato di petrolio russo per un periodo breve, in risposta alla crisi di Hormuz che coinvolge i pasdaran iraniani e tensioni con Israele. L'imprenditrice di Granoro ha denunciato tariffe di spedizione triplicate, da 2000 a 4500-5000 euro per container verso Sidney, con navi che aggirano Hormuz e Suez via Africa. Una petroliera russa alla deriva, colpita 10 giorni fa a 100 km da Malta, si avvicina a Lampedusa con 900 tonnellate di gasolio; le autorità monitorano il rischio di inquinamento nel Mediterraneo.\n\nSeparatamente, la premier Giorgia Meloni ha escluso dimissioni in caso di vittoria del no al referendum sulla separazione delle carriere dei magistrati del 22-23 marzo e ha lanciato un appello per il sì contro i vertici Anm. L'Islanda ha indetto un referendum il 29 agosto per riavviare i negoziati di adesione all'Ue, fermi dal 2013, con sondaggi al 52% di favorevoli. Pyongyang ha ripreso i collegamenti ferroviari con la Cina, primo treno dopo il 2020. Leonardo testa lo scudo aereo Michelangelo Dome in Ucraina entro il 2026. Raid Usa e israeliani hanno danneggiato patrimoni Unesco in Iran come il palazzo Golestan e la moschea Jameh. Procuratori hanno pubblicato intercettazioni in cui il governatore Toti ammette di aver truccato dati sui contagi Covid in Liguria con il capo gabinetto Cozzani; l'indagine prosegue.",
+  "headlines": [
+    {
+      "title": "Ministro Crosetto definisce attacco Erbil atto deliberato e avvia ritiro contingente italiano",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Il ministro della Difesa Guido Crosetto qualifica l'attacco iraniano alla base di Erbil come atto deliberato: partono rientri via terra di 120 militari italiani verso Kurdistan e Turchia, resta presidio con Usa. Interessa per impatto su missioni italiane in Medio Oriente.",
+      "link": "https://www.repubblica.it/politica/2026/03/13/news/erbil_crosetto_atto_deliberato_accelera_ritiro_contingente_italiano-425218133/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Ricostruisce attacco con video mappe e fonti locali su droni che bucano contraerea",
+          "link": "https://www.repubblica.it/esteri/2026/03/13/news/attacco_base_italiana_erbil_strage_sfiorata-425217627/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta feriti francesi e drone su Erbil dopo attacco missilistico",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-13-marzo_109928562-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Stati Uniti autorizzano acquisto petrolio russo per periodo breve e circoscritto",
+      "source": "TGCOM24",
+      "summary": "Gli Usa approvano import russo di petrolio limitato nel tempo in risposta a crisi Hormuz. Coinvolti pasdaran iraniani e tensioni con Israele. Influenza prezzi energia globali e scorte strategiche.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-13-marzo_109928562-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Media Usa rilevano mine iraniane nello Stretto di Hormuz",
+      "source": "TGCOM24",
+      "summary": "Fonti Usa segnalano Iran che mina Hormuz, drone ferisce 6 soldati francesi a Erbil e aereo cisterna americano si schianta in Iraq con 3 militari. Khamenei chiude strettoio. Colpisce commerci marittimi globali.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-12-marzo_109888442-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Imprenditrice pasta denuncia tariffe navi triplicate per evitare Hormuz e Suez",
+      "source": "AGI",
+      "summary": "Granoro segnala costi spedizione da 2000 a 4500-5000 euro per container verso Sidney causa tariffe guerra. Navi aggirano Africa. Ripercuote su prezzi pasta e export italiano.",
+      "link": "https://www.agi.it/estero/news/2026-03-13/granoro-costi-guerra-export-36080609/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Giorgia Meloni esclude dimissioni se vince no referendum separazione carriere 22-23 marzo",
+      "source": "AGI",
+      "summary": "Premier Meloni al kermesse Fdi a Milano lancia appello per sì a referendum giustizia contro vertici Anm. Coinvolti partiti e elettori. Decisivo per riforme future.",
+      "link": "https://www.agi.it/politica/news/2026-03-13/meloni-referendum-giustizia-36081739/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Islanda indice referendum 29 agosto per riavviare negoziati adesione Ue",
+      "source": "AGI",
+      "summary": "Sondaggi danno 52% favorevoli a diventare 28º Stato Ue con corsia preferenziale su Montenegro. Negoziati fermi dal 2013. Rafforza espansione Unione Europea.",
+      "link": "https://www.agi.it/estero/news/2026-03-13/islanda-referendum-prossimo-paese-ue-36076220/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Petroliera russa alla deriva si avvicina a Lampedusa con 900 tonnellate gasolio",
+      "source": "TGCOM24",
+      "summary": "Imbarcazione senza equipaggio colpita 10 giorni fa a 100 km da Malta minaccia isola. Autorità monitorano. Rischio inquinamento marino in Mediterraneo.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/lampedusa-petroliera-russa-alla-deriva_109921542-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pyongyang riapre collegamenti ferroviari con Cina primo treno dopo pandemia",
+      "source": "Rai News",
+      "summary": "Linea sospesa dal 2020 per Covid riprende operazioni. Coinvolti governi Corea Nord e Cina. Segnale disgelo isolazionismo nordcoreano.",
+      "link": "https://www.rainews.it/video/2026/03/pyongyang-riapre-i-collegamenti-ferroviari-con-la-cina-arriva-il-primo-treno-dalla-pandemia-c6dc9745-696c-4373-8704-3c8538cc6ead.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Leonardo testa Michelangelo Dome scudo aereo multidominio in Ucraina entro 2026",
+      "source": "Euronews Italiano",
+      "summary": "Azienda italiana invia componenti piattaforma con AI cyber e computing per operazioni reali. Coinvolti militari ucraini. Avanza difesa europea high-tech.",
+      "link": "http://it.euronews.com/2026/03/13/leonardo-testa-il-michelangelo-dome-il-nuovo-scudo-aereo-multidominio-in-ucraina",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Attacchi danneggiano Patrimoni Unesco Iran come palazzo Golestan e moschea Jameh",
+      "source": "Il Sole 24 Ore",
+      "summary": "Raid Usa e israeliani colpiscono siti storici. Esperti temono espansione guerra. Preoccupa conservazione beni culturali patrimonio mondiale.",
+      "link": "https://www.ilsole24ore.com/art/iran-palazzo-golestan-moschea-jameh-patrimoni-dell-umanita-rischio-distruzione-AIwYBBvB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran lancia missili e droni su base italiana Erbil nessun ferito italiano",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Nuovi dettagli: 25 droni bucano contraerea Usa, sospetto Russia da inglesi, morale soldati alto ma stanchi, morto 1 francese 6 feriti. Ritiro procede. Evoluzione missioni italiane.",
+      "link": "https://www.repubblica.it/esteri/2026/03/13/news/attacco_base_italiana_erbil_strage_sfiorata-425217627/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Crosetto conferma atto deliberato avvia ritiro, 25 droni bucano difese, 1 morto e 6 feriti francesi, ombre Russia su contraerea",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Procuratori pubblicano intercettazioni Toti ammette truccatura dati contagi Covid Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Governatore Toti confessa a capo gabinetto Cozzani di aver aumentato numeri contagi. Indagine prosegue. Rivela manipolazioni pandemia gestione regionale.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Dettagli intercettazioni su aumenti artificiali contagi rivelano metodo manipolazione",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 19,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 2,
+      "politics": 3,
+      "environment": 1,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 1,
+      "europe": 5,
+      "asia-pacific": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7,
+      "developing": 2
+    }
+  }
+}

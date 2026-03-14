@@ -1,0 +1,228 @@
+{
+  "date": "2026-03-14",
+  "summary": "U.S. forces destroyed missile and mine sites on Kharg Island, Iran's main oil export hub. This follows Iran's Supreme Leader Mojtaba Khamenei's vow yesterday to block the Strait of Hormuz. President Trump warned that oil facilities will be targeted next if Hormuz shipping is disrupted. Oil prices surged over 40 percent, affecting global energy supplies.\n\nThe U.S. shifted the 31st Marine Expeditionary Unit and assault ship USS Tripoli from Okinawa, Japan, deploying 2,000 Marines to the Middle East in the war's third week. This bolsters U.S.-Israeli forces amid the escalation with Iran. U.S.-Israeli strikes since February 28 also damaged UNESCO-listed Iranian sites including palaces and a mosque. Separately in Sudan, Rapid Support Forces drones struck Shukeiri school and a health center in White Nile province, killing 17 people including schoolgirls and teachers, and wounding 10.\n\nChina property firm Vanke reported massive losses, expanding the real estate crisis and slowing economic recovery. A federal judge blocked the Trump DOJ's criminal probe into the Federal Reserve over alleged rate-cut pressure, safeguarding central bank independence. Rwanda-backed M23 rebels advanced into Goma, Democratic Republic of Congo, overrunning troops with ongoing gunfire and shelling; over one million displaced people cram the aid hub. Israel allowed thousands of displaced Palestinians to walk through a bisecting military zone into northern Gaza after a hostage deal. In the UK, the FCDO canceled the Global Health Workforce Programme, ending training for healthcare workers in six African countries. SpaceX launched Crew-10 on a Falcon 9 from Florida with NASA, JAXA, and Roscosmos astronauts to dock at the ISS Saturday and retrieve two stranded nine months.",
+  "headlines": [
+    {
+      "title": "U.S. Strikes Military Sites on Iran's Kharg Island Trump Warns Oil Infrastructure Next",
+      "source": "AP",
+      "sources": [
+        "AP",
+        "NYT",
+        "DW",
+        "France 24",
+        "ABC Australia",
+        "Al Jazeera"
+      ],
+      "summary": "U.S. forces destroy missile and mine sites on Kharg Island, Iran's main oil export hub. Trump threatens oil facilities if Hormuz shipping disrupted. Oil prices surge over 40 percent; endangers global energy supplies and escalates war.",
+      "link": "https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AP",
+          "angle": "Focuses on Trump's announcement of site destruction and explicit oil infrastructure warning",
+          "link": "https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11"
+        },
+        {
+          "source": "NYT",
+          "angle": "Emphasizes strikes targeted missile and mine storage avoiding economic assets",
+          "link": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel"
+        },
+        {
+          "source": "DW",
+          "angle": "Highlights Trump claim of obliteration and imminent navy tanker escorts",
+          "link": "https://www.dw.com/en/iran-war-us-strikes-key-kharg-island-oil-export-hub-trump-says/live-76356584?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "France 24",
+          "angle": "Leads with Iran's retaliation threats against U.S. oil targets",
+          "link": "https://www.france24.com/en/middle-east/20260314-middle-east-war-live-iran-threatens-retaliation-as-trump-says-us-obliterated-targets-on-kharg-island"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Questions U.S. attack motives while noting avoidance of broader infrastructure",
+          "link": "https://www.abc.net.au/news/2026-03-14/kharg-island-united-states-iran-middle-east-oil-war-attack/106455484"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Contexts as day 15 of U.S.-Israel attacks with Hormuz shipping warnings",
+          "link": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. Deploys 2,000 Marines from Japan to Middle East as Iran War Escalates",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "BBC"
+      ],
+      "summary": "U.S. shifts 31st Marine Expeditionary Unit and assault ship Tripoli from Okinawa amid war's third week. Bolsters U.S.-Israeli forces; raises stakes for confrontation with Iran affecting global security.",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3346580/us-moves-2000-marines-japan-middle-east-iran-war-intensifies?utm_source=rss_feed",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "South China Morning Post",
+          "angle": "Details 2,000 Marines and Tripoli ship's movement from Japan bases",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3346580/us-moves-2000-marines-japan-middle-east-iran-war-intensifies?utm_source=rss_feed"
+        },
+        {
+          "source": "BBC",
+          "angle": "Confirms amphibious ready group reinforcements headed to Middle East",
+          "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sudan Paramilitary Drone Strikes School and Clinic Kills 17 Mostly Schoolgirls",
+      "source": "The Guardian",
+      "summary": "Rapid Support Forces drone hits Shukeiri school and health center in White Nile province, killing 17 including schoolgirls, teachers, wounding 10. Deepens three-year war's civilian toll; impedes aid and peace prospects.",
+      "link": "https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Federal Judge Blocks DOJ Criminal Probe into Federal Reserve as Political",
+      "source": "NPR",
+      "summary": "Judge halts Trump DOJ investigation of Fed over alleged rate-cut pressure. Safeguards central bank independence; shapes U.S. economic policy amid executive-judiciary clashes.",
+      "link": "https://www.npr.org/2026/03/13/nx-s1-5747122/doj-federal-reserve-jerome-powell-jeanine-pirro",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "UK Axes Global Health Programme Training Workers in Six African Countries",
+      "source": "The Guardian",
+      "summary": "FCDO cancels GHWP due to aid cuts, ending support for African healthcare staff development. Undercuts pandemic prevention; threatens global health security including for UK citizens.",
+      "link": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "China Property Giant Vanke Posts Huge Loss Amid Spreading Real Estate Crisis",
+      "source": "Wall Street Journal",
+      "summary": "Vanke reports massive losses signaling crisis expansion. Prompts debate on state intervention; rattles investors worldwide and slows China's economic recovery.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "U.S.-Israeli Strikes Damage Iranian Palaces Mosque and Other Heritage Sites",
+      "source": "Deutsche Welle",
+      "summary": "Bombs since February 28 hit UNESCO-listed monuments including palaces and mosque. Imperils cultural treasures; fuels global outcry over war's long-term heritage losses.",
+      "link": "https://www.dw.com/en/us-israeli-strikes-damage-iran-s-cultural-heritage-sites/a-76350565?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Launches Crew-10 from Florida to Retrieve Astronauts Stuck on ISS",
+      "source": "Voice of America",
+      "summary": "Falcon 9 carries NASA, JAXA, Roscosmos astronauts to dock Saturday, enabling return of two stranded nine months. Maintains ISS operations; underscores commercial space reliability.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Crew-10 lifted off successfully at 7:03 p.m. Friday from Kennedy Space Center",
+      "sources": [
+        "Voice of America"
+      ],
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma City Overrun Troops Report Gunfire Shelling",
+      "source": "Wall Street Journal",
+      "summary": "M23 rebels advance into Goma aid hub defeating troops with ongoing fighting. Over one million displaced cram city; strains UN aid risking mass suffering.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels penetrate safe-haven city triggering gunfire shelling displacing over one million inside",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians Cross Zone into Northern Gaza on Foot",
+      "source": "Wall Street Journal",
+      "summary": "Post-hostage deal, thousands walk through bisecting military area to reclaim homes. Alleviates south overcrowding; yet fragile truce impacts Gaza reconstruction aid.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel permits foot crossings of military zone enabling streams back north",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 13,
+    "articlesProcessed": 463,
+    "articlesAfterDedup": 462,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 2,
+      "society": 1,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "africa": 3,
+      "americas": 1,
+      "asia-pacific": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-03-14",
+  "summary": "Gli Stati Uniti hanno condotto un raid sull'isola di Kharg, terminale del 90% delle esportazioni di petrolio iraniano, distruggendo obiettivi militari senza danneggiare infrastrutture petrolifere. L'operazione, annunciata dal presidente Trump con video pubblicati, mira a indebolire l'economia iraniana nel 15° giorno di guerra. Questo fa seguito all'escalation con mine iraniane rilevate nello Stretto di Hormuz. Nello stesso contesto, droni iracheni hanno colpito l'ambasciata statunitense a Baghdad causando due morti. Trump ha dichiarato l'Iran sconfitto e accusato i media di ignorare i successi; Hamas ha invitato l'Iran a cessare attacchi a Paesi vicini.\n\nWashington ha inviato 2500 marines e 2500 marinai nel Golfo Persico con navi da guerra, in risposta all'escalation iraniana per garantire le rotte petrolifere. Trump ha esortato le navi mercantili a transitare nello Stretto di Hormuz. Separatamente, Israele ha respinto un'offerta di tregua da Beirut e bombardato un ponte sul fiume Litani, Sidone e un centro medico, colpendo una base Unifil. Hezbollah ha promesso vittoria nell'escalation al confine. Israele ha anche bombardato posti della milizia Basij a Teheran usando droni guidati da video cittadini iraniani online, con obiettivo indebolire la sicurezza interna.\n\nLa Commissione Ue ha bocciato la deroga statunitense sulle sanzioni al petrolio russo in mare, annunciata ieri dagli Usa per periodo breve. Zelensky ha criticato la misura come aiuto alla Russia; il commissario Costa ha difeso le regole Ue per la sicurezza energetica europea nel contesto della guerra con l'Iran. Migliaia di volantini su Beirut hanno invitato i libanesi a disarmare Hezbollah, avvertendo contro scontri per procura iraniana. La Russia guadagna 150 milioni di euro al giorno extra grazie alle deroghe Usa e ai prezzi alti del greggio, necessitando un prolungamento del conflitto per bilanciare il bilancio nonostante le sanzioni.",
+  "headlines": [
+    {
+      "title": "Stati Uniti eseguono raid su isola Kharg azzerando obiettivi militari iraniani",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News",
+        "TGCOM24"
+      ],
+      "summary": "Gli Stati Uniti hanno condotto un raid sull'isola di Kharg, terminale del 90% del petrolio esportato dall'Iran, distruggendo obiettivi militari senza danneggiare infrastrutture petrolifere. Trump annuncia l'operazione e pubblica video. L'attacco mira a indebolire l'economia iraniana nel 15° giorno di guerra.",
+      "link": "https://www.agi.it/estero/news/2026-03-14/guerra-iran-aggiornamenti-14-marzo-36102814/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive raid come azzeramento obiettivi militari senza distruggere petrolio",
+          "link": "https://www.agi.it/estero/news/2026-03-14/guerra-iran-aggiornamenti-14-marzo-36102814/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Trump pubblica video presunti attacchi da verificare su Kharg",
+          "link": "https://www.rainews.it/video/2026/03/trump-pubblica-un-video-che-mostra-presunti-attacchi-sullisola-iraniana-di-kharg-a4fe28e8-76d5-4e22-8af0-e3c7e1a04249.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Trump diffonde video bombardamenti su terminal petrolifero Kharg",
+          "link": "https://www.tgcom24.mediaset.it/2026/video/trump-video-attacco-kharg-island_109962079-02k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Droni iracheni colpiscono ambasciata Usa a Baghdad causando due morti",
+      "source": "TGCOM24",
+      "summary": "Esplosioni notturne di droni hanno causato due morti all'ambasciata statunitense a Baghdad. Trump dichiara Iran completamente sconfitto e accusa media di ignorare successi. Hamas invita Iran a cessare attacchi a Paesi vicini.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-14-marzo_109961884-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Stati Uniti inviano 2500 marines e navi nel Golfo Persico",
+      "source": "Euronews Italiano",
+      "summary": "Washington rafforza presenza con 2500 soldati e 2500 marinai nel Golfo. Trump esorta navi mercantili a transitare nello Stretto di Hormuz. La mossa risponde all'escalation iraniana per garantire rotte petrolifere.",
+      "link": "http://it.euronews.com/2026/03/13/iran-usa-inviano-navi-e-migliaia-di-marines-nel-golfo-trump-le-navi-mercantili-abbiano-le-",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israele rifiuta tregua libanese e bombarda base Unifil sul Litani",
+      "source": "la Repubblica",
+      "summary": "Governo Netanyahu respinge offerta tregua da Beirut. Forze israeliane bombardano ponte sul fiume Litani, colpiscono Sidone e centro medico. Hezbollah promette vittoria in escalation al confine.",
+      "link": "https://www.repubblica.it/esteri/2026/03/14/news/libano_israele_no_tregua_hezbollah_risposta-425220628/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israele bombarda posti Basij a Teheran usando video cittadini iraniani",
+      "source": "Euronews Italiano",
+      "summary": "Israele colpisce milizia Basij con droni grazie a video online di iraniani. Obiettivo indebolire sicurezza interna e incoraggiare proteste anti-regime. Operazione sfrutta dissenso popolare contro Repubblica Islamica.",
+      "link": "http://it.euronews.com/2026/03/13/israele-colpisce-la-milizia-basij-con-laiuto-inaspettato-degli-iraniani",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Commissione Ue boccia deroga Usa su sanzioni petrolio russo",
+      "source": "la Repubblica",
+      "summary": "Commissione Europea respinge ammorbidimento Trump su greggio russo in mare. Zelensky critica come aiuto a Russia. Costa difende misure Ue per sicurezza energetica europea nel contesto guerra Iran.",
+      "link": "https://www.repubblica.it/esteri/2026/03/14/news/petrolio_scontro_usa_ue_deroga_sanzioni_zelensky_aiuto_russia-425220638/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Migliaia volantini su Beirut chiedono disarmo Hezbollah",
+      "source": "Euronews Italiano",
+      "summary": "Volantini lanciati su quartieri di Beirut invitano libanesi a disarmare Hezbollah e avvertono contro scontri per procura iraniana. Azione aumenta tensioni interne nel contesto regionale.",
+      "link": "http://it.euronews.com/video/2026/03/13/beirut-migliaia-di-volantini-chiedono-il-disarmo-di-hezbollah",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia guadagna 150 milioni euro al giorno extra grazie guerra Iran",
+      "source": "la Repubblica",
+      "summary": "Mosca beneficia deroghe Usa e prezzi alti greggio per 150 milioni euro giornalieri extra. Cremlino necessita prolungamento conflitto per bilanciare bilancio nonostante sanzioni.",
+      "link": "https://www.repubblica.it/esteri/2026/03/14/news/mosca_guadagna_150_milioni_in_piu_guerra_iran-425220637/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 253,
+    "articlesAfterDedup": 252,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 1,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 6,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    }
+  }
+}

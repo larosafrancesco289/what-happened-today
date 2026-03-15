@@ -1,0 +1,192 @@
+{
+  "date": "2026-03-15",
+  "summary": "Gli Stati Uniti hanno condotto raid su siti militari iraniani all'isola di Kharg, ordinati da Trump, che minaccia ulteriori colpi e invita alleati europei a inviare navi nello Stretto di Hormuz per una coalizione navale. Questo fa seguito al raid di ieri sugli stessi obiettivi. L'Iran ha annunciato la chiusura dello Stretto ai nemici, con rischio di blocco del 20% del commercio petrolio mondiale. Si attendono reazioni da Europa e alleati sul dispiegamento navale.\n\nIsraele ha bombardato il Libano meridionale in otto attacchi notturni, causando 14 morti tra cui quattro bambini; cinque raid su Holon in Israele hanno ferito due persone. La Francia ha negato l'esistenza di un piano di pace. Questo prolunga la tensione al confine, con rischio di espansione del conflitto regionale. Separatamente, servizi di intelligence europei avvertono che lo staff di Putin spinge per l'uso di nucleare tattico su Kiev per distrarre gli Usa concentrati sull'Iran; il Kremlin non ha ancora approvato. Aumenta il rischio di escalation nucleare in Europa.\n\nDroni ucraini hanno colpito per la seconda volta in una settimana la raffineria Tijoretsk-Nafta nel Krasnodar, danneggiando strutture chiave per l'export petrolio russo, provocando un incendio e colpendo due linee ad alta tensione a 120 km di distanza; nessun ferito. In Francia, 48 milioni di elettori votano al primo turno amministrativo per 35.000 sindaci in comuni come Parigi e Lione, con affluenza attesa in aumento; i risultati influenzeranno la corsa presidenziale del 2027. In Italia, Salvini approva la linea Trump contro le sanzioni Ue sul petrolio russo mentre Tajani ne difende il mantenimento, riflettendo divisioni europee; un pm ligure accusa il governatore Toti di aver manipolato dati Covid su contagi; rider manifestano in 30 piazze contro turni di 10 ore e paghe di 2-4 euro a consegna. Un copilota ha evitato lo schianto di un Airbus Scandinavian con 158 passeggeri su depositi di carburante a Bruxelles il 5 febbraio, intervenendo su pista sbagliata. Meta ha introdotto avvisi su Facebook, WhatsApp e Messenger contro truffe con Ia che impersonano marchi e vip.",
+  "headlines": [
+    {
+      "title": "Trump invita alleati a inviare navi nello Stretto di Hormuz dopo raid su isola Kharg",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Trump ordina raid su siti militari iraniani all'isola Kharg, minaccia ulteriori colpi e preme su Europa per coalizione navale. Iran annuncia chiusura Stretto ai nemici. Rischio escalation blocca 20% commercio petrolio mondiale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/14/medio-oriente-trump-colpisce-kharg-ora-altri-paesi-inviino-navi_c02bd9ae-d6cb-4b8f-807a-4550fa630008.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump minaccia nuovi raid 'per divertimento' e rifiuta mediazione araba, mentre Iran risponde con chiusura dello Stretto di Hormuz",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Descrive raid su Kharg, frasi Trump su navi alleate e risposta Iran sulla chiusura dello Stretto",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/14/medio-oriente-trump-colpisce-kharg-ora-altri-paesi-inviino-navi_c02bd9ae-d6cb-4b8f-807a-4550fa630008.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Enfatizza pressione Trump su Europa per coalizione e rifiuto mediazione Paesi arabi dopo raid",
+          "link": "https://www.repubblica.it/esteri/2026/03/15/news/trump_pressa_gli_alleati_mandate_le_navi_a_hormuz_raid_usa_sull_isola_iraniana_di_kharg-425222334/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta invito Trump navi Hormuz e dichiarazioni su accordo guerra non ancora pronto",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-15-marzo_110005669-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israele bombarda Libano causando 14 morti tra cui quattro bambini",
+      "source": "TGCOM24",
+      "summary": "Notte di attacchi israeliani in Libano uccide 14 persone, di cui quattro bambini; cinque raid su Holon feriscono due israeliani. Francia nega piano pace. Prolunga tensione confine con rischio espansione conflitto regionale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-15-marzo_110005669-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Attacchi notturni provocano 14 morti inclusi bambini e feriti in Israele da razzi libanesi",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Servizi europei temono nucleare tattico russo su Kiev per distrazione Usa nel Golfo",
+      "source": "la Repubblica",
+      "summary": "Intelligence continentali avvertono che staff Putin spinge per atomica tattica in Ucraina per evitare sconfitta, mentre Usa concentrati su Iran. Kremlin non approva ancora. Aumenta rischio escalation nucleare in Europa.",
+      "link": "https://www.repubblica.it/esteri/2026/03/15/news/iran_europa_putin_usa_golfo_bomba_atomica_tattica_ucraina-425222329/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Droni ucraini colpiscono raffineria Tijoretsk-Nafta nel Krasnodar",
+      "source": "AGI",
+      "summary": "Seconda attacco settimanale danneggia raffineria chiave per trasbordo petrolio russo, provoca incendio e colpisce due linee alta tensione a 120 km. Nessun ferito. Colpisce export energia Mosca amid guerra.",
+      "link": "https://www.agi.it/estero/news/2026-03-15/droni-ucraini-contro-raffineria-russa-36116335/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Francia vota per eleggere 35mila sindaci in test presidenziali",
+      "source": "AGI",
+      "summary": "48 milioni elettori al primo turno amministrative in comuni grandi come Parigi e Lione. Affluenza attesa in aumento. Risultati influenzano corsa Eliseo 2027 tra partiti principali.",
+      "link": "https://www.agi.it/estero/news/2026-03-15/francia-voto-amministrative-test-eliseo-36108080/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Salvini e Tajani litigano su mantenimento sanzioni Ue petrolio russo",
+      "source": "Il Sole 24 Ore",
+      "summary": "Salvini approva linea Trump contro sanzioni, Tajani difende loro mantenimento. Dibattito italiano riflette divisioni Europa su energia russa. Influenza politica estera governo Meloni.",
+      "link": "https://www.ilsole24ore.com/art/sulle-sanzioni-ue-petrolio-russo-e-scontro-salvini-e-tajani-AIIRBWxB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm Liguria accusano Toti di manipolazione dati contagi Covid",
+      "source": "Corriere della Sera",
+      "summary": "Governatore Toti ammette ad collaboratore di aver truccato numeri pandemia. Indagine su aumenti artificiali contagi. Mina credibilità gestione sanitaria regione durante emergenza.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Rider manifestano in 30 piazze contro turni 10 ore e 2-4 euro consegna",
+      "source": "Il Sole 24 Ore",
+      "summary": "Cgil mobilita lavoratori piattaforme per denunciare sfruttamento: 7-10 ore giornaliere, 6-7 giorni settimana. Chiedono salari dignitosi. Pressione su regolamentazione gig economy Italia.",
+      "link": "https://www.ilsole24ore.com/art/i-rider-piazza-10-ore-giorno-2-4-euro-consegna-AIX6BexB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Copilota salva 158 passeggeri Airbus Scandinavian da schianto su depositi Bruxelles",
+      "source": "la Repubblica",
+      "summary": "Inchiesta su incidente 5 febbraio aeroporto Bruxelles rivela pista sbagliata verso carburante. Copilota interviene tempestivo. Evita disastro aereo e rafforza protocolli sicurezza voli.",
+      "link": "https://www.repubblica.it/esteri/2026/03/15/news/airbus_scandinavian_bruxelles_ha_rischiato_lo_schianto_contro_depositi_di_carburante-425222469/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Meta introduce avvisi contro truffe IA che impersonano marchi e vip",
+      "source": "ANSA",
+      "summary": "Piattaforme Facebook, WhatsApp, Messenger segnalano attività sospette con intelligenza artificiale. Combatte frodi crescente. Protegge utenti da perdite finanziarie e disinformazione.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/03/13/da-meta-giro-di-vite-contro-le-truffe-che-usano-lia-per-impersonare_e6d07be1-02fe-4b0b-b1b6-a1c0644a80f1.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 248,
+    "articlesAfterDedup": 247,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 13,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "society": 1,
+      "science": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 7,
+      "global": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 3,
+      "also": 5
+    }
+  }
+}

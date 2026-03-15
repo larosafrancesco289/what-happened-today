@@ -1,0 +1,172 @@
+{
+  "date": "2026-03-15",
+  "summary": "President Trump called on allies including the UK, France, Japan, and South Korea to deploy warships to secure the Strait of Hormuz for oil tankers. This follows U.S. strikes yesterday on Iranian military sites on Kharg Island and warnings of oil infrastructure targets. Iran ordered evacuation of three UAE ports including Jebel Ali, Fujairah, and Khalifa. The developments affect global energy supplies passing through the strait, which carries 20% of world oil. Expanded naval operations by multiple nations are possible.\n\nAn Iran-backed militia launched a drone strike on the U.S. Embassy compound in Baghdad, the second such attack; the group claimed responsibility while the U.S. ordered citizens to leave Iraq, affecting American personnel there. U.S.-Israeli airstrikes hit a factory in Isfahan, killing 15 according to Iranian media and impacting nearby civilians. Iranian missile shrapnel burned cars and overturned one vehicle in a Tel Aviv district. An Israeli airstrike in Lebanon killed a civilian family; the IDF said it targeted Hezbollah sites, relatives denied any ties.\n\nIsrael allowed thousands of displaced Palestinians to cross a military zone into northern Gaza after a hostage release impasse ended, affecting 2 million residents and easing access temporarily. NATO deployed ships and aircraft after a second deep-sea communications cable was severed in the Baltic Sea, suspected as sabotage and disrupting European infrastructure. Russian airstrikes on the Kyiv region outskirts killed 4 civilians and wounded 15 after the U.S. paused Ukraine ceasefire talks due to the Iran conflict.\"}",
+  "headlines": [
+    {
+      "title": "President Trump Urges Allies to Send Warships to Secure Strait of Hormuz",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "The Hindu",
+        "BBC"
+      ],
+      "summary": "President Trump calls on allies like UK, France, Japan, South Korea to deploy warships to protect oil tankers in Strait of Hormuz as Iran orders evacuation of three UAE ports. Threatens global energy supplies amid escalating war. Could draw more nations into naval operations.",
+      "link": "https://apnews.com/article/iran-iraq-us-trump-march-15-2026-9bbed3c906146844be08fdfd02595754",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Led with Trump ally urging and Iran evacuation of UAE ports vow to retaliate",
+          "link": "https://apnews.com/article/iran-iraq-us-trump-march-15-2026-9bbed3c906146844be08fdfd02595754"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Emphasized Iran warning evacuation of three major UAE ports in third war week",
+          "link": "https://www.thehindu.com/news/international//article70745835.ece"
+        },
+        {
+          "source": "BBC",
+          "angle": "Highlighted Trump hope for China France Japan South Korea ships on oil route",
+          "link": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran-Backed Militia Launches Second Attack on U.S. Embassy in Baghdad",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "Al Jazeera"
+      ],
+      "summary": "Iran-backed group claims overnight drone strike on U.S. Embassy compound in Baghdad, prompting U.S. order for citizens to leave Iraq. Affects American personnel and regional stability. Signals heightened militia retaliation risks.",
+      "link": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Focused on second embassy attack militia claim and U.S. citizen evacuation order",
+          "link": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Featured drone video of Kataib Hezbollah FPV strike on Victory Base Baghdad",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/fpv-drone-slams-into-us-military-base-in-iraq?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S.-Israeli Strikes Kill at Least 15 People in Isfahan Factory",
+      "source": "Al Jazeera",
+      "summary": "Barrage of U.S.-Israeli airstrikes targets factory in Isfahan, killing 15 according to Iranian media. Impacts Iranian industrial sites and civilians nearby. Underscores expansion of strikes deeper into Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/barrage-of-us-israeli-strikes-target-isfahan?traffic_source=rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response After Baltic Sea Cable Severed",
+      "source": "Wall Street Journal",
+      "summary": "NATO deploys assets following suspected sabotage severing another deep-sea cable in Baltic Sea. Affects critical undersea infrastructure for Europe. Marks alliance shift to hybrid threat defense.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russian Airstrikes Kill 4 Wound 15 in Kyiv Region as Talks Stall",
+      "source": "NPR",
+      "summary": "Russian strikes hit Kyiv outskirts, killing 4 and wounding 15 after U.S. pauses Ukraine ceasefire talks due to Iran war. Impacts Ukrainian civilians. Prolongs European conflict diversion.",
+      "link": "https://www.npr.org/2026/03/14/nx-s1-5747959/russian-strike-kyiv-region",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iranian Missile Shrapnel Burns Cars Overturns Vehicles in Tel Aviv",
+      "source": "Al Jazeera",
+      "summary": "Shrapnel from Iranian missile wave burns cars and overturns one in Tel Aviv district. Affects Israeli urban residents. Demonstrates reach of Iranian retaliation into Israel heartland.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/cars-were-burned-and-overturned-by-shrapnel-in-tel-aviv-district?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israeli Strike Kills Family in Lebanon as IDF Targets Hezbollah Sites",
+      "source": "BBC",
+      "summary": "Israeli airstrike kills civilian family in Lebanon; IDF claims terrorist infrastructure hit while relatives deny Hezbollah ties. Affects Lebanese border communities. Fuels regional escalation debates.",
+      "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Palestinians Cross Military Zone to Return Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits thousands of displaced Palestinians to cross bisecting military zone into northern Gaza after hostage release deadlock breaks. Affects 2 million Gazans seeking homes. Eases humanitarian crunch temporarily.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Hostage release breakthrough ends deadlock, enabling thousands to stream back on foot through zone",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 465,
+    "articlesAfterDedup": 464,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 7,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 6,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

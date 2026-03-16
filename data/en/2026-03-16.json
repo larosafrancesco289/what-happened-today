@@ -1,0 +1,193 @@
+{
+  "date": "2026-03-16",
+  "summary": "President Trump urged NATO allies and China to send warships to guard oil shipments through the Strait of Hormuz after Iran's closure. This follows his call yesterday for allies to deploy warships. U.S. Energy Secretary Jennifer Granholm warned high oil prices will persist. Global oil shipments face disruptions, with affected countries including major importers in Europe and Asia.\n\nPakistani airstrikes targeted areas in Afghanistan, killing 75 civilians and displacing 115,000 people. Pakistan and Afghanistan vowed further escalation absent peace talks. In eastern Congo, Rwanda-backed rebels overran Goma after defeating government troops, displacing over 1 million residents now crowding the aid hub. NATO launched its first coordinated response after a second Baltic Sea cable severance, following the initial cut yesterday; the alliance is bolstering defenses for European energy and telecom networks.\n\nRepublicans blocked Democrats' calls for public hearings on the U.S.-Iran war, now in its third week, delaying testimony from Trump officials. Israel permitted Palestinians to return to northern Gaza on foot after a hostage deal breakthrough, while Rafah crossing closure halted medical evacuations for thousands of patients. UK Prime Minister Keir Starmer told mostly European leaders in a virtual meeting that Russia must accept Ukraine ceasefire talks amid stalled negotiations. Myanmar's junta convened a proxy parliament in Naypyidaw, its first since the 2021 coup. SpaceX launched Crew-10 from Florida to the International Space Station, set to retrieve U.S. astronauts Butch Wilmore and Suni Williams after nine months and dock Saturday. Severe storms brought snow to the Midwest, high winds to the Plains, and tornado risks to the mid-Atlantic, disrupting travel for millions.\"}",
+  "headlines": [
+    {
+      "title": "Pakistani Airstrikes Kill 75 Civilians Displace 115000 in Afghanistan",
+      "source": "New York Times",
+      "summary": "Pakistani airstrikes targeted Afghan areas killing at least 75 civilians and displacing 115000 people as both sides vow further escalation without peace talks. Afghan civilians suffer heaviest losses; regional stability worsens with no negotiations planned. This intensifies cross-border conflict affecting South Asian security.",
+      "link": "https://www.nytimes.com/2026/03/15/world/asia/afghanistan-pakistan-war.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Goma Troops Displacing Over 1 Million",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-backed rebels entered Congo's Goma city with gunfire and shelling after defeating troops; over 1 million displaced residents now cram the aid hub. Congolese civilians and U.N. operations face immediate threats. This endangers humanitarian safe havens in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Republicans Block Democrats Calls for Iran War Hearings in Congress",
+      "source": "Associated Press",
+      "summary": "Republicans resist public hearings on U.S.-Iran war entering third week despite Democrats demands for Trump officials testimony. U.S. lawmakers and public remain uninformed on conflict justification. This standoff delays oversight amid ongoing Middle East hostilities.",
+      "link": "https://apnews.com/article/iran-war-congress-trump-democrats-hearings-a42ec470eb35bc341249d602114ef856",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA SpaceX Launch Crew-10 Retrieves Astronauts Stuck Nine Months",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 launched Crew-10 from Florida carrying four astronauts to International Space Station for routine rotation and return of Butch Wilmore Suni Williams after nine months. U.S. Japan Russia astronauts affected; docking expected Saturday. This resolves stranding ensuring station operations continuity.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Severe Storms Dump Snow High Winds Raise Tornado Threats Across US",
+      "source": "Associated Press",
+      "summary": "Severe weather hits eastern U.S. with snow in Midwest winds in Plains and tornado risks in mid-Atlantic; roads impassable in Upper Midwest. Millions of Americans face travel disruptions colder air incoming. This disrupts daily life economy during spring transition.",
+      "link": "https://apnews.com/article/severe-weather-storm-snow-east-coast-a8bbd037aba99aaf0cc930e91fdb72ca",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rafah Crossing Closure Traps Gaza Patients Without Medical Evacuations",
+      "source": "Al Jazeera",
+      "summary": "Closure of Rafah crossing halts evacuations leaving thousands of Gaza patients worsening without treatment. Palestinian civilians in south Gaza suffer health crises. This exacerbates humanitarian blockade amid ongoing conflict.",
+      "link": "https://www.aljazeera.com/news/2026/3/16/rafah-crossing-closure-leaves-gaza-patients-trapped-without-treatment?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Myanmar Junta Allies Convene Proxy Parliament First Time Since 2021 Coup",
+      "source": "South China Morning Post",
+      "summary": "Junta-stacked parliament meets in Naypyidaw five years after coup ousting elected government; covers one-third of country. Myanmar civilians under military rule face legitimacy questions. This entrenches junta control hindering democracy restoration.",
+      "link": "https://www.scmp.com/week-asia/politics/article/3346724/myanmars-junta-proxy-parliament-meets-first-time-2021-coup?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "UKs Starmer Urges Leaders Push Russia Toward Ukraine Ceasefire Talks",
+      "source": "Voice of America",
+      "summary": "British PM Keir Starmer tells coalition of mostly European leaders Russia must yield to ceasefire in three-year Ukraine war during virtual meeting. Ukrainian civilians soldiers affected; U.S. absent. This sustains diplomatic pressure for peace amid stalled talks.",
+      "link": "https://www.voanews.com/a/starmer-sooner-or-later-russia-must-yield-to-peace/8011681.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Palestinians Stream Back Northern Gaza After Hostage Deadlock Breaks",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Deadlock over hostage releases broken enabling displaced Gazans to cross military zone",
+      "summary": "Palestinians flock on foot to northern Gaza after Israel permits crossing bisecting enclave post-hostage breakthrough. Displaced Gazans return amid ruins; aid access uncertain. This eases some restrictions but highlights unresolved conflict dynamics.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches Coordinated Response After Second Baltic Sea Cable Severed",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Another deep-sea cable severed in suspected sabotage campaign",
+      "summary": "NATO mounts first coordinated response to infrastructure sabotage following new Baltic Sea cable cut. European energy telecom networks at risk; alliance bolsters defenses. This counters hybrid threats from adversaries.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Pressures NATO China Send Warships Guard Strait Hormuz Oil Shipments",
+      "source": "New York Times",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Gains little traction as Iran closes strait to U.S. allies raising energy prices",
+      "summary": "President Trump urges NATO allies China for warships amid Iran closure of Hormuz strait; U.S. energy secretary warns high prices persist. Global oil shipments allies affected. This tests alliances in escalating Iran conflict.",
+      "link": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 456,
+    "articlesAfterDedup": 454,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 4,
+      "science": 1,
+      "environment": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "africa": 1,
+      "americas": 2,
+      "global": 2,
+      "middle-east": 2,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

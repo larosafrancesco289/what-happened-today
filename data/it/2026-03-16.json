@@ -1,0 +1,204 @@
+{
+  "date": "2026-03-16",
+  "summary": "Israele ha avviato operazioni terrestri nel sud del Libano contro Hezbollah. Le forze israeliane sono entrate in territorio libanese dopo i bombardamenti precedenti che hanno causato 14 morti, tra cui quattro bambini. Coinvolti militari israeliani e forze libanesi. Le Nazioni Unite hanno denunciato attacchi contro caschi blu della missione Unifil nel sud Libano durante le tensioni. Questo fa seguito ai raid israeliani di ieri. Si attendono ulteriori scontri con possibili effetti sulla stabilizzazione regionale.\n\nDonald Trump ha avvertito la Nato di conseguenze negative se non contribuisce a riaprire lo Stretto di Hormuz, bloccato dall'Iran. La minaccia mira a condividere oneri militari con alleati europei e Israele, mentre i prezzi energetici aumentano a livello globale. Questo fa seguito all'invito di ieri di Trump agli alleati per inviare navi. L'Unione Europea ha proposto di rafforzare la missione Aspides, già attiva per il Mar Rosso, per applicarla allo Stretto di Hormuz, evitando una nuova coalizione Nato. Leader europei discutono l'efficacia della misura.\n\nQuattro raid in sedici giorni hanno colpito le basi Ali Al Salem e Camp Singara in Kuwait, con soldati italiani presenti ma tutti illesi. Il ministro Tajani ha confermato gli impegni italiani. Separatamente, un incendio ha distrutto un ospedale in India causando dieci morti e undici ustionati tra il personale. Autorità locali indagano le cause. In Italia, il Consiglio dei ministri ha limitato il taglio delle accise sui carburanti a famiglie Isee sotto 15mila euro, autotrasporto e imprese, per un extragettito di 9,5 milioni al giorno. Fincantieri ha rinviato la cessione della nave Garibaldi all'Indonesia, espandendo il business in difesa nell'Indo-Pacifico. Procuratori liguri hanno rivelato intercettazioni del governatore Toti che ammetteva con il capo gabinetto di aver aumentato i dati sui contagi Covid. L'indagine procede.",
+  "headlines": [
+    {
+      "title": "Israele avvia operazioni terrestri nel sud del Libano",
+      "source": "ANSA",
+      "summary": "Israele inizia operazioni terrestri nel sud del Libano contro Hezbollah dopo bombardamenti precedenti. Coinvolti militari israeliani e forze libanesi. L'escalation rischia di allargare il conflitto regionale influenzando la sicurezza energetica globale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/16/medio-oriente-israele-avvia-le-operazioni-terrestri-nel-sud-del-libano._82343a99-38cd-44fe-9fc7-a11633e8b732.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump avverte Nato di futuro negativo senza aiuto su Stretto di Hormuz",
+      "source": "AGI",
+      "sources": [
+        "ANSA",
+        "AGI",
+        "Euronews Italiano",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Donald Trump minaccia la Nato con conseguenze negative se non contribuisce a riaprire lo Stretto di Hormuz bloccato dall'Iran. Coinvolti Usa, alleati europei e Israele. La mossa mira a condividere oneri militari mentre i prezzi energetici salgono worldwide.",
+      "link": "https://www.agi.it/estero/news/2026-03-16/iran-notizie-guerra-16-marzo-36130244/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Collega avvertimento Nato a Cina sul 90% del suo petrolio da Hormuz",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/16/medio-oriente-israele-avvia-le-operazioni-terrestri-nel-sud-del-libano._82343a99-38cd-44fe-9fc7-a11633e8b732.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Cita intervista Financial Times su aiuto simile a Ucraina contro Russia",
+          "link": "https://www.agi.it/estero/news/2026-03-16/iran-notizie-guerra-16-marzo-36130244/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Enfatizza minacce Iran a navi mercantili e impennata prezzi energia",
+          "link": "http://it.euronews.com/2026/03/16/guerra-in-medio-oriente-tump-minaccia-la-nato-se-non-ci-aiuta-a-hormuz-conseguenze-negativ"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea risposta Europa che non asseconda richiesta coalizione",
+          "link": "https://www.repubblica.it/esteri/2026/03/16/news/l_europa_non_asseconda_trump_e_lui_avverte_la_nato_futuro_molto_negativo-425224094/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta accordo Starmer-Trump su importanza riapertura Stretto",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-15-marzo_110005669-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Quattro attacchi in sedici giorni colpiscono basi con soldati italiani",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "TGCOM24"
+      ],
+      "summary": "Quattro raid in sedici giorni su basi Ali Al Salem e Camp Singara colpiscono soldati italiani in Kuwait. Tutti illesi ma Tajani conferma impegni. Cresce tensione per sicurezza truppe in area Medio Oriente.",
+      "link": "https://www.ilsole24ore.com/art/medio-oriente-quattro-attacchi-contro-basi-soldati-italiani-AIuDGUyB",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Dettaglia tre attacchi ad Ali Al Salem e uno su Camp Singara tutti illesi",
+          "link": "https://www.ilsole24ore.com/art/medio-oriente-quattro-attacchi-contro-basi-soldati-italiani-AIuDGUyB"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta drone su base Kuwait e risposta Tajani non intimorirsi",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-15-marzo_110005669-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Incendio distrugge ospedale in India causando dieci morti",
+      "source": "TGCOM24",
+      "summary": "Incendio in ospedale indiano provoca dieci morti e undici ustionati tra personale durante soccorsi. Autorità locali indagano cause. Evento evidenzia rischi sicurezza strutture sanitarie in India.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/india-incendio-ospedale-dieci-morti_110052791-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Governo italiano frena taglio accise carburanti per famiglie Isee sotto 15mila euro",
+      "source": "Il Sole 24 Ore",
+      "summary": "Consiglio dei ministri limita taglio accise carburanti a famiglie Isee sotto 15mila euro autotrasporto e imprese per extragettito 9,5 milioni al giorno. Misura alleggerisce costi energia famiglie vulnerabili.",
+      "link": "https://www.ilsole24ore.com/art/accise-carburanti-governo-frena-taglio-ecco-chi-riguardera-AIcIpPyB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Fincantieri cresce in difesa Indo-Pacifico con rinvio cessione nave Garibaldi Indonesia",
+      "source": "Euronews Italiano",
+      "summary": "Fincantieri espande business difesa in Medio Oriente e Sud-est asiatico. Italia rinvia in Commissione ok cessione nave Garibaldi all'Indonesia. Strategia rafforza presenza italiana in area strategica.",
+      "link": "http://it.euronews.com/2026/03/16/litalia-punta-sullindo-pacifico-partendo-dal-grande-business-di-fincantieri",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Unione Europea propone rafforzare Aspides per riaprire Stretto di Hormuz",
+      "source": "la Repubblica",
+      "summary": "Ue risponde a Trump puntando su missione Aspides già attiva per Suez applicata a Hormuz. Coinvolti leader europei contro dubbi efficacia. Alternativa evita nuova coalizione Nato.",
+      "link": "https://www.repubblica.it/esteri/2026/03/16/news/europa_risponde_trump_riaprire_hormuz_rafforzare_aspides-425223665/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm liguri rivelano intercettazioni Toti su manipolazione dati Covid",
+      "source": "Corriere della Sera",
+      "summary": "Procuratori pubblicano chat in cui governatore Toti ammette a capo gabinetto di aver aumentato dati contagi Covid. Indagine procede su falsificazione numeri pandemia. Episodio mina credibilità gestione Liguria.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rivelate intercettazioni con frasi come 'io avevo già truccato' e 'li ho un po’ aumentati' sui contagi",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Nazioni Unite denunciano attacchi a caschi blu Unifil in Libano",
+      "source": "TGCOM24",
+      "summary": "Nazioni Unite segnalano caschi blu Unifil presi di mira in Libano durante tensioni. Coinvolti peacekeeper internazionali. Evento complica missione stabilizzazione sud Libano con escalation israeliana.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-15-marzo_110005669-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Primi attacchi segnalati oggi contro peacekeeper Unifil in contesto operazioni israeliane",
+      "sources": [
+        "TGCOM24"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 245,
+    "articlesAfterDedup": 245,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 4,
+      "environment": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "global": 1,
+      "europe": 4,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 2
+    }
+  }
+}

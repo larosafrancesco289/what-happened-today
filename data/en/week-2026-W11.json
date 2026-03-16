@@ -1,0 +1,162 @@
+{
+  "weekId": "2026-W11",
+  "startDate": "2026-03-09",
+  "endDate": "2026-03-15",
+  "summary": "Weekly News Briefing: March 9-15, 2026\n\nThe Iran war dominated headlines, escalating with naval confrontations, missile exchanges, and strikes across the Middle East. Global oil shipments faced severe disruptions from Iran's Strait of Hormuz blockade, noted on March 10, 12, and 14.\n\nOn March 9, Iran's Assembly of Experts named Mojtaba Khamenei supreme leader, a development referenced again on March 11 when he inherited his father's secretive National Security Office. Brent crude oil hit $101.19 per barrel amid the conflict, while Israel struck Tehran oil depots. These stories faded after initial reports. Israel's March 12 strike killed seven on Beirut's seafront amid Gulf tanker explosions.\n\nMissile activity intensified: Iran targeted UAE, Bahrain, and Saudi Arabia on March 10; Israel activated air defenses against salvos on March 11; and U.S.-Israeli strikes killed 15 in an Isfahan factory on March 15.\n\nU.S. involvement surged. President Trump threatened massive strikes over the Hormuz blockade on March 10 and urged allies to send warships on March 15. The Pentagon reported $11.3 billion in costs for the war's first six days on March 12. Military actions included strikes on 16 Iranian mine-laying vessels near Hormuz on March 11, sites on Kharg Island on March 14 (with oil infrastructure warned next), and deployment of 2,000 Marines from Japan. Casualties mounted: Kentucky Army Sgt. Benjamin Pennington became the seventh U.S. death on March 10; a KC-135 refueling plane crashed in Iraq on March 13; and an Iran-backed militia attacked the U.S. Embassy in Baghdad for a second time on March 15. Pro-Iran militia vowed to target French interests after a soldier's death in northern Iraq on March 13.\n\nPeripheral escalations included Pakistan Air Force strikes on Kabul and Afghan border provinces, killing four civilians, on March 13.\n\nStories persisting across the week included the Hormuz blockade's oil disruptions, U.S. and Israeli strikes, Trump's diplomatic pressures, and rising casualties/costs. One-day stories like the Khamenei succession, oil price peak, Tehran depot strikes, Palestinian crossings into northern Gaza post-hostage deal, and Rwanda-backed rebels overrunning Goma (displacing one million) quickly faded, underscoring the war's centrality.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Iran's Assembly of Experts names Mojtaba Khamenei supreme leader",
+    "Brent crude oil prices reach $101.19 per barrel amid Iran war",
+    "Israel strikes Tehran oil depots to limit Iranian regime governance",
+    "Palestinians cross into northern Gaza after hostage release deal",
+    "Rwanda-backed rebels overrun Goma displacing one million people",
+    "NATO coordinates first response to Baltic Sea cable sabotage",
+    "Hezbollah clashes with Israeli ground forces in eastern Lebanon",
+    "G7 leaders plan talks on releasing emergency oil reserves",
+    "Bahrain oil company declares force majeure on shipments post-attack",
+    "Iran launches missile attacks on UAE, Bahrain and Saudi Arabia"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-03-09",
+      "title": "Iran's Assembly of Experts names Mojtaba Khamenei supreme leader",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "Brent crude oil prices reach $101.19 per barrel amid Iran war",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "Israel strikes Tehran oil depots to limit Iranian regime governance",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Iran launches missile attacks on UAE, Bahrain and Saudi Arabia",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "US President Trump threatens Iran with massive strikes over Hormuz blockade",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Kentucky Army Sgt. Benjamin Pennington dies as seventh US casualty in Iran war",
+      "category": "conflict",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "U.S. Military Strikes 16 Iranian Mine-Laying Vessels Near Strait of Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Israel Activates Air Defenses Against Iranian Missile Salvoes Across Middle East",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Iran's New Supreme Leader Inherits Father's Secretive National Security Office",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Israeli Strike Kills Seven People on Central Beirut Seafront Amid Gulf Tanker Explosions",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Iran War Blocks Strait of Hormuz Disrupting Global Oil and Gas Shipments",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Pentagon Reports $11.3 Billion U.S. Cost in First Six Days of Iran War",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "U.S. Military KC-135 Refueling Plane Crashes in Iraq Rescue Efforts Underway",
+      "category": "conflict",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "Pro-Iran Militia Vows to Target French Interests After Soldier Killed in Northern Iraq",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "Pakistan Air Force Strikes Kabul and Afghan Border Provinces Killing Four Civilians",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "U.S. Strikes Military Sites on Iran's Kharg Island Trump Warns Oil Infrastructure Next",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "U.S. Deploys 2,000 Marines from Japan to Middle East as Iran War Escalates",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "President Trump Urges Allies to Send Warships to Secure Strait of Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "Iran-Backed Militia Launches Second Attack on U.S. Embassy in Baghdad",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "U.S.-Israeli Strikes Kill at Least 15 People in Isfahan Factory",
+      "category": "conflict",
+      "region": "middle-east"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 3237,
+    "totalSourcesUsed": 23,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "politics": 13,
+      "economy": 7,
+      "conflict": 37,
+      "science": 5,
+      "society": 6,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 30,
+      "global": 11,
+      "africa": 10,
+      "europe": 8,
+      "americas": 7,
+      "asia-pacific": 3
+    }
+  }
+}

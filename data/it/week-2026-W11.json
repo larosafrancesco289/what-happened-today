@@ -1,0 +1,167 @@
+{
+  "weekId": "2026-W11",
+  "startDate": "2026-03-09",
+  "endDate": "2026-03-15",
+  "summary": "Dal 9 al 15 marzo 2026, la settimana è stata dominata dall'escalation del conflitto nel Golfo Persico tra Iran, Stati Uniti e alleati, con attacchi missilistici, droni e contromisure militari. Questa storia persistente ha visto sviluppi quotidiani, senza risoluzioni significative.\n\nIl 9 marzo, l'assemblea degli esperti iraniani ha nominato Mojtaba Khamenei nuova Guida Suprema, ma la notizia è svanita rapidamente. Nello stesso giorno, droni iraniani hanno colpito il Bahrein causando 32 feriti, inclusi due bambini, anch'essa una storia effimera. Il prezzo del Brent ha superato i 102 dollari, con un rialzo del 10% legato alla guerra nel Golfo, tema che ha persistito.\n\nIl 10 marzo, il presidente Trump ha dichiarato la guerra all'Iran 'quasi conclusa' minacciando attacchi 'venti volte più forti'. L'Iran ha lanciato missili e droni sugli Emirati Arabi Uniti, undicesimo giorno di conflitto, e ha condizionato una tregua allo stop degli attacchi, in attesa del discorso di Khamenei.\n\nL'11 marzo, missili iraniani hanno colpito basi USA in Iraq e Bahrein; l'Arabia Saudita ne ha abbattuti sei balistici. L'intelligence USA ha rilevato mine iraniane nello Stretto di Hormuz, con Trump che ha esigito la rimozione. Forze israeliane hanno condotto una vasta ondata di attacchi su Teheran (notizie correlate su Libano e Iran centrale sono svanite).\n\nIl 12 marzo, l'Iran ha lanciato missili sulla base italiana di Erbil (120 militari illesi). Il prezzo del petrolio ha superato i 100 dollari dopo attacchi a navi nello Stretto di Hormuz. Gli USA hanno approvato il prelievo di 172 milioni di barili dalle riserve strategiche.\n\nIl 13 marzo, il ministro Crosetto ha definito l'attacco a Erbil 'deliberato' avviando il ritiro del contingente italiano. Gli USA hanno autorizzato l'acquisto temporaneo di petrolio russo. Media USA hanno confermato le mine iraniane.\n\nIl 14 marzo, gli USA hanno eseguito un raid sull'isola di Kharg azzerando obiettivi militari iraniani. Droni iracheni hanno colpito l'ambasciata USA a Baghdad (due morti). Gli USA hanno inviato 2.500 marines e navi nel Golfo Persico.\n\nIl 15 marzo, servizi europei hanno espresso timori per un possibile nucleare tattico russo su Kiev per distrarre gli USA. Droni ucraini hanno colpito la raffineria Tijoretsk-Nafta a Krasnodar. In Francia, si è votato per eleggere 35.000 sindaci in un test presidenziale.\n\nStorie persistenti includono l'escalation militare, impatti sul petrolio e risposte USA/alleati. Altre, come la nomina di Khamenei, l'attacco al Bahrein, il picco Brent e un vertice G7 sulle riserve petrolifere (9 marzo), sono svanite dopo un giorno, evidenziando il focus sul conflitto principale. (378 parole)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Assemblea esperti nomina Mojtaba Khamenei nuova Guida suprema Iran",
+    "Droni iraniani colpiscono Bahrein con 32 feriti inclusi due bambini",
+    "Prezzo Brent supera 102 dollari con rialzo del 10% per guerra Golfo",
+    "G7 convoca vertice emergenza su riserve petrolio per contrastare rincari",
+    "Forze israeliane lanciano attacchi su Libano e Iran centrale",
+    "Raid colpiscono depositi petrolio Iran causando nube tossica Teheran",
+    "Trump avverte successore Khamenei non durerà senza approvazione USA",
+    "Meloni annuncia tasse su chi specula su prezzi carburanti guerra",
+    "Starmer e Macron spingono per soluzione diplomatica con telefonate USA",
+    "Trump dichiara guerra Iran quasi conclusa e minaccia attacchi venti volte più forti"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-03-09",
+      "title": "Assemblea esperti nomina Mojtaba Khamenei nuova Guida suprema Iran",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "Droni iraniani colpiscono Bahrein con 32 feriti inclusi due bambini",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "Prezzo Brent supera 102 dollari con rialzo del 10% per guerra Golfo",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Trump dichiara guerra Iran quasi conclusa e minaccia attacchi venti volte più forti",
+      "category": "conflict",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Iran lancia missili e droni su Emirati Arabi Uniti nel undicesimo giorno conflitto",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Teheran condiziona tregua a stop attacchi e attende discorso Mojtaba Khamenei",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Iran lancia missili su basi Usa in Iraq e Bahrein. Arabia Saudita abbatte sei balistici",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Intelligence Usa rileva mine iraniane nello Stretto di Hormuz. Trump esige rimozione",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Forze israeliane lanciano vasta ondata di attacchi su Teheran",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Iran lancia missili su base italiana Erbil, 120 militari restano illesi",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Prezzo petrolio supera 100 dollari al barile dopo attacchi iraniani navi Stretto Hormuz",
+      "category": "economy",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Stati Uniti approvano prelievo 172 milioni barili riserve strategiche petrolio",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "Ministro Crosetto definisce attacco Erbil atto deliberato e avvia ritiro contingente italiano",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "Stati Uniti autorizzano acquisto petrolio russo per periodo breve e circoscritto",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "Media Usa rilevano mine iraniane nello Stretto di Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "Stati Uniti eseguono raid su isola Kharg azzerando obiettivi militari iraniani",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "Droni iracheni colpiscono ambasciata Usa a Baghdad causando due morti",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "Stati Uniti inviano 2500 marines e navi nel Golfo Persico",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "Servizi europei temono nucleare tattico russo su Kiev per distrazione Usa nel Golfo",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "Droni ucraini colpiscono raffineria Tijoretsk-Nafta nel Krasnodar",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "Francia vota per eleggere 35mila sindaci in test presidenziali",
+      "category": "politics",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1712,
+    "totalSourcesUsed": 8,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "politics": 24,
+      "conflict": 22,
+      "economy": 9,
+      "environment": 2,
+      "society": 6,
+      "science": 4
+    },
+    "regionCounts": {
+      "middle-east": 26,
+      "global": 6,
+      "europe": 28,
+      "americas": 4,
+      "asia-pacific": 3
+    }
+  }
+}

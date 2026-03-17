@@ -1,0 +1,235 @@
+{
+  "date": "2026-03-17",
+  "summary": "Tre attentati suicidi hanno colpito un mercato e un ospedale a Maiduguri, nel nord-est della Nigeria, causando 23 morti e oltre 100 feriti. Gruppi jihadisti locali sono coinvolti. Le autorità nigeriane hanno intensificato le misure di sicurezza. Questo episodio avviene nella regione del Sahel, dove persistono instabilità. \n\nNella diciottesima giornata di escalation in Medio Oriente, droni e razzi hanno bersagliato l'ambasciata Usa a Baghdad, con un razzo che ha colpito la struttura. Israele ha lanciato attacchi su Beirut e Teheran contro Hezbollah. Qatar ed Emirati Arabi Uniti segnalano tensioni, con rischio di conflitto regionale più ampio nel Golfo. Questo fa seguito alle operazioni terrestri israeliane nel sud del Libano avviate ieri. Separatamente, la premier italiana Giorgia Meloni ha espresso opposizione a un intervento militare nello Stretto di Hormuz, definendolo un passo verso il coinvolgimento nella guerra. Il G7 è diviso, con Italia, Canada, Ue, Germania, Francia e Regno Unito contrari a Usa e Giappone. L'Ue valuta un corridoio marittimo sicuro per Hormuz sul modello del Mar Nero per il grano ucraino, discusso da Kaja Kallas con l'Onu. Lo Stretto trasporta un terzo dei fertilizzanti mondiali, con rischi per i costi agricoli e i prezzi alimentari in Italia e Ue. \n\nDetriti di un razzo lanciato da Hezbollah e intercettato da Israele hanno colpito una base Unifil italiana nel sud del Libano: un militare è stato trattato per dolore all'occhio, nessun ferito grave. Si tratta del terzo incidente per basi italiane dopo quelli in Kurdistan e Kuwait, in sedici giorni. A Cuba, un blackout nazionale ha lasciato milioni senza elettricità, esponendo fragilità della rete. Il presidente Usa Donald Trump ha dichiarato di voler 'prendere Cuba' e chiesto le dimissioni di Miguel Díaz-Canel per negoziati. In Italia, aziende subiscono 2500 cyberattacchi settimanali, il 20% sopra la media globale, con ruolo crescente dell'IA. Intercettazioni rivelano che il governatore ligure Giovanni Toti ha ammesso di aver truccato dati sui contagi Covid: l'inchiesta procede.",
+  "headlines": [
+    {
+      "title": "Attentatori suicidi colpiscono mercato e ospedale a Maiduguri causando 23 morti e oltre 100 feriti",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "la Repubblica"
+      ],
+      "summary": "Tre attentati suicidi hanno devastato un mercato e un ospedale nella città nigeriana di Maiduguri, nel nord-est del Paese, uccidendo 23 persone e ferendone oltre 100. Coinvolti gruppi jihadisti locali, le autorità intensificano le misure di sicurezza. L'episodio evidenzia la persistente instabilità nella regione del Sahel.",
+      "link": "https://www.rainews.it/articoli/2026/03/nigeria-esplosioni-a-maiduguri-vittime-100-feriti-in-attentati-suicidi-7381f78d-c728-42ad-b539-b1cc8cf6594c.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Descrive esplosioni a Maiduguri con 23 morti e oltre 100 feriti in attentati suicidi",
+          "link": "https://www.rainews.it/articoli/2026/03/nigeria-esplosioni-a-maiduguri-vittime-100-feriti-in-attentati-suicidi-7381f78d-c728-42ad-b539-b1cc8cf6594c.html"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Specifica attacchi a mercato e ospedale con vittime confermate",
+          "link": "https://www.rainews.it/video/2026/03/nigeria-attentatori-suicidi-a-maiduguri-colpiti-mercato-e-ospedale-ci-sono-vittime-3af37e03-3e50-43e7-b788-c0d03f8a2d6c.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta diverse esplosioni presumibilmente kamikaze a Maiduguri con 23 morti",
+          "link": "https://www.repubblica.it/esteri/2026/03/17/news/nigeria_attentati_kamikaze_morti_feriti-425226451/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Droni e razzi colpiscono ambasciata Usa a Baghdad mentre Israele attacca Beirut e Teheran",
+      "source": "AGI",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24",
+        "AGI"
+      ],
+      "summary": "Nella diciottesima giornata di escalation, droni e missili hanno bersagliato l'ambasciata Usa a Baghdad con un razzo che ha colpito la struttura; Israele ha lanciato attacchi su Beirut e Teheran contro Hezbollah. Qatar e Emirati segnalano tensioni. Rischio di conflitto regionale più ampio nel Golfo.",
+      "link": "https://www.agi.it/estero/news/2026-03-17/iran-notizie-guerra-17-marzo-36146246/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Evidenzia attacco all'ambasciata Usa a Baghdad e intercettazione missile in Qatar",
+          "link": "http://it.euronews.com/2026/03/17/medio-oriente-attaccata-ambasciata-usa-a-baghdad-qatar-intercetta-un-missile"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Descrive colpo all'ambasciata Usa e attacchi israeliani su Beirut e Teheran",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-17-marzo_110082146-202602k.shtml"
+        },
+        {
+          "source": "AGI",
+          "angle": "Riporta ondata di attacchi israeliani su Beirut e Teheran più droni su ambasciata Usa",
+          "link": "https://www.agi.it/estero/news/2026-03-17/iran-notizie-guerra-17-marzo-36146246/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Meloni avverte che intervento militare a Hormuz porta verso coinvolgimento nella guerra",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "La premier Meloni esprime opposizione all'intervento a Hormuz definendolo passo verso il conflitto; G7 si divide con Italia, Canada, Ue, Germania, Francia e Regno Unito contro Usa e Giappone. Priorità alla de-escalation per proteggere militari italiani nel Golfo. Impatta prezzi energia e commercio Ue.",
+      "link": "https://www.repubblica.it/esteri/2026/03/17/news/g7_spaccato_libano_meloni_stretto_hormuz-425226261/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea spaccatura G7 con Meloni che frena su Hormuz come passo verso guerra",
+          "link": "https://www.repubblica.it/esteri/2026/03/17/news/g7_spaccato_libano_meloni_stretto_hormuz-425226261/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Cita Meloni su rischio guerra a Hormuz e no di Berlino Londra Ue",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-16-marzo_110052798-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Detriti di razzo intercettato colpiscono base Unifil italiana in Libano",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Detriti di un razzo lanciato da Hezbollah e intercettato dagli israeliani hanno colpito la base Unifil italiana; un militare trattato per dolore all'occhio, nessun ferito grave. Terzo incidente dopo Kurdistan e Kuwait. Aumenta preoccupazione per caschi blu nel sud Libano.",
+      "link": "https://www.repubblica.it/esteri/2026/03/17/news/unifil_razzo_base_italiana-425226281/?rss",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive detriti razzo su base Unifil italiana come terzo caso con militare assistito",
+          "link": "https://www.repubblica.it/esteri/2026/03/17/news/unifil_razzo_base_italiana-425226281/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta detriti su base Unifil senza feriti e dichiarazioni Meloni",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-16-marzo_110052798-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump dichiara di voler prendere Cuba e chiede dimissioni del presidente Diaz-Canel",
+      "source": "AGI",
+      "summary": "Il presidente Usa Donald Trump annuncia di voler 'prendere Cuba' mentre Washington preme per le dimissioni di Miguel Díaz-Canel per avanzare negoziati. Dichiarazione segue colloqui riservati riportati dal New York Times. Potrebbe segnare svolta nelle relazioni bilaterali tese.",
+      "link": "https://www.agi.it/estero/news/2026-03-17/usa-cuba-diaz-canel-36146975/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Blackout nazionale spegne luci a Cuba esponendo fragilità rete elettrica",
+      "source": "Euronews Italiano",
+      "summary": "Un blackout ha colpito l'intera Cuba lasciando milioni senza corrente in condizioni di caldo e carenze. Rivela debolezze infrastrutturali del sistema elettrico nazionale. Governo lavora al ripristino mentre aumenta pressione su Díaz-Canel.",
+      "link": "http://it.euronews.com/video/2026/03/17/blackout-manda-cuba-al-buio-e-mette-a-nudo-la-fragilita-della-rete-elettrica",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia subisce 2500 cyberattacchi settimanali superando media globale del 20 per cento",
+      "source": "ANSA",
+      "summary": "Ricerca rivela 2500 attacchi cyber ogni settimana contro aziende italiane, 20% sopra media mondiale, con ruolo crescente dell'IA. Colpite imprese nostrane in misura maggiore. Necessarie misure di difesa rafforzate per economia digitale.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/03/12/in-italia-2.500-cyberattacchi-ogni-settimana-superata-la-media-globale_eb75a129-f48c-4ef0-8478-5e2661d1fd82.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Unione Europea valuta corridoio marittimo sicuro per Hormuz sul modello Mar Nero",
+      "source": "Il Sole 24 Ore",
+      "summary": "Alta rappresentante Ue Kaja Kallas discute con Onu Guterres un corridoio protetto per Hormuz simile a quello ucraino per il grano. Mira a sbloccare transiti petrolio e fertilizzanti. Cruciale per stabilità prezzi energia e agricoltura europea.",
+      "link": "https://www.ilsole24ore.com/art/un-corridoio-marittimo-sicuro-il-petrolio-e-modello-mar-nero-che-potrebbe-sbloccare-hormuz-AIi3eOzB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm liguri rivelano intercettazioni Toti che ammette di aver truccato dati Covid",
+      "source": "Corriere della Sera",
+      "summary": "Intercettazioni mostrano governatore ligure Giovanni Toti dire al capo gabinetto di aver aumentato i contagi Covid. Indagine su manipolazione numeri pandemia. Procede inchiesta con possibili conseguenze politiche regionali.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pm pubblicano intercettazioni dettagliate con Toti che confessa di aver già truccato i dati sui contagi",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Stretto di Hormuz trasporta un terzo fertilizzanti mondiali con rischi per agricoltura italiana",
+      "source": "Il Sole 24 Ore",
+      "summary": "Crisi Hormuz minaccia un terzo dei fertilizzanti globali passando per lo stretto, colpendo export Ue e Italia. Aumenterebbero costi agricoli e prezzi alimentari. Governi monitorano impatti su filiera produttiva nazionale.",
+      "link": "https://www.ilsole24ore.com/art/non-solo-petrolio-hormuz-passa-terzo-fertilizzanti-mondiali-ecco-l-impatto-sull-agricoltura-ue-e-italiana-AIta0XzB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 257,
+    "articlesAfterDedup": 257,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 4,
+      "economy": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "africa": 1,
+      "middle-east": 3,
+      "europe": 4,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

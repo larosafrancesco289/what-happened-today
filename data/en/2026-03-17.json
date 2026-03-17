@@ -1,0 +1,223 @@
+{
+  "date": "2026-03-17",
+  "summary": "Israel launched strikes on Tehran and Hezbollah targets in Lebanon on Tuesday. Iran fired missiles at the UAE and Qatar, which intercepted them over Dubai and Doha, closing airspace briefly. Gulf residents and travelers faced disruptions; energy supplies face risks from the escalation. This follows Iranian missile launches at Israel last week. Further strikes are expected between the parties.\n\nA Pakistani airstrike hit a Kabul drug rehabilitation hospital late Monday, killing 400 people. Afghanistan accuses Pakistan amid cross-border clashes since last month; residents and Taliban police are affected. Ceasefire calls have intensified. This follows Pakistani airstrikes last week that killed 75 civilians and displaced 115,000 in Afghanistan. In eastern Democratic Republic of Congo, Rwanda-backed rebels entered Goma city after overrunning troops, displacing over 1 million people inside the city per UN estimates; aid supplies are strained. This follows rebels overrunning Goma-area troops last week.\n\nIn northeastern Nigeria, suicide bombers attacked three sites in Borno state Monday night, killing scores and injuring others in Maiduguri and surroundings; emergency services are responding. South Sudan army ordered 50,000 Jonglei state residents to evacuate ahead of an offensive against rebels; displacement is imminent. Cuba's electrical grid failed island-wide, affecting all 11 million residents, after US blocked Venezuelan oil shipments; the government is investigating. Separately, a US appeals court lifted a block on Trump executive orders ending federal DEI programs; enforcement resumes in agencies. UK ended its Global Health Workforce Program in six African countries due to aid cuts, affecting health workers and patients this month. Chile's President Kast started northern border barrier construction against illegal immigration. SpaceX launched Crew-10 from Kennedy Space Center Friday with NASA, Japan, and Russia astronauts to relieve the ISS crew stuck nine months; Butch Wilmore and Suni Williams return soon. NATO deployed its first alliance-wide response after a Baltic Sea cable severance in a suspected sabotage campaign; patrols have increased.",
+  "headlines": [
+    {
+      "title": "Pakistani Airstrike Kills 400 People at Kabul Drug Rehabilitation Hospital",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "NPR News",
+        "BBC World"
+      ],
+      "summary": "Afghanistan accuses Pakistan of striking a Kabul hospital treating drug users late Monday, killing 400 amid escalating cross-border clashes since last month. Residents and Taliban police affected; ceasefire calls intensify. Raises risks of broader South Asian conflict.",
+      "link": "https://apnews.com/article/afghanistan-pakistan-border-clashes-children-killed-taliban-44c7bb28cdf68615b413a81eb4e4fe36",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Accused Pakistan of targeting hospital killing 400 in dramatic escalation of recent clashes",
+          "link": "https://apnews.com/article/afghanistan-pakistan-border-clashes-children-killed-taliban-44c7bb28cdf68615b413a81eb4e4fe36"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Covered Afghanistan accusation of Pakistan hospital airstrike with Pakistan dismissal",
+          "link": "https://www.npr.org/2026/03/16/g-s1-114013/pakistan-strike-kabul-hospital"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Visited struck facility and observed more than 30 bodies carried out on stretchers",
+          "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Launches Strikes on Tehran and Lebanon as Iran Fires Missiles at UAE Qatar",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "France 24"
+      ],
+      "summary": "Israel strikes Tehran and Hezbollah targets in Lebanon while UAE intercepts Iranian missiles over Dubai and Doha, closing airspace briefly. Gulf residents and travelers disrupted; energy supplies at risk. Escalates Middle East war threatening global markets.",
+      "link": "https://apnews.com/article/iran-iraq-us-israel-trump-march-17-2026-35d15d7cbcfa65fd7d180c28d38e7f31",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Highlighted explosions in Dubai Doha from Iranian fire and Israel new strikes Tuesday",
+          "link": "https://apnews.com/article/iran-iraq-us-israel-trump-march-17-2026-35d15d7cbcfa65fd7d180c28d38e7f31"
+        },
+        {
+          "source": "France 24",
+          "angle": "Live updated UAE intercepts of Iranian missiles drones and Israel strikes on Tehran Lebanon",
+          "link": "https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Cuba Endures Island-Wide Blackout Amid Trump Oil Blockade on Venezuelan Shipments",
+      "source": "Deutsche Welle",
+      "summary": "Cuban electrical grid disconnects completely causing nationwide blackout as US blocks Venezuelan oil to island. All 11 million Cubans lose power; government investigates. Exacerbates economic crisis prompting signals of foreign investment openness.",
+      "link": "https://www.dw.com/en/cuba-hit-by-island-wide-blackout-amid-trump-oil-blockade/a-76385816?maca=en-rss-en-top-1022-rdf",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Suicide Bombers Kill Scores of People in Three Borno State Locations Nigeria",
+      "source": "Associated Press",
+      "summary": "Suicide bombers attack at least three sites in northeastern Nigeria's Borno state Monday night leaving scores dead and injured. Residents of Maiduguri and surroundings affected; emergency services respond. Signals persistent Boko Haram threat to regional stability.",
+      "link": "https://apnews.com/article/nigeria-bombings-boko-haram-borno-maiduguri-2256cebae89370b21930b006c5aa6f6e",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "South Sudan Army Orders 50,000 Jonglei Residents to Flee Ahead of Offensive",
+      "source": "BBC World",
+      "summary": "South Sudan army warns 50,000 people to evacuate homes in Jonglei state before major military operation against rebels. Civilians on brink of civil war affected; displacement imminent. Threatens renewed nationwide conflict after fragile peace.",
+      "link": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "US Appeals Court Lifts Block on Trump Administration DEI Crackdown Orders",
+      "source": "Voice of America",
+      "summary": "Fourth Circuit appeals court allows enforcement of Trump executive orders ending federal DEI programs overturning lower court block. Government agencies and employees impacted; implementation resumes. Advances conservative policy reshaping workplace diversity initiatives.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "UK Government Cancels Global Health Workforce Program in Six African Countries",
+      "source": "The Guardian",
+      "summary": "UK axes flagship GHWP supporting healthcare training in six African nations due to aid budget cuts. Health workers and patients in Africa affected; program ends this month. Undermines pandemic preparedness hailed as UK security protection.",
+      "link": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Chile President Kast Launches Northern Border Barrier Plan to Curb Immigration",
+      "source": "France 24",
+      "summary": "Chile's new far-right president begins fortified barrier construction along northern border against illegal immigration. Northern communities and migrants impacted; reflects rising crime concerns. Signals tougher regional migration controls amid public demand.",
+      "link": "https://www.france24.com/en/americas/20260316-chile-president-launches-border-barrier-illegal-immigration",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma City Displacing Over 1 Million Congolese",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-backed rebels overrun troops and enter Goma safe-haven city triggering gunfire and shelling. Over 1 million displaced inside city per UN; aid strained. Worsens eastern Congo humanitarian catastrophe.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels advance from overrunning troops into Goma safe-haven city raising displacement to 1 million",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NASA SpaceX Launches Crew-10 Rocket to Retrieve Astronauts Stuck Nine Months",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries Crew-10 with NASA Japan Russia astronauts from Kennedy Space Center Friday to relieve station crew. Butch Wilmore Suni Williams return soon after nine months. Ensures continuous ISS operations vital for space research.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Crew-10 Falcon 9 rocket lifts off Friday evening docking expected Saturday",
+      "sources": [
+        "Voice of America"
+      ],
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Deploys Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO activates first alliance-wide response after another deep-sea cable severed in suspected sabotage campaign. Baltic infrastructure and members affected; patrols increase. Protects critical undersea communications amid hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Alliance mounts first coordinated operation following second cable severance",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 466,
+    "articlesAfterDedup": 464,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 19,
+    "categoryCounts": {
+      "conflict": 6,
+      "politics": 4,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "middle-east": 1,
+      "americas": 3,
+      "africa": 3,
+      "europe": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

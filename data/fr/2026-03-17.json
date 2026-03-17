@@ -1,0 +1,255 @@
+{
+  "date": "2026-03-17",
+  "summary": "L'armée israélienne a lancé mardi une vague de frappes sur Téhéran en Iran et sur trois quartiers de Beyrouth au Liban, au 18e jour du conflit. Cela fait suite aux opérations terrestres limitées lancées hier contre le Hezbollah au sud-Liban, qui se sont intensifiées avec des bombardements massifs sur des cibles militaires à Beyrouth. Des explosions ont été signalées à Dubaï et Doha. L'Iran a répondu lundi par des drones contre un champ pétrolier aux Émirats arabes unis et un autre dans le sud de l'Irak, provoquant un incendie et un mort à Abu Dhabi par débris de missile.\n\nLes prix du pétrole ont augmenté de plus de 5 % mardi sur les marchés mondiaux, en réaction à ces attaques qui menacent les approvisionnements via le Golfe. Donald Trump a échoué au deuxième jour de ses demandes auprès des alliés pour envoyer des navires sécuriser le détroit d'Ormuz, bloqué pour la navigation pétrolière. La France et l'Allemagne ont refusé une aide militaire immédiate contre l'Iran, Paris préparant une coalition post-conflit. Emmanuel Macron a convoqué un conseil de défense mardi sur la guerre au Moyen-Orient.\n\nAu Pakistan, des avions ont bombardé un centre de traitement pour toxicomanes à Kaboul en Afghanistan, tuant des dizaines de civils et provoquant la panique ; Kaboul accuse Islamabad d'une erreur. En Ukraine, l'armée a abattu plus de 150 drones russes dans la nuit ; Volodymyr Zelensky a visité le Royaume-Uni puis Madrid. En France, le Parti socialiste a conclu des accords de second tour avec La France insoumise dans plusieurs villes comme Toulouse, Brest et Nantes, renonçant à des clarifications sur l'antisémitisme malgré des critiques internes, pour le second tour des municipales en 2026.",
+  "headlines": [
+    {
+      "title": "Israël lance vague de frappes sur Téhéran et positions Hezbollah à Beyrouth",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "RTBF",
+        "Le Figaro",
+        "France Info",
+        "Libération",
+        "RFI"
+      ],
+      "summary": "L'armée israélienne bombarde mardi la capitale iranienne et trois quartiers de Beyrouth au Liban, au 18e jour du conflit. Explosions signalées à Dubaï et Doha. Cela intensifie l'escalade régionale et pèse sur les marchés énergétiques mondiaux.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/17/en-direct-guerre-au-moyen-orient-israel-dit-lancer-une-vague-de-frappes-sur-teheran-et-beyrouth-plusieurs-explosions-ont-retenti-a-dubai-aux-emirats-arabes-unis-ainsi-qu-a-doha_6671147_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur frappes israéliennes à Beyrouth et installation pétrolière aux Émirats",
+          "link": "https://www.lemonde.fr/international/live/2026/03/17/en-direct-guerre-au-moyen-orient-israel-dit-lancer-une-vague-de-frappes-sur-teheran-et-beyrouth-plusieurs-explosions-ont-retenti-a-dubai-aux-emirats-arabes-unis-ainsi-qu-a-doha_6671147_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Détaille explosions à Téhéran vues par correspondant sur place",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260317-le-correspondant-de-france-24-%C3%A0-t%C3%A9h%C3%A9ran-r%C3%A9veill%C3%A9-dans-la-nuit-par-de-tr%C3%A8s-fortes-explosions"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Mentionne instabilité géopolitique et impact sur économie mondiale",
+          "link": "https://www.rtbf.be/article/guerre-au-moyen-orient-israel-bombarde-teheran-et-le-liban-vague-d-attaques-en-irak-11695489"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iraniens frappent installations pétrolières aux Émirats arabes unis et en Irak",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Le Monde",
+        "Le Figaro"
+      ],
+      "summary": "Drones iraniens visent lundi un champ pétrolier aux Émirats et un autre en Irak sud, provoquant incendie. Un mort à Abu Dhabi par débris de missile. Cela menace approvisionnements pétroliers mondiaux et fait grimper les prix.",
+      "link": "https://www.20minutes.fr/monde/4212176-20260317-guerre-iran-incendie-important-champ-petrolier-emirats-arabes-unis?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Signale incendie dans champ pétrolier émirati et cible irakienne",
+          "link": "https://www.20minutes.fr/monde/4212176-20260317-guerre-iran-incendie-important-champ-petrolier-emirats-arabes-unis?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Indique installation pétrolière ciblée sur côte est des Émirats",
+          "link": "https://www.lemonde.fr/international/live/2026/03/17/en-direct-guerre-au-moyen-orient-israel-dit-lancer-une-vague-de-frappes-sur-teheran-et-beyrouth-plusieurs-explosions-ont-retenti-a-dubai-aux-emirats-arabes-unis-ainsi-qu-a-doha_6671147_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Européens refusent d'envoyer navires pour débloquer détroit d'Ormuz avec Trump",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "20 Minutes",
+        "Radio-Canada"
+      ],
+      "summary": "France et Allemagne rejettent demandes de Donald Trump d'aide militaire immédiate contre Iran au détroit d'Ormuz. Paris prépare coalition post-conflit. Cela isole États-Unis et complique navigation pétrolière.",
+      "link": "https://www.lemonde.fr/international/article/2026/03/17/detroit-d-ormuz-les-europeens-refusent-d-etre-entraines-dans-la-guerre-americano-israelienne-contre-l-iran_6671546_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Explique refus français d'être entraînés avant fin hostilités",
+          "link": "https://www.lemonde.fr/international/article/2026/03/17/detroit-d-ormuz-les-europeens-refusent-d-etre-entraines-dans-la-guerre-americano-israelienne-contre-l-iran_6671546_3210.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Cite chancelier allemand Merz recadrant Trump sur aide militaire",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4212194-20260317-guerre-iran-chancelier-allemand-merz-recadre-trump-otan-conflit-contre-teheran?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Prix du pétrole augmentent de plus de 5 pour cent après attaques au Moyen-Orient",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Marchés pétroliers réagissent mardi à escalade conflit par hausse de plus de 5%. Cela reflète craintes sur approvisionnements via Golfe et impacte inflation mondiale.",
+      "link": "https://www.lefigaro.fr/conjoncture/les-prix-du-petrole-bondissent-de-4-pousses-par-le-conflit-au-moyen-orient-20260317",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Pakistan bombarde Kaboul en Afghanistan et tue dizaines de civils",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Avions pakistanais frappent centre de traitement toxicomanes à Kaboul, provoquant dizaines de morts et panique. Kaboul accuse Islamabad d'erreur. Cela ravive tensions frontalières bilatérales.",
+      "link": "https://www.20minutes.fr/monde/afghanistan/4212178-20260317-afghanistan-dizaines-morts-scenes-panique-pakistan-bombarde-kaboul?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "PS conclut accords de second tour avec insoumis de LFI dans plusieurs villes",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "Libération"
+      ],
+      "summary": "Parti socialiste renonce clarifications antisémitisme et fusionne listes à Toulouse, Brest, Nantes malgré critiques internes. Cela vise battre droite au second tour municipales 2026.",
+      "link": "https://www.lemonde.fr/politique/article/2026/03/17/municipales-2026-a-gauche-la-volte-face-risquee-des-socialistes-qui-multiplient-les-accords-de-second-tour-avec-les-insoumis-de-jean-luc-melenchon_6671587_823448.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille volte-face PS sur propos LFI et unions locales",
+          "link": "https://www.lemonde.fr/politique/article/2026/03/17/municipales-2026-a-gauche-la-volte-face-risquee-des-socialistes-qui-multiplient-les-accords-de-second-tour-avec-les-insoumis-de-jean-luc-melenchon_6671587_823448.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Liste fusions socialistes-insoumises à Toulouse Brest Nantes",
+          "link": "https://www.lefigaro.fr/elections/municipales/direct-municipales-2026-resultats-alliances-lfi-ps-paris-lyon-marseille-bordeaux-nantes-20260317"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Emmanuel Macron convoque conseil de défense sur guerre Moyen-Orient",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "Le Figaro",
+        "Libération"
+      ],
+      "summary": "Président réunit mardi responsables pour 18e jour conflit Israël-Iran. Cela prépare réponse française face escalade frappes et attaques régionales.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-israelienne-a-lance-une-vague-de-frappes-contre-le-regime-iranien-et-le-hezbollah_7874297.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "Annonce réunion Élysée apprise par source interne",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-israelienne-a-lance-une-vague-de-frappes-contre-le-regime-iranien-et-le-hezbollah_7874297.html#xtor=RSS-3-[lestitres"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Lie à mort Abu Dhabi et explosions Dubaï Doha",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-liban-iran-irak-israel-etats-unis-emirats-arabes-unis-qatar-bahrein-oman-20260317"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Armée ukrainienne abat plus de 150 drones russes dans la nuit",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Volodymyr Zelensky visite Royaume-Uni puis Madrid mardi. Air force neutralise 150 drones. Cela montre résistance aérienne ukrainienne face offensive russe.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/17/en-direct-guerre-en-ukraine-les-dernieres-informations-au-mardi-17-mars-2026_6671255_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump échoue à convaincre alliés pour sécuriser détroit d'Ormuz",
+      "source": "Libération",
+      "sources": [
+        "Libération",
+        "Le Monde"
+      ],
+      "summary": "Au 2e jour de ses demandes, Européens persistent refus aide militaire immédiate. Navires pétroliers Golfe bloqués. Cela prolonge incertitudes économiques globales.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-emmanuel-convoque-un-nouveau-conseil-de-defense-20260317_WRKIUGQV4FD2PNTZJYHIPU4NLU/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Alliés européens et Chine refusent explicitement envoi navires aujourd'hui",
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël intensifie frappes contre Hezbollah au Liban après opérations terrestres",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Monde"
+      ],
+      "summary": "Au 2e jour, armée passe de terrestres limitées hier à bombardements massifs Beyrouth mardi. Cibles militaires visées. Cela marque élargissement conflit au 18e jour global.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260317-en-direct-guerre-moyen-orient-israel-frappe-iran-liban-beyrouth-irak-bagdad-donald-trump-etats-unis",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Passage d'opérations terrestres sud Liban à frappes aériennes grande échelle sur capitale",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 223,
+    "articlesAfterDedup": 222,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 4,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 4,
+      "global": 1,
+      "asia-pacific": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

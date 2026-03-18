@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-18",
+  "summary": "Iran fired missiles at a Tel Aviv suburb, killing two people with shrapnel from the blasts. The attack followed Israeli killings of Ali Larijani and a militia commander. Israel struck central Beirut without warning, killing six Lebanese residents and injuring 24. Satellite images show burning ships in an Iranian port and destroyed buildings at a U.S. base damaged since the February 28 start of the three-week regional war. About 90 ships, including oil tankers, crossed the Strait of Hormuz as Iran exported millions of oil barrels. Israeli, Lebanese, and regional civilians are affected. Further retaliatory strikes are expected.\n\nIn Afghanistan, a Pakistani airstrike hit a Kabul drug rehabilitation center, killing dozens and possibly hundreds of civilians. The Afghan government vows retaliation. Separately in Nigeria, Boko Haram suicide bombers killed 23 people at a Maiduguri teaching hospital and two markets in Borno State. U.S. aid to Nigeria continues. In Kenya, nationwide floods during long rains caused five more deaths, raising the toll to 71. Kenyan residents are affected. Rescues continue, with implications for regional food security.\n\nThe EU proposed funds and technical aid for Ukraine to repair an oil pipeline central to a dispute with Hungary over aid. This affects European energy supplies. UK Prime Minister Starmer told Zelensky in London talks that international focus must remain on Ukraine despite the Iran conflict and signed a drone defense pact. Israel permitted over one million displaced Palestinians to cross a military zone back to northern Gaza after a hostage release deadlock ended. Chinese developer Vanke reported a huge loss amid the property crisis, affecting investors and global markets. NATO deployed its first response after a second Baltic Sea cable was severed in a suspected sabotage campaign.\"}",
+  "headlines": [
+    {
+      "title": "Iran Launches Missiles at Tel Aviv Suburb Killing Two with Shrapnel",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "France 24"
+      ],
+      "summary": "Iran fired missiles at Tel Aviv in retaliation for Israeli killings of Ali Larijani and a militia commander. Shrapnel killed two in a suburb while Israel struck Beirut. Israeli and Lebanese civilians affected; escalates three-week regional war risking wider conflict.",
+      "link": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Confirmed Iranian retaliation for killings of Ali Larijani and militia commander",
+          "link": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon"
+        },
+        {
+          "source": "France 24",
+          "angle": "Reported two dead from Iranian missile shrapnel in Tel Aviv suburb",
+          "link": "https://www.france24.com/en/middle-east/20260318-live-israel-strikes-central-beirut-as-iran-attack-leaves-two-dead-near-tel-aviv"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Strikes Central Beirut Killing Six and Injuring 24",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "New York Times"
+      ],
+      "summary": "Israeli forces hit central Beirut without warning, killing six and injuring 24. Lebanese residents affected amid ongoing exchanges with Iran. Raises escalation fears in three-week war; further retaliatory strikes likely as regional tensions mount.",
+      "link": "https://www.france24.com/en/middle-east/20260318-live-israel-strikes-central-beirut-as-iran-attack-leaves-two-dead-near-tel-aviv",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Detailed casualties from unannounced strike on central Beirut",
+          "link": "https://www.france24.com/en/middle-east/20260318-live-israel-strikes-central-beirut-as-iran-attack-leaves-two-dead-near-tel-aviv"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Noted early Wednesday airstrikes rocking Lebanese capital",
+          "link": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Kenya Reports 71 Deaths from Ongoing Nationwide Floods",
+      "source": "AllAfrica",
+      "summary": "Flood death toll rises to 71 with five more fatalities as police continue rescues. Kenyan residents nationwide affected by intensifying long rains. Matters for regional food security and humanitarian aid needs.",
+      "link": "https://allafrica.com/stories/202603170448.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "EU Offers Ukraine Funds and Aid to Repair Key Oil Pipeline",
+      "source": "NPR",
+      "summary": "EU proposes money and technical help for Ukraine to fix pipeline central to Ukraine-Hungary dispute. Aims to lift Hungary's aid veto. Affects European energy supplies and Ukraine support amid war.",
+      "link": "https://www.npr.org/2026/03/18/g-s1-114243/eu-offers-to-pay-ukraine-to-fix-oil-pipeline-at-the-center-of-ukraine-hungary-feud",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Satellite Images Show Ablaze Ships and Damaged Base in Middle East War",
+      "source": "South China Morning Post",
+      "summary": "New satellite images reveal burning ships in Iranian port and destroyed buildings at U.S. base since February 28 war start. Highlights infrastructure toll across closed sites. Informs global assessment of conflict damage.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3346987/satellite-images-reveal-damage-widening-middle-east-war?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "UK PM Starmer Urges Zelensky to Maintain Ukraine Focus Amid Iran War",
+      "source": "France 24",
+      "summary": "Starmer tells Zelensky international attention must stay on Ukraine despite Iran conflict during London talks. Signed drone defense pact. Ensures sustained Western aid to Ukraine against Russia.",
+      "link": "https://www.france24.com/en/europe/20260318-starmer-tells-zelensky-focus-must-remain-on-ukraine-despite-war-in-iran",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits Gazans to cross military zone back to northern Gaza after hostage release deadlock breaks. Over one million displaced affected. Signals potential de-escalation phase in enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "90 Ships Including Oil Tankers Cross Strait of Hormuz Despite Iran War",
+      "source": "Associated Press",
+      "summary": "About 90 vessels transit Hormuz as Iran exports millions of oil barrels via dark transits. Global trade and energy markets affected. Demonstrates resilience in critical waterway amid conflict.",
+      "link": "https://apnews.com/article/ships-iran-oil-china-us-trump-hormuz-82a9acb473837f1bf7a821d0c3f95205",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "China Developer Vanke Reports Huge Loss Amid Property Crisis Spread",
+      "source": "Wall Street Journal",
+      "summary": "Vanke posts massive loss signaling deepening real estate woes. Chinese economy and investors affected; raises bailout questions. Impacts global markets reliant on China property stability.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Pakistan Strikes Kabul Drug Center Killing Dozens Afghanistan Vows Retaliation",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "BBC"
+      ],
+      "summary": "Pakistani airstrike hit Kabul rehabilitation facility killing dozens possibly hundreds. Afghan civilians affected; government promises retaliation risking bilateral escalation. Matters for South Asia stability.",
+      "link": "https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Afghanistan vows retaliation; toll updated to dozens with hundreds feared per survivors",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Reported dozens dead in drug rehab facility strike",
+          "link": "https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html"
+        },
+        {
+          "source": "BBC",
+          "angle": "Survivor describes strike during dinner at rehab center",
+          "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Boko Haram Suicide Bombers Kill 23 at Maiduguri Hospital and Markets",
+      "source": "New York Times",
+      "summary": "Insurgents hit teaching hospital and two markets in Borno State city. 23 dead affect Nigerian civilians; U.S. aid continues. Prolongs instability in northeast Nigeria.",
+      "link": "https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Confirmed 23 deaths in three specific Maiduguri locations",
+      "sources": [
+        "New York Times"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "singleSource": true,
+      "title": "NATO Deploys First Response After Second Baltic Sea Cable Severed",
+      "source": "Wall Street Journal",
+      "summary": "Alliance coordinates response to suspected sabotage campaign targeting infrastructure. Baltic region security affected. Heightens NATO vigilance against hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Another cable severed prompting initial coordinated NATO action",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 465,
+    "articlesAfterDedup": 464,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "environment": 1,
+      "politics": 3,
+      "society": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "africa": 2,
+      "europe": 3,
+      "asia-pacific": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 3
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "date": "2026-03-19",
+  "summary": "Le Guardie Rivoluzionarie iraniane hanno attaccato l'area industriale di Ras Laffan in Qatar, hub mondiale del GNL, come rappresaglia per il raid su South Pars attribuito a Israele e Stati Uniti. I danni estesi hanno provocato un aumento del Brent a 112 dollari al barile. L'ex presidente Trump ha minacciato la distruzione di South Pars, mentre l'Arabia Saudita valuta una reazione militare. Questo fa seguito agli attacchi iraniani su Ramat Gan e all'ambasciata Usa in Iraq segnalati ieri, con otto vittime totali. Si attendono ulteriori ritorsioni nel Golfo.\n\nAl Consiglio europeo di Bruxelles, i 27 leader hanno affrontato divisioni sul veto ungherese al prestito per l'energia ucraina e sulla crisi energetica legata all'escalation in Medio Oriente, con aumento dei prezzi. Giorgia Meloni ha incontrato Friedrich Merz per discutere la revisione del sistema Ets Ue, che costa 7 miliardi di euro alle famiglie italiane. Separatamente, il governo italiano ha approvato un decreto che taglia le accise sui carburanti, introduce crediti d'imposta per autotrasportatori e un meccanismo anti-speculazione. Mattarella ha firmato il testo contro l'impennata del greggio. Le misure riducono i costi per cittadini e imprese.\n\nUno studio dell'Università della California, basato su dati radar del rover Perseverance nel cratere Jezero di Marte, ha rilevato tracce di fiumi antichi datati 4,2 miliardi di anni, confermando un passato idrico abitabile; i risultati sono pubblicati su Science Advances. Un altro studio associa i farmaci GLP-1 come il semaglutide a ridotti rischi di depressione, ansia e autolesionismo in pazienti obesi, con necessità di conferme cliniche. Dal 2022, una direttiva Ue garantisce 10 giorni di congedo paternità retribuito al 100% nei Paesi membri, per aggiornare norme su parità genitoriale e conciliazione lavoro-famiglia.",
+  "headlines": [
+    {
+      "title": "Iran colpisce Ras Laffan in Qatar danneggiando hub GNL mondiale",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Le Guardie Rivoluzionarie iraniane attaccano l'area industriale di Ras Laffan in Qatar come rappresaglia per il raid su South Pars attribuito a Israele e Usa. Danni estesi provocano Brent a 112 dollari. Trump minaccia distruzione South Pars, Arabia Saudita valuta reazione militare.",
+      "link": "https://www.agi.it/estero/news/2026-03-19/iran-guerra-aggiornamenti-19-marzo-36180005/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Iran attacca hub GNL Qatar in rappresaglia, greggio sale a 112 dollari, Trump minaccia South Pars e Arabia Saudita si riserva reazione",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive attacco iraniano su Ras Laffan come rappresaglia per South Pars con danni estesi al hub GNL",
+          "link": "https://www.agi.it/estero/news/2026-03-19/iran-guerra-aggiornamenti-19-marzo-36180005/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Trump nega coinvolgimento Usa in South Pars attribuendolo a Israele mentre Brent tocca 112 dollari",
+          "link": "http://it.euronews.com/2026/03/19/guerra-in-medio-oriente-trump-non-sapevamo-dellattacco-contro-south-pars-brent-a-112-dolla"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Trump minaccia di distruggere South Pars se Qatar attaccato ancora e Arabia Saudita valuta reazione",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-19-marzo_110147906-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Leader Ue affrontano divisioni su prestito Ucraina energia e Medio Oriente",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "la Repubblica"
+      ],
+      "summary": "Al Consiglio europeo di Bruxelles i 27 leader discutono veto Ungheria al prestito per Ucraina, crisi energetica da Medio Oriente e aumento prezzi. Meloni incontra Merz per revisione Ets che costa 7 miliardi alle famiglie italiane.",
+      "link": "http://it.euronews.com/my-europe/2026/03/19/vertice-ue-tra-divisioni-su-ucraina-energia-e-crisi-in-medio-oriente",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Enfatizza divisioni su prestito Ucraina crisi energetica e Medio Oriente al vertice Ue",
+          "link": "http://it.euronews.com/my-europe/2026/03/19/vertice-ue-tra-divisioni-su-ucraina-energia-e-crisi-in-medio-oriente"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta stallo Consiglio europeo con Meloni che vede Merz per cambiare sistema Ets",
+          "link": "https://www.repubblica.it/politica/2026/03/19/news/consiglio_europeo_meloni_revisione_sistema_ets-425231076/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Governo approva decreto che taglia accise carburanti per famiglie e imprese",
+      "source": "TGCOM24",
+      "summary": "Il governo introduce taglio temporaneo accise, credito d'imposta per autotrasportatori e meccanismo anti-speculazione sui carburanti. Mattarella firma il testo contro impennata prezzi greggio. Misure riducono costi per cittadini e trasporti.",
+      "link": "https://www.tgcom24.mediaset.it/politica/caro-carburanti-governo-adecreto-tre-misure-accise_110135640-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Studio rileva tracce fiumi antichi 4,2 miliardi anni su Marte con Perseverance",
+      "source": "AGI",
+      "summary": "Ricercatori University of California analizzano dati radar rover Perseverance nel cratere Jezero identificando strutture sedimentarie di antichi fiumi e delta. Conferma passato idrico e abitabile del pianeta, pubblicato su Science Advances.",
+      "link": "https://www.agi.it/scienza/news/2026-03-19/marte-tracce-antichi-fiumi-36164618/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Meloni incontra Merz a Bruxelles prima Consiglio europeo su revisione Ets",
+      "source": "TGCOM24",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Premier italiana Giorgia Meloni discute con cancelliere tedesco Friedrich Merz revisione sistema Ets Ue che grava bollette famiglie per 7 miliardi. Incontro alla vigilia vertice con focus su energia dopo escalation Medio Oriente.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/unione-europea-meloni-incontra-merz-bruxelles_110147563-202602k.shtml",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea lettera nove governi e incontro Meloni-Merz per cambiare Ets al Consiglio",
+          "link": "https://www.repubblica.it/politica/2026/03/19/news/consiglio_europeo_meloni_revisione_sistema_ets-425231076/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Descrive colloquio Meloni-Merz a Bruxelles dopo confronto Macron pre-summit Ue",
+          "link": "https://www.tgcom24.mediaset.it/mondo/unione-europea-meloni-incontra-merz-bruxelles_110147563-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Farmaci semaglutide riducono rischio depressione ansia e autolesionismo",
+      "source": "Euronews Italiano",
+      "summary": "Studio associa farmaci dimagranti GLP-1 come semaglutide a minori rischi di depressione, ansia, disturbi sostanze e autolesionismo. Risultati rilevanti per pazienti obesi con comorbidità mentali, necessita ulteriori conferme cliniche.",
+      "link": "http://it.euronews.com/salute/2026/03/19/farmaci-dimagranti-riducono-il-rischio-di-depressione-ansia-e-autolesionismo-secondo-uno-s",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Paesi Ue garantiscono 10 giorni permesso retribuito 100% a neo-papà dal 2022",
+      "source": "Il Sole 24 Ore",
+      "summary": "Direttiva Ue impone minimo 10 giorni congedo paternità pagato al 100% per neo-padri. Stati membri aggiornano norme per parità genitoriale e supporto famiglie. Migliora conciliazione lavoro-vita per milioni di genitori europei.",
+      "link": "https://www.ilsole24ore.com/art/i-diritti-papa-europa-AIaJoVxB",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 250,
+    "articlesAfterDedup": 250,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 11,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 2,
+      "economy": 1,
+      "science": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4,
+      "global": 2
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 2,
+      "also": 4
+    }
+  }
+}

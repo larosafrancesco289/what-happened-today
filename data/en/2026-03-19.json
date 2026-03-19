@@ -1,0 +1,187 @@
+{
+  "date": "2026-03-19",
+  "summary": "Iran launched intensified missile attacks on Gulf neighbors' energy sites Thursday, igniting Qatari LNG facilities after Israel struck Iran's main natural gas field. Disruptions affect Gulf states and global energy markets, with fuel prices soaring. This escalation follows yesterday's exchanges, including Iran's missiles on a Tel Aviv suburb killing two and Israel's strikes on central Beirut killing six. Satellite images from yesterday also showed ablaze ships and a damaged base in the Middle East war. Further attacks risk broader regional conflict.\n\nRwanda-backed rebels overran Congolese troops and entered Goma city, Congo's aid hub. Gunfire and shelling trap over 1 million displaced people inside the city. U.N. officials warn of a humanitarian crisis, with further clashes threatening eastern Congo stability. In Europe, leaders convened in Brussels Thursday to unlock a €90 billion loan for Ukraine, blocked by Hungary's Viktor Orban over a damaged Russian oil pipeline. This follows yesterday's EU offer of funds and aid to repair Ukraine's key oil pipeline. Ukraine's funding and energy repairs remain unresolved, affecting war efforts.\n\nEuropean leaders rejected direct involvement in U.S.-Israeli operations against Iran to avoid escalation. Russia paused peace talks with Ukraine amid the Iran conflict, with resumption uncertain. Thousands of Palestinians returned to northern Gaza after Israel lifted military zone restrictions following a hostage release deadlock resolution. NATO deployed its first coordinated response to suspected Baltic Sea cable sabotage after another deep-sea cable was severed. U.S. forces conducted an airstrike on ISIS fighters in Somalia's Puntland region. SpaceX launched Crew-10 from Kennedy Space Center Friday with NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to retrieve astronauts stuck on the ISS for nine months. Thailand's parliament elected Anutin Charnvirakul prime minister.",
+  "headlines": [
+    {
+      "title": "Iran Sets Qatari LNG Facilities Ablaze After Israel Strikes Iranian Gas Field",
+      "source": "Associated Press",
+      "summary": "Iran launched intensified missile attacks on Gulf neighbors' energy sites Thursday, igniting Qatari LNG facilities following Israel's strike on its main natural gas field. Gulf states and global energy markets face disruptions as fuel prices soar. Escalation risks broader regional conflict.",
+      "link": "https://apnews.com/article/iran-iraq-us-israel-trump-march-19-2026-52e94398f2432b3aba9b02b51fbe5000",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "source": "Wall Street Journal",
+      "summary": "Rebels advanced into Goma, Congo's aid hub, triggering gunfire and shelling that traps over 1 million displaced people inside the city. U.N. officials warn of humanitarian crisis. Further clashes threaten regional stability in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "EU Leaders Convene to Unlock €90 Billion Loan for Ukraine Blocked by Orban",
+      "source": "France 24",
+      "summary": "European leaders meet in Brussels Thursday to resolve dispute stalling €90 billion loan for Ukraine, blocked by Hungary's Viktor Orban over damaged Russian oil pipeline. Ukraine's funding and energy repairs hang in balance, impacting war efforts.",
+      "link": "https://www.france24.com/en/europe/20260319-european-leaders-seek-breakthrough-on-%E2%82%AC90bn-ukraine-loan-blocked-by-viktor-orban",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "European Leaders Reject Direct Role in U.S.-Israeli Operations Against Iran",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "The Hindu"
+      ],
+      "summary": "Europeans decline involvement in U.S.-Israeli strikes on Iran to avoid unpredictable escalation. Leaders prioritize Ukraine support amid war risks. Decision preserves NATO focus and prevents broader entanglement.",
+      "link": "https://www.japantimes.co.jp/news/2026/03/19/world/politics/europe-says-no-trump-war/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Japan Times",
+          "angle": "Leaders reject direct involvement in U.S.-Israeli military operations against Iran",
+          "link": "https://www.japantimes.co.jp/news/2026/03/19/world/politics/europe-says-no-trump-war/"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Europeans fear Trump cuts Ukraine aid or forces unfavorable peace deal on Kyiv",
+          "link": "https://www.thehindu.com/news/international/not-our-war-europe-says-no-to-trump/article70759432.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia Pauses Peace Talks with Ukraine Amid Escalating Iran Conflict",
+      "source": "The Hindu",
+      "summary": "Kremlin confirms pause in Russia-Ukraine negotiations as Iran war diverts attention, potentially pressuring Kyiv toward compromise. Affects European security and global diplomacy. Resumption uncertain amid Mideast tensions.",
+      "link": "https://www.thehindu.com/news/international/russia-ukraine-peace-talks-paused-amid-iran-war-report/article70760833.ece",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck on ISS Nine Months",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carried NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, Russia's Kirill Peskov from Kennedy Space Center Friday. Enables return of Butch Wilmore and Suni Williams. Routine rotation restores ISS operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. Military Strikes ISIS Fighters in Somalia's Puntland Region",
+      "source": "AllAfrica",
+      "summary": "U.S. forces conducted airstrike targeting Islamic State in northeastern Somalia's Puntland, coordinated with federal government. Aims to degrade terrorist capabilities. Impacts regional counterterrorism efforts in Horn of Africa.",
+      "link": "https://allafrica.com/stories/202603190021.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Thailand Elects Anutin Charnvirakul Prime Minister Amid Mideast Economic Pressures",
+      "source": "South China Morning Post",
+      "summary": "Parliament chose conservative Anutin after his party's nationalist win. New government faces Middle East war fallout, slow growth, Cambodia border issues. Policies will shape Southeast Asia's economic stability.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3347127/pm-anutin-takes-charge-thailand-mideast-chaos-pressures-economy?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Mounts Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance deploys first coordinated action against suspected sabotage after another deep-sea cable severed. Protects critical infrastructure amid hybrid threats. Escalates NATO vigilance in Baltic region.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "NATO deploys initial response after second cable severed; today mounts first coordinated effort against ongoing sabotage campaign",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians Stream Back to Northern Gaza After Israel Lifts Military Zone Restrictions",
+      "source": "Wall Street Journal",
+      "summary": "Thousands cross zone bisecting Gaza following hostage release deadlock resolution. Allows displaced returns amid war. Eases humanitarian strain but tensions persist in enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel announces allowance for returns; today displaced begin streaming back on foot after hostage deal breakthrough",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 471,
+    "articlesAfterDedup": 469,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 4,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "africa": 2,
+      "europe": 4,
+      "global": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

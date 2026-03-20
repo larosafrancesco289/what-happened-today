@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-20",
+  "summary": "An Iranian drone struck Kuwait's Mina al-Ahmadi refinery, the country's largest, causing fires and unit shutdowns with no casualties reported. Kuwaiti workers and global energy markets are affected. This follows Iran's strikes on Qatari LNG facilities after Israeli attacks on an Iranian gas field. Further updates expected from Israel-Iran exchanges. Israel launched missile strikes on infrastructure targets across Tehran overnight during the Nowruz holiday, hitting civilian areas and facilities while avoiding the South Pars gas field. U.S. forces lost 16 aircraft, including 10 Reaper drones to fire and six fighters damaged or downed by accidents and missiles, as the war nears its fourth week. Six crew members died in a tanker crash. These losses affect U.S. air operations.\n\nU.S. Treasury Secretary Scott Bessent proposed waiving sanctions on some Iranian oil exports at sea to reduce prices amid war-driven market shocks. The Trump administration weighs deploying thousands of troops to reinforce Middle East operations. A decision is pending. In eastern Congo, Rwanda-backed rebels advanced into Goma city, overrunning Congolese troops and triggering gunfire and shelling. Over one million people are displaced and sheltering inside the city. Congolese forces and civilians are affected. U.N. aid efforts are increasing.\n\nIsrael permitted thousands of displaced Palestinians to return to northern Gaza after a hostage release agreement ended a military zone bisecting the area. Reconstruction efforts are planned next. The U.S. Treasury Department assumed control of defaulted student loans from the Education Department, affecting millions of borrowers, as the first phase of restructuring federal education functions. Full portfolio and FAFSA transfers are scheduled next. Belarus released 250 political prisoners linked to U.S. sanctions relief, though more remain jailed. The UK announced a 56 percent cut, or £900 million, in bilateral aid to African countries by 2028-29 to fund defense increases.",
+  "headlines": [
+    {
+      "title": "U.S. Treasury Department Assumes Control of Defaulted Student Loans from Education Department",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "NPR News"
+      ],
+      "summary": "The Treasury Department takes over management of defaulted student loans as the first phase in dismantling the Education Department, affecting millions of borrowers. Full portfolio and FAFSA transfer planned next. This signals major Trump administration restructuring of federal education functions.",
+      "link": "https://apnews.com/article/student-loans-debt-education-treasury-department-014f9b51100226048335d053cc21e9f1",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Describes handover of default loans as initial step toward full agency dismantlement",
+          "link": "https://apnews.com/article/student-loans-debt-education-treasury-department-014f9b51100226048335d053cc21e9f1"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Details three-phase transition plan including FAFSA and most federal loans management",
+          "link": "https://www.npr.org/2026/03/19/nx-s1-5753906/student-loans-trump-treasury"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Iranian Drone Hits Kuwait's Mina al-Ahmadi Refinery Causing Fires and Unit Shutdowns",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "The Hindu"
+      ],
+      "summary": "An Iranian drone strikes Kuwait's largest oil refinery, igniting fires with no casualties but shutting down units. Kuwaiti workers and global energy markets affected. Further war updates expected amid Israel-Tehran exchanges. Escalates Middle East conflict threatening oil supplies.",
+      "link": "https://www.france24.com/en/middle-east/20260320-middle-east-war-live-israel-strikes-tehran-persian-new-year-energy-markets",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Covers drone attack fires and refinery shutdown alongside Israel strikes on Tehran",
+          "link": "https://www.france24.com/en/middle-east/20260320-middle-east-war-live-israel-strikes-tehran-persian-new-year-energy-markets"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Reports refinery drone hit with fire plus UAE arrest of Iran-Hezbollah terror network",
+          "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-trump-netanyahu-live-updates-march-20-2026/article70764069.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. Treasury Secretary Proposes Lifting Sanctions on Some Iranian Oil Exports",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "BBC"
+      ],
+      "summary": "Treasury Secretary Scott Bessent suggests waiving sanctions on Iranian oil at sea to lower prices amid war-driven market shocks. Americans face higher costs; Trump vows action. Policy reversal could ease global energy crunch but alter Iran strategy.",
+      "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Highlights Trump reassurance on markets and potential sanctions waiver for Iranian oil",
+          "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil"
+        },
+        {
+          "source": "BBC",
+          "angle": "Focuses on proposal to waive sanctions on oil shipments already at sea",
+          "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Military Loses 16 Aircraft Including Drones and Fighters in Iran War",
+      "source": "South China Morning Post",
+      "summary": "U.S. forces lose 10 Reaper drones to fire plus six others damaged or downed by accidents and missiles as war nears fourth week. Six crew killed in tanker crash. Affects U.S. operations; more losses possible. Undermines air superiority in prolonged conflict.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3347276/us-military-aircraft-losses-mount-iran-war-approaches-fourth-week?utm_source=rss_feed",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Strikes Infrastructure Targets Across Tehran During Nowruz Holiday",
+      "source": "Deutsche Welle",
+      "summary": "Israel launches missile strikes on Tehran infrastructure overnight while refraining from South Pars gas field. Iranian civilians and facilities hit amid exchanges. Ongoing war monitoring ahead. Heightens escalation risks for regional stability and global economy.",
+      "link": "https://www.dw.com/en/iran-war-israel-striking-infrastructure-across-tehran/live-76442983?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Weighs Deployment of Thousands of Troops to Reinforce Middle East Operations",
+      "source": "France 24",
+      "summary": "Trump administration considers sending thousands of troops as Iran war enters new phase per officials. U.S. personnel and allies affected. Deployment decision pending. Signals potential ground escalation impacting American families and budgets.",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260319-us-reportedly-weighing-military-reinforcements-as-iran-war-enters-possible-new-phase",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Belarus Releases 250 Political Prisoners Tied to U.S. Sanctions Easing",
+      "source": "Deutsche Welle",
+      "summary": "Belarus frees 250 prisoners in largest release, linked to U.S. sanctions relief, though more remain jailed. Families reunited; humanitarian win. Further releases possible. Advances U.S. diplomacy in Eastern Europe amid tensions.",
+      "link": "https://www.dw.com/en/belarus-releases-250-political-prisoners-as-part-of-us-deal/a-76442237?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "UK Slashes Bilateral Aid to African Countries by 56 Percent or £900 Million",
+      "source": "The Guardian",
+      "summary": "Foreign secretary announces £900 million cut in aid to poorest nations by 2028-29, funding defense rise. Schools, clinics in Africa affected. Budget reallocations next. Shifts UK priorities straining global poverty efforts.",
+      "link": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. FCC Approves Nexstar-Tegna Merger Despite Two Blocking Lawsuits",
+      "source": "NPR News",
+      "summary": "FCC greenlights merger of TV giants Nexstar and Tegna on Thursday as lawsuits challenge it. Local viewers and media landscape impacted. Legal battles proceed. Consolidates U.S. local news ownership raising competition concerns.",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5754513/fcc-merger-local-television-nexstar-tegna",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX Successfully Launch Crew-10 from Kennedy Space Center",
+      "source": "Voice of America",
+      "summary": "Crew-10 launches at 7:03 p.m. Friday on Falcon 9 to retrieve astronauts stuck nine months on ISS. Wilmore, Williams return soon; new crew docks Saturday. Routine rotation restores station operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Falcon 9 rocket lifted off carrying four astronauts who now head to ISS docking",
+      "sources": [
+        "Voice of America"
+      ],
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Advance into Goma City Overrunning Congolese Troops",
+      "source": "Wall Street Journal",
+      "summary": "Rebels enter Goma triggering gunfire and shelling; over one million displaced shelter inside. Congolese forces, civilians affected. U.N. aid response ramps up. Threatens regional stability and humanitarian crisis in east Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Gunfire and shelling reported in city with U.N. estimating one million displaced persons inside",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Palestinians Return to Northern Gaza After Israel Ends Hostage Deadlock",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Gazans to cross bisecting military zone following hostage release agreement. Thousands affected return on foot. Reconstruction efforts next. Eases humanitarian pressures in war-torn enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Access granted after breakthrough in hostage release deadlock breaking prior restrictions",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 13,
+    "articlesProcessed": 436,
+    "articlesAfterDedup": 436,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "economy": 2,
+      "conflict": 5,
+      "politics": 3,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 6,
+      "europe": 1,
+      "africa": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

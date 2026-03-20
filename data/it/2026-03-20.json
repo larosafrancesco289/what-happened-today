@@ -1,0 +1,171 @@
+{
+  "date": "2026-03-20",
+  "summary": "L'Iran ha lanciato missili su raffinerie in Qatar e Arabia Saudita, colpendo il primo F-35 statunitense, in rappresaglia all'attacco israeliano su South Pars. Questo fa seguito all'attacco di ieri su Ras Laffan in Qatar, hub GNL mondiale. Gli impianti energetici nel Golfo sono coinvolti, con possibili ulteriori ritorsioni che impatterebbero le forniture gas globali. Emirati Arabi Uniti e Kuwait hanno risposto con raid missilistici, causando incendi in una raffineria. Israele ha ripreso operazioni nel sud del Libano, con feriti riportati. L'Iran minaccia la chiusura dello Stretto di Bab el-Mandeb in coordinamento con gli Houthi yemeniti, snodo per rotte petrolifere e merci dal Mar Rosso al Golfo Aden.\n\nSette paesi, inclusi Italia, Francia, Germania, Olanda, Canada, Giappone e Regno Unito, hanno presentato a Bruxelles un piano per riaprire lo Stretto di Hormuz, cruciale per commerci e approvvigionamenti energetici europei. La Francia chiede una tregua immediata; il Regno Unito valuta una missione navale. Durante il Consiglio europeo, Viktor Orban ha bloccato i prestiti UE all'Ucraina; Antonio Costa e Friedrich Merz hanno criticato l'Ungheria, mentre Ursula von der Leyen ha promesso una soluzione alternativa. I leader UE hanno incaricato von der Leyen di mediare sulla revisione delle quote emissioni CO2 nell'ETS, con divisioni su politiche climatiche e bollette.\n\nUmberto Bossi, fondatore della Lega, è morto a 84 anni in ospedale a Varese dopo 50 anni in politica, sei mandati da deputato e tre da europarlamentare. Reazioni da Matteo Salvini e Sergio Mattarella. La Guardia di Finanza ha sequestrato 420.000 litri di carburanti da Est Europa, dichiarati falsamente lubrificanti, con evasione di 1,1 milioni di euro in accise verso clienti italiani; indagini su frodi fiscali continuano. Fedez è stato denunciato per tentato colpo su Iovino, ripreso da telecamere in un locale con Ludovica Di Gresy presente; Iovino è stato visto ballare giorni dopo, indagine procede.",
+  "headlines": [
+    {
+      "title": "Iran lancia missili su raffinerie Qatar e Arabia Saudita colpendo primo F-35 Usa",
+      "source": "la Repubblica",
+      "summary": "L'Iran attacca impianti energetici nel Golfo, inclusi Qatar e Arabia Saudita, come rappresaglia all'attacco israeliano su South Pars. Coinvolti hub GNL mondiali; aumenta tensione regionale. Prossimi passi includono possibili ulteriori ritorsioni, con impatti su forniture gas globale.",
+      "link": "https://www.repubblica.it/esteri/2026/03/20/news/iran_missili_raffinerie_golfo_israele-425233338/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Dopo attacco ieri su Ras Laffan in Qatar, Iran colpisce raffineria Arabia Saudita e primo F-35 Usa, estendendo danni a complessi energetici principali.",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sette paesi Ue propongono piano per liberare Stretto di Hormuz",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Italia, Francia, Germania, Olanda, Canada, Giappone e Regno Unito presentano piano a Bruxelles per riaprire lo Stretto di Hormuz. Parigi chiede tregua immediata; Londra valuta missione navale. Cruciale per rotte commerciali e approvvigionamenti energetici europei.",
+      "link": "https://www.repubblica.it/esteri/2026/03/20/news/piano_sette_paesi_liberare_stretto_hormuz-425233543/?rss",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Umberto Bossi muore a 84 anni in ospedale Varese",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "ANSA"
+      ],
+      "summary": "Fondatore Lega Umberto Bossi si spegne a 84 anni dopo 50 in politica, sei volte deputato e tre europarlamentare. Coinvolti leghisti e leader come Salvini. Reazioni da Mattarella; eredità su riforme continua nel partito.",
+      "link": "https://www.agi.it/politica/news/2026-03-19/lega-morto-umberto-bossi-36194897/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive morte in ospedale Varese e dettagli carriera con mandati da deputato senatore europarlamentare",
+          "link": "https://www.agi.it/politica/news/2026-03-19/lega-morto-umberto-bossi-36194897/"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta reazioni Mattarella su democratico sincero e Salvini su eredità politica",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/03/19/morto-umberto-bossi_64dc1fe5-f2cd-4073-aa4d-018506a35b85.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Viktor Orban blocca prestiti Ue all'Ucraina durante Consiglio europeo",
+      "source": "TGCOM24",
+      "summary": "Ungheria di Orban impedisce approvazione prestiti a Kiev; Costa e Merz criticano Budapest. Von der Leyen promette soluzione alternativa. Costa Rica per finanza guerra; divisioni Ue su sostegno militare.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-orban-blocca-prestiti_110197938-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Emirati Arabi e Kuwait rispondono a raid iraniani con missili",
+      "source": "ANSA",
+      "summary": "Emirati e Kuwait lanciano raid missilistici in rappresaglia ad attacchi iraniani; incendio in raffineria. Israele riprende operazioni sud Libano con feriti. Evoluzione rischio escalation Golfo.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/20/live-blog-emirati-e-kuwait-rispondono-a-raid-missilistici-incendio-in-una-raffineria_9687f245-16d4-4302-9400-84940b5aa8c5.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran minaccia chiusura Stretto Bab el-Mandeb con Houthi yemeniti",
+      "source": "AGI",
+      "summary": "Dopo raid su South Pars, Iran valuta coordinamento Houthi per bloccare Bab el-Mandeb, snodo Mar Rosso-Golfo Aden. Pressione su commercio globale simile a Hormuz. Impatti su rotte petrolio e merci.",
+      "link": "https://www.agi.it/estero/news/2026-03-20/stretto-bab-el-mandeb-blocco-36190938/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Leader Ue incaricano von der Leyen di mediare su emissioni Co2",
+      "source": "la Repubblica",
+      "summary": "Consiglio europeo affronta crisi energetica con scontro quote inquinamento; mandato a von der Leyen per proposta mediazione. Divisioni su revisione Ets; ripercussioni su politiche clima e bollette.",
+      "link": "https://www.repubblica.it/esteri/2026/03/20/news/ue_crisi_energetica_scontro_emissioni_co2-425233562/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Guardia di Finanza sequestra 420mila litri carburanti evade 1,1 milioni accise",
+      "source": "Rai News",
+      "summary": "Gdf blocca automezzi con 420mila litri carburanti dichiarati falsamente lubrificanti da Est Europa. Evase accise 1,1 milioni euro verso clienti italiani. Indagine continua su frodi fiscali.",
+      "link": "https://www.rainews.it/video/2026/03/maxi-sequestro-della-gdf-accise-evase-per-11-milioni-di-euro-420mila-litri-di-carburanti-udine-27eac0ab-3798-4b82-8519-cb0750151a03.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Fedez denunciato per tentato colpo su Iovino ripreso telecamere",
+      "source": "Corriere della Sera",
+      "summary": "Telecamere identificano rapper Fedez durante pestaggio Iovino in locale; tentativo colpo. Presente Ludovica Di Gresy. Indagine procede; Iovino visto ballare giorni dopo.",
+      "link": "https://milano.corriere.it/notizie/cronaca/24_maggio_13/fedez-denunciato-iovino-3eeb49c3-fa4c-448d-bac5-d7bb9f09fxlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 253,
+    "articlesAfterDedup": 252,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 2,
+      "society": 2,
+      "environment": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 6
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 3,
+      "also": 5
+    }
+  }
+}

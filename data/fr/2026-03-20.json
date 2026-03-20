@@ -1,0 +1,212 @@
+{
+  "date": "2026-03-20",
+  "summary": "L'armée israélienne a annoncé de nouvelles frappes sur des infrastructures des autorités iraniennes à Téhéran, au 21e jour de la guerre au Moyen-Orient. L'annonce a été faite via Telegram. L'Iran a riposté avec des attaques dans le Golfe, affectant l'approvisionnement énergétique mondial et les prix du pétrole. Benyamin Netanyahu a suspendu les attaques sur les infrastructures énergétiques iraniennes suite à une demande de Donald Trump, ceci faisant suite à la menace américaine hier sur le champ gazier de South Pars.\n\nDes drones iraniens ont provoqué un incendie à la raffinerie de la compagnie pétrolière nationale au Koweït, en représailles aux attaques israélo-américaines. Cet incident perturbe la production de pétrole koweïtien. Six pays, dont la France et le Royaume-Uni, ont condamné ces attaques iraniennes dans le Golfe et se disent prêts à contribuer à la sécurisation du détroit d'Ormuz après une désescalade, protégeant ainsi 20 pour cent du trafic pétrolier mondial face à un risque de fermeture. Les États-Unis ont approuvé des ventes d'armes pour seize milliards de dollars aux Émirats arabes unis et au Koweït, pour renforcer leurs défenses contre les menaces de drones et missiles.\n\nCatherine MacGregor, directrice d'Engie, prévoit que la France remplira 70 pour cent de ses stocks de gaz même si le détroit d'Ormuz reste fermé six mois, grâce au nucléaire et aux renouvelables, la rendant moins vulnérable aux hausses de prix que ses voisins européens. En Afrique de l'Ouest, des observateurs de France 24 et RFI ont identifié un réseau de désinformation, incluant de faux comptes comme La Dépêche africaine, qui diffusent des informations contre le Burkina Faso, le Mali, le Niger et la présence russe dans l'Alliance des États du Sahel. À Paris, le procès de Sabri Essid entend le témoignage d'une victime yézidie sur son asservissement par l'État islamique ; Essid est jugé par défaut pour crimes contre l'humanité. En Tunisie, le tribunal a condamné la militante antiraciste Saadia Mosbah à huit ans de prison et 100 000 dinars d'amende pour malversations financières.",
+  "headlines": [
+    {
+      "title": "Armée israélienne annonce nouvelles frappes sur infrastructures autorités iraniennes à Téhéran",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France 24",
+        "RFI",
+        "France Info"
+      ],
+      "summary": "Au 21e jour de la guerre au Moyen-Orient, l'armée israélienne cible des infrastructures à Téhéran via Telegram. Cela intensifie les tensions avec l'Iran, qui riposte sur le Golfe, menaçant l'approvisionnement énergétique mondial et les prix du pétrole.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-liban-emirats-arabes-unis-arabie-saoudite-koweit-qatar-oman-irak-donald-trump-benyamin-netanyahou-bahrein-20260320",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Annonce frappes israéliennes sur Téhéran et incendie entrepôt Bahreïn par éclats iraniens",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-liban-emirats-arabes-unis-arabie-saoudite-koweit-qatar-oman-irak-donald-trump-benyamin-netanyahou-bahrein-20260320"
+        },
+        {
+          "source": "France 24",
+          "angle": "Frappes israéliennes sur Téhéran et riposte iranienne sur raffinerie Koweït",
+          "link": "https://www.france24.com/fr/moyen-orient/20260320-en-direct-guerre-moyen-orient-iran-israel-etats-unis-golfe-petrole-liban"
+        },
+        {
+          "source": "RFI",
+          "angle": "Frappes israéliennes Téhéran et incendie raffinerie Koweït après drones",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260320-en-direct-guerre-au-moyen-orient-incendie-dans-une-raffinerie-au-kowe%C3%AFt-apr%C3%A8s-des-attaques-de-drones"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Drones iraniens provoquent incendie raffinerie compagnie pétrolière nationale au Koweït",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "France 24",
+        "RFI",
+        "20 Minutes",
+        "France Info"
+      ],
+      "summary": "L'Iran intensifie frappes sur sites énergétiques Golfe en représailles aux attaques israélo-américaines. Incendie à la raffinerie koweïtienne perturbe production pétrole, risque escalade régionale et hausse prix énergie affectant économies mondiales.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-une-raffinerie-en-feu-au-koweit-dautres-pays-du-golfe-cibles-par-des-missiles-et-des-drones-20260320_ZYLQD5LOA5A6TA3CQZHD42DHYE/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Raffinerie Koweït en feu et pays Golfe ciblés missiles drones",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-une-raffinerie-en-feu-au-koweit-dautres-pays-du-golfe-cibles-par-des-missiles-et-des-drones-20260320_ZYLQD5LOA5A6TA3CQZHD42DHYE/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Iran riposte drones sur raffinerie Koweït après frappes Téhéran",
+          "link": "https://www.france24.com/fr/moyen-orient/20260320-en-direct-guerre-moyen-orient-iran-israel-etats-unis-golfe-petrole-liban"
+        },
+        {
+          "source": "RFI",
+          "angle": "Incendie raffinerie Koweït après attaques drones au 21e jour guerre",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260320-en-direct-guerre-au-moyen-orient-incendie-dans-une-raffinerie-au-kowe%C3%AFt-apr%C3%A8s-des-attaques-de-drones"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Six pays dont France et Royaume-Uni prêts contribuer sécuriser détroit Ormuz",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "20 Minutes"
+      ],
+      "summary": "France, Royaume-Uni et quatre autres pays condamnent attaques iraniennes Golfe et proposent escorter navires Ormuz après désescalade. Cela vise protéger 20 pour cent trafic pétrolier mondial face fermeture potentielle.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-donald-trump-menace-de-cibler-les-champs-gaziers-iraniens-apres-des-attaques-au-qatar-20260319",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "France prête escorter navires et six pays contribuent Ormuz",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-donald-trump-menace-de-cibler-les-champs-gaziers-iraniens-apres-des-attaques-au-qatar-20260319"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Six pays dont France prêts sécuriser Ormuz après condamnation attaques",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4212735-20260319-guerre-iran-six-pays-dont-france-disent-prets-contribuer-securiser-detroit-ormuz?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis approuvent ventes armes seize milliards dollars Émirats arabes unis Koweït",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Washington vend armes pour renforcer défenses monarchies Golfe touchées ripostes iraniennes. Émirats et Koweït acquièrent équipements face menaces drones missiles, stabilisant alliés régionaux.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260319-les-monarchies-du-golfe-ont-elles-les-moyens-de-riposter",
+      "tier": "top",
+      "framings": [],
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Catherine MacGregor Engie prévoit remplir stocks gaz 70 pour cent malgré Ormuz fermé six mois",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Directrice Engie analyse impacts guerre : France remplit stocks gaz 70 pour cent grâce nucléaire renouvelables. Moins vulnérable hausse prix gaz que voisins européens.",
+      "link": "https://www.lemonde.fr/economie/article/2026/03/20/catherine-macgregor-dg-d-engie-avec-la-fermeture-du-detroit-ormuz-pendant-six-mois-on-arriverait-quand-meme-a-remplir-nos-stocks-de-gaz-jusqu-a-70-avant-l-hiver_6672663_3234.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Observateurs France 24 et RFI identifient réseau désinformation cible Alliance États Sahel",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Faux comptes comme La Dépêche africaine diffusent infox contre Burkina Faso Mali Niger et présence russe. Enquête révèle campagne déstabilise régimes militaires AES.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260320-un-nouveau-r%C3%A9seau-de-d%C3%A9sinformation-cible-les-pays-de-l-alliance-des-etats-du-sahel-aes",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Procès Sabri Essid Paris entend témoignage victime yézidie sur asservissement État islamique",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Au premier procès français génocide Yézidis, victime décrit calvaire sous jihadiste Essid jugé par défaut pour crimes humanité. Témoignages succèdent depuis début semaine.",
+      "link": "https://www.rfi.fr/fr/france/20260320-au-proc%C3%A8s-du-jihadiste-sabri-essid-le-r%C3%A9cit-gla%C3%A7ant-du-calvaire-d-une-de-ses-victimes-y%C3%A9zidies",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Tribunal tunisien condamne militante antiraciste Saadia Mosbah huit ans prison et 100 000 dinars amende",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Saadia Mosbah jugée malversations financières : huit ans prison et 30 000 euros amende. Motifs précis non divulgués, avocats attendent détails jugement.",
+      "link": "https://www.rfi.fr/fr/afrique/20260320-en-tunisie-la-militante-antiraciste-saadia-mosbah-condamn%C3%A9e-%C3%A0-huit-ans-de-prison",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Benyamin Netanyahu suspend attaques infrastructures énergétiques iraniennes demande Donald Trump",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Suite menace Trump sur South Pars hier, Netanyahu stoppe frappes sites énergétiques iraniens. Cela répond pression américaine pour éviter escalade, au 21e jour guerre.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260320-en-direct-guerre-au-moyen-orient-incendie-dans-une-raffinerie-au-kowe%C3%AFt-apr%C3%A8s-des-attaques-de-drones",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Netanyahu suspend frappes sur sites énergétiques iraniens à demande Trump après menace South Pars",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 213,
+    "articlesAfterDedup": 213,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "economy": 1,
+      "society": 3
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "europe": 2,
+      "africa": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

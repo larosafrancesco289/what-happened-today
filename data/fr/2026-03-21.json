@@ -1,0 +1,211 @@
+{
+  "date": "2026-03-21",
+  "summary": "Le président américain Donald Trump a exclu un cessez-le-feu avec l'Iran au 22e jour du conflit au Moyen-Orient, tout en annonçant une réduction graduelle des opérations militaires américaines. Les frappes se poursuivent dans la région avant l'Aïd el-Fitr. Parallèlement, l'armée américaine prépare l'envoi de milliers de Marines supplémentaires au Moyen-Orient, tandis que Trump étudie une prise de contrôle stratégique du détroit d'Ormuz. Cela fait suite aux frappes israéliennes sur Téhéran et aux drones iraniens au Koweït rapportés hier. Une résolution est attendue après évaluation des opérations.\n\nWashington a partiellement levé les sanctions sur les exportations de pétrole iranien pour contrer la hausse des prix de l'énergie due aux perturbations du détroit d'Ormuz. Trois semaines d'interceptions quotidiennes de milliers de missiles et drones iraniens ont épuisé les stocks de munitions des alliés, dont la France liée à des accords de défense au Moyen-Orient, imposant des rationnements. L'Iran a proposé d'aider les navires japonais à traverser Ormuz, son guide suprême déclarant l'ennemi vaincu, tandis que le ministre français des Affaires étrangères Jean-Noël Barrot discute à Jérusalem. Le conflit a multiplié les prix des engrais azotés, impactant les cultures céréalières françaises dépendantes des importations de gaz via Ormuz. Six pays dont la France et le Royaume-Uni restent prêts à sécuriser le détroit.\n\nUn incendie s'est déclaré vendredi dans une usine de pièces automobiles à Daejeon en Corée du Sud, tuant dix personnes et blessant 59 autres en présence de matières explosives ; les secours poursuivent les opérations de recherche. Un juge fédéral américain a annulé les restrictions du Pentagone sur l'accès de la presse aux informations, jugées inconstitutionnelles et violant le premier amendement ; les médias majeurs avaient abandonné leurs accréditations l'an dernier. Un jury américain a jugé Elon Musk coupable de tromperie envers les actionnaires via deux tweets de mai 2022 lors du rachat de Twitter, avec des dommages estimés à 2,6 milliards de dollars en attente de détermination finale. Des sondages Elabe indiquent des courses serrées au second tour des municipales dimanche à Paris, où Grégoire devance légèrement Dati, et à Bordeaux.",
+  "headlines": [
+    {
+      "title": "Donald Trump exclut cessez-le-feu avec l'Iran et annonce réduction graduelle opérations militaires",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "France Info",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Le président américain Donald Trump déclare exclure tout cessez-le-feu avec l'Iran au 22e jour du conflit, tout en envisageant une réduction graduelle des opérations. Les frappes se poursuivent, impactant la région avant l'Aïd el-Fitr. Cela prolonge l'incertitude stratégique au Moyen-Orient.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-une-raffinerie-en-feu-au-koweit-dautres-pays-du-golfe-cibles-par-des-missiles-et-des-drones-20260320_ZYLQD5LOA5A6TA3CQZHD42DHYE/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Mentionne conflit troisième semaine frappes sites énergétiques et craintes escalade",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-une-raffinerie-en-feu-au-koweit-dautres-pays-du-golfe-cibles-par-des-missiles-et-des-drones-20260320_ZYLQD5LOA5A6TA3CQZHD42DHYE/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Cite déclaration Trump sur anéantissement adversaire sans cessez-le-feu",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-des-incendies-se-declarent-dans-une-raffinerie-au-koweit-apres-des-attaques-de-drones_7881530.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "France 24",
+          "angle": "Ouvre sur intention Trump réduire graduellement opérations après exclusion cessez-le-feu",
+          "link": "https://www.france24.com/fr/moyen-orient/20260321-en-direct-trump-dit-vouloir-r%C3%A9duire-graduellement-les-op%C3%A9rations-en-iran-mais-exclut-tout-cessez-le-feu"
+        },
+        {
+          "source": "RFI",
+          "angle": "Intègre déclarations Trump dans direct 22e jour avec autres updates front",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260321-en-direct-guerre-au-moyen-orient-l-iran-se-dit-pr%C3%AAt-%C3%A0-aider-les-navires-japonais-a-traverser-le-d%C3%A9troit-d-ormuz"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis déploient milliers Marines supplémentaires au Moyen-Orient",
+      "source": "20 Minutes",
+      "summary": "L'armée américaine prépare envoi de milliers de Marines au Moyen-Orient tandis que Donald Trump étudie prise de contrôle stratégique du détroit d'Ormuz. Cela renforce présence militaire face à escalade conflit avec l'Iran.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4212922-20260320-guerre-iran-armee-americaine-va-deployer-troupes-supplementaires-moyen-orient?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Washington allège sanctions sur exportations pétrole iranien pour réduire prix énergie",
+      "source": "Radio-Canada",
+      "summary": "L'administration Trump lève partiellement sanctions contre pétrole iranien afin de contrer flambée prix énergie due à guerre Moyen-Orient. Cela vise stabilisation marchés mondiaux impactés par perturbations détroit d'Ormuz.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2240810/etats-unis-sanctions-petrole-iran",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Incendie usine pièces automobiles à Daejeon tue dix personnes et blesse 59 autres",
+      "source": "20 Minutes",
+      "summary": "Un incendie éclate vendredi dans usine automobile à Daejeon en Corée du Sud, causant dix morts et 59 blessés en présence de matières explosives. Les secours poursuivent opérations de recherche et déblaiement.",
+      "link": "https://www.20minutes.fr/monde/coree_du_sud/4212926-20260321-coree-sud-violent-incendie-usine-automobile-fait-moins-10-morts-plus-soixante-blesses?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Juge fédéral américain annule restrictions Pentagone sur accès presse aux informations",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "RFI"
+      ],
+      "summary": "Un juge fédéral juge inconstitutionnelles mesures Pentagone limitant accès médias, violant premier amendement. Imposées l'an dernier, elles avaient conduit médias majeurs à abandonner accréditations. Décision restaure liberté expression.",
+      "link": "https://www.lemonde.fr/international/article/2026/03/20/aux-etats-unis-la-justice-bloque-la-politique-du-pentagone-restreignant-l-acces-des-medias_6672787_3210.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Met en avant violation amendements Constitution par décision ministère Défense",
+          "link": "https://www.lemonde.fr/international/article/2026/03/20/aux-etats-unis-la-justice-bloque-la-politique-du-pentagone-restreignant-l-acces-des-medias_6672787_3210.html"
+        },
+        {
+          "source": "RFI",
+          "angle": "Rappelle contexte règles draconiennes imposées l'an dernier et abandon badges médias",
+          "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260321-%C3%A9tats-unis-un-juge-annule-des-mesures-restrictives-du-pentagone-%C3%A0-l-%C3%A9gard-de-la-presse"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Interceptions missiles iraniens épuisent stocks munitions alliés dont France",
+      "source": "Le Monde",
+      "summary": "Trois semaines d'interceptions quotidiennes milliers missiles et drones de Téhéran tendent réserves munitions, situation critique pour France liée accords défense Moyen-Orient. Cela impose rationnements stratégiques.",
+      "link": "https://www.lemonde.fr/international/article/2026/03/21/une-guerre-des-stocks-le-cout-de-plus-en-plus-insoutenable-en-munitions-du-conflit-en-iran_6673095_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Guerre Moyen-Orient multiplie prix engrais azotés impactant agriculture française",
+      "source": "France Info",
+      "summary": "Conflit perturbe approvisionnement gaz via détroit d'Ormuz, faisant exploser coûts engrais de synthèse essentiels cultures céréalières en France. Agriculteurs confrontés à dépendance importations et hausses prix alimentaires.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/comment-la-guerre-au-moyen-orient-a-fait-exploser-les-prix-des-engrais-et-seme-le-chaos-dans-les-champs_7874552.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Jury américain juge Elon Musk coupable tromperie actionnaires lors rachat Twitter",
+      "source": "Le Monde",
+      "summary": "Un jury estime deux tweets d'Elon Musk en mai 2022 mensongers, causant chute cours Twitter lors rachat. Dommages estimés à 2,6 milliards dollars attendent détermination finale.",
+      "link": "https://www.lemonde.fr/international/article/2026/03/21/elon-musk-reconnu-coupable-d-avoir-trompe-des-actionnaires-lors-du-rachat-de-twitter_6672789_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Sondages indiquent courses serrées second tour municipales grandes villes françaises",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "À deux jours du second tour dimanche, sondages Elabe montrent Grégoire légèrement devant Dati à Paris et scrutins ouverts ailleurs comme Bordeaux. Résultats influenceront paysage politique pré-présidentiel.",
+      "link": "https://www.lefigaro.fr/elections/municipales/municipales-2026-que-ditent-les-derniers-sondages-dans-les-grandes-villes-pour-le-second-tour-20260320",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran propose aide navires japonais traverser détroit d'Ormuz au 22e jour conflit",
+      "source": "RFI",
+      "summary": "Au 22e jour de guerre Moyen-Orient, Iran se dit prêt assister navires japonais via Ormuz. Guide suprême déclare ennemi vaincu tandis que ministre français Barrot discute à Jérusalem.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260321-en-direct-guerre-au-moyen-orient-l-iran-se-dit-pr%C3%AAt-%C3%A0-aider-les-navires-japonais-a-traverser-le-d%C3%A9troit-d-ormuz",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Après annonces hier de pays incluant France prêts sécuriser Ormuz, Iran cible Japon avec offre transit",
+      "sources": [
+        "RFI"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 208,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "economy": 3,
+      "society": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "global": 1,
+      "asia-pacific": 1,
+      "americas": 2,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-21",
+  "summary": "President Trump indicated on social media and in remarks that he is considering winding down U.S. military operations in the Iran war. This follows U.S. losses of 16 aircraft yesterday and recent deployments of three amphibious ships and 2,500 Marines responding to Iranian threats against tourism sites. The U.S. Treasury lifted sanctions on some Iranian oil exports yesterday, which were proposed the day before, adding 140 million barrels to global markets as gas prices rise. U.S. consumers face lower fuel costs, while the move affects diplomacy with Iran and worldwide oil supplies.\n\nIsrael conducted airstrikes on regime targets in Tehran and Beirut. This follows Israeli strikes on infrastructure across Tehran during the Nowruz holiday yesterday. The strikes threaten infrastructure and civilians in Iran and Lebanon. Separately, NATO launched its first coordinated response after another deep-sea cable was severed in the Baltic Sea amid sabotage suspicions. The alliance aims to protect critical infrastructure. A federal jury in San Francisco found Elon Musk liable for misleading Twitter investors before the $44 billion buyout in 2022, absolving some fraud claims but eyeing up to $2.6 billion in damages for shareholders.\n\nRwanda-backed rebels overran Congolese troops and entered Goma city, a designated safe haven, sparking gunfire and shelling with over one million people displaced inside. The U.N. warns of a humanitarian crisis in eastern Congo. Hawaii officials ordered 5,500 people to evacuate flood zones north of Honolulu after severe rains, as a 120-year-old dam nears failure. U.S. prosecutors in New York are probing Colombian President Petro for alleged ties to drug traffickers. A factory fire in South Korea killed 10 workers and left four missing, the deadliest in two years, prompting investigations into fire prevention.",
+  "headlines": [
+    {
+      "title": "Trump Considers Winding Down U.S. Military Operations in Iran War",
+      "source": "Associated Press",
+      "sources": [
+        "New York Times",
+        "Associated Press"
+      ],
+      "summary": "President Trump hints at ending Middle East operations via social media and remarks, despite deploying three amphibious ships and 2,500 Marines amid Iran's tourism site threats. Signals potential de-escalation affecting U.S. strategy and global stability.",
+      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Emphasized Trump's social media post after White House lawn comments rejecting cease-fire",
+          "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Highlighted additional troop ships and Marines deployment alongside wind-down consideration",
+          "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Treasury Lifts Sanctions on Some Iranian Oil Exports Adding 140 Million Barrels",
+      "source": "BBC",
+      "sources": [
+        "BBC",
+        "New York Times",
+        "Deutsche Welle"
+      ],
+      "summary": "Treasury eases restrictions bringing 140 million barrels to global markets quickly as gas prices soar. Impacts U.S. consumers, oil prices worldwide, and war diplomacy with Iran.",
+      "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC",
+          "angle": "Stressed addition of 140m barrels and immediate effect on soaring U.S. gas prices",
+          "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Mentioned sanctions lift alongside Trump's war wind-down comments",
+          "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Noted temporary easing of oil sanctions in live war updates",
+          "link": "https://www.dw.com/en/iran-war-israel-launches-strikes-on-tehran-beirut/live-76462692?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Launches Strikes on Regime Targets in Tehran and Beirut",
+      "source": "Deutsche Welle",
+      "summary": "Israeli military conducts new wave of airstrikes on Tehran regime sites and Beirut. Escalates regional conflict, threatens infrastructure and civilians in Iran and Lebanon next.",
+      "link": "https://www.dw.com/en/iran-war-israel-launches-strikes-on-tehran-beirut/live-76462692?maca=en-rss-en-top-1022-rdf",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Federal Jury Finds Elon Musk Liable for Misleading Twitter Investors Before $44 Billion Buyout",
+      "source": "NPR News",
+      "sources": [
+        "NPR News",
+        "The Hindu",
+        "South China Morning Post",
+        "Deutsche Welle"
+      ],
+      "summary": "San Francisco jury holds Musk responsible for driving down stock price pre-2022 acquisition, absolves some fraud claims, eyes up to $2.6 billion damages. Hits shareholders and sets legal precedent.",
+      "link": "https://www.npr.org/2026/03/20/g-s1-114660/elon-musk-misled-investors-twitter-purchase",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "NPR News",
+          "angle": "Detailed jury liability for misleading via stock manipulation pre-acquisition",
+          "link": "https://www.npr.org/2026/03/20/g-s1-114660/elon-musk-misled-investors-twitter-purchase"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Centered on class-action suit timing just before Musk's Twitter takeover",
+          "link": "https://www.thehindu.com/sci-tech/technology/jury-finds-elon-musk-misled-investors-during-twitter-purchase-absolves-him-of-some-fraud-claims/article70767392.ece"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "Highlighted potential $2.6 billion damages from shareholder class action",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3347400/elon-musk-misled-twitter-shareholders-us-jury-finds?utm_source=rss_feed"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Focused on trial emphasis of Musk's Twitter bot count claims",
+          "link": "https://www.dw.com/en/elon-musk-misled-twitter-shareholders-us-jury-finds/a-76462448?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. Judge Blocks Pentagon Policy Limiting Reporters' Access to Facilities",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "NPR News"
+      ],
+      "summary": "District Judge Paul Friedman rules Trump administration rules unlawful under First Amendment, siding with New York Times. Restores press credentials, bolsters media oversight of military.",
+      "link": "https://apnews.com/article/pentagon-policy-news-reporters-hegseth-dc7a69b7e7c3f618b3879d9cafec9b25",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Detailed judge's block of unlawful press credential restrictions",
+          "link": "https://apnews.com/article/pentagon-policy-news-reporters-hegseth-dc7a69b7e7c3f618b3879d9cafec9b25"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Noted policy conflict with First Amendment on unauthorized info gathering",
+          "link": "https://www.npr.org/2026/03/20/nx-s1-5755120/pentagon-press-policy-new-york-times-lawsuit"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance responds after another deep-sea cable severed in Baltic Sea amid sabotage fears. Protects critical infrastructure, signals heightened NATO vigilance against hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma City Overrunning Congolese Troops",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overrun troops entering safe-haven Goma, sparking gunfire and shelling with over one million displaced inside. U.N. warns of humanitarian crisis escalation in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels entered Goma amid gunfire and shelling, trapping over one million displaced people inside the city",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Hawaii Officials Order 5,500 People to Evacuate Flood Zones Near Risky Dam",
+      "source": "NPR News",
+      "summary": "Severe rains flood communities north of Honolulu, prompting evacuations as 120-year-old dam nears failure. Threatens lives and property, tests emergency response in vulnerable areas.",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5755105/hawaii-evacuations-flooding-dam-failure",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. Prosecutors Probe Colombian President Petro for Ties to Drug Traffickers",
+      "source": "Associated Press",
+      "summary": "New York federal investigators question alleged links, per sources. Could destabilize Colombia's leadership, impact U.S.-Latin America anti-drug efforts and bilateral relations.",
+      "link": "https://apnews.com/article/us-investigation-petro-colombian-president-95886306b7c3107df584e154726a8737",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Factory Fire Kills 10 Workers in South Korea Leaves Four Missing",
+      "source": "New York Times",
+      "summary": "Blaze at factory forces survivors to jump windows, deadliest in two years. Raises workplace safety concerns, prompts investigations into causes and fire prevention failures.",
+      "link": "https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 453,
+    "articlesAfterDedup": 450,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "economy": 1,
+      "society": 2,
+      "politics": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "global": 1,
+      "americas": 4,
+      "europe": 1,
+      "africa": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

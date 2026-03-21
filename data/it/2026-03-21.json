@@ -1,0 +1,151 @@
+{
+  "date": "2026-03-21",
+  "summary": "L'Iran ha lanciato due missili balistici contro la base Usa di Diego Garcia nell'Oceano Indiano durante la notte. Il colpo ha mancato l'obiettivo sulla base anglo-americana. Israele ha risposto stamane bombardando Teheran con missili e droni. Si tratta del 22° giorno di guerra nel Golfo, che blocca le rotte energetiche e alza i prezzi globali del petrolio. Questo fa seguito ai missili iraniani lanciati ieri su raffinerie in Qatar e Arabia Saudita, che hanno colpito un F-35 Usa.\n\nIl traffico nello Stretto di Hormuz è crollato del 94%, passando da 130 navi al giorno a 0-5, dopo la dichiarazione della zona come area di operazioni belliche. Oltre 1000 imbarcazioni sono ferme dal 10 marzo, con 3000 bloccate per costi record e dipendenza energetica. Il presidente Usa Trump ha schierato 2500 marines nello Stretto, usando basi inglesi, e ha accusato gli alleati di codardia. Trump ha aperto a una de-escalation con l'Iran dopo i raid recenti; le borse europee hanno perso 1700 miliardi in tre settimane.\n\nLa Nato ha ritirato le truppe dall'Iraq dopo i raid iraniani, lasciando solo personale all'ambasciata di Bagdad; il ministro italiano Crosetto ha confermato il trasferimento degli italiani a Napoli. La Francia accelera una missione Onu per scortare petroliere nello Stretto di Hormuz, guidata da Macron per riprendere il traffico strategico quando le armi tacciono, senza un no netto da Trump. A Roma è esploso un casolare abbandonato nel parco dell'Acquedotto, uccidendo gli anarchici Alessandro Mercogliano e Sara Ardizzone durante la preparazione di un ordigno; le vittime sono legate ad Alfredo Cospito. È convocato il comitato antiterrorismo per la pista attentato.",
+  "headlines": [
+    {
+      "title": "Iran lancia due missili balistici contro base Usa Diego Garcia",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Teheran attacca nella notte isola Oceano Indiano con base anglo-americana, colpo mancata. Israele risponde bombardando Teheran con missili e droni dal mattino. 22° giorno guerra nel Golfo blocca rotte energia e alza prezzi globali.",
+      "link": "https://www.agi.it/estero/news/2026-03-21/iran-guerra-aggiornamenti-21-marzo-36216882/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Segnala 22° giorno guerra con missili Iran su Diego Garcia e attacco Israele Teheran",
+          "link": "https://www.agi.it/estero/news/2026-03-21/iran-guerra-aggiornamenti-21-marzo-36216882/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta attacco missili Iran mancato e Usa autorizzano vendita petrolio navi bloccate",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-21-marzo_110231546-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Esplode casolare Roma uccide anarchici Alessandro Mercogliano e Sara Ardizzone",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "Rai News"
+      ],
+      "summary": "Crolla solaio casale abbandonato parco Acquedotti durante preparazione ordigno. Vittime legate Alfredo Cospito, Mercogliano mutilato. Convocato comitato antiterrorismo per pista attentato, caso diventa politico.",
+      "link": "https://www.ilsole24ore.com/art/roma-esplode-casolare-morti-due-anarchici-c-e-anche-pista-attentato-convocato-comitato-antiterrorismo-AI0XC74B",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Sottolinea morte due anarchici gruppo Cospito e convocazione comitato antiterrorismo",
+          "link": "https://www.ilsole24ore.com/art/roma-esplode-casolare-morti-due-anarchici-c-e-anche-pista-attentato-convocato-comitato-antiterrorismo-AI0XC74B"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Dettaglia esplosione ordigno in preparazione e legami vittime con Alfredo Cospito",
+          "link": "https://www.rainews.it/articoli/2026/03/esplode-lordigno-che-stavano-preparando-morti-due-anarchici-le-vittime-legate-a-alfredo-cospito-roma-e53f1094-df42-4ec2-9076-f5328763afff.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump invia 2500 marines Hormuz critica alleati codardi",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Presidente Usa accusa alleati di codardia su Stretto Hormuz e schiera altri marines, usa basi inglesi. Apre de-escalation con Iran dopo raid, Borse europee perdono 1700 miliardi in tre settimane.",
+      "link": "https://www.repubblica.it/esteri/2026/03/21/news/trump_nato_codardi_marines_hormuz_attacco_terra-425235843/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta critiche Trump su alleati e invio marines Hormuz con apertura de-escalation",
+          "link": "https://www.repubblica.it/esteri/2026/03/21/news/trump_nato_codardi_marines_hormuz_attacco_terra-425235843/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Indica Trump valuta riduzione sforzi militari e ottiene basi inglesi con 2500 soldati",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-20-marzo_110197396-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Traffico Stretto Hormuz crolla 94% per zona operazioni belliche",
+      "source": "AGI",
+      "summary": "Conflitto Medio Oriente dichiara Hormuz zona guerra, transiti da 130 navi giorno a 0-5. Oltre 1000 imbarcazioni ferme al 10 marzo, 3000 bloccate causa costi record e dipendenza energia.",
+      "link": "https://www.agi.it/economia/news/2026-03-21/blocco-hormuz-costi-record-36061311/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NATO ritira truppe Iraq dopo raid iraniani italiani trasferiti Napoli",
+      "source": "la Repubblica",
+      "summary": "Alleati lasciano Bagdad mantenendo solo personale ambasciata. Ministro Crosetto conferma italiani a Napoli. Decisione aiuta Usa uscire situazione difficile post raid iraniani.",
+      "link": "https://www.repubblica.it/esteri/2026/03/21/news/nato_via_iraq_raid_iraniani_italiani_napoli-425235874/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Francia accelera missione Onu scorta petroliere Stretto Hormuz",
+      "source": "la Repubblica",
+      "summary": "Macron guida multilateralismo per proteggere navi quando armi tacciono. Proposta Onu riprende traffico strategico, senza no netto Trump. Influenza prezzi energia Europa.",
+      "link": "https://www.repubblica.it/esteri/2026/03/21/news/onu_francia_accelera_missione_scortare_navi_hormuz-425235893/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 252,
+    "articlesAfterDedup": 252,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "conflict": 1,
+      "society": 1,
+      "politics": 2,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    }
+  }
+}

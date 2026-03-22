@@ -1,0 +1,230 @@
+{
+  "date": "2026-03-22",
+  "summary": "Donald Trump a donné un ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz, sous menace de détruire des centrales électriques iraniennes. L'Iran a répondu par des menaces sur des infrastructures régionales. Cela se produit au 23e jour du conflit au Moyen-Orient, après l'exclusion d'un cessez-le-feu par Trump la veille et une réduction graduelle des opérations militaires américaines. Les prix du pétrole mondial augmentent en conséquence. Une réponse iranienne est attendue d'ici 48 heures.\n\nAu Moyen-Orient, les États-Unis et Israël ont bombardé le site nucléaire de Natanz le 21 mars. L'Iran a tiré des missiles sur Arad et Dimona au sud d'Israël, blessant 100 personnes. Au sud du Liban, le Hezbollah rapporte des combats au sol avec Israël dans deux villes frontalières, déplacant plus d'un million de Libanais vers Beyrouth où ils affrontent des intempéries et des conditions de vie précaires. Le conflit génère des fumées toxiques, des émissions de gaz à effet de serre massives et des marées noires contaminant sols, eaux et biodiversité régionale.\n\nSéparément, la Commission européenne demande aux États membres de remplir moins les stocks de gaz pour l'hiver prochain, afin de contenir la hausse des cours liée à la guerre au Moyen-Orient. Aux États-Unis, Trump menace d'envoyer des agents ICE aux aéroports pour assurer les contrôles de sécurité depuis le 13 mars, en cas d'impasse budgétaire fédérale sans paie pour les agents. À Prague, 250 000 personnes ont manifesté contre le gouvernement d'Andrej Babiš. En Italie, un référendum sur la réforme de la justice de Giorgia Meloni se tient dimanche et lundi, portant sur l'impartialité des magistrats. La NASA relance Artemis II vers la Lune comme tremplin pour Mars. À Ottawa, le gouvernement prévoit de supprimer l'équivalent de 12 000 postes à temps plein dans la fonction publique.",
+  "headlines": [
+    {
+      "title": "Donald Trump donne ultimatum de 48 heures à l'Iran pour rouvrir détroit d'Ormuz",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Radio-Canada",
+        "20 Minutes",
+        "Le Monde",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Donald Trump exige la réouverture du détroit d'Ormuz sous 48 heures sous menace de détruire centrales électriques iraniennes. L'Iran répond par menaces sur infrastructures régionales. Cela accentue tensions au 23e jour de conflit et impacte prix pétrole mondiaux.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-donne-48-heures-a-liran-pour-rouvrir-le-detroit-dormuz-teheran-menace-de-frapper-des-infrastructures-cles-de-la-region-20260322_UJG23DJGYBHYJFRR7X6ZGIGQU4/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Ouvre avec ultimatum Trump de 48 heures et menaces iraniennes sur infrastructures clés",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-donne-48-heures-a-liran-pour-rouvrir-le-detroit-dormuz-teheran-menace-de-frapper-des-infrastructures-cles-de-la-region-20260322_UJG23DJGYBHYJFRR7X6ZGIGQU4/"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Met l'accent sur ultimatum Trump et réplique iranienne menaçant infrastructures",
+          "link": "https://ici.radio-canada.ca/nouvelle/2240899/missile-iran-site-nucleaire-israelien"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Insiste sur ultimatum de deux jours et lien avec flambée prix essence",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4212983-20260322-guerre-iran-trump-donne-ultimatum-deux-jours-teheran-debloquer-detroit-ormuz?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Détaille menaces Trump sur centrales et réponse iranienne sur infrastructures eau",
+          "link": "https://www.lemonde.fr/international/live/2026/03/22/en-direct-guerre-au-moyen-orient-donald-trump-menace-de-detruire-les-centrales-electriques-iraniennes-en-cas-de-non-reouverture-du-detroit-d-ormuz-dans-les-deux-jours_6673056_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Rapporte menaces Trump sur centrales et riposte iranienne sur usines dessalement",
+          "link": "https://www.france24.com/fr/moyen-orient/20260322-guerre-au-moyen-orient-trump-menace-de-d%C3%A9truire-les-centrales-%C3%A9lectriques-de-l-iran-si-ormuz-n-est-pas-rouvert"
+        },
+        {
+          "source": "RFI",
+          "angle": "Mentionne 23e jour guerre avec ultimatum Trump et frappes récentes Natanz",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260322-en-direct-guerre-au-moyen-orient-l-iran-menace-de-frapper-des-infrastructures-cl%C3%A9s-apr%C3%A8s-un-ultimatum-de-trump"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump menace d'envoyer agents ICE assurer contrôles sécurité aéroports américains",
+      "source": "RTBF",
+      "sources": [
+        "RTBF",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Face à impasse budgétaire, Trump propose déployer police immigration ICE aux aéroports depuis 13 mars sans paie agents sécurité. Cela vise débloquer budget fédéral et affecte voyages intérieurs États-Unis.",
+      "link": "https://www.rtbf.be/article/le-president-americain-donald-trump-menace-d-envoyer-la-police-de-l-immigration-dans-les-aeroports-pour-sortir-de-l-impasse-budgetaire-11698142",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "Ouvre avec menace Trump d'envoyer police immigration aux aéroports pour budget",
+          "link": "https://www.rtbf.be/article/le-president-americain-donald-trump-menace-d-envoyer-la-police-de-l-immigration-dans-les-aeroports-pour-sortir-de-l-impasse-budgetaire-11698142"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Précise fonctionnaires sécurité non payés depuis 13 mars dans impasse",
+          "link": "https://ici.radio-canada.ca/nouvelle/2240868/impasse-budgetaire-trump-ice-aeroports"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Détaille déploiement ICE pour contrôles sécurité amputés par différend budget",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4212962-20260321-etats-unis-donald-trump-menace-envoyer-police-immigration-assurer-controles-securite-aeroports?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "250 000 personnes manifestent à Prague contre gouvernement Andrej Babiš",
+      "source": "RTBF",
+      "summary": "Alliance Un million de moments pour la démocratie organise manif dénonçant tendances gouvernementales. Cela reflète mécontentement massif en République tchèque envers politiques actuelles.",
+      "link": "https://www.rtbf.be/article/a-prague-pres-de-250-000-personnes-ont-manifeste-contre-le-gouvernement-d-andrej-babis-11698131",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Commission européenne demande États-membres moins remplir stocks gaz hiver prochain",
+      "source": "France Info",
+      "summary": "Pour contenir hausse cours gaz due guerre Moyen-Orient, UE réduit remplissage stocks. Cela protège ménages européens des coûts énergétiques élevés malgré non-implication directe conflit.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-europe-appelle-ses-etats-membres-a-moins-remplir-leurs-stocks-de-gaz-pour-contenir-les-couts_7885586.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Plus d'un million Libanais déplacés subissent intempéries dans sud pays",
+      "source": "France 24",
+      "summary": "Hezbollah rapporte combats sol avec Israël dans deux villes frontalières sud Liban. Déplacés à Beyrouth affrontent conditions vie précaires aggravées par intempéries, menaçant stabilité régionale.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260321-fortes-intemp%C3%A9ries-au-liban-quelles-conditions-de-vie-pour-plus-d-un-million-de-d%C3%A9plac%C3%A9s",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Guerre Moyen-Orient génère fumées toxiques et pollue sols eaux région",
+      "source": "Liberation",
+      "summary": "Conflit émet gaz effet serre massifs et contamine biodiversité via marées noires. Cela aggrave crise climatique globale et facture environnementale lourde pour États impliqués.",
+      "link": "https://www.liberation.fr/international/moyen-orient/fumees-toxiques-marees-noires-eau-et-sols-contamines-la-lourde-facture-environnementale-de-la-guerre-au-moyen-orient-20260322_P7SPEC7R5ZEY3N4RBHOWM63EBU/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "environment",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Italiens votent référendum dimanche lundi sur réforme justice Giorgia Meloni",
+      "source": "RFI",
+      "summary": "Référendum porte sur impartialité magistrats selon Première ministre. Opposants voient prise contrôle politique, impactant équilibre pouvoirs en Italie.",
+      "link": "https://www.rfi.fr/fr/europe/20260322-r%C3%A9f%C3%A9rendum-tr%C3%A8s-politique-sur-une-r%C3%A9forme-de-la-justice",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Grands puissances relancent programme Artemis II vers objectif Lune",
+      "source": "France Info",
+      "summary": "Proximité Lune sert tremplin Mars, motivant NASA et rivaux. Mission Artemis II prépare retours habités et concurrence spatiale accrue.",
+      "link": "https://www.franceinfo.fr/sciences/espace/mission-artemis-vers-la-lune/mission-artemis-ii-pourquoi-les-grandes-puissances-relancent-elles-leur-objectif-lune_7811330.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Gouvernement Ottawa prévoit supprimer équivalent 12 000 postes temps plein fonction publique",
+      "source": "Radio-Canada",
+      "summary": "Ministères coupent dépenses pour réduire budget. Cela affecte services publics canadiens et vise équilibre finances fédérales.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2240849/federal-supressions-postes-fonctionnaires",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Guerre Moyen-Orient entre 23e jour avec frappes Natanz et missiles sud Israël",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Le Monde"
+      ],
+      "summary": "États-Unis Israël bombardent site nucléaire Natanz 21 mars, Iran tire missiles blessant 100 personnes Arad Dimona. Conflit s'intensifie au 23e jour.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260322-en-direct-guerre-au-moyen-orient-l-iran-menace-de-frapper-des-infrastructures-cl%C3%A9s-apr%C3%A8s-un-ultimatum-de-trump",
+      "tier": "developing",
+      "dayNumber": 23,
+      "previousContext": "Trump lance ultimatum 48 heures Ormuz, Iran menace infrastructures clés, plus 100 blessés frappes iraniennes Israël",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 211,
+    "articlesAfterDedup": 208,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "politics": 4,
+      "economy": 2,
+      "environment": 2,
+      "science": 1,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 2,
+      "europe": 3,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

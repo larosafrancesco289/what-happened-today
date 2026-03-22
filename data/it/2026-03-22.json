@@ -1,0 +1,167 @@
+{
+  "date": "2026-03-22",
+  "summary": "L'Iran ha lanciato missili balistici su Dimona e Arad nel sud di Israele, bucando le difese aeree e causando oltre 100 feriti. L'attacco risponde al raid israeliano sull'impianto nucleare di Natanz. L'IDF ha avvertito che i missili iraniani raggiungono Roma, Parigi e Berlino. Poche ore dopo, Israele ha condotto raid all'alba su Teheran con missili e droni, colpendo obiettivi del regime iraniano e Natanz, nel 22° giorno di guerra nel Golfo Persico. Questo fa seguito al lancio iraniano di ieri su Diego Garcia.\n\nDonald Trump ha intimato all'Iran di riaprire lo Stretto di Hormuz entro 48 ore, minacciando attacchi sulle centrali elettriche iraniane. Teheran ha replicato di mirare infrastrutture energetiche Usa. Il traffico marittimo nello Stretto rimane bloccato al 94%, impattando forniture globali di petrolio. L'Unione Europea raccomanda ai 27 Paesi di ridurre gli obiettivi di stoccaggio gas naturale per prezzi elevati, causati dalla guerra in Medio Oriente e dal blocco Hormuz. I ministri energia evitano reintegri rapidi per stabilizzare i mercati.\n\nIn Italia, le urne sono aperte per il referendum confermativo sulla separazione delle carriere dei magistrati e la Corte disciplinare, con 51 milioni di elettori chiamati a votare fino alle 23 oggi e alle 15 domani. Una valanga dal Tallone Grande in Val Ridanna, Alto Adige, ha travolto 25 scialpinisti: due morti e sette feriti, con i soccorsi che hanno recuperato i superstiti. I prezzi delle uova allevate a terra sono saliti del 27% da inizio anno per aviaria e domanda proteica in crescita del 7%. È morto Paolo Cirino Pomicino, ex ministro e deputato per sette legislature negli anni '80-'90.",
+  "headlines": [
+    {
+      "title": "Iran lancia missili su Dimona e Arad: oltre 100 feriti nel sud Israele",
+      "source": "TGCOM24",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "L'Iran ha colpito con missili le aree di Dimona e Arad in Israele, bucando le difese aeree e causando oltre 100 feriti. L'IDF avverte che i missili raggiungono Roma, Parigi e Berlino. La mossa escalata risponde al raid su Natanz, aumentando tensioni nel Golfo Persico.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-21-marzo_110231546-202602k.shtml",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive missili iraniani che bucano difese a Dimona e Arad con decine di feriti",
+          "link": "https://www.repubblica.it/esteri/2026/03/22/news/missili_verso_diego_garcia_possono_colpire_roma_feriti_nel_sud_di_israele-425237777/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta capacità missili iraniani di colpire Roma e raid su Dimona Arad con 100 feriti",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-21-marzo_110231546-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump intima all'Iran di aprire Stretto Hormuz entro 48 ore o attacca centrali",
+      "source": "TGCOM24",
+      "summary": "Donald Trump minaccia di colpire le centrali elettriche iraniane se Teheran non riapre lo Stretto di Hormuz entro 48 ore. L'Iran replica pronto a mirare infrastrutture energetiche Usa. La tensione blocca il traffico marittimo del 94%, impattando forniture globali di petrolio.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-22-marzo_110270888-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Urne aperte per referendum su riforma giustizia: 51 milioni italiani votano",
+      "source": "AGI",
+      "summary": "In Italia aperte le urne per il referendum confermativo sulla separazione carriere magistrati e Corte disciplinare. Chiamati 51 milioni di elettori oggi fino alle 23 e domani fino alle 15. La riforma modifica l'ordinamento giurisdizionale, influenzando indipendenza giudiziaria.",
+      "link": "https://www.agi.it/politica/news/2026-03-22/referendum-urne-aperte-36230239/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israele attacca Teheran con missili e droni all'alba",
+      "source": "AGI",
+      "summary": "Israele lancia raid con missili e droni su Teheran, colpendo obiettivi del regime iraniano poche ore dopo attacchi missilistici nemici. Il 22esimo giorno di guerra segna nuova fase nel Golfo. Gli Usa e Israele hanno mirato anche all'impianto nucleare di Natanz.",
+      "link": "https://www.agi.it/estero/news/2026-03-21/iran-guerra-aggiornamenti-21-marzo-36216882/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Valanga travolge 25 scialpinisti a Racines: due morti e sette feriti",
+      "source": "Il Sole 24 Ore",
+      "summary": "Una valanga si stacca dal Tallone Grande in Val Ridanna, Alto Adige, coinvolgendo 25 scialpinisti. Bilancio due morti e sette feriti. I soccorsi recuperano i superstiti, evento evidenzia rischi invernali in montagna per appassionati fuoripista.",
+      "link": "https://www.ilsole24ore.com/art/valanga-racines-alto-adige-due-morti-e-cinque-feriti-AIlgsl5B",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Unione Europea raccomanda di ridurre obiettivi stoccaggio gas per prezzi alti",
+      "source": "la Repubblica",
+      "sources": [
+        "Euronews Italiano",
+        "la Repubblica"
+      ],
+      "summary": "Il commissario Ue Jørgensen invita i 27 Paesi a esercitare flessibilità sugli obiettivi di stoccaggio gas naturale causa aumento prezzi da guerra Medio Oriente e blocco Hormuz. I ministri energia evitano reintegri rapidi per stabilizzare mercati.",
+      "link": "https://www.repubblica.it/esteri/2026/03/22/news/ue_gas_europa_stoccaggio_iran-425237598/?rss",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Cita commissario Jørgensen su riduzione obiettivi stoccaggio per prezzi gas da Hormuz",
+          "link": "http://it.euronews.com/my-europe/2026/03/21/prezzo-del-gas-in-aumento-il-commissario-jorgensen-ai-paesi-ue-ridurre-obiettivi-di-stocca"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta istruzioni Ue ai ministri energia per flessibilità su riserve gas",
+          "link": "https://www.repubblica.it/esteri/2026/03/22/news/ue_gas_europa_stoccaggio_iran-425237598/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Prezzi uova salgono del 27% da inizio anno per aviaria e domanda alta",
+      "source": "ANSA",
+      "summary": "I listini delle uova allevate a terra decollano del 27% causa aviaria, con domanda proteina animale in crescita del 7%. Colpisce consumi italiani principali. I produttori affrontano restrizioni sanitarie, spingendo rincari su mercati nazionali.",
+      "link": "https://www.ansa.it/canale_terraegusto/notizie/business/2026/03/21/listini-delle-uova-decollano-27-da-inizio-anno-per-quelle-allevate-a-terra_202034a3-4d18-4a6a-a8e3-eba0597da51c.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Paolo Cirino Pomicino muore a 87 anni: ex ministro e sette volte deputato",
+      "source": "Il Sole 24 Ore",
+      "summary": "Muore Paolo Cirino Pomicino, due volte ministro e deputato per sette legislature. Figura politica di spicco negli anni '80-'90. La scomparsa chiude capitolo storia repubblicana italiana, con eredità in politiche economiche.",
+      "link": "https://www.ilsole24ore.com/art/e-morto-paolo-cirino-pomicino-AIV4Oo5B",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 256,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "environment": 1,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 4,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4
+    }
+  }
+}

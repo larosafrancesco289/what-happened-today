@@ -1,0 +1,162 @@
+{
+  "weekId": "2026-W12",
+  "startDate": "2026-03-16",
+  "endDate": "2026-03-22",
+  "summary": "The week of March 16-22, 2026, was dominated by escalating violence in the Middle East, particularly the Iran-Israel conflict, alongside developments in Africa and U.S. policy shifts. Other stories, including natural disasters and one-off political blocks, largely faded.\n\nThe Iran-Israel war intensified across multiple days. On March 17, Israel launched strikes on Tehran and Lebanon as Iran fired missiles at UAE and Qatar. Escalation continued March 18 with Iranian missiles hitting a Tel Aviv suburb, killing two via shrapnel, and Israeli strikes on central Beirut killing six and injuring 24. On March 19, Iran set Qatari LNG facilities ablaze in retaliation for Israeli strikes on an Iranian gas field. March 20 saw an Iranian drone strike Kuwait's Mina al-Ahmadi refinery, causing fires and unit shutdowns; the U.S. also lost 16 aircraft, including drones and fighters, in the conflict. Israel struck regime targets in Tehran and Beirut on March 21. Amid heavy losses, President Trump considered winding down U.S. military operations on March 21. U.S. Treasury actions evolved: Secretary proposed lifting some Iranian oil sanctions on March 20, implementing it March 21 to add 140 million barrels to markets. This multi-day story underscored regional volatility and potential de-escalation.\n\nIn eastern Congo, Rwanda-backed rebels advanced significantly. Initial reports on March 16 of overrunning Goma troops and displacing over 1 million faded briefly, but on March 19, rebels overran Congolese troops and entered Goma city, displacing further and marking a persistent crisis.\n\nPakistani airstrikes in Afghanistan caused major casualties but did not persist: 75 civilians killed and 115,000 displaced on March 16; 400 killed at a Kabul drug rehabilitation hospital on March 17.\n\nU.S. domestic news included the Treasury Department assuming control of defaulted student loans from the Education Department on March 20. A federal jury found Elon Musk liable on March 21 for misleading Twitter investors before his $44 billion buyout.\n\nSingle-day stories that faded: Republicans blocking Democratic calls for Iran war hearings in Congress (March 16); Cuba's island-wide blackout from Trump's oil blockade on Venezuela (March 17); Kenya's 71 flood deaths (March 18); NASA-SpaceX Crew-10 launch retrieving stuck astronauts (date unspecified); U.S. severe storms with snow and tornado threats (date unspecified). EU leaders convened March 19 to unlock a €90 billion Ukraine loan blocked by Orban, with no follow-up.\n\nLasting matters: Middle East war, Congo rebels, U.S. Iran sanctions. (378 words)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Pakistani Airstrikes Kill 75 Civilians Displace 115000 in Afghanistan",
+    "Rwanda-Backed Rebels Overrun Goma Troops Displacing Over 1 Million",
+    "Republicans Block Democrats Calls for Iran War Hearings in Congress",
+    "NASA SpaceX Launch Crew-10 Retrieves Astronauts Stuck Nine Months",
+    "Severe Storms Dump Snow High Winds Raise Tornado Threats Across US",
+    "Rafah Crossing Closure Traps Gaza Patients Without Medical Evacuations",
+    "Myanmar Junta Allies Convene Proxy Parliament First Time Since 2021 Coup",
+    "UKs Starmer Urges Leaders Push Russia Toward Ukraine Ceasefire Talks",
+    "Pakistani Airstrike Kills 400 People at Kabul Drug Rehabilitation Hospital",
+    "Israel Launches Strikes on Tehran and Lebanon as Iran Fires Missiles at UAE Qatar"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-03-16",
+      "title": "Pakistani Airstrikes Kill 75 Civilians Displace 115000 in Afghanistan",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Rwanda-Backed Rebels Overrun Goma Troops Displacing Over 1 Million",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Republicans Block Democrats Calls for Iran War Hearings in Congress",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Pakistani Airstrike Kills 400 People at Kabul Drug Rehabilitation Hospital",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Israel Launches Strikes on Tehran and Lebanon as Iran Fires Missiles at UAE Qatar",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Cuba Endures Island-Wide Blackout Amid Trump Oil Blockade on Venezuelan Shipments",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Iran Launches Missiles at Tel Aviv Suburb Killing Two with Shrapnel",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Israel Strikes Central Beirut Killing Six and Injuring 24",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Kenya Reports 71 Deaths from Ongoing Nationwide Floods",
+      "category": "environment",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Iran Sets Qatari LNG Facilities Ablaze After Israel Strikes Iranian Gas Field",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "EU Leaders Convene to Unlock €90 Billion Loan for Ukraine Blocked by Orban",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "U.S. Treasury Department Assumes Control of Defaulted Student Loans from Education Department",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Iranian Drone Hits Kuwait's Mina al-Ahmadi Refinery Causing Fires and Unit Shutdowns",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "U.S. Treasury Secretary Proposes Lifting Sanctions on Some Iranian Oil Exports",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "U.S. Military Loses 16 Aircraft Including Drones and Fighters in Iran War",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Trump Considers Winding Down U.S. Military Operations in Iran War",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "U.S. Treasury Lifts Sanctions on Some Iranian Oil Exports Adding 140 Million Barrels",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Israel Launches Strikes on Regime Targets in Tehran and Beirut",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Federal Jury Finds Elon Musk Liable for Misleading Twitter Investors Before $44 Billion Buyout",
+      "category": "society",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2747,
+    "totalSourcesUsed": 16,
+    "daysWithData": 6,
+    "categoryCounts": {
+      "conflict": 29,
+      "politics": 20,
+      "science": 4,
+      "environment": 3,
+      "society": 5,
+      "economy": 5
+    },
+    "regionCounts": {
+      "asia-pacific": 6,
+      "africa": 11,
+      "americas": 11,
+      "global": 7,
+      "middle-east": 18,
+      "europe": 13
+    }
+  }
+}

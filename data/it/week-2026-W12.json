@@ -1,0 +1,168 @@
+{
+  "weekId": "2026-W12",
+  "startDate": "2026-03-16",
+  "endDate": "2026-03-22",
+  "summary": "Dal 16 al 22 marzo 2026, la settimana è stata dominata dall'escalation nel Medio Oriente, con scambi di attacchi tra Israele e Iran, e tensioni sullo Stretto di Hormuz che hanno coinvolto Stati Uniti e Unione Europea. Altre notizie significative hanno riguardato divisioni europee su aiuti all'Ucraina e eventi interni italiani.\n\nIl conflitto israelo-iraniano si è intensificato rapidamente. Il 16 marzo, Israele ha avviato operazioni terrestri nel sud del Libano, ma questa notizia è svanita presto. Il 17 marzo, droni e razzi hanno colpito l'ambasciata USA a Baghdad, mentre Israele ha attaccato Beirut e Teheran. L'18 marzo, raid israeliani su Teheran hanno eliminato Ali Larijani e Gholamreza Soleimani; l'Iran ha risposto lanciando missili su Ramat Gan, uccidendo una coppia di 70enni con bombe a grappolo, e Israele ha bombardato il centro di Beirut causando 6 morti e 24 feriti. Il 21 marzo, l'Iran ha lanciato due missili balistici contro la base USA di Diego Garcia. Il 22 marzo, missili iraniani su Dimona e Arad hanno ferito oltre 100 persone nel sud di Israele, seguiti da un attacco israeliano all'alba su Teheran con missili e droni. Questa filiera di eventi è rimasta al centro dell'attenzione, senza risoluzioni.\n\nSullo Stretto di Hormuz, il 16 marzo Donald Trump ha avvertito la Nato di un \"futuro negativo\" senza aiuto, notizia che è faded rapidamente. Il 17 marzo, Giorgia Meloni ha ammonito che un intervento militare lì porterebbe all\"envolvimento nella guerra. Il 20 marzo, sette paesi UE hanno proposto un piano per liberarlo. Il 21 marzo, Trump ha inviato 2.500 marines, criticando gli alleati \"codardi\". Il 22 marzo, ha intimato all'Iran di aprirlo entro 48 ore o subire attacchi sulle centrali nucleari. Questa crisi si è sviluppata persistentemente.\n\nIn Europa, il 19 marzo i leader UE hanno affrontato divisioni su prestiti per l'energia ucraina e Medio Oriente; il 20 marzo, Viktor Orban ha bloccato i prestiti all'Ucraina al Consiglio europeo.\n\nIn Italia, quattro attacchi in 16 giorni hanno colpito basi con soldati italiani (16 marzo, svanito). Il 17 marzo, Meloni ha parlato di Hormuz. Il 19 marzo, il governo ha approvato un decreto che taglia le accise sui carburanti per famiglie e imprese, sebbene una proposta per Isee sotto 15mila euro sia stata frenata (notizia faded). Il 21 marzo, un'esplosione in un casolare a Roma ha ucciso gli anarchici Alessandro Mercogliano e Sara Ardizzone. Il 22 marzo, si sono aperte le urne per il referendum sulla riforma della giustizia, con 51 milioni di italiani chiamati a votare. Umberto Bossi è morto l'20 marzo a 84 anni in ospedale a Varese.\n\nAltre storie evanescenti: attentati suicidi a Maiduguri (17 marzo, 23 morti, oltre 100 feriti); incendio in India (non datato qui, 10 morti). Le tensioni Medio Oriente e Hormuz persistono senza risoluzioni, mentre eventi italiani come il referendum sono in corso. (378 parole)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Israele avvia operazioni terrestri nel sud del Libano",
+    "Donald Trump avverte Nato di futuro negativo senza aiuto su Stretto di Hormuz",
+    "Quattro attacchi in sedici giorni colpiscono basi con soldati italiani",
+    "Incendio distrugge ospedale in India causando dieci morti",
+    "Governo italiano frena taglio accise carburanti per famiglie Isee sotto 15mila euro",
+    "Fincantieri cresce in difesa Indo-Pacifico con rinvio cessione nave Garibaldi Indonesia",
+    "Unione Europea propone rafforzare Aspides per riaprire Stretto di Hormuz",
+    "Attentatori suicidi colpiscono mercato e ospedale a Maiduguri causando 23 morti e oltre 100 feriti",
+    "Droni e razzi colpiscono ambasciata Usa a Baghdad mentre Israele attacca Beirut e Teheran",
+    "Meloni avverte che intervento militare a Hormuz porta verso coinvolgimento nella guerra"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-03-16",
+      "title": "Israele avvia operazioni terrestri nel sud del Libano",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Donald Trump avverte Nato di futuro negativo senza aiuto su Stretto di Hormuz",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Quattro attacchi in sedici giorni colpiscono basi con soldati italiani",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Attentatori suicidi colpiscono mercato e ospedale a Maiduguri causando 23 morti e oltre 100 feriti",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Droni e razzi colpiscono ambasciata Usa a Baghdad mentre Israele attacca Beirut e Teheran",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Meloni avverte che intervento militare a Hormuz porta verso coinvolgimento nella guerra",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Israele elimina Ali Larijani e Gholamreza Soleimani in raid su Teheran",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Iran lancia missili su Ramat Gan uccidendo coppia 70enne con bombe grappolo",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Israele bombarda centro Beirut con due raid causando 6 morti e 24 feriti",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Leader Ue affrontano divisioni su prestito Ucraina energia e Medio Oriente",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Governo approva decreto che taglia accise carburanti per famiglie e imprese",
+      "category": "economy",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Sette paesi Ue propongono piano per liberare Stretto di Hormuz",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Umberto Bossi muore a 84 anni in ospedale Varese",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Viktor Orban blocca prestiti Ue all'Ucraina durante Consiglio europeo",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Iran lancia due missili balistici contro base Usa Diego Garcia",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Esplode casolare Roma uccide anarchici Alessandro Mercogliano e Sara Ardizzone",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Trump invia 2500 marines Hormuz critica alleati codardi",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "Iran lancia missili su Dimona e Arad: oltre 100 feriti nel sud Israele",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "Trump intima all'Iran di aprire Stretto Hormuz entro 48 ore o attacca centrali",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "Urne aperte per referendum su riforma giustizia: 51 milioni italiani votano",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "Israele attacca Teheran con missili e droni all'alba",
+      "category": "conflict",
+      "region": "middle-east"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1770,
+    "totalSourcesUsed": 8,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 18,
+      "politics": 19,
+      "environment": 3,
+      "economy": 9,
+      "science": 3,
+      "society": 5
+    },
+    "regionCounts": {
+      "middle-east": 20,
+      "global": 4,
+      "europe": 27,
+      "asia-pacific": 2,
+      "africa": 1,
+      "americas": 3
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "date": "2026-03-23",
+  "summary": "Israël a lancé une large vague d'attaques sur Téhéran au 24e jour de la guerre contre l'Iran. L'armée israélienne a annoncé des frappes massives sur la capitale iranienne. Un missile iranien a touché le centre de recherche nucléaire de Dimona près d'Arad, en riposte aux bombardements sur Natanz. L'Agence internationale de l'énergie alerte sur la pire crise énergétique depuis des décennies due à la fermeture du détroit d'Ormuz. L'ultimatum de 48 heures lancé par Donald Trump à l'Iran pour rouvrir le détroit expire ce soir. Les combats sont prévus pour plusieurs semaines, ce qui menace l'approvisionnement mondial en hydrocarbures.\n\nEn France, l'union de la gauche a conservé Paris avec Emmanuel Grégoire, Lyon avec Grégory Doucet et Marseille avec Benoît Payan lors du second tour des municipales de 2026, malgré les divisions au sein de La France insoumise. Le Rassemblement national a remporté Nice où Eric Ciotti a obtenu 48,54 % des voix contre 37,20 % pour Christian Estrosi dans une triangulaire. Le RN a gagné 57 communes de plus de 3 500 habitants et 3 121 conseillers municipaux, contre 827 en 2020. En Slovénie, le Mouvement Liberté du Premier ministre Robert Golob revendique la victoire aux législatives avec 28,62 % des voix devant Janez Janša, à 99,85 % de dépouillement.\n\nL'Organisation météorologique mondiale rapporte que la quantité de chaleur accumulée sur Terre en 2025 a atteint un niveau record, avec des conséquences durables sur des siècles pour les écosystèmes et les sociétés. Un avion régional Air Canada a percuté un véhicule des pompiers sur la piste de l'aéroport LaGuardia à New York lors d'un atterrissage, blessant grièvement le pilote et le copilote parmi 76 passagers et 4 membres d'équipage ; l'aéroport est fermé jusqu'à lundi soir. Le Premier ministre polonais Donald Tusk accuse la Hongrie d'agir comme une taupe de Moscou lors des réunions du Conseil de l'UE, au 1 487e jour de la guerre en Ukraine où la Russie a pris le contrôle d'un village.",
+  "headlines": [
+    {
+      "title": "Israël lance large vague d'attaques sur Téhéran au 24e jour de guerre contre l'Iran",
+      "source": "France 24",
+      "sources": [
+        "Radio-Canada",
+        "France 24",
+        "Liberation",
+        "RFI"
+      ],
+      "summary": "Israël annonce attaques massives sur Téhéran tandis que l'AIE alerte sur pire crise énergétique depuis décennies due à fermeture détroit d'Ormuz. Ultimatum Trump expire ce soir, combats prévus plusieurs semaines. Cela menace approvisionnement mondial hydrocarbures.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260323-en-direct-guerre-moyen-orient-ultimatum-donald-trump-approche-echeance-centrales-iraniennes-menace-israel-etats-unis-attaque-teheran",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israël frappe Téhéran avec explosions rapportées, AIE met en garde crise énergie, ultimatum Trump Ormuz arrive échéance, Iran attaque Arabie Saoudite et Dimona",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Ouvre sur frappes israéliennes Téhéran et alerte AIE crise énergie",
+          "link": "https://ici.radio-canada.ca/nouvelle/2241010/crise-energie-aie-guerre-moyen-orient"
+        },
+        {
+          "source": "France 24",
+          "angle": "Annonce vague attaques israéliennes Téhéran et expiration ultimatum Trump",
+          "link": "https://www.france24.com/fr/moyen-orient/20260323-en-direct-guerre-moyen-orient-ultimatum-donald-trump-approche-echeance-centrales-iraniennes-menace-israel-etats-unis-attaque-teheran"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Met en avant crise énergie AIE et préparation Israël plusieurs semaines combats",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-monde-menace-par-sa-pire-crise-de-lenergie-depuis-des-decennies-selon-lagence-internationale-de-lenergie-20260323_AYBV2ZQOEBGRPPGYM2NLRDU5PQ/"
+        },
+        {
+          "source": "RFI",
+          "angle": "Signale attaques Iran sur Arabie Saoudite Golfe et menaces infrastructures",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260323-en-direct-guerre-au-moyen-orient-l-arabie-saoudite-et-ses-voisins-du-golfe-%C3%A0-nouveau-attaqu%C3%A9s-par-l-iran"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Gauche conserve Paris Lyon Marseille lors second tour municipales 2026",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Liberation",
+        "Le Figaro",
+        "France 24"
+      ],
+      "summary": "Union gauche réélit Emmanuel Grégoire à Paris, Grégory Doucet à Lyon, Benoît Payan à Marseille malgré divisions LFI. Droite gagne Bordeaux, cela reflète dynamiques nationales avant 2027.",
+      "link": "https://www.lemonde.fr/politique/live/2026/03/23/en-direct-resultats-des-municipales-2026-la-gauche-cede-du-terrain-face-a-la-droite-et-au-centre-mais-sauve-paris-lyon-et-marseille-le-rn-poursuit-sa-conquete-des-villes-moyennes_6673595_823448.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille résultats Lille Rennes Nantes et victoire Renaissance Bordeaux",
+          "link": "https://www.lemonde.fr/politique/live/2026/03/23/en-direct-resultats-des-municipales-2026-la-gauche-cede-du-terrain-face-a-la-droite-et-au-centre-mais-sauve-paris-lyon-et-marseille-le-rn-poursuit-sa-conquete-des-villes-moyennes_6673595_823448.html"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Rapporte gauche imposée métropoles et progression extrême droite Sud",
+          "link": "https://www.liberation.fr/politique/elections/en-direct-municipales-2026-paris-marseille-et-lyon-se-reveillent-a-gauche-plusieurs-villes-moyennes-passent-rn-20260323_NCYN3GK5RVAUVHGY2IDJNPYHLE/"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Liste résultats Paris Lyon Marseille Toulouse et réactions partis",
+          "link": "https://www.lefigaro.fr/elections/municipales/en-direct-elections-municipales-emmanuel-gregoire-elu-maire-de-paris-avec-50-52-des-voix-neuf-points-devant-rachida-dati-20260323"
+        },
+        {
+          "source": "France 24",
+          "angle": "Note conservation grandes villes gauche et recul RN métropoles",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260323-municipales-en-france-paris-marseille-et-lyon-restent-%C3%A0-gauche"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Rassemblement national remporte Nice avec 48,54 pour cent voix Eric Ciotti",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info",
+        "Liberation"
+      ],
+      "summary": "Eric Ciotti bat Christian Estrosi 48,54% contre 37,20% dans triangulaire Nice, RN gagne 57 communes plus 3500 habitants et 3121 conseillers municipaux contre 827 en 2020. Indique avancée extrême droite localement.",
+      "link": "https://www.lemonde.fr/politique/article/2026/03/22/municipales-a-nice-eric-ciotti-bat-largement-christian-estrosi-a-l-issue-d-une-triangulaire_6673828_823448.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Précise scores triangulaire Nice Ciotti 48,54% Estrosi 37,20% écologiste 14,26%",
+          "link": "https://www.lemonde.fr/politique/article/2026/03/22/municipales-a-nice-eric-ciotti-bat-largement-christian-estrosi-a-l-issue-d-une-triangulaire_6673828_823448.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Visualise percée RN 57 communes et 3121 conseillers contre 827 en 2020",
+          "link": "https://www.franceinfo.fr/elections/carte-resultats-du-2d-tour-des-municipales-visualisez-la-percee-du-rassemblement-national-et-du-reste-de-l-extreme-droite_7881902.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Mentionne progression RN villes moyennes et extrême droite Sud",
+          "link": "https://www.liberation.fr/politique/elections/en-direct-municipales-2026-paris-marseille-et-lyon-se-reveillent-a-gauche-plusieurs-villes-moyennes-passent-rn-20260323_NCYN3GK5RVAUVHGY2IDJNPYHLE/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Organisation météorologique mondiale alerte chaleur record accumulée 2025 Terre",
+      "source": "RFI",
+      "summary": "Rapport OMM indique quantité chaleur Terre atteinte niveau record 2025 avec conséquences durables siècles. Cela pousse planète limites, impacte écosystèmes humains long terme.",
+      "link": "https://www.rfi.fr/fr/environnement/20260323-r%C3%A9chauffement-climatique-la-terre-est-pouss%C3%A9e-au-del%C3%A0-de-ses-limites-s-alarme-un-rapport-de-l-onu",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Avion Air Canada percute véhicule pompiers piste aéroport LaGuardia New York",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "Liberation"
+      ],
+      "summary": "Avion régional Air Canada heurte véhicule sol lors atterrissage, pilote co-pilote grièvement blessés parmi 76 passagers 4 équipage. Aéroport fermé secours jusqu'à lundi soir.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2241016/air-canada-laguardia-avion-accident",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Indique fermeture aéroport LaGuardia pour opérations secours",
+          "link": "https://ici.radio-canada.ca/nouvelle/2241016/air-canada-laguardia-avion-accident"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Précise collision avion véhicule pompiers 76 passagers blessés pilotes",
+          "link": "https://www.liberation.fr/international/amerique/new-york-une-collision-entre-un-avion-et-un-vehicule-sur-une-piste-datterrissage-a-laguardia-le-pilote-et-le-co-pilote-grievement-blesses-20260323_6NALM2COMRENVGN6DWUJ6APTZU/"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Robert Golob revendique victoire législatives Slovénie avec 28,62 pour cent voix",
+      "source": "France 24",
+      "summary": "Mouvement Liberté Premier ministre Robert Golob obtient 28,62% voix devant Janez Jansa, forte participation 99,85% dépouillement. Confirme confiance électeurs gouvernement actuel.",
+      "link": "https://www.france24.com/fr/europe/20260323-premier-ministre-robert-golob-mouvement-liberte-revendique-victoire-parti-elections-legislatives-slovenie-janez-jansa",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Tusk accuse Hongrie d'agir comme taupe Moscou réunions Conseil UE",
+      "source": "20 Minutes",
+      "summary": "Jour 1487 guerre Ukraine, Premier ministre polonais Donald Tusk reproche Hongrie rôle Moscou UE tandis Russie prend contrôle village. Accentue tensions alliés Europe Est.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4213023-20260322-guerre-ukraine-hongrie-accusee-etre-taupe-moscou-russie-prend-controle-village?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Missile iranien touche Dimona Israël centre recherche nucléaire ambiguïté",
+      "source": "RFI",
+      "summary": "Riposte Iran après bombardements Natanz, missile frappe Arad Dimona sud Israël, site nucléaire stratégique. Israël maintient politique ambiguïté arme nucléaire Moyen-Orient.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260323-isra%C3%ABl-touch%C3%A9e-par-un-missile-iranien-dimona-entretient-l-ambigu%C3%AFt%C3%A9-sur-ses-installations-nucl%C3%A9aires",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "environment": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 3,
+      "global": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

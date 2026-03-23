@@ -1,0 +1,175 @@
+{
+  "date": "2026-03-23",
+  "summary": "L'esercito israeliano ha condotto un'ondata massiccia di attacchi aerei su Teheran, colpendo infrastrutture governative iraniane legate al regime. Questo fa seguito agli attacchi israeliani su Teheran all'alba di ieri e ai missili iraniani su Dimona e Arad. Paesi del Golfo come Emirati Arabi Uniti, Arabia Saudita, Bahrain e Qatar supportano la prosecuzione della guerra. Contemporaneamente, il Centcom statunitense ha distrutto un impianto di produzione motori per droni a Qom, di proprietà dei Guardiani della rivoluzione iraniani, riducendo le capacità militari di Teheran. Si attendono possibili ritorsioni iraniane.\n\nL'Agenzia internazionale dell'energia ha avvertito di una crisi energetica peggiore degli ultimi decenni, con una perdita di 11 milioni di barili di petrolio al giorno dovuta alla guerra in Medio Oriente, superiore a quella degli anni 70. L'Iran ha minacciato attacchi contro impianti energetici rifornitori degli Usa in paesi vicini se Washington prosegue i bombardamenti. Trump e Starmer hanno chiesto in telefonata la riapertura dello Stretto di Hormuz entro 48 ore; il ministro iraniano Araghchi ha rifiutato la sospensione delle ostilità, con i Pasdaran che minacciano strutture energetiche nemiche. La protrazione del blocco impatta i mercati globali del petrolio.\n\nRai News ha elencato sette basi Usa in Italia con 13mila militari, utilizzabili per rifornimenti e logistica in caso di guerra con l'Iran, previa approvazione governativa. L'affluenza al referendum sulla riforma della giustizia ha raggiunto il 46,07% alle 23 di ieri; i seggi restano aperti oggi fino alle 15 per 51 milioni di elettori, con spoglio immediato dopo. Emilia-Romagna al 53,70%, Sicilia al 34,94%. A Parigi la gauche ha confermato il governo con il neosindaco Gregoire, sconfiggendo la destra di Rachida Dati; la sinistra ha prevalso anche a Marsiglia contro il partito di Le Pen. Procura accusa il governatore ligure Toti di manipolazione dati Covid con il capo gabinetto Cozzani. Passeggeri acquistano biglietti aerei a livelli record prima di rincari legati alla crisi energetica.",
+  "headlines": [
+    {
+      "title": "Esercito israeliano lancia ondata massiccia attacchi aerei su Teheran",
+      "source": "AGI",
+      "summary": "L'Idf ha condotto attacchi contro infrastrutture governative iraniane legate al regime. Paesi del Golfo come Emirati, Arabia Saudita, Bahrain e Qatar desiderano prosecuzione guerra. Escalation prolunga instabilità regionale e impatta mercati energetici globali.",
+      "link": "https://www.agi.it/estero/news/2026-03-23/ira-notizie-guerra-23-marzo-36244644/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Ondata massiccia su infrastrutture governative; paesi Golfo esprimono supporto per continuazione guerra",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Centcom Usa colpisce impianto motori droni a Qom in Iran",
+      "source": "TGCOM24",
+      "summary": "Forze statunitensi hanno distrutto sito produzione turbine per droni dei Guardiani della rivoluzione. Colpo diretto alle capacità militari iraniane. Aumenta tensione nel conflitto Medio Oriente con rischi di ritorsioni.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/iran-washington-colpisce-un-impianto-di-motori-per-droni-a-qom_110318946-02k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Aie avverte su peggiore crisi energetica ultimi decenni per guerra Medio Oriente",
+      "source": "AGI",
+      "summary": "Fatih Birol segnala perdita 11 milioni barili petrolio al giorno, superiore crisi anni 70. Coinvolti mercati globali e consumatori. Prezzi carburanti rischiano impennata con effetti su economia mondiale.",
+      "link": "https://www.agi.it/estero/news/2026-03-23/crisi-energetica-allarme-aie-36244662/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran minaccia attacchi impianti energetici rifornitori Usa in paesi vicini",
+      "source": "Euronews Italiano",
+      "summary": "Teheran avverte di colpire siti confinanti se Washington bombarda Iran. Coinvolti vicini e alleati Usa. Minaccia aggrava crisi energetica e sicurezza forniture globali.",
+      "link": "http://it.euronews.com/2026/03/23/guerra-in-medio-oriente-iran-minaccia-di-attaccare-gli-impianti-energetici-che-riforniscon",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rai News elenca sette basi Usa in Italia con 13mila militari",
+      "source": "Rai News",
+      "summary": "Accordi prevedono uso per rifornimenti e logistica in caso guerra Iran. Necessario ok governativo per operazioni. Espone Italia a potenziali minacce terroristiche.",
+      "link": "https://www.rainews.it/articoli/2026/03/le-sette-basi-usa-in-italia-scali-porti-e-13mila-militari-americani-di-stanza-la-scheda-guerra-in-iran-c4d4a880-3429-41f9-9a10-644a7e607b57.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump e Starmer chiedono riapertura Stretto Hormuz in telefonata",
+      "source": "TGCOM24",
+      "summary": "Pasdaran minacciano attacchi strutture energetiche nemiche; ministro Araghchi rifiuta sospensione ostilità. Coinvolti leader Usa e Regno Unito. Protrazione blocca rotte vitali per petrolio.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie_110318499-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Telefonata Trump-Starmer ribadisce urgenza riapertura; nuove minacce Pasdaran e no a negoziati da Iran",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Parigi conferma gauche al governo con neosindaco Gregoire",
+      "source": "ANSA",
+      "summary": "Destra di Rachida Dati sconfitta; sinistra prevale anche a Marsiglia contro partito Le Pen. Risultati consolidano forze progressiste in città chiave francesi.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/22/parigi-resta-alla-gauche-battuta-la-destra-di-rachida-dati.-il-neosindaco-gregoire_035a2e33-d4fc-43fd-9bce-af0155afcc3a.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano Toti di manipolazione dati Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Governatore avrebbe aumentato contagi parlando con capo gabinetto Cozzani. Indagine su numeri pandemia. Implicazioni su gestione sanità regionale passata.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Affluenza referendum giustizia raggiunge 46,07% alle 23 ieri",
+      "source": "AGI",
+      "summary": "Seggi aperti oggi fino alle 15 per 51 milioni elettori; spoglio immediato dopo. Emilia Romagna al 53,70%, Sicilia al 34,94%. Deciderà futuro riforma giudiziaria italiana.",
+      "link": "https://www.agi.it/politica/news/2026-03-22/referendum-urne-aperte-36230239/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Affluenza parziale al 46,07%; seggi riaperti per voto finale e spoglio pomeridiano",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Passeggeri acquistano biglietti aerei record prima rincari",
+      "source": "Il Sole 24 Ore",
+      "summary": "Compagnie registrano maxi vendite anticipate per timore aumenti legati crisi. Perdite crescenti per settore. Influenza prezzi trasporti su viaggiatori e turismo.",
+      "link": "https://www.ilsole24ore.com/art/voli-aerei-corsa-biglietto-prima-rincari-maxi-perdite-le-compagnie-AITkGU6B",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 231,
+    "articlesAfterDedup": 231,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 12,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 2,
+      "politics": 4,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "global": 2,
+      "europe": 4
+    },
+    "tierCounts": {
+      "developing": 3,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

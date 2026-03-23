@@ -1,0 +1,199 @@
+{
+  "date": "2026-03-23",
+  "summary": "Sudanese army forces conducted a drone strike on a hospital in East Darfur on Friday, killing 64 people including children and medics and wounding 89 others, according to the World Health Organization. The attack occurred in a war zone where thousands have lost access to healthcare facilities. The United Nations called for an investigation into the incident.\n\nIn the Middle East, International Energy Agency Executive Director Fatih Birol stated that a war involving Iran would disrupt energy supplies more severely than past oil shocks, with potential price spikes affecting oil markets and consumers in all nations. Leaders are monitoring the Strait of Hormuz for possible U.S. action. Separately, Israel announced plans for expanded ground and air operations against Hezbollah positions in southern Lebanon, where Lebanese civilians and militants would be affected. In Gaza, Israel permitted thousands of displaced Palestinians to return to northern areas following a hostage release agreement, providing partial access to over 2 million displaced people, though reconstruction challenges remain and truce stability determines further returns.\n\nRwanda-backed rebels captured Goma, an aid hub in eastern Congo, overrunning Congolese troops amid gunfire and shelling that trapped over 1 million displaced people inside the city. Residents and United Nations aid operations now face risks, with fighting expected to intensify and worsen the humanitarian crisis. The World Meteorological Organization reported that oceans have recorded heat levels for nine straight years since 2017, part of 11 warmest years from 2015 to 2025, linked to retreating glaciers and extreme weather events affecting global populations. NATO initiated its first coordinated response to a severed deep-sea cable in the Baltic Sea amid suspicions of sabotage targeting European energy and telecom infrastructure, with increased patrols and investigations underway. A SpaceX Falcon 9 rocket launched NASA astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the International Space Station for a six-month rotation, enabling the return of Butch Wilmore and Suni Williams after nine months and restoring full crew capacity.",
+  "headlines": [
+    {
+      "title": "Sudanese Army Drone Strikes East Darfur Hospital, Killing 64 and Wounding 89",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "AllAfrica",
+        "Deutsche Welle"
+      ],
+      "summary": "Sudanese army drone attacked a hospital in East Darfur on Friday, killing 64 people including children and medics while wounding 89 others, WHO reports. Thousands in Sudan's war zone lose healthcare access. UN demands probe; underscores protection needs for medical sites in conflicts.",
+      "link": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Guardian",
+          "angle": "Details victims as children and medical personnel in army drone attack on facility",
+          "link": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports"
+        },
+        {
+          "source": "AllAfrica",
+          "angle": "Reports over 60 killed in hospital strike with WHO confirmation",
+          "link": "https://allafrica.com/stories/202603230081.html"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Notes WHO chief states nearly 90 wounded in east Darfur hospital attack",
+          "link": "https://www.dw.com/en/sudan-over-60-killed-in-strike-on-hospital-who-says/a-76471162?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "IEA Head Warns Global Economy Faces Major Threat from Iran War",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "BBC World",
+        "The Hindu",
+        "France 24"
+      ],
+      "summary": "IEA Executive Director Fatih Birol states Iran war threatens world economy worse than past oil shocks, affecting all nations via energy disruptions. Oil markets and consumers worldwide face price spikes. Leaders monitor Strait of Hormuz; potential US action looms.",
+      "link": "https://apnews.com/article/iran-war-australia-international-energy-agency-f1e7ccd313263fd63e695f43a2e68165",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Quotes IEA director on major economic threat from ongoing Iran crisis",
+          "link": "https://apnews.com/article/iran-war-australia-international-energy-agency-f1e7ccd313263fd63e695f43a2e68165"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Links Asia stock slide to US-Iran escalation and IEA energy crisis warning",
+          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Cites IEA head on economic threat amid Netanyahu's war goals claim",
+          "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-strait-of-hormuz-donald-trump-iran-israel-west-asia-live-updates-march-23-2026/article70774180.ece"
+        },
+        {
+          "source": "France 24",
+          "angle": "Highlights IEA warning of worst energy crisis as Trump sets Hormuz deadline",
+          "link": "https://www.france24.com/en/middle-east/20260323-live-iran-trump-strike-iea-worst-energy-crisis"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-supported rebels capture Goma, Congo's aid hub, amid gunfire and shelling, trapping over 1 million displaced people inside. Residents and UN aid operations face immediate risks. Fighting may intensify; humanitarian crisis worsens in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "WMO Reports Earth Oceans Break Heat Records for Nine Straight Years",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "France 24"
+      ],
+      "summary": "World Meteorological Organization warns of record ocean heat since 2017, retreating glaciers and deadly extreme weather, with 11 warmest years from 2015-2025. Global populations face rising disasters. Urgent fossil fuel phase-out needed to limit long-term warming.",
+      "link": "https://www.dw.com/en/earth-s-climate-more-unbalanced-than-ever-wmo-warns/a-76448282?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Emphasizes oceans' nine-year heat records, glacier retreat and extreme weather deaths",
+          "link": "https://www.dw.com/en/earth-s-climate-more-unbalanced-than-ever-wmo-warns/a-76448282?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "France 24",
+          "angle": "Notes 2025 heat-trapping record and UN projection of warming lasting thousands of years",
+          "link": "https://www.france24.com/en/environment/20260323-earth-heat-record-2025-un-warns-warming-thousands-years"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Stuck Astronauts from ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi and Russia's Kirill Peskov to ISS for six-month rotation. Enables return of Butch Wilmore and Suni Williams after nine months. Routine missions restore full crew capacity.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO coordinates response after deep-sea cable severed in Baltic Sea amid suspected sabotage campaign on critical infrastructure. European energy and telecom networks at risk. Alliance bolsters patrols; probes aim to deter hybrid threats from adversaries.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Plans Ground and Air Expansion Against Hezbollah in Southern Lebanon",
+      "source": "BBC World",
+      "summary": "Israel announces broader ground and air operations targeting Hezbollah positions in southern Lebanon amid fears of large-scale invasion. Lebanese civilians and militants affected. Escalation risks wider regional conflict; diplomacy urged to contain fighting.",
+      "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits thousands of Gazans to cross military zone back to northern Gaza following breakthrough in hostage release talks. Over 2 million displaced gain partial access. Reconstruction challenges persist; truce stability key for further returns.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 441,
+    "articlesAfterDedup": 439,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 1,
+      "environment": 1,
+      "science": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "africa": 2,
+      "global": 3,
+      "europe": 1,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    }
+  }
+}

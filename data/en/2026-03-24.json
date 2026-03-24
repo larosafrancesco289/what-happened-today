@@ -1,0 +1,198 @@
+{
+  "date": "2026-03-24",
+  "summary": "Iran fired missiles and drones targeting Israel and Gulf Arab states on March 24. This took place as U.S. President Trump stated talks were underway to end the war and delayed planned strikes on the Strait of Hormuz, which briefly lowered oil prices. Israelis and residents of Gulf states face direct risks from the attacks. Global markets track developments for signs of de-escalation or expansion into wider conflict. This follows the IEA head's prior warning of major economic threats from an Iran war.\n\nIn eastern Democratic Republic of Congo, Rwanda-backed rebels entered Goma city on March 24 after overrunning Congolese troops, with residents reporting gunfire and shelling. The UN estimates over 1 million people displaced within the area. Aid organizations prepare responses amid ongoing fighting. Separately in Gaza, Israel permitted displaced Palestinians to cross a bisecting military zone into northern Gaza on March 24 after a hostage deal, enabling crowds to walk back and recover homes. Over 100,000 returnees benefit, though security risks persist. North Korea's Kim Jong Un addressed parliament on March 24, stating the country will consolidate its nuclear-armed status and ramp up hostility toward South Korea. Korean peninsula stability is affected.\n\nChina's largest property developer Vanke reported massive losses on March 24 amid sector-wide issues, with state bailout measures under consideration. The European Commission and Australia signed a free trade agreement on March 24 to increase exports and diversify supply chains against Middle East energy disruptions. A Colombian military transport plane crashed after takeoff on March 23 in Puerto Leguizamo, killing 66 of 128 onboard and injuring others airlifted to hospitals; an investigation into the cause is underway. An Air Canada jet struck a Port Authority firetruck at high speed after landing on March 23 at New York's LaGuardia Airport, killing two pilots and injuring a flight attendant; over 100 passengers were evacuated as a probe proceeds. Israeli settlers attacked Palestinians and seized land in the West Bank on March 24 during Eid week, displacing thousands.",
+  "headlines": [
+    {
+      "title": "Iran Launches Missiles and Drones at Israel and Gulf Arab States Amid Trump Peace Talks",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "France 24",
+        "Al Jazeera English",
+        "New York Times"
+      ],
+      "summary": "Iran fired missiles and drones targeting Israel and Gulf states on March 24 as U.S. President Trump claimed talks to end the war and delayed Hormuz strikes, briefly lowering oil prices. Israelis and Gulf residents face risks; global markets watch for de-escalation or wider conflict.",
+      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Detailed missile launches over Israel, Trump's negotiation claims and Hormuz deadline delay",
+          "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778"
+        },
+        {
+          "source": "France 24",
+          "angle": "Covered live missile strikes on Israel and Iranian denial of Trump's talks as fake news",
+          "link": "https://www.france24.com/en/middle-east/20260324-middle-east-war-live-trump-us-iran-talks-tehran-fires-missiles-israel"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Framed as day 25 of US-Israel attacks with Trump claims contradicted by Tehran denial",
+          "link": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks?traffic_source=rss"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Focused on conflicting signals with Trump asserting talks while Iran denies direct contact",
+          "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Colombian Military Transport Plane Crashes Killing 66 of 128 Onboard",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "NPR"
+      ],
+      "summary": "A military plane carrying 128 people, mostly soldiers, crashed after takeoff on March 23 in Puerto Leguizamo, Colombia, killing 66 and injuring others airlifted to hospitals. Affects military families; investigation underway into cause amid transport safety concerns.",
+      "link": "https://www.france24.com/en/americas/20260324-military-plane-crash-colombia-121-onboard-dozens-dead",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Reported crash details with 121 onboard, 66 dead, 81 injured and local response",
+          "link": "https://www.france24.com/en/americas/20260324-military-plane-crash-colombia-121-onboard-dozens-dead"
+        },
+        {
+          "source": "NPR",
+          "angle": "Cited armed forces head confirming 66 killed on plane with 128 mostly soldiers",
+          "link": "https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Air Canada Jet Collides with Firetruck at LaGuardia Airport Killing Pilots",
+      "source": "Associated Press",
+      "summary": "An Air Canada jet hit a Port Authority firetruck at high speed after landing on March 23 at New York's LaGuardia, killing two pilots and ejecting a flight attendant; passengers evacuated amid fuel smell. Affects 100+ travelers; probe into cause proceeds.",
+      "link": "https://apnews.com/article/aircraft-collision-fire-truck-new-york-de154ca6f3e7f492232dfc9db7739834",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "North Korea's Kim Jong Un Vows to Consolidate Nuclear Status Ramps Hostility to South",
+      "source": "Deutsche Welle",
+      "summary": "Kim Jong Un told parliament on March 24 North Korea will solidify its nuclear-armed state and increase hostility toward South Korea. Affects Korean peninsula stability; signals no denuclearization, heightens regional tensions and alliance responses.",
+      "link": "https://www.dw.com/en/north-korea-s-kim-doubles-down-on-nuclear-program-ramps-up-hostility-toward-south/a-76496706?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "China Property Giant Vanke Reports Huge Loss Signaling Widening Real-Estate Crisis",
+      "source": "Wall Street Journal",
+      "summary": "Vanke, China's leading developer, posted massive losses on March 24 amid spreading property woes, raising bailout questions. Impacts investors, homebuyers, and economy; state intervention eyed as crisis deepens growth threats.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "EU and Australia Seal Landmark Free Trade Deal Amid Global Supply Tensions",
+      "source": "France 24",
+      "summary": "European Commission and Australia signed a free trade agreement on March 24 to boost exports, diversify chains, and counter Middle East energy risks. Benefits businesses and consumers; reduces reliance on volatile trade routes.",
+      "link": "https://www.france24.com/en/europe/20260324-eu-australia-landmark-free-trade-deal-global-tensions",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Settlers Attack Palestinians and Seize Land During West Bank Eid Week",
+      "source": "Al Jazeera English",
+      "summary": "Violence surged in West Bank on March 24 with settler attacks and land grabs amid muted Eid celebrations for Palestinians. Affects thousands displaced; escalates tensions, demands international monitoring and protection.",
+      "link": "https://www.aljazeera.com/news/2026/3/24/amid-muted-eid-celebrations-violence-surges-across-the-west-bank?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma City Prompting Gunfire Reports and 1 Million Displaced",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overran troops and entered Goma on March 24; residents heard gunfire and shelling with UN estimating over 1 million displaced inside. Humanitarian crisis worsens; aid groups prepare response amid fighting.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels advanced into city limits with ongoing gunfire and shelling; UN tallies more than 1 million displaced persons sheltering in Goma",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Displaced Palestinians Stream Back to Northern Gaza on Foot After Zone Opens",
+      "source": "Wall Street Journal",
+      "summary": "Israel permitted Gazans to cross bisecting military zone into north Gaza on March 24 post-hostage deal, with crowds walking back. Aids 100,000+ returnees recovering homes; eases displacement but security risks persist.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Large streams of displaced crossed zone on foot following breakthrough on hostage releases",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 448,
+    "articlesAfterDedup": 448,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "society": 3,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "americas": 2,
+      "asia-pacific": 2,
+      "global": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 2
+    }
+  }
+}

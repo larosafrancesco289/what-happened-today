@@ -1,0 +1,317 @@
+{
+  "date": "2026-03-25",
+  "summary": "Les Gardiens de la Révolution iraniens ont tiré des missiles vers des cibles au centre d'Israël et des bases militaires américaines à Bahreïn, au Koweït et en Jordanie. Les Gardiens affirment avoir visé ces sites spécifiques. Cela se produit au 26e jour du conflit au Moyen-Orient, sans cessez-le-feu immédiat attendu. Les frappes prolongent l'escalade régionale, après les missiles iraniens ayant blessé six personnes à Tel-Aviv la veille.\n\nIsraël a mené des raids aériens dans le sud du Liban, tuant au moins neuf personnes et visant le Hezbollah. Les opérations militaires persistent malgré les efforts diplomatiques en cours. Les États-Unis ont transmis un plan de paix en 15 points à l'Iran via le Pakistan, incluant la remise de combustible nucléaire et l'ouverture du détroit d'Ormuz pour un cessez-le-feu d'un mois. L'Iran a autorisé le passage des navires non hostiles dans le détroit d'Ormuz, informant l'OMI, ce qui a entraîné une chute de 6 % du prix du Brent.\n\nLa Russie rapporte avoir abattu près de 400 drones ukrainiens visant Moscou et la région de Leningrad, avec un impact sur le port d'Oust-Louga dans le golfe de Finlande. Au Danemark, les sociaux-démocrates de Mette Frederiksen arrivent en tête des élections législatives mais perdent des sièges, le bloc de gauche sans majorité absolue et l'extrême droite en progression. Kim Jong-un a réaffirmé à Poutine son appui à la Russie dans la guerre en Ukraine. Un jury a condamné Meta à 375 millions de dollars de dommages pour mise en danger de mineurs via Facebook et Instagram au Nouveau-Mexique. L'ANSES recommande de réduire le cadmium dans les engrais phosphatés en France pour limiter sa présence dans les céréales, pains et pâtes. L'ambassadeur américain Andrew Puzder a menacé l'UE de couper l'accès au GNL américain sans ratification de l'accord douanier en 2025.",
+  "headlines": [
+    {
+      "title": "Gardiens de la Révolution iraniens tirent missiles vers Israël et bases américaines à Bahreïn Koweït Jordanie",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "20 Minutes",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Les Gardiens de la Révolution iraniens affirment avoir visé cibles au centre d'Israël et bases militaires américaines dans la région du Golfe. Cela intensifie le conflit au Moyen-Orient au 26e jour, menaçant la stabilité régionale et les intérêts américains. Les frappes se poursuivent sans cessez-le-feu immédiat.",
+      "link": "https://www.franceinfo.fr/monde/moyen-orient/direct-guerre-au-moyen-orient-l-iran-annonce-des-tirs-de-missiles-vers-israel-bahrein-le-koweit-et-la-jordanie_7892732.html#xtor=RSS-3-[lestitres]",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "Ouvre avec annonce Gardiens Révolution sur tirs missiles vers Israël et bases US région",
+          "link": "https://www.franceinfo.fr/monde/moyen-orient/direct-guerre-au-moyen-orient-l-iran-annonce-des-tirs-de-missiles-vers-israel-bahrein-le-koweit-et-la-jordanie_7892732.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Mentionne tirs iraniens dans direct sur poursuite frappes Israël-Iran",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4214976-20260325-direct-guerre-moyen-orient-frappes-poursuivent-entre-israel-iran?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "angle": "Intègre tirs iraniens avec raids Liban et chute pétrole",
+          "link": "https://www.france24.com/fr/moyen-orient/20260325-en-direct-moyen-orient-iran-israel-etats-unis-trump-plan-paix-ormuz-petrole-liban"
+        },
+        {
+          "source": "RFI",
+          "angle": "Détaille Iran visant bases Golfe et aéroport Koweït",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260325-guerre-au-moyen-orient-l-iran-vise-des-bases-militaires-dans-le-golfe-isra%C3%ABl-bombarde-le-sud-du-liban"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israël mène raids aériens sud Liban tuant au moins neuf personnes",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Au moins neuf personnes meurent dans raids israéliens nocturnes contre sud Liban, visant Hezbollah. Cela prolonge escalade régionale au 26e jour de guerre, augmentant tensions Liban-Israël. Les opérations militaires persistent malgré efforts diplomatiques.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260325-en-direct-moyen-orient-iran-israel-etats-unis-trump-plan-paix-ormuz-petrole-liban",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Commence par neuf morts raids israéliens sud Liban",
+          "link": "https://www.france24.com/fr/moyen-orient/20260325-en-direct-moyen-orient-iran-israel-etats-unis-trump-plan-paix-ormuz-petrole-liban"
+        },
+        {
+          "source": "RFI",
+          "angle": "Rappelle raids israéliens sud Liban visant Hezbollah",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260325-guerre-au-moyen-orient-l-iran-vise-des-bases-militaires-dans-le-golfe-isra%C3%ABl-bombarde-le-sud-du-liban"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis transmettent plan paix quinze points à Iran via Pakistan",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "France 24",
+        "Liberation",
+        "Radio-Canada"
+      ],
+      "summary": "Administration Trump propose plan en 15 points incluant remise combustible nucléaire et ouverture Ormuz, pour cessez-le-feu d'un mois. Cela vise à stopper guerre au 26e jour, impactant prix pétrole et sécurité énergétique mondiale.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-koweit-liban-irak-qatar-emirats-arabes-unis-arabie-saoudite-bahrein-oman-donald-trump-benyamin-netanyahou-20260325",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Mentionne plan Washington lié à ouverture Ormuz négociations",
+          "link": "https://www.lemonde.fr/international/live/2026/03/25/en-direct-guerre-au-moyen-orient-l-iran-relache-la-pression-sur-le-detroit-d-ormuz-sur-fond-de-negociations-avec-les-etats-unis_6673056_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Détaille Trump optimiste avec plan paix et Ormuz",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-koweit-liban-irak-qatar-emirats-arabes-unis-arabie-saoudite-bahrein-oman-donald-trump-benyamin-netanyahou-20260325"
+        },
+        {
+          "source": "France 24",
+          "angle": "Précise transmission plan via Pakistan cessez-le-feu un mois",
+          "link": "https://www.france24.com/fr/moyen-orient/20260324-guerre-moyen-orient-donald-trump-etats-unis-plan-de-paix-iran"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Annonce Trump plan paix avec échange Téhéran",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-annonce-un-plan-de-paix-liran-rouvre-partiellement-le-detroit-dormuz-20260325_BEY4CCODZNE3FEUPSBH7YLDMKA/"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Rapporte plan 15 points Trump à Iran",
+          "link": "https://ici.radio-canada.ca/nouvelle/2241358/iran-frappe-israel-pourparlers-trump"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Sociaux-démocrates Mette Frederiksen arrivent tête élections législatives Danemark",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Liberation",
+        "France 24"
+      ],
+      "summary": "Sociaux-démocrates de Mette Frederiksen gagnent scrutin mais perdent sièges, bloc gauche sans majorité absolue, extrême droite progresse fortement. Cela fragilise gouvernement, complique formation coalition dans pays nordique clé UE.",
+      "link": "https://www.lemonde.fr/international/article/2026/03/25/elections-legislatives-au-danemark-les-sociaux-democrates-de-mette-frederiksen-en-tete-mais-fragilises-forte-progression-de-l-extreme-droite_6674134_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Analyse percée extrême droite et rôle Modérés gouvernement",
+          "link": "https://www.lemonde.fr/international/article/2026/03/25/elections-legislatives-au-danemark-les-sociaux-democrates-de-mette-frederiksen-en-tete-mais-fragilises-forte-progression-de-l-extreme-droite_6674134_3210.html"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Note victoire bloc gauche sans majorité Frederiksen veut rempiler",
+          "link": "https://www.liberation.fr/international/europe/danemark-le-bloc-de-gauche-remporte-les-legislatives-mais-sans-majorite-mette-frederiksen-veut-rempiler-20260325_PMIXJBMCWNAIDNJD2LRUA4MZAM/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Rappelle recul sociaux-démocrates Frederiksen prête rester",
+          "link": "https://www.france24.com/fr/europe/20260325-legislatives-danemark-mette-frederiksen-veut-rempiler-recul-sociaux-d%C3%A9mocrates"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran autorise passage navires non hostiles détroit Ormuz",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "RFI",
+        "Le Figaro",
+        "Liberation"
+      ],
+      "summary": "Téhéran informe OMI que navires non hostiles peuvent emprunter détroit Ormuz stratégique. Cela suit plan US, fait chuter Brent de 6%, soulage marchés pétroliers mondiaux au 26e jour conflit.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/25/en-direct-guerre-au-moyen-orient-l-iran-relache-la-pression-sur-le-detroit-d-ormuz-sur-fond-de-negociations-avec-les-etats-unis_6673056_3210.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Lie ouverture Ormuz à plan 15 points Washington",
+          "link": "https://www.lemonde.fr/international/live/2026/03/25/en-direct-guerre-au-moyen-orient-l-iran-relache-la-pression-sur-le-detroit-d-ormuz-sur-fond-de-negociations-avec-les-etats-unis_6673056_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Associe à chute 6% Brent et plan Trump",
+          "link": "https://www.france24.com/fr/moyen-orient/20260325-en-direct-moyen-orient-iran-israel-etats-unis-trump-plan-paix-ormuz-petrole-liban"
+        },
+        {
+          "source": "RFI",
+          "angle": "Indique déclaration Iran après frappes israéliennes",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260325-guerre-au-moyen-orient-l-iran-vise-des-bases-militaires-dans-le-golfe-isra%C3%ABl-bombarde-le-sud-du-liban"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Note Iran laisse passer navires non hostiles",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-koweit-liban-irak-qatar-emirats-arabes-unis-arabie-saoudite-bahrein-oman-donald-trump-benyamin-netanyahou-20260325"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Annonce réouverture partielle Ormuz par Iran",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-annonce-un-plan-de-paix-liran-rouvre-partiellement-le-detroit-dormuz-20260325_BEY4CCODZNE3FEUPSBH7YLDMKA/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Russie affirme abattre près quatre cents drones ukrainiens nuit port Oust-Louga touché",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Liberation"
+      ],
+      "summary": "Russie rapporte interception 400 drones ukrainiens visant Moscou Leningrad, impact sur port Oust-Louga golfe Finlande. Cela marque intensification frappes ukrainiennes, préoccupant sécurité Russie et alliés.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4214977-20260325-direct-guerre-ukraine-russie-affirme-avoir-abattu-nuit-pres-400-drones-ukrainiens?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Russie rapporte abattus près 400 drones ukrainiens et touche port Oust-Louga, après alerte aérienne hier sur quasi-totalité Ukraine",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Suit direct conflit avec abattage 400 drones ukrainiens",
+          "link": "https://www.20minutes.fr/monde/ukraine/4214977-20260325-direct-guerre-ukraine-russie-affirme-avoir-abattu-nuit-pres-400-drones-ukrainiens?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Précise frappes visant Moscou Leningrad port touché",
+          "link": "https://www.liberation.fr/international/europe/la-russie-dit-avoir-abattu-dans-la-nuit-pres-de-400-drones-ukrainiens-un-port-touche-20260325_3VVN3CTE4NFKTMFVECS4WKTXRY/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Jury condamne Meta à 375 millions dollars dommages mise danger mineurs Nouveau-Mexique",
+      "source": "Le Monde",
+      "summary": "Jury trouve Meta responsable mise danger mineurs via Facebook Instagram, priorisant profits sur sécurité, condamné 375 millions dollars. Verdict historique impacte régulation tech US sur protection enfants.",
+      "link": "https://www.lemonde.fr/pixels/article/2026/03/25/un-verdict-historique-contre-meta-la-maison-mere-de-facebook-et-instagram-reconnue-coupable-de-mise-en-danger-de-mineurs-au-nouveau-mexique_6674150_4408996.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "ANSES recommande réduire cadmium engrais phosphatés limiter consommation céréales pains pâtes",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info"
+      ],
+      "summary": "Rapport ANSES révèle moitié adultes français dépasse seuils toxicologiques cadmium cancérogène sols engrais. Appelle urgence réduire teneurs engrais limiter aliments concernés, protégeant santé publique.",
+      "link": "https://www.lemonde.fr/planete/article/2026/03/25/surexposition-au-cadmium-les-autorites-sanitaires-exhortent-le-gouvernement-francais-a-agir-en-urgence_6674132_3244.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille recommandations réduction cadmium engrais alimentation",
+          "link": "https://www.lemonde.fr/planete/article/2026/03/25/surexposition-au-cadmium-les-autorites-sanitaires-exhortent-le-gouvernement-francais-a-agir-en-urgence_6674132_3244.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Cite moitié population adulte dépasse valeurs référence",
+          "link": "https://www.franceinfo.fr/sante/alimentation/les-francais-sont-de-plus-en-plus-contamines-par-le-cadmium-un-metal-cancerogene-present-dans-les-sols-et-l-alimentation_7891091.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Ambassadeur américain menace UE couper accès GNL sans ratification accord douanes",
+      "source": "Le Figaro",
+      "summary": "Andrew Puzder prévient UE avant vote Parlement européen sur accord commercial 2025. Menace prive GNL US, impactant énergie Europe dépendante importations américaines.",
+      "link": "https://www.lefigaro.fr/conjoncture/washington-menace-l-ue-de-couper-son-acces-au-gnl-americain-si-elle-ne-ratifie-pas-l-accord-sur-les-droits-de-douane-20260324",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Kim Jong-un réaffirme à Poutine appui inébranlable Russie guerre Ukraine",
+      "source": "20 Minutes",
+      "summary": "Leader nord-coréen soutient Russie contre Ukraine, alliance inquiète UE États-Unis. Renforce coopération Russie-Corée Nord, potentiellement aggravant conflit ukrainien.",
+      "link": "https://www.20minutes.fr/monde/russie/4214975-20260325-coree-nord-kim-jong-reaffirme-poutine-appui-inebranlable-russie?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 214,
+    "articlesAfterDedup": 213,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 4,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "europe": 3,
+      "americas": 1,
+      "global": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

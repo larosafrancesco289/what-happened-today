@@ -1,0 +1,248 @@
+{
+  "date": "2026-03-25",
+  "summary": "Pentagon deployed 2,000 airborne troops to the Middle East for operational options as the Trump administration delivered a 15-point ceasefire proposal to Iran via Pakistan. Iran permitted non-hostile oil vessels through the Strait of Hormuz. This follows Iran's missile and drone launches at Israel and Gulf Arab states yesterday. The moves affect global energy security and regional war dynamics. Tehran response is awaited.\n\nIsraeli forces conducted strikes in southern Lebanon towns and a Palestinian refugee camp near Sidon, killing nine people including Lebanese civilians and refugees. Separately, Israel permitted displaced Palestinians to cross a bisecting military zone into northern Gaza after a hostage release impasse resolved, affecting hundreds of thousands of returnees and easing humanitarian access. In Europe, investigators probed attacks on Jewish schools and sites in multiple countries, with suspicions pointing to Iran, affecting Jewish community security.\n\nIn Sudan, army drone strikes hit a hospital in East Darfur, killing 64 people including children and medical staff and wounding 89 others, per WHO, affecting war-torn civilians. Rwanda-backed rebels overran Congolese troops and entered Goma, trapping over one million displaced people amid gunfire and shelling, threatening the aid hub. NATO launched its first coordinated response after a suspected sabotage severed a Baltic Sea cable, affecting alliance communications. A New Mexico jury fined Meta $375 million for child safety violations on Instagram and Facebook. SpaceX launched Crew-10 from Kennedy Space Center to retrieve NASA astronauts Butch Wilmore and Suni Williams, stuck on ISS since June. US-assisted Ecuador airstrike destroyed a dairy farm mistaken for a drug cartel camp. OpenAI discontinued its Sora AI video generator amid deepfake concerns.\"}",
+  "headlines": [
+    {
+      "title": "Sudanese Army Drone Strikes East Darfur Hospital Kills 64 Wounds 89",
+      "source": "The Guardian",
+      "summary": "Sudanese army launched drone attack on hospital in East Darfur killing 64 people including children and medical staff wounding 89 more per WHO. Affects war-torn civilians seeking care. Signals escalation in targeting healthcare; prompts calls for accountability.",
+      "link": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "New Mexico Jury Fines Meta $375 Million for Child Safety Violations",
+      "source": "Associated Press",
+      "sources": [
+        "Deutsche Welle",
+        "NPR",
+        "Associated Press"
+      ],
+      "summary": "Jury finds Meta violates state law harms children’s mental health safety through unconscionable practices exploiting vulnerabilities with thousands violations. Impacts young users platforms like Instagram Facebook. Sets precedent for tech accountability.",
+      "link": "https://apnews.com/article/meta-facebook-new-mexico-trial-28eabd8ec5f58c1d1ecddc21bb107de7",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Focused on $375 million fine liability in child exploitation case as potential bellwether",
+          "link": "https://www.dw.com/en/meta-hit-with-375-million-fine-in-child-exploitation-case/a-76515470?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "NPR",
+          "angle": "Emphasized jury ruling Meta harms children’s mental health safety via unconscionable trade practices",
+          "link": "https://www.npr.org/2026/03/24/g-s1-115019/new-mexico-meta-children-mental-health"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Covered landmark verdict after seven-week trial on consumer protection child safety violations",
+          "link": "https://apnews.com/article/meta-facebook-new-mexico-trial-28eabd8ec5f58c1d1ecddc21bb107de7"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response After Suspected Sabotage Severs Baltic Sea Cable",
+      "source": "Wall Street Journal",
+      "summary": "NATO activates first coordinated operation following severance of deep-sea cable in Baltic Sea amid suspected sabotage campaign on infrastructure. Affects alliance security communications. Raises hybrid threat concerns next drills investigations.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Launches Crew-10 Astronauts to Retrieve NASA Pair Stuck on ISS Nine Months",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 launched four astronauts from Kennedy Space Center Friday to reach ISS Saturday relieve Butch Wilmore Suni Williams stuck since June. Routine rotation enables return. Boosts US space access reliability.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "US Ecuador Airstrike Destroys Dairy Farm Mistaken for Drug Cartel Training Camp",
+      "source": "New York Times",
+      "summary": "US military assisted Ecuador bombing site villagers identify as dairy farm not armed group camp. Affects local farmers innocent residents. Prompts questions on intelligence accuracy in anti-drug operations.",
+      "link": "https://www.nytimes.com/2026/03/24/world/americas/us-ecuador-drug-camp-bombing-dairy-farm.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "OpenAI Discontinues Sora AI Video Generator Amid Deepfake Video Concerns",
+      "source": "NPR",
+      "sources": [
+        "NPR",
+        "Al Jazeera"
+      ],
+      "summary": "OpenAI shuts down Sora app plans preserve user content shifts focus to areas like coding tools. Impacts creators fearing deepfakes. Addresses misuse risks influences AI ethics regulations.",
+      "link": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "NPR",
+          "angle": "Reported shutdown of viral app sparked deepfake concerns with plans for user content preservation",
+          "link": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Framed as first major step refocusing business on lucrative tools like coding amid deepfakes",
+          "link": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Investigators Probe Attacks on Jewish Schools and Sites Across European Countries",
+      "source": "New York Times",
+      "summary": "Attacks target Jewish schools property in multiple Europe countries heighten community fears suspicions point to Iran. Affects Jewish populations security. Drives international probes amid rising antisemitism tensions.",
+      "link": "https://www.nytimes.com/2026/03/24/world/europe/attacks-jewish-sites-europe.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Strikes Kill Nine in Southern Lebanon Towns and Refugee Camp",
+      "source": "France 24",
+      "summary": "Israeli forces strike towns Palestinian refugee camp near Sidon kill six plus three elsewhere in south Lebanon. Affects Lebanese civilians refugees. Occurs amid Trump ceasefire optimism for Iran war.",
+      "link": "https://www.france24.com/en/middle-east/20260325-middle-east-live-israeli-strikes-on-south-lebanon-leave-nine-dead",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagon Deploys 2000 Troops to Middle East US Proposes 15-Point Plan Iran Opens Hormuz",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "Associated Press",
+        "Deutsche Welle",
+        "France 24"
+      ],
+      "summary": "Pentagon sends 2,000 airborne troops for options as Trump admin delivers 15-point ceasefire proposal via Pakistan; Iran permits non-hostile oil vessels through Hormuz. Impacts global energy security war dynamics. Awaits Tehran response.",
+      "link": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "US bolsters military presence proposes ceasefire amid confusion over talks; Iran signals de-escalation by easing key strait access",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Tied 2,000 troop deployment to 15-point proposal sent via Pakistan for Trump options",
+          "link": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Clarified confusion from Trump progress claims Iran denials on ongoing war talks",
+          "link": "https://apnews.com/article/iran-war-us-talks-trump-israel-767a154363f4aed9c8af36966c4f701a"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Detailed US 15-point plan offer to end war conveyed through Pakistan channel",
+          "link": "https://www.dw.com/en/iran-war-us-reportedly-offers-15-point-plan-to-end-war/live-76515461?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "France 24",
+          "angle": "Paired US 15-point plan with Iran opening Hormuz to non-hostile vessels",
+          "link": "https://www.france24.com/en/middle-east/20260325-us-proposes-15-point-plan-as-iran-opens-hormuz-to-non-hostile-oil-vessels"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians Cross Military Zone Return to Northern Gaza After Hostage Deadlock Breaks",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Gazans cross bisecting military zone into north after hostage release impasse resolves. Affects hundreds thousands returnees. Eases humanitarian strains signals potential aid access gains.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel breaks hostage release deadlock allows zone crossing enabling on-foot returns",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops Enter Goma City One Million Displaced Inside",
+      "source": "Wall Street Journal",
+      "summary": "Rebels defeat Congolese army enter Goma trigger gunfire shelling trap over one million displaced in aid hub city. Affects residents refugees. Threatens humanitarian crisis worsens regional instability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels advance into city core overrunning defenses causing shelling with one million now sheltering within",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 456,
+    "articlesAfterDedup": 455,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 6,
+      "politics": 2,
+      "science": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "africa": 2,
+      "americas": 2,
+      "europe": 2,
+      "global": 2,
+      "middle-east": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

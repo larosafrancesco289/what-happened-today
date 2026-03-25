@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-25",
+  "summary": "Le Guardie della Rivoluzione iraniane hanno lanciato missili di precisione su obiettivi israeliani e basi militari USA in Kuwait, Giordania e Bahrein. L'attacco avviene nel 26esimo giorno del conflitto tra Iran, Israele e Stati Uniti, fa seguito ai bombardamenti israeliani su Beirut e un gasdotto iraniano annunciati ieri. Il Pentagono ha inviato 2.000 paracadutisti in Medio Oriente. Il coinvolgimento di ulteriori paesi è possibile, con potenziali interruzioni nelle forniture energetiche globali.\n\nL'esercito israeliano ha istituito una zona di sicurezza a sud del fiume Litani in Libano meridionale contro Hezbollah e ha intercettato un missile iraniano. Beirut ha espulso l'ambasciatore iraniano. In parallelo, Donald Trump ha citato concessioni iraniane su Hormuz e nucleare nel negoziato a 15 punti con gli USA. La Casa Bianca richiede una tregua di un mese, lo stop alle proxies e limiti all'arricchimento dell'uranio; l'Iran nega trattative dirette, mentre Ghalibaf potrebbe essere in Pakistan per colloqui. La Nasa ha annunciato un piano per una base lunare stabile da 30 miliardi di dollari e un veicolo nucleare per Marte, fermando il gateway orbitante e accelerando le missioni, con partner internazionali coinvolti.\n\nIn Italia, il sottosegretario Delmastro e la sottosegretaria Bartolozzi si sono dimessi da incarichi alla Giustizia per legami con società vicine al clan Senese; questo fa seguito alla bocciatura del referendum di ieri, e Giorgia Meloni ha invitato Daniela Santanchè a dimettersi. Schlein e Conte hanno aperto primarie nei gazebo per il leader del centrosinistra. Negli USA, la democratica Gregory ha vinto le elezioni speciali nel distretto di Mar-a-Lago in Florida contro i repubblicani. Una giuria in New Mexico ha stabilito che Meta non ha protetto i minori da predatori sessuali sulle piattaforme, con rischi di risarcimenti per milioni. In Argentina, centinaia di migliaia hanno marciato a Buenos Aires contro un video del governo Milei che nega crimini della dittatura, a 50 anni dal golpe; il governo taglia fondi per la memoria storica. I pm hanno rivelato intercettazioni in cui il governatore ligure Toti ammette di aver truccato dati sui contagi Covid.",
+  "headlines": [
+    {
+      "title": "Guardie Rivoluzionarie iraniane lanciano missili su Israele e basi USA in Kuwait Giordania e Bahrein",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Nel 26esimo giorno di guerra Iran-Israele-Usa, le Guardie Rivoluzionarie colpiscono obiettivi israeliani e basi americane con missili di precisione. Pentagono invia 2.000 paracadutisti in Medio Oriente. L'escalation rischia di coinvolgere più paesi e interrompere forniture energetiche globali.",
+      "link": "https://www.agi.it/estero/news/2026-03-25/iran-guerra-notizie-24-marzo-36284032/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Enfatizza lancio missili iraniani e invio paracadutisti Pentagono nel 26esimo giorno di guerra",
+          "link": "https://www.agi.it/estero/news/2026-03-25/iran-guerra-notizie-24-marzo-36284032/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta negazione iraniana trattative Usa e riapertura Stretto Hormuz a pagamento",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-25-marzo_110382256-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sottosegretario Delmastro e Bartolozzi si dimettono da giustizia per legami clan",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Andrea Delmastro e Maria Cristina Bartolozzi lasciano incarichi governativi mentre emergono dettagli su società legate a clan Senese. Meloni invita Daniela Santanchè a dimettersi. Le dimissioni seguono bocciatura referendum e indeboliscono maggioranza.",
+      "link": "https://www.ilsole24ore.com/art/giustizia-piu-vicine-dimissioni-delmastro-AIOUad8B",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Descrive dimissioni Delmastro e Bartolozzi con dettagli su società e legami Caroccia",
+          "link": "https://www.ilsole24ore.com/art/giustizia-piu-vicine-dimissioni-delmastro-AIOUad8B"
+        }
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Centinaia migliaia argentini marciano a Buenos Aires contro video Milei su dittatura",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "Euronews Italiano"
+      ],
+      "summary": "A 50 anni dal golpe, manifestanti riempiono piazze con pañuelos e slogan contro video governativo che nega crimini dittatura. Governo Milei taglia fondi memoria e promuove 'storia completa'. La protesta polarizza dibattito nazionale sulla memoria storica.",
+      "link": "https://www.repubblica.it/esteri/2026/03/25/news/argentina_buenos_aires_manifestazioni_50_anni_colpo_di_stato-425243845/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea partecipazione centinaia migliaia e taglio fondi governo a marcia memoria",
+          "link": "https://www.repubblica.it/esteri/2026/03/25/news/argentina_buenos_aires_manifestazioni_50_anni_colpo_di_stato-425243845/?rss"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Evidenzia video istituzionale Milei su memoria completa durante marce verità giustizia",
+          "link": "http://it.euronews.com/2026/03/25/a-50-anni-dal-golpe-milei-spinge-per-una-memoria-completa-e-riapre-il-dibatt"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Esercito israeliano istituisce zona sicurezza sud fiume Litani contro Hezbollah",
+      "source": "la Repubblica",
+      "summary": "Idf annuncia piano zona sicurezza in Libano meridionale, intercetta missile iraniano. Beirut espelle ambasciatore Teheran. La mossa mira a contrastare minacce Hezbollah e stabilizzare confine, con rischi di escalation regionale.",
+      "link": "https://www.repubblica.it/esteri/2026/03/25/news/libano_israele_guerra_zona_di_sicurezza_fiume_litani-425243792/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Nasa pianifica base lunare stabile da 30 miliardi dollari e veicolo nucleare Marte",
+      "source": "Rai News",
+      "summary": "Agenzia annuncia stop gateway orbitante per presenza umana permanente Luna con budget 30 miliardi. Partner internazionali spiazzati, accelerazione missioni Marte. Il piano rafforza leadership Usa nello spazio e attrae collaborazioni future.",
+      "link": "https://www.rainews.it/articoli/2026/03/nasa-cambia-il-programma-artemis-stop-al-gateway-orbitante-si-punta-sulla-base-lunare-fd238d30-819e-45df-ad6b-d05a08ce2136.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Schlein e Conte aprono primarie gazebo per leader centrosinistra dopo referendum",
+      "source": "AGI",
+      "summary": "Vittoria No referendum riavvia cantiere coalizione progressista. Candidati Ruffini e Onorato in pista con progetti. Le primarie definiscono opposizione unita per midterm, influenzando equilibri politici italiani.",
+      "link": "https://www.agi.it/politica/news/2026-03-25/referendum-accende-sfida-primarie-centrosinistra-36282058/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Democratica Gregory vince elezioni speciali distretto Mar-a-Lago contro repubblicani",
+      "source": "la Repubblica",
+      "summary": "Candidata dem prevale in roccaforte Trump Florida con voto postale. Colpo al dominio Gop prima midterm. La sconfitta segnala vulnerabilità repubblicane in stati chiave per elezioni presidenziali.",
+      "link": "https://www.repubblica.it/esteri/2026/03/25/news/florida_la_dem_gregoy_vince_le_elezioni_nel_distretto_di_mar-a-lago-425243843/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Giuria New Mexico accerta Meta non protegge minori da predatori sessuali su piattaforme",
+      "source": "TGCOM24",
+      "summary": "Giudici stabiliscono responsabilità Meta per mancata tutela ragazzi da abusi online. Azienda rischia milioni risarcimenti. Il verdetto spinge regolamentazioni più severe su social e sicurezza digitali.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/usa-giuria-meta-non-ha-protetto-minori-da-predatori-sessuali_110379558-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm rivelano intercettazioni Toti ammette aver truccato dati contagi Covid Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Governatore Toti dice a capo gabinetto Cozzani di aver aumentato numeri contagi. Indagine approfondisce manipolazioni pandemia. Lo scandalo mina credibilità gestione regionale e riapre dibattiti sanitari.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Emergono dettagli intercettazioni con frasi Toti 'io avevo già truccato' sui contagi",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump cita concessioni Iran su Hormuz e nucleare in negoziato 15 punti Usa",
+      "source": "la Repubblica",
+      "summary": "Casa Bianca richiede tregua mese, stop proxies e limiti arricchimento. Iran nega trattative dirette. Ghalibaf forse in Pakistan per colloqui. I progressi riducono tensioni ma restano fragili per pace regionale.",
+      "link": "https://www.repubblica.it/esteri/2026/03/25/news/trump_iran_accordo_concessioni_hormuz_aperto_navi_amiche-425243660/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Iran nega negoziati 'Usa con se stessi', Hormuz riapre a pagamento mentre Trump elenca concessioni",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 254,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 5,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 3,
+      "americas": 3,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

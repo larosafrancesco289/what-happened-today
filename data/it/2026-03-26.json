@@ -1,0 +1,205 @@
+{
+  "date": "2026-03-26",
+  "summary": "L'Iran ha respinto la proposta americana di tregua articolata in 15 punti e ha consegnato una controproposta con cinque condizioni, riguardanti il programma nucleare e lo Stretto di Hormuz. Coinvolti il presidente statunitense Donald Trump, il ministro degli Esteri iraniano Abbas Araghchi e gli alleati del Golfo. Questo fa seguito al lancio di missili da parte delle Guardie Rivoluzionarie iraniane su Israele e basi USA in Kuwait, Giordania e Bahrein ieri. I negoziati proseguono con la possibilità di un vertice a Islamabad o in Turchia.\n\nLa Cina ha dispiegato decine di navi di ricerca e centinaia di sensori sottomarini per mappare gli oceani Pacifico, Indiano e Artico, allo scopo di migliorare le capacità dei sottomarini nucleari contro Stati Uniti e alleati. Esperti navali USA hanno rilevato rischi per la sicurezza. Dalle basi americane di Aviano e Sigonella in Italia sono decollati droni \"Occhi di falco\" e aerei radar per supportare operazioni in Medio Oriente, con il coinvolgimento di comandi italiani e americani; le attività continuano da Camp Darby. In Francia, Parigi prepara il G7 dei ministri degli Esteri all'Abbaye de Vaux-de-Cernay, con focus su sicurezza e coordinamento alleati contro crisi globali; resta incerta la posizione USA in vista del vertice dei leader a Evian dal 15 al 17 giugno.\n\nIn Italia, la ministra del Turismo Daniela Santanchè ha inviato una lettera di dimissioni al premier Giorgia Meloni, citando un certificato penale immacolato e l'abitudine di pagare conti altrui; Meloni ha accettato, in seguito a tensioni interne al governo. Il governatore ligure Giovanni Toti ha ammesso in intercettazioni di aver istruito il capo di gabinetto di aumentare i dati sui contagi Covid. L'Unione Europea e l'Australia hanno siglato un accordo commerciale dopo otto anni di negoziati, coprendo champagne, minerali critici e veicoli elettrici, con entrata in vigore graduale. Sony e Honda hanno interrotto l'alleanza paritetica per lo sviluppo di auto elettriche a causa dell'evoluzione del mercato. Attiviste iraniane in esilio denunciano un aggravamento della repressione sulle donne da parte del regime, legato alla guerra in corso; la campagna per i diritti continua.",
+  "headlines": [
+    {
+      "title": "Iran respinge proposta negoziato Stati Uniti e consegna cinque condizioni",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica",
+        "TGCOM24",
+        "Euronews Italiano"
+      ],
+      "summary": "Iran rifiuta la proposta americana di tregua in 15 punti e presenta controproposta con cinque condizioni, tra nucleare e Hormuz. Coinvolti Trump, ministro Araghchi e alleati Golfo. Negoziati continuano con possibile vertice a Islamabad o Turchia; interessa per rischio escalation regionale.",
+      "link": "https://www.agi.it/estero/news/2026-03-26/guerra-iran-usa-26-marzo-36303151/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Iran smentisce contatti con USA, consegna cinque richieste e piazza mine su isola Kharg per pedaggio Hormuz",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Iran non intende negoziare e smentisce Washington con segnali ambigui USA",
+          "link": "https://www.agi.it/estero/news/2026-03-26/guerra-iran-usa-26-marzo-36303151/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Trattative avanzano con Iran che nega ma consegna cinque richieste a USA",
+          "link": "https://www.repubblica.it/esteri/2026/03/26/news/negoziati_iran__cinque_richieste_usa-425245982/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Teheran piazza mine su Kharg e prepara legge pedaggio Stretto Hormuz",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-26-marzo_110411050-202602k.shtml"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Trump afferma Iran vuole accordo ma nega per paura, Teheran respinge richieste",
+          "link": "http://it.euronews.com/2026/03/26/trump-iran-vuole-un-accordo-ma-non-lo-ammette-per-paura-teheran-respinge-le-richieste-usa"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Daniela Santanchè rassegni dimissioni da ministra Turismo a Giorgia Meloni",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "ANSA",
+        "AGI"
+      ],
+      "summary": "Ministra Daniela Santanchè invia lettera dimissioni a premier Meloni, citando certificato penale immacolato e abitudine a pagare conti altrui. Segue tensioni governative. Meloni accetta; rafforza governo da pressioni interne, interessa per stabilità esecutivo italiano.",
+      "link": "https://www.ilsole24ore.com/art/daniela-santanche-si-e-dimessa-AI5jeCAC",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Santanchè dimette con lettera a Meloni su pagare conti propri e altrui",
+          "link": "https://www.ilsole24ore.com/art/daniela-santanche-si-e-dimessa-AI5jeCAC"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Santanchè dimette obbedendo e pagando per altri con penale immacolato",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/03/25/governo-la-ministra-santanche-si-e-dimessa-il-mio-certificato-penale-immacolato_87c7faf1-adff-477b-8759-0ab551905036.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Santanchè dimette con lettera a Meloni ringraziando per fiducia ministeriale",
+          "link": "https://www.agi.it/politica/news/2026-03-25/santanch-dimissioni-36298549/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Cina dispiega navi e sensori per mappare oceani Pacifico Indiano e Artico",
+      "source": "AGI",
+      "summary": "Cina conduce operazione mappatura sottomarina con decine navi ricerca e centinaia sensori per potenziare sottomarini contro USA e alleati. Esperti navali USA notano rischi. Monitoraggio continua; interessa per equilibri strategici Indo-Pacifico e corsa armamenti navali.",
+      "link": "https://www.agi.it/estero/news/2026-03-26/cina-mappa-oceani-guerra-sottomarina-36301934/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Basi Aviano e Sigonella inviano droni e aerei radar per operazioni Medio Oriente",
+      "source": "la Repubblica",
+      "summary": "Centri USA in Aviano e Sigonella decollano velivoli spia Occhi di falco per supporto conflitto. Coinvolti comandi italiani e americani. Operazioni proseguono da Camp Darby; interessa per ruolo Italia in alleanze NATO e sicurezza regionale.",
+      "link": "https://www.repubblica.it/esteri/2026/03/26/news/droni_aerei_radar_conflitto_medio_oriente_ruolo_basi_italiane-425245956/?rss",
+      "tier": "top",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Parigi prepara G7 Esteri con focus su sicurezza e coordinamento alleati",
+      "source": "AGI",
+      "summary": "Francia ospita G7 Esteri ad Abbaye de Vaux-de-Cernay per risultati concreti su crisi e minacce. Incognita posizioni USA. Prepara vertice leader Evian 15-17 giugno; interessa per unità Occidentale contro sfide globali.",
+      "link": "https://www.agi.it/estero/news/2026-03-26/g7-esteri-parigi-usa-36289265/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Unione Europea e Australia siglano accordo commerciale su champagne e auto elettriche",
+      "source": "Euronews Italiano",
+      "summary": "Dopo otto anni negoziati, UE e Australia approvano patto coprendo champagne, minerali critici e veicoli elettrici. Beneficia esportatori europei. Entrata vigore graduale; interessa per accesso mercati e supply chain green.",
+      "link": "http://it.euronews.com/business/2026/03/26/dallo-champagne-alle-auto-elettriche-i-prodotti-coperti-dallaccordo-ue-australia",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Sony e Honda interrompono alleanza paritetica per sviluppo auto elettriche",
+      "source": "Il Sole 24 Ore",
+      "summary": "Sony e Honda fermano progetto veicoli elettrici per evoluzione rapida mercato. Coinvolti due aziende giapponesi. Cerca nuove strategie; interessa per dinamiche industria EV e consolidamenti settore.",
+      "link": "https://www.ilsole24ore.com/art/sony-e-honda-decidono-stop-progetto-auto-elettriche-AIcx1vAC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Giovanni Toti ammette a capo gabinetto di aver aumentato dati contagi Covid Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Pm rivelano intercettazioni in cui governatore Toti dice a Cozzani di aver truccato numeri pandemia. Indagine su manipolazioni. Procede inchiesta; interessa per accountability gestione crisi sanitarie passate.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Intercettazioni mostrano Toti ammettere di aver un po’ aumentato contagi per report",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Attiviste iraniane denunciano repressione regime aggravata da guerra in esilio",
+      "source": "Rai News",
+      "summary": "Evento raccoglie voci attiviste: guerra intensifica violenza su donne iraniane. Coinvolti esuli e regime Teheran. Campagna libertà continua; interessa per diritti umani e instabilità interna Iran.",
+      "link": "https://www.rainews.it/video/2026/03/attiviste-iraniane-in-esilio-la-guerra-rende-ancora-piu-violenta-la-repressione-del-regime-b8ba55d0-ff11-4c65-be89-fd35db1b69f6.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 257,
+    "articlesAfterDedup": 256,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 19,
+    "categoryCounts": {
+      "politics": 4,
+      "science": 1,
+      "conflict": 1,
+      "economy": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 4,
+      "asia-pacific": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

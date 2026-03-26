@@ -1,0 +1,218 @@
+{
+  "date": "2026-03-26",
+  "summary": "L’armée israélienne a mené des frappes à grande échelle sur plusieurs zones en Iran, ciblant des infrastructures à Ispahan et ailleurs. Ces frappes répondent aux tirs de missiles des Gardiens de la Révolution iraniens sur Israël et des bases américaines à Bahreïn, au Koweït et en Jordanie survenus hier. Au 27e jour du conflit, Israël prolonge les échanges militaires, avec une escalade possible impliquant d’autres pays du Moyen-Orient. Les autorités iraniennes n’ont pas encore commenté l’ampleur des dommages, tandis qu’Israël prévoit de poursuivre les opérations en cas de nouvelles attaques.\n\nIsraël a lancé une offensive terrestre dans le sud du Liban contre le Hezbollah, faisant suite aux raids aériens d’hier qui ont tué neuf personnes. Cette avancée a causé plus de 1 000 morts et 1 million de déplacés, avec un risque d’occupation durable du sud du Liban. Donald Trump a menacé l’Iran de conséquences sévères sans accord de paix américain, malgré les démentis iraniens sur le plan à quinze points transmis via le Pakistan hier ; cela vise à forcer des négociations au 27e jour du conflit. En Ukraine, Volodymyr Zelensky a jugé la pression occidentale insuffisante sur la Russie, liée aux impacts au Moyen-Orient, et a défendu l’importance stratégique du Donbass tout en urjant la levée du veto hongrois sur un prêt de 90 milliards d’euros ; l’Allemagne a refusé de livrer des missiles Taurus demandés par Zelensky, craignant une aggravation des tensions avec la Russie.\n\nUne cour parisienne a condamné Tariq Ramadan à 18 ans de prison pour deux viols et un viol aggravé, jugé absent depuis le 2 mars ; ses avocats n’ont pas indiqué d’appel immédiat. À Marseille, une policière est interdite d’exercice après suspicion de vente de plus de 5 000 fiches confidentielles sur le banditisme à des criminels. Nicolas Maduro, président vénézuélien déchu, comparaît devant la justice américaine à New York pour trafic de drogue, trois mois après sa capture ; le procès fédéral à Brooklyn impacte la politique en Amérique latine. Les Nations unies proposent un plan d’aide de 94,1 millions de dollars à Cuba pour du carburant et des services essentiels, en discussion avec les États-Unis sur les importations humanitaires.",
+  "headlines": [
+    {
+      "title": "Armée israélienne mène frappes à grande échelle sur plusieurs zones d'Iran",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "RFI",
+        "Le Figaro",
+        "Libération"
+      ],
+      "summary": "L’armée israélienne cible des infrastructures iraniennes à Ispahan et ailleurs en réponse à des missiles iraniens sur Israël. Au 27e jour du conflit, ces frappes prolongent les échanges, menaçant une escalade régionale impliquant plusieurs pays du Moyen-Orient.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/26/en-direct-guerre-au-moyen-orient-israel-continue-de-bombarder-l-iran-en-reponse-a-des-tirs-de-missiles-iraniens_6673056_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Début avec frappes israéliennes à grande échelle en réponse à missiles iraniens sur Israël",
+          "link": "https://www.lemonde.fr/international/live/2026/03/26/en-direct-guerre-au-moyen-orient-israel-continue-de-bombarder-l-iran-en-reponse-a-des-tirs-de-missiles-iraniens_6673056_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Annonce frappes israéliennes sur Iran au 27e jour avec mention Ispahan",
+          "link": "https://www.france24.com/fr/moyen-orient/20260326-moyen-orient-en-direct-iran-israel-etats-unis-negociations-frappes"
+        },
+        {
+          "source": "RFI",
+          "angle": "Israël répond à missiles iraniens avec frappes au 27e jour du conflit",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260326-en-direct-guerre-au-moyen-orient-isra%C3%ABl-et-les-%C3%A9mirats-arabes-unis-vis%C3%A9s-par-des-missiles-iraniens"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Frappes israéliennes visent infrastructures régime iranien plusieurs endroits",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-irak-qatar-arabie-saoudite-emirats-arabes-unis-koweit-liban-oman-jeudi-26-mars-20260326"
+        },
+        {
+          "source": "Libération",
+          "angle": "Bombardements israéliens persistent en Iran au 27e jour du conflit",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-frappes-se-poursuivent-partout-dans-la-region-alors-que-trump-persiste-a-affirmer-que-liran-negocie-sur-son-plan-de-paix-20260326_6W2DZYUHFNEXJBYBN3A2XVFH2U/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump menace Iran de déchaîner l'enfer sans accord de paix",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Libération",
+        "Le Figaro"
+      ],
+      "summary": "Donald Trump avertit Téhéran de conséquences sévères si refus d'un accord américain, malgré démentis iraniens. Au 27e jour, cela vise à forcer négociations, mais accentue tensions militaires dans le Golfe.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4215147-20260326-direct-guerre-moyen-orient-trump-martele-iran-veut-accord-mettre-fin-guerre?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Trump martèle Iran veut accord pour finir guerre dans direct",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4215147-20260326-direct-guerre-moyen-orient-trump-martele-iran-veut-accord-mettre-fin-guerre?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Libération",
+          "angle": "Trump affirme Iran négocie plan paix malgré frappes persistantes",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-frappes-se-poursuivent-partout-dans-la-region-alors-que-trump-persiste-a-affirmer-que-liran-negocie-sur-son-plan-de-paix-20260326_6W2DZYUHFNEXJBYBN3A2XVFH2U/"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Trump dit négociateurs iraniens veulent accord craignent représailles internes",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-irak-qatar-arabie-saoudite-emirats-arabes-unis-koweit-liban-oman-jeudi-26-mars-20260326"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël lance offensive terrestre sud Liban vers occupation durable",
+      "source": "France Info",
+      "summary": "Israël intensifie combats au Liban contre Hezbollah, causant plus de 1 000 morts et 1 million déplacés. Cette avancée terrestre risque occupation prolongée sud Liban, déstabilisant région.",
+      "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/guerre-au-moyen-orient-au-liban-l-offensive-terrestre-d-israel-ouvre-la-voie-a-une-occupation-durable_7862315.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Volodymyr Zelensky juge pression insuffisante sur Russie dans guerre Ukraine",
+      "source": "Le Monde",
+      "summary": "Zelensky alerte sur faible pression occidentale, y compris européenne, contre Russie, liée impacts Moyen-Orient. Il défend Donbass stratégique et urge lever veto hongrois sur prêt 90 milliards euros.",
+      "link": "https://www.lemonde.fr/international/article/2026/03/26/volodymyr-zelensky-la-pression-sur-la-russie-est-insuffisante-pas-seulement-de-la-part-des-etats-unis-mais-aussi-de-l-europe_6674299_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Allemagne refuse livrer missiles Taurus à Ukraine malgré demande Zelensky",
+      "source": "20 Minutes",
+      "summary": "Berlin rejette fourniture missiles Taurus demandés par Zelensky, craignant aggravation tensions avec Russie. Cela limite capacités ukrainiennes face invasion prolongée.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4215140-20260326-guerre-ukraine-allemagne-lache-zelensky-missiles-taurus?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Cour parisienne condamne Tariq Ramadan à 18 ans prison pour trois viols",
+      "source": "Libération",
+      "summary": "Tariq Ramadan reconnu coupable deux viols et un viol aggravé, jugé absent depuis 2 mars. Avocats n'indiquent pas appel immédiat, marquant fin procès retentissant.",
+      "link": "https://www.liberation.fr/societe/police-justice/reconnu-coupable-de-deux-viols-et-dun-viol-aggrave-tariq-ramadan-condamne-a-18-ans-de-reclusion-criminelle-20260325_TAFODCXAPRE6PJJPRBWYFGOMQI/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Libération"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Policière marseillaise interdit exercice après vente 5 000 fiches banditisme",
+      "source": "France Info",
+      "summary": "Jeune agente commissariat Marseille soupçonnée consultation et vente plus 5 000 informations confidentielles au grand banditisme. Enquête révèle compromission sécurité publique.",
+      "link": "https://www.franceinfo.fr/faits-divers/police/info-franceinfo-corruption-une-policiere-interdite-d-exercer-a-marseille-soupconnee-d-avoir-vendu-de-nombreuses-informations-confidentielles-au-grand-banditisme_7894094.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Nicolas Maduro comparaît justice américaine New York trois mois après capture",
+      "source": "France 24",
+      "summary": "Président vénézuélien déchu inculpé trafic drogue depuis janvier, compare sans s'exprimer. Procès fédéral Brooklyn impacte politique Amérique latine.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260326-%C3%A9tats-unis-pr%C3%A8s-de-trois-mois-apr%C3%A8s-sa-capture-nicolas-maduro-revient-devant-la-justice",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Nations unies proposent plan aide 94,1 millions dollars Cuba incluant carburant",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Radio-Canada"
+      ],
+      "summary": "ONU discute aide d'urgence 94,1 millions dollars pour carburant et services essentiels à Cuba, évitant effondrement humanitaire. Discussions avec États-Unis sur importations humanitaires.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260326-cuba-un-plan-d-aide-d-urgence-en-discussion-%C3%A0-l-onu-pour-%C3%A9viter-un-effondrement-humanitaire",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Plan aide urgence ONU pour carburant à Cuba face crise sanitaire",
+          "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260326-cuba-un-plan-d-aide-d-urgence-en-discussion-%C3%A0-l-onu-pour-%C3%A9viter-un-effondrement-humanitaire"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "ONU propose 94,1 millions dollars pour services essentiels Cuba",
+          "link": "https://ici.radio-canada.ca/nouvelle/2241833/cuba-onu-plan-aide-carburant"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 211,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "society": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "americas": 2,
+      "europe": 4,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 7
+    }
+  }
+}

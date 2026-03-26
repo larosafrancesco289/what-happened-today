@@ -1,0 +1,221 @@
+{
+  "date": "2026-03-26",
+  "summary": "Israel has intensified military strikes across Iran as ceasefire negotiations falter, raising concerns about regional stability and potential impacts on global oil supplies. President Trump has threatened to escalate US involvement, which could risk a broader conflict in the Middle East.\n\nIn Ukraine, Russian forces have ramped up their offensive in the Zaporizhzhia region following recent Ukrainian advancements, complicating the situation for both frontline troops and civilians. Meanwhile, Ukrainian President Zelensky has indicated that US security guarantees may be contingent on Kyiv agreeing to cede the Russian-occupied Donbas region, which raises questions about the future of Western support for Ukraine's defenses. On another front, the UN General Assembly has passed a resolution designating the transatlantic slave trade as a grave crime against humanity, calling for reparations and accountability, despite opposition from the US.\n\nJapan has announced a significant increase in corporate tobacco taxes to support its defense spending, aiming for a 2% GDP defense budget by 2026, amid rising regional tensions. In the commodities market, Brent crude oil prices have surged past $104 a barrel due to disruptions from the ongoing conflict with Iran, which could have widespread economic consequences. Additionally, new reports from China indicate that a leading property developer has suffered massive losses, raising concerns about the country's growing real estate crisis and its potential effects on economic stability.",
+  "headlines": [
+    {
+      "title": "Israel Carries Out Fresh Strikes Across Iran as Ceasefire Talks Stall",
+      "source": "France24",
+      "summary": "Israel's military launches strikes on targets across Iran amid Tehran's refusal to negotiate peace. US President Trump threatens escalation. Affects regional stability, global oil supplies, and risks broader Middle East conflict.",
+      "link": "https://www.france24.com/en/middle-east/20260326-live-israel-carries-out-fresh-wave-of-strikes-across-iran",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "UN General Assembly Votes 123-3-52 Designates African Slave Trade Gravest Crime Against Humanity",
+      "source": "NPR",
+      "sources": [
+        "NPR",
+        "South China Morning Post",
+        "BBC"
+      ],
+      "summary": "UN adopts resolution labeling transatlantic slave trade gravest crime, calls for reparations, apologies, and healing funds despite US opposition. Affects descendants of 12 million Africans, advances accountability discussions globally.",
+      "link": "https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "NPR",
+          "angle": "Focused on UN call for reparations to remedy historical wrongs of trafficking enslaved Africans",
+          "link": "https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "Emphasized 123-3-52 vote despite US and European opposition hailed as healing step",
+          "link": "https://www.scmp.com/news/world/africa/article/3347954/un-designates-african-slave-trade-gravest-crime-against-humanity?utm_source=rss_feed"
+        },
+        {
+          "source": "BBC",
+          "angle": "Highlighted landmark resolution demanding apology and unspecified reparations fund contributions",
+          "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Russian Forces Intensify Attacks in Southern Ukraine After Kyiv Gains Momentum",
+      "source": "New York Times",
+      "summary": "Moscow launches offensive in Zaporizhzhia region following rare Ukrainian advances along front. Impacts frontline troops, civilians; prolongs war, tests Kyiv's defenses and Western support.",
+      "link": "https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "US Ties Ukraine Security Guarantees to Ceding Russian-Occupied Donbas Zelensky Warns",
+      "source": "France24",
+      "sources": [
+        "France24",
+        "The Guardian"
+      ],
+      "summary": "Zelensky reveals US conditions postwar guarantees on Kyiv surrendering Donbas, aiming for quick peace. Weakens Ukraine defenses, raises doubts on US aid; affects Europe's security landscape.",
+      "link": "https://www.france24.com/en/europe/20260325-us-ties-ukraine-security-guarantees-to-donbas-withdrawal",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France24",
+          "angle": "Stressed Zelensky warning that terms weaken defenses amid uncertain US support",
+          "link": "https://www.france24.com/en/europe/20260325-us-ties-ukraine-security-guarantees-to-donbas-withdrawal"
+        },
+        {
+          "source": "The Guardian",
+          "angle": "Detailed Zelensky statement on US-proposed peace deal handing land to Russia",
+          "link": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Japan Raises Tobacco Corporate Taxes to Fund 9 Trillion Yen Defense Spending",
+      "source": "Japan Times",
+      "summary": "Government hikes taxes starting April to reach 2% GDP defense budget for 2026 fiscal year. Impacts smokers, businesses; bolsters military amid regional threats like China, North Korea.",
+      "link": "https://www.japantimes.co.jp/news/2026/03/26/japan/politics/taxes-hike-april/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Brent Crude Tops 104 Dollars Barrel as Iran Denies US Talks",
+      "source": "Al Jazeera",
+      "summary": "Oil prices surge amid fading deescalation hopes in US-Israel war on Iran. Affects global consumers, economies; signals prolonged disruptions through Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Belarus Lukashenko Kim Jong Un Sign Friendship Cooperation Treaty North Korea",
+      "source": "France24",
+      "summary": "Lukashenko visits Pyongyang first time, signs treaty with Kim highlighting Moscow allies ties. Both back Russia in Ukraine; counters Western sanctions, raises proliferation concerns.",
+      "link": "https://www.france24.com/en/asia-pacific/20260325-lukashenko-greeted-by-kim-jong-un-on-first-visit-to-north-korea",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France24"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "China Vanke Reports Huge Losses Signals Widening Property Crisis",
+      "source": "Wall Street Journal",
+      "summary": "Leading developer posts massive loss amid spreading real estate woes, questions state bailout. Impacts investors, economy; threatens China's growth stability.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Iran War Disrupts Gulf Fertilizer Exports Hikes US Farmer Prices 25 Percent",
+      "source": "NPR",
+      "summary": "Conflict blocks major producers, raises costs as US corn planting starts. Struggling farmers face higher expenses; threatens food prices, agricultural output worldwide.",
+      "link": "https://www.npr.org/2026/03/26/g-s1-115240/iran-war-strait-hormuz-fertilizer-exports-farmers-planting-season",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches Coordinated Response After Second Baltic Sea Cable Severance",
+      "source": "Wall Street Journal",
+      "summary": "Alliance acts on suspected sabotage campaign targeting infrastructure. Protects critical undersea links; escalates hybrid threat concerns from Russia.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Another cable severed prompting first full NATO-led operation",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Palestinians Stream Back to Northern Gaza After Israel Opens Military Zone",
+      "source": "Wall Street Journal",
+      "summary": "Displaced residents cross bisecting zone post-hostage breakthrough. Eases humanitarian crisis; risks renewed clashes in war-torn enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Large influx on foot as returns accelerate",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 462,
+    "articlesAfterDedup": 462,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "economy": 4,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "global": 2,
+      "europe": 3,
+      "asia-pacific": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

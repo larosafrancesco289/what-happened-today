@@ -1,0 +1,189 @@
+{
+  "date": "2026-03-27",
+  "summary": "Iran's Revolutionary Guards launched missile and drone strikes on Israeli targets and US-linked Gulf facilities. This follows Israel's strikes across Iran yesterday as ceasefire talks stall. US Secretary Rubio attends a G7 meeting in France. Strikes affect global oil flows and regional security. President Trump extended the deadline for Iran to reopen the Strait of Hormuz to April 6, postponing strikes on Iran's power grid from Friday. Oil prices rose and stocks fell amid stalled talks. US officials state China's SMIC supplied chipmaking tools to Iran's military about a year ago; SMIC denies military ties.\n\nRwanda-backed rebels overran Congolese troops after gunfire and shelling, entering Goma and displacing over 1 million in the aid hub city. UN estimates indicate a worsening humanitarian crisis with risks of broader regional instability. Zelenskyy confirmed US peace deal terms require Ukraine to cede Russian-occupied Donbas for security guarantees on day 1,492 of the war. This follows US statements yesterday tying guarantees to ceding Donbas.\n\nDrone strikes killed 22 civilians including an infant in a North Darfur market and 6 in a North Kordofan truck, injuring 17 more, as Sudan's civil war nears its fourth year. Israel permitted displaced Palestinians to cross a military zone back to northern Gaza after breaking a hostage release deadlock, easing humanitarian strain in the bisected enclave depending on truce compliance. NATO deployed its first coordinated response after another deep-sea cable severance in the Baltic Sea. The IOC requires genetic testing for women's events starting at the 2028 Los Angeles Games.\"}",
+  "headlines": [
+    {
+      "title": "Iran's Revolutionary Guards Launch Missile and Drone Strikes on Israel and Gulf Sites",
+      "source": "France 24",
+      "summary": "Iran's Revolutionary Guards conducted strikes on Israeli targets and US-linked Gulf facilities. Regional tensions escalate as US faces criticism; Secretary Rubio attends G7 meeting in France. Impacts global oil flows and security.",
+      "link": "https://www.france24.com/en/middle-east/20260327-middle-east-live-iran-launches-strikes-on-israel-and-gulf-sites",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Congo's Goma Displacing One Million",
+      "source": "Wall Street Journal",
+      "summary": "Rebels entered Goma after gunfire and shelling routed Congolese forces; UN estimates over 1 million displaced inside the aid hub city. Humanitarian crisis worsens; risks broader regional instability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Extends Deadline for Iran to Reopen Strait of Hormuz to April 6",
+      "source": "New York Times",
+      "summary": "President Trump postponed strikes on Iran's power grid, moving deadline from Friday to April 6. Oil prices rose and stocks fell amid stalled talks. Threatens further escalation in oil transit disruptions.",
+      "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Drone Strikes Kill 28 Civilians in Sudan North Darfur Market and Kordofan Truck",
+      "source": "The Guardian",
+      "summary": "Strikes hit a North Darfur market killing 22 including an infant and a civilian truck in North Kordofan killing 6, injuring 17 more. Civil war nears fourth year; prolongs suffering for millions.",
+      "link": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "China's SMIC Supplies Chipmaking Tools to Iran Military US Officials Say",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "The Hindu"
+      ],
+      "summary": "Sanctioned SMIC sent chipmaking technology to Iran's military about a year ago per US officials. Heightens concerns over tech proliferation amid Iran tensions; SMIC denies military ties.",
+      "link": "https://www.japantimes.co.jp/business/2026/03/27/tech/smic-china-iran/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Japan Times",
+          "angle": "US officials detail SMIC sending chipmaking tools to Iran military roughly one year ago",
+          "link": "https://www.japantimes.co.jp/business/2026/03/27/tech/smic-china-iran/"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "SMIC denies ties to Chinese military-industrial complex despite US trade blacklist since 2020",
+          "link": "https://www.thehindu.com/sci-tech/technology/chinas-top-chipmaker-has-supplied-chipmaking-tech-to-iran-military-us-officials-say/article70791013.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Olympic Committee Bars Transgender Athletes from Women's Competition Events",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "NPR"
+      ],
+      "summary": "IOC requires genetic testing for women's events starting 2028 Los Angeles Games, most significant policy since new president elected. Affects transgender athletes; sparks fairness debates in sports.",
+      "link": "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Notes decision as most significant since Kirsty Coventry elected IOC president last year",
+          "link": "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html"
+        },
+        {
+          "source": "NPR",
+          "angle": "Explains new policy mandates genetic testing for women's events from 2028 Games",
+          "link": "https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Zelenskyy Confirms US Links Ukraine Security Guarantees to Ceding Donbas",
+      "source": "The Guardian",
+      "summary": "Zelenskyy states US peace deal requires handing Russian-occupied Donbas for guarantees on day 1,492 of war. Pressures Kyiv amid stalled talks; alters NATO aid prospects.",
+      "link": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Zelensky publicly details US proposal requiring land cession",
+      "sources": [
+        "The Guardian"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Palestinians to Cross Military Zone Back to Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel permitted displaced Gazans to return after breaking hostage release deadlock. Eases humanitarian strain in bisected enclave; depends on ongoing truce compliance.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Hostage release breakthrough breaks deadlock enabling zone crossing",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Deploys First Coordinated Response to Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance activates response after another deep-sea cable severed in suspected campaign. Protects critical infrastructure; signals heightened deterrence against hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Further cable severance prompts alliance's initial coordinated action",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 450,
+    "articlesAfterDedup": 448,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "africa": 2,
+      "asia-pacific": 1,
+      "global": 1,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 3
+    }
+  }
+}

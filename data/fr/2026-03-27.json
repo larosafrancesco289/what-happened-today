@@ -1,0 +1,228 @@
+{
+  "date": "2026-03-27",
+  "summary": "Au 28e jour de la guerre entre Israël et l'Iran, les Gardiens de la Révolution iraniens ont tiré des missiles et des drones sur des cibles militaires et énergétiques israéliennes ainsi que dans le Golfe. L'armée israélienne a répondu par des frappes sur Téhéran et le sud de Beyrouth. Cela prolonge le conflit malgré le sommet du G7 à Paris. Les impacts touchent la sécurité régionale et les marchés énergétiques mondiaux. Une escalade supplémentaire est possible si les échanges persistent.\n\nDonald Trump a repoussé son ultimatum à l'Iran dans le cadre des négociations de paix. Son émissaire Steve Witkoff a détecté des signaux positifs pour un accord. Cela suit sa menace précédente de déchaîner l'enfer sans paix et laisse du temps aux discussions. À Paris, pour le second jour du G7, le secrétaire d'État américain Marco Rubio pousse les homologues à rouvrir le détroit d'Ormuz, bloqué par le conflit. L'Iran menace de bloquer aussi le détroit de Bab el-Mandeb en cas d'invasion terrestre américaine. La Chine, premier importateur mondial de pétrole, met en œuvre des mesures pour atténuer l'impact du blocage d'Ormuz sur son économie. La France déploie le porte-avions Charles-de-Gaulle en Méditerranée orientale pour protéger ses intérêts.\n\nLe Canada a atteint la cible OTAN de 2 % du PIB en dépenses militaires. Le premier ministre Mark Carney annonce 3 milliards de dollars supplémentaires pour les infrastructures atlantiques. La dette publique française atteint 3460,5 milliards d'euros fin 2025, malgré une légère baisse du déficit. En France, les prix de l'essence et du diesel augmentent en lien avec la guerre au Moyen-Orient. Le ministre Lecornu refuse les baisses de taxes ou aides fiscales généralisées, malgré les oppositions des ménages et professions concernées.",
+  "headlines": [
+    {
+      "title": "Israël et Gardiens iraniens échangent frappes missiles drones Téhéran Beyrouth Israël Golfe",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "France 24",
+        "RFI",
+        "France Info"
+      ],
+      "summary": "Au 28e jour de la guerre, Gardiens de la Révolution iraniens tirent missiles et drones sur cibles militaires et énergétiques israéliennes et du Golfe ; armée israélienne frappe Téhéran et sud Beyrouth. Cela prolonge le conflit malgré G7 à Paris, impactant sécurité régionale et énergie mondiale.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-au-28e-jour-nouveaux-echanges-de-frappes-entre-israel-et-liran-20260327_FCZZYWZSL5EBXP47DKPVECZ5CQ/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Gardiens de la Révolution iraniens lancent missiles et drones sur Israël et Golfe ; Israël vise Téhéran et banlieue sud Beyrouth sans avertissement préalable",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Ouvre sur 28e jour guerre avec échanges frappes malgré annonces pourparlers Trump et G7 Paris",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-au-28e-jour-nouveaux-echanges-de-frappes-entre-israel-et-liran-20260327_FCZZYWZSL5EBXP47DKPVECZ5CQ/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Détaille cibles missiles drones Gardiens sur Israël Golfe et frappes israéliennes Téhéran avec arrivée Rubio G7",
+          "link": "https://www.france24.com/fr/moyen-orient/20260327-en-direct-moyen-orient-iran-israel-golfe-etats-unis-donald-trump-negociations"
+        },
+        {
+          "source": "RFI",
+          "angle": "Signale explosions sud Beyrouth sans évacuation et frappes israéliennes Téhéran au 28e jour conflit",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260327-en-direct-guerre-au-moyen-orient-nouvelles-frappes-isra%C3%A9liennes-sur-la-banlieue-sud-de-beyrouth-et-t%C3%A9h%C3%A9ran"
+        },
+        {
+          "source": "France Info",
+          "angle": "Met en avant ciblage sites pétroliers gaziers Golfe par Iran et ripostes Israël États-Unis",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/carte-les-infrastructures-energetiques-cibles-de-choix-dans-la-guerre-au-moyen-orient_7893569.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump reporte ultimatum à l'Iran dans négociations paix",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "RTBF",
+        "Radio-Canada"
+      ],
+      "summary": "Donald Trump repousse ultimatum à l'Iran ; émissaire Steve Witkoff détecte signaux forts pour accord. Cela laisse temps aux discussions malgré tensions, influençant dynamique guerre et marchés énergétiques.",
+      "link": "https://www.lefigaro.fr/international/en-direct-live-guerre-moyen-orient-iran-israel-etats-unis-teheran-liban-emirats-arabes-unis-qatar-arabie-saoudite-koweit-oman-20260327",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump reporte ultimatum et émissaire signale progrès potentiels vers accord de paix",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Annonce report ultimatum Trump avec Ormuz au menu G7 et arrivée Rubio Paris",
+          "link": "https://www.lefigaro.fr/international/en-direct-live-guerre-moyen-orient-iran-israel-etats-unis-teheran-liban-emirats-arabes-unis-qatar-arabie-saoudite-koweit-oman-20260327"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Rappelle report ultimatum Trump Iran et détroit Ormuz discuté G7",
+          "link": "https://www.rtbf.be/article/trump-reporte-son-ultimatum-a-l-iran-le-detroit-d-ormuz-au-menu-du-g7-11701046"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Précise nouveau report ultimatum Trump avec signaux forts émissaire Witkoff",
+          "link": "https://ici.radio-canada.ca/nouvelle/2241955/trump-negociations-iran-otan"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Marco Rubio pousse homologues G7 réouvrir détroit d'Ormuz à Paris",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Figaro",
+        "RTBF",
+        "Le Figaro"
+      ],
+      "summary": "Secrétaire d'État américain Marco Rubio arrive Paris second jour G7 pour obtenir aide réouverture Ormuz bloqué. Cela vise restaurer flux pétrolier vital, crucial pour économie mondiale affectée par guerre.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260327-en-direct-moyen-orient-iran-israel-golfe-etats-unis-donald-trump-negociations",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Mentionne arrivée Rubio France pour G7 et pousser réouverture Ormuz",
+          "link": "https://www.france24.com/fr/moyen-orient/20260327-en-direct-moyen-orient-iran-israel-golfe-etats-unis-donald-trump-negociations"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Détaille présence Rubio Paris G7 sur Ormuz dans direct guerre",
+          "link": "https://www.lefigaro.fr/international/en-direct-live-guerre-moyen-orient-iran-israel-etats-unis-teheran-liban-emirats-arabes-unis-qatar-arabie-saoudite-koweit-oman-20260327"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Signale arrivée Rubio France pour G7 sur Ormuz et ultimatum Trump",
+          "link": "https://www.rtbf.be/article/trump-reporte-son-ultimatum-a-l-iran-le-detroit-d-ormuz-au-menu-du-g7-11701046"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Analyse rôle Rubio G7 Paris réaffirmant alliance transatlantique conditionnelle",
+          "link": "https://www.lefigaro.fr/international/nous-voulons-des-allies-fiers-de-leur-culture-marco-rubio-emissaire-de-l-amerique-qui-aime-encore-l-europe-a-condition-qu-elle-change-20260327"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "OTAN confirme Canada atteint 2 pour cent PIB en dépenses militaires",
+      "source": "Radio-Canada",
+      "summary": "Canada atteint cible OTAN de 2 % PIB dépenses militaires ; Mark Carney annonce 3 milliards dollars supplémentaires pour infrastructures atlantique. Cela renforce engagement allié face tensions géopolitiques.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2241847/depenses-militaires-otan-hausse-canada-cible",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Dette publique France atteint 3460,5 milliards euros fin 2025",
+      "source": "Le Figaro",
+      "summary": "Dette France s'alourdit à 3460,5 milliards euros malgré légère baisse déficit fin 2025. Absence marges budgétaires limite réponses crises futures, préoccupant finances publiques.",
+      "link": "https://www.lefigaro.fr/conjoncture/malgre-une-petite-baisse-du-deficit-la-dette-atteint-3460-milliards-d-euros-20260327",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iran menace bloquer détroit Bab el-Mandeb cas invasion terrestre américaine",
+      "source": "20 Minutes",
+      "summary": "Téhéran envisage saisie Bab el-Mandeb après Ormuz, passage stratégique pétrole. Blocage perturberait commerce mondial, aggravant choc énergétique actuel.",
+      "link": "https://www.20minutes.fr/monde/4215305-20260326-guerre-moyen-orient-dit-tout-detroit-bab-el-mandeb-autre-passage-maritime-menace?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Chine adapte mesures choc énergétique blocage détroit d'Ormuz",
+      "source": "RFI",
+      "summary": "Premier importateur pétrole mondial, Chine subit impact blocage Ormuz ; met en œuvre stratégies sécurité énergétique. Cela teste résilience économie face perturbations commerce.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260327-blocage-du-d%C3%A9troit-d-ormuz-comment-la-chine-fait-elle-face-au-choc-%C3%A9nerg%C3%A9tique",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "France déploie porte-avions Charles-de-Gaulle Méditerranée orientale",
+      "source": "France Info",
+      "summary": "Charles-de-Gaulle protège intérêts français région guerre Moyen-Orient. Équipages assurent missions malgré tensions, renforçant présence militaire européenne.",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/immersion-a-bord-du-charles-de-gaulle-le-porte-avions-francais-actuellement-deploye-en-mediterranee-orientale_7896377.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Prix essence diesel augmentent France gouvernement refuse aides fiscales",
+      "source": "France Info",
+      "summary": "Hausse carburants liée guerre Moyen-Orient ; ministre Lecornu rejette baisses taxes ou aides généralisées malgré oppositions. Cela pèse ménages et professions impactés.",
+      "link": "https://www.franceinfo.fr/economie/automobile/essence/sebastien-lecornu-marche-sur-des-ufs-pourquoi-les-prix-des-carburants-sont-un-dossier-hautement-inflammable-pour-le-gouvernement_7896107.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 212,
+    "articlesAfterDedup": 212,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "economy": 3
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "americas": 1,
+      "europe": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

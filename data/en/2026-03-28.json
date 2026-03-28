@@ -1,0 +1,228 @@
+{
+  "date": "2026-03-28",
+  "summary": "Iranian forces attacked Prince Sultan Air Base in Saudi Arabia, injuring 12 U.S. troops, including two seriously, and damaging aircraft. This follows Iran's Revolutionary Guards missile and drone strikes on Israel and Gulf sites yesterday. U.S. personnel now face heightened risks as the Middle East conflict enters its second month. Officials plan further defensive measures. Separately in the region, Tehran-backed Houthi rebels in Yemen fired their first missile at Israel, triggering alerts in the Negev. The IDF reports striking regime targets in Tehran.\n\nRwanda-backed rebels defeated Congolese troops and entered Goma, displacing over one million residents amid gunfire and shelling. This follows yesterday's rebel advances. U.N. aid operations face strain from the influx; escalation risks involve neighboring countries. In Indonesia, authorities began enforcing a ban on social media platforms including YouTube, TikTok, and Instagram for children under 16 to address pornography, cyberbullying, scams, and addiction. Enforcement uses age verification and affects millions of youth.\n\nIsrael permitted Palestinians to return to northern Gaza. NATO initiated its first coordinated response to sabotage of Baltic Sea cables. The FBI and NYPD arrested New Jersey man Alexander Heifler for plotting to firebomb pro-Palestinian activist Nerdeen Kiswani's Brooklyn home; the investigation examines links to a JDL-affiliated group. Bank of America agreed to a $72.5 million settlement with Jeffrey Epstein accusers, approved by U.S. District Judge Jed Rakoff. SpaceX launched NASA's Crew-10 mission from Kennedy Space Center with U.S., Japanese, and Russian astronauts to the ISS, enabling the return of Butch Wilmore and Suni Williams after nine months. The U.N. passed a resolution declaring the transatlantic slave trade the gravest crime against humanity, opposed by Western nations. The Justice Department plans to obtain state voter data for sharing with Homeland Security's citizenship verification tool.\"}",
+  "headlines": [
+    {
+      "title": "Iranian Strike Injures 12 U.S. Troops at Saudi Prince Sultan Air Base",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "Deutsche Welle"
+      ],
+      "summary": "Iranian forces attacked Prince Sultan Air Base in Saudi Arabia, injuring 12 U.S. troops including two seriously and damaging aircraft. U.S. personnel face heightened risks amid escalating Middle East war entering second month. Officials assess further defensive measures.",
+      "link": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Details two seriously wounded Americans and breach since war began February 28",
+          "link": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Notes several troops injured two seriously plus US aircraft damage",
+          "link": "https://www.dw.com/en/iran-war-us-troops-wounded-in-strike-on-saudi-base/live-76573681?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Houthi Rebels Launch First Missile at Israel from Yemen",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "The Hindu"
+      ],
+      "summary": "Tehran-backed Houthi rebels fired their first missile at Israel from Yemen, triggering alerts across Negev region. Israeli civilians and military face new threats as regional conflict widens. IDF reports striking regime targets in Tehran.",
+      "link": "https://www.france24.com/en/middle-east/20260328-war-in-the-middle-east-live-conflict-enters-second-month-us-expects-to-end-it-within-two-weeks",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Covers war entering second month with US expecting end in two weeks",
+          "link": "https://www.france24.com/en/middle-east/20260328-war-in-the-middle-east-live-conflict-enters-second-month-us-expects-to-end-it-within-two-weeks"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Reports one killed in Tel Aviv amid Iranian missile attack and IDF strikes",
+          "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-strait-of-hormuz-attacks-march-28-2026/article70795241.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Congo's Goma",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-backed rebels defeated Congolese troops and entered Goma, displacing over one million residents amid gunfire and shelling. U.N. aid operations strain under influx; regional stability threatens escalation with neighbors.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "FBI and NYPD Arrest Man Plotting to Firebomb Palestinian Activist's Home",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "NPR"
+      ],
+      "summary": "New Jersey man Alexander Heifler arrested after undercover operation to firebomb Nerdeen Kiswani's Brooklyn home. Pro-Palestinian activists face domestic threats amid global tensions. Investigation continues on JDL-linked group.",
+      "link": "https://apnews.com/article/fbi-nypd-nerdeen-kiswani-e8fa38819b4f65f830b26b640d44cd72",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Describes weekslong undercover operation and activist's protest background",
+          "link": "https://apnews.com/article/fbi-nypd-nerdeen-kiswani-e8fa38819b4f65f830b26b640d44cd72"
+        },
+        {
+          "source": "NPR",
+          "angle": "Identifies suspect as JDL 613 Brotherhood member fighting antisemitism",
+          "link": "https://www.npr.org/2026/03/27/g-s1-115549/new-york-gaza-firebomb-home-plot-activist"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Indonesia Implements Social Media Ban for Children Under 16 Years Old",
+      "source": "South China Morning Post",
+      "summary": "Indonesia enforces regulation barring under-16s from platforms like YouTube TikTok Instagram to curb pornography cyberbullying scams addiction. Southeast Asia's first such ban affects millions of youth; enforcement via age verification follows.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3348232/indonesia-begins-social-media-ban-children-under-16?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Bank of America Pays $72.5 Million to Settle Epstein Accusers Lawsuit",
+      "source": "The Hindu",
+      "summary": "Bank of America agrees to $72.5 million settlement with Jeffrey Epstein accusers approved by U.S. District Judge Jed Rakoff. Victims gain compensation; bank's role in handling Epstein accounts draws scrutiny on financial accountability.",
+      "link": "https://www.thehindu.com/business/Industry/bank-of-america-agrees-to-pay-725-million-to-settle-epstein-accusers-lawsuit/article70795540.ece",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA SpaceX Launches Crew-10 to Retrieve Astronauts Stuck on ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA Japan Russia astronauts from Kennedy Space Center to ISS docking Saturday. Enables return of Butch Wilmore Suni Williams after nine months; routine rotations resume amid delays.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "UN Declares Slave Trade Gravest Crime Against Humanity in Landmark Vote",
+      "source": "The Guardian",
+      "summary": "UN resolution labels transatlantic slave trade gravest crime despite Western opposition energizing African Union reparations push. Ghana's president rallied support; global reckoning on historical injustices advances accountability efforts.",
+      "link": "https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Justice Department Plans to Share Voter Data with Homeland Security",
+      "source": "NPR",
+      "summary": "DOJ seeks state voter data for sharing with DHS citizenship check tool amid controversies. U.S. voters face privacy election integrity debates; move heightens partisan tensions over fraud allegations.",
+      "link": "https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Palestinians to Stream Back into Northern Gaza",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Deadlock over hostage releases broken enabling crossings on foot through military zone",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Another deep-sea cable severed prompting alliance's coordinated infrastructure defense",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 448,
+    "articlesAfterDedup": 446,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 6,
+      "politics": 2,
+      "economy": 1,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "africa": 1,
+      "americas": 3,
+      "asia-pacific": 1,
+      "global": 2,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 2
+    }
+  }
+}

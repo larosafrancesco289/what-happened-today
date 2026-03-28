@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-28",
+  "summary": "Il segretario di Stato Usa Marco Rubio ha annunciato al G7 in Francia che l'operazione militare in Iran procede in anticipo sui piani e finirà in 2-4 settimane. I ministri dei paesi partecipanti hanno chiesto la cessazione immediata delle ostilità. Questa dichiarazione ha influenzato i mercati energetici e la strategia alleata contro Teheran. Si attendono ulteriori aggiornamenti dal summit.\n\nIl Pentagono valuta l'invio di 10.000 soldati Usa aggiuntivi nello Stretto di Hormuz, rinominato da Donald Trump 'Stretto di Trump'. Trump ha minacciato tagli alla Nato e intervento a Cuba. L'Iran ha imposto pedaggi in yuan alle navi che transitano nello Stretto, richiedendo codici segreti per rotte scortate dai pasdaran; le imbarcazioni rischiano sanzioni Usa. Lo Stretto gestisce il 20% del petrolio mondiale. Separatamente, immagini satellitari mostrano fumo persistente da petroliere nel porto russo Ust-Luga dopo un attacco ucraino il 27 marzo, con danni confermati nel vicino infrarosso.\n\nMoody’s pubblicherà venerdì il rating sul debito sovrano italiano, dopo la conferma di S&P a BBB+ con outlook positivo e di Fitch a BBB+ stabile. Bank of America ha accettato un settlement da 72,5 milioni di dollari per una class action su accuse di aver facilitato il traffico sessuale di Jeffrey Epstein, contestando la responsabilità. Il conflitto in Iran ha aumentato i prezzi dei fertilizzanti, colpendo aziende agricole europee; metodi rigenerativi offrono protezione. Giovanni Toti ha incontrato l'imprenditore Spinelli su yacht prima delle elezioni liguri, con intercettazioni sul sindaco Bucci relative a porto e ponte Morandi. L'Algeria aumenterà la fornitura di gas all'Italia a 20 miliardi di metri cubi nel 2025, con crescita del 67% in sei anni tramite Eni e il gasdotto Transmed. Tiger Woods ha rifiutato il test delle urine dopo un incidente stradale in Florida, con arresto per sospetta guida alterata e trasferimento in carcere.",
+  "headlines": [
+    {
+      "title": "Marco Rubio prevede conclusione guerra Iran in poche settimane al G7",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Il segretario di Stato Usa Marco Rubio annuncia al G7 in Francia che l'operazione militare in Iran procede in anticipo e finirà in 2-4 settimane. I ministri chiedono cessazione immediata ostilità. La dichiarazione influenza mercati energetici e strategia alleata contro Teheran.",
+      "link": "https://www.agi.it/estero/news/2026-03-28/iran-g7-rubio-36328204/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Apre con dichiarazione Rubio su durata breve guerra Iran post-riunione G7 Francia",
+          "link": "https://www.agi.it/estero/news/2026-03-28/iran-g7-rubio-36328204/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta Rubio su guerra Iran 2-4 settimane e pedaggio Hormuz illegale",
+          "link": "https://www.tgcom24.mediaset.it/mondo/iran-rubio-g7-guerra-settimane_110446891-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump valuta invio 10mila soldati Usa nello Stretto di Hormuz",
+      "source": "la Repubblica",
+      "summary": "Il Pentagono considera dispiegamento ulteriori 10mila militari nel Golfo persico mentre Trump ribattezza Hormuz 'Stretto di Trump'. Il presidente minaccia tagli Nato e intervento Cuba. La mossa rafforza deterrenza contro Iran e impatta sicurezza energetica globale.",
+      "link": "https://www.repubblica.it/esteri/2026/03/28/news/stretto_di_trump_guerra_iran_hormuz_soldati_usa_nel_golfo-425249279/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Moody’s pubblica venerdì nuovo rating sul debito sovrano italiano",
+      "source": "Il Sole 24 Ore",
+      "summary": "L'agenzia Moody’s diffonde domani rating Italia dopo conferme S&P a BBB+ con outlook positivo e Fitch stabile BBB+. Le decisioni riflettono conti pubblici e riforme. Il verdetto influenza costo finanziamento debito pubblico italiano e fiducia investitori.",
+      "link": "https://www.ilsole24ore.com/art/venerdi-nuovo-rating-moody-s-sull-italia-ecco-ultime-decisioni-agenzie-AISBjaBC",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Altre agenzie S&P e Fitch confermano rating BBB+ con outlook migliorato rispetto a ieri",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Bank of America paga 72,5 milioni dollari per chiudere class action Epstein",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "La banca accetta settlement da 72,5 milioni per accuse di aver facilitato traffico sessuale Jeffrey Epstein. L'istituto contesta responsabilità ma risolve lite. La vertenza evidenzia rischi compliance per banche in scandali sessuali.",
+      "link": "https://www.repubblica.it/esteri/2026/03/28/news/epstein_bank_of_america-425249294/?rss",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta accordo oltre 70 milioni per class action su traffico sessuale Epstein",
+          "link": "https://www.repubblica.it/esteri/2026/03/28/news/epstein_bank_of_america-425249294/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Dettaglia pagamento 72,5 milioni banca contesta ma risolve class action",
+          "link": "https://www.tgcom24.mediaset.it/mondo/caso-epstein-bank-of-america-class-action-accordo_110450336-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Immagini satellitari rilevano fumo da porto russo Ust-Luga dopo attacco ucraino",
+      "source": "Rai News",
+      "summary": "Satelliti mostrano incendi petroliere e fumo persistente nel porto Ust-Luga Russia il 27 marzo post-colpo ucraino. Le immagini nel vicino infrarosso confermano danni. L'attacco colpisce logistica energetica russa e escalation conflitto.",
+      "link": "https://www.rainews.it/video/2026/03/immagini-satellitari-mostrano-fumo-che-si-alza-dal-porto-russo-di-ust-luga-dopo-lattacco-ucraino-gli-scatti-dallalto-5886d6c2-9f8c-400f-8669-68cd1f3df18b.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tiger Woods rifiuta test urine dopo incidente stradale in Florida",
+      "source": "la Repubblica",
+      "summary": "Il golfista subisce arresto per sospetta guida alterata dopo schianto auto senza ferite. Lo sceriffo conferma rifiuto esame urine e trasferimento carcere. L'episodio riaccende dibattiti su responsabilità atleti professionisti.",
+      "link": "https://www.repubblica.it/esteri/2026/03/28/news/tiger_woods_arrestato_incidente_stradale_esame_urine-425249270/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran impone pedaggi in yuan alle navi nello Stretto di Hormuz",
+      "source": "la Repubblica",
+      "summary": "I pasdaran autorizzano passaggio navi con codici segreti rotte scortate e pagamenti yuan. Le poche imbarcazioni rischiano sanzioni Usa. Il meccanismo controlla traffico marittimo vitale per 20% petrolio mondiale.",
+      "link": "https://www.repubblica.it/esteri/2026/03/28/news/hormuz_iran_come_funziona_pedaggio_navi-425248964/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Guerra Iran alza prezzi fertilizzanti e colpisce aziende agricole europee",
+      "source": "Euronews Italiano",
+      "summary": "Il conflitto fa impennare costi fertilizzanti schiacciando agricoltori Ue ma metodi rigenerativi li proteggono. Le imprese adottano pratiche sostenibili per resistere. La crisi minaccia sicurezza alimentare e inflazione prezzi cibo.",
+      "link": "http://it.euronews.com/2026/03/28/guerra-in-iran-mette-in-crisi-le-aziende-agricole-europee-i-rigenerativi-lavevano-previsto",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Giovanni Toti incontra Spinelli su yacht prima elezioni liguri",
+      "source": "Corriere della Sera",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "summary": "Il governatore ligure chiede 'robe' a imprenditore Spinelli durante incontri yacht ripresi. Emergono intercettazioni sindaco Bucci su porto e ponte Morandi. L'inchiesta indaga rapporti politici-affari in Liguria.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pubblicate immagini incontri yacht e intercettazioni Bucci su rissa porto e fondi Morandi",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Algeria aumenta fornitura gas Italia a 20 miliardi metri cubi nel 2025",
+      "source": "Il Sole 24 Ore",
+      "summary": "L'import da Algeria primo fornitore cresce 67% in sei anni grazie ruolo Eni. Il gas via Transmed rafforza diversificazione energetica italiana post-crisi Russia. Eni consolida partnership strategica nel Mediterraneo.",
+      "link": "https://www.ilsole24ore.com/art/gas-transmed-arrivati-20-miliardi-metri-cubi-2025-ecco-quanto-pesa-l-algeria-flussi-italiani-AIPiuy9B",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Dettagli su crescita 67% import e ruolo pilastro diversificazione Eni",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 256,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 19,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 2,
+      "economy": 5,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 4,
+      "americas": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "developing": 3,
+      "also": 5
+    }
+  }
+}

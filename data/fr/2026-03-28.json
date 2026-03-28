@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-28",
+  "summary": "L'Iran a annoncé la fermeture du détroit d'Ormuz aux navires allant ou venant de ports liés à l'ennemi. Cela perturbe 20 % du trafic mondial de pétrole. Près d'un mois de blocages ont paralysé le trafic, avec des navires bloqués et des marins tués. Cela fait suite aux échanges de frappes entre Israël et les Gardiens de la révolution iraniens rapportés hier. Une réouverture est attendue après négociations, selon les positions des acteurs concernés.\n\nL'armée israélienne a détecté un missile lancé depuis le Yémen vers son territoire, premier incident depuis le début du conflit il y a un mois. Les rebelles Houthis, soutenus par l'Iran, rejoignent les hostilités, élargissant le front au Golfe. Marco Rubio, secrétaire d'État américain, a déclaré à Paris que Washington atteindra ses objectifs en Iran dans deux semaines sans troupes au sol. Une réunion du G7 a discuté de la situation, après que Rubio ait hier poussé ses homologues à rouvrir le détroit d'Ormuz.\n\nUn groupe de hackers lié à Téhéran a piraté la messagerie de Kash Patel, directeur du FBI, et diffusé ses informations personnelles. La bourse de New York a chuté vendredi en raison de la crise à Ormuz et de l'absence de résolution de la guerre avec l'Iran par Donald Trump. En France, des organisations de routiers lancent des actions dès le 28 mars contre la hausse des prix du gazole, malgré les aides gouvernementales jugées insuffisantes, menaçant les approvisionnements. Des frappes russes ont tué trois personnes à Odessa, dont un enfant dans une maternité et un quartier résidentiel ; une frappe ukrainienne a tué un enfant en Russie. La France déploie quatre Rafale en Lituanie pour quatre mois afin de protéger l'espace aérien balte, renforçant la présence OTAN.",
+  "headlines": [
+    {
+      "title": "Armée israélienne détecte missile lancé depuis Yémen vers territoire israélien",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "RFI",
+        "France 24"
+      ],
+      "summary": "L'armée israélienne annonce avoir détecté un missile tiré du Yémen, première depuis début conflit il y a un mois. Les rebelles Houthis, soutenus par l'Iran, rejoignent les hostilités. Cela élargit le front, menaçant la stabilité régionale et les routes maritimes.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/28/en-direct-guerre-en-iran-israel-dit-avoir-detecte-un-tir-de-missile-depuis-le-yemen-vers-son-territoire-une-premiere-en-un-mois-de-guerre_6674837_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détecte missile yéménite et rapporte 12 soldats US blessés base saoudienne",
+          "link": "https://www.lemonde.fr/international/live/2026/03/28/en-direct-guerre-en-iran-israel-dit-avoir-detecte-un-tir-de-missile-depuis-le-yemen-vers-son-territoire-une-premiere-en-un-mois-de-guerre_6674837_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Annonce première visée missile yéménite depuis début conflit",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-israel-iran-etats-unis-missiles-frappes-yemen-houthis-deux-semaines-rubio-trump-netanyahou-20260328"
+        },
+        {
+          "source": "RFI",
+          "angle": "Détecte tir missile Yémen dans contexte guerre deux mois",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260328-en-direct-guerre-au-moyen-orient-isra%C3%ABl-dit-avoir-d%C3%A9tect%C3%A9-un-tir-de-missile-du-y%C3%A9men-une-premi%C3%A8re"
+        },
+        {
+          "source": "France 24",
+          "angle": "Indique détection missile Yémen soirée dans guerre deuxième mois",
+          "link": "https://www.france24.com/fr/moyen-orient/20260328-moyen-orient-en-direct-guerre-2e-deuxieme-mois-trump-israel-iran-yemen-ormuz-liban-hezbollah"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Marco Rubio annonce fin opérations américaines Iran deux semaines",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Libération",
+        "France 24"
+      ],
+      "summary": "Secrétaire d'État américain Marco Rubio déclare à Paris que Washington atteint objectifs en Iran en deux semaines sans troupes au sol. Réunion G7 discute situation. Cela vise à rassurer alliés sur issue rapide conflit.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260328-en-direct-guerre-au-moyen-orient-isra%C3%ABl-dit-avoir-d%C3%A9tect%C3%A9-un-tir-de-missile-du-y%C3%A9men-une-premi%C3%A8re",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Estime opérations Iran terminées deux semaines sans troupes sol",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260328-en-direct-guerre-au-moyen-orient-isra%C3%ABl-dit-avoir-d%C3%A9tect%C3%A9-un-tir-de-missile-du-y%C3%A9men-une-premi%C3%A8re"
+        },
+        {
+          "source": "Libération",
+          "angle": "Prévoit fin opérations Iran deux prochaines semaines G7 Paris",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-au-28e-jour-nouveaux-echanges-de-frappes-entre-israel-et-liran-20260327_FCZZYWZSL5EBXP47DKPVECZ5CQ/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Assure objectifs Iran atteints deux semaines réunion G7",
+          "link": "https://www.france24.com/fr/moyen-orient/20260327-%C3%A9tats-unis-se-donnent-deux-semaines-pour-atteindre-objectifs-en-iran-assure-rubio"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Iran déclare détroit Ormuz fermé navires liés à l'ennemi",
+      "source": "RTBF",
+      "sources": [
+        "RTBF"
+      ],
+      "summary": "Iran annonce fermeture détroit Ormuz aux navires allant ou venant de ports liés à l'ennemi. Cela perturbe 20% trafic mondial pétrole, impactant économies mondiales dépendantes importations énergie.",
+      "link": "https://www.rtbf.be/article/trump-reporte-son-ultimatum-a-l-iran-le-detroit-d-ormuz-au-menu-du-g7-11701046",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Hackers proches Iran piratent messagerie directeur FBI Kash Patel",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Groupe hackers lié à Téhéran diffuse informations personnelles de Kash Patel, directeur FBI. Cela révèle vulnérabilités cyber US face à Iran pendant conflit, risquant escalade opérations numériques.",
+      "link": "https://www.20minutes.fr/monde/4215498-20260327-guerre-iran-hackers-presumes-proches-teheran-piratent-messagerie-patron-fbi?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Bourse New York chute faute confiance investisseurs envers Donald Trump",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Bourse de New York baisse vendredi à cause crise énergétique Ormuz et absence issue guerre Iran par Trump. Cela reflète inquiétudes marchés sur stabilité économique mondiale prolongée conflit.",
+      "link": "https://www.lemonde.fr/economie/article/2026/03/28/donald-trump-perd-la-confiance-de-wall-street-sur-fond-de-guerre-en-iran_6674727_3234.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Routiers français mobilisent contre hausse prix gazole malgré aides gouvernement",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Organisations routiers lancent actions dès 28 mars contre choc énergétique. Mesures gouvernementales jugées insuffisantes. Cela menace approvisionnements et chaîne logistique France.",
+      "link": "https://www.lemonde.fr/economie/article/2026/03/28/hausse-du-prix-du-gazole-mobilisation-des-routiers-a-partir-de-samedi-malgre-les-annonces-du-gouvernement_6674842_3234.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Frappes russes tuent trois personnes Odessa Ukraine dont enfant",
+      "source": "France Info",
+      "sources": [
+        "France Info"
+      ],
+      "summary": "Frappes russes touchent maternité et quartier résidentiel Odessa, tuant trois personnes. Frappe ukrainienne tue un enfant en Russie. Cela prolonge cycle violences bilatérales.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-trois-morts-en-ukraine-un-enfant-tue-par-une-frappe-ukrainienne-en-russie_7900109.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "France déploie quatre Rafale Lituanie pour mission espace aérien baltes",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Ministère Armées envoie quatre Rafale en Lituanie quatre mois protéger espace aérien pays baltes. Cela renforce présence OTAN face tensions Russie.",
+      "link": "https://www.20minutes.fr/monde/4215490-20260327-pourquoi-rafale-francais-vont-sillonner-ciel-pays-baltes?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Blocage détroit Ormuz paralyse trafic avec navires bloqués marins tués",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Près un mois blocages, trafic paralysé, navires bloqués, marins tués. 20% pétrole mondial concerné. Cela aggrave crise énergétique mondiale.",
+      "link": "https://www.20minutes.fr/monde/4215482-20260327-guerre-iran-trafic-paralyse-navires-bloques-marins-tues-point-chiffres-detroit-ormuz?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Publication chiffres détaillés trafic paralysé un mois après début",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 210,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 1,
+      "science": 1,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 2,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

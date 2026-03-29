@@ -1,0 +1,204 @@
+{
+  "date": "2026-03-29",
+  "summary": "North Korea tested a high-thrust solid-fuel engine producing 2,500 kilonewtons, overseen by Kim Jong-un. The engine can power ICBMs capable of striking global targets including the U.S. mainland. This follows prior tests with lower thrust output. Kim Jong-un described it as enhancing North Korea's strategic power. Analysts assess potential for multiple warheads on such missiles.\n\nIn the Middle East, updated reports state an Iranian strike injured two dozen U.S. troops at Saudi Prince Sultan Air Base. U.S. Marines deployed to the region as Houthis fired a missile at Israel from Yemen. Iranian Revolutionary Guards targeted aluminum facilities in Bahrain and the UAE, wounding two employees at Aluminium Bahrain, a major global producer. Affected workers received treatment, with disruptions to regional energy and industry. An Israeli military strike in southern Lebanon killed three journalists, including one from Hezbollah-linked Al Manar TV whom Israel accuses of operative ties. Lebanon condemned the attack.\n\nDrone strikes killed 22 civilians including an infant at a North Darfur market and six at a North Kordofan truck in Sudan, injuring 17 others total as the civil war approaches its fourth year. The Sudanese army and Rapid Support Forces face blame. NATO initiated coordinated action after suspected sabotage severed another Baltic Sea cable, targeting critical infrastructure. Ukraine secured air defense supply deals with Qatar and Saudi Arabia during a Middle East visit. A U.S. Senate agreement to fund the Department of Homeland Security collapsed, risking a partial government shutdown affecting border security and disaster response. NASA introduced the Artemis 2 crew—commander Reid Wiseman, pilot Victor Glover, specialists Christina Koch and Jeremy Hansen—for a 2026 lunar orbit mission, the first in 52 years, with Australia providing communications support.\"}",
+  "headlines": [
+    {
+      "title": "Kim Jong-un Oversees Test of 2,500-Kilonewton Engine for North Korea ICBMs",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "France 24",
+        "Deutsche Welle"
+      ],
+      "summary": "North Korea tested a high-thrust solid-fuel engine producing 2,500 kilonewtons, up from prior tests, capable of powering ICBMs to strike global targets including the U.S. mainland. Kim Jong-un hailed it as boosting strategic power. Analysts see potential for multiple warheads, heightening global tensions amid Iran war.",
+      "link": "https://www.scmp.com/week-asia/politics/article/3348280/north-tests-powerful-missile-engine-will-icbm-launch-follow?utm_source=rss_feed",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "South China Morning Post",
+          "angle": "Emphasized thrust increase to 2,500 kilonewtons and potential ICBM launch",
+          "link": "https://www.scmp.com/week-asia/politics/article/3348280/north-tests-powerful-missile-engine-will-icbm-launch-follow?utm_source=rss_feed"
+        },
+        {
+          "source": "France 24",
+          "angle": "Highlighted engine for missiles striking U.S. mainland with multiple warheads",
+          "link": "https://www.france24.com/en/asia-pacific/20260329-north-korea-tests-high-thrust-engine-for-missile-capable-of-striking-us-mainland"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Linked test to Kim's accusations of U.S. terrorism amid Iran conflict",
+          "link": "https://www.dw.com/en/north-korea-tests-high-thrust-engine-in-long-range-missile-push/a-76581352?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Strike Kills Three Journalists in Southern Lebanon",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "BBC"
+      ],
+      "summary": "Israeli military strike in southern Lebanon kills three journalists, including one from Hezbollah-linked Al Manar TV whom Israel accuses of operative ties. Lebanon condemns the attack. Incident escalates media safety concerns and regional conflict risks.",
+      "link": "https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israqi-strike.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Focused on Israeli accusation of Hezbollah ties and Lebanese president's condemnation",
+          "link": "https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israqi-strike.html"
+        },
+        {
+          "source": "BBC",
+          "angle": "Confirmed Israeli military admission of killing Hezbollah-affiliated reporter",
+          "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Iranian Guards Strike Aluminum Plants in Bahrain and UAE",
+      "source": "The Hindu",
+      "summary": "Iranian Revolutionary Guards target aluminum facilities in Bahrain and UAE, wounding two employees at Aluminium Bahrain, a top global producer. Strikes heighten Gulf tensions amid Iran war. Affected workers receive treatment; regional energy and industry face disruptions.",
+      "link": "https://www.thehindu.com/news/international/iran-guards-say-struck-bahrain-uae-aluminium-plants/article70798793.ece",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Marines Arrive in Middle East as Houthis Enter Regional War",
+      "source": "New York Times",
+      "summary": "U.S. Marines deploy to Middle East amid Houthi missile attacks on Israel and updated reports of Iranian strike injuring two dozen U.S. troops in Saudi Arabia. Deployment bolsters defenses. Escalation threatens broader conflict and global shipping lanes.",
+      "link": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
+      "tier": "also",
+      "sources": [
+        "New York Times"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Drone Strikes Kill 28 Civilians in Sudan North Darfur and Kordofan",
+      "source": "The Guardian",
+      "summary": "Two drone strikes hit North Darfur market killing 22 including infant and North Kordofan truck killing 6, injuring 17 total as civil war nears fourth year. Army and RSF blamed. Civilian deaths underscore humanitarian crisis affecting millions.",
+      "link": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NASA Presents Artemis 2 Crew for First Moon Orbit Mission in 52 Years",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "ABC Australia"
+      ],
+      "summary": "NASA introduces diverse Artemis 2 crew including commander Reid Wiseman, pilot Victor Glover, and specialists Christina Koch, Jeremy Hansen for 2026 lunar orbit. Australia provides comms support. Mission revives U.S. moon program, advances deep space exploration.",
+      "link": "https://apnews.com/article/nasa-moon-artemis-crew-3a47786c3757f7d79154d96933aa5bd9",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Profiled crew diversity contrasting Apollo era white male pilots",
+          "link": "https://apnews.com/article/nasa-moon-artemis-crew-3a47786c3757f7d79154d96933aa5bd9"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Highlighted Canberra comms role in data relay for lunar orbit",
+          "link": "https://www.abc.net.au/news/2026-03-29/australia-support-nasa-artemis-moon-mission/106508360"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Ukraine Finalizes Air Defense Deals with Qatar and Saudi Arabia",
+      "source": "New York Times",
+      "summary": "Ukraine president secures deals to supply air defenses to Gulf nations Qatar and Saudi Arabia during Middle East visit. Shifts Kyiv to arms exporter amid Mideast war. Boosts Ukraine revenue and Gulf security against regional threats.",
+      "link": "https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Senate Homeland Security Funding Deal Unravels Before U.S. Shutdown Deadline",
+      "source": "Associated Press",
+      "summary": "Senate agreement to fund Department of Homeland Security collapses Friday, splitting Republicans and risking longest U.S. partial shutdown. Affects border security and disaster response. Congress faces urgent renegotiation amid budget battles.",
+      "link": "https://apnews.com/article/congress-shutdown-johnson-thune-dhs-deal-unraveled-4ad4076c09705ca4bbebbdbcac7a0e75",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "NATO Coordinates Response After Another Baltic Sea Cable Severance",
+      "source": "Wall Street Journal",
+      "summary": "NATO launches first coordinated action following suspected sabotage severing another deep-sea cable in Baltic Sea. Targets critical infrastructure. Heightens alliance vigilance against hybrid threats from Russia amid regional tensions.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Another cable severed prompting NATO's initial coordinated infrastructure defense measures",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 13,
+    "articlesProcessed": 466,
+    "articlesAfterDedup": 466,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 6,
+      "science": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "middle-east": 3,
+      "africa": 1,
+      "global": 1,
+      "europe": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

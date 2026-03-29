@@ -1,0 +1,230 @@
+{
+  "date": "2026-03-29",
+  "summary": "Un média iranien rapporte que cinq personnes ont été tuées dimanche dans des frappes américaines et israéliennes sur un port près du détroit d’Ormuz. Ceci fait suite à la déclaration iranienne de fermeture du détroit aux navires liés à l’ennemi. Le détroit d’Ormuz transporte une part significative du pétrole mondial. Des perturbations des approvisionnements énergétiques globaux sont attendues si les frappes se poursuivent.\n\nLes Gardiens de la révolution iraniens ont menacé les employés d’universités américaines dans les pays du Golfe et conseillé aux Américains de s’éloigner. De nouvelles explosions ont eu lieu à Téhéran dimanche matin après celles de vendredi à l’université des sciences et technologies. Le Pentagone prépare des opérations terrestres en Iran, renforcées par l’arrivée du navire d’assaut Tripoli dans la zone, selon le Washington Post. Cela suit les frappes aériennes récentes et pourrait mener à un engagement américain prolongé au Moyen-Orient.\n\nLes Houthis au Yémen, alliés de l’Iran, ont lancé des missiles sur Israël samedi, première fois depuis le début du conflit. Cela fait suite à la détection par l’armée israélienne d’un missile yéménite vers son territoire. Plusieurs millions de personnes ont manifesté samedi dans 3000 villes américaines contre Donald Trump, centrées sur la guerre avec l’Iran. Trump a annoncé lors d’un forum à Miami que Cuba est la prochaine cible avec un blocus pétrolier renforcé. L’armée américaine a tiré 850 missiles Tomahawk sur l’Iran en un mois, ce qui épuise les stocks du Pentagone. Vendredi soir, un homme a été interpellé à Paris devant une Bank of America avec un engin incendiaire, selon le ministre de l’Intérieur français.",
+  "headlines": [
+    {
+      "title": "Gardiens de la révolution iraniens menacent employés universités américaines pays Golfe",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24"
+      ],
+      "summary": "De nouvelles explosions ont retenti à Téhéran dimanche matin après celles à l'université des sciences et technologies vendredi. Les Gardiens conseillent aux Américains dans le Golfe de s'éloigner, signalant une escalade du conflit régional qui menace les civils et installations éducatives liées aux États-Unis.",
+      "link": "https://www.lemonde.fr/international/live/2026/03/29/en-direct-guerre-au-moyen-orient-teheran-a-nouveau-visee-par-des-bombardements-l-iran-menace-de-frapper-les-universites-americaines-presentes-dans-les-pays-du-golfe_6674837_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur explosions entendues dimanche matin et menaces aux universités américaines Golfe",
+          "link": "https://www.lemonde.fr/international/live/2026/03/29/en-direct-guerre-au-moyen-orient-teheran-a-nouveau-visee-par-des-bombardements-l-iran-menace-de-frapper-les-universites-americaines-presentes-dans-les-pays-du-golfe_6674837_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Met en avant menaces Gardiens révolution explosions Téhéran mort soldat israélien Liban",
+          "link": "https://www.france24.com/fr/moyen-orient/20260329-guerre-au-moyen-orient-en-direct-l-iran-menace-les-universit%C3%A9s-am%C3%A9ricaines-dans-les-pays-du-golfe"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Frappes américaines israéliennes tuent cinq personnes port iranien détroit Ormuz",
+      "source": "France Info",
+      "sources": [
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Un média iranien rapporte cinq morts suite à des frappes américaines et israéliennes sur un port près d'Ormuz dimanche. Cela accentue les tensions maritimes dans le détroit vital pour le pétrole mondial, risquant de perturber davantage les approvisionnements énergétiques globaux.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-deux-puissantes-explosions-entendues-depuis-teheran-un-soldat-israelien-mort-au-sud-liban_7901909.html#xtor=RSS-3-[lestitres]",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Signale frappes américaines israéliennes port iranien sans signes désescalade attaques Golfe",
+          "link": "https://www.lefigaro.fr/international/en-direct-iran-guerre-moyen-orient-israel-etats-unis-frappes-missiles-20260329"
+        },
+        {
+          "source": "France Info",
+          "angle": "Cite agence Irna cinq morts frappes port proche Ormuz média régime iranien",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-deux-puissantes-explosions-entendues-depuis-teheran-un-soldat-israelien-mort-au-sud-liban_7901909.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagone prépare opérations terrestres Iran arrivée navire assaut Tripoli zone",
+      "source": "Le Figaro",
+      "sources": [
+        "Radio-Canada",
+        "Le Figaro"
+      ],
+      "summary": "Le Washington Post rapporte préparatifs Pentagone pour opérations au sol en Iran, renforcés par arrivée du navire Tripoli. Cela marque possible passage frappes aériennes à intervention directe, augmentant risques engagement américain prolongé au Moyen-Orient.",
+      "link": "https://www.lefigaro.fr/international/le-pentagone-se-prepare-a-des-operations-sur-le-terrain-en-iran-20260329",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Indique Iran revendique attaques sites industriels Golfe Pentagone prépare opérations terrestres",
+          "link": "https://ici.radio-canada.ca/nouvelle/2242407/iran-guerre-golfe-israel-trump"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Cite Washington Post préparatifs sol Iran arrivée navire assaut amphibie Tripoli",
+          "link": "https://www.lefigaro.fr/international/le-pentagone-se-prepare-a-des-operations-sur-le-terrain-en-iran-20260329"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Plusieurs millions manifestants défilent 3000 villes américaines contre Donald Trump",
+      "source": "Le Figaro",
+      "sources": [
+        "Radio-Canada",
+        "Le Monde",
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Samedi, millions de personnes participent à 3000 manifestations No Kings contre Trump dans tout les États-Unis, centrées sur guerre Iran. Cela reflète opposition massive à sa politique étrangère, avec épicentre Minneapolis où deux tués janvier par agents fédéraux.",
+      "link": "https://www.lefigaro.fr/international/nous-voulons-voir-donald-trump-destitue-aux-etats-unis-plus-de-3000-manifestations-no-kings-organisees-20260329",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Rapporte 3000 événements manifestations anti-Trump New York Alaska troisième vague année",
+          "link": "https://ici.radio-canada.ca/nouvelle/2242345/etats-unis-manifestations-anti-trump"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Place guerre Iran centre manifestations No Kings millions mobilisés États-Unis",
+          "link": "https://www.lemonde.fr/international/article/2026/03/29/aux-etats-unis-la-guerre-en-iran-au-centre-des-manifestations-no-kings-contre-donald-trump-l-amerique-est-du-mauvais-cote-dans-cette-histoire_6675133_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Compte plus 3000 manifestations millions défilent dénoncent abus pouvoir Trump",
+          "link": "https://www.lefigaro.fr/international/nous-voulons-voir-donald-trump-destitue-aux-etats-unis-plus-de-3000-manifestations-no-kings-organisees-20260329"
+        },
+        {
+          "source": "France Info",
+          "angle": "Évoque plusieurs millions manifestants situation anormale protestent politique Trump",
+          "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-situation-n-est-pas-normale-plusieurs-millions-de-manifestants-a-travers-les-etats-unis-pour-protester-contre-donald-trump_7901957.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Houthis Yémen lancent missiles Israël première fois depuis début guerre",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Liberation"
+      ],
+      "summary": "Samedi, Houthis alliés Iran tirent missiles sur Israël, première depuis conflit. Cela élargit front à Yémen, augmentant risques escalade régionale après quatre semaines de bombardements mutuels.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260328-les-houthis-du-y%C3%A9men-lancent-une-attaque-contre-isra%C3%ABl-les-frappes-contre-l-iran-continuent",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Premier lancement missiles Houthis Israël alliés Téhéran risque escalade régionale",
+          "link": "https://www.france24.com/fr/moyen-orient/20260328-les-houthis-du-y%C3%A9men-lancent-une-attaque-contre-isra%C3%ABl-les-frappes-contre-l-iran-continuent"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Note immixtion Houthis missiles Israël entrée deuxième mois conflit",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-revendique-des-attaques-sur-des-sites-strategiques-dans-le-golfe-20260329_VI223I7VANE7FELRLHYJXY344U/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Homme interpellé tente allumer engin explosif Bank America Paris lien Iran",
+      "source": "France Info",
+      "sources": [
+        "Liberation",
+        "France Info"
+      ],
+      "summary": "Vendredi nuit, un individu arrêté devant Bank of America 8e arrondissement Paris avec engin incendiaire. Ministre Intérieur note similitudes attaques européennes liées guerre Moyen-Orient, renforçant vigilance antiterroriste France.",
+      "link": "https://www.franceinfo.fr/faits-divers/un-homme-interpelle-alors-qu-il-tentait-de-mettre-le-feu-a-un-engin-explosif-devant-une-banque-americaine-a-paris_7900511.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Ministre Intérieur lie attentat déjoué Bank America Paris guerre Moyen-Orient",
+          "link": "https://www.liberation.fr/societe/police-justice/attentat-dejoue-contre-la-bank-of-america-a-paris-laurent-nunez-fait-le-lien-avec-la-guerre-au-moyen-orient-20260329_C4DKZ2V76VHN5P22WJCH6A2ZFQ/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Homme interpellé nuit vendredi tente feu engin explosif banque américaine Paris",
+          "link": "https://www.franceinfo.fr/faits-divers/un-homme-interpelle-alors-qu-il-tentait-de-mettre-le-feu-a-un-engin-explosif-devant-une-banque-americaine-a-paris_7900511.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump déclare Cuba prochain cible impose blocus pétrolier île Caraïbes",
+      "source": "20 Minutes",
+      "summary": "Lors forum Miami, Trump annonce Cuba suivant sans détails, aggravant blocus pétrolier existant. Cela tend relations bilatérales, impactant économie cubaine dépendante importations énergie.",
+      "link": "https://www.20minutes.fr/monde/4215524-20260328-etats-unis-cuba-prochain-menace-trump-impose-deja-blocus-petrolier-ile-caraibes?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Armée américaine tire 850 missiles Tomahawk Iran dernier mois stocks inquiètent",
+      "source": "Le Figaro",
+      "summary": "Depuis un mois, États-Unis déploient 850 Tomahawk contre Iran, cadence épuisant réserves Pentagone. Cela questionne soutenabilité arsenal pour opérations prolongées Moyen-Orient.",
+      "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-utilisation-massive-de-missiles-tomahawk-par-l-armee-americaine-inquiete-le-pentagone-20260328",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 214,
+    "articlesAfterDedup": 214,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 3
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "africa": 1,
+      "americas": 2,
+      "europe": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4
+    }
+  }
+}

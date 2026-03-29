@@ -1,0 +1,152 @@
+{
+  "date": "2026-03-29",
+  "summary": "Due esplosioni hanno colpito il nord di Teheran. Il Washington Post riporta che il Pentagono prepara operazioni terrestri in Iran, inclusi incursioni speciali e dispiegamento di fanteria. Questo fa seguito alle previsioni di Marco Rubio di una conclusione della guerra iraniana in poche settimane al G7 e alla valutazione di Donald Trump di inviare 10mila soldati statunitensi nello Stretto di Hormuz. Separatamente, i ribelli Houthi dello Yemen hanno lanciato missili e droni contro Israele. È stata uccisa la mente nucleare iraniana Fouladvand. Le autorità israeliane confermano l'attacco, mentre Teheran accusa Israele senza prove immediate fornite.\n\nOtto milioni di persone hanno partecipato a proteste No Kings contro Donald Trump in 3300 piazze negli Stati Uniti ed Europa, secondo gli organizzatori. La Casa Bianca definisce le manifestazioni come 'terapia'. Il movimento coinvolge decine di organizzazioni di opposizione. In Inghilterra, un uomo di 30 anni ha investito con un'auto la folla nella movida di Derby, ferendo almeno 20 persone, alcune in modo grave. L'individuo è stato arrestato sul posto; le autorità indagano sulle motivazioni senza dettagli confermati.\n\nIn Italia, la premier Giorgia Meloni ha incontrato a cena Matteo Salvini e Antonio Tajani, ordinando ai ministri di accelerare le azioni di governo. Il prezzo del gasolio è salito, con ipotesi di taglio delle accise in discussione; il presidente Mattarella ha invocato responsabilità. Giovanni Toti ha ammesso in intercettazioni di aver istruito il capo di gabinetto a modificare i dati sui contagi Covid in Liguria; l'inchiesta procede su manipolazione numeri pandemia coinvolgendo governatore e staff. La Camera ha approvato proroga dell'uso del carbone per le bollette fino al 2038, stop al telemarketing non richiesto e ammissione condomini al Cer. Il testo va in Aula lunedì. Moody’s pubblica oggi il nuovo rating sul debito sovrano italiano.",
+  "headlines": [
+    {
+      "title": "Uomo di 30 anni investe folla movida Derby con auto: almeno 20 feriti alcuni gravi",
+      "source": "la Repubblica",
+      "summary": "Un uomo di 30 anni ha investito la folla nella movida di Derby in Inghilterra causando almeno 20 feriti, alcuni gravi. Arrestato sul posto, le autorità indagano sulle motivazioni. L'episodio solleva preoccupazioni sulla sicurezza pubblica nelle zone notturne.",
+      "link": "https://www.repubblica.it/esteri/2026/03/29/news/auto_folla_derby_inghilterra-425251050/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Otto milioni partecipano proteste No Kings contro Trump in 3300 piazze Stati Uniti ed Europa",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Organizzatori riportano otto milioni di persone in 3300 piazze americane ed europee contro Trump, bollate dalla Casa Bianca come 'terapia'. Il movimento unisce decine di organizzazioni oposizioni. Le manifestazioni potrebbero segnare una delle più grandi proteste storiche Usa.",
+      "link": "https://www.agi.it/estero/news/2026-03-29/usa-proteste-trump-36343636/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Sottolinea otto milioni partecipanti in 3300 piazze e derisione Trump come disturbo",
+          "link": "https://www.agi.it/estero/news/2026-03-29/usa-proteste-trump-36343636/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Descrive estensione proteste da New York a Roma con oltre 3100 eventi in città e aree rurali",
+          "link": "http://it.euronews.com/2026/03/29/da-new-york-a-roma-in-migliaia-in-piazza-per-la-protesta-no-kings-contro-trump"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Giorgia Meloni incontra Matteo Salvini e Antonio Tajani: ordina marce alte ai ministri",
+      "source": "ANSA",
+      "summary": "La premier Meloni ha visto Salvini e Tajani a cena dando input per accelerare azioni governo. Sale prezzo gasolio con ipotesi taglio accise; Mattarella invoca responsabilità. Misura risponde a pressioni economiche correnti.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/03/28/meloni-vede-salvini-e-tajani-vertice-a-cena-dalla-premier_72b0eeb4-c664-42e2-be7f-d8fdd0cfed1b.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Giovanni Toti ammette a capo gabinetto di aver truccato dati contagi Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Intercettazioni pm rivelano Toti dire a Cozzani di aver aumentato dati contagi Covid. Indagine su manipolazione numeri pandemia in Liguria. Procede inchiesta che coinvolge governatore e staff regionale.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Camera approva proroga carbone bollette al 2038 e stop telemarketing chiamate non richieste",
+      "source": "Il Sole 24 Ore",
+      "summary": "Modifiche in commissione estendono uso carbone bollette fino 2038, vietano telemarketing non richiesto e ammettono condomini a Cer. Testo in Aula lunedì. Misure bilanciano transizione energetica e tutela consumatori.",
+      "link": "https://www.ilsole24ore.com/art/bollette-proroga-2038-il-carbone-stop-telemarketing-chiamate-non-richieste-AIH89lDC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagono prepara operazioni terra Iran dopo esplosioni nord Teheran",
+      "source": "ANSA",
+      "sources": [
+        "TGCOM24",
+        "la Repubblica",
+        "ANSA",
+        "AGI"
+      ],
+      "summary": "Due esplosioni scuotono nord Teheran; Washington Post indica Pentagono pronto incursioni speciali e fanteria. Houthi lanciano missili droni Israele; uccisa mente nucleare Fouladvand. Escalation coinvolge Usa Israele Yemen.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/29/il-washington-post-il-pentagono-si-prepara-a-settimane-di-operazioni-a-terra-in-iran-liveblog_64538de2-93b6-4e30-b93a-c3dabb47f5d5.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Registrazione due esplosioni nord Teheran con fumo; Pentagono annuncia settimane operazioni terra; Houthi attaccano Israele e uccisa mente nucleare iraniana Fouladvand",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta uccisione Fouladvand sopravvissuto 2025 e Houthi lanciano missili droni Israele",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-28-marzo_110448258-202602k.shtml"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Dettaglia preparazione Houthi con missili radar leader autonomi simili pasdaran",
+          "link": "https://www.repubblica.it/esteri/2026/03/29/news/come_houthi_hanno_preparato_attacco-425250692/?rss"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Cita Washington Post su operazioni speciali Pentagono e esplosioni Teheran mattino",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/29/il-washington-post-il-pentagono-si-prepara-a-settimane-di-operazioni-a-terra-in-iran-liveblog_64538de2-93b6-4e30-b93a-c3dabb47f5d5.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Descrive bombardamenti Teheran ore 7:20 con fumo aree militari civili colpite",
+          "link": "https://www.agi.it/estero/news/2026-03-29/iran-usa-attacco-terra-bome-36344262/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 246,
+    "articlesAfterDedup": 246,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 13,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "global": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 2,
+      "developing": 1
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "date": "2026-03-30",
+  "summary": "Rwanda-backed rebels overran Congolese troops and entered Goma, a city in eastern Democratic Republic of Congo. United Nations reports state over 1 million people displaced within the aid hub city amid gunfire and shelling. This follows clashes displacing hundreds of thousands previously; aid agencies expect worsened humanitarian crisis with impacts on Central African stability and refugee flows to neighboring countries.\n\nIn the Middle East, Israel permitted displaced Palestinians to cross a bisecting military zone on foot into northern Gaza after a hostage release ended a deadlock. Hundreds of thousands of displaced residents are affected. Separately, Israeli military confirmed a strike killed three Lebanese journalists including Ali Shoeib of Hezbollah-linked Al Manar Television in southern Lebanon. Iranian attacks injured workers at major aluminum sites in the United Arab Emirates and Bahrain, disrupting production at facilities previously struck.\n\nNATO launched its first coordinated response to suspected sabotage after another deep-sea cable severance in the Baltic Sea. SpaceX launched Crew-10 with four astronauts including two from NASA from Kennedy Space Center on Friday to relieve Butch Wilmore and Suni Williams stuck on the International Space Station for nine months; the craft docked Saturday. China resumed regular Beijing-Pyongyang flights with Air China Boeing 737 service after six years, following train restoration. Kenya reported 110 flood deaths across 30 counties from ongoing rains, displacing thousands as government coordinates relief. China's Vanke reported massive losses amid property sector troubles.\"}",
+  "headlines": [
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Goma Displacing Over One Million",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overran Congolese troops entering Goma, sparking gunfire and shelling; U.N. reports over 1 million displaced inside the aid hub city. Threatens humanitarian crisis; impacts Central African stability and refugee flows.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Cross Zone into Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits Gazans to return on foot across bisecting military zone after hostage release deadlock breaks. Affects hundreds of thousands of displaced; signals possible shift in enclave control dynamics.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Permits Russian Oil Tanker to Reach Cuba Delivering Crude Amid Blockade",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "France 24",
+        "NPR"
+      ],
+      "summary": "Russian tanker carrying crude nears Cuban waters; Trump states no issue with delivery despite U.S. blockade, easing island's energy shortages. Affects Cuba's economy; underscores evolving U.S. stance on Russia ties.",
+      "link": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Highlights tanker reaching destination by Monday as lifeline amid U.S. pressure",
+          "link": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Reports tanker entering waters as Trump softens de facto blockade rhetoric",
+          "link": "https://www.france24.com/en/video/20260330-russian-oil-tanker-nears-cuba-trump-softens-de-facto-blockade-rhetoric"
+        },
+        {
+          "source": "NPR",
+          "angle": "Quotes Trump expressing no problem with tanker providing relief to Cuba",
+          "link": "https://www.npr.org/2026/03/30/nx-s1-5765971/trump-allows-russia-oil-tanker-relief-cuba-blockade"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Floods Kill 110 Across 30 Counties in Kenya as Rains Continue",
+      "source": "AllAfrica",
+      "summary": "Heavy rains raise flood death toll to 110 pounding multiple regions; affects thousands displaced. Government coordinates relief; heightens disaster risks in East Africa.",
+      "link": "https://allafrica.com/stories/202603300149.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Launches Four Astronauts to Retrieve NASA Crew Stuck on ISS Nine Months",
+      "source": "Voice of America",
+      "summary": "Crew-10 including two NASA astronauts lifts off Friday from Kennedy Center to relieve Butch Wilmore and Suni Williams. Docks Saturday; enables stuck pair's return, advances station operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "China Resumes Regular Direct Flights to Pyongyang After Six Years",
+      "source": "South China Morning Post",
+      "summary": "Air China restarts Beijing-Pyongyang Boeing 737 services Monday; ambassador welcomes passengers. Warms bilateral ties post-train restoration; boosts North Korea logistics and diplomacy.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3348370/china-steps-north-korea-connections-regular-beijing-pyongyang-flights-resume?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "China's Vanke Reports Huge Losses Signaling Widening Property Crisis",
+      "source": "Wall Street Journal",
+      "summary": "Leading developer Vanke posts massive losses amid sector troubles; raises bailout questions. Affects investors and economy; tests Beijing's intervention limits.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Japan Lower House Passes 8.56 Trillion Yen Emergency Stopgap Budget",
+      "source": "Japan Times",
+      "summary": "Lawmakers approve first temporary measure in 11 years across parties. Funds government operations; averts fiscal shortfall impacting economy.",
+      "link": "https://www.japantimes.co.jp/news/2026/03/30/japan/politics/provisional-budget-passes/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "UN Votes Transatlantic Slave Trade Gravest Crime Boosting Reparations Push",
+      "source": "The Guardian",
+      "summary": "Resolution passes despite opposition declaring slavery gravest crime; energizes African Union efforts. Affects global reparations debates; shapes historical accountability.",
+      "link": "https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance launches initial action after another deep-sea cable severance amid sabotage fears. Protects critical infrastructure; escalates hybrid threat concerns in Europe.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Alliance mounts first coordinated response after another cable severed in sabotage campaign",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Military Confirms Strike Kills Three Lebanese Journalists Including Al Manar Reporter",
+      "source": "BBC",
+      "summary": "Broadcasters report deaths in southern Lebanon; Israel verifies killing Ali Shoeib from Hezbollah-linked TV. Raises media safety issues; fuels regional tensions.",
+      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israeli military confirms killing Ali Shoeib from Al Manar TV",
+      "sources": [
+        "BBC"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Iranian Attacks Injure Workers at Major Aluminum Sites in UAE and Bahrain",
+      "source": "BBC",
+      "summary": "Strikes hit industrial facilities across Gulf continuing campaign; several injured. Disrupts production; heightens energy security risks in region.",
+      "link": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Attacks continue targeting aluminum plants with injuries reported",
+      "sources": [
+        "BBC"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 461,
+    "articlesAfterDedup": 459,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "economy": 2,
+      "environment": 1,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "africa": 2,
+      "middle-east": 3,
+      "global": 3,
+      "asia-pacific": 3,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 3
+    }
+  }
+}

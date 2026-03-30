@@ -1,0 +1,174 @@
+{
+  "weekId": "2026-W13",
+  "startDate": "2026-03-23",
+  "endDate": "2026-03-29",
+  "summary": "This week's news briefing covers March 23-29, 2026, highlighting persistent conflicts in the Middle East and Africa, alongside developments in Ukraine and other global events.\n\nThe most significant story was escalating tensions between Iran and Israel, which dominated the week. On March 24, Iran launched missiles and drones at Israel and Gulf Arab states amid Trump peace talks. Israel responded with fresh strikes across Iran on March 26 as ceasefire talks stalled. Iran's Revolutionary Guards followed with strikes on Israel and Gulf sites on March 27, injuring 12 U.S. troops at Saudi Prince Sultan Air Base on March 28. Houthi rebels launched their first missile at Israel from Yemen that day. On March 29, Iranian Guards struck aluminum plants in Bahrain and UAE. Trump extended Iran's deadline to reopen the Strait of Hormuz to April 6 on March 27. This multi-day escalation proved the week's most lasting conflict.\n\nIn Africa, Sudanese army drone strikes hit a hospital in East Darfur on March 23, killing 64 and wounding 89; the story persisted into March 25 coverage. Rwanda-backed rebels overran Congolese troops and entered Goma on March 23, 27, and 28, displacing one million by March 27, marking a developing crisis despite some one-day reports fading.\n\nUkraine saw Russian forces intensify attacks in the south on March 26 after Kyiv gains momentum. The U.S. tied security guarantees to Ukraine ceding Russian-occupied Donbas, prompting a warning from Zelensky.\n\nOther notable events included a New Mexico jury fining Meta $375 million on March 25 for child safety violations, persisting in discussions. The UN General Assembly voted 123-3-52 on March 26 to designate the African slave trade the gravest crime against humanity.\n\nAviation tragedies struck on March 24: a Colombian military plane crash killed 66 of 128 onboard; an Air Canada jet collided with a firetruck at LaGuardia Airport, killing the pilots.\n\nStories that faded quickly: IEA head's March 23 warning of Iran war's economic threat; initial Rwanda-Goma reports; WMO's ocean heat records; NASA-SpaceX Crew-10 launch; NATO's March 25 response to Baltic Sea cable sabotage.\n\nNorth Korea's Kim Jong-un oversaw a 2,500-kilonewton ICBM engine test on March 29. An Israeli strike killed three journalists in southern Lebanon that day.\n\nNo major resolutions occurred; Middle East and African conflicts persisted without de-escalation. (378 words)",
+  "persistentStories": [],
+  "fadedStories": [
+    "IEA Head Warns Global Economy Faces Major Threat from Iran War",
+    "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+    "WMO Reports Earth Oceans Break Heat Records for Nine Straight Years",
+    "NASA and SpaceX Launch Crew-10 to Retrieve Stuck Astronauts from ISS",
+    "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+    "Israel Plans Ground and Air Expansion Against Hezbollah in Southern Lebanon",
+    "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+    "Iran Launches Missiles and Drones at Israel and Gulf Arab States Amid Trump Peace Talks",
+    "Colombian Military Transport Plane Crashes Killing 66 of 128 Onboard",
+    "Air Canada Jet Collides with Firetruck at LaGuardia Airport Killing Pilots"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-03-23",
+      "title": "Sudanese Army Drone Strikes East Darfur Hospital, Killing 64 and Wounding 89",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "IEA Head Warns Global Economy Faces Major Threat from Iran War",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Iran Launches Missiles and Drones at Israel and Gulf Arab States Amid Trump Peace Talks",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Colombian Military Transport Plane Crashes Killing 66 of 128 Onboard",
+      "category": "society",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Air Canada Jet Collides with Firetruck at LaGuardia Airport Killing Pilots",
+      "category": "society",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-25",
+      "title": "Sudanese Army Drone Strikes East Darfur Hospital Kills 64 Wounds 89",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-25",
+      "title": "New Mexico Jury Fines Meta $375 Million for Child Safety Violations",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-03-25",
+      "title": "NATO Mounts First Coordinated Response After Suspected Sabotage Severs Baltic Sea Cable",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Israel Carries Out Fresh Strikes Across Iran as Ceasefire Talks Stall",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "UN General Assembly Votes 123-3-52 Designates African Slave Trade Gravest Crime Against Humanity",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Russian Forces Intensify Attacks in Southern Ukraine After Kyiv Gains Momentum",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "US Ties Ukraine Security Guarantees to Ceding Russian-Occupied Donbas Zelensky Warns",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "Iran's Revolutionary Guards Launch Missile and Drone Strikes on Israel and Gulf Sites",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Congo's Goma Displacing One Million",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "Trump Extends Deadline for Iran to Reopen Strait of Hormuz to April 6",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Iranian Strike Injures 12 U.S. Troops at Saudi Prince Sultan Air Base",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Houthi Rebels Launch First Missile at Israel from Yemen",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Congo's Goma",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-29",
+      "title": "Kim Jong-un Oversees Test of 2,500-Kilonewton Engine for North Korea ICBMs",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-03-29",
+      "title": "Israeli Strike Kills Three Journalists in Southern Lebanon",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-29",
+      "title": "Iranian Guards Strike Aluminum Plants in Bahrain and UAE",
+      "category": "conflict",
+      "region": "middle-east"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 3171,
+    "totalSourcesUsed": 18,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 32,
+      "economy": 8,
+      "environment": 1,
+      "science": 6,
+      "politics": 14,
+      "society": 7
+    },
+    "regionCounts": {
+      "africa": 9,
+      "global": 12,
+      "europe": 11,
+      "middle-east": 20,
+      "americas": 9,
+      "asia-pacific": 7
+    }
+  }
+}

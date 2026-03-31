@@ -1,0 +1,204 @@
+{
+  "date": "2026-03-31",
+  "summary": "A Kuwaiti tanker full of oil caught fire off Dubai after sustaining damage Tuesday, one day after President Trump's threats against Iran. The owner warns of a potential oil spill. This incident affects global shipping lanes amid the U.S.-Israeli campaign against Iran. \n\nSpain denied U.S. warplanes use of its airspace and Andalusia military bases for Iran operations, impacting U.S. logistics in Europe. Saudi Arabia and UAE urged Trump to extend the month-long U.S.-led strikes on Iran, stating they have not sufficiently weakened Tehran. Asian nations including Thailand increased purchases of Russian crude as the Iran war reduces 20% of global oil supply through the Strait of Hormuz. China's manufacturing PMI rose to 50.4 in March from 49.0, per the National Bureau of Statistics, ending contraction. \n\nRwanda-backed rebels fired gunshots inside Goma, overrunning troops in the safe-haven city and displacing over one million, according to residents and the U.N. Israel opened a military zone allowing displaced Palestinians to cross into northern Gaza after a hostage release. NATO deployed its first coordinated units following a new Baltic Sea cable cut suspected as sabotage. Myanmar junta leader Min Aung Hlaing won a lower house vice-president vote Tuesday, with two other military-aligned candidates also elected; a presidential vote follows this week. Eight people died in a crowd crush at Sheetla temple in Nalanda, Bihar, India, during prayers; the chief secretary is probing security lapses and families receive 600,000 rupees each. A U.S. Fourth Circuit panel paused a lower court ruling, allowing Trump's executive orders to halt federal diversity programs.\"}",
+  "headlines": [
+    {
+      "title": "Suspected Attackers Strike Kuwaiti Oil Tanker Off Dubai Causing Fire Damage",
+      "source": "New York Times",
+      "summary": "A Kuwaiti tanker full of oil caught fire off Dubai after sustaining damage Tuesday, one day after President Trump's threats against Iran. Owner warns of potential oil spill. Affects global shipping amid Iran war; heightens escalation risks for oil markets worldwide.",
+      "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Spain Closes Airspace to U.S. Aircraft Supporting Iran War Operations",
+      "source": "BBC",
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "summary": "Spain denies U.S. warplanes use of its airspace and Andalusia military bases amid U.S.-Israeli campaign against Iran. Impacts U.S. logistics in Europe. Signals growing allied divisions; may force rerouting and complicate operations.",
+      "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC",
+          "angle": "Focuses on government decision to deny use of joint military bases",
+          "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Highlights Spain's rejection of U.S.-Israeli war on Iran via airspace ban",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Gulf Allies Urge Trump to Extend U.S. Bombing Campaign Against Iran",
+      "source": "South China Morning Post",
+      "summary": "Saudi Arabia and UAE push President Trump to prolong month-long U.S.-led strikes on Iran, citing insufficient weakening of Tehran. Affects U.S. policy decisions. Prolongation risks broader regional conflict and oil disruptions.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3348490/gulf-allies-want-trump-prolong-us-bombardment-iran-officials-say?utm_source=rss_feed",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "China Factory Activity Expands to 50.4 PMI in March Despite Iran War",
+      "source": "Associated Press",
+      "summary": "China's manufacturing PMI rises to 50.4 from 49, ending contraction, per National Bureau of Statistics. Workers and exporters benefit short-term. Prolonged Iran war threatens growth via supply chain strains.",
+      "link": "https://apnews.com/article/china-manufacturing-economy-pmi-iran-war-1dece7eda196b93706091b7b52eef94a",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Asian Nations Buy More Russian Crude Oil Amid Iran War Supply Crunch",
+      "source": "Associated Press",
+      "summary": "Oil-thirsty Asia competes for Russian crude as Iran war cuts 20% of global supply via Hormuz. Thailand, others face shortages. Shifts trade dynamics; boosts Russia while straining alternatives.",
+      "link": "https://apnews.com/article/middle-east-wars-energy-asia-russia-crude-oil-ea90f06d9f35fe4bb977f068d2c6ef27",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Myanmar Junta Leader Min Aung Hlaing Wins Lower House Vice-President Vote",
+      "source": "France 24",
+      "summary": "Coup leader elected vice-president Tuesday; another from military party, third by military. Presidential vote this week. Consolidates junta control; dims democratic hopes amid civil unrest.",
+      "link": "https://www.france24.com/en/asia-pacific/20260331-myanmar-junta-chief-elected-vice-president",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Stampede Kills Eight at Nalanda Temple in Bihar During Prayers",
+      "source": "The Hindu",
+      "summary": "Eight die in crowd crush at Sheetla temple; Chief Secretary probes security lapses. Victims' families receive 600,000 rupees each. Exposes festival safety gaps in India ahead of probes.",
+      "link": "https://www.thehindu.com/news/national/bihar/bihar-nalanda-stampede-sheetla-temple-death-toll-live-updates/article70805954.ece",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. Appeals Court Lifts Block on Trump DEI Crackdown Executive Orders",
+      "source": "Voice of America",
+      "summary": "Fourth Circuit panel pauses lower court ruling, deeming orders constitutional. Allows federal halt to diversity programs. Impacts government workers; advances conservative policy reshaping bureaucracy.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Fire Gunshots Inside Goma Displacing Over One Million",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overrun troops prompting gunfire and shelling in safe-haven city per residents and U.N.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Gunfire and shelling reported inside Goma as over one million displaced cram into the city",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Opens Military Zone Allowing Palestinians to Enter Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Displaced Gazans cross bisecting zone on foot after hostage release deadlock breaks.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Palestinians stream back on foot following breakthrough in hostage negotiations",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Deploys First Coordinated Units After New Baltic Sea Cable Cut",
+      "source": "Wall Street Journal",
+      "summary": "Alliance responds to suspected sabotage campaign targeting infrastructure.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Another deep-sea cable severed in Baltic Sea prompts NATO's initial coordinated action",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 13,
+    "articlesProcessed": 453,
+    "articlesAfterDedup": 452,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 4,
+      "economy": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 2,
+      "asia-pacific": 4,
+      "americas": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

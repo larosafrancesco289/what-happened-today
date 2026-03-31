@@ -1,0 +1,200 @@
+{
+  "date": "2026-03-31",
+  "summary": "Gli Stati Uniti hanno colpito un deposito di munizioni in Iran durante raid reciproci con Israele. Donald Trump ha pubblicato un video dell'operazione su Truth Social. Sono coinvolti paesi del Golfo. Quattro soldati israeliani sono stati uccisi in Libano. Questo fa seguito alla pianificazione del Pentagono annunciata ieri. I mercati valutano rischi di escalation regionale con possibili impatti sui prezzi energetici globali. Si attendono decisioni di Trump su ulteriori azioni.\n\nMissili hanno colpito una petroliera kuwaitiana nel porto di Dubai durante le tensioni in Medio Oriente. Il prezzo del Brent è salito a 115,49 dollari al barile e si attesta sopra i 110 dollari per l'incertezza sulle mosse di Trump nello Stretto di Hormuz. In Libano, il ministro libanese ha riferito di 1.200 morti causati da raid israeliani, coinvolgendo Unifil e Hezbollah; prosegue un'inchiesta sulle responsabilità. L'esercito israeliano ha avviato un'indagine sulla morte di tre caschi blu indonesiani Unifil nel sud del Libano, ipotizzando responsabilità di Hezbollah. Questo segue l'uccisione di un casco blu indonesiano riportata ieri. L'Italia preme per modificare le regole d'ingaggio, mentre Netanyahu ha ordinato di ampliare la zona di sicurezza, migliorando la protezione per i peacekeeper italiani.\n\nIsraele ha autorizzato il patriarca latino Pizzaballa a celebrare al Santo Sepolcro per la Settimana Santa, revocando una restrizione precedente; il Vaticano tramite Parolin e la Casa Bianca hanno criticato la misura iniziale, garantendo ora l'accesso ai fedeli cristiani a Gerusalemme Est. Negli Stati Uniti, la variante Covid Cicada si diffonde rapidamente, sfuggendo alle difese immunitarie secondo l'esperto Pregliasco; un richiamo vaccinale è utile per i fragili, con monitoraggio globale su ospedali e viaggi. In Italia, un rapporto EY indica che donne sotto i 50 anni in consigli di amministrazione del settore finanziario guadagnano il 20% in più degli uomini. I Nas hanno rilevato irregolarità igienico-sanitarie nel 42,7% di 558 mense ospedali controllati, con potenziamento delle ispezioni.",
+  "headlines": [
+    {
+      "title": "Stati Uniti colpiscono deposito munizioni in Iran e Trump pubblica video su Truth",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Gli Stati Uniti hanno attaccato un deposito di munizioni in Iran durante raid reciproci con Israele, Donald Trump ha condiviso il video sui social. Coinvolti paesi del Golfo. Quattro soldati israeliani uccisi in Libano. Preoccupa escalation regionale con impatti energetici globali.",
+      "link": "http://it.euronews.com/2026/03/31/medio-oriente-attaccati-deposito-di-munizioni-in-iran-e-una-petroliera-a-dubai",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Descrive raid reciproci Stati Uniti Israele Iran con Golfo coinvolto e video Trump",
+          "link": "http://it.euronews.com/2026/03/31/medio-oriente-attaccati-deposito-di-munizioni-in-iran-e-una-petroliera-a-dubai"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Enfatizza attacco Usa deposito munizioni Iran video Trump e impatto su Brent",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-marzo_110543597-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Missili colpiscono petroliera kuwaitiana porto Dubai e Brent sale a 115,49 dollari",
+      "source": "TGCOM24",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Una petroliera del Kuwait è stata attaccata nel porto di Dubai durante tensioni Medio Oriente. Prezzo Brent balza a 115,49 dollari al barile. Mercati attendono decisioni Trump su Hormuz. Aumenta inflazione e costi energia per consumatori europei.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-marzo_110543597-202602k.shtml",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Menziona attacco petroliera Dubai nel contesto raid reciproci USA Israele Iran",
+          "link": "http://it.euronews.com/2026/03/31/medio-oriente-attaccati-deposito-di-munizioni-in-iran-e-una-petroliera-a-dubai"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Sottolinea impennata Brent 115,49 dollari dopo colpo a petroliera kuwaitiana Dubai",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-marzo_110543597-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Ministro libanese denuncia 1.200 morti raid israeliani in Libano",
+      "source": "Euronews Italiano",
+      "summary": "Il ministro libanese intervistato da Euronews riferisce 1.200 morti causati da raid israeliani in Libano. Coinvolte forze Unifil e Hezbollah. Prosegue investigazione su responsabilità. Evidenzia costo umano conflitto per stabilità regionale.",
+      "link": "http://it.euronews.com/my-europe/2026/03/31/europe-today-ministro-libanese-a-euronews-1200-morti-nei-raid-israeliani-in-libano",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Esercito israeliano avvia indagine morte tre caschi blu indonesiani Unifil Libano",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Tre soldati indonesiani Unifil uccisi in zona combattimenti sud Libano, IDF indaga possibile responsabilità Hezbollah. Italia preme per modificare regole ingaggio. Netanyahu ordina ampliare zona sicurezza. Migliora sicurezza peacekeeper italiani.",
+      "link": "https://www.agi.it/estero/news/2026-03-31/iran-guerra-notizie-31-marzo-36368390/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Numero caschi blu uccisi sale da uno a tre indonesiani; IDF apre inchiesta attribuendo sospetti a Hezbollah e nota zona attiva combattimenti",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Avvia indagine IDF su tre caschi blu suggerendo responsabilità Hezbollah in zona combattimenti",
+          "link": "https://www.agi.it/estero/news/2026-03-31/iran-guerra-notizie-31-marzo-36368390/"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Riporta uccisione tre indonesiani e pressing Italia per regole ingaggio Unifil",
+          "link": "https://www.ilsole24ore.com/art/libano-uccisi-tre-soldati-indonesiani-italia-pressing-cambiare-regole-ingaggio-unifil-AIlqe3EC"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israele autorizza patriarca Pizzaballa a celebrare al Santo Sepolcro",
+      "source": "la Repubblica",
+      "summary": "Israele revoca restrizione permettendo al patriarca latino Pizzaballa di tornare al Santo Sepolcro per messe Settimana Santa. Critiche da Vaticano Parolin e Casa Bianca. Garantisce accesso fedeli cristiani Gerusalemme Est.",
+      "link": "https://www.repubblica.it/esteri/2026/03/31/news/israele_pizzaballa_santo_sepolcro_messa_settimana_santa-425254363/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israele fa retromarcia dopo critiche permettendo celebrazioni Settimana Santa al patriarca",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Variante Covid Cicada si diffonde rapidamente negli Stati Uniti",
+      "source": "Rai News",
+      "summary": "La variante Cicada del Covid esplode negli Usa sfuggendo difese immunitarie secondo esperto Pregliasco. Vaccino richiamo utile per fragili. Monitoraggio globale per valutare impatto su ospedali e viaggi.",
+      "link": "https://www.rainews.it/video/2026/03/covid-la-nuova-variante-cicada-esplode-negli-usa-pregliasco-sfugge-alle-difese-immunitarie-af8d35dd-6872-4bae-a0a7-44cae6aaf28f.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donne sotto 50 anni guadagnano 20% più uomini in Cda finanziari Italia",
+      "source": "Il Sole 24 Ore",
+      "summary": "Rapporto EY Boardroom rivela donne sotto 50 anni in consigli amministrazione settore finanziario italiano guadagnano 20% più uomini. Progressi su genere ed età. Favorisce diversità e politiche aziendali inclusive.",
+      "link": "https://www.ilsole24ore.com/art/cda-settore-finanziario-italia-donne-sotto-50-anni-guadagnano-20percento-piu-uomini-AIzcYfFC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Nas rilevano irregolarità nel 42,7% di 558 mense ospedali controllati",
+      "source": "Il Sole 24 Ore",
+      "summary": "Controlli Nas in 558 mense ospedali italiani trovano irregolarità nel 42,7% casi, su standard igienico-sanitari. Quattro strutture su dieci non conformi. Potenziati ispezioni per sicurezza pazienti e personale.",
+      "link": "https://www.ilsole24ore.com/art/sanita-controlli-nas-558-mense-ospedali-irregolarita-427percento-casi-AIUyFJGC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Petrolio si attesta sopra 110 dollari per incertezza mosse Trump Hormuz",
+      "source": "Euronews Italiano",
+      "summary": "Prezzi petrolio restano oltre 110 dollari al barile dopo attacchi Golfo. Mercati valutano disponibilità Trump a cessare ostilità anche con Stretto Hormuz chiuso. Influenza inflazione e recessione globale.",
+      "link": "http://it.euronews.com/business/2026/03/31/petrolio-ormai-attestato-sopra-i-110-dollari-e-mercati-ancora-incerti-sulle-prossime-mosse",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 259,
+    "articlesAfterDedup": 259,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 13,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 2,
+      "politics": 1,
+      "science": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "americas": 1,
+      "europe": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 2,
+      "also": 4
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "date": "2026-04-01",
+  "summary": "Le Premier ministre israélien Benjamin Netanyahou a déclaré que son pays poursuivra ses opérations militaires contre l'Iran, qualifié de régime terroriste par lui. Cela répond aux récentes frappes de missiles iraniens sur Israël. Parallèlement, le président américain Donald Trump a annoncé que les troupes américaines se retireront de l'Iran dans un avenir proche. Israël subit des attaques iraniennes. Ces mouvements pourraient modifier l'équilibre des forces au Moyen-Orient, où la sécurité énergétique mondiale est impactée. Les opérations israéliennes se prolongent, et le retrait américain est attendu prochainement.\n\nEn Europe, le Premier ministre hongrois Viktor Orbán a remporté la réélection. Son parti a capitalisé sur le sentiment anti-ukrainien croissant dans le pays, ami de la Russie. Cela renforce sa position pro-russe au sein de l'Union européenne, alors que les divisions persistent sur l'aide à Kiev dans la guerre en Ukraine. Israël a suspendu complètement ses importations d'équipements militaires en provenance de France, jugée hostile par Tel-Aviv. Cette décision fait suite à des divergences sur la politique moyen-orientale et affecte les industries de défense des deux pays. Le constructeur Stellantis procède au rappel de 700 000 véhicules des marques Peugeot, Citroën, DS, Alfa Romeo, Jeep, Fiat et Opel, dont 22 000 en Belgique, pour un défaut provoquant des risques d'incendie. Les propriétaires recevront des convocations pour des réparations gratuites.\n\nUne journaliste américaine a été enlevée mardi à Bagdad par des inconnus. Les forces irakiennes mènent des recherches pour sa libération, dans un contexte de tensions au Moyen-Orient. En Belgique, le parti MR lance une campagne pour réduire les accises sur les carburants face à la hausse des prix, dans le cadre des débats budgétaires. Les États-Unis critiquent les provinces canadiennes pour le retrait d'alcools américains des rayons provinciaux l'an dernier, dans une politique 'Achetez canadien'. Des négociations commerciales sont prévues, avec un risque de tarifs douaniers réciproques. Le groupe taïwanais Foxconn investit 35 millions d'euros dans la société belge Magnax à Courtrai, qui développe des moteurs à flux axial pour véhicules électriques. Cet apport accélère la production.",
+  "headlines": [
+    {
+      "title": "Benjamin Netanyahou affirme qu'Israël continue à écraser le régime terroriste iranien",
+      "source": "RTBF",
+      "summary": "Le Premier ministre israélien Benjamin Netanyahou déclare que son pays poursuivra ses opérations militaires contre l'Iran, qualifié de régime terroriste. Cela répond aux récentes frappes iraniennes. Les échanges de tirs menacent d'élargir le conflit régional, impactant la sécurité énergétique mondiale.",
+      "link": "https://www.rtbf.be/article/direct-moyen-orient-des-unites-speciales-de-l-armee-americaine-sur-le-terrain-11702765",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump annonce que les États-Unis quittent l'Iran très bientôt",
+      "source": "20 Minutes",
+      "summary": "Le président américain Donald Trump indique que les troupes américaines se retireront de l'Iran dans un avenir proche, au milieu des frappes israéliennes et iraniennes. Israël subit des missiles iraniens. Cette décision pourrait modifier l'équilibre des forces au Moyen-Orient.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4216090-20260401-direct-guerre-moyen-orient-selon-trump-etats-unis-vont-quitter-iran-tres-bientot?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Stellantis rappelle 700 000 véhicules dont 22 000 en Belgique pour risque d'incendie",
+      "source": "RTBF",
+      "summary": "Le constructeur Stellantis procède au rappel de 700 000 véhicules des marques Peugeot, Citroën, DS, Alfa Romeo, Jeep, Fiat et Opel en raison d'un défaut provoquant des incendies. 22 000 unités touchent la Belgique. Les propriétaires recevront des convocations pour réparations gratuites, évitant des accidents.",
+      "link": "https://www.rtbf.be/article/le-constructeur-automobile-stellantis-rappelle-700-000-vehicules-dont-22-000-en-belgique-pour-risque-d-incendie-11703253",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Viktor Orbán remporte la réélection en Hongrie en surfant sur l'antipathie envers l'Ukraine",
+      "source": "20 Minutes",
+      "summary": "Le Premier ministre hongrois Viktor Orbán, ami de la Russie, gagne la réélection grâce au sentiment anti-ukrainien croissant. Cela renforce sa position pro-russe dans l'UE. Les élections reflètent les divisions sur l'aide à Kiev dans la guerre en cours.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4216091-20260401-direct-guerre-ukraine-selon-rubio-etats-unis-doivent-reexaminer-relations-otan?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israël ramène à zéro ses importations militaires en provenance de France",
+      "source": "20 Minutes",
+      "summary": "Israël suspend complètement ses achats d'équipements militaires à la France, jugée hostile. Cette mesure aggrave les tensions diplomatiques bilatérales. Elle souligne les divergences sur la politique moyen-orientale et impacte les industries de défense des deux pays.",
+      "link": "https://www.20minutes.fr/monde/israel/4216079-20260401-guerre-moyen-orient-israel-prend-mesure-retorsion-contre-france-divorce-aggrave?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Des ravisseurs enlèvent une journaliste américaine à Bagdad en Irak",
+      "source": "20 Minutes",
+      "summary": "Une journaliste américaine subit un enlèvement mardi à Bagdad par des inconnus. Les forces irakiennes mènent des recherches pour la libérer. Cet incident survient dans le contexte de la guerre au Moyen-Orient et expose les risques pour les médias étrangers.",
+      "link": "https://www.20minutes.fr/monde/4216095-20260401-guerre-iran-sait-enlevement-journaliste-americaine-irak?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le MR lance une offensive médiatique pour baisser les taxes sur les carburants en Belgique",
+      "source": "RTBF",
+      "summary": "Le parti MR mène une campagne pour réduire les accises sur les carburants face à la hausse des prix. Cela s'inscrit dans la bataille politique belge. Une baisse atténuerait le coût pour les ménages et entreprises, influençant les débats budgétaires.",
+      "link": "https://www.rtbf.be/article/bataille-politique-autour-des-prix-des-carburants-11703427",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Les États-Unis critiquent les provinces canadiennes pour retrait des alcools américains",
+      "source": "Radio-Canada",
+      "summary": "Les États-Unis reprochent au Canada sa politique 'Achetez canadien' après le retrait d'alcools américains des rayons provinciaux l'an dernier. Cela précède des négociations commerciales. Les tensions pourraient mener à des tarifs douaniers réciproques.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2243059/alcool-achetez-canadien-tarifs-etats-unis",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Foxconn investit 35 millions d'euros dans la société belge Magnax de moteurs électriques",
+      "source": "RTBF",
+      "summary": "Le géant taïwanais Foxconn verse 35 millions d'euros à Magnax, firme courtraisienne développant des moteurs à flux axial pour véhicules électriques. Cet investissement accélère la production. Il renforce la position belge dans la transition énergétique mondiale.",
+      "link": "https://www.rtbf.be/article/le-geant-taiwanais-foxconn-investit-35-millions-dans-la-firme-courtraisienne-de-moteurs-electriques-magnax-11703222",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 215,
+    "articlesAfterDedup": 215,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 11,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "economy": 3
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "europe": 4,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    }
+  }
+}

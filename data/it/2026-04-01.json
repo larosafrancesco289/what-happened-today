@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-01",
+  "summary": "L'Iran ha lanciato missili su Israele, ferendo 18 persone tra cui una bimba in condizioni critiche. L'attacco è avvenuto dopo 21 ore di quiete, in risposta ai colpi statunitensi su un deposito di munizioni iraniano annunciati ieri da Donald Trump con un video su Truth Social. Marco Rubio ha annunciato una rivalutazione dei rapporti Usa-Nato al termine della guerra. Gli Emirati Arabi Uniti hanno vietato gli ingressi ai cittadini iraniani in attesa del discorso di Trump. La tensione nel Golfo Persico aumenta dopo l'attacco missilistico su una petroliera kuwaitiana nel porto di Dubai ieri, con il Brent salito a 115,49 dollari al barile.\n\nIn Italia, il governo ha negato l'autorizzazione per l'atterraggio di bombardieri B-52 americani alla base di Sigonella per operazioni belliche. Gli accordi bilaterali richiedono l'approvazione preventiva di Roma. Separatamente, il Consiglio dei ministri ha approvato un decreto che prolunga il taglio delle accise sui carburanti di 24,4 centesimi al litro su benzina e gasolio fino al 30 aprile. La misura riduce i prezzi al consumo per famiglie e imprese in risposta ai rincari energetici legati alle tensioni geopolitiche nel Golfo.\n\nL'Istat ha pubblicato tabelle provvisorie 2025 che indicano una speranza di vita attesa a 65 anni di 21,4 anni, record dal 2002. Il dato aggiornerà i requisiti di contribuzione della legge Fornero sulle pensioni. Il governo ha aumentato l'aliquota del credito d'imposta per 1.600 progetti degli esodati, utilizzando fondi residui anti-caro energia. Finora solo il 12% dei progetti è stato finanziato. Nel Libano, il ministro ha denunciato 1.200 morti per raid israeliani; Israele ha avviato un'indagine sulla morte di tre caschi blu indonesiani Unifil e ha autorizzato il patriarca Pizzaballa a celebrare al Santo Sepolcro.",
+  "headlines": [
+    {
+      "title": "Iran lancia missili su Israele e ferisce 18 persone tra cui bimba gravissima",
+      "source": "TGCOM24",
+      "summary": "Missili iraniani colpiscono Israele dopo 21 ore di quiete, provocano 18 feriti inclusa una bimba in condizioni critiche. Rubio annuncia rivalutazione rapporti Usa-Nato a fine guerra. Emirati vietano ingressi iraniani mentre attendono discorso Trump. Aumenta tensione nel Golfo Persico.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-1-aprile_110585535-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Italia nega atterraggio bombardieri americani a Sigonella",
+      "source": "Il Sole 24 Ore",
+      "summary": "Governo italiano rifiuta autorizzazione per atterraggio di bombardieri B-52 Usa alla base di Sigonella in operazioni belliche. Accordi bilaterali richiedono ok preventivo Roma. Episodio evidenzia tensioni su uso basi Nato in contesto Iran-Israele.",
+      "link": "https://www.ilsole24ore.com/art/sigonella-cosa-e-successo-e-come-funzionano-accordi-italia-usa-AIbalVGC",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo prolunga taglio accise carburanti fino al 30 aprile",
+      "source": "Il Sole 24 Ore",
+      "summary": "Consiglio dei ministri approva venerdì decreto bis che estende sconto di 24,4 centesimi al litro su benzina e gasolio. Misura riduce prezzi al consumo proteggendo famiglie e imprese da rincari energetici legati a tensioni geopolitiche.",
+      "link": "https://www.ilsole24ore.com/art/carburanti-taglio-accise-fino-30-aprile-AId70MHC",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Istat rileva speranza di vita a 65 anni al massimo di 21,4 anni",
+      "source": "Il Sole 24 Ore",
+      "summary": "Tabelle Istat 2025 provvisorie indicano 21,4 anni di vita attesa a 65 anni, record dal 2002. Dato aggiornerà requisiti pensionistici Fornero aumentando età contributi. Impatto su lavoratori e previdenza pubblica.",
+      "link": "https://www.ilsole24ore.com/art/speranza-vita-chi-ha-65-anni-massimi-servira-aggiornare-requisiti-le-pensioni-AIZ3y3GC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo aumenta aliquota credito d'imposta per esodati 5.0",
+      "source": "Il Sole 24 Ore",
+      "summary": "Dl fiscale in esame prevede rialzo aliquota bonus per 1.600 progetti esodati usando fondo residuo anti-caro energia. Solo 12% finanziato finora. Misura sostiene imprese e lavoratori esclusi da pensioni anticipate.",
+      "link": "https://www.ilsole24ore.com/art/esodati-50-governo-lavoro-aumentare-l-aliquota-AIm9nkFC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 251,
+    "articlesAfterDedup": 251,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 5,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 1,
+      "economy": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 2
+    }
+  }
+}

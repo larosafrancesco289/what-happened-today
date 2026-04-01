@@ -1,0 +1,206 @@
+{
+  "date": "2026-04-01",
+  "summary": "Rwanda-backed rebels overran Congolese troops and entered Goma with gunfire and shelling. Over one million people displaced inside the city, which serves as an aid hub. The U.N. warns of humanitarian collapse in the safe zone without intervention.\n\nIn the U.S., Supreme Court justices heard President Trump's appeal of a lower-court block on his executive order denying birthright citizenship to children of undocumented or temporary immigrants. Trump attended the arguments. A decision could affect millions in immigration policy. A federal judge blocked Trump's order cutting funds to NPR and PBS public broadcasters. An appeals court paused a related order for Voice of America workers. Trump signed an executive order directing states to compile citizen voter lists and limit U.S. Postal Service mail ballots to verified voters; legal experts question the authority. TMZ filmed lawmakers on recess amid the month-long Department of Homeland Security shutdown, as Senate leaders discuss a funding bill affecting federal workers and services.\n\nIndia began its census in two phases using three million officials to count 1.4 billion residents; delays since 2021 impact welfare and election planning. Renewables reached nearly 50 percent of global electricity capacity in 2025, with solar surging 511 gigawatts to 2,392 gigawatts led by China and Europe. Israel permitted displaced Palestinians to cross into northern Gaza on foot after a hostage release deal. UN food aid cuts starting Wednesday affect over 500,000 Rohingya refugees in Bangladesh camps. NATO deployed units after another Baltic Sea cable severance suspected as sabotage. SpaceX Falcon 9 launched NASA astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the ISS for Crew-10 rotation, enabling return of Butch Wilmore and Suni Williams.",
+  "headlines": [
+    {
+      "title": "Supreme Court Hears Arguments on Trump's Birthright Citizenship Executive Order",
+      "source": "AP",
+      "sources": [
+        "AP",
+        "NPR"
+      ],
+      "summary": "U.S. Supreme Court justices hear Trump's appeal of a lower-court block on his order denying citizenship to children of undocumented or temporary immigrants. Trump attends arguments. Decision could reshape immigration policy affecting millions.",
+      "link": "https://apnews.com/article/supreme-court-trump-birthright-citizenship-immigrants-4dca3a4e06f58d4378412ed711fab3a8",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AP",
+          "angle": "Focuses on case details, executive order content, and Trump's planned attendance at arguments",
+          "link": "https://apnews.com/article/supreme-court-trump-birthright-citizenship-immigrants-4dca3a4e06f58d4378412ed711fab3a8"
+        },
+        {
+          "source": "NPR",
+          "angle": "Emphasizes Trump as first sitting president attending Supreme Court oral arguments",
+          "link": "https://www.npr.org/2026/04/01/g-s1-116019/trump-attend-supreme-court-birthright-citizenship"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Federal Judge Blocks Trump's Order Barring Funding for NPR and PBS",
+      "source": "Deutsche Welle",
+      "summary": "U.S. judge halts presidential directive cutting funds to NPR and PBS public broadcasters. Appeals court pauses order for Voice of America workers. Affects public media operations nationwide amid policy disputes.",
+      "link": "https://www.dw.com/en/us-judge-blocks-trump-order-that-barred-funding-for-npr-pbs/a-76615077?maca=en-rss-en-top-1022-rdf",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "TMZ and Critics Pressure Congress to End Record Partial Government Shutdown",
+      "source": "AP",
+      "summary": "Tabloid TMZ films lawmakers on recess during month-long Department of Homeland Security shutdown. Senate leaders discuss funding bill. Impacts federal workers and services, risks broader fiscal crisis.",
+      "link": "https://apnews.com/article/congress-tmz-recess-shutdown-trump-65cb993988d42c7b17656a3d7d9f6008",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AP"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Signs Executive Order Creating Voter Eligibility Lists for Mail Ballots",
+      "source": "NPR",
+      "summary": "President Trump directs states to compile citizen voter lists and limits U.S. Postal Service mail ballots to verified voters. Legal experts question authority. Could alter election access for millions.",
+      "link": "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "India Launches Census Counting Over One Billion People with Three Million Officials",
+      "source": "BBC",
+      "summary": "India begins world's largest census in two phases using three million officials to count every resident. Delays since 2021 affect policy planning. Provides data for welfare, elections impacting 1.4 billion.",
+      "link": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Renewables Reach Almost 50 Percent of Global Electricity Capacity in 2025",
+      "source": "Japan Times",
+      "summary": "Solar capacity surges 511 gigawatts to 2,392 GW, driving renewables to nearly half global power. Led by China, Europe. Accelerates energy transition reducing fossil fuel reliance worldwide.",
+      "link": "https://www.japantimes.co.jp/environment/2026/04/01/energy/renewables-half-global-capacity-2025-solar/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Food Aid Cuts Hit Hundreds of Thousands of Rohingya in Bangladesh Camps",
+      "source": "NPR",
+      "summary": "UN slashes food assistance for Rohingya refugees in overcrowded Bangladesh camps starting Wednesday. Affects 500,000-plus amid desperation. Raises starvation risks without alternative funding.",
+      "link": "https://www.npr.org/2026/04/01/nx-s1-5769798/food-assistance-slashed-rohingya-refugees-bangladesh-camps",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Astronauts Stuck Nine Months",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries NASA astronauts Anne McClain, Nichole Ayers, Japan's Takuya Onishi, Russia's Kirill Peskov to ISS. Enables return of Butch Wilmore and Suni Williams. Routine rotation restores crew.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response After Another Baltic Sea Cable Severance",
+      "source": "Wall Street Journal",
+      "summary": "Alliance deploys units responding to suspected sabotage cutting deep-sea cable. Follows prior incidents threatening infrastructure. Heightens security amid hybrid threats to Europe.",
+      "tier": "developing",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "dayNumber": 2,
+      "previousContext": "Another cable severed prompting alliance's first coordinated infrastructure defense deployment",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Goma Displacing One Million",
+      "source": "Wall Street Journal",
+      "summary": "Rebels enter Congo's Goma aid hub with gunfire and shelling after defeating troops. Over one million displaced inside city. U.N. warns of humanitarian collapse in safe zone.",
+      "tier": "developing",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "dayNumber": 2,
+      "previousContext": "Rebels advance into safe-haven city overrunning positions and trapping over one million displaced",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians Cross Military Zone into Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Gazans to return north on foot following hostage release breakthrough. Ends prior deadlock. Aids reconstruction but tensions persist in divided enclave.",
+      "tier": "developing",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "dayNumber": 2,
+      "previousContext": "Gazans stream back across zone after hostage impasse resolved allowing returns",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 452,
+    "articlesAfterDedup": 452,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 4,
+      "society": 2,
+      "economy": 1,
+      "science": 1,
+      "conflict": 3
+    },
+    "regionCounts": {
+      "americas": 4,
+      "asia-pacific": 2,
+      "global": 2,
+      "europe": 1,
+      "africa": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

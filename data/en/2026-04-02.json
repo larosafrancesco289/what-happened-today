@@ -1,0 +1,209 @@
+{
+  "date": "2026-04-02",
+  "summary": "\"}\nAn undersea magnitude 7.4 earthquake struck off northern Indonesia on April 1, toppling buildings in Manado and killing at least one person. It generated 75cm tsunami waves, prompting thousands to flee homes. Monitoring continues for aftershocks and damage assessments in a seismically active region.\n\nIsraeli air defenses intercepted three waves of Iranian missiles near Tel Aviv early April 2, lightly wounding several people after sirens sounded nationwide. This followed President Trump's April 1 primetime address claiming U.S. goals neared in the Iran war and threatening to bomb Iran. Separately, Britain hosted a virtual meeting of 35 countries on April 3 to plan reopening the Strait of Hormuz, blocked by the U.S.-Israel-Iran war and affecting 20% of global oil trade. In eastern Congo, Rwanda-backed rebels overran troops and entered the city of Goma amid gunfire and shelling, displacing over 1 million people according to UN estimates and threatening a key aid hub.\n\nNASA launched the Artemis II mission from Kennedy Space Center on April 1 with three American astronauts and one Canadian for a 10-day lunar flyby, the first crewed Moon mission in 50 years. The U.S. lifted sanctions on Venezuela acting president Delcy Rodríguez after capturing Nicolás Maduro, easing economic pressures and impacting oil markets. A federal appeals court rejected the HUD plan to redirect homelessness funding to sobriety programs, affecting 600,000 unsheltered Americans; HUD must keep current priorities. The FDA approved the daily obesity pill Foundayo as a non-injection alternative to Wegovy. Hundreds of thousands of Palestinians crossed into northern Gaza after Israel resolved a hostage release impasse. Senate Republicans scheduled a Thursday vote on funding most DHS operations through September to end the record partial government shutdown affecting 200,000 employees, with House follow-up planned.\n\"\"}",
+  "headlines": [
+    {
+      "title": "Magnitude 7.4 Earthquake Topples Buildings in Northern Indonesia, Kills 1 Person",
+      "source": "Associated Press",
+      "summary": "Undersea 7.4 magnitude earthquake struck off Indonesia on April 1, toppling buildings in Manado, killing at least one person and generating 75cm tsunami waves. Thousands fled homes; affects regional stability amid seismic activity. Monitoring continues for aftershocks and damage assessments.",
+      "link": "https://apnews.com/article/indonesia-earthquake-molucca-sea-3538e21d71cf82da4733747987f701cd",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "NASA Launches Artemis II with Four Astronauts on First Crewed Moon Mission in 50 Years",
+      "source": "France 24",
+      "summary": "Artemis II crew of three Americans and one Canadian lifted off from Kennedy Space Center on April 1, beginning 10-day lunar flyby. Marks restart of human Moon exploration toward south pole landings. Boosts global space ambitions and technology sharing.",
+      "link": "https://www.france24.com/en/americas/20260401-artemis-ii-launches-historic-flyby-lunar-mission-with-diverse-crew",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Air Defences Intercept Three Waves of Iranian Missiles Near Tel Aviv",
+      "source": "France 24",
+      "summary": "Israel intercepted multiple Iranian missile barrages early April 2, lightly wounding several in Tel Aviv area after US presidential address. Triggers sirens across country; escalates regional conflict, raises escalation fears. Live updates track further attacks.",
+      "link": "https://www.france24.com/en/middle-east/20260402-middle-east-live-israeli-air-defences-intercept-multiple-iranian-missile-waves",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Delivers Primetime Address on Iran War Progress and Bombing Threats",
+      "source": "Al Jazeera English",
+      "summary": "President Trump claimed US nears goals in Iran war during April 1 speech, promising to bomb Iran back to Stone Age. Affects global markets and alliances; signals intensified military push amid ongoing conflict. Viewers await policy shifts.",
+      "link": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US Lifts Sanctions on Venezuela Acting President Delcy Rodríguez",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "Deutsche Welle",
+        "NPR News"
+      ],
+      "summary": "US removes sanctions on interim leader Delcy Rodríguez after capturing Nicolás Maduro, recognizing her authority. Eases economic pressures on Venezuela; affects oil markets and regional stability. Further relief measures possible amid transition.",
+      "link": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-venezuelas-acting-president-delcy-rodriguez/article70814090.ece",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Emphasizes US recognition of Rodríguez as legitimate post-Maduro capture",
+          "link": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-venezuelas-acting-president-delcy-rodriguez/article70814090.ece"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Highlights gradual US easing of Venezuela sanctions after toppling Maduro",
+          "link": "https://www.dw.com/en/us-lifts-sanctions-on-venezuela-s-acting-president-delcy-rodriguez/a-76635151?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Notes sanctions relief as latest recognition of Rodríguez since Maduro capture",
+          "link": "https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Appeals Court Rejects HUD Plan to Shift Homelessness Funding to Sobriety Programs",
+      "source": "NPR News",
+      "summary": "Federal appeals court blocks HUD overhaul redirecting funds from permanent housing to conditional programs. Advocates say it risks increasing homelessness; affects 600,000 unsheltered Americans. HUD must maintain current priorities.",
+      "link": "https://www.npr.org/2026/04/01/nx-s1-5770629/appeals-court-rejects-hud-homelessness-overhaul",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "FDA Approves Daily Obesity Pill Foundayo to Compete with Wegovy",
+      "source": "NPR News",
+      "summary": "FDA fast-tracks Foundayo pill as non-injection option for weight loss, targeting millions with obesity. Competes with Wegovy pill form; expands access to treatments reducing health risks like diabetes. Rollout begins soon.",
+      "link": "https://www.npr.org/2026/04/01/nx-s1-5760899/weight-loss-pill-foundayo",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "UK Hosts 30 Countries to Plan Reopening of Strait of Hormuz Shipping Route",
+      "source": "Associated Press",
+      "summary": "Britain chairs virtual meeting of 35 nations on April 3 to pressure reopening Hormuz strait choked by US-Israel-Iran war. Affects 20% global oil trade; impacts energy prices worldwide. Diplomatic efforts seek de-escalation.",
+      "link": "https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Goma Displacing One Million",
+      "source": "Wall Street Journal",
+      "summary": "Rebels entered Congo safe-haven city Goma amid gunfire, shelling; UN estimates over 1 million displaced inside. Overruns troops; threatens aid hub, worsens humanitarian crisis for millions. Evacuations and reinforcements underway.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels advanced into Goma outskirts yesterday; today they enter city center with active combat displacing 1 million residents",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians Stream into Northern Gaza After Israel Breaks Hostage Deadlock",
+      "source": "Wall Street Journal",
+      "summary": "Displaced Gazans cross military zone on foot into north after hostage release impasse resolved. Affects hundreds of thousands returning; eases division of enclave. Further movements depend on security and aid access.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Initial crossings occurred yesterday post-hostage deal; today large streams return following deadlock resolution",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Republicans Plan DHS Funding Vote to End Record Partial Government Shutdown",
+      "source": "Associated Press",
+      "summary": "Senate tests Republican measure Thursday to fund most DHS through September, excluding immigration enforcement. Addresses longest shutdown; affects 200,000 employees. House follow-up aims for three-year funding without Democrats.",
+      "link": "https://apnews.com/article/senate-funding-homeland-security-shutdown-4a3e4a3e77bd33213b98888e79a81f51",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pressure mounted yesterday; today deal announced with Thursday test vote for partial funding resolution",
+      "sources": [
+        "Associated Press"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 457,
+    "articlesAfterDedup": 455,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "environment": 1,
+      "science": 2,
+      "conflict": 4,
+      "politics": 4
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "americas": 5,
+      "middle-east": 4,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

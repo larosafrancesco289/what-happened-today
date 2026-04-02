@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-02",
+  "summary": "Il presidente USA Donald Trump ha annunciato la decimazione delle capacità belliche iraniane dopo le offensive americane delle ultime settimane. Nel discorso alla nazione, ha descritto la neutralizzazione delle forze iraniane e la supremazia tattica USA. Ha chiesto pazienza agli elettori, definendo la guerra un investimento per il futuro. Questo influisce sugli equilibri in Medio Oriente e sui prezzi globali dell'energia. Subito dopo, l'Iran ha lanciato attacchi su Tel Aviv ferendo quattro persone con lesioni lievi. Si monitorano rischi di ulteriori ritorsioni, in collegamento con gli attacchi iraniani su Israele di ieri che hanno ferito 18 persone.\n\nLa NASA ha lanciato il razzo SLS con la capsula Orion e quattro astronauti verso l'orbita terrestre. L'equipaggio di Artemis II, formato da Victor Glover, Christina Koch, Reid Wiseman e Jeremy Hansen, ha raggiunto l'orbita otto minuti dopo il decollo dalla Florida. Effettueranno test orbitali prima di dirigersi verso la Luna, primo volo con equipaggio dal 1972. In Italia, i procuratori accusano il governatore ligure Giovanni Toti di aver manipolato i dati sui contagi COVID, ordinando al capo gabinetto Matteo Cozzani di alterarli, come aumentare i numeri. L'indagine rivela pratiche sistematiche. Uno studio su Science Translational Medicine identifica la combinazione di farmaci LSD1 e PARP1 contro la crescita di tumori multipli con mutazioni BAP1 nei modelli animali, prolungando la sopravvivenza e offrendo una strategia pan-cancro.\n\nRe Carlo III pronuncerà un discorso al Congresso USA il 28 aprile su invito dello Speaker Mike Johnson, per i 250 anni dell'indipendenza americana, rafforzando l'alleanza UK-USA. L'Istat rileva 8 milioni di italiani a rischio per consumo di alcol e aumento delle sigarette elettroniche, con divari Nord-Sud e calo della sedentarietà. Stellantis richiama 700.000 veicoli ibridi per rischio incendio da assemblaggio difettoso del tubo filtro antiparticolato. Aprono le vendite biglietti per i Giochi Olimpici di Los Angeles 2028, prima per residenti California Sud e Oklahoma fino al 6 aprile, con emissione prevista di 14 milioni di ticket. Un sondaggio indica che sei italiani su dieci prevedono recessione nei prossimi mesi per guerre e rincari, con otto su dieci che attendono aumento del costo della vita.",
+  "headlines": [
+    {
+      "title": "NASA lancia razzo SLS con capsula Orion e quattro astronauti verso orbita terrestre",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "L'equipaggio di Artemis II, composto da Victor Glover, Christina Koch, Reid Wiseman e Jeremy Hansen, ha raggiunto l'orbita terrestre dopo otto minuti dal decollo dalla Florida. Effettueranno test prima di dirigersi alla Luna, primo volo con equipaggio dal 1972. Riapre era esplorazioni lunari umane.",
+      "link": "https://www.agi.it/estero/video/2026-04-02/artemis-lancio-orion-luna-orbita-36402449/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive decollo, separazione Orion da SLS e arrivo in orbita terrestre con nomi equipaggio",
+          "link": "https://www.agi.it/estero/video/2026-04-02/artemis-lancio-orion-luna-orbita-36402449/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Mostra video decollo razzo dalla Florida per prima missione lunare con equipaggio da 50 anni",
+          "link": "http://it.euronews.com/video/2026/04/02/video-il-razzo-artemis-ii-della-nasa-decolla-per-una-storica-missione-lunare"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Trump annuncia decimazione capacità belliche Iran dopo offensive USA delle ultime settimane",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Nel discorso alla nazione, il presidente USA Donald Trump descrive neutralizzazione forze iraniane e supremazia tattica americana. Chiede pazienza agli elettori definendo guerra investimento futuro. Influisce equilibri Medio Oriente e prezzi energia globale.",
+      "link": "https://www.agi.it/estero/news/2026-04-02/trump-iran-medio-oriente-36401465/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Riporta discorso Trump con toni definitivi su bilancio conflitto e neutralizzazione Iran",
+          "link": "https://www.agi.it/estero/news/2026-04-02/trump-iran-medio-oriente-36401465/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Evidenzia richiesta pazienza e definizione guerra come investimento per futuro America",
+          "link": "https://www.repubblica.it/esteri/2026/04/02/news/trump_discorso_nazione_iran_guerra-425259040/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Procuratori accusano governatore Toti di manipolare dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo pm, Giovanni Toti ordinava al capo gabinetto Matteo Cozzani di alterare numeri pandemia, come aumentare contagi. Indagine rivela pratiche sistematiche. Mina fiducia istituzioni sanitarie e politiche regionali.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Studio identifica combinazione farmaci LSD1 e PARP1 contro crescita tumori multipli",
+      "source": "AGI",
+      "summary": "Ricerca preclinica su Science Translational Medicine mostra inibizione proteine LSD1 e PARP1 riduce tumori con mutazioni BAP1 nei modelli animali, prolungando sopravvivenza. Offre strategia terapeutica pan-cancro per pazienti oncologici.",
+      "link": "https://www.agi.it/salute/news/2026-04-02/tumori-pan-cancro-blocca-crescita-36391301/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Re Carlo III pronuncerà discorso al Congresso USA il 28 aprile per 250 anni indipendenza",
+      "source": "AGI",
+      "summary": "Speaker Mike Johnson invita sovrano britannico per visita Stato. Celebra eredità condivisa UK-USA. Rafforza alleanza transatlantica in contesto tensioni globali.",
+      "link": "https://www.agi.it/estero/news/2026-04-02/re-carlo-usa-visita-36395056/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Istat rileva 8 milioni italiani a rischio per consumo alcol e aumento e-cig",
+      "source": "ANSA",
+      "summary": "Rapporto evidenzia boom sigarette elettroniche e calo sedentarietà, ma forti divari Nord-Sud. Segnala necessità interventi preventivi per salute pubblica.",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/04/01/ansaa-rischio-per-consumo-di-alcol-8-milioni-di-italiani-boom-delle-e-cig_dc668efd-68e9-42fc-9991-dd3aca918bc4.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Stellantis richiama 700mila veicoli ibridi per rischio incendio da assemblaggio difettoso",
+      "source": "Rai News",
+      "summary": "Problema riguarda gioco insufficiente tra tubo filtro antiparticolato e calotta generatore avviamento. Intervento obbligatorio per sicurezza utenti stradali.",
+      "link": "https://www.rainews.it/articoli/2026/04/stellantis-richiama-700mila-veicoli-per-potenziale-rischio-incendio-e2f314c9-1596-4f2a-af29-fd6a261d1966.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Organizzatori aprono vendita biglietti per Giochi Olimpici Los Angeles 2028",
+      "source": "AGI",
+      "summary": "Prima finestra per residenti California Sud e Oklahoma fino al 6 aprile, massimo 12 biglietti per sport più 12 per calcio. Prevista emissione 14 milioni ticket, record atteso.",
+      "link": "https://www.agi.it/sport/news/2026-04-02/los-angeles-giochi-biglietti-prezzi-36397738/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran lancia attacchi su Tel Aviv ferendo 4 persone dopo discorso Trump",
+      "source": "TGCOM24",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump annuncia decimazione Iran; media israeliani attribuiscono danni a munizioni grappolo; ambasciata USA Iraq avverte rischio milizie Baghdad entro 48 ore",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-2-aprile_110615362-202602k.shtml",
+      "summary": "Quattro feriti lievi area Tel Aviv da attacchi iraniani post-discorso Trump. Collega escalation Medio Oriente con tensioni Hormuz e petrolio. Monitoraggio rischi ulteriori ritorsioni.",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Sei italiani su dieci prevedono recessione per guerre e rincari prossimi mesi",
+      "source": "Il Sole 24 Ore",
+      "summary": "Sondaggio mostra 8 su 10 aspettano aumento costo vita, quasi metà rincari significativi. Influenza consumi e politiche economiche governo.",
+      "link": "https://www.ilsole24ore.com/art/guerre-e-rincari-sei-italiani-dieci-si-aspettano-recessione-prossimi-mesi-AIMwKUIC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 251,
+    "articlesAfterDedup": 251,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "science": 2,
+      "conflict": 2,
+      "politics": 2,
+      "society": 2,
+      "economy": 2
+    },
+    "regionCounts": {
+      "global": 2,
+      "middle-east": 2,
+      "europe": 5,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

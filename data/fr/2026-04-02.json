@@ -1,0 +1,265 @@
+{
+  "date": "2026-04-02",
+  "summary": "L'armée israélienne a intercepté quatre salves de missiles lancés par l'Iran en six heures jeudi. Deux salves ont eu lieu après le discours de Donald Trump mercredi, dans lequel il a annoncé des frappes contre l'Iran dans deux à trois semaines. La guerre au Moyen-Orient entre Israël, les États-Unis et l'Iran entre dans son 34e jour. Les cours du pétrole ont augmenté suite à ces déclarations, tandis que les bourses asiatiques ont baissé. Cela prolonge les tensions régionales et impacte les marchés mondiaux.\n\nLa NASA a lancé avec succès la mission Artemis II jeudi à 0h35 de Cap Canaveral en Floride. La fusée Space Launch System a emporté quatre astronautes : Reid Wiseman, Victor Glover, Christina Koch des États-Unis et Jeremy Hansen du Canada. Ils effectueront une mission de neuf à dix jours autour de la Lune, première mission habitée américaine depuis 1972. Un alunissage est prévu en 2028. Séparément, les chefs républicains du Congrès, Mike Johnson et John Thune, ont annoncé un accord pour financer le Département de la Sécurité intérieure, hors ICE, évitant une paralysie budgétaire prolongée. Un vote est prévu jeudi.\n\nDonald Trump a menacé de retirer les États-Unis de l'OTAN en raison de l'attitude des alliés sur l'Iran, lors d'une interview. Le Congrès pourrait bloquer un retrait unilatéral. Trump a également critiqué Emmanuel Macron sur la guerre au Moyen-Orient lors de la tournée asiatique de ce dernier, après le Japon et en Corée du Sud. Aux États-Unis, un responsable du Pentagone a annoncé trois nouvelles bases militaires au Groenland lors d'une audition mi-mars. En France, le fisc a redressé 58 pour cent des foyers riches contrôlés sans impôt sur le revenu en trois ans. Au Portugal, la coalition de droite a obtenu le soutien de l'extrême droite pour adopter une loi jeudi. La Bolivie reprend des enquêtes conjointes avec la DEA sur le trafic de drogue après dix-huit ans.",
+  "headlines": [
+    {
+      "title": "La NASA lance avec succès quatre astronautes vers la Lune lors de la mission Artemis II",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info",
+        "Radio-Canada"
+      ],
+      "summary": "La fusée Space Launch System a décollé jeudi à 0h35 de Cap Canaveral avec Reid Wiseman, Victor Glover, Christina Koch et Jeremy Hansen pour une mission de neuf à dix jours autour de la Lune, première habitée depuis 1972. Cela marque le retour américain vers la Lune visant un alunissage en 2028.",
+      "link": "https://www.lemonde.fr/sciences/live/2026/04/02/en-direct-artemis-2-lancement-reussi-pour-les-quatre-astronautes-vers-la-lune-suivez-en-direct-la-mission-historique-de-la-nasa_6675934_1650684.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Suit en direct le lancement réussi de la fusée avec quatre astronautes pour mission autour de la Lune",
+          "link": "https://www.lemonde.fr/sciences/live/2026/04/02/en-direct-artemis-2-lancement-reussi-pour-les-quatre-astronautes-vers-la-lune-suivez-en-direct-la-mission-historique-de-la-nasa_6675934_1650684.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Revit le décollage réussi vers la Lune pour la première fois depuis 1972 avec trois Américains et un Canadien",
+          "link": "https://www.franceinfo.fr/sciences/espace/mission-artemis-vers-la-lune/revivez-le-decollage-reussi-de-la-mission-artemis-2-qui-a-envoye-quatre-astronautes-vers-la-lune-pour-la-premiere-fois-depuis-1972_7910228.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Annonce le lancement réussi de la fusée à 18h35 HAE pour une mission de dix jours vers l'orbite lunaire",
+          "link": "https://ici.radio-canada.ca/nouvelle/2243424/artemis-ii-lancement-jeremy-hansen"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Les républicains du Congrès annoncent un accord pour financer le DHS et lever la paralysie budgétaire partielle",
+      "source": "Le Monde",
+      "summary": "Mike Johnson et John Thune, chefs des majorités républicaines, s'accordent sur le financement du Département de la Sécurité intérieure, hors ICE, après des semaines de shutdown. Un vote est prévu jeudi, évitant une crise prolongée au gouvernement fédéral.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/02/etats-unis-les-republicains-annoncent-un-accord-pour-mettre-fin-a-la-paralysie-budgetaire-partielle_6675989_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump menace de retirer les États-Unis de l'OTAN en raison de l'attitude des alliés sur l'Iran",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Dans une interview, le président américain justifie ses griefs contre l'Alliance atlantique par la guerre au Moyen-Orient, ravivant les tensions transatlantiques. Le Congrès pourrait bloquer un retrait unilatéral.",
+      "link": "https://www.lefigaro.fr/international/froisse-par-l-attitude-des-allies-en-iran-trump-menace-de-sortir-de-l-otan-20260401",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "L'armée israélienne intercepte quatre salves de missiles iraniens en six heures",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Jeudi, Israël repousse quatre attaques missiles d'Iran, deux après le discours de Trump promettant des frappes encore deux à trois semaines. Cela prolonge les tensions régionales et impacte les marchés.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260402-en-direct-iran-moyen-orient-donald-trump-israel-petrole-golfe-ormuz",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Indique quatre attaques iraniennes en six heures dont deux après discours Trump",
+          "link": "https://www.france24.com/fr/moyen-orient/20260402-en-direct-iran-moyen-orient-donald-trump-israel-petrole-golfe-ormuz"
+        },
+        {
+          "source": "RFI",
+          "angle": "Signale une nouvelle salve de tirs de missiles iraniens juste après allocution Trump",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260402-en-direct-guerre-au-moyen-orient-trump-affirme-que-l-iran-sera-frapp%C3%A9-extr%C3%AAmement-durement-pendant-encore-deux-%C3%A0-trois-semaines"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les cours du pétrole augmentent après l'allocution de Donald Trump sur la guerre en Iran",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Liberation",
+        "France Info"
+      ],
+      "summary": "Suite au discours de Trump annonçant des frappes iraniennes encore deux à trois semaines, le pétrole remonte tandis que les bourses asiatiques baissent. Cela reflète les craintes d'une prolongation du conflit affectant l'économie mondiale.",
+      "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-le-petrole-en-hausse-et-les-bourses-en-asie-en-baisse-apres-les-declarations-de-trump-20260402",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Rapporte hausse pétrole et baisse bourses Asie après déclarations Trump sur frappes Iran",
+          "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-le-petrole-en-hausse-et-les-bourses-en-asie-en-baisse-apres-les-declarations-de-trump-20260402"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Suit en direct la hausse des cours du pétrole au 33e jour du conflit après discours Trump",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-cours-du-petrole-repartent-a-la-hausse-apres-le-discours-de-trump-20260402_QLDZWFMRKZH3NC6MCNXEABHSWE/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Visualise hausse essence et diesel près de chez vous depuis début guerre Moyen-Orient",
+          "link": "https://www.franceinfo.fr/economie/automobile/essence/carte-prix-des-carburants-visualisez-la-hausse-de-l-essence-et-du-diesel-pres-de-chez-vous-depuis-le-debut-de-la-guerre-au-moyen-orient_7908539.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Le fisc français redresse 58 pour cent des riches détenant gros patrimoine sans impôt sur le revenu",
+      "source": "Le Monde",
+      "summary": "En trois ans, Bercy a contrôlé un quart à un tiers de ces foyers, redressant 58 pour cent d'entre eux. Cela renforce les contrôles sur les inégalités fiscales et augmente les rentrées budgétaires.",
+      "link": "https://www.lemonde.fr/politique/article/2026/04/02/redressements-fiscaux-en-rafale-chez-les-riches-qui-ne-paient-pas-d-impot-sur-le-revenu_6676080_823448.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Les États-Unis prévoient trois nouvelles bases militaires au Groenland",
+      "source": "RFI",
+      "summary": "Un responsable du Pentagone l'annonce lors d'une audition au Congrès mi-mars, après les menaces d'annexion de Trump. Cela étend la présence américaine sur le territoire danois, suscitant des tensions avec l'Europe.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260402-groenland-%C3%A9tats-unis-veulent-%C3%A9tendre-pr%C3%A9sence-militaire-avec-trois-nouvelles-bases-sur-l-%C3%AEle",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La coalition portugaise obtient les voix de l'extrême droite pour adopter une loi au Parlement",
+      "source": "RTBF",
+      "summary": "Jeudi, le gouvernement de droite fait voter la loi grâce au soutien de l'extrême droite. Cela illustre les alliances nécessaires pour gouverner dans un contexte politique fragmenté au Portugal.",
+      "link": "https://www.rtbf.be/article/portugal-nouvel-accord-entre-le-gouvernement-et-l-extreme-droite-pour-voter-une-loi-11704025",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "La Bolivie reprend des enquêtes conjointes avec la DEA sur le trafic de drogue après dix-huit ans",
+      "source": "RFI",
+      "summary": "Le vice-ministre bolivien Ernesto Justiniano confirme la relance des opérations avec l'agence antidrogue américaine. Cela marque une coopération renforcée contre le narcotrafic en Amérique du Sud.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260402-trafic-drogue-bolivie-dea-agence-antidrogue-am%C3%A9ricaine-reprennent-des-enqu%C3%AAtes-conjointes",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump critique Emmanuel Macron sur la guerre au Moyen-Orient lors de sa tournée en Asie",
+      "source": "RFI",
+      "summary": "Après le Japon, Macron arrive en Corée pollué par les attaques répétées de Trump. Cela complique la diplomatie française au moment où les tensions transatlantiques s'exacerbent.",
+      "link": "https://www.rfi.fr/fr/france/20260402-guerre-moyen-orient-critiques-trump-poursuivent-emmanuel-macron-jusqu-en-asie",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Donald Trump annonce dans son allocution des frappes iraniennes encore deux à trois semaines et appelle à prendre le détroit d'Ormuz ; Iran promet attaques écrasantes contre États-Unis et Israël",
+      "sources": [
+        "RFI"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Guerre au Moyen-Orient entre Israël, États-Unis et Iran au 34e jour",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Le Figaro",
+        "Le Monde",
+        "France Info"
+      ],
+      "summary": "Trump promet dans son discours de mercredi de frapper durement l'Iran sans issue claire, Iran répond par menaces d'attaques. Cela maintient l'instabilité économique mondiale avec hausse pétrole.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260402-en-direct-guerre-au-moyen-orient-trump-affirme-que-l-iran-sera-frapp%C3%A9-extr%C3%AAmement-durement-pendant-encore-deux-%C3%A0-trois-semaines",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Au 34e jour, Trump juge l'Iran moins menaçant et annonce fin proche des objectifs ; Israël contre nouvelle salve missiles iraniens ; marchés réagissent négativement",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Iran promet attaques écrasantes après menaces Trump dans allocution à la nation",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260402-en-direct-guerre-au-moyen-orient-trump-affirme-que-l-iran-sera-frapp%C3%A9-extr%C3%AAmement-durement-pendant-encore-deux-%C3%A0-trois-semaines"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Trump menace infrastructures énergétiques iraniennes en absence d'accord lors allocution télévisée",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-discours-donald-trump-israel-emirats-arabes-unis-qatar-koweit-oman-arabie-saoudite-bahrein-detroit-ormuz-otan-petrole-20260402"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Trump promet renvoyer l'Iran à l'âge de pierre sans dessiner issue à la guerre dans allocution",
+          "link": "https://www.lemonde.fr/international/article/2026/04/02/donald-trump-promet-de-renvoyer-l-iran-a-l-age-de-pierre-sans-dessiner-d-issue-a-la-guerre_6676067_3210.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Retient de l'allocution de Trump la durée de deux à trois semaines de frappes et prise détroit Ormuz",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-annonce-que-l-iran-sera-frappe-extremement-durement-pendant-encore-deux-a-trois-semaines_7910366.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 220,
+    "articlesAfterDedup": 219,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "science": 1,
+      "politics": 6,
+      "conflict": 2,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "global": 2,
+      "americas": 2,
+      "middle-east": 3,
+      "europe": 4
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 2
+    }
+  }
+}

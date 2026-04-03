@@ -1,0 +1,185 @@
+{
+  "date": "2026-04-03",
+  "summary": "L'Iran ha annunciato l'abbattimento di un secondo caccia F-35 statunitense, mentre l'intelligence americana rileva migliaia di lanciatori di missili e droni iraniani ancora operativi. Il presidente Trump ha minacciato la distruzione delle centrali elettriche iraniane dopo le offensive USA delle ultime settimane, che avevano già portato alla decimazione di parte delle capacità belliche di Teheran. In parallelo, il Regno Unito ha convocato 40 Paesi in videoconferenza per riaprire lo Stretto di Hormuz, chiuso dal conflitto. L'Iran prepara nuove regole di navigazione con pedaggi; l'Italia spinge per un corridoio umanitario per fertilizzanti sotto l'egida ONU.\n\nLa capsula Orion della missione Artemis 2, con quattro astronauti, ha completato l'iniezione translunare (TLI) durata 5 minuti e 49 secondi, lasciando l'orbita terrestre nella notte. Il viaggio verso la Luna procede secondo il programma NASA partito ieri con il lancio del razzo SLS. Il capo di stato maggiore dell'esercito USA, generale George, ha presentato dimissioni immediate su richiesta del segretario alla Difesa Hegseth per allineare la leadership alla visione Trump sul Pentagono. Il cambio rafforza il controllo sulla strategia militare.\n\nUn missile ha colpito la base italiana Unifil a Shama in Libano, senza feriti e con danni lievi; si tratta del terzo episodio di coinvolgimento italiano dall'inizio della crisi, senza attribuzione in mezzo all'escalation Israele-Hezbollah. L'Italia, con Francia e Spagna, ha inviato una lettera all'ONU per modificare le regole d'ingaggio di Unifil o ritirare il contingente a causa dei rischi da fuoco incrociato. In Italia, il Consiglio dei ministri ha prorogato al 30 aprile il taglio delle accise di 25 centesimi al litro su benzina e gasolio e 12 centesimi al chilo su GPL, scaduto il 7 aprile. Il vicepresidente USA Vance visita l'Ungheria il 9-10 aprile per incontrare Viktor Orbán prima delle elezioni del 12 aprile. Cuba ha concesso grazia a oltre 2.000 prigionieri politici, il gesto più ampio da 10 anni sotto pressioni USA. L'Iran ha arrestato l'avvocatessa Nasrin Sotoudeh a Teheran senza motivi specificati, tra arresti legati alle proteste contro il regime.",
+  "headlines": [
+    {
+      "title": "Governo riunito in CdM proroga taglio accise carburanti di 25 centesimi al litro",
+      "source": "AGI",
+      "summary": "Il Consiglio dei ministri discute decreto per prorogare fino al 30 aprile il taglio delle accise di 25 centesimi al litro su benzina e gasolio e 12 centesimi al chilo su GPL, scaduto il 7 aprile. Misura contiene prezzi carburanti per famiglie e imprese.",
+      "link": "https://www.agi.it/economia/news/2026-04-02/accise-carburanti-proroga-36399985/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Teheran rivendica abbattimento secondo caccia F-35 statunitense",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Iran annuncia di aver abbattuto un secondo F-35 USA mentre l'intelligence americana rileva migliaia di lanciatori missili e droni iraniani ancora operativi. Trump minaccia distruzione centrali elettriche dopo offensive USA.",
+      "link": "https://www.agi.it/estero/news/2026-04-03/iran-guerra-notizie-3-aprile-36421062/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive rivendicazione Teheran di abbattuto secondo F35 USA e minacce Trump su centrali elettriche",
+          "link": "https://www.agi.it/estero/news/2026-04-03/iran-guerra-notizie-3-aprile-36421062/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta intelligence USA su metà lanciatori missili iraniani intatti e abbattimento F-35",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3-aprile_110645246-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Quaranta Stati convocati per riapertura Stretto di Hormuz",
+      "source": "AGI",
+      "summary": "Regno Unito riunisce 40 Paesi in videoconferenza per riaprire lo stretto di Hormuz, chiuso dal conflitto. Iran prepara nuove regole con pedaggi; Italia spinge per corridoio umanitario fertilizzanti sotto ONU.",
+      "link": "https://www.agi.it/estero/news/2026-04-03/hormuz-pressione-globale-36418498/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Vicepresidente USA Vance visita Ungheria per sostenere Orbán",
+      "source": "Euronews Italiano",
+      "summary": "JD Vance incontra Viktor Orbán a Budapest il 9-10 aprile prima delle elezioni ungheresi del 12 aprile. Visita rafforza alleanza conservatrice in vista di voto incerto per il premier.",
+      "link": "http://it.euronews.com/my-europe/2026/04/03/vance-in-visita-in-ungheria-per-sostenere-orban-alle-elezioni-del-12-aprile",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cuba concede grazia a oltre 2mila prigionieri politici",
+      "source": "la Repubblica",
+      "summary": "Governo cubano libera più di 2000 detenuti in gesto umanitario più ampio da 10 anni, sotto pressioni USA. Avana difende iniziativa come apertura in contesto tensioni bilaterali.",
+      "link": "https://www.repubblica.it/esteri/2026/04/03/news/cuba_grazia_2mila_prigionieri-425261695/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Capo stato maggiore esercito USA presenta dimissioni immediate",
+      "source": "la Repubblica",
+      "summary": "Generale George dà le dimissioni su richiesta segretario Difesa Hegseth per allineare leadership a visione Trump. Cambio rafforza controllo Pentagono su strategia militare.",
+      "link": "https://www.repubblica.it/esteri/2026/04/03/news/hegseth_capo_esercito_usa_george_dimissioni-425261440/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Missile colpisce base italiana Unifil a Shama in Libano",
+      "source": "la Repubblica",
+      "summary": "Razzi colpiscono base Unifil italiana a Shama senza feriti e con danni lievi, terzo episodio coinvolgimento italiani dall'inizio crisi. Nessuna attribuzione in escalation Israele-Hezbollah.",
+      "link": "https://www.repubblica.it/esteri/2026/04/03/news/libano_missile_unifil_colpita_base_italiani-425261321/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Italia invia lettera ONU per cambio regole contingente Unifil",
+      "source": "la Repubblica",
+      "summary": "Ministro Crosetto coordina con Francia e Spagna richiesta a ONU per modificare regole ingaggio Unifil o ritiro, causa rischi crescenti da fuoco incrociato in Libano.",
+      "link": "https://www.repubblica.it/esteri/2026/04/03/news/cambio_regole_o_via_contingente_unifil_lettera_italia_onu-425261308/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Missione Artemis completa iniezione translunare verso Luna",
+      "source": "AGI",
+      "summary": "Capsula Orion con quattro astronauti lascia orbita terrestre dopo TLI durata 5 minuti e 49 secondi nella notte. Inizia viaggio verso Luna secondo programma Artemis 2.",
+      "link": "https://www.agi.it/estero/news/2026-04-02/artemis-luna-viaggio-36416274/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Capsula Orion completa iniezione translunare (TLI) alle 01:49 ora italiana, ultima accensione motori per dirigersi verso spazio profondo e Luna",
+      "sources": [
+        "AGI"
+      ],
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Iran arresta avvocatessa Nasrin Sotoudeh simbolo diritti umani",
+      "source": "TGCOM24",
+      "summary": "Autorità prelevano in casa a Teheran Nasrin Sotoudeh senza motivi, tra arresti ed esecuzioni legati proteste. Figura icona dissenso regime ayatollah.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/iran-critica-regime-arrestata-avvocatessa-diritti-umani_110644334-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 257,
+    "articlesAfterDedup": 257,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "politics": 5,
+      "conflict": 2,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 4,
+      "americas": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

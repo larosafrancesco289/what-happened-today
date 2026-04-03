@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-03",
+  "summary": "US strikes destroyed a major highway bridge outside Tehran and a public health institution. The targets followed President Trump's threats during his address on Iran war progress. Iranian transport and services for millions face disruptions. Further strikes on power plants are possible as operations continue.\n\nDefense Secretary Pete Hegseth requested early retirement for Army Chief of Staff Gen. Randy George amid the US war against Iran. Pentagon leadership changes affect military readiness; a successor search has begun. Separately, President Trump signed an executive order imposing up to 100% tariffs on select patented drugs from pharmaceutical companies without 'most favored nation' pricing deals. US drug buyers and global pharma firms face higher costs; negotiations are underway. The UN Security Council schedules a vote Friday on a Gulf-led resolution authorizing a defensive force to secure Strait of Hormuz shipping. Global energy trade remains at risk from Iranian actions; approval would enable naval deployments.\n\nIn Myanmar, junta leader Min Aung Hlaing won a parliamentary vote for presidency in the pro-military assembly, five years after the coup. The country's 50 million residents face continued military rule amid civil war. NATO launched its first coordinated response to a severed deep-sea cable in the Baltic Sea, suspected as sabotage. Alliance members are enhancing infrastructure defenses; investigations seek culprits. NASA's Artemis II crew of three Americans and one Canadian ignited engines for a lunar flyby trajectory, solar eclipse view, and distance records, with return expected in weeks. SpaceX's Crew-10 mission launched NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the ISS to retrieve Butch Wilmore and Suni Williams, stuck nine months. President Trump dismissed Attorney General Pam Bondi, whose tenure involved Epstein files; an acting AG serves pending confirmation. Human Rights Watch reported Burkina Faso security forces and militias caused most civilian deaths in the Sahel conflict, targeting Fulani more than militants.\"}",
+  "headlines": [
+    {
+      "title": "President Trump Signs Executive Order Imposing 100% Tariffs on Some Patented Drugs",
+      "source": "AP",
+      "summary": "President Trump signed an executive order targeting pharmaceutical companies without 'most favored nation' pricing deals, imposing tariffs up to 100% on select patented drugs. US drug buyers and global pharma firms face higher costs, prompting negotiations; this escalates trade pressures amid healthcare pricing debates.",
+      "link": "https://apnews.com/article/trump-tariffs-pharmaceutical-drugs-59ed7821faa5b52e2752c09edbbbf0ca",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AP"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Defense Secretary Hegseth Asks Army Chief Gen. Randy George to Step Down",
+      "source": "AP",
+      "summary": "Defense Secretary Pete Hegseth requested early retirement for Army Chief of Staff Gen. Randy George amid US war against Iran. Pentagon leadership faces shakeup, affecting military readiness; a successor search begins as operations continue.",
+      "link": "https://apnews.com/article/pentagon-hegseth-army-chief-iran-war-c6707d1d3a95ea5f679e0f9a5c5012e7",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AP"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "US Strikes Destroy Highway Bridge and Health Site Near Tehran",
+      "source": "New York Times",
+      "summary": "US strikes targeted a major highway bridge outside Tehran and a public health institution after President Trump's threats. Iranian infrastructure suffers setbacks, disrupting transport and services for millions; further targets like power plants loom.",
+      "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Myanmar Junta Chief Min Aung Hlaing Wins Parliamentary Vote for Presidency",
+      "source": "ABC Australia",
+      "sources": [
+        "ABC Australia",
+        "South China Morning Post",
+        "The Hindu",
+        "Al Jazeera"
+      ],
+      "summary": "Junta leader Min Aung Hlaing secured the presidency in a pro-military parliament vote, formalizing control five years post-coup. Myanmar's 50 million face entrenched military rule amid civil war; international condemnation grows as sham election cements power.",
+      "link": "https://www.abc.net.au/news/2026-04-03/min-aung-hlaing-elected-new-myanmar-president/106530476",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "ABC Australia",
+          "angle": "Broadcast vote count showing comfortable threshold passage",
+          "link": "https://www.abc.net.au/news/2026-04-03/min-aung-hlaing-elected-new-myanmar-president/106530476"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "Highlighted recent lopsided election won by army-backed party",
+          "link": "https://www.scmp.com/week-asia/politics/article/3348909/myanmars-junta-chief-min-aung-hlaing-wins-parliamentary-vote-become-president?utm_source=rss_feed"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Recalled 2021 coup against Aung San Suu Kyi sparking resistance",
+          "link": "https://www.thehindu.com/news/international/myanmar-junta-chief-min-aung-hlaing-elected-president-by-pro-military-parliament/article70818847.ece"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Noted majority threshold met by coup leader in parliament",
+          "link": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO responds to severed deep-sea cable in Baltic Sea amid suspected sabotage campaign against infrastructure. Alliance members enhance defenses, affecting transatlantic data flows; investigations pinpoint culprits amid hybrid threat fears.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Human Rights Watch Reports Burkina Faso Army Causes Most Civilian Deaths",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica",
+        "Deutsche Welle"
+      ],
+      "summary": "HRW finds Burkina Faso security forces and militias behind most civilian killings, targeting Fulani ethnic group more brutally than militants.  Thousands affected in Sahel conflict; calls for accountability intensify global scrutiny on juntas.",
+      "link": "https://allafrica.com/stories/202604030092.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "AllAfrica",
+          "angle": "Cited HRW on army and militias exceeding militant violence levels",
+          "link": "https://allafrica.com/stories/202604030092.html"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Emphasized Fulani targeting by brutal security forces per HRW",
+          "link": "https://www.dw.com/en/burkina-faso-army-behind-most-civilian-deaths-report/a-76648315?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "President Trump Removes US Attorney General Pam Bondi from Office",
+      "source": "BBC",
+      "summary": "Trump dismissed Attorney General Pam Bondi, whose tenure focused on Epstein files handling. Justice Department leadership changes amid political controversies; acting AG appointed as confirmation process starts for replacement.",
+      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 to Retrieve Stuck ISS Astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carried NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, Russia's Kirill Peskov to ISS. Butch Wilmore and Suni Williams, stuck nine months, prepare return; ensures station operations continuity.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Artemis II Astronauts Ignite Engines for Lunar Flyby Trajectory",
+      "source": "France 24",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Crew fired engines Thursday, departing Earth orbit toward Moon for first crewed flyby since 1972",
+      "summary": "NASA's Artemis II crew of three Americans and one Canadian ignited engines, heading for lunar flyby, solar eclipse view, and distance records. Paves lunar return path despite orbital hurdles; return expected weeks later.",
+      "link": "https://www.france24.com/en/technology/20260403-artemis-ii-astronauts-ignite-engines-and-head-for-lunar-flyby",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "UN Security Council Schedules Vote on Resolution for Hormuz Defensive Force",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "France 24"
+      ],
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Bahraini proposal for defensive means to reopen Strait gains US backing amid disruptions",
+      "summary": "UNSC votes Friday on Gulf-led resolution authorizing defensive force to secure Strait of Hormuz shipping. Global energy trade for millions at risk from Iranian actions; approval could deploy naval protections soon.",
+      "link": "https://www.dw.com/en/iran-war-unsc-to-vote-on-gulf-led-resolution-to-open-hormuz/live-76649854?maca=en-rss-en-top-1022-rdf",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Covered Trump warnings on targeting Iranian bridges and power plants",
+          "link": "https://www.dw.com/en/iran-war-unsc-to-vote-on-gulf-led-resolution-to-open-hormuz/live-76649854?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "France 24",
+          "angle": "Framed amid tensions over energy supplies and economic stability liveblog",
+          "link": "https://www.france24.com/en/middle-east/20260403-middle-east-live-un-security-council-to-vote-on-force-to-protect-hormuz-access"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 13,
+    "articlesProcessed": 449,
+    "articlesAfterDedup": 447,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "economy": 1,
+      "politics": 4,
+      "conflict": 2,
+      "society": 1,
+      "science": 2
+    },
+    "regionCounts": {
+      "americas": 3,
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "europe": 1,
+      "africa": 1,
+      "global": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

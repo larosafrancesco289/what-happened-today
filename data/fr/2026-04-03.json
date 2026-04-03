@@ -1,0 +1,139 @@
+{
+  "date": "2026-04-03",
+  "summary": "Donald Trump a averti l'Iran que les ponts et centrales électriques seront les prochaines cibles après d'autres destructions, tandis que l'Iran continue ses attaques de missiles. Cela se produit au 35e jour du conflit, faisant suite aux quatre salves de missiles iraniens interceptées par l'armée israélienne en six heures hier. Les cours du pétrole ont atteint 130 dollars le baril de Brent. Une escalade est attendue si les attaques persistent.\n\nL'équipage d'Artemis II a quitté l'orbite terrestre pour rejoindre la Lune après les tests du vaisseau réussis, suivant le lancement de quatre astronautes par la NASA hier. Cette étape valide la trajectoire pour les futures missions habitées lunaires. Séparément, Donald Trump a limogé Pam Bondi du ministère de la Justice pour sa gestion des dossiers Epstein et l'a remplacée par son ancien avocat personnel. Pete Hegseth, proche de Trump, a provoqué le départ du 41e chef d'état-major de l'armée de terre américaine, avec un remplacement visant à renforcer le commandement pendant le conflit en Iran.\n\nTotalEnergies a généré plus d'un milliard de dollars de profits en achetant en mars la quasi-totalité des cargaisons de pétrole du Moyen-Orient sans passer par le détroit d'Ormuz. En Belgique, les prix de l'essence et du diesel augmentent en raison de la hausse du pétrole ; le gouvernement envisage d'activer le cliquet inversé pour limiter l'impact sur les consommateurs. Les tensions au Moyen-Orient persistent avec des marchés énergétiques affectés.",
+  "headlines": [
+    {
+      "title": "Donald Trump menace de détruire ponts et centrales électriques en Iran",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Radio-Canada"
+      ],
+      "summary": "Donald Trump avertit l'Iran que les ponts et centrales électriques sont les prochaines cibles après d'autres destructions, tandis que l'Iran poursuit ses attaques de missiles. Cela intensifie les tensions au 35e jour de conflit, affectant la sécurité régionale et les marchés énergétiques.",
+      "link": "https://www.20minutes.fr/monde/4216523-20260403-guerre-moyen-orient-trump-menace-detruire-ponts-centrales-iran-poursuit-attaques?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Suit en direct les menaces de Trump et les attaques iraniennes persistantes",
+          "link": "https://www.20minutes.fr/monde/4216523-20260403-guerre-moyen-orient-trump-menace-detruire-ponts-centrales-iran-poursuit-attaques?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Met l'accent sur la citation précise de Trump sur ponts et centrales",
+          "link": "https://ici.radio-canada.ca/nouvelle/2243707/trump-menace-destructions-ponts-centrales-iran"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Astronautes d'Artemis II quittent l'orbite terrestre pour rejoindre la Lune",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Après le lancement réussi hier, l'équipage d'Artemis II a accompli les tests du vaisseau et quitté l'orbite de la Terre vers la Lune. Cette étape valide la trajectoire pour les futures missions habitées lunaires.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2243564/artemis2-deuxieme-journee-direction-lune",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Détaille la phase de tests et le départ de l'orbite terrestre",
+          "link": "https://ici.radio-canada.ca/nouvelle/2243564/artemis2-deuxieme-journee-direction-lune"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Mentionne brièvement la progression d'Artemis vers la Lune",
+          "link": "https://www.20minutes.fr/societe/4216526-20260403-toute-info-2-minutes-trump-menace-iran-rima-hassan-jugee-artemis-file-vers-lune?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump limoge Pam Bondi du ministère de la Justice pour affaire Epstein",
+      "source": "20 Minutes",
+      "summary": "Donald Trump renvoie Pam Bondi, ministre de la Justice, critiquée pour sa gestion des dossiers Epstein, et la remplace par son ancien avocat personnel. Ce changement intervient en pleine guerre contre l'Iran et soulève des questions sur l'indépendance judiciaire.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4216482-20260402-etats-unis-trump-limoge-ministre-justice-fond-affaire-epstein?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "TotalEnergies gagne plus d'un milliard de dollars grâce au conflit en Iran",
+      "source": "20 Minutes",
+      "summary": "TotalEnergies a acheté en mars la quasi-totalité des cargaisons de pétrole du Moyen-Orient sans passer par le détroit d'Ormuz, générant plus d'un milliard de dollars de profits. Cela profite aux actionnaires malgré l'escalade du conflit.",
+      "link": "https://www.20minutes.fr/monde/4216481-20260402-guerre-iran-comment-totalenergies-deja-gagne-plus-milliard-dollars-grace-conflit?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Pete Hegseth force le départ du chef d'état-major de l'armée de terre américaine",
+      "source": "Radio-Canada",
+      "summary": "Pete Hegseth, proche de Trump, provoque le limogeage du 41e chef d'état-major de l'armée de terre en pleine guerre contre l'Iran. Ce remplacement vise à renforcer le commandement militaire lors du conflit.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2243675/depart-chef-etat-major-armee-terre-etats-unis",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Prix de l'essence et du diesel augmentent en Belgique avec hausse du pétrole",
+      "source": "RTBF",
+      "summary": "Les prix des carburants grimpent en Belgique suite à la hausse du pétrole à 130 dollars le baril de Brent. Le gouvernement envisage d'activer le cliquet inversé pour limiter la hausse aux consommateurs.",
+      "link": "https://www.rtbf.be/article/le-prix-de-l-essence-en-hausse-le-gouvernement-pourrait-il-reintroduire-le-cliquet-inverse-11691109",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 3,
+    "articlesProcessed": 216,
+    "articlesAfterDedup": 215,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 8,
+    "categoryCounts": {
+      "conflict": 1,
+      "science": 1,
+      "politics": 2,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "global": 1,
+      "americas": 2,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    }
+  }
+}

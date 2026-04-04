@@ -1,0 +1,178 @@
+{
+  "date": "2026-04-04",
+  "summary": "Un F-15E américain s'est écrasé en territoire iranien, marquant la première perte aérienne des États-Unis depuis le début de la guerre au 36e jour. Un membre d'équipage a été récupéré, tandis que l'autre est recherché conjointement par l'Iran et les États-Unis, malgré des oppositions entre les deux pays. Téhéran a offert une récompense pour sa localisation. Les opérations de recherche se poursuivent, avec un risque d'escalade des tensions régionales.\n\nLe président américain Donald Trump a demandé au Congrès 1500 milliards de dollars pour le budget de la défense 2027, soit une hausse de 50 % par rapport aux niveaux actuels, en raison de la guerre au Moyen-Orient. Cela vise à renforcer les capacités militaires face aux tensions persistantes avec l'Iran. Parallèlement, plusieurs détonations ont été entendues au nord de Téhéran samedi matin, après un ciblage la veille, et des frappes israéliennes ont visé le sud de Beyrouth à l'aube. Au Liban, Israël a bombardé Beyrouth suite à la destruction du pont Litani, blessant trois Casques bleus dans une explosion vendredi.\n\nLe pape Léon XIV s'est entretenu avec le président ukrainien Volodymyr Zelensky au 1500e jour de la guerre en Ukraine, coïncidant avec des frappes russes diurnes. Le FBI a qualifié de majeur un cyber-incident dans un système de surveillance américain, attribué à la Chine selon Bloomberg et Politico. La Maison Blanche a lancé une application mobile depuis le 27 mars pour des signalements directs à l'ICE sur l'immigration illégale, critiquée pour son manque de transparence. En France, le gouvernement a mis en place un prêt flash à 3,80 % jusqu'à 50 000 euros sans garanties, pour soutenir la trésorerie des TPE-PME des secteurs transport, agriculture et pêche affectées par une hausse de 5 % du chiffre d'affaires due aux carburants.",
+  "headlines": [
+    {
+      "title": "Iran et États-Unis recherchent pilote manquant d'un F-15E abattu sur territoire iranien",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "20 Minutes",
+        "France 24",
+        "RTBF",
+        "Radio-Canada"
+      ],
+      "summary": "Un F-15E américain s'est écrasé en Iran, un membre d'équipage récupéré, l'autre recherché par les deux pays qui s'opposent, Téhéran offrant une récompense. Cela marque la première perte aérienne américaine depuis le début de la guerre, au 36e jour, risquant d'escalader les tensions.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/04/un-avion-de-chasse-abattu-en-iran-des-purges-au-sein-de-l-etat-major-l-armee-americaine-dans-la-tourmente_6676632_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur abattage F-15E et recherche membre d'équipage deux jours après discours Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/04/04/un-avion-de-chasse-abattu-en-iran-des-purges-au-sein-de-l-etat-major-l-armee-americaine-dans-la-tourmente_6676632_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Met l'accent sur course contre la montre entre Iran et États-Unis pour pilote disparu",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-israel-etats-unis-irak-liban-qatar-oman-arabie-saoudite-emirats-arabes-unis-koweit-20260404"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Indique un membre récupéré et course pour le second avec récompense iranienne",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4216625-20260403-guerre-iran-avion-chasse-f-15-americain-abattu-pilotes-recherches?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "angle": "Décrit course Téhéran-Washington avec récompense généreuse promise par l'Iran",
+          "link": "https://www.france24.com/fr/moyen-orient/20260404-t%C3%A9h%C3%A9ran-et-washington-dans-une-course-pour-retrouver-l-aviateur-am%C3%A9ricain-du-f-15e-%C3%A9cras%C3%A9-en-iran"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Rapporte affirmation iranienne d'abattage et secours d'un membre d'équipage",
+          "link": "https://www.rtbf.be/article/guerre-au-moyen-orient-l-iran-affirme-avoir-abattu-un-avion-americain-un-membre-de-l-equipage-secouru-11705128"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Présente recherche pilote par deux camps comme première perte en Iran",
+          "link": "https://ici.radio-canada.ca/nouvelle/2243707/trump-menace-destructions-ponts-centrales-iran"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump demande au Congrès 1500 milliards de dollars pour budget défense 2027",
+      "source": "Le Figaro",
+      "summary": "Le président américain réclame une hausse de 50% du budget défense auprès des parlementaires en raison de la guerre au Moyen-Orient. Cela renforce les capacités militaires des États-Unis face aux tensions persistantes avec l'Iran.",
+      "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-trump-demande-au-congres-un-colossal-budget-de-defense-de-1500-milliards-de-dollars-pour-2027-20260404",
+      "tier": "top",
+      "sources": [
+        "Le Figaro"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Plusieurs détonations entendues nord de Téhéran et frappes sud Beyrouth par Israël",
+      "source": "France 24",
+      "summary": "Journaliste AFP entend détonations samedi matin nord Téhéran, visé la veille, et bombardements aube sud Beyrouth. Au 36e jour de guerre, ces actions militaires prolongent les hostilités régionales.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260404-en-direct-plusieurs-d%C3%A9tonations-entendues-depuis-le-nord-de-T%C3%A9h%C3%A9ran",
+      "tier": "also",
+      "sources": [
+        "France 24"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pape Léon XIV discute avec Volodymyr Zelensky au 1500e jour de guerre en Ukraine",
+      "source": "20 Minutes",
+      "summary": "Entretien entre le pape et le président ukrainien coïncide avec frappes russes diurnes. Ce point quotidien souligne l'évolution du conflit prolongé et les efforts diplomatiques pour une résolution.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4216657-20260403-guerre-ukraine-pape-parle-zelensky-moscou-frappe-jour-point-conflit?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël bombarde Beyrouth après destruction pont Litani et blesse trois Casques bleus",
+      "source": "Radio-Canada",
+      "singleSource": true,
+      "summary": "Nouvelles frappes israéliennes visent Beyrouth suite à destruction pont, trois Casques bleus blessés dans explosion vendredi. Cela accentue les tensions au Liban liées au conflit régional élargi.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2243841/liban-frappes-israel-beyrouth-pont-litani",
+      "tier": "also",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "FBI qualifie de majeur cyber-incident dans système de surveillance lié à la Chine",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "La police fédérale américaine confirme une cyber-attaque significative attribuée à la Chine via Bloomberg et Politico. Cela expose les vulnérabilités des infrastructures de sécurité nationale US.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4216628-20260403-etats-unis-fbi-reconnait-cyber-incident-majeur-apres-attaque-chine-soupconnee?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Maison Blanche lance application mobile pour signalements directs à l'ICE",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "L'administration Trump déploie depuis 27 mars une appli mêlant communication et dénonciations à l'ICE, critiquée pour manque de transparence. Elle facilite les signalements d'immigration illégale.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4216672-20260403-etats-unis-maison-blanche-lance-appli-pourra-denoncer-personnes-ice?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Gouvernement français lance prêt flash à 3,80% jusqu'à 50 000 euros pour carburants",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "Dispositif sans garanties soutient trésorerie TPE-PME transport, agriculture, pêche affectées par hausse carburants si 5% du CA. Il atténue impact économique des prix pétroliers élevés.",
+      "link": "https://www.lemonde.fr/economie/article/2026/04/04/hausse-des-prix-des-carburants-le-gouvernement-lance-un-pret-flash-a-3-80-pour-soutenir-la-tresorerie-des-tpe-et-pme_6676416_3234.html",
+      "tier": "also",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 214,
+    "articlesAfterDedup": 213,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "americas": 2,
+      "europe": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 6
+    }
+  }
+}

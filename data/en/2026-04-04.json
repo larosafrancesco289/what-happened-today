@@ -1,0 +1,208 @@
+{
+  "date": "2026-04-04",
+  "summary": "Iran downed two U.S. fighter jets Friday in separate attacks over Iranian airspace, the first enemy shootdowns of U.S. aircraft in more than 20 years. This follows U.S. strikes Thursday that destroyed a highway bridge and a health site near Tehran. One crew member was rescued; U.S. and allied forces search for the second amid joint recovery efforts. The incident involves U.S. military personnel and escalates direct U.S.-Iran hostilities, with recovery operations ongoing.\n\nIranian missiles struck residential areas across central Israel Friday, causing property damage according to local media, with no immediate casualty figures available. Israel targeted Iran-backed Hezbollah infrastructure in Beirut's southern suburbs with strikes after demolishing an eastern Lebanon bridge to block reinforcements; Lebanese civilians and militants were affected. Separately in Gaza, Israel permitted hundreds of thousands of displaced Palestinians to cross a bisecting military zone back to northern Gaza after a hostage release deal ended a deadlock, allowing returns home and aid resumption. In eastern Congo, Rwanda-backed rebels overran Congolese troops and entered the safe-haven city of Goma amid gunfire and shelling; U.N. estimates report over 1 million displaced inside the city, threatening a key aid hub.\n\nPresident Trump proposed a $1.5 trillion defense budget that includes 10 percent cuts to domestic programs amid Iran war costs and stockpile rebuilds. Iran executed two men convicted of membership in the banned MEK opposition group and disruptive acts, following four others this week. China property developer Vanke reported a huge loss amid spreading real-estate issues. NATO launched a coordinated response after another deep-sea cable severance in the Baltic Sea, following its first action to prior suspected sabotage. SpaceX launched NASA Crew-10 with four astronauts from Kennedy Space Center Friday for ISS docking Saturday, enabling the return of astronauts Butch Wilmore and Suni Williams stuck nine months.",
+  "headlines": [
+    {
+      "title": "Iran Shoots Down Two U.S. Fighter Jets First Time in Over 20 Years",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "NPR",
+        "The Hindu",
+        "France 24",
+        "BBC"
+      ],
+      "summary": "Iran downed two U.S. military aircraft Friday in separate attacks over Iranian airspace, first enemy shootdowns in more than 20 years. One crew member rescued; forces search for the second amid joint recovery efforts. Escalates U.S.-Iran war, undermines claims of Iran's decimation, risks broader conflict.",
+      "link": "https://apnews.com/article/iran-war-fighter-jet-shot-down-trump-3a8b2d5b2cdaceb13bbb62c3f6526e71",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Highlighted rarity of U.S. aircraft shootdowns by enemy fire after over 20 years",
+          "link": "https://apnews.com/article/iran-war-fighter-jet-shot-down-trump-3a8b2d5b2cdaceb13bbb62c3f6526e71"
+        },
+        {
+          "source": "NPR",
+          "angle": "Confirmed U.S. jet downed over Iran with one crew rescued and one missing",
+          "link": "https://www.npr.org/2026/04/03/nx-s1-5773108/american-jet-shot-down-iran"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Reported in live war updates including rescues and drone debris damaging Dubai building",
+          "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-4-2026-live-updates/article70822179.ece"
+        },
+        {
+          "source": "France 24",
+          "angle": "Emphasized joint Iran-U.S. race to recover missing F-15 crew member",
+          "link": "https://www.france24.com/en/middle-east/20260404-iran-us-race-to-recover-missing-crew-member-of-crashed-american-fighter-jet"
+        },
+        {
+          "source": "BBC",
+          "angle": "Detailed harrowing dangers faced by rescue teams searching for U.S. crew member",
+          "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permitted displaced Gazans to cross bisecting military zone back to northern Gaza after hostage release deadlock ended. Affects hundreds of thousands uprooted by war; allows returns home and aid resumption. Indicates possible Gaza ground operation pause, potential ceasefire progress.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Congo Safe-Haven City Goma",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-backed rebels overran Congolese troops entering Goma amid gunfire and shelling; U.N. estimates over 1 million displaced inside city. Threatens key aid hub for millions; risks wider regional instability. Humanitarian crisis worsens, demands urgent international intervention.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Iranian Missiles Strike Residential Areas Across Central Israel Causing Damage",
+      "source": "Al Jazeera",
+      "summary": "Iran launched missile attack damaging residential neighborhoods in central Israel per local media. Israeli civilians affected with property destruction; no immediate casualty figures. Heightens escalation in Iran-Israel war, prompts potential Israeli retaliation.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Strikes Iran-Backed Hezbollah Infrastructure in Beirut After Bridge Destruction",
+      "source": "South China Morning Post",
+      "summary": "Israeli military targeted Hezbollah sites in Beirut's southern suburbs with strikes after demolishing eastern Lebanon bridge to block reinforcements. Lebanese civilians and militants affected by explosions. Expands regional war footprint, pressures Hezbollah amid Iran conflict.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3349021/israel-targets-iran-backed-hezbollah-sites-lebanon-fresh-strikes?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Seeks $1.5 Trillion Defense Budget with 10 Percent Cuts to Domestic Programs",
+      "source": "Deutsche Welle",
+      "summary": "President Trump proposed $1.5 trillion defense spending amid Iran war costs and stockpile rebuilds, slashing 10% from domestic programs including 'woke' initiatives. U.S. taxpayers and agencies affected; shifts priorities to military. Signals aggressive security focus, impacts social spending.",
+      "link": "https://www.dw.com/en/trump-seeks-1-5t-for-defense-10-cut-to-domestic-programs/a-76657289?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Iran Executes Two Convicted Members of Banned MEK Opposition Group",
+      "source": "South China Morning Post",
+      "summary": "Iran hanged two men for MEK membership and disruptive acts against regime, following four others this week. Opposition figures and rights groups affected amid U.S.-Israel war. Raises alarms over repression surge, deters dissent in wartime.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3349026/rights-groups-raise-alarm-after-iran-executes-2-more-opposition-group-members?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "China Property Giant Vanke Reports Huge Loss Signaling Widening Real-Estate Crisis",
+      "source": "Wall Street Journal",
+      "summary": "Leading developer Vanke posted massive loss amid spreading property woes, questioning state intervention. Chinese homebuyers, investors and economy affected; risks financial contagion. Matters for global markets as China property slump deepens.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts Coordinated Response After Another Baltic Sea Cable Severance",
+      "source": "Wall Street Journal",
+      "summary": "NATO launched first coordinated action to suspected sabotage following new deep-sea cable cut in Baltic Sea. Alliance members' infrastructure affected; bolsters deterrence. Critical for securing undersea communications amid hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Another deep-sea cable severed in Baltic Sea prompting alliance's first coordinated response",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA SpaceX Launch Crew-10 from Florida to Retrieve Stuck ISS Astronauts",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carried NASA Crew-10 with four astronauts launching late Friday from Kennedy Space Center for ISS docking Saturday night. Enables return of Butch Wilmore and Suni Williams stuck nine months. Routine rotation restores normal operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Crew-10 launched successfully late Friday docking expected 11:30 p.m. Saturday at ISS",
+      "sources": [
+        "Voice of America"
+      ],
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 449,
+    "articlesAfterDedup": 449,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "society": 2,
+      "politics": 1,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "africa": 1,
+      "americas": 1,
+      "asia-pacific": 1,
+      "europe": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4,
+      "developing": 2
+    }
+  }
+}

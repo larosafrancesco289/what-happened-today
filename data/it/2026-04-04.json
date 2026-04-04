@@ -1,0 +1,213 @@
+{
+  "date": "2026-04-04",
+  "summary": "Le forze aeree iraniane hanno abbattuto due caccia F-15 statunitensi nella provincia di Kohgiluyeh e Boyergah. Due piloti sono stati tratti in salvo dagli USA, mentre uno risulta disperso: Teheran ha posto una taglia su di lui. Questo fa seguito alla rivendicazione iraniana di ieri sull'abbattimento di un secondo F-35 USA. I negoziati per la de-escalation sono fermi, con festeggiamenti in Iran. L'episodio si verifica al 36esimo giorno del conflitto mediorientale, complicando il coinvolgimento USA.\n\nLe Guardie della rivoluzione iraniane (Pasdaran) hanno autorizzato il passaggio di navi francesi e giapponesi nello Stretto di Hormuz. La decisione emerge da negoziati segreti per un fronte di volenterosi autonomo da USA e Cina. Questo fa seguito alla convocazione di ieri di quaranta Stati per la riapertura dello stretto. In Europa, i prezzi del diesel sono aumentati più di quelli della benzina a causa della dipendenza dalle importazioni dal Golfo e del blocco parziale di Hormuz. La NASA ha pubblicato le prime immagini della Terra scattate dagli astronauti di Artemis II dalla capsula Orion: il volo verso la Luna procede e fornisce dati per missioni future.\n\nLa premier Giorgia Meloni ha annunciato una missione nel Golfo per garantire forniture energetiche all'Italia, in risposta alla crisi mediorientale. La Commissione UE ha negato alla Italia una deroga al patto di stabilità, confermando l'assenza di recessione grave nonostante la volatilità in Medio Oriente; il monitoraggio continua. Il governo ha concesso sgravi sul gasolio agricolo, permettendo le semine primaverili e evitando crisi nel settore. Le Gallerie degli Uffizi hanno spostato opere in caveau dopo un attacco hacker che richiede riscatto: la procura indaga per estorsione con la Polizia postale. La procura di Genova accusa il governatore Giovanni Toti e collaboratori di aver manipolato dati Covid in Liguria, basandosi su intercettazioni; l'indagine prosegue.",
+  "headlines": [
+    {
+      "title": "Iran abbatte due caccia F-15 USA e mette taglia su pilota disperso",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "AGI",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Le forze aeree iraniane abbattono due caccia F-15 USA nella provincia di Kohgiluyeh; due piloti tratti in salvo, uno disperso con taglia da Teheran. Negoziati fermi, festa in Iran. L'escalation complica il conflitto mediorientale al 36esimo giorno, rischiando coinvolgimento USA più ampio.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/04/teheran-abbatte-due-caccia-usa-si-cerca-uno-dei-piloti-messa_f9c2c107-324c-4653-9aae-733a112be35e.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Confermato abbattimento di due caccia invece di uno; pilota disperso ricercato con taglia, altri due salvi, negoziati bloccati e festa a Teheran",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Descrive abbattimento due caccia USA, ricerca pilota disperso e taglia posta su di lui",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/04/teheran-abbatte-due-caccia-usa-si-cerca-uno-dei-piloti-messa_f9c2c107-324c-4653-9aae-733a112be35e.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Evidenzia destino incerto pilota, festa a Teheran e stop ai negoziati secondo Wsj",
+          "link": "https://www.agi.it/estero/news/2026-04-04/iran-guerra-notizie-4-aprile-36434166/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta abbattimento F-15 USA, recupero un pilota e rifiuto tregua da ayatollah",
+          "link": "https://www.repubblica.it/esteri/2026/04/04/news/abbattuto_f-15_usa_iran_piloti_soccorritori-425263494/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Menziona caccia USA abbattuti con giallo sul secondo pilota in contesto feriti",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-4-aprile_110678901-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "NASA pubblica prime immagini Terra scattate da Artemis II",
+      "source": "Rai News",
+      "summary": "Gli astronauti della missione Artemis II fotografano la Terra dalla capsula Orion con dispositivi a bordo. Le immagini sono le prime trasmesse pubblicamente. Il volo verso la Luna procede, fornendo dati preziosi per future missioni umane nello spazio.",
+      "link": "https://www.rainews.it/video/2026/04/la-nasa-svela-le-prime-immagini-della-terra-scattate-dalla-missione-artemis-ii-d2dc5b98-141c-4d58-919a-e1001ff083f1.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Svelate prime immagini della Terra catturate durante il volo translunare",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Pasdaran autorizzano passaggio navi francesi e giapponesi a Hormuz",
+      "source": "la Repubblica",
+      "sources": [
+        "Rai News",
+        "la Repubblica"
+      ],
+      "summary": "Guardie della rivoluzione iraniane lasciano transitare navi di Parigi e Tokyo nello Stretto di Hormuz. Negoziati segreti formano fronte volenterosi autonomo da USA e Cina. La mossa apre spiraglio al commercio petrolifero, riducendo tensioni su approvvigionamenti globali.",
+      "link": "https://www.repubblica.it/esteri/2026/04/04/news/navi_francia_giappone_stretto_hormuz_macron-425263425/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Introdotta nuova rotta alternativa con pedaggi in criptovalute vicino Larak; prime navi passano dopo contatti con intermediari",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Spiega meccanica nuova rotta Hormuz con pedaggi crypto ed esenzioni per prime navi",
+          "link": "https://www.rainews.it/articoli/2026/04/la-nuova-rotta-di-hormuz-ed-i-pedaggi-in-criptovalute-e-esenzioni-le-prime-navi-la-guerra-del-petrolio-0d5452df-cb34-44f4-841b-c103fbe1ddd2.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea autorizzazione navi Francia e Giappone e negoziati per fronte autonomo",
+          "link": "https://www.repubblica.it/esteri/2026/04/04/news/navi_francia_giappone_stretto_hormuz_macron-425263425/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Gallerie Uffizi spostano opere in caveau per attacco hacker",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "ANSA"
+      ],
+      "summary": "Hacker ricattano Uffizi chiedendo riscatto; procura indaga per estorsione e accesso abusivo con Polizia postale. Opere trasferite in caveau, porte murate. La sicurezza museale italiana si rafforza contro minacce cyber, proteggendo patrimonio culturale.",
+      "link": "https://www.ilsole24ore.com/art/gallerie-uffizi-sotto-attacco-hacker-opere-caveau-e-porte-murate-AIef9NKC",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Dettaglia indagini procura, trasferimento opere e misure di sicurezza adottate",
+          "link": "https://www.ilsole24ore.com/art/gallerie-uffizi-sotto-attacco-hacker-opere-caveau-e-porte-murate-AIef9NKC"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta richiesta riscatto, fascicolo procura e smentita furto mappe sicurezza",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/03/uffizi-sotto-ricatto-hacker-opere-nei-caveau-e-porte-murate_55bcc16b-a42c-41cc-ba45-ac5573b49b40.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Meloni annuncia missione nel Golfo per approvvigionamenti italiani",
+      "source": "TGCOM24",
+      "summary": "Premier Giorgia Meloni pianifica viaggio nel Golfo per garantire forniture energetiche all'Italia. La crisi mediorientale minaccia famiglie. L'iniziativa protegge economia nazionale da impatti su petrolio e gas.",
+      "link": "https://www.tgcom24.mediaset.it/politica/meloni-in-missione-nel-golfo-per-garantire-all-italia-gli-approvvigionamenti-necessari-_110672120-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Commissione UE nega deroga patto stabilità all'Italia",
+      "source": "TGCOM24",
+      "summary": "Portavoce UE conferma assenza gravi recessione nonostante volatilità Medio Oriente. Monitoraggio continua senza concessioni. L'Italia deve rispettare vincoli fiscali, influenzando bilancio pubblico e crescita.",
+      "link": "https://www.tgcom24.mediaset.it/politica/patto-di-stabilita-commissione-ue_110680337-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Aiuti gasolio agricolo salvano annata per semine primaverili",
+      "source": "Il Sole 24 Ore",
+      "summary": "Governo concede sgravi sul carburante agricolo; agricoltori soddisfatti per lavorazioni preparatorie. Misura tempestiva evita crisi produttiva. Supporta settore agroalimentare italiano contro rincari energetici.",
+      "link": "https://www.ilsole24ore.com/art/con-aiuti-gasolio-agricolo-salvata-l-annata-agraria-AIE5ByKC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Prezzi diesel UE aumentano più benzina per dipendenza import Golfo",
+      "source": "AGI",
+      "summary": "Conflitto Medio Oriente e blocco Hormuz spingono diesel oltre benzina; Europa dipende da importazioni. Conseguenze su trasporti e costi. Consumatori affrontano rincari, spingendo ricerca alternative energetiche.",
+      "link": "https://www.agi.it/economia/news/2026-04-04/perche-diesel-aumenta-piu-benzina-36435050/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm accusano Toti di manipolazione dati Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Secondo procura, governatore Toti e collaboratori alteravano numeri contagi; intercettazioni rivelano aumenti artificiali. Indagine prosegue. Episodio mina fiducia in gestione pandemia regionale.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 254,
+    "articlesAfterDedup": 253,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "conflict": 1,
+      "science": 1,
+      "politics": 4,
+      "society": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "global": 1,
+      "europe": 6
+    },
+    "tierCounts": {
+      "developing": 3,
+      "top": 3,
+      "also": 3
+    }
+  }
+}

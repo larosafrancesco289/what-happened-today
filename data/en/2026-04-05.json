@@ -1,0 +1,229 @@
+{
+  "date": "2026-04-05",
+  "summary": "U.S. special forces extracted an injured crew member from a downed F-15E jet inside Iran on Saturday. The airman bailed out Friday after Iran shot down two U.S. fighter jets and sustained injuries but will recover, according to President Trump. This operation averts immediate escalation risks in the sixth-week U.S.-Iran war, which began after prior strikes. U.S. officials state the rescue succeeded without further combat; Iran has not commented.\n\nIn Gaza, Israel permitted thousands of displaced Palestinians to cross a bisecting military zone on foot into northern areas following a hostage release deal. Over one million remain affected by the conflict. This follows Israel's Friday allowance of returns and eases humanitarian strain, though tensions continue amid the regional war. Separately, falling debris from intercepted attack projectiles ignited fires at the Borouge petrochemical plant in Abu Dhabi, UAE. Authorities contained multiple blazes with no immediate casualties, but operations halted. This incident links to Gulf tensions from the U.S.-Iran-Israel conflict. In the Baltic Sea, NATO launched its first coordinated response after another deep-sea cable sabotage severed critical infrastructure, affecting regional connectivity. The alliance increased defenses.\n\nFloods killed 77 people and destroyed thousands of homes in Afghanistan this week, followed by a Friday earthquake that killed 12 more. Millions face a worsened humanitarian crisis; aid groups called for international relief. A Russian drone struck a market in southern Ukraine Saturday, killing five civilians and injuring 21. In the U.S., Immigration and Customs Enforcement arrested the niece and grand-niece of late Iranian General Qasem Soleimani, linked to sanctions enforcement during the war. Planet Labs halted satellite images of Iran war zones at U.S. government request, limiting public monitoring. A federal judge issued a preliminary injunction blocking Trump administration data demands from universities on race-neutral admissions after suits by 17 Democratic states. Uganda received its first U.S. deportation flight with about a dozen migrants under a new third-country agreement; legal challenges continue.\n\"}",
+  "headlines": [
+    {
+      "title": "U.S. Commandos Rescue Injured Airman Deep Inside Iran After Jet Downing",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "Deutsche Welle",
+        "ABC Australia",
+        "NPR",
+        "Japan Times",
+        "France 24"
+      ],
+      "summary": "U.S. special forces extracted an injured crew member from a downed F-15E jet inside Iran after a risky operation. The airman, who bailed out Friday, sustained injuries but will recover per Trump. This averts escalation risk in the sixth-week U.S.-Iran war.",
+      "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Special forces complete daring extraction after frantic search for missing crew from two downed U.S. jets",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Highlights commandos' risky mission to extract injured crew member who bailed out Friday",
+          "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Confirms airman from F-15E found after search, notes Trump says he will be fine",
+          "link": "https://www.dw.com/en/iran-war-us-says-missing-crew-member-from-downed-jet-found/live-76665046?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Details special forces night operation confirming airman rescue",
+          "link": "https://www.abc.net.au/news/2026-04-05/us-airman-rescued-in-iran-after-special-forces-operation/106533008"
+        },
+        {
+          "source": "NPR",
+          "angle": "Quotes Trump announcement of early Sunday rescue by U.S. forces",
+          "link": "https://www.npr.org/2026/04/05/nx-s1-5774368/u-s-military-rescue-airman-iran"
+        },
+        {
+          "source": "Japan Times",
+          "angle": "Links rescue to Trump-Israel pressure on Iran ahead of deadline",
+          "link": "https://www.japantimes.co.jp/news/2026/04/05/world/trump-iran-deadline-attack-airman-rescued/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Cites Trump calling it one of most daring U.S. search operations",
+          "link": "https://www.france24.com/en/middle-east/20260405-middle-east-war-live-us-airman-rescued-from-iran-safe-and-sound-says-trump"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians Cross Military Zone into Northern Gaza on Foot After Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permitted thousands of displaced Gazans to return north across a bisecting military zone after a hostage release breakthrough. Over one million remain affected by conflict. This eases humanitarian strain but tensions persist amid regional war.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Displaced residents begin streaming back following Israel's initial allowance after hostage deal",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO initiated its first joint action against suspected sabotage after another deep-sea cable severance in the Baltic. Critical infrastructure faces repeated threats, affecting regional connectivity. Alliance bolsters defenses amid hybrid warfare concerns.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Alliance coordinates after additional cable cut in ongoing severance incidents",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Falling Debris Ignites Fire at UAE Borouge Petrochemical Plant After Attack",
+      "source": "Associated Press",
+      "summary": "Authorities battle multiple fires at Abu Dhabi's Borouge plant caused by debris from intercepted attack projectiles. No immediate casualties reported, but operations disrupted. Escalates Gulf tensions tied to U.S.-Iran-Israel conflict.",
+      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Floods Kill 77 and Earthquake Kills 12 in Afghanistan This Week",
+      "source": "New York Times",
+      "summary": "Week-long floods destroyed thousands of homes and killed 77, followed by Friday's earthquake claiming 12 more lives. Millions face worsened humanitarian crisis in fragile nation. Aid groups urge urgent international relief efforts.",
+      "link": "https://www.nytimes.com/2026/04/04/world/asia/afghanistan-floods-earthquake.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Russian Drone Hits Ukraine Market Killing Five and Injuring 21",
+      "source": "BBC",
+      "summary": "A Russian drone struck a busy market in southern Ukraine Saturday morning, killing five civilians and wounding 21 others. Local residents bear brunt amid ongoing invasion. Highlights persistent urban targeting risks.",
+      "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Federal Judge Halts Trump Data Demand on College Race Admissions",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "NPR"
+      ],
+      "summary": "U.S. District Judge F. Dennis Saylor IV issued a preliminary injunction blocking Trump administration data collection from universities to verify race-neutral admissions. 17 Democratic states sued. Protects institutions amid affirmative action debates.",
+      "link": "https://apnews.com/article/trump-administration-lawsuit-higher-education-race-8b3a50026922cc78d9ca3d7c52b93acb",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Reports Boston judge granting injunction after coalition of 17 Democratic states sued",
+          "link": "https://apnews.com/article/trump-administration-lawsuit-higher-education-race-8b3a50026922cc78d9ca3d7c52b93acb"
+        },
+        {
+          "source": "NPR",
+          "angle": "Notes judge called rollout rushed and chaotic",
+          "link": "https://www.npr.org/2026/04/04/nx-s1-5773915/judge-halts-trump-effort-college-admissions-race"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Planet Labs Halts Iran War Satellite Images at U.S. Government Request",
+      "source": "Al Jazeera",
+      "summary": "U.S. firm Planet Labs blacked out imagery of Iran war zones following government ask amid U.S.-Israel operations. Limits public monitoring of strikes. Raises transparency concerns in active conflict.",
+      "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "science",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Arrests Niece and Grand-Niece of Late Iranian General Qasem Soleimani",
+      "source": "BBC",
+      "summary": "Immigration and Customs Enforcement detains relatives of slain Iranian commander Qasem Soleimani. Custody details unclear, linked to sanctions enforcement. Signals U.S. pressure on Iran networks during war.",
+      "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Uganda Receives First U.S. Deportation Flight with Dozen Migrants",
+      "source": "The Guardian",
+      "summary": "A flight landed carrying about a dozen deportees under new U.S.-Uganda third-country agreement for migrants without ties. Legal challenges loom over 'dehumanizing' process. Advances Trump immigration enforcement.",
+      "link": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 14,
+    "articlesProcessed": 448,
+    "articlesAfterDedup": 448,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "economy": 1,
+      "environment": 1,
+      "politics": 2,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "europe": 2,
+      "asia-pacific": 1,
+      "americas": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "developing": 3,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

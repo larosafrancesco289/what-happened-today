@@ -1,0 +1,191 @@
+{
+  "date": "2026-04-05",
+  "summary": "Nella notte, l'Iran ha lanciato missili e droni contro Kuwait, Emirati Arabi Uniti e Israele, alla vigilia dell'ultimatum di 48 ore imposto da Trump per un accordo sullo Stretto di Hormuz o apertura forzata. In Kuwait, i raid hanno causato danni gravi a due centrali elettriche, un impianto di desalinizzazione e un complesso ministeriale. In risposta, Stati Uniti e Israele hanno condotto un attacco congiunto sulla zona petrolchimica di Mahshahr in Iran, con 5 morti e 170 feriti; Fars riporta fumo e nube tossica dallo stabilimento. Unità speciali Usa hanno recuperato il secondo pilota disperso dopo l'abbattimento di due F-15 americani ieri: Trump ha annunciato dalla Situation Room il soldato sano e salvo, mentre i Pasdaran negano l'operazione e rivendicano la distruzione dell'aereo Usa.\n\nL'Iran ha replicato all'ultimatum di Trump minacciando un \"inferno regionale\" per gli Stati Uniti; un missile è caduto vicino al sito nucleare di Bushehr. Questo fa seguito all'autorizzazione dei Pasdaran di ieri per il passaggio di navi francesi e giapponesi a Hormuz. In Italia, i prezzi del gasolio hanno superato 2,1 euro al litro in tutte le regioni, con picchi a Bolzano, Calabria e Liguria, legati alle tensioni nel Golfo; Meloni ha collegato la sicurezza italiana alla situazione, annunciando ieri una missione per approvvigionamenti. Nel Dnipropetrovsk, droni russi hanno colpito un mercato a Nikopol alle 9:50, uccidendo 5 civili e ferendone 26; attacchi anche a Kherson. Zelensky ha visitato Erdogan mentre la guerra impedisce una tregua pasquale.\n\nANSA ha pubblicato una mappa animata sui cambiamenti dei ghiacci marini al Polo Nord negli ultimi 45 anni, con riduzioni significative che influenzano rotte navali ed ecosistemi. la Repubblica, citando il Welt, descrive la formazione di blocchi geopolitici rivali su semiconduttori, intelligenza artificiale e standard tecnici, con l'Europa esposta a costi elevati in questa competizione globale.",
+  "headlines": [
+    {
+      "title": "Iran lancia missili e droni contro Kuwait, Emirati Arabi Uniti e Israele",
+      "source": "AGI",
+      "sources": [
+        "ANSA",
+        "AGI"
+      ],
+      "summary": "Nella notte l'Iran intensifica raid missilistici e droni su Kuwait, Emirati e Israele alla vigilia dell'ultimatum di Trump. Kuwait riporta danni gravi a due centrali elettriche, un impianto di desalinizzazione e complesso ministeriale. La mossa rischia di bloccare Hormuz e alzare prezzi energia globale.",
+      "link": "https://www.agi.it/estero/news/2026-04-05/iran-attacca-golfo-israele-36445013/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive intensificazione raid su Kuwait, Emirati e Israele con danni specifici alle infrastrutture kuwaitiane",
+          "link": "https://www.agi.it/estero/news/2026-04-05/iran-attacca-golfo-israele-36445013/"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Menziona missili e droni contro Emirati mirando industria alluminio e lanci verso Israele",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/05/medio-oriente-forze-usa-recuperano-il-pilota-disperso-in-iran.-trump-e-sano_dfd91ced-2691-4952-b6e4-0a5abe29937f.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Stati Uniti e Israele bombardano zona petrolchimica di Mahshahr in Iran",
+      "source": "Rai News",
+      "summary": "Un attacco congiunto Usa-Israele colpisce l'area economica speciale petrolchimica di Mahshahr causando 5 morti e 170 feriti. Fumo e nube tossica si alzano dallo stabilimento secondo Fars. L'escalation risponde agli abbattimenti di caccia Usa e minaccia forniture energetiche.",
+      "link": "https://www.rainews.it/video/2026/04/area-petrolchimica-mahshahr-bombardata-fumo-nube-tossica-si-alzano-dallo-stabilimento-video-84b3c90e-2015-48e4-9511-d5e5f0c117d8.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russia attacca mercato di Nikopol con droni uccidendo 5 civili",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "la Repubblica"
+      ],
+      "summary": "Droni russi colpiscono mercato sabato mattina a Nikopol nel Dnipropetrovsk alle 9.50 causando 5 morti e 26 feriti. Attacchi anche a Kherson. Zelensky visita Erdogan mentre guerra impedisce tregua pasquale interessando sicurezza regionale europea.",
+      "link": "https://www.rainews.it/video/2026/04/droni-russi-su-nikopol-la-strage-al-mercato-del-sabato-le-immagini-terribili-dopo-lesplosione-il-video-67627258-8ff6-4908-8ef3-007373a83e1c.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Mostra immagini post-esplosione al mercato con 5 morti e 26 feriti a Nikopol",
+          "link": "https://www.rainews.it/video/2026/04/droni-russi-su-nikopol-la-strage-al-mercato-del-sabato-le-immagini-terribili-dopo-lesplosione-il-video-67627258-8ff6-4908-8ef3-007373a83e1c.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Collega raid Nikopol a Kherson e vigilia Pasqua con Zelensky da Erdogan",
+          "link": "https://www.repubblica.it/esteri/2026/04/05/news/ucraina_pasqua_senza_tregua_guerra_raid_russo_su_un_mercato-425264900/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran minaccia inferno regionale contro ultimatum di Trump su Hormuz",
+      "source": "TGCOM24",
+      "summary": "Teheran replica alle 48 ore di Trump per accordo o apertura forzata Hormuz dichiarando la regione inferno per gli Usa. Missile cade vicino sito nucleare Bushehr. Meloni lega sicurezza italiana al Golfo con possibili impatti su energia.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-4-aprile_110678901-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Gasolio supera 2,1 euro al litro in tutte le regioni italiane",
+      "source": "Il Sole 24 Ore",
+      "summary": "I prezzi del gasolio raggiungono oltre 2,1 euro al litro ovunque in Italia con picchi a Bolzano, Calabria e Liguria. L'aumento legato a tensioni Golfo aggrava costi trasporti e agricoltura spingendo inflazione.",
+      "link": "https://www.ilsole24ore.com/art/consumatori-gasolio-supera-21-euro-litro-bolzano-calabria-e-liguria-prezzi-piu-alti--monitoraggio-lab24-AIEE6MLC",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Gasolio supera soglia 2,1 euro al litro in tutte le regioni italiane inclusi picchi locali",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "ANSA pubblica mappa animata scioglimento ghiacci marini Polo Nord",
+      "source": "ANSA",
+      "summary": "La mappa animata mostra cambiamenti ghiacci artici negli ultimi 45 anni con riduzioni significative. Il dato evidenzia accelerazione riscaldamento globale influenzando rotte navali e ecosistemi.",
+      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/04/03/la-mappa-animata-del-polo-nord-con-lo-scioglimento-dei-ghiacci-marini_93e32caf-6d59-41f3-9080-8ff4ec79860e.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "la Repubblica spiega guerra tecnosfere con blocchi rivali su semiconduttori",
+      "source": "la Repubblica",
+      "summary": "Il Welt descrive formazione blocchi geopolitici su semiconduttori, intelligenza artificiale e standard tecnici. Europa rischia di pagare prezzo alto in questa battaglia tecnologica globale.",
+      "link": "https://www.repubblica.it/esteri/dossier/lena/2026/04/05/news/europa_paghera_prezzo_guerra_tecnosfere_continental_breakfast-425257620/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Forze Usa recuperano secondo pilota disperso dopo abbattimento in Iran",
+      "source": "TGCOM24",
+      "sources": [
+        "ANSA",
+        "TGCOM24",
+        "Rai News"
+      ],
+      "summary": "Unità speciali Usa con copertura aerea recuperano il secondo pilota disperso. Trump annuncia soldato sano e salvo dalla Situation Room definendolo operazione audace. Pasdaran negano e rivendicano distruzione aereo Usa.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-5-aprile_110712663-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Recuperato secondo pilota con operazione audace; Trump lo dichiara sano, Pasdaran negano e claim su aereo Usa distrutto",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Riporta recupero pilota e dichiarazione Trump sano e salvo nel liveblog Medio Oriente",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/05/medio-oriente-forze-usa-recuperano-il-pilota-disperso-in-iran.-trump-e-sano_dfd91ced-2691-4952-b6e4-0a5abe29937f.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Dettaglia salvataggio secondo pilota come operazione audace dalla Situation Room",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-5-aprile_110712663-202602k.shtml"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Conferma recupero pilota ma nota negazione iraniana sull'operazione",
+          "link": "https://www.rainews.it/articoli/2026/04/recuperato-dalle-forze-usa-il-pilota-disperso-trump-operazione-audace--f6195247-876c-47bc-9111-d76132f75029.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 245,
+    "articlesAfterDedup": 245,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 11,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 2,
+      "economy": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 2,
+      "global": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 2
+    }
+  }
+}

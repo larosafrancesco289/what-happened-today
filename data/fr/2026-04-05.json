@@ -1,0 +1,224 @@
+{
+  "date": "2026-04-05",
+  "summary": "Donald Trump a annoncé le secours des deux pilotes américains d'un F-15E crashé vendredi en Iran. Les pilotes sont sains et saufs après des opérations impliquant des dizaines d'appareils. L'Iran affirme avoir détruit l'appareil américain. Ceci fait suite aux recherches menées hier par les États-Unis et l'Iran pour un pilote manquant. Cela réduit les tensions immédiates sur ce front du conflit au Moyen-Orient au 36e jour. Un accord ou la réouverture du détroit d'Ormuz est attendu d'ici lundi soir.\n\nDonald Trump a posé un ultimatum de 48 heures à l'Iran pour conclure un accord, menaçant sinon d'actions militaires. Téhéran a rejeté l'ultimatum. Une attaque iranienne a endommagé deux centrales électriques et d'un dessalement au Koweït, selon le ministère local. Les autorités iraniennes ont exécuté par pendaison Mohammad-Amin Biglari et Shahin Vahedparast pour liens avec Israël, après confirmation par la Cour suprême. Ces événements s'inscrivent dans l'escalade du conflit régional.\n\nCinq pays européens, Allemagne, Espagne, Italie, Portugal et Autriche, ont demandé à la Commission européenne une taxe sur les superprofits des entreprises pétrolières, en réponse à la flambée des carburants liée au conflit au Moyen-Orient. La Chine a exécuté Chan Thao Phoumy, 62 ans né au Laos et condamné en 2010 pour trafic de méthamphétamines, malgré les demandes françaises. L'ONU a recensé 286 000 déplacés au Soudan du Sud entre janvier et mars 2026 dans l'État du Jonglei. Les Nations unies alertent sur la dégradation humanitaire dans le Haut-Mbomou en Centrafrique. Les astronautes d'Artemis-2 ont observé la face cachée de la Lune depuis Orion.",
+  "headlines": [
+    {
+      "title": "Donald Trump annonce que les deux pilotes américains abattus en Iran ont été secourus",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Radio-Canada",
+        "20 Minutes",
+        "Le Figaro",
+        "Libération",
+        "France 24",
+        "France Info"
+      ],
+      "summary": "Donald Trump confirme le secours des deux pilotes d'un F-15E crashé vendredi en Iran, tous deux sains et saufs après des opérations avec des dizaines d'appareils. L'Iran affirme avoir détruit un appareil américain. Cela réduit les tensions immédiates sur ce front de la guerre au Moyen-Orient.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/05/en-direct-moyen-orient-plusieurs-hauts-responsables-militaires-iraniens-tues-dans-une-frappe-sur-teheran-annonce-donald-trump_6676633_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Les deux pilotes ont été récupérés sains et saufs lors d'opérations de sauvetage impliquant des dizaines d'appareils, après deux jours de recherches intensives",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec l'annonce de Trump sur le pilote manquant depuis vendredi et confirme un second sauvetage",
+          "link": "https://www.lemonde.fr/international/live/2026/04/05/en-direct-moyen-orient-plusieurs-hauts-responsables-militaires-iraniens-tues-dans-une-frappe-sur-teheran-annonce-donald-trump_6676633_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Mentionne mobilisation de dizaines d'appareils pour l'opération de secours du deuxième pilote",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-en-iran-il-est-sain-et-sauf-donald-trump-annonce-que-le-deuxieme-pilote-americain-recherche-a-ete-secouru-20260405"
+        },
+        {
+          "source": "France 24",
+          "angle": "Cite les Gardiens de la Révolution sur destruction d'un appareil américain lors des recherches",
+          "link": "https://www.france24.com/fr/moyen-orient/20260405-le-pilote-am%C3%A9ricain-recherch%C3%A9-en-iran-a-%C3%A9t%C3%A9-secouru-et-est-sain-et-sauf-selon-trump"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump pose ultimatum de 48 heures à l'Iran pour conclure un accord",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "Libération",
+        "20 Minutes"
+      ],
+      "summary": "Donald Trump exige un accord avec l'Iran ou la réouverture du détroit d'Ormuz d'ici lundi soir, menaçant sinon d'actions militaires. Téhéran rejette l'ultimatum. Cela accentue les tensions au 36e jour du conflit au Moyen-Orient.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2243855/trump-ultimatum-iran-conclure-accord-enfer",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Cite le message de Trump sur 48 heures avant de déchaîner les enfers sur l'Iran",
+          "link": "https://ici.radio-canada.ca/nouvelle/2243855/trump-ultimatum-iran-conclure-accord-enfer"
+        },
+        {
+          "source": "Libération",
+          "angle": "Relie l'ultimatum au rejet iranien au 36e jour du conflit",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-second-pilote-de-lavion-americain-abattu-en-iran-retrouve-sain-et-sauf-annonce-trump-20260405_LZONMSM4HFCYZG2PJ2M675SKVI/"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Précise l'exigence de rouvrir le détroit d'Ormuz ou conclure un accord",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4216760-20260405-guerre-moyen-orient-accord-lundi-trump-menace-dechainer-enfers-iran?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Chine exécute Français Chan Thao Phoumy condamné en 2010 pour trafic de méthamphétamines",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "RFI",
+        "Le Figaro",
+        "20 Minutes",
+        "Libération",
+        "France Info"
+      ],
+      "summary": "Chan Thao Phoumy, 62 ans, né au Laos, a été exécuté à Canton malgré les demandes françaises. Condamné pour un réseau produisant des tonnes de drogue de 1999 à 2003, la France exprime sa consternation pour absence de défense à l'audience finale. Cela tend les relations Paris-Pékin.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/05/l-execution-en-chine-d-un-francais-condamne-pour-trafic-de-drogue-jette-un-froid-entre-paris-et-pekin_6676888_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Annonce l'exécution confirmée par le ministère français des Affaires étrangères",
+          "link": "https://www.rfi.fr/fr/france/20260404-chine-un-fran%C3%A7ais-condamn%C3%A9-en-2010-pour-trafic-de-drogue-a-%C3%A9t%C3%A9-ex%C3%A9cut%C3%A9"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Souligne la mobilisation infructueuse des autorités françaises",
+          "link": "https://www.lefigaro.fr/international/chine-un-francais-condamne-en-2010-pour-trafic-de-drogue-a-ete-execute-20260404"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Précise le lieu de l'exécution à Canton en Chine",
+          "link": "https://www.20minutes.fr/monde/chine/4216741-20260404-chine-francais-condamne-2010-trafic-drogue-execute?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran cause dégâts importants à deux centrales électriques et dessalement au Koweït",
+      "source": "France 24",
+      "summary": "Une attaque iranienne endommage deux centrales électriques et d'eau au Koweït, selon le ministère local. Cela s'inscrit dans l'escalade du conflit au Moyen-Orient, affectant les infrastructures énergétiques vitales pour l'émirat.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260405-en-direct-le-pilote-am%C3%A9ricain-recherch%C3%A9-en-iran-est-sain-et-sauf-annonce-trump",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "ONU recense 286 000 déplacés au Soudan du Sud entre janvier et mars 2026",
+      "source": "RFI",
+      "summary": "286 000 personnes, surtout femmes et enfants, fuient les combats entre forces gouvernementales et opposition dans l'État du Jonglei. L'Unicef alerte sur les besoins humanitaires urgents face aux violences persistantes.",
+      "link": "https://www.rfi.fr/fr/afrique/20260405-soudan-du-sud-des-centaines-de-milliers-de-d%C3%A9plac%C3%A9s-entre-janvier-et-fin-mars-2026-selon-l-onu",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Autorités iraniennes exécutent deux hommes pour liens avec Israël lors de manifestations",
+      "source": "Le Figaro",
+      "summary": "Mohammad-Amin Biglari et Shahin Vahedparast sont pendus après confirmation par la Cour suprême. Cela renforce la répression intérieure en Iran au milieu du conflit régional.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-iran-les-autorites-iraniennes-ont-execute-deux-hommes-condamnes-pour-des-liens-avec-israel-lors-des-manifestations-20260405",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Nations unies alertent sur dégradation humanitaire dans Haut-Mbomou en Centrafrique",
+      "source": "RFI",
+      "summary": "Conflits récurrents opposent AAKG, UPC, armée et Wagner dans le sud-est. Mission d'évaluation de mars 2026 confirme l'aggravation, avec besoins accrus en aide.",
+      "link": "https://www.rfi.fr/fr/afrique/20260405-centrafrique-la-situation-humanitaire-dans-le-haut-mbomou-se-d%C3%A9grade-fortement",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Cinq pays européens demandent taxe sur superprofits des entreprises pétrolières",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Allemagne, Espagne, Italie, Portugal et Autriche proposent à la Commission européenne une taxe UE sur profits exceptionnels, en réponse à la flambée des carburants due au conflit au Moyen-Orient.",
+      "link": "https://www.rfi.fr/fr/%C3%A9conomie/20260405-flamb%C3%A9e-du-carburant-cinq-pays-europ%C3%A9ens-veulent-taxer-les-superprofits-des-p%C3%A9troliers",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Astronautes d'Artemis-2 observent face cachée de la Lune depuis vaisseau Orion",
+      "source": "Le Monde",
+      "summary": "Quatre astronautes NASA plus proches de la Lune que de la Terre voient et photographient des reliefs inédits de l'hémisphère opposé. Cela marque une étape clé de la mission Artemis-2.",
+      "link": "https://www.lemonde.fr/sciences/article/2026/04/05/les-astronautes-d-artemis-2-observent-directement-la-face-cachee-de-la-lune_6676872_1650684.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 1,
+      "society": 4,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "asia-pacific": 1,
+      "africa": 2,
+      "europe": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 3,
+      "also": 5
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "date": "2026-04-06",
+  "summary": "Donald Trump a prolongé de 24 heures son ultimatum à l'Iran, fixé désormais à mardi 20 heures heure de Washington, pour rouvrir le détroit d'Ormuz. Il menace de détruire les infrastructures vitales iraniennes. Téhéran promet des représailles dévastatrices. Ceci fait suite à cinq semaines d'échanges de frappes entre États-Unis, Israël et Iran, affectant 20 % du pétrole mondial transitant par Ormuz. Dans la nuit de dimanche à lundi, des frappes israéliennes et américaines en Iran ont tué au moins 25 personnes, dont six enfants. Un missile iranien a détruit un immeuble à Haïfa en Israël, tuant deux personnes ; les fouilles pour deux disparus se poursuivent.\n\nLes prix du Brent et du WTI américain ont dépassé 110 dollars le baril à l'ouverture des marchés, en raison de la fermeture du détroit d'Ormuz. Vladimir Poutine et Xi Jinping, alliés de l'Iran, ont renforcé leur coopération depuis la guerre en Ukraine en 2022, pour contrer l'influence occidentale au Moyen-Orient. Volodymyr Zelensky a rencontré Ahmed al-Charaa à Damas en Syrie, première visite depuis la chute de Bachar al-Assad, confirmant une alliance naissante entre les deux pays au milieu des tensions régionales.\n\nQuatre astronautes de la mission Artemis II sont entrés dans la sphère d'influence lunaire pour un survol, première mission habitée depuis 1972, à plus de 406 000 km de la Terre ; ils dépasseront le record d'Apollo 13. Cheng Li-wun, cheffe de l'opposition taïwanaise du Kuomintang, effectue une visite en Chine, première en dix ans, avec une rencontre prévue avec Xi Jinping pour favoriser le dialogue. À Gaza, les derniers chrétiens ont célébré Pâques malgré un bombardement israélien ayant tué quatre Palestiniens dimanche.",
+  "headlines": [
+    {
+      "title": "Donald Trump repousse ultimatum à l'Iran jusqu'à mardi 20 heures heure de Washington",
+      "source": "Libération",
+      "sources": [
+        "Libération",
+        "Le Monde",
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Donald Trump prolonge de 24 heures son ultimatum à l'Iran pour rouvrir le détroit d'Ormuz, menaçant de détruire ses infrastructures vitales. Téhéran promet des représailles dévastatrices. Cela intensifie le conflit après cinq semaines d'échanges de frappes, affectant 20% du pétrole mondial.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-repousse-son-ultimatum-liran-poursuit-ses-tirs-de-missiles-et-de-drones-20260406_SHBT5CW6D5G5HCZRL2RZF35IVM/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Libération",
+          "angle": "Ouvre avec Trump repoussant ultimatum et poursuite des tirs missiles drones par l'Iran",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-repousse-son-ultimatum-liran-poursuit-ses-tirs-de-missiles-et-de-drones-20260406_SHBT5CW6D5G5HCZRL2RZF35IVM/"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Met en avant message injurieux de Trump réitérant menaces sur infrastructures vitales",
+          "link": "https://www.lemonde.fr/international/live/2026/04/06/en-direct-guerre-en-iran-teheran-avertit-donald-trump-de-represailles-devastatrices-si-les-attaques-contre-les-cibles-civiles-continuent_6676633_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Signale promesse iranienne de représailles si menaces Trump mises à exécution",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-repousse-son-ultimatum-envers-l-iran-desormais-fixe-a-mardi-20-heures-20260406"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël et États-Unis tuent 25 personnes dont six enfants lors de frappes en Iran",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Au moins 25 personnes, dont six enfants, meurent dans des attaques israéliennes et américaines en Iran dans la nuit de dimanche à lundi. Téhéran menace de représailles plus dévastatrices contre infrastructures civiles. Cela aggrave les tensions régionales après cinq semaines de conflit.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260406-en-direct-guerre-moyen-orient-etats-unis-israel-iran-promet-represailles-devastatrices-donald-trump-ultimatum",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Commence par bilan des 25 morts dont six enfants et promesse de représailles iraniennes",
+          "link": "https://www.france24.com/fr/moyen-orient/20260406-en-direct-guerre-moyen-orient-etats-unis-israel-iran-promet-represailles-devastatrices-donald-trump-ultimatum"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Missile iranien tue deux personnes en détruisant immeuble à Haïfa en Israël",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Un missile iranien détruit un immeuble à Haïfa, tuant deux personnes ; fouilles continuent pour deux disparus. Cela s'inscrit dans les échanges de frappes avec Israël et États-Unis. Les tensions persistent au Moyen-Orient.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2243992/israel-morts-haifa-missile-iran",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Indique deux morts confirmés et poursuite des fouilles pour disparus",
+          "link": "https://ici.radio-canada.ca/nouvelle/2243992/israel-morts-haifa-missile-iran"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Suit en direct la frappe iranienne sur immeuble à Haïfa causant deux morts",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4216953-20260406-direct-guerre-moyen-orient-deux-morts-frappe-iranienne-immeuble-haifa?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Quatre astronautes Artemis II entrent dans sphère d'influence lunaire pour survol",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "Le Monde",
+        "France Info"
+      ],
+      "summary": "Les astronautes d'Artemis II amorcent lundi le survol de la Lune, première depuis 1972, à plus de 406 000 km de Terre. Ils dépasseront le record d'Apollo 13. Cela marque un jalon dans l'exploration spatiale habitée.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2243986/artemis-lune-face-cachee-hansen-nasa",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Annonce préparation des quatre astronautes pour point culminant mission autour Lune",
+          "link": "https://ici.radio-canada.ca/nouvelle/2243986/artemis-lune-face-cachee-hansen-nasa"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Rapproche mission de survol historique dépassant record Apollo 13 en distance",
+          "link": "https://www.lemonde.fr/sciences/article/2026/04/06/la-mission-artemis-2-a-quelques-heures-d-un-survol-historique-de-la-lune_6677145_1650684.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Signale entrée dans sphère d'influence lunaire amorçant dernière ligne droite",
+          "link": "https://www.franceinfo.fr/sciences/espace/mission-artemis-vers-la-lune/la-mission-artemis-ii-s-apprete-a-voler-autour-de-la-lune-une-premiere-depuis-1972_7918823.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Volodymyr Zelensky rencontre Ahmed al-Charaa à Damas en Syrie",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Le président ukrainien Volodymyr Zelensky visite Damas et rencontre Ahmed al-Charaa, première depuis chute Assad. Cela confirme alliance naissante Syrie-Ukraine au milieu des tensions moyen-orientales.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260406-syrie-le-pr%C3%A9sident-ukrainien-volodymyr-zelensky-a-rencontr%C3%A9-ahmed-al-charaa-%C3%A0-damas",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Cheng Li-wun cheffe opposition taïwanaise visite Chine première en dix ans",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Cheng Li-wun, présidente du Kuomintang, visite Chine ; rencontre Xi Jinping prévue cette semaine. Première en dix ans, elle vise apaisement tensions via dialogue malgré critiques.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260406-ta%C3%AFwan-cheng-li-wun-cheffe-opposition-en-visite-en-chine-une-premi%C3%A8re-en-dix-ans",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Prix Brent et WTI dépassent 110 dollars par baril à ouverture des marchés",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Brent et WTI américain ouvrent au-delà de 110 dollars, affectés par fermeture détroit d'Ormuz transitant 20% pétrole mondial. Cela reflète craintes d'escade conflit États-Unis-Iran.",
+      "link": "https://www.lefigaro.fr/international/petrole-le-brent-et-le-wti-americain-ouvrent-en-hausse-tous-deux-au-dela-de-110-dollars-20260406",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Chine et Russie renforcent liens sur guerre États-Unis-Iran après Ukraine",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Vladimir Poutine et Xi Jinping, alliés de l'Iran, resserrent coopération depuis guerre Russie-Ukraine 2022. Cela contrebalance influence occidentale au Moyen-Orient.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4216815-20260406-guerre-moyen-orient-apres-ukraine-chine-russie-rapprochent-guerre-entre-etats-unis-iran?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Chrétiens de Gaza célèbrent Pâques malgré bombardement israélien tuant quatre Palestiniens",
+      "source": "France Info",
+      "sources": [
+        "France Info"
+      ],
+      "summary": "Les derniers chrétiens de Gaza prient pour paix lors de Pâques, endeuillée par bombardement israélien tuant quatre Palestiniens dimanche. Cela illustre persistance conflits malgré fêtes religieuses.",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/reportage-que-le-seigneur-nous-donne-la-possibilite-de-vivre-en-paix-et-dans-la-justice-a-gaza-les-derniers-chretiens-presents-celebrent-paques-malgre-tout_7917683.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 210,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 2,
+      "science": 1,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "global": 3,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    }
+  }
+}

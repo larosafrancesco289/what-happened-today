@@ -1,0 +1,221 @@
+{
+  "date": "2026-04-06",
+  "summary": "Stati Uniti e Iran, con mediatori internazionali, negoziano una tregua di 45 giorni per cessare il fuoco sullo Stretto di Hormuz e sull'uranio arricchito. Teheran smentisce un accordo entro 48 ore, definendolo improbabile. Oggi 15 navi sono transitate da Hormuz, evitando escalation su rotte civili. Questo fa seguito ai missili e droni iraniani lanciati ieri contro Kuwait, Emirati Arabi Uniti e Israele, e ai bombardamenti statunitensi e israeliani sulla zona petrolchimica di Mahshahr in Iran.\n\nRaid aerei nella notte vicino Teheran hanno causato 17 morti, tra cui sei bambini. Il petrolio ha raggiunto 113,69 dollari al barile WTI e 110,67 Brent. Donald Trump ha spostato l'ultimatum per l'apertura di Hormuz da oggi a domani; Teheran replica che le mosse USA trascinano verso l'inferno, influenzando i negoziati in corso. La chiusura prolungata di Hormuz fino ad aprile 2026 provoca shock energetico: governi asiatici impongono smart working, aziende riducono consumi e prezzi colpiscono economie globali. Due aerei Hercules USA si sono scontrati in pista in Iran durante una missione per salvare un pilota abbattuto.\n\nIn area SAR libica un naufragio ha lasciato 80 migranti dispersi e 32 salvati. Un attacco ucraino ha intrappolato 41 minatori in una miniera di Donetsk, con Leonid Pasechnik che guida le operazioni di salvataggio; questo prolunga tensioni nel Donbass occupato da Mosca. L'equipaggio NASA di Artemis II è entrato in orbita lunare, con gravità lunare che supera quella terrestre e 40 minuti di isolamento radio attesi. Giorgia Meloni ha visitato Arabia Saudita, Qatar ed Emirati, dove l'interscambio commerciale italiano raggiunge 26 miliardi di euro nel 2025. Il conflitto medio-orientale blocca aiuti umanitari da Dubai verso Gaza e Sudan, con costi in aumento.",
+  "headlines": [
+    {
+      "title": "Stati Uniti e Iran negoziano tregua di 45 giorni su Hormuz e uranio arricchito",
+      "source": "ANSA",
+      "sources": [
+        "TGCOM24",
+        "ANSA",
+        "AGI"
+      ],
+      "summary": "Stati Uniti e Iran, con mediatori internazionali, lavorano a tregua di 45 giorni per cessare il fuoco e negoziano su Stretto di Hormuz e uranio. Teheran smentisce, accordo improbabile in 48 ore. Evita escalation su civili, 15 navi passate oggi da Hormuz.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/06/medio-oriente-live-in-corso-negoziati-usa-iran-per-un-cessate-il-fuoco_e052316e-a1ed-415e-ae76-a96c672ccf63.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta mediazione per cessate il fuoco di 45 giorni e raid Teheran con 17 morti",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-6-aprile_110742470-202602k.shtml"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Indica negoziati Usa-Iran per cessate il fuoco con Teheran che smentisce",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/06/medio-oriente-live-in-corso-negoziati-usa-iran-per-un-cessate-il-fuoco_e052316e-a1ed-415e-ae76-a96c672ccf63.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Descrive lavoro su tregua 45 giorni citando Axios e fonti multiple",
+          "link": "https://www.agi.it/estero/news/2026-04-06/iran-usa-tregua-hormuz-36454394/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Raid aerei vicino Teheran causano 17 morti tra cui sei bambini",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "AGI"
+      ],
+      "summary": "Raid nella notte vicino Teheran uccide 17 persone, sei bambini tra vittime, mentre petrolio sale a 113,69 dollari Wti e 110,67 Brent. Coinvolti Usa e Iran in attacchi reciproci. Negoziati tregua unica via per fermare escalation.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-6-aprile_110742470-202602k.shtml",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Apre con raid vicino Teheran 17 morti sei bambini e mediazione tregua",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-6-aprile_110742470-202602k.shtml"
+        },
+        {
+          "source": "AGI",
+          "angle": "Evidenzia strage bambini a Teheran e colloqui per tregua 45 giorni",
+          "link": "https://www.agi.it/estero/news/2026-04-06/strage-bambini-iran-raid-36454085/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Chiusura Stretto di Hormuz provoca shock energetico e smart working globale",
+      "source": "Il Sole 24 Ore",
+      "summary": "Conflitto Iran prolunga chiusura Hormuz in aprile 2026, governi asiatici impongono smart working per crisi energetica. Prezzi petrolio in rialzo colpiscono economie mondiali, aziende riducono consumi.",
+      "link": "https://www.ilsole24ore.com/art/crisi-energetica-2026-torna-smart-working-mondo-lo-shock-chiusura-stretto-hormuz-AIbcmzLC",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Naufragio area Sar libica lascia 80 dispersi e salva 32 migranti",
+      "source": "Il Sole 24 Ore",
+      "summary": "Naufragio in area Sar libica provoca 80 dispersi, 32 persone salvate. Save the Children denuncia Pasqua di dolore nel Mediterraneo. Aumenta pressione su rotte migratorie nonostante conflitti vicini.",
+      "link": "https://www.ilsole24ore.com/art/superstiti-naufragio-lampedusa-sono-80-dispersi-AIGM1sLC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Attacco ucraino intrappola 41 minatori in miniera Donetsk Russia",
+      "source": "TGCOM24",
+      "summary": "41 minatori intrappolati in miniera Donetsk dopo attacco ucraino che danneggia sottostazione elettrica. Leonid Pasechnik guida operazioni salvataggio. Prolunga tensioni nel Donbass occupato da Mosca.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/russia-minatori-intrappolati-ucraina_110744292-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Astronauti Artemis II entrano orbita lunare e vedono Gran Canyon lunare",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News"
+      ],
+      "summary": "Equipaggio Nasa su Orion entra orbita lunare, gravità Luna supera Terra, primi umani a punto lontano dalla Terra. Missione Artemis II prepara giro di boa con isolamento radio 40 minuti.",
+      "link": "https://www.agi.it/estero/news/2026-04-06/artemis-orion-record-luna-36454710/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive astronauti primi a vedere Gran Canyon lunare in orbita",
+          "link": "https://www.agi.it/estero/news/2026-04-06/artemis-orion-record-luna-36454710/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Riporta preparazione giro di boa con isolamento radio totale",
+          "link": "https://www.rainews.it/video/2026/04/lultimo-sorvolo-50-anni-fa-la-missione-artemis-2-si-prepara-in-viaggio-verso-la-luna-663f8f0b-b6dd-4fee-bce0-7ef329331da6.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Meloni rafforza legami commerciali con Arabia Saudita Qatar ed Emirati",
+      "source": "Il Sole 24 Ore",
+      "summary": "Giorgia Meloni visita Arabia Saudita Qatar ed Emirati, interscambio commerciale raggiunge 26 miliardi euro nel 2025. Rafforza presenza Italia in fase difficile per energia e geopolitica.",
+      "link": "https://www.ilsole24ore.com/art/meloni-rafforza-legami-commerciali-arabia-saudita-qatar-ed-emirati-interscambio-26-miliardi-2025-AIUvZvLC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Guerra Medio Oriente blocca aiuti umanitari da Dubai verso Gaza e Sudan",
+      "source": "la Repubblica",
+      "summary": "Conflitto e blocco Hormuz ritardano aiuti da centro logistico Dubai per Gaza e Sudan, costi impennano. Organizzazioni internazionali denunciano allarme fame in crisi umanitarie maggiori.",
+      "link": "https://www.repubblica.it/esteri/2026/04/06/news/dubai_guerra_iran_usa_israele_blocca_aiuti_umanitari-425266036/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Trump sposta ultimatum apertura Hormuz da oggi a domani",
+      "source": "la Repubblica",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump sposta scadenza ultimatum da oggi a domani dopo minaccia verbale a Teheran",
+      "summary": "Donald Trump prolunga ultimatum apertura Stretto di Hormuz a domani, definisce iraniani 'bastardi'. Teheran replica che mosse trascinano Usa all'inferno. Influenza negoziati tregua in corso.",
+      "link": "https://www.repubblica.it/esteri/2026/04/06/news/trump_volgare_iran_guerra_bastardi_hormuz_ultimatum-425266101/?rss",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Due aerei Hercules Usa si scontrano in pista durante salvataggio pilota Iran",
+      "source": "la Repubblica",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Schianto due quadrimotori Hercules rischia fallimento operazione recupero pilota disperso",
+      "summary": "Durante missione notte in Iran per salvare pilota abbattuto, due Hercules si scontrano in pista. Ricorda incidente 1980 ostaggi Teheran. Giallo elicotteri bruciati complica tensioni.",
+      "link": "https://www.repubblica.it/esteri/2026/04/05/news/scontro_hercules_usa_salvataggio_pilota_disperso-425265587/?rss",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 259,
+    "articlesAfterDedup": 259,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 3,
+      "economy": 2,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "global": 3,
+      "africa": 1,
+      "europe": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "date": "2026-04-06",
+  "summary": "United States and Israel launched airstrikes overnight into April 6 on sites in Tehran residential areas and other locations in Iran, killing more than 25 people including six children. Iran rejected a U.S. deadline on the Strait of Hormuz set by President Trump and increased attacks, disrupting oil shipments through the strait that carries one-fifth of global oil. Israel assesses Iran retains over 1,000 ballistic missiles and Hezbollah 10,000 rockets as the conflict enters its second month since February 28. U.S. President Trump announced details of a commando rescue of an injured U.S. aviator shot down over Iran in the remote Isfahan area after a two-day search; wreckage was shown.\n\nRwanda-backed rebels overran Congolese troops and entered Goma on April 6 using gunfire and shelling, trapping over one million displaced people sheltering in the city aid hub. United Nations officials report risks of a massive humanitarian crisis that threatens Congo stability and increases regional refugee flows.\n\nNASA's Artemis II Orion capsule reached a closest approach to the Moon at 4,000 miles late April 6, the first crewed lunar flyby since 1972 and farthest distance from Earth for humans. SpaceX Crew-10 launched April 4 with U.S., Japanese, and Russian astronauts, docking at the ISS April 5 to rotate crew and retrieve U.S. astronauts Wilmore and Williams stuck nine months, maintaining station science operations. Ukrainian President Zelensky visited Damascus April 5 with Turkish Foreign Minister Hakan Fidan to discuss military cooperation with Syria's new leader Ahmed al-Sharaa. Palestinians crossed a bisecting military zone on foot into northern Gaza after Israel allowed access following a hostage release deal. NATO initiated coordinated action after another deep-sea cable cut in the Baltic Sea suspected as sabotage. South Korea's National Intelligence Service reports North Korea sent no aid or condolences to Iran since its leader's death February 28. United Arab Emirates demands any U.S.-Iran deal secure Strait of Hormuz passage for oil and LNG amid traffic reductions.",
+  "headlines": [
+    {
+      "title": "U.S. and Israel Kill More Than 25 Including Children in Strikes on Iran",
+      "source": "France 24",
+      "sources": [
+        "The Hindu",
+        "Al Jazeera English",
+        "France 24"
+      ],
+      "summary": "United States and Israel launch airstrikes overnight into April 6, killing over 25 people including six children in Tehran residential areas and other sites. Iran rejects Trump Hormuz deadline and ramps attacks. Escalation disrupts global oil via Strait of Hormuz, heightens war risks.",
+      "link": "https://www.france24.com/en/middle-east/20260406-middle-east-war-live-iran-vows-harsh-response-after-usa-trump-threatens-civilian-targets",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Covers Iran missile drone barrages on Israel Kuwait UAE after Trump warning",
+          "link": "https://www.thehindu.com/news/international/us-israel-iran-war-trump-strait-of-hormuz-live-updates-april-6-2026/article70828678.ece"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Focuses on Tehran dismissing Trump Hormuz ultimatum as war crimes incitement",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Details 25 plus deaths including children from US-Israeli strikes on Iran",
+          "link": "https://www.france24.com/en/middle-east/20260406-middle-east-war-live-iran-vows-harsh-response-after-usa-trump-threatens-civilian-targets"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "NASA Artemis II Astronauts Near First Crewed Lunar Flyby Since 1972",
+      "source": "NPR News",
+      "sources": [
+        "The Hindu",
+        "NPR News",
+        "France 24"
+      ],
+      "summary": "Artemis II Orion capsule approaches Moon for closest pass at 4,000 miles late April 6, farthest humans from Earth ever. First crewed flyby in over 50 years. Paves way for Artemis lunar landings and deep space exploration.",
+      "link": "https://www.npr.org/2026/04/06/nx-s1-5773187/nasa-artemis-ii-moon-lunar-flyby",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Describes Orion whipping around Moon for crew farthest trip from Earth",
+          "link": "https://www.thehindu.com/sci-tech/science/artemis-moon-mission-flyby-nasa-astronauts-april-6/article70829314.ece"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Explains Monday lunar loop 4000 miles close and mission significance",
+          "link": "https://www.npr.org/2026/04/06/nx-s1-5773187/nasa-artemis-ii-moon-lunar-flyby"
+        },
+        {
+          "source": "France 24",
+          "angle": "Highlights historic Moon journey first in half century with views silence",
+          "link": "https://www.france24.com/en/americas/20260406-artemis-2-astronauts-prepare-for-historic-moon-flyby-monday-space-nasa"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo Goma Trapping One Million Displaced",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels overrun Congolese troops entering Goma with gunfire shelling April 6. Over one million displaced shelter in city aid hub. U.N. fears massive humanitarian crisis; threatens Congo stability and regional refugee flows.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Ukraine Zelensky Meets Syria New Leader Pushes Military Deals in Damascus",
+      "source": "France 24",
+      "summary": "Zelensky visits Damascus April 5 with Turkish FM discusses security ties military cooperation with Ahmed al-Sharaa. Strengthens Middle East alliances amid Russia war. Shifts post-Assad dynamics aiding Ukraine defense needs.",
+      "link": "https://www.france24.com/en/middle-east/20260405-ukraine-zelensky-meets-syria-new-leader-al-sharaa-in-damascus-pushes-military-deals",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA SpaceX Launch Crew-10 Retrieves Nine-Month Stuck ISS Astronauts",
+      "source": "Voice of America",
+      "summary": "Crew-10 with U.S. Japan Russia astronauts launches April 4 reaches ISS April 5 for rotation. Enables return of Wilmore Williams stuck nine months. Ensures continuous station science operations for global partners.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Estimates Iran Retains 1000 Ballistic Missiles in Ongoing War",
+      "source": "South China Morning Post",
+      "summary": "Israeli briefings assess Iran holds over 1000 missiles Hezbollah 10000 rockets as war enters second month since February 28. Guides air defenses. Signals prolonged threat to Israel regional security.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3349128/israel-estimates-1000-iranian-missiles-threaten-it-war-grinds-second-month?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "South Korea Agency Says North Korea Silent on Iran to Court U.S.",
+      "source": "South China Morning Post",
+      "summary": "Seoul NIS reports North Korea sends no aid to Iran no condolences for leader death since February 28 war. Distances to enable U.S. talks. Opens potential diplomacy amid global tensions.",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3349136/north-korean-silence-iran-signals-openness-us-talks-seouls-spy-agency?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "UAE Insists U.S.-Iran Deal Guarantees Strait of Hormuz Oil Access",
+      "source": "Japan Times",
+      "summary": "UAE demands secure Hormuz passage carrying one-fifth global oil LNG amid Iran traffic cuts sparking energy crisis. Conditions any deal. Vital for world markets energy prices stability.",
+      "link": "https://www.japantimes.co.jp/news/2026/04/06/world/politics/uae-hormuz-us-iran-deal/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Coordinates Response After Suspected Sabotage Cuts Baltic Cable",
+      "source": "Wall Street Journal World",
+      "summary": "NATO mounts first coordinated action following another deep-sea cable severance in Baltic Sea suspected sabotage. Protects critical infrastructure. Raises hybrid threat concerns from Russia to Europe allies.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "NATO launched initial coordinated response yesterday; new cable cut today prompts expanded action",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians Stream Back to Northern Gaza After Hostage Deal Breakthrough",
+      "source": "Wall Street Journal World",
+      "summary": "Israel allows displaced Gazans cross bisecting military zone into north after hostage release deadlock ends. Thousands return on foot. Eases humanitarian strains tests fragile ceasefire terms.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Palestinians crossed zone yesterday after deal; today more stream following hostage releases",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Reveals Details of Aviator Rescue from Downed Jet in Iran",
+      "source": "Associated Press",
+      "summary": "Trump announces successful extraction of U.S. aviator shot down over Iran after two-day search in remote Isfahan area. Wreckage shown. Boosts military morale underscores risks in Iran operations.",
+      "link": "https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Commandos rescued injured airman deep inside Iran yesterday; details today include Isfahan site images",
+      "sources": [
+        "Associated Press"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 440,
+    "articlesAfterDedup": 439,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "science": 2,
+      "politics": 2,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "global": 2,
+      "africa": 1,
+      "europe": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

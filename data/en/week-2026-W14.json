@@ -1,0 +1,176 @@
+{
+  "weekId": "2026-W14",
+  "startDate": "2026-03-30",
+  "endDate": "2026-04-05",
+  "summary": "This week's news briefing covers March 30 to April 5, 2026, highlighting key global developments in conflicts, U.S. policy, disasters, and space exploration.\n\nThe most significant story was the escalation of Middle East tensions. On March 31, suspected attackers struck a Kuwaiti oil tanker off Dubai, causing fire damage. Spain closed its airspace to U.S. aircraft supporting operations against Iran that day, while Gulf allies urged President Trump to extend U.S. bombing. U.S. strikes on April 3 destroyed a highway bridge and health site near Tehran. Israel intercepted three waves of Iranian missiles near Tel Aviv on April 2. Iran shot down two U.S. fighter jets on April 4—the first such incident in over 20 years—and launched missiles striking residential areas in central Israel, causing damage. Falling debris from an attack ignited a fire at the UAE's Borouge petrochemical plant on April 5.\n\nIn Africa, Rwanda-backed rebels overran troops and entered Goma, Democratic Republic of Congo, on March 30, displacing over one million people. This persisted, with rebels overrunning troops and entering the Congo safe-haven city again on April 4—a rare multi-day story amid volatile regional conflicts.\n\nU.S. domestic news focused on President Trump's actions. The Supreme Court heard arguments on his birthright citizenship executive order on April 1. A federal judge blocked his order barring funding for NPR and PBS that day. Trump signed an executive order imposing 100% tariffs on some patented drugs on April 3. Defense Secretary Pete Hegseth asked Army Chief Gen. Randy George to step down. TMZ and critics pressured Congress over a record partial government shutdown on April 1. On March 30, the U.S. permitted a Russian oil tanker to deliver crude to Cuba amid the blockade—a one-day story that faded.\n\nIsrael allowed displaced Palestinians to cross into northern Gaza on March 30 after a hostage deal, and permitted returns on April 4—developing but not persisting.\n\nNatural disasters included a magnitude 7.4 earthquake in northern Indonesia on April 2, toppling buildings and killing one. Floods killed 77 and an earthquake killed 12 in Afghanistan by April 5. A Russian drone hit a Ukraine market on April 5, killing five and injuring 21.\n\nA milestone: NASA launched Artemis II on April 2 with four astronauts, the first crewed Moon mission in 50 years.\n\nPersistent stories like the Goma rebel advances underscored ongoing instability, while one-offs such as the Cuba oil delivery and initial Gaza crossings faded quickly, signaling transient developments. (378 words)",
+  "persistentStories": [
+    "Rwanda-Backed Rebels Overrun Troops and Enter Goma Displacing Over One Million"
+  ],
+  "fadedStories": [
+    "Israel Allows Displaced Palestinians to Cross Zone into Northern Gaza After Hostage Deal",
+    "U.S. Permits Russian Oil Tanker to Reach Cuba Delivering Crude Amid Blockade",
+    "Floods Kill 110 Across 30 Counties in Kenya as Rains Continue",
+    "SpaceX Launches Four Astronauts to Retrieve NASA Crew Stuck on ISS Nine Months",
+    "China Resumes Regular Direct Flights to Pyongyang After Six Years",
+    "China's Vanke Reports Huge Losses Signaling Widening Property Crisis",
+    "Japan Lower House Passes 8.56 Trillion Yen Emergency Stopgap Budget",
+    "UN Votes Transatlantic Slave Trade Gravest Crime Boosting Reparations Push",
+    "Suspected Attackers Strike Kuwaiti Oil Tanker Off Dubai Causing Fire Damage",
+    "Spain Closes Airspace to U.S. Aircraft Supporting Iran War Operations"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-03-30",
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Goma Displacing Over One Million",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Israel Allows Displaced Palestinians to Cross Zone into Northern Gaza After Hostage Deal",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "U.S. Permits Russian Oil Tanker to Reach Cuba Delivering Crude Amid Blockade",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Suspected Attackers Strike Kuwaiti Oil Tanker Off Dubai Causing Fire Damage",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Spain Closes Airspace to U.S. Aircraft Supporting Iran War Operations",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Gulf Allies Urge Trump to Extend U.S. Bombing Campaign Against Iran",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Supreme Court Hears Arguments on Trump's Birthright Citizenship Executive Order",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Federal Judge Blocks Trump's Order Barring Funding for NPR and PBS",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "TMZ and Critics Pressure Congress to End Record Partial Government Shutdown",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Magnitude 7.4 Earthquake Topples Buildings in Northern Indonesia, Kills 1 Person",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "NASA Launches Artemis II with Four Astronauts on First Crewed Moon Mission in 50 Years",
+      "category": "science",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Israeli Air Defences Intercept Three Waves of Iranian Missiles Near Tel Aviv",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "President Trump Signs Executive Order Imposing 100% Tariffs on Some Patented Drugs",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "Defense Secretary Hegseth Asks Army Chief Gen. Randy George to Step Down",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "US Strikes Destroy Highway Bridge and Health Site Near Tehran",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Iran Shoots Down Two U.S. Fighter Jets First Time in Over 20 Years",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza After Hostage Deal",
+      "category": "society",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Congo Safe-Haven City Goma",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Iranian Missiles Strike Residential Areas Across Central Israel Causing Damage",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-05",
+      "title": "Falling Debris Ignites Fire at UAE Borouge Petrochemical Plant After Attack",
+      "category": "economy",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-05",
+      "title": "Floods Kill 77 and Earthquake Kills 12 in Afghanistan This Week",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-04-05",
+      "title": "Russian Drone Hits Ukraine Market Killing Five and Injuring 21",
+      "category": "conflict",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 3169,
+    "totalSourcesUsed": 18,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 26,
+      "politics": 22,
+      "economy": 8,
+      "environment": 3,
+      "science": 8,
+      "society": 8
+    },
+    "regionCounts": {
+      "africa": 8,
+      "middle-east": 23,
+      "global": 8,
+      "asia-pacific": 13,
+      "europe": 8,
+      "americas": 15
+    }
+  }
+}

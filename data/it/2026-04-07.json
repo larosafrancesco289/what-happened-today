@@ -1,0 +1,200 @@
+{
+  "date": "2026-04-07",
+  "summary": "Gli Stati Uniti hanno presentato all'Iran 15 condizioni su nucleare, missili e Stretto di Hormuz. L'Iran ha risposto con 10 controproposte, inclusi lo stop ai raid aerei e riparazioni. Questo fa seguito ai negoziati di ieri su una tregua di 45 giorni per Hormuz e uranio arricchito. L'Iran ha respinto la tregua richiesta da Trump per riaprire lo Stretto entro martedì sera. I negoziatori USA prevedono un divario insanabile. Trump ha minacciato di distruggere ponti e impianti energetici iraniani entro l'ultimatum delle ore 20 di martedì, dopo il rifiuto. Il conflitto è al 39° giorno.\n\nIn Iran, civili hanno formato catene umane intorno alle centrali elettriche su chiamata delle autorità, prima della scadenza dell'ultimatum. Voci riportano Khamenei in cura a Qom e un attacco a una sinagoga di Teheran. Il Bahrein è in allerta dopo bombardamenti. Separatamente, l'equipaggio di Artemis II ha completato un flyby del lato nascosto della Luna, raggiungendo la massima distanza dalla Terra da Apollo 13 dopo 56 anni. Le comunicazioni sono riprese dopo 40 minuti. Si tratta di un passo verso basi lunari permanenti.\n\nA Crema, un 20enne è morto in ospedale dopo essere stato colpito a sprangate da ignoti. I carabinieri indagano sulla dinamica. A Napoli, Fabio Ascione, 20 anni, è stato ucciso da proiettili sparati da sconosciuti su scooter vicino al bar Lively ed è deceduto a Villa Betania. I carabinieri verificano una possibile matrice camorristica. In Liguria, i pm accusano il governatore Toti di aver manipolato i dati sui contagi COVID, basandosi su intercettazioni in cui ammette di averli aumentati con il capo gabinetto. L'indagine riguarda la gestione sanitaria regionale durante la pandemia.",
+  "headlines": [
+    {
+      "title": "Stati Uniti presentano 15 condizioni a Iran che risponde con 10 controproposte su Hormuz",
+      "source": "la Repubblica",
+      "summary": "Stati Uniti impongono 15 condizioni su nucleare, missili e Hormuz; Iran replica con 10 risposte inclusi stop raid e riparazioni. Negoziatori pessimisti, accordo lontano entro scadenza martedì. Impatta tensioni regionali e mercati energetici globali.",
+      "link": "https://www.repubblica.it/esteri/2026/04/07/news/negoziato_iran_usa_15_condizioni_americane_e_10_risposte_di_teheran-425267209/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Iran rifiuta tregua di 45 giorni richiesta da Trump su Stretto di Hormuz",
+      "source": "AGI",
+      "summary": "Iran respinge tregua di 45 giorni chiesta da Trump per riaprire Hormuz entro martedì sera. Negoziatori USA prevedono divario insanabile, possibili attacchi su ponti e centrali. Conflitto entra nel 39° giorno con rischi escalation.",
+      "link": "https://www.agi.it/estero/news/2026-04-07/iran-guerra-notizie-7-aprile-36463590/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump minaccia di radere al suolo ponti e impianti energetici iraniani",
+      "source": "la Repubblica",
+      "summary": "Trump avverte Iran: accetti piano USA o distrugge infrastrutture in una notte, definendo avversari animali per 45 mila morti. Minaccia segue rifiuto tregua, scadenza ultimatum ore 20. Aumenta tensioni Medio Oriente.",
+      "link": "https://www.repubblica.it/esteri/2026/04/07/news/trump_iran_minacce_ultimatum-425267217/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Astronauti Artemis II sorvolano lato nascosto Luna e battono record distanza Terra",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Equipaggio Artemis II completa flyby dietro Luna, raggiunge massima distanza Terra superando Apollo 13 dopo 56 anni. Comunicazioni riprese dopo 40 minuti. Trump ringrazia per pagina storica. Passo verso basi lunari permanenti.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/07/la-missione-artemis-ii-compie-il-flyby-intorno-alla-luna_8cd171ff-7181-4b1b-bcba-1bc6b3081e40.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Equipaggio completa flyby del lato nascosto della Luna, raggiunge record distanza dalla Terra e riprende comunicazioni dopo 40 minuti di blackout previsto",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Descrive missione che compie flyby intorno alla Luna con video e record distanza Terra dopo 56 anni",
+          "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/07/la-missione-artemis-ii-compie-il-flyby-intorno-alla-luna_8cd171ff-7181-4b1b-bcba-1bc6b3081e40.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Riporta passaggio dietro Luna con record distanza e messaggio di Trump che ringrazia equipaggio",
+          "link": "https://www.agi.it/estero/news/2026-04-07/artemis-luna-trump-36463752/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Enfatizza ripresa comunicazioni dopo 40 minuti durante sorvolo lato oscuro e volo lunare record",
+          "link": "http://it.euronews.com/next/2026/04/07/il-ritorno-dellequipaggio-di-artemis-ii-dopo-aver-compiuto-un-volo-lunare-da-record"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Ignoti colpiscono 20enne a sprangate a Crema causandone la morte",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "ANSA",
+        "TGCOM24"
+      ],
+      "summary": "20enne aggredito per strada a Crema muore in ospedale nonostante soccorsi. Carabinieri indagano su sprangate. Dinamica da chiarire. Episodio solleva preoccupazioni su sicurezza urbana in Italia.",
+      "link": "https://www.rainews.it/articoli/2026/04/ragazzo-aggredito-per-strada-a-crema-morto-in-ospedale-8c037d67-137a-4830-9cf1-2946934847e4.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Riporta morte ragazzo aggredito per strada con tentativi soccorso inutili e indagini carabinieri",
+          "link": "https://www.rainews.it/articoli/2026/04/ragazzo-aggredito-per-strada-a-crema-morto-in-ospedale-8c037d67-137a-4830-9cf1-2946934847e4.html"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Focalizza indagini carabinieri su aggressione forse con sprangate che porta a morte",
+          "link": "https://www.ansa.it/sito/notizie/flash/2026/04/07/-ragazzo-aggredito-per-strada-a-crema-morto-in-ospedale-_223b5c34-85d7-4fe9-aa6b-70e8520bce88.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Descrive agguato con sprangate che uccide 20enne e lavoro carabinieri su dinamica",
+          "link": "https://www.tgcom24.mediaset.it/cronaca/crema-aggredito-strada-morto-20enne_110779370-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Sconosciuti su scooter sparano e uccidono 20enne Fabio Ascione a Napoli",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "TGCOM24",
+        "AGI"
+      ],
+      "summary": "Fabio Ascione, 20 anni, colpito da proiettili esplosi da scooter vicino bar Lively a Napoli. Trasportato a Villa Betania muore. Carabinieri indagano su omicidio. Possibile matrice camorristica da verificare.",
+      "link": "https://www.rainews.it/articoli/2026/04/napoli-20enne-ucciso-a-colpi-di-pistola-in-strada-648c33a8-cd79-47c5-9db9-b93565da98f4.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Descrive 20enne raggiunto da sconosciuti su scooter e ucciso vicino a bar",
+          "link": "https://www.rainews.it/articoli/2026/04/napoli-20enne-ucciso-a-colpi-di-pistola-in-strada-648c33a8-cd79-47c5-9db9-b93565da98f4.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta spari da scooter in corsa secondo prima ricostruzione dell'agguato",
+          "link": "https://www.tgcom24.mediaset.it/cronaca/napoli-fabio-ascione-ucciso-morto_110777910-202602k.shtml"
+        },
+        {
+          "source": "AGI",
+          "angle": "Dettaglia intervento carabinieri e ferite al torace di Fabio Ascione morto in ospedale",
+          "link": "https://www.agi.it/cronaca/news/2026-04-07/napoli-agguato-morto-ventenne-36464740/"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Procuratori accusano Toti di manipolazione dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Pm rivelano intercettazioni: governatore Toti ammette ad aver aumentato contagi a capo gabinetto. Indagine su dati pandemia truccati. Coinvolge gestione sanitaria regionale durante emergenza.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iraniani formano catene umane intorno centrali elettriche prima scadenza ultimatum",
+      "source": "TGCOM24",
+      "summary": "Autorità iraniane chiamano giovani a proteggere centrali; voci su Khamenei in cura a Qom, sinagoga Teheran colpita. Ultimatum Trump alle 20; Bahrein allerta dopo bombardamenti. Difese passive contro possibili raid USA.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-7-aprile_110776485-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 252,
+    "articlesAfterDedup": 250,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 12,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 1,
+      "science": 1,
+      "society": 3
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "global": 1,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 1,
+      "also": 4
+    }
+  }
+}

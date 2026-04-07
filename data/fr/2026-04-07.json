@@ -1,0 +1,244 @@
+{
+  "date": "2026-04-07",
+  "summary": "L'armée israélienne a lancé une vague de frappes aériennes sur l'Iran au 39e jour du conflit. Elle a conseillé aux civils iraniens d'éviter les trains. Le pont reliant l'Arabie saoudite à Bahreïn a fermé par précaution. Cela se produit avant l'expiration de l'ultimatum américain fixé par Donald Trump pour mardi 20 heures heure de Washington, exigeant la libération du détroit d'Ormuz sous menace de détruire des infrastructures iraniennes. Trump a célébré le sauvetage des deux aviateurs américains abattus vendredi en Iran. Le Pakistan qualifie les discussions de phase critique.\n\nFatih Birol, directeur de l'Agence internationale de l'énergie, a déclaré que la crise énergétique actuelle, liée à la guerre au Moyen-Orient, est plus grave que toutes les précédentes. Les prix du pétrole dépassent 110 dollars le baril, avec des risques de pénuries mondiales affectant les économies. Une étude de l'Observatoire international de la fiscalité montre que les multinationales pétrolières placent plus de bénéfices dans des paradis fiscaux pendant ce boom, privant les États de recettes fiscales. Séparément, Volodymyr Zelensky a proposé via les États-Unis une trêve énergétique à la Russie après une attaque ukrainienne sur le terminal pétrolier de Novorossiysk en mer Noire. La Russie accuse l'Ukraine d'avoir endommagé l'installation.\n\nRecep Tayyip Erdogan a accusé Israël de bloquer les efforts de cessez-le-feu médiatisés par la Turquie avec l'Égypte et le Pakistan. Jean-Noël Barrot, ministre français des Affaires étrangères, s'est opposé à des frappes sur des infrastructures civiles iraniennes, avertissant d'une escalade de représailles. Les quatre astronautes d'Artemis II, Reid Wiseman, Victor Glover, Christina Koch et Jeremy Hansen, ont survolé la Lune à 6 500 km de sa surface, à 406 000 km de la Terre, et entament leur retour, première mission habitée depuis Apollo 17. Nicolas Sarkozy a été interrogé trois jours devant la cour d'appel de Paris pour association de malfaiteurs liée à un financement libyen de sa campagne 2007 ; il conteste sa condamnation à cinq ans ferme en première instance.",
+  "headlines": [
+    {
+      "title": "Israël annonce vague de missiles contre l'Iran et conseille d'éviter les trains",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Libération",
+        "Le Figaro"
+      ],
+      "summary": "L'armée israélienne lance une vague de frappes aériennes sur l'Iran au 39e jour de conflit et demande aux civils iraniens d'éviter les trains. Le pont Arabie saoudite-Bahreïn ferme par précaution. Cela accentue les tensions avant l'expiration de l'ultimatum américain ce mardi soir.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/07/en-direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-une-vague-de-frappes-aeriennes-contre-l-iran_6676633_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec annonce vague missiles et fermeture pont Arabie saoudite-Bahreïn",
+          "link": "https://www.lemonde.fr/international/live/2026/04/07/en-direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-une-vague-de-frappes-aeriennes-contre-l-iran_6676633_3210.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Conseille Iraniens éviter trains au 39e jour avec tirs missiles iraniens continus",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-au-lendemain-de-la-conference-de-presse-de-trump-20260407_M2TBVTDF4ZD57CNPGZXYHGCPRY/"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Plan bombardement massif infrastructures énergétiques iraniennes prêt selon Axios",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-ultimatum-de-trump-se-termine-dans-quelques-heures-l-iran-toujours-determine-a-combattre-20260407"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Fatih Birol déclare crise énergétique actuelle plus grave que toutes les précédentes",
+      "source": "20 Minutes",
+      "summary": "Le directeur de l'Agence internationale de l'énergie alerte sur la crise liée à la guerre au Moyen-Orient comme la pire jamais vue. Cela impacte les prix mondiaux du pétrole dépassant 110 dollars le baril et menace les économies globales avec des pénuries potentielles.",
+      "link": "https://www.20minutes.fr/monde/4217022-20260407-energie-crise-actuelle-plus-grave-toutes-precedentes-alarme-patron?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Maison Blanche détaille opération sauvetage des deux aviateurs abattus en Iran",
+      "source": "Libération",
+      "summary": "Washington décrit l'armada aérienne de 50 heures pour ramener vivants les deux pilotes dont l'appareil a été abattu vendredi. L'un reste gravement blessé. Cela souligne les risques des opérations militaires américaines en territoire iranien.",
+      "link": "https://www.liberation.fr/international/amerique/armada-aerienne-appareils-embourbes-50-heures-de-mission-washington-raconte-la-double-operation-pour-sauver-les-aviateurs-en-iran-20260407_22XI2JBF4FGMTAT73UHRC37VAI/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Libération"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukraine propose trêve énergétique à la Russie après attaque sur terminal pétrolier",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "20 Minutes"
+      ],
+      "summary": "Volodymyr Zelensky propose via les États-Unis une trêve énergétique après que l'Ukraine a visé le port russe de Novorossiysk. La Russie accuse d'avoir endommagé un terminal en mer Noire. Cela vise à atténuer les attaques mutuelles sur infrastructures vitales.",
+      "link": "https://www.rfi.fr/fr/europe/20260407-l-ukraine-propose-une-tr%C3%AAve-%C3%A9nerg%C3%A9tique-%C3%A0-la-russie-apr%C3%A8s-une-nouvelle-attaque",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Ukraine reconnaît frappe sur Novorossiysk sans revendiquer pipeline endommagé",
+          "link": "https://www.rfi.fr/fr/europe/20260407-l-ukraine-propose-une-tr%C3%AAve-%C3%A9nerg%C3%A9tique-%C3%A0-la-russie-apr%C3%A8s-une-nouvelle-attaque"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Suit en direct proposition trêve énergétique dans contexte conflit russo-ukrainien",
+          "link": "https://www.20minutes.fr/monde/ukraine/4217013-20260407-direct-guerre-ukraine-ukraine-propose-treve-energetique-russie?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Recep Tayyip Erdogan accuse Israël de saper efforts de cessez-le-feu en Iran",
+      "source": "20 Minutes",
+      "summary": "La Turquie via Égypte et Pakistan médiatise pour un cessez-le-feu mais Erdogan reproche à Israël de bloquer les initiatives. Cela complique les médiations régionales au milieu des frappes continues.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4217010-20260407-guerre-moyen-orient-erdogan-tape-poing-table-contre-attitude-israel?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Jean-Noël Barrot s'oppose à frappes sur infrastructures civiles iraniennes",
+      "source": "France Info",
+      "summary": "Le ministre des Affaires étrangères français prévient que des frappes sur civils en Iran ouvriraient une escalade de représailles face aux menaces de Trump. La France cherche à limiter l'extension du conflit.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-nous-nous-opposons-a-toute-frappe-sur-les-infrastructures-civiles-en-iran-affirme-jean-noel-barrot-en-reponse-aux-menaces-de-donald-trump_7920545.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Nicolas Sarkozy répond à interrogatoire en appel pour financement libyen 2007",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "RFI"
+      ],
+      "summary": "L'ancien président français est interrogé trois jours devant la cour d'appel de Paris pour association de malfaiteurs liée à des fonds libyens pour sa campagne 2007. Condamné à cinq ans ferme en première instance, il conteste les accusations.",
+      "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/direct-proces-en-appel-de-nicolas-sarkozy-suivez-l-interrogatoire-de-l-ex-president-de-la-republique_7917350.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "Suit en direct interrogatoire de Sarkozy soupçonné de fonds libyens campagne 2007",
+          "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/direct-proces-en-appel-de-nicolas-sarkozy-suivez-l-interrogatoire-de-l-ex-president-de-la-republique_7917350.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RFI",
+          "angle": "Sarkozy entendu après relaxations partielles mais cinq ans ferme pour corruption",
+          "link": "https://www.rfi.fr/fr/france/20260407-france-au-proc%C3%A8s-libyen-en-appel-c-est-au-tour-de-nicolas-sarkozy-de-prendre-la-parole"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Étude révèle que superprofits pétroliers transitent par paradis fiscaux",
+      "source": "Le Monde",
+      "summary": "L'Observatoire international de la fiscalité montre que multinationales pétroliers placent plus de bénéfices dans pays à faible imposition lors de booms comme actuel. Cela prive États de recettes fiscales vitales.",
+      "link": "https://www.lemonde.fr/economie/article/2026/04/07/les-superprofits-des-geants-petroliers-vont-en-partie-dans-les-paradis-fiscaux_6677844_3234.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Quatre astronautes Artemis II entament retour vers Terre après survol Lune",
+      "source": "RTBF",
+      "sources": [
+        "RTBF",
+        "Radio-Canada",
+        "Le Monde",
+        "France Info"
+      ],
+      "summary": "Reid Wiseman, Victor Glover, Christina Koch et Jeremy Hansen ont survolé la Lune sept heures à 6 500 km de surface, atteignant 406 000 km de Terre. Première mission habitée depuis Apollo 17, ils rentrent.",
+      "link": "https://www.rtbf.be/article/apres-un-tour-de-lune-les-quatre-astronautes-d-artemis-sont-mardi-sur-le-chemin-du-retour-vers-la-terre-11706013",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Astronautes ont survolé face cachée Lune et parcouru 6 500 km de surface avant inversion trajectoire retour",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "Astronautes remettent cap Terre après tour Lune avec citation Koch",
+          "link": "https://www.rtbf.be/article/apres-un-tour-de-lune-les-quatre-astronautes-d-artemis-sont-mardi-sur-le-chemin-du-retour-vers-la-terre-11706013"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Première mission habitée NASA depuis Apollo 17 en 1972",
+          "link": "https://ici.radio-canada.ca/nouvelle/2244056/artemis-survol-face-cachee-lune-mission"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Humains les plus éloignés Terre survolent Lune à 6 500 km surface",
+          "link": "https://www.lemonde.fr/sciences/live/2026/04/07/en-direct-artemis-2-les-quatre-astronautes-ont-survole-la-lune-durant-la-nuit-suivez-en-direct-la-mission-historique-de-la-nasa_6677845_1650684.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Allés à 406 000 km Terre première depuis Apollo 17",
+          "link": "https://www.franceinfo.fr/sciences/espace/mission-artemis-vers-la-lune/les-astronautes-de-la-mission-artemis-ii-ont-remis-le-cap-vers-la-terre-apres-avoir-fait-le-tour-de-la-lune_7920494.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump maintient ultimatum à l'Iran jusqu'à mardi 20 heures heure Washington",
+      "source": "Le Figaro",
+      "summary": "L'ultimatum pour libérer détroit d'Ormuz expire mardi soir avec menaces de détruire infrastructures si non-respecté. Trump célèbre sauvetage aviateurs. Pakistan voit discussions à étape critique.",
+      "link": "https://www.lefigaro.fr/international/face-a-l-iran-donald-trump-poursuit-son-cavalier-seul-20260406",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israël annonce nouvelle vague frappes, ambassadeur iranien au Pakistan évoque étape critique discussions",
+      "sources": [
+        "Le Figaro"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 2,
+      "politics": 5,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "global": 3,
+      "europe": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

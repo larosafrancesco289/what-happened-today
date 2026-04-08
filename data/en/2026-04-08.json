@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-08",
+  "summary": "U.S., Israel and Iran agreed to a two-week ceasefire after Iran's 10-point proposal, just before U.S. President-elect Trump's deadline to reopen the Strait of Hormuz. This follows Israeli strikes yesterday on a Tehran residential area and synagogue amid renewed U.S. threats to Iran. The agreement affects global shipping and energy markets, with oil prices dropping 15 percent. Talks are expected next to avert wider war.\n\nIn eastern Congo, Rwanda-backed rebels overran Congolese troops and entered Goma, the region's main aid hub, with gunfire reported and over one million people displaced inside the city. The U.N. warned of a humanitarian crisis threatening aid operations and regional stability. Separately, Ukraine increased strikes on Russian oil refineries and shipping to reduce Moscow's war revenue, which rose amid tensions over Iran. UK Prime Minister Keir Starmer told a virtual coalition of leaders excluding the U.S. that Russia must engage in Ukraine ceasefire talks to end the three-year war.\n\nIsrael allowed thousands of displaced Palestinians to cross a bisecting military zone into northern Gaza after a hostage release impasse ended. SpaceX launched Crew-10 on a Falcon 9 from Florida with NASA astronauts Anne McClain and Nichole Ayers, Japan's Takuya Onishi, and Russia's Kirill Peskov to the ISS, enabling the return of stuck astronauts Wilmore and Williams after nine months and restoring normal rotations. North Korea fired several short-range missiles into the sea from its east coast after South Korea ridiculed inter-Korean ties. Rex Heuermann, charged in the Long Island Gilgo Beach serial killings, agreed to plead guilty on Wednesday. NATO deployed its first coordinated response after a second deep-sea cable cut in the Baltic Sea.\"}",
+  "headlines": [
+    {
+      "title": "U.S., Israel and Iran Agree to Two-Week Ceasefire Before Trump Strait Deadline",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "Deutsche Welle",
+        "The Hindu",
+        "France 24",
+        "BBC",
+        "ABC Australia"
+      ],
+      "summary": "U.S., Israel and Iran agree to two-week ceasefire after Iran's 10-point proposal, just before Trump's deadline to reopen Strait of Hormuz. Affects global shipping and energy; oil prices drop 15%. Paves way for talks, averting wider war.",
+      "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Reports deal came shortly before Trump’s Hormuz reopening deadline; Israel excludes Lebanon",
+          "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Covers Trump pulling back from destruction threats after Iran’s 10-point proposal",
+          "link": "https://www.dw.com/en/iran-war-us-israel-tehran-agree-two-week-ceasefire/live-76700191?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Notes Iran’s two-week Hormuz safe passage if attacks halt; Israel excludes Lebanon",
+          "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-8-2026/article70836852.ece"
+        },
+        {
+          "source": "France 24",
+          "angle": "Details Iran’s 10-point plan for war end; Trump calls it workable despite issues",
+          "link": "https://www.france24.com/en/middle-east/20260408-what-we-know-about-iran-10-point-plan-for-ending-war-with-us-israel"
+        },
+        {
+          "source": "BBC",
+          "angle": "Highlights up to 15% crude oil price plunge on ceasefire and Hormuz reopening",
+          "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma Overrunning Troops with One Million Displaced",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-backed rebels overrun Congolese troops entering Goma, Congo's aid hub; gunfire reported with over one million displaced inside city. U.N. warns of humanitarian crisis. Threatens regional stability and aid operations.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Ukraine Strikes Russian Oil Refineries and Shipping to Curb War Revenue",
+      "source": "New York Times",
+      "summary": "Ukraine ramps up attacks on Russian oil facilities as Iran war boosts Moscow's crude revenue funding Ukraine invasion. Targets refining and exports. Aims to weaken Russia's war economy amid global energy shifts.",
+      "link": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Launches Crew-10 with Four Astronauts to Retrieve NASA's Stuck ISS Pair",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 launches NASA’s Anne McClain, Nichole Ayers, Japan’s Takuya Onishi and Russia’s Kirill Peskov from Florida to ISS. Enables return of stuck astronauts Wilmore and Williams after nine months. Restores normal rotations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Rex Heuermann Agrees to Plead Guilty in Long Island Gilgo Beach Killings",
+      "source": "Associated Press",
+      "summary": "Long Island architect Rex Heuermann, charged in Gilgo Beach serial killings, will plead guilty Wednesday. Ends years-long probe haunting investigators and victims' families. Closes notorious U.S. true-crime case.",
+      "link": "https://apnews.com/article/gilgo-beach-serial-killings-guilty-plea-fdfbb6aace18e89bd5f7593859825eef",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "North Korea Fires Several Short-Range Missiles Toward Sea After South Korea Taunts",
+      "source": "Associated Press",
+      "summary": "North Korea launches several short-range missiles into sea from east coast after ridiculing South’s inter-Korean ties hopes. Heightens peninsula tensions amid global conflicts. Signals rejection of dialogue.",
+      "link": "https://apnews.com/article/north-korea-launch-south-korea-098ca1f60e71fe6aa25539d8a9e14c96",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "UK Prime Minister Starmer Urges Russia to Yield in Ukraine Ceasefire Push",
+      "source": "Voice of America",
+      "summary": "British PM Keir Starmer tells virtual coalition of leaders Russia must engage Ukraine ceasefire talks sooner or later. Excludes U.S.; aims to end three-year war. Bolsters European pressure on Moscow.",
+      "link": "https://www.voanews.com/a/starmer-sooner-or-later-russia-must-yield-to-peace/8011681.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians Stream into Northern Gaza After Israel Breaks Hostage Deadlock",
+      "source": "Wall Street Journal",
+      "summary": "Israel allows thousands of displaced Palestinians to cross bisecting military zone into north Gaza after hostage release impasse ends. Eases humanitarian plight for returnees. Signals potential de-escalation steps.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel opens military zone yesterday; today thousands return after hostage release deadlock broken",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response After Second Baltic Sea Cable Cut",
+      "source": "Wall Street Journal",
+      "summary": "NATO deploys first coordinated action against suspected sabotage after another deep-sea cable severed in Baltic Sea. Protects critical infrastructure. Raises hybrid threat concerns from Russia.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "First cable severance prompted initial response yesterday; today second cut triggers full NATO coordination",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 442,
+    "articlesAfterDedup": 442,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 4,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "africa": 1,
+      "europe": 3,
+      "global": 1,
+      "americas": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 2
+    }
+  }
+}

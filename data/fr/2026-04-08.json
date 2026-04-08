@@ -1,0 +1,180 @@
+{
+  "date": "2026-04-08",
+  "summary": "Les États-Unis et l'Iran ont conclu un cessez-le-feu de deux semaines, annoncé par Donald Trump via une médiation pakistanaise. Téhéran a accepté en échange de la réouverture du détroit d'Ormuz, bloqué depuis 40 jours au début du conflit. Cela met fin aux tensions immédiates et ouvre des négociations à partir de vendredi. L'ultimatum américain expirait mardi à 20h à Washington, mais Trump l'a repoussé par cette trêve, évitant des frappes immédiates.\n\nLes prix du pétrole ont chuté de 15 pour cent et sont tombés sous 100 dollars le baril, en réaction à la trêve et à la réouverture attendue d'Ormuz. Les bourses asiatiques ont progressé. Cela allège les pressions inflationnistes mondiales liées au blocage. Par ailleurs, l'Iran a transmis un plan en dix points à Trump, incluant la levée des sanctions et la poursuite de l'enrichissement d'uranium. Washington juge ce document viable, et les négociations débutent vendredi, potentiellement menant à la fin de la guerre après 40 jours. Emmanuel Macron a salué le cessez-le-feu lors d'un Conseil de défense français et proposé d'inclure le Liban dans la trêve, visant un élargissement par la diplomatie européenne.\n\nLa cour d'appel de Paris a rendu son verdict dans le dossier Agathe Habyarimana, veuve de Juvénal Habyarimana, concernant le génocide des Tutsis au Rwanda en 1994. La procédure, ouverte il y a 20 ans, aboutit à une décision sur l'ordonnance de non-lieu, suivie par les parties civiles rwandaises. Séparément, la RTBF rapporte 136 décès dus à des avalanches en Europe depuis le début de l'hiver jusqu'en avril, un chiffre record lié aux conditions météorologiques. Cela incite à des précautions pour les skieurs malgré la fin de la saison dans les Alpes.",
+  "headlines": [
+    {
+      "title": "États-Unis et Iran concluent cessez-le-feu de deux semaines contre réouverture détroit d'Ormuz",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "France Info",
+        "France 24",
+        "RFI",
+        "Radio-Canada",
+        "RTBF"
+      ],
+      "summary": "Donald Trump annonce trêve de deux semaines via médiation pakistanaise, Téhéran accepte en échange de réouverture du détroit d'Ormuz bloqué depuis 40 jours. Cela réduit tensions immédiates et ouvre négociations, impactant prix énergie mondiale.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/08/en-direct-guerre-au-moyen-orient-l-iran-accepte-de-negocier-avec-les-etats-unis-mais-dit-que-cela-ne-signifie-pas-la-fin-de-la-guerre_6676633_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec annonce Trump sur trêve deux semaines et médiation Pakistan",
+          "link": "https://www.lemonde.fr/international/live/2026/04/08/en-direct-guerre-au-moyen-orient-l-iran-accepte-de-negocier-avec-les-etats-unis-mais-dit-que-cela-ne-signifie-pas-la-fin-de-la-guerre_6676633_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Détaille conditions trêve et expiration ultimatum Trump à quelques minutes près",
+          "link": "https://www.lefigaro.fr/international/guerre-en-iran-cessez-le-feu-detroit-d-ormuz-negociations-ce-qu-il-faut-retenir-des-annonces-de-donald-trump-20260408"
+        },
+        {
+          "source": "France 24",
+          "angle": "Mentionne suspension bombardements US et exclusion Liban par Israël",
+          "link": "https://www.france24.com/fr/moyen-orient/20260408-etats-unis-iran-cessez-le-feu-liban-israel"
+        },
+        {
+          "source": "RFI",
+          "angle": "Note revendications victoire par Washington et Téhéran pour 40e jour guerre",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260408-en-direct-guerre-au-moyen-orient-isra%C3%ABl-affirme-que-le-cessez-le-feu-n-inclut-pas-le-liban"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Prix pétrole perdent 15 pour cent et tombent sous 100 dollars par baril",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Radio-Canada"
+      ],
+      "summary": "Marchés réagissent à trêve US-Iran par chute 15% pétrole sous 100 dollars, Bourses Asie en hausse. Cela allège pressions inflationnistes mondiales liées à blocage Ormuz depuis début guerre.",
+      "link": "https://www.lefigaro.fr/conjoncture/ultimatum-repousse-en-iran-le-petrole-plonge-sous-100-dollars-les-bourses-d-asie-s-envolent-20260408",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Lien direct repousser ultimatum Trump et envol Bourses Asie",
+          "link": "https://www.lefigaro.fr/conjoncture/ultimatum-repousse-en-iran-le-petrole-plonge-sous-100-dollars-les-bourses-d-asie-s-envolent-20260408"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Emmanuel Macron salue cessez-le-feu Iran et propose inclure Liban",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Président français tient Conseil défense et appelle à intégrer Liban dans trêve US-Iran. Cela vise élargissement paix régionale via diplomatie européenne post-40 jours conflit.",
+      "link": "https://www.lefigaro.fr/international/en-direct-iran-ultimatum-trump-guerre-moyen-orient-etats-unis-israel-teheran-bombe-netanyahou-macron-golfe-20260407",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran transmet plan dix points à Trump incluant levée sanctions et nucléaire",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Figaro",
+        "RFI"
+      ],
+      "summary": "Téhéran propose document dix points jugé viable par Washington pour poursuite enrichissement uranium et fin sanctions. Négociations débutent vendredi, potentiellement fin guerre après 40 jours.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260408-lev%C3%A9e-sanctions-nucl%C3%A9aire-que-contient-plan-dix-points-propos%C3%A9-iran-trump",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Détaille contenu plan dix points sur nucléaire et sanctions",
+          "link": "https://www.france24.com/fr/moyen-orient/20260408-lev%C3%A9e-sanctions-nucl%C3%A9aire-que-contient-plan-dix-points-propos%C3%A9-iran-trump"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Mentionne poursuite programme enrichissement uranium par Téhéran",
+          "link": "https://www.lefigaro.fr/international/que-prevoit-le-plan-de-negociation-avance-par-teheran-pour-mettre-fin-a-la-guerre-20260407"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Cour appel Paris rend verdict dossier Agathe Habyarimana génocide Tutsis Rwanda",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Décision sur appel ordonnance non-lieu veuve Juvénal Habyarimana, procédure ouverte il y a 20 ans. Verdict impacte justice crimes génocide 1994, suivi par parties civiles rwandaises.",
+      "link": "https://www.rfi.fr/fr/afrique/20260408-g%C3%A9nocide-des-tutsis-au-rwanda-c-est-l-heure-du-verdict-dans-le-dossier-agathe-habyarimana",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "RTBF rapporte 136 décès avalanches Europe depuis début hiver",
+      "source": "RTBF",
+      "sources": [
+        "RTBF"
+      ],
+      "summary": "Chiffre record 136 morts avalanches européennes jusqu'avril explique par conditions météo. Cela alerte sur risques alpins persistants malgré fin saison, incite précautions skieurs.",
+      "link": "https://www.rtbf.be/article/plus-de-130-deces-dans-les-avalanches-en-europe-cet-hiver-comment-expliquer-ces-chiffres-records-11702624",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump résout ultimatum Iran par cessez-le-feu deux semaines",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Ultimatum hier expirait mardi 20h Washington, Trump repousse par trêve contre Ormuz. Changement majeur arrête frappes immédiates, ouvre négociations vendredi.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-iran-cessez-le-feu-detroit-d-ormuz-negociations-ce-qu-il-faut-retenir-des-annonces-de-donald-trump-20260408",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Annonce trêve deux semaines à expiration ultimatum, Iran accepte réouverture Ormuz et propose plan dix points",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 208,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 16,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 1,
+      "politics": 2,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "global": 1,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

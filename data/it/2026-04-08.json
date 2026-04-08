@@ -1,0 +1,177 @@
+{
+  "date": "2026-04-08",
+  "summary": "Donald Trump ha accettato una tregua di due settimane con l'Iran, sospendendo attacchi condizionati all'apertura completa dello Stretto di Hormuz. Questo fa seguito al rifiuto iraniano di una tregua di 45 giorni richiesta ieri da Trump e alle sue minacce di distruggere ponti e impianti energetici iraniani. Teheran ha presentato 10 punti per la pace, inclusa la revoca delle sanzioni. I negoziati iniziano venerdì a Islamabad su proposta del Pakistan. Il prezzo del petrolio è sceso a 95 dollari al barile.\n\nRaid aerei israeliani hanno colpito un caffè a Sidone in Libano, uccidendo otto persone. L'attacco avviene nonostante la tregua in Medio Oriente. Israele prosegue operazioni contro Hezbollah. In Italia, lo spread tra Btp decennale e Bund tedesco è sceso a 73 punti base all'avvio, con rendimento al 3,63 per cento. Questo riflette l'ottimismo dei mercati sulla tregua Hormuz.\n\nKim Ju-ae, figlia tredicenne di Kim Jong-un, ha guidato un carro armato durante un evento pubblico in Corea del Nord. Seul interpreta l'episodio come segnale di successione dinastica. In Italia, la polizia ha eseguito 54 misure cautelari contro la 'ndrangheta in Calabria, Lombardia, Emilia-Romagna, Piemonte e Lazio per associazione mafiosa, traffico di stupefacenti e tentato omicidio. Le forze armate italiane assumono il comando delle missioni Ue Irini, Aspides e Atalanta per anti-pirateria, embargo Libia e sicurezza Mar Rosso. Una nuova legge nega diritti ereditari su spoglie a chi commette femminicidio, applicata dal registro indagati fino all'assoluzione nei casi Resinovich e Cirillo. I pm hanno rivelato intercettazioni in cui Giovanni Toti ammette di aver aumentato i numeri dei contagi Covid in Liguria.",
+  "headlines": [
+    {
+      "title": "Raid israeliani uccidono otto persone in caffè a Sidone in Libano",
+      "source": "Rai News",
+      "summary": "Raid aerei israeliani colpiscono un caffè a Sidone causando almeno otto morti. L'attacco avviene nonostante la tregua in Medio Oriente. Israele continua operazioni contro Hezbollah; la popolazione libanese teme escalation. Interessa per instabilità regionale che minaccia commerci e migrazioni.",
+      "link": "https://www.rainews.it/video/2026/04/almeno-8-morti-dopo-lattacco-israeliano-a-sidone-in-libano-4d62955c-2208-46db-81dd-84b7dabd330e.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Polizia esegue 54 misure cautelari contro 'ndrangheta in cinque regioni",
+      "source": "TGCOM24",
+      "summary": "Polizia arresta 54 persone indiziate di associazione mafiosa, traffico stupefacenti e tentato omicidio legati alla 'ndrangheta. Operazione coinvolge Calabria, Lombardia, Emilia-Romagna, Piemonte e Lazio. Colpisce rete criminale radicata; rafforza lotta mafia in Italia con sequestri e indagini in corso.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/-ndrangheta-la-polizia-esegue-54-misure-cautelari-in-5-regioni_110808235-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump accetta tregua due settimane con Iran per apertura Stretto di Hormuz",
+      "source": "AGI",
+      "sources": [
+        "TGCOM24",
+        "AGI",
+        "Euronews Italiano",
+        "la Repubblica",
+        "ANSA"
+      ],
+      "summary": "Donald Trump sospende attacchi all'Iran per due settimane condizionata all'apertura completa di Hormuz, accogliendo proposta Pakistan. Teheran presenta 10 punti pace inclusa revoca sanzioni. Negoziati iniziano venerdì a Islamabad; riduce tensioni energetiche globali con petrolio a 95 dollari.",
+      "link": "https://www.agi.it/estero/news/2026-04-07/trump-iran-tregua-36478705/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump passa da minacce a tregua due settimane invece di 45 giorni; Iran accetta con controproposte; Netanyahu esclude Libano dalla tregua.",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta ultimatum Trump di due settimane e precisazione Netanyahu su esclusione Libano",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-8-aprile_110806415-202602k.shtml"
+        },
+        {
+          "source": "AGI",
+          "angle": "Dettaglia annuncio Trump su cessate il fuoco bilaterale e obiettivi militari raggiunti",
+          "link": "https://www.agi.it/estero/news/2026-04-07/trump-iran-tregua-36478705/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Sottolinea marcia indietro Trump e riapertura Hormuz dopo accordo mediato",
+          "link": "http://it.euronews.com/my-europe/2026/04/08/europe-today-trump-fa-marcia-indietro-su-iran-riapre-lo-stretto-di-hormuz-dopo-accordo"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive accettazione tregua dopo frase Trump e avvio negoziati Islamabad venerdì",
+          "link": "https://www.repubblica.it/esteri/2026/04/08/news/cancello_intera_civilta_ultimatum_shock_trump_negoziato_iran-425269346/?rss"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Evidenzia negoziati Pakistan venerdì e divergenza Netanyahu su inclusione Libano",
+          "link": "https://www.agi.it/estero/news/2026-04-08/libano-netanyahu-cessate-fuoco-36480374/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Figlia tredicenne Kim Jong-un guida carro armato in parata Corea del Nord",
+      "source": "Rai News",
+      "summary": "Kim Ju-ae, 13 anni, figlia di Kim Jong-un guida carro armato durante evento pubblico. Seul interpreta come segnale successione dinastica. Rafforza culto personalità regime; monitorata da intelligence per instabilità penisola coreana.",
+      "link": "https://www.rainews.it/video/2026/04/la-figlia-tredicenne-di-kim-jong-un-guida-un-carro-armato-cresce-ipotesi-successione-d6ef4f9d-fb7c-4993-9224-471eae2376a5.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Spread Btp-Bund scende a 73 punti base in avvio mattutino",
+      "source": "ANSA",
+      "summary": "Differenziale tra Btp decennale italiano e Bund tedesco cala a 73 punti con rendimento al 3,63%. Riflette ottimismo mercati su tregua Medio Oriente. Stabilizza finanza pubblica italiana; investitori monitorano negoziati Hormuz.",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/04/08/lo-spread-tra-btp-e-bund-in-avvio-scende-a-73-punti_d0da289a-0fb1-4cad-a7c2-6890f6026df6.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia assume comando tre missioni marittime Ue Irini Aspides Atalanta",
+      "source": "Il Sole 24 Ore",
+      "summary": "Forze armate italiane guidano Operation Irini ad aprile oltre Aspides e Atalanta. Copre anti-pirateria, embargo Libia e sicurezza Mar Rosso. Rafforza ruolo Italia in Ue; garantisce rotte commerciali vitali.",
+      "link": "https://www.ilsole24ore.com/art/irini-aspides-e-atalanta-ora-l-italia-guida-tutte-missioni-marittime-ue-AInR4BOC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Legge nega diritti su spoglie a chi commette femminicidio dal Resinovich",
+      "source": "Il Sole 24 Ore",
+      "summary": "Nuova norma toglie diritti ereditari all'omicida dal registro indagati fino ad assoluzione. Casi Resinovich e Cirillo applicano regola. Protegge vittime famiglie; applicata retroattivamente in procedimenti penali.",
+      "link": "https://www.ilsole24ore.com/art/femminicidio-caso-resinovich-delitto-cirillo-chi-uccide-perde-diritto-spoglie-AIsAIKNC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm rivelano intercettazioni Toti ammette aumento numeri contagi Covid Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Procuratori pubblicano chat dove governatore Toti dice a capo gabinetto di aver 'un po’ aumentati' contagi. Indagine su manipolazione dati pandemia. Procede inchiesta; erode fiducia politica regionale.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Intercettazioni confermano ammissione Toti di aver truccato dati contagi per suo capo gabinetto.",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 262,
+    "articlesAfterDedup": 262,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "conflict": 1,
+      "society": 2,
+      "politics": 4,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 4,
+      "asia-pacific": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "developing": 2,
+      "also": 4
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "date": "2026-04-09",
+  "summary": "Israël a mené des frappes aériennes massives au Liban mercredi, causant 254 morts et des centaines de blessés selon la défense civile libanaise. Le Hezbollah a répondu par des tirs de roquettes sur Israël, qualifiant l'opération d'une violation du cessez-le-feu de deux semaines conclu la veille entre États-Unis et Iran pour rouvrir le détroit d'Ormuz. Cette escalade au Liban, non couverte par l'accord bilatéral américano-iranien, fragilise la trêve. La Maison Blanche a démenti toute fermeture imminente d'Ormuz tandis que Donald Trump maintient une pression militaire. Des négociations supplémentaires sont attendues pour inclure d'autres acteurs régionaux.\n\nL'Iran a annoncé que les navires doivent désormais utiliser deux routes maritimes alternatives proches de ses côtes dans le détroit d'Ormuz, avec possibilité de mines. Cela fait suite à la trêve et affecte le trafic pétrolier mondial. Le Pakistan a agi comme médiateur clé pour la signature rapide de l'accord entre Washington et Téhéran après des menaces américaines, renforçant son rôle régional. Les prix des billets d'avion augmentent durablement et des annulations de vols persistent malgré la trêve, en raison de craintes de pénurie de carburant pour avions liées aux tensions iraniennes.\n\nUne frappe israélienne à Gaza a tué un correspondant d'Al Jazeera, que la chaîne qualifie de ciblée. L'ONU a rapporté 326 humanitaires tués dans le monde en 2025, principalement à Gaza et en Cisjordanie, suivis du Soudan et de la RDC. En Ukraine, des drones ukrainiens ont tué un civil dans le sud de la Russie selon des sources locales, tandis qu'une frappe russe à Zaporijia a fait un mort et quatre blessés. Ces échanges prolongent le conflit. La situation au Liban et à Gaza reste en développement avec des risques d'élargissement régional.",
+  "headlines": [
+    {
+      "title": "Israël bombarde Liban et tue 254 personnes selon défense civile libanaise",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Liberation",
+        "20 Minutes",
+        "France 24",
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Israël a mené des frappes massives au Liban mercredi, causant 254 morts et des centaines de blessés selon la défense civile. Le Hezbollah a répliqué avec des roquettes sur Israël, dénonçant une violation du cessez-le-feu US-Iran. Cet événement fragilise la trêve de deux semaines et risque d'élargir le conflit régional.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/09/en-direct-guerre-au-moyen-orient-le-hezbollah-dit-avoir-cible-israel-apres-une-journee-marquee-par-d-intenses-bombardements-sur-le-liban-qui-ont-fait-au-moins-254-morts-selon-la-defense-civile_6676633_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec deuil au Liban après attaques israéliennes et menaces de Trump",
+          "link": "https://www.lemonde.fr/international/live/2026/04/09/en-direct-guerre-au-moyen-orient-le-hezbollah-dit-avoir-cible-israel-apres-une-journee-marquee-par-d-intenses-bombardements-sur-le-liban-qui-ont-fait-au-moins-254-morts-selon-la-defense-civile_6676633_3210.html"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Rapporte près de 200 morts en un jour au Liban avec accusations réciproques",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-pres-de-200-morts-en-un-jour-au-liban-20260409_2R5K5V5S35H7LAPRA4NVDQQKIM/"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Indique 182 morts au Liban dans frappes israéliennes fragilisant trêve Iran",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4217433-20260409-guerre-moyen-orient-treve-iran-menacee-182-morts-liban-frappes-israel?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran annonce deux routes maritimes alternatives au détroit d'Ormuz avec mines possibles",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "L'Iran indique que navires doivent utiliser deux routes proches de ses côtes pour le trafic dans le détroit d'Ormuz, avec possibles mines. Cela répond aux tensions post-trêve et affecte le commerce pétrolier mondial.",
+      "link": "https://www.lefigaro.fr/international/detroit-d-ormuz-l-iran-annonce-deux-routes-maritimes-alternatives-proches-des-cotes-iraniennes-avec-de-possibles-mines-20260409",
+      "tier": "top",
+      "singleSource": true,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Pakistan s'impose comme médiateur clé entre États-Unis et Iran pour cessez-le-feu",
+      "source": "RTBF",
+      "sources": [
+        "RTBF"
+      ],
+      "summary": "Le Pakistan a joué un rôle décisif dans la signature rapide du cessez-le-feu entre Washington et Téhéran après menaces américaines. Ses cartes géopolitiques renforcent son influence régionale dans les négociations.",
+      "link": "https://www.rtbf.be/article/entre-teheran-et-washington-pourquoi-le-pakistan-s-est-impose-comme-mediateur-cle-du-cessez-le-feu-ce-pays-avait-plusieurs-cartes-a-jouer-11706551",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Frappe israélienne tue journaliste Al Jazeera à Gaza",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Un correspondant d'Al Jazeera meurt dans une frappe israélienne à Gaza, chaîne qualifie l'attaque de ciblée. Cela soulève questions sur sécurité médias en zones conflit et accès information.",
+      "link": "https://www.20minutes.fr/monde/4217445-20260409-gaza-journaliste-tue-frappe-israelienne-al-jazeera-denonce-crime-delibere?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "ONU rapporte 326 humanitaires tués dans le monde en 2025 surtout à Gaza",
+      "source": "Liberation",
+      "sources": [
+        "Liberation"
+      ],
+      "summary": "L'ONU recense 326 humanitaires morts en 2025, majoritairement à Gaza et Cisjordanie, suivis Soudan et RDC. Ce bilan record souligne risques croissants pour aides en conflits armés.",
+      "link": "https://www.liberation.fr/international/le-symptome-dun-monde-sans-foi-ni-loi-au-moins-326-humanitaires-tues-dans-le-monde-en-2025-selon-lonu-20260409_YXQNMR424ZH7TL2J6EBNJSOZSY/",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Drones ukrainiens tuent civil dans sud de la Russie",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Le Monde"
+      ],
+      "summary": "Une attaque de drones tue un civil dans le sud russe selon sources locales. Parallèlement, frappe russe à Zaporijia fait un mort et quatre blessés. Ces échanges prolongent escalade conflit.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4217437-20260409-direct-guerre-ukraine-civil-tue-sud-russie-attaque-drones?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Suit direct guerre Ukraine avec civil tué sud Russie par drones",
+          "link": "https://www.20minutes.fr/monde/ukraine/4217437-20260409-direct-guerre-ukraine-civil-tue-sud-russie-attaque-drones?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Rapporte frappe russe Zaporijia un mort quatre blessés maisons détruites",
+          "link": "https://www.lemonde.fr/international/live/2026/04/09/en-direct-guerre-en-ukraine-les-dernieres-informations-au-jeudi-9-avril-2026-au-matin_6676836_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis et Iran concluent cessez-le-feu menacé par frappes au Liban",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "20 Minutes",
+        "France 24"
+      ],
+      "summary": "La trêve de deux semaines US-Iran fragilisée par frappes israéliennes au Liban non incluses dans accord. Maison Blanche dément fermeture Ormuz, Trump maintient pression militaire.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2244633/iran-donald-trump-liban-ormuz-treve",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Frappes israéliennes au Liban font 254 morts et provoquent riposte Hezbollah, Trump ordonne maintien armée US, Iran propose routes alternatives Ormuz",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Prix billets avion augmentent durablement malgré trêve Iran",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Hausse prix billets et annulations dessertes persistent après trêve, due à craintes pénurie jet fuel depuis guerre Iran. Impacte voyageurs et compagnies aériennes mondiales.",
+      "link": "https://www.lemonde.fr/economie/article/2026/04/08/transport-aerien-malgre-la-treve-en-iran-des-hausses-de-prix-durables_6678298_3234.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 214,
+    "articlesAfterDedup": 213,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 2,
+      "politics": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "global": 2,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

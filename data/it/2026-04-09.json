@@ -1,0 +1,204 @@
+{
+  "date": "2026-04-09",
+  "summary": "L'Iran ha chiuso lo Stretto di Hormuz e pubblicato due rotte alternative per le navi. I Pasdaran hanno motivato la chiusura con una presunta violazione israeliana in Libano, respingendo la petroliera Auroura e indicando percorsi per evitare mine. Teheran ha elencato 10 richieste, tra cui uranio e controllo sullo stretto. Un negoziato è previsto sabato a Islamabad tra Usa e Iran per risolvere tregua e questione nucleare. Questo fa seguito alla tregua di due settimane accettata ieri da Trump per l'apertura dello stretto e impatta i prezzi del petrolio globali.\n\nIn Libano, le forze israeliane hanno sparato su un convoglio italiano della missione Unifil durante la tregua Iran-Usa. La premier Meloni ha espresso condanna. Israele ha lanciato un vasto attacco con missili su Beirut contro Hezbollah. Il premier Netanyahu ha annunciato in tv la ripresa del conflitto malgrado l'alleato Usa, in vista di elezioni interne a fine anno. Questo segue i raid israeliani di ieri a Sidone che hanno ucciso otto persone. Volodymyr Zelensky ha proposto un incontro diretto con Putin in un luogo neutro, escludendo il Donbass per preservare l'integrità ucraina contro offensive russe.\n\nNegli Usa, Rex Heuermann, 62 anni, ha confessato in aula lo strangolamento e smembramento di otto donne tra 1993 e 2010 a Gilgo Beach su Long Island. In Italia, Giorgia Meloni ha relazionato alla Camera su politica estera, economia e referendum fallito come occasione persa, annunciando impegni per l'ultimo anno di legislatura. Milano ha raggiunto 27.000 euro al mq nel mercato immobiliare di lusso, con crescita prevista del 6,3% nella domanda nel 2025. Il governo ha approvato stanziamenti per la frana in Molise dopo sopralluogo di Salvini, con Fs che riprende la linea Pescara-Foggia venerdì. L'Ue offre 40.000 biglietti Interrail gratis a diciottenni, candidature fino al 22 aprile. La Guardia di Finanza ha rilevato il 73% di violazioni su trasparenza prezzi carburanti in 247 ispezioni dal 12 al 25 marzo.",
+  "headlines": [
+    {
+      "title": "Iran chiude Stretto di Hormuz e pubblica due rotte alternative per navi",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24",
+        "la Repubblica",
+        "ANSA"
+      ],
+      "summary": "I Pasdaran iraniani chiudono lo Stretto di Hormuz dopo presunta violazione israeliana in Libano, respingono petroliera Auroura e indicano rotte per evitare mine. Teheran elenca 10 richieste inclusi uranio e controllo stretto. Negoziato sabato a Islamabad con Usa e Iran risolverà tregua e nucleare, impatta prezzi petrolio globali.",
+      "link": "https://www.agi.it/estero/news/2026-04-09/hormuz-rotte-alternative-mine-36494786/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Iran chiude stretto nonostante tregua Trump, respinge navi, pubblica rotte alternative e 10 richieste; negoziato fissato a Islamabad con Vance e Ghalibaf",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive chiusura Hormuz per violazione israeliana e rotte alternative contro mine",
+          "link": "https://www.agi.it/estero/news/2026-04-09/hormuz-rotte-alternative-mine-36494786/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta Hormuz chiuso con navi respinte e impennata prezzi petrolio",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-9-aprile_110838325-202602k.shtml"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Annuncia negoziato Islamabad con uranio come ostacolo e accuse reciproche",
+          "link": "https://www.repubblica.it/esteri/2026/04/09/news/negoziato_usa_iran_islamabad_uranio_principale_ostacolo-425271475/?rss"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Elenca 10 richieste iraniane da uranio a sanzioni e controllo stretto",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/08/dalluranio-alle-sanzioni-le-10-richieste-iraniane_cf210c07-f3d5-47ed-b1d0-3d39636ceeb9.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Forze israeliane sparano su convoglio italiano Unifil in Libano",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "L'Idf spara su convoglio italiano della missione Unifil in Libano durante tregua Iran-Usa. Meloni esprime ferma condanna. Israele lancia vasto attacco missili su Beirut contro Hezbollah. Evento rischia escalation regionale e impatta missioni Onu.",
+      "link": "https://www.agi.it/estero/news/2026-04-07/trump-iran-tregua-36478705/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Riporta sparo su convoglio Unifil e vasto attacco missili su Beirut Hezbollah",
+          "link": "https://www.agi.it/estero/news/2026-04-07/trump-iran-tregua-36478705/"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zelensky propone incontro con Putin in luogo neutro escludendo Donbass",
+      "source": "TGCOM24",
+      "summary": "Volodymyr Zelensky rilancia dialogo diretto con Putin altrove da Mosca e Kiev. Esclude cessione Donbass per evitare offensive russe e divisioni interne. Proposta mira a negoziato pace ma preserva integrità ucraina contro aggressione russa.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-zelensky-pronto-incontrare-putin_110835880-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Rex Heuermann confessa omicidi di otto donne a Gilgo Beach",
+      "source": "la Repubblica",
+      "summary": "Serial killer Rex Heuermann, 62 anni, ammette in aula strangolamento e smembramento di otto donne tra 1993 e 2010 su Long Island vicino New York. Resti abbandonati in zone costiere deserte. Processo chiarisce cold case pluridecennali negli Usa.",
+      "link": "https://www.repubblica.it/esteri/2026/04/09/news/serial_killer_gilgo_beach_rex_heuermann_confessa_omicidi_8_donne-425271910/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Giorgia Meloni informa Aula su referendum come occasione storica persa",
+      "source": "Rai News",
+      "summary": "Premier Meloni relaziona Camera su politica estera, economia e referendum fallito come occasione persa. Opposizioni criticano fallimento governo. Esecutivo annuncia impegni ultimo anno legislatura per rilancio Italia.",
+      "link": "https://www.rainews.it/maratona/2026/04/meloni-in-aula-a-montecitorio-discorso-opposizioni-certifichera-il-fallimento-c089e199-de63-4bf2-92ee-af5c2b309bfc.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Benjamin Netanyahu sfida Usa con raid in Libano per elezioni interne",
+      "source": "la Repubblica",
+      "summary": "Premier israeliano Netanyahu annuncia in tv ripresa conflitto malgrado alleato Usa, presenta immagine guerriera per voto fine anno. Sfida tregua Iran con attacchi. Decisione influenza dinamiche elettorali e tensioni Medio Oriente.",
+      "link": "https://www.repubblica.it/esteri/2026/04/09/news/netanyahu_sfida_usa_tregua_iran_raid_libano_elezioni_israele-425271484/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Milano raggiunge 27.000 euro al mq nel mercato immobiliare di lusso",
+      "source": "AGI",
+      "summary": "Mercato premium Italia cresce 6,3% domanda e 1,3-1,9% prezzi nel 2025. Milano guida con 27.000 euro/mq grazie acquirenti domestici e stranieri. Report Engel & Volkers conferma solidità settore alto di gamma.",
+      "link": "https://www.agi.it/economia/news/2026-04-09/mercato-immobiliare-italia-36485429/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo vara primi interventi per frana in Molise dopo sopralluogo Salvini",
+      "source": "Il Sole 24 Ore",
+      "summary": "Ministro Salvini visita luoghi frana Molise, Cdm approva stanziamenti per emergenza su ferrovie e strade. Fs riprende linea Pescara-Foggia venerdì. Misure ricostruiscono infrastrutture vitali per trasporti meridionali.",
+      "link": "https://www.ilsole24ore.com/art/frana-molise-sopralluogo-salvini-oggi-governo-vara-primi-interventi-AI2BHxOC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Unione Europea offre 40.000 biglietti Interrail gratis a diciottenni",
+      "source": "Rai News",
+      "summary": "Piattaforma DiscoverEU apre candidature fino 22 aprile per 40.000 biglietti gratuiti Interrail a diciottenni europei. Viaggi singoli o gruppi fino quattro amici. Iniziativa promuove mobilità e conoscenza Ue tra giovani.",
+      "link": "https://www.rainews.it/articoli/2026/04/viaggio-in-europa-torna-linterrail-40mila-biglietti-gratis-per-i-diciottenni-16e76e66-2739-4b79-8a21-67fc6fd58651.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Guardia di Finanza rileva 73% violazioni trasparenza prezzi carburanti",
+      "source": "Il Sole 24 Ore",
+      "summary": "Nucleo Antitrust GdF accerta 73% violazioni su 247 ispezioni dal 12 al 25 marzo lungo filiera carburanti. Record infrazioni trasparenza prezzi. Controlli tutelano consumatori da pratiche sleali sul mercato energia.",
+      "link": "https://www.ilsole24ore.com/art/carburanti-violazioni-record-trasparenza-prezzi-AIhmaWOC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 257,
+    "articlesAfterDedup": 257,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 2,
+      "society": 2,
+      "economy": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 6,
+      "americas": 1
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 3,
+      "also": 6
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-09",
+  "summary": "Israeli airstrikes across Lebanon resulted in the deaths of at least 182 people and injuries to approximately 890 others, hours after a ceasefire agreement was reached between the U.S. and Iran. These strikes targeted the suburbs of Beirut, southern Lebanon, and the Bekaa Valley. The Lebanese government declared a day of mourning, and there are increasing concerns that this could lead to a collapse of the ceasefire and provoke retaliation from Iran and Hezbollah, thereby escalating the regional conflict.\n\nIn other news, the International Organization for Migration (IOM) reported that over 180 migrants are feared dead or missing following shipwrecks during crossings from North Africa to Europe, raising the toll for 2026 to nearly 1,000. This highlights the ongoing perils of irregular migration routes amid a global displacement crisis. Separately, the Philippines Coast Guard has established a permanent base on Thitu Island in the contested Spratly Islands, aiming to enhance its oversight amid tensions with China over territory and resources.\n\nIn diplomatic developments, Pakistan is playing a key role in mediating the two-week ceasefire agreement between the U.S. and Iran, hosting talks this weekend to facilitate de-escalation in the region. Additionally, North Korea conducted missile tests that included cluster-bomb armed warheads, exacerbating regional stability concerns. On a domestic note, Rex Heuermann pleaded guilty to multiple murders linked to the Gilgo Beach case, bringing resolution to a decades-long investigation. Lastly, SpaceX successfully launched its Crew-10 mission to bring back two NASA astronauts from the International Space Station.",
+  "headlines": [
+    {
+      "title": "Israeli Military Launches Strikes Killing at Least 182 Across Lebanon",
+      "source": "BBC",
+      "sources": [
+        "BBC",
+        "Al Jazeera",
+        "France 24",
+        "DW"
+      ],
+      "summary": "Israeli strikes targeted Beirut suburbs, southern Lebanon and Bekaa Valley, killing 182-254 and wounding 890 hours after US-Iran ceasefire. Lebanon declares mourning day. Risks collapse of truce, drawing Iran and Hezbollah retaliation, escalating regional war.",
+      "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC",
+          "angle": "Detailed attacks on Beirut suburbs, southern Lebanon and Bekaa Valley killing 182",
+          "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Reported 254 killed prompting Lebanon's national day of mourning declaration",
+          "link": "https://www.aljazeera.com/news/2026/4/9/iran-war-day-41-whats-happening-in-lebanon-middle-east-and-beyond?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Cited 182 killed and 890 wounded with French condemnation of unacceptable strikes",
+          "link": "https://www.france24.com/en/middle-east/20260409-middle-east-live-us-iran-truce-enters-second-day-as-war-flares-in-lebanon"
+        },
+        {
+          "source": "DW",
+          "angle": "Noted Israel pounding Lebanon amid Iranian threats of new hostilities over ceasefire scope",
+          "link": "https://www.dw.com/en/iran-threatens-new-hostilities-as-israel-pounds-lebanon/live-76715205?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "International Organization Reports 180 Feared Dead in Mediterranean Migrant Shipwrecks",
+      "source": "AllAfrica",
+      "summary": "IOM counts over 180 feared dead or missing in latest North Africa-to-Europe crossings, raising 2026 toll near 1,000. Thousands of migrants affected yearly. Underscores deadly perils of irregular migration routes amid global displacement.",
+      "link": "https://allafrica.com/stories/202604080440.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Philippines Coast Guard Establishes Permanent Base on Disputed Thitu Island",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "The Hindu"
+      ],
+      "summary": "New command center on Thitu Island covers 68,000 sq km in Spratly chain, shifting oversight from Palawan. Counters Chinese presence amid confrontations. Heightens tensions in contested South China Sea vital for trade and resources.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3349488/philippines-expands-south-china-sea-footprint-permanent-thitu-island-base?utm_source=rss_feed",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "South China Morning Post",
+          "angle": "Highlighted first dedicated Spratly command center amid repeated China vessel clashes",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3349488/philippines-expands-south-china-sea-footprint-permanent-thitu-island-base?utm_source=rss_feed"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Focused on new district headquarters overseeing 68,000 square kilometers area",
+          "link": "https://www.thehindu.com/news/international/philippines-unveils-new-coast-guard-command-in-disputed-south-china-sea/article70841596.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Pakistan Brokers Key Role in US-Iran Two-Week Ceasefire Agreement",
+      "source": "France 24",
+      "summary": "Pakistan mediates between US, Iran and regional powers to extend truce, leveraging ties with both. Hosts talks this weekend. Offers path to de-escalate war disrupting global energy and alliances.",
+      "link": "https://www.france24.com/en/pakistan-plays-major-role-trying-to-mediate-an-end-to-iran-war",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump's Iran War Strains Ties with European Nationalists Including Orban",
+      "source": "Associated Press",
+      "summary": "President Trump's war ruptures prior alliances with Hungary's Orban and Europe's right-wing over escalation. Affects MAGA international strategy. Signals shifting global conservative alignments amid conflict costs.",
+      "link": "https://apnews.com/article/trump-vance-orban-hungary-maga-iran-war-6923d864c09069351ca5f12c3be4a601",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "North Korea Conducts Tests of Missiles Armed with Cluster-Bomb Warheads",
+      "source": "NPR",
+      "summary": "Pyongyang reveals week's tests included ballistic missiles with cluster munitions to boost nuclear forces. Threatens regional stability. Precedes potential US-China summit talks via Beijing mediation.",
+      "link": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "US and Iran Exchange Threats Testing New Two-Week Ceasefire Agreement",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "BBC",
+        "DW"
+      ],
+      "summary": "Confusion over Strait of Hormuz and Lebanon scope prompts dueling threats to resume attacks. Both sides hope truce holds pre-Trump deadline. Critical for averting wider war impacting oil prices worldwide.",
+      "link": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Ceasefire faces cracks from Strait status confusion, Lebanon exclusion dispute and Israeli strikes prompting retaliatory threats",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Explored Strait uncertainty and dueling threats despite hopes for truce endurance",
+          "link": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news"
+        },
+        {
+          "source": "BBC",
+          "angle": "Assessed ceasefire as Trump's high-cost exit altering global US perceptions",
+          "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW",
+          "angle": "Covered truce cracks over Lebanon amid Israeli strikes and Iranian warnings",
+          "link": "https://www.dw.com/en/iran-threatens-new-hostilities-as-israel-pounds-lebanon/live-76715205?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rex Heuermann Pleads Guilty to Seven Gilgo Beach Murders Admits Eighth",
+      "source": "Associated Press",
+      "summary": "Long Island suspect enters guilty pleas for seven killings, confesses eighth after 30 years. Victims' families receive closure. Ends decades-long investigation into serial case.",
+      "link": "https://apnews.com/article/rex-heuermann-guilty-pleas-gilgo-beach-killings-a7f4b1013f1f9fd085a390a26e62fd97",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Defendant executes plea deal pleading guilty to seven murders and admitting eighth victim",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "SpaceX Launches Crew-10 to Retrieve Stuck NASA Astronauts from ISS",
+      "source": "Voice of America",
+      "summary": "Falcon 9 carries NASA’s McClain, Ayers, Japan’s Onishi, Russia’s Peskov from Kennedy Center. Docks Saturday for Wilmore, Williams return after nine months. Restores routine ISS rotations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Crew-10 lifts off Friday evening with docking expected late Saturday to enable stuck pair's return",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 447,
+    "articlesAfterDedup": 447,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "society": 2,
+      "politics": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "global": 2,
+      "asia-pacific": 2,
+      "europe": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 3
+    }
+  }
+}

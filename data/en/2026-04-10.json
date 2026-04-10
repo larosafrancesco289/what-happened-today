@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-10",
+  "summary": "Rwanda-backed rebels overran Congolese troops and entered Goma after gunfire and shelling, displacing one million people who now shelter in the city. Rebels seized the aid hub in eastern Congo. The U.N. warns of a humanitarian crisis and risks further regional instability.\n\nIn Gaza, Israel permits displaced Palestinians to return to northern areas after a hostage release deadlock breaks; thousands affected by prior evacuation orders crossed back. This eases the enclave's division amid the ongoing war. Separately in the Gulf, Kuwait accuses Iran and proxies of a Thursday drone strike; Iran rejects the claim, amid regional tensions. US Vice President Vance travels to Pakistan for talks to stabilize the two-week U.S.-Iran ceasefire, which Pakistan helped broker; Netanyahu authorizes related Washington talks with Lebanon. These developments affect global oil flows through the Strait of Hormuz.\n\nNATO launches its first coordinated response to suspected Baltic Sea cable sabotage after another deep-sea cable was severed, deploying assets to protect transatlantic communications. In China, Xi Jinping met Kuomintang chair Cheng Li-wun for the first time in a decade and expressed confidence in cross-strait unification; this affects Taiwan politics and U.S.-China ties ahead of a potential Xi-Trump summit. In space news, Artemis II's four crew members approach Earth re-entry for a Friday Pacific splashdown off California after the first crewed Moon mission in over 50 years; success advances NASA's lunar and Mars plans. SpaceX's Falcon 9 launched Crew-10 from Florida at 7:03 p.m. Friday with two NASA, one Japanese, and one Russian astronaut; it will dock Saturday to return stranded NASA astronauts Wilmore and Williams after nine months on the ISS.\"}",
+  "headlines": [
+    {
+      "title": "Artemis II Astronauts Approach Earth Re-Entry for Pacific Splashdown After 10-Day Lunar Mission",
+      "source": "France24",
+      "sources": [
+        "France24",
+        "Deutsche Welle"
+      ],
+      "summary": "Four Artemis II crew members prepare to re-enter Earth's atmosphere after first crewed Moon mission in over 50 years, targeting splashdown off California coast Friday. NASA advances Artemis program; success enables future lunar landings and Mars preparations.",
+      "link": "https://www.france24.com/en/americas/20260410-artemis-ii-astronauts-hurtle-home-from-moon-toward-pacific-splashdown",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France24",
+          "angle": "Emphasized crew's hurtle home and crucial re-entry moments after historic 10-day mission",
+          "link": "https://www.france24.com/en/americas/20260410-artemis-ii-astronauts-hurtle-home-from-moon-toward-pacific-splashdown"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Focused on crew preparations for atmospheric re-entry and California coast splashdown",
+          "link": "https://www.dw.com/en/artemis-ii-astronauts-set-to-splash-down-back-on-earth/live-76722861?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops Enter Goma Displacing One Million",
+      "source": "Wall Street Journal",
+      "summary": "Rebels seize Goma aid hub after gunfire and shelling rout troops; over one million displaced people now shelter in city. U.N. warns of humanitarian crisis; risks further regional instability in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Permits Displaced Palestinians to Cross Zone Return to Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel allows Gazans to walk back north after hostage release deadlock breaks; thousands affected by prior evacuation. Eases enclave division; signals potential de-escalation amid ongoing war.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Launches First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance deploys assets after another deep-sea cable severed amid sabotage fears targeting critical infrastructure. Protects transatlantic communications; escalates hybrid threat concerns from Russia.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Xi Jinping Assures Taiwan Opposition Leader of Confidence in Cross-Strait Unification",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "ABC Australia"
+      ],
+      "summary": "China's Xi meets Kuomintang chair Cheng Li-wun first time in decade, expresses unification faith. Affects Taiwan politics and U.S.-China ties; may influence upcoming Xi-Trump summit dynamics.",
+      "link": "https://www.japantimes.co.jp/news/2026/04/10/asia-pacific/politics/china-taiwan-kuomintang-xi-cheng/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Japan Times",
+          "angle": "Highlighted Xi's talks with KMT head as first in nearly decade emphasizing unification",
+          "link": "https://www.japantimes.co.jp/news/2026/04/10/asia-pacific/politics/china-taiwan-kuomintang-xi-cheng/"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Framed meeting as historic week event shaping Beijing-Taipei-Washington relations",
+          "link": "https://www.abc.net.au/news/2026-04-10/cheng-li-wun-meets-xi-jinping-in-china-for-first-time/106542048"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Kuwait Accuses Iran and Proxies of Drone Strike Iran Rejects Claim",
+      "source": "Al Jazeera",
+      "summary": "Kuwait blames Tehran for Thursday night drone attack; Iran denies role amid regional tensions. Heightens Gulf security risks; tests U.S.-Iran ceasefire stability.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "US Vice President Vance Travels to Pakistan for Iran Ceasefire Talks",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "New York Times",
+        "France 24",
+        "Deutsche Welle"
+      ],
+      "summary": "Vance leads Islamabad negotiations to stabilize two-week U.S.-Iran truce amid Israel-Hezbollah fire and Strait of Hormuz threats; Netanyahu authorizes Washington talks with Lebanon. Affects global oil flows and Middle East war escalation risks.",
+      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Vance departs for high-level talks in Islamabad; Netanyahu greenlights direct Israel-Lebanon negotiations next week",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Detailed negotiators preparing amid Israel-Hezbollah exchanges and Hormuz tensions",
+          "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Noted Israel agrees to Lebanon talks but continues Hezbollah strikes excluding truce",
+          "link": "https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon"
+        },
+        {
+          "source": "France 24",
+          "angle": "Covered Vance trip and Netanyahu authorization amid strikes testing ceasefire",
+          "link": "https://www.france24.com/en/middle-east/20260410-middle-east-live-khamenei-says-iran-does-not-want-war-but-will-defend-its-rights"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Focused on Vance mission to shore up shaky truce over Lebanon strikes",
+          "link": "https://www.dw.com/en/iran-war-vance-heads-to-pakistan-for-talks-with-tehran/live-76729523?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Falcon 9 Launches Crew-10 from Florida to Retrieve Stuck NASA Astronauts",
+      "source": "Voice of America",
+      "summary": "Crew-10 with two NASA, one Japanese, one Russian astronaut lifts off at 7:03 p.m. Friday; docks Saturday to return nine-month stranded Wilmore and Williams. Restores ISS rotation; highlights commercial space reliability.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Crew-10 mission successfully launches late Friday expected to dock at ISS Saturday night",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 450,
+    "articlesAfterDedup": 450,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "science": 2,
+      "conflict": 2,
+      "politics": 4
+    },
+    "regionCounts": {
+      "americas": 2,
+      "africa": 1,
+      "middle-east": 2,
+      "europe": 1,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 2
+    }
+  }
+}

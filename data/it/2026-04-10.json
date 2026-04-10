@@ -1,0 +1,212 @@
+{
+  "date": "2026-04-10",
+  "summary": "L'Iran ha limitato il passaggio nello Stretto di Hormuz a un massimo di 15 navi al giorno, confermando la presenza di mine posate dai pasdaran e pubblicando due rotte sicure sotto il suo controllo. Questo fa seguito alla chiusura annunciata ieri. Donald Trump ha criticato la gestione iraniana e escluso l'imposizione di pedaggi. La restrizione influenza i prezzi globali del petrolio e il commercio marittimo, con importazioni di gas in Italia che a marzo hanno superato i 2 miliardi di euro secondo un rapporto Enea.\n\nIsraele ha condotto raid aerei su obiettivi Hezbollah nel sud del Libano, dopo 300 morti precedenti in scontri, con sirene d'allarme nel nord di Israele. Benjamin Netanyahu ha accettato negoziati diretti con il Libano negli Stati Uniti su pressione di Trump. Questo prolunga le tensioni regionali. Separatamente, Donald Trump ha annunciato una riduzione delle truppe americane in Europa e minacciato l'uscita dalla Nato, mentre il segretario generale Mark Rutte ha elogiato la sua leadership e promesso aiuti nel Golfo. Xi Jinping ha incontrato a Pechino Cheng Li-wun, leader del Kuomintang taiwanese, prima visita di un capo dell'opposizione taiwanese in Cina da 10 anni; lei ha auspicato semi di pace, ma ha ricevuto critiche a Taiwan per presunto filo-cinesismo.\n\nIl Pentagono ha smentito colloqui tesi a gennaio con il nunzio apostolico cardinale Pierre su critiche del Papa alle minacce di Trump contro l'Iran. Europol ha smantellato una rete che trafficava migranti vietnamiti verso il Regno Unito via Francia, coinvolgendo curdo-iracheni per traversate della Manica e incassando fino a 22.000 euro a persona. In Italia, un rapporto Enea rileva bollette del gas aumentate del 70% e dell'elettricità del 100% rispetto al 2022, con il fotovoltaico al 25% della produzione elettrica. La procura accusa il governatore ligure Giovanni Toti di aver manipolato dati sui contagi Covid comunicando aumenti artificiali al capo gabinetto Cozzani. In Brasile, migliaia di indigeni proseguono il terzo giorno di marce a Brasilia per il riconoscimento di terre ancestrali prima delle elezioni di ottobre.",
+  "headlines": [
+    {
+      "title": "Iran limita passaggio Stretto di Hormuz a 15 navi al giorno e conferma presenza mine",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Iran autorizza transito massimo 15 navi giornaliere nello Stretto di Hormuz minato da pasdaran, pubblicando due rotte sicure sotto suo controllo. Trump critica gestione e impone no a pedaggi. Influenza prezzi globali petrolio e commercio marittimo.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/10/trump-pessima-gestione-a-hormuz-non-e-il-nostro-accordo.-israele-apre-ai-negoziati_4dd2b909-5d88-439c-b82b-d0fcb2602b8a.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump critica pessima gestione iraniana e vieta pedaggi; Iran rivela ordigni nelle acque e limita navi a 15 al giorno",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Trump definisce pessima gestione Hormuz da Iran e Israele apre negoziati con Libano",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/10/trump-pessima-gestione-a-hormuz-non-e-il-nostro-accordo.-israele-apre-ai-negoziati_4dd2b909-5d88-439c-b82b-d0fcb2602b8a.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Trump attacca pessimo lavoro Iran su Hormuz e avverte contro pedaggi alle petroliere",
+          "link": "https://www.agi.it/estero/news/2026-04-10/guerra-iran-notizie-10-aprile-36513763/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Iran posiziona ordigni pasdaran in Hormuz e gestisce due corridoi sicuri per armatori",
+          "link": "https://www.repubblica.it/esteri/2026/04/10/news/stretto_hormuz_mine_ordigni_pasdaran_iran_usa-425273658/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israele conduce raid aerei su Hezbollah nel sud Libano causando 300 morti",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "la Repubblica",
+        "ANSA"
+      ],
+      "summary": "Raid israeliani colpiscono obiettivi Hezbollah nel sud Libano dopo 300 morti precedenti, con sirene in Israele settentrionale. Netanyahu accetta negoziati diretti con Libano negli USA su pressione Trump. Prolunga tensioni regionali nonostante appelli tregua.",
+      "link": "http://it.euronews.com/video/2026/04/10/libano-sotto-shock-mentre-continuano-i-raid-israeliani-dopo-i-300-morti-di-ieri",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Raid continuano con 300 morti e sirene in Israele; Israele apre a negoziati diretti con Libano mediati da USA",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Libano reagisce a raid israeliani dopo 300 morti con sirene d'allarme in nord Israele",
+          "link": "http://it.euronews.com/video/2026/04/10/libano-sotto-shock-mentre-continuano-i-raid-israeliani-dopo-i-300-morti-di-ieri"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Israele accetta negoziati diretti con Libano negli USA su pressione Trump nonostante raid",
+          "link": "https://www.repubblica.it/esteri/2026/04/10/news/israele_negoziati_diretti_libano_usa_trump-425273799/?rss"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Israele apre negoziati con Libano contestualmente critiche Trump su Hormuz",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/10/trump-pessima-gestione-a-hormuz-non-e-il-nostro-accordo.-israele-apre-ai-negoziati_4dd2b909-5d88-439c-b82b-d0fcb2602b8a.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Xi Jinping incontra leader opposizione taiwanese Cheng Li-wun a Pechino",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Presidente cinese Xi riceve Cheng Li-wun del Kuomintang, prima leader partito opposizione taiwanese in Cina da 10 anni. Lei auspica semi pace, ma scatena critiche a Taiwan per filo-cinesismo. Alimenta dibattito su tensioni Stretto Taiwan.",
+      "link": "https://www.agi.it/estero/news/2026-04-10/incontro-xi-leader-di-opposizione-di-taiwan-36513439/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Xi incontra Cheng Li-wun del KMT a Pechino scatenando dibattito su pace a Taiwan",
+          "link": "https://www.agi.it/estero/news/2026-04-10/incontro-xi-leader-di-opposizione-di-taiwan-36513439/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Cheng Li-wun vola a Pechino da Xi definendo viaggio storico per pace",
+          "link": "https://www.repubblica.it/esteri/2026/04/10/news/cina_xi_incontra_leader_opposizione_taiwan_cheng_li_wun-425274062/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump annuncia riduzione soldati USA in Europa e minaccia uscita Nato",
+      "source": "la Repubblica",
+      "summary": "Trump ribadisce intenzione ridurre truppe americane in Europa mentre segretario Nato Rutte elogia sua leadership e promette aiuti Golfo. Segnale tensioni transatlantiche e riallineamento priorità USA.",
+      "link": "https://www.repubblica.it/esteri/2026/04/10/news/trump_soldati_usa_europa_rutte_nato-425273714/?rss",
+      "tier": "top",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagono smentisce colloqui duri con nunzio apostolico Pierre su tensioni Vaticano-USA",
+      "source": "Euronews Italiano",
+      "summary": "Pentagono nega incontro acceso gennaio con cardinale Pierre dopo critiche Papa a minacce Trump su Iran. Media avevano riportato frizioni; smentita riduce tensioni tra Santa Sede e amministrazione USA.",
+      "link": "http://it.euronews.com/2026/04/10/tensione-tra-vaticano-e-stati-uniti-il-pentagono-smentisce-i-duri-colloqui-con-cardinale-p",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Europol smantella rete criminale che traffica migranti vietnamiti verso Regno Unito",
+      "source": "Euronews Italiano",
+      "summary": "Europol arresta gruppo che trasporta migranti dal Vietnam al Regno Unito via Francia, cobrandendo curdo-iracheni per Manica e incassando fino 22.000 euro a persona. Protegge rotte migrazione irregolare.",
+      "link": "http://it.euronews.com/2026/04/10/europol-smantella-un-gruppo-criminale-che-trafficava-persone-migranti-dal-vietnam-al-regno",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Enea rileva aumento prezzo gas 70% e elettricità 100% rispetto al 2022",
+      "source": "Rai News",
+      "summary": "Rapporto Enea indica bollette gas su del 70% e elettricità 100% vs 2022 nonostante consumi stabili; gas importato marzo supera 2 miliardi euro. Cresce fotovoltaico al 25% produzione elettrica.",
+      "link": "https://www.rainews.it/articoli/2026/04/enea-boom-prezzo-del-gas-70-elettricita-100-rispetto-al-2022-rapporto-sullenergia-bollette-ff04a688-c78d-489f-b346-4f5e5a075bbc.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm accusano governatore Toti di manipolazione dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Indagine rivela governatore Giovanni Toti comunicava manipolazioni numeri pandemia al capo gabinetto Cozzani, come aumenti artificiali contagi. Procede inchiesta su alterazione dati sanitari ufficiali.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Indigeni brasiliani proseguono terzo giorno marce a Brasilia per diritti terre ancestrali",
+      "source": "Euronews Italiano",
+      "summary": "Migliaia indigeni sfilano terzo giorno a Brasilia nel 22º Accampamento Terra Libera chiedendo riconoscimento terre prima elezioni ottobre. Pressione su governo per demarcaizioni territoriali.",
+      "link": "http://it.euronews.com/video/2026/04/10/brasile-terzo-giorno-di-marce-indigene-a-brasilia-per-i-diritti-sulla-terra",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 256,
+    "articlesAfterDedup": 256,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 14,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "society": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "europe": 4,
+      "global": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

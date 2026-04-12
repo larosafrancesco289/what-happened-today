@@ -1,0 +1,200 @@
+{
+  "date": "2026-04-12",
+  "summary": "Il vicepresidente degli Stati Uniti JD Vance ha lasciato Islamabad dopo 21 ore di colloqui con l'Iran sul programma nucleare e sullo Stretto di Hormuz, senza raggiungere un accordo. Le parti non hanno concordato su un impegno iraniano a limitare l'arricchimento dell'uranio. Una tregua fragile resiste per ora nel Medio Oriente. Si attendono ulteriori negoziati o rischi di escalation con effetti su forniture energetiche globali.\n\nIn Ungheria, i seggi sono aperti per le elezioni parlamentari. Il premier uscente Viktor Orbán affronta Péter Magyar, ex alleato in vantaggio nei sondaggi dopo 16 anni di governo Fidesz. L'esito determinerà la posizione ungherese su aiuti UE all'Ucraina, Israele e NATO. I risultati sono attesi entro stasera. Separatamente, la NASA ha recuperato la capsula Orion nell'oceano Pacifico al largo della California. Quattro astronauti sono rientrati sani e salvi dopo 10 giorni di missione Artemis II intorno alla Luna, la prima con equipaggio umano da 50 anni. La missione avanza i piani per un ritorno permanente sulla Luna.\n\nIn Ucraina, un drone russo ha ferito tre paramedici su un'ambulanza nella regione di Sumy, malgrado la tregua per la Pasqua ortodossa. Mosca non ha commentato la violazione dell'impegno umanitario, mentre Kiev denuncia l'escalation durante negoziati di pace. In Italia, il ministro Giancarlo Giorgetti ha dichiarato al Tg3 Lombardia che costi persistenti di energia e combustibili porterebbero a recessione se invariati; il governo monitora indicatori macroeconomici. A Tolmezzo in Friuli Venezia Giulia, un traliccio Terna è stato danneggiato, con effetti su oleodotto Tal; Dda e Ros indagano su sabotaggio con intelligence italiana e tedesca. La procura accusa il governatore ligure Giovanni Toti di manipolazione dati Covid-19 nel 2020-2021, basandosi su intercettazioni. Italia e Albania hanno accordato lo sviluppo della base aerea di Kuçovë e la cessione della nave Libra per pattugliamento coste e missioni NATO.",
+  "headlines": [
+    {
+      "title": "Ungheresi votano nelle elezioni per sfidare Viktor Orbán con Péter Magyar",
+      "source": "Rai News",
+      "sources": [
+        "AGI",
+        "Rai News",
+        "Euronews Italiano",
+        "TGCOM24",
+        "la Repubblica"
+      ],
+      "summary": "Seggi aperti in Ungheria per elezioni parlamentari decisive: premier uscente Viktor Orbán affronta Péter Magyar, ex alleato in vantaggio nei sondaggi dopo 16 anni di governo. L'esito influenzerà politica UE su Ucraina, Israele e NATO. Si attendono risultati entro stasera.",
+      "link": "https://www.rainews.it/video/2026/04/seggi-aperti-in-ungheria-la-sfida-a-orban-dopo-16-anni-al-potere-ddba70b1-98c6-420a-bbf4-3bcb378e9c77.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Enfatizza duello generazionale Orbán-Magyar e impatti su equilibri UE",
+          "link": "https://www.agi.it/estero/news/2026-04-12/ungheria-voto-orban-magyar-36535149/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Descrive seggi aperti e sfida a Orbán dopo 16 anni al potere",
+          "link": "https://www.rainews.it/video/2026/04/seggi-aperti-in-ungheria-la-sfida-a-orban-dopo-16-anni-al-potere-ddba70b1-98c6-420a-bbf4-3bcb378e9c77.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Sottolinea sfida storica tra Orbán e Magyar con accuse interferenze",
+          "link": "http://it.euronews.com/my-europe/2026/04/12/elezioni-in-ungheria-seggi-aperti-sfida-storica-tra-viktor-orban-e-peter-magyar"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Evidenzia esito che ridefinirà rapporti con Europa, USA e Russia",
+          "link": "https://www.tgcom24.mediaset.it/mondo/elezioni-ungheria-orban-contro-magyar_110947455-202602k.shtml"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riassume carriera Orbán dalla presa potere 2010 a svolta autoritaria",
+          "link": "https://www.repubblica.it/esteri/2026/04/12/news/viktor_orban_chi_e_ungheria_alle_urne_si_gioca_tutto-425277856/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA recupera capsula Orion nell'oceano Pacifico dopo missione lunare",
+      "source": "Rai News",
+      "sources": [
+        "ANSA",
+        "Rai News"
+      ],
+      "summary": "Equipaggio di quattro astronauti rientra sano e salvo con capsula Orion dopo 10 giorni di volo intorno alla Luna, primo con umani da 50 anni. Recupero al largo California conclude Artemis II. Missione avanza piani NASA per ritorno lunare permante.",
+      "link": "https://www.rainews.it/video/2026/04/artemis-ii-la-capsula-orion-recuperata-dopo-il-viaggio-intorno-alla-luna-34b68796-c874-4caf-90ae-9b28b88cae67.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Mostra video ammaraggio capsula Orion al largo coste californiane",
+          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/04/11/missione-compiuta-per-artemis-ii_f8051da2-6231-4e83-a391-11fc658edb26.html"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Dettaglia recupero capsula e rientro equipaggio dopo viaggio lunare",
+          "link": "https://www.rainews.it/video/2026/04/artemis-ii-la-capsula-orion-recuperata-dopo-il-viaggio-intorno-alla-luna-34b68796-c874-4caf-90ae-9b28b88cae67.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Ministro Giorgetti prevede recessione per crisi energia e combustibili",
+      "source": "Il Sole 24 Ore",
+      "summary": "Giancarlo Giorgetti avverte al Tg3 Lombardia che situazione invariata su energia e oli combustibili porterebbe Italia in recessione. Dichiarazione riflette preoccupazioni su costi energetici persistenti. Governo monitora indicatori macroeconomici per interventi.",
+      "link": "https://www.ilsole24ore.com/art/giorgetti-se-situazione-non-cambia-temo-recessione-AIL2BNSC",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russia lancia attacchi in Ucraina nonostante tregua Pasqua ortodossa",
+      "source": "TGCOM24",
+      "summary": "Tre paramedici feriti da drone russo su ambulanza nella regione di Sumy. Attacchi continuano malgrado tregua concordata per Pasqua. Mosca viola impegno umanitario, escalation minaccia negoziati pace in corso.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-diversi-attacchi-russi-nonostante-la-tregua-per-la-pasqua-ortodossa_110948116-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Dda e Ros indagano sabotaggio traliccio Terna con effetti su oleodotto Tal",
+      "source": "Il Sole 24 Ore",
+      "summary": "Danneggiato traliccio linea elettrica Terna a Tolmezzo in Friuli Venezia Giulia, provoca ripercussioni su oleodotto Tal. Coinvolte intelligence italiana e tedesca. Indagini puntano su atti intenzionali, valutano impatti su infrastrutture critiche.",
+      "link": "https://www.ilsole24ore.com/art/danneggiata-linea-elettrica-tolmezzo-problemi-all-oleodotto-tal-smentito-sabotaggio-indagini-corso-AIOtY6RC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia e Albania accordano sviluppo base aerea Kuçovë e cessione nave Libra",
+      "source": "Il Sole 24 Ore",
+      "summary": "Capo di Stato Maggiore Portolano incontra leader albanesi a Tirana per potenziare base Kuçovë e cedere nave Libra Marina Militare. Rafforza pattugliamento coste e missioni NATO. Cooperazione bilaterale migliora sicurezza Adriatico.",
+      "link": "https://www.ilsole24ore.com/art/asse-italia-e-albania-sviluppare-base-aerea-epoca-sovietica-kucove-AICF91RC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Procura accusa governatore Toti di manipolazione dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Pm rivelano intercettazioni: Giovanni Toti ammette ad collaboratore di aver aumentato numeri contagi. Indagine su falsificazione dati pandemia 2020-2021. Procede inchiesta su responsabilità gestione sanitaria regionale.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "USA e Iran falliscono negoziati pace a Islamabad su nucleare e Hormuz",
+      "source": "AGI",
+      "sources": [
+        "TGCOM24",
+        "AGI"
+      ],
+      "summary": "Vicepresidente Vance lascia Pakistan dopo 21 ore colloqui senza accordo su impegno nucleare iraniano e Stretto di Hormuz. Fragile tregua resiste per ora. Fallimento rischia ripresa guerra Medio Oriente con effetti globali.",
+      "link": "https://www.agi.it/estero/news/2026-04-12/colloqui-usa-iran-islamabad-36542437/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Colloqui trilaterali USA-Iran-Pakistan in corso con forte disaccordo su Hormuz e nucleare",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta Vance su mancanza impegno iraniano nucleare e nodo Hormuz",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-12-aprile_110946934-202602k.shtml"
+        },
+        {
+          "source": "AGI",
+          "angle": "Dettaglia 21 ore discussioni fallite e sintesi Vance da Islamabad",
+          "link": "https://www.agi.it/estero/news/2026-04-12/colloqui-usa-iran-islamabad-36542437/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 259,
+    "articlesAfterDedup": 259,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "politics": 4,
+      "science": 1,
+      "economy": 2,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "europe": 6,
+      "global": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

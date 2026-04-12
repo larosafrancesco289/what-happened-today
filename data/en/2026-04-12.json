@@ -1,0 +1,196 @@
+{
+  "date": "2026-04-12",
+  "summary": "Hungarians cast ballots Sunday in a parliamentary election where opposition leader Péter Magyar challenges Prime Minister Viktor Orbán's 16-year rule. Polls show a tight race between Orbán's Fidesz party and the Tisza alliance led by Magyar. The election determines Hungary's next government. Voter turnout exceeded 50% by midday. Results expected Monday. This follows EU sanctions on Hungary over rule-of-law issues.\n\nUS and Iran delegations held direct talks in Islamabad, Pakistan, Sunday to end a six-week war disrupting Middle East shipping and energy supplies. The meeting marks the first direct negotiations since 1979. The US cleared mines from the Strait of Hormuz prior to talks. No agreement announced. Pakistan hosts mediation. Success would stabilize oil prices affecting global markets. Separately in the Middle East, Israel permitted thousands of displaced Palestinians to cross a bisecting military zone back to northern Gaza after a hostage release agreement broke a prior deadlock. The move affects humanitarian access in the enclave.\n\nRwanda-backed M23 rebels overran Congolese troops and entered Goma Sunday, displacing over 1 million residents in the eastern Congo aid hub amid gunfire and shelling. United Nations monitors report threats to humanitarian operations. NATO launched a coordinated response after sabotage severed a Baltic Sea power cable between Lithuania and Sweden, following a prior undersea cable cut affecting Finland and Germany. NASA's Artemis II crew—Reid Wiseman, Christina Koch, Jeremy Hansen, and Victor Glover—landed safely in the Pacific off California after orbiting the moon. In New York, NYPD officers shot dead a man who stabbed three people at 42nd Street-Grand Central subway station; victims received hospital treatment. Nigeria convicted 386 Islamist terror suspects in a mass trial tied to Boko Haram insurgency.\"}",
+  "headlines": [
+    {
+      "title": "Hungarians vote in parliamentary election challenging Viktor Orbán's 16-year rule",
+      "source": "BBC",
+      "sources": [
+        "Deutsche Welle",
+        "NPR",
+        "New York Times",
+        "Al Jazeera",
+        "France 24"
+      ],
+      "summary": "Hungarians cast ballots Sunday in a pivotal vote where opposition leader Péter Magyar challenges Prime Minister Viktor Orbán's 16-year nationalist rule. Polls show tight race. Outcome shapes Europe's populist landscape and draws global attention.",
+      "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC",
+          "angle": "Focused on polls favoring challenger Péter Magyar against defiant Orbán",
+          "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Portrayed Orban facing tight race from opposition leader Peter Magyar",
+          "link": "https://www.dw.com/en/hungary-election-orban-faces-tight-race-in-pivotal-vote/live-76750838?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "NPR",
+          "angle": "Highlighted potential end to Orban's rule as Trump-Putin ally",
+          "link": "https://www.npr.org/2026/04/11/nx-s1-5773320/in-hungary-upcoming-elections-could-bring-an-end-to-orbans-16-year-rule"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Provided background on globally watched vote's populist implications",
+          "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Stressed Orban faces toughest election challenge in many years",
+          "link": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Noted European scrutiny and Trump backing for Orban's rule",
+          "link": "https://www.france24.com/en/europe/20260412-hungarians-vote-in-closely-watched-election-with-orban-s-rule-on-line"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "US and Iran delegations hold direct talks in Pakistan to end six-week war",
+      "source": "France 24",
+      "sources": [
+        "ABC Australia",
+        "The Hindu"
+      ],
+      "summary": "US and Iran negotiate directly in Islamabad for first time since 1979 to halt conflict disrupting Middle East and energy supplies. US clears Hormuz mines; no deal yet. Pakistan mediates; success stabilizes region.",
+      "link": "https://www.france24.com/en/middle-east/20260411-iran-us-negotiations-underway-in-pakistan-us-says-strait-of-hormuz-being-cleared",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Reported negotiations underway with US clearing Strait of Hormuz mines",
+          "link": "https://www.france24.com/en/middle-east/20260411-iran-us-negotiations-underway-in-pakistan-us-says-strait-of-hormuz-being-cleared"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Outlined key takeaways from marathon talks without reaching deal",
+          "link": "https://www.abc.net.au/news/2026-04-12/iran-us-war-ceasefire-peace-talks-jd-vance-negotiations/106555976"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Emphasized Pakistan facilitating talks and urging ceasefire continuation",
+          "link": "https://www.thehindu.com/news/international/pakistan-to-continue-facilitating-us-iran-talks-says-ishaq-dar-urges-ceasefire/article70853340.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Goma displacing over 1 million in Congo city",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-backed rebels overrun Congolese troops entering Goma aid hub; gunfire and shelling displace over 1 million residents inside city. U.N. monitors crisis. Threatens humanitarian operations and escalates regional conflict.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israel allows Palestinians to return to northern Gaza after hostage breakthrough",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Palestinians to cross bisecting military zone back to northern Gaza following broken hostage release deadlock. Thousands affected. Eases humanitarian strain but tensions persist in enclave.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "NATO coordinates first response after sabotage severs Baltic Sea cable",
+      "source": "Wall Street Journal",
+      "summary": "NATO launches coordinated action targeting suspected sabotage campaign on critical infrastructure following another deep-sea cable cut in Baltic Sea. Alliance members affected. Bolsters defenses against hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Artemis II astronauts return home after record-breaking moon flyby mission",
+      "source": "Associated Press",
+      "summary": "NASA's Artemis II crew including Reid Wiseman, Christina Koch, Jeremy Hansen, Victor Glover lands safely post-moon orbit in Pacific off California. Public cheers mission. Paves way for future lunar landings.",
+      "link": "https://apnews.com/article/artemis-astronauts-moon-flyby-splashdown-1fe7e0f38a9dd506945a4e508abb402d",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Police shoot knife-wielding man dead after he stabs 3 at New York subway",
+      "source": "Associated Press",
+      "summary": "Man stabs 3 at 42nd Street-Grand Central station; responding NYPD officers shoot him fatally on platform. Victims hospitalized. Raises transit safety concerns in major U.S. city.",
+      "link": "https://apnews.com/article/new-york-subway-station-injuries-hospital-1cd670e7b0a302e2d51f851a74247bfd",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nigeria convicts 386 terror suspects in major Islamist militants trial",
+      "source": "Deutsche Welle",
+      "summary": "Nigerian prosecutors secure 386 convictions from hundreds of Islamist suspects amid Boko Haram insurgency trial. Affects national security. Signals intensified judicial crackdown on extremism.",
+      "link": "https://www.dw.com/en/nigeria-terror-trial-nearly-400-terror-suspects-convicted/a-76748309?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 434,
+    "articlesAfterDedup": 434,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 3,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 2,
+      "africa": 2,
+      "global": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    }
+  }
+}

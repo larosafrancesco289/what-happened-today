@@ -1,0 +1,190 @@
+{
+  "date": "2026-04-13",
+  "summary": "Donald Trump a ordonné un blocus des ports iraniens dans le détroit d'Ormuz après l'échec des négociations à Islamabad. L'armée américaine bloquera les ports dès lundi à 16h, en autorisant uniquement les navires non iraniens. L'Iran qualifie cette mesure de piraterie et menace les ports du Golfe. Ce blocus fait suite aux pourparlers de 21 heures sans accord la veille. Une escalade est possible, avec des perturbations attendues sur le pétrole mondial.\n\nPéter Magyar, conservateur pro-européen, a remporté une supermajorité des deux tiers au parlement hongrois après le dépouillement de 77% des bulletins. Cela met fin aux seize ans de pouvoir de Viktor Orbán. La Hongrie s'oriente vers l'Europe, impactant ses alliances avec la Russie. Un nouveau gouvernement sera formé bientôt. Séparément, deux ONG comptent 1639 exécutions en Iran en 2025, un record depuis 1989 et une hausse de 68% par rapport à 2024, incluant 48 femmes et ciblant minorités et manifestants. Cela révèle une répression accrue du régime de Téhéran.\n\nLe pape Léon XIV est arrivé en Algérie lundi, première visite d'un pontife dans ce pays musulman, suivant les traces de saint Augustin à Annaba. L'objectif est de construire des ponts avec l'islam, avec une importance diplomatique au Maghreb. Au Nigeria, l'armée a tué plus de 100 civils samedi lors de frappes aériennes sur un marché à Jilli dans l'État de Yobe, en visant Boko Haram selon les militaires ; Amnesty International compte des dizaines de morts et blessés, une enquête est en cours. Au Sénégal, un tribunal a condamné un homme de 24 ans à six ans de prison et 2 millions FCFA d'amende vendredi à Pikine-Guédiawaye, première application de la loi anti-homosexualité prévoyant jusqu'à dix ans. Soixante arrestations ont eu lieu depuis février. En France, un tribunal a jugé huit dirigeants de Lafarge pour financement du terrorisme via des paiements à des groupes jihadistes pour maintenir l'usine en Syrie pendant la guerre ; la décision est attendue lundi.",
+  "headlines": [
+    {
+      "title": "Péter Magyar remporte élections législatives hongroises supermajorité deux tiers parlement",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "RTBF",
+        "Radio-Canada",
+        "France Info"
+      ],
+      "summary": "Péter Magyar, conservateur pro-européen, obtient supermajorité après dépouillement 77% bulletins, met fin seize ans pouvoir Viktor Orban. Hongrie s'oriente vers Europe, impacte alliances Russie. Nouveau gouvernement forme bientôt.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/13/en-direct-elections-en-hongrie-ensemble-nous-avons-fait-tomber-le-regime-orban-a-declare-peter-magyar-conservateur-pro-europeen-apres-sa-victoire-ecrasante-aux-legislatives_6679608_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Péter Magyar gagne supermajorité parlementaire après résultats officiels, Orban reconnaît défaite",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec déclaration victoire Magyar et fin régime Orban seize ans",
+          "link": "https://www.lemonde.fr/international/live/2026/04/13/en-direct-elections-en-hongrie-ensemble-nous-avons-fait-tomber-le-regime-orban-a-declare-peter-magyar-conservateur-pro-europeen-apres-sa-victoire-ecrasante-aux-legislatives_6679608_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Met en avant lourde défaite Fidesz et supermajorité Tisza pour gouverner",
+          "link": "https://www.lefigaro.fr/international/la-verite-a-vaincu-le-mensonge-peter-magyar-inflige-une-defaite-historique-a-viktor-orban-20260413"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump ordonne blocus ports iraniens détroit Ormuz après échec négociations",
+      "source": "Le Monde",
+      "sources": [
+        "20 Minutes",
+        "Le Monde",
+        "Le Figaro",
+        "Liberation",
+        "France Info"
+      ],
+      "summary": "Après échec pourparlers Islamabad, armée US bloque ports iraniens dès lundi 16h, autorise seuls navires non iraniens. Iran dénonce piraterie, menace ports Golfe. Risque escalade perturbe pétrole mondial.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/13/le-pari-risque-de-donald-trump-qui-fait-monter-la-pression-dans-le-detroit-d-ormuz-faute-d-une-capitulation-iranienne_6679652_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump annonce blocus maritime ports iraniens, Iran réagit menaces contre ports Golfe persique",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Décrit pari risqué Trump et menace escalade militaire détroit Ormuz",
+          "link": "https://www.lemonde.fr/international/article/2026/04/13/le-pari-risque-de-donald-trump-qui-fait-monter-la-pression-dans-le-detroit-d-ormuz-faute-d-une-capitulation-iranienne_6679652_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Signale illégalité blocus et inquiétudes approvisionnement hydrocarbures Golfe",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-armee-americaine-veut-imposer-un-blocus-des-ports-iraniens-lundi-20260413"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Iran exécute 1639 personnes 2025 record depuis 1989 selon deux ONG",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France 24"
+      ],
+      "summary": "Deux ONG comptent 1639 exécutions Iran 2025, hausse 68% sur 2024, inclut 48 femmes. Peine mort cible minorités, manifestants. Révèle répression accrue régime Téhéran.",
+      "link": "https://www.lefigaro.fr/international/l-iran-a-execute-au-moins-1639-personnes-en-2025-un-record-depuis-1989-selon-deux-ong-20260413",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Chiffre 1639 et hausse 68% peines contre minorités manifestants",
+          "link": "https://www.lefigaro.fr/international/l-iran-a-execute-au-moins-1639-personnes-en-2025-un-record-depuis-1989-selon-deux-ong-20260413"
+        },
+        {
+          "source": "France 24",
+          "angle": "Rapport ONG met quatre exécutions quotidiennes moyenne inédite décennies",
+          "link": "https://www.france24.com/fr/moyen-orient/20260413-peine-de-mort-l-iran-a-ex%C3%A9cut%C3%A9-au-moins-1-639-personnes-en-2025-un-record-depuis-1989"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Pape Léon XIV visite Algérie première pape histoire pays musulman",
+      "source": "Le Monde",
+      "sources": [
+        "20 Minutes",
+        "Le Monde"
+      ],
+      "summary": "Léon XIV atterrit Algérie lundi, premier pontife visite, suit traces saint Augustin Annaba. But construire ponts islam, importance diplomatique Maghreb.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/04/13/en-algerie-le-pape-va-sur-les-traces-de-l-histoire-chretienne-du-pays-et-tend-la-main-aux-musulmans_6679661_3212.html",
+      "tier": "top",
+      "singleSource": false,
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Armée nigériane tue plus 100 civils frappes aériennes marché Jilli Yobe",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France 24"
+      ],
+      "summary": "Samedi, avions militaires frappent foule marché Jilli état Yobe pensant Boko Haram. Amnesty compte dizaines morts blessés. Enquête armée en cours.",
+      "link": "https://www.rfi.fr/fr/afrique/20260412-nigeria-des-dizaines-de-personnes-tu%C3%A9es-dans-des-frappes-a%C3%A9riennes-de-l-arm%C3%A9e-dans-l-%C3%A9tat-de-yobe",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Annonce Amnesty dizaines morts frappes marché contre insurgés Boko Haram",
+          "link": "https://www.rfi.fr/fr/afrique/20260412-nigeria-des-dizaines-de-personnes-tu%C3%A9es-dans-des-frappes-a%C3%A9riennes-de-l-arm%C3%A9e-dans-l-%C3%A9tat-de-yobe"
+        },
+        {
+          "source": "France 24",
+          "angle": "Bilan plus 100 morts village Jilli frappes avions militaires jihadistes",
+          "link": "https://www.france24.com/fr/afrique/20260412-nigeria-des-dizaines-de-personnes-tu%C3%A9es-dans-des-frappes-a%C3%A9riennes-de-l-arm%C3%A9e-dans-le-nord-est-boko-haram"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Tribunal Sénégal condamne homme 24 ans six ans prison loi anti-homosexualité",
+      "source": "RFI",
+      "summary": "Vendredi Pikine-Guédiawaye, homme 24 ans écope six ans ferme, 2 millions FCFA amende. Première application texte double peines dix ans max. Soixante arrestations février.",
+      "link": "https://www.rfi.fr/fr/afrique/20260413-s%C3%A9n%C3%A9gal-premi%C3%A8re-condamnation-en-vertu-de-la-nouvelle-loi-anti-homosexualit%C3%A9",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Tribunal juge Lafarge huit dirigeants financement terrorisme usine Syrie",
+      "source": "Liberation",
+      "summary": "Prévenus poursuivis paiements groupes jihadistes maintien usine guerre Syrie. Décision rendue lundi, impact réputation multinationale française.",
+      "link": "https://www.liberation.fr/societe/police-justice/financement-du-terrorisme-en-syrie-le-cimentier-lafarge-et-huit-de-ses-dirigeants-fixes-aujourdhui-20260413_W2A3QTQYRJBZXDMURI72C3XQUY/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 213,
+    "articlesAfterDedup": 212,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 3,
+      "society": 3,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "europe": 1,
+      "middle-east": 2,
+      "africa": 3,
+      "global": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 2,
+      "also": 3
+    }
+  }
+}

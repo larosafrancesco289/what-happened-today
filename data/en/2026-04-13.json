@@ -1,0 +1,234 @@
+{
+  "date": "2026-04-13",
+  "summary": "The U.S. military announced a naval blockade of Iranian ports and coastal areas starting Monday after direct talks in Pakistan failed to end the six-week war. The blockade halts traffic in the Strait of Hormuz. Oil prices rose above $100 per barrel. Global energy supplies face disruption, and Iranian officials called the move an act of war while U.S. sources stated it enforces compliance with ceasefire terms. Further escalation is possible if Iran resists.\n\nPéter Magyar's Tisza party won Hungary's parliamentary election with high turnout, defeating Viktor Orbán's Fidesz and ending his 16-year rule. The 45-year-old former insider pledged anti-corruption measures and stronger EU and NATO ties. This shifts Hungary's positions within the 27-nation EU bloc. In eastern Congo, Rwanda-backed rebels overran government troops and entered Goma amid gunfire and shelling, displacing over 1 million residents in the urban aid hub. The U.N. warned of a worsening humanitarian catastrophe. Separately, NATO launched its first coordinated operation after sabotage severed a second deep-sea cable in the Baltic Sea, protecting infrastructure linking alliance members.\n\nDisplaced Palestinians crossed into northern Gaza through a military zone after Israel permitted returns following a hostage release agreement. This eases a humanitarian crisis but security forces remain deployed. In northeast Nigeria, an air force strike targeting jihadists hit a Yobe market instead, killing at least 100 civilians according to Amnesty International; officials admitted the error. NASA and SpaceX launched four astronauts, including NASA's McClain and Ayers, from Kennedy Space Center to the ISS to retrieve Wilmore and Williams after nine months. Peruvian officials delayed presidential election results until Monday after logistical issues barred thousands from voting on Sunday.",
+  "headlines": [
+    {
+      "title": "Péter Magyar's Tisza party wins Hungarian election, ends Viktor Orbán's 16-year rule",
+      "source": "Associated Press",
+      "sources": [
+        "France 24",
+        "Associated Press",
+        "BBC World",
+        "Al Jazeera English"
+      ],
+      "summary": "Péter Magyar's opposition Tisza party defeats Fidesz in high-turnout parliamentary election, ousting Viktor Orbán after 16 years. The 45-year-old ex-insider pledges anti-corruption measures and restored EU, NATO ties. Victory shifts Hungary's EU alignment and regional dynamics.",
+      "link": "https://apnews.com/article/magyar-eu-brussels-orban-election-ukraine-ea81cfcc269eea44b6645e35a87bf3c2",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Profiles Péter Magyar as former Fidesz insider vowing to dismantle Orbán system brick by brick",
+          "link": "https://www.france24.com/en/europe/20260413-hungary-peter-magyar-former-fidesz-insider-vows-to-dismantle-orban-system-brick-by-brick"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Highlights European leaders praising victory and contrasts with Orbán as threat to Europe",
+          "link": "https://apnews.com/article/magyar-eu-brussels-orban-election-ukraine-ea81cfcc269eea44b6645e35a87bf3c2"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Details Orbán's 16-year rule swept away by Magyar's landslide as ex-insider sways majority",
+          "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Emphasizes record turnout ousting far-right Orban after 16 years of ruling Hungary",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/viktor-orban-swept-from-power-after-16-years-ruling-hungary?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. military announces blockade of Iranian ports and coastal areas starting Monday",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "Deutsche Welle",
+        "Al Jazeera English",
+        "France 24",
+        "New York Times"
+      ],
+      "summary": "U.S. imposes naval blockade on Iranian ports and coastal zones after Pakistan ceasefire talks fail, halting Strait of Hormuz traffic. Oil prices exceed $100 per barrel. Risks broader war, disrupts global energy supplies.",
+      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-blockade-hormuz-april-13-2026-ed7a6cd4bc61dc47f317a2c82afcc1c9",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Reports U.S. blockade plan post-talks collapse with ships halting in Strait of Hormuz",
+          "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-blockade-hormuz-april-13-2026-ed7a6cd4bc61dc47f317a2c82afcc1c9"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Explains Trump blockade to halt Iran fees and oil revenue amid rising prices",
+          "link": "https://www.dw.com/en/iran-war-us-military-to-blockade-iranian-ports/live-76758809?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Frames Hormuz blockade as day 45 escalation after failed peace deal in war",
+          "link": "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Liveblogs Trump announcement of Hormuz and ports blockade triggering oil surge",
+          "link": "https://www.france24.com/en/middle-east/20260413-middle-east-war-live-trump-announces-blockade-of-strait-of-hormuz-on-monday"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Tracks oil above $100 in live updates on U.S. Hormuz blockade preparations",
+          "link": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "NATO launches first coordinated response after sabotage severs another Baltic Sea cable",
+      "source": "Wall Street Journal World",
+      "summary": "NATO deploys initial coordinated operation following suspected sabotage cutting second deep-sea cable in Baltic Sea. Protects critical infrastructure linking alliance members. Heightens concerns over hybrid threats to Europe.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Suspected sabotage severs another deep-sea cable prompting NATO's first coordinated response",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians cross into northern Gaza after Israel permits return post-hostage deal",
+      "source": "Wall Street Journal World",
+      "summary": "Displaced Palestinians walk through military zone into northern Gaza following hostage release agreement. Israel allows access after prior restrictions. Eases humanitarian crisis but security risks persist.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israel allows Palestinians to cross bisecting military zone into northern Gaza",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-backed rebels overrun troops, enter Goma displacing over 1 million residents",
+      "source": "Wall Street Journal World",
+      "summary": "Rebels seize Congo safe-haven city of Goma from troops amid gunfire and shelling. Over 1 million displaced inside urban aid hub. U.N. warns of humanitarian catastrophe escalation.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels enter Goma with gunfire and shelling displacing 1 million",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. military sinks two drug boats, kills 5 smugglers in eastern Pacific",
+      "source": "NPR News",
+      "summary": "U.S. forces destroy two vessels smuggling drugs in eastern Pacific Ocean, killing 5 crew. Supports Trump administration's anti-trafficking operations from Latin America. Curbs narcotics reaching U.S. markets.",
+      "link": "https://www.npr.org/2026/04/13/g-s1-117217/strikes-alleged-drug-boats-kill-5",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Stampede at Haitian mountaintop fortress kills 25 people, injures dozens",
+      "source": "NPR News",
+      "summary": "Panic at northern Haiti tourist fortress triggers stampede killing at least 25 and injuring dozens. Authorities probe overcrowding causes. Underscores public safety gaps in vulnerable tourism sites.",
+      "link": "https://www.npr.org/2026/04/13/g-s1-117209/a-stampede-at-a-haitian-mountaintop-fortress-kills-at-least-25-people",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA, SpaceX launch four astronauts to retrieve pair stuck on space station",
+      "source": "Voice of America",
+      "summary": "Crew-10 including NASA’s McClain, Ayers launches via SpaceX to ISS, enabling return of Wilmore, Williams after nine months. Routine rotation from Kennedy Space Center. Bolsters international space partnerships.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Peruvian officials delay presidential election results until Monday for thousands",
+      "source": "NPR News",
+      "summary": "Logistical failures bar thousands from Sunday vote, granting one-day extension and postponing results to Monday. Addresses irregularities in process. Impacts timely leadership transition in polarized nation.",
+      "link": "https://www.npr.org/2026/04/13/g-s1-117208/peru-election-results-delayed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Nigerian airstrike on Yobe market kills at least 100 civilians targeting jihadists",
+      "source": "The Guardian",
+      "summary": "Air force strike misfires into northeast Nigeria market instead of rebels, killing over 100 per Amnesty reports. Officials admit error. Spotlights civilian risks in counter-terrorism campaigns.",
+      "link": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 436,
+    "articlesAfterDedup": 435,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 4,
+      "society": 2,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 2,
+      "africa": 2,
+      "americas": 3,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "developing": 3,
+      "also": 5
+    }
+  }
+}

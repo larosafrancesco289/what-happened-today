@@ -1,0 +1,210 @@
+{
+  "date": "2026-04-13",
+  "summary": "Gli Stati Uniti hanno annunciato un blocco navale nello Stretto di Hormuz a partire dalle 16 di oggi, dopo il fallimento dei negoziati con l'Iran. Secondo Lloyd's List, il traffico marittimo si è fermato, colpendo le esportazioni di petrolio globale. L'Iran ha dichiarato di essere vicino a un accordo. Il prezzo del petrolio è salito e le borse hanno registrato cali: Milano ha ceduto lo 0,8%, Londra lo 0,6%, Francoforte e Parigi oltre l'1%. Gli investitori monitorano gli sviluppi delle tensioni tra Stati Uniti e Iran.\n\nGli attacchi israeliani in Libano proseguono dal 2 marzo, con edifici distrutti e operazioni di soccorso tra le macerie. Il ministero della Salute libanese conta 2055 morti e 6588 feriti. Le tensioni regionali persistono. In Ungheria, Péter Magyar ha ottenuto una vittoria schiacciante nelle elezioni, sconfiggendo Viktor Orbán, che si è congratulato. Questo fa seguito al voto di ieri e cambia gli equilibri sovranisti europei, con reazioni in Italia da Schlein e Renzi. Russia e Ucraina hanno ripreso gli attacchi con droni dopo la tregua di 32 ore per la Pasqua ortodossa: la Russia ha lanciato 98 droni, di cui 87 abbattuti, e ha intercettato 33 droni ucraini. Le parti si accusano reciprocamente di violazioni.\n\nDonald Trump ha accusato su Truth Social il Papa Leone XIV di debolezza sui crimini e di politica estera inadeguata, legandolo alle tensioni sulla guerra; i vescovi statunitensi hanno espresso dolore per le frizioni tra Vaticano e Casa Bianca. Il Papa ha iniziato un viaggio di 11 giorni in Algeria, Camerun, Angola e Guinea Equatoriale, con 11 città visitate, 25 discorsi e 8 messe. Una ricerca indica un aumento del 300% dell'attività di bot basati su IA, con un calo del 96% del traffico sui siti editoriali da fonti esterne dovuto ai chatbot; gli editori cercano contromisure per revenue pubblicitarie e visibilità. I procuratori hanno rivelato chat in cui Giovanni Toti manipola dati sui contagi COVID in Liguria con Cozzani, con incontri su yacht con Spinelli e sfogo del sindaco Bucci; l'indagine procede.",
+  "headlines": [
+    {
+      "title": "Stati Uniti bloccano Stretto di Hormuz fermando traffico marittimo",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "AGI"
+      ],
+      "summary": "Gli Stati Uniti annunciano blocco navale nello Stretto di Hormuz dalle 16 di oggi dopo fallimento negoziati con Iran; traffico si ferma secondo Lloyd's, Iran dice vicino a accordo. Colpisce esportazioni petrolio globale, petrolio sale e borse calano.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/13/lo-stretto-di-hormuz-e-nuovamente-chiuso-traffico-marittimo-bloccato-live_6c42c30b-5d16-4cb8-88b8-c0fc348f3283.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump annuncia blocco porti e traffico marittimo si ferma completamente dopo flussi ridotti",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Trump annuncia blocco porti da oggi alle 16 e altre nazioni contro vendite petrolio iraniano",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/13/lo-stretto-di-hormuz-e-nuovamente-chiuso-traffico-marittimo-bloccato-live_6c42c30b-5d16-4cb8-88b8-c0fc348f3283.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Traffico fermato dopo annuncio USA, Iran vicino accordo e flussi ridotti nel weekend",
+          "link": "https://www.agi.it/estero/news/2026-04-13/usa-iran-colloqui-hormuz-36554684/"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israele colpisce Libano causando 2055 morti e 6588 feriti",
+      "source": "TGCOM24",
+      "summary": "Proseguono attacchi israeliani in Libano dal 2 marzo con edifici distrutti e soccorsi tra macerie; ministero Salute libanese conta 2055 morti e 6588 feriti. Bilancio sale, tensioni regionali persistono.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/libano-macerie-beirut-dopo-raid_110987365-02k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump attacca Papa Leone XIV definendolo debole",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Trump su Truth accusa Papa Leone XIV di debolezza su crimini e politica estera pessima, legando a tensioni su guerra; vescovi Usa esprimono dolore. Aumentano frizioni Vaticano-Casa Bianca.",
+      "link": "https://www.agi.it/estero/news/2026-04-13/trump-attacca-papa-leone-36554497/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Trump accusa Papa debole su crimini e pessimo in politica estera con tensioni su guerra",
+          "link": "https://www.agi.it/estero/news/2026-04-13/trump-attacca-papa-leone-36554497/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Trump insulta Papa in partenza per Africa dopo veglia pace, vescovi Usa affranti",
+          "link": "https://www.repubblica.it/esteri/2026/04/13/news/attacco_senza_precedenti_trump_a_papa_vescovi_usa_reazione-425279809/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Borse Europa e Asia calano mentre petrolio sale",
+      "source": "Rai News",
+      "summary": "Milano cede 0,8%, Londra 0,6%, Francoforte e Parigi oltre 1%; petrolio corre per chiusura Hormuz. Effetto tensioni Usa-Iran su mercati globali, investitori monitorano sviluppi.",
+      "link": "https://www.rainews.it/articoli/2026/04/europa-e-asia-in-rosso-corre-il-petrolio-7d8e2aff-3d0f-44cf-ba89-eacb273p77d3.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Attività bot basati su IA aumenta del 300% colpendo editoria",
+      "source": "ANSA",
+      "summary": "Ricerca mostra +300% bot IA, traffico siti editoriali da fonti esterne cala 96% per chatbot. Impatta revenue pubblicità e visibilità contenuti, editori cercano contromisure.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/04/12/lattivita-dei-bot-basati-sullia-sale-del-300-editoria-nel_5b39a626-a32b-4e68-8b28-b98c2fb4a83b.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Papa Leone XIV inizia viaggio 11 giorni in quattro Paesi africani",
+      "source": "Il Sole 24 Ore",
+      "summary": "Papa parte da Algeri per Algeria, Camerun, Angola, Guinea Equatoriale visitando 11 città con 25 discorsi e 8 messe. Rafforza legami Chiesa-Africa, contesto tensioni con Usa.",
+      "link": "https://www.ilsole24ore.com/art/al-via-algeri-viaggio-11-giorni-papa-leone-xiv-africa-AIZsfjSC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Péter Magyar vince elezioni Ungheria sconfiggendo Viktor Orbán",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "Il Sole 24 Ore",
+        "Euronews Italiano"
+      ],
+      "summary": "Péter Magyar ottiene vittoria schiacciante nelle elezioni ungheresi, Orbán si congratula; reazioni italiane da Schlein e Renzi. Cambia equilibri sovranisti europei e asse Meloni-Salvini.",
+      "link": "http://it.euronews.com/my-europe/2026/04/13/speciale-europe-today-magyar-batte-orban-in-ungheria-e-adesso",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Magyar batte Orbán con vittoria schiacciante dopo voto di ieri",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Edizione speciale su vittoria Magyar da Bruxelles-Budapest con analisi e ospiti",
+          "link": "http://it.euronews.com/my-europe/2026/04/13/speciale-europe-today-magyar-batte-orban-in-ungheria-e-adesso"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Magyar vince, reazioni Schlein su destre finite e Renzi su tocco Meloni",
+          "link": "https://www.ilsole24ore.com/art/elezioni-ungheria-schlein-finito-tempo-destre-renzi-orban-ko-tocco-magico-meloni-AInC76SC"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Sconfitta Orbán incrina asse sovranista europeo per Meloni e Salvini",
+          "link": "http://it.euronews.com/my-europe/2026/04/13/orban-cade-lasse-sovranista-si-incrina-cosa-cambia-per-meloni-e-salvini"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russia e Ucraina riprendono attacchi droni dopo tregua 32 ore",
+      "source": "AGI",
+      "summary": "Scaduta tregua Pasqua ortodossa, Russia lancia 98 droni (87 abbattuti), intercetta 33 ucraini; accuse reciproche violazioni. Escalation militare e diplomatica continua.",
+      "link": "https://www.agi.it/estero/news/2026-04-12/ucraina-russia-tregua-pasqua-violazioni-36545269/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Tregua fallita con ripresa attacchi droni notturni e intercettazioni",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Procuratori rivelano chat Toti manipola dati contagi COVID Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Pm citano messaggi Toti a Cozzani su aumento dati contagi; emergono incontri yacht con Spinelli, sfogo sindaco Bucci. Indagine procede su governatore ligure.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pm pubblicano chat su manipolazione e dettagli incontri Spinelli-Bucci",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 254,
+    "articlesAfterDedup": 254,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 17,
+    "categoryCounts": {
+      "economy": 2,
+      "conflict": 2,
+      "politics": 3,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "global": 4,
+      "africa": 1,
+      "europe": 2
+    },
+    "tierCounts": {
+      "developing": 4,
+      "top": 3,
+      "also": 2
+    }
+  }
+}

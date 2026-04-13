@@ -1,0 +1,144 @@
+{
+  "weekId": "2026-W15",
+  "startDate": "2026-04-06",
+  "endDate": "2026-04-12",
+  "summary": "Briefing settimanale: 6-12 aprile 2026\n\nLa settimana dal 6 al 12 aprile 2026 è stata dominata dalle tensioni tra Stati Uniti e Iran sullo Stretto di Hormuz, con sviluppi significativi nei primi giorni. Il 6 aprile, Stati Uniti e Iran hanno avviato negoziati per una tregua di 45 giorni su Hormuz e uranio arricchito, ma la chiusura dello stretto ha provocato uno shock energetico globale, spingendo aziende a smart working diffuso. Raid aerei vicino a Teheran hanno causato 17 morti, tra cui sei bambini. Il 7 aprile, gli Usa hanno presentato 15 condizioni all'Iran, che ha risposto con 10 controproposte; Teheran ha rifiutato la tregua chiesta da Trump, che ha minacciato di radere al suolo ponti e impianti energetici iraniani. Queste storie su Hormuz e raid sono persistite due giorni ma sono svanite rapidamente dopo il 7, senza ulteriori sviluppi riportati.\n\nNel Medio Oriente, raid israeliani l'8 aprile hanno ucciso otto persone in un caffè a Sidone, in Libano. Il 9 aprile, forze israeliane hanno sparato su un convoglio italiano della missione Unifil in Libano, senza dettagli su vittime. Queste tensioni libanesi hanno mostrato continuità ma non escalation.\n\nIn Europa e Ucraina, il 9 aprile Zelensky ha proposto un incontro con Putin in luogo neutro, escludendo il Donbass. Il 10 aprile, Trump ha annunciato una riduzione dei soldati Usa in Europa e minacciato l'uscita dalla Nato. Il 12 aprile, in Ungheria si sono tenute elezioni per sfidare Viktor Orbán con Péter Magyar. Nessuna risoluzione nota per queste questioni.\n\nSul fronte Asia, il 10 aprile Xi Jinping ha incontrato il leader dell'opposizione taiwanese Cheng Li-wun a Pechino. Negli Usa, Rex Heuermann ha confessato l'8 aprile gli omicidi di otto donne a Gilgo Beach, chiudendo un caso. Il Pentagono ha smentito colloqui duri con il nunzio apostolico Pierre su tensioni Vaticano-Usa.\n\nIn Italia, l'8 aprile la polizia ha eseguito 54 misure cautelari contro la 'ndrangheta in cinque regioni. Il 12 aprile, il ministro Giorgetti ha previsto una recessione dovuta alla crisi energetica e dei combustibili.\n\nSuccessi spaziali: la Nasa ha recuperato la capsula Orion nell'oceano Pacifico il 12 aprile, al termine di una missione lunare.\n\nStorie svanite dopo un giorno includono: naufragio Sar libico con 80 dispersi e 32 migranti salvati; attacco ucraino che ha intrappolato 41 minatori in una miniera di Donetsk, Russia. Pochi casi risolti: confessione Heuermann e recupero Orion. Le narrative principali su Hormuz e Libano hanno evidenziato instabilità persistente, mentre altre sono rimaste isolate. (372 parole)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Stati Uniti e Iran negoziano tregua di 45 giorni su Hormuz e uranio arricchito",
+    "Raid aerei vicino Teheran causano 17 morti tra cui sei bambini",
+    "Chiusura Stretto di Hormuz provoca shock energetico e smart working globale",
+    "Naufragio area Sar libica lascia 80 dispersi e salva 32 migranti",
+    "Attacco ucraino intrappola 41 minatori in miniera Donetsk Russia",
+    "Astronauti Artemis II entrano orbita lunare e vedono Gran Canyon lunare",
+    "Meloni rafforza legami commerciali con Arabia Saudita Qatar ed Emirati",
+    "Guerra Medio Oriente blocca aiuti umanitari da Dubai verso Gaza e Sudan",
+    "Stati Uniti presentano 15 condizioni a Iran che risponde con 10 controproposte su Hormuz",
+    "Iran rifiuta tregua di 45 giorni richiesta da Trump su Stretto di Hormuz"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-04-06",
+      "title": "Stati Uniti e Iran negoziano tregua di 45 giorni su Hormuz e uranio arricchito",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "Raid aerei vicino Teheran causano 17 morti tra cui sei bambini",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "Chiusura Stretto di Hormuz provoca shock energetico e smart working globale",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Stati Uniti presentano 15 condizioni a Iran che risponde con 10 controproposte su Hormuz",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Iran rifiuta tregua di 45 giorni richiesta da Trump su Stretto di Hormuz",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Trump minaccia di radere al suolo ponti e impianti energetici iraniani",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Raid israeliani uccidono otto persone in caffè a Sidone in Libano",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Polizia esegue 54 misure cautelari contro 'ndrangheta in cinque regioni",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Forze israeliane sparano su convoglio italiano Unifil in Libano",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Zelensky propone incontro con Putin in luogo neutro escludendo Donbass",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Rex Heuermann confessa omicidi di otto donne a Gilgo Beach",
+      "category": "society",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Xi Jinping incontra leader opposizione taiwanese Cheng Li-wun a Pechino",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Donald Trump annuncia riduzione soldati USA in Europa e minaccia uscita Nato",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Pentagono smentisce colloqui duri con nunzio apostolico Pierre su tensioni Vaticano-USA",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-04-12",
+      "title": "Ungheresi votano nelle elezioni per sfidare Viktor Orbán con Péter Magyar",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-12",
+      "title": "NASA recupera capsula Orion nell'oceano Pacifico dopo missione lunare",
+      "category": "science",
+      "region": "global"
+    },
+    {
+      "date": "2026-04-12",
+      "title": "Ministro Giorgetti prevede recessione per crisi energia e combustibili",
+      "category": "economy",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1545,
+    "totalSourcesUsed": 8,
+    "daysWithData": 6,
+    "categoryCounts": {
+      "politics": 19,
+      "conflict": 11,
+      "economy": 8,
+      "society": 11,
+      "science": 3,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 15,
+      "global": 7,
+      "africa": 1,
+      "europe": 25,
+      "americas": 3,
+      "asia-pacific": 2
+    }
+  }
+}

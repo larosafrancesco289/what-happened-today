@@ -1,0 +1,181 @@
+{
+  "date": "2026-04-16",
+  "summary": "NATO has launched its first coordinated operation following the severing of another deep-sea cable in the Baltic Sea. The action addresses a suspected sabotage campaign targeting critical infrastructure. Affected nations including alliance members face disruptions to communications and energy links connecting Europe. The response deploys assets to patrol and secure undersea cables essential for global trade and defense communications.\n\nRussian missiles and drones struck Kyiv, Odesa, and Dnipro in Ukraine, killing more than a dozen civilians including a 12-year-old boy and injuring dozens. Ukrainian air defenses intercepted some threats. Kyiv has requested additional Western aid after months of similar bombardments. In eastern Congo, Rwanda-backed rebels overran Congolese troops to enter Goma, a city sheltering one million displaced people. Gunfire and shelling occurred near this aid hub as the UN called for de-escalation amid worsening humanitarian access.\n\nIsrael permitted hundreds of thousands of displaced Palestinians to return to northern Gaza after a military zone crossing opened. Fighting continues in other areas. Satellite images analyzed by BBC Verify show Israel demolished 1,400 buildings in southern Lebanon towns since March 2. A conference in Berlin secured pledges exceeding £1 billion for aid to 34 million Sudanese facing food insecurity from a three-year war. Pakistan's army chief visited Tehran to facilitate US-Iran talks after seven weeks of war affecting Strait of Hormuz shipping. India's Lok Sabha introduced a Constitution Amendment Bill for women's quotas in legislatures and seat delimitation. El Salvador President Nayib Bukele signed laws imposing life sentences on children aged 12 and older for homicide, rape, or gang crimes.",
+  "headlines": [
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Sabotage of Baltic Sea Cable",
+      "source": "Wall Street Journal",
+      "summary": "NATO launches its initial coordinated operation after another deep-sea cable severs in the Baltic Sea amid suspected sabotage campaign against critical infrastructure. Alliance members and affected nations face risks to communications and energy links. Response aims to secure undersea assets vital for global trade and defense.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russian Strikes Kill More Than Dozen Including Child Across Ukrainian Cities",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "France 24"
+      ],
+      "summary": "Russian missiles and drones strike Kyiv, Odesa and Dnipro, killing over a dozen civilians including a 12-year-old and injuring dozens more. Ukrainian residents and infrastructure suffer ongoing attacks after months of bombardments. Air defenses intercept some threats while Kyiv urges more Western aid.",
+      "link": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-top-1022-rdf",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Highlights several killed including 12-year-old in strikes on Kyiv, Odesa, Dnipro",
+          "link": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "France 24",
+          "angle": "Reports more than dozen killed including child in attacks on Kyiv and other cities",
+          "link": "https://www.france24.com/en/europe/20260416-more-than-a-dozen-killed-in-russian-attacks-on-kyiv-other-ukrainian-cities"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo Safe-Haven City of Goma",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overrun Congolese troops in Goma, prompting gunfire and shelling amid one million displaced people sheltering there. Eastern Congo residents face intensified fighting near aid hub. UN pushes for de-escalation as humanitarian access worsens.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians to Return to Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits Gazans to cross military zone back to northern Gaza after hostage release deadlock breaks. Hundreds of thousands of displaced Palestinians regain access to homes. Move signals potential de-escalation but fighting persists elsewhere.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Donors Pledge More Than £1 Billion for Sudan Humanitarian Crisis",
+      "source": "The Guardian",
+      "summary": "Conference in Berlin secures over £1bn exceeding target to aid 34 million Sudanese needing assistance amid three-year war. War-ravaged population faces deepening food insecurity. Funds address shortfalls but ceasefire prospects remain distant.",
+      "link": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Pakistani Army Chief Visits Tehran to Broker US-Iran Talks",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "New York Times"
+      ],
+      "summary": "Pakistan's army chief meets Iranian officials to arrange renewed US-Iran negotiations after seven weeks of war. Middle East tensions affect global shipping via Strait of Hormuz. White House eyes potential agreement despite ceasefire doubts.",
+      "link": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-16-april-2026-297a8d2bb94add26e503a4ef3a5d1151",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Focuses on army chief's Tehran visit to ease tensions and restart US-Iran talks",
+          "link": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-16-april-2026-297a8d2bb94add26e503a4ef3a5d1151"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Covers Pakistani mediators' arrival amid White House ceasefire optimism",
+          "link": "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Salvadoran President Bukele Signs Reforms for Life Sentences to Children 12 and Older",
+      "source": "NPR",
+      "summary": "President Nayib Bukele enacts laws imposing life prison terms on youths as young as 12 for homicide, rape or gang crimes. Salvadoran minors and families face harsher penalties in anti-gang push. Critics warn of rights violations.",
+      "link": "https://www.npr.org/2026/04/16/g-s1-117613/bukele-life-prison-sentences-for-people-as-young-as-12",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Indian Parliament Introduces Bill for Women's Reservation and Delimitation",
+      "source": "The Hindu",
+      "summary": "Lok Sabha tables Constitution Amendment Bill enabling women's quota in legislatures and seat delimitation. Indian women and politicians debate empowerment step amid protests. Passage could reshape representation ahead of elections.",
+      "link": "https://www.thehindu.com/news/national/parliament-budget-special-session-live-april-16-women-reservation/article70867519.ece",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "BBC Verify Finds Israel Demolished 1400 Buildings in South Lebanon Since March",
+      "source": "BBC",
+      "summary": "Satellite images reveal over 1400 structures leveled in southern Lebanon towns since March 2 by Israeli actions. Lebanese civilians lose homes in border area. Analysis underscores escalation risks in regional conflict.",
+      "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 455,
+    "articlesAfterDedup": 455,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 4,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "africa": 2,
+      "middle-east": 3,
+      "americas": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    }
+  }
+}

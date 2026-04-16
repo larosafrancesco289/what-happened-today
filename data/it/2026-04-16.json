@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-16",
+  "summary": "La Russia ha colpito Kiev, Odessa e Dnipro con attacchi che hanno causato 12 morti, inclusi un bambino, e decine di feriti in zone residenziali. L'Ucraina ha risposto con raid su tre raffinerie russe. Questo fa seguito a oltre due anni di conflitto senza tregua. Si attendono ulteriori attacchi da entrambe le parti.\n\nDonald Trump ha dichiarato che il conflitto con l'Iran è prossimo alla fine e ha annunciato una nuova fase negoziale con Teheran. La Casa Bianca valuta la proroga della tregua. Hezbollah ha accettato un cessate il fuoco, mentre media iraniani segnalano l'apertura del corridoio di Hormuz lato omanita per la navigazione. Israele ha ordinato nuovi raid a sud del Libano, colpendo aree di Hezbollah nonostante le trattative per una tregua settimanale promossa dagli Usa. Questi sviluppi seguono tensioni regionali iniziate a ottobre 2023.\n\nLa portaerei Usa Uss Gerald Ford ha raggiunto 296 giorni in mare da Norfolk il 24 giugno 2025, operando in Norvegia, Mediterraneo, Caraibi contro narcotraffico e Venezuela, eguagliando il record del 2021. Trump ha criticato per la seconda volta la premier italiana Giorgia Meloni sulla posizione dell'Italia riguardo alla guerra con l'Iran; Meloni ha replicato che l'Occidente non si divide. Il Senato Usa ha bocciato con 5 voti una risoluzione democratica per limitare i poteri presidenziali di Trump sull'Iran. Reza Pahlavi, figlio dell'ex scià, ha annunciato contatti interni in Iran e prontezza per un assalto al regime. Un incendio ha distrutto la raffineria Viva Energy a Geelong, che fornisce il 10% del carburante australiano, con autorità che valutano impatti sulle forniture. Il presidente Sergio Mattarella ha confermato a Volodymyr Zelensky il sostegno pieno dell'Italia all'Ucraina durante un incontro al Quirinale.",
+  "headlines": [
+    {
+      "title": "Russia uccide 12 persone inclusi bambino con attacchi su Kiev Odessa e Dnipro",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Russia ha colpito Kiev, Odessa e Dnipro causando 12 morti tra cui un bambino e decine di feriti in zone residenziali. Ucraina risponde con raid su raffinerie russe. Gli attacchi prolungano il conflitto senza tregua, aumentando tensioni e rischi per civili.",
+      "link": "http://it.euronews.com/video/2026/04/16/ucraina-attacchi-russi-su-kiev-odessa-e-dnipro-12-morti",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Riporta 12 morti tra cui bambino e attacchi su tre città principali",
+          "link": "http://it.euronews.com/video/2026/04/16/ucraina-attacchi-russi-su-kiev-odessa-e-dnipro-12-morti"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Descrive bombardamenti notturni su residenziali e controbombe ucraine su petroliferi",
+          "link": "http://it.euronews.com/my-europe/2026/04/16/la-russia-bombarda-kiev-dnipro-e-odessa-nella-notte-lucraina-risponde-con-raid-su-raffiner"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Portaerei Usa Gerald Ford eguaglia record missione 296 giorni dal Vietnam",
+      "source": "AGI",
+      "summary": "USS Gerald Ford raggiunge 296 giorni in mare da Norfolk il 24 giugno 2025, operando in Norvegia, Mediterraneo e Caraibi contro narcotraffico e Venezuela. Record eguaglia Truman del 2021, segnala impegno Usa prolungato in teatri multipli.",
+      "link": "https://www.agi.it/estero/news/2026-04-16/portaerei-ford-iran-vietnam-36608086/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump dichiara guerra con Iran quasi conclusa e annuncia negoziati",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Donald Trump definisce il conflitto con Iran prossimo alla fine e apre a nuova fase negoziale con Teheran. Casa Bianca valuta proroga tregua. Sviluppo riduce rischi escalation regionale e stabilizza mercati energetici globali.",
+      "link": "https://www.agi.it/estero/news/2026-04-15/diretta-guerra-iran-15-aprile-36594289/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Anticipa dichiarazioni Trump su fine guerra e estratti intervista Fox News",
+          "link": "https://www.agi.it/estero/news/2026-04-15/diretta-guerra-iran-15-aprile-36594289/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive contatti per estendere tregua e corridoio navale Hormuz via Oman",
+          "link": "https://www.repubblica.it/esteri/2026/04/15/news/negoziato_stati_uniti_iran_guerra_stretto_hormuz-425286679/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump critica Meloni per seconda volta su posizione Italia guerra Iran",
+      "source": "ANSA",
+      "summary": "Presidente Usa attacca premier italiana definendola negativa sulla guerra in Iran. Meloni replica che Occidente non si divide. Tensioni tra alleati complicano coordinamento atlantico su Medio Oriente.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/15/nuovo-attacco-di-trump.-meloni-non-si-puo-dividere-loccidente_0462a777-8816-42ff-8bc8-d59b1062e46a.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Senato Usa boccia con 5 voti risoluzione limitazione poteri Trump su Iran",
+      "source": "Rai News",
+      "summary": "Democratici falliscono limitare poteri guerra presidenziali: risoluzione respinta per 5 voti. Trump mantiene flessibilità su Iran. Decisione rafforza autonomia esecutivo in operazioni militari estere.",
+      "link": "https://www.rainews.it/video/2026/04/-il-voto-del-senato-usa-sui-poteri-a-trump-per-la-guerra-in-iran-905c2b7e-907e-4391-b803-2018d98a6869.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Hezbollah accetta cessate il fuoco mentre Iran apre corridoio Hormuz Oman",
+      "source": "TGCOM24",
+      "summary": "Hezbollah dà sì a tregua, media iraniani segnalano via libera navigazione lato omanita Hormuz. Casa Bianca nega richiesta proroga con Teheran. Passi riducono blocchi marittimi e tensioni commercio petrolio.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-15-aprile_111046454-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israele annuncia nuovi raid a sud Libano nonostante trattative tregua",
+      "source": "la Repubblica",
+      "summary": "Netanyahu ordina attacchi nel sud Libano mentre Usa promuovono cessate il fuoco settimanale. Bombe colpiscono area Hezbollah. Azioni ostacolano negoziati e rischiano allargamento conflitto regionale.",
+      "link": "https://www.repubblica.it/esteri/2026/04/15/news/libano_trattativa_raid_israele_netanyahu-425286795/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Reza Pahlavi annuncia contatti Iran e prontezza ritorno per assalto regime",
+      "source": "la Repubblica",
+      "summary": "Figlio ex scià, leader opposizione, rivela contatti interni e chiede sostegno transizione contro ayatollah. Pronti per fase finale liberazione. Dichiarazioni alimentano speranze cambio regime da esuli.",
+      "link": "https://www.repubblica.it/esteri/2026/04/15/news/intervista_reza_pahlavi_iran_ritorno_assalto_finale_regime-425286566/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Incendio raffineria Viva Energy Geelong minaccia 10% carburante Australia",
+      "source": "Euronews Italiano",
+      "summary": "Fuoco distrugge impianto che fornisce decimo rifornimenti australiani, alza prezzi globali per guerra Iran. Autorità valutano impatti forniture. Evento aggrava crisi energetica legata conflitti.",
+      "link": "http://it.euronews.com/video/2026/04/16/australia-incendio-in-raffineria-fa-temere-per-le-forniture-di-carburante-nella-guerra-con",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Mattarella conferma a Zelensky sostegno pieno Italia all'Ucraina",
+      "source": "AGI",
+      "summary": "Presidente Repubblica riafferma appoggio italiano a resistenza ucraina in incontro Quirinale. Meloni ha ribadito impegno. Italia mantiene ruolo chiave aiuti europei contro aggressione russa.",
+      "link": "https://www.agi.it/vista-tv/video/2026-04-15/mattarella-a-zelensky-l-italia-sara-sempre-al-fianco-dell-ucraina-36612267/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 254,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 1,
+      "politics": 5,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "americas": 3,
+      "middle-east": 3,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7
+    }
+  }
+}

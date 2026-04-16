@@ -1,0 +1,143 @@
+{
+  "date": "2026-04-16",
+  "summary": "Des drones russes ont frappé plusieurs régions ukrainiennes dans la nuit du 24 au 25 octobre, causant 14 morts dont un enfant et 69 blessés. Une attaque de drone ukrainienne a tué deux enfants âgés de 5 et 14 ans à Krasnodar, dans le sud de la Russie. Ces échanges font suite à des frappes quotidiennes réciproques depuis février 2022. Les autorités des deux pays enquêtent sur les incidents, avec des bilans attendus dans les prochains jours.\n\nL'armée américaine a imposé un blocus limitant les échanges commerciaux iraniens via le détroit d’Ormuz. L’Iran a répondu en menaçant de perturber le trafic maritime, y compris les navires américains. Ce détroit transporte 20 % du pétrole mondial. Les États-Unis maintiennent que le blocus cible les activités nucléaires iraniennes, tandis que Téhéran le qualifie d’agression illégale. Une escalade est possible si les patrouilles navales s’intensifient.\n\nEn parallèle, le Premier ministre israélien Benjamin Netanyahu a ordonné à l’armée d’étendre la zone de sécurité au Liban sud pour des motifs sécuritaires. Cette mesure fait suite à des échanges de tirs transfrontaliers avec le Hezbollah depuis octobre 2023. Au Québec, Christine Fréchette, députée de Sanguinet, a prêté serment comme 33e première ministre, succédant à François Legault à la tête de la CAQ et du gouvernement provincial. Deux incendies ont ravagé 600 hectares de forêt dans le nord-ouest de Cuba, à La Lanza et une autre zone montagneuse ; les autorités poursuivent la lutte. Le Royaume-Uni réintégrera partiellement le programme Erasmus en 2027, après sa sortie en 2020 liée au Brexit, pour restaurer les échanges universitaires avec l’UE.",
+  "headlines": [
+    {
+      "title": "Frappes russes avec drones tuent 14 personnes en Ukraine dont un enfant",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "RTBF",
+        "20 Minutes"
+      ],
+      "summary": "Des drones russes ont frappé plusieurs régions ukrainiennes dans la nuit, causant 14 morts dont un enfant et 69 blessés. Côté russe, une attaque de drone ukrainienne a tué deux enfants de 5 et 14 ans à Krasnodar. Ces échanges intensifient le conflit quotidien, menaçant les civils des deux côtés.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2246626/morts-frappes-russes-ukraine",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Mentionne 14 morts ukrainiens par frappes russes et deux enfants russes tués par drone ukrainien",
+          "link": "https://ici.radio-canada.ca/nouvelle/2246626/morts-frappes-russes-ukraine"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Détaille attaques de drones russes à travers l'Ukraine avec 14 décès et deux enfants russes tués",
+          "link": "https://www.rtbf.be/article/guerre-en-ukraine-attaque-de-drones-russes-a-travers-le-pays-au-moins-14-deces-a-deplorer-11710509"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Suit en direct les frappes russes nocturnes causant 14 morts dont un enfant en Ukraine",
+          "link": "https://www.20minutes.fr/monde/ukraine/4218635-20260416-direct-guerre-ukraine-frappes-russes-nuit-font-trois-morts-ukraine-dont-enfant?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Christine Fréchette prête serment comme 33e première ministre du Québec",
+      "source": "Radio-Canada",
+      "summary": "Élue cheffe de la CAQ, la députée de Sanguinet succède à François Legault et assume la direction du gouvernement québécois. Cette transition politique marque un nouveau chapitre pour la province, avec des priorités à définir en santé et économie.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2246530/christine-frechette-assermentation-premiere-ministre",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Benjamin Netanyahu ordonne à l'armée israélienne d'étendre la zone de sécurité au Liban",
+      "source": "RTBF",
+      "summary": "Le Premier ministre israélien demande l'extension de la zone de sécurité au Liban pour des raisons sécuritaires. Cette décision risque d'élargir les opérations militaires transfrontalières, impactant les relations régionales tendues.",
+      "link": "https://www.rtbf.be/article/guerre-au-moyen-orient-le-premier-ministre-israelien-ordonne-d-etendre-la-zone-de-securite-au-liban-11710520",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Iran menace de perturber le trafic maritime dans le détroit d’Ormuz après blocus américain",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "L’armée américaine a interrompu les échanges commerciaux iraniens via le détroit d’Ormuz. L’Iran riposte en menaçant les navires américains. Ces tensions géopolitiques pourraient perturber le commerce pétrolier mondial vital pour l’économie.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2246434/iran-riposte-blocus-etats-unis-ormuz",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Rapporte le blocus américain total sur les échanges iraniens et la menace iranienne au trafic maritime",
+          "link": "https://ici.radio-canada.ca/nouvelle/2246434/iran-riposte-blocus-etats-unis-ormuz"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Met en avant la menace iranienne de couler les navires américains suite au blocus de Trump",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4218632-20260416-guerre-moyen-orient-iran-menace-couler-navires-americains-detroit-ormuz?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Deux incendies dévastent 600 hectares de forêt dans le nord-ouest de Cuba",
+      "source": "RTBF",
+      "summary": "Les feux se sont déclarés dans la zone montagneuse de La Lanza et une autre région, grignotant 600 hectares. Les autorités combattent les incendies, soulignant les risques pour la biodiversité et les efforts de lutte contre le changement climatique.",
+      "link": "https://www.rtbf.be/article/cuba-600-hectares-de-foret-grignotes-par-deux-incendies-11710529",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Royaume-Uni réintègre le programme Erasmus en 2027 après sortie liée au Brexit",
+      "source": "20 Minutes",
+      "summary": "Le Royaume-Uni, parti du programme d’échanges universitaires européens en 2020, y reviendra partiellement en 2027. Cette décision restaure la mobilité étudiante, favorisant les liens éducatifs post-Brexit avec l’UE.",
+      "link": "https://www.20minutes.fr/monde/royaume-uni/4218633-20260416-fin-partielle-brexit-education-royaume-uni-revient-programme-erasmus?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 3,
+    "articlesProcessed": 212,
+    "articlesAfterDedup": 212,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 9,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "americas": 2,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    }
+  }
+}

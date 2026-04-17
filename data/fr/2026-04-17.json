@@ -1,0 +1,230 @@
+{
+  "date": "2026-04-17",
+  "summary": "Emmanuel Macron organise une réunion à Paris avec une trentaine de pays, dont le Royaume-Uni, pour coordonner les efforts de rétablissement de la navigation dans le détroit d’Ormuz. Ce détroit a été fermé suite au conflit entre les États-Unis et l’Iran, qui avait menacé hier de perturber le trafic maritime après un blocus américain. La réunion vise la liberté de navigation, affectant le commerce mondial d’énergie. Les participants prévoient des actions conjointes, en attente de résultats concrets.\n\nAu Liban, un cessez-le-feu de dix jours entre Israël et le Hezbollah est entré en vigueur à minuit. L’armée libanaise accuse Israël de bombardements malgré cela, tandis que le Hezbollah cible des soldats israéliens en riposte. Les négociations s’ouvrent sans accord sur le retrait israélien ni le désarmement du Hezbollah, laissant un million de déplacés affectés. Cela fait suite à l’ordre de Benjamin Netanyahu d’étendre la zone de sécurité israélienne. Séparément, la Chine fournit un soutien discret à l’industrie militaire iranienne depuis le conflit au Moyen-Orient, renforçant ses capacités face aux tensions régionales.\n\nEn Birmanie, Min Aung Hlaing, nouveau président, annule toutes les condamnations à mort et libère plus de 4 000 prisonniers, dont l’ancien président Win Myint. Aung San Suu Kyi reste détenue avec une peine réduite. En France, Altice accepte une offre de 20,35 milliards d’euros du consortium Bouygues, Free et Orange pour SFR ; des négociations exclusives durent jusqu’au 15 mai, en attente d’autorisations réglementaires. Au Québec, les ingénieurs obtiennent un mandat de grève fort alors que leur convention collective est échue depuis le 31 mars 2023, renforçant leur position dans les discussions avec le gouvernement de Christine Fréchette. Au Gabon, l’opposant Alain-Claude Bilie-By-Nze est placé en détention provisoire pour escroquerie et abus de confiance.",
+  "headlines": [
+    {
+      "title": "Macron réunit trente pays à Paris pour sécuriser le détroit d’Ormuz",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "Emmanuel Macron organise une réunion internationale à Paris avec une trentaine de pays, dont le Royaume-Uni, pour rétablir la navigation dans le détroit d’Ormuz fermé depuis le conflit États-Unis-Iran. Cela vise à coordonner les efforts pour la liberté maritime, impactant le commerce mondial d’énergie.",
+      "link": "https://www.lefigaro.fr/international/securisation-du-detroit-d-ormuz-emmanuel-macron-reunit-a-paris-les-bonnes-volontes-internationales-20260416",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Réunion multilatérale lancée aujourd’hui avec participation de Keir Starmer pour planifier la réouverture du détroit.",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Ouvre sur l’initiative de Macron et la participation de trente pays pour la liberté de navigation",
+          "link": "https://www.lefigaro.fr/international/securisation-du-detroit-d-ormuz-emmanuel-macron-reunit-a-paris-les-bonnes-volontes-internationales-20260416"
+        },
+        {
+          "source": "France 24",
+          "angle": "Met l’accent sur la rencontre Macron-Starmer en mission pour sécuriser Ormuz une fois conditions remplies",
+          "link": "https://www.france24.com/fr/europe/20260417-macron-re%C3%A7oit-starmer-%C3%A0-paris-pour-une-conf%C3%A9rence-sur-la-s%C3%A9curisation-du-d%C3%A9troit-d-ormuz"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Liban accuse Israël de plusieurs actes d’agression malgré cessez-le-feu entré en vigueur",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "Libération",
+        "France 24",
+        "20 Minutes",
+        "France Info"
+      ],
+      "summary": "Le cessez-le-feu de dix jours entre Israël et le Hezbollah prend effet à minuit, mais l’armée libanaise dénonce des bombardements israéliens et le Hezbollah cible des soldats en riposte. Négociations s’ouvrent sans résoudre retrait israélien ni désarmement, affectant un million de déplacés.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/17/au-liban-le-cessez-le-feu-a-peine-entre-en-vigueur-deja-fragilise-par-israel-et-le-hezbollah_6680817_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Violations immédiates signalées avec frappes réciproques et accusations mutuelles dès l’entrée en vigueur de la trêve.",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille violations par Israël et Hezbollah avec ouverture inédite de négociations",
+          "link": "https://www.lemonde.fr/international/article/2026/04/17/au-liban-le-cessez-le-feu-a-peine-entre-en-vigueur-deja-fragilise-par-israel-et-le-hezbollah_6680817_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Cite Macron exprimant préoccupation sur fragilisation par opérations militaires continues",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-liban-cessez-le-feu-negociations-hezbollah-20260417"
+        },
+        {
+          "source": "Libération",
+          "angle": "Rapporte accusations Beyrouth et bombardement Hezbollah sur soldats israéliens",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-liban-accuse-israel-de-violer-le-cessez-le-feu-tout-juste-entre-en-vigueur-20260417_A6JSI7LTMVCCZL2FTG6H3MMABQ/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Altice France accepte offre de 20,35 milliards d’euros de Bouygues, Free et Orange pour SFR",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Libération",
+        "Le Monde"
+      ],
+      "summary": "Patrick Drahi valide la surenchère du consortium Orange, Bouygues Telecom et Free à 20,35 milliards d’euros pour racheter SFR. Négociations exclusives jusqu’au 15 mai, en attente d’autorisations réglementaires, restructurant le marché télécom français.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/rachat-de-sfr-orange-bouygues-telecom-et-free-decrochent-l-accord-de-patrick-drahi-20260417",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Annonce acceptation de la surenchère et ouverture période autorisations réglementaires",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/rachat-de-sfr-orange-bouygues-telecom-et-free-decrochent-l-accord-de-patrick-drahi-20260417"
+        },
+        {
+          "source": "Libération",
+          "angle": "Précise nouvelle offre de 20 milliards acceptée par Altice entrant en exclusivité",
+          "link": "https://www.liberation.fr/economie/vente-de-sfr-altice-france-entre-en-negociations-exclusives-avec-bouygues-free-et-orange-20260417_OT3PAQTQX5CSTMJYLR4XT6PWRE/"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Détaille accord à 20,35 milliards avec exclusivité jusqu’au 15 mai pour les trois opérateurs",
+          "link": "https://www.lemonde.fr/economie/article/2026/04/17/vente-de-sfr-altice-france-en-negociations-exclusives-avec-bouygues-telecom-iliad-et-orange_6680829_3234.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Birmanie annule toutes condamnations à mort et gracie ancien président Win Myint",
+      "source": "France 24",
+      "summary": "Min Aung Hlaing, nouveau président birman, annule toutes les peines capitales et libère plus de 4 000 prisonniers dont Win Myint. Aung San Suu Kyi reste détenue avec peine réduite. Cela marque un geste post-investiture impactant la politique carcérale.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260417-la-birmanie-annule-toutes-les-condamnations-%C3%A0-mort-et-gracie-l-ancien-pr%C3%A9sident-birman-min-aung-hlaing-aung-san-suu-kyi-amnistie-grace-prison",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Dany Laferrière et plus de cent écrivains quittent maison d’édition Grasset",
+      "source": "Radio-Canada",
+      "summary": "Dany Laferrière et plus de 100 auteurs rompent avec Grasset pour protester contre l’influence du propriétaire Vincent Bolloré. Cela affecte la maison d’édition et reflète tensions dans le monde littéraire face aux orientations éditoriales.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2246650/dany-laferriere-ecrivains-edition-grasset",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cour d’appel de Paris rend décision sur agressions sexuelles de Ruggia contre Haenel",
+      "source": "Libération",
+      "summary": "Christophe Ruggia attend le verdict en appel pour agressions sur Adèle Haenel, âgée de 12-14 ans début 2000. Condamné initialement à 4 ans dont 2 ferme, cette décision clarifie les poursuites judiciaires dans le cinéma français.",
+      "link": "https://www.liberation.fr/societe/police-justice/accusations-dagressions-sexuelles-sur-adele-haenel-christophe-ruggia-fixe-sur-son-sort-ce-vendredi-20260417_5NBGISIRBZBAVINPOZ7Q4P5B3I/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Libération"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Photographe français Antoine Verglas échange emails avec Jeffrey Epstein sur photos de femmes",
+      "source": "France Info",
+      "summary": "Des centaines d’emails entre Antoine Verglas et Epstein révèlent l’utilisation de photos de femmes comme outil de domination. Expatrié aux États-Unis, Verglas a réalisé des shootings pour le financier, éclairant son système de prédation.",
+      "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/enquete-franceinfo-voici-quelques-cliches-les-e-mails-entre-un-photographe-francais-et-jeffrey-epstein-levent-le-voile-sur-le-systeme-de-predation-du-criminel_7896065.html#xtor=RSS-3-[lestitres]",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ingénieurs du gouvernement québécois obtiennent mandat de grève fort",
+      "source": "Radio-Canada",
+      "summary": "Les ingénieurs du Québec se dotent d’un fort mandat de grève alors que leur convention collective est échue depuis le 31 mars 2023. Cela renforce leur position dans les négociations avec le gouvernement, impactant les services publics.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2246854/ingenieurs-gouvernement-quebec-mandat-greve",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Chine fournit discrètement soutien à l’industrie militaire iranienne",
+      "source": "Libération",
+      "summary": "Liens Pékin-Téhéran soutiennent l’industrie d’armement iranienne depuis le conflit au Moyen-Orient. La Chine agit subtilement comme maillon essentiel, renforçant les capacités militaires iraniennes face aux tensions régionales.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/en-iran-une-industrie-militaire-sous-discrete-perfusion-chinoise-20260417_64HTL4HP3NHVXM6RNVGST6O3CI/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Libération"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Opposant gabonais Alain-Claude Bilie-By-Nze placé sous mandat de dépôt",
+      "source": "France 24",
+      "summary": "Alain-Claude Bilie-By-Nze, candidat à la présidentielle, arrêté pour escroquerie et abus de confiance, est placé en détention provisoire. Cela survient dans un contexte politique tendu au Gabon, affectant l’opposition.",
+      "link": "https://www.france24.com/fr/afrique/20260417-gabon-opposant-alain-claude-bilie-by-nze-place-sous-mandat-de-depot-arrestation-escroquerie-abus-confiance",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 206,
+    "articlesAfterDedup": 205,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 1,
+      "politics": 4,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 4,
+      "asia-pacific": 1,
+      "americas": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 3,
+      "also": 5
+    }
+  }
+}

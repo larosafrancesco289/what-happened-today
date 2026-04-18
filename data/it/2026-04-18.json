@@ -1,0 +1,168 @@
+{
+  "date": "2026-04-18",
+  "summary": "L'Iran ha riaperto parzialmente lo Stretto di Hormuz e parte dello spazio aereo, collegato alla tregua in Libano, ma ha avvertito di una possibile chiusura se persiste il blocco USA sui porti iraniani. Il presidente Trump ha annunciato che un accordo è vicino. Le navi hanno ripreso il transito e i mercati hanno registrato un calo dei prezzi del petrolio. Questo fa seguito al vertice di Parigi di ieri, dove l'Italia ha garantito la navigazione nello Stretto. Si attendono negoziati tra Washington e Teheran per stabilizzare la situazione.\n\nGli Stati Uniti hanno sospeso le sanzioni sul carico e scarico di petrolio russo fino al 16 maggio, in contesto di calo prezzi dovuto alla ripresa del traffico a Hormuz; alcune transazioni rimangono vietate. Da Air Force One, Trump ha minacciato il ritorno dei bombardamenti sull'Iran se non si perfeziona l'accordo di pace entro mercoledì, scadenza del cessate il fuoco siglato due settimane fa. Trump ha criticato via social gli alleati NATO e ha annunciato lo stop al sostegno all'Italia, con riduzione dei fondi alla Chiesa, in contesto di tensioni sull'Iran. L'Italia ha approvato la partecipazione alla missione neutra per la libertà di navigazione a Hormuz, annunciata a Parigi, valida anche senza mandato ONU ma con approvazione del Parlamento.\n\nNei negoziati Iran-USA emergono nodi sull'uranio arricchito e le sanzioni: Teheran cerca un memorandum per 30-40 giorni di colloqui e stabilizzazione della tregua. In Italia, i procuratori hanno accusato il governatore ligure Giovanni Toti di manipolazione dati COVID, rivelando intercettazioni con il capo gabinetto Cozzani in cui ammetteva di aver aumentato i numeri dei contagi; l'indagine chiarisce responsabilità gestionali durante la pandemia. La Lega ha organizzato una manifestazione in piazza a Milano contro le regole UE su economia, famiglie, caro energia e patto di stabilità.",
+  "headlines": [
+    {
+      "title": "Iran riapre parzialmente Stretto di Hormuz e spazio aereo ma minaccia chiusura",
+      "source": "ANSA",
+      "sources": [
+        "TGCOM24",
+        "ANSA",
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Iran riapre lo Stretto di Hormuz e parte dello spazio aereo in legame con tregua Libano, ma avverte di richiuderlo se persiste blocco USA sui porti iraniani. Trump annuncia accordo vicino. Navi riprendono transito, mercati registrano calo prezzi petrolio.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/18/liran-riapre-i-porti-ma-restano-i-nodi.-usa-stop-raid-in-libano-netanyahu_168903c8-a535-4ca8-aa8c-8b84330baa21.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Iran riapre parzialmente Stretto legato a tregua Libano con permessi Pasdaran necessari; venti navi transitano; Trump conferma vicinanza a intesa completa",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Evidenzia minaccia iraniana di chiusura Stretto e risposta Trump su blocco porti",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-18-aprile_111122909-202602k.shtml"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta riapertura Hormuz e minacce reciproche tra Iran e USA su blocchi navali",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/18/liran-riapre-i-porti-ma-restano-i-nodi.-usa-stop-raid-in-libano-netanyahu_168903c8-a535-4ca8-aa8c-8b84330baa21.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Sottolinea riapertura Hormuz da Iran e ottimismo Trump su accordo pace",
+          "link": "https://www.agi.it/estero/news/2026-04-18/hormuz-iran-usa-18-aprile-notizie-36634942/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Collega tregua Libano a transito Hormuz con permessi Pasdaran richiesti",
+          "link": "https://www.repubblica.it/esteri/2026/04/18/news/tregua_libano_apre_stretto_hormuz_resta_blocco_usa-425289676/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump avverte ritorno bombardamenti Iran se manca accordo entro mercoledì",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "Da Air Force One, Trump minaccia ripresa raid su Iran se non si perfeziona accordo pace entro mercoledì, scadenza cessate il fuoco siglato due settimane fa. Coinvolge Washington e Teheran in negoziati tesi.",
+      "link": "https://www.rainews.it/video/2026/04/trump-se-entro-mercoledi-non-si-perfeziona-accordo-potrei-tornare-bombardare-video-e416c8fa-71df-4b00-9085-fce32acb9c4c.html",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Stati Uniti sospendono sanzioni petrolio russo fino 16 maggio",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Dipartimento Tesoro USA sospende sanzioni su operazioni carico scarico petrolio russo fino 16 maggio, in contesto calo prezzi per ripresa traffico Hormuz. Rimangono vietate alcune transazioni. Influenza mercati energetici globali.",
+      "link": "https://www.agi.it/estero/news/2026-04-18/petrolio-russia-usa-sospendono-sanzioni-36635618/",
+      "tier": "top",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump critica alleati NATO annuncia stop sostegno Italia",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Trump via social attacca alleati NATO, dichiara di non sostenere più Italia e riduce fondi alla Chiesa. Colpisce relazioni transatlantiche e Vaticano in contesto tensioni Iran.",
+      "link": "https://www.repubblica.it/esteri/2026/04/18/news/trump_attacca_alleati_nato_non_sosterremo_italia-425289673/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Governo italiano approva missione Hormuz anche senza mandato ONU",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Italia conferma partecipazione missione neutra per libertà navigazione Stretto Hormuz annunciata Parigi, valida anche senza ONU ma richiede approvazione Parlamento. Garantisce sicurezza rotte energetiche.",
+      "link": "https://www.ilsole24ore.com/art/hormuz-si-roma-missione-anche-senza-l-onu-ma-servira-l-ok-parlamento-AIDhoEYC",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Procuratori accusano governatore Liguria Toti manipolazione dati COVID",
+      "source": "Corriere della Sera",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "summary": "Pm rivelano intercettazioni dove governatore Giovanni Toti ammette a capo gabinetto Cozzani di aver aumentato dati contagi COVID. Indagine su Liguria durante pandemia, chiarisce responsabilità gestionali.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Lega organizza manifestazione piazza Milano contro regole Unione Europea",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Lega scende in piazza Milano per criticare UE su economia famiglie, caro energia e patto stabilità. Punta a rilancio politico contestando vincoli fiscali europei.",
+      "link": "https://www.ilsole24ore.com/art/la-lega-torna-piazza-milano-contro-l-ue-tentare-rilancio-AIrLpZYC",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran e USA affrontano nodi uranio arricchito e sanzioni nei negoziati",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Teheran cerca memorandum per stabilizzare tregua e guadagnare 30-40 giorni colloqui su uranio arricchito e sanzioni. Definisce agenda Iran-USA per fine conflitto.",
+      "link": "https://www.repubblica.it/esteri/2026/04/18/news/uranio_arricchito_sanzioni_internazionali_nodi_tavolo_iran_usa-425289726/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 258,
+    "articlesAfterDedup": 258,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 11,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 1,
+      "economy": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 5,
+      "global": 1
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

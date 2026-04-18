@@ -1,0 +1,230 @@
+{
+  "date": "2026-04-18",
+  "summary": "Iran warned it will block the Strait of Hormuz if the United States does not lift its blockade of Iranian ports. The statement escalates tensions amid stalled diplomatic talks. The strait handles 20 percent of global oil shipments daily. This follows a Hong Kong-flagged tanker, AVA 6, passing the strait yesterday to test the US blockade.\n\nIn Gaza, Israel opened a bisecting military zone, allowing displaced Palestinians to return to northern areas after a hostage release. Thousands crossed, affecting families and easing humanitarian pressures in the enclave. In Lebanon, thousands returned home as the 10-day Israel-Lebanon truce held through its first full day. Hezbollah stated cautious commitment to the agreement. These steps follow yesterday's implementation of the border cease-fire. In eastern Congo, Rwanda-backed rebels overran troops and entered Goma amid gunfire and shelling. The UN reports over one million residents displaced within the city, straining humanitarian aid and affecting civilians.\n\nDonors at a Berlin conference pledged more than 1 billion pounds for Sudan aid, exceeding targets where 34 million people require assistance during the three-year war. NASA and SpaceX launched Crew-10 at 7:03 p.m. Friday from Kennedy Space Center on a Falcon 9 rocket with four astronauts to retrieve Butch Wilmore and Suni Williams after nine months on the ISS. NATO initiated its first coordinated response to a severed Baltic Sea cable, suspected as sabotage targeting infrastructure.",
+  "headlines": [
+    {
+      "title": "Iran Threatens to Close Strait of Hormuz Unless United States Lifts Port Blockade",
+      "source": "France24",
+      "sources": [
+        "France24",
+        "Deutsche Welle",
+        "The Hindu",
+        "New York Times"
+      ],
+      "summary": "Iran warns it will block the Strait of Hormuz again if the US continues its blockade of Iranian ports, escalating tensions amid stalled talks. Global shipping faces risks; energy prices could spike further, affecting economies worldwide.",
+      "link": "https://www.france24.com/en/middle-east/20260418-iran-threatens-to-close-strait-of-hormuz-again-if-us-blockade-continues",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France24",
+          "angle": "Tehran threatens cutoff access if US maintains blockade amid doubts over Lebanon ceasefire progress",
+          "link": "https://www.france24.com/en/middle-east/20260418-iran-threatens-to-close-strait-of-hormuz-again-if-us-blockade-continues"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Iran vows waterway closure unless US lifts blockade after temporarily opening strait",
+          "link": "https://www.dw.com/en/iran-vows-to-close-strait-of-hormuz-if-us-blockade-continues/live-76839599?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Trump affirms US blockade persists without deal and rejects Iranian tolls on Hormuz ships",
+          "link": "https://www.thehindu.com/news/international/trump-says-us-blockade-of-iranian-ports-will-remain-if-no-deal-reached/article70876492.ece"
+        },
+        {
+          "source": "New York Times",
+          "angle": "Profiles Iran's IRGC mosquito fleet with speeds over 115 mph as disruptive Hormuz threat",
+          "link": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donors Pledge More Than 1 Billion Pounds for Sudan Humanitarian Aid",
+      "source": "The Guardian",
+      "summary": "Donors at Berlin conference exceed target with over £1 billion for Sudan, where 34 million people need aid amid three-year war. Funds address shortfalls; ceasefire prospects remain distant, prolonging world's largest crisis.",
+      "link": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Migrant Deaths in ICE Custody Reach Record 29 Since October",
+      "source": "NPR",
+      "summary": "Twenty-nine migrants died in US ICE custody since October fiscal year start, surpassing 2004 record of 28. Detainees and families affected; highlights custody conditions under Trump, prompting oversight calls.",
+      "link": "https://www.npr.org/2026/04/17/nx-s1-5789092/deaths-of-migrants-in-ice-custody-hit-record-high-under-trump",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Palestinians Stream Back into Northern Gaza After Israel Opens Military Zone",
+      "source": "Wall Street Journal",
+      "summary": "Israel allows displaced Gazans to cross bisecting military zone following hostage release breakthrough. Thousands affected return home; eases humanitarian strain in enclave, signals potential de-escalation step.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Displaced residents begin crossing on foot after deadlock broken over hostages",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma Displacing Over One Million Residents",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overrun troops and enter Congo safe-haven city amid gunfire and shelling; UN estimates over one million displaced inside Goma. Civilians suffer; humanitarian aid strained, risks wider regional conflict.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Gunfire and shelling reported after troops overrun; one million now inside city seeking refuge",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Thousands of Lebanese Return Home After Israel Cease-Fire Holds First Day",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "BBC"
+      ],
+      "summary": "Lebanese head home as 10-day truce holds; Hezbollah offers cautious commitment. Displaced families affected reunite; truce may aid US-Iran talks by removing northern front obstacle.",
+      "link": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Truce holds first day with Hezbollah affirmation; thousands attempt return home",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Thousands head home as Hezbollah cautiously commits to 10-day ceasefire",
+          "link": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah"
+        },
+        {
+          "source": "BBC",
+          "angle": "Ceasefire celebrated in Lebanon after weeks of fighting but peace obstacles persist",
+          "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NASA and SpaceX Launch Crew-10 from Florida to Retrieve Two Stuck Astronauts",
+      "source": "Voice of America",
+      "summary": "Crew-10 launches at 7:03 p.m. Friday on Falcon 9 from Kennedy Space Center carrying four astronauts. Butch Wilmore and Suni Williams return after nine months; routine rotation restores ISS crew.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response After Baltic Sea Cable Severed",
+      "source": "Wall Street Journal",
+      "summary": "NATO deploys coordinated action against suspected sabotage campaign targeting deep-sea cables. Critical infrastructure operators affected; bolsters alliance deterrence in hybrid threats from Russia.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Japan Agrees to Sell Australia Three Mogami-Class Frigates in Largest Defense Deal",
+      "source": "Japan Times",
+      "summary": "Tokyo seals record defense contract supplying first three of 11 frigates to Australia. Boosts Japan's industry and bilateral security ties; enhances Indo-Pacific naval capabilities against China.",
+      "link": "https://www.japantimes.co.jp/news/2026/04/18/japan/mogami-japan-australia-announcement/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "US Judge Blocks Nexstar Takeover of Tegna Pending Antitrust Trial",
+      "source": "NPR",
+      "summary": "Judge Trevor Nunley halts merger citing irreparable consumer harm from integration. Media markets and viewers affected; antitrust review proceeds, preserving competition in local TV.",
+      "link": "https://www.npr.org/2026/04/17/nx-s1-5789059/judge-halts-nexstar-tegna-merger-lawsuits",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "US Delegation Meets Cuban Officials in Havana for Diplomatic Renewal",
+      "source": "Associated Press",
+      "summary": "American officials hold talks with Cuban government amid Trump intervention threats and Cuban defense preparations. Both nations pursue thaw; could ease tensions despite rhetoric.",
+      "link": "https://apnews.com/article/cuba-trump-castro-diplomacy-af47a0625038a9f34d843b088300bab8",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 441,
+    "articlesAfterDedup": 441,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "society": 2,
+      "science": 1,
+      "politics": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "africa": 2,
+      "americas": 4,
+      "europe": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 3,
+      "also": 5
+    }
+  }
+}

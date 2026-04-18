@@ -1,0 +1,204 @@
+{
+  "date": "2026-04-18",
+  "summary": "L'Iran a annoncé samedi menacer de fermer à nouveau le détroit d’Ormuz, passage vital pour 20 % du pétrole mondial, si les États-Unis maintiennent le blocus de ses ports après leur réouverture vendredi. Téhéran répond ainsi aux mesures américaines. Donald Trump exige un accord de paix pour lever ces restrictions. Ceci fait suite à la réunion de vendredi à Paris initiée par Emmanuel Macron avec trente pays pour sécuriser le détroit, proposition rejetée par Trump qui refuse une mission européenne impliquant 49 États avec Keir Starmer. Les tensions entre l'Iran et les États-Unis persistent.\n\nEn parallèle, le groupe aéronaval américain USS George HW Bush, appareillé fin mars de Norfolk, contourne le cap de Bonne-Espérance pour éviter le canal de Suez et rejoindre la zone du Moyen-Orient, portant à trois le nombre de porte-avions américains sur place. Au sud-Liban, des milliers d'habitants regagnent leurs maisons dans le sud et la banlieue sud de Beyrouth le premier jour de la trêve temporaire avec Israël entrée en vigueur vendredi, malgré les destructions des bombardements. Les autorités libanaises appellent à la prudence. Séparément, Pedro Sánchez et Lula da Silva organisent samedi à Barcelone un sommet avec les chefs d'État du Brésil, Mexique, Colombie et Afrique du Sud face aux politiques de Trump, visant à renforcer les alliances sud-globales.\n\nLes autorités des Émirats arabes unis et d'Irlande ont annoncé l'arrestation à Dubaï de Daniel Kinahan, figure clé du crime organisé irlandais lié au narcotrafic international. Les États-Unis ont déporté quinze migrants vers Kinshasa en RDC dans le cadre d'un accord avec ce pays et d'autres nations africaines, pour un renvoi rapide vers leurs origines. En France, le gouvernement a autorisé par projet de loi, applicable dès 2026, les salariés des boulangeries artisanales et fleuristes indépendants à travailler le 1er mai sur base volontaire avec double paie.",
+  "headlines": [
+    {
+      "title": "Iran menace de refermer détroit d’Ormuz si États-Unis maintiennent blocus ports iraniens",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France 24",
+        "Libération",
+        "Radio-Canada"
+      ],
+      "summary": "Téhéran annonce samedi menace de fermer à nouveau le détroit d’Ormuz, vital pour 20% du pétrole mondial, si Washington persiste dans blocus ports iraniens après réouverture vendredi. Trump exige accord de paix pour lever mesures. Tensions risquent d’impacter prix énergie et stabilité Moyen-Orient.",
+      "link": "https://www.lefigaro.fr/international/en-direct-iran-detroit-d-ormuz-etats-unis-moyen-orient-20260418",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Met en avant menace Téhéran liée à déclaration Trump sur maintien blocus ports iraniens",
+          "link": "https://www.lefigaro.fr/international/en-direct-iran-detroit-d-ormuz-etats-unis-moyen-orient-20260418"
+        },
+        {
+          "source": "France 24",
+          "angle": "Rappelle réouverture complète vendredi avant menace si blocus américain persiste",
+          "link": "https://www.france24.com/fr/moyen-orient/20260418-moyen-orient-en-direct-l-iran-menace-de-refermer-le-d%C3%A9troit-d-ormuz-si-le-blocus-am%C3%A9ricain-se-poursuit-trump-ghalibaf-gardiens-r%C3%A9volution-israel-liban-etats-unis-petrole"
+        },
+        {
+          "source": "Libération",
+          "angle": "Souligner courte durée apaisement après annonce réouverture et déclarations Trump",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-menace-de-refermer-le-detroit-dormuz-si-le-blocus-americain-se-poursuit-20260418_PNDZEIMLHNHYZED6M725GDXC4E/"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Précise demande iranienne de levée blocus américain des ports pour maintenir ouverture",
+          "link": "https://ici.radio-canada.ca/nouvelle/2246882/liban-israel-violation-cessez-feu"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Habitant sud Liban reviennent chez eux après cessez-le-feu temporaire avec Israël",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "France Info",
+        "RFI"
+      ],
+      "summary": "Milliers de Libanais regagnent sud et banlieue sud Beyrouth premier jour trêve vendredi, malgré destructions bombardements et appels autorités à prudence. Familles constatent dégâts maisons. Retours illustrent urgence reconstruction et défis sécurité post-conflit.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2246943/liban-beyrouth-treve-temoignages-rania-massoud",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Dépeint scènes retrouvailles et désolation dans zones dévastées Beyrouth sud",
+          "link": "https://ici.radio-canada.ca/nouvelle/2246943/liban-beyrouth-treve-temoignages-rania-massoud"
+        },
+        {
+          "source": "France Info",
+          "angle": "Cite témoignages habitants déterminés revenir malgré frappes répétées",
+          "link": "https://www.franceinfo.fr/monde/proche-orient/liban/reportage-ils-peuvent-frapper-deux-trois-quatre-fois-on-reviendra-dans-le-sud-du-liban-des-habitants-reviennent-chez-eux-apres-avoir-fui-les-bombardements_7946273.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RFI",
+          "angle": "Évoque retour massif déplacés malgré dangers et paysages dévastés combats",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260418-c-est-triste-de-voir-ma-maison-dans-cet-%C3%A9tat-au-liban-le-retour-des-habitants-apr%C3%A8s-le-cessez-le-feu"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump rejette mission européenne sécurisation détroit d’Ormuz",
+      "source": "Le Figaro",
+      "summary": "Donald Trump refuse sèchement proposition Emmanuel Macron et Keir Starmer de mission avec 49 États pour sécuriser détroit d’Ormuz, réunie vendredi à Paris. Cela complique efforts multilatéraux face tensions Iran-États-Unis.",
+      "link": "https://www.lefigaro.fr/international/la-mission-des-europeens-pour-securiser-le-detroit-d-ormuz-sechement-rejetee-par-donald-trump-20260417",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Gouvernement français autorise salariés boulangeries fleuristes travailler 1er mai",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info",
+        "RFI"
+      ],
+      "summary": "Sébastien Lecornu annonce projet loi permettant salariés boulangeries artisanales et fleuristes indépendants travailler 1er mai avec volontariat et double paie, applicable dès 2026. Répond attentes secteurs forts chiffres d’affaires ce jour férié.",
+      "link": "https://www.lemonde.fr/politique/article/2026/04/18/ouvertures-de-commerces-le-1-mai-le-gouvernement-a-repris-la-main_6681115_823448.html",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Présente reprise main gouvernement via projet loi présenté 29 avril conseil ministres",
+          "link": "https://www.lemonde.fr/politique/article/2026/04/18/ouvertures-de-commerces-le-1-mai-le-gouvernement-a-repris-la-main_6681115_823448.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Retrace origine polémique avec cinq boulangers Vendée il y a deux ans",
+          "link": "https://www.franceinfo.fr/decouverte/1er-mai/on-n-aurait-jamais-cru-que-ca-puisse-prendre-cette-ampleur-l-histoire-des-cinq-boulangers-de-vendee-qui-ont-ouvert-le-debat-sur-le-travail-le-1er-mai_7934327.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RFI",
+          "angle": "Détaille fin séquence explosive sans amendes pour ces secteurs spécifiques",
+          "link": "https://www.rfi.fr/fr/france/20260418-france-les-salari%C3%A9s-des-boulangeries-et-les-fleuristes-ind%C3%A9pendants-pourront-finalement-travailler-le-1er-mai"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis déportent 15 migrants vers Kinshasa en RDC",
+      "source": "France 24",
+      "summary": "Quinze migrants expulsés États-Unis arrivent Kinshasa dans cadre accord déportation avec RDC et pays africains. Procédure vise renvoi rapide vers origines avant origine. Soulève débats sur gestion migrations transcontinentales.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260417-accord-de-d%C3%A9portation-de-migrants-entre-les-etats-unis-et-la-rdc-15-migrants-%C3%A0-kinshasa",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Daniel Kinahan chef cartel irlandais arrêté à Dubaï",
+      "source": "20 Minutes",
+      "summary": "Autorités Émirats arabes unis et Irlande annoncent arrestation Daniel Kinahan, figure clé crime organisé international lié narcotrafic. Opération marque coup contre réseaux transnationaux affectant sécurité Europe et Moyen-Orient.",
+      "link": "https://www.20minutes.fr/monde/irlande/4218993-20260418-sait-irlandais-daniel-kinahan-chef-puissant-cartel-arrete-dubai?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Pedro Sánchez et Lula organisent sommet progressiste anti-Trump à Barcelone",
+      "source": "Libération",
+      "summary": "Espagne accueille samedi sommet chefs État Brésil Mexique Colombie Afrique du Sud contre politiques Trump. Pedro Sánchez et Lula mènent bloc résistance militaire commerciale américaine, renforçant alliances sud-globales.",
+      "link": "https://www.liberation.fr/international/amerique/a-barcelone-un-front-anti-trump-en-construction-sous-la-houlette-de-pedro-sanchez-et-lula-20260418_HZWQZ7E6VRFY5MW2YRRRMUNEBI/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Libération"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Porte-avions américain USS George HW Bush contourne Afrique évitant canal Suez",
+      "source": "Le Figaro",
+      "summary": "Groupe aéronaval USS George HW Bush appareillé Norfolk fin mars passe cap Bonne-Espérance au lieu Gibraltar Suez. Bientôt trois porte-avions US zone Moyen-Orient renforcent présence militaire face tensions.",
+      "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-porte-avions-americain-uss-george-hw-bush-fait-le-tour-de-l-afrique-pour-eviter-le-canal-de-suez-20260417",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 204,
+    "articlesAfterDedup": 204,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "americas": 1,
+      "europe": 1,
+      "africa": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    }
+  }
+}

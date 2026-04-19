@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-19",
+  "summary": "Iran's Revolutionary Guards closed the Strait of Hormuz after two ships were struck while attempting passage amid a continuing US port blockade. The closure disrupts 20 percent of global oil transit and has caused oil prices to spike. Talks between the parties are progressing but no agreement has been reached. Militaries from affected nations have increased patrols in the area. This follows Iran's threat on the previous day to close the strait unless the United States lifts the blockade.\n\nIn Ukraine, a gunman killed six people and wounded 14 on streets in central Kyiv before taking hostages in a supermarket. Police stormed the building after failed negotiations and killed the gunman. This marks the deadliest shooting in the capital since Russia's invasion. Separately, North Korea launched several ballistic missiles from the Sinpo area into the eastern sea on Sunday, as detected by South Korea. No damage was reported. In southern Lebanon, an attack killed one French soldier and wounded three others clearing a road for the UNIFIL peacekeeping mission. Lebanese and French officials blame Iran-backed Hezbollah. The incident affects 12,000 peacekeepers stationed there and occurs amid ongoing Mideast tensions including the Strait of Hormuz closure.\n\nPolice in Trinidad discovered the bodies of 50 infants and six adults at Cumuto cemetery, with investigations indicating unlawful disposal of unclaimed corpses. The findings affect the island nation of 1.5 million people and have prompted a review of mortuary and burial regulations. In the United States, President Trump signed an executive order directing the FDA to expedite reviews of psychedelic drugs including ibogaine for treating veteran PTSD, despite their Schedule I status. The Fourth Circuit US appeals court lifted an injunction, permitting enforcement of Trump administration orders ending federal diversity, equity, and inclusion programs nationwide pending further litigation. NASA deactivated one science instrument on Voyager 1, the 1977 probe now in interstellar space, to conserve power and extend its data collection for heliophysics research.",
+  "headlines": [
+    {
+      "title": "Police Shoot Dead Gunman Who Kills Six and Wounds 14 in Kyiv Supermarket",
+      "source": "Associated Press",
+      "sources": [
+        "BBC World",
+        "Deutsche Welle",
+        "NPR News",
+        "Associated Press",
+        "New York Times World"
+      ],
+      "summary": "Gunman kills six and wounds 14 in central Kyiv streets before taking supermarket hostages; police storm building and kill him after failed talks. Impacts war-stressed capital residents. Deadliest shooting since Russia invasion; probe examines motive and gun access.",
+      "link": "https://apnews.com/article/ukraine-shooting-klitschko-supermarket-884436efb1c6bbc22a83156ffb697a87",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Detailed gunman taking hostages in supermarket and police shoot-out killing attacker",
+          "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Emphasized killing spree in busy central district leaving 14 others wounded",
+          "link": "https://www.dw.com/en/ukraine-gunman-shot-dead-after-killing-spree-in-kyiv/a-76843205?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Covered mass shooting killing six and injuring at least 14 before police kill gunman",
+          "link": "https://www.npr.org/2026/04/18/nx-s1-5789903/mass-shooting-kyiv-ukraine"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Described gunman killing five on streets then barricading with hostages in store",
+          "link": "https://apnews.com/article/ukraine-shooting-klitschko-supermarket-884436efb1c6bbc22a83156ffb697a87"
+        },
+        {
+          "source": "New York Times World",
+          "angle": "Noted event as deadliest mass shooting in Ukraine years amid war firearms spread",
+          "link": "https://www.nytimes.com/2026/04/18/world/europe/kyiv-ukraine-mass-shooting-hostages.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Attack Kills French Soldier and Wounds Three on UN Road Mission in Southern Lebanon",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Japan Times"
+      ],
+      "summary": "French soldier dies, three wounded clearing road for UNIFIL when attacked; officials blame Iran-backed Hezbollah. Affects 12,000 peacekeepers. Macron condemns; tests Lebanon ceasefire stability amid Mideast tensions.",
+      "link": "https://www.france24.com/en/french-soldier-killed-in-attack-on-un-mission-in-southern-lebanon-officials-say",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Reported soldier killed and wounded peacekeepers with blame on Hezbollah and Macron response",
+          "link": "https://www.france24.com/en/french-soldier-killed-in-attack-on-un-mission-in-southern-lebanon-officials-say"
+        },
+        {
+          "source": "Japan Times",
+          "angle": "Focused on French President Macron condemning unacceptable attack to Lebanese leaders",
+          "link": "https://www.japantimes.co.jp/news/2026/04/19/world/french-soldier-killed-lebanon/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "North Korea Launches Multiple Ballistic Missiles from Sinpo Toward Eastern Sea",
+      "source": "NPR News",
+      "sources": [
+        "NPR News",
+        "The Hindu"
+      ],
+      "summary": "North Korea fires several ballistic missiles Sunday from eastern Sinpo area into sea, South Korea detects. No damage reported. Provokes Japan-South Korea defenses; signals ongoing weapons tests amid stalled diplomacy.",
+      "link": "https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "NPR News",
+          "angle": "South Korea Joint Chiefs report launches from North's eastern Sinpo area Sunday morning",
+          "link": "https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "South Korea announces North Korea launched multiple missiles toward eastern waters",
+          "link": "https://www.thehindu.com/news/international/north-korea-launches-ballistic-missiles-toward-sea/article70879929.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Police Discover Bodies of 50 Babies and Six Adults in Trinidad Cemetery",
+      "source": "Deutsche Welle",
+      "summary": "Police find 50 infant and six adult bodies at Cumuto cemetery in Trinidad; probes point to unlawful disposal of unclaimed corpses. Shocks island nation of 1.5 million. Triggers review of mortuary and burial regulations.",
+      "link": "https://www.dw.com/en/bodies-of-50-babies-6-adults-found-in-trinidad-and-tobago/a-76845914?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump Signs Order Directing Faster Reviews of Psychedelics Including Ibogaine",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "South China Morning Post"
+      ],
+      "summary": "Trump orders FDA to expedite psychedelic drug reviews like ibogaine for veteran PTSD despite Schedule I ban and risks. Affects treatment access for troops. Boosts research on mental health therapies.",
+      "link": "https://apnews.com/article/ibogaine-psychedelic-trump-fda-ptsd-veterans-kennedy-a9940fa57fa1457fc064eb5165003524",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Trump signs executive order speeding psychedelic reviews including risky ibogaine for veterans",
+          "link": "https://apnews.com/article/ibogaine-psychedelic-trump-fda-ptsd-veterans-kennedy-a9940fa57fa1457fc064eb5165003524"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "US president directs faster reviews of psychedelics like ibogaine embraced by veterans",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3350593/trump-signs-order-speed-review-psychedelics-including-controversial-drug-ibogaine?utm_source=rss_feed"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "US Appeals Court Permits Trump Administration DEI Crackdown in Federal Government",
+      "source": "Voice of America",
+      "summary": "Fourth Circuit lifts injunction on Trump orders ending federal DEI programs, deems constitutional. Affects government employees and initiatives nationwide. Allows enforcement pending further litigation.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NASA Deactivates Voyager 1 Instrument to Prolong Interstellar Mission",
+      "source": "NPR News",
+      "summary": "NASA powers off one Voyager 1 science tool to save energy on 1977 probe now in interstellar space. Ensures continued data from farthest human craft. Vital for heliophysics research beyond solar system.",
+      "link": "https://www.npr.org/2026/04/19/nx-s1-5789935/voyager-1-probe-nasa",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran Closes Strait of Hormuz After Two Ships Hit Amid US Port Blockade",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "France 24"
+      ],
+      "summary": "Revolutionary Guards shut strait as two ships struck trying passage; US blockade continues. Talks progress but no deal. Disrupts 20% global oil transit, spikes prices; militaries increase patrols.",
+      "link": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Guards enforce closure after ship attacks; Tehran announces US talks progress yet distant from agreement, maintains strait shutdown",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Tensions escalate with Iranian closure declaration and reports of two ships hit",
+          "link": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz"
+        },
+        {
+          "source": "France 24",
+          "angle": "Iran reports progress in US talks but final deal far off with strait closed",
+          "link": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-reports-progress-in-us-talks-but-final-deal-still-far-off"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 429,
+    "articlesAfterDedup": 426,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "society": 1,
+      "politics": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 1,
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "americas": 3,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

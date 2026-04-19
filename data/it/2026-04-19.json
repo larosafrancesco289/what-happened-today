@@ -1,0 +1,204 @@
+{
+  "date": "2026-04-19",
+  "summary": "L'Iran ha chiuso lo Stretto di Hormuz dopo la parziale riapertura di venerdì, ripristinando restrizioni in risposta al blocco USA sui porti iraniani. Teheran controlla strettamente il passaggio a tre giorni dalla scadenza della tregua. Donald Trump accusa l'Iran di ricatto e minaccia bombardamenti se martedì non arriva un accordo. I negoziati tra Teheran e Washington proseguono, con divergenze su arricchimento uranio e sanzioni che influenzano il commercio petrolifero globale. Questo fa seguito alla riapertura parziale e alle minacce annunciate ieri.\n\nL'Eliseo francese attribuisce a un intervento iraniano l'uccisione di un casco blu francese in Libano ieri, dopo un attacco in Kurdistan iracheno un mese fa. Coinvolti gruppi sciiti, complica i negoziati in Medio Oriente. In Spagna, Pedro Sánchez riunisce leader progressisti come Lula da Silva a una conferenza a Barcellona contro la politica di Trump, criticando miliardari tech e signori della guerra; María Corina Machado raduna migliaia di sostenitori a Madrid e rifiuta un incontro con Sánchez, rafforzando l'opposizione a Maduro. Blue Origin lancia il razzo New Glenn da Cape Canaveral con propulsore riutilizzato, alto 100 metri, trasportando un satellite Ast SpaceMobile nella finestra dalle 12:45 alle 14:45 italiane; successo accelera missioni commerciali contro SpaceX.\n\nMatteo Salvini propone di sospendere il Green Deal e il Patto di stabilità per riprendere import di gas e petrolio russo come gli USA. Il governo italiano stanzia 246.000 euro annui per avvocati che assistono rimpatri volontari di stranieri, con contestazioni del Cnf e Camere penali su consultazione e incostituzionalità. La Procura dei minori di Roma indaga su una lista di nomi minorenni diffusa in un liceo, legata a presunta violenza a una festa natalizia. I pm rivelano intercettazioni in cui Giovanni Toti ammette di aver aumentato i dati sui contagi Covid in Liguria. Siemens e Nvidia completano test su robot umanoidi per fabbriche condivise con umani.",
+  "headlines": [
+    {
+      "title": "Iran chiude Stretto di Hormuz e ripristina restrizioni in risposta a blocco porti USA",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "ANSA",
+        "la Repubblica"
+      ],
+      "summary": "L'Iran ha richiuso lo Stretto di Hormuz dopo parziale riapertura venerdì, controllandolo strettamente per il blocco USA sui porti, a tre giorni dalla scadenza tregua. Trump accusa ricatto e minaccia bombardamenti se martedì non arriva accordo. Coinvolti Teheran e Washington: negoziati proseguono ma divergenze su uranio e sanzioni persistono, influenzando commercio petrolio globale.",
+      "link": "https://www.agi.it/estero/news/2026-04-19/hormuz-iran-usa-19-aprile-notizie-36650392/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive chiusura Stretto di Hormuz come marcia indietro iraniana dopo annuncio riapertura",
+          "link": "https://www.agi.it/estero/news/2026-04-19/hormuz-iran-usa-19-aprile-notizie-36650392/"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta progressi colloqui Iran-USA ma divergenze irrisolte e commenti Trump su Israele",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/19/iran-progressi-nei-colloqui-con-gli-usa-ma-laccordo-e-ancora-lontano_f17a03c4-e4fb-422f-b5a2-4544c1e53223.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Enfatizza riunione Trump in situation room con pressione su Iran per accordo entro martedì",
+          "link": "https://www.repubblica.it/esteri/2026/04/19/news/trump_minaccia_iran_accordo_o_vi_bombardo-425291426/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Blue Origin lancia razzo New Glenn con propulsore riutilizzato da Cape Canaveral",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News"
+      ],
+      "summary": "Jeff Bezos tenta oggi primo riutilizzo propulsore razzo New Glenn alto 100 metri, in finestra 12.45-14.45 italiane, trasportando satellite Ast SpaceMobile. Competizione con SpaceX di Elon Musk riduce costi spaziali. Blue Origin recupera dopo due voli 2025: successo accelera missioni commerciali e atterraggi riutilizzabili.",
+      "link": "https://www.agi.it/estero/news/2026-04-19/razzo-lancio-bezos-musk-36650987/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Sottolinea tentativo riutilizzo propulsore New Glenn per competere con SpaceX e ridurre costi",
+          "link": "https://www.agi.it/estero/news/2026-04-19/razzo-lancio-bezos-musk-36650987/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Ricorda atterraggio propulsore novembre su piattaforma oceanica come passo precedente",
+          "link": "https://www.rainews.it/articoli/2026/04/bezos-tenta-il-lancio-di-un-razzo-riutilizzabile-competizione-con-spacex-di-musk-0018450e-5ad5-4a89-b03f-481610d753ba.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Pedro Sánchez riunisce leader progressisti anti-Trump a conferenza Barcellona",
+      "source": "Euronews Italiano",
+      "summary": "Il premier spagnolo guida coalizione contro politica MAGA di Trump con Lula che critica miliardari tech e signori della guerra. Sánchez cerca consenso interno. Evento rafforza alleanze progressiste globali contro posizioni USA, influenzando dibattiti su democrazia e ambiente in Europa.",
+      "link": "http://it.euronews.com/my-europe/2026/04/19/sanchez-guida-la-coalizione-anti-trump-e-cerca-ossigeno-politico-in-spagna",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Procura minori Roma indaga su lista stupri con nomi minorenni circolante in liceo",
+      "source": "TGCOM24",
+      "summary": "Studenti liceo Roma diffondono su tablet lista nomi minorenni legata a presunta violenza festa natalizia tra coetanei. Procura indaga. Coinvolti adolescenti: chiarisce responsabilità e misure protettive scolastiche, affrontando rischi bullismo e abusi digitali.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/roma-lista-stupri-liceo_111157519-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm rivelano intercettazioni Toti ammette aumento dati contagi COVID in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Governatore Giovanni Toti dice a capo gabinetto Matteo Cozzani di aver 'un po’ aumentati' contagi secondo pm. Indagine su manipolazione dati pandemia. Procede inchiesta: espone responsabilità politiche su gestione COVID, con impatto su fiducia pubblica.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pm pubblicano intercettazioni in cui Toti ammette di aver già truccato i dati sui contagi",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "María Corina Machado raduna migliaia sostenitori Madrid e rifiuta incontro Sánchez",
+      "source": "Rai News",
+      "summary": "Oppositrice venezuelana riunisce folla a comizio Madrid mentre declina vertice con premier Pedro Sánchez a Barcellona. Coinvolti esuli e leader progressisti: rafforza opposizione a Maduro, influenzando diplomazia Spagna-Venezuela su diritti umani.",
+      "link": "https://www.rainews.it/video/2026/04/machado-riunisce-folla-a-madrid-e-rifiuta-incontro-con-sanchez-c5f8346c-30d6-4aa1-ab0a-35486be13fad.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Siemens e Nvidia testano robot umanoidi che lavorano accanto a personale umano",
+      "source": "Euronews Italiano",
+      "summary": "Siemens e Nvidia completano test robot IA adattivi per fabbriche condivise con umani. Avanza integrazione produzione: riduce costi e aumenta efficienza industriale, aprendo era collaborazione uomo-macchina.",
+      "link": "http://it.euronews.com/next/2026/04/19/robot-umanoidi-accanto-agli-umani-siemens-e-nvidia-testano-un-nuovo-modello",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Francia sospetta intervento iraniano dietro morte casco blu in Libano",
+      "source": "la Repubblica",
+      "summary": "Eliseo attribuisce a 'manina' iraniana uccisione casco blu francese ieri Libano, dopo attacco Kurdistan iracheno un mese fa. Coinvolti gruppi sciiti: complica negoziati Medio Oriente, con tensioni Francia-Iran su sicurezza Onu.",
+      "link": "https://www.repubblica.it/esteri/2026/04/19/news/casco_blu_francese_ucciso_libano_macron-425291440/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Matteo Salvini propone stop Green Deal e Patto stabilità per comprare gas russo",
+      "source": "Il Sole 24 Ore",
+      "summary": "Leader Lega chiede sospendere Green Deal e regole Patto stabilità, riprendere import gas e petrolio Russia come USA. Blocca economia italiana: spinge dibattito su energia e autonomia UE.",
+      "link": "https://www.ilsole24ore.com/art/salvini-stop-green-deal-e-patto-stabilita-torniamo-comprare-gas-e-petrolio-russia-AIIbYRZC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Governo stanzia 246mila euro annui avvocati per rimpatri volontari stranieri",
+      "source": "Il Sole 24 Ore",
+      "summary": "Dl Sicurezza finanzia legali che assistono rimpatri assistiti, Cnf e Camere penali contestano mancanza consultazione e incostituzionalità. Procede attuazione: incentiva rimpatri, con scontro su diritti difesa.",
+      "link": "https://www.ilsole24ore.com/art/dl-sicurezza-fondo-246mila-euro-annui-gli-avvocati-che-favoriscono-rimpatri-cnf-esplode-mai-informati-AIG2lXZC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 253,
+    "articlesAfterDedup": 251,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "conflict": 2,
+      "science": 2,
+      "politics": 4,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "americas": 1,
+      "europe": 6,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

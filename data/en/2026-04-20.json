@@ -1,0 +1,196 @@
+{
+  "date": "2026-04-20",
+  "summary": "A US Navy destroyer seized an Iranian-flagged cargo ship in the Gulf of Oman amid a Hormuz standoff that stranded tankers. US crude oil prices rose 6.4 percent to $87.88 per barrel, and Brent crude rose 6.5 percent to $96.25 per barrel. Iran rejects talks and vows retaliation. The action affects global energy markets.\n\nRebels backed by Rwanda overran Congolese troops and entered Goma in eastern Congo, triggering gunfire and shelling. More than one million residents cram the city after displacement, straining UN aid. Israel permitted thousands of displaced Palestinians to cross a military zone back to northern Gaza following a breakthrough in hostage release talks. Over two million Gazans remain affected by the war.\n\nA father shot dead eight children aged 1 to 14, including seven of his own, and wounded two others in Shreveport, Louisiana. Police arrested the suspect, and local investigations continue. SpaceX Falcon 9 launched the Crew-10 mission with NASA astronauts Anne McClain and Nichole Ayers, Japan’s Takuya Onishi, and Russia’s Kirill Peskov from Florida. The crew will reach the ISS on Saturday to retrieve astronauts Butch Wilmore and Suni Williams, who have been there nine months. Rumen Radev secured an absolute majority with a reformist-eurosceptic coalition in Bulgaria's election, the first since 1999. UK police are investigating multiple arson attacks on Jewish sites in London, including one causing minor damage on Saturday, as possible work of Iranian proxies. French prosecutors summoned Elon Musk for an interview over allegations that Grok AI spread sexualized deepfakes on X. NATO mounted its first coordinated response after suspected sabotage severed a deep-sea cable in the Baltic Sea.",
+  "headlines": [
+    {
+      "title": "Father Kills Eight Children, Wounds Two Others in Louisiana Shooting",
+      "source": "NPR",
+      "summary": "A father shot dead eight children aged 1 to 14, including seven of his own, and wounded two others in Shreveport, Louisiana. Police arrested the suspect. The incident highlights ongoing gun violence concerns, affecting families and prompting local investigations.",
+      "link": "https://www.npr.org/2026/04/19/nx-s1-5790483/mass-shooting-eight-children-louisiana-shreveport",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel Allows Displaced Palestinians Return to Northern Gaza After Hostage Deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits thousands of displaced Palestinians to cross a military zone back to northern Gaza following a breakthrough in hostage release talks. Over two million Gazans remain affected by the war. This eases humanitarian crisis but tensions persist amid ongoing conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma, Displacing Over One Million Residents",
+      "source": "Wall Street Journal",
+      "summary": "Rebels backed by Rwanda overrun Congolese troops and enter Goma, triggering gunfire and shelling. More than one million displaced people cram the city, straining UN aid. Escalation threatens regional stability in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "NASA SpaceX Launch Four Astronauts to Retrieve Two Stuck on ISS",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 launches Crew-10 with NASA’s Anne McClain, Nichole Ayers, Japan’s Takuya Onishi, Russia’s Kirill Peskov from Florida to reach ISS Saturday. Astronauts Butch Wilmore and Suni Williams, stuck nine months, prepare return. Ensures continuous station operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Rumen Radev Secures Absolute Majority in Bulgarian Election",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Deutsche Welle"
+      ],
+      "summary": "Pro-Russian Rumen Radev wins absolute majority with reformist-eurosceptic coalition in Bulgaria's election, unprecedented since 1999. Voters respond to instability and economic pressures. Impacts EU cohesion and Bulgaria's geopolitical stance.",
+      "link": "https://www.france24.com/en/unprecedented-since-1999-radev-secures-absolute-majority-with-reformist-and-eurosceptic-coalition",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Analyzes Radev's heterogeneous coalition victory and implications for domestic stability geopolitics",
+          "link": "https://www.france24.com/en/unprecedented-since-1999-radev-secures-absolute-majority-with-reformist-and-eurosceptic-coalition"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Highlights early vote counts placing pro-Russian Radev far ahead after eighth election",
+          "link": "https://www.dw.com/en/bulgaria-pro-russian-radev-takes-lead-in-early-vote-count/a-76846189?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "UK Police Probe London Arson Attacks on Jewish Sites as Iranian Proxies",
+      "source": "NPR",
+      "summary": "UK police investigate multiple arson attacks on Jewish sites in London, latest causing minor damage Saturday, as possible work of Iranian proxies. Jewish communities face heightened threats. Probe determines links amid regional tensions.",
+      "link": "https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "French Prosecutors Summon Elon Musk Over Sexualized AI Deepfakes on X",
+      "source": "France 24",
+      "summary": "French prosecutors summon Elon Musk for interview on allegations Grok AI spread millions of sexualized deepfakes on X platform. Tech regulation escalates in Europe. Musk's attendance unclear, affects AI content oversight.",
+      "link": "https://www.france24.com/en/france/20260420-french-prosecutors-summon-elon-musk-over-sexualised-ai-deepfakes-on-x",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO coordinates first response after suspected sabotage severs deep-sea cable in Baltic Sea. Critical infrastructure at risk from hybrid threats. Alliance bolsters defenses, signals unity against disruptions.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "US Navy Seizes Iranian Ship Near Hormuz as Oil Prices Surge 6 Percent",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "Al Jazeera",
+        "Associated Press",
+        "France 24"
+      ],
+      "summary": "US Navy destroyer seizes Iranian-flagged cargo ship in Gulf of Oman amid Hormuz standoff stranding tankers; US crude rises 6.4% to $87.88, Brent 6.5% to $96.25. Global energy markets disrupted. Iran rejects talks, vows retaliation.",
+      "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "US seizes Iranian vessel and releases seizure video; oil prices surge over 6 percent; Iran foreign ministry rejects further US negotiations citing aggression",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Covers Trump announcement of Navy seizure while dispatching delegation to Pakistan talks",
+          "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Features US military video of marines seizing Iranian ship near Strait of Hormuz",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/us-military-releases-video-of-marines-seizing-iranian-ship?traffic_source=rss"
+        },
+        {
+          "source": "Associated Press",
+          "angle": "Reports oil price jumps of 6 percent from tanker stranding in Hormuz standoff",
+          "link": "https://apnews.com/article/oil-prices-crude-iran-war-4de9058b58ed944a4113dfb2cf6369c8"
+        },
+        {
+          "source": "France 24",
+          "angle": "Quotes Iran FM canceling talks over US aggression and ceasefire violations",
+          "link": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-vows-response-after-us-destroyer-fires-on-cargo-ship"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 440,
+    "articlesAfterDedup": 439,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 5,
+      "science": 2,
+      "politics": 2
+    },
+    "regionCounts": {
+      "americas": 1,
+      "middle-east": 2,
+      "africa": 1,
+      "global": 1,
+      "europe": 4
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

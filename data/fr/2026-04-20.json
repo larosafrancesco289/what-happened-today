@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-20",
+  "summary": "Des forces iraniennes ont tiré des coups de semonce sur un navire du groupe français CMA CGM dans le détroit d’Ormuz. L’incident s’est produit lors de tensions entre les États-Unis et l’Iran. L’équipage est resté indemne. Cela fait suite à des incidents maritimes récurrents dans la zone, qui transporte 20 % du pétrole mondial. Les autorités françaises et internationales surveillent la situation, avec une augmentation attendue des mesures de sécurité pour le commerce maritime.\n\nEn Russie, un drone ukrainien a tué un civil lors d’une attaque le 20 avril 2026 sur un territoire russe. Les forces russes ont riposté avec des frappes sur des positions ukrainiennes. Ces échanges transfrontaliers prolongent le conflit russo-ukrainien, qui a causé plus de 500 000 victimes depuis 2022 selon des estimations des deux parties. Séparément, à Londres, la police britannique enquête sur une série d’incendies antisémites revendiqués par le groupe Hayi, lié à l’Iran. La police antiterroriste est impliquée, et les autorités renforcent la sécurité des communautés juives. Cela relie les tensions au Moyen-Orient à des actes en Europe.\n\nAu Québec, la première ministre Christine Fréchette annoncera mardi son Conseil des ministres, avec un rôle clé pour Bernard Drainville à l’éducation. Cela définit l’équipe gouvernementale après les élections provinciales. Parallèlement, les autorités surveillent les crues printanières, concentrées sur Fort-Coulonge en Outaouais, où des inondations persistent. Aucune aggravation majeure n’est signalée, et les opérations de protection des riverains continuent.",
+  "headlines": [
+    {
+      "title": "Forces iraniennes tirent des semonces sur navire CMA CGM français dans détroit d’Ormuz",
+      "source": "20 Minutes",
+      "summary": "Un navire du groupe français CMA CGM subit des tirs de semonce dans le détroit d’Ormuz lors de l’escalade entre États-Unis et Iran. L’équipage reste sain et sauf. Cela accentue les tensions maritimes et menace le commerce international dans la région.",
+      "link": "https://www.20minutes.fr/monde/4219240-20260420-guerre-moyen-orient-navire-francais-cma-cgm-fait-objet-tirs-semonce-detroit-ormuz?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Drone ukrainien tue un civil russe lors d’attaque en territoire russe",
+      "source": "20 Minutes",
+      "summary": "Un mort est signalé en Russie suite à une attaque de drone ukrainien ce lundi 20 avril 2026. Les forces russes ripostent. Cela prolonge le conflit russo-ukrainien avec des frappes transfrontalières récurrentes.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4219231-20260420-direct-guerre-ukraine-mort-russie-attaque-drone?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Police britannique enquête sur incendies antisémites revendiqués par groupe Hayi pro-iranien à Londres",
+      "source": "20 Minutes",
+      "summary": "Une série d’incendies antisémites frappe Londres, revendiqués par le groupe Hayi, lié à l’Iran. La police antiterroriste intervient. Ces actes menacent la sécurité communautaire et relient tensions moyen-orientales à l’Europe.",
+      "link": "https://www.20minutes.fr/monde/royaume-uni/4219237-20260420-royaume-uni-serie-incendies-antisemites-secoue-londres-semble-etre-lien-iran?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Christine Fréchette dévoile mardi son Conseil des ministres québécois avec rôle clé pour Bernard Drainville",
+      "source": "Radio-Canada",
+      "summary": "La nouvelle première ministre du Québec, Christine Fréchette, annonce son Conseil des ministres pour mardi et confie un rôle important à Bernard Drainville. Cela définit la nouvelle équipe gouvernementale et oriente les priorités politiques provinciales.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2247318/christine-frechette-conseil-ministres-drainville",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Autorités québécoises poursuivent surveillance des crues printanières centrées sur Fort-Coulonge",
+      "source": "Radio-Canada",
+      "summary": "Les crues printanières au Québec s’atténuent sauf à Fort-Coulonge en Outaouais où persistent des inondations majeures. La surveillance continue sans aggravation majeure. Cela protège les populations riveraines des risques hydrologiques saisonniers.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2247214/inondations-quebec-crues-printanieres",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 207,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 6,
+    "categoryCounts": {
+      "conflict": 2,
+      "society": 1,
+      "politics": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 2
+    }
+  }
+}

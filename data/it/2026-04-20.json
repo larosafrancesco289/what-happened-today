@@ -1,0 +1,178 @@
+{
+  "date": "2026-04-20",
+  "summary": "La Marina statunitense ha abbordato e sequestrato una nave cargo iraniana nel Golfo di Oman che tentava di eludere il blocco vicino allo Stretto di Hormuz, sparando colpi di avvertimento, come mostrato in un video militare. Questo fa seguito alla chiusura dello Stretto annunciata ieri dall'Iran in risposta al blocco dei porti USA. Teheran minaccia ritorsioni con droni; i Pasdaran hanno rifiutato il vertice di martedì a Islamabad con gli USA, temendo una trappola. I prezzi del petrolio sono aumentati. Trump ha annunciato i negoziati, ma secondo il Wall Street Journal è stato escluso da un briefing sull'Iran per inaffidabilità, con tensioni interne al team presidenziale USA.\n\nIn Italia, il ministro della Difesa Guido Crosetto ha offerto due navi cacciamine per una missione difensiva nello Stretto di Hormuz sotto egida ONU e con approvazione del Parlamento, come contributo alla coalizione 'Volenterosi' USA per riaprire la via marittima. Separatamente, droni ucraini hanno colpito il porto e la raffineria di Tuapse nella regione russa di Krasnodar, causando incendi, una vittima e un ferito. Le autorità russe confermano l'attacco su infrastrutture energetiche legate alla guerra; Kiev mira a indebolire l'export di petrolio russo, con indagini in corso.\n\nUn soldato dell'IDF ha distrutto una statua di Gesù in Libano, foto confermata dall'esercito israeliano che ha avviato indagini interne e provvedimenti. Il ministro Sa'ar ha definito l'atto grave. In Louisiana, un padre di 31 anni ha ucciso otto bambini, sette suoi figli, e ferito due donne a Shreveport in un caso di violenza domestica; la polizia indaga sul movente.",
+  "headlines": [
+    {
+      "title": "Marina USA spara colpi di avvertimento e sequestra nave cargo iraniana nel Golfo di Oman",
+      "source": "Euronews Italiano",
+      "sources": [
+        "AGI",
+        "ANSA",
+        "Euronews Italiano",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "La Marina statunitense ha abbordato e sequestrato una nave cargo iraniana che tentava di eludere il blocco vicino allo Stretto di Hormuz, come mostrato in un video militare. Teheran minaccia ritorsioni con droni; Trump annuncia negoziati martedì a Islamabad con Vance. La tensione sale con prezzi petrolio in aumento, rischiando escalation regionale.",
+      "link": "https://www.agi.it/estero/news/2026-04-20/trump-blocca-nave-teheran-vendetta-36660103/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "USA sequestrano nave iraniana tentata forzare blocco; Iran minaccia droni; Trump annuncia secondo round negoziati Islamabad martedì con Vance, Witkoff e Kushner",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Trump annuncia negoziati Islamabad martedì mentre USA sequestra nave iraniana",
+          "link": "https://www.agi.it/estero/news/2026-04-20/trump-blocca-nave-teheran-vendetta-36660103/"
+        },
+        {
+          "source": "ANSA",
+          "angle": "USA sequestrano nave iraniana; Teheran minaccia droni contro imbarcazioni USA",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/20/gli-stati-uniti-sequestrano-una-nave-iraniana.-lira-di-teheran-droni_67cea65a-390d-4e33-aed7-f55d48f95589.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Video mostra cacciatorpediniere USA sparare e abbordare nave cargo iraniana",
+          "link": "http://it.euronews.com/video/2026/04/20/il-momento-in-cui-la-marina-usa-apre-il-fuoco-e-sequestra-una-nave-cargo-battente-bandiera"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Trump rilancia negoziato Islamabad poi USA catturano cargo che forza blocco Hormuz",
+          "link": "https://www.repubblica.it/esteri/2026/04/20/news/usa_negoziato_iran_secondo_round_vance_islamabad-425292931/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Forze armate iraniane promettono vendetta al blocco nave USA; petrolio sale",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-20-aprile_111191674-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Droni ucraini colpiscono raffineria e porto di Tuapse in Russia causando una vittima",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24",
+        "Rai News"
+      ],
+      "summary": "Droni ucraini attaccano il porto e la raffineria di Tuapse nella regione russa di Krasnodar, provocando incendi, una vittima e un ferito. Autorità russe confermano raid su infrastrutture energetiche legate alla guerra. Kiev mira a indebolire export petrolio russo, con indagini in corso.",
+      "link": "http://it.euronews.com/2026/04/20/attacco-ucraino-sul-mar-nero-colpita-raffineria-a-tuapse-nella-regione-russa-di-krasnodar",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Droni ucraini danneggiano terminal marittimo e raffineria petrolio Tuapse",
+          "link": "http://it.euronews.com/2026/04/20/attacco-ucraino-sul-mar-nero-colpita-raffineria-a-tuapse-nella-regione-russa-di-krasnodar"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Esplosioni e incendi in raffineria porto Tuapse; una vittima e un ferito",
+          "link": "https://www.tgcom24.mediaset.it/2026/video/ucraina-attacco-droni-porto-russo_111195674-02k.shtml"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Attacco droni ucraini a porto Tuapse uccide una persona hub export petrolio",
+          "link": "https://www.rainews.it/video/2026/04/attacco-di-droni-ucraini-al-porto-russo-di-tuapse-uccide-una-persona-russia-la-guerra-in-ucraina-dc8a505d-842c-43b2-8f2b-9ba785cec025.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Padre di 31 anni uccide otto bambini tra cui sette figli a Shreveport in Louisiana",
+      "source": "Euronews Italiano",
+      "summary": "Un uomo di 31 anni spara e uccide otto bambini, sette suoi figli, e ferisce due donne in una casa di Shreveport, Louisiana, in un caso di violenza domestica. Polizia indaga sul movente; comunità sotto shock per tragedia familiare.",
+      "link": "http://it.euronews.com/2026/04/20/stati-uniti-lincubo-di-shreveport-otto-bambini-uccisi-dal-padre-nella-loro-casa",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Ministro Crosetto offre due navi cacciamine italiane per missione difensiva Hormuz",
+      "source": "AGI",
+      "summary": "Guido Crosetto rinnova disponibilità Italia a missione internazionale Stretto di Hormuz con due navi cacciamine, condizionata a egida ONU e ok Parlamento. Contributo ai 'Volenterosi' USA per riaprire via marittima cruciale per commercio globale.",
+      "link": "https://www.agi.it/cronaca/news/2026-04-20/crosetto-hormuz-navi-italia-36661318/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Soldato IDF distrugge statua di Gesù in Libano e scatena indagini interne",
+      "source": "Rai News",
+      "summary": "Un soldato israeliano danneggia statua di Gesù in Libano, foto virale confermata da IDF che annuncia provvedimenti dopo inchiesta. Ministro Sa'ar definisce atto grave; tensioni religiose in zona di operazioni militari israeliane.",
+      "link": "https://www.rainews.it/articoli/2026/04/soldato-idf-distrugge-statua-gesu-in-libano-lesercito-israeliano-prenderemo-provvedimenti-029a8716-681a-4a36-ac1b-11b3046e8b44.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Wall Street Journal definisce Trump inaffidabile ed estromesso da briefing Iran",
+      "source": "la Repubblica",
+      "summary": "Secondo Wall Street Journal, Trump escluso da briefing su Iran per inaffidabilità; quotidiano Murdoch ricostruisce tensioni interne team presidenziale. Influenza decisioni su negoziati e tensioni Hormuz con rischi per politica estera USA.",
+      "link": "https://www.repubblica.it/esteri/2026/04/20/news/trump_inaffidabile_briefing_iran_wall_street_journal-425293074/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Pasdaran iraniani rifiutano vertice Islamabad temendo trappola americana",
+      "source": "la Repubblica",
+      "summary": "Guardie della Rivoluzione iraniane declinano partecipazione negoziati Pakistan con USA, sospettando attacco sorpresa. Tensione persiste a Hormuz dopo sequestro nave; ayatollah cauti su dialogo mediato da Islamabad.",
+      "link": "https://www.repubblica.it/esteri/2026/04/20/news/pasdaran_cauti_temono_trappola_usa_vertice_islamabad-425293007/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 242,
+    "articlesAfterDedup": 242,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 19,
+    "categoryCounts": {
+      "conflict": 2,
+      "society": 2,
+      "politics": 3
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 2,
+      "also": 4
+    }
+  }
+}

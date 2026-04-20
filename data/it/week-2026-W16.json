@@ -1,0 +1,138 @@
+{
+  "weekId": "2026-W16",
+  "startDate": "2026-04-13",
+  "endDate": "2026-04-19",
+  "summary": "Dal 13 al 19 aprile 2026, la settimana è stata dominata da tensioni geopolitiche in Medio Oriente e Ucraina, con sviluppi economici e dichiarazioni politiche di alto profilo. Le storie più significative includono l'escalation tra Stati Uniti e Iran, che ha visto un'evoluzione rapida.\n\nIl 16 aprile, il presidente Donald Trump ha dichiarato la guerra con l'Iran 'quasi conclusa' e annunciato negoziati. Il 18 aprile, ha avvertito di un ritorno ai bombardamenti se non si raggiunge un accordo entro mercoledì. Il 19 aprile, l'Iran ha chiuso lo Stretto di Hormuz e ripristinato restrizioni in risposta al blocco dei porti USA, garantendo così la persistenza di questa crisi. Parallelamente, il 17 aprile, la premier italiana Giorgia Meloni ha partecipato al vertice dei 'Volenterosi' a Parigi, garantendo la navigazione nello Stretto di Hormuz.\n\nIn Ucraina, il 16 aprile la Russia ha condotto attacchi su Kiev, Odessa e Dnipro, uccidendo 12 persone tra cui un bambino. Questa storia si è inserita nel contesto di operazioni militari prolungate, senza risoluzioni segnalate.\n\nSul fronte economico, il 17 aprile il Fondo Monetario Internazionale ha avvertito l'Unione Europea di un rischio recessione con inflazione al 5%. Gli Stati Uniti hanno sospeso le sanzioni sul petrolio russo fino al 16 maggio (18 aprile). Il 13 aprile, le borse di Europa e Asia sono calate mentre il petrolio è salito, ma questa fluttuazione è svanita rapidamente senza ulteriori sviluppi.\n\nAltre notizie: la portaerei USA Gerald Ford ha eguagliato il record di missione di 296 giorni dal Vietnam (16 aprile). Trump ha criticato gli alleati NATO e annunciato lo stop al sostegno all'Italia (18 aprile). Papa Leone XIV ha criticato i 'tiranni che devastano il mondo' durante una messa con 600mila fedeli in Camerun (17 aprile), dopo un attacco verbale da Trump il 13 aprile che lo definiva 'debole' – quest'ultima storia è svanita in un giorno. Il 13 aprile, Israele ha colpito il Libano causando 2055 morti e 6588 feriti, notizia che non ha avuto seguito. Il Papa ha iniziato un viaggio di 11 giorni in quattro Paesi africani (13 aprile), anch'esso faded.\n\nIl 19 aprile, Blue Origin ha lanciato il razzo New Glenn con propulsore riutilizzato da Cape Canaveral. Lo stesso giorno, il premier spagnolo Pedro Sánchez ha riunito leader progressisti anti-Trump a Barcellona. Un aumento del 300% dell'attività di bot basati su IA nell'editoria (13 aprile) è svanito rapidamente.\n\nNessuna crisi principale si è risolta; le tensioni Iran-USA e Russia-Ucraina persistono, mentre storie come l'attacco israeliano e le critiche Trump-Papa sono durate un solo giorno, evidenziando la volatilità delle notizie. (378 parole)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Israele colpisce Libano causando 2055 morti e 6588 feriti",
+    "Donald Trump attacca Papa Leone XIV definendolo debole",
+    "Borse Europa e Asia calano mentre petrolio sale",
+    "Attività bot basati su IA aumenta del 300% colpendo editoria",
+    "Papa Leone XIV inizia viaggio 11 giorni in quattro Paesi africani",
+    "Russia uccide 12 persone inclusi bambino con attacchi su Kiev Odessa e Dnipro",
+    "Portaerei Usa Gerald Ford eguaglia record missione 296 giorni dal Vietnam",
+    "Trump dichiara guerra con Iran quasi conclusa e annuncia negoziati",
+    "Trump critica Meloni per seconda volta su posizione Italia guerra Iran",
+    "Senato Usa boccia con 5 voti risoluzione limitazione poteri Trump su Iran"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-04-13",
+      "title": "Israele colpisce Libano causando 2055 morti e 6588 feriti",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Donald Trump attacca Papa Leone XIV definendolo debole",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Borse Europa e Asia calano mentre petrolio sale",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Russia uccide 12 persone inclusi bambino con attacchi su Kiev Odessa e Dnipro",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Portaerei Usa Gerald Ford eguaglia record missione 296 giorni dal Vietnam",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Trump dichiara guerra con Iran quasi conclusa e annuncia negoziati",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Fondo Monetario Internazionale avverte Unione Europea rischio recessione inflazione al 5%",
+      "category": "economy",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Capo Programma ONU Sviluppo avverte effetti catena guerra Iran nuovi conflitti",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Meloni partecipa vertice Volenterosi Parigi garantisce navigazione Stretto Hormuz",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Papa Leone XIV critica tiranni devastano mondo celebra messa 600mila fedeli Camerun",
+      "category": "society",
+      "region": "africa"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Trump avverte ritorno bombardamenti Iran se manca accordo entro mercoledì",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Stati Uniti sospendono sanzioni petrolio russo fino 16 maggio",
+      "category": "economy",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Trump critica alleati NATO annuncia stop sostegno Italia",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "Iran chiude Stretto di Hormuz e ripristina restrizioni in risposta a blocco porti USA",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "Blue Origin lancia razzo New Glenn con propulsore riutilizzato da Cape Canaveral",
+      "category": "science",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "Pedro Sánchez riunisce leader progressisti anti-Trump a conferenza Barcellona",
+      "category": "politics",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1274,
+    "totalSourcesUsed": 8,
+    "daysWithData": 5,
+    "categoryCounts": {
+      "economy": 5,
+      "conflict": 9,
+      "politics": 20,
+      "science": 3,
+      "society": 6,
+      "environment": 2
+    },
+    "regionCounts": {
+      "middle-east": 10,
+      "global": 7,
+      "africa": 2,
+      "europe": 18,
+      "americas": 6,
+      "asia-pacific": 2
+    }
+  }
+}

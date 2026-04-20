@@ -1,0 +1,107 @@
+{
+  "weekId": "2026-W16",
+  "startDate": "2026-04-13",
+  "endDate": "2026-04-19",
+  "summary": "Briefing hebdomadaire : 13-19 avril 2026\n\nLes événements marquants de la semaine du 13 au 19 avril 2026 ont été dominés par des tensions géopolitiques au Moyen-Orient et en Ukraine, avec des développements sur le Liban, l’Iran et le détroit d’Ormuz. D’autres actualités incluent des changements politiques au Québec et en Birmanie, ainsi qu’une fusion télécoms en France.\n\nLe conflit israélo-libanais a connu des avancées. Le 16 avril, Benjamin Netanyahu a ordonné à l’armée israélienne d’étendre sa zone de sécurité au Liban. Le 18 avril, un cessez-le-feu temporaire a permis aux habitants du sud du Liban de rentrer chez eux, marquant une résolution partielle et temporaire de cette escalade.\n\nLes tensions autour de l’Iran ont persisté. Le 13 avril, deux ONG ont rapporté que l’Iran a exécuté 1 639 personnes en 2025, un record depuis 1989. Le 18 avril, Téhéran a menacé de refermer le détroit d’Ormuz si les États-Unis maintiennent leur blocus des ports iraniens. Le même jour, Donald Trump a rejeté une mission européenne de sécurisation du détroit, soulignant les divergences transatlantiques. Cette affaire s’est développée sur la semaine sans résolution.\n\nEn Ukraine, le 16 avril, des frappes russes par drones ont tué 14 personnes, dont un enfant, illustrant la poursuite du conflit sans avancée notable.\n\nSur le plan politique, Christine Fréchette a prêté serment le 16 avril comme 33e première ministre du Québec. En Birmanie, le 17 avril, le régime a annulé toutes les condamnations à mort et gracié l’ancien président Win Myint, résolvant ainsi plusieurs dossiers judiciaires.\n\nDans les affaires, Altice France a accepté le 17 avril une offre de 20,35 milliards d’euros de Bouygues, Free et Orange pour SFR, finalisant une restructuration majeure du secteur télécoms.\n\nDany Laferrière et plus de cent écrivains ont quitté la maison d’édition Grasset le 17 avril, un mouvement culturel isolé.\n\nParmi les histoires éphémères, limitées à une journée : les exécutions iraniennes du 13 avril ; la visite du pape Léon XIV en Algérie le 13 avril (premier pape dans un pays musulman) ; des frappes aériennes de l’armée nigériane tuant plus de 100 civils sur un marché à Jilli, Yobe ; une condamnation à six ans de prison au Sénégal pour un homme de 24 ans sous la loi anti-homosexualité ; et le jugement de huit dirigeants de Lafarge pour financement du terrorisme lié à une usine en Syrie.\n\nCes événements persistants (Iran-Ormuz, Liban) contrastent avec les sujets disparus rapidement, aidant à calibrer leur impact. (378 mots)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Iran exécute 1639 personnes 2025 record depuis 1989 selon deux ONG",
+    "Pape Léon XIV visite Algérie première pape histoire pays musulman",
+    "Armée nigériane tue plus 100 civils frappes aériennes marché Jilli Yobe",
+    "Tribunal Sénégal condamne homme 24 ans six ans prison loi anti-homosexualité",
+    "Tribunal juge Lafarge huit dirigeants financement terrorisme usine Syrie",
+    "Frappes russes avec drones tuent 14 personnes en Ukraine dont un enfant",
+    "Christine Fréchette prête serment comme 33e première ministre du Québec",
+    "Benjamin Netanyahu ordonne à l'armée israélienne d'étendre la zone de sécurité au Liban",
+    "Iran menace de perturber le trafic maritime dans le détroit d’Ormuz après blocus américain",
+    "Deux incendies dévastent 600 hectares de forêt dans le nord-ouest de Cuba"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-04-13",
+      "title": "Iran exécute 1639 personnes 2025 record depuis 1989 selon deux ONG",
+      "category": "society",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Pape Léon XIV visite Algérie première pape histoire pays musulman",
+      "category": "society",
+      "region": "africa"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Frappes russes avec drones tuent 14 personnes en Ukraine dont un enfant",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Christine Fréchette prête serment comme 33e première ministre du Québec",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Benjamin Netanyahu ordonne à l'armée israélienne d'étendre la zone de sécurité au Liban",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Altice France accepte offre de 20,35 milliards d’euros de Bouygues, Free et Orange pour SFR",
+      "category": "economy",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Birmanie annule toutes condamnations à mort et gracie ancien président Win Myint",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Dany Laferrière et plus de cent écrivains quittent maison d’édition Grasset",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Iran menace de refermer détroit d’Ormuz si États-Unis maintiennent blocus ports iraniens",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Habitant sud Liban reviennent chez eux après cessez-le-feu temporaire avec Israël",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Donald Trump rejette mission européenne sécurisation détroit d’Ormuz",
+      "category": "politics",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 835,
+    "totalSourcesUsed": 10,
+    "daysWithData": 4,
+    "categoryCounts": {
+      "politics": 13,
+      "society": 7,
+      "conflict": 9,
+      "environment": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 8,
+      "middle-east": 10,
+      "africa": 6,
+      "global": 2,
+      "americas": 4,
+      "asia-pacific": 1
+    }
+  }
+}

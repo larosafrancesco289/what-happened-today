@@ -1,0 +1,175 @@
+{
+  "date": "2026-04-21",
+  "summary": "Les États-Unis et l'Iran s'accusent mutuellement de violations du cessez-le-feu dans le détroit d’Ormuz. La trêve expire mercredi. Donald Trump alterne entre offres de négociations et menaces. Cela fait suite aux tirs de semences par les forces iraniennes sur le navire français CMA CGM hier. Les deux pays présentent des versions contradictoires des incidents. La navigation maritime internationale est impactée, avec des perturbations attendues après l’expiration de la trêve.\n\nSéparément, le gouvernement français impose 4 milliards d’euros d’économies à l’État et 2 milliards à la Sécurité sociale pour couvrir les 6 milliards de coûts liés à la crise au Moyen-Orient, selon Sébastien Lecornu. Cela affecte le budget 2026. Le Japon révise sa politique pour autoriser l’exportation d’armes létales vers le monde entier, intégrant les chaînes d’approvisionnement internationales sans ventes immédiates prévues. La France apporte son soutien à la création d’un tribunal spécial pour juger les crimes commis en Ukraine depuis l’invasion russe.\n\nEmmanuel Macron reçoit le Premier ministre libanais Nawaf Salam à l’Élysée et réaffirme le soutien au cessez-le-feu Israël-Hezbollah, après la mort d’un Casque bleu français au Liban. Un tireur tue une touriste canadienne et blesse 13 étrangers, dont un enfant colombien, près des pyramides de Teotihuacan au Mexique ; les autorités enquêtent. Un Franco-Danois de 30 ans écope de six ans de prison au Danemark pour incitation au terrorisme via des contenus ultradroite sur Telegram. Un sondage indique un mécontentement croissant d’une partie de la population russe envers Vladimir Poutine, lié aux coupures internet, à l’économie faible et à la guerre en Ukraine.",
+  "headlines": [
+    {
+      "title": "États-Unis et Iran s'accusent mutuellement de violer cessez-le-feu dans détroit d’Ormuz",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "20 Minutes"
+      ],
+      "summary": "Alors que la trêve expire mercredi, États-Unis et Iran échangent accusations de violations dans le détroit d’Ormuz, avec Donald Trump alternant offres et menaces. Cela risque d’embraser le Moyen-Orient et affecte la navigation maritime internationale.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-cessez-le-feu-en-suspens-20260421_J2FK7NZWNVER7NC52UQGDSQIHI/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Accusations mutuelles de violations remplaçant les tirs sur navires signalés hier",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Ouvre sur fin trêve et accusations US-Iran avec Trump alternant mains tendues et menaces",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-cessez-le-feu-en-suspens-20260421_J2FK7NZWNVER7NC52UQGDSQIHI/"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Met en avant blocage Ormuz et menaces Trump avec trêve sur un fil",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4219415-20260421-guerre-moyen-orient-blocage-ormuz-menaces-trump-treve-fil-entre-etats-unis-iran?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Gouvernement français exige 4 milliards d’euros d’économies pour crise Moyen-Orient coûtant 6 milliards",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Sébastien Lecornu chiffre à 6 milliards d’euros le coût pour la France, imposant 4 milliards d’économies à l’État et 2 milliards à la Sécurité sociale. Cela assombrit le budget 2026 et contraint les finances publiques.",
+      "link": "https://www.lemonde.fr/politique/article/2026/04/21/sebastien-lecornu-confirme-un-cout-de-6-milliards-d-euros-lie-a-la-crise-au-moyen-orient_6681964_823448.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Chiffre économies budgétaires de 4 et 2 milliards liées à objectif déficit 2026",
+          "link": "https://www.lemonde.fr/politique/article/2026/04/21/sebastien-lecornu-confirme-un-cout-de-6-milliards-d-euros-lie-a-la-crise-au-moyen-orient_6681964_823448.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Décrypte coupes budgétaires dues à crise énergétique avec comité alerte finances",
+          "link": "https://www.lefigaro.fr/economie/la-guerre-au-moyen-orient-contraint-bercy-a-annoncer-des-coupes-budgetaires-20260420"
+        },
+        {
+          "source": "France Info",
+          "angle": "Cite Lecornu sur 6 milliards totaux et demande 4 milliards économies gouvernement",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-premier-ministre-demande-4-milliards-d-euros-d-economies-a-son-gouvernement-pour-faire-face-a-la-guerre-au-moyen-orient_7953206.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Japon supprime restrictions sur exportation d’armes létales vers monde entier",
+      "source": "Le Monde",
+      "summary": "Le Japon révise sa politique pour exporter armes létales, intégrant chaînes d’approvisionnement internationales sans booster immédiatement les ventes. Cela marque un tournant pour sa défense dépendante des alliés.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/21/le-japon-abandonne-ses-restrictions-sur-l-exportation-d-armes-letales-et-s-ouvre-au-marche-mondial-de-la-defense_6681961_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "France affirme soutenir création de tribunal spécial pour crimes en Ukraine",
+      "source": "20 Minutes",
+      "summary": "La France endosse un tribunal spécial sur le conflit russo-ukrainien. Cela vise à juger responsables et renforce le soutien occidental à Kiev face à l’invasion prolongée.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4219416-20260421-direct-guerre-ukraine-france-affirme-soutenir-creation-tribunal-special-ukraine?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Emmanuel Macron reçoit Premier ministre libanais Nawaf Salam à l’Élysée",
+      "source": "France 24",
+      "summary": "Macron réaffirme soutien au cessez-le-feu Israël-Hezbollah après mort d’un Casque bleu français au Liban. Cela stabilise la région et honore l’ONU.",
+      "link": "https://www.france24.com/fr/france/20260421-emmanuel-macron-re%C3%A7oit-premier-ministre-libanais-nawaf-salam-france-liban",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Tireur tue touriste canadienne et blesse 13 étrangers près pyramides de Teotihuacan",
+      "source": "Radio-Canada",
+      "summary": "Un tireur abat une Canadienne et en blesse 13 dont un enfant colombien au Mexique. Les autorités enquêtent sur ce crime touristique affectant la sécurité régionale.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2247532/canadienne-morte-balles-mexique-teotihuacan",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Franco-Danois de 30 ans écope de six ans de prison pour incitation au terrorisme au Danemark",
+      "source": "20 Minutes",
+      "summary": "Un homme partage contenus ultradroite sur Telegram dans réseau suprémaciste blanc. La condamnation renforce lutte contre extrémisme en ligne en Europe.",
+      "link": "https://www.20minutes.fr/monde/4219419-20260421-danemark-franco-danois-condamne-six-ans-prison-incitation-terrorisme?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Partie de population russe exprime mécontentement croissant contre Vladimir Poutine",
+      "source": "Le Monde",
+      "summary": "Coupures Internet, économie faible et guerre Ukraine minent popularité de Poutine selon sondage. Cela révèle fissures internes en Russie.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/21/en-russie-le-mecontentement-contre-vladimir-poutine-affleure-parmi-la-population_6681877_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 1,
+      "politics": 4
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 4,
+      "asia-pacific": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 2,
+      "also": 5
+    }
+  }
+}

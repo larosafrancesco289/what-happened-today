@@ -1,0 +1,180 @@
+{
+  "date": "2026-04-21",
+  "summary": "Japan's Cabinet approved guidelines ending the postwar ban on lethal weapons exports. The policy shift enables sales of fighter jets and drones amid threats from China and North Korea. Japan's arms industry receives a boost, and defense spending increases. Global arms trade expands as a result.\n\nIn eastern Congo, Rwanda-backed rebels overran Congolese troops using gunfire and shelling before entering Goma city, a safe-haven for over one million displaced residents. Civilians and aid operations face disruptions; evacuation efforts continue. Separately, displaced Palestinians crossed a military zone on foot into northern Gaza after Israel broke a hostage deal deadlock. Hundreds of thousands return amid reconstruction challenges. In Ukraine, armed unmanned ground vehicles carrying bombs and guns deployed for attacks to address ground troop shortages. Frontline soldiers avoid risks; Russia positions targeted.\n\nChina's nuclear association reported capacity to build 50 reactors simultaneously across full project cycles. The energy sector advances clean power; China positions for nuclear technology exports. Developer Vanke reported massive losses, widening the real estate crisis. Homebuyers, investors, and the economy affected; state intervention considered. A federal judge sentenced Purdue Pharma to forfeit $225 million to the Justice Department, resolving opioid charges and enabling settlements in thousands of lawsuits. Victims and states receive funds. A gunman killed one Canadian and wounded 13 tourists atop Teotihuacan pyramids in Mexico; authorities investigate motive. Three Japan Ground Self-Defense Force members died in a tank explosion during training at Hijudai maneuver area in Oita Prefecture; investigation underway.\"}",
+  "headlines": [
+    {
+      "title": "Japan's Cabinet Approves Scrapping Ban on Lethal Weapons Exports",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "Deutsche Welle",
+        "NPR News"
+      ],
+      "summary": "Japan's Cabinet approves guidelines ending postwar ban on lethal weapons exports amid threats from China and North Korea, boosting arms industry and defense spending. Global arms trade affected; enables sales of fighter jets and drones. Marks major shift in pacifist policy.",
+      "link": "https://apnews.com/article/japan-lethal-weapons-export-takaichi-767250e58084ea3d585ab736372deeac",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Details Cabinet approval of new guideline as change in pacifist policy over regional aggression",
+          "link": "https://apnews.com/article/japan-lethal-weapons-export-takaichi-767250e58084ea3d585ab736372deeac"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Emphasizes end to decades-old ban expanding advanced defense equipment exports",
+          "link": "https://www.dw.com/en/japan-ends-decades-old-ban-on-lethal-arms-exports-in-major-policy-shift/a-76874734?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Highlights clearance of hurdles for sales of next-generation fighter jets and drones",
+          "link": "https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Federal Judge Sentences Purdue Pharma to Forfeit $225 Million in Opioids Case",
+      "source": "Associated Press",
+      "summary": "Judge sentences OxyContin maker Purdue Pharma to forfeit $225 million to Justice Department, resolving federal charges and enabling settlements in thousands of opioid lawsuits. Victims and states receive funds; provides accountability in crisis killing hundreds of thousands.",
+      "link": "https://apnews.com/article/purdue-pharma-guilty-plea-sentencing-oxycontin-opioids-def8261eef8a6bfa23bb4aaa591314f8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Gunman Kills One Canadian, Wounds 13 Tourists at Teotihuacan Pyramids",
+      "source": "NPR News",
+      "summary": "Gunman atop historic Teotihuacan pyramid in Mexico shoots tourists, killing one Canadian and injuring at least 13 others. Visitors and tourism industry affected; authorities probe motive. Heightens security concerns for major archaeological site drawing millions yearly.",
+      "link": "https://www.npr.org/2026/04/21/g-s1-118185/gunman-pyramids-mexico",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Tank Explosion Kills Three Ground Self-Defense Force Members in Training",
+      "source": "Japan Times",
+      "summary": "Three Japan Ground Self-Defense Force members die in tank explosion during training at Hijudai maneuver area in Oita Prefecture. Military personnel affected; investigation underway. Underscores risks in Japan's expanding defense exercises amid policy shifts.",
+      "link": "https://www.japantimes.co.jp/news/2026/04/21/japan/japan-sdf-accident/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Ukraine Deploys Armed Robots to Offset Shortages of Ground Troops",
+      "source": "New York Times",
+      "summary": "Ukraine uses bomb- and gun-armed unmanned ground vehicles for attacks to protect soldiers amid troop shortages. Frontline troops spared risks; Russia targeted. Advances robotic warfare, potentially altering battlefield dynamics in prolonged conflict.",
+      "link": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "China Nuclear Association Reports Capacity to Build 50 Reactors Simultaneously",
+      "source": "South China Morning Post",
+      "summary": "China announces ability to construct up to 50 nuclear reactors at once across full project cycles, per nuclear association report. Energy sector and global nuclear market affected; accelerates clean power expansion. Positions China as leader in nuclear technology exports.",
+      "link": "https://www.scmp.com/economy/china-economy/article/3350847/chinas-vast-nuclear-power-sector-now-able-build-50-reactors-time?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "China Developer Vanke Reports Huge Losses in Property Crisis Spread",
+      "source": "Wall Street Journal",
+      "summary": "Leading developer Vanke discloses massive losses, indicating widening real estate woes across China. Homebuyers, investors and economy hit; state intervention eyed. Threatens financial stability in sector vital to GDP growth.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Troops and Enter Goma City After Shelling",
+      "source": "Wall Street Journal",
+      "summary": "Rwanda-backed rebels overrun Congolese troops with gunfire and shelling, entering Goma safe-haven city where over one million displaced residents shelter. Civilians and aid operations affected; evacuation efforts intensify. Escalates eastern Congo conflict.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels overran troops amid gunfire and shelling; more than one million displaced people now shelter inside Goma city",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Displaced Palestinians Cross Military Zone Back into Northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel allows displaced Palestinians to stream on foot into northern Gaza after breaking hostage deal deadlock. Hundreds of thousands affected; reconstruction challenges ahead. Eases humanitarian strain but conflict persists.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Residents begin crossing military zone bisecting enclave following hostage releases; returns proceed on foot",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 442,
+    "articlesAfterDedup": 440,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 1,
+      "economy": 2,
+      "conflict": 5,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 4,
+      "americas": 2,
+      "europe": 1,
+      "africa": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 2
+    }
+  }
+}

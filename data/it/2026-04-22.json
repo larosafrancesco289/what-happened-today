@@ -1,0 +1,191 @@
+{
+  "date": "2026-04-22",
+  "summary": "Donald Trump ha prorogato a tempo indeterminato la tregua con l'Iran su richiesta del Pakistan, per favorire nuovi negoziati. Teheran ha colpito una portacontainer, mentre gli Stati Uniti hanno catturato una nave iraniana con armi cinesi. Islamabad media per evitare escalation nello Stretto di Hormuz, che trasporta il 20% del petrolio mondiale. Questo fa seguito alla scadenza spostata a domani annunciata ieri da Trump, con minacce di bombe senza accordo.\n\nLufthansa ha cancellato 20.000 voli fino a ottobre, mantenendo solo rotte essenziali e risparmiando 40.000 tonnellate di jet-fuel a causa della crisi nello Stretto di Hormuz. L'Fbi ha aperto un'indagine su decessi e sparizioni di undici scienziati nucleari o spaziali negli ultimi anni, con coinvolgimento dei dipartimenti Energia e Difesa; Trump segue il caso. I democratici hanno approvato un referendum in Virginia che ridefinisce i collegi elettorali, in risposta a manovre repubblicane in Texas; ciò cambia equilibri al Congresso per le midterm.\n\nA Catanzaro una donna di 46 anni si è lanciata dal terzo piano con i tre figli: sono morti la madre, il bimbo di 4 mesi e quello di 4 anni; la figlia di 6 anni è grave. La procura indaga sul suicidio, con il marito presente in casa. In Florida è stata eseguita la quinta condanna a morte del 2026: Willacy, per aver dato fuoco alla vicina durante un furto, ha ricevuto iniezione letale. Oltre cento ex astronauti Nasa hanno lanciato 'Astronauts for America', iniziativa apartitica per difendere la Costituzione. Il governo italiano ha confermato un deficit del 3,1% nel 2025 per l'Istat, con crescita allo 0,5% nel 2026 secondo Bankitalia; l'uscita dalla procedura Ue è prevista nel 2027. Procuratori hanno rivelato intercettazioni in cui il governatore Toti ammette di aver aumentato i dati sui contagi Covid in Liguria; l'indagine continua.",
+  "headlines": [
+    {
+      "title": "Trump estende tregua con Iran a tempo indeterminato su richiesta Pakistan",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica",
+        "Euronews Italiano"
+      ],
+      "summary": "Donald Trump proroga il cessate il fuoco con l'Iran su richiesta del Pakistan per favorire nuovi negoziati, mentre Teheran colpisce una portacontainer e gli Usa catturano una nave iraniana con armi cinesi. Islamabad media per evitare escalation nello Stretto di Hormuz, che interessa la sicurezza energetica globale.",
+      "link": "https://www.agi.it/estero/news/2026-04-22/iran-guerra-notizie-22-aprile-36694968/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump concede proroga indefinita alla tregua richiesta da Pakistan, Iran attacca portacontainer e Usa sequestrano nave con armi cinesi violando embargo",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Saltano colloqui a Islamabad, Trump estende cessate il fuoco e ordina blocco navale",
+          "link": "https://www.agi.it/estero/news/2026-04-22/iran-guerra-notizie-22-aprile-36694968/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Crisi su Hormuz con irrigidimento parti sul blocco porti, Guardiani accusano violazione tregua",
+          "link": "https://www.repubblica.it/esteri/2026/04/22/news/negoziati_usa_iran_pakistan_la_crisi_su_hormuz_escalation-425297864/?rss"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Proroga concessa su richiesta premier e capo esercito pakistano per organizzare secondo round colloqui",
+          "link": "http://it.euronews.com/2026/04/22/trump-estende-a-tempo-indeterminato-il-cessate-il-fuoco-con-liran-su-richiesta-del-pakista"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donna si getta dalla finestra con tre figli a Catanzaro causando tre morti",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "Rai News"
+      ],
+      "summary": "A Catanzaro una donna di 46 anni si lancia dal terzo piano con i tre figli: muoiono la madre, il bimbo di 4 mesi e quello di 4 anni, grave la figlia di 6 anni. Il marito era in casa, vicini la descrivono schiva e religiosa. Procura indaga sul suicidio.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/22/donna-si-getta-dalla-finestra-con-3-figli-morti-mamma-e-2-bimbi_240ebe75-5dc8-4a46-93a6-311630343728.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Tragedia a Catanzaro con vittime di 4 anni e 4 mesi, grave sorellina di 5 anni e mezzo",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/22/donna-si-getta-dalla-finestra-con-3-figli-morti-mamma-e-2-bimbi_240ebe75-5dc8-4a46-93a6-311630343728.html"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Madre di 46 anni e due bimbi morti sul colpo, terza figlia di sei anni in gravi condizioni",
+          "link": "https://www.rainews.it/articoli/2026/04/madre-si-getta-dal-terzo-piano-con-in-braccio-i-figli-tre-morti-e-una-ferita-45e39c0c-6fc0-42be-b9e0-f48f9e7a4f7b.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Democratici vincono referendum su ridefinizione distretti in Virginia contro Trump",
+      "source": "la Repubblica",
+      "summary": "I democratici approvano referendum che ridefinisce collegi elettorali in Virginia, risposta a manovre repubblicane di Trump in Texas. Equilibri Congresso cambiano per midterm, Obama celebra difesa democrazia. Impatta futuro elezioni Usa.",
+      "link": "https://www.repubblica.it/esteri/2026/04/22/news/virginia_referendum_trump_midterm_congresso_usa-425298023/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Fbi apre indagine su morte o scomparsa undici scienziati in laboratori Usa",
+      "source": "AGI",
+      "summary": "L'Fbi indaga collegamenti tra decessi e sparizioni di undici scienziati nucleari o spaziali negli ultimi anni, con coinvolgimento dipartimenti Energia e Difesa. Trump segue caso, desta attenzione pubblica su possibili minacce sicurezza.",
+      "link": "https://www.agi.it/estero/news/2026-04-22/fbi-indagine-morte-scienziati-36696789/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Lufthansa cancella 20mila voli fino ottobre per crisi carburante Hormuz",
+      "source": "TGCOM24",
+      "summary": "Lufthansa sopprime 20.000 voli fino a ottobre mantenendo solo rotte essenziali, risparmia 40.000 tonnellate jet-fuel per crisi Stretto di Hormuz. Impatta viaggiatori europei e catene forniture, legato tensioni Usa-Iran.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-lufthansa-cancella-voli-carburante_111255478-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Eseguita condanna morte Florida su uomo che diede fuoco vicina durante furto",
+      "source": "Rai News",
+      "summary": "In Florida quinta esecuzione 2026: Willacy, condannato per aver dato fuoco alla vicina sorpresa durante furto, riceve iniezione letale ribadendo innocenza. Rivolto a famiglia vittima augura pace, procedimento conclude caso.",
+      "link": "https://www.rainews.it/articoli/2026/04/sorpreso-a-rubare-diede-fuoco-alla-vicina-eseguita-condanna-a-morte-in-florida-4a2d44f3-c1f2-426b-9e46-adb4ca14f43e.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Oltre cento ex astronauti Nasa lanciano iniziativa difesa Costituzione Usa",
+      "source": "ANSA",
+      "summary": "Oltre cento ex astronauti Nasa promuovono 'Astronauts for America', apartitica per difendere Costituzione americana. Iniziativa risponde tensioni politiche, mira rafforzare valori democratici presso elettori.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/21/oltre-cento-ex-astronauti-nasa-a-difesa-della-costituzione-usa_6db6c90a-4250-4724-a7d4-1e46cedb0d03.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo italiano conferma deficit 2025 al 3,1% uscita procedura Ue nel 2027",
+      "source": "Il Sole 24 Ore",
+      "summary": "Documento finanza pubblica conferma disavanzo 3,1% nel 2025 per Istat, crescita 2026 a +0,5% come Bankitalia. Italia esce procedura deficit Ue solo 2027, influenza bilancio e politiche economiche.",
+      "link": "https://www.ilsole24ore.com/art/deficit-2025-31percento-fuori-procedura-ue-solo-2027-AIS4OucC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Pm rivelano intercettazioni Toti ammette aumento dati contagi Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Procuratori accusano governatore Toti di manipolare numeri pandemia: intercettazione dice a capo gabinetto 'li ho un po’ aumentati'. Indagine continua su Liguria, solleva questioni accountability gestione Covid.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pm pubblicano intercettazioni dove Toti ammette di aver truccato dati contagi parlando con capo gabinetto Cozzani",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 19,
+    "categoryCounts": {
+      "politics": 4,
+      "society": 3,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4,
+      "americas": 4
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

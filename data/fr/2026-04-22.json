@@ -1,0 +1,184 @@
+{
+  "date": "2026-04-22",
+  "summary": "Les Gardiens de la Révolution iraniens ont tiré sur un porte-conteneurs au large d’Oman malgré la prolongation du cessez-le-feu par Donald Trump jusqu’à une proposition iranienne. Une vedette des Gardiens a ouvert le feu sur le navire, dont l’équipage est sain et sauf. Cela fait suite aux accusations mutuelles entre États-Unis et Iran de violations du cessez-le-feu dans le détroit d’Ormuz rapportées hier. Les tensions s’intensifient dans la région, et une réaction américaine est attendue.\n\nEn Europe, les pays européens anticipent la levée imminente du veto hongrois sur une aide de 90 milliards d’euros à l’Ukraine. Volodymyr Zelensky a annoncé la réparation de l’oléoduc Droujba, endommagé par des frappes russes. Cela débloque des fonds pour l’effort de guerre ukrainien face à l’invasion russe. Séparément, un rapport du Lancet Countdown 2026 indique que le climat d’origine humaine aggrave les problèmes de santé et augmente la mortalité en Europe, avec un risque de dengue multiplié par 297 % entre 2015-2024 par rapport à 1981-2010. En Asie, le président taïwanais Lai Ching-te a annulé un voyage officiel en Afrique après que Pékin a obtenu le refus de survols aériens par des États tiers.\n\nEn France, le ministre Sébastien Lecornu a élargi les aides aux carburants pour les grands rouleurs aux revenus modestes, portant le coût mensuel de 70 à 180 millions d’euros. Aux États-Unis, le procureur de Floride a ouvert une enquête criminelle contre OpenAI après qu’un suspect de la fusillade de Florida State en avril 2025 a utilisé ChatGPT pour préparer l’attaque. En Afrique, des banques centrales comme celle d’Ouganda achètent de l’or local pour leurs réserves de change, visant à réduire la vulnérabilité aux fluctuations des marchés. Au Canada, Mark Carney a dévoilé un comité sur les relations économiques avec les États-Unis, incluant Jean Charest, Valérie Beaudoin, Erin O’Toole et Magali Picard.",
+  "headlines": [
+    {
+      "title": "Gardiens de la Révolution iraniens tirent sur porte-conteneurs au large d’Oman malgré cessez-le-feu prolongé",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "20 Minutes",
+        "Liberation",
+        "France Info"
+      ],
+      "summary": "Malgré prolongation du cessez-le-feu par Donald Trump jusqu’à proposition iranienne, une vedette des Gardiens de la Révolution a tiré sur un porte-conteneurs au large d’Oman ; équipage sain et sauf. Cela ravive tensions dans détroit d’Ormuz et questionne fiabilité trêve.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-israel-liban-pakistan-negociations-pourparlers-cessez-le-feu-donald-trump-benyamin-netanyahou-detroit-ormuz-20260422",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Gardiens de la Révolution tirent sur porte-conteneurs au large d’Oman, équipage sain et sauf ; Donald Trump prolonge cessez-le-feu jusqu’à proposition unifiée iranienne",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Ouvre avec tirs iraniens sur porte-conteneurs malgré prolongation cessez-le-feu Trump",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-israel-liban-pakistan-negociations-pourparlers-cessez-le-feu-donald-trump-benyamin-netanyahou-detroit-ormuz-20260422"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Suit situation en direct Moyen-Orient avec incident naval et prolongation trêve",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4219644-20260422-direct-guerre-moyen-orient-liban-exige-retrait-total-forces-israeliennes-territoire?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Signale Iran vise porte-conteneurs détroit d’Ormuz heures avant fin initiale trêve",
+          "link": "https://www.liberation.fr/international/amerique/en-direct-guerre-au-moyen-orient-les-etats-unis-disent-cibler-directement-les-sources-de-revenus-de-liran-20260422_FC6LKZZM4BELXKLLMOEKFMMMNM/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Précise vedette Gardiens ouvre feu sur porte-conteneur équipage sain et sauf",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-donald-trump-prolonge-la-treve-en-iran-teheran-n-a-pas-encore-reagi_7956038.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Européens anticipent levée veto hongrois pour aide de 90 milliards d’euros à l’Ukraine",
+      "source": "Le Monde",
+      "summary": "Volodymyr Zelensky annonce réparation oléoduc Droujba endommagé par frappes russes ; Européens croient veto Budapest levé imminent. Cela débloque fonds cruciaux pour effort de guerre ukrainien face à invasion russe.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/21/aide-de-90-milliards-a-l-ukraine-les-europeens-croient-a-la-levee-imminente-du-veto-hongrois_6682058_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Changement climatique aggrave problèmes de santé et pertes de vies en Europe selon rapport Lancet 2026",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France Info"
+      ],
+      "summary": "Rapport Lancet Countdown 2026 indique climat d’origine humaine cause aggravation santé Europe et hausse mortalité ; risque dengue +297 % entre 2015-2024 vs 1981-2010. Cela alerte sur impacts sanitaires croissants.",
+      "link": "https://www.rfi.fr/fr/environnement/20260422-environnement-le-changement-climatique-aggrave-les-probl%C3%A8mes-de-sant%C3%A9-en-europe-selon-un-rapport",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Présente rapport Lancet 2026 sans appel sur aggravation santé Europe par climat",
+          "link": "https://www.rfi.fr/fr/environnement/20260422-environnement-le-changement-climatique-aggrave-les-probl%C3%A8mes-de-sant%C3%A9-en-europe-selon-un-rapport"
+        },
+        {
+          "source": "France Info",
+          "angle": "Détaille risques dengue +297 %, Zika et fièvre hémorragique dues températures",
+          "link": "https://www.franceinfo.fr/environnement/dengue-zika-fievre-hemorragique-quelles-sont-les-maladies-qui-menacent-l-europe-sous-l-effet-de-la-hausse-des-temperatures-et-de-la-crise-climatique_7945703.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Président taïwanais Lai Ching-te annule déplacement Afrique après refus survols imposés par Pékin",
+      "source": "RFI",
+      "summary": "Lai Ching-te contraint d’annuler voyage officiel Afrique suite pressions chinoises via refus survols aériens par États tiers. Cela souligne influence diplomatique concrète Pékin sur décisions souveraines.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260422-le-pr%C3%A9sident-ta%C3%AFwanais-contraint-d-annuler-un-d%C3%A9placement-en-afrique-apr%C3%A8s-des-pressions-de-p%C3%A9kin",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Ministre Lecornu élargit aides carburants à grands rouleurs revenus modestes pour 180 millions d’euros mensuels",
+      "source": "Le Monde",
+      "summary": "Sébastien Lecornu porte coût dispositif de 70 à 180 millions d’euros par mois pour soutenir grands rouleurs modestes face hausse prix. Cela compense tensions budgétaires tout en ciblant ménages vulnérables.",
+      "link": "https://www.lemonde.fr/politique/article/2026/04/21/carburants-lecornu-va-aider-les-grands-rouleurs-aux-revenus-tres-modestes_6682044_823448.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Procureur Floride ouvre enquête criminelle contre OpenAI après fusillade campus Florida State avril 2025",
+      "source": "20 Minutes",
+      "summary": "Suspect fusillade meurtrière Florida State aurait utilisé ChatGPT pour préparer attaque ; procureur lance enquête inédite contre OpenAI. Cela interroge responsabilité outils IA dans crimes planifiés.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4219602-20260421-etats-unis-chatgpt-vise-enquete-criminelle-apres-tuerie-campus-floride?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Banques centrales africaines achètent production or locale pour remplir réserves de change",
+      "source": "RFI",
+      "summary": "Banque centrale ougandaise commence achats or local pour réserves, suivie initiatives similaires ; objectif réduit vulnérabilité fluctuations marchés. Cela booste production continentale et diversification monnaies.",
+      "link": "https://www.rfi.fr/fr/afrique/20260422-les-banques-centrales-africaines-remplissent-leurs-stocks-d-or-en-favorisant-la-production-locale",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "economy",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Mark Carney dévoile comité relations économiques Canada-États-Unis avec Jean Charest et autres membres",
+      "source": "Radio-Canada",
+      "summary": "Mark Carney nomme Jean Charest, Valérie Beaudoin, Erin O’Toole et Magali Picard au comité ; vise renforcer liens bilatéraux. Cela répond tensions potentielles sous administration Trump.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2247653/carney-nouveau-comite-relations-usa",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 16,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 2,
+      "environment": 1,
+      "society": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 3,
+      "asia-pacific": 1,
+      "americas": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

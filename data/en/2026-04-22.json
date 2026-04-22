@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-22",
+  "summary": "Iran's Revolutionary Guard opened fire on a container ship in the Strait of Hormuz on Wednesday morning, damaging the vessel during failed ceasefire talks in Pakistan. No injuries or environmental damage occurred. The Strait carries 20 percent of global oil shipments. Separately, U.S. President Trump extended the ceasefire with Iran indefinitely at Pakistan's mediation request, amid Iran's financial strain from port blockades. The U.S. held off on strikes, buying time for diplomacy while tensions continue over the strait.\n\nNATO launched its first alliance-wide response after another deep-sea cable severed in the Baltic Sea, amid a suspected sabotage campaign targeting communications and energy networks. The action aims to protect critical undersea infrastructure. In eastern Democratic Republic of Congo, Rwanda-backed rebels entered Goma city after overrunning Congolese troops, prompting gunfire and shelling. The U.N. reports over one million displaced people now inside the aid hub city.\n\nSpaceX launched four astronauts, including two from NASA, on a Falcon 9 from Kennedy Space Center Friday evening to retrieve Butch Wilmore and Suni Williams from the International Space Station after their nine-month stay. Virginia voters approved a Democratic-favored congressional redistricting map Tuesday, potentially adding four U.S. House seats for Democrats ahead of midterms. A U.S. appeals court upheld Texas's law requiring Ten Commandments displays in public school classrooms, setting up possible Supreme Court review. Mexico increased security at tourist sites following the Teotihuacan Pyramids shooting that killed one Canadian and wounded 13 others.\n{\"}",
+  "headlines": [
+    {
+      "title": "Iran's Revolutionary Guard Fires on Container Ship in Strait of Hormuz",
+      "source": "Associated Press",
+      "sources": [
+        "Associated Press",
+        "The Hindu"
+      ],
+      "summary": "Iran's paramilitary Guard opened fire on a container ship Wednesday morning in the Strait of Hormuz, damaging it amid failed ceasefire talks in Pakistan. No injuries or environmental damage reported. Escalation raises risks to global oil shipping through vital chokepoint.",
+      "link": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Associated Press",
+          "angle": "Details Guard gunboat attack at 7:55 a.m. and ceasefire talks failure",
+          "link": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Notes no injuries and no environmental impact from the incident",
+          "link": "https://www.thehindu.com/news/international/iran-fires-on-container-ship-in-strait-of-hormuz/article70891689.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. President Trump Extends Ceasefire with Iran Indefinitely",
+      "source": "New York Times",
+      "sources": [
+        "Japan Times",
+        "Al Jazeera",
+        "France 24",
+        "New York Times",
+        "BBC"
+      ],
+      "summary": "Trump prolongs the ceasefire set to expire soon at Pakistan's mediation request, amid stalled talks and Iran's financial strain from port blockades. U.S. holds off strikes. Move buys time for diplomacy but tensions persist over Strait of Hormuz.",
+      "link": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Japan Times",
+          "angle": "Highlights Pakistan mediation request to hold off U.S. strikes",
+          "link": "https://www.japantimes.co.jp/news/2026/04/22/world/politics/trump-iran-truce-blockade-talks/"
+        },
+        {
+          "source": "Al Jazeera",
+          "angle": "Frames as day 54 update with Trump awaiting Iran proposal",
+          "link": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Covers Trump claim of Iran financial collapse from blockade",
+          "link": "https://www.france24.com/en/middle-east/20260422-live-us-will-extend-ceasefire-unclear-if-iran-agrees-war"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO launches its initial alliance-wide action after another deep-sea cable severs in the Baltic Sea amid suspected sabotage campaign. Critical infrastructure at risk. Response aims to protect undersea networks vital for communications and energy.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX Launches Four Astronauts to Retrieve NASA Crew Stuck on ISS Nine Months",
+      "source": "Voice of America",
+      "summary": "SpaceX Falcon 9 carries Crew-10 including two NASA astronauts from Kennedy Space Center Friday evening. Targets return of Butch Wilmore and Suni Williams. Routine rotation enables their homecoming after extended stay.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Virginia Voters Approve Democratic Redistricting Map Adding Four House Seats",
+      "source": "NPR",
+      "sources": [
+        "NPR",
+        "France 24"
+      ],
+      "summary": "Voters back new congressional map Tuesday favoring Democrats, potentially gaining four U.S. House seats ahead of midterms. Counters Republican gerrymandering. Reshapes tight congressional control battle.",
+      "link": "https://www.npr.org/2026/04/21/nx-s1-5793878/virginia-redistricting-results-trump",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "NPR",
+          "angle": "Emphasizes Democratic win to pick up four House seats",
+          "link": "https://www.npr.org/2026/04/21/nx-s1-5793878/virginia-redistricting-results-trump"
+        },
+        {
+          "source": "France 24",
+          "angle": "Links to midterm stakes and national gerrymandering fight",
+          "link": "https://www.france24.com/en/americas/20260422-virginia-redistricting-vote-could-boost-democrats-in-us-midterms"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. Appeals Court Rules Texas Can Require Ten Commandments in Public School Classrooms",
+      "source": "Associated Press",
+      "summary": "Fifth Circuit upholds Texas law mandating Ten Commandments displays Tuesday, aiding conservative push for religion in schools. Sets stage for Supreme Court review. Impacts separation of church and state debates.",
+      "link": "https://apnews.com/article/texas-ten-commandments-law-public-schools-scotus-43e679cf473e6b98b091d575578824eb",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Goma City After Overrunning Congolese Troops",
+      "source": "Wall Street Journal",
+      "summary": "Rebels prompt gunfire and shelling in Goma; U.N. says over one million displaced now inside safe-haven city. Threatens aid hub stability.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Rebels now inside Goma with gunfire, shelling; over 1 million displaced reported within city limits",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Mexico Boosts Security at Tourist Sites After Teotihuacan Pyramids Shooting",
+      "source": "NPR",
+      "summary": "Government increases measures at attractions ahead of World Cup following gunman killing one Canadian and wounding 13. Enhances visitor safety.",
+      "link": "https://www.npr.org/2026/04/22/g-s1-118305/mexico-to-beef-up-security-at-tourist-sites",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Announces security buildup at sites preparing for World Cup",
+      "sources": [
+        "NPR"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 13,
+    "articlesProcessed": 443,
+    "articlesAfterDedup": 439,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "americas": 4,
+      "europe": 1,
+      "global": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 2
+    }
+  }
+}

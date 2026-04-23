@@ -1,0 +1,177 @@
+{
+  "date": "2026-04-23",
+  "summary": "Le Guardie della Rivoluzione iraniane hanno sequestrato due navi cargo e colpito una terza nello Stretto di Hormuz, in rappresaglia all'abbordaggio americano di una nave iraniana. Tra le navi coinvolte figura una mercantile della compagnia MSC. Gli Stati Uniti hanno ordinato a 31 navi di invertire la rotta a causa del blocco. Questo evento fa seguito alla crisi del carburante nello Stretto che ha portato Lufthansa a cancellare 20.000 voli fino a ottobre. Si prevede un possibile impatto sul traffico petrolifero globale.\n\nDonald Trump ha annunciato un vertice con l'Iran a Islamabad entro due giorni, proponendo una tregua limitata. Teheran accusa Trump di mentire e condiziona i negoziati allo sblocco dello Stretto di Hormuz. Questo fa seguito all'estensione della tregua a tempo indeterminato annunciata ieri su richiesta del Pakistan; il 1º maggio scade il periodo di 60 giorni dal conflitto, richiedendo l'approvazione del Congresso Usa. A Cipro, i leader Ue si sono riuniti per un vertice informale su guerra in Ucraina, crisi in Medio Oriente, energia, difesa comune e bilancio 2028-2034. Cipro ha usato l'evento per rassicurare i turisti sulla sicurezza nonostante le tensioni mediorientali.\n\nL'Unione Europea ha approvato un prestito per l'Ucraina e misure contro la crisi energetica. Il principe Harry è arrivato a Kiev in treno per una visita non annunciata, confermata da agenzie ucraine, per sostenere i soldati contro la Russia; si tratta della sua visita dal 2022. La commissione bicamerale italiana sui femminicidi ha approvato all'unanimità un reato per contenuti sessuali generati da intelligenza artificiale, con daspo digitale e divieto di internet per chi è in domiciliari, dopo casi come Mia Moglie e Phica.eu. Ricercatori hanno scoperto una molecola che rende i tumori visibili al sistema immunitario, potenziando l'immunoterapia. Procuratori hanno rivelato intercettazioni in cui il governatore ligure Giovanni Toti ammette con il capo gabinetto Cozzani di aver truccato i dati sui contagi Covid in Liguria.",
+  "headlines": [
+    {
+      "title": "Guardie rivoluzionarie iraniane sequestrano due navi cargo e colpiscono una terza nello Stretto di Hormuz",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "I pasdaran hanno sequestrato due navi cargo e colpito una terza in rappresaglia all'abbordaggio americano, coinvolgendo anche una mercantile MSC. Gli Usa ordinano a 31 navi di invertire la rotta per il blocco. L'escalation rischia di bloccare il traffico petrolifero globale e alza la tensione nel negoziato con Trump.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/23/medio-oriente-alta-tensione-nello-stretto-gli-usa-ordinano-a-31-navi_d6a4166e-d47d-41bb-839e-18657be3da1d.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Descrive alta tensione nello Stretto con Usa che ordinano 31 navi di invertire rotta dopo sequestri pasdaran",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/23/medio-oriente-alta-tensione-nello-stretto-gli-usa-ordinano-a-31-navi_d6a4166e-d47d-41bb-839e-18657be3da1d.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta sequestro tre mercantili da parte di Teheran inclusa Msc come rappresaglia contro abbordaggio americano",
+          "link": "https://www.repubblica.it/esteri/2026/04/23/news/iran_ferma_tre_navi_msc_petroliera_stretto_hormuz-425300126/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Menziona Usa che fanno tornare indietro 31 navi e scadenza primo maggio per pressione su Trump",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-aprile_111289486-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Leader Ue si riuniscono a Cipro per vertice informale su Ucraina Medio Oriente energia e bilancio",
+      "source": "AGI",
+      "summary": "I capi di Stato e governo Ue discutono Ucraina guerra Medio Oriente crisi energetica mutua difesa e bilancio 2028-2034. Cipro usa l'evento per rassicurare turisti sulla sicurezza vicino tensioni mediorientali. La riunione influenzerà politiche Ue su sicurezza e economia.",
+      "link": "https://www.agi.it/estero/news/2026-04-23/cipro-ue-36714168/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Commissione bicamerale sui femminicidi approva reato per contenuti sessuali generati da intelligenza artificiale",
+      "source": "Il Sole 24 Ore",
+      "summary": "La commissione approva all'unanimità misure contro foto rubate o da Ai dopo casi come Mia Moglie e Phica.eu che hanno colpito politici e vip. Introduce daspo digitale e divieto internet per domiciliari. Le norme mirano a tutelare vittime di revenge porn digitale.",
+      "link": "https://www.ilsole24ore.com/art/la-commissione-femminicidi-all-unanimita-sia-reato-generare-contenuti-sessuali-l-ai-AIQXd5dC",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Unione Europea approva prestito per Ucraina e interviene contro crisi energetica",
+      "source": "Euronews Italiano",
+      "summary": "L'Ue dà via libera a prestito per Kiev e misure sulla crisi energetica discussa nel programma Europe Today. Coinvolge leader europei in contesto di tensioni globali. L'intervento sostiene economia ucraina e stabilizza prezzi energia per cittadini Ue.",
+      "link": "http://it.euronews.com/my-europe/2026/04/23/europe-today-via-libera-al-prestito-allucraina-lue-interviene-contro-la-crisi-energetica",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Principe Harry arriva a sorpresa a Kiev per sostenere soldati ucraini",
+      "source": "AGI",
+      "summary": "Harry sbarca a Kiev via treno per visita non annunciata, come confermato da agenzie ucraine. Dal 2022 visita Ucraina per appoggio ai militari contro Russia. Il gesto rafforza legami Regno Unito-Ucraina in guerra.",
+      "link": "https://www.agi.it/estero/news/2026-04-23/harry-visita-ucraina-36715225/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ricercatori scoprono molecola che rende tumori visibili al sistema immunitario",
+      "source": "ANSA",
+      "summary": "La molecola strappa il mantello di invisibilità ai tumori permettendo al sistema immunitario di riconoscerli e potenzia immunoterapia. Coinvolge scienziati biotech. La scoperta promette trattamenti più efficaci contro cancro.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/04/22/trovata-la-strategia-per-strappare-ai-tumori-il-mantello-dellinvisibilita-_475ff619-c232-498b-834d-034d45c63b7c.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Trump annuncia vertice con Iran a Islamabad entro due giorni nonostante accuse Teheran",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Trump spinge per incontro domani a Islamabad con tregua limitata ma Iran lo accusa di bugie e rallenta fino a sblocco Hormuz. Primo maggio scade 60 giorni conflitto richiedendo ok Congresso. Aumenta pressione per pace e dimissioni segretaria Marina Usa.",
+      "link": "https://www.repubblica.it/esteri/2026/04/23/news/trump_rilancia_islamabad_vertice_iran_tempo_bugie-425300155/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump propone vertice Islamabad domani Iran accusa bugie e cita scadenza primo maggio con dimissioni segretaria Marina Usa",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Enfatizza fretta Trump per vertice entro due giorni e rallentamento Iran con accuse di bugie",
+          "link": "https://www.repubblica.it/esteri/2026/04/23/news/trump_rilancia_islamabad_vertice_iran_tempo_bugie-425300155/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta scadenza primo maggio che aumenta pressione su Trump e dimissioni segretario Marina",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-aprile_111289486-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Procuratori rivelano intercettazioni in cui Toti ammette di aver truccato dati contagi Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "I pm pubblicano intercettazioni dove governatore Toti dice al capo gabinetto Cozzani di aver aumentato dati contagi. Coinvolge Regione Liguria durante pandemia. L'inchiesta chiarisce manipolazioni statistiche e possibili responsabilità politiche.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pm rivelano dettagli intercettazioni con Toti che ammette aumento dati contagi al capo gabinetto",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 255,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 13,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 5,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 4,
+      "global": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 2
+    }
+  }
+}

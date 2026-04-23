@@ -1,0 +1,205 @@
+{
+  "date": "2026-04-23",
+  "summary": "L'armée américaine a ordonné à 31 navires, dont des pétroliers, de faire demi-tour et de quitter la zone du détroit d'Ormuz dans le cadre du blocus contre l'Iran. La plupart ont obéi. Cela fait suite aux tirs des Gardiens de la Révolution iraniens sur un porte-conteneurs au large d'Oman hier, malgré le cessez-le-feu prolongé. Les tensions maritimes persistent et impactent le commerce pétrolier mondial. Une poursuite du blocus est attendue.\n\nAu Liban sud, deux soldats français de la Finul sont morts dans une embuscade attribuée au Hezbollah. Le ministre français Jean-Noël Barrot qualifie l'attaque de crime de guerre et appelle à une enquête internationale, ce qui affecte la mission onusienne. Parallèlement, les ambassadeurs libanais et israéliens se réunissent à Washington sous médiation américaine pour prolonger d'un mois la trêve entrée en vigueur le 17 avril, après plus de 2400 tués et un million de déplacés côté libanais depuis mars. Une frappe israélienne a tué la journaliste libanaise Amal Khalil et blessé sa collègue Zeinab Faraj, le ministère libanais dénonçant une violation du droit humanitaire.\n\nLes dirigeants européens ont validé un prêt de 90 milliards d'euros à l'Ukraine lors du sommet de Chypre, où participait Volodymyr Zelensky, après la levée du veto hongrois anticipée hier. La France et le Royaume-Uni ont signé un accord de trois ans à Sandhurst pour contrer les traversées irrégulières de la Manche, avec 50 % de forces de l'ordre en plus et un financement britannique conditionné à l'efficacité. La Russie a suspendu les livraisons de pétrole kazakh via le pipeline Droujba, arrêté une citoyenne allemande et nationalisé des actifs de Wintershall Dea, tandis que Berlin soutient Kiev. À Port-au-Prince en Haïti, des affrontements entre gangs à Cité Soleil et Croix-des-Bouquets ont déplacé 5000 habitants pour le cinquième jour ; 700 soldats tchadiens arrivent dans le cadre de la mission internationale.",
+  "headlines": [
+    {
+      "title": "Ministre Barrot dénonce crime de guerre après mort deux Casques bleus français au Liban",
+      "source": "France Info",
+      "sources": [
+        "Le Figaro",
+        "Liberation",
+        "France 24",
+        "France Info"
+      ],
+      "summary": "Deux soldats français de la Finul meurent dans une embuscade attribuée au Hezbollah au Liban. Le ministre Jean-Noël Barrot qualifie l'attaque de crime de guerre sur franceinfo. Cela renforce les tensions et appelle à une enquête internationale, impactant la mission onusienne.",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/liban/mort-de-deux-soldats-francais-au-liban-s-en-prendre-a-des-soldats-de-la-paix-c-est-constitutif-d-un-crime-de-guerre-s-indigne-jean-noel-barrot_7958891.html#xtor=RSS-3-[lestitres]",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Ouvre sur dénonce ministre et contexte guerre Moyen-Orient",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-liban-pakistan-pourparlers-negociations-washington-donald-trump-benyamin-netanyahou-accord-paix-blocus-20260423"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Met en avant dénonce crime guerre après morts Casques bleus",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Démarre direct avec dénonce Barrot et pourparlers Liban-Israël",
+          "link": "https://www.france24.com/fr/moyen-orient/20260423-en-direct-moyen-orient-liban-pourparlers-israel-treve-etats-unis-iran-trump-ormuz"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Liban demande prolongation un mois cessez-le-feu lors négociations Washington avec Israël",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "RFI",
+        "France 24"
+      ],
+      "summary": "Ambassadeurs libanais et israéliens se réunissent à Washington sous médiation américaine pour prolonger trêve entrée vigueur 17 avril. Plus 2400 tués et un million déplacés côté libanais depuis mars. Cela vise à stabiliser front sud Liban.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/23/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-ordonne-a-31-navires-de-faire-demi-tour-depuis-le-debut-de-son-blocus_6681958_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille trêve depuis 17 avril et ordres US à pétroliers",
+          "link": "https://www.lemonde.fr/international/live/2026/04/23/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-ordonne-a-31-navires-de-faire-demi-tour-depuis-le-debut-de-son-blocus_6681958_3210.html"
+        },
+        {
+          "source": "RFI",
+          "angle": "Annonce reprise négociations après cessez-le-feu dix jours",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260423-en-direct-moyen-orient-un-nouveau-cycle-de-n%C3%A9gociations-pr%C3%A9vu-entre-le-liban-et-isra%C3%ABl"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Armée américaine ordonne 31 navires faire demi-tour depuis début blocus contre Iran",
+      "source": "RFI",
+      "sources": [
+        "Le Monde",
+        "RFI"
+      ],
+      "summary": "Dans cadre blocus Iran, armée US ordonne à 31 navires dont pétroliers de quitter zone Ormuz. La plupart obéit. Cela accentue tensions maritimes et impacte commerce pétrolier mondial.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260423-en-direct-moyen-orient-un-nouveau-cycle-de-n%C3%A9gociations-pr%C3%A9vu-entre-le-liban-et-isra%C3%ABl",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Frappe israélienne tue journaliste libanaise Amal Khalil sud Liban malgré trêve",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "20 Minutes",
+        "RTBF"
+      ],
+      "summary": "Amal Khalil décède poursuivie par armée israélienne après frappes sud Liban, collègue Zeinab Faraj blessée. Ministère libanais dénonce violation droit humanitaire. Cela questionne respect trêve par Israël.",
+      "link": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-la-journaliste-libanaise-amal-khalil-tuee-par-une-frappe-israelienne-20260423_P7VIGHKGYNEGFEIEOOYSCXJQGI/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Précise poursuite journaliste et collègue par armée israélienne",
+          "link": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-la-journaliste-libanaise-amal-khalil-tuee-par-une-frappe-israelienne-20260423_P7VIGHKGYNEGFEIEOOYSCXJQGI/"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Cite dénonce ministre information libanais crime grave",
+          "link": "https://www.20minutes.fr/monde/israel/4219843-20260423-liban-crime-grave-journaliste-tuee-frappe-israelienne-malgre-treve?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "France Royaume-Uni signent accord trois ans contre traversées irrégulières Manche",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Liberation"
+      ],
+      "summary": "Traité Sandhurst reconduit trois ans avec 50% forces ordre augmentées et financement britannique conditionné efficacité. Vise réduire immigration clandestine. Impacte coopération bilatérale post-Brexit.",
+      "link": "https://www.france24.com/fr/europe/20260422-immigration-illegale-france-royaume-uni-traversees-irr%C3%A9gulieres-manche-nouvel-accord",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Détaille reconduction Sandhurst et augmentation moitié forces ordre",
+          "link": "https://www.france24.com/fr/europe/20260422-immigration-illegale-france-royaume-uni-traversees-irr%C3%A9gulieres-manche-nouvel-accord"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Souligne conditionnement financement britannique à efficacité programme",
+          "link": "https://www.liberation.fr/international/europe/traversees-irregulieres-de-la-manche-la-france-et-le-royaume-uni-signent-un-nouvel-accord-20260423_RIDJVPSS3ZDTHOOP5IDCVMGLIU/"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Tensions diplomatiques s'intensifient entre Russie Allemagne sur fond guerre Ukraine",
+      "source": "RFI",
+      "summary": "Moscou suspend livraisons pétrole kazakh Droujba, arrête citoyenne allemande, nationalise actifs pétrogazière allemande. Berlin soutient Kiev. Cela risque escalade économique bilatérale.",
+      "link": "https://www.rfi.fr/fr/europe/20260423-regain-de-tensions-entre-moscou-et-berlin-sur-fond-de-guerre-en-ukraine",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Affrontements gangs Port-au-Prince déplacent 5000 habitants Haïti cinquième jour",
+      "source": "RFI",
+      "summary": "Gangs rivaux s'affrontent Cité Soleil et Croix-des-Bouquets près aéroport. 700 soldats tchadiens arrivent mission internationale. Aggrave crise humanitaire capitale.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260423-ha%C3%AFti-les-affrontements-entre-gangs-s-intensifient-%C3%A0-port-au-prince-et-forcent-5000-habitants-%C3%A0-se-d%C3%A9placer",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Dirigeants européens valident prêt 90 milliards euros Ukraine sommet Chypre Zelensky",
+      "source": "Le Monde",
+      "summary": "Volodymyr Zelensky participe sommet Chypre où européens actent prêt après blocage hongrois. Cela renforce soutien financier Kiev contre invasion russe.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/23/en-direct-guerre-en-ukraine-une-attaque-russe-sur-dnipro-fait-au-moins-deux-morts_6681322_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Sommet Chypre valide prêt 90 milliards euros après anticipation levée veto hongrois",
+      "sources": [
+        "Le Monde"
+      ],
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 208,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 2,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "middle-east": 3,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-24",
+  "summary": "Nella notte tra il 23 e il 24 aprile 2026, missili russi hanno colpito il porto di Odessa, danneggiando ospedali e scuole. L'attacco ha causato due morti e oltre una dozzina di feriti. Kiev ha denunciato l'offensiva come tentativo di bloccare gli aiuti via mare all'Ucraina. Questo fa seguito alla guerra in corso dal 2022, che ha già provocato difficoltà logistiche per Kiev. Si attendono ulteriori rifornimenti via terra e aria.\n\nI ministri Ue hanno approvato all'unanimità un prestito da 90 miliardi di euro per l'Ucraina e il ventesimo pacchetto di sanzioni contro la Russia, con 36 designazioni nel settore energetico, oltre a misure su commercio, finanza e propaganda. Questo supera i rinvii ungheresi e rafforza il sostegno a Kiev. Separatamente, Donald Trump ha annunciato da Washington una proroga di tre settimane al cessate il fuoco tra Israele e Libano. Ha escluso attacchi nucleari sull'Iran, ma ha intensificato la pressione militare ed economica per la denuclearizzazione iraniana, con priorità al controllo dello Stretto di Hormuz. Questo risponde ai sequestri di navi da parte delle Guardie rivoluzionarie iraniane dello Stretto, avvenuti ieri.\n\nIl Consiglio Ue informale a Cipro continua con incontri tra leader mediorientali, focalizzati su una possibile missione Ue in Libano simile a Unifil, oltre a Ucraina, energia e bilancio. A margine, leader di Grecia, Cipro, Italia e Malta hanno coordinato strategie per gestire i flussi migratori dal Medio Oriente e rafforzare le frontiere esterne Ue. Media riportano piani del Pentagono per un intervento nello Stretto di Hormuz in caso di rottura della tregua. In Italia, una guardia giurata, Antonio Fortebraccio, ha ucciso la moglie Stefania Rago, 46 anni, con quattro colpi di pistola d'ordinanza a Foggia; è fermato per omicidio. Una palazzina di quattro piani è crollata a Napoli, con vigili del fuoco che cercano dispersi tra le macerie di un stabile abbandonato usato da senzatetto. Peter Magyar valuta se estendere la giurisdizione della Procura europea alla corruzione in Ungheria dal 2021.",
+  "headlines": [
+    {
+      "title": "Forze russe colpiscono Odessa e uccidono due persone ferendone dozzine",
+      "source": "Euronews Italiano",
+      "summary": "Nella notte tra 23 e 24 aprile 2026, missili russi hanno attaccato il porto di Odessa colpendo ospedali e scuole: due morti e oltre una dozzina di feriti. Kiev denuncia l'offensiva che mira a bloccare aiuti via mare. L'episodio aggrava la guerra prolungata e le difficoltà logistiche ucraine.",
+      "link": "http://it.euronews.com/video/2026/04/24/ucraina-attacco-russo-su-odessa-2-morti-colpiti-ospedali-e-scuole-nella-notte",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Unione Europea approva prestito da 90 miliardi all'Ucraina e ventesimo pacchetto sanzioni Russia",
+      "source": "AGI",
+      "summary": "Dopo rinvii ungheresi, i ministri Ue approvano all'unanimità prestito da 90 miliardi di euro per Kiev e sanzioni antielusione con 36 designazioni energetiche russe. Misure colpiscono commercio, finanza e propaganda. Rafforza sostegno a Ucraina contro aggressione russa.",
+      "link": "https://www.agi.it/estero/news/2026-04-24/prestito-ucraina-sanzioni-russia-36723999/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump annuncia proroga di tre settimane al cessate il fuoco tra Israele e Libano",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Da Casa Bianca, Trump conferma proroga tregua Israele-Libano di tre settimane, esclude atomiche su Iran ma intensifica pressione militare ed economica per denuclearizzazione. Priorità a controllo Stretto di Hormuz. Strategia Usa risponde a tensioni mediorientali.",
+      "link": "https://www.agi.it/estero/news/2026-04-24/trump-guerra-iran-notizie-24-aprile-36732517/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Trump delinea strategia su Iran con enfasi su denuclearizzazione e controllo Stretto di Hormuz",
+          "link": "https://www.agi.it/estero/news/2026-04-24/trump-guerra-iran-notizie-24-aprile-36732517/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Media riportano Usa pronti attacco Hormuz se salta tregua e mail Pentagono su Spagna Nato",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-24-aprile_111323534-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Leader di Grecia Cipro Italia e Malta coordinano misure contro flussi migranti",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "A margine vertice Ue Cipro, i quattro leader discutono strategie comuni per gestire aumenti flussi legati a Medio Oriente e rafforzare frontiere esterne. Prevenire crisi come 2015. Coordinamento Ue riduce pressioni migratorie su Stati frontline.",
+      "link": "http://it.euronews.com/my-europe/2026/04/24/migranti-grecia-cipro-italia-e-malta-uniscono-le-forze-per-evitare-una-nuova-crisi",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Quattro Paesi esaminano misure comuni per flussi e frontiere a margine Consiglio Ue Cipro",
+          "link": "http://it.euronews.com/my-europe/2026/04/24/migranti-grecia-cipro-italia-e-malta-uniscono-le-forze-per-evitare-una-nuova-crisi"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Meloni allerta con leader su effetti guerra Medio Oriente e coordinamento frontiere",
+          "link": "https://www.ilsole24ore.com/art/migranti-l-italia-grecia-cipro-e-malta-prevenire-nuova-crisi-come-2015-AIZLrMgC"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Guardia giurata Antonio Fortebraccio uccide moglie Stefania Rago a Foggia",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Con pistola d'ordinanza, Fortebraccio spara quattro colpi alla moglie 46enne dopo litigio in via Salvemini: fermato per omicidio coniugale. Figli assenti. Terzo femminicidio recente. Indagine esclude denunce pregresse.",
+      "link": "https://www.agi.it/cronaca/news/2026-04-24/foggia-femminicidio-moglie-36733286/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Dettaglia fermato con accusa omicidio aggravato e contesto litigio domestico",
+          "link": "https://www.agi.it/cronaca/news/2026-04-24/foggia-femminicidio-moglie-36733286/"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Sottolinea terzo femminicidio in pochi giorni con marito fermato in carcere",
+          "link": "https://www.ilsole24ore.com/art/femminicidio-foggia-marito-uccide-moglie-colpi-pistola-AISzyFgC"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Palazzina di quattro piani crolla a Napoli e vigili del fuoco scavano macerie",
+      "source": "Rai News",
+      "summary": "Stabile abbandonato in centro città crolla: usato da senzatetto. Sgomberati tre edifici vicini. Ricerche in corso per dispersi. Evento evidenzia rischi edilizi degradati in aree urbane italiane.",
+      "link": "https://www.rainews.it/articoli/2026/04/napoli-crolla-palazzo-in-centro-si-scava-tra-le-macerie-d7201987-d6c8-4d0e-b90c-1908afbfe9dc.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Peter Magyar decide se Procura europea indaga corruzione Ungheria ultimi cinque anni",
+      "source": "Euronews Italiano",
+      "summary": "Nuovi membri Ue possono estendere giurisdizione Ep po su casi dal 2021. Magyar, figura chiave, decide per Ungheria. Potrebbe aprire indagini su amministrazione precedente e rafforzare lotta corruzione.",
+      "link": "http://it.euronews.com/my-europe/2026/04/24/ungheria-magyar-decidera-se-procura-europea-potra-indagare-sulla-precedente-amministrazion",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Consiglio Ue informale a Cipro continua con incontri leader mediorientali",
+      "source": "Rai News",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Summit si sposta a Nicosia con leader Libano Egitto Siria Giordania e segretario CCG per discutere Libano e quadro finanziario",
+      "summary": "Dopo ieri, lavori proseguono con focus su possibile missione Ue in Libano simile Unifil. Coinvolti Paesi mediorientali. Vertice affronta Ucraina, energia e bilancio Ue.",
+      "link": "https://www.rainews.it/maratona/2026/04/ue-lavori-del-consiglio-europeo-informale-i-leader-a-cipro-patto-ue-mediterraneo-quadro-finanziario-pluriennale-consigio-cooperazione-golfo-crisi-10d5002a-cd48-492c-91a2-eb2eda74acba.html",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Media riportano Usa preparano attacco Stretto Hormuz se salta tregua",
+      "source": "TGCOM24",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Prorogato cessate il fuoco Israele-Libano tre settimane ma attacchi segnalati e mail Pentagono ipotizza sospensione Spagna Nato",
+      "summary": "Fonti indicano piani Pentagono per Hormuz in caso rottura tregua; tensioni con Iran persistono dopo sequestri navi. Strategia risponde a escalation regionale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-24-aprile_111323534-202602k.shtml",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 233,
+    "articlesAfterDedup": 233,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 15,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "society": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 6,
+      "middle-east": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 2
+    }
+  }
+}

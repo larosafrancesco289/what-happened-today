@@ -1,0 +1,206 @@
+{
+  "date": "2026-04-24",
+  "summary": "The European Union approved a $106 billion loan package for Ukraine on Thursday after Hungary lifted its veto, resolving months of deadlock. The two-year funding supports Ukraine's economy and military needs amid its war with Russia. Funds will deploy soon to bolster defenses.\n\nIn Iran, generals from the Revolutionary Guards assumed collective leadership following the killing of Ayatollah Ali Khamenei, shifting power to military control. This affects ongoing nuclear talks and proxy operations across the Middle East. Israel and Lebanon extended their ceasefire by three weeks after a White House meeting brokered the deal, halting Israel-Hezbollah fighting along their border; violations have persisted. In the Democratic Republic of Congo, Rwanda-backed rebels overran Congolese troops with gunfire and shelling to enter Goma city, trapping over one million displaced people in the aid hub; the government plans a counteroffensive.\n\nNATO launched its first coordinated response to suspected sabotage after another deep-sea cable severed in the Baltic Sea; French Rafale jets from a Lithuania base scrambled to intercept Russian aircraft over the Baltic states. Israel allowed displaced Palestinians to cross a military zone back to northern Gaza following a hostage release deal, affecting over two million people in the enclave. Russian drones struck residential areas and a bulk carrier in Odesa overnight, killing a 75-year-old couple; Ukraine continues to strengthen air defenses. SpaceX launched Crew-10 on a Falcon 9 from Florida with four astronauts to relieve NASA crew Butch Wilmore and Suni Williams, stuck on the ISS since July; their return is expected soon. A US Fourth Circuit appeals court lifted a block on executive orders halting federal DEI initiatives. Authorities arrested two young people in Houston for plotting to drive through a synagogue crowd to kill Jews.",
+  "headlines": [
+    {
+      "title": "EU Approves $106 Billion Loan Package for Ukraine After Hungary Lifts Veto",
+      "source": "NPR News",
+      "summary": "The European Union approved a $106 billion loan on Thursday to support Ukraine's economic and military needs over two years, resolving months of deadlock. Ukraine gains critical funding amid war; funds deploy soon, bolstering defense against Russia.",
+      "link": "https://www.npr.org/2026/04/24/nx-s1-5798455/eu-approves-a-106-billion-loan-package-to-help-ukraine-after-hungary-lifts-its-veto",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iranian Revolutionary Guards Assume Leadership After Ayatollah Khamenei's Killing",
+      "source": "New York Times",
+      "summary": "Ayatollah Ali Khamenei's death leads to collective leadership by generals, empowering Revolutionary Guards. Iranians face shift to military rule; impacts regional stability as power consolidates, affecting nuclear talks and proxies.",
+      "link": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel and Lebanon Extend Ceasefire by Three Weeks After White House Meeting",
+      "source": "New York Times",
+      "sources": [
+        "New York Times",
+        "Deutsche Welle",
+        "France 24"
+      ],
+      "summary": "Israel and Lebanon agree to three-week truce extension following U.S.-brokered talks, halting Israel-Hezbollah fighting. Lebanese and Israeli border residents benefit; advances potential Iran peace, though violations persist.",
+      "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Trump links extension to advancing Iran peace agreement",
+          "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Extension occurs as US-Iran talks stall with Hormuz closed",
+          "link": "https://www.dw.com/en/israel-lebanon-to-extend-ceasefire-as-us-iran-talks-stall/live-76918799?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "France 24",
+          "angle": "Trump expresses optimism for full peace deal despite violations",
+          "link": "https://www.france24.com/en/middle-east/20260424-israel-lebanon-extend-ceasefire-as-trump-says-great-chance-for-peace-deal"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "source": "Wall Street Journal",
+      "summary": "Rebels capture Goma after gunfire and shelling, trapping over one million displaced in the aid hub. Congolese civilians and U.N. operations suffer; government plans counteroffensive amid humanitarian crisis.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO responds after another deep-sea cable severs in Baltic Sea amid sabotage suspicions. Alliance members protect infrastructure; signals heightened vigilance against hybrid threats from Russia.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "SpaceX Launches Four Astronauts to Retrieve NASA Crew Stuck on ISS Nine Months",
+      "source": "Voice of America",
+      "summary": "Crew-10 launches from Florida on Falcon 9 to relieve Butch Wilmore and Suni Williams, stuck since July. ISS operations normalize; return expected soon, ensuring rotation continuity.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Authorities Arrest Two Young People in Houston Synagogue Attack Plot",
+      "source": "NPR News",
+      "summary": "Two arrested for planning to drive through Houston synagogue crowd to kill Jews. Jewish community protected; investigation continues, highlighting rising threats to houses of worship.",
+      "link": "https://www.npr.org/2026/04/24/g-s1-118590/2-arrested-in-plot-to-attack-houston-synagogue",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Russian Drones Kill 75-Year-Old Couple in Odesa Residential Attack",
+      "source": "Al Jazeera English",
+      "summary": "Overnight drones strike Odesa homes and bulk carrier, killing elderly Ukrainian couple. Odesa residents face ongoing bombardment; Ukraine bolsters air defenses, prolonging war toll.",
+      "link": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israel Allows Palestinians to Return to Northern Gaza After Hostage Breakthrough",
+      "source": "Wall Street Journal",
+      "summary": "Displaced Gazans cross military zone back north following hostage release deal. Over 2 million Palestinians affected; eases enclave division, potential step toward broader truce.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US Appeals Court Lifts Block on Trump DEI Program Crackdown in Government",
+      "source": "Voice of America",
+      "summary": "Fourth Circuit rules executive orders halting federal DEI initiatives constitutional. Government workers and agencies adapt; enables enforcement, reshaping diversity policies nationwide.",
+      "link": "https://www.voanews.com/a/us-appeals-court-allows-dei-crackdown/8011570.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "French NATO Pilots Scramble to Intercept Russian Jets Over Baltic States",
+      "source": "Associated Press",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Routine air policing missions intensify amid regional tensions",
+      "summary": "French Rafale jets from Lithuania base scramble routinely against Russian aircraft, maintaining wary standoff. Baltic NATO allies ensure airspace security; prevents escalation in ongoing patrols.",
+      "link": "https://apnews.com/article/france-nato-russia-baltic-rafale-romania-5e60f8bb039282aa97fb076cbf1ca073",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 445,
+    "articlesAfterDedup": 443,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 7,
+      "politics": 2,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "middle-east": 3,
+      "africa": 1,
+      "global": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6,
+      "developing": 1
+    }
+  }
+}

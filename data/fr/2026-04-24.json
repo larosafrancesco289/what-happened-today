@@ -1,0 +1,184 @@
+{
+  "date": "2026-04-24",
+  "summary": "Donald Trump a annoncé jeudi une prolongation de trois semaines du cessez-le-feu entre Israël et le Liban, à l'issue de négociations à Washington. Cela fait suite à la demande du Liban pour un mois supplémentaire formulée hier. Israël et le Liban n'ont pas réagi immédiatement. La mesure stabilise le front libanais pour trois semaines, alors que les tensions avec l'Iran persistent. Prochaines étapes incluent une possible confirmation des parties impliquées.\n\nTrois porte-avions américains sont désormais positionnés dans l'océan Indien près du Moyen-Orient, avec l'arrivée de l'USS George Bush. Cela renforce la présence navale des États-Unis face aux tensions avec l'Iran. L'Iran a dénoncé un stratagème américain et des violations de trêve, réaffirmant son contrôle sur le détroit d'Ormuz par l'interception de deux navires. Ces actions compliquent les négociations américano-iraniennes sur le blocus naval initié récemment. La sécurité du trafic pétrolier est affectée.\n\nDes drones ukrainiens ont frappé le terminal pétrolier de Touapsé en Russie, provoquant un incendie depuis lundi et une pollution triplée dans l'atmosphère, le sol et la mer Noire. Les conséquences environnementales à long terme concernent la mer Noire. Zelensky a réuni des dirigeants européens sur les nouvelles frappes russes en Ukraine. Le Figaro a publié un récit détaillé de l'attaque du Hezbollah ayant tué deux soldats français au Liban. La confiance des ménages français a chuté au plus bas depuis mars 2022 selon l'INSEE, impactée par la guerre au Moyen-Orient après celle en Ukraine ; la consommation est affectée. DeepSeek, entreprise chinoise, a lancé un nouveau modèle d'intelligence artificielle open source plus performant, un an après son agent conversationnel économique, accélérant la concurrence mondiale sur l'IA accessible.",
+  "headlines": [
+    {
+      "title": "Donald Trump annonce prolongation trois semaines cessez-le-feu entre Israël et Liban",
+      "source": "Le Monde",
+      "sources": [
+        "RTBF",
+        "20 Minutes",
+        "Le Monde",
+        "France 24",
+        "RFI",
+        "Radio-Canada",
+        "Le Figaro",
+        "Liberation"
+      ],
+      "summary": "Donald Trump annonce jeudi prolongation de trois semaines du cessez-le-feu entre Israël et Liban après négociations à Washington. Israël et Liban n'ont pas réagi immédiatement. Cela stabilise temporairement le front libanais mais tensions persistent avec Iran.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/24/en-direct-guerre-au-moyen-orient-le-cessez-le-feu-entre-israel-et-le-liban-sera-prolonge-de-trois-semaines-annonce-donald-trump_6681958_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "Ouvre avec arrivée USS George Bush et annonce prolongation trois semaines par Trump",
+          "link": "https://www.rtbf.be/article/direct-guerre-au-moyen-orient-trump-annonce-une-prolongation-de-trois-semaines-de-la-treve-au-liban-pas-d-avancee-sur-l-iran-11714559"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Mentionne prolongation trêve Liban et exclusion arme nucléaire contre Iran",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4220052-20260424-guerre-moyen-orient-trump-assure-utilisera-arme-nucleaire-iran?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Détaille annonce Trump et hausse pétrole cinquième jour au-delà 105 dollars",
+          "link": "https://www.lemonde.fr/international/live/2026/04/24/en-direct-guerre-au-moyen-orient-le-cessez-le-feu-entre-israel-et-le-liban-sera-prolonge-de-trois-semaines-annonce-donald-trump_6681958_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trois porte-avions américains positionnés océan Indien près Moyen-Orient",
+      "source": "RTBF",
+      "sources": [
+        "RTBF"
+      ],
+      "summary": "USS George Bush arrive océan Indien portant à trois nombre porte-avions américains dans zone Moyen-Orient. Cela renforce présence navale US face tensions Iran. Impact sur négociations et sécurité maritime reste à évaluer.",
+      "link": "https://www.rtbf.be/article/direct-guerre-au-moyen-orient-trump-annonce-une-prolongation-de-trois-semaines-de-la-treve-au-liban-pas-d-avancee-sur-l-iran-11714559",
+      "tier": "top",
+      "framings": [],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Iran réaffirme emprise détroit Ormuz intercepte deux navires",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Iran dénonce stratagème américain et violations trêve puis réaffirme contrôle détroit Ormuz avec interception deux navires. Cela complique négociations US-Iran sur blocus. Sécurité trafic pétrolier menacée.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260424-en-direct-moyen-orient-apr%C3%A8s-la-prolongation-du-cessez-le-feu-l-iran-r%C3%A9affirme-son-emprise-sur-le-d%C3%A9troit-d-ormuz",
+      "tier": "also",
+      "framings": [],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Drones ukrainiens frappent terminal pétrolier russe Touapsé provoquent incendie pollution",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Frappe drones ukrainiens sur terminal pétrolier Touapsé en Russie cause incendie depuis lundi et pollution triple atmosphère sol mer Noire. Désastre écologique affecte mer Noire. Conséquences environnementales à long terme.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/24/en-mer-noire-pollution-ecologique-majeure-apres-une-frappe-de-drones-ukrainiens-sur-un-terminal-petrolier-russe_6683020_3210.html",
+      "tier": "also",
+      "framings": [],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Entreprise chinoise DeepSeek lance nouveau modèle intelligence artificielle open source",
+      "source": "France 24",
+      "sources": [
+        "France Info",
+        "France 24"
+      ],
+      "summary": "DeepSeek dévoile modèle IA plus performant open source un an après agent conversationnel économique. Industrie tech suit ambitions chinoises. Cela accélère concurrence mondiale IA accessible.",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260424-l-entreprise-chinoise-deepseek-annonce-un-nouveau-mod%C3%A8le-d-intelligence-artificielle",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "Présente annonce comme baromètre ambitions chinoises secteur IA",
+          "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-entreprise-chinoise-deepseek-lance-un-nouveau-modele-d-intelligence-artificielle_7961183.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "France 24",
+          "angle": "Rappelle impact précédent modèle économique sur concurrents américains",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260424-l-entreprise-chinoise-deepseek-annonce-un-nouveau-mod%C3%A8le-d-intelligence-artificielle"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Confiance ménages français chute plus forte depuis mars 2022 due guerre Moyen-Orient",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "INSEE mesure confiance ménages au plus bas depuis guerre Ukraine altérée par guerre Moyen-Orient en avril. Baisse record impacte consommation. Économistes surveillent répercussions inflation énergie.",
+      "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-en-avril-la-confiance-des-menages-a-subi-sa-plus-importante-baisse-depuis-mars-2022-20260424",
+      "tier": "also",
+      "framings": [],
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Le Figaro publie récit détaillé attaque Hezbollah tuant deux soldats français Liban",
+      "source": "Le Figaro",
+      "link": "https://www.lefigaro.fr/international/liban-le-recit-detaille-de-l-attaque-du-hezbollah-qui-a-coute-la-vie-a-deux-soldats-francais-20260424",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Publication récit précis embuscade village Al-Gandouriyé sud Liban une semaine après faits",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Zelensky réuni dirigeants européens nouvelles frappes Russie Ukraine",
+      "source": "20 Minutes",
+      "link": "https://www.20minutes.fr/monde/russie/4220028-20260424-direct-guerre-ukraine-zelensky-reuni-dirigeants-europeens-nouvelles-frappes-meurtrieres?at_medium=display&at_campaign=149",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Réunion suit validation prêt 90 milliards euros avec frappes russes meurtrières",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 202,
+    "articlesAfterDedup": 201,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 4,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "europe": 3,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4,
+      "developing": 2
+    }
+  }
+}

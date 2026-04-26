@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-26",
+  "summary": "Les services secrets américains ont évacué Donald Trump indemne lors du dîner des correspondants de la Maison Blanche à Washington. Un tireur isolé a forcé un point de contrôle à l'hôtel et ouvert le feu pendant le gala où participait Trump. Le suspect a été arrêté sur place. Les autorités fédérales enquêtent sur les motivations du tireur et prévoient d'examiner les protocoles de sécurité pour de futurs événements. Cet incident survient dans un contexte de vigilance accrue autour des personnalités politiques aux États-Unis.\n\nEn Colombie, une bombe a explosé pendant la campagne présidentielle, tuant au moins 14 personnes. Les autorités enquêtent sur les auteurs de l'attentat dans un contexte de violences liées aux élections, avec des candidats ayant déjà signalé des menaces. La police nationale coordonne les recherches et renforce la protection des meetings électoraux. Séparément, Israël a mené des frappes aériennes contre des cibles du Hezbollah dans le sud du Liban. Benyamin Nétanyahou a ordonné ces attaques suite à des violations du cessez-le-feu par le groupe chiite. Le Hezbollah a revendiqué des tirs antérieurs depuis la frontière, tandis qu'Israël vise à neutraliser les infrastructures du mouvement. Les deux parties accusent l'autre de première violation depuis l'accord de novembre 2024.\n\nLes enquêtes sur l'attentat colombien se poursuivent avec l'analyse des débris et des témoignages pour identifier les responsables. À Washington, les auditions préliminaires du suspect Trump sont attendues cette semaine. Au Liban, les frappes israéliennes ont causé des dommages matériels sans bilan humain immédiat rapporté ; une réponse du Hezbollah est surveillée par l'ONU et les pays voisins.",
+  "headlines": [
+    {
+      "title": "Services secrets évacuent Donald Trump indemne après tirs au dîner des correspondants de la Maison Blanche",
+      "source": "RTBF",
+      "sources": [
+        "RTBF",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Un tireur isolé force un point de contrôle à l'hôtel de Washington et ouvre le feu lors du gala de la presse où participait Donald Trump, évacué indemne. Le suspect est arrêté. Cet incident rare au cœur de Washington mobilise les autorités pour enquêter sur ses motivations et renforcer la sécurité.",
+      "link": "https://www.rtbf.be/article/donald-trump-evacue-et-indemne-apres-des-tirs-au-diner-des-correspondants-a-la-maison-blanche-le-tireur-arrete-11715469",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "Donald Trump évacué et indemne après tirs au dîner des correspondants, tireur arrêté avec photos et vidéos",
+          "link": "https://www.rtbf.be/article/donald-trump-evacue-et-indemne-apres-des-tirs-au-diner-des-correspondants-a-la-maison-blanche-le-tireur-arrete-11715469"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Trump évacué du gala des journalistes à Washington après coups de feu, première participation",
+          "link": "https://ici.radio-canada.ca/nouvelle/2249110/trump-gala-journalistes"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Tireur isolé force point de contrôle de sécurité à l'hôtel lors du gala avec Donald Trump",
+          "link": "https://www.20minutes.fr/monde/4220321-20260426-etats-unis-sait-tirs-gala-presse-participait-donald-trump?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Bombe explose et tue au moins 14 personnes en Colombie pendant campagne présidentielle",
+      "source": "20 Minutes",
+      "summary": "Un attentat à la bombe frappe la Colombie en pleine campagne électorale, causant au moins 14 morts. Les autorités enquêtent sur les auteurs dans un contexte de violences accrues. Cela menace la sécurité des élections et préoccupe les candidats.",
+      "link": "https://www.20minutes.fr/monde/4220315-20260426-puissant-attentat-bombe-foudroie-colombie-moins-14-morts?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Israël mène frappes aériennes contre Hezbollah dans le sud du Liban",
+      "source": "Radio-Canada",
+      "summary": "Benyamin Nétanyahou ordonne des attaques israéliennes dans le sud du Liban suite à des violations du cessez-le-feu par le Hezbollah. Les opérations visent des cibles du groupe. Cela risque d'escalader les tensions régionales frontalières.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2249097/frappes-israeliennes-liban-netanyahou-hezbollah",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 3,
+    "articlesProcessed": 206,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 6,
+    "categoryCounts": {
+      "conflict": 3
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 1
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-26",
+  "summary": "Secret Service agents evacuated President Trump and cabinet members from the White House Correspondents' Dinner at a Washington hotel after gunfire erupted nearby. A suspect is in custody. Trump is uninjured. The FBI leads the investigation into the incident.\n\nIn eastern Congo, Rwanda-backed rebels overran Congolese troops and entered Goma, an aid hub with over one million displaced residents. Gunfire and shelling occurred, affecting residents and United Nations operations. Monitors track the escalation, which strains humanitarian efforts. Separately in Mali, al-Qaida-linked JNIM militants and Tuareg separatists attacked Bamako airport and four cities in a coordinated assault, the largest in years. The strikes hit civilians and government targets. Malian forces responded. In southwest Colombia, FARC dissident guerrillas detonated a bomb on a highway, killing 14 people and injuring 38 travelers and civilians. The attack occurred amid pre-election violence. Colombian authorities increased security measures.\n\nA U.S. appeals court ruled President Trump's executive order suspending asylum access at the southern border illegal, upholding a lower court decision. The administration may appeal to the Supreme Court. The Justice Department authorized firing squads and single-drug injections for federal executions, with more scheduled. In related U.S. actions, the administration imposed sanctions on a major Chinese oil refinery and 40 shipping firms for transporting Iranian oil. Israel permitted displaced Palestinians to return on foot to northern Gaza after they crossed a military zone. Returns began following a pause in hostage release talks. NATO launched its first coordinated response to a severed deep-sea cable in the Baltic Sea amid a suspected sabotage campaign, protecting infrastructure for alliance members.",
+  "headlines": [
+    {
+      "title": "Secret Service evacuates President Trump from White House Correspondents' Dinner after gunfire",
+      "source": "NPR News",
+      "sources": [
+        "NPR News",
+        "ABC Australia",
+        "France 24",
+        "Deutsche Welle",
+        "The Hindu"
+      ],
+      "summary": "Gunfire erupts near Washington hotel during the dinner, prompting Secret Service to rush President Trump and cabinet members to safety. A suspect is in custody and Trump is uninjured. Investigation proceeds; underscores vulnerabilities in high-profile political events.",
+      "link": "https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "NPR News",
+          "angle": "Details Trump and cabinet safely rushed from event after loud sounds with suspect in custody",
+          "link": "https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Outlines timeline of shots during Trump's planned address leading to gala evacuation",
+          "link": "https://www.abc.net.au/news/2026-04-26/donald-trump-evacuated-during-shooting-in-washington-explained/106608156"
+        },
+        {
+          "source": "France 24",
+          "angle": "Describes guests ducking under tables as agents rush Trump off stage after shots",
+          "link": "https://www.france24.com/en/americas/20260426-%F0%9F%94%B4-suspected-gunshots-disrupt-white-house-correspondents-dinner-as-trump-rushed-out"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Confirms Trump uninjured with suspect in custody after evacuation at Washington Hilton",
+          "link": "https://www.dw.com/en/trump-uninjured-after-shooting-at-correspondents-dinner/live-76938867?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Names suspect Cole Tomas Allen as 31-year-old California tutor and programmer",
+          "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "FARC dissidents detonate bomb on Colombia highway killing 14 people",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Deutsche Welle"
+      ],
+      "summary": "Authorities blame FARC dissident guerrillas for highway bomb in southwest Colombia that kills 14 and injures 38 amid pre-election violence. Civilians and travelers affected; government boosts security. Threatens stability ahead of presidential vote.",
+      "link": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Highlights 14 killed and 38 injured with FARC blame ahead of presidential election",
+          "link": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Reports 14 deaths from guerrilla explosives on Pan-American Highway in violent region",
+          "link": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-14/a-76939450?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Congo safe-haven city of Goma",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overrun Congolese troops entering Goma, sparking gunfire and shelling with over one million displaced inside the aid hub. Residents and U.N. operations affected; monitors escalation. Strains humanitarian efforts in eastern Congo.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Appeals court blocks President Trump's asylum suspension at U.S. border",
+      "source": "Associated Press",
+      "summary": "U.S. appeals court rules Trump's executive order suspending asylum access illegal, upholding lower court. Migrants at southern border affected; administration may appeal. Impacts Republican immigration enforcement plans.",
+      "link": "https://apnews.com/article/trump-asylum-appeals-court-ed8f8f193579b757d7f384cd7f9e9e60",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Justice Department authorizes firing squads for federal executions",
+      "source": "Associated Press",
+      "summary": "Justice Department permits firing squads and single-drug injections to expedite capital punishment under Trump administration. Death row inmates and states affected; more executions planned. Signals policy shift toward harsher penalties.",
+      "link": "https://apnews.com/article/death-penalty-firing-squads-justice-department-9e81687b80402e1e19d57bbc55772470",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. sanctions Chinese oil refinery and 40 shippers for Iranian oil",
+      "source": "Associated Press",
+      "summary": "Trump administration targets major Chinese refinery and 40 shipping firms transporting Iranian oil. Companies and trade affected; enforcement ramps up. Pressures Iran economically and tests China relations.",
+      "link": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel allows displaced Palestinians to return to northern Gaza",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits Gazans to cross military zone into northern Gaza after hostage release deadlock breaks. Displaced residents affected; returns begin on foot. Eases humanitarian crisis but risks renewed conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Al-Qaida-linked JNIM attacks Mali airport and four cities",
+      "source": "The Guardian",
+      "summary": "JNIM militants and Tuareg separatists strike Bamako airport and four cities in coordinated assault. Civilians and government targets hit; largest in years. Military responds; heightens Sahel instability risks.",
+      "link": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "NATO deploys first coordinated response to Baltic Sea cable sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO responds to severed deep-sea cable in Baltic Sea amid suspected sabotage campaign. Alliance members and infrastructure affected; operations launch. Protects critical undersea networks from hybrid threats.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 451,
+    "articlesAfterDedup": 451,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 5,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 4,
+      "africa": 2,
+      "global": 1,
+      "middle-east": 1,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "date": "2026-04-27",
+  "summary": "L'Iran ha proposto agli Stati Uniti un accordo per riaprire lo Stretto di Hormuz, posticipando i negoziati nucleari. Il ministro degli Esteri iraniano Abbas Araghchi ha avanzato la proposta con condizioni specifiche durante un viaggio a San Pietroburgo per incontrare Vladimir Putin. Gli Stati Uniti hanno avvertito di possibili esplosioni nei pozzi petroliferi iraniani entro tre giorni. Questa mossa fa seguito alla proposta di pace iraniana a Donald Trump e alla superiorità dimostrata dall'Iran in droni e missili balistici. I prezzi dell'energia globale sono influenzati, con tensioni regionali in aumento. Si attendono risposte diplomatiche da Washington e Teheran.\n\nRussia e Ucraina hanno lanciato nuovi attacchi reciproci, causando almeno 16 morti e bombardamenti sulla centrale di Chernobyl nel 40° anniversario del disastro nucleare. Questo fa seguito all'escalation militare che ha riattivato allarmi nucleari e all'attacco ucraino sulla raffineria di Yaroslavl. Il monitoraggio internazionale sulla sicurezza nucleare è stato intensificato per prevenire rischi radiologici. Separatamente, in Mali il Fronte separatista di liberazione dell'Azawad (Fla), insieme ai jihadisti Jnim legati ad al-Qaeda, ha rivendicato l'uccisione del ministro della Difesa. Le forze speciali russe supportano la giunta militare maliana. L'episodio avviene in un contesto di instabilità nel Sahel, con rischi di espansione del terrorismo.\n\nIn Israele, gli ex premier Naftali Bennett e Yair Lapid hanno annunciato un'alleanza per sfidare Benjamin Netanyahu, riproponendo una coalizione simile a quella del 2021 durata un anno, con l'obiettivo di spostarlo all'opposizione. Questo altera gli equilibri politici interni amid tensioni. Il ministro britannico per l'Europa Nick Thomas-Symonds ha annunciato maggiore cooperazione post-Brexit con l'Unione Europea su difesa, sicurezza e commercio, senza rientro, inclusa la ripresa di Erasmus con condizioni per la mobilità giovani. In Italia, l'ingegnere cinese Zewei Xu, 33 anni, è stato estradato negli Stati Uniti da Malpensa per accuse di hacking su dati Covid, vaccini e terapie; faceva parte di un team hacker. Coldiretti ha radunato 10.000 agricoltori al Brennero per protestare contro gli impatti della guerra sui prezzi del cibo e la salute dei consumatori, chiedendo pace urgente.",
+  "headlines": [
+    {
+      "title": "Iran propone agli Stati Uniti accordo per riaprire Stretto di Hormuz rinviando nucleare",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Il ministro iraniano Araghchi propone agli Usa la riapertura dello Stretto di Hormuz con condizioni specifiche, posticipando i negoziati nucleari. Si trova a San Pietroburgo per incontrare Putin. Gli Usa avvertono di possibili esplosioni nei pozzi petrolio iraniani entro tre giorni. La mossa influenza prezzi energia globale e tensioni regionali.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/27/iran-a-usa-proposta-per-un-accordo-sulla-riapertura-dello-stretto-di-hormuz_cd890f05-e018-4387-b743-d7762a07a5c0.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Descrive proposta iraniana su Hormuz e rinvio nucleare con Araghchi a San Pietroburgo",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/27/iran-a-usa-proposta-per-un-accordo-sulla-riapertura-dello-stretto-di-hormuz_cd890f05-e018-4387-b743-d7762a07a5c0.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Riporta condizioni iraniane positive dopo visita Islamabad e negoziati con Usa",
+          "link": "https://www.agi.it/estero/news/2026-04-27/iran-negoziati-notizie-27-aprile-36770894/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Evidenzia stallo e avvertimenti Usa su esplosioni pozzi petrolio in tre giorni",
+          "link": "https://www.repubblica.it/esteri/2026/04/27/news/stallo_con_l_iran_gli_usa_avvertono_il_sistema_esplode_in_tre_giorni-425308052/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Fronte separatista uccide ministro Difesa Mali con jihadisti Jnim",
+      "source": "Euronews Italiano",
+      "summary": "Il Fronte separatista di liberazione dell'Azawad (Fla) con jihadisti Jnim legati ad al-Qaeda rivendica attacco che uccide il ministro della Difesa maliano. Forze speciali russe appoggiano giunta militare. L'episodio intensifica instabilità Sahel con rischi espansione terrorismo.",
+      "link": "http://it.euronews.com/2026/04/27/sahel-in-guerra-in-mali-ucciso-ministro-della-difesa-jihadisti-incalzano-giunta-militare-e",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Bennett e Lapid formano coalizione per sfidare Netanyahu in Israele",
+      "source": "la Repubblica",
+      "summary": "Ex premier Naftali Bennett e Yair Lapid annunciano alleanza contro Benjamin Netanyahu, riprovando coalizione del 2021 durata un anno. Obiettivo mandare Netanyahu all'opposizione. La mossa altera equilibri politici israeliani amid tensioni interne.",
+      "link": "https://www.repubblica.it/esteri/2026/04/27/news/naftali_bennett_yair_lapid_coalizione_contro_netanyahu-425308466/?rss",
+      "tier": "top",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Italia estrade negli Usa ingegnere cinese Zewei Xu per furto dati Covid",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "TGCOM24"
+      ],
+      "summary": "L'ingegnere cinese 33enne Zewei Xu, arrestato a Malpensa nel 2025, viene estradato negli Stati Uniti per accuse di hacking su dati scientifici Covid, vaccini e terapie. Faceva parte team hacker. Procede processo giudiziario bilaterale con implicazioni sicurezza dati.",
+      "link": "https://www.ilsole24ore.com/art/pirateria-informatica-l-italia-estradera-cittadino-cinese-ricercato-stati-uniti-AISIioiC",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Riporta arresto 2025 a Malpensa e accusa furto dati scientifici Covid",
+          "link": "https://www.ilsole24ore.com/art/pirateria-informatica-l-italia-estradera-cittadino-cinese-ricercato-stati-uniti-AISIioiC"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Dettaglia ruolo in team hacker su vaccini e terapie pandemia 2020",
+          "link": "https://www.tgcom24.mediaset.it/cronaca/zewei-xu-hacker-cinese-estradato-stati-uniti_111445710-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Coldiretti raduna 10mila agricoltori al Brennero contro rischi guerra",
+      "source": "Il Sole 24 Ore",
+      "summary": "Coldiretti organizza protesta con 10.000 agricoltori al Brennero per denunciare impatti guerra su prezzi cibo e salute consumatori. Chiedono pace urgente. L'iniziativa evidenzia effetti economici conflitto su filiera agroalimentare italiana.",
+      "link": "https://www.ilsole24ore.com/art/coldiretti-brennero-10mila-agricoltori-denunciare-rischi-guerra-AIlW4diC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ministro britannico Europa annuncia maggiore cooperazione con Unione Europea",
+      "source": "la Repubblica",
+      "summary": "Nick Thomas-Symonds, ministro britannico per l'Europa, conferma ravvicinamento post-Brexit su difesa, sicurezza, commercio senza rientro Ue. Ripristina Erasmus con condizioni per mobilità giovani. Rafforza legami bilaterali in mondo cambiato.",
+      "link": "https://www.repubblica.it/esteri/2026/04/27/news/nick_thomas-symonds_intervista_brexit_ministro_britannico_europa-425308322/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia e Ucraina lanciano attacchi con 16 morti e bombardamenti Chernobyl",
+      "source": "Euronews Italiano",
+      "summary": "Nuovi attacchi tra Russia e Ucraina causano almeno 16 morti, con bombardamenti su Chernobyl nel 40° anniversario disastro. Aumentano timori sicurezza nucleare. Monitoraggio internazionale intensificato per prevenire rischi radiologici.",
+      "link": "http://it.euronews.com/2026/04/27/guerra-russia-ucraina-nuovi-attacchi-e-16-morti-torna-lincubo-chernobyl",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Nuovi attacchi causano 16 vittime e colpiscono Chernobyl riaccendendo allarmi nucleari con bombardamenti specifici oggi",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 258,
+    "articlesAfterDedup": 257,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 11,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 2,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "africa": 1,
+      "global": 1,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 1
+    }
+  }
+}

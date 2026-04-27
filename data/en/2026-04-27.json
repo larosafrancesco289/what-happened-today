@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-27",
+  "summary": "Rwanda-backed rebels entered Goma city in eastern Congo, firing shells and displacing over one million people. This follows their entry into the safe-haven area yesterday. Rebels overran Congolese troops in the aid hub, with UN estimates of 1 million displaced inside Goma. Gunfire and shelling occurred, and evacuations are possible. The action threatens humanitarian operations and regional stability.\n\nIn Mali, jihadist group JNIM detonated a suicide car bomb at Defense Minister Sadio Camara's residence in Kati, killing him during assaults on Bamako airport and four cities. A firefight followed the attacks claimed Saturday. The government vows retaliation. Separately, North Korea and Russia signed a long-term military cooperation pact in Pyongyang. Kim Jong-un reaffirmed support for Russia's Ukraine war after meeting Russian Defense Minister Belousov. The agreement covers missiles, troops, and technology exchanges, with more expected. In the Baltic Sea region, NATO deployed its first coordinated response after sabotage severed deep-sea cables for energy and data. The alliance cited suspected hybrid attacks linked to Russia.\n\nIsrael allowed displaced Palestinians to return to northern Gaza on foot after a hostage release deadlock ended. Hundreds of thousands affected can now access homes amid the war. NASA's McClain, Japan's Onishi, Russia's Peskov, and another astronaut launched on SpaceX's Crew-10 Falcon 9 from Kennedy Space Center Friday to retrieve stuck ISS crew Wilmore and Williams, who have waited nine months due to spacecraft failure. NPR reporters described gunshots at Washington Hilton prompting evacuation of President Trump from the White House Correspondents' Dinner. Journalists hid under tables. China developer Vanke reported major financial losses amid property sector issues. Beijing warned the EU against its Made in Europe plan requiring local content for public funds in cars, green tech, and steel, threatening countermeasures. Lightning killed 14, mostly farmers, in Bangladesh thunderstorms Sunday. Researchers identified a new bacteria species in patients with noma, a deadly facial disease in children. (312 words)",
+  "headlines": [
+    {
+      "title": "Insurgents kill Mali Defense Minister Sadio Camara in suicide car bomb attack",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "AllAfrica"
+      ],
+      "summary": "Jihadist groups detonate car bomb at Sadio Camara's Kati residence during Saturday assaults on Bamako airport and four cities claimed by al-Qaida-linked JNIM; firefight follows. Weakens Mali military leadership, escalates Sahel insurgency. Government vows retaliation.",
+      "link": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Guardian",
+          "angle": "Details suicide car bomb at defense minister's residence in Kati followed by firefight amid rebel assaults",
+          "link": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks"
+        },
+        {
+          "source": "AllAfrica",
+          "angle": "Confirms Defense Minister Sadio Camara killed during jihadist attacks on April 25",
+          "link": "https://allafrica.com/stories/202604260055.html"
+        },
+        {
+          "source": "The Guardian",
+          "angle": "Reports JNIM claim responsibility for coordinated strikes on capital airport and four cities with separatists",
+          "link": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "North Korea and Russia agree long-term military cooperation during defense minister visit",
+      "source": "France24",
+      "sources": [
+        "France24",
+        "Deutsche Welle"
+      ],
+      "summary": "Kim Jong-un reaffirms Pyongyang support for Russia's Ukraine war post-meeting with Defense Minister Belousov; pact signed amid memorial for NK soldiers, mutual aid including missiles, troops, technology. Prolongs Ukraine conflict, strengthens anti-Western axis. More exchanges expected.",
+      "link": "https://www.france24.com/en/europe/20260427-kim-jong-un-reaffirms-north-korea-s-support-for-russia-s-sacred-ukraine-war",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France24",
+          "angle": "Kim vows help for Russia's sacred Ukraine war after Belousov meeting notes missiles munitions thousands troops",
+          "link": "https://www.france24.com/en/europe/20260427-kim-jong-un-reaffirms-north-korea-s-support-for-russia-s-sacred-ukraine-war"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Defense minister and Duma chairman visit inaugurate NK soldier memorial hash out new defense deal",
+          "link": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "NASA and SpaceX launch Crew-10 rocket with four astronauts to retrieve stuck ISS duo",
+      "source": "Voice of America",
+      "summary": "Falcon 9 lifts off Friday from Kennedy Space Center carrying NASA's McClain and Ayers Japan's Onishi Russia's Peskov arrives ISS Saturday enabling nine-month stuck Wilmore Williams return. Fixes rotation delay from spacecraft failure impacts space program reliability.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel allows displaced Palestinians to stream back into northern Gaza on foot",
+      "source": "Wall Street Journal",
+      "summary": "Gazans cross military zone bisecting enclave after hostage release deadlock breaks. Affects hundreds of thousands displaced enables home returns amid war. Eases humanitarian strain signals potential de-escalation steps.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "China property developer Vanke reports huge loss amid widening real estate crisis",
+      "source": "Wall Street Journal",
+      "summary": "Vanke announces major financial losses highlighting property sector troubles spread. Affects investors banks Chinese growth prompts bailout questions. Signals risks to world's second-largest economy stability.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "China warns EU over Made in Europe plan vows countermeasures if adopted",
+      "source": "France24",
+      "summary": "Beijing criticizes EU rules requiring local content for public funds in cars green tech steel. Threatens retaliation affects trade relations supply chains. Escalates protectionism tensions impacting global markets.",
+      "link": "https://www.france24.com/en/europe/20260427-china-warns-eu-made-in-europe-plan-countermeasures",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France24"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Lightning strikes kill 14 people across Bangladesh in seasonal thunderstorms",
+      "source": "South China Morning Post",
+      "summary": "Storms Sunday kill 14 mostly farmers in fields injure others across districts. Affects rural livelihoods highlights lightning risks in agriculture areas. Underscores need for weather safety measures.",
+      "link": "https://www.scmp.com/news/asia/south-asia/article/3351543/lightning-strikes-kill-14-day-seasonal-storms-hit-bangladesh?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Researchers discover unknown bacteria species in patients with deadly noma disease",
+      "source": "The Guardian",
+      "summary": "New bacterium identified in noma cases destroying children's mouth face tissues 90 percent fatal untreated. Affects impoverished kids offers treatment prevention hopes for neglected disease. Advances tropical medicine research.",
+      "link": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "NPR reporters recount chaos at White House Correspondents Dinner after gunshots",
+      "source": "NPR",
+      "summary": "Gunshots at Washington Hilton prompt evacuation of Trump officials; journalists hide under tables scramble for details. Raises US event security concerns affects political discourse. Investigation ongoing.",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5800105/white-house-correspondents-dinner-shooting-scene-trump",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "NPR journalists provide firsthand room accounts of hiding scrambling amid official evacuation",
+      "sources": [
+        "NPR"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "NATO deploys first coordinated response after new Baltic Sea cable sabotage",
+      "source": "Wall Street Journal",
+      "summary": "Alliance acts on suspected hybrid attacks severing deep-sea cables critical for energy data. Protects NATO infrastructure from Russia-linked threats. Bolsters deterrence in region.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Another cable severed triggers alliance's inaugural coordinated infrastructure protection effort",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Goma city firing shells displace over one million",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overrun Congolese troops; gunfire shelling reported in safe-haven aid hub with UN estimating 1M displaced inside. Threatens humanitarian catastrophe regional stability. Evacuations possible.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Residents report gunfire and shelling after rebels overrun troops trapping over one million displaced",
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 451,
+    "articlesAfterDedup": 451,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 2,
+      "science": 2,
+      "economy": 2,
+      "environment": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "africa": 3,
+      "europe": 2,
+      "global": 2,
+      "middle-east": 1,
+      "asia-pacific": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 3
+    }
+  }
+}

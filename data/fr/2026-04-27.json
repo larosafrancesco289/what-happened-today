@@ -1,0 +1,210 @@
+{
+  "date": "2026-04-27",
+  "summary": "Les djihadistes du Groupe de soutien à l'islam et aux musulmans (GSIM) alliés aux indépendantistes du Nord ont lancé une offensive coordonnée sur plusieurs villes maliennes ce week-end, dont Bamako. Ils ont tué Sadio Camara, numéro deux de la junte militaire au pouvoir. Ces attaques inédites affaiblissent la junte, qui maintient une alliance avec la Russie via le groupe Wagner. Une riposte militaire est attendue de la part des forces gouvernementales, dans un contexte de déstabilisation accrue au Sahel.\n\nAbbas Araghchi, ministre iranien des Affaires étrangères, a rencontré Vladimir Poutine à Saint-Pétersbourg. Cette visite fait suite à l'échec des négociations iraniennes avec les États-Unis au Pakistan et à Oman. L'Iran propose de rouvrir le détroit d'Ormuz et d'arrêter la guerre au Moyen-Orient, selon Axios. En Syrie, un tribunal a ouvert dimanche à Damas le procès par contumace de Bachar al-Assad, fugitif depuis décembre 2024, de son frère Maher et d'Atef Najib, pour la répression à Deraa en 2011. Aux États-Unis, Cole Tomas Allen, 31 ans, auteur d'une tentative d'irruption au gala des correspondants de la Maison Blanche samedi, a comparu lundi. Son manifeste exprime de la rage contre l'administration Trump et moque les services de sécurité. Cela prolonge les menaces contre Donald Trump après son évacuation indemne.\n\nLe roi Charles III et son épouse ont entamé lundi une visite d'État de quatre jours aux États-Unis pour le 250e anniversaire de l'indépendance, incluant une rencontre avec Donald Trump. À Paris, les autorités annoncent le doublement de la taxe sur les logements vacants dès 2027, visant à libérer 20 000 appartements dans les villes tendues, comme à New York et Bruxelles. Emmanuel Macron, coprince d'Andorre, y effectue une visite lundi et aborde le droit à l'avortement, interdit dans ce pays même en cas de viol, inceste ou danger pour la mère. Elon Musk a intenté un procès à OpenAI et Sam Altman, accusant ce dernier d'avoir trahi la vocation non lucrative de l'entreprise cofondée en 2015.",
+  "headlines": [
+    {
+      "title": "Djihadistes du GSIM et indépendantistes attaquent plusieurs villes maliennes dont Bamako et tuent Sadio Camara",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24"
+      ],
+      "summary": "Les djihadistes du GSIM alliés aux indépendantistes du Nord mènent une offensive coordonnée sur plusieurs villes au Mali ce week-end, tuant Sadio Camara, numéro deux de la junte. La junte militaire s'affaiblit face à ces attaques inédites, impactant son alliance avec la Russie et la stabilité régionale.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/04/27/au-mali-la-junte-plus-fragilisee-que-jamais-alors-que-les-assaillants-negocient-avec-les-forces-russes_6683493_3212.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille ampleur et coordination inédites des attaques sur Bamako et mort de Sadio Camara",
+          "link": "https://www.lemonde.fr/afrique/article/2026/04/27/au-mali-la-junte-plus-fragilisee-que-jamais-alors-que-les-assaillants-negocient-avec-les-forces-russes_6683493_3212.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Présente situation comme faillite de la junte mise à nu dans revue de presse",
+          "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260427-attaques-au-mali-la-faillite-de-la-junte-mise-%C3%A0-nu"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Abbas Araghchi ministre iranien rencontre Vladimir Poutine à Saint-Pétersbourg sur guerre Moyen-Orient",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "Libération",
+        "France Info",
+        "RTBF",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Abbas Araghchi arrive à Saint-Pétersbourg pour s'entretenir avec Poutine après échecs négociations avec États-Unis au Pakistan et Oman. L'Iran propose rouvrir détroit d'Ormuz et stopper guerre via Axios. Cela renforce axe Russie-Iran face tensions régionales.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/27/en-direct-guerre-au-moyen-orient-l-iran-a-fait-une-proposition-aux-etats-unis-comprenant-notamment-la-reouverture-du-detroit-d-ormuz-d-apres-le-media-axios_6681958_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur réunion Poutine et proposition iranienne via Axios pour Ormuz et fin guerre",
+          "link": "https://www.lemonde.fr/international/live/2026/04/27/en-direct-guerre-au-moyen-orient-l-iran-a-fait-une-proposition-aux-etats-unis-comprenant-notamment-la-reouverture-du-detroit-d-ormuz-d-apres-le-media-axios_6681958_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Met en avant accusation US pour échec discussions Pakistan et arrivée Russie",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-le-chef-de-la-diplomatie-iranienne-est-arrive-en-russie-pour-rencontrer-poutine-20260427"
+        },
+        {
+          "source": "Libération",
+          "angle": "Pointe exigences excessives US et note 14 tués par Israël au Liban dimanche",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-ministre-des-affaires-etrangeres-iranien-en-russie-pour-rencontrer-vladimir-poutine-20260427_QA7KGI33WVAOHIA7AEFHVWKJRE/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Insiste sur ballet diplomatique pour soutiens contre Washington après Islamabad",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-le-chef-de-la-diplomatie-iranienne-est-arrive-a-saint-petersbourg-pour-rencontrer-vladimir-poutine_7967141.html#xtor=RSS-3-[lestitres"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Tribunal syrien ouvre procès de Bachar al-Assad et membres de son clan par contumace",
+      "source": "France 24",
+      "summary": "Le procès s'ouvre dimanche à Damas contre Bachar al-Assad fugitif depuis décembre 2024, son frère Maher et Atef Najib menotté pour répression à Deraa en 2011. Cela marque justice post-chute régime dans instabilité syrienne.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260427-syrie-ouverture-du-proc%C3%A8s-contre-bachar-al-assad-et-des-figures-cl%C3%A9s-de-son-clan",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Autorités américaines présentent Cole Tomas Allen suspect fusillade gala Trump à la justice",
+      "source": "Le Monde",
+      "sources": [
+        "20 Minutes",
+        "Le Monde",
+        "RTBF",
+        "France Info"
+      ],
+      "summary": "Cole Tomas Allen, 31 ans, auteur tentative irruption gala correspondants Maison Blanche samedi, comparaît lundi. Son manifeste exprime rage contre administration Trump et moque sécurité. Cela prolonge menaces contre Trump post-évacuation.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/27/a-washington-l-homme-ayant-planifie-une-fusillade-au-gala-de-la-presse-visait-les-membres-de-l-administration-trump-selon-les-autorites_6683603_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Suspect Cole Tomas Allen comparaît lundi et autorités révèlent son manifeste anti-administration Trump",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Suit en direct présentation suspect justice après fusillade samedi gala Washington",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4220408-20260427-direct-tirs-gala-washington-suspect-presente-justice-lundi?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Détaille manifeste rage envers gouvernement et raillerie sécurité événement",
+          "link": "https://www.lemonde.fr/international/article/2026/04/27/a-washington-l-homme-ayant-planifie-une-fusillade-au-gala-de-la-presse-visait-les-membres-de-l-administration-trump-selon-les-autorites_6683603_3210.html"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Identifie Cole Allen 31 ans comme cherchant assassinat au gala",
+          "link": "https://www.rtbf.be/article/tirs-au-gala-des-correspondants-de-la-maison-blanche-le-suspect-presente-a-la-justice-americaine-11715767"
+        },
+        {
+          "source": "France Info",
+          "angle": "Relie à craintes rupture société américaine post-tirs contre Trump",
+          "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/tirs-au-diner-de-gala-des-correspondants-avec-donald-trump/reportage-pourquoi-les-choses-ne-changent-elles-pas-apres-les-tirs-contre-donald-trump-ces-americains-craignent-d-etre-a-un-point-de-rupture_7967171.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Roi Charles III entame visite d'État de quatre jours à Washington et rencontre Donald Trump",
+      "source": "Libération",
+      "summary": "Charles III et épouse commencent lundi visite États-Unis pour 250 ans indépendance, maintenue malgré attentat Trump. Déplacement suscite impopularité Royaume-Uni amid guerre Moyen-Orient et tensions diplomatiques.",
+      "link": "https://www.liberation.fr/international/amerique/charles-iii-rend-visite-a-donald-trump-a-washington-dans-un-contexte-diplomatique-tendu-avec-les-etats-unis-20260427_E37UFXHJWZDABEKZEOKEWNUQWU/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Libération"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Paris annonce doublement taxe sur logements vacants pour libérer 20 000 appartements dès 2027",
+      "source": "Le Monde",
+      "summary": "La loi finances 2026 permet aux villes tendues quasi doubler taxe vacants. Paris applique mesure comme New York Bruxelles, visant remettre 20 000 logements marché face crise logement.",
+      "link": "https://www.lemonde.fr/societe/article/2026/04/27/logements-inoccupes-paris-va-frapper-les-proprietaires-au-porte-monnaie-comme-bruxelles-ou-new-york_6683605_3224.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Emmanuel Macron met avortement au centre discussions lors visite présidentielle en Andorre",
+      "source": "Libération",
+      "summary": "Macron coprince entame lundi visite Andorre dirigée évêque catholique où IVG interdite même viol inceste danger mère. Il pousse débats sur droit avortement dans petit pays européen.",
+      "link": "https://www.liberation.fr/international/europe/visite-presidentielle-en-andorre-emmanuel-macron-met-lavortement-au-centre-des-discussions-20260427_IAWE756KF5BWDDAUHYDU5OIC3Y/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Libération"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Elon Musk intente procès à OpenAI et Sam Altman pour trahison vocation non lucrative",
+      "source": "20 Minutes",
+      "summary": "Musk accuse Altman d'avoir trahi mission non-profit OpenAI co-fondée ensemble, via poursuite judiciaire. Litige oppose capitaines IA américains sur orientation entreprise ChatGPT.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4220411-20260427-intelligence-artificielle-pourquoi-elon-musk-intente-proces-openai?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 218,
+    "articlesAfterDedup": 216,
+    "articlesAfterDiversity": 47,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 6,
+      "economy": 1
+    },
+    "regionCounts": {
+      "africa": 1,
+      "middle-east": 2,
+      "americas": 2,
+      "europe": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 1,
+      "also": 4
+    }
+  }
+}

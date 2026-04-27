@@ -1,0 +1,145 @@
+{
+  "weekId": "2026-W17",
+  "startDate": "2026-04-20",
+  "endDate": "2026-04-26",
+  "summary": "Weekly News Briefing: April 20-26, 2026\n\nThe week saw escalating crises in the Democratic Republic of Congo, shifts in Middle East leadership and ceasefires, and heightened U.S. security concerns around President Trump. Persistent stories included NATO's response to Baltic Sea cable sabotage and the Rwanda-backed rebel advance on Goma.\n\nIn Congo, Rwanda-backed rebels entered Goma on April 20, displacing over one million residents. The situation developed rapidly: on April 24, rebels overran Congolese troops and entered Goma city; by April 26, they reached the safe-haven city, signaling a major territorial gain.\n\nIran faced turmoil after the killing of Ayatollah Khamenei, with Revolutionary Guards assuming leadership on April 24. Tensions peaked April 22 when Guards fired on a container ship in the Strait of Hormuz, prompting U.S. President Trump to extend the ceasefire indefinitely that day.\n\nIsrael permitted displaced Palestinians to return to northern Gaza on April 20 following a hostage deal. On April 24, Israel and Lebanon extended their ceasefire by three weeks after a White House meeting.\n\nIn U.S. news, a federal judge sentenced Purdue Pharma to forfeit $225 million in an opioids case on April 21. On April 26, Secret Service evacuated Trump from the White House Correspondents' Dinner amid gunfire, and an appeals court blocked his asylum suspension at the border.\n\nGlobally, the EU approved a $106 billion loan package for Ukraine on April 24 after Hungary lifted its veto. Japan approved scrapping its ban on lethal weapons exports on April 21.\n\nViolence included a gunman killing one Canadian and wounding 13 tourists at Mexico's Teotihuacan Pyramids on April 21, and FARC dissidents detonating a bomb on a Colombian highway on April 26, killing 14.\n\nNATO mounted its first coordinated response to suspected Baltic Sea cable sabotage on April 22, a story persisting across the week. Stories that developed and endured included the Congo rebel offensive, Iran leadership transition, and NATO actions. Those that faded quickly: Louisiana father killing eight children and wounding two on April 20; initial Gaza returns; single-day mentions of NASA-SpaceX ISS mission and Bulgaria's Rumen Radev election win.",
+  "persistentStories": [
+    "NATO Mounts First Coordinated Response to Baltic Sea Cable Sabotage"
+  ],
+  "fadedStories": [
+    "Father Kills Eight Children, Wounds Two Others in Louisiana Shooting",
+    "Israel Allows Displaced Palestinians Return to Northern Gaza After Hostage Deal",
+    "Rwanda-Backed Rebels Enter Goma, Displacing Over One Million Residents",
+    "NASA SpaceX Launch Four Astronauts to Retrieve Two Stuck on ISS",
+    "Rumen Radev Secures Absolute Majority in Bulgarian Election",
+    "UK Police Probe London Arson Attacks on Jewish Sites as Iranian Proxies",
+    "French Prosecutors Summon Elon Musk Over Sexualized AI Deepfakes on X",
+    "Japan's Cabinet Approves Scrapping Ban on Lethal Weapons Exports",
+    "Federal Judge Sentences Purdue Pharma to Forfeit $225 Million in Opioids Case",
+    "Gunman Kills One Canadian, Wounds 13 Tourists at Teotihuacan Pyramids"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-04-20",
+      "title": "Father Kills Eight Children, Wounds Two Others in Louisiana Shooting",
+      "category": "conflict",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Israel Allows Displaced Palestinians Return to Northern Gaza After Hostage Deal",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Rwanda-Backed Rebels Enter Goma, Displacing Over One Million Residents",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Japan's Cabinet Approves Scrapping Ban on Lethal Weapons Exports",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Federal Judge Sentences Purdue Pharma to Forfeit $225 Million in Opioids Case",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Gunman Kills One Canadian, Wounds 13 Tourists at Teotihuacan Pyramids",
+      "category": "conflict",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Iran's Revolutionary Guard Fires on Container Ship in Strait of Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "U.S. President Trump Extends Ceasefire with Iran Indefinitely",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "NATO Mounts First Coordinated Response to Suspected Baltic Sea Cable Sabotage",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "EU Approves $106 Billion Loan Package for Ukraine After Hungary Lifts Veto",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Iranian Revolutionary Guards Assume Leadership After Ayatollah Khamenei's Killing",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Israel and Lebanon Extend Ceasefire by Three Weeks After White House Meeting",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Rwanda-Backed Rebels Overrun Congolese Troops and Enter Goma City",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-04-26",
+      "title": "Secret Service evacuates President Trump from White House Correspondents' Dinner after gunfire",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-26",
+      "title": "FARC dissidents detonate bomb on Colombia highway killing 14 people",
+      "category": "conflict",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-26",
+      "title": "Rwanda-backed rebels enter Congo safe-haven city of Goma",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-04-26",
+      "title": "Appeals court blocks President Trump's asylum suspension at U.S. border",
+      "category": "politics",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2221,
+    "totalSourcesUsed": 16,
+    "daysWithData": 5,
+    "categoryCounts": {
+      "conflict": 25,
+      "science": 5,
+      "politics": 11,
+      "economy": 3,
+      "society": 2
+    },
+    "regionCounts": {
+      "americas": 12,
+      "middle-east": 8,
+      "africa": 6,
+      "global": 5,
+      "europe": 11,
+      "asia-pacific": 4
+    }
+  }
+}

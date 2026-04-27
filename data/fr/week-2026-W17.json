@@ -1,0 +1,131 @@
+{
+  "weekId": "2026-W17",
+  "startDate": "2026-04-20",
+  "endDate": "2026-04-26",
+  "summary": "Briefing hebdomadaire : 20-26 avril 2026\n\nLa semaine a été marquée par une escalade des tensions au Moyen-Orient, des avancées diplomatiques sur l’Ukraine et des incidents sécuritaires impliquant des leaders mondiaux. Les événements les plus significatifs concernent la crise israélo-libanaise et les frictions avec l’Iran, qui ont dominé les débats.\n\nLe 20 avril, les forces iraniennes ont tiré des semonces sur un navire français CMA CGM dans le détroit d’Ormuz, incident qui s’est rapidement estompé. Le 21 avril, le gouvernement français a exigé 4 milliards d’euros d’économies pour financer une crise au Moyen-Orient coûtant 6 milliards. Le 23 avril, le ministre Barrot a dénoncé un crime de guerre après la mort de deux Casques bleus français au Liban. Le même jour, le Liban a demandé une prolongation d’un mois du cessez-le-feu lors de négociations à Washington avec Israël, et l’armée américaine a ordonné à 31 navires de faire demi-tour depuis le début du blocus contre l’Iran. Le 24 avril, Donald Trump a annoncé une prolongation de trois semaines du cessez-le-feu entre Israël et le Liban, tandis que trois porte-avions américains étaient positionnés dans l’océan Indien près du Moyen-Orient. Cette affaire, persistante tout au long de la semaine, montre un développement vers une désescalade temporaire malgré les pertes françaises et les mouvements navals massifs.\n\nSur le front ukrainien, un drone a tué un civil russe le 20 avril sur territoire russe, nouvelle qui a vite disparu. Le 22 avril, les Européens anticipent la levée du veto hongrois pour une aide de 90 milliards d’euros à l’Ukraine, signe d’un progrès diplomatique en cours.\n\nAutres développements : le Japon a supprimé le 21 avril ses restrictions sur l’exportation d’armes létales vers le monde entier. Un rapport Lancet du 22 avril lie le changement climatique à une aggravation des problèmes de santé et pertes de vies en Europe. Le président taïwanais Lai Ching-te a annulé un déplacement en Afrique le même jour après refus de survols par Pékin.\n\nFin de semaine agitée : le 26 avril, les services secrets ont évacué Donald Trump indemne après des tirs au dîner des correspondants de la Maison Blanche. Une bombe a tué au moins 14 personnes en Colombie pendant la campagne présidentielle.\n\nHistoires éphémères (un seul jour) : semonces iraniennes sur CMA CGM, drone ukrainien en Russie, incendies antisémites à Londres par Hayi pro-iranien (20 avril), dévoilement du Conseil des ministres québécois par Christine Fréchette avec rôle clé pour Bernard Drainville, et surveillance des crues printanières au Québec à Fort-Coulonge. Ces faits mineurs contrastent avec les crises persistantes au Moyen-Orient et en Ukraine, qui ont structuré l’actualité. (378 mots)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Forces iraniennes tirent des semonces sur navire CMA CGM français dans détroit d’Ormuz",
+    "Drone ukrainien tue un civil russe lors d’attaque en territoire russe",
+    "Police britannique enquête sur incendies antisémites revendiqués par groupe Hayi pro-iranien à Londres",
+    "Christine Fréchette dévoile mardi son Conseil des ministres québécois avec rôle clé pour Bernard Drainville",
+    "Autorités québécoises poursuivent surveillance des crues printanières centrées sur Fort-Coulonge",
+    "Gouvernement français exige 4 milliards d’euros d’économies pour crise Moyen-Orient coûtant 6 milliards",
+    "Japon supprime restrictions sur exportation d’armes létales vers monde entier",
+    "France affirme soutenir création de tribunal spécial pour crimes en Ukraine",
+    "Emmanuel Macron reçoit Premier ministre libanais Nawaf Salam à l’Élysée",
+    "Tireur tue touriste canadienne et blesse 13 étrangers près pyramides de Teotihuacan"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-04-20",
+      "title": "Forces iraniennes tirent des semonces sur navire CMA CGM français dans détroit d’Ormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Drone ukrainien tue un civil russe lors d’attaque en territoire russe",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Police britannique enquête sur incendies antisémites revendiqués par groupe Hayi pro-iranien à Londres",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Gouvernement français exige 4 milliards d’euros d’économies pour crise Moyen-Orient coûtant 6 milliards",
+      "category": "economy",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Japon supprime restrictions sur exportation d’armes létales vers monde entier",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Européens anticipent levée veto hongrois pour aide de 90 milliards d’euros à l’Ukraine",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Changement climatique aggrave problèmes de santé et pertes de vies en Europe selon rapport Lancet 2026",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Président taïwanais Lai Ching-te annule déplacement Afrique après refus survols imposés par Pékin",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Ministre Barrot dénonce crime de guerre après mort deux Casques bleus français au Liban",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Liban demande prolongation un mois cessez-le-feu lors négociations Washington avec Israël",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Armée américaine ordonne 31 navires faire demi-tour depuis début blocus contre Iran",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Donald Trump annonce prolongation trois semaines cessez-le-feu entre Israël et Liban",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Trois porte-avions américains positionnés océan Indien près Moyen-Orient",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-04-26",
+      "title": "Services secrets évacuent Donald Trump indemne après tirs au dîner des correspondants de la Maison Blanche",
+      "category": "conflict",
+      "region": "americas"
+    },
+    {
+      "date": "2026-04-26",
+      "title": "Bombe explose et tue au moins 14 personnes en Colombie pendant campagne présidentielle",
+      "category": "conflict",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1241,
+    "totalSourcesUsed": 9,
+    "daysWithData": 6,
+    "categoryCounts": {
+      "conflict": 18,
+      "society": 3,
+      "politics": 11,
+      "environment": 2,
+      "economy": 5,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 12,
+      "europe": 16,
+      "americas": 8,
+      "asia-pacific": 3,
+      "africa": 1
+    }
+  }
+}

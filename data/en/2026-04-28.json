@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-28",
+  "summary": "A federal grand jury charged 31-year-old Ryan Wesley Routh from California with attempted assassination of President-elect Donald Trump and high-level officials. Prosecutors stated Routh planned to use a rifle at a Washington dinner event. The US Secret Service arrested him after discovering the plot. Trial proceedings are scheduled in federal court. This incident involves heightened security for US leaders.\n\nThe Trump administration imposed sanctions on a major Chinese oil refinery and 40 shipping companies for transporting Iranian oil, targeting Tehran's revenue used to fund militias. Chinese firms and Iranian oil exports face asset freezes and transaction bans, affecting global energy markets. Separately, a three-judge US Court of Appeals panel upheld a lower court ruling blocking Trump's executive order suspending asylum claims at the southern border, restoring processing for migrants from border states. In another policy move, the Justice Department authorized firing squads and single-drug lethal injections as federal execution methods, applying to death row inmates and enabling resumption of 13 paused cases.\n\nThe Trump administration dismissed all 24 members of the National Science Board, which oversees National Science Foundation grants, restructuring federal research funding decisions. Mexican special forces captured alleged Jalisco New Generation Cartel leader El Jardinero, a potential successor to El Mencho, in a ditch near Guadalajara, disrupting drug trafficking routes. Australia proposed legislation requiring Meta, Google, and TikTok to pay news publishers or face a 2.25 percent levy on Australian revenue. Medecins Sans Frontieres reported Israel restricts clean water access for 2.3 million Gaza Palestinians. SpaceX launched the Crew-10 mission Friday at 7:03 p.m. from Kennedy Space Center, sending four astronauts to the ISS to retrieve NASA astronauts Butch Wilmore and Suni Williams after nine months.\"}",
+  "headlines": [
+    {
+      "title": "Authorities charge 31-year-old California man with attempted assassination of Trump",
+      "source": "BBC",
+      "summary": "Investigators charged a 31-year-old California suspect with trying to kill Trump and high-level officials at a Washington dinner using a gun. The incident affects US political security. Trial proceedings will follow, highlighting risks to leaders amid polarized climate.",
+      "link": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Federal appeals court blocks Trump executive order suspending border asylum",
+      "source": "Associated Press",
+      "summary": "A three-judge US Court of Appeals panel ruled Trump's asylum ban illegal, restoring access for migrants at southern border. Asylum seekers and border states affected. Lower court decision upheld, impacting immigration enforcement and policy debates.",
+      "link": "https://apnews.com/article/trump-asylum-appeals-court-ed8f8f193579b757d7f384cd7f9e9e60",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Justice Department adopts firing squads as permitted execution method",
+      "source": "Associated Press",
+      "summary": "US Justice Department authorizes firing squads and single-drug lethal injections to expedite capital punishment under Trump administration. Federal death row inmates affected. Policy enables 13 prior executions method, signals ramp-up in federal prosecutions.",
+      "link": "https://apnews.com/article/death-penalty-firing-squads-justice-department-9e81687b80402e1e19d57bbc55772470",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "US imposes sanctions on China refinery and 40 shippers for Iranian oil",
+      "source": "Associated Press",
+      "summary": "Trump administration sanctions major China-based oil refinery and 40 shipping firms transporting Iranian oil, escalating pressure on Tehran. Chinese firms, Iranian exports affected. Measures aim to curb oil revenue funding militias, affecting global energy markets.",
+      "link": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Australia proposes 2.25 percent levy on tech giants unless they pay news outlets",
+      "source": "France 24",
+      "summary": "Australia drafts laws forcing Meta, Google, TikTok to compensate local publishers or pay levy on Australian revenue. News outlets and tech firms affected. Push supports media amid platform dominance, sets precedent for global content payments.",
+      "link": "https://www.france24.com/en/asia-pacific/20260428-australia-targets-tech-giants-with-levy-unless-they-pay-for-local-news",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "MSF accuses Israel of depriving Gaza Palestinians of clean water access",
+      "source": "France 24",
+      "summary": "Medecins Sans Frontieres reports Israel systematically weaponizes water in Gaza as collective punishment. 2.3 million Palestinians affected amid devastation. Highlights humanitarian crisis, calls for international intervention to restore supplies.",
+      "link": "https://www.france24.com/en/middle-east/20260428-collective-punishment-msf-says-israel-weaponising-water-access-gaza",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump administration fires all members of US National Science Board",
+      "source": "Al Jazeera",
+      "summary": "Trump fires entire 24-member National Science Board overseeing NSF research grants. Scientists and federal research affected. Move restructures government science policy, raises concerns over politicization of funding and expertise.",
+      "link": "https://www.aljazeera.com/economy/2026/4/28/trump-administration-fires-all-members-of-us-national-science-board?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Mexican special forces capture Jalisco cartel leader El Jardinero",
+      "source": "Deutsche Welle",
+      "summary": "Military nabbed El Jardinero, potential successor to killed leader El Mencho, hiding in a ditch. Cartel operations and Mexico security affected. Capture disrupts drug trafficking networks, boosts government anti-crime efforts.",
+      "link": "https://www.dw.com/en/mexico-special-forces-capture-cartel-leader-el-jardinero/a-76959439?maca=en-rss-en-top-1022-rdf",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "NASA SpaceX Crew-10 launches four astronauts to retrieve stuck ISS duo",
+      "source": "Voice of America",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Crew-10 rocket lifts off successfully Friday carrying McClain, Ayers, Onishi, Peskov; docking expected Saturday",
+      "summary": "SpaceX Falcon 9 launched Crew-10 from Kennedy Space Center at 7:03 p.m. Friday to rotate ISS crew and return nine-month stuck astronauts Wilmore, Williams. Global space partners affected. Routine mission ensures continuous station operations.",
+      "link": "https://www.voanews.com/a/nasa-spacex-launch-crew-to-space-station-to-retrieve-stuck-astronauts/8011575.html",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 450,
+    "articlesAfterDedup": 450,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "economy": 1,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 5,
+      "global": 3,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    }
+  }
+}

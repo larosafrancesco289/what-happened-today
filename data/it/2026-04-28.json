@@ -1,0 +1,171 @@
+{
+  "date": "2026-04-28",
+  "summary": "Gli Stati Uniti hanno respinto la proposta iraniana di riaprire lo Stretto di Hormuz rinviando le discussioni sul nucleare. Secondo il Wall Street Journal, il presidente Trump si è mostrato scettico, mentre il senatore Rubio ha bocciato la bozza. L'Iran aveva avanzato l'offerta ieri. In risposta, gli Usa stanno inviando mezzi militari nella regione. Questo stallo ha provocato un rialzo dei prezzi del greggio, con impatti su borse europee miste e asiatiche contrastate, e ha prolungato le tensioni nel Golfo Persico. Si attendono ulteriori negoziati o escalation militari.\n\nIn Ucraina, forze russe hanno condotto un raid su Sumy con bombe guidate, droni, artiglieria e mortai, causando la morte di una donna e quattro feriti. Separatamente, droni ucraini hanno colpito la raffineria di Tuapse sul Mar Nero, provocando un incendio e danni alle infrastrutture energetiche russe. Questi eventi seguono attacchi reciproci e aumentano le preoccupazioni per i civili orientali. L'incendio alla raffineria contribuisce al rialzo del greggio. In Messico, forze speciali della Marina hanno arrestato Audias Flores Silva, noto come El Jardinero e possibile erede del leader del cartello Jalisco Nuova Generazione, a Nayarit. Gli Usa offrivano 5 milioni di dollari di ricompensa; è possibile un'estradizione.\n\nIn Nigeria, uomini armati dell'ISWAP hanno attaccato cristiani nello Stato di Adamawa, uccidendo 29 persone tra cui ragazze durante una partita di calcio, bruciando una chiesa e 100 motociclette. Funzionari statunitensi hanno rivelato che i controlli di sicurezza prima dell'attentato a Trump sono stati inadeguati, esponendo il presidente, il vicepresidente e lo speaker della Camera, con un'indagine in corso sul Secret Service. Re Carlo III ha visitato la Casa Bianca, accolto da Trump per il 250º anniversario dell'indipendenza Usa, rafforzando i legami bilaterali nonostante tensioni su Iran con il premier Starmer.",
+  "headlines": [
+    {
+      "title": "Iswap uccide 29 cristiani, brucia chiesa e 100 motociclette in Nigeria",
+      "source": "la Repubblica",
+      "summary": "Uomini armati dell'Iswap attaccano cristiani nello Stato di Adamawa, uccidendo 29 persone tra cui ragazze a una partita di calcio, bruciando una chiesa e 100 motociclette. L'attacco evidenzia instabilità jihadista nella regione, aumentando timori per minoranze religiose.",
+      "link": "https://www.repubblica.it/esteri/2026/04/28/news/nigeria_morti_cristiani-425310199/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Forze speciali messicane arrestano El Jardinero, boss del cartello Jalisco",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Audias Flores Silva, noto come El Jardinero e possibile erede del Mencho, catturato a Nayarit con blitz della Marina; Usa offrivano 5 milioni di dollari. Arresto indebolisce cartello violento, possibile estradizione.",
+      "link": "https://www.repubblica.it/esteri/2026/04/28/news/messico_arrestato_jardinero_cartello_jalisco-425310130/?rss",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea ruolo come erede Mencho e ricompensa Usa di 5 milioni",
+          "link": "https://www.repubblica.it/esteri/2026/04/28/news/messico_arrestato_jardinero_cartello_jalisco-425310130/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Descrive blitz Marina con video drone e dettagli su mandato estradizione Usa",
+          "link": "https://www.tgcom24.mediaset.it/2026/video/messico-arrestato-boss-cartello-drone_111478891-02k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Funzionari Usa falliscono controlli prima attentato a Trump",
+      "source": "la Repubblica",
+      "summary": "Pochi controlli e impreparazione espongono Trump, vice e speaker Camera durante attentato, creando vuoto catena comando. Indagine solleva critiche su Secret Service, spingendo riforme sicurezza presidenziale.",
+      "link": "https://www.repubblica.it/esteri/2026/04/28/news/attentato_trump_pochi_controlli_funzionari_impreparati_sicurezza_caso-425310041/?rss",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Forze russe lanciano raid a Sumy con 1 morta e 4 feriti",
+      "source": "TGCOM24",
+      "summary": "Raid russi usa bombe guidate, droni, artiglieria e mortai su Sumy in Ucraina, causando 1 donna morta e 4 feriti. Escalation attacchi orientali preoccupa aiuti civili e negoziati pace.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-raid-russi-sumy-morta-donna-feriti_111479141-202602k.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Droni ucraini provocano incendio alla raffineria russa di Tuapse",
+      "source": "Rai News",
+      "summary": "Attacco droni ucraini colpisce raffineria petrolio Tuapse sul Mar Nero, causando incendio. Ennesimo colpo a infrastrutture energetiche russe, alza prezzi greggio e tensioni energetiche Europa.",
+      "link": "https://www.rainews.it/video/2026/04/ennesimo-attacco-di-droni-ucraini-ha-provocato-un-incendio-nella-raffineria-russa-di-tuapse-5ad04f41-3b49-41a2-a3b8-b34e8552016c.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Re Carlo III visita Casa Bianca per 250 anni indipendenza Usa",
+      "source": "Euronews Italiano",
+      "summary": "Re Carlo III accolto da Trump per anniversario indipendenza Usa, nonostante tensioni su Iran con premier Starmer. Visita rafforza legami bilaterali in contesto geopolitico instabile.",
+      "link": "http://it.euronews.com/2026/04/28/re-carlo-iii-accolto-alla-casa-bianca-visita-di-stato-per-i-250-anni-dellindipendenza-usa",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Prezzo greggio sale per stallo negoziati Usa-Iran",
+      "source": "Rai News",
+      "summary": "Borse Europa miste, asiatiche contrastate, greggio in rialzo causa stallo diplomatico Usa-Iran su Hormuz. Impatta inflazione energetica e mercati globali dipendenti import petrolio.",
+      "link": "https://www.rainews.it/articoli/2026/04/europa-contrastata-sale-ancora-il-prezzo-del-greggio-55d3781c-6f3e-4cdb-9ab4-c2d79e2d8a6d.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Usa bocciano proposta Iran su Stretto Hormuz senza nucleare",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Usa respingono offerta iraniana di riaprire Hormuz rinviando nucleare, Trump scettico secondo WSJ, Rubio boccia bozza; in arrivo mezzi militari. Stallo prolunga tensioni Golfo e prezzi energia.",
+      "link": "https://www.agi.it/estero/news/2026-04-28/iran-guerra-hormuz-notizie-28-aprile-36789806/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Usa bocciano proposta iraniana sullo Stretto di Hormuz senza affrontare nucleare, con Trump scettico e Rubio che respinge bozza",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Enfatizza ping pong diplomatico, bocciatura Usa e scetticismo Trump da Wall Street Journal",
+          "link": "https://www.agi.it/estero/news/2026-04-28/iran-guerra-hormuz-notizie-28-aprile-36789806/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta no Trump alla proposta, Rubio respinge bozza e arrivo nuovi mezzi militari",
+          "link": "https://www.repubblica.it/esteri/2026/04/28/news/hormuz_proposta_iran_nucleare_usa-425309986/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 257,
+    "articlesAfterDedup": 255,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 16,
+    "categoryCounts": {
+      "conflict": 3,
+      "society": 1,
+      "politics": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "africa": 1,
+      "americas": 2,
+      "europe": 2,
+      "global": 1,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    }
+  }
+}

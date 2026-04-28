@@ -1,0 +1,200 @@
+{
+  "date": "2026-04-28",
+  "summary": "L'armée israélienne a poursuivi ses frappes contre le Hezbollah au Liban malgré le cessez-le-feu du 17 avril. Ces attaques ont tué au moins 40 personnes, majoritairement civiles, et détruit plus de 1 000 infrastructures du Hezbollah, selon les déclarations de l'armée israélienne. L'armée justifie ces opérations par la destruction de menaces persistantes. Une stabilisation du Liban est attendue après le retrait complet des forces du Hezbollah au sud du Litani, mais les violations prolongent les tensions régionales.\n\nLes États-Unis examinent une proposition iranienne de cessez-le-feu et de réouverture du détroit d'Ormuz. Donald Trump réunit ses conseillers sur cette offre transmise via Axios et qualifiée d'améliorée par le secrétaire d'État. Les négociations stagnent en raison d'un double blocus persistant, ce qui affecte le commerce pétrolier mondial. Au Mali, trois jours après les attaques des djihadistes du GSIM et des indépendantistes ayant tué Sadio Camara, des détonations ont été entendues près de l'aéroport de Bamako. Kidal reste contrôlée par JNIM et FLA qui s'organisent ; la santé du général Modibo Koné se dégrade ; la Russie a évacué 400 paramilitaires. La junte malienne est affaiblie et des opérations militaires sont attendues. Volodymyr Zelensky réclame un système antibalistique propre pour l'Ukraine ou avec des partenaires solides, en raison de pénuries liées à la guerre au Moyen-Orient impactant la défense contre les missiles russes.\n\nMédecins sans frontières publie un rapport sur la destruction par Israël d'infrastructures d'eau et d'assainissement à Gaza, qualifiée de privation délibérée affectant 2 millions de Palestiniens dépendants d'aide. Au Nigeria nord-est, des hommes armés ont tué au moins 29 personnes ; le gouverneur Ahmadu Umaru Fintiri confirme le bilan et une enquête est en cours sans revendication. Les députés britanniques votent mardi sur une enquête parlementaire contre Keir Starmer, accusé de mensonge sur la nomination de l'ambassadeur Mandelson à Washington. En France, les députés ont adopté le rapport Alloncle de 400 pages sur l'audiovisuel public malgré contestations ; publication prévue dans une semaine. Au procès en appel de Nicolas Sarkozy sur le financement libyen de sa campagne 2007, Claude Guéant a produit une nouvelle attestation contredisant la défense de l'ex-président.",
+  "headlines": [
+    {
+      "title": "Israël poursuit attaques contre Hezbollah au Liban malgré cessez-le-feu du 17 avril",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "L’armée israélienne justifie ses frappes qui ont tué au moins 40 personnes, majoritairement civiles, depuis le cessez-le-feu. Elle affirme avoir détruit plus de 1 000 infrastructures du Hezbollah. Ces violations prolongent les tensions régionales et compliquent la stabilisation libanaise.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/28/en-direct-guerre-au-moyen-orient-israel-justifie-la-poursuite-de-ses-attaques-au-liban-au-moins-40-personnes-tuees-depuis-le-debut-du-cessez-le-feu-du-17-avril_6681958_3210.html",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "États-Unis examinent proposition iranienne de cessez-le-feu et réouverture détroit d’Ormuz",
+      "source": "RTBF",
+      "sources": [
+        "RTBF",
+        "Radio-Canada",
+        "Liberation"
+      ],
+      "summary": "Donald Trump réunit conseillers sur offre iranienne transmise via Axios, qualifiée d’améliorée par le secrétaire d’État. Négociations patinent avec double blocus persistant. Cela affecte le commerce pétrolier mondial et les tensions au Moyen-Orient.",
+      "link": "https://www.rtbf.be/article/guerre-au-moyen-orient-donald-trump-s-est-reuni-avec-ses-conseillers-de-securite-sur-une-proposition-iranienne-de-cessez-le-feu-11716180",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "Ouvre sur réunion Trump avec conseillers et absence d’accord sur proposition iranienne",
+          "link": "https://www.rtbf.be/article/guerre-au-moyen-orient-donald-trump-s-est-reuni-avec-ses-conseillers-de-securite-sur-une-proposition-iranienne-de-cessez-le-feu-11716180"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Cite secrétaire d’État affirmant offre iranienne meilleure que prévu pour Ormuz",
+          "link": "https://ici.radio-canada.ca/nouvelle/2249699/detroit-ormuz-golfe-propositions-iran"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Détaille patinage négociations et double blocus du détroit d’Ormuz",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-conflit-a-un-impact-disproportionne-pour-lasie-pacifique-denonce-laustralie-20260428_EUSD2S5MRBFDRIHVQMOSLBSMRU/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Détonations entendues à Bamako et Kidal reste aux mains de Jnim et FLA au Mali",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Le Monde"
+      ],
+      "summary": "Trois jours après attaques jihadistes et indépendantistes, détonations nocturnes près aéroport Bamako. Kidal contrôlée par Jnim et FLA qui s’organisent ; santé général Modibo Koné se dégrade ; Russie évacue 400 paramilitaires. Junte malienne affaiblie.",
+      "link": "https://www.rfi.fr/fr/afrique/20260428-mali-des-d%C3%A9tonations-entendues-%C3%A0-bamako-la-ville-de-kidal-toujours-aux-mains-du-jnim",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Rapporte détonations Bamako et contrôle Kidal par Jnim avec dégradation santé Koné",
+          "link": "https://www.rfi.fr/fr/afrique/20260428-mali-des-d%C3%A9tonations-entendues-%C3%A0-bamako-la-ville-de-kidal-toujours-aux-mains-du-jnim"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Détaille évacuation 400 paramilitaires russes Africa Corps de Kidal",
+          "link": "https://www.lemonde.fr/afrique/article/2026/04/28/la-russie-alliee-incertaine-de-la-junte-malienne-menacee-par-l-offensive-djihadiste_6683869_3212.html"
+        }
+      ],
+      "dayNumber": 2,
+      "previousContext": "Détonations nouvelles à Bamako, Kidal consolidée par Jnim/FLA, évacuation paramilitaires russes et santé Koné dégradée",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "MSF dénonce privation délibérée d’eau par Israël à Gaza",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Médecins sans frontières publie rapport sur destruction infrastructures eau et assainissement, qualifiant cela d’arme punitive intégrée au génocide. Cela aggrave crise humanitaire pour 2 millions de Palestiniens dépendants d’aide.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260428-%C3%A0-gaza-isra%C3%ABl-utilise-eau-comme-arme-punitive-contre-les-palestiniens-d%C3%A9nonce-msf-humanitaire",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Volodymyr Zelensky réclame système antibalistique propre pour l’Ukraine",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Face à pénuries dues à guerre Moyen-Orient, président ukrainien juge nécessaire système seul ou avec partenaires solides. Cela souligne interdépendances conflits mondiaux impactant défense ukrainienne contre missiles russes.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/28/en-direct-guerre-en-ukraine-les-dernieres-informations-au-28-avril-2026_6683420_3210.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Députés adoptent rapport Alloncle sur audiovisuel public malgré contestations",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Vote serré lundi permet publication dans une semaine du document de 400 pages sur commission enquête. Réactions politiques mêlent félicitations et amertume ; président commission nie concessions à extrême droite. Impact sur médias publics français.",
+      "link": "https://www.lefigaro.fr/politique/victoire-pour-tous-triste-jour-pour-l-assemblee-la-classe-politique-entre-felicitations-et-amertume-apres-l-adoption-du-rapport-alloncle-20260427",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Compile réactions classe politique entre félicitations et amertume post-adoption",
+          "link": "https://www.lefigaro.fr/politique/victoire-pour-tous-triste-jour-pour-l-assemblee-la-classe-politique-entre-felicitations-et-amertume-apres-l-adoption-du-rapport-alloncle-20260427"
+        },
+        {
+          "source": "France Info",
+          "angle": "Cite président commission réagissant aux accusations de concessions à extrême droite",
+          "link": "https://www.franceinfo.fr/economie/medias/audiovisuel-public-je-ne-me-suis-pas-couche-devant-l-extreme-droite-reagit-le-president-de-la-commission-jeremie-patrier-leitus_7969532.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Députés britanniques votent mardi sur enquête parlementaire contre Keir Starmer",
+      "source": "Liberation",
+      "sources": [
+        "Liberation"
+      ],
+      "summary": "Premier ministre accusé de mensonge sur nomination ambassadeur Mandelson à Washington. Vote décisif ce 28 avril pourrait lancer procédure. Affaiblit gouvernement travailliste face opposition.",
+      "link": "https://www.liberation.fr/international/europe/affaire-mandelson-keir-starmer-sous-la-menace-dune-enquete-parlementaire-20260428_J54NQZ2SJZED3F6JB2FB4AZF3M/",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Hommes armés tuent au moins 29 personnes dans nord-est du Nigeria",
+      "source": "RTBF",
+      "sources": [
+        "RTBF"
+      ],
+      "summary": "Gouverneur Ahmadu Umaru Fintiri confirme bilan attaque meurtrière. Événement aggrave insécurité dans région Boko Haram ; autorités enquêtent sans revendication immédiate.",
+      "link": "https://www.rtbf.be/article/nord-est-du-nigeria-au-moins-29-personnes-tuees-par-des-hommes-armes-11716213",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Claude Guéant produit nouvelle attestation au procès libyen de Nicolas Sarkozy",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Deuxième courrier contredit défense de l’ex-président lu mercredi en appel sur financement campagne 2007. Fragilise position Sarkozy ; procès se poursuit avec témoignages clés.",
+      "link": "https://www.lemonde.fr/societe/article/2026/04/28/au-proces-de-l-affaire-libyenne-une-nouvelle-attestation-de-claude-gueant-fragilise-la-defense-de-l-ancien-president-nicolas-sarkozy-se-trompe_6683870_3224.html",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 215,
+    "articlesAfterDedup": 212,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "africa": 2,
+      "europe": 4
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    }
+  }
+}

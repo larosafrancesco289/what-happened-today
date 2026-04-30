@@ -1,0 +1,187 @@
+{
+  "date": "2026-04-30",
+  "summary": "Il presidente USA Donald Trump ha ricevuto un briefing dal comandante Centcom Brad Cooper su potenziali operazioni militari contro l'Iran. Il briefing copre piani per sbloccare negoziati o colpire definitivamente, con coinvolgimento di 41 navi ferme contenenti 69 milioni di barili di petrolio. Questo fa seguito alle dichiarazioni di ieri di Von der Leyen sui costi di 500 milioni di euro al giorno per l'UE e ai dubbi espressi da JD Vance sulle valutazioni del Pentagono. Si attendono decisioni su escalation che influenzano i mercati energetici globali.\n\nIl petrolio Brent è salito del 5% a 123 dollari al barile, raggiungendo i massimi da quattro anni, in legame con le tensioni sull'Iran. Gli Emirati Arabi Uniti hanno inaugurato l'oleodotto Habshan-Fujairah con capacità di 1,5 milioni di barili al giorno, espandibile a 1,8 milioni, che evita lo Stretto di Hormuz; l'investimento risale al 2012 per 3,3 miliardi di dollari. Questo segue l'uscita degli UAE dall'OPEC annunciata ieri per motivi economici. Separatamente, droni ucraini hanno colpito la raffineria di Tuapse sul Mar Nero in Russia meridionale, interrompendo parte della produzione energetica russa.\n\nLe forze israeliane hanno intercettato 21 imbarcazioni della Flotilla Global Sumud dirette a Gaza, fermando 175 attivisti in acque internazionali al largo di Creta; l'organizzazione denuncia un raid violento e chiede protezione dai governi. Da dieci giorni, Xi Jinping ha avviato azioni cinesi su vari continenti per rafforzare la posizione strategica. Alphabet ha registrato profitti in aumento dell'81%, superando le previsioni, con il titolo in rialzo del 7% dopo la chiusura. In Italia, la Camera ha iniziato l'esame del Documento di finanza pubblica 2026 con una risoluzione della maggioranza sullo scostamento di bilancio, in attesa della replica del ministro Giorgetti; pm liguri hanno rivelato intercettazioni in cui Giovanni Toti ammette di aver truccato dati sui contagi COVID con il capo gabinetto Cozzani. In Australia, l'inchiesta sulla strage di Bondi Beach del 14 dicembre 2025, con 15 vittime, ha rivelato un avviso alla polizia una settimana prima da un'associazione ebraica.",
+  "headlines": [
+    {
+      "title": "Trump riceve briefing su piani attacco militare contro Iran da ammiraglio Cooper",
+      "source": "AGI",
+      "summary": "Il presidente Usa Donald Trump riceve oggi briefing dal comandante Centcom Brad Cooper su potenziali operazioni militari in Iran per sbloccare negoziati o colpire definitivamente. Coinvolge stop a 41 navi con 69 milioni di barili. Interesse: escalation guerra influisce su energia globale e prezzi.",
+      "link": "https://www.agi.it/estero/news/2026-04-30/iran-trump-blocco-hormuz-guerra-30-aprile-36824916/",
+      "tier": "top",
+      "sources": [
+        "AGI"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israele intercetta 21 imbarcazioni Flotilla Gaza e ferma 175 attivisti al largo Creta",
+      "source": "ANSA",
+      "sources": [
+        "AGI",
+        "ANSA"
+      ],
+      "summary": "Forze israeliane bloccano 21-22 barche della Flotilla Global Sumud in acque internazionali vicino Creta, fermando 175 attivisti diretti a Gaza. Organizzazione denuncia raid violento e chiede protezione governi. Interesse: tensioni Medio Oriente ostacolano aiuti umanitari.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/30/israele-intercetta-la-flotilla-vicino-creta-e-pirateria.-fermati-175-attivisti-e-intercettate_72dc34ec-a178-4187-a28a-688f5eaa17ab.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive intercettazione 22 imbarcazioni e denuncia minacce violenze da flotilla",
+          "link": "https://www.agi.it/estero/news/2026-04-30/flotilla-gaza-israele-36824741/"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta fermi 175 attivisti e video appello governi contro pirateria israeliana",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/30/israele-intercetta-la-flotilla-vicino-creta-e-pirateria.-fermati-175-attivisti-e-intercettate_72dc34ec-a178-4187-a28a-688f5eaa17ab.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Petrolio Brent sale del 5% a 123 dollari barile toccando massimi quattro anni",
+      "source": "Rai News",
+      "singleSource": true,
+      "summary": "Borse europee chiudono in rosso mentre greggio Brent balza quasi 5% a 123 dollari barile, massimi da quattro anni. Coinvolge tensioni Iran e conflitti. Interesse: impatta inflazione, costi energia e recessione globale.",
+      "link": "https://www.rainews.it/articoli/2026/04/borse-in-rosso-e-petrolio-ancora-in-corsa-481ab397-5e80-4a74-88cf-91dc1cdac15e.html",
+      "tier": "top",
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Polizia australiana riceve avviso attentato Bondi Beach una settimana prima da ebrei",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Inchiesta strage 14 dicembre 2025 a Bondi Beach rivela avviso a polizia una settimana prima da associazione ebraica; persero vita 15 persone. Prosegue indagine su responsabilità. Interesse: solleva questioni sicurezza e intelligence fallimenti.",
+      "link": "https://www.repubblica.it/esteri/2026/04/30/news/strage_bondi_beach_inchiesta_polizia_avvertita-425314871/?rss",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Xi Jinping lancia mosse globali da dieci giorni per affermare influenza cinese",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Cina compie da dieci giorni azioni su vari continenti per rafforzare posizione strategica in incertezza globale. Coinvolge Xi Jinping. Interesse: ridefinisce equilibri potere mondiale contro Usa e alleati.",
+      "link": "https://www.repubblica.it/esteri/2026/04/30/news/attivismo_xi_imporre_influenza_cinese-425314643/?rss",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Droni ucraini colpiscono raffineria petrolio Tuapse in Russia meridionale",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Attacchi droni ucraini provocano fumo nero su raffineria Tuapse sul Mar Nero. Coinvolge guerra Russia-Ucraina. Interesse: interrompe produzione energia russa amplificando impatti sanzioni e prezzi globali.",
+      "link": "http://it.euronews.com/video/2026/04/30/tuapse-fumo-sopra-la-raffineria-russa-colpita-da-droni-ucraini",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Alphabet registra profitti in rialzo dell'81% superando previsioni Big Tech",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Alphabet aumenta utili 81% grazie cloud, titolo sale 7% after hours; Amazon Meta Microsoft battono stime. Interesse: rafforza dominio tech USA su AI e servizi digitali.",
+      "link": "http://it.euronews.com/business/2026/04/30/alphabet-la-casa-madre-di-google-profitti-in-rialzo-dell81-tra-le-big-tech",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Camera esamina Documento finanza pubblica 2026 con risoluzione maggioranza scostamento",
+      "source": "Il Sole 24 Ore",
+      "singleSource": true,
+      "summary": "Aula Camera inizia esame Dfp 2026 con relatori e dibattito; maggioranza presenta risoluzione su scostamento bilancio. Ministro Giorgetti replica dopo. Interesse: definisce spesa pubblica italiana prossima anni.",
+      "link": "https://www.ilsole24ore.com/art/oggi-documento-finanza-pubblica-aula-cosa-dice-risoluzione-maggioranza-scostamento-AI09agmC",
+      "tier": "also",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm rivelano intercettazioni Toti ammette aver truccato dati contagi COVID Liguria",
+      "source": "Corriere della Sera",
+      "singleSource": true,
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Nuove intercettazioni mostrano Toti dire a Cozzani di aver aumentato contagi; pm confermano manipolazione numeri pandemia.",
+      "summary": "Intercettazioni pm Liguria: governatore Toti confessa a capo gabinetto Cozzani di aver truccato dati contagi COVID. Procede indagine su falsi. Interesse: mina credibilità gestione pandemia regione.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Emirati inaugurano oleodotto Fujairah capacità 1,5 milioni barili giorno bypassa Hormuz",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Dettagli oleodotto Habshan-Fujairah del 2012 investimento 3,3 miliardi evita stretto Hormuz post uscita OPEC.",
+      "summary": "Oleodotto Habshan-Fujairah Emirati gestisce 1,5 milioni barili giorno espandibile 1,8, evita acque Iran-Oman. Investimento 3,3 miliardi 2012. Interesse: rafforza indipendenza energetica UAE.",
+      "link": "https://www.repubblica.it/esteri/2026/04/30/news/oleodotto_habshan-fujarah_emirati_fuori_opec_bypass_stretto_hormuz-425315183/?rss",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 262,
+    "articlesAfterDedup": 262,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 13,
+    "categoryCounts": {
+      "conflict": 4,
+      "economy": 3,
+      "politics": 3
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "global": 2,
+      "asia-pacific": 1,
+      "europe": 3,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

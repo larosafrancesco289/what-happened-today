@@ -1,0 +1,196 @@
+{
+  "date": "2026-04-30",
+  "summary": "La Maison-Blanche envisage de prolonger le blocus des ports iraniens pendant plusieurs mois si nécessaire. Cette décision fait suite à des actions militaires sur lesquelles Donald Trump a été briefé. Le prix du pétrole a atteint 126 dollars le baril. Cela affecte les prix de l'énergie dans le monde entier et les tensions au Moyen-Orient. Une poursuite du blocus est attendue en fonction de l'évolution de la situation.\n\nAu Liban, des agences de l'ONU et le ministère libanais de l'agriculture rapportent que 1,2 million de personnes font face à une insécurité alimentaire aiguë. Cette détérioration résulte du conflit entre Israël et le Hezbollah au sud du Liban. Cela aggrave la crise humanitaire en cours. Séparément, la Russie recrute des milliers d'étrangers dans son armée pour la guerre en Ukraine, selon des rapports d'ONG ukrainiennes, kazakhes et de la FIDH. Ce système organisé d'enrôlement illégal renforce les forces russes. Des enquêtes supplémentaires sont en cours. Au Mali, le groupe GSIM affilié à Al-Qaïda a décrété un blocus de la capitale Bamako depuis le 25 avril. La France conseille à ses ressortissants de quitter le pays. La junte malienne fait face à cette offensive qui menace la stabilité au Sahel.\n\nEn France, l'Insee annonce une croissance stable du PIB au premier trimestre 2026, due à une demande intérieure atone et un commerce extérieur négatif. L'emploi n'a pas progressé. L'inflation s'établit à 2,2 % sur un an en avril, en hausse par rapport à 1,7 % en mars, tirée par l'énergie, le gazole, l'essence et les services de transport. La guerre au Moyen-Orient pèse sur les ménages. Les actionnaires de TotalEnergies, au nombre de 650 000, rejettent les accusations de profiteurs de crise portées par Sébastien Lecornu. Ils attribuent la hausse de 51 % des bénéfices à la performance de l'entreprise liée à la guerre au Moyen-Orient. Reporters sans frontières publie un classement indiquant que la liberté de la presse est au plus bas niveau depuis 25 ans. La France est 25e, le Canada 20e et les États-Unis 64e. Des pressions économiques et politiques s'intensifient sur les journalistes. Lors d'une audience à Oakland, Elon Musk accuse l'avocat de Sam Altman de poser des questions piégées sur la fondation OpenAI de 2015. Le litige porte sur la mission nonprofit de l'entreprise.",
+  "headlines": [
+    {
+      "title": "Maison-Blanche envisage prolongation blocus ports iraniens plusieurs mois",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Liberation",
+        "Le Figaro"
+      ],
+      "summary": "La Maison-Blanche indique poursuivre blocus iranien des mois si nécessaire, faisant grimper pétrole à 126 dollars le baril. Donald Trump briefé sur actions militaires. Cela impacte prix énergie mondiaux et tensions Moyen-Orient.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4221167-20260430-guerre-iran-maison-blanche-evoque-long-blocus-petrole-grimpe-125-dollars?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Ouvre sur blocus prolongé Maison-Blanche et hausse pétrole 126 dollars",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4221167-20260430-guerre-iran-maison-blanche-evoque-long-blocus-petrole-grimpe-125-dollars?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Président iranien affirme blocus naval américain voué à l’échec",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-prix-du-petrole-senvolent-le-baril-de-brent-a-pres-de-125-dollars-20260430_ANE3ORO27VFG3IFUXULYREE2YI/"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Donald Trump évoque blocus contre Iran prolongeant plusieurs mois",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-etats-unis-donald-trump-vladimir-poutine-israel-liban-20260430"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Agences ONU rapportent 1,2 million Libanais menacés insécurité alimentaire aiguë",
+      "source": "Le Monde",
+      "summary": "Étude onusienne et ministère libanais agriculture révèle détérioration sécurité alimentaire due conflit Israël-Hezbollah. Cela aggrave crise humanitaire au sud Liban.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-au-moyen-orient-au-liban-1-2-million-de-personnes-sont-menaces-d-insecurite-alimentaire-aigue-en-raison-du-conflit-entre-israel-et-le-hezbollah_6684072_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Étude publiée mercredi indique 1,2 million personnes touchées contre période précédente",
+      "sources": [
+        "Le Monde"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Insee annonce croissance France stable premier trimestre 2026",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Le Figaro"
+      ],
+      "summary": "PIB français reste stable janvier-mars 2026 due demande intérieure atone et commerce extérieur négatif. Emploi marque pas. Cela signale ralentissement économique inattendu.",
+      "link": "https://www.liberation.fr/economie/tres-mauvaise-surprise-la-croissance-en-france-a-ete-nulle-au-1er-trimestre-20260430_OJLWP3K4N5HBXG5LOOXQADAODE/",
+      "tier": "top",
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Insee publie inflation France à 2,2% sur un an en avril",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Inflation passe de 1,7% mars à 2,2% avril, tirée par énergie gazole essence et services transports. Guerre Moyen-Orient pèse sur ménages français.",
+      "link": "https://www.lefigaro.fr/conjoncture/en-avril-l-inflation-a-de-nouveau-accelere-atteignant-2-2-sur-un-an-selon-l-insee-20260430",
+      "tier": "top",
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russie enrôle milliers étrangers dans armée pour guerre Ukraine",
+      "source": "RFI",
+      "summary": "Rapport ONG ukrainiennes kazakhes et FIDH révèle système organisé illégal recrutement étrangers par Russie. Cela renforce forces russes face Ukraine.",
+      "link": "https://www.rfi.fr/fr/europe/20260430-guerre-en-ukraine-la-russie-enr%C3%B4le-toujours-plus-d-%C3%A9trangers-dans-son-arm%C3%A9e",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Groupe GSIM décrète blocus capitale Bamako au Mali",
+      "source": "Le Monde",
+      "summary": "Djihadistes affiliés Al-Qaïda passent offensive contre junte, isolant Bamako depuis 25 avril. France conseille départ ressortissants. Cela menace stabilité Sahel.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/04/30/au-mali-les-djihadistes-veulent-etouffer-la-capitale_6684535_3212.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Reporters sans frontières classe liberté presse pire niveau 25 ans",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "France Info"
+      ],
+      "summary": "Classement RSF montre dégradation mondiale, France 25e Canada 20e États-Unis 64e. Pressions économiques politiques s'intensifient sur journalistes.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2250336/liberte-presse-medias-rsf",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Canada 20e place dans classement annuel RSF",
+          "link": "https://ici.radio-canada.ca/nouvelle/2250336/liberte-presse-medias-rsf"
+        },
+        {
+          "source": "France Info",
+          "angle": "France 25e dans situation plutôt bonne selon RSF",
+          "link": "https://www.franceinfo.fr/economie/medias/la-liberte-de-la-presse-au-plus-bas-depuis-25-ans-dans-le-monde-alerte-reporters-sans-frontieres_7973831.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Actionnaires TotalEnergies rejettent accusations profiteurs crise",
+      "source": "France Info",
+      "summary": "650 000 actionnaires défendent bénéfices en hausse 51% liés guerre Moyen-Orient face critiques Sébastien Lecornu. Cela défend performance entreprise.",
+      "link": "https://www.franceinfo.fr/economie/automobile/essence/temoignages-il-ne-faut-pas-toujours-tirer-sur-les-entreprises-performantes-des-actionnaires-de-totalenergies-rejettent-l-etiquette-de-profiteurs-de-crise_7972610.html#xtor=RSS-3-[lestitres]",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Actionnaires répondent à demandes redistribution profits après annonce bénéfices 5,8 milliards dollars Q1",
+      "sources": [
+        "France Info"
+      ],
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Elon Musk exprime irritation questions procès OpenAI",
+      "source": "Le Monde",
+      "summary": "Musk accuse avocat Sam Altman de questions piégeuses sur genèse fondation 2015 lors audience tribunal Oakland. Litige porte sur mission nonprofit.",
+      "link": "https://www.lemonde.fr/economie/article/2026/04/30/au-proces-openai-l-irritation-d-elon-musk-confronte-a-la-genese-du-projet-vos-questions-sont-concues-pour-me-pieger_6684555_3234.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 211,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 19,
+    "categoryCounts": {
+      "politics": 1,
+      "society": 2,
+      "economy": 3,
+      "conflict": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 4,
+      "africa": 1,
+      "global": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 2,
+      "also": 4
+    }
+  }
+}

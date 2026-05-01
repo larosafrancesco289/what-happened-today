@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-01",
+  "summary": "L'administration Trump a atteint la date limite de 60 jours fixée par la loi pour obtenir l'autorisation du Congrès afin de poursuivre l'intervention militaire contre l'Iran. Les élus démocrates s'opposent à cette poursuite sans aval parlementaire. L'exécutif conteste la contrainte légale. Cela prolonge le conflit entamé il y a deux mois, impliquant un blocus des ports iraniens envisagé pour plusieurs mois par la Maison-Blanche.\n\nLa Chambre des représentants des États-Unis a adopté jeudi 30 avril un budget qui met fin au shutdown de 70 jours du ministère de la Sécurité intérieure, restaurant les opérations et les salaires des agents concernés. Au Moyen-Orient, une frappe aérienne israélienne a tué 17 personnes dans plusieurs villes du sud Liban selon l'agence officielle NNA. L'armée israélienne poursuit ses opérations dans le cadre du conflit régional élargi, aggravant les tensions avec le Hezbollah. Le gouvernement israélien a approuvé un plan de 334 millions de dollars pour installer de nouveaux résidents sur le plateau du Golan syrien annexé, malgré des négociations potentielles avec Damas.\n\nDonald Trump a autorisé l'oléoduc Keystone XL reliant le Canada aux raffineries du Wyoming pour 550 000 barils de pétrole par jour. L'Union européenne a appliqué le 1er mai le volet commercial de l'accord avec le Mercosur sans vote du Parlement européen, le volet politique attendant la ratification des 27 États membres. Au Royaume-Uni, un homme de 45 ans né en Somalie a été inculpé pour tentative de meurtre de deux hommes juifs à Londres mercredi, le niveau de menace terroriste ayant été relevé d'un cran jeudi. En France, les ventes de voitures électriques ont augmenté de 48 % à 148 300 unités sur les quatre premiers mois de 2026 selon la Plateforme automobile. Joschka Fischer, ancien ministre allemand, affirme que la politique de Donald Trump initie la dissolution de l'OTAN.",
+  "headlines": [
+    {
+      "title": "Administration Trump prépare poursuite guerre Iran sans autorisation Congrès après 60 jours",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "20 Minutes",
+        "Radio-Canada",
+        "Liberation"
+      ],
+      "summary": "L'administration Trump atteint la date limite de 60 jours fixée par la loi pour obtenir l'aval du Congrès afin de poursuivre l'intervention militaire contre l'Iran. Les élus démocrates s'opposent tandis que l'exécutif conteste la contrainte légale. Cela prolonge le conflit entamé il y a deux mois, impactant la stabilité régionale.",
+      "link": "https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-soixante-jours-apres-le-debut-du-conflit-en-iran-l-administration-trump-prete-a-continuer-sans-l-autorisation-du-congres_6684072_3210.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille 60 jours conflit Iran et attaques israéliennes Liban avec date limite Congrès",
+          "link": "https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-soixante-jours-apres-le-debut-du-conflit-en-iran-l-administration-trump-prete-a-continuer-sans-l-autorisation-du-congres_6684072_3210.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Signale 17 morts frappe israélienne Liban et Trump prêt ignorer Congrès",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4221368-20260501-direct-guerre-moyen-orient-defense-aerienne-action-ciel-teheran-apres-alerte-drones?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Explique Trump contourne Congrès après 60 jours conflit Iran",
+          "link": "https://www.liberation.fr/international/amerique/apres-60-jours-de-conflit-avec-liran-donald-trump-sapprete-a-contourner-le-congres-20260501_4DLIUCZRJVAHLAXS6MTME2LA24/"
+        }
+      ],
+      "dayNumber": 2,
+      "previousContext": "Administration atteint limite 60 jours et conteste obligation d'autorisation Congrès pour prolonger intervention militaire",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Chambre représentants adopte budget met fin shutdown 70 jours ministère Sécurité intérieure États-Unis",
+      "source": "20 Minutes",
+      "summary": "Après 70 jours de blocage budgétaire, la Chambre des représentants vote jeudi 30 avril un texte finançant le ministère de la Sécurité intérieure. Cela résout le plus long shutdown fédéral récent, restaurant opérations et salaires agents concernés.",
+      "link": "https://www.20minutes.fr/monde/4221348-20260430-etats-unis-congres-met-fin-shutdown-record-ministere-securite-interieure?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Armée israélienne tue 17 personnes frappe aérienne sud Liban",
+      "source": "20 Minutes",
+      "summary": "Une frappe israélienne fait au moins 17 morts dans plusieurs villes sud Liban selon NNA. L'armée poursuit opérations dans cadre conflit régional élargi. Cela aggrave tensions avec Hezbollah et impacte civils locaux.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4221368-20260501-direct-guerre-moyen-orient-defense-aerienne-action-ciel-teheran-apres-alerte-drones?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Police britannique inculpe homme 45 ans tentative meurtre deux hommes juifs Londres",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Un Britannique de 45 ans né en Somalie inculpé pour agression couteau mercredi nord Londres contre deux hommes juifs. Menace terroriste relevée d'un cran jeudi. Cette attaque s'inscrit dans série récente contre communauté juive britannique.",
+      "link": "https://www.liberation.fr/international/europe/attaque-antisemite-a-londres-un-suspect-inculpe-20260501_NTG4NHA5E5E7NDERSQILILWQVM/",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Précise suspect 45 ans Somalien et relèvement menace terroriste Royaume-Uni",
+          "link": "https://www.liberation.fr/international/europe/attaque-antisemite-a-londres-un-suspect-inculpe-20260501_NTG4NHA5E5E7NDERSQILILWQVM/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Annonce inculpation suspect après agression couteau deux hommes juifs",
+          "link": "https://www.france24.com/fr/europe/20260501-attaque-londres-suspect-inculp%C3%A9-apr%C3%A8s-agression-couteau-deux-hommes-juifs"
+        },
+        {
+          "source": "RFI",
+          "angle": "Situe attaque dans série récente contre communauté juive Londres",
+          "link": "https://www.rfi.fr/fr/europe/20260501-royaume-uni-un-suspect-inculp%C3%A9-apr%C3%A8s-une-attaque-antis%C3%A9mite-%C3%A0-londres"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Plateforme automobile enregistre 148 300 ventes voitures électriques France hausse 48 % quatre premiers mois",
+      "source": "Le Monde",
+      "summary": "Malgré recul marché auto global, ventes véhicules électriques grimpent de 48 % à 148 300 unités janvier-avril 2026 selon PFA. Cela reflète transition énergétique accélérée en France, soutenue par aides et innovations constructeurs.",
+      "link": "https://www.lemonde.fr/economie-francaise/article/2026/05/01/voitures-electriques-les-ventes-ont-bondi-de-48-depuis-le-debut-de-l-annee-en-france-malgre-un-marche-automobile-en-recul_6684690_1656968.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Union européenne applique volet commercial accord Mercosur sans vote Parlement européen",
+      "source": "RFI",
+      "summary": "Volet libre-échange accord UE-Mercosur entre vigueur 1er mai malgré contestations européennes. Volet politique attend ratification 27 États. Cela ouvre marchés agricoles sud-américains, divisant opinions sur impacts environnementaux et concurrence.",
+      "link": "https://www.rfi.fr/fr/europe/20260501-l-accord-controvers%C3%A9-entre-l-union-europ%C3%A9enne-et-le-mercosur-entre-partiellement-en-vigueur",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump autorise oléoduc Keystone XL transportant 550 000 barils pétrole jour Canada Wyoming",
+      "source": "Radio-Canada",
+      "summary": "Président américain approuve pipeline reliant Canada à raffineries Wyoming pour 550 000 barils quotidiens. Projet relancé renforce approvisionnement énergétique US, malgré oppositions passées sur environnement et peuples autochtones.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2250505/petrole-oleoduc-keystonexl-trump",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Gouvernement israélien approuve 334 millions dollars plan nouveaux résidents plateau Golan syrien",
+      "source": "RFI",
+      "summary": "Israël alloue 334 millions dollars à installation colons sur Golan occupé, malgré négociations potentielles Damas-Tel-Aviv. Cela accélère colonisation territoire syrien annexé, suscitant critiques internationales sur changements démographiques.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260501-proche-orient-le-golan-syrien-autre-front-de-la-colonisation-isra%C3%A9lienne",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Joschka Fischer affirme Donald Trump initie dissolution OTAN par sa politique",
+      "source": "Le Monde",
+      "summary": "Ancien ministre allemand prédit affaiblissement OTAN par Trump et base MAGA, malgré succès historique alliance pour puissance US. Tribune met en garde sur impacts stratégiques pour Europe et sécurité collective.",
+      "link": "https://www.lemonde.fr/idees/article/2026/05/01/joschka-fischer-ancien-chef-de-la-diplomatie-allemande-la-dissolution-de-l-alliance-atlantique-a-deja-commence_6684673_3232.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 206,
+    "articlesAfterDedup": 203,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "society": 1,
+      "economy": 3
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "americas": 2,
+      "europe": 3,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    }
+  }
+}

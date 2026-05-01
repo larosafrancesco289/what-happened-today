@@ -1,0 +1,169 @@
+{
+  "date": "2026-05-01",
+  "summary": "Federal prosecutors released a video on Thursday showing an armed man carrying guns and knives attempting to enter the White House Correspondents' Association dinner to kill President Trump. Authorities intervened and detained the man. Prosecution proceeds in federal court. The incident affects White House security protocols.\n\nIsraeli forces conducted strikes in southern Lebanon on Thursday, killing at least 15 people according to officials, with local media reporting possibly more than 30. The strikes occurred despite a nearly two-week-old ceasefire. Lebanese President Joseph Aoun condemned the actions. The U.S. urged talks between the leaders. Separately, the UK government raised its national terror threat level from substantial to severe following antisemitic incidents, including the stabbing of two Jewish men in north London where a suspect faces charges. The government declared an antisemitism emergency and increased security for Jewish communities.\n\nRussia launched overnight strikes on towns along the Black Sea coast and in central Ukraine, killing one civilian and injuring several others. Ukrainian President Volodymyr Zelenskyy requested details of Russian President Vladimir Putin's short-term ceasefire proposal made to U.S. President Trump ahead of May 9. In Germany, the U.S. considers reducing troop numbers after President Trump criticized Chancellor Friedrich Merz over comments on Iran. Merz reaffirmed commitment to the alliance. Taiwan's GDP expanded 13.7 percent year-on-year in the first quarter of 2026, exceeding forecasts. Pakistan commissioned its first Chinese-built Hangor-class submarine, PNS/M Hangor, in Sanya, China. Chinese developer Vanke reported a substantial loss amid the property sector crisis. A wildfire in rural Brantley County, southeast Georgia, burned over 8 square miles since Monday, destroying nearly 90 homes.",
+  "headlines": [
+    {
+      "title": "Federal prosecutors release video of armed man storming correspondents' dinner",
+      "source": "NPR News",
+      "summary": "Federal prosecutors released Thursday a video showing an armed man with guns and knives attempting to storm the White House Correspondents' Association dinner to kill President Trump. Authorities intervened. This underscores persistent threats to presidential security, affecting national safety and public trust. Prosecution proceeds in court.",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5807081/prosecutors-release-video-of-armed-man-storming-correspondents-dinner",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "UK government raises national terror threat level to severe after antisemitic incidents",
+      "source": "France 24",
+      "summary": "UK elevates terror threat from substantial to severe, indicating likely attack soon, following antisemitic attacks including stabbing of two Jewish men in north London with suspect charged. Government declares antisemitism emergency and boosts Jewish community security. Impacts UK residents and policy amid rising hate crimes.",
+      "link": "https://www.france24.com/en/uk-raises-national-terror-threat-level-following-antisemitic-incidents",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli strikes kill at least 15 people in southern Lebanon despite ceasefire",
+      "source": "France 24",
+      "summary": "Israeli strikes on Thursday kill at least 15 in southern Lebanon, local media report possibly over 30, violating nearly two-week-old ceasefire. Lebanese president condemns actions; US urges leader talks. Affects Lebanese civilians, risks broader escalation in tense border region.",
+      "link": "https://www.france24.com/en/at-least-15-killed-in-southern-lebanon",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russian strikes kill one and injure several in Ukrainian Black Sea and central towns",
+      "source": "Al Jazeera English",
+      "summary": "Russia conducts overnight attacks on Black Sea coast and central Ukraine towns, killing one civilian and injuring several others. Ongoing assaults displace residents and damage infrastructure amid war. Highlights persistent aggression as Ukraine seeks ceasefire details.",
+      "link": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight?traffic_source=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zelenskyy requests details of Putin's May 9 ceasefire proposal to Trump",
+      "source": "NPR News",
+      "summary": "Ukrainian President Volodymyr Zelenskyy seeks specifics on Russian President Putin's short-term ceasefire offer to U.S. President Trump ahead of May 9. Could influence war trajectory affecting millions in Ukraine; diplomatic clarifications expected next.",
+      "link": "https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Georgia wildfire destroys nearly 90 homes across 8 square miles",
+      "source": "Associated Press",
+      "summary": "Wildfire in rural Brantley County southeast Georgia has burned over 8 square miles since Monday, destroying nearly 90 homes and prompting evacuation warnings amid gusty winds. Affects hundreds of residents; firefighting continues with drought risks persisting.",
+      "link": "https://apnews.com/article/georgia-florida-wildfires-drought-54ae4a4b099c1c11b3d76800275055e1",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Taiwan economy expands 13.7 percent in first quarter beating forecasts",
+      "source": "Japan Times",
+      "summary": "Taiwan's GDP grows 13.7% year-on-year in Q1 2026, surpassing estimates and accelerating from prior 12.7%. Strengthens position amid geopolitical tensions; benefits investors and underscores semiconductor hub resilience for global markets.",
+      "link": "https://www.japantimes.co.jp/news/2026/05/01/asia-pacific/taiwan-economic-growth-beat-forecasts/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Pakistan Navy commissions first Chinese Hangor-class attack submarine",
+      "source": "South China Morning Post",
+      "summary": "Pakistan commissions PNS/M Hangor, inaugural Chinese-built Hangor-class submarine, in Sanya China during ceremony with leaders present. Enhances naval capabilities via Beijing ties; shifts regional power dynamics in South Asia and Indian Ocean.",
+      "link": "https://www.scmp.com/news/china/military/article/3352120/pakistan-commissions-first-chinese-attack-submarine-historic-milestone-navy?utm_source=rss_feed",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. weighs reducing troops in Germany amid tensions with Chancellor Merz",
+      "source": "France 24",
+      "summary": "U.S. considers troop drawdown in Germany after President Trump criticizes Chancellor Friedrich Merz over Iran comments. Merz reaffirms alliance; potential cuts disrupt NATO strategy, affecting European defense posture.",
+      "link": "https://www.france24.com/en/us-considers-reducing-troops-in-germany",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "China developer Vanke posts huge loss amid spreading property crisis",
+      "source": "Wall Street Journal World",
+      "summary": "Leading Chinese property firm Vanke reports substantial loss, signaling crisis expansion and prompting questions on state bailout. Impacts developers, banks and economy; tests Beijing's support for troubled sector.",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 437,
+    "articlesAfterDedup": 437,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "environment": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 4,
+      "middle-east": 1,
+      "asia-pacific": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7
+    }
+  }
+}

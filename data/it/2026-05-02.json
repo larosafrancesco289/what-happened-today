@@ -1,0 +1,234 @@
+{
+  "date": "2026-05-02",
+  "summary": "Il governo iraniano ha avvertito di una probabile nuova guerra con gli Stati Uniti, citando tensioni, ultimatum e trattative in corso. Teheran ha dichiarato che le ostilità potrebbero riprendere presto. Contemporaneamente, Donald Trump ha annunciato durante una cena in Florida la presa di controllo di Cuba immediatamente dopo un'operazione militare in Iran. Cuba ha denunciato le nuove sanzioni come punizione collettiva. I democratici hanno criticato Trump per l'autorizzazione illegale del conflitto attuale con l'Iran. Trump ha informato il Congresso che le ostilità con l'Iran sono terminate alla scadenza dei sessanta giorni, evitando un voto parlamentare e permettendo la prosecuzione delle operazioni militari.\n\nIl Pentagono ha ordinato il ritiro di circa cinquemila soldati dalle basi tedesche, in risposta alle critiche tedesche sulla guerra in Iran e sull'ingratitudine degli alleati. Questo fa seguito alle minacce di Trump di ridurre le truppe in Germania, Italia e Spagna. La mossa tensiona le relazioni nella NATO. In Italia, i prezzi della benzina e del gasolio si avvicinano a due euro al litro, soprattutto a Bolzano e nel Sud, dopo la modifica governativa allo sconto sulle accise applicata dal 2 maggio. Il taglio favorisce il diesel, con impatti sui trasporti e sull'inflazione.\n\nIl governo italiano ha erogato un bonus fino a cinquecento euro per quindicimila genitori separati che cedono l'abitazione, con sessanta milioni di euro in tre anni annunciati dal vicepremier Salvini. Un rapporto Copernicus registra un innalzamento del livello dei mari di dieci centimetri in Europa dal 1993, legato al riscaldamento globale; Anbi chiede infrastrutture idrauliche. Il Parlamento europeo ha approvato una risoluzione non vincolante che definisce il cyberbullismo come reato comune, con sanzioni e responsabilità per le piattaforme. Uno studio indica che l'81% degli studenti italiani usa intelligenza artificiale, ma solo il 44% ha accesso formale in aula e gli insegnanti mancano di formazione. I pm accusano il governatore ligure Giovanni Toti di manipolazione dei dati Covid, con ammissioni di aumenti manuali dei contagi.",
+  "headlines": [
+    {
+      "title": "Governo iraniano avverte di probabile nuova guerra contro Stati Uniti",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Teheran dichiara probabile una nuova guerra con gli USA tra tensioni, ultimatum e trattative. Democratici criticano Trump per autorizzazione illegale al conflitto già in corso. La mossa alza rischi di escalation nel Medio Oriente e instabilità energetica globale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/02/teheran-probabile-una-nuova-guerra-con-gli-stati-uniti_96b71b34-4281-4f61-b2d7-75b30b01f924.html",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Apre con dichiarazione Teheran e rabbia dem su autorizzazione guerra da Trump",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/02/teheran-probabile-una-nuova-guerra-con-gli-stati-uniti_96b71b34-4281-4f61-b2d7-75b30b01f924.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Collega avvertimento Teheran a ritiro truppe USA e minacce reciproche",
+          "link": "https://www.agi.it/estero/news/2026-05-02/iran-guerra-trump-notizie-2-maggio-36855131/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Cita Teheran pronta a ostilità accanto a nota Trump su Iran e bombe Libano",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-2-maggio_111616247-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump annuncia presa controllo Cuba dopo operazione militare in Iran",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Trump dichiara a cena in Florida di prendere controllo Cuba immediatamente dopo Iran. Cuba denuncia nuove sanzioni come punizione collettiva. La minaccia riaccende tensioni storiche e preoccupa per espansione conflitti USA nell'emisfero occidentale.",
+      "link": "https://www.agi.it/estero/news/2026-05-02/cuba-usa-trump-sanzioni-36854923/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Riporta discorso Trump su Cuba dopo Iran e reazione sanzioni cubane",
+          "link": "https://www.agi.it/estero/news/2026-05-02/cuba-usa-trump-sanzioni-36854923/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Collega annuncio Cuba a nota Iran e bombe sul Libano con tredici morti",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-2-maggio_111616247-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Pentagono ordina ritiro cinquemila soldati dalle basi militari tedesche",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Pentagono dispone ritiro circa cinquemila soldati da Germania in risposta a critiche tedesche su guerra Iran e ingratitudine alleati. Trump aveva minacciato riduzioni da Germania Italia Spagna. La mossa tensiona NATO e alleanze europee.",
+      "link": "https://www.agi.it/estero/news/2026-05-02/iran-guerra-trump-notizie-2-maggio-36855131/",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pentagono ordina ritiro circa cinquemila soldati da basi tedesche dando esecuzione minaccia Trump su riduzioni truppe alleate",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Contestualizza ritiro in trattative Iran e annuncio Trump su alleati",
+          "link": "https://www.agi.it/estero/news/2026-05-02/iran-guerra-trump-notizie-2-maggio-36855131/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Enfatizza scontro Trump-Berlino per disapprovazione tedesca su guerra Iran",
+          "link": "http://it.euronews.com/2026/05/02/scontro-con-berlino-trump-ritirera-5000-truppe-in-servizio-attivo-dalla-germania"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump informa Congresso terminazione ostilità con Iran",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Trump comunica al Congresso che ostilità con Iran terminate scaduti sessanta giorni per evitare autorizzazione parlamentare. Democratici denunciano illegalità. La dichiarazione permette prosecuzione conflitto senza voto Congresso.",
+      "link": "https://www.repubblica.it/esteri/2026/05/01/news/trump_congresso_guerra_iran_usa-425318700/?rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump ribadisce terminazione ostilità al Congresso per eludere autorizzazione con dem che protestano illegalità prosecuzione guerra",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Spiega mossa Trump per continuare guerra senza autorizzazione parlamentare",
+          "link": "https://www.repubblica.it/esteri/2026/05/01/news/trump_congresso_guerra_iran_usa-425318700/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Collega nota Congresso a minacce Cuba e bombe Libano tredici morti",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-2-maggio_111616247-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Prezzi benzina si avvicinano a due euro al litro in tutta Italia",
+      "source": "Il Sole 24 Ore",
+      "summary": "Listini benzina e gasolio salgono verso due euro al litro specie a Bolzano e Sud dopo modifica sconto accise. Taglio governativo favorisce diesel. Consumatori affrontano rincari con impatto su trasporti e inflazione.",
+      "link": "https://www.ilsole24ore.com/art/benzina-prezzi-i-2-euro-litro-piu-cara-bolzano-e-sud-AIxsqzoC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo eroga bonus fino a cinquecento euro genitori separati lasciano abitazione",
+      "source": "Il Sole 24 Ore",
+      "summary": "Vicepremier Salvini annuncia sessanta milioni in tre anni per quindicimila separati che cedono casa. Bonus massimo cinquecento euro aiuta transizione abitativa. Misura sostiene famiglie in crisi coniugali.",
+      "link": "https://www.ilsole24ore.com/art/casa-arrivo-bonus-fino-500-euro-i-genitori-separati-che-lasciano-l-abitazione-AIffE3oC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Livello mari si alza di dieci centimetri in Europa dal millenovecentonovantatre",
+      "source": "AGI",
+      "summary": "Rapporto Copernicus registra innalzamento livello mare di dieci centimetri dal 1993 per riscaldamento globale. Anbi chiede infrastrutture idrauliche contro eventi estremi. Dati evidenziano rischi coste e necessità adattamento.",
+      "link": "https://www.agi.it/cronaca/news/2026-05-01/clima-mare-europa-36840913/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Parlamento europeo approva risoluzione cyberbullismo come reato comune",
+      "source": "AGI",
+      "summary": "Plenaria Ue approva testo non vincolante per sanzioni cyberbullismo reato europeo con definizione comune e responsabilità piattaforme. Chiede segnalazioni facili per vittime. Misure tutelano minori e colmano lacune giuridiche.",
+      "link": "https://www.agi.it/estero/news/2026-05-01/cyberbullismo-reato-europeo-36838418/",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ottantunopercento studenti italiani usa intelligenza artificiale ma insegnanti impreparati",
+      "source": "Rai News",
+      "summary": "Studio rileva ottantunopercento ragazzi usa IA con solo quarantaquattro per cento accesso formale in aula. Insegnanti mancano formazione gestione. Integrazione IA richiede linee guida per istruzione italiana.",
+      "link": "https://www.rainews.it/articoli/2026/05/lintelligenza-artificiale-entra-nelle-aule-italiane-ma-gli-insegnanti-non-sanno-come-gestirla-863909fa-2fe2-4060-b0cb-6e7101d1635c.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pm accusano governatore Toti di manipolazione dati Covid in Liguria",
+      "source": "Corriere della Sera",
+      "summary": "Indagine rivela governatore Giovanni Toti ammette ad aumenti manuali contagi Covid a capo gabinetto. Pm parlano truccatura numeri pandemia. Procedura indaga gestione crisi sanitaria ligure.",
+      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Corriere della Sera"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 260,
+    "articlesAfterDedup": 260,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 18,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "economy": 1,
+      "society": 1,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "americas": 1,
+      "europe": 7,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "developing": 2,
+      "also": 6
+    }
+  }
+}

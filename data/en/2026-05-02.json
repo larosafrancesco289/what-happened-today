@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-02",
+  "summary": "A three-judge panel of the U.S. Court of Appeals for the D.C. Circuit ruled President Trump's executive order suspending asylum access at the southern border illegal. The decision blocks the policy affecting thousands of migrants seeking entry. The administration plans appeals to the Supreme Court.\n\nIn the Middle East, Israel permitted displaced Palestinians to return to northern Gaza by crossing a military zone following a hostage release agreement. Hundreds of thousands of residents are affected. Separately, the Trump administration imposed sanctions on a major Chinese oil refinery and 40 shipping firms for transporting Iranian oil. President Trump informed Congress that the Iran ceasefire ends hostilities, eliminating the need for war authorization. The Pentagon announced withdrawal of 5,000 U.S. troops from Germany over six to 12 months amid disputes with German leaders over the Iran conflict.\n\nRwanda-backed rebels overran Congolese troops and entered Goma, a safe-haven city trapping over one million displaced residents amid gunfire. The U.N. warned of escalating crisis. Mexican Sinaloa Governor Rubén Rocha Moya resigned after U.S. accusations of protecting the Sinaloa Cartel for bribes, prompting Mexican investigations. A federal appeals court halted mailing of mifepristone, limiting nationwide access to the abortion pill. The U.S. Justice Department authorized firing squads and pentobarbital for federal executions to address 13 pending cases. China developer Vanke reported massive losses amid the property crisis. (298 words)",
+  "headlines": [
+    {
+      "title": "U.S. appeals court rules Trump's asylum ban at border illegal",
+      "source": "Associated Press",
+      "summary": "A three-judge panel of the U.S. Court of Appeals for the D.C. Circuit blocks Trump's executive order suspending asylum access for migrants at the southern border. Affects thousands seeking entry. Likely appeals to Supreme Court, undermining key immigration enforcement. Matters as it halts Republican migration crackdown.",
+      "link": "https://apnews.com/article/trump-asylum-appeals-court-ed8f8f193579b757d7f384cd7f9e9e60",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Federal appeals court blocks mailing of mifepristone restricting U.S. abortion access",
+      "source": "NPR News",
+      "summary": "A federal appeals court halts mailing of mifepristone, a common abortion pill, limiting access nationwide. Impacts patients relying on mail-order medication post-Roe. Next steps include potential Supreme Court review. Significant for reproductive rights amid ongoing legal battles over abortion.",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Justice Department authorizes firing squads for federal executions",
+      "source": "Associated Press",
+      "summary": "U.S. Justice Department permits firing squads and reauthorizes pentobarbital injections to speed up capital punishment. Affects death row inmates in federal cases. Aims to execute 13 pending cases faster. Escalates Trump's push for tougher criminal justice amid drug and crime concerns.",
+      "link": "https://apnews.com/article/death-penalty-firing-squads-justice-department-9e81687b80402e1e19d57bbc55772470",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. sanctions China refinery and 40 shippers for transporting Iranian oil",
+      "source": "Associated Press",
+      "summary": "Trump administration targets major Chinese oil refinery and 40 shipping firms for Iranian oil trade. Impacts global energy firms evading sanctions. Enforcement ramps up pressure on Iran post-ceasefire. Matters for U.S. efforts to curb Tehran's funding and oil markets.",
+      "link": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel allows Palestinians to return to northern Gaza after hostage deal",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Gazans to cross military zone back to northern Gaza following hostage release breakthrough. Affects hundreds of thousands of returnees. Eases humanitarian strain but risks renewed conflict. Key step toward potential lasting truce.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Sinaloa Governor Rubén Rocha Moya resigns after U.S. cartel accusations",
+      "source": "New York Times",
+      "summary": "Mexican Governor Rubén Rocha Moya steps down amid U.S. claims he protected Sinaloa Cartel for bribes. Affects regional anti-drug efforts and bilateral ties. Triggers national scandal, prompts Mexico investigations. Highlights cross-border corruption challenges.",
+      "link": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump informs Congress Iran ceasefire removes need for war authorization",
+      "source": "BBC",
+      "summary": "President Trump writes Congress that Iran ceasefire terminates hostilities, negating authorization requirement. Affects congressional oversight on military actions. Allows executive flexibility amid tensions. Critical for U.S. foreign policy debates on Iran.",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Rwanda-backed rebels enter Congo safe-haven city of Goma",
+      "source": "Wall Street Journal",
+      "summary": "Rebels overrun Congolese troops entering Goma, trapping over one million displaced residents amid gunfire. Affects aid hub and civilians. U.N. warns of crisis escalation. Threatens regional stability in Central Africa.",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. announces withdrawal of 5,000 troops from Germany",
+      "source": "NPR News",
+      "summary": "Pentagon confirms pullout of 5,000 troops from Germany in 6-12 months amid Trump clashes with leader over Iran war.",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Pentagon announces withdrawal of 5,000 troops from Germany in 6-12 months due to tensions with Chancellor Merz over U.S. Iran war",
+      "link": "https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "China developer Vanke reports huge losses amid property crisis",
+      "source": "Wall Street Journal",
+      "summary": "Vanke posts massive losses signaling deepening real estate woes and potential state bailout needs.",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Vanke reports continued huge losses raising questions on crisis spread and government intervention",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 455,
+    "articlesAfterDedup": 455,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 6,
+      "science": 1,
+      "conflict": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 4,
+      "global": 1,
+      "middle-east": 2,
+      "africa": 1,
+      "europe": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

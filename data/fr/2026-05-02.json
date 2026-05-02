@@ -1,0 +1,197 @@
+{
+  "date": "2026-05-02",
+  "summary": "Donald Trump a informé le Congrès américain vendredi que les hostilités contre l'Iran sont terminées après la limite de 60 jours prévue par la loi. Dans une lettre, il a contournant l'autorisation parlementaire requise, rejeté une nouvelle offre de paix iranienne et menacé de frapper en cas d'échec diplomatique. Cela fait suite à la préparation par l'administration d'une poursuite de la guerre sans approbation du Congrès, prolongeant l'incertitude sur le conflit au Moyen-Orient où des ventes d'armes américaines aux alliés régionaux sont approuvées.\n\nLes États-Unis ordonnent le retrait de 5000 militaires d'Allemagne d'ici un an, soit 15 % des effectifs, après des propos du chancelier Merz irritant Trump. Plus de 30 000 soldats resteront, l'Allemagne demeurant une base clé en Europe pour Washington. Séparément, Donald Trump annonce une taxation de 25 % sur les importations de voitures et camions d'Europe à partir du 4 mai, au lieu de 15 %, sur fond de mécontentement lié à l'Iran. Cela affecte des milliards d'échanges annuels et ravive les tensions commerciales transatlantiques. Les États-Unis approuvent aussi la vente de missiles Patriot au Qatar pour 4 milliards de dollars, plus d'armes à Israël, au Koweït et aux Émirats arabes unis, renforçant ces alliés face aux tensions régionales avec l'Iran.\n\nUne cour d'appel ultraconservatrice suspend provisoirement l'envoi postal de la pilule abortive aux États-Unis, restreignant l'accès à l'IVG par télémédecine qui représente plus d'un quart des procédures, avec effet national post-Roe v. Wade. Washington sanctionne l'ancien président congolais Joseph Kabila, au pouvoir de 2001 à 2019, pour instabilité, après des sanctions sur l'armée rwandaise soutenant les rebelles M23 à l'est du Congo, affectant des millions de déplacés. L'Iran prolonge la coupure internet générale mais autorise un accès web réservé à l'élite via Internet Pro. Donald Trump félicite Ali al-Zaidi, homme d'affaires nommé premier ministre irakien par le président Nizar Amedi, marquant un possible tournant dans les relations États-Unis-Irak au milieu de l'instabilité régionale.",
+  "headlines": [
+    {
+      "title": "Donald Trump informe Congrès américain hostilités contre Iran terminées après limite 60 jours",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "Libération",
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "Donald Trump a déclaré vendredi dans une lettre au Congrès que les hostilités avec l'Iran sont terminées, contournant l'autorisation parlementaire requise après 60 jours. Il a rejeté une nouvelle offre de paix iranienne et menacé de frapper si échec diplomatique. Cela prolonge l'incertitude sur le conflit au Moyen-Orient.",
+      "link": "https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-au-moyen-orient-donald-trump-declare-dans-une-lettre-au-congres-que-les-hostilites-contre-l-iran-sont-terminees_6684072_3210.html",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Donald Trump déclare hostilités terminées dans lettre au Congrès et rejette nouvelle offre paix iranienne, menaçant de pulvériser régime en cas échec",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Présente annonce Trump contournant Congrès sur fin hostilités Iran à expiration 60 jours",
+          "link": "https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-au-moyen-orient-donald-trump-declare-dans-une-lettre-au-congres-que-les-hostilites-contre-l-iran-sont-terminees_6684072_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Met en avant déclaration Trump sur fin hostilités mais insatisfaction offre iranienne",
+          "link": "https://www.lefigaro.fr/international/en-direct-donald-trump-guerre-moyen-orient-informe-le-congres-que-les-hostilites-avec-l-iran-sont-terminees-20260502"
+        },
+        {
+          "source": "Libération",
+          "angle": "Ouvre sur rejet Trump offre paix iranienne et poursuite frappes israéliennes Liban",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-nest-pas-satisfait-par-la-derniere-proposition-de-paix-iranienne-20260502_ACJG75NT7VF3HJ7XWHK3PZRUPA/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis ordonnent retrait 5000 militaires d'Allemagne d'ici un an",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Le Monde",
+        "Radio-Canada"
+      ],
+      "summary": "Le ministre américain de la Défense ordonne le retrait de 5000 soldats d'Allemagne d'ici un an, soit 15% des effectifs, après propos chancelier Merz irritant Trump. Plus de 30000 resteront, Allemagne restant base européenne clé pour Washington.",
+      "link": "https://www.rfi.fr/fr/europe/20260502-les-%C3%A9tats-unis-vont-retirer-quelque-5000-militaires-d-allemagne-d-ici-un-an",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Annonce retrait 5000 militaires ordonné par Pentagone avec maintien 30000 soldats",
+          "link": "https://www.rfi.fr/fr/europe/20260502-les-%C3%A9tats-unis-vont-retirer-quelque-5000-militaires-d-allemagne-d-ici-un-an"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Lie annonce à colère Trump contre chancelier Merz et 36000 soldats actuels",
+          "link": "https://www.lemonde.fr/international/article/2026/05/02/les-etats-unis-vont-retirer-quelque-5-000-militaires-d-allemagne-d-ici-un-an-et-menacent-de-reduire-les-effectifs-en-italie-et-en-espagne_6684790_3210.html"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Rassocie à critiques Trump alliés européens sur commerce et OTAN",
+          "link": "https://ici.radio-canada.ca/nouvelle/2250737/trump-droits-douane-tarif-voitures-auto-union-europeennes-ue"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump impose taxation 25 % importations voitures camions Europe dès 4 mai",
+      "source": "Le Monde",
+      "summary": "Donald Trump annonce vendredi taxation 25% sur importations voitures et camions d'Europe à partir du 4 mai, au lieu de 15%, sur fond mécontentement Iran. Cela ravive tensions commerciales transatlantiques affectant milliards échanges annuels.",
+      "link": "https://www.lemonde.fr/economie/article/2026/05/02/donald-trump-relance-la-guerre-commerciale-avec-l-europe-sur-fond-de-mecontentement-sur-l-iran_6684829_3234.html",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cour appel ultraconservatrice suspend envoi postal pilule abortive États-Unis",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Libération"
+      ],
+      "summary": "Une cour d'appel suspend provisoirement envoi postal pilule abortive vendredi, restreignant accès IVG télémédecine représentant plus quart procédures. Décision s'applique tout pays, compliquant droits reproductifs post-Roe v Wade.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4221450-20260502-etats-unis-cour-appel-suspend-provisoirement-envoi-postal-pilule-abortive?at_medium=display&at_campaign=149",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Décision cour restreint accès avortement télémédecine quart IVG",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4221450-20260502-etats-unis-cour-appel-suspend-provisoirement-envoi-postal-pilule-abortive?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Libération",
+          "angle": "Présente suspension acheminement pilule abortive comme nouveau recul droit IVG",
+          "link": "https://www.liberation.fr/international/amerique/etats-unis-nouveau-coup-de-boutoir-contre-le-droit-a-lavortement-20260502_4MQPG3PMT5DV5E4VM7FZIM4JYE/"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "États-Unis approuvent vente missiles Patriot Qatar pour 4 milliards dollars",
+      "source": "20 Minutes",
+      "summary": "Washington approuve vente missiles Patriot au Qatar pour 4 milliards dollars, plus armes à Israël, Koweït et Émirats arabes unis. Cela renforce alliés Moyen-Orient face tensions régionales avec Iran.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4221449-20260502-conflit-moyen-orient-washington-approuve-vente-missiles-patriot-qatar-4-milliards-dollars?at_medium=display&at_campaign=149",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "États-Unis sanctionnent ancien président congolais Joseph Kabila instabilité",
+      "source": "France 24",
+      "summary": "Washington sanctionne Joseph Kabila, président RDC 2001-2019, pour semer instabilité, après sanctions armée rwandaise soutenant rebelles M23. Cela vise acteurs conflits Est Congo affectant millions déplacés.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260501-les-etats-unis-sanctionnent-l-ancien-pr%C3%A9sident-congolais-joseph-kabila",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Régime iranien lance Internet Pro réservé élite pendant coupure web générale",
+      "source": "RFI",
+      "summary": "Iran prolonge coupure internet mais autorise accès web élite via Internet Pro. Cela discrimine population, renforçant contrôle régime sur information durant tensions régionales.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260502-internet-pro-en-iran-quand-le-r%C3%A9gime-r%C3%A9serve-le-web-%C3%A0-une-%C3%A9lite",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump félicite Ali al-Zaidi nouveau premier ministre irakien désigné",
+      "source": "Le Figaro",
+      "summary": "Donald Trump salue Ali al-Zaidi, homme affaires nommé premier ministre par président Nizar Amedi. Cela marque possible tournant relations États-Unis-Irak au milieu instabilité régionale.",
+      "link": "https://www.lefigaro.fr/flash-actu/c-est-le-debut-d-un-nouveau-chapitre-extraordinaire-entre-nos-deux-nations-donald-trump-felicite-le-nouveau-premier-ministre-irakien-designe-20260430",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 206,
+    "articlesAfterDedup": 203,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "politics": 5,
+      "economy": 1,
+      "science": 1,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 2,
+      "middle-east": 3,
+      "africa": 1
+    },
+    "tierCounts": {
+      "developing": 1,
+      "top": 3,
+      "also": 4
+    }
+  }
+}

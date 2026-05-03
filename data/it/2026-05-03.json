@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-03",
+  "summary": "Donald Trump ha esaminato una nuova proposta di pace iraniana, definendola inaccettabile e avvertendo di possibili nuovi bombardamenti su Teheran in caso di mancata collaborazione. Teheran ha risposto che la guerra si avvicina. I negoziati restano bloccati. Questo fa seguito alla terminazione delle ostilità annunciata ieri da Trump al Congresso. L'Iran ha ridotto la produzione di petrolio per difficoltà di stoccaggio dovute al blocco dello Stretto di Hormuz da parte degli Stati Uniti, secondo un funzionario citato da Bloomberg. La decisione impatta le esportazioni globali di energia e contribuisce all'aumento dei prezzi dei carburanti.\n\nVolodymyr Zelensky ha annunciato che le forze ucraine hanno colpito due petroliere russe della flotta ombra all'ingresso del porto di Novorossiysk nel Mar Nero. Le imbarcazioni servono a Mosca per aggirare le sanzioni. L'attacco riduce la capacità logistica russa. Separatamente, soldati ucraini hanno impiegato drone detector nella regione di Donetsk per avvistare droni russi e ripararsi, migliorando le difese aeree. Donald Trump ha specificato che il ritiro di soldati americani dalle basi tedesche supera le cinquemila unità. La decisione riduce la presenza Usa in Europa. I prossimi passi dipendono dai negoziati Nato.\n\nUn ex consigliere iraniano vicino a Khamenei ha proposto pedaggi del 5% sul valore dei carichi delle navi nello Stretto di Hormuz prima di un negoziato nucleare, per generare entrate a Teheran. Il quotidiano tedesco Welt ha riportato rischi di chiusure di stretti marittimi simili a Hormuz, con l'Iran che ispira altri Stati e frena il commercio mondiale. In Italia, il Tribunale della Valle d'Aosta ha dichiarato decaduto il presidente Testolin per ineleggibilità al terzo mandato; la regione resta senza presidente in attesa di una nuova nomina. Uno studio indica che metà dei quattro milioni di lavoratori italiani ha perso potere d'acquisto negli ultimi cinque anni per salari fermi. Province come Genova, Imperia, Como e Varese registrano i minori aumenti di redditi Irpef dal 2015 al 2024.",
+  "headlines": [
+    {
+      "title": "Donald Trump esamina proposta pace iraniana e minaccia ripresa attacchi su Teheran",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Donald Trump valuta nuova bozza iraniana per pace ma la definisce inaccettabile e avverte di possibili nuovi bombardamenti se Teheran non collabora. Teheran risponde che la guerra si avvicina. Negoziati restano bloccati, rischio escalation nel Golfo influisce su prezzi energia globali.",
+      "link": "https://www.agi.it/estero/news/2026-05-03/iran-guerra-trump-notizie-3-maggio-36864650/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Riporta minaccia Trump di azioni militari se Iran si comporta male e avvertimento Teheran",
+          "link": "https://www.agi.it/estero/news/2026-05-03/iran-guerra-trump-notizie-3-maggio-36864650/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Sottolinea rifiuto Trump precedente proposta e esame nuova da Teheran",
+          "link": "http://it.euronews.com/2026/05/03/trump-esamina-la-nuova-proposta-di-pace-di-teheran-non-immagino-sia-accettabile"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive bocciatura bozza Usa e reazione Teheran che guerra si avvicina",
+          "link": "https://www.repubblica.it/esteri/2026/05/03/news/usa_bozza_iran_guerra_trump-425319972/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Cita Trump su esame proposta non accettabile e possibilità ripresa attacchi",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3-maggio_111648607-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Volodymyr Zelensky annuncia colpi a due petroliere russe flotta ombra Mar Nero",
+      "source": "TGCOM24",
+      "summary": "Forze ucraine colpiscono due petroliere russe all'ingresso porto Novorossiysk nel Mar Nero. Imbarcazioni appartengono flotta ombra usata per aggirare sanzioni. Attacco riduce capacità logistica Mosca, escalation navale nel conflitto.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-petroliere-russe-mar-nero_111652368-202602k.shtml",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran riduce produzione petrolio per difficoltà stoccaggio blocco Stretto Hormuz",
+      "source": "AGI",
+      "summary": "Iran frena estrazione petrolio causa saturazione infrastrutture da blocco Usa Hormuz. Decisione riportata Bloomberg da funzionario Teheran. Impatta esportazioni globali energia, alza prezzi carburanti e tensioni geopolitiche.",
+      "link": "https://www.agi.it/estero/news/2026-05-02/iran-guerra-trump-notizie-2-maggio-36855131/",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump annuncia taglio soldati americani Germania oltre cinquemila unità",
+      "source": "TGCOM24",
+      "summary": "Trump specifica ritiro soldati da basi tedesche supera cinquemila unità. Decisione riduce presenza Usa Europa. Prossimi passi dipendono da negoziati Nato, influisce equilibri militari contro Russia.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3-maggio_111648607-202602k.shtml",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump rivela che numero soldati ritirati supera le cinquemila unità ordinate ieri dal Pentagono",
+      "sources": [
+        "TGCOM24"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Soldati ucraini impiegano drone detector contro incursioni russe Donetsk",
+      "source": "Rai News",
+      "summary": "Reportage mostra uso drone detector regione Donetsk per avvistare droni russi e ripararsi. Strumento salva vite in guerra aerea. Migliora difese ucraine, evidenzia evoluzione tattica conflitto.",
+      "link": "https://www.rainews.it/video/2026/05/ucraina-la-guerra-sopra-di-noi-reportage-dal-donbas-7cfe0c4a-9376-4629-8e72-afd3d84b8cc6.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ex consigliere iraniano propone pedaggi 5 per cento carichi navi Stretto Hormuz",
+      "source": "la Repubblica",
+      "summary": "Davari, vicino Khamenei, indica pedaggi 5% valore carichi Hormuz prima negoziato nucleare. Priorità Teheran per entrate. Potrebbe calmare tensioni o scatenare ritorsioni marittime globali.",
+      "link": "https://www.repubblica.it/esteri/2026/05/01/news/abdolreza_davari_iran_negoziato_nucleare_pedaggi_delle_navi_a_hormuz-425317066/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Welt avverte su rischi chiusura stretti marittimi ispirati Hormuz",
+      "source": "la Repubblica",
+      "summary": "Quotidiano tedesco spiega dipendenza globalizzazione da stretti come Hormuz. Iran ispira altri Stati a limitare passaggi. Potenziale escalation frena commercio mondiale e prosperità.",
+      "link": "https://www.repubblica.it/esteri/dossier/lena/2026/05/03/news/geografia_arma_controllo_stretti_fine_globalizzazione_continental_breakfast-425315637/?rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Tribunale Valle d’Aosta dichiara decaduto presidente Testolin per ineleggibilità",
+      "source": "Il Sole 24 Ore",
+      "summary": "Ricorso Avs accolto contro Testolin terzo mandato incompatibile. Regione resta senza presidente. Nomina nuova figura entro breve, incide stabilità governance autonoma.",
+      "link": "https://www.ilsole24ore.com/art/valle-d-aosta-decaduto-presidente-testolin-tribunale-era-ineleggibile-AITqmipC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Metà quattro milioni lavoratori italiani perde potere acquisto ultimi cinque anni",
+      "source": "Il Sole 24 Ore",
+      "summary": "Studio su 4 milioni mostra salari fermi causano affitti alti e meno opportunità figli. Perdita colpisce metà campione. Rallenta consumi, preoccupa famiglie e crescita economica.",
+      "link": "https://www.ilsole24ore.com/art/case-affitto-e-poche-opportunita-i-figli-conseguenze-salari-fermi-italia-AIkZT6oC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Province Genova Imperia Como Varese registrano minori aumenti redditi Irpef 2015-2024",
+      "source": "Il Sole 24 Ore",
+      "summary": "Nord Italia e Lazio sotto media nazionale incrementi redditi dieci anni. Province Genova Imperia Como Varese peggiori. Segnala disparità regionali, sfida politiche redistributive.",
+      "link": "https://www.ilsole24ore.com/art/irpef-10-anni-redditi-piemonte-veneto-nord-coda-aumenti-AIMxgohC",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 258,
+    "articlesAfterDedup": 256,
+    "articlesAfterDiversity": 40,
+    "articlesAfterFilter": 12,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 2,
+      "economy": 4,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 6,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 1,
+      "also": 6
+    }
+  }
+}

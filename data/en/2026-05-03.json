@@ -1,0 +1,203 @@
+{
+  "date": "2026-05-03",
+  "summary": "Iran delivered a 14-point reply to a U.S. proposal to end the war, according to state media, amid the ongoing conflict. The response affects regional stability and U.S. foreign policy. U.S. President-elect Donald Trump stated the U.S. could resume strikes on Iran if it misbehaves, noting disruptions in the Strait of Hormuz that carry 20% of world oil and gas supplies and have increased U.S. gasoline prices. The U.S. will review Iran's terms, with diplomacy possibly advancing or escalation following.\n\nThe World Health Organization prequalified Coartem Baby, the first malaria drug for infants under six months. Up to 18% of African infants under six months contract malaria, which caused 610,000 deaths in 2024, mostly among African children under five. The approval enables global rollout to lower child mortality. NATO launched its first coordinated response after suspected sabotage cut another deep-sea cable in the Baltic Sea, threatening alliance infrastructure security and establishing a precedent for joint defenses against hybrid attacks on undersea networks. In Ukraine-related developments, UK Prime Minister Keir Starmer urged leaders from mostly European countries, Australia, New Zealand, and Canada to press Russia for ceasefire talks in the three-year war; the group excludes the U.S.\n\nPalestinians crossed into northern Gaza after Israel lifted a bisecting military zone barrier following a hostage deal, enabling some returns amid the enclave's division. Trump plans U.S. troop reductions in Germany far exceeding the initial 5,000; Germany described it as foreseeable while U.S. Republicans called it a signal to Russia, with further cuts possible. The UN forecasts nationwide hunger in South Sudan worsening in 2026 to affect over half the population, requiring urgent aid to prevent famine. A wildfire in rural Brantley County, Georgia, burned over 8 square miles and destroyed nearly 90 homes since Monday, with officials warning of additional evacuations. Uganda's parliament accelerated a bill imposing up to 20 years in prison for foreign-funded activities viewed as dissent, targeting opposition and NGOs. The family of jailed Iranian Nobel Peace Prize laureate Narges Mohammadi, 54, reported her sudden health decline and transfer to a hospital from prison on Friday.",
+  "headlines": [
+    {
+      "title": "WHO prequalifies first malaria drug Coartem Baby for infants under six months",
+      "source": "The Guardian",
+      "summary": "World Health Organization approves Coartem Baby, enabling safe malaria treatment for newborns where up to 18% of African infants under six months are infected. With 610,000 malaria deaths in 2024 mostly among African under-fives, this milestone supports global rollout to reduce child mortality.",
+      "link": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran submits 14-point response to U.S. proposal ending war",
+      "source": "NPR News",
+      "summary": "Iran delivers 14-point reply to U.S. war-ending proposal via state media, amid ongoing conflict. Affects regional stability and U.S. foreign policy. U.S. will review terms, potentially advancing diplomacy or risking escalation.",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump warns U.S. could restart strikes on Iran if they misbehave",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "The Hindu"
+      ],
+      "summary": "Trump states U.S. may resume Iran strikes if Iran misbehaves, facing domestic pressure over Strait of Hormuz disrupting 20% of world oil and gas supplies and raising U.S. gasoline prices. Impacts global energy markets; U.S. evaluates Iran's response next.",
+      "link": "https://www.japantimes.co.jp/news/2026/05/03/world/us-iran-strikes-may-resume/",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Japan Times",
+          "angle": "Emphasized Trump domestic pressure to address Strait of Hormuz oil choke and U.S. gas prices",
+          "link": "https://www.japantimes.co.jp/news/2026/05/03/world/us-iran-strikes-may-resume/"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Quoted Trump on Iran's deal concept and expectation of receiving exact wording",
+          "link": "https://www.thehindu.com/news/international/israel-usa-iran-war-donald-trump-strait-of-hormuz/article70933317.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "NATO launches first coordinated response to Baltic Sea deep-sea cable sabotage",
+      "source": "Wall Street Journal",
+      "summary": "NATO coordinates initial response after suspected sabotage severs another critical deep-sea cable in Baltic Sea. Threatens alliance infrastructure security. Sets precedent for joint protection measures against hybrid attacks on undersea networks.",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "UK PM Starmer tells leaders Russia must yield to Ukraine ceasefire talks",
+      "source": "Voice of America",
+      "summary": "British PM Keir Starmer urges coalition of mostly European leaders plus Australia, New Zealand, Canada to press Russia for Ukraine ceasefire. Excludes U.S. in three-year war effort. Aims to force negotiations for peace.",
+      "link": "https://www.voanews.com/a/starmer-sooner-or-later-russia-must-yield-to-peace/8011681.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Voice of America"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Georgia wildfire destroys nearly 90 homes threatens additional evacuations",
+      "source": "Associated Press",
+      "summary": "Wildfire in rural Brantley County Georgia burns over 8 square miles destroys nearly 90 homes since Monday. Officials warn of instant evacuations; firefighters protect at-risk properties. Underscores U.S. wildfire risks from drought and winds.",
+      "link": "https://apnews.com/article/georgia-florida-wildfires-drought-54ae4a4b099c1c11b3d76800275055e1",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Associated Press"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "UN projects South Sudan famine to catastrophic levels without urgent aid",
+      "source": "AllAfrica",
+      "summary": "UN forecasts worsening nationwide hunger in South Sudan for 2026 affecting over half the population with malnutrition and food shortages. Vast needs hinder services; intervention critical to avert famine disaster.",
+      "link": "https://allafrica.com/stories/202605010223.html",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Uganda fast-tracks bill imposing 20-year prison for promoting foreign interests",
+      "source": "The Guardian",
+      "summary": "Ugandan parliament accelerates sovereignty bill penalizing up to 20 years imprisonment for foreign-funded activities seen as dissent. Targets opposition and NGOs; critics compare to Russia China models. Wraps before presidential event.",
+      "link": "https://www.theguardian.com/global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Family reports sharp health decline of jailed Iranian Nobel laureate",
+      "source": "BBC",
+      "summary": "Family states 54-year-old imprisoned Iranian Nobel Peace Prize winner suffers sudden health worsening transferred to hospital from prison Friday. Spotlights risks to dissidents amid Iran-U.S. strains. Awaits health updates.",
+      "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump plans U.S. troop cuts in Germany far beyond initial 5,000",
+      "source": "BBC",
+      "summary": "Trump warns of much deeper troop reductions from Germany after 5,000 withdrawal announcement; Germany calls it foreseeable while U.S. Republicans criticize signal to Russia. Affects NATO burden-sharing; more cuts possible.",
+      "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump indicates cuts extend 'a lot further'; Germany views as foreseeable; Republicans warn of wrong signal to Putin",
+      "singleSource": true,
+      "sources": [
+        "BBC"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Palestinians cross into northern Gaza after Israel lifts military zone barrier",
+      "source": "Wall Street Journal",
+      "summary": "Israel permits displaced Palestinians to cross bisecting military zone back to northern Gaza post-hostage deal breakthrough. Enables returns amid enclave division. Signals potential de-escalation step in conflict.",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Gazans stream on foot into north after deadlock over hostages resolved",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 462,
+    "articlesAfterDedup": 460,
+    "articlesAfterDiversity": 75,
+    "articlesAfterFilter": 20,
+    "categoryCounts": {
+      "science": 1,
+      "politics": 4,
+      "conflict": 3,
+      "environment": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "global": 1,
+      "middle-east": 4,
+      "europe": 3,
+      "americas": 1,
+      "africa": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 2
+    }
+  }
+}

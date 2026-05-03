@@ -19,6 +19,8 @@ export interface RSSFeed {
   name: string;
   url: string;
   description: string;
+  /** Skip known stale, blocked, or dead feeds without deleting source history. */
+  disabledReason?: string;
   perspective?: SourcePerspective;
   region?: SourceRegion;
   type?: SourceType;
@@ -52,6 +54,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
       name: 'Associated Press',
       url: 'https://feedx.net/rss/ap.xml',
       description: 'Global wire - AP news via FeedX mirror; broad geographic mix',
+      disabledReason: 'FeedX AP mirror is stale and was serving week-old items as current news.',
       perspective: 'center',
       region: 'global',
       type: 'wire'
@@ -60,6 +63,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
       name: 'Reuters',
       url: 'https://www.reutersagency.com/feed/?taxonomy=best-regions&post_type=best',
       description: 'Premier wire service; factual baseline for breaking news',
+      disabledReason: 'Reuters Agency RSS endpoint currently returns 404.',
       perspective: 'center',
       region: 'global',
       type: 'wire'
@@ -75,7 +79,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
     },
     {
       name: 'Wall Street Journal World',
-      url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml',
+      url: 'https://feeds.content.dowjones.io/public/rss/RSSWorldNews',
       description: 'WSJ World news - Financial and conservative perspective balance',
       perspective: 'center-right',
       region: 'us',
@@ -100,7 +104,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
     },
     {
       name: 'Deutsche Welle',
-      url: 'https://rss.dw.com/rdf/rss-en-top',
+      url: 'https://rss.dw.com/xml/rss-en-all',
       description: 'EU public broadcaster - DW "Top Stories"; strong Europe & Africa focus',
       perspective: 'center',
       region: 'eu',
@@ -178,6 +182,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
       name: 'Voice of America',
       url: 'https://www.voanews.com/api/epiqq',
       description: 'US-funded world news - VOA adds US foreign-policy lens',
+      disabledReason: 'VOA endpoint is stale and was serving March 2025 items.',
       perspective: 'center',
       region: 'us',
       type: 'public-broadcaster'
@@ -214,6 +219,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
       name: 'RSI (Swiss)',
       url: 'https://www.rsi.ch/news/rss/Tutte-le-news-2.rss',
       description: 'Swiss Italian broadcaster - neutral external perspective on Italy',
+      disabledReason: 'RSI RSS endpoint redirects to a dead feed.',
       perspective: 'center',
       region: 'eu',
       type: 'public-broadcaster'
@@ -239,6 +245,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
       name: 'Corriere della Sera',
       url: 'https://www.corriere.it/rss/homepage.xml',
       description: 'Major center-right daily - balances Repubblica',
+      disabledReason: 'Corriere RSS endpoint is stale and was serving 2024 items.',
       perspective: 'center-right',
       region: 'eu',
       type: 'broadsheet'
@@ -291,6 +298,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
       name: 'Les Echos',
       url: 'https://www.lesechos.fr/rss/rss_articles.xml',
       description: 'Quotidien économique - couverture financière et business approfondie',
+      disabledReason: 'Les Echos RSS endpoint returns 403 to the pipeline.',
       perspective: 'center-right',
       region: 'eu',
       type: 'broadsheet'
@@ -325,6 +333,7 @@ export const RSS_FEEDS_BY_LANGUAGE: Record<LanguageCode, RSSFeed[]> = {
       name: 'RTS (Swiss)',
       url: 'https://www.rts.ch/info/rss/info.xml',
       description: 'Radio Télévision Suisse - perspective neutre suisse romande',
+      disabledReason: 'RTS RSS endpoint returns 406 to the pipeline.',
       perspective: 'center',
       region: 'eu',
       type: 'public-broadcaster'

@@ -3,6 +3,9 @@ import { DEFAULT_LANGUAGE_CODE, RSS_FEEDS_BY_LANGUAGE, type LanguageCode } from 
 import { cleanText, articleFingerprint } from './utils';
 import type { RSSFeedItem, ProcessedArticle } from '@/types/news';
 
+export const DEFAULT_MAX_ARTICLE_AGE_HOURS = 48;
+const MAX_FUTURE_SKEW_HOURS = 6;
+
 const parser = new Parser({
   requestOptions: {
     timeout: 10000,
@@ -12,6 +15,50 @@ const parser = new Parser({
     },
   },
 });
+
+interface ParsedRSSItem extends Parser.Item {
+  isoDate?: string;
+  'dc:date'?: string;
+}
+
+export function getConfiguredMaxArticleAgeHours(): number {
+  const raw = process.env.NEWS_MAX_ARTICLE_AGE_HOURS;
+  if (!raw) return DEFAULT_MAX_ARTICLE_AGE_HOURS;
+
+  const parsed = Number(raw);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : DEFAULT_MAX_ARTICLE_AGE_HOURS;
+}
+
+function rawPublishedDate(item: ParsedRSSItem): string | undefined {
+  return item.isoDate || item.pubDate || item['dc:date'];
+}
+
+export function normalizeArticleDate(dateText: string | undefined): string | null {
+  if (!dateText) return null;
+
+  const timestamp = Date.parse(dateText);
+  if (!Number.isFinite(timestamp)) return null;
+
+  return new Date(timestamp).toISOString();
+}
+
+export function getArticleAgeHours(publishedAt: string, referenceDate: Date = new Date()): number | null {
+  const timestamp = Date.parse(publishedAt);
+  if (!Number.isFinite(timestamp)) return null;
+
+  return (referenceDate.getTime() - timestamp) / 36e5;
+}
+
+export function isFreshPublishedAt(
+  publishedAt: string,
+  referenceDate: Date = new Date(),
+  maxAgeHours: number = DEFAULT_MAX_ARTICLE_AGE_HOURS,
+): boolean {
+  const ageHours = getArticleAgeHours(publishedAt, referenceDate);
+  if (ageHours === null) return false;
+
+  return ageHours <= maxAgeHours && ageHours >= -MAX_FUTURE_SKEW_HOURS;
+}
 
 function localeHeader(languageCode: LanguageCode = DEFAULT_LANGUAGE_CODE): string {
   switch (languageCode) {
@@ -53,14 +100,20 @@ export async function fetchRSSFeed(feedUrl: string, sourceName: string, language
     const xml = await response.text();
     const feed = await parser.parseString(xml);
     
-    return (feed.items || []).map((item: Parser.Item) => ({
-      title: cleanText(item.title || ''),
-      link: item.link || '',
-      contentSnippet: cleanText(item.contentSnippet || item.content || ''),
-      content: cleanText(item.content || item.contentSnippet || ''),
-      pubDate: item.pubDate,
-      source: sourceName,
-    }));
+    return (feed.items || []).map((item: Parser.Item): RSSFeedItem => {
+      const parsedItem = item as ParsedRSSItem;
+      const publishedAt = normalizeArticleDate(rawPublishedDate(parsedItem));
+
+      return {
+        title: cleanText(parsedItem.title || ''),
+        link: parsedItem.link || '',
+        contentSnippet: cleanText(parsedItem.contentSnippet || parsedItem.content || ''),
+        content: cleanText(parsedItem.content || parsedItem.contentSnippet || ''),
+        pubDate: rawPublishedDate(parsedItem),
+        publishedAt: publishedAt ?? undefined,
+        source: sourceName,
+      };
+    }).filter(item => Boolean(item.title || item.link || item.content));
   } catch (error) {
     console.error(`Error fetching RSS feed from ${sourceName}:`, error);
     return [];
@@ -71,11 +124,17 @@ export async function fetchAllNews(languageCode: LanguageCode = DEFAULT_LANGUAGE
   console.log(`Fetching news from all RSS feeds for language: ${languageCode}`);
   
   const feeds = RSS_FEEDS_BY_LANGUAGE[languageCode];
+  const activeFeeds = feeds.filter(feed => !feed.disabledReason);
+  const disabledFeeds = feeds.filter(feed => feed.disabledReason);
+  for (const feed of disabledFeeds) {
+    console.warn(`Skipping disabled feed ${feed.name}: ${feed.disabledReason}`);
+  }
+
   // Limit concurrency to avoid hammering networks (max 5 at a time)
   const concurrency = 5;
   const results: PromiseSettledResult<RSSFeedItem[]>[] = [];
-  for (let i = 0; i < feeds.length; i += concurrency) {
-    const slice = feeds.slice(i, i + concurrency);
+  for (let i = 0; i < activeFeeds.length; i += concurrency) {
+    const slice = activeFeeds.slice(i, i + concurrency);
     const settled = await Promise.allSettled(
       slice.map(feed => fetchRSSFeed(feed.url, feed.name, languageCode))
     );
@@ -86,17 +145,42 @@ export async function fetchAllNews(languageCode: LanguageCode = DEFAULT_LANGUAGE
   results.forEach((result, index) => {
     if (result.status === 'fulfilled') {
       allArticles.push(...result.value);
-      console.log(`Successfully fetched ${result.value.length} articles from ${feeds[index].name}`);
+      console.log(`Successfully fetched ${result.value.length} articles from ${activeFeeds[index].name}`);
     } else {
-      console.error(`Failed to fetch from ${feeds[index].name}:`, result.reason);
+      console.error(`Failed to fetch from ${activeFeeds[index].name}:`, result.reason);
     }
   });
-  
-  const processedArticles: ProcessedArticle[] = allArticles
+
+  const maxArticleAgeHours = getConfiguredMaxArticleAgeHours();
+  const now = new Date();
+  let articlesWithoutDates = 0;
+  let staleArticles = 0;
+  const freshArticles = allArticles.filter(article => {
+    if (!article.publishedAt) {
+      articlesWithoutDates++;
+      return false;
+    }
+
+    if (!isFreshPublishedAt(article.publishedAt, now, maxArticleAgeHours)) {
+      staleArticles++;
+      return false;
+    }
+
+    return true;
+  });
+
+  if (articlesWithoutDates > 0 || staleArticles > 0) {
+    console.warn(
+      `Freshness filter dropped ${articlesWithoutDates} undated and ${staleArticles} stale/future articles (max age ${maxArticleAgeHours}h)`
+    );
+  }
+
+  const processedArticles: ProcessedArticle[] = freshArticles
     .filter(article =>
       article.title &&
       article.link &&
       article.content &&
+      article.publishedAt &&
       article.title.length > 10 &&
       article.content.length > 50
     )
@@ -105,6 +189,7 @@ export async function fetchAllNews(languageCode: LanguageCode = DEFAULT_LANGUAGE
       source: article.source || 'Unknown',
       content: article.content || '',
       link: article.link,
+      publishedAt: article.publishedAt!,
       relevanceScore: 0,
       isRelevant: false,
     }));
@@ -152,7 +237,13 @@ export async function deduplicateArticles(articles: ProcessedArticle[]): Promise
       ? group
           .filter(a => a !== representative)
           .slice(0, 4)
-          .map(a => ({ source: a.source, title: a.title, content: a.content, link: a.link }))
+          .map(a => ({
+            source: a.source,
+            title: a.title,
+            content: a.content,
+            link: a.link,
+            publishedAt: a.publishedAt,
+          }))
       : undefined;
     grouped.push({
       ...representative,

@@ -96,7 +96,8 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Weekly digest: $(date +'%Y-W%V')"
+            WEEK_ID=$(bun -e "import { getLastWeekRange } from './src/lib/date-utils.ts'; console.log(getLastWeekRange().weekId)")
+            git commit -m "Weekly digest: ${WEEK_ID}"
             git pull --rebase
             git push
           fi

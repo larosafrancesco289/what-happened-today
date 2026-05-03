@@ -1,197 +1,214 @@
 {
   "date": "2026-05-02",
-  "summary": "Donald Trump a informé le Congrès américain vendredi que les hostilités contre l'Iran sont terminées après la limite de 60 jours prévue par la loi. Dans une lettre, il a contournant l'autorisation parlementaire requise, rejeté une nouvelle offre de paix iranienne et menacé de frapper en cas d'échec diplomatique. Cela fait suite à la préparation par l'administration d'une poursuite de la guerre sans approbation du Congrès, prolongeant l'incertitude sur le conflit au Moyen-Orient où des ventes d'armes américaines aux alliés régionaux sont approuvées.\n\nLes États-Unis ordonnent le retrait de 5000 militaires d'Allemagne d'ici un an, soit 15 % des effectifs, après des propos du chancelier Merz irritant Trump. Plus de 30 000 soldats resteront, l'Allemagne demeurant une base clé en Europe pour Washington. Séparément, Donald Trump annonce une taxation de 25 % sur les importations de voitures et camions d'Europe à partir du 4 mai, au lieu de 15 %, sur fond de mécontentement lié à l'Iran. Cela affecte des milliards d'échanges annuels et ravive les tensions commerciales transatlantiques. Les États-Unis approuvent aussi la vente de missiles Patriot au Qatar pour 4 milliards de dollars, plus d'armes à Israël, au Koweït et aux Émirats arabes unis, renforçant ces alliés face aux tensions régionales avec l'Iran.\n\nUne cour d'appel ultraconservatrice suspend provisoirement l'envoi postal de la pilule abortive aux États-Unis, restreignant l'accès à l'IVG par télémédecine qui représente plus d'un quart des procédures, avec effet national post-Roe v. Wade. Washington sanctionne l'ancien président congolais Joseph Kabila, au pouvoir de 2001 à 2019, pour instabilité, après des sanctions sur l'armée rwandaise soutenant les rebelles M23 à l'est du Congo, affectant des millions de déplacés. L'Iran prolonge la coupure internet générale mais autorise un accès web réservé à l'élite via Internet Pro. Donald Trump félicite Ali al-Zaidi, homme d'affaires nommé premier ministre irakien par le président Nizar Amedi, marquant un possible tournant dans les relations États-Unis-Irak au milieu de l'instabilité régionale.",
+  "summary": "L'Iran a présenté un plan de paix permanent via un médiateur pakistanais, selon le vice-ministre iranien des Affaires étrangères. Ce plan propose une diplomatie ou une guerre. Les États-Unis ont rejeté l'offre. Donald Trump a menacé de 'pulvériser' l'Iran et affirmé que les hostilités sont terminées, contournant ainsi la loi du Congrès de 1973 qui limite les actions militaires sans autorisation après 60 jours. Cela prolonge les tensions sans approbation législative, faisant suite aux préparatifs d'une poursuite de la guerre contre l'Iran signalés hier.\n\nEn Israël-Liban, l'armée israélienne a détruit le couvent et l'école des Sœurs du Saint-Sauveur à Yaroun, sud Liban, selon L’Orient-Le-Jour. Les frappes du samedi ont causé au moins dix morts, d'après Libération. Cela suit les frappes aériennes du sud Liban qui ont tué 17 personnes hier et intensifie les accusations de violations de sites religieux. Séparément, Donald Trump a annoncé le retrait de 5 000 soldats américains d'Allemagne, soit 15 % du contingent, exécutant une menace d'un an. Berlin appelle l'Europe à unir ses forces face à cette réduction de la présence OTAN. La Chine a refusé de tenir compte des sanctions américaines contre ses entreprises achetant du pétrole iranien, maintenant son approvisionnement énergétique malgré les pressions de Washington liées à l'impasse États-Unis-Iran.\n\nNarges Mohammadi, lauréate Nobel de la paix, détenue depuis décembre à Zanjan en Iran, a été hospitalisée en soins intensifs cardiologiques dans un état critique. Ses soutiens demandent sa libération et un transfert à Téhéran. Au Mali, les mercenaires russes Africa Corps, alliés de la junte, ont subi un revers avec la perte du ministre de la Défense Sadio Camara et de la ville de Kidal lors d'une offensive djihadiste depuis le 25 avril. Aux États-Unis, la cour d'appel a suspendu l'envoi postal de mifépristone, pilule utilisée dans la majorité des avortements, bloquant les expéditions post-2022. Spirit Airlines a annulé tous ses vols et stoppé ses activités en raison de la hausse des prix du kérosène et de deux dépôts de bilan en 2025. En France, un surveillant du collège René-Cassin à Cosne-Cours-sur-Loire est mis en examen pour corruption de 41 mineurs. La Cour des comptes alerte sur des accidents médicaux sous-déclarés dans les hôpitaux malgré l'obligation légale.",
   "headlines": [
     {
-      "title": "Donald Trump informe Congrès américain hostilités contre Iran terminées après limite 60 jours",
-      "source": "Le Monde",
+      "title": "Iran présente plan paix médiateur pakistanais États-Unis rejettent offre négociations",
+      "source": "Le Figaro",
       "sources": [
-        "Le Monde",
         "Le Figaro",
-        "Libération",
-        "France 24",
-        "20 Minutes"
+        "Liberation",
+        "20 Minutes",
+        "Le Monde",
+        "France Info"
       ],
-      "summary": "Donald Trump a déclaré vendredi dans une lettre au Congrès que les hostilités avec l'Iran sont terminées, contournant l'autorisation parlementaire requise après 60 jours. Il a rejeté une nouvelle offre de paix iranienne et menacé de frapper si échec diplomatique. Cela prolonge l'incertitude sur le conflit au Moyen-Orient.",
-      "link": "https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-au-moyen-orient-donald-trump-declare-dans-une-lettre-au-congres-que-les-hostilites-contre-l-iran-sont-terminees_6684072_3210.html",
+      "summary": "Le vice-ministre iranien des Affaires étrangères déclare l'Iran prêt à la guerre ou à la diplomatie et présente un plan permanent via le Pakistan. Trump rejette l'offre, menace de pulvériser l'Iran et affirme hostilités terminées pour contourner loi Congrès 1973. Cela prolonge tensions sans autorisation législative.",
+      "link": "https://www.lefigaro.fr/international/en-direct-donald-trump-guerre-moyen-orient-informe-le-congres-que-les-hostilites-avec-l-iran-sont-terminees-20260502",
+      "publishedAt": "2026-05-02T16:51:43.000Z",
       "tier": "developing",
       "dayNumber": 2,
-      "previousContext": "Donald Trump déclare hostilités terminées dans lettre au Congrès et rejette nouvelle offre paix iranienne, menaçant de pulvériser régime en cas échec",
+      "previousContext": "Iran propose plan paix rejeté par Trump qui maintient menace militaire et contourne limite 60 jours Congrès",
       "framings": [
         {
-          "source": "Le Monde",
-          "angle": "Présente annonce Trump contournant Congrès sur fin hostilités Iran à expiration 60 jours",
-          "link": "https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-au-moyen-orient-donald-trump-declare-dans-une-lettre-au-congres-que-les-hostilites-contre-l-iran-sont-terminees_6684072_3210.html"
-        },
-        {
           "source": "Le Figaro",
-          "angle": "Met en avant déclaration Trump sur fin hostilités mais insatisfaction offre iranienne",
+          "angle": "Ouvre sur déclaration iranienne balle dans camp États-Unis et rejet Trump",
           "link": "https://www.lefigaro.fr/international/en-direct-donald-trump-guerre-moyen-orient-informe-le-congres-que-les-hostilites-avec-l-iran-sont-terminees-20260502"
         },
         {
-          "source": "Libération",
-          "angle": "Ouvre sur rejet Trump offre paix iranienne et poursuite frappes israéliennes Liban",
+          "source": "Liberation",
+          "angle": "Mentionne rejet Trump offre paix iranienne et dix morts frappes israéliennes sud Liban",
           "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-nest-pas-satisfait-par-la-derniere-proposition-de-paix-iranienne-20260502_ACJG75NT7VF3HJ7XWHK3PZRUPA/"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Suit situation Iran États-Unis Israël Liban avec responsable iranien jugeant reprise conflit probable",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4221445-20260502-direct-guerre-moyen-orient-responsable-militaire-iranien-juge-probable-reprise-conflit-etats-unis?at_medium=display&at_campaign=149"
         }
       ],
       "singleSource": false,
       "category": "politics",
-      "region": "americas",
-      "importance": "major"
-    },
-    {
-      "title": "États-Unis ordonnent retrait 5000 militaires d'Allemagne d'ici un an",
-      "source": "RFI",
-      "sources": [
-        "RFI",
-        "Le Monde",
-        "Radio-Canada"
-      ],
-      "summary": "Le ministre américain de la Défense ordonne le retrait de 5000 soldats d'Allemagne d'ici un an, soit 15% des effectifs, après propos chancelier Merz irritant Trump. Plus de 30000 resteront, Allemagne restant base européenne clé pour Washington.",
-      "link": "https://www.rfi.fr/fr/europe/20260502-les-%C3%A9tats-unis-vont-retirer-quelque-5000-militaires-d-allemagne-d-ici-un-an",
-      "tier": "top",
-      "framings": [
-        {
-          "source": "RFI",
-          "angle": "Annonce retrait 5000 militaires ordonné par Pentagone avec maintien 30000 soldats",
-          "link": "https://www.rfi.fr/fr/europe/20260502-les-%C3%A9tats-unis-vont-retirer-quelque-5000-militaires-d-allemagne-d-ici-un-an"
-        },
-        {
-          "source": "Le Monde",
-          "angle": "Lie annonce à colère Trump contre chancelier Merz et 36000 soldats actuels",
-          "link": "https://www.lemonde.fr/international/article/2026/05/02/les-etats-unis-vont-retirer-quelque-5-000-militaires-d-allemagne-d-ici-un-an-et-menacent-de-reduire-les-effectifs-en-italie-et-en-espagne_6684790_3210.html"
-        },
-        {
-          "source": "Radio-Canada",
-          "angle": "Rassocie à critiques Trump alliés européens sur commerce et OTAN",
-          "link": "https://ici.radio-canada.ca/nouvelle/2250737/trump-droits-douane-tarif-voitures-auto-union-europeennes-ue"
-        }
-      ],
-      "singleSource": false,
-      "category": "politics",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "Donald Trump impose taxation 25 % importations voitures camions Europe dès 4 mai",
-      "source": "Le Monde",
-      "summary": "Donald Trump annonce vendredi taxation 25% sur importations voitures et camions d'Europe à partir du 4 mai, au lieu de 15%, sur fond mécontentement Iran. Cela ravive tensions commerciales transatlantiques affectant milliards échanges annuels.",
-      "link": "https://www.lemonde.fr/economie/article/2026/05/02/donald-trump-relance-la-guerre-commerciale-avec-l-europe-sur-fond-de-mecontentement-sur-l-iran_6684829_3234.html",
-      "tier": "top",
-      "singleSource": true,
-      "sources": [
-        "Le Monde"
-      ],
-      "category": "economy",
-      "region": "europe",
+      "region": "middle-east",
       "importance": "notable"
     },
     {
-      "title": "Cour appel ultraconservatrice suspend envoi postal pilule abortive États-Unis",
+      "title": "Armée israélienne détruit couvent sœurs Saint-Sauveur Yaroun sud Liban",
       "source": "20 Minutes",
       "sources": [
         "20 Minutes",
-        "Libération"
+        "Liberation"
       ],
-      "summary": "Une cour d'appel suspend provisoirement envoi postal pilule abortive vendredi, restreignant accès IVG télémédecine représentant plus quart procédures. Décision s'applique tout pays, compliquant droits reproductifs post-Roe v Wade.",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4221450-20260502-etats-unis-cour-appel-suspend-provisoirement-envoi-postal-pilule-abortive?at_medium=display&at_campaign=149",
-      "tier": "top",
-      "framings": [
-        {
-          "source": "20 Minutes",
-          "angle": "Décision cour restreint accès avortement télémédecine quart IVG",
-          "link": "https://www.20minutes.fr/monde/etats-unis/4221450-20260502-etats-unis-cour-appel-suspend-provisoirement-envoi-postal-pilule-abortive?at_medium=display&at_campaign=149"
-        },
-        {
-          "source": "Libération",
-          "angle": "Présente suspension acheminement pilule abortive comme nouveau recul droit IVG",
-          "link": "https://www.liberation.fr/international/amerique/etats-unis-nouveau-coup-de-boutoir-contre-le-droit-a-lavortement-20260502_4MQPG3PMT5DV5E4VM7FZIM4JYE/"
-        }
-      ],
+      "summary": "Quotidien L’Orient-Le-Jour rapporte explosion couvent et école Sœurs du Saint-Sauveur par armée israélienne à Yaroun sud Liban. Frappes samedi font au moins dix morts selon Libération. Cela intensifie accusations violations sites religieux dans conflit régional.",
+      "link": "https://www.20minutes.fr/monde/israel/4221484-20260502-guerre-moyen-orient-armee-israelienne-accusee-avoir-detruit-couvent-liban?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-05-02T16:18:58.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Frappes aériennes tuent dix personnes sud Liban et visent couvent religieux",
       "singleSource": false,
-      "category": "science",
-      "region": "americas",
-      "importance": "notable"
-    },
-    {
-      "title": "États-Unis approuvent vente missiles Patriot Qatar pour 4 milliards dollars",
-      "source": "20 Minutes",
-      "summary": "Washington approuve vente missiles Patriot au Qatar pour 4 milliards dollars, plus armes à Israël, Koweït et Émirats arabes unis. Cela renforce alliés Moyen-Orient face tensions régionales avec Iran.",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4221449-20260502-conflit-moyen-orient-washington-approuve-vente-missiles-patriot-qatar-4-milliards-dollars?at_medium=display&at_campaign=149",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "20 Minutes"
-      ],
       "category": "conflict",
       "region": "middle-east",
       "importance": "major"
     },
     {
-      "title": "États-Unis sanctionnent ancien président congolais Joseph Kabila instabilité",
+      "title": "Narges Mohammadi lauréate Nobel paix hospitalisée urgence état critique Iran",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "RTBF",
+        "France 24"
+      ],
+      "summary": "Narges Mohammadi détenue depuis décembre à Zanjan transférée soins intensifs cardiologie état instable. Soutiens demandent libération et transfert Téhéran. Symbole résistance droits femmes Iran cette détérioration santé attire attention internationale sur conditions prisonniers politiques.",
+      "link": "https://www.20minutes.fr/monde/4221482-20260502-iran-prix-nobel-paix-narges-mohammadi-transferee-hopital-etat-critique?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-05-02T15:30:50.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump annonce retrait 5000 soldats 15 pour cent contingent américain Allemagne",
       "source": "France 24",
-      "summary": "Washington sanctionne Joseph Kabila, président RDC 2001-2019, pour semer instabilité, après sanctions armée rwandaise soutenant rebelles M23. Cela vise acteurs conflits Est Congo affectant millions déplacés.",
-      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260501-les-etats-unis-sanctionnent-l-ancien-pr%C3%A9sident-congolais-joseph-kabila",
-      "tier": "also",
+      "summary": "Président américain exécute menace départ un an 5000 militaires d'Allemagne soit 15 pour cent effectifs. Berlin appelle Europe unir face réduction présence OTAN. Cela affaiblit posture alliés européens contre menaces Russie.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260502-berlin-appelle-l-europe-%C3%A0-s-unir-face-au-retrait-de-15-du-contingent-am%C3%A9ricain-en-allemagne",
+      "publishedAt": "2026-05-02T15:22:44.000Z",
+      "tier": "top",
       "singleSource": true,
       "sources": [
         "France 24"
       ],
       "category": "politics",
-      "region": "africa",
-      "importance": "notable"
+      "region": "europe",
+      "importance": "major"
     },
     {
-      "title": "Régime iranien lance Internet Pro réservé élite pendant coupure web générale",
-      "source": "RFI",
-      "summary": "Iran prolonge coupure internet mais autorise accès web élite via Internet Pro. Cela discrimine population, renforçant contrôle régime sur information durant tensions régionales.",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20260502-internet-pro-en-iran-quand-le-r%C3%A9gime-r%C3%A9serve-le-web-%C3%A0-une-%C3%A9lite",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "RFI"
-      ],
-      "category": "politics",
-      "region": "middle-east",
-      "importance": "notable"
-    },
-    {
-      "title": "Donald Trump félicite Ali al-Zaidi nouveau premier ministre irakien désigné",
+      "title": "Chine refuse tenir compte sanctions américaines entreprises achat pétrole iranien",
       "source": "Le Figaro",
-      "summary": "Donald Trump salue Ali al-Zaidi, homme affaires nommé premier ministre par président Nizar Amedi. Cela marque possible tournant relations États-Unis-Irak au milieu instabilité régionale.",
-      "link": "https://www.lefigaro.fr/flash-actu/c-est-le-debut-d-un-nouveau-chapitre-extraordinaire-entre-nos-deux-nations-donald-trump-felicite-le-nouveau-premier-ministre-irakien-designe-20260430",
-      "tier": "also",
+      "summary": "Pékin ignore nouvelles sanctions États-Unis contre firmes chinoises accusées importer pétrole République islamique. Mesure intervient impasse diplomatique conflit États-Unis-Iran. Cela maintient approvisionnement énergétique Chine malgré pressions Washington.",
+      "link": "https://www.lefigaro.fr/flash-eco/la-chine-ne-tiendra-pas-compte-des-sanctions-americaines-contre-ses-entreprises-accusees-d-acheter-du-petrole-iranien-20260502",
+      "publishedAt": "2026-05-02T14:49:26.000Z",
+      "tier": "top",
       "singleSource": true,
       "sources": [
         "Le Figaro"
       ],
       "category": "politics",
-      "region": "middle-east",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Mercenaires russes Africa Corps subissent revers offensive djihadistes Mali",
+      "source": "Le Monde",
+      "summary": "Africa Corps alliés junte militaire perdent ministre défense Sadio Camara et ville Kidal depuis offensive 25 avril. Russie persiste soutien malgré échecs. Cela fragilise influence Moscou Sahel face groupes islamistes.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/05/02/la-russie-alliee-coute-que-coute-du-mali_6684871_3212.html",
+      "publishedAt": "2026-05-02T12:00:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Cour appel américaine suspend envoi postal mifépristone pilule abortive",
+      "source": "RFI",
+      "summary": "Décision 1er mai bloque expédition mifépristone par poste utilisée majorité avortements. Mesure contourne interdictions locales post-2022 Cour suprême. Cela limite accès IVG dans États restrictifs impactant millions femmes.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260502-ivg-la-justice-am%C3%A9ricaine-s-attaque-%C3%A0-l-envoi-postal-de-la-pilule-abortive",
+      "publishedAt": "2026-05-02T17:05:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Spirit Airlines annule tous vols stoppe activité hausse prix kérosène",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Radio-Canada"
+      ],
+      "summary": "Compagnie low cost dépose bilan deux fois 2025 impactée crise énergétique arrête opérations. Experts craignent effet domino low cost. Cela affecte passagers et concurrence aviation États-Unis.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4221473-20260502-etats-unis-difficulte-compagnie-low-cost-spirit-airlines-annule-tous-vols-stoppe-activite?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-05-02T13:38:52.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Surveillant collège Cosne-Cours-sur-Loire mis examen corruption 41 mineurs Nièvre",
+      "source": "Liberation",
+      "summary": "Homme inculpé corruption mineurs 41 cas agression sexuelle trois autres collège René-Cassin. Écho affaire 2001 même ville dizaines victimes. Cela ravive débats protection enfants écoles France.",
+      "link": "https://www.liberation.fr/societe/police-justice/plus-de-vingt-ans-apres-un-proces-historique-une-nouvelle-affaire-pedocriminelle-a-lecole-secoue-une-petite-commune-de-la-nievre-20260502_BEALNJFSYNH63DODJCNSHR3XGQ/",
+      "publishedAt": "2026-05-02T15:20:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cour comptes alerte accidents médicaux hôpitaux France appelle sanctions",
+      "source": "France 24",
+      "summary": "Rapport pointe erreurs graves sous-déclarées malgré obligation légale. Magazine invite professeur Marc Tadié auteur ouvrage scandale accidents. Cela pousse réformes qualité soins impactant patients système santé public.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260502-trop-d-accidents-m%C3%A9dicaux-en-france-la-cour-des-comptes-alerte-et-appelle-%C3%A0-des-sanctions",
+      "publishedAt": "2026-05-02T15:01:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "society",
+      "region": "europe",
       "importance": "notable"
     }
   ],
   "metadata": {
-    "sourcesUsed": 8,
-    "articlesProcessed": 206,
-    "articlesAfterDedup": 203,
-    "articlesAfterDiversity": 45,
+    "sourcesUsed": 9,
+    "articlesProcessed": 214,
+    "articlesAfterDedup": 212,
+    "articlesAfterDiversity": 46,
     "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.9,
     "categoryCounts": {
-      "politics": 5,
-      "economy": 1,
-      "science": 1,
-      "conflict": 1
+      "politics": 3,
+      "conflict": 2,
+      "society": 4,
+      "economy": 1
     },
     "regionCounts": {
-      "americas": 2,
-      "europe": 2,
       "middle-east": 3,
-      "africa": 1
+      "europe": 3,
+      "asia-pacific": 1,
+      "africa": 1,
+      "americas": 2
     },
     "tierCounts": {
-      "developing": 1,
+      "developing": 2,
       "top": 3,
-      "also": 4
-    }
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
   }
 }

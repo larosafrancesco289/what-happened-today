@@ -1,12 +1,19 @@
 import type { Category, DailyNews, NewsHeadline, ProcessedArticle, Region, Tier } from '@/types/news';
 import { filterAndRankArticles, generateHeadlines, generateDailySummary, categorizeHeadlines } from '@/lib/llm-client';
-import { fetchAllNews, deduplicateArticles } from '@/lib/news-fetcher';
+import {
+  fetchAllNews,
+  deduplicateArticles,
+  getArticleAgeHours,
+  getConfiguredMaxArticleAgeHours,
+  isFreshPublishedAt,
+} from '@/lib/news-fetcher';
 import { getDateString, getPreviousDate, loadDailyNews, saveDailyNews, withTimeout } from '@/lib/utils';
 import { DEFAULT_LANGUAGE_CODE, type LanguageCode } from '@/lib/languages';
 
 export interface DailyPipelineValidation {
   valid: boolean;
   warnings: string[];
+  errors: string[];
 }
 
 export interface DailyPipelineResult {
@@ -63,15 +70,50 @@ function countByField<K extends string>(
   return counts;
 }
 
-export function validateDailyNews(news: DailyNews): DailyPipelineValidation {
+function headlineSources(headlines: NewsHeadline[]): string[] {
+  return Array.from(new Set(
+    headlines.flatMap(headline => {
+      if (headline.sources && headline.sources.length > 0) return headline.sources;
+      return headline.source ? [headline.source] : [];
+    })
+  ));
+}
+
+function isHttpUrl(link: string | undefined): boolean {
+  if (!link) return false;
+
+  try {
+    const url = new URL(link);
+    return url.protocol === 'http:' || url.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
+function oldestHeadlineAgeHours(headlines: NewsHeadline[], referenceDate: Date = new Date()): number | undefined {
+  const ages = headlines
+    .map(headline => headline.publishedAt ? getArticleAgeHours(headline.publishedAt, referenceDate) : null)
+    .filter((age): age is number => age !== null);
+
+  if (ages.length === 0) return undefined;
+
+  return Math.round(Math.max(...ages) * 10) / 10;
+}
+
+export function validateDailyNews(
+  news: DailyNews,
+  referenceDate: Date = new Date(),
+  maxArticleAgeHours: number = getConfiguredMaxArticleAgeHours(),
+): DailyPipelineValidation {
   const warnings: string[] = [];
+  const errors: string[] = [];
 
   if (news.summary.length < 150) {
     warnings.push(`Summary is too short (${news.summary.length} chars, recommend 150+)`);
   }
 
-  if (news.summary.length > 1500) {
-    warnings.push(`Summary is too long (${news.summary.length} chars, recommend <1500)`);
+  if (news.summary.length > 2600) {
+    warnings.push(`Summary is too long (${news.summary.length} chars, recommend <2600)`);
   }
 
   if (news.headlines.length < 4) {
@@ -88,21 +130,51 @@ export function validateDailyNews(news: DailyNews): DailyPipelineValidation {
     warnings.push(`Duplicate headlines detected (${titles.length - uniqueTitles.size} duplicates)`);
   }
 
-  const sources = new Set(news.headlines.map(headline => headline.source));
-  if (sources.size < 3) {
-    warnings.push(`Low source diversity (${sources.size} unique sources, recommend 3+)`);
+  const outputSources = headlineSources(news.headlines);
+  if (outputSources.length < 3) {
+    warnings.push(`Low source diversity (${outputSources.length} unique sources, recommend 3+)`);
   }
 
-  if (warnings.length > 0) {
+  news.headlines.forEach((headline, index) => {
+    const label = headline.title || `headline ${index + 1}`;
+
+    if (!isHttpUrl(headline.link)) {
+      errors.push(`Headline "${label}" is missing a valid source link`);
+    }
+
+    if (!headline.publishedAt) {
+      errors.push(`Headline "${label}" is missing publishedAt`);
+      return;
+    }
+
+    if (getArticleAgeHours(headline.publishedAt, referenceDate) === null) {
+      errors.push(`Headline "${label}" has invalid publishedAt (${headline.publishedAt})`);
+      return;
+    }
+
+    if (!isFreshPublishedAt(headline.publishedAt, referenceDate, maxArticleAgeHours)) {
+      const age = getArticleAgeHours(headline.publishedAt, referenceDate);
+      errors.push(`Headline "${label}" is stale or future-dated (${age?.toFixed(1)}h old, max ${maxArticleAgeHours}h)`);
+    }
+  });
+
+  const missingPrimarySources = news.headlines.filter(headline => !headline.source).length;
+  if (missingPrimarySources > 0) {
+    errors.push(`${missingPrimarySources} headlines are missing a primary source`);
+  }
+
+  if (errors.length > 0 || warnings.length > 0) {
     console.warn('Validation warnings:');
     warnings.forEach(warning => console.warn(`  - ${warning}`));
+    errors.forEach(error => console.error(`  - ERROR: ${error}`));
   } else {
     console.log('Validation passed: No warnings');
   }
 
   return {
-    valid: warnings.length === 0,
+    valid: warnings.length === 0 && errors.length === 0,
     warnings,
+    errors,
   };
 }
 
@@ -151,6 +223,9 @@ async function saveUnavailable({
 }
 
 export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANGUAGE_CODE): Promise<DailyPipelineResult> {
+  const pipelineStartedAt = new Date();
+  const freshnessCutoffHours = getConfiguredMaxArticleAgeHours();
+
   console.log(`\n${'='.repeat(60)}`);
   console.log(`Starting daily news pipeline for language: ${languageCode.toUpperCase()}`);
   console.log(`${'='.repeat(60)}\n`);
@@ -182,7 +257,7 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
   }
   console.log(`  Filtered articles: ${filteredArticles.length}\n`);
 
-  const today = getDateString(new Date());
+  const today = getDateString(pipelineStartedAt);
   const yesterday = getPreviousDate(today);
   const yesterdayNews = await loadDailyNews(yesterday, languageCode);
   const yesterdayHeadlines = yesterdayNews?.headlines ?? [];
@@ -214,6 +289,7 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
         articlesAfterDedup: uniqueArticles.length,
         articlesAfterDiversity: balancedArticles.length,
         articlesAfterFilter: filteredArticles.length,
+        freshnessCutoffHours,
         categoryCounts: {},
         regionCounts: {},
       },
@@ -254,6 +330,7 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
         articlesAfterDedup: uniqueArticles.length,
         articlesAfterDiversity: balancedArticles.length,
         articlesAfterFilter: filteredArticles.length,
+        freshnessCutoffHours,
         categoryCounts,
         regionCounts,
       },
@@ -266,11 +343,13 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
     summary,
     headlines: categorizedHeadlines,
     metadata: {
-      sourcesUsed: new Set(filteredArticles.map(article => article.source)).size,
+      sourcesUsed: headlineSources(categorizedHeadlines).length,
       articlesProcessed: rawArticles.length,
       articlesAfterDedup: uniqueArticles.length,
       articlesAfterDiversity: balancedArticles.length,
       articlesAfterFilter: filteredArticles.length,
+      freshnessCutoffHours,
+      oldestHeadlineAgeHours: oldestHeadlineAgeHours(categorizedHeadlines, pipelineStartedAt),
       categoryCounts,
       regionCounts,
       tierCounts,
@@ -278,7 +357,23 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
   };
 
   console.log('Validating output...');
-  const validation = validateDailyNews(dailyNews);
+  const validation = validateDailyNews(dailyNews, pipelineStartedAt, freshnessCutoffHours);
+  dailyNews.metadata = {
+    ...dailyNews.metadata!,
+    qualityWarnings: validation.warnings,
+    qualityErrors: validation.errors,
+  };
+
+  if (validation.errors.length > 0) {
+    return saveUnavailable({
+      date: today,
+      languageCode,
+      reason: `Quality validation failed: ${validation.errors.join('; ')}`,
+      articlesProcessed: rawArticles.length,
+      headlinesGenerated: categorizedHeadlines.length,
+      metadata: dailyNews.metadata,
+    });
+  }
 
   console.log('\nSaving daily news...');
   await withTimeout(saveDailyNews(dailyNews, languageCode), 10000, 'File saving');

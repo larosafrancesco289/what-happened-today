@@ -23,6 +23,8 @@ export interface NewsHeadline {
   source: string;
   summary: string;
   link: string;
+  /** ISO timestamp for the primary article used to generate this headline */
+  publishedAt?: string;
   category?: Category;
   region?: Region;
   importance?: Importance;
@@ -44,6 +46,10 @@ export interface DailyNewsMetadata {
   articlesAfterDedup?: number;
   articlesAfterDiversity?: number;
   articlesAfterFilter?: number;
+  freshnessCutoffHours?: number;
+  oldestHeadlineAgeHours?: number;
+  qualityWarnings?: string[];
+  qualityErrors?: string[];
   categoryCounts?: Partial<Record<Category, number>>;
   regionCounts?: Partial<Record<Region, number>>;
   tierCounts?: Partial<Record<Tier, number>>;
@@ -66,6 +72,7 @@ export interface RSSFeedItem {
   contentSnippet?: string;
   content?: string;
   pubDate?: string;
+  publishedAt?: string;
   source?: string;
 }
 
@@ -74,12 +81,14 @@ export interface ProcessedArticle {
   source: string;
   content: string;
   link: string;
+  /** ISO timestamp from the RSS item. Required so stale stories can be blocked. */
+  publishedAt: string;
   relevanceScore: number;
   isRelevant: boolean;
   /** Other sources covering the same story (set during cross-source grouping) */
   coveringSources?: string[];
   /** Full articles from covering sources, for framing comparison */
-  coveringArticles?: Array<{ source: string; title: string; content: string; link: string }>;
+  coveringArticles?: Array<{ source: string; title: string; content: string; link: string; publishedAt: string }>;
 }
 
 export interface WeeklyDigest {

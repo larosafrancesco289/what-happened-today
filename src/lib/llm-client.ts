@@ -88,6 +88,7 @@ export function sanitizeGeneratedSummary(text: string): string {
   return normalizeSummaryText(text)
     .replace(/\n{3,}/g, '\n\n')
     .replace(/\n?\(Word count:\s*\d+\)\s*$/i, '')
+    .replace(/\n?\(\s*\d+\s+(?:words?|parole|mots)\s*\)\s*$/i, '')
     .trim();
 }
 
@@ -134,9 +135,9 @@ export function recoverSummaryFromMalformedOutput(responseText: string): string 
  */
 function formatArticlesForPrompt(articles: ProcessedArticle[], alsoLabel: string): string {
   return articles.map((a, i) => {
-    let entry = `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [${alsoLabel}: ${a.coveringSources.join(', ')}]` : ''}\n${a.content.substring(0, 600)}\nLink: ${a.link}`;
+    let entry = `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [${alsoLabel}: ${a.coveringSources.join(', ')}]` : ''}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 600)}\nLink: ${a.link}`;
     if (a.coveringArticles && a.coveringArticles.length > 0) {
-      entry += '\n' + a.coveringArticles.map(ca => `${ca.source} version (300 chars): ${ca.content.substring(0, 300)}\nLink: ${ca.link}`).join('\n');
+      entry += '\n' + a.coveringArticles.map(ca => `${ca.source} version (300 chars):\nPublished: ${ca.publishedAt}\n${ca.content.substring(0, 300)}\nLink: ${ca.link}`).join('\n');
     }
     return entry;
   }).join('\n\n');
@@ -217,7 +218,7 @@ DIVERSITY REQUIREMENTS:
 OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":"..."},...]}
 
 ARTICLES:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
 
     headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
       const memorySection = formatYesterdayMemory(
@@ -250,14 +251,20 @@ MULTI-SOURCE: When input articles have coveringSources, include all sources in a
 
 SINGLE-SOURCE: If an article has NO [Also: ...] annotation, include "singleSource": true in the JSON.
 
-FRAMING: For multi-source stories, add a "framings" array showing how each source approached the story.
-Each framing: {"source":"AP","angle":"Led with casualty figures and blast mechanics","link":"..."}
-The angle should be 8-15 words describing what the source emphasized, NOT an opinion about the source.
+	FRAMING: For multi-source stories, add a "framings" array showing how each source approached the story.
+	Each framing: {"source":"AP","angle":"Led with casualty figures and blast mechanics","link":"..."}
+	The angle should be 8-15 words describing what the source emphasized, NOT an opinion about the source.
 
-IMPORTANT: Each story must appear in exactly ONE tier. Do not place the same event in both "top" and "developing".
+	SOURCE INTEGRITY:
+	- Use only stories from the provided ARTICLES list.
+	- Copy the primary article "Link" exactly into "link".
+	- Copy the primary article "Published" timestamp exactly into "publishedAt".
+	- Do not invent links, dates, sources, names, or numbers.
 
-OUTPUT JSON FORMAT:
-{"headlines":[{"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top","framings":[{"source":"AP","angle":"...","link":"..."}]},{"title":"...","source":"SingleSource","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
+	IMPORTANT: Each story must appear in exactly ONE tier. Do not place the same event in both "top" and "developing".
+
+	OUTPUT JSON FORMAT:
+	{"headlines":[{"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"AP","angle":"...","link":"..."}]},{"title":"...","source":"SingleSource","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
 
 ARTICLES:
 ${formatArticlesForPrompt(articles, 'Also')}`;
@@ -346,7 +353,7 @@ REQUISITI DI DIVERSITÀ:
 OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":"..."},...]}
 
 ARTICOLI:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
 
     headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
       const memorySection = formatYesterdayMemory(
@@ -381,16 +388,22 @@ MULTI-FONTE: Quando gli articoli in input hanno coveringSources, includi tutte l
 
 FONTE UNICA: Se un articolo NON ha annotazione [Anche: ...], includi "singleSource": true nel JSON.
 
-FRAMING: Per le storie multi-fonte, aggiungi un array "framings" che mostri come ogni fonte ha trattato la notizia.
-Ogni framing: {"source":"ANSA","angle":"Ha aperto con le cifre delle vittime e la meccanica dell'esplosione","link":"..."}
-L'angle deve essere di 8-15 parole che descrivono cosa la fonte ha enfatizzato, NON un'opinione sulla fonte.
+	FRAMING: Per le storie multi-fonte, aggiungi un array "framings" che mostri come ogni fonte ha trattato la notizia.
+	Ogni framing: {"source":"ANSA","angle":"Ha aperto con le cifre delle vittime e la meccanica dell'esplosione","link":"..."}
+	L'angle deve essere di 8-15 parole che descrivono cosa la fonte ha enfatizzato, NON un'opinione sulla fonte.
 
-Descrivi i fatti, non caratterizzarli. Invece di 'video razzista', descrivi il contenuto del video e lascia giudicare il lettore.
+	INTEGRITÀ DELLE FONTI:
+	- Usa solo notizie presenti nella lista ARTICOLI.
+	- Copia esattamente il "Link" dell'articolo primario nel campo "link".
+	- Copia esattamente il timestamp "Published" dell'articolo primario nel campo "publishedAt".
+	- Non inventare link, date, fonti, nomi o numeri.
 
-IMPORTANTE: Ogni notizia deve apparire in UN SOLO livello. Non inserire lo stesso evento sia in "top" che in "developing".
+	Descrivi i fatti, non caratterizzarli. Invece di 'video razzista', descrivi il contenuto del video e lascia giudicare il lettore.
 
-FORMATO JSON OUTPUT:
-{"headlines":[{"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","tier":"top","framings":[{"source":"ANSA","angle":"...","link":"..."}]},{"title":"...","source":"FonteUnica","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
+	IMPORTANTE: Ogni notizia deve apparire in UN SOLO livello. Non inserire lo stesso evento sia in "top" che in "developing".
+
+	FORMATO JSON OUTPUT:
+	{"headlines":[{"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"ANSA","angle":"...","link":"..."}]},{"title":"...","source":"FonteUnica","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
 
 ARTICOLI:
 ${formatArticlesForPrompt(articles, 'Anche')}`;
@@ -477,7 +490,7 @@ EXIGENCES DE DIVERSITÉ:
 OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":"..."},...]}
 
 ARTICLES:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
+${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
 
     headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
       const memorySection = formatYesterdayMemory(
@@ -512,16 +525,22 @@ MULTI-SOURCE: Quand les articles en entrée ont coveringSources, incluez toutes 
 
 SOURCE UNIQUE: Si un article n'a PAS d'annotation [Aussi: ...], incluez "singleSource": true dans le JSON.
 
-FRAMING: Pour les histoires multi-sources, ajoutez un tableau "framings" montrant comment chaque source a traité l'info.
-Chaque framing: {"source":"AFP","angle":"A ouvert avec les chiffres des victimes et la mécanique de l'explosion","link":"..."}
-L'angle doit faire 8-15 mots décrivant ce que la source a mis en avant, PAS une opinion sur la source.
+	FRAMING: Pour les histoires multi-sources, ajoutez un tableau "framings" montrant comment chaque source a traité l'info.
+	Chaque framing: {"source":"AFP","angle":"A ouvert avec les chiffres des victimes et la mécanique de l'explosion","link":"..."}
+	L'angle doit faire 8-15 mots décrivant ce que la source a mis en avant, PAS une opinion sur la source.
 
-Décrivez les faits, ne les caractérisez pas. Au lieu de 'vidéo raciste', décrivez le contenu et laissez le lecteur juger.
+	INTÉGRITÉ DES SOURCES:
+	- Utilisez uniquement les sujets présents dans la liste ARTICLES.
+	- Copiez exactement le "Link" de l'article principal dans "link".
+	- Copiez exactement l'horodatage "Published" de l'article principal dans "publishedAt".
+	- N'inventez pas de liens, dates, sources, noms ou chiffres.
 
-IMPORTANT: Chaque événement doit apparaître dans UN SEUL niveau. Ne placez pas le même événement dans "top" et "developing".
+	Décrivez les faits, ne les caractérisez pas. Au lieu de 'vidéo raciste', décrivez le contenu et laissez le lecteur juger.
 
-FORMAT JSON OUTPUT:
-{"headlines":[{"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","tier":"top","framings":[{"source":"AFP","angle":"...","link":"..."}]},{"title":"...","source":"SourceUnique","summary":"...","link":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
+	IMPORTANT: Chaque événement doit apparaître dans UN SEUL niveau. Ne placez pas le même événement dans "top" et "developing".
+
+	FORMAT JSON OUTPUT:
+	{"headlines":[{"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"AFP","angle":"...","link":"..."}]},{"title":"...","source":"SourceUnique","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
 
 ARTICLES:
 ${formatArticlesForPrompt(articles, 'Aussi')}`;
@@ -726,6 +745,75 @@ function deduplicateAcrossTiers(headlines: NewsHeadline[]): NewsHeadline[] {
   return headlines.filter((_, i) => !toRemove.has(i));
 }
 
+interface ArticleReference {
+  source: string;
+  title: string;
+  link: string;
+  publishedAt: string;
+}
+
+function normalizeLinkForMatching(link: string | undefined): string {
+  if (!link) return '';
+
+  try {
+    const url = new URL(link);
+    return `${url.host}${url.pathname}`.replace(/\/$/, '').toLowerCase();
+  } catch {
+    return link.trim().replace(/\/$/, '').toLowerCase();
+  }
+}
+
+function buildArticleReferences(articles: ProcessedArticle[]): ArticleReference[] {
+  return articles.flatMap(article => [
+    {
+      source: article.source,
+      title: article.title,
+      link: article.link,
+      publishedAt: article.publishedAt,
+    },
+    ...(article.coveringArticles ?? []).map(coveringArticle => ({
+      source: coveringArticle.source,
+      title: coveringArticle.title,
+      link: coveringArticle.link,
+      publishedAt: coveringArticle.publishedAt,
+    })),
+  ]);
+}
+
+function reconcileGeneratedHeadlinesWithArticles(
+  headlines: NewsHeadline[],
+  articles: ProcessedArticle[],
+): NewsHeadline[] {
+  const references = buildArticleReferences(articles);
+  const byExactLink = new Map(references.map(reference => [reference.link.trim(), reference]));
+  const byNormalizedLink = new Map(references.map(reference => [normalizeLinkForMatching(reference.link), reference]));
+
+  return headlines.flatMap(headline => {
+    const link = headline.link?.trim();
+    const reference = link
+      ? byExactLink.get(link) ?? byNormalizedLink.get(normalizeLinkForMatching(link))
+      : undefined;
+
+    if (!reference) {
+      console.warn(`Dropped generated headline without matching input link: ${headline.title}`);
+      return [];
+    }
+
+    const sources = Array.from(new Set(
+      [reference.source, ...(headline.sources ?? []), headline.source].filter((source): source is string => Boolean(source))
+    ));
+
+    return [{
+      ...headline,
+      source: reference.source,
+      sources,
+      link: reference.link,
+      publishedAt: reference.publishedAt,
+      singleSource: headline.singleSource ?? sources.length <= 1,
+    }];
+  });
+}
+
 export async function generateHeadlines(articles: ProcessedArticle[], languageCode: string = 'en', yesterdayHeadlines: NewsHeadline[] = []): Promise<NewsHeadline[]> {
   const prompt = getPrompts(languageCode).headlinesPrompt(articles, yesterdayHeadlines);
 
@@ -736,7 +824,8 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
     const headlines = result.headlines || [];
 
     // Post-parse fallback: ensure all headlines have tier, sources, and singleSource
-    const enriched = headlines.map(h => {
+    const reconciled = reconcileGeneratedHeadlinesWithArticles(headlines, articles);
+    const enriched = reconciled.map(h => {
       const sources = h.sources && h.sources.length > 0 ? h.sources : [h.source];
       return {
         ...h,

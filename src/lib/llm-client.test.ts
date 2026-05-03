@@ -7,6 +7,11 @@ describe('generated summary cleanup', () => {
     expect(summary).toBe('Paragraph one.\n\nParagraph two.');
   });
 
+  it('removes terse trailing word count notes from model output', () => {
+    const summary = sanitizeGeneratedSummary('Paragraph one.\n\nParagraph two. (298 words)');
+    expect(summary).toBe('Paragraph one.\n\nParagraph two.');
+  });
+
   it('recovers a usable summary from malformed JSON wrappers', () => {
     const recovered = recoverSummaryFromMalformedOutput(`{
   "summary": "Paragraph one with enough detail to count as a real news summary. Paragraph one continues with more context and concrete facts.\n\nParagraph two adds follow-up detail about what changed and what comes next for readers to watch. (Word count: 210)"

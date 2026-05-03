@@ -1,176 +1,203 @@
 {
   "date": "2026-05-02",
-  "summary": "A three-judge panel of the U.S. Court of Appeals for the D.C. Circuit ruled President Trump's executive order suspending asylum access at the southern border illegal. The decision blocks the policy affecting thousands of migrants seeking entry. The administration plans appeals to the Supreme Court.\n\nIn the Middle East, Israel permitted displaced Palestinians to return to northern Gaza by crossing a military zone following a hostage release agreement. Hundreds of thousands of residents are affected. Separately, the Trump administration imposed sanctions on a major Chinese oil refinery and 40 shipping firms for transporting Iranian oil. President Trump informed Congress that the Iran ceasefire ends hostilities, eliminating the need for war authorization. The Pentagon announced withdrawal of 5,000 U.S. troops from Germany over six to 12 months amid disputes with German leaders over the Iran conflict.\n\nRwanda-backed rebels overran Congolese troops and entered Goma, a safe-haven city trapping over one million displaced residents amid gunfire. The U.N. warned of escalating crisis. Mexican Sinaloa Governor Rubén Rocha Moya resigned after U.S. accusations of protecting the Sinaloa Cartel for bribes, prompting Mexican investigations. A federal appeals court halted mailing of mifepristone, limiting nationwide access to the abortion pill. The U.S. Justice Department authorized firing squads and pentobarbital for federal executions to address 13 pending cases. China developer Vanke reported massive losses amid the property crisis. (298 words)",
+  "summary": "President Trump directed the Pentagon to withdraw 5,000 U.S. troops from Germany over the next year. The order follows criticism by German Chancellor Merz of U.S. handling of the Iran war. This reduces the U.S. troop presence in NATO's European commands and affects U.S.-Europe security ties. NATO members are consulting on implementation details.\n\nPresident Trump raised tariffs on EU cars and trucks to 25 percent from 15 percent, citing EU non-compliance with prior agreements. The increase projects an $18 billion impact on Germany's auto sector and escalates the U.S.-EU trade war in parallel with the Germany troop withdrawal. In the Middle East, the U.S. State Department approved $8.6 billion in arms sales to Persian Gulf states and Israel, bypassing Congress amid repeated Iranian attacks during the U.S.-Israeli war with Iran. Deliveries to these frontline allies will proceed rapidly. Spirit Airlines ceased operations Saturday without a $500 million bailout after jet fuel costs doubled from the two-month Iran war, resulting in thousands of U.S. job losses.\n\nThe WHO prequalified Coartem Baby as the first malaria drug for newborns under 4.5kg, enabling treatment in Africa where 18 percent of under-six-month-olds contract malaria and 610,000 people died in 2024, mostly young children. Sinaloa Governor Ruben Rocha Moya resigned temporarily after a U.S. indictment for shielding the Sinaloa cartel and taking millions in bribes; Mexican authorities are reviewing an arrest request. Iranian Nobel Peace Prize winner Narges Mohammadi reached critical condition in prison after collapsing, following a March heart attack. Taiwan President Lai Ching-te visited Eswatini, its African diplomatic ally, after delays from states denying overflight permissions due to China pressure. Houthi forces in Yemen seized an oil tanker, the fourth such incident near Somalia recently, and directed it toward the Somali coast; the U.S. issued sanctions warnings. Ukraine protested cargo ships delivering grain to Haifa from Russian-held Ukrainian territories, calling it stolen; Israel stated insufficient proof exists.",
   "headlines": [
     {
-      "title": "U.S. appeals court rules Trump's asylum ban at border illegal",
-      "source": "Associated Press",
-      "summary": "A three-judge panel of the U.S. Court of Appeals for the D.C. Circuit blocks Trump's executive order suspending asylum access for migrants at the southern border. Affects thousands seeking entry. Likely appeals to Supreme Court, undermining key immigration enforcement. Matters as it halts Republican migration crackdown.",
-      "link": "https://apnews.com/article/trump-asylum-appeals-court-ed8f8f193579b757d7f384cd7f9e9e60",
-      "tier": "top",
-      "singleSource": true,
-      "sources": [
-        "Associated Press"
-      ],
-      "category": "politics",
-      "region": "americas",
-      "importance": "breaking"
-    },
-    {
-      "title": "Federal appeals court blocks mailing of mifepristone restricting U.S. abortion access",
-      "source": "NPR News",
-      "summary": "A federal appeals court halts mailing of mifepristone, a common abortion pill, limiting access nationwide. Impacts patients relying on mail-order medication post-Roe. Next steps include potential Supreme Court review. Significant for reproductive rights amid ongoing legal battles over abortion.",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone",
-      "tier": "top",
-      "singleSource": true,
-      "sources": [
-        "NPR News"
-      ],
-      "category": "science",
-      "region": "americas",
-      "importance": "breaking"
-    },
-    {
-      "title": "Justice Department authorizes firing squads for federal executions",
-      "source": "Associated Press",
-      "summary": "U.S. Justice Department permits firing squads and reauthorizes pentobarbital injections to speed up capital punishment. Affects death row inmates in federal cases. Aims to execute 13 pending cases faster. Escalates Trump's push for tougher criminal justice amid drug and crime concerns.",
-      "link": "https://apnews.com/article/death-penalty-firing-squads-justice-department-9e81687b80402e1e19d57bbc55772470",
-      "tier": "top",
-      "singleSource": true,
-      "sources": [
-        "Associated Press"
-      ],
-      "category": "politics",
-      "region": "americas",
-      "importance": "major"
-    },
-    {
-      "title": "U.S. sanctions China refinery and 40 shippers for transporting Iranian oil",
-      "source": "Associated Press",
-      "summary": "Trump administration targets major Chinese oil refinery and 40 shipping firms for Iranian oil trade. Impacts global energy firms evading sanctions. Enforcement ramps up pressure on Iran post-ceasefire. Matters for U.S. efforts to curb Tehran's funding and oil markets.",
-      "link": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "Associated Press"
-      ],
-      "category": "politics",
-      "region": "global",
-      "importance": "major"
-    },
-    {
-      "title": "Israel allows Palestinians to return to northern Gaza after hostage deal",
-      "source": "Wall Street Journal",
-      "summary": "Israel permits displaced Gazans to cross military zone back to northern Gaza following hostage release breakthrough. Affects hundreds of thousands of returnees. Eases humanitarian strain but risks renewed conflict. Key step toward potential lasting truce.",
-      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "Wall Street Journal"
-      ],
-      "category": "conflict",
-      "region": "middle-east",
-      "importance": "major"
-    },
-    {
-      "title": "Sinaloa Governor Rubén Rocha Moya resigns after U.S. cartel accusations",
-      "source": "New York Times",
-      "summary": "Mexican Governor Rubén Rocha Moya steps down amid U.S. claims he protected Sinaloa Cartel for bribes. Affects regional anti-drug efforts and bilateral ties. Triggers national scandal, prompts Mexico investigations. Highlights cross-border corruption challenges.",
-      "link": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "New York Times"
-      ],
-      "category": "politics",
-      "region": "americas",
-      "importance": "notable"
-    },
-    {
-      "title": "Trump informs Congress Iran ceasefire removes need for war authorization",
-      "source": "BBC",
-      "summary": "President Trump writes Congress that Iran ceasefire terminates hostilities, negating authorization requirement. Affects congressional oversight on military actions. Allows executive flexibility amid tensions. Critical for U.S. foreign policy debates on Iran.",
-      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "BBC"
-      ],
-      "category": "politics",
-      "region": "middle-east",
-      "importance": "major"
-    },
-    {
-      "title": "Rwanda-backed rebels enter Congo safe-haven city of Goma",
-      "source": "Wall Street Journal",
-      "summary": "Rebels overrun Congolese troops entering Goma, trapping over one million displaced residents amid gunfire. Affects aid hub and civilians. U.N. warns of crisis escalation. Threatens regional stability in Central Africa.",
-      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
-      "tier": "also",
-      "singleSource": true,
-      "sources": [
-        "Wall Street Journal"
-      ],
-      "category": "conflict",
-      "region": "africa",
-      "importance": "breaking"
-    },
-    {
-      "title": "U.S. announces withdrawal of 5,000 troops from Germany",
-      "source": "NPR News",
-      "summary": "Pentagon confirms pullout of 5,000 troops from Germany in 6-12 months amid Trump clashes with leader over Iran war.",
+      "title": "Trump orders withdrawal of 5,000 U.S. troops from Germany",
+      "source": "Wall Street Journal World",
+      "summary": "President Trump directs Pentagon to withdraw 5,000 troops from Germany over next year after Chancellor Merz criticized U.S. handling of Iran war. Impacts NATO presence and U.S.-Europe security ties. NATO consults on details; exposes alliance strains.",
+      "link": "https://www.wsj.com/world/europe/trump-orders-the-withdrawal-of-5-000-u-s-troops-from-germany-e6e7ca87",
+      "publishedAt": "2026-05-02T14:36:00.000Z",
       "tier": "developing",
       "dayNumber": 2,
-      "previousContext": "Pentagon announces withdrawal of 5,000 troops from Germany in 6-12 months due to tensions with Chancellor Merz over U.S. Iran war",
-      "link": "https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany",
-      "singleSource": true,
+      "previousContext": "U.S. shifts from weighing troop reductions to Trump ordering withdrawal of 5,000 amid Merz criticism on Iran war",
       "sources": [
-        "NPR News"
+        "Wall Street Journal World",
+        "Wall Street Journal"
       ],
+      "singleSource": false,
       "category": "politics",
       "region": "europe",
       "importance": "major"
     },
     {
-      "title": "China developer Vanke reports huge losses amid property crisis",
-      "source": "Wall Street Journal",
-      "summary": "Vanke posts massive losses signaling deepening real estate woes and potential state bailout needs.",
-      "tier": "developing",
-      "dayNumber": 2,
-      "previousContext": "Vanke reports continued huge losses raising questions on crisis spread and government intervention",
-      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "title": "U.S. fast-tracks arms deals valued at $8.6 billion to Mideast partners",
+      "source": "New York Times World",
+      "summary": "State Department approves sales to Persian Gulf states and Israel, bypassing Congress amid repeated Iranian attacks in U.S.-Israeli war. Strengthens defenses for frontline allies. Deliveries proceed rapidly; signals deeper U.S. commitment against Iran.",
+      "link": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+      "publishedAt": "2026-05-02T16:18:32.000Z",
+      "tier": "top",
       "singleSource": true,
       "sources": [
-        "Wall Street Journal"
+        "New York Times World",
+        "New York Times"
       ],
       "category": "economy",
-      "region": "asia-pacific",
+      "region": "middle-east",
       "importance": "major"
+    },
+    {
+      "title": "Spirit Airlines ceases operations after Iran war fuel prices double",
+      "source": "South China Morning Post",
+      "summary": "Discount carrier shuts down Saturday without $500 million bailout amid doubled jet fuel costs from two-month Iran war. Thousands of U.S. jobs lost. Highlights aviation sector vulnerability; challenges Trump's economic agenda.",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3352244/us-carrier-spirit-airlines-shuts-down-industrys-first-iran-war-casualty?utm_source=rss_feed",
+      "publishedAt": "2026-05-02T16:42:36.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump hikes tariffs on EU cars and trucks to 25 percent",
+      "source": "France 24",
+      "summary": "President Trump raises duties from 15 percent citing EU non-compliance, projecting $18 billion hit to Germany auto sector. Affects European exporters. Escalates U.S.-EU trade war alongside troop moves; threatens economic stability.",
+      "link": "https://www.france24.com/en/video/20260502-new-tariff-hike-could-cost-germany-18bn-1",
+      "publishedAt": "2026-05-02T15:24:54.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "WHO prequalifies Coartem Baby as first malaria drug for newborns",
+      "source": "The Guardian",
+      "summary": "Approval enables safe treatment for infants under 4.5kg in Africa, where 18 percent of under-six-month-olds get infected and 610,000 died in 2024 mostly young children. Saves lives in malaria hotspots; major global health advance.",
+      "link": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
+      "publishedAt": "2026-05-02T06:00:18.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Sinaloa Governor Ruben Rocha Moya steps down after U.S. indictment",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "Wall Street Journal World"
+      ],
+      "summary": "Governor faces U.S. charges of shielding Sinaloa cartel and taking millions in bribes; resigns temporarily to defend himself. Impacts Mexico-U.S. counternarcotics cooperation. Authorities review arrest request; disrupts state leadership.",
+      "link": "https://www.dw.com/en/mexican-governor-indicted-by-us-steps-down/a-77021079?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-05-02T16:40:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Details governor accused of cartel protection and bribes stepping down amid indictment",
+          "link": "https://www.dw.com/en/mexican-governor-indicted-by-us-steps-down/a-77021079?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Covers governor facing charges of aiding cartel cooperating with arrest review",
+          "link": "https://www.wsj.com/world/americas/mexican-governor-indicted-by-u-s-steps-down-b9e91ec8"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Iranian Nobel winner Narges Mohammadi reaches critical condition in prison",
+      "source": "NPR News",
+      "summary": "Activist and 2023 Peace Prize laureate collapses in jail, worsening since March heart attack; hospitalized. Family monitors health amid regime detention. Underscores Iran human rights abuses during war; prompts global advocacy.",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition",
+      "publishedAt": "2026-05-02T15:57:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Taiwan President Lai Ching-te visits Eswatini despite China pressure",
+      "source": "Deutsche Welle",
+      "summary": "President lands in African ally after overflight denials from states yielding to Beijing pressure delay trip. Bolsters Taiwan's few diplomatic ties. Challenges China's isolation efforts; key for Taipei's global standing.",
+      "link": "https://www.dw.com/en/taiwan-s-president-visits-eswatini-despite-china-s-objection/a-77019778?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-05-02T14:53:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Yemen reports hijacked oil tanker steering toward Somalia",
+      "source": "Al Jazeera English",
+      "summary": "Houthis seize vessel, at least fourth incident near Somalia recently, directing it coastward. Threatens shipping lanes and oil flows. U.S. issues sanctions warnings; amplifies regional maritime insecurity from wars.",
+      "link": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
+      "publishedAt": "2026-05-02T17:10:29.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukraine protests Israel accepting grain from occupied territories",
+      "source": "Deutsche Welle",
+      "summary": "Cargo ships arrive Haifa with grain Kyiv says stolen from Russian-held Ukraine areas; Israel cites insufficient proof. Tensions Ukraine-Israel relations. Highlights occupation economic exploitation; affects global food aid dynamics.",
+      "link": "https://www.dw.com/en/why-ukraine-and-israel-are-arguing-over-grain/a-77018771?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-05-02T15:59:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
     }
   ],
   "metadata": {
     "sourcesUsed": 10,
-    "articlesProcessed": 455,
-    "articlesAfterDedup": 455,
-    "articlesAfterDiversity": 75,
+    "articlesProcessed": 370,
+    "articlesAfterDedup": 366,
+    "articlesAfterDiversity": 60,
     "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 11.9,
     "categoryCounts": {
-      "politics": 6,
+      "politics": 4,
+      "economy": 3,
       "science": 1,
-      "conflict": 2,
-      "economy": 1
+      "society": 1,
+      "conflict": 1
     },
     "regionCounts": {
-      "americas": 4,
+      "europe": 3,
+      "middle-east": 3,
+      "americas": 2,
       "global": 1,
-      "middle-east": 2,
-      "africa": 1,
-      "europe": 1,
       "asia-pacific": 1
     },
     "tierCounts": {
+      "developing": 1,
       "top": 3,
-      "also": 5,
-      "developing": 2
-    }
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
   }
 }

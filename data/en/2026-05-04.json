@@ -1,0 +1,184 @@
+{
+  "date": "2026-05-04",
+  "summary": "Russian strikes killed 10 people across Ukraine, with Ukrainian civilians suffering most casualties. President Zelensky reported Ukrainian drone strikes on Russian shadow fleet oil tankers and an oil terminal, disrupting global energy markets and European security. Retaliation is likely next. Separately, a Ukrainian drone struck a residential tower on Mosfilmovskaya Street in an upscale Moscow district, 6-8 km from the Kremlin; Russian defenses repelled two other drones ahead of Victory Day. Emergency crews responded, with no casualties reported.\n\nU.S. President Trump announced Project Freedom to escort ships low on supplies through the Strait of Hormuz. Iran labeled it a truce violation. Crews and oil trade are affected; risks of clash remain. This follows Iran's 14-point response yesterday to a U.S. proposal and Trump's warning of potential strikes on Iran. In the Philippines, the U.S. and six Pacific allies deployed 17,000 troops for annual drills. Beijing criticized the exercises, which bolster collective defense amid South China Sea disputes. Separately, Russia recruited African men continent-wide with false job offers, forcing many into Ukraine frontline fighting as mercenaries or soldiers.\n\nIn West Bengal assembly elections, BJP leads in nearly 200 seats, affecting 91 million voters and testing Prime Minister Modi's influence; TMC leader Mamata Banerjee rallied workers. In Tamil Nadu, TVK leads in over 100 seats, with 72 million residents impacted; DMK Chief Minister Stalin trails in Kolathur. Sinaloa Governor Ruben Rocha Moya resigned after U.S. indictment for shielding cartels, drug smuggling, and million-dollar bribes; Mexico will review the arrest request. A Hangzhou court ruled a fintech firm illegally fired 35-year-old employee Zhou for refusing demotion ahead of AI replacement, setting a precedent on AI-driven layoffs.",
+  "headlines": [
+    {
+      "title": "Russian strikes kill 10 across Ukraine as Zelensky reports drone hits on oil tankers",
+      "source": "BBC World",
+      "summary": "Russian strikes kill 10 around Ukraine while Kyiv claims drones hit shadow fleet oil tankers and terminal. Ukrainian civilians suffer most; retaliation likely next. Escalates war, disrupts global energy markets and European security.",
+      "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-03T13:43:20.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "BJP leads in nearly 200 seats during West Bengal assembly election vote count",
+      "source": "The Hindu",
+      "summary": "BJP inches toward 200-seat mark in West Bengal leads as TMC's Mamata Banerjee rallies workers. Affects 91 million voters; shapes state power for fourth TMC term or BJP first. Tests Modi's influence in opposition bastion.",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-live-updates-may-4-2026/article70934929.ece",
+      "publishedAt": "2026-05-04T08:07:06.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "TVK surges to leads in over 100 seats as Tamil Nadu CM Stalin trails in polls",
+      "source": "The Hindu",
+      "summary": "Vijay's TVK leads over 100 seats in Tamil Nadu results; DMK's CM Stalin trails in Kolathur. Impacts 72 million residents; determines next government. Upset signals voter shift from incumbents nationally.",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-results-live-updates-4-may-2026/article70934968.ece",
+      "publishedAt": "2026-05-04T08:03:13.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Sinaloa Governor Ruben Rocha Moya steps down after U.S. cartel protection indictment",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "Wall Street Journal World"
+      ],
+      "summary": "U.S. indicts Sinaloa Governor Ruben Rocha Moya for shielding cartel, drug smuggling, and million-dollar bribes; Rocha resigns. Strains U.S.-Mexico ties; hits anti-cartel fight. Mexico reviews U.S. arrest request next.",
+      "link": "https://www.dw.com/en/mexican-governor-indicted-by-us-steps-down/a-77021079?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-05-02T16:40:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Emphasizes U.S. accusations of protecting Sinaloa cartel, enabling drug smuggling, and receiving millions in bribes",
+          "link": "https://www.dw.com/en/mexican-governor-indicted-by-us-steps-down/a-77021079?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Notes governor pledges cooperation as Mexican authorities review U.S. arrest request",
+          "link": "https://www.wsj.com/world/americas/mexican-governor-indicted-by-u-s-steps-down-b9e91ec8"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Seven nations deploy 17,000 troops for anti-China exercise in Philippines",
+      "source": "Wall Street Journal World",
+      "summary": "U.S. and six Pacific allies send 17,000 personnel for annual drills in Philippines, provoking Beijing response. Bolsters collective defense; affects regional powers. Strengthens deterrence amid South China Sea disputes.",
+      "link": "https://www.wsj.com/world/asia/americas-pacific-allies-train-to-face-down-china-together-5671e723",
+      "publishedAt": "2026-05-04T03:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Ukrainian drone strikes residential tower in upscale Moscow district",
+      "source": "South China Morning Post",
+      "summary": "Drone hits Mosfilmovskaya Street tower 6-8km from Kremlin; defenses repel two Ukrainian drones before Victory Day. No casualties; emergency crews respond. Rare incursion raises Russian capital security concerns.",
+      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3352345/drone-hits-upscale-moscow-tower-russian-capital-readies-victory-day-parade?utm_source=rss_feed",
+      "publishedAt": "2026-05-04T07:35:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Chinese court deems AI cost savings invalid grounds for firing employee",
+      "source": "South China Morning Post",
+      "summary": "Hangzhou court rules fintech firm illegally fired 35-year-old Zhou for refusing demotion before AI replacement. Safeguards workers amid job fears; sets legal precedent. Curbs unchecked AI-driven layoffs in economy.",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3352327/ai-cost-cutting-not-legal-excuse-fire-workers-chinese-court-says?utm_source=rss_feed",
+      "publishedAt": "2026-05-04T07:42:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia recruits African men with false job offers for Ukraine frontline",
+      "source": "New York Times World",
+      "summary": "Kremlin lures Africans promising jobs but forces many unwittingly into Ukraine fighting as mercenaries or soldiers. Continent-wide recruits trapped; highlights manpower desperation. Exposes trafficking risks globally.",
+      "link": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html",
+      "publishedAt": "2026-05-04T04:01:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. launches Project Freedom to escort ships through Strait of Hormuz",
+      "source": "Deutsche Welle",
+      "summary": "President Trump announces operation freeing ships stuck in Hormuz low on supplies; Iran labels it truce violation. Crews and oil trade affected; risks clash. Heightens stakes in U.S.-Iran war tensions.",
+      "link": "https://www.dw.com/en/iran-war-us-to-escort-ships-through-the-strait-of-hormuz/live-77026618?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-05-04T07:29:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump initiates ship escorts in Hormuz amid shortages; Iran protests as breach of truce",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 377,
+    "articlesAfterDedup": 375,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 39.6,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "asia-pacific": 4,
+      "americas": 1,
+      "africa": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

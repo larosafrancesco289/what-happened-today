@@ -1,0 +1,191 @@
+{
+  "date": "2026-05-05",
+  "summary": ")\nRussia announced a unilateral ceasefire across Ukraine on May 9-10 for WWII Victory Day. The truce pauses hostilities in the year-long war, following Russian strikes yesterday that killed 10 people. Russia threatens retaliation against disruptions. Ukrainian President Zelensky reported drone hits on oil tankers yesterday.\n\nIn the Strait of Hormuz, U.S. Navy warships shot down missiles and drones targeting escorted ships, including UAE tankers. The UAE blamed Iran for the drone strike. India's foreign ministry condemned Iran over the UAE attack. Separately, an explosion at a fireworks plant in central China killed at least 26 people and injured others, state media reported. Search and rescue operations concluded, casualty verification continues, and Xi Jinping ordered a thorough probe. The WHO confirmed seven hantavirus cases, including three deaths, on the MV Hondius cruise ship off Cabo Verde. One British national is in intensive care among 147 passengers from 23 countries, including 17 Americans.\n\nNarendra Modi's BJP won the West Bengal assembly elections after leading in nearly 200 seats during yesterday's vote count. An explosion killed nine workers in a Colombia coal mine despite weeks-earlier warnings from the national agency on gas buildup. Mali junta leader Assimi Goïta assumed defense minister duties after Sadio Camara's death in a suspected suicide bombing during attacks. Israeli settlers intensified attacks against Palestinians in the West Bank, as military officials called for government action.\"}",
+  "headlines": [
+    {
+      "title": "Explosion kills 26 at fireworks plant in central China province",
+      "source": "NPR News",
+      "sources": [
+        "NPR News",
+        "Deutsche Welle"
+      ],
+      "summary": "Explosion at fireworks plant in central China kills at least 26 people and injures others, state media reports. Search and rescue completed but casualty verification continues. Xi Jinping orders thorough probe, underscoring industrial safety failures.",
+      "link": "https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china",
+      "publishedAt": "2026-05-05T06:59:43.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Blast kills 21 people and wounds 61 at fireworks factory",
+          "link": "https://www.dw.com/en/china-explosion-at-fireworks-factory-kills-at-least-21/a-77045835?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "NPR News",
+          "angle": "State media reports 26 killed after search and rescue completes",
+          "link": "https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "WHO confirms 7 hantavirus cases including 3 deaths on MV Hondius cruise ship",
+      "source": "South China Morning Post",
+      "summary": "Hantavirus outbreak linked to MV Hondius cruise off Cabo Verde reaches 7 cases with 3 deaths and 1 Briton in intensive care. Traps 147 from 23 countries including 17 Americans. WHO tracks spread risking global travel.",
+      "link": "https://www.scmp.com/news/world/africa/article/3352473/deadly-hantavirus-outbreak-traps-150-cruise-ship-who-identifies-more-cases?utm_source=rss_feed",
+      "publishedAt": "2026-05-05T07:28:22.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia declares unilateral ceasefire in Ukraine for Victory Day",
+      "source": "NPR News",
+      "summary": "Russia announces truce across Ukraine on May 9-10 for WWII Victory Day but threatens retaliation against disruptions. Pauses hostilities in year-long war, offering brief respite amid ongoing conflict.",
+      "link": "https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day",
+      "publishedAt": "2026-05-05T05:47:24.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. warships shoot down missiles drones targeting ships in Strait of Hormuz",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Wall Street Journal World"
+      ],
+      "summary": "U.S. Navy downs missiles and drones attacking escorted ships in Hormuz; UAE blames Iran drone strike. Iran targets tankers and UAE amid war. Threatens global oil flows and wider Middle East conflict.",
+      "link": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+      "publishedAt": "2026-05-05T07:14:46.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "U.S. engages threats during first escorts under Project Freedom; UAE attributes attacks to Iran",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "U.S. warships down missiles drones at Gulf ships; UAE blames Iran",
+          "link": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "U.S. sinks Iranian fast-attack boats targeting ships and UAE",
+          "link": "https://www.wsj.com/world/middle-east/iran-defies-trump-and-tightens-its-grip-on-hormuz-01a4e32b"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Iran deploys 1980s playbook enhanced by drones against shipping",
+          "link": "https://www.wsj.com/world/middle-east/iran-is-using-its-1980s-playbook-plus-drones-to-cripple-global-shipping-51fb17da"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "BJP clinches West Bengal assembly elections after leading vote count",
+      "source": "Deutsche Welle",
+      "summary": "Narendra Modi's BJP wins West Bengal after years of gains, altering state politics. India's foreign ministry condemns Iran over UAE attack. Expands BJP footprint challenging regional dominance.",
+      "link": "https://www.dw.com/en/india-news-west-bengal-wakes-to-a-new-political-reality/live-77046236?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-05-05T07:10:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Vote count finalizes BJP victory following leads in nearly 200 seats",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Explosion kills 9 workers in Colombia coal mine after gas buildup warning",
+      "source": "Al Jazeera English",
+      "summary": "Coal mine explosion kills 9 workers despite weeks-earlier national agency warning on gas dangers. Impacts mining communities in Colombia. Triggers safety audits and regulatory scrutiny.",
+      "link": "https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion?traffic_source=rss",
+      "publishedAt": "2026-05-05T07:04:02.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Mali leader Assimi Goïta assumes defense role after minister killed in bombing",
+      "source": "AllAfrica",
+      "summary": "Junta leader Assimi Goïta takes defense minister duties post Sadio Camara's death in suspected suicide bombing during attacks. Affects Mali's fight against insurgents; consolidates military control.",
+      "link": "https://allafrica.com/stories/202605050097.html",
+      "publishedAt": "2026-05-05T06:38:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Israeli settlers intensify attacks against Palestinians in West Bank",
+      "source": "New York Times World",
+      "summary": "Israeli settlers escalate violence on Palestinians in West Bank as global attention shifts to Iran war. Military officials call for government action. Risks broader unrest in occupied territories.",
+      "link": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
+      "publishedAt": "2026-05-04T09:08:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 405,
+    "articlesAfterDedup": 403,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 22.7,
+    "categoryCounts": {
+      "environment": 2,
+      "science": 1,
+      "politics": 3,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "global": 1,
+      "europe": 1,
+      "middle-east": 2,
+      "americas": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

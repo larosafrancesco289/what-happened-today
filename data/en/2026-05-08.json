@@ -1,0 +1,189 @@
+{
+  "date": "2026-05-08",
+  "summary": "U.S. military forces intercepted Iranian attacks on three Navy ships in the Strait of Hormuz and struck Iranian targets on Thursday amid a declared truce. The Strait handles 20% of global oil transit, and the incidents have affected oil prices. President Trump states the ceasefire holds but threatens escalation without a peace deal. Broader Middle East conflict risks remain.\n\nNorth Korea announced deployment of new long-range artillery systems capable of striking Seoul this year and its first destroyer soon. The artillery targets the South Korean capital region, home to 25 million people, amid stalled inter-Korean talks. In central Mali, JNIM militants linked to al-Qaeda killed more than 30 people in two attacks on Thursday, per local sources; civilians and security forces were affected. Toyota cut its fiscal year ending March 2027 operating income forecast to ¥3 trillion, citing disruptions from Iran tensions, with shares falling 2.2%; this affects global auto supply chains and investors.\n\nMount Dukono on Halmahera island in Indonesia erupted on Friday, killing three hikers—two foreigners and one local—and leaving 10 missing from a group of 20. Rescue teams are responding. In the United States, Presidents Lula of Brazil and Trump held three-hour talks at the White House on Thursday, stabilizing bilateral ties strained by tariffs; trade between the countries is worth billions of dollars annually. Tesla's Shanghai Gigafactory delivered 74,478 vehicles in April, up 36% from April 2024, driven by subsidies, EV demand, and exports amid competition from Chinese rivals.\"}",
+  "headlines": [
+    {
+      "title": "U.S. Forces Intercept Iranian Attacks on Three Navy Ships and Strike Facilities",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "NPR News",
+        "Japan Times",
+        "Al Jazeera English",
+        "France 24",
+        "BBC World"
+      ],
+      "summary": "U.S. military intercepted Iranian attacks on three Navy ships in Strait of Hormuz and struck Iranian targets Thursday amid declared truce. Affects global oil transit and prices. Trump insists ceasefire holds but threatens escalation without peace deal. Risks broader Middle East conflict.",
+      "link": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal",
+      "publishedAt": "2026-05-08T07:06:37.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "U.S. strikes Iranian targets after Iran fired on warships Trump threatens more action",
+          "link": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal"
+        },
+        {
+          "source": "NPR News",
+          "angle": "U.S. intercepts attacks on 3 Navy ships transiting Hormuz targets Iranian facilities",
+          "link": "https://www.npr.org/2026/05/07/g-s1-120978/u-s-military-intercepted-iran-attacks-navy-ships-hormuz"
+        },
+        {
+          "source": "Japan Times",
+          "angle": "U.S. and Iran trade fire fanning fears over shaky ceasefire Trump affirms truce",
+          "link": "https://www.japantimes.co.jp/news/2026/05/08/world/us-iran-ceasefire-shaky/"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Iran accuses U.S. ceasefire breach CENTCOM cites response to attacks day 70",
+          "link": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Conflicting claims on who fired first Trump insists ceasefire remains in place",
+          "link": "https://www.france24.com/en/video/20260508-what-we-know-about-the-latest-exchange-of-fire-between-the-us-and-iran"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Oil prices rise after U.S. Iran exchange fire in Hormuz Trump truce comment",
+          "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "North Korea Deploys New Long-Range Artillery Systems Targeting Seoul",
+      "source": "NPR News",
+      "summary": "North Korea announces deployment of new artillery capable of striking Seoul this year plus first destroyer soon. Threatens 25 million in South Korean capital region. Heightens Korean peninsula tensions amid stalled talks.",
+      "link": "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul",
+      "publishedAt": "2026-05-08T05:04:37.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Al-Qaeda-Linked Militants Kill More Than 30 in Central Mali Attacks",
+      "source": "France 24",
+      "summary": "JNIM militants conducted two attacks Thursday killing over 30 in central Mali per local sources. Civilians and security forces affected amid post-junta violence surge. Undermines stability in Sahel region.",
+      "link": "https://www.france24.com/en/africa/20260508-al-qaeda-linked-attacks-in-central-mali-kill-more-than-30-people",
+      "publishedAt": "2026-05-08T01:24:29.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Mount Dukono Erupts Killing Three Hikers Leaves 10 Missing in Indonesia",
+      "source": "South China Morning Post",
+      "summary": "Mount Dukono on Halmahera island erupted Friday killing three hikers two foreigners one local 10 missing from 20 group. Rescue teams respond. Underscores volcano hiking dangers in seismically active Indonesia.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3352852/9-singaporeans-among-20-hikers-trapped-indonesias-mount-dukono-volcanic-eruption?utm_source=rss_feed",
+      "publishedAt": "2026-05-08T05:32:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Brazil’s Lula and Trump Hold Three-Hour White House Talks Easing Tariff Strains",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Wall Street Journal World"
+      ],
+      "summary": "Presidents Lula and Trump met three hours Thursday at White House stabilizing Brazil-U.S. ties strained by tariffs. Impacts bilateral trade worth billions. Positive signals ahead of Brazil election reduce diplomatic rift.",
+      "link": "https://www.france24.com/en/americas/20260508-lula-says-white-house-talks-with-trump-helped-ease-tariff-tensions",
+      "publishedAt": "2026-05-08T01:39:03.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Lula hails three-hour White House talks with Trump stabilising tariff-strained relations",
+          "link": "https://www.france24.com/en/americas/20260508-lula-says-white-house-talks-with-trump-helped-ease-tariff-tensions"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Lula Trump seek reset easing rift Trump avoids backing Brazil right-wing candidate",
+          "link": "https://www.wsj.com/world/americas/trump-and-brazils-lula-seek-reset-easing-diplomatic-rift-95f7d987"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Tesla China Gigafactory Delivers 74,478 Vehicles in April Up 36 Percent",
+      "source": "South China Morning Post",
+      "summary": "Tesla Shanghai delivered 74,478 units in April up 36% year-on-year from subsidies EV demand energy shock includes exports. China market rivals intensify. Signals Tesla resilience in key growth region.",
+      "link": "https://www.scmp.com/business/china-business/article/3352856/tesla-china-posts-36-sales-rise-local-rivals-new-models-nip-heels?utm_source=rss_feed",
+      "publishedAt": "2026-05-08T06:34:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Toyota Forecasts ¥3 Trillion Operating Income Amid Iran Tensions Shares Fall",
+      "source": "Japan Times",
+      "summary": "Toyota cuts fiscal year ending March 2027 operating income forecast to ¥3 trillion citing Iran disruptions shares drop 2.2%. Affects global auto supply chains investors. Highlights geopolitical risks to industry.",
+      "link": "https://www.japantimes.co.jp/business/2026/05/08/companies/toyota-profit-drop-forecast/",
+      "publishedAt": "2026-05-08T06:20:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 440,
+    "articlesAfterDedup": 438,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.8,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 1,
+      "politics": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "asia-pacific": 3,
+      "africa": 1,
+      "americas": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

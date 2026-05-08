@@ -1,0 +1,191 @@
+{
+  "date": "2026-05-08",
+  "summary": "Volodymyr Zelensky accuse la Russie de ne pas respecter sa trêve unilatérale de vingt-quatre heures. Zelensky déclare que la Russie n'a fait aucune tentative de cessez-le-feu et a lancé plus de 850 drones sur le front ukrainien cette nuit. L'Ukraine promet de riposter. Cela suit la déclaration russe d'une pause unilatérale et intervient avant les commémorations du 9 mai en Russie, où des efforts diplomatiques étaient attendus.\n\nLes Émirats arabes unis ont intercepté des drones et missiles lancés depuis l'Iran ce vendredi matin. Cela fait suite à des échanges de frappes jeudi entre États-Unis et Iran dans le détroit d'Ormuz, où les deux parties s'accusent mutuellement de violation du cessez-le-feu. Donald Trump affirme que le cessez-le-feu avec l'Iran reste en vigueur malgré ces tirs contre trois navires américains et sur des installations iraniennes ; Washington attend une réponse iranienne à son protocole d'accord. Séparément, le Tribunal de commerce international américain a invalidé jeudi les droits de douane de 10 % imposés par Donald Trump sur toutes les importations. Le tribunal juge ces mesures illégales par rapport à des précédentes et ordonne des remboursements avec intérêts aux plaignants.\n\nL'Élysée annonce le retour de l'ambassadeur de France Stéphane Romatet à Alger après plus d'un an d'absence, avec une visite d'Alice Rufo à Sétif ce vendredi dans un contexte de normalisation. En Indonésie, l'éruption du volcan Dukono sur l'île d'Halmahera vendredi matin a tué trois randonneurs, dont des ressortissants singapouriens parmi les dix disparus ; les recherches se poursuivent. Copernicus prévoit que 2027 pourrait devenir l'année la plus chaude enregistrée en raison d'un retour d'El Niño et de records océaniques en mai. À Gaza, vingt-cinq personnes sont mortes dans l'effondrement de bâtiments partiellement détruits, sept mois après le cessez-le-feu ; l'ONU appelle à un déblaiement urgent des 50 millions de tonnes de débris. Un Américain anonyme propose 200 000 dollars pour des signatures en faveur d'une pétition pro-annexion du Groenland aux États-Unis ; le Premier ministre groenlandais dénonce cette offre.",
+  "headlines": [
+    {
+      "title": "Volodymyr Zelensky accuse la Russie de ne pas respecter sa trêve unilatérale pendant vingt-quatre heures",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Liberation",
+        "RTBF"
+      ],
+      "summary": "Volodymyr Zelensky déclare que la Russie n'a fait aucune tentative de cessez-le-feu et a lancé plus de 850 drones sur le front ukrainien cette nuit. L'Ukraine promet de riposter. Cela fragilise les efforts diplomatiques avant les commémorations du 9 mai en Russie.",
+      "link": "https://www.lemonde.fr/international/live/2026/05/08/en-direct-guerre-en-ukraine-la-russie-confirme-un-cessez-le-feu-unilateral-pour-deux-jours-l-ukraine-a-mene-des-dizaines-d-attaques-de-drones_6684995_3210.html",
+      "publishedAt": "2026-05-08T05:25:51.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les Émirats arabes unis activent leur défense aérienne contre des missiles et drones iraniens",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France 24"
+      ],
+      "summary": "Les Émirats arabes unis interceptent des drones et missiles lancés depuis l'Iran ce vendredi matin. Cela suit des échanges de frappes entre États-Unis et Iran dans le détroit d'Ormuz jeudi, accusant mutuellement violation du cessez-le-feu. La région risque une escalade.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260508-en-direct-les-%C3%A9mirats-arabes-unis-activent-leur-d%C3%A9fense-a%C3%A9rienne-contre-des-missiles-et-drones-venus-d-iran",
+      "publishedAt": "2026-05-08T04:14:46.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Ouvre sur l'activation de la défense émiratie contre missiles iraniens et contexte des frappes américaines",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260508-en-direct-les-%C3%A9mirats-arabes-unis-activent-leur-d%C3%A9fense-a%C3%A9rienne-contre-des-missiles-et-drones-venus-d-iran"
+        },
+        {
+          "source": "France 24",
+          "angle": "Mentionne déclarations de Trump sur trêve et activation défense émiratie face à drones iraniens",
+          "link": "https://www.france24.com/fr/moyen-orient/20260507-en-direct-etats-unis-iran-s-accusent-violations-cessez-le-feu-detroit-d-ormuz-trump-liban"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Tribunal de commerce international américain invalide les droits de douane de 10 pour cent de Trump",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "Radio-Canada"
+      ],
+      "summary": "Le tribunal annule jeudi la taxe de 10 % sur toutes les importations, remplaçant des mesures précédentes jugées illégales. Il ordonne remboursements avec intérêts aux plaignants. Cela entrave la politique protectionniste de Donald Trump.",
+      "link": "https://www.lemonde.fr/economie/article/2026/05/08/droits-de-douane-donald-trump-voit-la-justice-americaine-porter-un-nouveau-coup-d-arret-a-sa-politique-economique_6686850_3234.html",
+      "publishedAt": "2026-05-08T03:38:49.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump affirme que le cessez-le-feu avec l'Iran reste en vigueur malgré échanges de frappes",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Liberation",
+        "France Info",
+        "Le Monde"
+      ],
+      "summary": "Donald Trump minimise les échanges de tirs jeudi contre trois navires américains et sur installations iraniennes. Washington attend réponse iranienne à son protocole d'accord. Cela maintient l'espoir de négociations malgré tensions au Moyen-Orient.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-iran-conflit-moyen-orient-israel-etats-unis-detroit-ormuz-emirats-arabes-unis-donald-trump-benyamin-netanyahou-armee-americaine-20260508",
+      "publishedAt": "2026-05-08T05:01:58.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Élysée annonce le retour de l'ambassadeur de France à Alger après plus d'un an d'absence",
+      "source": "Le Figaro",
+      "summary": "Stéphane Romatet regagne Alger dans un contexte de normalisation, avec visite d'Alice Rufo à Sétif ce vendredi. Cela marque un dégel prudent après mois de tensions diplomatiques franco-algériennes.",
+      "link": "https://www.lefigaro.fr/international/l-elysee-annonce-le-retour-de-son-ambassadeur-a-alger-et-amorce-un-degel-prudent-20260508",
+      "publishedAt": "2026-05-08T07:16:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Trois randonneurs meurent et dix personnes restent disparues après éruption du volcan Dukono en Indonésie",
+      "source": "Liberation",
+      "summary": "L'éruption du volcan Dukono sur l'île d'Halmahera vendredi matin tue trois randonneurs, dont ressortissants singapouriens parmi disparus. Les recherches se poursuivent dans l'est de l'archipel.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/indonesie-trois-randonneurs-sont-morts-apres-leruption-dun-volcan-sur-lile-dhalmahera-20260508_IB5JRCIE6NEWXLYRPJ2D5ZQZYA/",
+      "publishedAt": "2026-05-08T06:28:49.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Copernicus alerte que 2027 risque de devenir l'année la plus chaude enregistrée avec retour d'El Niño",
+      "source": "France Info",
+      "summary": "L'observatoire européen prévoit records océaniques en mai et année 2027 record absolu due à El Niño. Cela accentue les préoccupations sur le réchauffement climatique et ses impacts mondiaux.",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/il-est-probable-que-2027-devienne-l-annee-la-plus-chaude-jamais-enregistree-a-cause-du-retour-d-el-nino-alerte-copernicus_7991261.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-05-08T04:58:36.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Vingt-cinq personnes meurent à Gaza dans effondrements de bâtiments partiellement détruits",
+      "source": "RFI",
+      "summary": "Sept mois après cessez-le-feu, 50 millions de tonnes de débris menacent les structures debout à Gaza. L'ONU appelle à déblaiement urgent pour éviter plus de victimes civiles.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260508-gaza-risques-effondrement-des-b%C3%A2timents-encore-debout",
+      "publishedAt": "2026-05-08T05:14:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Un Américain propose 200 000 dollars pour signatures en faveur de l'annexion du Groenland aux États-Unis",
+      "source": "20 Minutes",
+      "summary": "Le Premier ministre groenlandais dénonce l'offre d'un Américain anonyme pour pétition pro-annexion. Cela soulève inquiétudes sur ingérences étrangères dans l'autonomie du territoire danois.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4222560-20260507-groenland-mysterieux-americain-propose-200-000-dollars-signatures-pro-annexion-annexion-scandalise?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-05-07T19:07:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 203,
+    "articlesAfterDedup": 202,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 12.2,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 1,
+      "politics": 3,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 3,
+      "americas": 1,
+      "africa": 1,
+      "asia-pacific": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

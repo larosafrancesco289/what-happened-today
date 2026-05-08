@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-08",
+  "summary": "Il Comando USA centrale ha confermato attacchi mirati su installazioni militari iraniane nello Stretto di Hormuz. Gli attacchi rispondono a missili, droni e barche veloci lanciati contro tre cacciatorpediniere americane in transito nel Golfo. Nessuna vittima tra il personale USA. Il Pentagono definisce l'attacco iraniano non provocato. I prezzi dell'energia globale registrano variazioni per il rischio di escalation. Si attendono ulteriori dichiarazioni dal governo iraniano.\n\nIn Ucraina, il presidente Volodymyr Zelensky ha denunciato oltre 140 attacchi russi nella notte, inclusi 850 droni. La Russia ha promesso risposte speculari ai raid ucraini recenti. Nessun cenno a tregua da Mosca. Separatamente, la Corte Commercio Internazionale USA ha dichiarato illegittimi i dazi globali al 10% imposti da Donald Trump sotto la Sezione 122 del Trade Act del 1974, in risposta a ricorsi di due società. La decisione colpisce la politica commerciale USA prima del viaggio di Trump in Cina, ma non sospende le tariffe generali. Il segretario di Stato Marco Rubio ha incontrato il premier italiano Giorgia Meloni per discutere la crisi iraniana, Gaza, Africa e nodo energetico. L'incontro fa seguito a quello di Rubio ieri con Papa Leone XIV su temi simili. Italia e USA coordinano posizioni.\n\nNel Regno Unito, i primi spogli delle elezioni in 136 comuni confermano perdite per il Labour di Keir Starmer e avanzate per la destra di Nigel Farage, con indipendentisti in crescita in Galles. Un rapporto Euronews indica che i costi di accumulo batterie sono calati del 90% dal 2010, rendendo le rinnovabili competitive 24 ore su 24 rispetto ai fossili. In Indonesia, l'eruzione del vulcano Dukono su Halmahera ha prodotto una colonna di ceneri alta 10 km, causando 3 morti e 20 dispersi tra escursionisti. Squadre di emergenza cercano superstiti. In Italia, il gioco online illegale ha raggiunto 20 miliardi di euro nei primi tre mesi del 2026, con 4,5 milioni di utenti attivi e 13 milioni di accessi, pubblicizzati su social network. Autorità monitorano il fenomeno.",
+  "headlines": [
+    {
+      "title": "Comando USA sferra raid su installazioni militari iraniane nello Stretto di Hormuz",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "ANSA"
+      ],
+      "summary": "Comando USA centrale conferma attacchi mirati su obiettivi militari iraniani in risposta a missili, droni e barche veloci su tre cacciatorpediniere americane transito Golfo. Nessuna vittima USA. Pentagono definisce attacco iraniano non provocato. Rischio escalation influisce su prezzi energia globale.",
+      "link": "https://www.agi.it/estero/news/2026-05-08/guerra-usa-iran-notizie-8-maggio-36947924/",
+      "publishedAt": "2026-05-08T05:52:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Descrive raid USA su installazioni iraniane dopo attacchi su navi americane con neutralizzazione minacce",
+          "link": "https://www.agi.it/estero/news/2026-05-08/guerra-usa-iran-notizie-8-maggio-36947924/"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta conferma USA di intercettazioni attacchi iraniani e raid autodifesa con parole Trump su tregua",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/08/medio-oriente-trump-la-tregua-con-liran-resta-in-vigore-ma-firmino-o-colpiremo._6645c562-6828-4613-a2a8-8b89cbf77708.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Corte USA dichiara illegali dazi globali al 10% imposti da Trump",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Corte Commercio Internazionale stabilisce illegittimi dazi 10% sotto Sezione 122 Trade Act 1974 per due società ricorrenti. Colpo politica commerciale Trump prima viaggio Cina. Non sospende tariffe generali. Impatta relazioni commerciali USA e protezionismo economico.",
+      "link": "https://www.agi.it/economia/news/2026-05-08/dazi-trump-illegali-36948148/",
+      "publishedAt": "2026-05-08T06:09:47.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Dichiara dazi illegali con dettagli su sentenza Corte e impatti su programma Trump",
+          "link": "https://www.agi.it/economia/news/2026-05-08/dazi-trump-illegali-36948148/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea stop sentenza prima incontro Trump-Xi Jinping in Cina",
+          "link": "https://www.repubblica.it/esteri/2026/05/08/news/la_corte_usa_boccia_i_dazi_al_10_imposti_da_trump-425331254/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky denuncia 140 attacchi russi con 850 droni nella notte",
+      "source": "TGCOM24",
+      "summary": "Presidente ucraino segnala oltre 140 attacchi russi inclusi 850 droni stanotte; Russia promette risposte speculari a raid ucraini. Nessun cenno tregua da Mosca. Coinvolti governi ucraino e russo. Prolunga conflitto con effetti su aiuti NATO e sicurezza europea.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/zelensky-russia-neanche-tregua-simbolica_111826626-202602k.shtml",
+      "publishedAt": "2026-05-08T06:58:34.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Segretario di Stato Rubio incontra premier Meloni su crisi iraniana",
+      "source": "Rai News",
+      "summary": "Marco Rubio discute con Giorgia Meloni crisi Medio Oriente, Iran, Gaza, Africa e nodo energetico. Precedente incontro ieri Papa Leone XIV su temi simili. Italia e USA coordinano posizioni. Rafforza alleanze atlantiche contro tensioni regionali.",
+      "link": "https://www.rainews.it/articoli/2026/05/il-segretario-di-stato-americano-marco-rubio-atteso-oggi-dalla-premier-giorgia-meloni-1a420a44-a0ae-4dc7-ab88-686f58dd53b0.html",
+      "publishedAt": "2026-05-08T06:27:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Vulcano Dukono in Indonesia erutta causando 3 morti e 20 dispersi",
+      "source": "AGI",
+      "summary": "Eruzione monte Dukono su Halmahera sprigiona colonna ceneri 10 km travolgendo escursionisti. Polizia locale conta 3 vittime e 20 dispersi. Squadre emergenza cercano superstiti. Evento naturale colpisce turismo e sicurezza isola orientale indonesiana.",
+      "link": "https://www.agi.it/estero/news/2026-05-08/eruzione-indonesia-vittime-36948752/",
+      "publishedAt": "2026-05-08T07:07:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Gioco online illegale in Italia raggiunge valore 20 miliardi euro",
+      "source": "Il Sole 24 Ore",
+      "summary": "Osservatorio Data Room Nexus registra 4,5 milioni utenti attivi primi 3 mesi 2026 e 13 milioni accessi. Social network centrali per pubblicità. Autorità monitorano fenomeno. Minaccia finanze pubbliche e addict dipendenza gioco d'azzardo.",
+      "link": "https://www.ilsole24ore.com/art/in-italia-gioco-online-illegale-vale-20-miliardi-social-centro-sistema-AILpSEwC",
+      "publishedAt": "2026-05-07T18:40:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Rapporto Euronews indica rinnovabili competitive 24 ore su 24",
+      "source": "Euronews Italiano",
+      "summary": "Costo accumulo batterie crolla 90% dal 2010 riducendo prezzi rinnovabili pari fossili. Rapporto evidenzia sfida continua. Imprese energetiche investono transizione. Favorisce decarbonizzazione e indipendenza energetica Europa.",
+      "link": "http://it.euronews.com/2026/05/08/rinnovabili-24-ore-su-24-nuovo-rapporto-lenergia-pulita-sfida-i-combustibili-fossili-sul-p",
+      "publishedAt": "2026-05-08T06:01:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Labour subisce disfatta in 136 elezioni comunali Regno Unito",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "la Repubblica"
+      ],
+      "summary": "Primi spogli confermano flop Labour Starmer e boom destra Farage; indipendentisti avanzano Galles. Previsioni ieri indicavano punizione severa. Oggi risultati iniziali validano trend. Impatta stabilità governo britannico.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/gb-verso-il-flop-dei-labour-nelle-elezioni-comunali_111828557-202602k.shtml",
+      "publishedAt": "2026-05-08T06:48:38.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Previsioni di disfatta Labour con trionfo Farage e indipendentisti",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Prevede Starmer-geddon con cascata sconfitte Labour e rischi per premier",
+          "link": "https://www.repubblica.it/esteri/2026/05/08/news/regno_unito_voto_starmer_sconfitta-425331038/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta primi numeri spoglio confermanti disfatta Labour e boom Farage",
+          "link": "https://www.tgcom24.mediaset.it/mondo/gb-verso-il-flop-dei-labour-nelle-elezioni-comunali_111828557-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 196,
+    "articlesAfterDedup": 196,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 12.6,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 2,
+      "politics": 2,
+      "environment": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "americas": 1,
+      "europe": 4,
+      "global": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

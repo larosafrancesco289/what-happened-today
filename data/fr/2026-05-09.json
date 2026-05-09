@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-09",
+  "summary": "Donald Trump a annoncé un cessez-le-feu de trois jours entre l'Ukraine et la Russie à partir de samedi. Cette pause intervient alors que Moscou commémore la fin de la Seconde Guerre mondiale par un défilé sur la place Rouge. L'Ukraine s'engage à respecter cette trêve, contrairement aux accusations de Volodymyr Zelensky la veille contre la Russie pour non-respect d'une pause unilatérale de vingt-quatre heures. Des discussions diplomatiques pourraient suivre cette période.\n\nLes États-Unis ont frappé deux pétroliers iraniens près de l'île de Kharg vendredi, provoquant une marée noire au large du terminal pétrolier dans le Golfe. Téhéran doit répondre à une proposition américaine de fin durable des hostilités, malgré les affirmations de Trump la veille sur la poursuite du cessez-le-feu avec l'Iran. En Europe centrale, Peter Magyar a été investi Premier ministre de Hongrie samedi, mettant fin à seize ans de gouvernance de Viktor Orban. Des réformes sont attendues sur le plan intérieur et international.\n\nAu Niger, la junte militaire a suspendu dix médias français dont Mediapart, AFP, TF1, France 24 et RFI tard vendredi pour motifs d'ordre public, restreignant l'information indépendante. Au Mali, un blocus imposé par le groupe jihadiste Jnim affilié à Al-Qaïda sur sept localités provoque une famine deux semaines après des attaques ; le gouvernement refuse les négociations. Emmanuel Macron a inauguré une université francophone à Alexandrie en Égypte samedi, début d'une tournée africaine incluant un sommet Afrique-France au Kenya et une visite en Éthiopie. La Russie a recruté 30 000 étrangers en quatre ans pour des combats en Ukraine, souvent par coercion. Des sirènes d'alerte ont retenti vendredi dans le nord d'Israël, les premières depuis la trêve avec le Hezbollah entrée en vigueur le 17 avril. Donald Trump enregistre des records d'impopularité aux États-Unis à six mois des élections de mi-mandat, liés à l'explosion des coûts de la vie et aux guerres au Moyen-Orient.",
+  "headlines": [
+    {
+      "title": "Donald Trump annonce un cessez-le-feu de trois jours entre Ukraine et Russie",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "20 Minutes"
+      ],
+      "summary": "Donald Trump propose un cessez-le-feu de trois jours à partir de samedi entre Ukraine et Russie, alors que Moscou commémore la fin de la Seconde Guerre mondiale par un défilé place Rouge. L'Ukraine s'engage à respecter cette pause, malgré les trêves unilatérales antérieures. Cela pourrait ouvrir une fenêtre diplomatique.",
+      "link": "https://www.lemonde.fr/international/live/2026/05/09/en-direct-guerre-en-ukraine-la-russie-commemore-la-fin-de-la-seconde-guerre-mondiale-au-premier-jour-d-une-treve-proposee-par-donald-trump_6684995_3210.html",
+      "publishedAt": "2026-05-09T04:07:52.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Donald Trump annonce un cessez-le-feu de trois jours à partir de samedi, l'Ukraine s'engage à respecter la pause lors des commémorations russes du 9-Mai",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec défilé place Rouge pour commémorations et trêve de trois jours proposée par Trump",
+          "link": "https://www.lemonde.fr/international/live/2026/05/09/en-direct-guerre-en-ukraine-la-russie-commemore-la-fin-de-la-seconde-guerre-mondiale-au-premier-jour-d-une-treve-proposee-par-donald-trump_6684995_3210.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Annonce de Trump d'un cessez-le-feu de trois jours malgré poursuite frappes drones",
+          "link": "https://www.20minutes.fr/monde/ukraine/4222634-20260508-guerre-ukraine-trump-annonce-cessez-feu-trois-jours-entre-moscou-kiev?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "États-Unis frappent deux pétroliers iraniens près de l'île de Kharg",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Radio-Canada",
+        "Le Figaro"
+      ],
+      "summary": "Les États-Unis revendiquent des frappes sur deux pétroliers iraniens vendredi, une marée noire est détectée au large du terminal pétrolier de Kharg dans le Golfe. Téhéran doit répondre à une proposition américaine de fin durable des hostilités. Cela ébranle le cessez-le-feu en cours.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260509-en-direct-une-maree-noire-detectee-au-large-du-principal-terminal-petrolier-iranien-etats-unis-trump",
+      "publishedAt": "2026-05-09T05:16:25.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "États-Unis frappent deux pétroliers iraniens, marée noire détectée au large du terminal pétrolier de Kharg tandis que négociations se poursuivent",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Détecte marée noire au large terminal pétrolier iranien après frappes américaines sur pétroliers",
+          "link": "https://www.france24.com/fr/moyen-orient/20260509-en-direct-une-maree-noire-detectee-au-large-du-principal-terminal-petrolier-iranien-etats-unis-trump"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Washington revendique tirs sur deux pétroliers iraniens et espère réponse sérieuse de Téhéran",
+          "link": "https://ici.radio-canada.ca/nouvelle/2252427/etats-unis-attente-reponse-iran-offre"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Cessez-le-feu ébranlé par frappes sporadiques dans détroit d'Ormuz malgré poursuite négociations",
+          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-cessez-le-feu-ebranle-dans-le-detroit-d-ormuz-20260508"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Junte militaire du Niger suspend dix médias français pour ordre public",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Libération",
+        "20 Minutes"
+      ],
+      "summary": "La junte nigérienne suspend Mediapart, AFP, TF1, France 24 et RFI entre autres pour contenus menaçant l'ordre public. Cette mesure tard vendredi soir restreint l'information indépendante dans le pays sahélien. Cela aggrave les tensions avec la France.",
+      "link": "https://www.liberation.fr/international/afrique/niger-mediapart-lafp-tf1-accuses-de-mettre-en-peril-lordre-public-une-dizaine-de-medias-francais-suspendus-par-la-junte-20260509_W2H4FMHOU5DXFN2NIDKR3D7MYM/",
+      "publishedAt": "2026-05-09T07:02:51.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Libération",
+          "angle": "Liste Mediapart AFP TF1 France 24 RFI suspendus par junte pour mise en péril ordre public",
+          "link": "https://www.liberation.fr/international/afrique/niger-mediapart-lafp-tf1-accuses-de-mettre-en-peril-lordre-public-une-dizaine-de-medias-francais-suspendus-par-la-junte-20260509_W2H4FMHOU5DXFN2NIDKR3D7MYM/"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Junte interdit dizaine médias français dont RFI France 24 AFP pour menace ordre public",
+          "link": "https://www.20minutes.fr/monde/niger/4222638-20260509-niger-junte-militaire-interdit-dizaine-medias-francais-pouvant-mettre-peril-ordre-public?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Peter Magyar s'investit Premier ministre de Hongrie après Orban",
+      "source": "RFI",
+      "summary": "Peter Magyar est investi Premier ministre hongrois ce samedi, fin de 16 ans de gouvernance Viktor Orban. Il suscite attentes intérieures et internationales sur réformes. Ce changement politique marque un tournant en Europe centrale.",
+      "link": "https://www.rfi.fr/fr/europe/20260509-hongrie-peter-magyar-investi-beaucoup-d-attentes",
+      "publishedAt": "2026-05-09T05:26:41.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Population malienne crie famine sous blocus jihadiste du Jnim",
+      "source": "RFI",
+      "summary": "Deux semaines après attaques jihadistes sur sept localités, blocus Jnim affilié Al-Qaïda provoque famine au Mali. Gouvernement et associations refusent négociations avec ces groupes. La junte durcit position face aux diplomates.",
+      "link": "https://www.rfi.fr/fr/afrique/20260509-mali-la-population-blocus-crie-famine-le-gouvernement-refuse-de-n%C3%A9gocier-avec-les-terroristes",
+      "publishedAt": "2026-05-09T06:16:50.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Emmanuel Macron inaugure université francophone à Alexandrie en Égypte",
+      "source": "France 24",
+      "summary": "Emmanuel Macron débute tournée africaine samedi en Égypte pour partenariat renouvelé, inaugure université francophone à Alexandrie. Suivra sommet Afrique-France au Kenya puis Éthiopie. Cela vise renforcer liens France-Afrique.",
+      "link": "https://www.france24.com/fr/afrique/20260509-en-quete-partenariat-renouvele-avec-afrique-emmanuel-macron-debute-tournee-africaine-en-egypte",
+      "publishedAt": "2026-05-09T06:25:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Russie recrute 30 000 étrangers forcés pour combats en Ukraine",
+      "source": "France Info",
+      "summary": "En quatre ans, 30 000 étrangers rejoignent forces russes en Ukraine est et sud, souvent dupés et forcés par recruteurs prédateurs. Cela révèle système coercitif pour combler besoins militaires russes.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-systeme-de-recrutement-predateur-comment-des-etrangers-sont-forces-de-combattre-avec-l-armee-russe-en-ukraine_7986710.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-05-09T04:52:35.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Sirènes d'alerte retentissent dans nord d'Israël depuis trêve Hezbollah",
+      "source": "Le Figaro",
+      "summary": "Premières sirènes d'alerte vendredi dans nord Israël depuis trêve entrée vigueur 17 avril avec Hezbollah. Alertes touchent territoire profond. Cela teste fragilité pause combats à frontière libanaise.",
+      "link": "https://www.lefigaro.fr/international/premieres-sirenes-d-alerte-dans-le-nord-d-israel-depuis-la-treve-avec-le-hezbollah-20260508",
+      "publishedAt": "2026-05-08T16:30:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump atteint records d'impopularité aux États-Unis",
+      "source": "France Info",
+      "summary": "Donald Trump bat records impopularité à six mois élections mi-mandat, dû explosion coût vie et guerre Moyen-Orient. Son président pâtit impacts économiques et géopolitiques sur opinion publique américaine.",
+      "link": "https://www.franceinfo.fr/monde/usa/pourquoi-donald-trump-bat-des-records-d-impopularite-aux-etats-unis-a-six-mois-des-elections-de-mi-mandat_7987094.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-05-09T04:53:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 208,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 17,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 15.1,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 4,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 2,
+      "africa": 3,
+      "americas": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 3,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

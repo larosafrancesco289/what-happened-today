@@ -1,0 +1,168 @@
+{
+  "date": "2026-05-10",
+  "summary": "Il Corpo delle Guardie della Rivoluzione Islamica iraniano ha avvertito Washington di una risposta militare immediata contro basi USA in Medio Oriente per ogni azione sulla flotta iraniana. Questo fa seguito agli scontri di venerdì, in cui un cacciabombardiere USA ha colpito due petroliere. Le autorità iraniane sostengono che l'incidente sia stato provocato dagli USA, mentre Washington indica azioni difensive. Una tregua regionale del 2023 rischia di collassare, con possibili escalation nelle prossime ore.\n\nVladimir Putin ha annunciato che il conflitto con Kiev volge al termine e ha proposto l'ex cancelliere tedesco Gerhard Schroeder come negoziatore, citando la fretta del presidente Trump. Durante la parata del Victory Day a Mosca ha confermato contatti tramite il premier slovacco Ľudovít Ódor per un incontro con Volodymyr Zelensky. In Medio Oriente, l'esercito israeliano ha espulso gli attivisti palestinese Abu Keshek e brasiliano Thiago Avila dopo 9-10 giorni di detenzione, intercettati il 30 aprile sulla nave Global Sumud Flotilla in acque internazionali. L'organizzazione ha lanciato una nuova iniziativa per Gaza, mentre il Ministero degli Esteri israeliano ha confermato le espulsioni.\n\nLa premier italiana Giorgia Meloni ha risposto mercoledì al Senato a interrogazioni della maggioranza su fisco, lavoro, Mezzogiorno e piano casa, e dell'opposizione su salari, fuga cervelli e situazione in Medio Oriente. La maggioranza ha citato risultati del governo, l'opposizione ha criticato l'economia e la politica estera. La nave da crociera MV Hondius con tre vittime di hantavirus e 140 persone in isolamento è arrivata al porto di Granadilla a Tenerife per l'evacuazione. La Commissione UE ha approvato l'AI Omnibus, con focus successivo sul Digital Omnibus per regole su IA e dati. Ricercatori hanno chiesto definizioni precise di IA per dibattiti pubblici basati su basi realistiche.",
+  "headlines": [
+    {
+      "title": "Pasdaran iraniani avvertono Washington di rappresaglie su basi USA",
+      "source": "AGI",
+      "summary": "Il Corpo delle Guardie della Rivoluzione Islamica minaccia risposta militare immediata contro basi USA in Medio Oriente per ogni azione sulla flotta iraniana. Seguono scontri di venerdì con cacciabombardiere USA che colpisce due petroliere. Rischio collasso tregua regionale, interessa per possibile escalation tensioni.",
+      "link": "https://www.agi.it/estero/news/2026-05-10/iran-usa-hormuz-scontro-36984217/",
+      "publishedAt": "2026-05-10T07:17:59.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Putin annuncia fine conflitto ucraino e propone Schroeder come negoziatore",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "la Repubblica"
+      ],
+      "summary": "Vladimir Putin dichiara che la guerra con Kiev volge al termine, si apre al dialogo con UE e propone ex cancelliere Schroeder negoziatore, citando fretta Trump. Durante parata V-Day conferma contatti via Fico su incontro Zelensky. Analisti notano segnali missilistici a Trump. Interesse per possibile svolta negoziati pace.",
+      "link": "https://www.rainews.it/articoli/2026/05/putin-shock-la-guerra-in-ucraina-volge-al-termine-ed-apre-allue-pronti-al-dialogo-la-guerra-in-ucraina-trump-ha-fretta-di-concludere-ma-i-negoziati-richiedono-tempo-lo-zar-propone-lex-cancelliere-tedesco-schroeder--4a53ccfa-f97b-4b26-b16b-55474fa7da00.html",
+      "publishedAt": "2026-05-10T06:36:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive parata V-Day in tono minore e aperture di Putin a UE via Fico su Zelensky",
+          "link": "https://www.repubblica.it/esteri/2026/05/10/news/apertura_putin_europa_conflitto_kiev_sta_finendo_schroeder_negoziatore-425335192/?rss"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Riporta dichiarazioni Putin su fine guerra, fretta Trump e proposta Schroeder negoziatore",
+          "link": "https://www.rainews.it/articoli/2026/05/putin-shock-la-guerra-in-ucraina-volge-al-termine-ed-apre-allue-pronti-al-dialogo-la-guerra-in-ucraina-trump-ha-fretta-di-concludere-ma-i-negoziati-richiedono-tempo-lo-zar-propone-lex-cancelliere-tedesco-schroeder--4a53ccfa-f97b-4b26-b16b-55474fa7da00.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Intervista analista ucraino su abilità manipolatoria Putin e volontà dialogo Bruxelles",
+          "link": "https://www.repubblica.it/esteri/2026/05/10/news/intervista_ruslan_bortnik_putin_abile_manipolatore_negoziato_ue-425335204/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Giorgia Meloni risponde interrogazioni al Senato su fisco lavoro e Medio Oriente",
+      "source": "AGI",
+      "summary": "Mercoledì premier time al Senato vede maggioranza interrogare Meloni su fisco, lavoro, Mezzogiorno, piano casa; opposizione su salari, fuga cervelli, situazione Medio Oriente. Maggioranza evidenzia risultati governo, opposizione critica economia e esteri. Interesse per dibattito su politiche interne e internazionali Italia.",
+      "link": "https://www.agi.it/politica/news/2026-05-10/premier-time-senato-36980632/",
+      "publishedAt": "2026-05-10T03:13:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Israele espelle attivisti Abu Keshek e Thiago Avila dopo 10 giorni detenzione",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "la Repubblica"
+      ],
+      "summary": "Esercito israeliano intercetta navi Global Sumud Flotilla il 30 aprile in acque internazionali, arresta Abu Keshek e Thiago Avila espulsi oggi dopo 9-10 giorni. Organizzazione lancia nuova iniziativa per Gaza. Ministero Esteri conferma espulsione. Interesse per tensioni blocco Gaza e aiuti umanitari.",
+      "link": "http://it.euronews.com/2026/05/10/israele-espelle-abu-keshek-e-thiago-avila-della-global-sumud-flotilla-dopo-10-giorni-di-de",
+      "publishedAt": "2026-05-10T07:47:45.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Dettaglia intercettazione navi 30 aprile, arresti e espulsione dopo 9 giorni con nuova iniziativa",
+          "link": "http://it.euronews.com/2026/05/10/israele-espelle-abu-keshek-e-thiago-avila-della-global-sumud-flotilla-dopo-10-giorni-di-de"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Riporta dichiarazione ministero Esteri israeliano su espulsione due attivisti Flotilla",
+          "link": "https://www.repubblica.it/esteri/2026/05/10/news/israele_espulsi_i_due_attivisti_della_flotilla-425335344/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Nave Hondius con tre vittime hantavirus arriva porto Tenerife per sbarco",
+      "source": "TGCOM24",
+      "summary": "Nave da crociera Mv Hondius con focolaio hantavirus e tre vittime entra porto Granadilla Tenerife. Scatta piano evacuazione per 140 passeggeri e equipaggio in isolamento. Operazione inedita Spagna per evitare contagi. Interesse per gestione crisi sanitaria su navi crociera.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/hantavirus-tenerife-sbarco-nave-mv-hondius_111911775-202602k.shtml",
+      "publishedAt": "2026-05-10T06:47:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ricercatori chiedono dibattito su IA basato su definizioni chiare e realistiche",
+      "source": "ANSA",
+      "summary": "Ricercatori appellano a spiegare con precisione cos'è l'IA per competenza cittadini. Necessità riportare discussione su basi realistiche. Interesse pubblico per comprendere impatti tecnologia IA su vita quotidiana e politiche.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/05/06/appello-ricercatori-riportare-discussione-sullia-su-basi-chiare-e-realistiche_9c807a62-071b-449e-89d6-2d91fba56feb.html",
+      "publishedAt": "2026-05-10T07:35:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "UE lancia AI Omnibus imperfetto con focus successivo su Digital Omnibus",
+      "source": "Euronews Italiano",
+      "summary": "Commissione UE approva AI Omnibus giudicato poco ambizioso, atteso ok formale. Attenzione sposta su Digital Omnibus per semplificazione IA e dati. Interesse per regolamentazione europea intelligenza artificiale e digitale.",
+      "link": "http://it.euronews.com/next/2026/05/10/arriva-un-ai-omnibus-imperfetto-ora-i-riflettori-sul-digital-omnibus",
+      "publishedAt": "2026-05-10T05:30:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 188,
+    "articlesAfterDedup": 187,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 11,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 4.7,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 3,
+      "society": 1,
+      "science": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 3,
+      "global": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

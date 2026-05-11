@@ -1,0 +1,181 @@
+{
+  "date": "2026-05-11",
+  "summary": "Il Ministero degli Esteri cinese ha confermato la visita di Stato di Donald Trump in Cina dal 13 al 15 maggio, su invito di Xi Jinping. I colloqui affronteranno Iran, controversie commerciali, dazi, Taiwan e intelligenza artificiale. Si tratta della prima visita dal 2017, posticipata per gli sviluppi in Iran. Gli incontri influenzeranno le relazioni globali.\n\nL'Iran ha respinto il piano statunitense sul nucleare e sullo Stretto di Hormuz, definendolo eccessivo, in una risposta formale con concessioni parziali. Washington lo considera inaccettabile; Trump ha accusato Teheran di inganno. Questo fa seguito agli avvertimenti dei Pasdaran iraniani di ieri su basi USA. Un liveblog riporta una petroliera in Hormuz e raid israeliani in Libano. Separatamente, il vicepremier cinese He Lifeng ha avviato colloqui con funzionari USA in Corea del Sud martedì e mercoledì su dazi, in preparazione del vertice Xi-Trump, per risolvere dispute economiche con effetti sui mercati globali.\n\nNel Mali, jihadisti e tuareg hanno conquistato Kidal e assediano Bamako, minacciando la giunta militare filorussa e aggravando la crisi umanitaria nel Sahel, con rischi di migrazioni verso l'Europa. L'accordo UE-Mercosur è entrato in vigore provvisoriamente a maggio, con previsione di aumento del 39% delle esportazioni UE entro il 2040, rafforzando il commercio tra Europa e Sud America. Il ministro della Difesa lettone si è dimesso dopo incursioni di droni russi e ucraini su impianti petroliferi dal 2022 in Estonia, Lettonia e Lituania. Sulla nave Hondius arrivata ieri a Tenerife, un nuovo caso di hantavirus ha colpito un cittadino USA con sintomi lievi e una donna francese in condizioni gravi; i contatti sono stati mappati e gli italiani stanno bene.",
+  "headlines": [
+    {
+      "title": "Cina conferma visita di Stato di Donald Trump dal 13 al 15 maggio",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Il ministero degli Esteri cinese annuncia la visita di Trump su invito di Xi Jinping per discutere di Iran, controversie commerciali e dazi. Si tratta della prima dal 2017, ritardata per la guerra in Iran; incontri previsti coinvolgono temi come Taiwan e intelligenza artificiale, con impatto su relazioni globali.",
+      "link": "https://www.agi.it/estero/news/2026-05-11/cina-trump-visita-36995141/",
+      "publishedAt": "2026-05-11T08:33:54.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Conferma date visita con agenda su Iran e controversie commerciali",
+          "link": "https://www.agi.it/estero/news/2026-05-11/cina-trump-visita-36995141/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Evidenzia rinvio per guerra Iran e temi delicati come Taiwan dazi IA",
+          "link": "http://it.euronews.com/2026/05/11/trump-in-cina-dopo-9-anni-guerra-alliran-taiwan-commercio-dazi-e-intelligenza-artificiale"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Iran respinge piano Usa sul nucleare e Hormuz definendolo eccessivo",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "AGI"
+      ],
+      "summary": "Teheran invia risposta formale con concessioni sul programma nucleare e Stretto di Hormuz, ma Washington la considera inaccettabile. Trump accusa Iran di inganno; continua liveblog con petroliera in Hormuz e raid israeliani in Libano, alzando tensione regionale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/11/liran-respinge-il-piano-usa-richieste-eccessive_a04d8412-5be3-40ea-aac6-cc0a355a6f6e.html",
+      "publishedAt": "2026-05-11T08:38:18.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Iran definisce proposta generosa razionale raid israeliani Libano",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/11/liran-respinge-il-piano-usa-richieste-eccessive_a04d8412-5be3-40ea-aac6-cc0a355a6f6e.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Trump critica risposta iraniana come presa in giro sul nucleare",
+          "link": "https://www.agi.it/estero/news/2026-05-11/iran-usa-trump-teheran-petrolio-36994978/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Jihadisti e tuareg assediano Bamako minacciando giunta militare filorussa",
+      "source": "la Repubblica",
+      "summary": "Ribelli conquistano Kidal e avanzano nel Mali, aggravando crisi umanitaria. La giunta militare sostenuta da Mosca rischia collasso; l'assedio alla capitale solleva preoccupazioni per instabilità Sahel e migrazioni verso Europa.",
+      "link": "https://www.repubblica.it/esteri/2026/05/11/news/mali_jiadisti_tuareg_bamako_giunta_militare_russi-425337260/?rss",
+      "publishedAt": "2026-05-11T08:40:58.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Vicepremier cinese He Lifeng avvia colloqui su dazi con Usa in Corea del Sud",
+      "source": "AGI",
+      "summary": "He Lifeng incontra funzionari Usa martedì e mercoledì per consultazioni commerciali prima del vertice Xi-Trump. Annuncio ministeriale cinese mira a risolvere dispute economiche, influenzando mercati globali e tariffe.",
+      "link": "https://www.agi.it/economia/news/2026-05-11/dazi-colloqui-usa-cina-36991576/",
+      "publishedAt": "2026-05-11T08:31:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Accordo Ue-Mercosur entra in vigore provvisorio aumentando esportazioni del 39%",
+      "source": "Euronews Italiano",
+      "summary": "L'accordo di libero scambio Ue con Sud America attiva a maggio prevede crescita esportazioni Ue del 39% entro 2040. Rafforza legami economici tra Europa e Mercosur, favorendo commercio e competitività.",
+      "link": "http://it.euronews.com/my-europe/2026/05/11/mercosur-in-che-modo-leuropa-e-il-sud-america-stanno-approfondendo-i-loro-legami-economici",
+      "publishedAt": "2026-05-11T08:07:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ministro Difesa lettone si dimette dopo incursioni droni su impianti petroliferi",
+      "source": "Euronews Italiano",
+      "summary": "Il ministro dimissiona per droni russi e ucraini precipitati in Baltici dal 2022. Incursioni colpiscono Estonia Lettonia Lituania; decisione evidenzia vulnerabilità sicurezza regionale post-invasione Ucraina.",
+      "link": "http://it.euronews.com/my-europe/2026/05/11/il-ministro-della-difesa-lettone-si-dimette-in-seguito-alle-recenti-incursioni-di-droni-ch",
+      "publishedAt": "2026-05-11T08:04:41.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Hantavirus su nave Hondius registra nuovo positivo Usa e donna francese grave",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Un cittadino Usa positivo con sintomi lievi, donna francese grave, contatti mappati; italiani bene. Nave arrivata Tenerife; ricercatore nota progressi vaccino ma ostacoli persistono.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/hantavirus-ultime-notizie-americano-positivo_111954620-202602k.shtml",
+      "publishedAt": "2026-05-11T08:53:14.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Nuovo caso positivo Usa con sintomi lievi donna francese grave contatti mappati italiani negativi",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Segnala positivo Usa donna grave italiani bene contatti tracciati",
+          "link": "https://www.tgcom24.mediaset.it/mondo/hantavirus-ultime-notizie-americano-positivo_111954620-202602k.shtml"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Rilancia ricerca vaccino con dati promettenti ostacoli dopo focolaio nave",
+          "link": "https://www.ilsole24ore.com/art/hantavirus-progressi-e-sfide-sviluppo-vaccino-dati-promettenti-ma-restano-ostacoli-AIVof9zC"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 194,
+    "articlesAfterDedup": 193,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 11,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 0.9,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 1,
+      "economy": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "middle-east": 1,
+      "africa": 1,
+      "europe": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

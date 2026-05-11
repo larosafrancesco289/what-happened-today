@@ -1,0 +1,247 @@
+{
+  "date": "2026-05-11",
+  "summary": "U.S. President Trump rejected Iran's counterproposal to a U.S. ceasefire offer as totally unacceptable. Iran sought a 30-day extension, reopening of the Strait of Hormuz, lifting of the blockade, recognition of sovereignty, and war compensation. Brent crude prices rose in global oil markets. Negotiations remain deadlocked, prolonging the war with Iran and associated economic strain.\n\nIn Lebanon, an Israeli strike killed eight members of one family, including a 6-month-old infant, since escalation began Thursday and unraveled a Hezbollah truce. Lebanese casualties have risen; further Israeli strikes are likely. In the West Bank, Israeli settlers forced a Palestinian family to exhume and rebury Hussein Asasa's body in the Jenin area shortly after burial. The UN called the action dehumanizing. Russian forces advanced inches in eastern Ukraine as Ukrainian drones limited gains. Ukrainian defenses hold; Russia is seeking countermeasures. German Defense Minister Boris Pistorius visited Kyiv unannounced to discuss new weapons systems with Ukraine.\n\nIndia's Ministry of Rural Development repealed the MGNREGA rural jobs scheme and introduced the VB-G RAM G Act effective July 1 for worker transition. The change affects millions of rural laborers with no planned disruptions. In the U.S., the National Weather Service issued heat advisories for California and Arizona where temperatures reached 40-43C in Palm Springs; similar heat affects the U.S. West and Mexico while South Africa faces deadly floods. Kenya and France signed 11 cooperation agreements after talks in Nairobi between Presidents Ruto and Macron. Malaysia's Prime Minister Anwar is debating fuel subsidy cuts targeting wealthier drivers amid Middle East energy pressures. Myanmar's military complained of pariah status in ASEAN since the 2021 coup, which led to its exclusion from summits.\n\"}",
+  "headlines": [
+    {
+      "title": "Trump Rejects Iran's Response to U.S. Ceasefire Proposal as Totally Unacceptable",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "The Hindu",
+        "Al Jazeera English",
+        "BBC World",
+        "NPR News"
+      ],
+      "summary": "U.S. President Trump dismisses Iran's counterproposal for a 30-day ceasefire extension and Strait of Hormuz reopening, citing its demands for blockade lift, sovereignty recognition, and war compensation. Affected parties include global oil markets with rising Brent crude; negotiations deadlocked, prolonging Iran war and economic strain.",
+      "link": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
+      "publishedAt": "2026-05-11T00:48:30.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump publicly deems Iran's mediated response unacceptable amid specific counter-demands",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Details U.S.-Iran discussions on 30-day ceasefire and Strait of Hormuz reopening",
+          "link": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Combines Trump rejection with South Korea condemning cargo ship attack",
+          "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Highlights Brent crude price rise amid Trump-Tehran clash on day 73 of war",
+          "link": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Outlines Iran's demands for naval blockade lift and Hormuz sovereignty",
+          "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Notes Iran delivered response via Pakistani mediators on Sunday",
+          "link": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Strike Kills Eight Members of One Lebanese Family Including Infant",
+      "source": "New York Times World",
+      "summary": "Israel escalates attacks on Lebanon since Thursday, killing eight from one family, including a 6-month-old, unraveling Hezbollah truce. Lebanese mourn amid rising casualties; further strikes likely, heightening regional war risks beyond Iran conflict.",
+      "link": "https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html",
+      "publishedAt": "2026-05-10T19:46:41.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "New strike targets family, killing eight including infant amid truce unraveling",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Russian Forces Advance Slowly in Eastern Ukraine Due to Pervasive Drones",
+      "source": "New York Times World",
+      "summary": "Putin's military struggles for major gains in eastern Ukraine as drones dominate battlefield, limiting advances to inches. Ukrainian defenses hold; Russia seeks solutions, impacting war duration and Western aid strategies.",
+      "link": "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html",
+      "publishedAt": "2026-05-10T10:59:47.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Indian Government Repeals MGNREGA, Enforces VB-G RAM G Act from July 1",
+      "source": "The Hindu",
+      "summary": "Ministry of Rural Development repeals MGNREGA rural jobs scheme, introduces VB-G RAM G Act for seamless worker transition. Affects millions of rural laborers; ensures no disruptions, reshaping India's employment guarantee framework.",
+      "link": "https://www.thehindu.com/news/national/vb-g-ram-g-act-to-come-into-force-from-july-1-mgnrega-to-be-repealed-says-government/article70964935.ece",
+      "publishedAt": "2026-05-11T08:43:37.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "German Defense Minister Pistorius Arrives in Kyiv to Discuss New Weapons",
+      "source": "Deutsche Welle",
+      "summary": "Pistorius makes unannounced Kyiv visit to plan weapons system with Ukraine amid ongoing war. Affects European support; trials of pro-Palestinian activists in Germany coincide, signaling NATO commitment evolution.",
+      "link": "https://www.dw.com/en/germany-news-defense-minister-pistorius-arrives-in-kyiv/live-77114178?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-05-11T05:57:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Settlers Force Palestinian Family to Exhume Father's Body in West Bank",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "NPR News"
+      ],
+      "summary": "Settlers compel relatives to dig up and rebury Hussein Asasa's body shortly after burial in Jenin area. UN condemns as dehumanizing; escalates West Bank tensions, prompting human rights scrutiny and potential interventions.",
+      "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-10T19:56:45.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Cites UN condemnation as emblematic of Palestinian dehumanization",
+          "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Relatives describe forced exhumation and reburial process in Jenin",
+          "link": "https://www.npr.org/2026/05/10/nx-s1-5817496/israeli-settlers-palestinian-exhume-grave-west-bank-jenin"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. National Weather Service Issues Heat Advisories for California, Arizona",
+      "source": "The Guardian",
+      "summary": "Temperatures hit 40-43C in Palm Springs amid heatwave across U.S. West, Mexico; South Africa endures deadly floods. Affects millions with advisories; intensifying conditions strain health systems and agriculture.",
+      "link": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
+      "publishedAt": "2026-05-11T08:18:29.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Kenya and France Sign 11 Agreements to Deepen Strategic Cooperation",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica",
+        "France 24"
+      ],
+      "summary": "Presidents Ruto and Macron ink 11 deals post-bilateral talks in Nairobi for Africa Forward Summit. Boosts sectors amid France's Africa pivot; advances partnerships, countering post-colonial critiques.",
+      "link": "https://allafrica.com/stories/202605110100.html",
+      "publishedAt": "2026-05-11T06:19:42.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "AllAfrica",
+          "angle": "Emphasizes 11 agreements across strategic sectors after Ruto-Macron talks",
+          "link": "https://allafrica.com/stories/202605110100.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Frames Macron's visit promoting new partnership over influence at summit",
+          "link": "https://www.france24.com/en/africa/20260511-macron-opens-africa-summit-in-kenya-with-push-for-new-france-africa-partnership"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Malaysia Debates Fuel Subsidy Cuts Targeting Wealthier Drivers amid Energy Shock",
+      "source": "South China Morning Post",
+      "summary": "PM Anwar seeks to end subsidies for rich without burdening squeezed households, strained by Middle East crisis. Affects car-dependent voters; balances fiscal needs against political risks in reforms.",
+      "link": "https://www.scmp.com/week-asia/economics/article/3353139/malaysias-fuel-subsidy-headache-leaves-anwar-scrambling-solution?utm_source=rss_feed",
+      "publishedAt": "2026-05-11T08:35:35.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Myanmar Military Complains of Pariah Status in ASEAN since 2021 Coup",
+      "source": "Japan Times",
+      "summary": "Myanmar protests exclusion from ASEAN summits post-2021 coup by 11-nation bloc. Affects junta legitimacy; highlights ongoing isolation, influencing regional diplomacy and Myanmar crisis resolution.",
+      "link": "https://www.japantimes.co.jp/news/2026/05/11/asia-pacific/politics/myanmar-pariah-asean-bloc/",
+      "publishedAt": "2026-05-11T07:17:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 388,
+    "articlesAfterDedup": 387,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 21.9,
+    "categoryCounts": {
+      "politics": 5,
+      "conflict": 2,
+      "society": 1,
+      "environment": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 2,
+      "asia-pacific": 3,
+      "americas": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "developing": 2,
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

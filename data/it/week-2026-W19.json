@@ -1,0 +1,95 @@
+{
+  "weekId": "2026-W19",
+  "startDate": "2026-05-04",
+  "endDate": "2026-05-10",
+  "summary": "Briefing settimanale: 4-10 maggio 2026\n\nLe tensioni nel Medio Oriente hanno dominato la settimana, con lo sviluppo del Project Freedom lanciato dal presidente USA Donald Trump il 4 maggio. L'operazione ha coinvolto 100 aerei e 15.000 uomini nello Stretto di Hormuz. L'8 maggio, il comando USA ha sferrato raid su installazioni militari iraniane nella stessa area, seguiti il 10 maggio da avvertimenti dei Pasdaran iraniani di rappresaglie su basi americane. Questa sequenza indica un'escalation persistente, senza risoluzioni immediate.\n\nSul fronte ucraino, il 8 maggio il presidente Volodymyr Zelensky ha denunciato 140 attacchi russi con 850 droni nella notte, segnalando un'intensificazione del conflitto. Il 10 maggio, Vladimir Putin ha annunciato la fine del conflitto e proposto Gerhard Schroeder come negoziatore, aprendo a potenziali sviluppi diplomatici.\n\nAltre notizie significative includono la decisione di una corte USA l'8 maggio che ha dichiarato illegali i dazi globali al 10% imposti da Trump, risolvendo parzialmente la controversia commerciale. In Italia, il 10 maggio la premier Giorgia Meloni ha risposto a interrogazioni al Senato su fisco, lavoro e Medio Oriente, affrontando questioni interne e internazionali.\n\nStorie persistenti: il Project Freedom si è evoluto da annuncio a raid e minacce; il conflitto ucraino da attacchi massicci a proposta di negoziato. Queste hanno mantenuto rilevanza per più giorni.\n\nStorie svanite rapidamente (apparse un solo giorno): il 4 maggio, rivelazioni di intelligence occidentali su bunker e controlli stretti intorno a Putin per timore di attentati; dichiarazione di Mark Rutte che gli europei hanno recepito il messaggio USA nonostante delusione sull'Iran; uscita di Marianna Madia dal PD per unirsi a Italia Viva; oscillazioni dei prezzi del petrolio dopo l'annuncio di Project Freedom. Queste non hanno avuto sviluppi successivi, indicando scarso impatto duraturo.\n\nIn sintesi, la settimana ha visto escalation militari USA-Iran e un possibile turning point in Ucraina, con risoluzioni limitate solo sui dazi. (Parole: 348)",
+  "persistentStories": [],
+  "fadedStories": [
+    "Donald Trump lancia Project Freedom con cento aerei e quindicimila uomini a Hormuz",
+    "Intelligence occidentali rivelano bunker e controlli stretti su Putin per timore attentati",
+    "Mark Rutte afferma che europei recepito messaggio Usa nonostante delusione su Iran",
+    "Marianna Madia lascia Partito democratico per unirsi a Italia Viva",
+    "Prezzi petrolio oscillano dopo annuncio operazione Project Freedom",
+    "Marina italiana appronta cacciamine e fregata per bonifica Stretto di Hormuz",
+    "Amsterdam vieta pubblicità carne e prodotti combustibili fossili",
+    "Comando USA sferra raid su installazioni militari iraniane nello Stretto di Hormuz",
+    "Corte USA dichiara illegali dazi globali al 10% imposti da Trump",
+    "Zelensky denuncia 140 attacchi russi con 850 droni nella notte"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-05-04",
+      "title": "Donald Trump lancia Project Freedom con cento aerei e quindicimila uomini a Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-05-04",
+      "title": "Intelligence occidentali rivelano bunker e controlli stretti su Putin per timore attentati",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-04",
+      "title": "Mark Rutte afferma che europei recepito messaggio Usa nonostante delusione su Iran",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Comando USA sferra raid su installazioni militari iraniane nello Stretto di Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Corte USA dichiara illegali dazi globali al 10% imposti da Trump",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Zelensky denuncia 140 attacchi russi con 850 droni nella notte",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "Pasdaran iraniani avvertono Washington di rappresaglie su basi USA",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "Putin annuncia fine conflitto ucraino e propone Schroeder come negoziatore",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "Giorgia Meloni risponde interrogazioni al Senato su fisco lavoro e Medio Oriente",
+      "category": "politics",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 582,
+    "totalSourcesUsed": 7,
+    "daysWithData": 3,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 8,
+      "economy": 3,
+      "environment": 3,
+      "society": 1,
+      "science": 2
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "europe": 11,
+      "global": 4,
+      "americas": 1,
+      "asia-pacific": 1
+    }
+  }
+}

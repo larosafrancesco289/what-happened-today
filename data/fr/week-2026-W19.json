@@ -1,0 +1,132 @@
+{
+  "weekId": "2026-W19",
+  "startDate": "2026-05-04",
+  "endDate": "2026-05-10",
+  "summary": "Du 4 au 10 mai 2026, l'actualité internationale a été marquée par des tensions persistantes au détroit d'Ormuz et en Ukraine, tandis que d'autres événements ont émergé de manière isolée.\n\nLes tensions au détroit d'Ormuz ont dominé la semaine. Le 4 mai, Donald Trump a annoncé l'opération Project Freedom pour débloquer les navires bloqués, et Emmanuel Macron a appelé à une réouverture concertée avec l'Iran et les États-Unis. Ces annonces n'ont pas fait long feu, disparaissant rapidement des gros titres. Le 8 mai, les Émirats arabes unis ont activé leur défense aérienne contre des missiles et drones iraniens. Le 10 mai, l'Iran a menacé de riposter contre des sites américains après des attaques américaines sur deux pétroliers, signalant une escalade persistante malgré les initiatives initiales.\n\nEn Ukraine, la Russie a multiplié les attaques massives de drones jour et nuit le 4 mai, un événement qui s'est rapidement estompé. Le 8 mai, Volodymyr Zelensky a accusé la Russie de ne pas respecter sa trêve unilatérale pendant vingt-quatre heures. Le 10 mai, Vladimir Poutine a affirmé que la guerre touchait à sa fin, accusant l'Occident de soutenir Kiev, indiquant un développement diplomatique sans résolution claire.\n\nAux États-Unis, le Tribunal de commerce international a invalidé le 8 mai les droits de douane de 10 % imposés par Trump, une décision significative qui pourrait influencer le commerce mondial. L'administration républicaine a remis en cause le 5 mai le déploiement de missiles longue portée en Allemagne.\n\nEn Europe, le rapport Alloncle du 5 mai propose la fusion de France 2 et France 5 avec une réduction du budget des sports audiovisuels. Christophe Gleizes a renoncé le même jour à un pourvoi en cassation contre l'Algérie, évoquant une possible grâce présidentielle. En Hongrie, Peter Magyar s'est investi le 9 mai comme Premier ministre après Viktor Orban.\n\nEn Afrique, la junte militaire du Niger a suspendu dix médias français le 9 mai pour motifs d'ordre public. Au Mali, la population a crié famine le 9 mai sous le blocus jihadiste du JNIM. Le 10 mai, le navire MV Hondius est arrivé au port de Granadilla aux Canaries pour le débarquement de passagers atteints de hantavirus.\n\nParmi les histoires éphémères figurent un tanker touché par des projectiles inconnus près des Émirats le 4 mai et la pression accrue de Trump sur le président libanais lors d'un sommet avec Netanyahou. Ces événements n'ont pas persisté, contrastant avec les développements continus à Ormuz et en Ukraine.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Donald Trump annonce opération Project Freedom déblocage navires détroit Ormuz",
+    "Emmanuel Macron appelle réouverture concertée détroit Ormuz Iran États-Unis",
+    "Russie multiplie attaques massives drones Ukraine jour et nuit",
+    "Tanker touché projectiles inconnus détroit Ormuz large Émirats arabes unis",
+    "Donald Trump accentue pression président libanais sommet Netanyahou",
+    "Jean-Luc Mélenchon annonce candidature élection présidentielle quatrième fois",
+    "Inflation zone euro atteint 3 pour cent avril propage tous secteurs",
+    "Émilie K revenante État islamique rejugée Paris après condamnation défaut",
+    "OMS MSF CICR dénoncent généralisation attaques services santé conflits",
+    "Administration républicaine américaine remet en cause déploiement missiles longue portée Allemagne"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-05-04",
+      "title": "Donald Trump annonce opération Project Freedom déblocage navires détroit Ormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-05-04",
+      "title": "Emmanuel Macron appelle réouverture concertée détroit Ormuz Iran États-Unis",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-05-04",
+      "title": "Russie multiplie attaques massives drones Ukraine jour et nuit",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-05",
+      "title": "Administration républicaine américaine remet en cause déploiement missiles longue portée Allemagne",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-05",
+      "title": "Rapport Alloncle propose fusion France 2 et France 5 réduction budget sports audiovisuel",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-05",
+      "title": "Christophe Gleizes renonce pourvoi cassation Algérie pour possible grâce présidentielle",
+      "category": "politics",
+      "region": "africa"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Volodymyr Zelensky accuse la Russie de ne pas respecter sa trêve unilatérale pendant vingt-quatre heures",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Les Émirats arabes unis activent leur défense aérienne contre des missiles et drones iraniens",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Le Tribunal de commerce international américain invalide les droits de douane de 10 pour cent de Trump",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "Junte militaire du Niger suspend dix médias français pour ordre public",
+      "category": "politics",
+      "region": "africa"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "Peter Magyar s'investit Premier ministre de Hongrie après Orban",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "Population malienne crie famine sous blocus jihadiste du Jnim",
+      "category": "society",
+      "region": "africa"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "Iran menace riposte contre sites américains après attaques États-Unis sur deux pétroliers",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "Navire MV Hondius arrive port Granadilla Canaries pour débarquement passagers hantavirus",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "Vladimir Poutine affirme guerre Ukraine touche fin accuse Occident soutien Kiev",
+      "category": "politics",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1037,
+    "totalSourcesUsed": 11,
+    "daysWithData": 5,
+    "categoryCounts": {
+      "conflict": 14,
+      "politics": 20,
+      "economy": 6,
+      "society": 5,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 12,
+      "europe": 17,
+      "global": 3,
+      "africa": 8,
+      "americas": 4,
+      "asia-pacific": 3
+    }
+  }
+}

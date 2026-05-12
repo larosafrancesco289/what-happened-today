@@ -1,0 +1,185 @@
+{
+  "date": "2026-05-12",
+  "summary": "La Russie a lancé plus de 200 drones sur l'Ukraine et effectué une attaque aérienne sur Kiev immédiatement après l'expiration d'une trêve de trois jours, tuant au moins un civil. Volodymyr Zelensky a accusé Moscou de rompre le silence. Cette action suit les captures de plus de 16 000 civils ukrainiens par la Russie depuis 2022 et le rapatriement par l'Ukraine de plus de 20 000 enfants déportés. Les hostilités affectent la sécurité en Europe, avec une escalade attendue des frappes aériennes.\n\nLa guerre au Moyen-Orient fragilise l'accord de 1974 entre l'Arabie saoudite et les États-Unis, qui prévoit la vente de pétrole en dollars contre protection militaire. Le blocage du détroit d'Ormuz et le rôle croissant de la Chine menacent la stabilité des marchés énergétiques mondiaux. Donald Trump a qualifié le cessez-le-feu impliquant l'Iran, les États-Unis, Israël et le Liban de fragile. Un nouveau rapport, basé sur 400 témoignages et experts, documente des violences sexuelles systématiques commises par le Hamas le 7 octobre 2023 et contre des otages à Gaza. Cela fait suite aux sanctions de l'Union européenne contre 12 responsables du Hamas.\n\nL'Union européenne a rétabli son accord de coopération avec la Syrie, suspendu dix ans, après la levée de sanctions contre le régime Assad en 2025. Les nouvelles autorités syriennes islamistes mènent des réformes orientées vers l'Occident, avec un accent sur les droits humains. Au sommet Africa Forward au Kenya, Emmanuel Macron, William Ruto, Évariste Ndayishimiye et António Guterres ont ouvert la session plénière sur les partenariats franco-africains en développement. En France, le parquet a requis la condamnation de Nicolas Sarkozy pour association de malfaiteurs dans le procès sur le financement libyen de sa campagne de 2007, avec audience le 11 mai. Un Tunisien a été arrêté pour un projet d'attaque jihadiste contre le Louvre et la communauté juive parisienne. Des chercheurs de l'Imperial College London prédisent des risques accrus d'incendies en Europe début 2026, liés au changement climatique et à El Niño. Cela suit le réchauffement deux fois plus rapide de l'Europe que la moyenne mondiale.",
+  "headlines": [
+    {
+      "title": "Russie lance plus de 200 drones sur Ukraine après expiration trêve trois jours",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "20 Minutes",
+        "RFI"
+      ],
+      "summary": "La Russie a lancé plus de 200 drones sur l'Ukraine et mené une attaque aérienne sur Kiev sitôt la trêve de trois jours expirée, tuant au moins un civil. Volodymyr Zelensky accuse Moscou de rompre le silence. Cela marque une escalade des hostilités affectant la sécurité européenne.",
+      "link": "https://www.lemonde.fr/international/live/2026/05/12/en-direct-guerre-en-ukraine-174-combats-entre-russes-et-ukrainiens-lundi-au-troisieme-jour-du-cessez-le-feu-selon-l-armee-ukrainienne_6687661_3210.html",
+      "publishedAt": "2026-05-12T05:30:48.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Ouvre avec attaque aérienne sur Kiev et 200 drones russes lancés après expiration trêve",
+          "link": "https://www.20minutes.fr/monde/ukraine/4223070-20260512-direct-guerre-ukraine-attaque-aerienne-kiev-aussitot-treve-expiree?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Met en avant accusation Zelensky contre Russie pour plus de 200 drones après trêve violée mutuellement",
+          "link": "https://www.lemonde.fr/international/live/2026/05/12/en-direct-guerre-en-ukraine-174-combats-entre-russes-et-ukrainiens-lundi-au-troisieme-jour-du-cessez-le-feu-selon-l-armee-ukrainienne_6687661_3210.html"
+        },
+        {
+          "source": "RFI",
+          "angle": "Signale reprise frappes Kiev-Moscou avec au moins un civil tué après expiration trêve",
+          "link": "https://www.rfi.fr/fr/europe/20260512-kiev-et-moscou-reprennent-les-frappes-apr%C3%A8s-l-expiration-de-la-tr%C3%AAve-au-moins-un-civil-tu%C3%A9"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Guerre Moyen-Orient fragilise système pétrodollars Arabie saoudite-États-Unis",
+      "source": "Le Monde",
+      "summary": "La guerre au Moyen-Orient, avec blocage détroit d'Ormuz et rôle croissant Chine, ébranle accord 1974 liant Arabie saoudite aux États-Unis pour vente pétrole en dollars contre protection militaire. Cela menace stabilité marchés énergétiques mondiaux.",
+      "link": "https://www.lemonde.fr/economie/article/2026/05/12/la-guerre-au-moyen-orient-ebranle-le-systeme-des-petrodollars-qui-lie-l-arabie-saoudite-aux-etats-unis_6688216_3234.html",
+      "publishedAt": "2026-05-12T08:00:07.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Nouveau rapport documente violences sexuelles systématiques Hamas lors 7-Octobre",
+      "source": "Le Monde",
+      "summary": "Enquête auprès 400 témoins et experts confirme violences sexuelles délibérées par Hamas le 7 octobre 2023 et contre otages Gaza. Ce rapport complet corrobore exactions passées et éclaire ampleur crimes commis par mouvement islamiste.",
+      "link": "https://www.lemonde.fr/international/article/2026/05/12/7-octobre-un-nouveau-rapport-documente-l-ampleur-des-violences-sexuelles-commises-par-le-hamas_6688209_3210.html",
+      "publishedAt": "2026-05-12T07:22:04.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Union européenne rétablit accord coopération Syrie après levée sanctions 2025",
+      "source": "RFI",
+      "summary": "Bruxelles rétablit accord suspendu dix ans avec Damas suite levée sanctions contre régime Assad. Nouvelles autorités islamistes multiplient réformes pour Occident. Cela ouvre page relations UE-Syrie axée droits humains.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260512-syrie-l-union-europ%C3%A9enne-r%C3%A9tablit-son-accord-de-coop%C3%A9ration-avec-damas-apr%C3%A8s-la-lev%C3%A9e-des-sanctions",
+      "publishedAt": "2026-05-12T07:46:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Parquet général requiert condamnation Nicolas Sarkozy procès libyen appel",
+      "source": "Liberation",
+      "summary": "Au procès financement libyen campagne 2007, parquet dénonce association malfaiteurs niveau inégalé et demande condamnation ex-président. Audience réquisitoire lundi 11 mai. Cela prolonge contentieux judiciaire Sarkozy.",
+      "link": "https://www.liberation.fr/societe/police-justice/au-proces-libyen-en-appel-de-nicolas-sarkozy-le-parquet-general-denonce-une-association-de-malfaiteurs-dun-niveau-operationnel-inegale-20260512_NSQSBFADT5FVRHKOIOPHL5GTYI/",
+      "publishedAt": "2026-05-12T07:31:06.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Police interpelle Tunisien France pour projet attaque jihadiste musée parisien",
+      "source": "Liberation",
+      "summary": "Un Tunisien arrêté soupçonné préparer attaque inspiration jihadiste contre Louvre et communauté juive parisienne. Source proche dossier confirme cible. Cela renforce vigilance antiterroriste en France.",
+      "link": "https://www.liberation.fr/societe/police-justice/un-tunisien-interpelle-en-france-soupconne-de-fomenter-un-projet-dattaque-dinspiration-jihadiste-20260511_WM6HKLUHDRH3FBCI5RP5AMESZA/",
+      "publishedAt": "2026-05-12T07:29:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Chercheurs prédisent année 2026 particulièrement grave incendies en Europe",
+      "source": "20 Minutes",
+      "summary": "Indicateurs début 2026 défavorables signalent risques accrus incendies selon Imperial College Londres. Changement climatique et El Niño expliquent hausse. Cela impacte sécurité populations et écosystèmes européens.",
+      "link": "https://www.20minutes.fr/monde/4223077-20260512-climat-chercheurs-attendent-annee-particulierement-grave-front-incendies?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-05-12T07:17:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump qualifie cessez-le-feu Moyen-Orient sous assistance respiratoire",
+      "source": "20 Minutes",
+      "summary": "Dans direct guerre Moyen-Orient, Trump décrit cessez-le-feu Iran-États-Unis-Israël-Liban fragile. Suivi informations quotidiennes conflit. Cela souligne tensions persistantes région impactant stabilité globale.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4223066-20260512-direct-guerre-moyen-orient-selon-trump-cessez-feu-sous-assistance-respiratoire?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-05-12T04:01:18.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Sommet Africa Forward ouvre session plénière avec Macron Ruto Guterres",
+      "source": "France 24",
+      "summary": "Deuxième jour sommet Kenya réunit William Ruto Évariste Ndayishimiye António Guterres et Emmanuel Macron. Discours plénière ouverture. Cela vise renforcer partenariats franco-africains sur développement.",
+      "link": "https://www.france24.com/fr/afrique/20260512-kenya-africa-forward-suivez-le-deuxi%C3%A8me-jour-du-sommet-franco-africain",
+      "publishedAt": "2026-05-12T07:20:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 206,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 4.4,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 4,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 5,
+      "middle-east": 3,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

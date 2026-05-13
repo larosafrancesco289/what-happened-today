@@ -1,0 +1,203 @@
+{
+  "date": "2026-05-13",
+  "summary": "A Nigerian military airstrike targeted Tumfa market in Zurmi local government area, Zamfara State, killing 117 people including bandits and civilians while injuring others. The strike occurred during counter-banditry operations in northwest Nigeria, where insecurity affects residents. Investigations are expected.\n\nThe UN stated Sudan's war has entered a deadlier phase, with drone strikes, shelling, camp fires, and intercommunal violence killing hundreds in Khartoum, Omdurman, El Obeid, and El Goz. Millions of displaced people face a worsening crisis; a ceasefire was urged. This follows IDMC data showing 32.3 million conflict-induced internal displacements worldwide in 2025, a 60% increase from 2024 and exceeding disaster displacements for the first time since 2008, with total displaced at 82.2 million. In a separate development, Presidents Trump and Xi met in Beijing to discuss US arms sales to Taiwan, trade tariffs, and the Iran war.\n\nThe Congressional Budget Office estimated costs for Trump's Golden Dome missile defense program at $1.2 trillion through 2046, exceeding the initial $175 billion figure. Kenya's National Assembly Trade Committee launched a probe into 27,000 metric tonnes of imported sugar declared unfit for consumption that went missing. Bahamians voted in a general election with a three-way contest, record turnout, and issues including immigration from Haiti and high gas prices affecting 400,000 residents. New South Wales Premier Chris Minns rejected an inquiry report finding the government unlawfully redirected $37 million in public funds for grants, stating witnesses lied. UK Prime Minister Keir Starmer obtained a temporary reprieve from over 70 Labour calls for a leadership challenge timetable.\"}",
+  "headlines": [
+    {
+      "title": "Military airstrike kills 117 people at Tumfa market in Nigeria's Zamfara State",
+      "source": "AllAfrica",
+      "summary": "Military airstrike targets Tumfa market in Zurmi LGA, Zamfara State, killing 117 including bandits and civilians while injuring others. Residents affected amid counter-banditry operations. Highlights risks to civilians in northwest Nigeria's insecurity; investigations likely follow.",
+      "link": "https://allafrica.com/stories/202605130011.html",
+      "publishedAt": "2026-05-13T05:08:56.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "UN warns Sudan war enters deadlier phase as drone strikes kill hundreds across regions",
+      "source": "AllAfrica",
+      "summary": "UN highlights drone warfare, shelling, camp fires, intercommunal violence pushing Sudan toward bloodier conflict in Khartoum, Omdurman, El Obeid, El Goz. Millions displaced suffer worsening crisis. Matters for global humanitarian response; ceasefire urged.",
+      "link": "https://allafrica.com/stories/202605120696.html",
+      "publishedAt": "2026-05-12T20:51:13.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Trump meets Xi in Beijing to address Taiwan arms sales, tariffs, Iran war",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "New York Times World",
+        "Wall Street Journal World",
+        "BBC World",
+        "Deutsche Welle"
+      ],
+      "summary": "Presidents Trump and Xi hold summit in Beijing covering US arms to Taiwan, trade tariffs, Iran war. Impacts global economy, alliances, security. Potential deals could stabilize or intensify US-China rivalry for readers worldwide.",
+      "link": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
+      "publishedAt": "2026-05-13T07:08:18.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Highlights Xi poised to press Trump on slowing arms sales to Taiwan",
+          "link": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Outlines summit issues of Taiwan arms sales, tariffs, and Iran war",
+          "link": "https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit?traffic_source=rss"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Details respective goals of Trump and Xi at high-stakes Beijing summit",
+          "link": "https://www.wsj.com/world/china/trump-xi-china-meeting-5863a949"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Contrasts China's assertive power today with position decade ago",
+          "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Covers Trump urging Xi to open China on trade, Taiwan, Iran",
+          "link": "https://www.dw.com/en/trump-xi-summit-trump-to-ask-xi-to-open-up-china/live-77140304?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Conflicts drive record 32.3 million internal displacements worldwide in 2025",
+      "source": "The Guardian",
+      "summary": "IDMC reports 32.3m conflict or violence-induced internal displacements in 2025, up 60% year-on-year, exceeding disaster figure first time since 2008; total displaced 82.2m. Affects vulnerable populations globally; demands stronger international aid.",
+      "link": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
+      "publishedAt": "2026-05-12T08:01:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Congressional Budget Office estimates Trump Golden Dome costs $1.2 trillion over 20 years",
+      "source": "NPR News",
+      "summary": "CBO analysis shows Trump's Golden Dome missile defense program costs $1.2T through 2046, exceeding initial $175B estimate. Strains US federal budget, defense spending. Congress faces decisions on funding amid fiscal pressures.",
+      "link": "https://www.npr.org/2026/05/13/g-s1-121780/trumps-golden-dome-cost",
+      "publishedAt": "2026-05-13T06:50:31.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "National Assembly launches probe into 27,000 tonnes missing unfit sugar in Kenya",
+      "source": "AllAfrica",
+      "summary": "Kenya's Trade Committee investigates handling of 27,000 metric tonnes imported sugar declared unfit for consumption. Public health and importers affected. Exposes potential corruption; findings to inform regulations and accountability.",
+      "link": "https://allafrica.com/stories/202605130074.html",
+      "publishedAt": "2026-05-13T06:45:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Bahamians vote in general election featuring immigration and cost-of-living concerns",
+      "source": "The Guardian",
+      "summary": "Bahamas holds election with three-way contest, record voters; immigration from Haiti, high gas prices key issues. Impacts 400,000 residents' governance. Winner shapes migration policy amid regional tensions.",
+      "link": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
+      "publishedAt": "2026-05-12T09:00:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "NSW Premier Chris Minns rejects report on $37 million grants scheme redirection",
+      "source": "ABC Australia",
+      "summary": "Premier Minns denounces inquiry finding government unlawfully redirected $37m public funds for grants, claims witnesses lied. Affects NSW taxpayers, political trust. Could prompt legal challenges or reforms.",
+      "link": "https://www.abc.net.au/news/2026-05-13/chris-minns-public-accountability-committee-report/106675206",
+      "publishedAt": "2026-05-13T08:00:42.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "UK Prime Minister Keir Starmer staves off rivals' resignation challenge",
+      "source": "New York Times World",
+      "summary": "Starmer secures temporary reprieve by daring rivals to challenge him despite 70+ Labour calls yesterday for timetable. Leadership issues persist. Threatens UK government stability; further party infighting expected.",
+      "link": "https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html",
+      "publishedAt": "2026-05-12T21:14:08.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Starmer dares rivals to challenge, wins reprieve Tuesday but underlying leadership problems remain",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 423,
+    "articlesAfterDedup": 417,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 24.5,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 5,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "africa": 3,
+      "asia-pacific": 1,
+      "global": 2,
+      "americas": 2,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

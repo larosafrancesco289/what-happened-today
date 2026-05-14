@@ -1,0 +1,221 @@
+{
+  "date": "2026-05-14",
+  "summary": "Russia launched drones and ballistic missiles at Kyiv, killing one person and injuring 31 across six districts. Damage affected residential areas and infrastructure in the Ukrainian capital. Ukrainian authorities reported the strikes hit multiple sites, with air defenses intercepting some projectiles. Expected next are continued Russian attacks and increased Ukrainian calls for air defense aid.\n\nIn Beijing, Xi Jinping warned Donald Trump during two-hour summit talks that mishandling Taiwan creates risks, following yesterday's discussions on Taiwan arms sales, tariffs, and Iran war. The US Senate confirmed Kevin Warsh as Federal Reserve chair to replace Jerome Powell after Trump's nomination. Warsh's appointment affects interest rate decisions and inflation policies impacting global markets. Israeli air strikes in southern Lebanon killed 22 people including eight children, per the Lebanese health ministry. Strikes targeted border areas amid ongoing hostilities.\n\nA Ukrainian court ordered the arrest of President Zelenskyy's chief of staff Andriy Yermak on corruption charges after his 2025 resignation. Gulf countries arrested dozens of Shiite citizens accused of Iran-backed terrorism planning amid the US-Iran war. In DR Congo's Uvira, Rwanda-backed M23 rebels carried out killings, rapes, and abductions since December. US accusations of Mexican officials' long-term ties to Sinaloa cartel factions strain bilateral relations, as internal cartel violence rises with more deaths complicating anti-drug cooperation.",
+  "headlines": [
+    {
+      "title": "Russia launches drones and ballistic missiles at Kyiv, killing 1 and injuring 31",
+      "source": "NPR News",
+      "summary": "Russia conducts mass drone and missile strikes on Kyiv, killing one person and injuring 31 across six districts. Ukrainian capital residents suffer damage and casualties; underscores escalation in war affecting European security and aid needs.",
+      "link": "https://www.npr.org/2026/05/14/g-s1-121998/russia-hits-kyiv-with-drones-and-ballistic-missiles",
+      "publishedAt": "2026-05-14T05:21:16.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News",
+        "NPR"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Gulf countries arrest dozens of Shiite citizens for alleged Iran terror links",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "New York Times",
+        "Wall Street Journal"
+      ],
+      "summary": "Gulf states detain dozens accused of Iran-backed terrorism amid US-Iran war. Regional citizens face charges accelerating authoritarian measures; heightens Middle East instability impacting global oil supplies and alliances.",
+      "link": "https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html",
+      "publishedAt": "2026-05-13T08:55:35.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Dozens of citizens accused of Iran-linked cells as war drives authoritarian shift",
+          "link": "https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html"
+        },
+        {
+          "source": "Wall Street Journal",
+          "angle": "Governments announce successes against alleged Iranian sabotage networks post-US war",
+          "link": "https://www.wsj.com/world/middle-east/gulf-countries-tout-operations-targeting-alleged-iranian-sabotage-networks-064f485d"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "M23 rebels commit killings, rapes and abductions in DR Congo's Uvira",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "AllAfrica",
+        "BBC"
+      ],
+      "summary": "Rwanda-backed M23 fighters and troops perpetrate atrocities in captured Uvira since December. Congolese civilians endure trauma and displacement; worsens eastern DRC conflict drawing international human rights scrutiny.",
+      "link": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-14T05:09:04.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AllAfrica",
+          "angle": "HRW details M23 atrocities of killing, rape, abductions by Rwanda-backed group",
+          "link": "https://allafrica.com/stories/202605140055.html"
+        },
+        {
+          "source": "BBC",
+          "angle": "Eyewitnesses recount rebel and Rwandan troop atrocities in lakeside war city",
+          "link": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli strikes kill 22 including 8 children in southern Lebanon",
+      "source": "BBC World",
+      "summary": "Israeli air strikes target southern Lebanon, killing 22 per health ministry with eight children among dead. Lebanese border communities suffer losses; risks broader regional escalation amid ongoing hostilities.",
+      "link": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-13T21:14:45.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World",
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Senate confirms Kevin Warsh as Trump's Federal Reserve chair",
+      "source": "Deutsche Welle",
+      "summary": "US Senate approves Kevin Warsh to replace Jerome Powell as Fed chair after Trump's nomination. American economy faces policy shifts; influences interest rates and inflation control for global markets.",
+      "link": "https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-05-13T19:27:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Ukraine court orders arrest of Zelenskyy chief of staff Andriy Yermak",
+      "source": "Deutsche Welle",
+      "summary": "Court mandates arrest of president's ally Andriy Yermak amid corruption probe following his 2025 resignation. Ukrainian leadership faces internal scrutiny; impacts governance during wartime challenges.",
+      "link": "https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-05-14T06:52:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "US claims push Mexico-US relations to breaking point over cartel corruption",
+      "source": "The Guardian",
+      "summary": "Washington accuses Mexican officials of long-term cartel ties, with CIA operations reported inside Mexico. Bilateral relations strain under Trump pressure; threatens trade and security cooperation in North America.",
+      "link": "https://www.theguardian.com/world/2026/may/13/cartel-corruption-claims-push-us-mexico-relations-to-breaking-point",
+      "publishedAt": "2026-05-13T21:31:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sinaloa cartel factions wage civil war after El Chapo era",
+      "source": "Wall Street Journal World",
+      "summary": "US pursuit of corrupt Mexican officials aiding Sinaloa clan fuels internal cartel violence with rising deaths. Mexican communities endure bloodshed; complicates binational anti-drug efforts and migration.",
+      "link": "https://www.wsj.com/world/americas/el-chapo-sinaloa-cartel-civil-war-42fa0470",
+      "publishedAt": "2026-05-14T01:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World",
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Xi Jinping warns Trump on Taiwan at Beijing summit talks",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "Wall Street Journal",
+        "BBC",
+        "Deutsche Welle"
+      ],
+      "summary": "Chinese leader cautions mishandling Taiwan risks dangerous situation during two-hour meeting on trade and security. Global powers affected by rising tensions; shapes future US-China relations and Asia-Pacific stability.",
+      "link": "https://www.wsj.com/world/china/trump-and-xi-begin-superpowers-summit-on-trade-and-war-82bea6fc",
+      "publishedAt": "2026-05-14T07:52:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Xi raises Taiwan issue directly with Trump amid summit discussions on trade, tariffs and Iran",
+      "framings": [
+        {
+          "source": "Wall Street Journal",
+          "angle": "Xi’s Taiwan comment that mishandling leads to dangerous situation looms over summit",
+          "link": "https://www.wsj.com/world/china/trump-and-xi-begin-superpowers-summit-on-trade-and-war-82bea6fc"
+        },
+        {
+          "source": "BBC",
+          "angle": "Trade, Iran, Taiwan agenda as Trump seeks China market opening from Xi",
+          "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "State media reports Xi raises Taiwan question during high-stakes two-hour talks",
+          "link": "https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 423,
+    "articlesAfterDedup": 423,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 17,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 23.5,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 5
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 2,
+      "africa": 1,
+      "americas": 3,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

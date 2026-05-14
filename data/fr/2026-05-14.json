@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-14",
+  "summary": "La Russie a lancé plus de 1500 drones et 50 missiles contre l'Ukraine depuis le 13 mai, visant Kiev et les infrastructures. Une personne a été tuée et 36 blessées lors de la nuit du 13 au 14 mai. Ces attaques font suite à des trêves passées et compliquent les efforts diplomatiques en cours.\n\nUn navire a été arraisonné par des individus non identifiés au large des Émirats arabes unis et dirige vers les eaux iraniennes, selon l'agence de sécurité maritime britannique près du détroit d'Ormuz. Cela survient dans un contexte de tensions régionales impliquant l'Iran et ses alliés ; les acteurs maritimes surveillent les suites. Séparément, Israël a intensifié ses bombardements dans le sud du Liban, causant 22 morts selon le ministère de la Santé libanaise, malgré la trêve en vigueur. Des négociations directes entre Israël et le Liban s'ouvrent jeudi à Washington avant l'expiration du cessez-le-feu. Le Sénat américain a rejeté de justesse une résolution démocrate ordonnant le retrait des forces américaines d'Iran, maintenant ainsi la présence militaire des États-Unis malgré les limites constitutionnelles sur la guerre.\n\nXi Jinping a averti Donald Trump d'un risque de conflit sur Taïwan lors de leur entretien à Pékin, sur fond de désaccords commerciaux et au Moyen-Orient ; les deux leaders visent un partenariat. La marche des drapeaux nationaliste s'est tenue jeudi à Jérusalem, célébrant l'annexion de Jérusalem-Est au milieu d'expansions territoriales israéliennes récentes vers le Grand Jérusalem. L'ONU recense plus d'un demi-million de déplacés internes au Niger dus au terrorisme dans le sud, aggravant la crise sahélienne avec un besoin d'assistance humanitaire. Ottawa annonce un plan pour doubler la capacité de production d'électricité au Canada d'ici 2050. Statistique Canada rapporte que 120 000 Canadiens qualifiés ont émigré depuis 2019, une hausse de 34 % jusqu'en 2025.",
+  "headlines": [
+    {
+      "title": "Russie lance plus de 1500 drones et 50 missiles contre Ukraine causant une mort et 36 blessés",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France 24",
+        "RTBF"
+      ],
+      "summary": "La Russie a attaqué l'Ukraine depuis le 13 mai avec plus de 1500 drones et 50 missiles, visant Kiev et infrastructures. Une personne tuée et 36 blessées lors de la nuit du 13 au 14 mai. Cela aggrave les tensions malgré trêves passées et complique les efforts diplomatiques.",
+      "link": "https://www.rfi.fr/fr/europe/20260514-ukraine-nouvelle-attaque-russe-massive-kiev-et-ses-infrastructures-vis%C3%A9es",
+      "publishedAt": "2026-05-14T08:24:44.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Détaille ampleur inédite avec 1500 drones et 50 missiles depuis 13 mai matin",
+          "link": "https://www.rfi.fr/fr/europe/20260514-ukraine-nouvelle-attaque-russe-massive-kiev-et-ses-infrastructures-vis%C3%A9es"
+        },
+        {
+          "source": "France 24",
+          "angle": "Rapporte un mort et 31 blessés à Kiev par drones et missiles balistiques",
+          "link": "https://www.france24.com/fr/europe/20260514-ukraine-un-mort-et-31-bless%C3%A9s-dans-une-vaste-attaque-a%C3%A9rienne-russe-sur-kiev"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Indique plus de 650 drones et 56 missiles dans attaque nocturne sur Kiev",
+          "link": "https://www.rtbf.be/article/invasion-de-l-ukraine-un-mort-et-31-blesses-dans-une-vaste-attaque-nocturne-sur-kiev-11723976"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Individus non identifiés arraisonnent navire au large Émirats arabes unis vers eaux iraniennes",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Un navire a été arraisonné par personnel non autorisé près détroit d'Ormuz et dirige vers Iran, selon agence sécurité maritime britannique. Cela heightens tensions régionales impliquant Iran et alliés. Suites surveillées par acteurs maritimes.",
+      "link": "https://www.lefigaro.fr/international/en-direct-conflit-moyen-orient-guerre-iran-etats-unis-liban-israel-emirats-arabes-unis-qatar-cessez-le-feu-donald-trump-benyamin-netanyahou-20260514",
+      "publishedAt": "2026-05-14T08:19:31.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Annonce arraisonnement navire par non-identifiés près Émirats vers Iran",
+          "link": "https://www.lefigaro.fr/international/en-direct-conflit-moyen-orient-guerre-iran-etats-unis-liban-israel-emirats-arabes-unis-qatar-cessez-le-feu-donald-trump-benyamin-netanyahou-20260514"
+        },
+        {
+          "source": "France Info",
+          "angle": "Précise assaut par personnel non autorisé au large Émirats vers Iran",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-negociateurs-d-israel-et-du-liban-se-retrouvent-pour-une-nouvelle-session-de-pourparlers-a-washington_8003309.html#xtor=RSS-3-[lestitres}"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Sénat américain refuse ordonner retrait forces américaines d'Iran",
+      "source": "20 Minutes",
+      "summary": "Le Sénat américain rejette de justesse résolution démocrate pour retirer forces d'Iran, malgré Constitution limitant guerre au Congrès. Cela maintient présence militaire US. Opposition persiste.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4223523-20260514-etats-unis-senat-refuse-nouveau-justesse-ordonner-retrait-forces-americaines-iran?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-05-14T06:44:39.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Israël accentue bombardements sud Liban faisant 22 morts malgré trêve",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "20 Minutes",
+        "RTBF"
+      ],
+      "summary": "Israël intensifie frappes au Liban causant 22 morts selon santé libanaise, malgré trêve. Négociations directes Israël-Liban s'ouvrent jeudi à Washington avant expiration cessez-le-feu. Cela teste viabilité trêve régionale.",
+      "link": "https://www.lemonde.fr/international/live/2026/05/14/en-direct-guerre-au-moyen-orient-israel-accentue-ses-bombardements-sur-le-liban-faisant-plus-de-20-morts-alors-que-des-discussions-s-ouvrent-entre-les-deux-pays-a-washington_6688992_3210.html",
+      "publishedAt": "2026-05-14T05:55:57.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israël accentue bombardements faisant 22 morts au sud Liban ; négociations directes s'ouvrent Washington",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Xi Jinping avertit Donald Trump risque conflit Taïwan lors entretien Pékin",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info",
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "Xi Jinping reçoit Trump à Pékin et prévient conflit si question Taïwan mal traitée, sur fond désaccords commerciaux et Moyen-Orient. Les deux leaders visent partenariat. Cela influence relations sino-américaines.",
+      "link": "https://www.lemonde.fr/international/article/2026/05/14/a-pekin-xi-jinping-previent-donald-trump-du-risque-de-conflit-sur-taiwan_6689038_3211.html",
+      "publishedAt": "2026-05-14T05:45:17.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Xi Jinping prévient Trump risque conflit sur Taïwan et appelle partenariat lors premier entretien Pékin",
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Marche des drapeaux se tient à Jérusalem dans climat tensions expansion israélienne",
+      "source": "RFI",
+      "summary": "La marche des drapeaux nationaliste célèbre annexion Jérusalem-Est et se déroule jeudi amid expansions territoriales israéliennes récentes vers Grand Jérusalem. Cela reflète dynamiques politiques internes Israël.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260514-%C3%A0-j%C3%A9rusalem-la-marche-des-drapeaux-dans-un-contexte-d-expansion-isra%C3%A9lienne",
+      "publishedAt": "2026-05-14T08:06:38.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "ONU recense plus d'un demi-million déplacés internes au Niger",
+      "source": "RFI",
+      "summary": "Le HCR rapporte plus d'un million personnes déplacées au Niger, dont plus de 500 000 internes dans sud face terrorisme. Besoin assistance humanitaire dans environnement complexe. Cela aggrave crise sahélienne.",
+      "link": "https://www.rfi.fr/fr/afrique/20260514-niger-plus-d-un-demi-million-de-d%C3%A9plac%C3%A9s-internes-selon-l-onu",
+      "publishedAt": "2026-05-14T07:39:38.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Ottawa annonce doubler capacité production électricité Canada d'ici 2050",
+      "source": "Radio-Canada",
+      "summary": "Le premier ministre Mark Carney annonce jeudi plan doubler production électricité au Canada d'ici 2050 pour répondre besoins énergétiques. Cela soutient transition verte et croissance économique.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2254024/energie-capacite-production-carney",
+      "publishedAt": "2026-05-14T02:14:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Statistique Canada rapporte 120 000 Canadiens qualifiés partis depuis 2019",
+      "source": "Radio-Canada",
+      "summary": "Plus de 120 000 Canadiens qualifiés ont émigré depuis 2019, hausse 34% jusqu'en 2025 selon StatCan. Cela impacte main-d'œuvre et économie. Motivations incluent opportunités abroad.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2253193/emigration-expatriation-canadiens-motifs",
+      "publishedAt": "2026-05-14T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 19,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.2,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "society": 2,
+      "economy": 2
+    },
+    "regionCounts": {
+      "europe": 1,
+      "middle-east": 3,
+      "americas": 3,
+      "asia-pacific": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 2,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

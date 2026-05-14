@@ -1,0 +1,106 @@
+{
+  "date": "2026-05-14",
+  "summary": "Dalla mezzanotte, le forze russe hanno colpito Kiev con droni e missili, provocando crolli di edifici in periferia. I soccorritori intervengono sul posto per gestire le emergenze. L'attacco rafforza le tensioni nel conflitto tra Russia e Ucraina, con impatti sulla sicurezza regionale. Si attendono valutazioni sui danni e risposte da Kiev e alleati occidentali.\n\nA Pechino, durante l'incontro con Donald Trump, Xi Jinping ha dichiarato che Stati Uniti e Cina potrebbero entrare in conflitto se la questione di Taiwan è gestita male. Trump ha espresso rispetto per la Cina e per Xi. Le dichiarazioni definiscono i termini della partnership bilaterale. Questo sviluppo fa seguito alla visita di Stato di Trump iniziata ieri, accompagnata da CEO come Elon Musk di Tesla, Tim Cook di Apple e Jensen Huang di Nvidia. Si prevede che i colloqui proseguano per due giorni ulteriori, influenzando le relazioni USA-Cina.\n\nIn Ungheria, Peter Magyar ha illustrato il piano del governo per sbloccare i fondi europei bloccati da Bruxelles, mantenendo le tasse su banche ed energetiche. Il negoziato mira a risolvere le divergenze con l'Unione Europea. In Italia, la Corte dei conti ha valutato il Pnrr in linea con gli obiettivi, ma ha indicato rischi di ritardi nelle infrastrutture dovuti al ridimensionamento degli interventi sulla mobilità sostenibile. Il monitoraggio continua per guidare le correzioni necessarie al completamento del piano.",
+  "headlines": [
+    {
+      "title": "Russia lancia attacco con droni e missili su Kiev dalla mezzanotte",
+      "source": "TGCOM24",
+      "summary": "Dalla mezzanotte, forze russe colpiscono Kiev con droni e missili, provocando crolli di edifici in periferia. Soccorritori intervengono sul posto. L'escalation rafforza le tensioni nel conflitto ucraino-russo, con impatti sulla sicurezza regionale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-ultime-notizie-14maggio_112069725-202602k.shtml",
+      "publishedAt": "2026-05-14T06:56:34.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Xi Jinping avverte Trump di possibile conflitto su Taiwan gestita male",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "la Repubblica"
+      ],
+      "summary": "Durante incontro a Pechino, Xi dice a Trump che Usa e Cina potrebbero entrare in conflitto se la questione Taiwan gestita male. Trump esprime rispetto per Cina e Xi. Le dichiarazioni mirano a definire partnership evitando rivalità, influenzando relazioni bilaterali.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/14/xi-a-trump-potremmo-entrare-in-conflitto-se-la-questione-taiwan-venisse-gestita-male_18d2f540-c183-449e-a507-9aa7003142af.html",
+      "publishedAt": "2026-05-14T08:14:21.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Trump incontra Xi Jinping; Xi avverte su rischio conflitto per Taiwan, Trump loda Cina e leader Xi come partner non rivali",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Apre con avvertimento Xi su conflitto Taiwan e risposta Trump di rispetto per Cina",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/14/xi-a-trump-potremmo-entrare-in-conflitto-se-la-questione-taiwan-venisse-gestita-male_18d2f540-c183-449e-a507-9aa7003142af.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Enfatizza appello Xi a partnership Usa-Cina superando trappola di Tucidide",
+          "link": "https://www.repubblica.it/esteri/2026/05/14/news/trump_xi_jinping_incontro_cina_e_usa_siano_partner_non_rivali-425343935/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Primo ministro ungherese Peter Magyar delinea negoziato per fondi Ue",
+      "source": "Euronews Italiano",
+      "summary": "Peter Magyar illustra piano governo per sbloccare fondi europei bloccati da Bruxelles, senza eliminare tasse su banche ed energetiche. Negoziato mira a risolvere divergenze. La mossa interessa stabilità economica Ungheria e coesione Ue.",
+      "link": "http://it.euronews.com/my-europe/2026/05/14/fondi-europei-bloccati-lungheria-traccia-i-contorni-del-negoziato-con-bruxelles",
+      "publishedAt": "2026-05-14T07:07:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Corte dei conti conferma Pnrr in linea con criticità su infrastrutture",
+      "source": "Il Sole 24 Ore",
+      "summary": "Corte dei conti valuta Pnrr in linea obiettivi, ma segnala rischi ritardi infrastrutture per ridimensionamento interventi mobilità sostenibile. Monitoraggio continua. Il report guida correzioni per completamento piano nazionale ripresa.",
+      "link": "https://www.ilsole24ore.com/art/corte-conti-pnrr-e-linea-ma-restano-criticita-infrastrutture-AIE8rH4C",
+      "publishedAt": "2026-05-14T07:45:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 184,
+    "articlesAfterDedup": 183,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 5,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 1.5,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 1,
+      "developing": 1,
+      "also": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

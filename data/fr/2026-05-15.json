@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-15",
+  "summary": "Des affrontements entre gangs à Port-au-Prince ont causé au moins 78 morts ces six derniers jours, selon un bilan provisoire de l'ONU. Des milliers de personnes sont déplacées et plusieurs hôpitaux ont été évacués. Une force multinationale de sécurité débute son déploiement, avec l'arrivée de 400 soldats tchadiens. La violence persiste et aggrave l'instabilité en Haïti, où aucune amélioration n'est attendue dans l'immédiat.\n\nL'Iran reconstitue des stocks de missiles et de lanceurs balistiques malgré les frappes américaines récentes, d'après des enquêtes du New York Times et du Washington Post. Ces révélations contredisent les déclarations américaines sur l'efficacité des attaques. Pékin appelle à un cessez-le-feu complet au Moyen-Orient et à la réouverture immédiate du détroit d'Ormuz, dans le contexte des tensions entre l'Iran et les États-Unis. En Ukraine, Kiev impose une maîtrise des données numériques issues des champs de bataille pour optimiser l'efficacité de ses drones, une approche qui inspire l'OTAN. La Russie développe des outils d'intelligence artificielle pour rattraper ce retard. Les secours ukrainiens portent le bilan des frappes russes de la veille à 24 morts et 47 blessés à Kyiv, qui observe une journée de deuil ; l'armée russe revendique la destruction de 355 drones ukrainiens.\n\nL'Africa CDC déclare une épidémie d'Ebola dans la province d'Ituri, à l'est de la République démocratique du Congo, le 15 mai 2026, dans une zone de conflits armés. Cela complique les efforts humanitaires locaux. Des documents du Bureau d'éthique gouvernementale américain révèlent que Donald Trump a déclaré en 2026 des transactions boursières avec Amazon, Apple et Microsoft pour plusieurs millions de dollars. Xi Jinping a reçu Donald Trump à Pékin le 14 mai et a posé des conditions fermes sur Taïwan lors de l'entretien. La Syrie a rouvert son ambassade à Rabat le 14 mai, officialisant un rapprochement avec le Maroc après la chute du régime Assad il y a un an et demi.",
+  "headlines": [
+    {
+      "title": "Gangs s'affrontent à Port-au-Prince et causent 78 morts ces six derniers jours selon ONU",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "Au moins 78 personnes meurent dans des affrontements violents entre gangs à Port-au-Prince ces six derniers jours, selon un bilan provisoire de l'ONU. Des milliers de personnes sont déplacées et des hôpitaux évacués. Une force multinationale commence son déploiement avec 400 soldats tchadiens arrivés, mais la violence persiste et aggrave l'instabilité en Haïti.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260515-en-ha%C3%AFti-au-moins-78-morts-dans-des-affrontements-entre-gangs-%C3%A0-port-au-prince",
+      "publishedAt": "2026-05-15T06:17:02.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Bilan provisoire ONU de 78 morts et arrivée contingent 400 soldats tchadiens à Port-au-Prince",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260515-en-ha%C3%AFti-au-moins-78-morts-dans-des-affrontements-entre-gangs-%C3%A0-port-au-prince"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "78 morts annoncés par ONU avec milliers déplacés et hôpitaux évacués autour Port-au-Prince",
+          "link": "https://www.20minutes.fr/monde/4223599-20260515-haiti-violents-affrontements-entre-gangs-fait-moins-78-morts-depuis-samedi?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran reconstitue stocks de missiles et lanceurs malgré frappes américaines selon NYT et WP",
+      "source": "Le Monde",
+      "summary": "Des enquêtes du New York Times et Washington Post révèlent que l'Iran préserve et reconstitue une partie de son arsenal balistique après attaques américaines. Cela contredit les affirmations d'une victoire décisive des Etats-Unis et soulève des questions sur l'efficacité des frappes.",
+      "link": "https://www.lemonde.fr/international/article/2026/05/15/la-reconstitution-de-l-arsenal-balistique-de-l-iran-contredit-la-these-d-une-victoire-ecrasante-des-etats-unis_6689313_3210.html",
+      "publishedAt": "2026-05-15T03:15:01.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Africa CDC déclare épidémie d'Ebola en province Ituri à l'est de la RDC",
+      "source": "RFI",
+      "summary": "L'agence sanitaire de l'Union africaine Africa CDC déclare une épidémie d'Ebola le 15 mai 2026 dans la province d'Ituri, est de la RDC, zone de conflits armés. Cela menace la population locale et complique les efforts humanitaires dans une région instable.",
+      "link": "https://www.rfi.fr/fr/afrique/20260515-est-de-la-rdc-une-%C3%A9pid%C3%A9mie-d-ebola-est-d%C3%A9clar%C3%A9e-en-ituri-selon-l-agence-sanitaire-de-l-union-africaine",
+      "publishedAt": "2026-05-15T07:44:36.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Kiev impose maîtrise des données numériques issues champs de bataille dans guerre de drones",
+      "source": "Le Monde",
+      "summary": "Kiev utilise outils informatiques pour démultiplier efficacité des drones, inspirant l'OTAN, mais la Russie rattrape son retard avec l'IA. Cet avantage technologique influence le cours des opérations en Ukraine et les stratégies militaires occidentales.",
+      "link": "https://www.lemonde.fr/international/article/2026/05/15/guerre-en-ukraine-comment-kiev-a-su-imposer-au-moins-pour-un-temps-sa-maitrise-des-donnees-numeriques-issues-des-champs-de-bataille_6689389_3210.html",
+      "publishedAt": "2026-05-15T04:00:09.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump déclare transactions boursières avec Apple Amazon et Microsoft pour millions dollars",
+      "source": "20 Minutes",
+      "summary": "Des documents du Bureau d'éthique gouvernementale américain révèlent que Trump déclare en 2026 des transactions liées à Amazon, Apple et Microsoft pour plusieurs millions de dollars. Cela soulève des questions sur ses intérêts financiers pendant sa présidence.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4223602-20260515-etats-unis-implique-transactions-boursieres-apple-amazon-trump-mis-plein-poches?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-05-15T00:52:51.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Syrie rouvre ambassade à Rabat scellant rapprochement avec Maroc après chute régime Assad",
+      "source": "RFI",
+      "summary": "L'ambassade syrienne rouvre à Rabat le 14 mai 2026, 14 ans après sa fermeture, avec visite du ministre syrien des Affaires étrangères. Les deux pays officialisent leur rapprochement post-chute du régime Assad il y a un an et demi.",
+      "link": "https://www.rfi.fr/fr/afrique/20260515-le-rapprochement-maroc-syrie-se-concr%C3%A9tise-avec-la-r%C3%A9ouverture-d-une-ambassade-%C3%A0-rabat",
+      "publishedAt": "2026-05-15T08:24:51.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Pékin réclame cessez-le-feu durable et réouverture détroit d'Ormuz dès que possible",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "Pékin appelle à un cessez-le-feu complet au Moyen-Orient et à rouvrir le détroit d'Ormuz immédiatement dans contexte tensions Iran-Etats-Unis. Cela vise à apaiser les conflits régionaux affectant le commerce maritime mondial.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260515-en-direct-moyen-orient-iran-donald-trump-perdre-patience-liban-israel-ormuz",
+      "publishedAt": "2026-05-15T02:06:34.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Pékin réclame cessez-le-feu durable et réouverture Ormuz dès que possible en direct Moyen-Orient",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4223600-20260515-direct-guerre-moyen-orient-trump-xi-jinping-accordent-necessite-maintenir-ouvert-detroit-ormuz?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "angle": "Pékin demande cessez-le-feu complet et réouverture Ormuz dans contexte Trump perd patience Iran",
+          "link": "https://www.france24.com/fr/moyen-orient/20260515-en-direct-moyen-orient-iran-donald-trump-perdre-patience-liban-israel-ormuz"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Xi Jinping accueille Donald Trump à Pékin et l'avertit fermement sur question Taïwan",
+      "source": "Le Monde",
+      "summary": "Xi Jinping reçoit Trump avec apparat protocolaire à Pékin le 14 mai mais pose conditions fermes sur Taïwan, central dans relations sino-américaines. Cela conditionne l'ensemble des échanges bilatéraux futurs.",
+      "link": "https://www.lemonde.fr/international/article/2026/05/14/donald-trump-recu-a-pekin-avec-faste-et-une-severe-mise-en-garde_6689123_3210.html",
+      "publishedAt": "2026-05-14T17:12:23.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Kyiv observe journée de deuil après 24 morts et 47 blessés dans frappes russes de la veille",
+      "source": "Liberation",
+      "summary": "Les secours portent le bilan des frappes russes à 24 morts et 47 blessés le 15 mai, déclenchant une journée de deuil à Kyiv. L'armée russe revendique avoir abattu 355 drones ukrainiens dans la nuit.",
+      "link": "https://www.liberation.fr/international/europe/guerre-en-ukraine-journee-de-deuil-a-kyiv-apres-au-moins-24-morts-dans-une-serie-de-frappes-la-veille-20260515_NO7FS3FBJRAOHBDB2OH76BULRI/",
+      "publishedAt": "2026-05-15T08:22:52.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Bilan des frappes russes monte à 24 morts et 47 blessés selon secours ; armée russe abat 355 drones ukrainiens dans la nuit sur régions frontalières et Moscou",
+      "sources": [
+        "Liberation"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Scientifiques identifient dinosaure de 27 mètres et 27 tonnes en Thaïlande",
+      "source": "France 24",
+      "summary": "Des chercheurs identifient un herbivore géant baptisé Nagatitan chaiyaphumensis à partir de restes découverts fin 2024 en Thaïlande, daté de 100 à 200 millions d'années. Cette découverte enrichit la connaissance des dinosaures asiatiques.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260515-un-dinosaure-gigantesque-de-27-m%C3%A8tres-et-27-tonnes-identifi%C3%A9-en-tha%C3%AFlande",
+      "publishedAt": "2026-05-15T07:06:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 211,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 12,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 15.5,
+    "categoryCounts": {
+      "conflict": 5,
+      "science": 2,
+      "politics": 3
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 3,
+      "africa": 1,
+      "europe": 2,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

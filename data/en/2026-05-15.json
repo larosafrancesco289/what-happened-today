@@ -1,0 +1,188 @@
+{
+  "date": "2026-05-15",
+  "summary": "Assailants seized a ship anchored off the United Arab Emirates and directed it toward Iran. Another ship sank after an attack near the Oman coast. Both incidents occurred near the Strait of Hormuz, through which 20% of global oil passes. Global shipping routes now face elevated risks. Heightened naval patrols and diplomatic efforts are underway to prevent wider conflict.\n\nIn eastern Democratic Republic of Congo, Africa's top health agency reported 246 Ebola cases and 65 deaths. Remote communities battle the virus amid conflicts with armed groups. International aid is mobilizing to contain spread. Separately, a US District Judge Richard Leon ordered the Trump administration to return Colombian woman Adriana María Quiroz Zapata from DR Congo, ruling her deportation likely illegal after the country refused her entry. The administration also deported 15 shackled migrants to a hotel in Kinshasa, DR Congo's capital, where they face choices between returning to Latin America or staying in Africa.\n\nXi Jinping and Donald Trump agreed on a new vision for China-US strategic stability at a Beijing summit. The aspirational formula aims to manage competition in global trade, technology and security, though a Chinese observer noted the real test lies in cooperation. In Lebanon, the 2024 Israel-Hezbollah war caused $11 billion in economic losses atop $70 billion from prior financial sector damage, per the World Bank; businesses have slowed, jobs vanished and prices soared. Protests erupted in Havana, Cuba, over extensive blackouts and fuel shortages; the energy minister stated no fuel is available. Ukraine Defense Minister Mykhailo Fedorov is developing AI-directed killer robots for use against Russia. Pope Leo XIV warned that AI and high-tech weapons fuel endless conflict and called for ethical limits, peace in the Middle East and Ukraine.",
+  "headlines": [
+    {
+      "title": "Ebola outbreak kills 65 people, infects 246 in eastern DR Congo",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Deutsche Welle"
+      ],
+      "summary": "Africa's top health agency reports a new Ebola outbreak in eastern DR Congo with 246 cases and 65 deaths. Remote communities battle the virus amid armed group conflicts. International aid mobilization is critical to contain spread and avert wider regional health crisis.",
+      "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-15T08:27:42.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "New outbreak of Ebola kills 65 in eastern DR Congo with 246 cases reported",
+          "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "New highly contagious Ebola outbreak confirmed killing dozens in remote Congo amid armed groups",
+          "link": "https://www.dw.com/en/ebola-outbreak-confirmed-in-dr-congo-african-health-agency/a-77166606?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Assailants seize UAE-anchored ship toward Iran, sink another near Oman coast",
+      "source": "NPR News",
+      "summary": "Tensions escalate near Strait of Hormuz as one ship gets seized off UAE and heads to Iran while another sinks after attack near Oman. Global shipping routes face risks. Heightened naval patrols and diplomatic efforts seek to prevent wider conflict.",
+      "link": "https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz",
+      "publishedAt": "2026-05-15T05:11:32.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Cuban residents protest blackouts and fuel shortages in Havana",
+      "source": "Wall Street Journal World",
+      "summary": "Protests break out in Cuba's capital amid extensive blackouts, fuel scarcity and economic collapse. Energy minister admits no fuel available. Government faces pressure to resolve shortages affecting daily life and stability across the island nation.",
+      "link": "https://www.wsj.com/world/americas/protests-erupt-in-cuba-as-fuel-runs-out-8e577bc9",
+      "publishedAt": "2026-05-14T17:15:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Federal judge orders Trump administration returns Colombian woman from DR Congo",
+      "source": "The Guardian",
+      "summary": "US District Judge Richard Leon rules deportation of Adriana María Quiroz Zapata to DR Congo likely illegal and mandates her return. Woman now in limbo after country refused her. Highlights flaws in US immigration enforcement procedures.",
+      "link": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+      "publishedAt": "2026-05-14T18:49:23.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump administration deports 15 migrants to Congolese hotel in Kinshasa",
+      "source": "New York Times World",
+      "summary": "Shackled migrants sent to DR Congo face choice between returning to Latin America or staying in Africa. Trump policy targets deportations to third countries. Raises human rights concerns over safety and legality in unstable region.",
+      "link": "https://www.nytimes.com/2026/05/15/world/africa/deportation-congo-migrants-trump.html",
+      "publishedAt": "2026-05-15T04:01:14.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Pope Leo XIV decries AI-directed warfare as spiral to annihilation",
+      "source": "NPR News",
+      "summary": "Pope warns investments in AI and high-tech weapons fuel endless conflict, calls for peace in Middle East and Ukraine. Global leaders and militaries increasingly adopt autonomous systems. Urges ethical limits to prevent dehumanized endless wars.",
+      "link": "https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare",
+      "publishedAt": "2026-05-15T05:33:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ukraine Defense Minister Mykhailo Fedorov forges AI killer robots for survival",
+      "source": "New York Times World",
+      "summary": "35-year-old Fedorov pushes futuristic military tech including robots as vital against Russia. Ukraine integrates AI into defense strategy. Accelerates global arms race toward autonomous lethal weapons reshaping modern warfare.",
+      "link": "https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html",
+      "publishedAt": "2026-05-15T04:01:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Xi Jinping and Trump agree new vision for China-US strategic stability",
+      "source": "South China Morning Post",
+      "summary": "Beijing summit yields aspirational formula for constructive relations despite rivalry. Chinese observer cautions real test in cooperation. Aims to manage competition affecting global trade, tech and security dynamics.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3353694/xi-trump-summit-can-aspirational-new-vision-stability-survive-strategic-rivalry?utm_source=rss_feed",
+      "publishedAt": "2026-05-15T08:30:40.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Leaders announce agreement on new vision building constructive China-US relationship of strategic stability",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel-Hezbollah war inflicts $11 billion losses on Lebanon economy",
+      "source": "The Hindu",
+      "summary": "2024 conflict adds $11 billion damage atop $70 billion financial sector losses per World Bank. Businesses slow, jobs vanish, prices soar. Deepens humanitarian crisis needing reconstruction aid and political reform.",
+      "link": "https://www.thehindu.com/news/international/war-worsens-lebanons-economic-crisis-with-job-losses-slow-business-soaring-prices/article70981715.ece",
+      "publishedAt": "2026-05-15T08:26:06.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "World Bank quantifies $11 billion damages from 2024 war compounding preexisting $70 billion financial crisis",
+      "sources": [
+        "The Hindu"
+      ],
+      "singleSource": true,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 430,
+    "articlesAfterDedup": 429,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 15.3,
+    "categoryCounts": {
+      "science": 2,
+      "conflict": 1,
+      "society": 2,
+      "politics": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "africa": 2,
+      "middle-east": 2,
+      "americas": 1,
+      "global": 2,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

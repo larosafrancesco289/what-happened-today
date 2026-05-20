@@ -1,0 +1,17 @@
+{
+  "date": "2026-05-20",
+  "summary": "",
+  "headlines": [],
+  "unavailable": true,
+  "unavailableReason": "Headline generation failed: LLM returned 0 headlines from 15 filtered articles (188 total fetched)",
+  "metadata": {
+    "sourcesUsed": 0,
+    "articlesProcessed": 188,
+    "articlesAfterDedup": 187,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "categoryCounts": {},
+    "regionCounts": {}
+  }
+}

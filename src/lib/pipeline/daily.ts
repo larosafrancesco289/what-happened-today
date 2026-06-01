@@ -178,50 +178,6 @@ export function validateDailyNews(
   };
 }
 
-interface UnavailableParams {
-  date: string;
-  languageCode: LanguageCode;
-  reason: string;
-  articlesProcessed: number;
-  headlinesGenerated: number;
-  metadata: DailyNews['metadata'];
-}
-
-async function saveUnavailable({
-  date,
-  languageCode,
-  reason,
-  articlesProcessed,
-  headlinesGenerated,
-  metadata,
-}: UnavailableParams): Promise<DailyPipelineResult> {
-  console.error(`\n${'='.repeat(60)}`);
-  console.error(`WARNING: ${reason}`);
-  console.error('Saving "unavailable" state instead.');
-  console.error(`${'='.repeat(60)}\n`);
-
-  const unavailableNews: DailyNews = {
-    date,
-    summary: '',
-    headlines: [],
-    unavailable: true,
-    unavailableReason: reason,
-    metadata,
-  };
-
-  await withTimeout(saveDailyNews(unavailableNews, languageCode), 10000, 'File saving');
-  console.log(`Saved unavailable state for ${languageCode} - frontend will show appropriate message`);
-
-  return {
-    success: false,
-    date,
-    language: languageCode,
-    articlesProcessed,
-    headlinesGenerated,
-    unavailable: true,
-  };
-}
-
 export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANGUAGE_CODE): Promise<DailyPipelineResult> {
   const pipelineStartedAt = new Date();
   const freshnessCutoffHours = getConfiguredMaxArticleAgeHours();
@@ -277,23 +233,7 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
   console.log(`  Generated ${headlines.length} headlines\n`);
 
   if (headlines.length === 0) {
-    return saveUnavailable({
-      date: today,
-      languageCode,
-      reason: `Headline generation failed: LLM returned 0 headlines from ${filteredArticles.length} filtered articles (${rawArticles.length} total fetched)`,
-      articlesProcessed: rawArticles.length,
-      headlinesGenerated: 0,
-      metadata: {
-        sourcesUsed: 0,
-        articlesProcessed: rawArticles.length,
-        articlesAfterDedup: uniqueArticles.length,
-        articlesAfterDiversity: balancedArticles.length,
-        articlesAfterFilter: filteredArticles.length,
-        freshnessCutoffHours,
-        categoryCounts: {},
-        regionCounts: {},
-      },
-    });
+    throw new Error(`Headline generation returned 0 headlines from ${filteredArticles.length} filtered articles (${rawArticles.length} total fetched)`);
   }
 
   console.log('Step 6/7: Categorizing headlines...');
@@ -308,34 +248,13 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
   console.log(`  Regions: ${JSON.stringify(regionCounts)}\n`);
 
   console.log('Step 7/7: Generating daily summary with AI...');
-  let summary: string;
-  try {
-    summary = await withTimeout(
-      generateDailySummary(categorizedHeadlines, languageCode, yesterdayHeadlines),
-      180000,
-      'Summary generation',
-    );
-    console.log(`  Summary length: ${summary.length} characters`);
-    console.log(`  Preview: ${summary.substring(0, 100)}...\n`);
-  } catch (summaryError) {
-    return saveUnavailable({
-      date: today,
-      languageCode,
-      reason: `Summary generation failed: ${(summaryError as Error).message}`,
-      articlesProcessed: rawArticles.length,
-      headlinesGenerated: categorizedHeadlines.length,
-      metadata: {
-        sourcesUsed: new Set(filteredArticles.map(article => article.source)).size,
-        articlesProcessed: rawArticles.length,
-        articlesAfterDedup: uniqueArticles.length,
-        articlesAfterDiversity: balancedArticles.length,
-        articlesAfterFilter: filteredArticles.length,
-        freshnessCutoffHours,
-        categoryCounts,
-        regionCounts,
-      },
-    });
-  }
+  const summary = await withTimeout(
+    generateDailySummary(categorizedHeadlines, languageCode, yesterdayHeadlines),
+    180000,
+    'Summary generation',
+  );
+  console.log(`  Summary length: ${summary.length} characters`);
+  console.log(`  Preview: ${summary.substring(0, 100)}...\n`);
 
   const tierCounts = countByField<Tier>(categorizedHeadlines, 'tier');
   const dailyNews: DailyNews = {
@@ -365,14 +284,7 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
   };
 
   if (validation.errors.length > 0) {
-    return saveUnavailable({
-      date: today,
-      languageCode,
-      reason: `Quality validation failed: ${validation.errors.join('; ')}`,
-      articlesProcessed: rawArticles.length,
-      headlinesGenerated: categorizedHeadlines.length,
-      metadata: dailyNews.metadata,
-    });
+    throw new Error(`Quality validation failed: ${validation.errors.join('; ')}`);
   }
 
   console.log('\nSaving daily news...');

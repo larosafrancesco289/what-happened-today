@@ -15,6 +15,7 @@
     "generate-news:it": "bun run scripts/generate-news.ts --lang=it",
     "generate-news:fr": "bun run scripts/generate-news.ts --lang=fr",
     "generate-news:all": "bun run generate-news:en && bun run generate-news:it && bun run generate-news:fr",
+    "verify-news": "bun run scripts/verify-generated-news.ts",
     "generate-weekly": "bun run scripts/generate-weekly.ts",
     "generate-weekly:en": "bun run scripts/generate-weekly.ts --lang=en",
     "generate-weekly:it": "bun run scripts/generate-weekly.ts --lang=it",

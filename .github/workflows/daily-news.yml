@@ -2,10 +2,10 @@ name: Daily News Pipeline
 
 on:
   schedule:
-    # Run daily at 6:00 AM UTC
-    - cron: '0 6 * * *'
-    # Run weekly digest on Mondays at 8:00 AM UTC
-    - cron: '0 8 * * 1'
+    # Run daily at 6:17 AM UTC (avoid top-of-hour schedule congestion)
+    - cron: '17 6 * * *'
+    # Run weekly digest on Mondays at 8:23 AM UTC
+    - cron: '23 8 * * 1'
   workflow_dispatch: # Allow manual triggering
 
 permissions:
@@ -15,7 +15,7 @@ permissions:
 jobs:
   generate-news:
     runs-on: ubuntu-latest
-    if: github.event.schedule != '0 8 * * 1'
+    if: github.event.schedule != '23 8 * * 1'
 
     steps:
       - name: Checkout repository
@@ -40,6 +40,9 @@ jobs:
         run: bun run generate-news:all
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+      - name: Verify generated daily data
+        run: bun run verify-news
 
       - name: Commit and push changes
         run: |
@@ -83,7 +86,7 @@ jobs:
         run: |
           for lang in en it fr; do
             echo "--- Generating weekly digest: $lang ---"
-            bun run generate-weekly:$lang || echo "Warning: weekly digest for $lang failed, continuing..."
+            bun run generate-weekly:$lang
           done
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}

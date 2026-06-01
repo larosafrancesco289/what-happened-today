@@ -1,17 +1,211 @@
 {
   "date": "2026-06-01",
-  "summary": "",
-  "headlines": [],
-  "unavailable": true,
-  "unavailableReason": "Headline generation failed: LLM returned 0 headlines from 5 filtered articles (186 total fetched)",
+  "summary": "L'Iran ha sospeso i negoziati indiretti con gli Stati Uniti, a seguito degli attacchi israeliani in Libano, e ha minacciato di chiudere completamente lo Stretto di Hormuz. Questa mossa aumenta le tensioni regionali e ha avuto un impatto immediato sui mercati finanziari: Piazza Affari ha chiuso in calo, mentre Nvidia è salita dopo la presentazione di un nuovo chip. La situazione è in sviluppo, con potenziali conseguenze sul commercio petrolifero globale.\n\nIn Europa, il presidente ungherese Sulyok ha respinto l'ultimatum del premier neoeletto Magyar, che ora minaccia di modificare la Costituzione per rimuoverlo. In Repubblica Ceca, un tribunale di Pilsen ha ordinato l'estradizione in Germania della neonazista Marla Svenja Liebich, decisione diventata esecutiva nonostante la sua opposizione. La Svezia ha invece allentato le norme sull'espulsione per i migranti adolescenti, invertendo la linea restrittiva post-2015. Negli Stati Uniti, la Florida ha fatto causa a OpenAI e al suo CEO Sam Altman per violazione della sicurezza, accusandoli di aver privilegiato il profitto e alimentato la violenza.\n\nSul piano ambientale, è morto all'età di 84 anni Gianni Mattioli, fondatore delle Liste Verdi ed ex ministro dell'Ambiente. Nel settore spaziale, il direttore dell'Agenzia spaziale europea ha definito 'grave passo indietro' l'esplosione del razzo New Glenn di Blue Origin, che causerà ritardi alle missioni Artemis della Nasa. A Gaza, una barca della Flotilla ha rotto l'assedio raggiungendo la Striscia, accolta da una piccola folla. In Italia, a Parma, i Carabinieri hanno smantellato una fabbrica clandestina di sigarette producendo 700mila sigarette al giorno, sequestrando 20 tonnellate di tabacco e arrestando 12 persone.",
+  "headlines": [
+    {
+      "title": "Iran sospende i negoziati con gli Usa e minaccia di chiudere lo Stretto di Hormuz",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "Euronews Italiano"
+      ],
+      "summary": "L'Iran ha interrotto i colloqui indiretti con gli Stati Uniti dopo gli attacchi israeliani in Libano e annuncia la possibile chiusura totale dello Stretto di Hormuz, aumentando le tensioni regionali.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/01/medio-oriente-media-liran-interrompe-i-colloqui-con-gli-usa-per_2e716846-4801-4346-9106-5f5d10ba9945.html",
+      "publishedAt": "2026-06-01T15:58:18.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Aperto con la decisione iraniana e la minaccia su Hormuz, citando Netanyahu",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/01/medio-oriente-media-liran-interrompe-i-colloqui-con-gli-usa-per_2e716846-4801-4346-9106-5f5d10ba9945.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Enfatizzato lo stop ai colloqui e l'avvertimento sulla tregua in Libano",
+          "link": "http://it.euronews.com/2026/06/01/media-iran-teheran-sospende-negoziati-con-gli-usa-per-i-nuovi-attacchi-di-israele-in-liban"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Morto Gianni Mattioli, fondatore delle Liste Verdi e ministro della Repubblica",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "ANSA"
+      ],
+      "summary": "L'ex deputato e ministro dell'Ambiente Gianni Mattioli, fondatore delle Liste Verdi, è scomparso all'età di 84 anni. Cordoglio dal mondo politico e ambientalista.",
+      "link": "https://www.ilsole24ore.com/art/addio-gianni-mattioli-fondatore-liste-verdi-AIKQ2JPD",
+      "publishedAt": "2026-06-01T13:50:01.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Aperto con il profilo istituzionale di Mattioli e il cordoglio politico",
+          "link": "https://www.ilsole24ore.com/art/addio-gianni-mattioli-fondatore-liste-verdi-AIKQ2JPD"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Citato il messaggio di Bonelli: 'protagonista dell'ambientalismo'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/06/01/addio-a-gianni-mattioli-fondatore-delle-liste-verdi_35a276ca-17e3-4907-974e-273f0db59530.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Esplosione di un razzo Blue Origin, il capo Esa parla di grave passo indietro",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Il direttore dell'Agenzia spaziale europea definisce 'grave passo indietro' l'esplosione del razzo New Glenn di Blue Origin, che causerà forti ritardi alle missioni Artemis della Nasa.",
+      "link": "http://it.euronews.com/my-europe/2026/06/01/esplosione-blue-origin-il-capo-esa-grave-passo-indietro-per-tutta-la-comunita-spaziale",
+      "publishedAt": "2026-06-01T15:10:56.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "La Florida fa causa a OpenAI e a Sam Altman per violazione della sicurezza",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Il procuratore generale della Florida, James Uthmeier, ha presentato una causa civile contro OpenAI e il suo CEO, accusandoli di aver privilegiato il profitto e alimentato la violenza consapevolmente.",
+      "link": "https://www.agi.it/estero/news/2026-06-01/florida-causa-openai-37334644/",
+      "publishedAt": "2026-06-01T15:53:07.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Ungheria, il presidente Sulyok rifiuta le dimissioni: Magyar minaccia di cambiare la Costituzione",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il presidente ungherese Sulyok ha respinto l'ultimatum del premier neoeletto Magyar, che ora minaccia di modificare la Costituzione per rimuoverlo dall'incarico.",
+      "link": "https://www.repubblica.it/esteri/2026/06/01/news/ungheria_dimissioni_presidente_repubblica_sulyok_magyar_minaccia_modifica_costituzione-425383467/?rss",
+      "publishedAt": "2026-06-01T14:29:02.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Gaza, una barca della Flotilla rompe l'assedio e raggiunge la Striscia",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Una delle imbarcazioni della Flotilla è arrivata a Gaza, spinta da vento e correnti. Una piccola folla ha accolto la barca, celebrando la rottura simbolica dell'assedio.",
+      "link": "https://www.repubblica.it/esteri/2026/06/01/news/barca_flotilla_raggiunge_gaza-425383184/?rss",
+      "publishedAt": "2026-06-01T11:28:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tribunale ceco ordina l'estradizione in Germania della neonazista Marla Svenja Liebich",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Il tribunale regionale di Pilsen ha deciso l'estradizione della neonazista Marla Svenja Liebich in Germania. Liebich si era opposta al provvedimento, ora diventa esecutivo.",
+      "link": "http://it.euronews.com/my-europe/2026/06/01/tribunale-ceco-decide-lestradizione-della-neonazista-marla-svenja-liebich",
+      "publishedAt": "2026-06-01T15:02:14.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Svezia allenta le norme sull'espulsione per i migranti adolescenti",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Il governo svedese ha alleggerito le regole per i giovani migranti a rischio espulsione, invertendo la linea restrittiva adottata dopo l'afflusso del 2015.",
+      "link": "http://it.euronews.com/my-europe/2026/06/01/svezia-alleggerisce-le-regole-per-i-migranti-adolescenti-a-rischio-espulsione",
+      "publishedAt": "2026-06-01T14:53:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Parma, maxi fabbrica clandestina di sigarette: 12 arresti e 20 tonnellate di tabacco sequestrate",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Carabinieri di Parma hanno smantellato un opificio clandestino che produceva 700mila sigarette al giorno. Sequestrati 200mila pacchetti contraffatti e arrestate 12 persone.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/parma-seu_112779464-02k.shtml",
+      "publishedAt": "2026-06-01T15:04:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Piazza Affari chiude in calo per lo stop dell'Iran ai negoziati, corre Nvidia",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "La Borsa di Milano ha chiuso in ribasso, influenzata dalla sospensione dei colloqui tra Iran e Stati Uniti. In controtendenza Nvidia, in rialzo dopo la presentazione di un nuovo chip.",
+      "link": "https://www.rainews.it/articoli/2026/06/piazza-affari-chiude-in-calo-pesa-lo-stop-delliran-ai-negoziati-9203f8fb-8632-4b6b-bac2-8588c2a7caa6.html",
+      "publishedAt": "2026-06-01T15:56:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
   "metadata": {
-    "sourcesUsed": 0,
-    "articlesProcessed": 186,
-    "articlesAfterDedup": 183,
+    "sourcesUsed": 7,
+    "articlesProcessed": 187,
+    "articlesAfterDedup": 184,
     "articlesAfterDiversity": 35,
-    "articlesAfterFilter": 5,
+    "articlesAfterFilter": 11,
     "freshnessCutoffHours": 48,
-    "categoryCounts": {},
-    "regionCounts": {}
+    "oldestHeadlineAgeHours": 4.6,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "science": 1,
+      "society": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 6,
+      "global": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
   }
 }

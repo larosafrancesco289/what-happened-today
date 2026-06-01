@@ -26,13 +26,60 @@ function getClient(): OpenAI {
   return client;
 }
 
-// Model configuration (OpenRouter format: provider/model)
-// Fast model for filtering and headlines, quality model for summaries
-// See available models at: https://openrouter.ai/models
-const MODEL_FILTER = 'nvidia/nemotron-3-nano-30b-a3b';
-const MODEL_HEADLINES = 'x-ai/grok-4.1-fast';
-export const MODEL_SUMMARY = 'x-ai/grok-4.1-fast';
-const MODEL_SUMMARY_FALLBACK = process.env.OPENROUTER_MODEL_SUMMARY_FALLBACK?.trim() || 'openai/gpt-4o-mini';
+// Model configuration (OpenRouter format: provider/model).
+// Keep defaults current, but append them after env values so a stale env var
+// cannot take the whole pipeline down when a provider deprecates one model.
+const DEFAULT_FILTER_MODELS = [
+  'openai/gpt-oss-20b:nitro',
+  'openai/gpt-oss-20b',
+] as const;
+const DEFAULT_NEWS_MODELS = [
+  'deepseek/deepseek-v4-flash',
+  'openai/gpt-4o-mini',
+] as const;
+
+function parseModelList(value: string | undefined): string[] {
+  return (value ?? '')
+    .split(/[\s,]+/)
+    .map(model => model.trim())
+    .filter(Boolean);
+}
+
+function readModelList(envKeys: string[], defaults: readonly string[]): string[] {
+  const configured = envKeys.flatMap(key => parseModelList(process.env[key]));
+  return Array.from(new Set([...configured, ...defaults]));
+}
+
+const MODEL_FILTERS = readModelList(
+  ['OPENROUTER_MODEL_FILTERS', 'OPENROUTER_MODEL_FILTER'],
+  DEFAULT_FILTER_MODELS,
+);
+const MODEL_HEADLINES = readModelList(
+  ['OPENROUTER_MODEL_HEADLINES', 'OPENROUTER_MODEL_NEWS', 'OPENROUTER_MODEL_SUMMARY'],
+  DEFAULT_NEWS_MODELS,
+);
+const MODEL_SUMMARIES = readModelList(
+  ['OPENROUTER_MODEL_SUMMARIES', 'OPENROUTER_MODEL_SUMMARY', 'OPENROUTER_MODEL_SUMMARY_FALLBACK'],
+  DEFAULT_NEWS_MODELS,
+);
+
+export const MODEL_SUMMARY = MODEL_SUMMARIES[0];
+
+function getErrorStatus(error: unknown): number | undefined {
+  if (typeof error !== 'object' || error === null || !('status' in error)) return undefined;
+  const status = (error as { status?: unknown }).status;
+  return typeof status === 'number' ? status : undefined;
+}
+
+function isRetryableError(error: unknown): boolean {
+  const status = getErrorStatus(error);
+  if (!status) return true;
+  return status === 408 || status === 409 || status === 429 || status >= 500;
+}
+
+function errorMessage(error: unknown): string {
+  return error instanceof Error ? error.message : String(error);
+}
 
 // Helper function to retry operations with exponential backoff
 async function withRetry<T>(
@@ -48,8 +95,8 @@ async function withRetry<T>(
     } catch (error) {
       lastError = error as Error;
 
-      // Don't retry on the last attempt
-      if (attempt === maxRetries) {
+      // Don't retry non-transient provider errors such as deprecated models.
+      if (attempt === maxRetries || !isRetryableError(error)) {
         break;
       }
 
@@ -86,6 +133,9 @@ function normalizeSummaryText(text: string): string {
 
 export function sanitizeGeneratedSummary(text: string): string {
   return normalizeSummaryText(text)
+    .replace(/^#{1,6}\s+/gm, '')
+    .replace(/\*\*([^*]+)\*\*/g, '$1')
+    .replace(/__([^_]+)__/g, '$1')
     .replace(/\n{3,}/g, '\n\n')
     .replace(/\n?\(Word count:\s*\d+\)\s*$/i, '')
     .replace(/\n?\(\s*\d+\s+(?:words?|parole|mots)\s*\)\s*$/i, '')
@@ -135,7 +185,7 @@ export function recoverSummaryFromMalformedOutput(responseText: string): string 
  */
 function formatArticlesForPrompt(articles: ProcessedArticle[], alsoLabel: string): string {
   return articles.map((a, i) => {
-    let entry = `[${i}] ${a.source}: ${a.title}${a.coveringSources ? ` [${alsoLabel}: ${a.coveringSources.join(', ')}]` : ''}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 600)}\nLink: ${a.link}`;
+    let entry = `[${i}] ARTICLE_ID: ${i}\nSource: ${a.source}\nTitle: ${a.title}${a.coveringSources ? ` [${alsoLabel}: ${a.coveringSources.join(', ')}]` : ''}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 600)}\nLink: ${a.link}`;
     if (a.coveringArticles && a.coveringArticles.length > 0) {
       entry += '\n' + a.coveringArticles.map(ca => `${ca.source} version (300 chars):\nPublished: ${ca.publishedAt}\n${ca.content.substring(0, 300)}\nLink: ${ca.link}`).join('\n');
     }
@@ -223,8 +273,8 @@ ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publish
     headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
       const memorySection = formatYesterdayMemory(
         yesterdayHeadlines,
-        "YESTERDAY'S HEADLINES (for continuity — do NOT repeat unless there is a NEW development)",
-        'For ongoing stories from yesterday with new developments, place them in the "developing" tier with dayNumber (how many consecutive days) and previousContext (what specifically changed today).'
+        "YESTERDAY'S HEADLINES (continuity only — today's edition must still stand alone)",
+        'Use these only to recognize ongoing stories. If an ongoing story is still important today, include enough context for a reader who skipped yesterday. Use the "developing" tier only when today has a concrete new development.'
       );
 
       return `Create headlines + summaries for distinct news events. Write in clear, factual English.
@@ -232,7 +282,7 @@ ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publish
 TIER SYSTEM — Generate 8-15 headlines in 3 tiers:
 - "top" (2-4): Day's most important events, full detailed summaries
 - "also" (3-6): Important but not lead stories, shorter summaries
-- "developing" (0-3): Ongoing stories from yesterday with what specifically changed today
+- "developing" (0-3): Ongoing stories that remain important today, with today's concrete update and enough context to stand alone
 If fewer than 8 stories meet the quality threshold, produce fewer. Never pad with marginal stories.
 ${memorySection}
 HEADLINE RULES:
@@ -257,6 +307,7 @@ SINGLE-SOURCE: If an article has NO [Also: ...] annotation, include "singleSourc
 
 	SOURCE INTEGRITY:
 	- Use only stories from the provided ARTICLES list.
+	- Choose the primary ARTICLE_ID and return it as numeric "articleIndex".
 	- Copy the primary article "Link" exactly into "link".
 	- Copy the primary article "Published" timestamp exactly into "publishedAt".
 	- Do not invent links, dates, sources, names, or numbers.
@@ -264,7 +315,7 @@ SINGLE-SOURCE: If an article has NO [Also: ...] annotation, include "singleSourc
 	IMPORTANT: Each story must appear in exactly ONE tier. Do not place the same event in both "top" and "developing".
 
 	OUTPUT JSON FORMAT:
-	{"headlines":[{"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"AP","angle":"...","link":"..."}]},{"title":"...","source":"SingleSource","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
+	{"headlines":[{"articleIndex":0,"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"AP","angle":"...","link":"..."}]},{"articleIndex":1,"title":"...","source":"SingleSource","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"articleIndex":2,"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
 
 ARTICLES:
 ${formatArticlesForPrompt(articles, 'Also')}`;
@@ -273,7 +324,7 @@ ${formatArticlesForPrompt(articles, 'Also')}`;
     summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
       const yesterdaySection = formatYesterdayContext(
         yesterdayHeadlines,
-        "YESTERDAY'S CONTEXT (for reference — do not repeat old information, only mention what changed)"
+        "YESTERDAY'S CONTEXT (continuity only — today's briefing must be complete for readers who skipped yesterday)"
       );
 
       return `Write a 2-3 paragraph daily news briefing (250-350 words). Your goal is to help readers understand the world in 90 seconds.
@@ -286,7 +337,9 @@ ${yesterdaySection}
 WRITING RULES:
 - Present events in order of global impact, not narrative drama
 - State what happened, who is affected, what is expected next
+- Include the context needed to understand today's stories, even if related stories appeared yesterday
 - When sources or actors disagree, state both positions
+- Plain text only; no Markdown formatting
 - NO narrative arc, NO editorial framing, NO value-laden adjectives
 - DO provide factual context and connections between related events
 - Factual transitions ("In [region]", "Separately") not dramatic ones ("Meanwhile, as tensions mount")
@@ -358,8 +411,8 @@ ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publish
     headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
       const memorySection = formatYesterdayMemory(
         yesterdayHeadlines,
-        'TITOLI DI IERI (per continuità — NON ripetere a meno che non ci sia uno sviluppo NUOVO)',
-        'Per storie in corso da ieri con nuovi sviluppi, inseriscile nel livello "developing" con dayNumber (quanti giorni consecutivi) e previousContext (cosa è cambiato oggi specificamente).'
+        'TITOLI DI IERI (solo per continuità — l\'edizione di oggi deve restare autonoma)',
+        'Usali solo per riconoscere le storie in corso. Se una storia in corso è ancora importante oggi, includi abbastanza contesto per chi non ha letto ieri. Usa il livello "developing" solo quando oggi c\'è uno sviluppo concreto nuovo.'
       );
 
       return `IMPORTANTE: Scrivi TUTTO in italiano.
@@ -369,7 +422,7 @@ Crea titoli + sommari per ogni notizia distinta. Scrivi in italiano chiaro e fat
 SISTEMA A LIVELLI — Genera 8-15 titoli in 3 livelli:
 - "top" (2-4): Le notizie più importanti del giorno, sommari dettagliati completi
 - "also" (3-6): Importanti ma non di apertura, sommari più brevi
-- "developing" (0-3): Storie in corso da ieri con cosa è cambiato specificamente oggi
+- "developing" (0-3): Storie in corso ancora importanti oggi, con l'aggiornamento concreto di oggi e contesto sufficiente
 Se meno di 8 storie raggiungono la soglia di qualità, producine meno. Non aggiungere mai storie marginali.
 ${memorySection}
 REGOLE PER I TITOLI:
@@ -394,6 +447,7 @@ FONTE UNICA: Se un articolo NON ha annotazione [Anche: ...], includi "singleSour
 
 	INTEGRITÀ DELLE FONTI:
 	- Usa solo notizie presenti nella lista ARTICOLI.
+	- Scegli l'ARTICLE_ID primario e restituiscilo come numero nel campo "articleIndex".
 	- Copia esattamente il "Link" dell'articolo primario nel campo "link".
 	- Copia esattamente il timestamp "Published" dell'articolo primario nel campo "publishedAt".
 	- Non inventare link, date, fonti, nomi o numeri.
@@ -403,7 +457,7 @@ FONTE UNICA: Se un articolo NON ha annotazione [Anche: ...], includi "singleSour
 	IMPORTANTE: Ogni notizia deve apparire in UN SOLO livello. Non inserire lo stesso evento sia in "top" che in "developing".
 
 	FORMATO JSON OUTPUT:
-	{"headlines":[{"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"ANSA","angle":"...","link":"..."}]},{"title":"...","source":"FonteUnica","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
+	{"headlines":[{"articleIndex":0,"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"ANSA","angle":"...","link":"..."}]},{"articleIndex":1,"title":"...","source":"FonteUnica","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"articleIndex":2,"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
 
 ARTICOLI:
 ${formatArticlesForPrompt(articles, 'Anche')}`;
@@ -412,7 +466,7 @@ ${formatArticlesForPrompt(articles, 'Anche')}`;
     summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
       const yesterdaySection = formatYesterdayContext(
         yesterdayHeadlines,
-        'CONTESTO DI IERI (per riferimento — non ripetere vecchie informazioni, menziona solo cosa è cambiato)'
+        'CONTESTO DI IERI (solo per continuità — il briefing di oggi deve essere completo per chi non ha letto ieri)'
       );
 
       return `Scrivi un briefing quotidiano di 2-3 paragrafi (250-350 parole) IN ITALIANO. Il tuo obiettivo è aiutare i lettori a capire il mondo in 90 secondi.
@@ -425,7 +479,9 @@ ${yesterdaySection}
 REGOLE DI SCRITTURA:
 - Presenta gli eventi in ordine di impatto globale, non di dramma narrativo
 - Indica cosa è successo, chi è coinvolto, cosa ci si aspetta dopo
+- Includi il contesto necessario per capire le notizie di oggi, anche se storie correlate sono apparse ieri
 - Quando fonti o attori sono in disaccordo, riporta entrambe le posizioni
+- Solo testo semplice; niente formattazione Markdown
 - NESSUN arco narrativo, NESSUN inquadramento editoriale, NESSUN aggettivo di valore
 - Fornisci contesto fattuale e connessioni tra eventi correlati
 - Transizioni fattuali ("In [regione]", "Separatamente") non drammatiche ("Nel frattempo, mentre le tensioni aumentano")
@@ -495,8 +551,8 @@ ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publish
     headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
       const memorySection = formatYesterdayMemory(
         yesterdayHeadlines,
-        "TITRES D'HIER (pour continuité — NE PAS répéter sauf s'il y a un NOUVEAU développement)",
-        'Pour les histoires en cours depuis hier avec de nouveaux développements, placez-les dans le niveau "developing" avec dayNumber (combien de jours consécutifs) et previousContext (ce qui a spécifiquement changé aujourd\'hui).'
+        "TITRES D'HIER (continuité uniquement — l'édition d'aujourd'hui doit rester autonome)",
+        'Utilisez-les seulement pour reconnaître les sujets en cours. Si un sujet en cours reste important aujourd\'hui, incluez assez de contexte pour une personne qui n\'a pas lu hier. Utilisez le niveau "developing" seulement quand il existe un développement concret nouveau aujourd\'hui.'
       );
 
       return `IMPORTANT: Écrivez TOUT en français.
@@ -506,7 +562,7 @@ Créez titres + résumés par événement distinct. Écrivez en français clair 
 SYSTÈME DE NIVEAUX — Générez 8-15 titres en 3 niveaux:
 - "top" (2-4): Les événements les plus importants du jour, résumés détaillés complets
 - "also" (3-6): Importants mais pas en une, résumés plus courts
-- "developing" (0-3): Histoires en cours depuis hier avec ce qui a spécifiquement changé aujourd'hui
+- "developing" (0-3): Sujets en cours encore importants aujourd'hui, avec le développement concret du jour et assez de contexte
 Si moins de 8 sujets atteignent le seuil de qualité, produisez-en moins. Ne remplissez jamais avec des sujets marginaux.
 ${memorySection}
 RÈGLES POUR LES TITRES:
@@ -531,6 +587,7 @@ SOURCE UNIQUE: Si un article n'a PAS d'annotation [Aussi: ...], incluez "singleS
 
 	INTÉGRITÉ DES SOURCES:
 	- Utilisez uniquement les sujets présents dans la liste ARTICLES.
+	- Choisissez l'ARTICLE_ID principal et renvoyez-le comme nombre dans "articleIndex".
 	- Copiez exactement le "Link" de l'article principal dans "link".
 	- Copiez exactement l'horodatage "Published" de l'article principal dans "publishedAt".
 	- N'inventez pas de liens, dates, sources, noms ou chiffres.
@@ -540,7 +597,7 @@ SOURCE UNIQUE: Si un article n'a PAS d'annotation [Aussi: ...], incluez "singleS
 	IMPORTANT: Chaque événement doit apparaître dans UN SEUL niveau. Ne placez pas le même événement dans "top" et "developing".
 
 	FORMAT JSON OUTPUT:
-	{"headlines":[{"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"AFP","angle":"...","link":"..."}]},{"title":"...","source":"SourceUnique","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
+	{"headlines":[{"articleIndex":0,"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"AFP","angle":"...","link":"..."}]},{"articleIndex":1,"title":"...","source":"SourceUnique","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"articleIndex":2,"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
 
 ARTICLES:
 ${formatArticlesForPrompt(articles, 'Aussi')}`;
@@ -549,7 +606,7 @@ ${formatArticlesForPrompt(articles, 'Aussi')}`;
     summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
       const yesterdaySection = formatYesterdayContext(
         yesterdayHeadlines,
-        "CONTEXTE D'HIER (pour référence — ne pas répéter d'anciennes informations, mentionner uniquement ce qui a changé)"
+        "CONTEXTE D'HIER (continuité uniquement — le briefing d'aujourd'hui doit être complet pour les lecteurs qui ont sauté hier)"
       );
 
       return `Rédigez un briefing quotidien de 2-3 paragraphes (250-350 mots) EN FRANÇAIS. Votre objectif est d'aider les lecteurs à comprendre le monde en 90 secondes.
@@ -562,7 +619,9 @@ ${yesterdaySection}
 RÈGLES D'ÉCRITURE:
 - Présentez les événements par ordre d'impact mondial, pas de drame narratif
 - Indiquez ce qui s'est passé, qui est concerné, ce qui est attendu ensuite
+- Incluez le contexte nécessaire pour comprendre les sujets d'aujourd'hui, même si des sujets liés sont apparus hier
 - Quand les sources ou acteurs sont en désaccord, exposez les deux positions
+- Texte brut uniquement; pas de formatage Markdown
 - PAS d'arc narratif, PAS de cadrage éditorial, PAS d'adjectifs de valeur
 - Fournissez contexte factuel et connexions entre événements liés
 - Transitions factuelles ("En [région]", "Séparément") pas dramatiques ("Pendant ce temps, alors que les tensions montent")
@@ -593,7 +652,14 @@ Output JSON: {"summary":"<votre briefing ici>"}`;
 
 // Helper to make Chat Completions API calls.
 // When `retry` is false, the caller handles its own retry logic (avoids stacked retries).
-export async function chatCompletion(model: string, systemPrompt: string, userPrompt: string, maxTokens?: number, retry: boolean = true): Promise<string> {
+export async function chatCompletion(
+  model: string,
+  systemPrompt: string,
+  userPrompt: string,
+  maxTokens?: number,
+  retry: boolean = true,
+  jsonMode: boolean = true,
+): Promise<string> {
   const doCall = () => getClient().chat.completions.create({
     model,
     messages: [
@@ -601,10 +667,42 @@ export async function chatCompletion(model: string, systemPrompt: string, userPr
       { role: 'user', content: userPrompt }
     ],
     ...(maxTokens ? { max_tokens: maxTokens } : {}),
+    ...(jsonMode ? { response_format: { type: 'json_object' as const } } : {}),
   });
 
   const response = retry ? await withRetry(doCall) : await doCall();
   return response.choices[0]?.message?.content || '';
+}
+
+async function chatCompletionWithFallback(
+  models: string[],
+  systemPrompt: string,
+  userPrompt: string,
+  maxTokens: number | undefined,
+  operation: string,
+  retry: boolean = true,
+): Promise<{ responseText: string; model: string }> {
+  let lastError: Error | undefined;
+
+  for (const model of models) {
+    try {
+      const apiStart = Date.now();
+      const responseText = await chatCompletion(model, systemPrompt, userPrompt, maxTokens, retry);
+      const apiMs = Date.now() - apiStart;
+
+      if (!responseText.trim()) {
+        throw new Error(`${operation} returned an empty response from model=${model}`);
+      }
+
+      console.log(`${operation}: model=${model} API response time ${apiMs} ms`);
+      return { responseText, model };
+    } catch (error) {
+      lastError = error as Error;
+      console.warn(`${operation}: model=${model} failed: ${errorMessage(error)}`);
+    }
+  }
+
+  throw new Error(`${operation} failed for all configured models: ${lastError?.message || 'unknown error'}`);
 }
 
 async function filterAndRankArticlesChunk(articles: ProcessedArticle[], languageCode: string): Promise<ProcessedArticle[]> {
@@ -612,9 +710,33 @@ async function filterAndRankArticlesChunk(articles: ProcessedArticle[], language
   const threshold = 6;
 
   const systemPrompt = 'You are a neutral news editor. Analyze articles and respond with valid JSON only. No markdown, no explanations.';
-  const responseText = await chatCompletion(MODEL_FILTER, systemPrompt, prompt);
+  let result: { analyses: ArticleAnalysis[] } | null = null;
+  let lastError: Error | undefined;
 
-  const result = safeParseJSON<{ analyses: ArticleAnalysis[] }>(responseText, { analyses: [] });
+  for (const model of MODEL_FILTERS) {
+    try {
+      const { responseText } = await chatCompletionWithFallback(
+        [model],
+        systemPrompt,
+        prompt,
+        4096,
+        'filterAndRankArticles',
+      );
+      const parsed = safeParseJSON<{ analyses: ArticleAnalysis[] }>(responseText, { analyses: [] });
+      if (!Array.isArray(parsed.analyses) || parsed.analyses.length === 0) {
+        throw new Error(`Filtering returned no parseable article analyses from model=${model}`);
+      }
+      result = parsed;
+      break;
+    } catch (error) {
+      lastError = error as Error;
+      console.warn(`filterAndRankArticles: model=${model} produced unusable output: ${errorMessage(error)}`);
+    }
+  }
+
+  if (!result) {
+    throw new Error(`Filtering returned no usable output from configured models: ${lastError?.message || 'unknown error'}`);
+  }
 
   return articles
     .map((article, index) => {
@@ -746,10 +868,17 @@ function deduplicateAcrossTiers(headlines: NewsHeadline[]): NewsHeadline[] {
 }
 
 interface ArticleReference {
+  articleIndex?: number;
   source: string;
   title: string;
   link: string;
   publishedAt: string;
+}
+
+interface GeneratedHeadline extends NewsHeadline {
+  articleIndex?: number;
+  articleId?: number;
+  index?: number;
 }
 
 function normalizeLinkForMatching(link: string | undefined): string {
@@ -764,8 +893,9 @@ function normalizeLinkForMatching(link: string | undefined): string {
 }
 
 function buildArticleReferences(articles: ProcessedArticle[]): ArticleReference[] {
-  return articles.flatMap(article => [
+  return articles.flatMap((article, articleIndex) => [
     {
+      articleIndex,
       source: article.source,
       title: article.title,
       link: article.link,
@@ -780,17 +910,30 @@ function buildArticleReferences(articles: ProcessedArticle[]): ArticleReference[
   ]);
 }
 
+function generatedArticleIndex(headline: GeneratedHeadline): number | undefined {
+  const value = headline.articleIndex ?? headline.articleId ?? headline.index;
+  return typeof value === 'number' && Number.isInteger(value) ? value : undefined;
+}
+
 function reconcileGeneratedHeadlinesWithArticles(
-  headlines: NewsHeadline[],
+  headlines: GeneratedHeadline[],
   articles: ProcessedArticle[],
 ): NewsHeadline[] {
   const references = buildArticleReferences(articles);
+  const byArticleIndex = new Map(
+    references
+      .filter(reference => reference.articleIndex !== undefined)
+      .map(reference => [reference.articleIndex!, reference])
+  );
   const byExactLink = new Map(references.map(reference => [reference.link.trim(), reference]));
   const byNormalizedLink = new Map(references.map(reference => [normalizeLinkForMatching(reference.link), reference]));
 
   return headlines.flatMap(headline => {
     const link = headline.link?.trim();
-    const reference = link
+    const articleIndex = generatedArticleIndex(headline);
+    const reference = articleIndex !== undefined
+      ? byArticleIndex.get(articleIndex)
+      : link
       ? byExactLink.get(link) ?? byNormalizedLink.get(normalizeLinkForMatching(link))
       : undefined;
 
@@ -799,12 +942,16 @@ function reconcileGeneratedHeadlinesWithArticles(
       return [];
     }
 
+    const cleanHeadline = { ...headline };
+    delete cleanHeadline.articleIndex;
+    delete cleanHeadline.articleId;
+    delete cleanHeadline.index;
     const sources = Array.from(new Set(
       [reference.source, ...(headline.sources ?? []), headline.source].filter((source): source is string => Boolean(source))
     ));
 
     return [{
-      ...headline,
+      ...cleanHeadline,
       source: reference.source,
       sources,
       link: reference.link,
@@ -816,30 +963,50 @@ function reconcileGeneratedHeadlinesWithArticles(
 
 export async function generateHeadlines(articles: ProcessedArticle[], languageCode: string = 'en', yesterdayHeadlines: NewsHeadline[] = []): Promise<NewsHeadline[]> {
   const prompt = getPrompts(languageCode).headlinesPrompt(articles, yesterdayHeadlines);
+  let lastError: Error | undefined;
 
-  try {
-    const responseText = await chatCompletion(MODEL_HEADLINES, getSystemPrompt(languageCode, 'headlines'), prompt, 4096);
+  for (const model of MODEL_HEADLINES) {
+    try {
+      const { responseText } = await chatCompletionWithFallback(
+        [model],
+        getSystemPrompt(languageCode, 'headlines'),
+        prompt,
+        4096,
+        'generateHeadlines',
+      );
 
-    const result = safeParseJSON(responseText, { headlines: [] as NewsHeadline[] });
-    const headlines = result.headlines || [];
+      const result = safeParseJSON(responseText, { headlines: [] as GeneratedHeadline[] });
+      const headlines = result.headlines || [];
+      if (headlines.length === 0) {
+        throw new Error(`Headlines response from model=${model} contained 0 headlines`);
+      }
 
-    // Post-parse fallback: ensure all headlines have tier, sources, and singleSource
-    const reconciled = reconcileGeneratedHeadlinesWithArticles(headlines, articles);
-    const enriched = reconciled.map(h => {
-      const sources = h.sources && h.sources.length > 0 ? h.sources : [h.source];
-      return {
-        ...h,
-        tier: (h.tier as Tier) || 'also',
-        sources,
-        singleSource: h.singleSource ?? (sources.length <= 1),
-      };
-    });
+      // Post-parse guardrail: source links, sources, and timestamps come from
+      // local input articles, not from the model's copied text.
+      const reconciled = reconcileGeneratedHeadlinesWithArticles(headlines, articles);
+      const enriched = reconciled.map(h => {
+        const sources = h.sources && h.sources.length > 0 ? h.sources : [h.source];
+        return {
+          ...h,
+          tier: (h.tier as Tier) || 'also',
+          sources,
+          singleSource: h.singleSource ?? (sources.length <= 1),
+        };
+      });
+      const deduped = deduplicateAcrossTiers(enriched);
 
-    return deduplicateAcrossTiers(enriched);
-  } catch (error) {
-    console.error('Error generating headlines:', error);
-    return [];
+      if (deduped.length === 0) {
+        throw new Error(`Headlines response from model=${model} had no source-backed headlines after reconciliation`);
+      }
+
+      return deduped;
+    } catch (error) {
+      lastError = error as Error;
+      console.warn(`generateHeadlines: model=${model} failed: ${errorMessage(error)}`);
+    }
   }
+
+  throw new Error(`Failed to generate headlines for ${languageCode}: ${lastError?.message || 'unknown error'}`);
 }
 
 export async function generateDailySummary(headlines: NewsHeadline[], languageCode: string = 'en', yesterdayHeadlines: NewsHeadline[] = []): Promise<string> {
@@ -851,9 +1018,7 @@ export async function generateDailySummary(headlines: NewsHeadline[], languageCo
   const prompt = getPrompts(languageCode).summaryPrompt(headlines, yesterdayHeadlines);
   const systemPrompt = getSystemPrompt(languageCode, 'summary');
   const MAX_ATTEMPTS_PER_MODEL = 2;
-  const summaryModels = Array.from(
-    new Set([MODEL_SUMMARY, MODEL_SUMMARY_FALLBACK].filter((m): m is string => Boolean(m)))
-  );
+  const summaryModels = MODEL_SUMMARIES;
   let lastError: Error | undefined;
 
   for (let modelIndex = 0; modelIndex < summaryModels.length; modelIndex++) {
@@ -952,8 +1117,33 @@ OUTPUT: {"categories":[{"index":0,"category":"conflict","region":"europe","impor
   const systemPrompt = 'You are a news categorization system. Analyze headlines and respond with valid JSON only. No markdown, no explanations.';
 
   try {
-    const responseText = await chatCompletion(MODEL_FILTER, systemPrompt, prompt);
-    const result = safeParseJSON<{ categories: HeadlineCategorization[] }>(responseText, { categories: [] });
+    let result: { categories: HeadlineCategorization[] } | null = null;
+    let lastError: Error | undefined;
+
+    for (const model of MODEL_FILTERS) {
+      try {
+        const { responseText } = await chatCompletionWithFallback(
+          [model],
+          systemPrompt,
+          prompt,
+          2048,
+          'categorizeHeadlines',
+        );
+        const parsed = safeParseJSON<{ categories: HeadlineCategorization[] }>(responseText, { categories: [] });
+        if (!Array.isArray(parsed.categories) || parsed.categories.length === 0) {
+          throw new Error(`Categorization returned no parseable categories from model=${model}`);
+        }
+        result = parsed;
+        break;
+      } catch (error) {
+        lastError = error as Error;
+        console.warn(`categorizeHeadlines: model=${model} produced unusable output: ${errorMessage(error)}`);
+      }
+    }
+
+    if (!result) {
+      throw new Error(`Categorization returned no usable output from configured models: ${lastError?.message || 'unknown error'}`);
+    }
 
     return headlines.map((headline, index) => {
       const match = result.categories?.find(c => c.index === index);

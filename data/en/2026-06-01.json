@@ -1,17 +1,271 @@
 {
   "date": "2026-06-01",
-  "summary": "",
-  "headlines": [],
-  "unavailable": true,
-  "unavailableReason": "Headline generation failed: LLM returned 0 headlines from 20 filtered articles (397 total fetched)",
+  "summary": "Satellite images analyzed by BBC Verify show that Iran has struck 20 US military sites since the conflict began, a broader impact than previously acknowledged. The strikes were more extensive than publicly reported. In response, US aircraft struck multiple Iranian military sites over the weekend, including Qeesham Island in the Strait of Hormuz, marking a significant escalation in US-Iran military confrontation. Separately, Israeli Prime Minister Benjamin Netanyahu ordered strikes on the Dahieh suburb of Beirut, a Hezbollah stronghold, in response to attacks on Israeli civilians, raising concerns about a wider regional war. Iran suspended nuclear negotiations with the US in protest of Israel's strikes on Lebanon, with analysts warning that Iran's Houthi allies could threaten the Bab El Mandeb strait.\n\nIn Asia, China's government drafted a comprehensive sanctions list targeting the US and its allies across 63 technology sectors, responding to US export controls on semiconductors, AI, and quantum computing. Indian Prime Minister Narendra Modi met Myanmar's military leader Min Aung Hlaing in New Delhi, drawing criticism from Myanmar opposition groups, though India defended the engagement as the best approach to bilateral ties. A huge explosion killed dozens in a rebel-held village in Myanmar near the Chinese border, with insurgents saying the blast was caused by explosives used for mining. Hong Kong leader John Lee began a five-day Central Asia visit in Kazakhstan, meeting President Tokayev and promoting Hong Kong as a superconnector for global markets.\n\nIn Africa, Ghana's parliament approved a bill criminalising LGBTQ+ promotion and identity, with prison sentences of 3 to 10 years; rights groups warn people fear losing homes, jobs, and healthcare access, and President Mahama may ratify the bill. Confirmed Ebola cases in Congo's Ituri province reached 282, with over 1,000 suspected cases, and the Bundibugyo virus strain has no approved treatment or vaccine, complicating containment efforts. In medical news, a study found that an mRNA vaccine combined with immunotherapy drug Keytruda significantly reduces melanoma recurrence, targeting individual tumors. In Ethiopia, voters went to the polls Monday in parliamentary and regional elections expected to give Prime Minister Abiy's Prosperity Party a landslide win, though voting was interrupted in parts of Oromia and Amhara due to security problems, and no vote occurred in Tigray.",
+  "headlines": [
+    {
+      "title": "Satellite images show Iran damaged 20 US military sites since war began",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "summary": "Satellite imagery analyzed by BBC Verify reveals Iran hit 20 US military sites since the conflict started, more extensive than publicly acknowledged. Analysts say the strikes were broader than previously reported.",
+      "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-01T05:33:18.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Led with satellite evidence and analyst assessment of scale",
+          "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "summary": "Israeli Prime Minister Benjamin Netanyahu ordered strikes on the Dahieh suburb of Beirut, a Hezbollah stronghold, in response to attacks on Israeli civilians. The escalation raises concerns of wider regional war.",
+      "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-01T14:13:53.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Focused on Netanyahu's order and rationale for targeting Dahieh",
+          "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "US aircraft strike Iranian military sites including Qeeshm Island",
+      "source": "NPR News",
+      "sources": [
+        "NPR News"
+      ],
+      "summary": "American aircraft struck multiple Iranian military sites over the weekend, including Qeeshm Island in the Strait of Hormuz. The strikes mark a significant escalation in US-Iran military confrontation.",
+      "link": "https://www.npr.org/2026/06/01/g-s1-125147/up-first-newsletter-iran-us-anti-weaponization-fund-graham-platner-newsmakers",
+      "publishedAt": "2026-06-01T11:07:22.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "NPR News",
+          "angle": "Reported US strikes and linked to domestic political scrutiny of Trump fund",
+          "link": "https://www.npr.org/2026/06/01/g-s1-125147/up-first-newsletter-iran-us-anti-weaponization-fund-graham-platner-newsmakers"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ghana passes law criminalising LGBTQ+ activity, sparking fear and panic",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "Ghana's parliament approved a bill criminalising LGBTQ+ promotion and identity, with prison sentences of 3-10 years. Rights groups warn people fear losing homes, jobs, and healthcare access. President Mahama may ratify.",
+      "link": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "publishedAt": "2026-06-01T11:59:11.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Guardian",
+          "angle": "Emphasized community fear and human rights impact of the law",
+          "link": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity"
+        }
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "mRNA cancer vaccine shows effectiveness against melanoma recurrence",
+      "source": "NPR News",
+      "sources": [
+        "NPR News"
+      ],
+      "summary": "A study finds an mRNA vaccine, combined with immunotherapy drug Keytruda, significantly reduces melanoma recurrence. The personalized vaccine targets individual tumors, offering new hope for skin cancer patients.",
+      "link": "https://www.npr.org/2026/06/01/nx-s1-5827041/cancer-vaccine-mrna-melanoma",
+      "publishedAt": "2026-06-01T12:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "China drafts sanctions list targeting US and allies across 63 tech sectors",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "summary": "A Chinese government team drafted a comprehensive sanctions list against the US and its allies covering 63 technology sectors. The move responds to US export controls on semiconductors, AI, and quantum computing.",
+      "link": "https://www.scmp.com/news/china/science/article/3355495/china-team-drafts-comprehensive-sanctions-list-targeting-us-allies-63-tech-sectors?utm_source=rss_feed",
+      "publishedAt": "2026-06-01T15:00:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Ethiopia votes in elections expected to give Abiy's party landslide win",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "AllAfrica"
+      ],
+      "summary": "Ethiopians voted in parliamentary and regional elections Monday, with PM Abiy's Prosperity Party expected to win easily. Voting was interrupted in parts of Oromia and Amhara due to security problems, and no vote occurred in Tigray.",
+      "link": "https://www.france24.com/en/africa/20260601-ethiopia-votes-in-elections-expected-to-give-abiy-s-party-a-landslide-win",
+      "publishedAt": "2026-06-01T15:14:01.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Emphasized landslide expectation and regional voting interruptions",
+          "link": "https://www.france24.com/en/africa/20260601-ethiopia-votes-in-elections-expected-to-give-abiy-s-party-a-landslide-win"
+        },
+        {
+          "source": "AllAfrica",
+          "angle": "Focused on NEBE report of 143 polling stations closed due to security",
+          "link": "https://allafrica.com/stories/202606010554.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Indian PM Modi meets Myanmar military chief Min Aung Hlaing in Delhi",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "summary": "Indian PM Narendra Modi met Myanmar's military leader Min Aung Hlaing in New Delhi. Myanmar opposition groups criticized the meeting, but India defended engagement as the best approach to bilateral ties.",
+      "link": "https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss",
+      "publishedAt": "2026-06-01T14:45:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Ebola cases in Congo reach 282 with no approved vaccine for Bundibugyo",
+      "source": "NPR News",
+      "sources": [
+        "NPR News"
+      ],
+      "summary": "Confirmed Ebola cases in Congo's Ituri province reached 282, with over 1,000 suspected cases. The Bundibugyo virus strain has no approved treatment or vaccine, complicating containment efforts.",
+      "link": "https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates",
+      "publishedAt": "2026-06-01T10:52:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Hong Kong leader John Lee urges Kazakhstan to use city's advantages",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "summary": "Hong Kong leader John Lee began a five-day Central Asia visit in Kazakhstan, meeting President Tokayev. Lee promoted Hong Kong as a 'superconnector' for global markets, sealing partnership deals.",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355603/make-use-hong-kongs-advantages-john-lee-urges-kazakhstan-leaders-companies?utm_source=rss_feed",
+      "publishedAt": "2026-06-01T15:50:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Blast kills dozens in rebel-held Myanmar village near Chinese border",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "summary": "A huge explosion killed dozens in a rebel-held village in Myanmar near the Chinese border. Insurgents said the blast was caused by explosives used for mining. The incident adds to the country's ongoing conflict.",
+      "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-01T06:23:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran suspends talks with US over Israel's strikes on Lebanon",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "ABC Australia"
+      ],
+      "summary": "Iran halted nuclear negotiations with the US in protest of Israel's strikes on Lebanon. Iranian state media reported the suspension. Analysts warn Iran's Houthi allies could threaten the Bab El Mandeb strait.",
+      "link": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece",
+      "publishedAt": "2026-06-01T15:52:54.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Iran and the US had been engaged in indirect talks to de-escalate regional tensions. The talks were seen as a key diplomatic channel to prevent wider conflict.",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Linked suspension to potential Houthi blockade of Bab El Mandeb",
+          "link": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Reported suspension as direct protest over Israeli conduct in Lebanon",
+          "link": "https://www.abc.net.au/news/2026-06-02/iranian-media-reports-talks-between-us-and-iran-halted/106747668"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
   "metadata": {
-    "sourcesUsed": 0,
-    "articlesProcessed": 397,
-    "articlesAfterDedup": 396,
-    "articlesAfterDiversity": 65,
-    "articlesAfterFilter": 20,
+    "sourcesUsed": 9,
+    "articlesProcessed": 326,
+    "articlesAfterDedup": 326,
+    "articlesAfterDiversity": 60,
+    "articlesAfterFilter": 16,
     "freshnessCutoffHours": 48,
-    "categoryCounts": {},
-    "regionCounts": {}
+    "oldestHeadlineAgeHours": 10.5,
+    "categoryCounts": {
+      "conflict": 4,
+      "society": 1,
+      "science": 2,
+      "economy": 1,
+      "politics": 4
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "africa": 3,
+      "global": 1,
+      "asia-pacific": 4
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 7,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
   }
 }

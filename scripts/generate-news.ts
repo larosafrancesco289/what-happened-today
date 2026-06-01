@@ -23,8 +23,8 @@ console.log(`Running pipeline for language: ${requestedLanguage}`);
 
 runDailyPipeline(requestedLanguage).then((result) => {
   if (!result.success) {
-    console.warn(`Pipeline completed with unavailable output for ${requestedLanguage}.`);
-    process.exit(0);
+    console.error(`Pipeline failed for ${requestedLanguage}: ${result.error || 'unknown error'}`);
+    process.exit(1);
   }
 
   console.log('All operations completed successfully!');

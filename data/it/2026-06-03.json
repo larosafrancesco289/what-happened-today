@@ -1,39 +1,33 @@
 {
   "date": "2026-06-03",
-  "summary": "La notte nel Golfo Persico è stata segnata da raid incrociati tra Stati Uniti e Iran. Gli Usa hanno bloccato una petroliera battente bandiera del Botswana diretta verso un porto iraniano, colpendo poi un'antenna di telecomunicazioni sull'isola di Qeshm. L'Iran ha risposto con missili e droni contro basi statunitensi in Kuwait e Bahrein, e un drone ha colpito un terminal dell'aeroporto del Kuwait, ferendo diverse persone e chiudendo il traffico aereo. La tensione è altissima, e la situazione resta in evoluzione.\n\nA Nuova Delhi, un incendio in un bed and breakfast economico, il Flourish Stay, ha ucciso almeno 21 persone e ne ha ferite oltre 40. Molte vittime erano cittadini africani in India per cure mediche. Le cause del rogo sono in fase di accertamento, e il primo ministro Narendra Modi ha espresso le sue condoglianze. In India gli incendi sono frequenti a causa di infrastrutture fatiscenti e norme di sicurezza inadeguate.\n\nSul fronte della guerra in Ucraina, un drone ucraino ha colpito un autobus in Russia, uccidendo 7 persone e ferendone 11. Sempre in Russia, un maxi-terminal petrolifero a San Pietroburgo è stato colpito, complicando gli sforzi per il Forum Economico Internazionale in corso. Intanto, in Libano, il quartiere sciita di Dahieh, a Beirut, si sta svuotando: i residenti vivono con le valigie pronte a fuggire a ogni allarme, in attesa di possibili raid israeliani.\n\nInfine, due notizie economiche e una tecnologica. La Banca europea per la ricostruzione e lo sviluppo ha tagliato le stime di crescita per le sue regioni, a causa dell'inflazione salita al 6,4% per l'aumento dei prezzi dell'energia legato alla guerra in Iran. Il Canada ha proposto a Stati Uniti e Messico un rinnovo di 16 anni dell'accordo di libero scambio, definendolo vantaggioso per l'economia nordamericana. E Microsoft ha presentato sette modelli di intelligenza artificiale proprietari al Build 2026, segnalando la volontà di ridurre la dipendenza da partner come OpenAI e competere direttamente nel mercato AI.",
+  "summary": "Stamattina il Golfo Persico è scenario di un'escalation militare. Gli Stati Uniti hanno bombardato un'antenna di telecomunicazioni sull'isola iraniana di Qeshm. L'Iran ha risposto colpendo l'aeroporto del Kuwait e una nave statunitense-israeliana. Trump ha dichiarato che Teheran ha accettato di rinunciare alle armi nucleari. Nel frattempo, l'Iran ha imposto pedaggi per il transito nello Stretto di Hormuz: gli armatori, inclusi quelli italiani, devono ora ottenere un'autorizzazione preliminare. Una mossa che potrebbe influenzare il commercio globale e i prezzi dell'energia.\n\nIn Ucraina, droni hanno colpito raffinerie e un terminale portuale nella regione di San Pietroburgo, durante il Forum Economico Internazionale. L'aeroporto Pulkovo ha rallentato il traffico. Il capo dell'Aiea, Rafael Grossi, ha avvertito che l'attacco con droni alla centrale nucleare di Barakah, negli Emirati, era più pericoloso di quello di Zaporizhzhia e avrebbe potuto causare un grave incidente radiologico. Intanto, la Russia alza i toni contro l'Ue, paragonandola alla Germania nazista, e si teme possa essere il pretesto per una nuova mobilitazione.\n\nSul fronte economico, l'Ocse ha tagliato le stime di crescita globale per il 2026 e avverte: senza un cessate il fuoco in Medio Oriente entro il 2027, il rischio di una recessione globale è concreto. L'Ue reagisce concedendo deroghe al Patto di stabilità per investimenti energetici: fino allo 0,3% del Pil all'anno per tre anni, con un limite cumulato dello 0,6%. Lo ha annunciato il commissario Dombrovskis, precisando che l'Italia potrà usare questa flessibilità. Niente obblighi per la Difesa.\n\nInfine, un dato sull'Italia: dal 2007 al 2024 l'industria manifatturiera ha perso 700mila posti di lavoro, ma l'occupazione totale è aumentata trainata da sanità, assistenza sociale, ristorazione e servizi professionali. Una trasformazione che cambia il volto del mercato del lavoro.",
   "headlines": [
     {
-      "title": "Usa bombardano Qeshm e Iran colpisce Kuwait e Bahrein, notte di raid nel Golfo",
+      "title": "Usa colpiscono isola di Qeshm, Iran lancia missili su Kuwait e nave israeliana",
       "source": "AGI",
       "sources": [
         "AGI",
-        "ANSA",
-        "Euronews Italiano",
+        "TGCOM24",
         "la Repubblica"
       ],
-      "summary": "Gli Usa hanno bloccato una petroliera e colpito un'antenna a Qeshm; l'Iran ha risposto con missili e droni su Kuwait e Bahrain, sospendendo i voli. La tensione cresce nel Golfo Persico.",
+      "summary": "Gli Stati Uniti hanno bombardato un'antenna di comunicazioni sull'isola iraniana di Qeshm. L'Iran ha risposto colpendo l'aeroporto del Kuwait e una nave statunitense-israeliana, mentre Trump annuncia che Teheran ha rinunciato alle armi nucleari.",
       "link": "https://www.agi.it/estero/news/2026-06-03/iran-guerra-diretta-3-giugno-37353205/",
-      "publishedAt": "2026-06-03T08:33:59.000Z",
+      "publishedAt": "2026-06-03T11:20:05.000Z",
       "tier": "top",
       "framings": [
         {
-          "source": "ANSA",
-          "angle": "Ha aperto con le cifre delle vittime e la meccanica dell'esplosione",
-          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/02/lira-di-trump-contro-netanyahu-sei-un-pazzo-senza-di-me-saresti-in-galera_639876b8-1c3e-4b54-a842-6e7c10451db2.html"
+          "source": "TGCOM24",
+          "angle": "Aperto con dichiarazione Trump e raid su Qeshm e Kuwait",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3-giugno_112823032-202602k.shtml"
         },
         {
           "source": "AGI",
-          "angle": "Ha descritto la sequenza degli attacchi incrociati tra Usa e Iran",
+          "angle": "Ha dettagliato scambio di missili e blocco petroliera",
           "link": "https://www.agi.it/estero/news/2026-06-03/iran-guerra-diretta-3-giugno-37353205/"
         },
         {
-          "source": "Euronews Italiano",
-          "angle": "Ha evidenziato i danni all'aeroporto del Kuwait e il ruolo dei Pasdaran",
-          "link": "http://it.euronews.com/2026/06/03/attacco-di-droni-iraniani-danneggia-gravemente-aeroporto-del-kuwait"
-        },
-        {
           "source": "la Repubblica",
-          "angle": "Ha sottolineato le ritorsioni e la strategia dell'isola di Qeshm",
+          "angle": "Ha evidenziato attacchi a basi Usa in Kuwait, Bahrein, Arabia Saudita",
           "link": "https://www.repubblica.it/esteri/2026/06/03/news/medio_oriente_battaglia_usa_iran_razzi_contro_kuwait_bahrein_dopo_attacco_isola_qeshm-425385877/?rss"
         }
       ],
@@ -43,149 +37,180 @@
       "importance": "breaking"
     },
     {
-      "title": "Incendio in un albergo a Nuova Delhi uccide almeno 21 persone, oltre 40 feriti",
-      "source": "AGI",
+      "title": "L'Ucraina colpisce raffinerie a San Pietroburgo durante il Forum economico",
+      "source": "la Repubblica",
       "sources": [
-        "AGI",
-        "TGCOM24"
-      ],
-      "summary": "Un incendio è scoppiato nel Flourish Stay, un bed and breakfast a Malviya Nagar. 37 persone sono state salvate, ma si temono altre vittime. Le cause sono in fase di accertamento.",
-      "link": "https://www.agi.it/estero/news/2026-06-03/nuova-delhi-incendio-hotel-morti-incendio-in-un-albergo-a-nuova-delhi-almeno-21-morti-37354634/",
-      "publishedAt": "2026-06-03T08:58:03.000Z",
-      "tier": "top",
-      "framings": [
-        {
-          "source": "AGI",
-          "angle": "Ha riportato la dinamica e la citazione della polizia locale",
-          "link": "https://www.agi.it/estero/news/2026-06-03/nuova-delhi-incendio-hotel-morti-incendio-in-un-albergo-a-nuova-delhi-almeno-21-morti-37354634/"
-        },
-        {
-          "source": "TGCOM24",
-          "angle": "Ha menzionato vittime straniere e l'ubicazione a Malviya Nagar",
-          "link": "https://www.tgcom24.mediaset.it/mondo/india-incendio-nuova-dehli-almeno-21-morti_112827134-202602k.shtml"
-        }
-      ],
-      "singleSource": false,
-      "category": "society",
-      "region": "asia-pacific",
-      "importance": "breaking"
-    },
-    {
-      "title": "Drone ucraino colpisce un bus russo uccidendo 7 persone e ferendone 11",
-      "source": "ANSA",
-      "sources": [
-        "ANSA",
         "la Repubblica"
       ],
-      "summary": "Un drone ucraino ha attaccato un autobus in Russia. Contemporaneamente, un maxi-terminal petrolifero a San Pietroburgo è stato colpito, complicando gli sforzi per il Forum Economico Internazionale.",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/02/pioggia-di-droni-e-missili-su-kiev-e-lucraina-almeno-17-morti.-si-scava-tra-le-macerie_a35d677c-59df-4b9c-bee6-b6fd15e82321.html",
-      "publishedAt": "2026-06-03T08:05:02.000Z",
+      "summary": "Droni ucraini hanno attaccato raffinerie e un terminale portuale nella regione di San Pietroburgo, costringendo l'aeroporto Pulkovo a rallentare il traffico. L'attacco coincide con il Forum Economico Internazionale, presente una delegazione Usa.",
+      "link": "https://www.repubblica.it/esteri/2026/06/03/news/san_pietroburgo_ucraina_colpisce_raffinerie_forum_economico-425386572/?rss",
+      "publishedAt": "2026-06-03T11:20:29.000Z",
       "tier": "top",
-      "framings": [
-        {
-          "source": "ANSA",
-          "angle": "Ha aperto con il bilancio e la situazione a Kiev",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/02/pioggia-di-droni-e-missili-su-kiev-e-lucraina-almeno-17-morti.-si-scava-tra-le-macerie_a35d677c-59df-4b9c-bee6-b6fd15e82321.html"
-        },
-        {
-          "source": "la Repubblica",
-          "angle": "Ha contestualizzato l'attacco con il Forum Economico di San Pietroburgo",
-          "link": "https://www.repubblica.it/esteri/2026/06/03/news/san_pietroburgo_forum_economico_internazionale_delegazione_usa-425386232/?rss"
-        }
-      ],
-      "singleSource": false,
+      "singleSource": true,
       "category": "conflict",
       "region": "europe",
       "importance": "breaking"
     },
     {
-      "title": "Microsoft presenta 7 modelli IA proprietari per competere con OpenAI e Anthropic",
+      "title": "Attacco con droni a Barakah è stato più pericoloso di Zaporizhzhia, dice capo Aiea",
       "source": "Euronews Italiano",
-      "summary": "Al Build 2026, Microsoft ha lanciato sette modelli di intelligenza artificiale proprietari, segnalando la volontà di ridurre la dipendenza da partner esterni e di competere direttamente nel mercato AI.",
-      "link": "http://it.euronews.com/business/2026/06/03/microsoft-lancia-modelli-di-ia-proprietari-per-sfidare-openai-e-anthropic",
-      "publishedAt": "2026-06-03T07:31:53.000Z",
-      "tier": "also",
-      "singleSource": true,
       "sources": [
         "Euronews Italiano"
       ],
-      "category": "science",
-      "region": "global",
-      "importance": "major"
+      "summary": "Il direttore dell'Aiea Rafael Grossi ha dichiarato a Euronews che l'attacco di droni alla centrale nucleare di Barakah negli Emirati Arabi Uniti, con reattori attivi, presentava un rischio maggiore rispetto a Zaporizhzhia e poteva causare un grave incidente radiologico.",
+      "link": "http://it.euronews.com/2026/06/03/attacco-con-droni-a-barakah-piu-pericoloso-di-zaporizhzhia-dice-il-capo-aiea-a-euronews",
+      "publishedAt": "2026-06-03T11:24:20.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
     },
     {
-      "title": "Canada propone rinnovo di 16 anni per l'accordo di libero scambio con USA e Messico",
+      "title": "L'Ocse taglia stima crescita globale 2026 e avverte recessione se guerra in Iran continua",
       "source": "Euronews Italiano",
-      "summary": "Il Canada ha inviato una lettera ai rappresentanti commerciali di Stati Uniti e Messico chiedendo il rinnovo dell'accordo per 16 anni, definendolo vantaggioso per l'economia nordamericana integrata.",
-      "link": "http://it.euronews.com/2026/06/03/canada-chiede-il-rinnovo-per-16-anni-dellaccordo-di-libero-scambio-con-usa-e-messico",
-      "publishedAt": "2026-06-03T07:07:40.000Z",
-      "tier": "also",
-      "singleSource": true,
       "sources": [
         "Euronews Italiano"
       ],
-      "category": "politics",
-      "region": "americas",
-      "importance": "notable"
-    },
-    {
-      "title": "BERS taglia stime di crescita per shock energetico dovuto alla guerra in Iran",
-      "source": "Euronews Italiano",
-      "summary": "La Banca europea per la ricostruzione e lo sviluppo ha ridotto le previsioni di crescita economica per le sue regioni, citando l'inflazione salita al 6,4% a causa dell'aumento dei prezzi dell'energia per la guerra in Iran.",
-      "link": "http://it.euronews.com/business/2026/06/03/la-bers-taglia-le-stime-di-crescita-per-lo-shock-energetico-della-guerra-in-iran",
-      "publishedAt": "2026-06-03T07:03:46.000Z",
-      "tier": "also",
+      "summary": "L'Ocse ha ridotto le previsioni di crescita economica mondiale per il 2026, avvertendo che senza un cessate il fuoco in Medio Oriente entro il 2027 il rischio di una recessione globale diventa concreto. L'istituzione ha parlato di shock economico.",
+      "link": "http://it.euronews.com/business/2026/06/03/ocse-taglia-stima-crescita-globale-2026-e-avverte-rischio-recessione-se-guerra-in-iran-con",
+      "publishedAt": "2026-06-03T11:15:13.000Z",
+      "tier": "top",
       "singleSource": true,
-      "sources": [
-        "Euronews Italiano"
-      ],
       "category": "economy",
       "region": "global",
       "importance": "major"
     },
     {
-      "title": "Dahieh si svuota: il cuore sciita di Beirut vive in attesa di raid israeliani",
+      "title": "Casa Bianca offre verifica volontaria modelli IA prima del lancio dopo allarme Anthropic",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "L'amministrazione Trump ha annunciato che le aziende di intelligenza artificiale potranno far verificare i loro modelli dalla Casa Bianca un mese prima del lancio. L'ordine esecutivo segue le preoccupazioni sollevate da Anthropic sulla sicurezza dell'IA.",
+      "link": "http://it.euronews.com/next/2026/06/03/casa-bianca-offrira-verifica-dei-modelli-di-ia-prima-del-lancio-dopo-allarme-anthropic",
+      "publishedAt": "2026-06-03T10:41:07.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Ue concede deroghe al Patto di stabilità per investimenti energetici, dice Dombrovskis",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Il commissario Ue Valdis Dombrovskis ha annunciato che saranno possibili deroghe al Patto di stabilità per spese energetiche fino allo 0,3% del Pil all'anno per tre anni, con limite cumulato dello 0,6%. L'Italia potrà usare la flessibilità. Nessun obbligo per la Difesa.",
+      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/06/03/ue-deroghe-al-patto-anche-per-lenergia_2d11385c-7e7a-420e-a199-f3987e83277b.html",
+      "publishedAt": "2026-06-03T11:17:06.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ue vuole nuove norme per ridurre dipendenza da Cina nelle catene di approvvigionamento",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Bruxelles intende varare regole per spingere le aziende europee a diversificare i fornitori, definendo \"insostenibile\" l'attuale rapporto commerciale con Pechino. L'iniziativa mira a ridurre la vulnerabilità dell'Europa a shock esterni.",
+      "link": "http://it.euronews.com/my-europe/2026/06/03/ue-vs-cina-leuropa-puo-ridurre-la-dipendenza-dalle-catene-di-approvvigionamento",
+      "publishedAt": "2026-06-03T10:54:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Dal 2007 industria persa 700mila posti, occupazione cresciuta in sanità e ristorazione",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Secondo l'Istat, dal 2007 al 2024 l'industria manifatturiera ha perso 700mila lavoratori, ma l'occupazione totale in Italia è aumentata trainata da sanità, assistenza sociale, ristorazione e attività professionali. Il dato evidenzia la trasformazione del mercato del lavoro.",
+      "link": "https://www.ilsole24ore.com/art/dalla-manifattura-sanita-e-ristorazione-ecco-settori-che-hanno-perso-lavoratori-e-quelli-che-li-hanno-guadagnati-AI8txERD",
+      "publishedAt": "2026-06-03T09:48:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Alta tensione tra Trump e Netanyahu per i continui raid israeliani in Libano",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Un drone israeliano ha colpito un'auto a sud di Beirut, mentre raid nel Libano meridionale causano almeno 10 morti. Hezbollah lancia droni verso il nord di Israele e l'Idf ordina l'evacuazione di tre villaggi vicino a Sidone. Cresce lo scontro tra Trump e Netanyahu.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/libano-alta-tensione-tra-trump-e-netanyahu-per-i-continui-raid-sul-paese_112831379-02k.shtml",
+      "publishedAt": "2026-06-03T10:56:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russia alza i toni contro l'Ue equiparandola alla Germania nazista, possibile mobilitazione",
       "source": "la Repubblica",
-      "summary": "I residenti di Dahieh, quartiere sud di Beirut, vivono con le valigie pronte a fuggire a ogni allarme. L'esodo prosegue al ritmo dei raid israeliani, con la popolazione in costante tensione.",
-      "link": "https://www.repubblica.it/esteri/2026/06/03/news/eterno_esodo_dahieh_beirut_raid_israele-425385770/?rss",
-      "publishedAt": "2026-06-02T23:00:00.000Z",
-      "tier": "developing",
-      "dayNumber": 1,
-      "previousContext": "I raid israeliani hanno colpito ripetutamente la periferia sud di Beirut, spingendo la popolazione a prepararsi all'evacuazione.",
       "sources": [
         "la Repubblica"
       ],
+      "summary": "Mosca ha intensificato la retorica contro l'Unione Europea, paragonandola alla Germania nazista. L'escalation verbale potrebbe servire da pretesto per una nuova mobilitazione militare russa, secondo l'analisi di Repubblica.",
+      "link": "https://www.repubblica.it/esteri/dossier/lena/2026/06/03/news/russia_contro_l_europa_finito_sogno_pace-425386547/?rss",
+      "publishedAt": "2026-06-03T10:56:05.000Z",
+      "tier": "also",
       "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran impone pedaggi per transito nello Stretto di Hormuz, coinvolte navi italiane",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Teheran ha creato un'Autorità per la Gestione del Traffico Marittimo nello Stretto di Hormuz. Gli armatori, compresi quelli italiani, devono ottenere un'autorizzazione preliminare per il transito, con implicazioni per il commercio globale e l'approvvigionamento energetico.",
+      "link": "https://www.ilsole24ore.com/art/hormuz-anche-l-italia-fa-conti-il-sistema-pedaggi-imposti-dall-iran-AIfeMIQD",
+      "publishedAt": "2026-06-03T06:42:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "L'Iran ha istituito una nuova autorità per regolare il transito nello Stretto di Hormuz, punto nevralgico per il trasporto di petrolio.",
       "category": "conflict",
       "region": "middle-east",
       "importance": "breaking"
     }
   ],
   "metadata": {
-    "sourcesUsed": 5,
-    "articlesProcessed": 194,
-    "articlesAfterDedup": 193,
+    "sourcesUsed": 6,
+    "articlesProcessed": 193,
+    "articlesAfterDedup": 190,
     "articlesAfterDiversity": 35,
-    "articlesAfterFilter": 14,
+    "articlesAfterFilter": 15,
     "freshnessCutoffHours": 48,
-    "oldestHeadlineAgeHours": 10,
+    "oldestHeadlineAgeHours": 4.7,
     "categoryCounts": {
-      "conflict": 3,
-      "society": 1,
-      "science": 1,
-      "politics": 1,
-      "economy": 1
+      "conflict": 5,
+      "economy": 2,
+      "politics": 4
     },
     "regionCounts": {
-      "middle-east": 2,
-      "asia-pacific": 1,
-      "europe": 1,
-      "global": 2,
-      "americas": 1
+      "middle-east": 3,
+      "europe": 4,
+      "global": 1,
+      "americas": 3
     },
     "tierCounts": {
-      "top": 3,
-      "also": 3,
+      "top": 4,
+      "also": 6,
       "developing": 1
     },
     "qualityWarnings": [],

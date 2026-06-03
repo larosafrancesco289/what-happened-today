@@ -1,0 +1,242 @@
+{
+  "date": "2026-06-03",
+  "summary": "The United States and Iran traded heavy fire today, marking the most intense escalation in months as diplomatic efforts remain stalled. US forces struck Iran's Qeshm Island, and in response, an Iranian drone attack shut down Kuwait's main airport. The attack forced the closure of the facility, disrupting travel and raising tensions across the Gulf region. No casualties have been reported at the airport, but the incident underscores how fragile stability remains, with neither side signaling a return to negotiations.\n\nUkraine extended its reach into Russian territory, launching drone strikes on several districts of St. Petersburg that wounded civilians and damaged infrastructure. The attack came as the city hosts an economic forum President Vladimir Putin planned to attend. In Russian-controlled Crimea, a separate drone strike hit a bus traveling from Moscow to Simferopol, killing seven people. Meanwhile in India, a fire at a hotel in Delhi's Malviya Nagar neighborhood killed at least 21 people, several of them foreign nationals, as fire crews rushed to the scene and Prime Minister Modi announced ex-gratia payments to victims' families.\n\nThe Trump administration proposed 25% tariffs on Brazilian imports, citing what it called unreasonable trade practices that burden US commerce. President Lula responded with indignation and blamed Senator Flávio Bolsonaro, a rival ahead of October's elections. The US also proposed a 12.5% tariff on Indian imports as part of a broader plan to levy at least 10% on imports from 60 countries over forced labor concerns, complicating ongoing trade talks between Washington and New Delhi. Other major economies including China, Japan, South Korea, and Switzerland would face similar 12.5% levies.\n\nIn Africa, Ghana's parliament approved a sweeping law criminalizing LGBTQ+ identification and promotion, with prison sentences of three to ten years, sparking fear among community groups that they could lose homes, jobs, and healthcare if President Mahama ratifies it. Zimbabwe voters sued MPs to block a constitutional amendment that would extend presidential and parliamentary terms, with court papers served on lawmakers from over 60 constituencies. South Africa's President Ramaphosa vowed action on illegal immigration as anti-foreigner protests spread, saying the country needs to address the issue.",
+  "headlines": [
+    {
+      "title": "U.S. and Iran Exchange Heavy Fire, Iranian Drone Hits Kuwait Airport",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "Al Jazeera English"
+      ],
+      "summary": "U.S. forces struck Iran's Qeshm Island, prompting an Iranian drone attack that shut down Kuwait's main airport. The escalation is the most intense in months as diplomatic efforts stall.",
+      "link": "https://www.wsj.com/world/middle-east/u-s-iran-trade-heavy-fire-in-persian-gulf-testing-fragile-ceasefire-d4787573",
+      "publishedAt": "2026-06-03T08:33:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Led with U.S.-Iran exchange of fire and fragile ceasefire testing",
+          "link": "https://www.wsj.com/world/middle-east/u-s-iran-trade-heavy-fire-in-persian-gulf-testing-fragile-ceasefire-d4787573"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Emphasized Iranian drone hitting Kuwait airport after U.S. strikes on Qeshm",
+          "link": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukrainian Drone Attack on St. Petersburg Wounds Several, Damages Infrastructure",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Ukrainian drones struck several districts in Russia's second city St. Petersburg on Wednesday, injuring civilians and damaging infrastructure during the city's economic forum. President Putin was set to attend the event.",
+      "link": "https://www.france24.com/en/europe/20260603-live-ukrainian-drone-attack-st-petersburg-injures-several-damages-infrastructure",
+      "publishedAt": "2026-06-03T07:26:37.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Focused on timing of attack amid St. Petersburg economic conference",
+          "link": "https://www.france24.com/en/europe/20260603-live-ukrainian-drone-attack-st-petersburg-injures-several-damages-infrastructure"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Delhi Hotel Fire Kills at Least 21, Including Foreign Nationals in India",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "summary": "A fire at a hotel in Malviya Nagar, Delhi, killed at least 21 people, several of them foreigners. Multiple fire tenders responded; Prime Minister Modi announced ex-gratia payments.",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-malviya-nagar-restaurant-fire-live-updates-june-3-2026/article71056012.ece",
+      "publishedAt": "2026-06-03T08:47:16.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Led with death toll and PM Modi's condolence and ex-gratia",
+          "link": "https://www.thehindu.com/news/cities/Delhi/delhi-malviya-nagar-restaurant-fire-live-updates-june-3-2026/article71056012.ece"
+        }
+      ],
+      "singleSource": true,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump Administration Proposes 25% Tariffs on Brazil Despite U.S. Trade Surplus",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "The U.S. proposed 25% tariffs on Brazilian imports, citing unreasonable trade practices. President Lula said he received the decision with indignation and blamed Senator Flávio Bolsonaro.",
+      "link": "https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs",
+      "publishedAt": "2026-06-02T18:56:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Proposes 12.5% Tariff on Indian Imports Over Forced Labor Concerns",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "Japan Times"
+      ],
+      "summary": "Washington proposed a 12.5% tariff on imports from India, among 60 countries targeted over forced labor allegations. The move complicates ongoing India-U.S. trade talks.",
+      "link": "https://www.dw.com/en/india-news-us-proposes-12-5-tariff-on-indian-imports-over-forced-labor-concerns/live-77399912?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-03T08:23:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Highlighted impact on India-U.S. trade talks and forced labor concerns",
+          "link": "https://www.dw.com/en/india-news-us-proposes-12-5-tariff-on-indian-imports-over-forced-labor-concerns/live-77399912"
+        },
+        {
+          "source": "Japan Times",
+          "angle": "Focused on broader 12.5% levy plan affecting multiple major economies",
+          "link": "https://www.japantimes.co.jp/news/2026/06/03/world/trump-new-levies/"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Plans New Levies of at Least 10% on 60 Countries to Rebuild Tariff Wall",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "Deutsche Welle"
+      ],
+      "summary": "President Trump proposed tariffs of at least 10% on imports from 60 countries, including 12.5% on major economies like China, India, Japan, and Brazil, over forced labor issues.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/03/world/trump-new-levies/",
+      "publishedAt": "2026-06-03T08:44:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Japan Times",
+          "angle": "Emphasized the wide scope of levies and impact on trade partners",
+          "link": "https://www.japantimes.co.jp/news/2026/06/03/world/trump-new-levies/"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Noted the tariffs could unsettle partners that recently signed trade deals",
+          "link": "https://www.dw.com/en/us-plans-extra-tariffs-for-60-countries-over-forced-labor/a-77400171"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Zimbabwe Voters Sue MPs to Block Extension of Presidential and Parliamentary Terms",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica"
+      ],
+      "summary": "Members of Parliament from over 60 constituencies were served court papers challenging Constitution Amendment Bill No. 3, as opponents intensify efforts to stop term extensions.",
+      "link": "https://allafrica.com/stories/202606030017.html",
+      "publishedAt": "2026-06-03T05:10:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "South Africa's Ramaphosa Vows Action on Illegal Immigration as Anti-Foreigner Protests Spread",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica"
+      ],
+      "summary": "President Cyril Ramaphosa said the country must deal with illegal migration as protests targeting foreigners escalate across South Africa.",
+      "link": "https://allafrica.com/stories/202606030014.html",
+      "publishedAt": "2026-06-03T04:31:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Seven Killed After Drone Strikes Bus in Russian-Controlled Ukraine",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "summary": "A drone hit a bus traveling from Moscow to Simferopol in Russian-occupied Crimea, killing seven people, according to an official.",
+      "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-03T08:23:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ghana Passes Sweeping Law Criminalizing LGBTQ+ Activity, Sparking Fear",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "Ghana's parliament approved a bill criminalizing LGBTQ+ identification and promotion, with prison sentences of 3 to 10 years. Community groups fear loss of homes, jobs, and healthcare if ratified.",
+      "link": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "publishedAt": "2026-06-01T11:59:11.000Z",
+      "tier": "developing",
+      "dayNumber": 3,
+      "previousContext": "Ghana's parliament passed a sweeping bill criminalizing LGBTQ+ activity on Friday. Rights groups warn of severe impacts if President Mahama ratifies it.",
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 412,
+    "articlesAfterDedup": 411,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 45,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 1,
+      "economy": 3,
+      "politics": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2,
+      "asia-pacific": 2,
+      "americas": 1,
+      "global": 1,
+      "africa": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

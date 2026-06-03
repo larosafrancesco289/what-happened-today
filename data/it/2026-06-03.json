@@ -1,0 +1,194 @@
+{
+  "date": "2026-06-03",
+  "summary": "La notte nel Golfo Persico è stata segnata da raid incrociati tra Stati Uniti e Iran. Gli Usa hanno bloccato una petroliera battente bandiera del Botswana diretta verso un porto iraniano, colpendo poi un'antenna di telecomunicazioni sull'isola di Qeshm. L'Iran ha risposto con missili e droni contro basi statunitensi in Kuwait e Bahrein, e un drone ha colpito un terminal dell'aeroporto del Kuwait, ferendo diverse persone e chiudendo il traffico aereo. La tensione è altissima, e la situazione resta in evoluzione.\n\nA Nuova Delhi, un incendio in un bed and breakfast economico, il Flourish Stay, ha ucciso almeno 21 persone e ne ha ferite oltre 40. Molte vittime erano cittadini africani in India per cure mediche. Le cause del rogo sono in fase di accertamento, e il primo ministro Narendra Modi ha espresso le sue condoglianze. In India gli incendi sono frequenti a causa di infrastrutture fatiscenti e norme di sicurezza inadeguate.\n\nSul fronte della guerra in Ucraina, un drone ucraino ha colpito un autobus in Russia, uccidendo 7 persone e ferendone 11. Sempre in Russia, un maxi-terminal petrolifero a San Pietroburgo è stato colpito, complicando gli sforzi per il Forum Economico Internazionale in corso. Intanto, in Libano, il quartiere sciita di Dahieh, a Beirut, si sta svuotando: i residenti vivono con le valigie pronte a fuggire a ogni allarme, in attesa di possibili raid israeliani.\n\nInfine, due notizie economiche e una tecnologica. La Banca europea per la ricostruzione e lo sviluppo ha tagliato le stime di crescita per le sue regioni, a causa dell'inflazione salita al 6,4% per l'aumento dei prezzi dell'energia legato alla guerra in Iran. Il Canada ha proposto a Stati Uniti e Messico un rinnovo di 16 anni dell'accordo di libero scambio, definendolo vantaggioso per l'economia nordamericana. E Microsoft ha presentato sette modelli di intelligenza artificiale proprietari al Build 2026, segnalando la volontà di ridurre la dipendenza da partner come OpenAI e competere direttamente nel mercato AI.",
+  "headlines": [
+    {
+      "title": "Usa bombardano Qeshm e Iran colpisce Kuwait e Bahrein, notte di raid nel Golfo",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "ANSA",
+        "Euronews Italiano",
+        "la Repubblica"
+      ],
+      "summary": "Gli Usa hanno bloccato una petroliera e colpito un'antenna a Qeshm; l'Iran ha risposto con missili e droni su Kuwait e Bahrain, sospendendo i voli. La tensione cresce nel Golfo Persico.",
+      "link": "https://www.agi.it/estero/news/2026-06-03/iran-guerra-diretta-3-giugno-37353205/",
+      "publishedAt": "2026-06-03T08:33:59.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Ha aperto con le cifre delle vittime e la meccanica dell'esplosione",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/02/lira-di-trump-contro-netanyahu-sei-un-pazzo-senza-di-me-saresti-in-galera_639876b8-1c3e-4b54-a842-6e7c10451db2.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Ha descritto la sequenza degli attacchi incrociati tra Usa e Iran",
+          "link": "https://www.agi.it/estero/news/2026-06-03/iran-guerra-diretta-3-giugno-37353205/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha evidenziato i danni all'aeroporto del Kuwait e il ruolo dei Pasdaran",
+          "link": "http://it.euronews.com/2026/06/03/attacco-di-droni-iraniani-danneggia-gravemente-aeroporto-del-kuwait"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Ha sottolineato le ritorsioni e la strategia dell'isola di Qeshm",
+          "link": "https://www.repubblica.it/esteri/2026/06/03/news/medio_oriente_battaglia_usa_iran_razzi_contro_kuwait_bahrein_dopo_attacco_isola_qeshm-425385877/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Incendio in un albergo a Nuova Delhi uccide almeno 21 persone, oltre 40 feriti",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Un incendio è scoppiato nel Flourish Stay, un bed and breakfast a Malviya Nagar. 37 persone sono state salvate, ma si temono altre vittime. Le cause sono in fase di accertamento.",
+      "link": "https://www.agi.it/estero/news/2026-06-03/nuova-delhi-incendio-hotel-morti-incendio-in-un-albergo-a-nuova-delhi-almeno-21-morti-37354634/",
+      "publishedAt": "2026-06-03T08:58:03.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha riportato la dinamica e la citazione della polizia locale",
+          "link": "https://www.agi.it/estero/news/2026-06-03/nuova-delhi-incendio-hotel-morti-incendio-in-un-albergo-a-nuova-delhi-almeno-21-morti-37354634/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha menzionato vittime straniere e l'ubicazione a Malviya Nagar",
+          "link": "https://www.tgcom24.mediaset.it/mondo/india-incendio-nuova-dehli-almeno-21-morti_112827134-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Drone ucraino colpisce un bus russo uccidendo 7 persone e ferendone 11",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "la Repubblica"
+      ],
+      "summary": "Un drone ucraino ha attaccato un autobus in Russia. Contemporaneamente, un maxi-terminal petrolifero a San Pietroburgo è stato colpito, complicando gli sforzi per il Forum Economico Internazionale.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/02/pioggia-di-droni-e-missili-su-kiev-e-lucraina-almeno-17-morti.-si-scava-tra-le-macerie_a35d677c-59df-4b9c-bee6-b6fd15e82321.html",
+      "publishedAt": "2026-06-03T08:05:02.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Ha aperto con il bilancio e la situazione a Kiev",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/02/pioggia-di-droni-e-missili-su-kiev-e-lucraina-almeno-17-morti.-si-scava-tra-le-macerie_a35d677c-59df-4b9c-bee6-b6fd15e82321.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Ha contestualizzato l'attacco con il Forum Economico di San Pietroburgo",
+          "link": "https://www.repubblica.it/esteri/2026/06/03/news/san_pietroburgo_forum_economico_internazionale_delegazione_usa-425386232/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Microsoft presenta 7 modelli IA proprietari per competere con OpenAI e Anthropic",
+      "source": "Euronews Italiano",
+      "summary": "Al Build 2026, Microsoft ha lanciato sette modelli di intelligenza artificiale proprietari, segnalando la volontà di ridurre la dipendenza da partner esterni e di competere direttamente nel mercato AI.",
+      "link": "http://it.euronews.com/business/2026/06/03/microsoft-lancia-modelli-di-ia-proprietari-per-sfidare-openai-e-anthropic",
+      "publishedAt": "2026-06-03T07:31:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Canada propone rinnovo di 16 anni per l'accordo di libero scambio con USA e Messico",
+      "source": "Euronews Italiano",
+      "summary": "Il Canada ha inviato una lettera ai rappresentanti commerciali di Stati Uniti e Messico chiedendo il rinnovo dell'accordo per 16 anni, definendolo vantaggioso per l'economia nordamericana integrata.",
+      "link": "http://it.euronews.com/2026/06/03/canada-chiede-il-rinnovo-per-16-anni-dellaccordo-di-libero-scambio-con-usa-e-messico",
+      "publishedAt": "2026-06-03T07:07:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "BERS taglia stime di crescita per shock energetico dovuto alla guerra in Iran",
+      "source": "Euronews Italiano",
+      "summary": "La Banca europea per la ricostruzione e lo sviluppo ha ridotto le previsioni di crescita economica per le sue regioni, citando l'inflazione salita al 6,4% a causa dell'aumento dei prezzi dell'energia per la guerra in Iran.",
+      "link": "http://it.euronews.com/business/2026/06/03/la-bers-taglia-le-stime-di-crescita-per-lo-shock-energetico-della-guerra-in-iran",
+      "publishedAt": "2026-06-03T07:03:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Dahieh si svuota: il cuore sciita di Beirut vive in attesa di raid israeliani",
+      "source": "la Repubblica",
+      "summary": "I residenti di Dahieh, quartiere sud di Beirut, vivono con le valigie pronte a fuggire a ogni allarme. L'esodo prosegue al ritmo dei raid israeliani, con la popolazione in costante tensione.",
+      "link": "https://www.repubblica.it/esteri/2026/06/03/news/eterno_esodo_dahieh_beirut_raid_israele-425385770/?rss",
+      "publishedAt": "2026-06-02T23:00:00.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "I raid israeliani hanno colpito ripetutamente la periferia sud di Beirut, spingendo la popolazione a prepararsi all'evacuazione.",
+      "sources": [
+        "la Repubblica"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 194,
+    "articlesAfterDedup": 193,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10,
+    "categoryCounts": {
+      "conflict": 3,
+      "society": 1,
+      "science": 1,
+      "politics": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "europe": 1,
+      "global": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

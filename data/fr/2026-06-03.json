@@ -1,0 +1,304 @@
+{
+  "date": "2026-06-03",
+  "summary": "L'armée russe a utilisé des missiles hypersoniques lors de son attaque massive du 2 juin contre Kiev et Dnipro, tuant 23 personnes. Volodymyr Zelensky a réclamé davantage d'intercepteurs Patriot à ses alliés occidentaux, seul système capable d'abattre ces projectiles. En parallèle, des drones ukrainiens ont frappé des sites énergétiques et militaires à Saint-Pétersbourg mercredi, jour d'ouverture du Forum économique international avec Vladimir Poutine. L'attaque n'a pas fait de victimes. Un drone ukrainien a aussi tué sept personnes dans un bus près de Donetsk, en Crimée annexée.\n\nAu Liban, les tirs israéliens près de Tyr ont fait six morts mercredi, selon l'agence nationale d'information libanaise. Les affrontements entre l'armée israélienne et le Hezbollah se poursuivent malgré la trêve d'avril. Au même moment, le commandement américain au Moyen-Orient a déclaré avoir intercepté des missiles et drones iraniens visant des pays de la région. L'Iran a dénoncé la responsabilité du Koweït et de Bahreïn dans ce qu'il considère comme des actes agressifs américains.\n\nEn Italie, quatre ouvriers agricoles migrants, trois Afghans et un Pakistanais, ont été brûlés vifs le 1er juin dans un véhicule en Calabre. Deux suspects pakistanais, présentés comme des « caporali », ont été arrêtés. Ce quadruple meurtre relance le débat sur l'exploitation des travailleurs migrants. En Tunisie, le chef du parti islamiste Ennahdha, Rached Ghannouchi, figure de l'opposition, a été condamné mardi à la prison à vie pour terrorisme.\n\nAux États-Unis, Washington prévoit d'imposer des droits de douane à 60 pays, mais les biens canadiens conformes à l'accord de libre-échange nord-américain en seraient exemptés. Sept États démocrates ont attaqué en justice un accord financier entre TotalEnergies et le gouvernement américain, négocié après l'abandon de projets d'éoliennes en mer. En Inde, un incendie dans un hôtel de New Delhi a fait au moins 21 morts. Au Brésil, le Sénat a approuvé un texte compliquant l'accès à l'avortement pour les adolescentes victimes de viol. En Angleterre, des manifestants anti-immigration ont lancé des projectiles sur la police à Southampton mardi soir.",
+  "headlines": [
+    {
+      "title": "La Russie exploite le déficit de Patriot pour frapper Kiev et Dnipro avec des missiles hypersoniques",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "L'armée russe a utilisé des missiles hypersoniques lors de son attaque massive du 2 juin à Kiev et Dnipro, tuant 23 personnes. Volodymyr Zelensky a réclamé davantage d'intercepteurs Patriot à ses alliés occidentaux.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/03/guerre-en-ukraine-la-russie-profite-du-deficit-de-patriot-pour-frapper-kiev-et-dnipro-avec-des-missiles-hypersoniques_6696539_3210.html",
+      "publishedAt": "2026-06-03T04:10:02.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Des ouvriers agricoles migrants brûlés vifs en Italie, l'exploitation du «caporalato» dénoncée",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Quatre ouvriers migrants, trois Afghans et un Pakistanais, ont été brûlés vifs dans un véhicule en Calabre le 1er juin. Deux suspects pakistanais, des «caporali», ont été arrêtés, relançant le débat sur l'exploitation des travailleurs agricoles migrants.",
+      "link": "https://www.rfi.fr/fr/europe/20260603-italie-des-ouvriers-agricoles-migrants-br%C3%BBl%C3%A9s-vifs-la-main-d-oeuvre-pr%C3%A9caire-soumise-au-caporalato",
+      "publishedAt": "2026-06-03T08:22:46.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'armée américaine affirme avoir repoussé des attaques iraniennes dans le Golfe",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "Le Monde",
+        "Le Figaro",
+        "Libération"
+      ],
+      "summary": "Le commandement américain au Moyen-Orient a déclaré avoir intercepté des missiles et drones iraniens visant des pays de la région. L'Iran a dénoncé la responsabilité du Koweït et de Bahreïn dans ce qu'il considère comme des actes agressifs américains.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2258797/etats-unis-iran-attaques-golfe",
+      "publishedAt": "2026-06-03T06:05:03.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "A ouvert avec l'affirmation américaine et la mention de l'interception par le Koweït",
+          "link": "https://ici.radio-canada.ca/nouvelle/2258797/etats-unis-iran-attaques-golfe"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "A mis en avant les dégâts à l'aéroport du Koweït et les accusations iraniennes",
+          "link": "https://www.lemonde.fr/international/live/2026/06/03/en-direct-guerre-au-moyen-orient-l-aeroport-du-koweit-attaque-par-des-drones-iraniens-les-etats-unis-disent-avoir-intercepte-des-missiles-dans-la-region-du-golfe_6694380_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A cité le communiqué américain précisant que tous les missiles ont raté leur cible",
+          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-armee-americaine-affirme-avoir-repousse-des-attaques-de-missiles-et-drones-iraniens-dans-le-golfe-20260603"
+        },
+        {
+          "source": "Libération",
+          "angle": "A ouvert sur les tirs israéliens au Liban avant de mentionner l'attaque iranienne repoussée",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-affirment-avoir-repousse-une-attaque-de-missiles-iraniens-dans-le-golfe-20260603_45XL2BE6ANHAXPK7NLZNJ5LGDA/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Un incendie ravage un hôtel à New Delhi, faisant au moins 21 morts",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Un incendie s'est déclaré mercredi dans un hôtel de New Delhi, tuant au moins 21 personnes. Les secours sont toujours à l'œuvre pour rechercher d'éventuelles victimes supplémentaires.",
+      "link": "https://www.20minutes.fr/monde/4226925-20260603-inde-incendie-ravage-hotel-new-delhi-moins-21-morts?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-03T08:20:24.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Des tirs israéliens font six morts près de Tyr dans le sud du Liban",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Libération"
+      ],
+      "summary": "L'agence nationale d'information libanaise a annoncé mercredi six morts et des blessés lors de raids israéliens près de Tyr. Une source médicale a confirmé le bilan à l'AFP.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-affirment-avoir-repousse-une-attaque-de-missiles-iraniens-dans-le-golfe-20260603_45XL2BE6ANHAXPK7NLZNJ5LGDA/",
+      "publishedAt": "2026-06-03T08:26:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les États-Unis veulent imposer de nouveaux tarifs douaniers à 60 pays, dont le Canada",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "summary": "Washington prévoit d'imposer des droits de douane à 60 pays, mais les biens canadiens conformes à l'accord de libre-échange nord-américain en seraient exemptés.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2258793/etats-unis-jamieson-greer-tarifs-droits-douane-travail-force",
+      "publishedAt": "2026-06-03T04:36:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "La figure de l'opposition Rached Ghannouchi condamnée à la prison à vie en Tunisie",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Le chef du parti islamiste Ennahdha, Rached Ghannouchi, a été condamné mardi à la prison à vie pour terrorisme par un tribunal tunisien.",
+      "link": "https://www.20minutes.fr/monde/4226917-20260603-tunisie-figure-opposition-rached-ghannouchi-condamnee-prison-vie?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-03T07:31:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Israël intensifie son offensive au Liban malgré le cessez-le-feu et l'appel de Trump",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info",
+        "France 24"
+      ],
+      "summary": "Les affrontements entre l'armée israélienne et le Hezbollah se poursuivent au Liban, en dépit de la trêve d'avril. Israël cherche à laminer les capacités militaires du Hezbollah, selon des analystes.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/03/en-direct-guerre-au-moyen-orient-l-aeroport-du-koweit-attaque-par-des-drones-iraniens-les-etats-unis-disent-avoir-intercepte-des-missiles-dans-la-region-du-golfe_6694380_3210.html",
+      "publishedAt": "2026-06-03T07:15:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "A mis en avant les motivations israéliennes derrière l'intensification de l'offensive",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/ils-veulent-laminer-les-capacites-militaires-du-hezbollah-pourquoi-israel-a-intensifie-son-offensive-au-liban-malgre-le-cessez-le-feu_8040692.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "France 24",
+          "angle": "A interrogé sur le rôle du Hezbollah dans le blocage de la paix",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-le-hezbollah-bloque-t-il-la-paix-au-liban-les-combats-se-poursuivent-malgre-le-cessez-le-feu"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Des drones ukrainiens ciblent Saint-Pétersbourg où s'ouvre un forum économique avec Poutine",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Libération",
+        "France Info",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Des drones ukrainiens ont touché mercredi des sites énergétiques et militaires à Saint-Pétersbourg, jour d'ouverture du Forum économique international. L'attaque n'a pas fait de victimes.",
+      "link": "https://www.liberation.fr/international/europe/guerre-en-ukraine-sept-morts-dans-une-frappe-de-drones-ukrainien-dans-une-zone-controlee-par-la-russie-20260603_U2YC4Z6RXREBJKM4657ML3BVZM/",
+      "publishedAt": "2026-06-03T08:12:35.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Libération",
+          "angle": "A mentionné que l'attaque vise à perturber le forum économique",
+          "link": "https://www.liberation.fr/international/europe/guerre-en-ukraine-sept-morts-dans-une-frappe-de-drones-ukrainien-dans-une-zone-controlee-par-la-russie-20260603_U2YC4Z6RXREBJKM4657ML3BVZM/"
+        },
+        {
+          "source": "France Info",
+          "angle": "A lié l'attaque à l'ouverture du forum et aux récentes frappes russes",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-une-frappe-de-drone-ukrainienne-tue-au-moins-sept-personnes-dans-un-bus-qui-reliait-moscou-a-la-crimee-annexee_8042423.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "France 24",
+          "angle": "A souligné que les drones ont visé Saint-Pétersbourg et qu'une frappe antérieure a tué sept personnes",
+          "link": "https://www.france24.com/fr/europe/20260603-en-direct-drones-ukrainiens-visent-saint-p%C3%A9tersbourg-frappe-meurtri%C3%A8re-pr%C3%A8s-donetsk"
+        },
+        {
+          "source": "RFI",
+          "angle": "A mis l'accent sur le timing de l'attaque coïncidant avec le forum économique",
+          "link": "https://www.rfi.fr/fr/europe/20260603-des-drones-ukrainiens-atteignent-saint-p%C3%A9tersbourg-o%C3%B9-s-ouvre-un-forum-%C3%A9conomique-avec-poutine"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Une frappe de drone ukrainienne tue sept personnes dans un bus près de Donetsk",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "France 24"
+      ],
+      "summary": "Un drone ukrainien a frappé un bus reliant Moscou à Simferopol, en Crimée annexée, faisant sept morts. L'attaque survient avant l'ouverture du forum économique de Saint-Pétersbourg.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-une-frappe-de-drone-ukrainienne-tue-au-moins-sept-personnes-dans-un-bus-qui-reliait-moscou-a-la-crimee-annexee_8042423.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-03T08:19:41.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sept États démocrates attaquent TotalEnergies pour l'abandon d'un parc éolien aux États-Unis",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Sept États américains démocrates ont attaqué en justice un accord financier entre TotalEnergies et le gouvernement américain, négocié après l'abandon de projets d'éoliennes en mer.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4226919-20260603-etats-unis-totalenergies-attaque-7-etats-democrates-apres-abandon-parc-eolien?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-03T08:07:18.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "TotalEnergies a abandonné un projet de parc éolien en mer aux États-Unis.",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Brésil durcit l'accès à l'avortement pour les adolescentes victimes de viol",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Le Sénat brésilien a approuvé un texte compliquant l'accès à l'avortement pour les adolescentes victimes de viol, après son adoption par la Chambre des députés.",
+      "link": "https://www.20minutes.fr/monde/bresil/4226912-20260603-bresil-acces-avortement-adolescentes-victimes-viol-durcit?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-03T07:30:35.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "Le projet de loi a été adopté par la Chambre des députés et maintenant par le Sénat.",
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "L'extrême droite anglaise attaque la police à Southampton en marge d'un procès pour meurtre",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Des manifestants anti-immigration ont lancé des projectiles sur la police à Southampton mardi soir, après la diffusion d'une vidéo montrant des agents menottant un étudiant agonisant en décembre.",
+      "link": "https://www.20minutes.fr/monde/royaume-uni/4226903-20260603-royaume-uni-extreme-droite-anglaise-prend-police-marge-proces-meurtre?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-03T05:38:08.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "Une vidéo controversée montrant des policiers menottant un étudiant agonisant en décembre a été diffusée.",
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 211,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 4.8,
+    "categoryCounts": {
+      "conflict": 6,
+      "society": 3,
+      "environment": 1,
+      "economy": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "europe": 5,
+      "middle-east": 3,
+      "asia-pacific": 1,
+      "americas": 3,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6,
+      "developing": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

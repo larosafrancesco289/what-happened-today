@@ -42,15 +42,16 @@ CRON_SECRET=replace-me-with-a-long-random-string
 OPENROUTER_SITE_URL=https://what-happened-today.vercel.app
 OPENROUTER_SITE_NAME=What Happened Today
 
-# Optional model overrides (comma-separated fallbacks accepted)
-OPENROUTER_MODEL_FILTERS=openai/gpt-oss-20b:nitro,openai/gpt-oss-20b
-OPENROUTER_MODEL_HEADLINES=deepseek/deepseek-v4-flash,openai/gpt-4o-mini
-OPENROUTER_MODEL_SUMMARIES=deepseek/deepseek-v4-flash,openai/gpt-4o-mini
+# Optional model overrides (one model per role; defaults shown)
+OPENROUTER_MODEL_FILTER=openai/gpt-oss-20b:nitro
+OPENROUTER_MODEL_HEADLINES=deepseek/deepseek-v4-flash
+OPENROUTER_MODEL_CATEGORIZE=openai/gpt-oss-20b:nitro
+OPENROUTER_MODEL_SUMMARY=deepseek/deepseek-v4-flash
 ```
 
 Get your API key at [openrouter.ai/keys](https://openrouter.ai/keys)
 
-Default model fallbacks live in `src/lib/llm-client.ts`; environment values are tried first, then defaults.
+Default models live in the `MODELS` map in `src/lib/llm-client.ts`; an env value overrides the default for that role.
 
 ### Quickstart
 
@@ -120,7 +121,8 @@ src/
 │   ├── date-utils.ts
 │   ├── i18n.ts
 │   ├── languages.ts         # RSS feeds per language
-│   ├── llm-client.ts        # OpenRouter API integration
+│   ├── llm-client.ts        # OpenRouter API integration + pipeline steps
+│   ├── prompts.ts           # all LLM prompt text (one place to tune tone)
 │   ├── news-fetcher.ts
 │   ├── pipeline/
 │   │   └── daily.ts         # shared daily generation workflow
@@ -141,7 +143,7 @@ scripts/
 Notes:
 
 - The daily pipeline reads curated RSS feeds per language, filters and ranks with OpenRouter, generates source-linked headlines, and synthesizes a two- to three-paragraph summary. Output is saved under `data/{lang}/YYYY-MM-DD.json`.
-- Model failures, empty headline sets, and validation errors fail the pipeline instead of publishing an `unavailable` edition.
+- Model failures, empty headline sets, and validation errors fail that language instead of publishing an `unavailable` edition. `generate-news:all` runs each language independently, so one language failing never discards the others.
 - `/api/cron` now uses the same shared pipeline module as the CLI script, so scheduled runs and manual runs stay in sync.
 - Date handling is timezone-safe for both the UI and the pipeline, which avoids day-shift bugs for readers outside UTC.
 - The UI loads the file for today or for the selected date.

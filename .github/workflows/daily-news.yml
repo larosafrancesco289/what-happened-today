@@ -42,6 +42,9 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 
       - name: Verify generated daily data
+        # Informational only: quality is already hard-gated inside the pipeline before
+        # save, so a single missing language must not discard the editions that succeeded.
+        continue-on-error: true
         run: bun run verify-news
 
       - name: Commit and push changes
@@ -61,7 +64,7 @@ jobs:
 
   weekly-digest:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 8 * * 1'
+    if: github.event.schedule == '23 8 * * 1'
 
     steps:
       - name: Checkout repository

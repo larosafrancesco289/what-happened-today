@@ -238,7 +238,7 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
 
   console.log('Step 6/7: Categorizing headlines...');
   const categorizedHeadlines = await withTimeout(
-    categorizeHeadlines(headlines, languageCode),
+    categorizeHeadlines(headlines),
     60000,
     'Categorization',
   );
@@ -249,7 +249,7 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
 
   console.log('Step 7/7: Generating daily summary with AI...');
   const summary = await withTimeout(
-    generateDailySummary(categorizedHeadlines, languageCode, yesterdayHeadlines),
+    generateDailySummary(categorizedHeadlines, filteredArticles, languageCode, yesterdayHeadlines),
     180000,
     'Summary generation',
   );

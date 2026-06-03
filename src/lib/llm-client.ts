@@ -1,6 +1,13 @@
 import OpenAI from 'openai';
 import type { ProcessedArticle, NewsHeadline, Category, Region, Importance, Tier } from '@/types/news';
 import { safeParseJSON, articleFingerprint } from '@/lib/utils';
+import {
+  getPrompts,
+  getSystemPrompt,
+  categorizePrompt,
+  CATEGORIZE_SYSTEM_PROMPT,
+  type SummaryStory,
+} from '@/lib/prompts';
 
 let client: OpenAI | null = null;
 
@@ -26,44 +33,18 @@ function getClient(): OpenAI {
   return client;
 }
 
-// Model configuration (OpenRouter format: provider/model).
-// Keep defaults current, but append them after env values so a stale env var
-// cannot take the whole pipeline down when a provider deprecates one model.
-const DEFAULT_FILTER_MODELS = [
-  'openai/gpt-oss-20b:nitro',
-  'openai/gpt-oss-20b',
-] as const;
-const DEFAULT_NEWS_MODELS = [
-  'deepseek/deepseek-v4-flash',
-  'openai/gpt-4o-mini',
-] as const;
+// One model per pipeline role (OpenRouter format: provider/model).
+// Each is overridable with a single env var; no fallback ladder — a step that
+// fails retries the same model, then fails its language without taking the others down.
+export const MODELS = {
+  filter: process.env.OPENROUTER_MODEL_FILTER?.trim() || 'openai/gpt-oss-20b:nitro',
+  headlines: process.env.OPENROUTER_MODEL_HEADLINES?.trim() || 'deepseek/deepseek-v4-flash',
+  categorize: process.env.OPENROUTER_MODEL_CATEGORIZE?.trim() || 'openai/gpt-oss-20b:nitro',
+  summary: process.env.OPENROUTER_MODEL_SUMMARY?.trim() || 'deepseek/deepseek-v4-flash',
+} as const;
 
-function parseModelList(value: string | undefined): string[] {
-  return (value ?? '')
-    .split(/[\s,]+/)
-    .map(model => model.trim())
-    .filter(Boolean);
-}
-
-function readModelList(envKeys: string[], defaults: readonly string[]): string[] {
-  const configured = envKeys.flatMap(key => parseModelList(process.env[key]));
-  return Array.from(new Set([...configured, ...defaults]));
-}
-
-const MODEL_FILTERS = readModelList(
-  ['OPENROUTER_MODEL_FILTERS', 'OPENROUTER_MODEL_FILTER'],
-  DEFAULT_FILTER_MODELS,
-);
-const MODEL_HEADLINES = readModelList(
-  ['OPENROUTER_MODEL_HEADLINES', 'OPENROUTER_MODEL_NEWS', 'OPENROUTER_MODEL_SUMMARY'],
-  DEFAULT_NEWS_MODELS,
-);
-const MODEL_SUMMARIES = readModelList(
-  ['OPENROUTER_MODEL_SUMMARIES', 'OPENROUTER_MODEL_SUMMARY', 'OPENROUTER_MODEL_SUMMARY_FALLBACK'],
-  DEFAULT_NEWS_MODELS,
-);
-
-export const MODEL_SUMMARY = MODEL_SUMMARIES[0];
+// Retained for scripts/generate-weekly.ts.
+export const MODEL_SUMMARY = MODELS.summary;
 
 function getErrorStatus(error: unknown): number | undefined {
   if (typeof error !== 'object' || error === null || !('status' in error)) return undefined;
@@ -81,11 +62,11 @@ function errorMessage(error: unknown): string {
   return error instanceof Error ? error.message : String(error);
 }
 
-// Helper function to retry operations with exponential backoff
+// Retry transient failures with exponential backoff.
 async function withRetry<T>(
   operation: () => Promise<T>,
   maxRetries: number = 2,
-  baseDelay: number = 1000
+  baseDelay: number = 1000,
 ): Promise<T> {
   let lastError: Error | undefined;
 
@@ -100,7 +81,6 @@ async function withRetry<T>(
         break;
       }
 
-      // Exponential backoff: wait baseDelay * 2^attempt ms
       const delay = baseDelay * Math.pow(2, attempt);
       console.log(`API call failed (attempt ${attempt + 1}/${maxRetries + 1}), retrying in ${delay}ms...`);
       await new Promise(resolve => setTimeout(resolve, delay));
@@ -115,12 +95,6 @@ interface ArticleAnalysis {
   relevanceScore: number;
   isRelevant: boolean;
   reason: string;
-}
-
-type SupportedPromptLang = 'en' | 'it' | 'fr';
-
-function getPrompts(languageCode: string): typeof LANGUAGE_PROMPTS[SupportedPromptLang] {
-  return LANGUAGE_PROMPTS[(languageCode as SupportedPromptLang)] ?? LANGUAGE_PROMPTS.en;
 }
 
 function normalizeSummaryText(text: string): string {
@@ -180,478 +154,9 @@ export function recoverSummaryFromMalformedOutput(responseText: string): string 
 }
 
 /**
- * Format articles for inclusion in headline prompts.
- * Shared across all language prompts to avoid duplicating the covering-articles logic.
+ * Single Chat Completion call against one model.
+ * When `retry` is false, the caller handles its own retry/timeout (avoids stacked retries).
  */
-function formatArticlesForPrompt(articles: ProcessedArticle[], alsoLabel: string): string {
-  return articles.map((a, i) => {
-    let entry = `[${i}] ARTICLE_ID: ${i}\nSource: ${a.source}\nTitle: ${a.title}${a.coveringSources ? ` [${alsoLabel}: ${a.coveringSources.join(', ')}]` : ''}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 600)}\nLink: ${a.link}`;
-    if (a.coveringArticles && a.coveringArticles.length > 0) {
-      entry += '\n' + a.coveringArticles.map(ca => `${ca.source} version (300 chars):\nPublished: ${ca.publishedAt}\n${ca.content.substring(0, 300)}\nLink: ${ca.link}`).join('\n');
-    }
-    return entry;
-  }).join('\n\n');
-}
-
-/**
- * Format a "yesterday headlines" section for memory/continuity.
- * Returns an empty string when there are no yesterday headlines.
- */
-function formatYesterdayMemory(yesterdayHeadlines: NewsHeadline[], header: string, instructions: string): string {
-  if (yesterdayHeadlines.length === 0) return '';
-  return `\n${header}:\n${yesterdayHeadlines.map((h, i) => `${i + 1}. ${h.title}`).join('\n')}\n${instructions}\n\n`;
-}
-
-/**
- * Format a "yesterday context" section for summary prompts.
- * Returns an empty string when there are no yesterday headlines.
- */
-function formatYesterdayContext(yesterdayHeadlines: NewsHeadline[], header: string): string {
-  if (yesterdayHeadlines.length === 0) return '';
-  return `\n${header}:\n${yesterdayHeadlines.slice(0, 5).map((h, i) => `${i + 1}. ${h.title}`).join('\n')}\n\n`;
-}
-
-const SYSTEM_PROMPTS: Record<SupportedPromptLang, { headlines: string; summary: string }> = {
-  en: {
-    headlines: 'You are a neutral news editor. Write all headlines and summaries in English. Output valid JSON only.',
-    summary: 'You are a neutral news writer. Write the summary in plain English. Output valid JSON only.',
-  },
-  it: {
-    headlines: 'Sei un redattore neutrale. Scrivi TUTTI i titoli e sommari in ITALIANO. Output solo JSON valido.',
-    summary: 'Sei un giornalista neutrale. Scrivi il riassunto in ITALIANO semplice e chiaro. Output solo JSON valido.',
-  },
-  fr: {
-    headlines: 'Vous êtes un rédacteur neutre. Écrivez TOUS les titres et résumés en FRANÇAIS. Output JSON valide uniquement.',
-    summary: 'Vous êtes un journaliste neutre. Rédigez le résumé en FRANÇAIS simple et clair. Output JSON valide uniquement.',
-  },
-};
-
-function getSystemPrompt(languageCode: string, role: 'headlines' | 'summary'): string {
-  const lang = (languageCode as SupportedPromptLang);
-  return SYSTEM_PROMPTS[lang]?.[role] ?? SYSTEM_PROMPTS.en[role];
-}
-
-const LANGUAGE_PROMPTS = {
-  en: {
-    filterPrompt: (articles: ProcessedArticle[]) => `Score each article from 0-10 for newsworthiness. Output JSON only.
-
-SCORING CRITERIA:
-9-10 = Major verified event (war development, disaster 100+ casualties, election result, major policy change)
-7-8 = Significant national news with international implications
-5-6 = Notable concrete development worth reporting
-3-4 = Minor update, routine event, or analysis without new facts
-0-2 = Opinion, duplicate, rumor, entertainment, or clickbait
-
-MANDATORY KEEP:
-- Government actions affecting citizens
-- Confirmed armed conflicts with casualties/territory changes
-- Natural disasters (10+ deaths OR major infrastructure damage)
-- Election results or major policy changes
-- Economic indicators (GDP, inflation, major market moves)
-- Peer-reviewed scientific breakthroughs
-- International agreements or diplomatic shifts
-
-MANDATORY DROP:
-- Celebrity/sports/entertainment (unless death or major scandal)
-- Local-only stories without broader relevance
-- Pure opinion pieces or predictions
-- "Reactions to" or "Analysis of" without new facts
-- Video-only content without textual facts
-- Promotional or sponsored content
-- Headlines with sensational words: "slams", "blasts", "rocks", "shock", "stunning"
-
-DIVERSITY REQUIREMENTS:
-- If same event covered by multiple sources, keep the most comprehensive version
-- Aim for geographic diversity: include stories from different world regions when available
-- Prefer stories verified by 2+ sources for breaking news
-
-OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":"..."},...]}
-
-ARTICLES:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
-
-    headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const memorySection = formatYesterdayMemory(
-        yesterdayHeadlines,
-        "YESTERDAY'S HEADLINES (continuity only — today's edition must still stand alone)",
-        'Use these only to recognize ongoing stories. If an ongoing story is still important today, include enough context for a reader who skipped yesterday. Use the "developing" tier only when today has a concrete new development.'
-      );
-
-      return `Create headlines + summaries for distinct news events. Write in clear, factual English.
-
-TIER SYSTEM — Generate 8-15 headlines in 3 tiers:
-- "top" (2-4): Day's most important events, full detailed summaries
-- "also" (3-6): Important but not lead stories, shorter summaries
-- "developing" (0-3): Ongoing stories that remain important today, with today's concrete update and enough context to stand alone
-If fewer than 8 stories meet the quality threshold, produce fewer. Never pad with marginal stories.
-${memorySection}
-HEADLINE RULES:
-- 8-14 words, active voice, present tense for today's events
-- Subject-Verb-Object structure (WHO did WHAT to WHOM)
-- NO sensational words: slams, blasts, rocks, shock, stunning, chaos, crisis (unless literal)
-- NO question headlines or cliffhangers
-- Include specific numbers when available (casualties, amounts, percentages)
-
-SUMMARY RULES:
-- 25-40 words covering: What happened, Who is affected, What happens next
-- Include specific numbers, dates, or locations when relevant
-- State the significance: why this matters to readers
-
-MULTI-SOURCE: When input articles have coveringSources, include all sources in a "sources" array field.
-
-SINGLE-SOURCE: If an article has NO [Also: ...] annotation, include "singleSource": true in the JSON.
-
-	FRAMING: For multi-source stories, add a "framings" array showing how each source approached the story.
-	Each framing: {"source":"AP","angle":"Led with casualty figures and blast mechanics","link":"..."}
-	The angle should be 8-15 words describing what the source emphasized, NOT an opinion about the source.
-
-	SOURCE INTEGRITY:
-	- Use only stories from the provided ARTICLES list.
-	- Choose the primary ARTICLE_ID and return it as numeric "articleIndex".
-	- Copy the primary article "Link" exactly into "link".
-	- Copy the primary article "Published" timestamp exactly into "publishedAt".
-	- Do not invent links, dates, sources, names, or numbers.
-
-	IMPORTANT: Each story must appear in exactly ONE tier. Do not place the same event in both "top" and "developing".
-
-	OUTPUT JSON FORMAT:
-	{"headlines":[{"articleIndex":0,"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"AP","angle":"...","link":"..."}]},{"articleIndex":1,"title":"...","source":"SingleSource","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"articleIndex":2,"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
-
-ARTICLES:
-${formatArticlesForPrompt(articles, 'Also')}`;
-    },
-
-    summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const yesterdaySection = formatYesterdayContext(
-        yesterdayHeadlines,
-        "YESTERDAY'S CONTEXT (continuity only — today's briefing must be complete for readers who skipped yesterday)"
-      );
-
-      return `Write a 2-3 paragraph daily news briefing (250-350 words). Your goal is to help readers understand the world in 90 seconds.
-
-STRUCTURE:
-Paragraph 1: Lead with the most significant global story. Provide factual context.
-Paragraph 2: Cover 2-3 other major stories, connecting related events where factual links exist.
-Paragraph 3: Cover remaining important stories and any developing situations.
-${yesterdaySection}
-WRITING RULES:
-- Present events in order of global impact, not narrative drama
-- State what happened, who is affected, what is expected next
-- Include the context needed to understand today's stories, even if related stories appeared yesterday
-- When sources or actors disagree, state both positions
-- Plain text only; no Markdown formatting
-- NO narrative arc, NO editorial framing, NO value-laden adjectives
-- DO provide factual context and connections between related events
-- Factual transitions ("In [region]", "Separately") not dramatic ones ("Meanwhile, as tensions mount")
-- Name specific places, people, and numbers — be concrete, not abstract
-
-AVOID THESE PATTERNS (editorial leakage):
-- "underscores", "highlights", "raises fears of", "raises questions about"
-- "in an already [adjective] era/world/region"
-- "signaling how X compounds/deepens Y"
-- "erasing/unshackling/unleashing" (dramatic imagery for policy changes)
-- Analytical conclusions: "This development follows years of..."
-- Speculative framing: "heightened prospects of..."
-USE INSTEAD:
-- "This follows [specific factual predecessor]"
-- "X happened. [Factual context]. Y is expected next."
-- Connect events with facts, not interpretation
-
-TONE:
-- Neutral and factual throughout
-- Present multiple perspectives when relevant
-- No editorializing — let facts speak for themselves
-- No sensationalism — acknowledge significance through specifics, not adjectives
-
-TODAY'S STORIES:
-${headlines.map((h, i) => `${i + 1}. ${h.title} — ${h.summary}`).join('\n')}
-
-Output JSON: {"summary":"<your briefing here>"}`;
-    }
-  },
-
-  it: {
-    filterPrompt: (articles: ProcessedArticle[]) => `Valuta ogni articolo da 0-10 per rilevanza giornalistica. Output solo JSON.
-
-CRITERI DI PUNTEGGIO:
-9-10 = Evento maggiore verificato (sviluppo bellico, disastro 100+ vittime, risultato elettorale, cambiamento politico importante)
-7-8 = Notizia nazionale significativa con implicazioni internazionali
-5-6 = Sviluppo concreto degno di nota
-3-4 = Aggiornamento minore, evento di routine o analisi senza fatti nuovi
-0-2 = Opinione, duplicato, rumor, intrattenimento o clickbait
-
-DA TENERE:
-- Azioni governative che interessano i cittadini
-- Conflitti armati confermati con vittime/cambiamenti territoriali
-- Disastri naturali (10+ morti O gravi danni infrastrutturali)
-- Risultati elettorali o importanti cambiamenti politici
-- Indicatori economici (PIL, inflazione, movimenti di mercato significativi)
-- Scoperte scientifiche peer-reviewed
-- Accordi internazionali o cambiamenti diplomatici
-
-DA ESCLUDERE:
-- Gossip/sport/intrattenimento (salvo morti o scandali importanti)
-- Notizie solo locali senza rilevanza più ampia
-- Articoli di pura opinione o previsioni
-- "Reazioni a" o "Analisi di" senza fatti nuovi
-- Contenuti solo video senza fatti testuali
-- Contenuti promozionali o sponsorizzati
-- Titoli con parole sensazionalistiche: "shock", "clamoroso", "bomba", "incredibile", "assurdo", "caos", "crisi" (salvo uso letterale), "attacca", "tuona", "scuote", "drammatico", "sconvolgente"
-
-REQUISITI DI DIVERSITÀ:
-- Se lo stesso evento è coperto da più fonti, tieni la versione più completa
-- Punta alla diversità geografica: includi storie da diverse regioni del mondo
-- Preferisci notizie verificate da 2+ fonti per breaking news
-
-OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":"..."},...]}
-
-ARTICOLI:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
-
-    headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const memorySection = formatYesterdayMemory(
-        yesterdayHeadlines,
-        'TITOLI DI IERI (solo per continuità — l\'edizione di oggi deve restare autonoma)',
-        'Usali solo per riconoscere le storie in corso. Se una storia in corso è ancora importante oggi, includi abbastanza contesto per chi non ha letto ieri. Usa il livello "developing" solo quando oggi c\'è uno sviluppo concreto nuovo.'
-      );
-
-      return `IMPORTANTE: Scrivi TUTTO in italiano.
-
-Crea titoli + sommari per ogni notizia distinta. Scrivi in italiano chiaro e fattuale.
-
-SISTEMA A LIVELLI — Genera 8-15 titoli in 3 livelli:
-- "top" (2-4): Le notizie più importanti del giorno, sommari dettagliati completi
-- "also" (3-6): Importanti ma non di apertura, sommari più brevi
-- "developing" (0-3): Storie in corso ancora importanti oggi, con l'aggiornamento concreto di oggi e contesto sufficiente
-Se meno di 8 storie raggiungono la soglia di qualità, producine meno. Non aggiungere mai storie marginali.
-${memorySection}
-REGOLE PER I TITOLI:
-- 8-14 parole, voce attiva, tempo presente per eventi di oggi
-- Struttura Soggetto-Verbo-Oggetto (CHI ha fatto COSA a CHI)
-- NO parole sensazionalistiche: shock, clamoroso, bomba, incredibile, assurdo, caos, crisi (salvo uso letterale), attacca, tuona, scuote, drammatico, sconvolgente
-- NO titoli con domande o cliffhanger
-- Includi numeri specifici quando disponibili (vittime, importi, percentuali)
-
-REGOLE PER I SOMMARI:
-- 25-40 parole che coprono: Cosa è successo, Chi è coinvolto, Cosa succede dopo
-- Includi numeri specifici, date o luoghi quando rilevanti
-- Spiega il significato: perché interessa ai lettori
-
-MULTI-FONTE: Quando gli articoli in input hanno coveringSources, includi tutte le fonti in un campo array "sources".
-
-FONTE UNICA: Se un articolo NON ha annotazione [Anche: ...], includi "singleSource": true nel JSON.
-
-	FRAMING: Per le storie multi-fonte, aggiungi un array "framings" che mostri come ogni fonte ha trattato la notizia.
-	Ogni framing: {"source":"ANSA","angle":"Ha aperto con le cifre delle vittime e la meccanica dell'esplosione","link":"..."}
-	L'angle deve essere di 8-15 parole che descrivono cosa la fonte ha enfatizzato, NON un'opinione sulla fonte.
-
-	INTEGRITÀ DELLE FONTI:
-	- Usa solo notizie presenti nella lista ARTICOLI.
-	- Scegli l'ARTICLE_ID primario e restituiscilo come numero nel campo "articleIndex".
-	- Copia esattamente il "Link" dell'articolo primario nel campo "link".
-	- Copia esattamente il timestamp "Published" dell'articolo primario nel campo "publishedAt".
-	- Non inventare link, date, fonti, nomi o numeri.
-
-	Descrivi i fatti, non caratterizzarli. Invece di 'video razzista', descrivi il contenuto del video e lascia giudicare il lettore.
-
-	IMPORTANTE: Ogni notizia deve apparire in UN SOLO livello. Non inserire lo stesso evento sia in "top" che in "developing".
-
-	FORMATO JSON OUTPUT:
-	{"headlines":[{"articleIndex":0,"title":"...","source":"FontePrincipale","sources":["Fonte1","Fonte2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"ANSA","angle":"...","link":"..."}]},{"articleIndex":1,"title":"...","source":"FonteUnica","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"articleIndex":2,"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"I combattimenti si sono spostati da X a Y"},...]}
-
-ARTICOLI:
-${formatArticlesForPrompt(articles, 'Anche')}`;
-    },
-
-    summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const yesterdaySection = formatYesterdayContext(
-        yesterdayHeadlines,
-        'CONTESTO DI IERI (solo per continuità — il briefing di oggi deve essere completo per chi non ha letto ieri)'
-      );
-
-      return `Scrivi un briefing quotidiano di 2-3 paragrafi (250-350 parole) IN ITALIANO. Il tuo obiettivo è aiutare i lettori a capire il mondo in 90 secondi.
-
-STRUTTURA:
-Paragrafo 1: Apri con la notizia globale più significativa. Fornisci contesto fattuale.
-Paragrafo 2: Copri 2-3 altre storie importanti, collegando eventi correlati dove esistono legami fattuali.
-Paragrafo 3: Copri le restanti notizie importanti e eventuali situazioni in sviluppo.
-${yesterdaySection}
-REGOLE DI SCRITTURA:
-- Presenta gli eventi in ordine di impatto globale, non di dramma narrativo
-- Indica cosa è successo, chi è coinvolto, cosa ci si aspetta dopo
-- Includi il contesto necessario per capire le notizie di oggi, anche se storie correlate sono apparse ieri
-- Quando fonti o attori sono in disaccordo, riporta entrambe le posizioni
-- Solo testo semplice; niente formattazione Markdown
-- NESSUN arco narrativo, NESSUN inquadramento editoriale, NESSUN aggettivo di valore
-- Fornisci contesto fattuale e connessioni tra eventi correlati
-- Transizioni fattuali ("In [regione]", "Separatamente") non drammatiche ("Nel frattempo, mentre le tensioni aumentano")
-- Nomina luoghi, persone e numeri specifici — sii concreto, non astratto
-
-EVITA QUESTI PATTERN (editorializzazione):
-- "sottolinea", "evidenzia", "alimenta timori di", "solleva interrogativi su"
-- "in un'era/mondo/regione già [aggettivo]"
-- "segnalando come X aggrava/approfondisce Y"
-- Immagini drammatiche per cambiamenti politici
-- Conclusioni analitiche: "Questo sviluppo fa seguito ad anni di..."
-USA INVECE:
-- "Questo fa seguito a [predecessore fattuale specifico]"
-- "X è successo. [Contesto fattuale]. Y è atteso dopo."
-
-TONO:
-- Neutrale e fattuale in tutto il testo
-- Presenta più prospettive quando rilevante
-- Nessuna editorializzazione — lascia parlare i fatti
-- Nessun sensazionalismo — riconosci l'importanza attraverso i dettagli specifici, non gli aggettivi
-
-NOTIZIE DI OGGI:
-${headlines.map((h, i) => `${i + 1}. ${h.title} — ${h.summary}`).join('\n')}
-
-Output JSON: {"summary":"<il tuo briefing qui>"}`;
-    }
-  },
-
-  fr: {
-    filterPrompt: (articles: ProcessedArticle[]) => `Évaluez chaque article de 0-10 pour sa pertinence journalistique. Output JSON uniquement.
-
-CRITÈRES DE NOTATION:
-9-10 = Événement majeur vérifié (développement de guerre, catastrophe 100+ victimes, résultat électoral, changement politique majeur)
-7-8 = Actualité nationale significative avec implications internationales
-5-6 = Développement concret notable
-3-4 = Mise à jour mineure, événement routinier ou analyse sans faits nouveaux
-0-2 = Opinion, doublon, rumeur, divertissement ou clickbait
-
-À GARDER:
-- Actions gouvernementales affectant les citoyens
-- Conflits armés confirmés avec victimes/changements territoriaux
-- Catastrophes naturelles (10+ morts OU dommages infrastructurels majeurs)
-- Résultats électoraux ou changements politiques majeurs
-- Indicateurs économiques (PIB, inflation, mouvements de marché significatifs)
-- Découvertes scientifiques peer-reviewed
-- Accords internationaux ou changements diplomatiques
-
-À EXCLURE:
-- People/sport/divertissement (sauf décès ou scandales majeurs)
-- Actualités locales sans pertinence plus large
-- Articles d'opinion pure ou prédictions
-- "Réactions à" ou "Analyse de" sans faits nouveaux
-- Contenus vidéo seuls sans faits textuels
-- Contenus promotionnels ou sponsorisés
-- Titres avec mots sensationnels: "choc", "incroyable", "scandaleux", "stupéfiant", "hallucinant", "chaos", "crise" (sauf usage littéral), "fustige", "torpille", "secoue", "dramatique", "bouleversant"
-
-EXIGENCES DE DIVERSITÉ:
-- Si le même événement est couvert par plusieurs sources, gardez la version la plus complète
-- Visez la diversité géographique: incluez des histoires de différentes régions du monde
-- Préférez les nouvelles vérifiées par 2+ sources pour les breaking news
-
-OUTPUT: {"analyses":[{"index":0,"relevanceScore":8,"isRelevant":true,"reason":"..."},...]}
-
-ARTICLES:
-${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publishedAt}\n${a.content.substring(0, 300)}`).join('\n\n')}`,
-
-    headlinesPrompt: (articles: ProcessedArticle[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const memorySection = formatYesterdayMemory(
-        yesterdayHeadlines,
-        "TITRES D'HIER (continuité uniquement — l'édition d'aujourd'hui doit rester autonome)",
-        'Utilisez-les seulement pour reconnaître les sujets en cours. Si un sujet en cours reste important aujourd\'hui, incluez assez de contexte pour une personne qui n\'a pas lu hier. Utilisez le niveau "developing" seulement quand il existe un développement concret nouveau aujourd\'hui.'
-      );
-
-      return `IMPORTANT: Écrivez TOUT en français.
-
-Créez titres + résumés par événement distinct. Écrivez en français clair et factuel.
-
-SYSTÈME DE NIVEAUX — Générez 8-15 titres en 3 niveaux:
-- "top" (2-4): Les événements les plus importants du jour, résumés détaillés complets
-- "also" (3-6): Importants mais pas en une, résumés plus courts
-- "developing" (0-3): Sujets en cours encore importants aujourd'hui, avec le développement concret du jour et assez de contexte
-Si moins de 8 sujets atteignent le seuil de qualité, produisez-en moins. Ne remplissez jamais avec des sujets marginaux.
-${memorySection}
-RÈGLES POUR LES TITRES:
-- 8-14 mots, voix active, présent pour les événements du jour
-- Structure Sujet-Verbe-Objet (QUI a fait QUOI à QUI)
-- PAS de mots sensationnels: choc, incroyable, scandaleux, stupéfiant, hallucinant, chaos, crise (sauf usage littéral), fustige, torpille, secoue, dramatique, bouleversant
-- PAS de titres interrogatifs ou de cliffhangers
-- Incluez des chiffres spécifiques quand disponibles (victimes, montants, pourcentages)
-
-RÈGLES POUR LES RÉSUMÉS:
-- 25-40 mots couvrant: Ce qui s'est passé, Qui est concerné, Quelle suite
-- Incluez des chiffres spécifiques, dates ou lieux quand pertinents
-- Expliquez la signification: pourquoi cela intéresse les lecteurs
-
-MULTI-SOURCE: Quand les articles en entrée ont coveringSources, incluez toutes les sources dans un champ tableau "sources".
-
-SOURCE UNIQUE: Si un article n'a PAS d'annotation [Aussi: ...], incluez "singleSource": true dans le JSON.
-
-	FRAMING: Pour les histoires multi-sources, ajoutez un tableau "framings" montrant comment chaque source a traité l'info.
-	Chaque framing: {"source":"AFP","angle":"A ouvert avec les chiffres des victimes et la mécanique de l'explosion","link":"..."}
-	L'angle doit faire 8-15 mots décrivant ce que la source a mis en avant, PAS une opinion sur la source.
-
-	INTÉGRITÉ DES SOURCES:
-	- Utilisez uniquement les sujets présents dans la liste ARTICLES.
-	- Choisissez l'ARTICLE_ID principal et renvoyez-le comme nombre dans "articleIndex".
-	- Copiez exactement le "Link" de l'article principal dans "link".
-	- Copiez exactement l'horodatage "Published" de l'article principal dans "publishedAt".
-	- N'inventez pas de liens, dates, sources, noms ou chiffres.
-
-	Décrivez les faits, ne les caractérisez pas. Au lieu de 'vidéo raciste', décrivez le contenu et laissez le lecteur juger.
-
-	IMPORTANT: Chaque événement doit apparaître dans UN SEUL niveau. Ne placez pas le même événement dans "top" et "developing".
-
-	FORMAT JSON OUTPUT:
-	{"headlines":[{"articleIndex":0,"title":"...","source":"SourcePrincipale","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"AFP","angle":"...","link":"..."}]},{"articleIndex":1,"title":"...","source":"SourceUnique","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"articleIndex":2,"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Les combats se sont déplacés de X à Y"},...]}
-
-ARTICLES:
-${formatArticlesForPrompt(articles, 'Aussi')}`;
-    },
-
-    summaryPrompt: (headlines: NewsHeadline[], yesterdayHeadlines: NewsHeadline[] = []) => {
-      const yesterdaySection = formatYesterdayContext(
-        yesterdayHeadlines,
-        "CONTEXTE D'HIER (continuité uniquement — le briefing d'aujourd'hui doit être complet pour les lecteurs qui ont sauté hier)"
-      );
-
-      return `Rédigez un briefing quotidien de 2-3 paragraphes (250-350 mots) EN FRANÇAIS. Votre objectif est d'aider les lecteurs à comprendre le monde en 90 secondes.
-
-STRUCTURE:
-Paragraphe 1: Ouvrez avec l'événement mondial le plus significatif. Fournissez un contexte factuel.
-Paragraphe 2: Couvrez 2-3 autres histoires majeures, en reliant les événements connexes là où des liens factuels existent.
-Paragraphe 3: Couvrez les histoires importantes restantes et toute situation en développement.
-${yesterdaySection}
-RÈGLES D'ÉCRITURE:
-- Présentez les événements par ordre d'impact mondial, pas de drame narratif
-- Indiquez ce qui s'est passé, qui est concerné, ce qui est attendu ensuite
-- Incluez le contexte nécessaire pour comprendre les sujets d'aujourd'hui, même si des sujets liés sont apparus hier
-- Quand les sources ou acteurs sont en désaccord, exposez les deux positions
-- Texte brut uniquement; pas de formatage Markdown
-- PAS d'arc narratif, PAS de cadrage éditorial, PAS d'adjectifs de valeur
-- Fournissez contexte factuel et connexions entre événements liés
-- Transitions factuelles ("En [région]", "Séparément") pas dramatiques ("Pendant ce temps, alors que les tensions montent")
-- Nommez des lieux, personnes et chiffres spécifiques — soyez concret, pas abstrait
-
-ÉVITEZ CES FORMULATIONS (glissement éditorial):
-- "souligne", "met en lumière", "alimente les craintes de", "soulève des questions sur"
-- "dans une ère/un monde/une région déjà [adjectif]"
-- "signalant comment X aggrave/approfondit Y"
-- Images dramatiques pour des changements politiques
-UTILISEZ PLUTÔT:
-- "Ceci fait suite à [prédécesseur factuel spécifique]"
-- "X s'est produit. [Contexte factuel]. Y est attendu ensuite."
-
-TON:
-- Neutre et factuel tout au long
-- Présentez plusieurs perspectives quand pertinent
-- Pas d'éditorialisation — laissez les faits parler d'eux-mêmes
-- Pas de sensationnalisme — reconnaissez l'importance par les détails spécifiques, pas les adjectifs
-
-ACTUALITÉS DU JOUR:
-${headlines.map((h, i) => `${i + 1}. ${h.title} — ${h.summary}`).join('\n')}
-
-Output JSON: {"summary":"<votre briefing ici>"}`;
-    }
-  }
-};
-
-// Helper to make Chat Completions API calls.
-// When `retry` is false, the caller handles its own retry logic (avoids stacked retries).
 export async function chatCompletion(
   model: string,
   systemPrompt: string,
@@ -659,88 +164,41 @@ export async function chatCompletion(
   maxTokens?: number,
   retry: boolean = true,
   jsonMode: boolean = true,
+  temperature?: number,
 ): Promise<string> {
   const doCall = () => getClient().chat.completions.create({
     model,
     messages: [
       { role: 'system', content: systemPrompt },
-      { role: 'user', content: userPrompt }
+      { role: 'user', content: userPrompt },
     ],
     ...(maxTokens ? { max_tokens: maxTokens } : {}),
     ...(jsonMode ? { response_format: { type: 'json_object' as const } } : {}),
+    ...(temperature !== undefined ? { temperature } : {}),
   });
 
   const response = retry ? await withRetry(doCall) : await doCall();
   return response.choices[0]?.message?.content || '';
 }
 
-async function chatCompletionWithFallback(
-  models: string[],
-  systemPrompt: string,
-  userPrompt: string,
-  maxTokens: number | undefined,
-  operation: string,
-  retry: boolean = true,
-): Promise<{ responseText: string; model: string }> {
-  let lastError: Error | undefined;
-
-  for (const model of models) {
-    try {
-      const apiStart = Date.now();
-      const responseText = await chatCompletion(model, systemPrompt, userPrompt, maxTokens, retry);
-      const apiMs = Date.now() - apiStart;
-
-      if (!responseText.trim()) {
-        throw new Error(`${operation} returned an empty response from model=${model}`);
-      }
-
-      console.log(`${operation}: model=${model} API response time ${apiMs} ms`);
-      return { responseText, model };
-    } catch (error) {
-      lastError = error as Error;
-      console.warn(`${operation}: model=${model} failed: ${errorMessage(error)}`);
-    }
-  }
-
-  throw new Error(`${operation} failed for all configured models: ${lastError?.message || 'unknown error'}`);
-}
-
 async function filterAndRankArticlesChunk(articles: ProcessedArticle[], languageCode: string): Promise<ProcessedArticle[]> {
   const prompt = getPrompts(languageCode).filterPrompt(articles);
   const threshold = 6;
-
   const systemPrompt = 'You are a neutral news editor. Analyze articles and respond with valid JSON only. No markdown, no explanations.';
-  let result: { analyses: ArticleAnalysis[] } | null = null;
-  let lastError: Error | undefined;
 
-  for (const model of MODEL_FILTERS) {
-    try {
-      const { responseText } = await chatCompletionWithFallback(
-        [model],
-        systemPrompt,
-        prompt,
-        4096,
-        'filterAndRankArticles',
-      );
-      const parsed = safeParseJSON<{ analyses: ArticleAnalysis[] }>(responseText, { analyses: [] });
-      if (!Array.isArray(parsed.analyses) || parsed.analyses.length === 0) {
-        throw new Error(`Filtering returned no parseable article analyses from model=${model}`);
-      }
-      result = parsed;
-      break;
-    } catch (error) {
-      lastError = error as Error;
-      console.warn(`filterAndRankArticles: model=${model} produced unusable output: ${errorMessage(error)}`);
-    }
+  const responseText = await chatCompletion(MODELS.filter, systemPrompt, prompt, 4096);
+  if (!responseText.trim()) {
+    throw new Error(`Filtering returned an empty response from model=${MODELS.filter}`);
   }
 
-  if (!result) {
-    throw new Error(`Filtering returned no usable output from configured models: ${lastError?.message || 'unknown error'}`);
+  const parsed = safeParseJSON<{ analyses: ArticleAnalysis[] }>(responseText, { analyses: [] });
+  if (!Array.isArray(parsed.analyses) || parsed.analyses.length === 0) {
+    throw new Error(`Filtering returned no parseable article analyses from model=${MODELS.filter}`);
   }
 
   return articles
     .map((article, index) => {
-      const analysis = result.analyses?.find(r => r.index === index);
+      const analysis = parsed.analyses.find(r => r.index === index);
       const score = analysis?.relevanceScore ?? 0;
       return {
         ...article,
@@ -963,22 +421,23 @@ function reconcileGeneratedHeadlinesWithArticles(
 
 export async function generateHeadlines(articles: ProcessedArticle[], languageCode: string = 'en', yesterdayHeadlines: NewsHeadline[] = []): Promise<NewsHeadline[]> {
   const prompt = getPrompts(languageCode).headlinesPrompt(articles, yesterdayHeadlines);
+  const systemPrompt = getSystemPrompt(languageCode, 'headlines');
+  // deepseek occasionally returns an empty/zero-headline response (not an HTTP error,
+  // so withRetry doesn't catch it). Retry the same model rather than failing the language.
+  const MAX_ATTEMPTS = 3;
   let lastError: Error | undefined;
 
-  for (const model of MODEL_HEADLINES) {
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
-      const { responseText } = await chatCompletionWithFallback(
-        [model],
-        getSystemPrompt(languageCode, 'headlines'),
-        prompt,
-        4096,
-        'generateHeadlines',
-      );
+      const responseText = await chatCompletion(MODELS.headlines, systemPrompt, prompt, 4096);
+      if (!responseText.trim()) {
+        throw new Error(`empty response from model=${MODELS.headlines}`);
+      }
 
       const result = safeParseJSON(responseText, { headlines: [] as GeneratedHeadline[] });
       const headlines = result.headlines || [];
       if (headlines.length === 0) {
-        throw new Error(`Headlines response from model=${model} contained 0 headlines`);
+        throw new Error(`response from model=${MODELS.headlines} contained 0 headlines`);
       }
 
       // Post-parse guardrail: source links, sources, and timestamps come from
@@ -996,68 +455,103 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
       const deduped = deduplicateAcrossTiers(enriched);
 
       if (deduped.length === 0) {
-        throw new Error(`Headlines response from model=${model} had no source-backed headlines after reconciliation`);
+        throw new Error(`response from model=${MODELS.headlines} had no source-backed headlines after reconciliation`);
       }
 
       return deduped;
     } catch (error) {
       lastError = error as Error;
-      console.warn(`generateHeadlines: model=${model} failed: ${errorMessage(error)}`);
+      if (attempt < MAX_ATTEMPTS) {
+        console.warn(`generateHeadlines attempt ${attempt}/${MAX_ATTEMPTS} failed (${errorMessage(error)}), retrying...`);
+      }
     }
   }
 
   throw new Error(`Failed to generate headlines for ${languageCode}: ${lastError?.message || 'unknown error'}`);
 }
 
-export async function generateDailySummary(headlines: NewsHeadline[], languageCode: string = 'en', yesterdayHeadlines: NewsHeadline[] = []): Promise<string> {
+/**
+ * Build a link → article-body map so the summary can be written from real source
+ * text, not just headline blurbs. Covers primary and covering articles.
+ */
+function buildArticleBodyMap(articles: ProcessedArticle[]): Map<string, string> {
+  const map = new Map<string, string>();
+  for (const article of articles) {
+    map.set(normalizeLinkForMatching(article.link), article.content);
+    for (const covering of article.coveringArticles ?? []) {
+      if (!map.has(normalizeLinkForMatching(covering.link))) {
+        map.set(normalizeLinkForMatching(covering.link), covering.content);
+      }
+    }
+  }
+  return map;
+}
+
+export async function generateDailySummary(
+  headlines: NewsHeadline[],
+  articles: ProcessedArticle[],
+  languageCode: string = 'en',
+  yesterdayHeadlines: NewsHeadline[] = [],
+): Promise<string> {
   // CRITICAL: Refuse to generate summary with no headlines - this causes hallucination of old news
   if (!headlines || headlines.length === 0) {
     throw new Error('Cannot generate summary: no headlines provided. This would cause the LLM to hallucinate old/fake news.');
   }
 
-  const prompt = getPrompts(languageCode).summaryPrompt(headlines, yesterdayHeadlines);
+  const MAX_BODY_CHARS = 1000;
+  const bodyMap = buildArticleBodyMap(articles);
+  const stories: SummaryStory[] = headlines.map(headline => {
+    const body = bodyMap.get(normalizeLinkForMatching(headline.link));
+    return {
+      title: headline.title,
+      summary: headline.summary,
+      body: body ? body.substring(0, MAX_BODY_CHARS) : undefined,
+    };
+  });
+
+  const prompt = getPrompts(languageCode).summaryPrompt(stories, yesterdayHeadlines);
   const systemPrompt = getSystemPrompt(languageCode, 'summary');
-  const MAX_ATTEMPTS_PER_MODEL = 2;
-  const summaryModels = MODEL_SUMMARIES;
+  // Low temperature keeps length and quality consistent run-to-run; the model
+  // otherwise swings wildly (60–310 words) at its default temperature.
+  const SUMMARY_TEMPERATURE = 0.5;
+  // ~220 words. Below this a run is treated as too short and retried — but a short
+  // briefing is still returned rather than failing the language outright.
+  const MIN_TARGET_CHARS = 1400;
+  const MAX_ATTEMPTS = 2;
   let lastError: Error | undefined;
+  let best = '';
 
-  for (let modelIndex = 0; modelIndex < summaryModels.length; modelIndex++) {
-    const model = summaryModels[modelIndex];
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      const apiStart = Date.now();
+      const responseText = await chatCompletion(MODELS.summary, systemPrompt, prompt, 2048, false, true, SUMMARY_TEMPERATURE);
+      console.log(`generateDailySummary: model=${MODELS.summary} API response time ${Date.now() - apiStart} ms (attempt ${attempt}/${MAX_ATTEMPTS})`);
 
-    for (let attempt = 1; attempt <= MAX_ATTEMPTS_PER_MODEL; attempt++) {
-      try {
-        const apiStart = Date.now();
-        const responseText = await chatCompletion(model, systemPrompt, prompt, 2048, false);
-        const apiMs = Date.now() - apiStart;
-        console.log(`generateDailySummary: model=${model} API response time ${apiMs} ms (attempt ${attempt}/${MAX_ATTEMPTS_PER_MODEL})`);
+      const result = safeParseJSON<{ summary?: string }>(responseText, {});
+      const candidate = result.summary
+        ? sanitizeGeneratedSummary(result.summary)
+        : (recoverSummaryFromMalformedOutput(responseText) ?? '');
 
-        const result = safeParseJSON<{ summary?: string }>(responseText, {});
-        const parsedSummary = result.summary ? sanitizeGeneratedSummary(result.summary) : '';
-        if (parsedSummary) return parsedSummary;
-
-        const recoveredSummary = recoverSummaryFromMalformedOutput(responseText);
-        if (recoveredSummary) {
-          console.warn(`Recovered summary from malformed output (model=${model}, attempt ${attempt})`);
-          return recoveredSummary;
-        }
-
+      if (!candidate) {
         throw new Error(`Summary generation returned empty/malformed result. Raw response: ${responseText.substring(0, 300)}`);
-      } catch (error) {
-        lastError = error as Error;
+      }
 
-        const hasMoreAttemptsOnThisModel = attempt < MAX_ATTEMPTS_PER_MODEL;
-        const hasFallbackModel = modelIndex < summaryModels.length - 1;
+      if (candidate.length > best.length) best = candidate;
+      if (candidate.length >= MIN_TARGET_CHARS) return candidate;
 
-        if (hasMoreAttemptsOnThisModel) {
-          console.warn(`Summary generation failed on model=${model} attempt ${attempt}, retrying...`);
-          continue;
-        }
-
-        if (hasFallbackModel) {
-          console.warn(`Summary generation failed on model=${model}. Falling back to model=${summaryModels[modelIndex + 1]}...`);
-        }
+      console.warn(`Summary short (${candidate.length} chars < ${MIN_TARGET_CHARS}), retrying for a fuller briefing...`);
+    } catch (error) {
+      lastError = error as Error;
+      if (attempt < MAX_ATTEMPTS) {
+        console.warn(`Summary generation failed on model=${MODELS.summary} attempt ${attempt}, retrying...`);
       }
     }
+  }
+
+  // Prefer a short-but-valid briefing over failing the whole language.
+  if (best) {
+    console.warn(`Using best available summary (${best.length} chars) after ${MAX_ATTEMPTS} attempts`);
+    return best;
   }
 
   console.error('Error generating summary:', lastError);
@@ -1074,10 +568,10 @@ interface HeadlineCategorization {
 
 /**
  * Categorize headlines by topic, region, and importance.
- * Uses a fast model to add metadata for frontend filtering and visual hierarchy.
+ * Adds metadata for frontend filtering and visual hierarchy. Non-critical: on
+ * failure it returns sensible defaults rather than failing the whole edition.
  */
-// eslint-disable-next-line @typescript-eslint/no-unused-vars -- languageCode reserved for future per-language categorization prompts
-export async function categorizeHeadlines(headlines: NewsHeadline[], _languageCode: string = 'en'): Promise<NewsHeadline[]> {
+export async function categorizeHeadlines(headlines: NewsHeadline[]): Promise<NewsHeadline[]> {
   if (headlines.length === 0) return headlines;
 
   const defaultMeta = {
@@ -1086,67 +580,15 @@ export async function categorizeHeadlines(headlines: NewsHeadline[], _languageCo
     importance: 'notable' as Importance,
   };
 
-  const prompt = `Categorize each headline by topic, region, and importance. Output JSON only.
-
-CATEGORIES (pick one per headline):
-- conflict: Wars, military actions, terrorism, armed conflicts
-- politics: Elections, legislation, diplomacy, government actions
-- economy: Markets, trade, central banks, business, employment
-- science: Research breakthroughs, technology, health/medical
-- environment: Climate, natural disasters, conservation
-- society: Human rights, migration, culture, demographics
-
-REGIONS (pick one per headline):
-- europe: EU, UK, Russia, Eastern Europe
-- americas: USA, Canada, Latin America, Caribbean
-- asia-pacific: China, Japan, Korea, Southeast Asia, Australia, India
-- middle-east: Israel, Palestine, Gulf states, Iran, Turkey
-- africa: All African nations
-- global: Stories affecting multiple regions equally
-
-IMPORTANCE (pick one per headline):
-- breaking: Ongoing, developing situation with immediate impact
-- major: Significant event with broad implications
-- notable: Important but limited immediate impact
-
-HEADLINES:
-${headlines.map((h, i) => `[${i}] ${h.title}`).join('\n')}
-
-OUTPUT: {"categories":[{"index":0,"category":"conflict","region":"europe","importance":"breaking"},...]}`
-
-  const systemPrompt = 'You are a news categorization system. Analyze headlines and respond with valid JSON only. No markdown, no explanations.';
-
   try {
-    let result: { categories: HeadlineCategorization[] } | null = null;
-    let lastError: Error | undefined;
-
-    for (const model of MODEL_FILTERS) {
-      try {
-        const { responseText } = await chatCompletionWithFallback(
-          [model],
-          systemPrompt,
-          prompt,
-          2048,
-          'categorizeHeadlines',
-        );
-        const parsed = safeParseJSON<{ categories: HeadlineCategorization[] }>(responseText, { categories: [] });
-        if (!Array.isArray(parsed.categories) || parsed.categories.length === 0) {
-          throw new Error(`Categorization returned no parseable categories from model=${model}`);
-        }
-        result = parsed;
-        break;
-      } catch (error) {
-        lastError = error as Error;
-        console.warn(`categorizeHeadlines: model=${model} produced unusable output: ${errorMessage(error)}`);
-      }
-    }
-
-    if (!result) {
-      throw new Error(`Categorization returned no usable output from configured models: ${lastError?.message || 'unknown error'}`);
+    const responseText = await chatCompletion(MODELS.categorize, CATEGORIZE_SYSTEM_PROMPT, categorizePrompt(headlines), 2048);
+    const parsed = safeParseJSON<{ categories: HeadlineCategorization[] }>(responseText, { categories: [] });
+    if (!Array.isArray(parsed.categories) || parsed.categories.length === 0) {
+      throw new Error(`Categorization returned no parseable categories from model=${MODELS.categorize}`);
     }
 
     return headlines.map((headline, index) => {
-      const match = result.categories?.find(c => c.index === index);
+      const match = parsed.categories.find(c => c.index === index);
       return {
         ...headline,
         category: match?.category ?? defaultMeta.category,
@@ -1155,7 +597,7 @@ OUTPUT: {"categories":[{"index":0,"category":"conflict","region":"europe","impor
       };
     });
   } catch (error) {
-    console.error('Error categorizing headlines:', error);
+    console.error('Error categorizing headlines:', errorMessage(error));
     return headlines.map(headline => ({ ...headline, ...defaultMeta }));
   }
 }

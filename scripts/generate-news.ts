@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
-import { DEFAULT_LANGUAGE_CODE, isSupportedLanguageCode } from '../src/lib/languages';
-import { runDailyPipeline } from '../src/lib/pipeline/daily';
+import { DEFAULT_LANGUAGE_CODE, SUPPORTED_LANGUAGE_CODES, isSupportedLanguageCode, type LanguageCode } from '../src/lib/languages';
+import { runDailyPipelineSafely } from '../src/lib/pipeline/daily';
 
 if (!process.env.OPENROUTER_API_KEY) {
   console.error('OPENROUTER_API_KEY environment variable is required');
@@ -14,27 +14,33 @@ const args = process.argv.slice(2);
 const languageArg = args.find(arg => arg.startsWith('--lang='));
 const requestedLanguage = languageArg ? languageArg.split('=')[1] : DEFAULT_LANGUAGE_CODE;
 
-if (!isSupportedLanguageCode(requestedLanguage)) {
-  console.error(`Unsupported language: ${requestedLanguage}. Expected one of en, it, fr.`);
-  process.exit(1);
+// "all" runs each language independently so one failure never discards the others.
+const languages: LanguageCode[] = requestedLanguage === 'all'
+  ? [...SUPPORTED_LANGUAGE_CODES]
+  : isSupportedLanguageCode(requestedLanguage)
+    ? [requestedLanguage]
+    : (() => {
+        console.error(`Unsupported language: ${requestedLanguage}. Expected one of ${SUPPORTED_LANGUAGE_CODES.join(', ')} or "all".`);
+        process.exit(1);
+      })();
+
+console.log(`Running pipeline for: ${languages.join(', ')}`);
+
+const results = [];
+for (const language of languages) {
+  results.push(await runDailyPipelineSafely(language));
 }
 
-console.log(`Running pipeline for language: ${requestedLanguage}`);
+const succeeded = results.filter(r => r.success).map(r => r.language);
+const failed = results.filter(r => !r.success);
 
-runDailyPipeline(requestedLanguage).then((result) => {
-  if (!result.success) {
-    console.error(`Pipeline failed for ${requestedLanguage}: ${result.error || 'unknown error'}`);
-    process.exit(1);
-  }
+console.log(`\n${'='.repeat(60)}`);
+console.log(`Pipeline summary: ${succeeded.length}/${results.length} languages succeeded`);
+if (succeeded.length > 0) console.log(`  Succeeded: ${succeeded.join(', ')}`);
+for (const result of failed) {
+  console.error(`  Failed (${result.language}): ${result.error || 'unknown error'}`);
+}
+console.log(`${'='.repeat(60)}`);
 
-  console.log('All operations completed successfully!');
-  process.exit(0);
-}).catch((error) => {
-  console.error(`\n${'='.repeat(60)}`);
-  console.error(`ERROR in daily news pipeline for ${requestedLanguage}:`);
-  console.error(`${'='.repeat(60)}`);
-  console.error(error);
-  console.error('Stack trace:', (error as Error).stack);
-  console.error('Pipeline failed:', error);
-  process.exit(1);
-});
+// Exit non-zero only if every requested language failed, so partial success still publishes.
+process.exit(succeeded.length > 0 ? 0 : 1);

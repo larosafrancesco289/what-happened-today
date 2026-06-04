@@ -1,0 +1,234 @@
+{
+  "date": "2026-06-04",
+  "summary": "Islamic State-linked militia attacks in eastern Democratic Republic of Congo have killed at least 30 people near the city of Beni in North Kivu over the past few days. The raids, blamed on the Allied Democratic Forces, hit three villages early Wednesday. Three Ebola patients fled treatment centers during the chaos, complicating the response to an ongoing outbreak. The area is one of the epicenters of the current Ebola epidemic, and the violence makes it harder for health workers to track and contain the disease.\n\nIn the Middle East, Israel and Hezbollah have agreed to a U.S.-brokered ceasefire that calls for a complete cessation of fire. But Israeli Defense Minister Israel Katz said operations in southern Lebanon will continue for now. A previous ceasefire largely fell apart. Separately, the Republican-led U.S. House voted 215-208 to block further war on Iran. Four Republicans joined Democrats to pass the measure, which is largely symbolic but marks a notable rebuke to the Trump administration.\n\nRussia is ramping up pressure on Armenia ahead of Sunday's parliamentary election. Moscow has threatened to raise gas prices, restrict Armenian imports, and suspend the country from the Eurasian Economic Union if it persists in pursuing EU integration. Meanwhile, Ukrainian attacks killed at least four people in Crimea, following strikes on energy and military sites in St. Petersburg during Russia's economic forum. U.S. Secretary of State Marco Rubio warned of a real risk of escalation. In Somalia, heavy clashes broke out in Mogadishu between forces aligned with the government and the opposition, deepening a political crisis that threatens stability.\n\nFinally, two stories worth noting: Zimbabwe's government has for the first time openly acknowledged that repeated election rigging and violence have undermined public trust and raised questions over presidential legitimacy. And TSMC CEO C.C. Wei warned that chip supply cannot keep pace with AI-fueled demand for years, pointing to production capacity as a key bottleneck.",
+  "headlines": [
+    {
+      "title": "Militia raids in eastern DRC kill 30, hamper Ebola response",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "Islamic State-linked Allied Democratic Forces militia killed 30 people in raids on villages near Beni, North Kivu. Three Ebola patients fled treatment centers, complicating outbreak response.",
+      "link": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
+      "publishedAt": "2026-06-04T04:00:25.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israel and Lebanon agree to renew ceasefire conditionally",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "BBC World",
+        "France 24"
+      ],
+      "summary": "Israel and Hezbollah reached a U.S.-brokered ceasefire calling for complete cessation of fire. However, Israeli Defense Minister Katz said operations in southern Lebanon will continue for now.",
+      "link": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
+      "publishedAt": "2026-06-04T10:08:57.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Emphasized U.S. role in brokering a 'complete cessation' of fire",
+          "link": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Stressed condition that Hezbollah stops attacks",
+          "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Focused on Israel's continued operations despite the deal",
+          "link": "https://www.france24.com/en/middle-east/20260604-israel-and-lebanon-agree-to-renew-ceasefire-condition-hezbollah-holds-fire"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US House votes 215-208 to block further war on Iran",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Al Jazeera English"
+      ],
+      "summary": "The Republican-led House passed a resolution halting further war on Iran, with four Republicans joining Democrats. The measure is largely symbolic but marks a significant rebuke to the Trump administration.",
+      "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-04T07:23:41.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Highlighted the symbolic rebuke with 215-208 vote tally",
+          "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Presented video coverage emphasizing the resolution's intent",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/video-us-house-of-representatives-votes-to-block-further-war-on-iran?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Beijing slaps travel ban on New Zealand MPs over Taiwan visit",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "summary": "China banned four New Zealand lawmakers from entering mainland China, Hong Kong and Macau for visiting Taiwan, accusing them of crossing a 'red line'. New Zealand and Australia lodged formal protests.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3355971/beijing-slaps-travel-ban-new-zealand-mps-crossing-red-line-taiwan-visit?utm_source=rss_feed",
+      "publishedAt": "2026-06-04T10:01:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Russia ramps up pressure on Armenia ahead of Sunday election",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Moscow threatens to raise gas prices, restrict Armenian imports, and suspend Armenia from the Eurasian Economic Union if it persists in EU integration ambitions. The parliamentary election is on Sunday.",
+      "link": "https://www.france24.com/en/europe/20260604-russia-ramps-pressure-on-armenia-ahead-of-sunday-s-crucial-election",
+      "publishedAt": "2026-06-04T08:16:08.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ukrainian attacks kill four in Crimea after St. Petersburg strikes",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "At least four people died in Crimea after Ukraine struck energy and military sites in St. Petersburg during Russia's economic forum. US Secretary of State Marco Rubio warned of escalation risk.",
+      "link": "https://www.france24.com/en/europe/20260604-ukrainian-strike-kills-three-in-crimea-after-kyiv-targets-st-petersburg-energy-military-sites",
+      "publishedAt": "2026-06-04T04:12:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Heavy clashes erupt in Mogadishu as Somalia political crisis deepens",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica"
+      ],
+      "summary": "Forces aligned with Somalia's government and opposition exchanged gunfire in Mogadishu on Wednesday, dramatically escalating a political standoff that threatens to push the nation toward instability.",
+      "link": "https://allafrica.com/stories/202606040062.html",
+      "publishedAt": "2026-06-04T04:01:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zimbabwe government admits rigged elections eroded trust and legitimacy",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica"
+      ],
+      "summary": "For the first time, Zimbabwe's government openly acknowledged that repeated election rigging and violence have undermined public trust and raised questions about presidential legitimacy.",
+      "link": "https://allafrica.com/stories/202606040084.html",
+      "publishedAt": "2026-06-04T06:28:36.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "TSMC warns chip supply won't meet AI demand for years",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times"
+      ],
+      "summary": "TSMC CEO C.C. Wei said production capacity remains a key bottleneck, warning that chip supply cannot keep pace with AI-fueled demand for years to come.",
+      "link": "https://www.japantimes.co.jp/business/2026/06/04/companies/tsmc-chips-supply/",
+      "publishedAt": "2026-06-04T07:56:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Bangladesh FM Khalilur Rahman beats Cyprus to win UNGA presidency",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "summary": "Bangladesh's Foreign Minister Khalilur Rahman, a career diplomat, defeated Cyprus's Ambassador Andreas Kakouris in the election for the next UN General Assembly president.",
+      "link": "https://www.aljazeera.com/news/2026/6/4/who-is-khalilur-rahman-bangladesh-fm-who-beat-cyprus-to-unga-presidency?traffic_source=rss",
+      "publishedAt": "2026-06-04T08:50:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Beijing says US Tiananmen comments 'smear' China on anniversary",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times"
+      ],
+      "summary": "China condemned U.S. Secretary of State Marco Rubio's statement that 'no amount of censorship can erase the past' on the 37th anniversary of the Tiananmen crackdown, calling it a smear.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/04/asia-pacific/politics/beijing-us-comments-tiananmen/",
+      "publishedAt": "2026-06-04T08:36:00.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Annual commemorations of the June 4, 1989 crackdown drew U.S. condemnation this year.",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 408,
+    "articlesAfterDedup": 408,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.2,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 6,
+      "economy": 1
+    },
+    "regionCounts": {
+      "africa": 3,
+      "middle-east": 1,
+      "americas": 1,
+      "asia-pacific": 3,
+      "europe": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

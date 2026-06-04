@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-04",
+  "summary": "Le cessez-le-feu entre Israël et le Liban, conclu après deux jours de pourparlers à Washington, est déjà mis à l'épreuve. Un Casque bleu a été tué par des tirs de mortier dans le sud du Liban, malgré l'accord. Celui-ci prévoit un retrait graduel israélien conditionné au désarmement du Hezbollah. L'attaque montre la fragilité de la trêve.\n\nAux États-Unis, la Chambre des représentants a voté pour mettre fin à la guerre contre l'Iran, plaçant le président Trump sous pression pour retirer les troupes. Par ailleurs, l'Allemagne a subi un revers inédit : elle n'a pas obtenu de siège au Conseil de sécurité de l'ONU pour la première fois, ce qui interroge son influence diplomatique.\n\nLes violences se poursuivent ailleurs. À Gaza, des frappes israéliennes ont tué au moins huit personnes, dont des civils dans un camp de réfugiés. En Russie, pour la première fois, des entreprises privées sont autorisées à acheter du matériel militaire défensif pour se protéger des drones ukrainiens, dont les attaques se sont intensifiées depuis mars. Et au 37e anniversaire de Tiananmen, le secrétaire d'État américain Marco Rubio a dénoncé la censure chinoise ; Pékin a réagi avec colère.\n\nAu Sénégal, Ousmane Sonko a acté sa rupture politique avec le président Bassirou Diomaye Faye. Il se pose désormais comme le premier opposant, utilisant l'Assemblée nationale comme tribune contre le nouveau gouvernement. Ce réalignement pourrait redessiner la scène politique sénégalaise.",
+  "headlines": [
+    {
+      "title": "Un Casque bleu tué par des tirs de mortier au sud du Liban malgré un cessez-le-feu",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "RTBF (Belgian)"
+      ],
+      "summary": "Un Casque bleu a été tué et deux autres blessés par des tirs de mortier sur une base de l'ONU dans le sud du Liban, alors qu'un accord de cessez-le-feu entre Israël et le Liban est intervenu dans la nuit.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-apres-un-accord-sur-un-cessez-le-feu-entre-israel-et-le-liban-le-hezbollah-dit-avoir-vise-l-armee-israelienne-dans-le-sud-du-pays_8044079.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-04T10:02:08.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "A ouvert sur la mort du Casque bleu et le contexte de l'accord de cessez-le-feu nocturne entre Israël et le Liban.",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-apres-un-accord-sur-un-cessez-le-feu-entre-israel-et-le-liban-le-hezbollah-dit-avoir-vise-l-armee-israelienne-dans-le-sud-du-pays_8044079.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RTBF (Belgian)",
+          "angle": "A rapporté l'attaque contre la Finul sans préciser l'accord de cessez-le-feu, se concentrant sur le communiqué de l'ONU.",
+          "link": "https://www.rtbf.be/article/un-casque-bleu-tue-dans-le-sud-du-liban-11735028"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israël et le Liban signent un cessez-le-feu minimaliste conditionné au désarmement du Hezbollah",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "Après deux jours de pourparlers à Washington, un accord prévoit un retrait graduel israélien du sud du Liban, conditionné au désarmement du Hezbollah. La perspective d'une paix durable reste incertaine.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/04/entre-israel-et-le-liban-un-accord-minimaliste-qui-repousse-la-perspective-d-un-cessez-le-feu-durable_6697336_3210.html",
+      "publishedAt": "2026-06-04T09:00:08.000Z",
+      "tier": "top",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "La Chambre américaine vote la fin de la guerre contre l'Iran, Trump sous pression",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "La Chambre des représentants a adopté un texte ordonnant la fin de la guerre contre l'Iran. La question se pose maintenant de savoir si Trump est obligé de retirer les troupes américaines du conflit.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4227129-20260604-guerre-moyen-orient-apres-vote-congres-contre-conflit-trump-oblige-retirer-troupes-americaines?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-04T07:21:23.000Z",
+      "tier": "top",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "L'Allemagne échoue pour la première fois à obtenir un siège au Conseil de sécurité de l'ONU",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "Ce revers inédit fragilise les ambitions diplomatiques de Berlin et interroge son influence au sein de l'organisation internationale, après un vote à l'Assemblée générale.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/04/onu-l-allemagne-echoue-pour-la-premiere-fois-a-obtenir-un-siege-au-conseil-de-securite_6697289_3210.html",
+      "publishedAt": "2026-06-04T07:55:29.000Z",
+      "tier": "also",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Au moins huit morts dans des frappes israéliennes à Gaza ce jeudi 4 juin",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "Des frappes ont visé des appartements et une maison dans un camp de réfugiés, tuant huit personnes. Les violences se poursuivent dans l'enclave palestinienne.",
+      "link": "https://www.20minutes.fr/monde/israel/4227130-20260604-gaza-moins-8-morts-frappes-israeliennes?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-04T07:07:07.000Z",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rubio dénonce la censure chinoise sur Tiananmen, la Chine réplique vivement",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "Le secrétaire d'État américain a rendu hommage aux victimes du 4 juin 1989 et dénoncé la censure. La Chine a réagi avec colère à ces déclarations, 37 ans après la répression.",
+      "link": "https://www.20minutes.fr/monde/chine/4227169-20260604-tiananmen-rubio-fustige-censure-tente-effacer-passe-chine-fache?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-04T09:19:56.000Z",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Les entreprises russes autorisées à acheter du matériel militaire face aux drones ukrainiens",
+      "source": "France Info",
+      "singleSource": true,
+      "summary": "Pour la première fois, des groupes privés russes peuvent acquérir du matériel défensif pour se protéger, alors que l'Ukraine a intensifié ses frappes de drones transfrontalières depuis mars.",
+      "link": "https://www.franceinfo.fr/monde/russie/face-aux-drones-ukrainiens-les-entreprises-russes-contraintes-de-compenser-financierement-les-absences-de-l-etat_8042675.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-04T03:56:22.000Z",
+      "tier": "also",
+      "sources": [
+        "France Info"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Un Casque bleu tué dans le sud du Liban, la Finul confirme l'attaque",
+      "source": "RTBF (Belgian)",
+      "singleSource": true,
+      "summary": "La Force Intérimaire des Nations Unies au Liban a confirmé qu'un de ses soldats a été tué par des tirs de mortier dans le sud du Liban, sans mentionner l'accord de cessez-le-feu.",
+      "link": "https://www.rtbf.be/article/un-casque-bleu-tue-dans-le-sud-du-liban-11735028",
+      "publishedAt": "2026-06-04T09:10:03.000Z",
+      "tier": "also",
+      "sources": [
+        "RTBF (Belgian)"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ousmane Sonko se pose en premier opposant au Sénégal après la rupture avec Faye",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "En actant la rupture politique avec le président Bassirou Diomaye Faye, Ousmane Sonko place l'Assemblée nationale en tribune de l'opposition contre le nouveau gouvernement sénégalais.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260604-s%C3%A9n%C3%A9gal-sonko-1er-opposant",
+      "publishedAt": "2026-06-04T09:21:58.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Ousmane Sonko était auparavant allié au président Faye, mais la coalition a éclaté.",
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.3,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 4
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 1,
+      "global": 1,
+      "asia-pacific": 1,
+      "europe": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "date": "2026-06-04",
+  "summary": "Hezbollah ha respinto l'accordo di tregua con Israele annunciato ieri, dopo la morte di un casco blu serbo in Libano. La Farnesina ha precisato che nessun italiano era coinvolto nell'incidente. L'intesa, che prevedeva zone di sicurezza che escludevano il gruppo sciita, è ora saltata, aumentando le tensioni al confine.\n\nIl presidente americano Trump ha detto di voler incontrare la guida iraniana Khamenei per un'intesa sul nucleare, ma Teheran ha smentito. Intanto la Camera Usa ha approvato una richiesta di voto per proseguire le ostilità, ma Trump ha diritto di veto. La situazione resta incerta.\n\nIn Italia, la Camera ha approvato la legge delega sul nucleare di Pichetto con 155 sì e 86 no. Il testo passa al Senato, con l'obiettivo di approvazione entro l'estate e decreti attuativi entro fine anno. Amazon ha annunciato un investimento di oltre 10 miliardi di euro in Europa, creando 25.000 nuovi posti di lavoro nella rete di magazzini e consegne.\n\nBroadcom, produttore di chip AI, ha perso il 12% in Borsa (-300 miliardi di valore) nonostante ricavi in crescita del 48%, perché ha rifiutato di alzare gli obiettivi a lungo termine. In Tunisia, l'ex leader islamista Ghannouchi è stato condannato all'ergastolo, vittima della repressione del presidente Saied. Trump ha rilanciato il ticket Vance-Rubio per le presidenziali 2028, smentendo attriti con Vance sui dazi. Infine, il governo valuta un bonus da 100 euro per famiglie con Isee fino a 15mila euro, in sostituzione del taglio delle accise sui carburanti.",
+  "headlines": [
+    {
+      "title": "Hezbollah respinge l'accordo di tregua con Israele dopo la morte di un casco blu serbo in Libano",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Il casco blu ucciso in Libano era serbo, la Farnesina esclude italiani coinvolti. Israele e Libano avevano annunciato una tregua, ma Hezbollah la respinge, facendo saltare l'intesa.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/04/israele-e-libano-accordo-su-tregua-e-zone-sicurezza-che-escludono-hezbollah_f0d64ac2-09da-48c6-85b7-ffb51aafb594.html",
+      "publishedAt": "2026-06-04T10:03:16.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump dice di voler incontrare Khamenei, la Camera Usa chiede il ritiro delle truppe",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il presidente americano vede possibilità di un'intesa sul nucleare, ma Teheran smentisce. Il Congresso avverte: per proseguire le ostilità serve un voto, ma Trump ha il veto.",
+      "link": "https://www.repubblica.it/esteri/2026/06/04/news/fuga_in_avanti_di_trump_accordo_sul_nucleare_incontrero_khamenei-425388049/?rss",
+      "publishedAt": "2026-06-03T23:13:54.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "La Camera approva la legge delega sul nucleare di Pichetto, ora al Senato",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "L'Aula ha approvato con 155 voti favorevoli e 86 contrari. Il governo mira all'approvazione definitiva entro l'estate per emanare i decreti attuativi entro fine anno.",
+      "link": "https://www.rainews.it/articoli/2026/06/nucleare-la-camera-approva-la-legge-delega-pichetto-1d492e99-ec4b-4c28-ae84-34684db2bced.html",
+      "publishedAt": "2026-06-04T09:50:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Amazon investe 10 miliardi in Europa, creerà 25.000 nuovi posti di lavoro",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Amazon annuncia un investimento di oltre 10 miliardi di euro per ampliare e modernizzare la rete di magazzini e consegne nel continente, con 25.000 nuove assunzioni.",
+      "link": "http://it.euronews.com/business/2026/06/04/amazon-investe-10-miliardi-in-europa-25000-nuovi-posti-di-lavoro-e-robot-nei-magazzini",
+      "publishedAt": "2026-06-04T09:47:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Broadcom crolla in Borsa, perde 300 miliardi di valore dopo outlook deludente",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Il produttore di chip AI Broadcom ha registrato ricavi in crescita del 48%, ma il rifiuto di alzare gli obiettivi a lungo termine ha fatto crollare il titolo del 12%.",
+      "link": "http://it.euronews.com/business/2026/06/04/broadcom-colosso-ai-brucia-300-miliardi-di-valore-outlook-delude-le-attese",
+      "publishedAt": "2026-06-04T09:54:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Tunisia, ergastolo all'ex leader islamista Ghannouchi, rivale del presidente Saied",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "L'ex leader di Ennahda è stato condannato all'ergastolo. Ghannouchi, oppositore di Kais Saied, era in carcere dalla deriva autoritaria del 2021.",
+      "link": "https://www.repubblica.it/esteri/2026/06/04/news/tunisia_ergastolo_ex_leader_islamista_ghannouchi_ennhada_opposizione_carcere-425388613/?rss",
+      "publishedAt": "2026-06-04T08:34:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump rilancia il ticket Vance-Rubio per le presidenziali del 2028",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il presidente americano sostiene la candidatura congiunta di J.D. Vance e Marco Rubio, smentendo voci di attriti con Vance per la sua freddezza sul tema dei dazi.",
+      "link": "https://www.repubblica.it/esteri/2026/06/04/news/trump_ticket_vance_rubio_presidenziali_2028_candidati_usa-425388432/?rss",
+      "publishedAt": "2026-06-04T09:12:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo valuta bonus da 100 euro per famiglie a basso reddito al posto del taglio delle accise",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Invece dello sconto generalizzato sui carburanti, il governo studia un contributo di 100 euro per oltre un milione di nuclei con Isee fino a 15mila euro.",
+      "link": "https://www.tgcom24.mediaset.it/economia/carburanti-stop-al-taglio-delle-accise-il-governo-valuta-un-bonus-da-100-euro-per-le-famiglie-a-basso-reddito_112864385-202602k.shtml",
+      "publishedAt": "2026-06-04T09:53:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 191,
+    "articlesAfterDedup": 190,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 8,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 11,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 5,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "americas": 2,
+      "europe": 3,
+      "global": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

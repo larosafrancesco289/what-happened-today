@@ -1,0 +1,170 @@
+{
+  "date": "2026-06-05",
+  "summary": "Buongiorno. Oggi due notizie portano la firma dell'intelligenza artificiale. La più importante arriva dall'Università di Cambridge, dove un team ha sviluppato il primo vaccino universale per tutti i coronavirus, con un componente chiave progettato dall'IA. I test umani sono già iniziati. L'obiettivo è prevenire future pandemie, non solo inseguire varianti. In parallelo, a Modena nasce MGI Italia, una joint venture italo-britannica che userà l'alta tecnologia per produrre droni per aerospazio, difesa e automotive, puntando sulla Motor Valley. Due modi diversi in cui l'IA entra nel concreto.\n\nSul fronte dei conflitti, il Medio Oriente resta caldo. Israele ha sospeso il voto sulla tregua con il Libano dopo l'opposizione di Hezbollah. Nuovi raid israeliani vicino Tiro hanno ucciso 12 persone e ferito altre 12. La crisi si aggrava. In Ucraina, droni hanno colpito navi mercantili dirette in Russia, uccidendo cinque marinai azeri. L'Agenzia internazionale per l'energia atomica ha annunciato una tregua nella zona di Zaporizhzhia, mentre Zelensky ha scritto a Putin chiedendo di porre fine al conflitto.\n\nDue sviluppi geopolitici da tenere d'occhio. Il presidente cinese Xi Jinping ha accettato l'invito di Kim Jong Un per una visita di Stato in Corea del Nord l'8 e 9 giugno. Il viaggio rafforza il ruolo di mediazione della Cina nella regione. Dall'altra parte del mondo, gli Stati Uniti hanno sanzionato il presidente cubano Miguel Díaz-Canel e diversi membri della famiglia Castro, incluso un figlio di Raúl. Il governo cubano ha definito le misure 'aggressive e malvagie'.\n\nIn Somalia la situazione si complica. Scontri tra esercito e milizie a Mogadiscio dopo il prolungamento del mandato del presidente Hassan Sheikh Mohamud. La stabilità del Paese è in bilico. E un segnale di escalation nel Mar Nero: un drone navale è esploso nel porto romeno di Costanza. Il ministero della Difesa romeno ha confermato che l'ordigno è del tipo usato nella guerra in Ucraina.",
+  "headlines": [
+    {
+      "title": "IA progetta primo vaccino universale per coronavirus: test umani già avviati a Cambridge",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "L'Università di Cambridge ha sviluppato un vaccino contro tutti i coronavirus, con un componente chiave progettato dall'intelligenza artificiale. I test umani sono già iniziati per prevenire future pandemie.",
+      "link": "https://www.agi.it/estero/news/2026-06-05/ia-vaccino-universale-pandemie-37393918/",
+      "publishedAt": "2026-06-05T09:52:40.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Netanyahu blocca voto sulla tregua con Libano: Hezbollah si oppone, nuovi raid con 12 morti",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Israele ha sospeso la votazione sulla tregua con il Libano dopo l'opposizione di Hezbollah. Nuovi attacchi vicino Tiro hanno causato 12 vittime e 12 feriti, peggiorando la crisi.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/05/medio-oriente-netanyahu-non-fa-votare-la-tregua-con-il-libano-hezbollah-si-oppone_d8fc1e0c-d8f5-47bd-94cd-c4597e6cd139.html",
+      "publishedAt": "2026-06-05T09:17:45.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Droni ucraini attaccano navi in Russia: 5 marinai azeri uccisi, tregua Aiea a Zaporizhzhia",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Droni colpiscono navi mercantili dirette in Russia, uccidendo 5 marinai azeri. L'Aiea annuncia una tregua nella zona centrale di Zaporizhzhia, mentre Zelensky chiede la fine del conflitto in una lettera a Putin.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-aiea-tregua-zaporizhzhia_112883628-202602k.shtml",
+      "publishedAt": "2026-06-05T10:02:38.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Xi Jinping accetta invito di Kim Jong Un: visita di Stato in Corea del Nord l'8 e 9 giugno",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il presidente cinese Xi Jinping ha accettato l'invito del leader nordcoreano Kim Jong Un per una visita di Stato l'8 e 9 giugno, rafforzando il ruolo della Cina come mediatore regionale.",
+      "link": "https://www.repubblica.it/esteri/2026/06/05/news/xi_jinping_viaggio_corea_del_nord_kim_jong-un-425390557/?rss",
+      "publishedAt": "2026-06-05T05:00:24.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Usa sanzionano presidente cubano e famiglia Castro: Diaz-Canel definisce misure \"aggressive e malvagie\"",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Gli Stati Uniti hanno imposto sanzioni al presidente cubano Miguel Díaz-Canel e a diversi membri della famiglia Castro, tra cui il figlio di Raúl Castro. Il governo cubano condanna le misure.",
+      "link": "https://www.repubblica.it/esteri/2026/06/05/news/usa_sanzioni_diaz_canel_famiglia_raul_castro-425390964/?rss",
+      "publishedAt": "2026-06-05T08:33:49.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Scontri tra esercito e milizie in Somalia: presidente Mohamud a rischio per prolungamento mandato",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Proteste e scontri a Mogadiscio tra l'esercito e milizie di opposizione dopo il prolungamento del mandato del presidente Hassan Sheikh Mohamud. La stabilità del Paese è in bilico.",
+      "link": "https://www.repubblica.it/esteri/2026/06/05/news/somalia_scontri_esercito_milizie_opposizione_presidente_hassan_sheikh_mohamud-425390900/?rss",
+      "publishedAt": "2026-06-05T07:55:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Drone navale esplode nel porto di Costanza in Romania: ministero Difesa conferma attacco",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Un drone navale è esploso nel porto romeno di Costanza. Il ministero della Difesa identifica l'ordigno come tipo utilizzato nella guerra in Ucraina, segnalando un'escalation nella regione del Mar Nero.",
+      "link": "http://it.euronews.com/my-europe/2026/06/05/romania-drone-navale-esplode-nel-porto-di-costanza",
+      "publishedAt": "2026-06-05T10:04:23.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nasce MGI Italia: joint venture italo-britannica per droni ad alta tecnologia nella Motor Valley",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "L'azienda britannica MGI Engineering e l'italiana Vigilar Group creano MGI Italia, una joint venture per produrre droni ad alta tecnologia nei settori aerospaziale, difesa e automotive, con sede nella Motor Valley.",
+      "link": "https://www.ilsole24ore.com/art/droni-nasce-mgi-joint-venture-uk-e-italia-AIkXskSD",
+      "publishedAt": "2026-06-05T09:11:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Putin propone compromessi di Anchorage per pace in Ucraina: colloqui con Trump come base",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il presidente russo Putin ha aperto a Kiev su possibili compromessi per la pace, basandosi su colloqui con Trump dello scorso Ferragosto. L'incontro non portò a un accordo, ma emersero accenni sul ruolo dell'Europa.",
+      "link": "https://www.repubblica.it/esteri/2026/06/05/news/putin_compromessi_anchorage_pace_ucraina_alaska-425391004/?rss",
+      "publishedAt": "2026-06-05T09:31:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 192,
+    "articlesAfterDedup": 192,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 10,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.3,
+    "categoryCounts": {
+      "science": 1,
+      "conflict": 4,
+      "politics": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 5,
+      "middle-east": 1,
+      "asia-pacific": 1,
+      "americas": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

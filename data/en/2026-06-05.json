@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-05",
+  "summary": "Iran struck Kuwait International Airport today, its third attack on the tiny Gulf state in a week. The strike escalates the standoff in the Strait of Hormuz by targeting sensitive infrastructure — a move that risks drawing in other regional powers. No casualties have been reported yet, but the attack follows two earlier strikes on Kuwait, and analysts say Iran is testing the limits of international response while the world's attention is split between Ukraine and Gaza.\n\nIn Gaza, Israeli military strikes killed at least 18 people today as the enclave's famine crisis deepens. International hunger experts this week called it a 'worst-case scenario.' A US envoy met with hostage family protesters in Israel, signaling ongoing diplomatic efforts, though no breakthrough is public. Meanwhile, Israel warned residents of south Lebanon's Sarafand to evacuate ahead of expected strikes on Hezbollah, after the group rejected a renewed ceasefire with Lebanon. The two fronts — Gaza and Lebanon — keep the region on edge.\n\nIn Washington, the Senate passed a $70 billion immigration enforcement bill early Friday, funding President Trump's agencies. The bill survived weeks of delays and fierce backlash over an unrelated $1.776 billion settlement fund that was ultimately left in without limits. Separately, Ukrainian President Zelensky proposed face-to-face talks with Putin in an open letter, arguing that only 'direct engagement' can end the war, especially as the US focuses on Iran. The US also sanctioned Cuban President Miguel Diaz-Canel, piling pressure on Cuba amid food shortages and blackouts.\n\nElsewhere, European leaders gathered in Montenegro to advance EU expansion, with Montenegro, Ukraine, and Moldova as candidates. Japan's parliament adopted a draft for imperial succession reform, allowing female members to keep their status after marriage and male heirs to be adopted from former branches. And China and South Korea boosted weekly flights by 70 — the first expansion since before the pandemic — responding to a tourism surge and a drop in Chinese travel to Japan.",
+  "headlines": [
+    {
+      "title": "Iran strikes Kuwait airport in third attack on Gulf state in a week",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "summary": "Iran attacked Kuwait International Airport, escalating the Strait of Hormuz standoff by targeting sensitive infrastructure. The strike follows two previous attacks on the Gulf state.",
+      "link": "https://www.wsj.com/world/middle-east/iran-ratchets-up-pressure-on-trump-with-kuwait-airport-attack-024f850c",
+      "publishedAt": "2026-06-04T14:27:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israeli fire kills 18 in Gaza as US envoy visits hostage families",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "summary": "Israeli military strikes killed at least 18 people in Gaza amid a worsening famine crisis. A US envoy met with hostage family protesters, signaling ongoing diplomatic efforts.",
+      "link": "https://www.thehindu.com/news/international/israeli-fire-kills-peopel-in-gaza-us-envoy-visits-hostage-family-protest/article69886818.ece",
+      "publishedAt": "2026-06-05T10:06:44.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Senate passes $70 billion immigration bill without limits on Trump fund",
+      "source": "NPR News",
+      "sources": [
+        "NPR News"
+      ],
+      "summary": "The US Senate passed a $70 billion immigration enforcement bill early Friday, funding President Trump's agencies. The bill excluded limits on a contentious $1.776 billion settlement fund.",
+      "link": "https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund",
+      "publishedAt": "2026-06-05T09:15:02.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky proposes face-to-face talks with Putin in open letter",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "summary": "Ukrainian President Zelensky proposed direct talks with Russian President Putin to end the war, emphasizing US focus on Iran. He called for 'direct engagement' between the two countries.",
+      "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T08:03:23.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israel warns of imminent strikes against Hezbollah in Lebanon",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Israel's military ordered evacuations in south Lebanon's Sarafand ahead of expected strikes on Hezbollah. The warning follows Hezbollah's rejection of a renewed ceasefire with Lebanon.",
+      "link": "https://www.france24.com/en/video/20260605-israel-army-warns-of-imminent-strikes-against-hezbollah-in-lebanon",
+      "publishedAt": "2026-06-05T10:11:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "US and allies accuse China of using LinkedIn to recruit spies",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "summary": "The US and allies warned that China is expanding its use of job sites like LinkedIn to target military and government personnel in the West for espionage recruitment.",
+      "link": "https://www.wsj.com/world/china/china-uses-linkedin-to-lure-spy-recruits-in-west-u-s-and-allies-warn-556ab4d5",
+      "publishedAt": "2026-06-04T07:51:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "EU leaders gather in Montenegro to advance expansion plans",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "summary": "European leaders are meeting in Montenegro to discuss EU expansion, with Montenegro as a leading candidate and Ukraine and Moldova also seeking membership. The summit aims to advance accession talks.",
+      "link": "https://www.dw.com/en/eu-to-advance-expansion-plans-at-balkans-summit/a-77432224?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-05T09:46:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "US sanctions Cuban President Diaz-Canel amid food shortages",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "summary": "The US imposed sanctions on Cuban President Miguel Diaz-Canel, increasing pressure on Cuba as the country faces food shortages and blackouts. The move escalates tensions between the two nations.",
+      "link": "https://www.aljazeera.com/news/2026/6/5/us-raises-pressure-on-cuba-as-it-sanctions-president-diaz-canel?traffic_source=rss",
+      "publishedAt": "2026-06-05T09:17:01.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Japan parliament leaders adopt draft for imperial succession reform",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times"
+      ],
+      "summary": "Japanese parliament leaders approved a draft proposal allowing female imperial family members to retain status after marriage and male heirs to be adopted from former branches to ensure succession.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/05/japan/politics/imperial-succession-ok-draft-proposal/",
+      "publishedAt": "2026-06-05T09:14:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "China and South Korea boost weekly flights by 70 amid tourism surge",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "summary": "China and South Korea increased weekly passenger flights from 608 to 664 and freight flights from 54 to 68, responding to a tourism surge and reduced Chinese travel to Japan.",
+      "link": "https://www.scmp.com/economy/global-economy/article/3356103/china-south-korea-boost-commercial-flights-tourism-increases-between-2-countries?utm_source=rss_feed",
+      "publishedAt": "2026-06-05T09:00:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 435,
+    "articlesAfterDedup": 432,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 26.4,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 6,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "americas": 2,
+      "europe": 2,
+      "global": 1,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

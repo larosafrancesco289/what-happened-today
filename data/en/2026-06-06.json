@@ -1,0 +1,221 @@
+{
+  "date": "2026-06-06",
+  "summary": "The US and Iran traded strikes in the Gulf today, testing a fragile two-month-old ceasefire. The US military said it hit Iranian drones and radar sites, and Iran retaliated by targeting US bases in Kuwait and Bahrain. The escalation raises the risk of a broader conflict in a region already on edge. Meanwhile, Israel continued bombarding Hezbollah targets in Lebanon as cease-fire efforts stalled, and US Central Command reported intercepting seven ballistic missiles fired toward Kuwait and Bahrain. The upshot: the ceasefire that had brought some calm is now under serious strain, and the US is directly involved in two theaters of conflict at once.",
+  "headlines": [
+    {
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Wall Street Journal World",
+        "Al Jazeera English",
+        "The Hindu"
+      ],
+      "summary": "The US military struck Iranian drones and radar sites; Iran retaliated by targeting US bases in Kuwait and Bahrain. Further escalation threatens the two-month-old ceasefire.",
+      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-06T06:16:28.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Led with US strike and Iranian retaliation details",
+          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Emphasized persistent tensions testing ceasefire",
+          "link": "https://www.wsj.com/world/middle-east/u-s-iran-exchange-fire-as-hormuz-tensions-persist-2bf34e8e"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Covered US intercepting Iranian attacks alongside Israel's Lebanon bombings",
+          "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Reported Bahrain denouncing 'blatant aggression' from Iran",
+          "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-6-2026/article71068325.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "CDC warns Ebola in central Africa could match 2014 record outbreak",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "US CDC computer models project 10,000 to over 20,000 cases; the 2014-2016 west Africa outbreak had more than 28,000 cases. Health officials urge rapid containment measures.",
+      "link": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+      "publishedAt": "2026-06-06T04:21:37.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "science",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel continues bombarding Lebanon as US intercepts Iranian missiles",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "New York Times World"
+      ],
+      "summary": "US Central Command said seven ballistic missiles were fired toward Kuwait and Bahrain. Meanwhile, Israel maintains strikes on Hezbollah targets in Lebanon as cease-fire efforts falter.",
+      "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
+      "publishedAt": "2026-06-06T07:51:28.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Al Jazeera English",
+          "angle": "Covered dual fronts: US-Iran and Israel-Hezbollah",
+          "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss"
+        },
+        {
+          "source": "New York Times World",
+          "angle": "Focused on cease-fire hopes fading as fighting continues",
+          "link": "https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Civilians flee Mogadishu as Somali troops and opposition militias clash",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "Fierce fighting erupted in Somalia's capital before planned protests over the president staying in office after his term expired. Property was damaged and civilians displaced.",
+      "link": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "publishedAt": "2026-06-04T11:52:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Singapore orders social media platforms to block posts targeting Indian community",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "summary": "Police issued directions under the Online Criminal Harms Act to block 14 posts on YouTube, Facebook and X that undermine multiculturalism. Platforms must disable access for Singapore users.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3356202/singapore-orders-social-media-platforms-block-foreign-posts-targeting-indian-community?utm_source=rss_feed",
+      "publishedAt": "2026-06-06T08:15:23.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "PLA stays on high alert after Dutch warship crosses Taiwan Strait",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "summary": "The People's Liberation Army tracked the Dutch frigate De Ruyter through the Taiwan Strait. The PLA said the ship's helicopter illegally entered airspace near China's Xisha islands.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3356200/pla-says-it-will-stay-high-alert-after-dutch-warship-crosses-taiwan-strait?utm_source=rss_feed",
+      "publishedAt": "2026-06-06T08:00:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "US imposes new sanctions on Cuban president and Castro family members",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "Secretary of State Marco Rubio announced fresh economic sanctions targeting Cuba's president, his immediate family, and members of the Castro family. Entities providing services are at risk.",
+      "link": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+      "publishedAt": "2026-06-05T01:07:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Kim Jong Un orders North Korean navy to build 10,000-tonne destroyer",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "summary": "State media reported Kim Jong Un visited military sites before a visit by China's Xi Jinping. The order signals continued military modernization despite diplomatic engagements.",
+      "link": "https://www.aljazeera.com/news/2026/6/6/north-koreas-kim-orders-navy-to-build-10000-tonne-destroyer-state-media?traffic_source=rss",
+      "publishedAt": "2026-06-06T06:55:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Peru heads to runoff election between Fujimori and Sanchez",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "summary": "Sunday's presidential runoff pits Keiko Fujimori against Roberto Sanchez amid social tension, rising crime and declining trust in institutions. The vote marks a decade of political turmoil.",
+      "link": "https://www.dw.com/en/fujimori-or-sanchez-peru-vote-marks-10-years-of-turmoil/a-77420777?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-06T06:33:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Africa CDC and WHO launch joint $518 million Ebola response plan",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica"
+      ],
+      "summary": "The joint continental plan aims to raise US$518 million to support African countries in preparing for, rapidly detecting and responding to the ongoing Bundibugyo virus outbreak.",
+      "link": "https://allafrica.com/stories/202606050540.html",
+      "publishedAt": "2026-06-05T16:12:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 406,
+    "articlesAfterDedup": 405,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 44.9,
+    "categoryCounts": {
+      "conflict": 4,
+      "science": 2,
+      "society": 1,
+      "politics": 3
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "africa": 3,
+      "asia-pacific": 3,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

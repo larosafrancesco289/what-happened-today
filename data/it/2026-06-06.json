@@ -1,0 +1,255 @@
+{
+  "date": "2026-06-06",
+  "summary": "Oggi la notizia più importante arriva dall'Ucraina, che ha lanciato un massiccio attacco con droni su San Pietroburgo mentre Putin parlava al Forum Economico Internazionale. Il governatore della regione di Leningrado ha detto che 86 droni sono stati abbattuti e che i combattimenti continuano. L'attacco ha colpito un complesso petrolifero e una base militare nella città natale di Putin, dimostrando la vulnerabilità del regime. Il ministero della Difesa russo ha rivendicato l'abbattimento di 376 droni in totale. Intanto, l'Ucraina ha incendiato una raffineria a Tyumen e colpito il porto di Mariupol, aggravando la guerra energetica.\n\nSul fronte Iran-Stati Uniti, le tensioni restano alte nonostante il cessate il fuoco dell'8 aprile. L'esercito americano ha colpito postazioni radar iraniane per autodifesa, e poco dopo sono suonate sirene antiaeree in Kuwait e Bahrein, dove si trovano basi Usa. I Guardiani della Rivoluzione hanno risposto lanciando missili contro \"basi nemiche\", accusando Washington di invasione delle isole di Sirik e Qeshm. Il fragile accordo sullo Stretto di Hormuz sembra sempre più a rischio.\n\nIn Italia, il problema casa si aggrava: dal 2019 al 2025 gli affitti sono cresciuti molto più delle retribuzioni, con Milano e Firenze in testa ai rincari. In media, i canoni per un appartamento standard di 70 metri quadrati sono aumentati fino al 50%, mentre i redditi solo del 7-15%. La premier Meloni ha saltato il vertice Ue-Balcani in Montenegro, dove erano attesi altri 30 leader, e da Palazzo Chigi non arrivano spiegazioni chiare sui dissapori con Macron, Merz e Starmer.\n\nInfine, una buona notizia dalla ricerca: un nuovo studio su Lancet mostra che una tecnica di imaging cerebrale con il tracciante MK6240 può rilevare l'Alzheimer in fase precoce, prima dei sintomi, con una sensibilità doppia rispetto ai metodi attuali. E Papa Leone XIV è atterrato a Madrid per la sua prima visita in Spagna, dove per sei giorni visiterà Barcellona, Montserrat, Gran Canaria e Tenerife.",
+  "headlines": [
+    {
+      "title": "Ucraina lancia offensiva su San Pietroburgo con 86 droni abbattuti",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "AGI",
+        "Euronews"
+      ],
+      "summary": "Kiev ha attaccato la città durante il Forum Economico di Putin, dimostrando vulnerabilità del regime. Ottantasei droni sono stati abbattuti e un incendio divampato a Tyumen.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-6-giugno_112912728-202602k.shtml",
+      "publishedAt": "2026-06-06T08:17:51.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Offensiva ucraina su San Pietroburgo durante Davos russa",
+          "link": "https://www.agi.it/estero/news/2026-06-06/ucraina-kiev-martella-la-davos-russa-che-attende-putin-37409286/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Esercito libanese: 'Diversi soldati uccisi da raid israeliano nel Sud'; missili su Kuwait e Bahrein",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-6-giugno_112912728-202602k.shtml"
+        },
+        {
+          "source": "Euronews",
+          "angle": "Leone XIV in Spagna per la prima volta da papa",
+          "link": "http://it.euronews.com/cultura/2026/06/06/leone-xiv-in-spagna-per-la-prima-volta-da-papa-la-chiesa-torna-a-madrid-dopo-15-anni"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Stati Uniti abbattono 4 droni iraniani, nuove tensioni su Hormuz",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Washington ha colpito radar iraniani per autodifesa, mentre il cessate il fuoco dell'8 aprile è fragile. Teheran lancia missili verso Kuwait e Bahrein.",
+      "link": "https://www.agi.it/estero/news/2026-06-06/ucraina-kiev-martella-la-davos-russa-che-attende-putin-37409886/",
+      "publishedAt": "2026-06-06T08:34:30.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ucraina incendia raffineria a Tyumen e colpisce porto di Mariupol",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News"
+      ],
+      "summary": "Attacco ucraino con droni contro la raffineria Ust-Labinsk in Russia e contro il porto di Mariupol, aggravando la guerra energetica.",
+      "link": "https://www.agi.it/estero/news/2026-06-06/iran-guerra-diretta-6-giugno-37409203/",
+      "publishedAt": "2026-06-06T08:05:55.000Z",
+      "tier": "developing",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Leone XIV visita Madrid, Barcellona e Tenerife: prima volta in Spagna da papa",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "Euronews Italiano"
+      ],
+      "summary": "Il pontefice atterra a Barajas e per 6 giorni visita città spagnole, segnando il ritorno della Chiesa dopo 15 anni.",
+      "link": "https://www.rainews.it/video/2026/06/una-raffineria-di-petrolio-a-tyumen-e-in-fiamme-droni-ucraini-in-russia-video-f97c928c-ac2c-4dd2-8320-a16e108894a4.html",
+      "publishedAt": "2026-06-06T06:38:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Von der Leyen avverte: Europa non ascoltò monito su Cina, ora agirà",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Tre anni fa la presidente UE denunciò rischi cinesi. Oggi traduce parole in fatti, ma un ostacolo formidabile resta.",
+      "link": "http://it.euronews.com/cultura/2026/06/06/leone-xiv-in-spagna-per-la-prima-volta-da-papa-la-chiesa-torna-a-madrid-dopo-15-anni",
+      "publishedAt": "2026-06-06T08:39:50.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Cuba: Raúl Castro in pubblico per prima volta dopo incriminazione",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "L'ex leader cubano si mostra al ministero degli Interni con Díaz-Canel, sfida Usa a ore di nuove sanzioni.",
+      "link": "https://www.repubblica.it/esteri/2026/06/06/news/cisgiordania_neonato_7_mesi_ucciso_idf-425392968/?rss",
+      "publishedAt": "2026-06-06T08:37:42.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Affitti più cari di redditi: Milano e Firenze guidano i rincari",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "AGI"
+      ],
+      "summary": "Dal 2019 al 2025 affitti crescono più delle retribuzioni, aggravando problema casa per giovani. Milano resta più cara d'Italia.",
+      "link": "https://www.repubblica.it/esteri/2026/06/06/news/libano_tiro_attacco_israele-425392632/?rss",
+      "publishedAt": "2026-06-05T23:00:00.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Alzheimer: nuova PET scopre segni della malattia prima dei sintomi",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "AGI"
+      ],
+      "summary": "Studio su Lancet usa traccianti per visualizzare proteina tau nel cervello, migliorando diagnosi precoce per persone a rischio.",
+      "link": "http://it.euronews.com/my-europe/2026/06/06/von-der-leyen-aveva-avvertito-sulla-cina-leuropa-non-lha-ascoltata-lo-fara-ora",
+      "publishedAt": "2026-06-06T06:00:16.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Tiro, evacuazioni e bombe: quartiere cristiano salvato ma Idf minaccia colpire",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "A sud del Libano, il quartiere cristiano unico risparmiato diventa rifugio per sfollati. L'esercito israeliano dice: 'Cacciate combattenti sciiti'",
+      "link": "https://www.repubblica.it/esteri/2026/06/06/news/cuba_raul_castro_in_pubblico_incriminazione_usa_foto_abbraccio_diaz_canel-425393000/?rss",
+      "publishedAt": "2026-06-06T07:55:09.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Meloni salta vertice Ue-Balcani: giallo sui dissapori con Macron, Merz e Starmer",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Spiegazione ufficiale da Palazzo Chigi per mancato decollo della premier verso Montenegro, dove altri 30 leader partecipano.",
+      "link": "https://www.agi.it/economia/news/2026-06-06/casa-caro-affitti-milano-37410756/",
+      "publishedAt": "2026-06-06T08:22:28.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pantouflage Malagò: Abodi chiede verifiche a Coni e Anac",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Caso di passaggio di dirigente pubblico a privato, al centro della governance sportiva italiana. Abodi ha richiesto controlli.",
+      "link": "https://www.agi.it/salute/news/2026-06-06/alzheimer-nuova-pet-37395766/",
+      "publishedAt": "2026-06-06T08:20:32.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Poste boom pacchi: 90 milioni di consegne nei primi tre mesi del 2026",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Poste Italiane consegna 89 milioni di pacchi nel trimestre, segnando crescita logistica.",
+      "link": "https://www.ilsole24ore.com/art/meloni-salta-vertice-ue-balcani-giallo-dissapori-macron-merz-e-starmer-AIIRZcUD",
+      "publishedAt": "2026-06-06T05:32:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Neonato 7 mesi ucciso in Cisgiordania: Idf: 'Incidente', Hamas: 'Brutalità'",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "la Repubblica"
+      ],
+      "summary": "Bambino di 7 mesi muore quando l'auto della famiglia viene colpita a Hebron. Genitori feriti. Esercito israeliano avvia inchiesta.",
+      "link": "https://www.ilsole24ore.com/art/l-elezione-malago-e-caso-cosa-e-pantouflage-e-perche-abodi-ha-chiesto-verifiche-coni-e-anac-AImaHWUD",
+      "publishedAt": "2026-06-05T18:00:00.000Z",
+      "tier": "developing",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 185,
+    "articlesAfterDedup": 184,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 14.8,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 5,
+      "economy": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 8,
+      "middle-east": 3,
+      "americas": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 5,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

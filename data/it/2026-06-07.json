@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-07",
+  "summary": "Gli Stati Uniti hanno abbattuto due droni iraniani che minacciavano navi nello Stretto di Hormuz. Teheran ha risposto colpendo basi Usa in Kuwait e Bahrein con missili, ferendo nove militari. Le tensioni in Medio Oriente salgono di nuovo, con il rischio che il traffico petrolifero venga interrotto. Gli ayatollah hanno anche intensificato le critiche all'Agenzia internazionale per l'energia atomica, accusandola di spionaggio.\n\nIn Francia, il segretario alla Guerra Usa Hegseth ha partecipato alle commemorazioni del D-Day e ha chiesto all'Europa di investire di più nella difesa. Il motivo è concreto: Washington ridurrà i soldati americani di stanza in Europa, una decisione che sarà al centro del prossimo vertice Nato in Turchia. Hegseth ha detto che gli alleati devono farsi carico della propria sicurezza, segnando un cambio di passo nelle relazioni transatlantiche.\n\nIn Perù si va al ballottaggio il 7 giugno 2026. Keiko Fujimori, liberista, sfida il progressista Pedro Sánchez. Il Paese è spaccato tra chi vuole più mercato e chi chiede più welfare. Entrambi i candidati promettono di lottare contro la corruzione, ma la campagna è stata segnata da accuse reciproche e da una bassa fiducia nelle istituzioni.\n\nIn Sassonia, in Germania, per la prima volta dal dopoguerra un candidato dichiaratamente neonazista potrebbe diventare sindaco. Stefan Hartung, del partito 'Die Heimat' (ex Npd), ha ottenuto il 42% al primo turno e ora va al ballottaggio. La sua ascesa preoccupa molti, ma il partito è ridotto a percentuali minime a livello nazionale. Il voto è visto come un test per la tenuta della democrazia tedesca nelle regioni orientali.",
+  "headlines": [
+    {
+      "title": "Stati Uniti abbattono due droni iraniani su Hormuz, Teheran colpisce Kuwait e Bahrein",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Usa abbattono due droni iraniani che minacciavano navi nello Stretto di Hormuz. Teheran risponde con missili su basi Usa in Kuwait e Bahrein: 9 militari feriti, nuove tensioni in Medio Oriente.",
+      "link": "https://www.repubblica.it/esteri/2026/06/07/news/golfo_persico_combattimenti_kuwait_bahrein-425394397/?rss",
+      "publishedAt": "2026-06-06T23:00:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Posto l'accento sull'abbattimento dei droni e sulle rotte marittime",
+          "link": "https://www.agi.it/estero/news/2026-06-07/iran-guerra-notizie-7-giugno-37425689/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ripreso l'annuncio del CENTCOM sui due droni abbattuti",
+          "link": "http://it.euronews.com/my-europe/2026/06/07/usa-abbattono-due-droni-iraniani-che-minacciavano-navi-nello-stretto-di-hormuz-dice-il-cen"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Enfatizzato il bersaglio su radar iraniani e la rappresaglia di Teheran",
+          "link": "https://www.repubblica.it/esteri/2026/06/07/news/golfo_persico_combattimenti_kuwait_bahrein-425394397/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "D-Day, Hegseth invita l'Europa a investire nella difesa dopo tagli Usa",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Il segretario alla Guerra Usa Hegseth, in Francia per le commemorazioni dello sbarco in Normandia, chiede all'Europa di rafforzare la difesa. Riduzione dei soldati americani in Europa al centro del prossimo vertice Nato in Turchia.",
+      "link": "http://it.euronews.com/my-europe/2026/06/07/d-day-commemorazioni-hegseth-invita-leuropa-a-puntare-sulla-difesa",
+      "publishedAt": "2026-06-07T07:59:09.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Perù al ballottaggio: Fujimori contro Sánchez per la presidenza",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Keiko Fujimori, candidata liberista, sfida il progressista Pedro Sánchez nel ballottaggio per la presidenza del Perù. Il Paese, spaccato, si prepara al voto decisivo del 7 giugno 2026.",
+      "link": "https://www.repubblica.it/esteri/2026/06/07/news/peru_ballottaggio_presidenziali_liberista_fujimori_contro_paladino_poveri_sanchez-425394410/?rss",
+      "publishedAt": "2026-06-06T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Sassonia, per la prima volta possibile elezione di un sindaco neonazista",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "In Sassonia, Stefan Hartung di 'Die Heimat' (ex Npd) si presenta al ballottaggio per la carica di sindaco, ottenendo il 42% al primo turno. Se eletto, sarebbe il primo sindaco dichiaratamente neonazista dalla Seconda guerra mondiale.",
+      "link": "https://www.repubblica.it/esteri/2026/06/07/news/sassonia_voto_sindaco_neonazista_stefan_hartung-425394743/?rss",
+      "publishedAt": "2026-06-07T08:34:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 3,
+    "articlesProcessed": 187,
+    "articlesAfterDedup": 187,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 6,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10.7,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 3
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

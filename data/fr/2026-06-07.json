@@ -1,0 +1,219 @@
+{
+  "date": "2026-06-07",
+  "summary": "Les États-Unis ont annoncé avoir abattu deux drones d'attaque iraniens qui menaçaient le trafic maritime dans le détroit d'Ormuz. L'armée américaine reste en alerte, prête à se défendre contre toute agression iranienne. Cette action intervient dans un contexte de tensions persistantes dans la région du Golfe.\n\nAu Pérou, les électeurs se rendent aux urnes dimanche pour élire leur neuvième président en dix ans. Le duel oppose la conservatrice Keiko Fujimori au candidat de gauche Roberto Sanchez. Le scrutin est très serré, après un premier tour où chaque candidat a recueilli moins de 30 % des suffrages.\n\nEn Arménie, les électeurs votent également pour des élections législatives cruciales. Ce scrutin est un test pour le Premier ministre Nikol Pachinian, qui a engagé une réorientation pro-occidentale du pays, au grand dam de la Russie. Le vote se déroule sous pression russe et azerbaïdjanaise.\n\nLe ministère américain de la Défense a relevé au plus haut niveau la menace de contre-espionnage israélien. Le Pentagone surveille des tentatives d'espionnage israélien visant de hauts responsables américains, dans un contexte de tensions entre Donald Trump et Benyamin Netanyahou. Par ailleurs, la Chine a lancé une opération d'application de la loi près de Taïwan, en réponse aux discussions sur la délimitation maritime entre le Japon et les Philippines. La Corée du Nord, avant la visite attendue du président chinois Xi Jinping à Pyongyang, réaffirme son intransigeance sur son programme nucléaire. Enfin, au Sénégal, Ousmane Sonko a été largement réélu à la tête du parti majoritaire, dans un contexte de crise politique ouverte entre le président Faye et lui.",
+  "headlines": [
+    {
+      "title": "Les États-Unis abattent deux drones iraniens menaçant le trafic dans le détroit d'Ormuz",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Libération",
+        "France 24",
+        "France Info"
+      ],
+      "summary": "L'armée américaine annonce avoir abattu deux drones d'attaque iraniens qui menaçaient le trafic maritime dans le détroit d'Ormuz. Les forces américaines restent en alerte, prêtes à se défendre contre l'agression iranienne.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4/",
+      "publishedAt": "2026-06-07T07:42:28.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Libération",
+          "angle": "Ouvre avec les frappes israéliennes au Liban puis mentionne les drones abattus",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Se concentre sur l'annonce américaine des drones abattus dans le détroit d'Ormuz",
+          "link": "https://www.france24.com/fr/moyen-orient/20260607-guerre-au-moyen-orient-les-%C3%A9tats-unis-disent-avoir-abattu-deux-drones-iraniens"
+        },
+        {
+          "source": "France Info",
+          "angle": "Cite le Commandement central américain et la mise en alerte des forces",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-etats-unis-disent-avoir-abattu-deux-drones-iraniens-qui-menacaient-le-trafic-maritime-dans-le-detroit-d-ormuz_8048900.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Duel serré entre Keiko Fujimori et Roberto Sanchez à la présidentielle péruvienne",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Les Péruviens élisent dimanche leur neuvième président en dix ans, opposant la conservatrice Fujimori au candidat de gauche Sanchez. Le scrutin très serré fait suite à un premier tour où chaque candidat a obtenu moins de 30%.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260607-pr%C3%A9sidentielle-au-p%C3%A9rou-un-duel-serr%C3%A9-fujimori-sanchez-pour-un-neuvi%C3%A8me-chef-d-%C3%A9tat-en-dix-ans",
+      "publishedAt": "2026-06-07T05:45:19.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Présente le duel serré et le contexte de neuvième président en dix ans",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260607-pr%C3%A9sidentielle-au-p%C3%A9rou-un-duel-serr%C3%A9-fujimori-sanchez-pour-un-neuvi%C3%A8me-chef-d-%C3%A9tat-en-dix-ans"
+        },
+        {
+          "source": "RFI",
+          "angle": "Souligne la polarisation extrême et les derniers atouts des candidats",
+          "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260607-pr%C3%A9sidentielle-au-p%C3%A9rou-les-p%C3%A9ruviens-se-rendent-aux-urnes-pour-une-%C3%A9lection-plus-polaris%C3%A9e-que-jamais"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Les Arméniens votent aux législatives, test pour le Premier ministre Pachinian",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "France Info"
+      ],
+      "summary": "Les bureaux de vote ont ouvert en Arménie pour des élections législatives cruciales, testant le soutien à la réorientation pro-occidentale de Nikol Pachinian, au grand dam de la Russie. Le scrutin est sous pression russe et azerbaïdjanaise.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260607-l%C3%A9gislatives-en-arm%C3%A9nie-les-bureaux-de-vote-ont-ouvert-scrutin-test-pour-nikol-pachinian",
+      "publishedAt": "2026-06-07T05:05:25.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Met l'accent sur le test pour Pachinian et la réorientation occidentale",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260607-l%C3%A9gislatives-en-arm%C3%A9nie-les-bureaux-de-vote-ont-ouvert-scrutin-test-pour-nikol-pachinian"
+        },
+        {
+          "source": "France Info",
+          "angle": "Aborde la pression russe et la menace azerbaïdjanaise sur les élections",
+          "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-la-russie-est-devenue-toxique-pour-les-armeniens-des-elections-legislatives-sous-pression-en-armenie_8009636.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Le Pentagone relève au plus haut la menace de contre-espionnage israélien",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Libération",
+        "20 Minutes"
+      ],
+      "summary": "Le ministère américain de la Défense surveille des tentatives d'espionnage israélien visant de hauts responsables, dans un contexte de tensions entre Donald Trump et Benyamin Netanyahou. La menace est relevée au plus haut niveau.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/07/le-pentagone-releve-le-niveau-de-menace-de-contre-espionnage-israelien-dans-un-contexte-de-tensions-entre-donald-trump-et-benyamin-netanyahou_6698776_3210.html",
+      "publishedAt": "2026-06-07T07:46:07.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Explique les inquiétudes d'espionnage et le contexte Trump-Netanyahou",
+          "link": "https://www.lemonde.fr/international/article/2026/06/07/le-pentagone-releve-le-niveau-de-menace-de-contre-espionnage-israelien-dans-un-contexte-de-tensions-entre-donald-trump-et-benyamin-netanyahou_6698776_3210.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Rapporte les manœuvres israéliennes pour obtenir des informations américaines",
+          "link": "https://www.liberation.fr/international/moyen-orient/le-pentagone-releve-au-plus-haut-la-menace-de-contre-espionnage-israelien-20260607_KZPFZ7NYIRAAXPRUAOXCM2PHNY/"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Relate la décision du Pentagone et les tentatives d'espionnage de hauts responsables",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4227614-20260607-guerre-moyen-orient-pentagone-releve-plus-haut-menace-contre-espionnage-israelien?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Chine lance une opération d'application de la loi près de Taïwan",
+      "source": "20 Minutes",
+      "summary": "En réponse aux discussions sur la délimitation maritime entre le Japon et les Philippines, la Chine a mené une opération d'application de la loi près de Taïwan. Les détails de l'opération restent flous.",
+      "link": "https://www.20minutes.fr/monde/chine/4227615-20260607-chine-operation-pres-taiwan-reponse-discussions-entre-japon-philippines?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-07T08:57:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Corée du Nord réaffirme son intransigeance nucléaire avant la visite de Xi Jinping",
+      "source": "20 Minutes",
+      "summary": "Avant la visite attendue du président chinois Xi Jinping à Pyongyang, la Corée du Nord martèle sa position ferme sur son programme nucléaire, défiant les pressions internationales.",
+      "link": "https://www.20minutes.fr/monde/coree_du_nord/4227609-20260607-coree-nord-avant-visite-xi-jinping-pyongyang-joue-defiance-nucleaire?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-07T05:32:57.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Ousmane Sonko largement réélu à la tête du parti majoritaire sénégalais",
+      "source": "RTBF (Belgian)",
+      "summary": "Ousmane Sonko a été réélu à la tête du parti majoritaire au Sénégal, dans un contexte de crise politique ouverte entre le président Faye et lui. Le parti consolide sa position.",
+      "link": "https://www.rtbf.be/article/senegal-ousmane-sonko-largement-reelu-a-la-tete-du-parti-majoritaire-11736485",
+      "publishedAt": "2026-06-07T07:13:30.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "La réforme de l'enseignement en Belgique détaille ses changements concrets",
+      "source": "RTBF (Belgian)",
+      "summary": "Un décret de 199 articles détaille les changements pour enseignants et élèves en Belgique. La réforme vise l'économie mais suscite la contestation sociale.",
+      "link": "https://www.rtbf.be/article/reforme-de-l-enseignement-qu-est-ce-qui-va-concretement-changer-pour-nos-enseignants-et-nos-jeunes-11735603",
+      "publishedAt": "2026-06-07T06:47:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 212,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 4.6,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 6
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "americas": 1,
+      "europe": 2,
+      "asia-pacific": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

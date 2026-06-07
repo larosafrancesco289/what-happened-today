@@ -1,0 +1,205 @@
+{
+  "date": "2026-06-07",
+  "summary": "Ukraine launched large-scale drone attacks on Russian military sites in St. Petersburg today, a day after President Vladimir Putin rejected peace talks with Ukrainian President Volodymyr Zelensky. The strikes, which targeted facilities critical to Moscow's military operations, mark one of the deepest incursions into Russian territory since the war began. Meanwhile, the U.S. and Iran exchanged fire in the Gulf, testing a two-month-old ceasefire in a region vital for global oil shipments. The skirmish near the Strait of Hormuz underscores continued volatility, even as both sides have tried to maintain the truce.\n\nThe CDC issued a stark warning about Central Africa's Ebola outbreak, projecting it could reach 10,000 to 20,000 cases — rivaling the 2014 epidemic that killed over 11,000 people. The models show a 'dangerous trajectory,' though experts caution that outbreaks can be hard to predict. In the DRC, response efforts face resistance: a treatment facility was burned, and families clashed with authorities over reclaiming bodies of Ebola victims. Separately, an Israeli soldier shot and killed a 7-month-old Palestinian baby near Hebron, the military saying troops fired at a vehicle they believed was accelerating toward them. The child's parents were also wounded.\n\nNine civilians died in a fresh drone attack on South Darfur, days after another strike killed 20 people. Rights groups warn of escalating intertribal violence in the region. In the western Pacific, two projectiles were launched from Lebanon into Israeli territory, challenging the fragile ceasefire between Israel and Hezbollah. No casualties were reported. Peru votes for its ninth president in a decade today, as Keiko Fujimori and Roberto Sanchez face off in a tight runoff overshadowed by instability and crime. Armenians also head to the polls, with Prime Minister Nikol Pashinyan seeking a mandate to shift ties from Russia toward the West, while pro-Russian opposition parties challenge that course.\n\nIn economic news, OPEC+ is set for a fourth oil quota hike since the Strait of Hormuz disruptions, adding nearly 600,000 barrels per day since April, which could ease global supply concerns. Japan's parliament adopted a draft for imperial succession reform, allowing female members to retain status after marriage and permitting adoption of male heirs from former branches to ensure stable succession. And in a move that may affect social media, Singapore ordered platforms to block posts targeting its Indian community, citing rising ethnic tensions.",
+  "headlines": [
+    {
+      "title": "Mass Ukrainian drone strikes target Russian military facilities in St. Petersburg",
+      "source": "Wall Street Journal World",
+      "summary": "Ukraine launched large-scale drone attacks on Russian military sites in St. Petersburg, a day after Putin rejected peace talks. The strikes aim to disrupt Russian operations.",
+      "link": "https://www.wsj.com/world/russia/mass-ukrainian-drone-strikes-target-russian-military-facilities-in-st-petersburg-224502a5",
+      "publishedAt": "2026-06-06T09:14:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. and Iran exchange fire as Hormuz tensions persist",
+      "source": "Wall Street Journal World",
+      "summary": "The U.S. and Iran engaged in a skirmish in the Gulf, testing a two-month-old ceasefire. The incident highlights ongoing volatility in the strategic Strait of Hormuz.",
+      "link": "https://www.wsj.com/world/middle-east/u-s-iran-exchange-fire-as-hormuz-tensions-persist-2bf34e8e",
+      "publishedAt": "2026-06-06T09:11:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "CDC warns Ebola in central Africa could match 2014 record outbreak",
+      "source": "The Guardian",
+      "summary": "U.S. CDC models show central Africa's Ebola outbreak could reach 10,000 to 20,000 cases, rivaling the 2014 epidemic that killed over 11,000. Experts urge rapid response.",
+      "link": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+      "publishedAt": "2026-06-06T04:21:37.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Israeli troops kill 7-month-old infant in West Bank shooting",
+      "source": "France 24",
+      "summary": "Israeli soldiers shot at a car near Hebron, killing a Palestinian baby and wounding his parents. The military said they fired at a vehicle accelerating toward them.",
+      "link": "https://www.france24.com/en/israeli-troops-kill-infant-injure-parents-in-west-bank",
+      "publishedAt": "2026-06-07T08:39:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nine killed in fresh drone strike on South Darfur amid rising tensions",
+      "source": "AllAfrica",
+      "summary": "At least nine civilians died in a drone attack on Kubum, South Darfur, days after a strike killed 20. Rights groups warn of escalating intertribal violence in the region.",
+      "link": "https://allafrica.com/stories/202606060144.html",
+      "publishedAt": "2026-06-06T15:42:30.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Peru votes for its ninth president in 10 years in runoff election",
+      "source": "Deutsche Welle",
+      "summary": "Peruvians choose between Keiko Fujimori and Roberto Sanchez in a tight runoff, amid political instability and rising crime. Fujimori seeks presidency for the fourth time.",
+      "link": "https://www.dw.com/en/peru-votes-for-new-president-for-ninth-time-in-10-years/a-77448140?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-07T08:57:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Armenians vote in election as EU-Russia rivalry intensifies",
+      "source": "South China Morning Post",
+      "summary": "Armenians head to the polls on Sunday, with PM Pashinyan seeking a mandate to shift ties from Russia to the West. Pro-Russian opposition challenges the new course.",
+      "link": "https://www.scmp.com/news/world/europe/article/3356251/eu-and-russia-clash-armenians-head-polls-putin-fumes?utm_source=rss_feed",
+      "publishedAt": "2026-06-07T09:29:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "OPEC+ set for fourth oil quota hike since Hormuz closure",
+      "source": "The Hindu",
+      "summary": "Seven core OPEC+ members plan to increase output quotas for the fourth time since the Strait of Hormuz closure, adding nearly 600,000 barrels per day since April.",
+      "link": "https://www.thehindu.com/news/international/opec-set-for-fourth-oil-quotahike-since-hormuz-closure-sources-say/article71072671.ece",
+      "publishedAt": "2026-06-07T09:14:42.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Japan parliament leaders adopt draft for imperial succession reform",
+      "source": "Japan Times",
+      "summary": "The draft proposal would allow female imperial family members to retain status after marriage and adopt male heirs from former branches to ensure stable succession.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/07/japan/politics/imperial-succession-ok-draft-proposal/",
+      "publishedAt": "2026-06-07T09:14:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Two projectiles fired from Lebanon test Israel-Hezbollah ceasefire",
+      "source": "Deutsche Welle",
+      "summary": "The Israeli military reported two projectiles launched from Lebanon into Israeli territory, challenging the fragile ceasefire. No immediate casualties or damage reported.",
+      "link": "https://www.dw.com/en/middle-east-shaky-israel-hezbollah-ceasefire-tested/live-77442602?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-07T07:54:00.000Z",
+      "tier": "developing",
+      "dayNumber": 3,
+      "previousContext": "The Israel-Hezbollah ceasefire has held for weeks, but skirmishes and violations persist. Two projectiles fired today from Lebanon test the fragile truce, a day after Israeli strikes on Lebanese towns.",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tensions rise in DRC as Ebola response faces community resistance",
+      "source": "AllAfrica",
+      "summary": "Incidents including a burned treatment facility and families reclaiming bodies of Ebola victims highlight challenges beyond vaccines in containing the outbreak in eastern DRC.",
+      "link": "https://allafrica.com/stories/202606060139.html",
+      "publishedAt": "2026-06-06T15:37:28.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "The Ebola outbreak in central Africa continues, with the CDC warning of potential 2014-scale spread. In eastern DRC, tensions with communities are hampering the response, including attacks on health facilities.",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 384,
+    "articlesAfterDedup": 384,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 29.3,
+    "categoryCounts": {
+      "conflict": 5,
+      "science": 2,
+      "politics": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 3,
+      "africa": 3,
+      "americas": 1,
+      "global": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

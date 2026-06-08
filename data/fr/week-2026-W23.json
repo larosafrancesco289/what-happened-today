@@ -1,0 +1,150 @@
+{
+  "weekId": "2026-W23",
+  "startDate": "2026-06-01",
+  "endDate": "2026-06-07",
+  "summary": "La semaine du 1er au 7 juin 2026 a été marquée par une escalade majeure au Moyen-Orient, avec des frappes iraniennes directes contre le Koweït et des échanges de tirs intenses dans le Golfe, tandis qu'un cessez-le-feu fragile au Liban a été violé à plusieurs reprises. En parallèle, des développements politiques notables ont eu lieu en Hongrie, au Pérou et en Arménie.\n\nCe qui a compté :\n- Escalade Iran-États-Unis : Le 3 juin, des drones iraniens ont frappé l'aéroport du Koweït (1 mort). Le même jour, l'armée américaine a repoussé des attaques dans le Golfe. Les 6 et 7 juin, les États-Unis ont bombardé des sites radar iraniens et abattu six drones, dont deux menaçant le détroit d'Ormuz. Parallèlement, la Chambre américaine a voté pour mettre fin à la guerre contre l'Iran, sous pression sur Trump.\n- Violations du cessez-le-feu Liban-Israël : Un cessez-le-feu minimaliste a été signé le 4 juin, conditionné au désarmement du Hezbollah. Cependant, un Casque bleu a été tué le 4, sept personnes sont mortes le 5, et l'armée libanaise a perdu plusieurs soldats le 6 dans une frappe israélienne. Israël se préparait à de nouvelles frappes contre le Hezbollah.\n- Élections et tensions politiques : Au Pérou, un duel serré oppose Keiko Fujimori et Roberto Sanchez à la présidentielle. En Arménie, les législatives testent le Premier ministre Pachinian. En Hongrie, le président Sulyok refuse de démissionner, tandis que le Premier ministre Magyar menace une destitution.\n\nCe qui s'est développé :\n- Ukraine : Le 3 juin, l'Ukraine a attaqué un terminal pétrolier près de Saint-Pétersbourg, avant le forum économique russe.\n- Diplomatie UE-Balkans : La France et l'Allemagne ont proposé le 5 juin une préadhésion graduelle à l'UE pour les Balkans.\n- Santé : Le 5 juin, des vaccins expérimentaux contre Ebola étaient prêts à Winnipeg et au Texas.\n\nCe qui s'est résolu :\n- Incendie au Kenya : Huit filles ont été arrêtées après l'incendie d'un pensionnat qui a tué seize étudiantes le 1er juin. L'histoire n'a pas été reprise ensuite.\n- Évacuation de Beyrouth : L'appel israélien à évacuer la banlieue sud de Beyrouth le 1er juin n'a pas eu de suite notable dans la semaine.\n- Étude sur l'Iran : Une étude révélant des dégâts graves après une frappe en Iran n'est apparue qu'un jour.\n\nHistoires persistantes : Les tensions Iran-États-Unis et les violations du cessez-feu Liban-Israël ont dominé la semaine.\n\nHistoires éphémères (apparues un seul jour) : Évacuation de Beyrouth, crise présidentielle hongroise, arrestations au Kenya, étude sur l'Iran, avertissement de la procureure générale d'Israël.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Israël appelle à évacuer la banlieue sud de Beyrouth tandis que le Hezbollah dit résister à Beaufort",
+    "Le président hongrois Sulyok refuse de démissionner, le Premier ministre Magyar menace une destitution",
+    "Huit filles arrêtées au Kenya après l’incendie d’un pensionnat qui tue seize étudiantes",
+    "Une étude révèle des dégâts bien plus graves que prévu après la frappe d'un dépôt d'hydrocarbures en Iran",
+    "La procureure générale d'Israël alerte sur une « course pour démanteler les institutions démocratiques »",
+    "Le prix du pétrole repart à la hausse avec le regain de tensions entre les États-Unis et l'Iran",
+    "La France interdit la présence d'armes offensives israéliennes au salon Eurosatory",
+    "Plus de 250 signalements de violences sexistes et sexuelles impliquant des adultes à l'école depuis janvier",
+    "Des médecins alertent sur la pollution de l'eau potable en France comme menace systémique pour la santé",
+    "La Cour permanente d'arbitrage rejette la demande d'indemnisation du Rwanda contre le Royaume-Uni"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-01",
+      "title": "Israël appelle à évacuer la banlieue sud de Beyrouth tandis que le Hezbollah dit résister à Beaufort",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Le président hongrois Sulyok refuse de démissionner, le Premier ministre Magyar menace une destitution",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Huit filles arrêtées au Kenya après l’incendie d’un pensionnat qui tue seize étudiantes",
+      "category": "society",
+      "region": "africa"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Des drones iraniens frappent l'aéroport du Koweït, faisant un mort et des dizaines de blessés",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "L'Ukraine attaque un terminal pétrolier près de Saint-Pétersbourg avant le forum économique russe",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "L'armée américaine repousse des attaques de missiles et drones iraniens dans le Golfe",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Un Casque bleu tué par des tirs de mortier au sud du Liban malgré un cessez-le-feu",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Israël et le Liban signent un cessez-le-feu minimaliste conditionné au désarmement du Hezbollah",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "La Chambre américaine vote la fin de la guerre contre l'Iran, Trump sous pression",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "La coalition israélienne multiplie les attaques contre la justice avant des élections anticipées",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Des vaccins expérimentaux contre Ebola sont prêts à Winnipeg et au Texas",
+      "category": "science",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Sept morts dans le sud du Liban, Israël prépare des frappes contre le Hezbollah",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "La France et l'Allemagne proposent une préadhésion graduelle à l'UE pour les Balkans",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "Les États-Unis bombardent des sites de radars iraniens et abattent quatre drones dans le Golfe",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "L'armée libanaise perd plusieurs soldats dans une frappe israélienne en dépit du cessez-le-feu",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "Les États-Unis abattent deux drones iraniens menaçant le trafic dans le détroit d'Ormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "Duel serré entre Keiko Fujimori et Roberto Sanchez à la présidentielle péruvienne",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "Les Arméniens votent aux législatives, test pour le Premier ministre Pachinian",
+      "category": "politics",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1275,
+    "totalSourcesUsed": 11,
+    "daysWithData": 6,
+    "categoryCounts": {
+      "conflict": 20,
+      "politics": 23,
+      "society": 4,
+      "science": 6,
+      "economy": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 19,
+      "europe": 17,
+      "africa": 5,
+      "global": 6,
+      "asia-pacific": 4,
+      "americas": 5
+    }
+  }
+}

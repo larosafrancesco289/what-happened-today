@@ -1,0 +1,155 @@
+{
+  "weekId": "2026-W23",
+  "startDate": "2026-06-01",
+  "endDate": "2026-06-07",
+  "summary": "La settimana dal 1 al 7 giugno 2026 è stata dominata da un’escalation militare tra Iran e Stati Uniti, iniziata il 1° giugno con la sospensione dei negoziati e la minaccia di chiudere lo Stretto di Hormuz. Il 3 giugno gli Usa hanno colpito l’isola iraniana di Qeshm, e l’Iran ha risposto con missili su Kuwait e una nave israeliana. L’Ocse ha tagliato le stime di crescita globali per il 2026, avvertendo di una recessione se il conflitto persiste. Le ostilità sono proseguite il 6 e 7 giugno con abbattimenti di droni iraniani da parte degli Usa e attacchi iraniani su Kuwait e Bahrein. Nel frattempo, la guerra in Ucraina-Russia si è intensificata: il 3 giugno l’Ucraina ha colpito raffinerie a San Pietroburgo durante il Forum economico, e il 5 giugno droni ucraini hanno attaccato navi in Russia uccidendo 5 marinai azeri; il 6 giugno l’Ucraina ha lanciato un’offensiva su San Pietroburgo con 86 droni abbattuti. Il capo dell’Aiea ha dichiarato che l’attacco con droni a Barakah (Emirati) è stato più pericoloso di Zaporizhzhia, mentre il 5 giugno è stata raggiunta una tregua Aiea per la centrale nucleare ucraina. Sul fronte libanese, il 4 giugno Hezbollah ha respinto un accordo di tregua con Israele dopo la morte di un casco blu serbo in Libano; il 5 giugno Netanyahu ha bloccato il voto sulla tregua e nuovi raid hanno causato 12 morti. Il 5 giugno è stato annunciato che l’IA ha progettato il primo vaccino universale per coronavirus, con test umani già avviati a Cambridge. Il 5 giugno Xi Jinping ha accettato l’invito di Kim Jong Un per una visita di Stato in Corea del Nord l’8-9 giugno. Il 6 giugno papa Leone XIV ha visitato Madrid, Barcellona e Tenerife, prima volta in Spagna da pontefice. Il 7 giugno, in occasione del D-Day, il segretario alla Difesa Usa Hegseth ha invitato l’Europa a investire nella difesa dopo i tagli americani. In Perù si è svolto il ballottaggio presidenziale tra Fujimori e Sánchez. Storie di breve durata (1 giorno): la sospensione dei negoziati Iran-Usa, la morte di Gianni Mattioli, l’esplosione del razzo Blue Origin, la causa della Florida contro OpenAI, e la crisi costituzionale in Ungheria (presidente Sulyok rifiuta dimissioni, Magyar minaccia di cambiare la Costituzione).",
+  "persistentStories": [],
+  "fadedStories": [
+    "Iran sospende i negoziati con gli Usa e minaccia di chiudere lo Stretto di Hormuz",
+    "Morto Gianni Mattioli, fondatore delle Liste Verdi e ministro della Repubblica",
+    "Esplosione di un razzo Blue Origin, il capo Esa parla di grave passo indietro",
+    "La Florida fa causa a OpenAI e a Sam Altman per violazione della sicurezza",
+    "Ungheria, il presidente Sulyok rifiuta le dimissioni: Magyar minaccia di cambiare la Costituzione",
+    "Gaza, una barca della Flotilla rompe l'assedio e raggiunge la Striscia",
+    "Tribunale ceco ordina l'estradizione in Germania della neonazista Marla Svenja Liebich",
+    "Svezia allenta le norme sull'espulsione per i migranti adolescenti",
+    "Parma, maxi fabbrica clandestina di sigarette: 12 arresti e 20 tonnellate di tabacco sequestrate",
+    "Usa colpiscono isola di Qeshm, Iran lancia missili su Kuwait e nave israeliana"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-01",
+      "title": "Iran sospende i negoziati con gli Usa e minaccia di chiudere lo Stretto di Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Morto Gianni Mattioli, fondatore delle Liste Verdi e ministro della Repubblica",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Esplosione di un razzo Blue Origin, il capo Esa parla di grave passo indietro",
+      "category": "science",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Usa colpiscono isola di Qeshm, Iran lancia missili su Kuwait e nave israeliana",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "L'Ucraina colpisce raffinerie a San Pietroburgo durante il Forum economico",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Attacco con droni a Barakah è stato più pericoloso di Zaporizhzhia, dice capo Aiea",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "L'Ocse taglia stima crescita globale 2026 e avverte recessione se guerra in Iran continua",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Hezbollah respinge l'accordo di tregua con Israele dopo la morte di un casco blu serbo in Libano",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Trump dice di voler incontrare Khamenei, la Camera Usa chiede il ritiro delle truppe",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "IA progetta primo vaccino universale per coronavirus: test umani già avviati a Cambridge",
+      "category": "science",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Netanyahu blocca voto sulla tregua con Libano: Hezbollah si oppone, nuovi raid con 12 morti",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Droni ucraini attaccano navi in Russia: 5 marinai azeri uccisi, tregua Aiea a Zaporizhzhia",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Xi Jinping accetta invito di Kim Jong Un: visita di Stato in Corea del Nord l'8 e 9 giugno",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "Ucraina lancia offensiva su San Pietroburgo con 86 droni abbattuti",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "Stati Uniti abbattono 4 droni iraniani, nuove tensioni su Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "Leone XIV visita Madrid, Barcellona e Tenerife: prima volta in Spagna da papa",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "Stati Uniti abbattono due droni iraniani su Hormuz, Teheran colpisce Kuwait e Bahrein",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "D-Day, Hegseth invita l'Europa a investire nella difesa dopo tagli Usa",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "Perù al ballottaggio: Fujimori contro Sánchez per la presidenza",
+      "category": "politics",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1135,
+    "totalSourcesUsed": 8,
+    "daysWithData": 6,
+    "categoryCounts": {
+      "conflict": 18,
+      "politics": 23,
+      "science": 3,
+      "society": 3,
+      "economy": 8
+    },
+    "regionCounts": {
+      "middle-east": 11,
+      "europe": 28,
+      "global": 4,
+      "americas": 9,
+      "africa": 2,
+      "asia-pacific": 1
+    }
+  }
+}

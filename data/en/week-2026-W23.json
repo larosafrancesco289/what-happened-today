@@ -1,0 +1,161 @@
+{
+  "weekId": "2026-W23",
+  "startDate": "2026-06-01",
+  "endDate": "2026-06-07",
+  "summary": "The week of June 1-7, 2026, was dominated by escalating military confrontations across multiple fronts, including direct U.S.-Iran exchanges, the Israel-Hezbollah conflict, and the Ukraine-Russia war, alongside a worsening Ebola outbreak in Africa.\n\nU.S.-Iran hostilities intensified dramatically. On June 1, U.S. aircraft struck Iranian military sites, including on Qeeshm Island, while satellite images revealed Iran had damaged 20 U.S. military sites since the war began. These clashes continued with exchanges of fire in the Persian Gulf on June 3, which included a drone attack that temporarily closed Kuwait airport. Iran struck Kuwait airport again on June 5, its third such attack in a week. On June 6, the U.S. and Iran exchanged strikes in the Gulf, testing a fragile ceasefire. By June 7, tensions persisted around the Strait of Hormuz with further exchanges of fire. Meanwhile, the U.S. House voted 215-208 on June 4 to block further war on Iran, signaling domestic political division over the conflict.\n\nIn the Middle East, Israel bombarded Beirut suburbs on June 1 and continued strikes on Lebanon through June 6, as the U.S. intercepted Iranian missiles. On June 4, Israel and Lebanon agreed to a conditional renewal of the ceasefire. Israeli fire killed 18 in Gaza on June 5 as a U.S. envoy visited hostage families.\n\nThe Ukraine-Russia war saw a major development on June 3, when Ukraine struck the St. Petersburg oil terminal and a navy base, coinciding with a Putin forum day. This was followed by mass Ukrainian drone strikes on Russian military facilities in St. Petersburg on June 7. On June 5, Zelensky proposed face-to-face talks with Putin in an open letter.\n\nOn June 7, the CDC warned that Ebola in central Africa could match the record 2014 outbreak, a development echoed from June 6. A militia raid in the eastern DRC on June 4 killed 30 and hampered the Ebola response.\n\nIn other news, Ghana passed a law criminalizing LGBTQ+ activity on June 1, sparking fear and panic. The U.S. Senate passed a $70 billion immigration bill on June 5 without limits on a Trump fund. On June 3, Australia faced a proposed 12.5% U.S. tariff over a forced labor crackdown.\n\nSeveral stories appeared only on one day and did not persist: the satellite images of Iranian damage to U.S. sites, the initial Israeli order to strike Beirut suburbs, the U.S. strike on Qeeshm Island, Ghana's anti-LGBTQ+ law, and the mRNA cancer vaccine effectiveness report. These faded quickly amid the dominant conflict narratives.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Satellite images show Iran damaged 20 US military sites since war began",
+    "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+    "US aircraft strike Iranian military sites including Qeeshm Island",
+    "Ghana passes law criminalising LGBTQ+ activity, sparking fear and panic",
+    "mRNA cancer vaccine shows effectiveness against melanoma recurrence",
+    "China drafts sanctions list targeting US and allies across 63 tech sectors",
+    "Ethiopia votes in elections expected to give Abiy's party landslide win",
+    "Indian PM Modi meets Myanmar military chief Min Aung Hlaing in Delhi",
+    "Ebola cases in Congo reach 282 with no approved vaccine for Bundibugyo",
+    "Hong Kong leader John Lee urges Kazakhstan to use city's advantages"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-01",
+      "title": "Satellite images show Iran damaged 20 US military sites since war began",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "US aircraft strike Iranian military sites including Qeeshm Island",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Ghana passes law criminalising LGBTQ+ activity, sparking fear and panic",
+      "category": "society",
+      "region": "africa"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Ukraine strikes St. Petersburg oil terminal and navy base on Putin forum day",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "U.S. and Iran exchange fire in Persian Gulf, drone attack closes Kuwait airport",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Australia faces proposed 12.5% U.S. tariff over forced labor crackdown",
+      "category": "economy",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Militia raids in eastern DRC kill 30, hamper Ebola response",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Israel and Lebanon agree to renew ceasefire conditionally",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "US House votes 215-208 to block further war on Iran",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Iran strikes Kuwait airport in third attack on Gulf state in a week",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Israeli fire kills 18 in Gaza as US envoy visits hostage families",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Senate passes $70 billion immigration bill without limits on Trump fund",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Zelensky proposes face-to-face talks with Putin in open letter",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "CDC warns Ebola in central Africa could match 2014 record outbreak",
+      "category": "science",
+      "region": "africa"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "Israel continues bombarding Lebanon as US intercepts Iranian missiles",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "Mass Ukrainian drone strikes target Russian military facilities in St. Petersburg",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "U.S. and Iran exchange fire as Hormuz tensions persist",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "CDC warns Ebola in central Africa could match 2014 record outbreak",
+      "category": "science",
+      "region": "africa"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2363,
+    "totalSourcesUsed": 13,
+    "daysWithData": 6,
+    "categoryCounts": {
+      "conflict": 24,
+      "society": 3,
+      "science": 7,
+      "economy": 6,
+      "politics": 23
+    },
+    "regionCounts": {
+      "middle-east": 15,
+      "africa": 13,
+      "global": 5,
+      "asia-pacific": 14,
+      "europe": 8,
+      "americas": 8
+    }
+  }
+}

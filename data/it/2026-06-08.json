@@ -1,0 +1,185 @@
+{
+  "date": "2026-06-08",
+  "summary": "Israele ha colpito obiettivi militari in Iran nella notte, rompendo la tregua dell'8 aprile. Il presidente americano Trump aveva chiesto a Netanyahu di fermarsi, ma la Casa Bianca non conferma la telefonata. Poche ore dopo, Teheran ha rivendicato un attacco contro un impianto chimico ad Haifa, come rappresaglia per un raid americano-israeliano a un sito petrolchimico in Iran. Trump ha poi ripetuto l'appello: \"Israele e Iran si fermino immediatamente\". Il rischio è una escalation più ampia in Medio Oriente, con conseguenze su mercati e trasporti.\n\nUn forte terremoto di magnitudo 7.8 ha colpito Mindanao, nel sud delle Filippine, causando almeno 32 morti. L'allerta tsunami iniziale è stata revocata. La scossa è avvenuta alle 7.37 locali e ha messo in allerta le coste del Pacifico. I soccorsi sono già in corso nelle aree più colpite, con il bilancio che potrebbe salire.\n\nIn Armenia, il premier Pashinyan ha vinto le elezioni con la maggioranza assoluta. Il partito filorusso di Karapetyan si ferma al 23%. Pashinyan ha ribadito la volontà di avvicinarsi all'Ue, ma ammette che il Paese non è ancora pronto. Mosca ha accusato l'Occidente di interferire, segno che la tensione con il Cremlino resta alta.\n\nL'uomo d'affari russo Abramovich è tornato a fare da mediatore: ha incontrato Zelensky a Kiev, che gli ha affidato un messaggio per Putin: \"Non siamo disposti a cedere il Donbass\". Intanto l'Ue propone di obbligare le aziende ad acquistare auto elettriche, scatenando le critiche dei costruttori. E il caro carburante aereo, legato alla guerra con l'Iran, dimezza i profitti attesi delle compagnie globali, nonostante passeggeri record. In Italia, novità fiscali: figli over 30 non più detraibili (circa 300mila persone interessate), l'assegno unico perde beneficiari ma cresce l'importo medio, e arrivano sgravi contributivi fino a 50mila euro per le aziende che supportano i genitori.",
+  "headlines": [
+    {
+      "title": "Israele colpisce l'Iran ignorando l'appello di Trump a fermare il fuoco incrociato",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Israele ha lanciato attacchi su obiettivi militari in Iran, violando la tregua dell'8 aprile, nonostante la richiesta di Trump a Netanyahu di astenersi da rappresaglie. La Casa Bianca non ha confermato la telefonata.",
+      "link": "https://www.agi.it/estero/news/2026-06-08/iran-israele-guerra-trump-37437824/",
+      "publishedAt": "2026-06-08T10:19:31.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Apre con l'appello di Trump e la rottura della tregua",
+          "link": "https://www.agi.it/estero/news/2026-06-08/iran-israele-guerra-trump-37437824/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Enfatizza l'ira di Trump e la sua dichiarazione al FT",
+          "link": "https://www.tgcom24.mediaset.it/2026/video/israele-ignora-trump-e-risponde-ai-raid-di-teheran_112999449-02k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Terremoto di magnitudo 7.8 nelle Filippine provoca 32 morti e allerta tsunami rientrata",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Un forte sisma ha colpito Mindanao, nel sud delle Filippine, alle 7:37 locali. Almeno 32 vittime, l'allerta tsunami è stata successivamente revocata.",
+      "link": "https://www.repubblica.it/esteri/2026/06/08/news/terremoto_filippine_tsunami_78_magnitudo-425396096/?rss",
+      "publishedAt": "2026-06-08T10:26:02.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pashinyan vince le elezioni in Armenia, Mosca accusa interferenze occidentali",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il partito del premier uscente ottiene la maggioranza assoluta. Il filorusso Karapetyan si ferma al 23%. Pashinyan ribadisce la via verso l'Ue, ma ammette che il Paese non è ancora pronto.",
+      "link": "https://www.repubblica.it/esteri/2026/06/08/news/pashinyan_vince_elezioni_armenia_linea_europeista_pace_baku_russia_reazioni-425396833/?rss",
+      "publishedAt": "2026-06-08T11:09:15.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Abramovich torna mediatore tra Zelensky e Putin con messaggi per il Donbass",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "L'uomo d'affari russo ha incontrato Zelensky a Kiev. Il presidente ucraino ha affidato a lui il messaggio per Putin: non siamo disposti a cedere il Donbass.",
+      "link": "https://www.repubblica.it/esteri/2026/06/08/news/abramovich_mediatore_kiev_mosca_messaggi_zelensky_putin-425396365/?rss",
+      "publishedAt": "2026-06-08T09:02:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ue propone obbligo di auto elettriche per le aziende, l'industria contesta",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "La Commissione europea vuole imporre quote obbligatorie di acquisto di veicoli elettrici per le imprese. La proposta sarà discussa lunedì a Bruxelles, duramente criticata dai costruttori.",
+      "link": "http://it.euronews.com/my-europe/2026/06/08/ue-industria-dellauto-contro-lobbligo-di-veicoli-elettrici-per-le-auto-aziendali",
+      "publishedAt": "2026-06-08T11:15:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Caro carburante aereo azzera metà dei profitti attesi delle compagnie globali",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Il traffico passeggeri toccherà nuovi record, ma i profitti sono erosi dal caro carburante legato alla guerra con l'Iran, dimezzando le stime di guadagno del settore.",
+      "link": "http://it.euronews.com/business/2026/06/08/caro-carburante-aereo-azzera-meta-dei-profitti-attesi-delle-compagnie-globali",
+      "publishedAt": "2026-06-08T10:49:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Figli a carico over 30 non più detraibili: interessate circa 300mila persone nel 730",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "La detrazione fiscale per figli a carico è ora prevista solo per i ragazzi tra 21 e 29 anni. La modifica interessa circa 300mila contribuenti.",
+      "link": "https://www.ilsole24ore.com/art/figli-carico-over-30-fuori-730-interessate-circa-300mila-persone-AI55icVD",
+      "publishedAt": "2026-06-08T10:58:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Assegno unico: calo del 3,6% di beneficiari a marzo 2026, ma importo medio cresce",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "I figli raggiunti dall’aiuto sono diminuiti di quasi 350mila rispetto alla piena adesione di due anni fa. L’importo medio è però aumentato.",
+      "link": "https://www.ilsole24ore.com/art/assegno-unico-calo-36percento-beneficiari-cresce-l-importo-medio-AIniGbVD",
+      "publishedAt": "2026-06-08T10:58:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Sgravi contributivi fino a 50mila euro per aziende che supportano i genitori",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Sconto contributivo per le imprese certificate con la Uni/Pdr 192/2023. Il beneficio è cumulabile e può arrivare a 50mila euro.",
+      "link": "https://www.ilsole24ore.com/art/sgravi-contributivi-aziende-che-supportano-genitori-AIUjCcVD",
+      "publishedAt": "2026-06-08T10:37:25.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "La misura sugli sgravi contributivi per aziende che supportano i genitori è stata annunciata oggi, con dettagli sui requisiti e l'importo massimo.",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 189,
+    "articlesAfterDedup": 189,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 10,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.3,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 1,
+      "politics": 4,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "asia-pacific": 1,
+      "europe": 6,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

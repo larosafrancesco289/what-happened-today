@@ -1,0 +1,204 @@
+{
+  "date": "2026-06-08",
+  "summary": "Israël a frappé des cibles militaires en Iran tôt lundi, en riposte aux tirs de missiles iraniens de la veille. L'armée israélienne dit avoir visé des sites de lancement et des infrastructures non liées au secteur de l'énergie. Cette escalade brise une trêve de deux mois, replongeant le Moyen-Orient dans l'incertitude.\n\nAux Philippines, un séisme de magnitude 7,8 a frappé le sud du pays lundi matin, jour de la rentrée scolaire. Au moins quinze personnes sont mortes et de nombreux bâtiments se sont effondrés. Les secours sont à l'œuvre.\n\nEn Arménie, le parti du Premier ministre Nikol Pachinian, pro-européen, a largement remporté les législatives dimanche. Le scrutin confirme la volonté du pays de se rapprocher de l'Europe, malgré les pressions russes.\n\nEn Suisse, un référendum est prévu le 14 juin sur une initiative populaire qui vise à plafonner la population à dix millions d'habitants d'ici 2050. Le débat mêle questions d'immigration et d'environnement. En France, un gendarme est mort dans le crash d'un hélicoptère dans le Loiret dimanche, lors d'une recherche d'adolescent. Les deux autres occupants sont grièvement blessés. Les causes de l'accident restent inconnues. Au Canada, le projet de loi C-30 du gouvernement Carney permettrait de réautoriser des pesticides interdits, en infirment des décisions scientifiques. Des critiques s'élèvent sur la protection de l'environnement. Enfin, le géant canadien AtkinsRéalis (ex-SNC-Lavalin) a vu ses revenus saoudiens chuter de 35% après la suspension du projet de ville futuriste Neom.",
+  "headlines": [
+    {
+      "title": "Israël et l'Iran échangent des frappes et relancent le conflit au Moyen-Orient",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Radio-Canada",
+        "France Info",
+        "France 24",
+        "RFI",
+        "RTBF"
+      ],
+      "summary": "Israël a riposté aux tirs de missiles iraniens en frappant des cibles militaires en Iran. La trêve fragile de deux mois est rompue, menaçant la stabilité régionale.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/08/en-direct-moyen-orient-israel-a-nouveau-vise-par-des-missiles-iraniens-des-explosions-entendues-a-teheran-lundi-matin_6697888_3210.html",
+      "publishedAt": "2026-06-08T08:38:19.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec un direct détaillant les salves de missiles iraniens et la riposte israélienne",
+          "link": "https://www.lemonde.fr/international/live/2026/06/08/en-direct-moyen-orient-israel-a-nouveau-vise-par-des-missiles-iraniens-des-explosions-entendues-a-teheran-lundi-matin_6697888_3210.html"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Souligne que ce sont les premières attaques mutuelles depuis la trêve après 100 jours",
+          "link": "https://ici.radio-canada.ca/nouvelle/2259804/etats-unis-abattent-drones-iraniens"
+        },
+        {
+          "source": "France Info",
+          "angle": "Fait le point sur les frappes réciproques et le contexte de la fragile trêve",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/ce-que-l-on-sait-des-frappes-israeliennes-et-iraniennes-qui-relancent-le-conflit-au-moyen-orient_8049893.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Met en avant les cibles militaires et énergétiques en Iran et la menace iranienne",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-nouvelle-flamb%C3%A9e-de-tensions-entre-l-iran-et-isra%C3%ABl"
+        },
+        {
+          "source": "RFI",
+          "angle": "Analyse l'acte politique iranien pour maintenir son influence au Liban",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260608-moyen-orient-avec-ses-attaques-contre-isra%C3%ABl-l-iran-tente-de-maintenir-son-influence-sur-le-liban"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Rapporte une puissante explosion à Téhéran après la reprise des frappes",
+          "link": "https://www.rtbf.be/article/direct-moyen-orient-israel-bombarde-l-iran-en-depit-d-un-appel-de-trump-a-la-retenue-11736806"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Un séisme de magnitude 7,8 tue au moins 15 personnes aux Philippines",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "Le puissant tremblement de terre a frappé le sud du pays lundi, provoquant l'effondrement de bâtiments le jour de la rentrée scolaire.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-philippines-un-puissant-s%C3%A9isme-de-magnitude-7-8-fait-au-moins-15-morts",
+      "publishedAt": "2026-06-08T10:59:14.000Z",
+      "tier": "top",
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le parti pro-européen de Pachinian remporte largement les législatives arméniennes",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "Le parti du Premier ministre Nikol Pachinian a gagné les élections dimanche, malgré les pressions russes, renforçant la voie européenne de l’Arménie.",
+      "link": "https://www.20minutes.fr/monde/4227817-20260608-armenie-large-victoire-camp-pro-europeen-legislatives-malgre-pressions-russie?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-08T08:08:35.000Z",
+      "tier": "top",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Les Suisses votent le 14 juin sur un plafond de population à 10 millions d'habitants",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "L'initiative populaire vise à limiter la croissance démographique d'ici 2050. Le référendum suscite un débat sur l'immigration et l'environnement.",
+      "link": "https://www.20minutes.fr/monde/4227798-20260608-suisse-point-referendum-visant-limiter-population-pays-10-millions-habitants?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-08T06:03:54.000Z",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Un gendarme meurt dans le crash d'un hélicoptère dans le Loiret, deux enquêtes ouvertes",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "Libération"
+      ],
+      "summary": "L'appareil de la gendarmerie s'est écrasé dimanche lors d'une recherche d'adolescent. Un mort et deux blessés graves. Les causes sont inconnues.",
+      "link": "https://www.franceinfo.fr/faits-divers/accident/crash-mortel-d-un-helicoptere-de-la-gendarmerie-dans-le-loiret-deux-enquetes-ouvertes_8050367.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-08T11:14:19.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "Annonce deux enquêtes ouvertes et précise les circonstances de la recherche d'un adolescent",
+          "link": "https://www.franceinfo.fr/faits-divers/accident/crash-mortel-d-un-helicoptere-de-la-gendarmerie-dans-le-loiret-deux-enquetes-ouvertes_8050367.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Souligne que l'hélicoptère survolait une zone à la recherche d'un adolescent",
+          "link": "https://www.liberation.fr/societe/crash-dun-helicoptere-de-la-gendarmerie-dans-le-loiret-sans-doute-des-morts-20260607_TBDPVWBN65BIFPHHUNQ4QXDX6M/"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ottawa veut pouvoir réautoriser des pesticides interdits via un projet de loi",
+      "source": "Radio-Canada",
+      "singleSource": true,
+      "summary": "Le projet de loi C-30 du gouvernement Carney permettrait d'infirmer des décisions scientifiques. Il suscite des critiques sur la protection de l'environnement.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2259842/pesticides-interdits-canada-carney-sante-canada-projet-loi",
+      "publishedAt": "2026-06-08T08:00:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "AtkinsRéalis voit ses revenus saoudiens chuter de 35% après suspension de Neom",
+      "source": "Radio-Canada",
+      "singleSource": true,
+      "summary": "Le géant canadien (ex-SNC-Lavalin) est affecté par l'arrêt du projet de ville futuriste en Arabie saoudite, impactant ses finances.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2259639/arabie-saoudite-ville-futuriste-neom-line-atkinsrealis",
+      "publishedAt": "2026-06-08T08:00:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Le chanteur français Patrick Bruel arrêté pour violences sexuelles sur 13 victimes",
+      "source": "Radio-Canada",
+      "singleSource": true,
+      "summary": "L'enquête judiciaire concerne des accusations de violences sexuelles. Bruel a été placé en garde à vue. La justice poursuit ses investigations.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2259967/patrick-bruel-garde-a-vue-enquete-violences-sexuelles",
+      "publishedAt": "2026-06-08T10:01:15.000Z",
+      "tier": "also",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 212,
+    "articlesAfterDedup": 210,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.3,
+    "categoryCounts": {
+      "conflict": 1,
+      "environment": 1,
+      "politics": 3,
+      "society": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "europe": 4,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

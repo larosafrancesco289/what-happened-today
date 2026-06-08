@@ -1,0 +1,268 @@
+{
+  "date": "2026-06-08",
+  "summary": "A magnitude 7.8 earthquake struck the southern Philippines today, killing at least 31 people and injuring more than 130. The quake hit Mindanao, triggering small tsunami waves and causing widespread damage. Rescue teams are searching for scores still missing, and disaster experts warn the event highlights the vulnerability of Metro Manila to a major quake. \n\nGeopolitical tensions escalated as Iran and Israel exchanged strikes, collapsing a two-month ceasefire. President Trump called for an immediate ceasefire but maintained the Hormuz blockade. In a separate move, Chinese President Xi Jinping arrived in Pyongyang for a rare summit, pledging unwavering support for North Korea's Kim Jong-un. The visit aims to strengthen their alliance against the United States.\n\nArmenia's election results confirmed a westward shift: Prime Minister Nikol Pashinyan's Civil Contract party won 49.81% of the vote, cementing his pro-Western stance despite Moscow's threats. Ukrainian President Zelensky met with European allies to outline five conditions for peace talks with Russia, as US attention shifts to the Iran conflict. In business news, a Goldman Sachs-backed firm priced Japan's largest 2026 IPO at 2,400 yen per share. Meanwhile, Nigeria's army rescued 360 hostages from a Boko Haram mountain hideout, highlighting the ongoing kidnapping crisis. \n\nSouth Africa adopted a comprehensive plan to tackle illegal immigration, focusing on border security and closing policy loopholes. Peruvians voted in a runoff election for their ninth president in a decade, choosing between rightwing Keiko Fujimori and leftist Roberto Sánchez amid rising crime and political instability.",
+  "headlines": [
+    {
+      "title": "Magnitude 7.8 earthquake kills at least 31 in southern Philippines",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "France 24",
+        "New York Times World",
+        "BBC World"
+      ],
+      "summary": "A 7.8-magnitude earthquake struck Mindanao, killing at least 31, injuring over 130, and triggering small tsunami waves. Rescue operations continue with scores missing.",
+      "link": "https://www.scmp.com/week-asia/health-environment/article/3356387/mindanao-quake-exposes-philippines-vulnerability-big-one-tremor-metro-manila?utm_source=rss_feed",
+      "publishedAt": "2026-06-08T11:05:52.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "South China Morning Post",
+          "angle": "Emphasized disaster planning lessons for Metro Manila",
+          "link": "https://www.scmp.com/week-asia/health-environment/article/3356387/mindanao-quake-exposes-philippines-vulnerability-big-one-tremor-metro-manila?utm_source=rss_feed"
+        },
+        {
+          "source": "France 24",
+          "angle": "Focused on casualties and visual impact of collapsed buildings",
+          "link": "https://www.france24.com/en/major-earthquake-kills-at-least-19-in-the-philippines"
+        },
+        {
+          "source": "New York Times World",
+          "angle": "Highlighted displacement and infrastructure damage",
+          "link": "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunami-warning.html"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Reported tsunami warnings across multiple countries",
+          "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Xi Jinping pledges unwavering support for North Korea during Pyongyang visit",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "Wall Street Journal World",
+        "France 24"
+      ],
+      "summary": "Chinese President Xi Jinping arrived in Pyongyang for a rare two-day summit, pledging strong support for Kim Jong-un. The visit aims to strengthen their alliance against the US.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3356384/chinese-president-xi-jinping-pledges-unwavering-support-north-korea-and-kim-jong-un?utm_source=rss_feed",
+      "publishedAt": "2026-06-08T10:41:35.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "South China Morning Post",
+          "angle": "Quoted Xi's commitment to traditional friendship",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3356384/chinese-president-xi-jinping-pledges-unwavering-support-north-korea-and-kim-jong-un?utm_source=rss_feed"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Analyzed mutual strategic interests against the West",
+          "link": "https://www.wsj.com/world/asia/what-xi-and-kim-want-from-their-summit-in-north-korea-99a330b3"
+        },
+        {
+          "source": "France 24",
+          "angle": "Noted high stakes and ramifications for bilateral ties",
+          "link": "https://www.france24.com/en/china-s-xi-jinping-lands-in-north-korea-for-rare-high-stakes-visit"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Iran and Israel exchange strikes as two-month ceasefire collapses",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "New York Times World",
+        "France 24",
+        "The Hindu"
+      ],
+      "summary": "Iran launched missiles at Israel, which struck military targets in Iran, breaking an uneasy truce. President Trump called for an immediate ceasefire but maintained the Hormuz blockade.",
+      "link": "https://www.aljazeera.com/news/2026/6/8/iran-and-israel-bomb-each-other-is-the-ceasefire-over?traffic_source=rss",
+      "publishedAt": "2026-06-08T10:38:36.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Al Jazeera English",
+          "angle": "Questioned ceasefire viability with both sides seeking leverage",
+          "link": "https://www.aljazeera.com/news/2026/6/8/iran-and-israel-bomb-each-other-is-the-ceasefire-over?traffic_source=rss"
+        },
+        {
+          "source": "New York Times World",
+          "angle": "Live updates on missile waves and Trump's call to stop",
+          "link": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks"
+        },
+        {
+          "source": "France 24",
+          "angle": "Highlighted tensions with US and strike on Beirut after Hezbollah rockets",
+          "link": "https://www.france24.com/en/tension-rises-between-israel-and-the-us-amid-flare-up-with-iran"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Reported Trump's claim of immediate ceasefire talks",
+          "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-beirut-strikes-strait-of-hormuz-live-updates-june-8-2026/article71074947.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Armenian PM Pashinyan's party wins election, cementing Westward shift",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "France 24"
+      ],
+      "summary": "Nikol Pashinyan's Civil Contract party won 49.81% of the vote with 59% turnout. The result confirms Armenia's turn toward the West despite Moscow's threats and claims of interference.",
+      "link": "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show?traffic_source=rss",
+      "publishedAt": "2026-06-08T10:32:33.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Al Jazeera English",
+          "angle": "Focused on preliminary results and vote share",
+          "link": "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Emphasized geopolitical significance of Westward tilt",
+          "link": "https://www.france24.com/en/armenia-confirms-turn-towards-west-in-election"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Goldman-backed Go prices Japan's biggest 2026 IPO at 2,400 yen per share",
+      "source": "Japan Times",
+      "singleSource": true,
+      "summary": "Shareholders in the Goldman Sachs Group-backed firm sold shares at ¥2,400 each, marking Japan's largest initial public offering of 2026.",
+      "link": "https://www.japantimes.co.jp/business/2026/06/08/goldman-go-ipo-upper-end/",
+      "publishedAt": "2026-06-08T09:34:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Nigerian army frees 360 hostages from Boko Haram mountain hideout",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica",
+        "Deutsche Welle"
+      ],
+      "summary": "Nigeria's army rescued 360 people taken from different communities by Boko Haram militants. Kidnappings remain a growing security concern across the country.",
+      "link": "https://allafrica.com/stories/202606080158.html",
+      "publishedAt": "2026-06-08T06:19:03.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "AllAfrica",
+          "angle": "Reported rescue as part of broader security issues",
+          "link": "https://allafrica.com/stories/202606080158.html"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Highlighted kidnappings as growing concern",
+          "link": "https://www.dw.com/en/nigeria-360-people-freed-from-boko-haram-mountain-hideout/a-77451416?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zelensky's European allies set out five conditions for peace talks with Russia",
+      "source": "BBC World",
+      "singleSource": true,
+      "summary": "Ukrainian President Zelensky met with close European allies to outline five conditions for peace talks, as US attention shifts to the Iran conflict.",
+      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T21:39:43.000Z",
+      "tier": "also",
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "South Africa unveils comprehensive plan to tackle illegal immigration",
+      "source": "AllAfrica",
+      "singleSource": true,
+      "summary": "The government adopted a Comprehensive Approach for Migration Management to strengthen border security, enforce laws, and close policy loopholes.",
+      "link": "https://allafrica.com/stories/202606080129.html",
+      "publishedAt": "2026-06-08T05:34:18.000Z",
+      "tier": "also",
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Peruvians vote in runoff election for ninth president in 10 years",
+      "source": "The Guardian",
+      "singleSource": true,
+      "summary": "Voters chose between rightwing Keiko Fujimori and leftist Roberto Sánchez amid rising crime, corruption, and political instability.",
+      "link": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
+      "publishedAt": "2026-06-07T05:00:24.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Peru held first-round elections in April; Fujimori led with 17% of votes. The runoff follows years of political turmoil.",
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 374,
+    "articlesAfterDedup": 371,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 19,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 30.4,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 4,
+      "conflict": 2,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 3,
+      "middle-east": 1,
+      "europe": 2,
+      "africa": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

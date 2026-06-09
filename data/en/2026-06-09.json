@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-09",
+  "summary": "The death toll from the magnitude-7.8 earthquake that struck the southern Philippines on Monday has risen to at least 37, with hundreds injured. The quake hit about 20 kilometers off the coast of Sarangani province early in the morning, collapsing buildings and triggering tsunami alerts across Mindanao. Aftershocks continue, and officials are warning people not to enter damaged structures. Tremors were felt as far away as Manado, Indonesia, 420 kilometers from the epicenter. Rescue operations are ongoing, and the full extent of the damage is still being assessed.\n\nThe Pentagon added several major Chinese companies to its 1260H blacklist on Tuesday, designating them as national-security risks due to alleged military ties. The list includes tech giants Alibaba and Baidu, carmaker BYD, drug maker WuXi AppTec, robot company Unitree, and automaker Nio. The annual update also removed some Chinese firms that no longer operate in the US. This move widens the competition between the world's two largest economies and could affect trade and investment flows. Separately, Israel launched new strikes in southern Lebanon on Tuesday, a day after both Israel and Iran pulled back from direct confrontation. The Israeli campaign against Hezbollah has complicated US-Iran peace talks.\n\nThe Philippines accused China of building an artificial structure at the disputed Scarborough Shoal in the South China Sea. Manila's National Task Force for the West Philippine Sea said aerial monitoring spotted a floating platform six meters wide and six meters long, with an antenna and individuals on board. This escalates tensions in the region, where multiple countries have competing claims. Meanwhile, Xi Jinping wrapped up his first official trip to North Korea since 2019, pledging stronger ties with Kim Jong Un but making no public mention of denuclearization, signaling a potential policy shift. In eastern Congo, an Ebola outbreak has reached at least 100 deaths out of 515 confirmed cases across three provinces, less than a month after authorities declared it.\n\nIn health news, recent studies suggest that GLP-1 weight loss drugs, such as Ozempic and Wegovy, may protect against cancer beyond their weight loss effects, acting on brain and metabolic pathways to prevent cancer and slow its progression. On the economic front, a surge in global AI investment helped China's exports beat forecasts, offsetting the impact of Middle East turmoil on trade. And in the Ukraine war, drones launched by both Russia and Ukraine are increasingly veering off course into NATO neighbors Lithuania and Romania, raising risks for non-combatant countries.",
+  "headlines": [
+    {
+      "title": "Philippines earthquake death toll rises to 37 as aftershocks continue",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "A magnitude-7.8 earthquake off Sarangani province killed at least 37 people and injured hundreds, collapsing buildings and triggering tsunami alerts in Mindanao.",
+      "link": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings",
+      "publishedAt": "2026-06-09T03:53:22.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pentagon blacklists Alibaba, Baidu, BYD over Chinese military ties",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "Wall Street Journal World"
+      ],
+      "summary": "The Pentagon added Alibaba, Baidu, BYD, and other firms to its 1260H blacklist, designating them as national-security risks amid widening US-China competition.",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3356493/pentagon-blacklists-china-tech-giants-us-competition-expands?utm_source=rss_feed",
+      "publishedAt": "2026-06-09T09:15:26.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "South China Morning Post",
+          "angle": "Led with Alibaba and BYD additions, noting annual list update",
+          "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3356493/pentagon-blacklists-china-tech-giants-us-competition-expands?utm_source=rss_feed"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Focused on national-security risk designation and expansion",
+          "link": "https://www.wsj.com/politics/national-security/u-s-expands-list-of-chinese-tech-companies-it-says-assists-beijings-military-a2c6c6b9"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel launches new strikes in southern Lebanon after Iran pullback",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World"
+      ],
+      "summary": "Israel struck targets in southern Lebanon on Tuesday, a day after both sides pulled back from direct confrontation, complicating US-Iran peace talks.",
+      "link": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
+      "publishedAt": "2026-06-09T09:59:10.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Congo Ebola outbreak reaches 100 deaths out of 550 cases",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "AllAfrica"
+      ],
+      "summary": "At least 100 people have died from Ebola in eastern Congo less than a month after authorities declared the outbreak, with 515 confirmed cases across three provinces.",
+      "link": "https://www.thehindu.com/news/international/congo-ebola-outbreak-cases-rise-after-a-month/article71079625.ece",
+      "publishedAt": "2026-06-09T09:50:37.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Reported 100 deaths out of 550 cases a month into outbreak",
+          "link": "https://www.thehindu.com/news/international/congo-ebola-outbreak-cases-rise-after-a-month/article71079625.ece"
+        },
+        {
+          "source": "AllAfrica",
+          "angle": "Highlighted 'rare, untreatable strain' and UN assessment visit",
+          "link": "https://allafrica.com/stories/202606090111.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Philippines accuses China of building antenna at Scarborough Shoal",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "summary": "Manila says aerial monitoring spotted a six-meter floating platform with an antenna inside the disputed shoal, escalating South China Sea tensions.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3356508/chinese-antenna-scarborough-shoal-philippines-thinks-so?utm_source=rss_feed",
+      "publishedAt": "2026-06-09T09:29:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Xi Jinping and Kim Jong Un vow stronger ties as Pyongyang visit ends",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Japan Times"
+      ],
+      "summary": "Xi wrapped up his first official trip to North Korea since 2019, pledging stronger ties, but made no public mention of denuclearization, signaling a policy shift.",
+      "link": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T07:08:52.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Reported vows of stronger ties, first visit since 2019",
+          "link": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Japan Times",
+          "angle": "Noted silence on nukes suggests China no longer seeks denuclearization",
+          "link": "https://www.japantimes.co.jp/news/2026/06/09/asia-pacific/politics/north-korea-china-xi-kim-nukes-analysis/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "GLP-1 weight loss drugs appear to protect against cancer, studies show",
+      "source": "NPR News",
+      "sources": [
+        "NPR News"
+      ],
+      "summary": "Recent studies suggest GLP-1 drugs may prevent cancer and slow its progression through brain and metabolic pathways, beyond weight loss effects.",
+      "link": "https://www.npr.org/2026/06/09/nx-s1-5850732/glp-1-cancer-asco-semaglutide-tirezepatide",
+      "publishedAt": "2026-06-09T09:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "China rides AI wave as exports surge past forecasts despite turmoil",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times"
+      ],
+      "summary": "A surge in global AI investment helped China's exports beat expectations, offsetting the impact of Middle East conflict on trade.",
+      "link": "https://www.japantimes.co.jp/business/2026/06/09/tech/china-ai-wave-exports-forecast/",
+      "publishedAt": "2026-06-09T08:15:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Ukraine war drones increasingly veer into NATO neighbors' airspace",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World"
+      ],
+      "summary": "Drones launched by Russia and Ukraine are straying off course into Lithuania and Romania, raising risks for non-combatant countries.",
+      "link": "https://www.nytimes.com/2026/06/09/world/europe/russia-ukraine-drones-nato-lithuania-romania.html",
+      "publishedAt": "2026-06-09T09:49:25.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Drone incursions into NATO airspace have increased as both sides expand long-range attacks, prompting air defense alerts.",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 388,
+    "articlesAfterDedup": 384,
+    "articlesAfterDiversity": 60,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.2,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 3,
+      "conflict": 2,
+      "science": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 4,
+      "global": 2,
+      "middle-east": 1,
+      "africa": 1,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [
+      "Summary is too long (2640 chars, recommend <2600)"
+    ],
+    "qualityErrors": []
+  }
+}

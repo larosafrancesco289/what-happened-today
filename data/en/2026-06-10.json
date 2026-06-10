@@ -1,0 +1,253 @@
+{
+  "date": "2026-06-10",
+  "summary": "The U.S. and Iran traded direct military strikes today, raising the risk of a broader conflict. Washington hit Iranian radar sites and ground control stations in southern Iran, calling it retaliation for Iran shooting down an American helicopter over the Strait of Hormuz. Iran then launched drones and missiles at U.S. bases in Bahrain and Jordan, saying those were a response to the U.S. strikes. Neither side has signaled a desire for all-out war, but the exchange marks a significant escalation in a region already on edge. Separately, Pakistan carried out airstrikes on three Afghan provinces, killing 13 civilians according to the Taliban; Pakistan says it killed 26 militants. The strikes end months of relative calm along the border and add another flashpoint to the region.\n\nIn Asia, Taiwan test-fired a U.S.-supplied HIMARS missile launcher into the Taiwan Strait for the first time, as part of invasion-defense drills. The move is a public demonstration of its newly acquired capability and will almost certainly draw a response from Beijing, which views the island as its territory. The U.S. also expanded its list of Chinese tech companies designated as national-security risks, adding well-known names to the annually updated blacklist. The effect: tighter restrictions on technology exports and investment, further straining already difficult trade ties. In Hong Kong, police and the ICAC charged seven individuals and two companies with manslaughter, conspiracy to defraud, and money laundering over the Wang Fuk Court fire that killed 168 people last year — the city's deadliest blaze in 70 years.\n\nIn the war in Ukraine, Ukraine's upgraded midrange drones are hitting Russian logistics deep behind the lines, causing fuel shortages and complicating troop rotations. Ukrainian officials say the campaign is really hurting the Russians, a notable shift from earlier in the war when Ukraine struggled to strike supply lines at distance. In Japan, Bank of Governor Kazuo Ueda was hospitalized and will miss the upcoming policy meeting, with an expected stay of about two weeks. His absence injects fresh uncertainty into monetary policy, just as markets were watching for signals on rate moves. Separately, a Japanese parliamentary panel approved a draft to amend the Imperial House Law, aiming to stop the imperial family from shrinking further, paving the way toward legal changes that could allow more members.\n\nFinally, two domestic stories worth noting. The main San Francisco immigration court — one of the busiest in the U.S. and historically the most likely to grant asylum — has shut down, disrupting thousands of pending cases and hitting a longtime hub for immigrant advocacy. And Bill Gates will sit for a closed-door interview before the House Oversight Committee about his relationship with convicted sex offender Jeffrey Epstein, following years of scrutiny. The appearance is not public, but the topic ensures it will be closely watched.",
+  "headlines": [
+    {
+      "title": "U.S. and Iran trade strikes after downed helicopter escalates conflict",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Wall Street Journal World",
+        "BBC World",
+        "Al Jazeera English"
+      ],
+      "summary": "The U.S. struck Iranian radar sites and ground control stations after Iran downed an American helicopter over the Strait of Hormuz. Iran retaliated with drones and missiles at U.S. bases in Bahrain and Jordan, raising fears of broader war.",
+      "link": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
+      "publishedAt": "2026-06-10T10:15:09.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Led with live updates on U.S.-Iran tit-for-tat strikes",
+          "link": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Emphasized precision munitions and hours-long attack duration",
+          "link": "https://www.wsj.com/world/middle-east/apache-helicopter-crash-coast-oman-4de26c6d"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Focused on Trump's accusation and vow to respond",
+          "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Highlighted missiles carrying images of killed commanders",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "mid-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pakistan launches deadly airstrikes on three Afghan provinces",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "France 24"
+      ],
+      "summary": "Pakistan struck three Afghan provinces with airstrikes, killing 13 civilians according to the Taliban, while Pakistan claims 26 militants dead. The strikes mark a renewal of cross-border violence after months of relative calm.",
+      "link": "https://www.dw.com/en/pakistan-carries-out-new-deadly-strikes-on-afghanistan/a-77483466?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-10T08:38:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Reported conflicting casualty figures between Pakistan and Taliban",
+          "link": "https://www.dw.com/en/pakistan-carries-out-new-deadly-strikes-on-afghanistan/a-77483466?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Noted children among dead and period of calm before strikes",
+          "link": "https://www.france24.com/en/asia-pacific/20260610-pakistan-renews-air-strikes-on-afghanistan-killing-several"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Hong Kong charges seven people, two firms over deadly 2025 fire",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "South China Morning Post"
+      ],
+      "summary": "Hong Kong police and ICAC charged seven individuals and two companies with manslaughter, conspiracy to defraud, and money laundering over the Wang Fuk Court blaze that killed 168 people, the city's deadliest fire in 70 years.",
+      "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-10T10:15:50.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Emphasized deadliest fire in Hong Kong in 70 years",
+          "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "Detailed 25 offences including tax evasion and perverting justice",
+          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356611/hong-kong-police-icac-charge-7-2-firms-over-deadly-wang-fuk-court-blaze?utm_source=rss_feed"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Taiwan test-fires U.S.-supplied HIMARS missile launcher toward China",
+      "source": "Wall Street Journal World",
+      "summary": "Taiwan staged the first use of HIMARS on the Taiwan Strait during invasion-defense drills, firing a missile launcher supplied by the U.S. toward China. The move escalates tensions amid ongoing cross-strait military posturing.",
+      "link": "https://www.wsj.com/world/china/taiwan-test-fires-u-s-supplied-missile-launcher-toward-china-c23b4f44",
+      "publishedAt": "2026-06-10T08:44:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukraine's midrange drone attacks cause fuel shortages, complicate Russian rotations",
+      "source": "New York Times World",
+      "summary": "Ukraine's upgraded midrange drones, produced in huge numbers, are striking Russian logistics deep behind lines, causing fuel shortages and complicating troop rotations. The campaign is 'really hurting the Russians,' according to officials.",
+      "link": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
+      "publishedAt": "2026-06-10T09:02:09.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. expands list of Chinese tech companies aiding Beijing's military",
+      "source": "Wall Street Journal World",
+      "summary": "The U.S. added well-known Chinese tech companies to an annually updated list designating them as national-security risks for assisting Beijing's military. The expansion broadens restrictions on technology exports and investment.",
+      "link": "https://www.wsj.com/politics/national-security/u-s-expands-list-of-chinese-tech-companies-it-says-assists-beijings-military-a2c6c6b9",
+      "publishedAt": "2026-06-09T10:10:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "San Francisco immigration court shuts down, hitting historic asylum center",
+      "source": "NPR News",
+      "summary": "The main San Francisco immigration court, one of the busiest in the U.S. and most likely to grant asylum, has shut down. The closure disrupts thousands of pending cases and strikes at a historic hub for immigrant advocacy.",
+      "link": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs",
+      "publishedAt": "2026-06-10T09:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Bill Gates to testify before Congress over Epstein ties",
+      "source": "NPR News",
+      "summary": "Bill Gates will sit for a closed-door interview before the House Oversight Committee about his relationship with convicted sex offender Jeffrey Epstein. The appearance follows years of scrutiny over their interactions.",
+      "link": "https://www.npr.org/2026/06/10/nx-s1-5851609/bill-gates-jeffrey-epstein-files-congress-pam-bondi",
+      "publishedAt": "2026-06-10T09:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "China fast-tracks humanoid robots into factories under nationwide program",
+      "source": "South China Morning Post",
+      "summary": "China launched a nationwide training program to deploy humanoid robots and embodied AI in factories, warehouses, and hospitals within six months. The initiative aims to commercialize the technology for real-world production and services.",
+      "link": "https://www.scmp.com/economy/china-economy/article/3356629/china-fast-tracks-humanoid-robots-and-embodied-ai-industry-under-nationwide-programme?utm_source=rss_feed",
+      "publishedAt": "2026-06-10T09:30:06.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "BOJ Governor Ueda hospitalized, will miss key policy meeting",
+      "source": "Japan Times",
+      "summary": "Bank of Japan Governor Kazuo Ueda was hospitalized and will miss the upcoming policy meeting, with an expected stay of about two weeks. His absence raises uncertainty about monetary policy direction.",
+      "link": "https://www.japantimes.co.jp/business/2026/06/10/boj-gov-ueda-hospital-meeting/",
+      "publishedAt": "2026-06-10T10:12:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Japanese parliamentary panel approves draft to revise Imperial House Law",
+      "source": "Japan Times",
+      "summary": "A parliamentary panel approved a draft proposal to amend the Imperial House Law, aiming to prevent the shrinking imperial family. The move paves the way for legal changes to allow more members.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/10/japan/politics/royals-parliament-draft/",
+      "publishedAt": "2026-06-10T09:34:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 431,
+    "articlesAfterDedup": 427,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 24.4,
+    "categoryCounts": {
+      "conflict": 4,
+      "society": 2,
+      "politics": 3,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "mid-east": 1,
+      "asia-pacific": 6,
+      "europe": 1,
+      "global": 1,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 8
+    },
+    "qualityWarnings": [
+      "Summary is too long (2967 chars, recommend <2600)"
+    ],
+    "qualityErrors": []
+  }
+}

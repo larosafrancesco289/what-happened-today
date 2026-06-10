@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-10",
+  "summary": "Tensioni in forte aumento tra Stati Uniti e Iran. Nelle ultime 24 ore ci sono stati raid e attacchi missilistici che hanno causato 29 morti. Gli Stati Uniti hanno colpito l'Iran dopo l'abbattimento di un elicottero americano, e Teheran ha risposto con missili su basi statunitensi in Giordania, Bahrein e Kuwait. Cina e Russia hanno chiesto a entrambe le parti di fermare l'escalation. Il presidente Trump parla di una 'risposta potente', mentre l'Iran definisce l'attacco americano un pretesto e chiede il ritiro delle truppe Usa dalla regione.\n\nIn Europa, due decisioni che riguardano le frontiere. L'Unione europea sta valutando di estendere la protezione temporanea per oltre 4 milioni di ucraini, ma con un'eccezione: dal marzo 2027 gli uomini tra i 23 e i 60 anni potrebbero essere esclusi, su richiesta del presidente Zelensky che ha bisogno di soldati. Parallelamente, il nuovo sistema di controlli biometrici alle frontiere Ue sta causando code e disagi. Un funzionario di Frontex ha detto che potrebbero servire fino a due anni prima che tutto funzioni a regime.\n\nSul fronte economico e sociale, alcune notizie da tenere d'occhio. Negli Stati Uniti, l'energia solare ha superato il carbone nella produzione elettrica del primo trimestre 2026, e il 74% dei nuovi impianti è stato installato in Stati vinti da Trump alle elezioni del 2024. In Spagna, comprare casa è sempre più difficile: i prezzi sono aumentati del 20,5% nell'ultimo anno, mentre gli stipendi sono cresciuti solo dell'1%. Nelle Baleari e a Madrid serve oltre otto anni di stipendio per un appartamento. In Germania, intanto, Alice Weidel, leader dell'estrema destra Afd, è la politica più popolare tra i tedeschi, anche se il più amato in assoluto resta il ministro della Difesa Pistorius.\n\nInfine, due storie di politica italiana. Giorgia Meloni ha parlato a Confcommercio, proponendo un Piano casa per rigenerare le città e difendere i negozi come 'presidi identitari', promettendo anche un taglio delle tasse per il ceto medio. E il premier polacco Tusk ha rivelato che Meloni era scontenta per l'esclusione dell'Italia dal vertice E3 su Kiev; ora si lavora a un nuovo summit a luglio a Berlino che includa anche l'Italia.",
+  "headlines": [
+    {
+      "title": "Usa e Iran si scambiano raid: 29 morti in 24 ore, Cina e Russia chiedono tregua",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "TGCOM24"
+      ],
+      "summary": "Nuovi attacchi americani colpiscono l'Iran dopo l'abbattimento di un elicottero. Teheran risponde con missili su basi Usa in Giordania, Bahrein e Kuwait. Cina e Russia invocano la de-escalation.",
+      "link": "https://www.rainews.it/maratona/2026/06/guerre-medio-oriente-tre-ondate-attacchi-americani-su-iran-teheran-risponde-libano-tiro-29-morti-in-24-ore-strage-0903ab65-3abb-4ea8-b0f4-39531de551c0.html",
+      "publishedAt": "2026-06-10T10:02:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Si concentra sulle tre ondate di attacchi e le vittime",
+          "link": "https://www.rainews.it/maratona/2026/06/guerre-medio-oriente-tre-ondate-attacchi-americani-su-iran-teheran-risponde-libano-tiro-29-morti-in-24-ore-strage-0903ab65-3abb-4ea8-b0f4-39531de551c0.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta dettagli sui missili e la risposta dei pasdaran",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-10-giugno_113042364-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ue proroga protezione temporanea per ucraini, ma esclude uomini dal 2027",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "L'Unione europea pianifica di estendere la protezione temporanea per oltre 4 milioni di ucraini, ma dal 5 marzo 2027 gli uomini potrebbero essere esclusi. Il sistema attuale scade a breve.",
+      "link": "https://www.agi.it/estero/news/2026-06-10/protezione-ue-ucraini-37478722/",
+      "publishedAt": "2026-06-10T10:19:02.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Sistema entry/exit Ue causa code e caos, serviranno due anni per stabilizzarsi",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "A due mesi dall'avvio dei controlli biometrici alle frontiere europee, disagi e procedure irregolari persistono. Frontex avverte che il sistema Entry/Exit potrebbe richiedere fino a due anni per funzionare correttamente.",
+      "link": "http://it.euronews.com/viaggi/2026/06/10/sistema-entryexit-caotico-in-europa-serviranno-fino-a-due-anni-avverte-lue",
+      "publishedAt": "2026-06-10T10:08:46.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Meloni a Confcommercio: con Piano casa rigeneriamo città, negozi presidio identitario",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "La presidente del Consiglio all'assemblea di Confcommercio propone di rigenerare le città con il Piano casa e difendere i negozi come presidi. Promette ulteriore riduzione del carico fiscale sul ceto medio.",
+      "link": "https://www.rainews.it/articoli/2026/06/meloni-a-confcommercio-con-piano-casa-possiamo-rigenerare-le-citta-negozi-presidio-territoriale-0cbef682-8956-448d-b576-9c6b35f3aeca.html",
+      "publishedAt": "2026-06-10T09:57:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Sottolinea la proposta di rigenerazione urbana e identità",
+          "link": "https://www.rainews.it/articoli/2026/06/meloni-a-confcommercio-con-piano-casa-possiamo-rigenerare-le-citta-negozi-presidio-territoriale-0cbef682-8956-448d-b576-9c6b35f3aeca.html"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Si focalizza sulle promesse fiscali per il ceto medio",
+          "link": "https://www.ilsole24ore.com/art/meloni-vogliamo-ridurre-ancora-carico-fiscale-ceto-medio-AIa21FaD"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Prodotti da colonie israeliane entrano in Ue etichettati come Israele, rivela inchiesta",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "L'inchiesta di Global Echo mostra come migliaia di prodotti da insediamenti in Cisgiordania arrivino in Europa con etichetta 'Prodotto in Israele', aggirando le norme Ue sull'origine.",
+      "link": "https://www.repubblica.it/esteri/2026/06/10/news/agrumi_datteri_prodotti_colonie_israele_importazioni_ue-425400984/?rss",
+      "publishedAt": "2026-06-10T10:13:31.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Tusk: Meloni scontenta per vertice su Kiev senza Italia, ora possibile allargamento",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il premier polacco rivela che Meloni era insoddisfatta per l'esclusione dell'Italia dal vertice E3 con Kiev. Si lavora a un nuovo summit a luglio a Berlino che includa l'Italia.",
+      "link": "https://www.repubblica.it/esteri/2026/06/10/news/tusk_svela_meloni_scontenta_vertice_londra_e3_senza_italia-425400496/?rss",
+      "publishedAt": "2026-06-09T23:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Studio su 700mila persone individua 74 varianti genetiche legate all'ansia, 39 nuove",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Il più vasto studio genetico sull'ansia, con quasi 700mila partecipanti, ha identificato 74 varianti genetiche associate al disturbo, di cui 39 mai scoperte prima. Possibili implicazioni terapeutiche.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/06/10/individuate-74-varianti-genetiche-legate-allansia-39-sono-nuove_f5ed6704-5425-4175-82f6-7ca6c65b9327.html",
+      "publishedAt": "2026-06-10T05:30:27.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Negli Usa il solare supera il carbone nonostante le politiche di Trump",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "L'energia solare ha superato il carbone nella produzione elettrica Usa nel primo trimestre 2026. Il 74% della nuova capacità solare è stata installata in Stati vinti da Trump nel 2024.",
+      "link": "http://it.euronews.com/2026/06/10/usa-il-solare-supera-il-carbone-nonostante-gli-attacchi-di-trump",
+      "publishedAt": "2026-06-10T09:12:19.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "In Spagna servono oltre 8 anni di stipendio per comprare casa, prezzi volano",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Nel 2025 i prezzi delle case in Spagna sono aumentati del 20,5% mentre gli stipendi solo dell'1%. Nelle Baleari e Madrid serve il maggiore sforzo economico per l'acquisto.",
+      "link": "http://it.euronews.com/business/2026/06/10/comprare-casa-in-spagna-richiede-gia-oltre-8-anni-di-stipendio",
+      "publishedAt": "2026-06-10T09:38:56.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "Il mercato immobiliare spagnolo è in crescita da anni, ma il divario tra prezzi e stipendi si amplia.",
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Weidel è la politica più amata dai tedeschi, Afd la incorona cancelliera dei cuori",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Alice Weidel, leader dell'Afd, è la politica più popolare in Germania secondo i sondaggi, quinta in classifica generale. Pistorius resta il più amato tra tutti gli uomini politici.",
+      "link": "https://www.repubblica.it/esteri/2026/06/10/news/alice_weidel_afd_politica_piu_amata_tedeschi_sondaggi-425401536/?rss",
+      "publishedAt": "2026-06-10T10:31:49.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "L'Afd è in crescita nei sondaggi, ma Weidel supera le aspettative in popolarità personale.",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 194,
+    "articlesAfterDedup": 194,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 11.6,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 6,
+      "science": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 7,
+      "global": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "date": "2026-06-10",
+  "summary": "L'escalade militaire au Moyen-Orient s'est accélérée cette nuit. L'Iran a tiré des missiles sur des bases américaines dans le Golfe, en riposte à des frappes américaines sur des sites iraniens. Le porte-parole du ministère iranien des Affaires étrangères a indiqué que la poursuite des négociations avec Washington serait examinée « compte tenu des développements d'hier soir ». Parallèlement, des raids israéliens ont visé Beyrouth. La région reste sous haute tension.\n\nEn France, l'affaire Lyhanna continue d'agiter le Parlement. Le député LR Antoine Vermorel a proposé la création d'un fichier national des agresseurs sexuels, sur le modèle des fiches S. Par ailleurs, le projet de loi de Géraldarmanin sur la justice criminelle a été rejeté en commission des Lois par 18 voix contre 16. La gauche a voté contre, le RN s'est abstenu. Le texte sera examiné fin juin dans la version du Sénat.\n\nPlusieurs annonces internationales marquent la journée. Benjamin Netanyahu a annoncé sa candidature aux prochaines élections israéliennes. Les dirigeants nordiques et baltes ont plaidé pour une adhésion rapide de l'Ukraine à l'Union européenne. Enfin, l'Inde a confirmé son intention de réduire le débit des fleuves s'écoulant vers le Pakistan, ce qu'Islamabad considère comme « un acte de guerre ».\n\nEn Afrique du Sud, douze personnes ont été tuées par des hommes armés dans un township près de Johannesburg. Les motivations restent inconnues. Enfin, une étude parue dans Nature révèle la découverte d'ADN de mammouth laineux dans des excréments d'écureuil vieux de 700 000 ans au Yukon, au Canada. Cette trouvaille éclaire la biodiversité du Pléistocène.",
+  "headlines": [
+    {
+      "title": "L’Iran attaque des bases américaines après des frappes des États-Unis dans le Golfe",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Libération",
+        "France Info",
+        "Radio-Canada",
+        "France 24"
+      ],
+      "summary": "L’Iran a tiré des missiles sur des bases américaines dans le Golfe en réponse à des frappes américaines. Le porte-parole iranien remet en cause les négociations diplomatiques. L’escalade inclut des raids israéliens à Beyrouth.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/10/en-direct-guerre-au-moyen-orient-l-iran-dit-avoir-attaque-des-bases-americaines-dans-le-golfe-en-reponse-a-des-bombardements-des-etats-unis_6697888_3210.html",
+      "publishedAt": "2026-06-10T09:02:14.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec le rappel des frappes et la question diplomatique iranienne",
+          "link": "https://www.lemonde.fr/international/live/2026/06/10/en-direct-guerre-au-moyen-orient-l-iran-dit-avoir-attaque-des-bases-americaines-dans-le-golfe-en-reponse-a-des-bombardements-des-etats-unis_6697888_3210.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Mentionne le Koweït, la Jordanie et Bahreïn comme cibles des frappes américaines",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-affirme-avoir-frappe-des-bases-americaines-dans-le-golfe-20260610_AYKWSUULTZDVLBEE2JMNCEIJPE/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Détaille les cibles des frappes américaines : défense aérienne, postes de contrôle, radars",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-ce-que-l-on-sait-des-nouvelles-frappes-iraniennes-contre-des-bases-americaines_8053394.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Relie les frappes à la destruction d’un hélicoptère américain et à la promesse de Trump",
+          "link": "https://ici.radio-canada.ca/nouvelle/2260271/iran-liban-isarel-conflit-trump-etats-unis"
+        },
+        {
+          "source": "France 24",
+          "angle": "Reportage sur les frappes israéliennes à Beyrouth et le déplacement des habitants",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-guerre-au-moyen-orient-isra%C3%ABl-frappe-la-banlieue-de-beyrouth"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Affaire Lyhanna : un député LR propose la création d’un fichier des agresseurs sexuels",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "Antoine Vermorel (LR) a déposé une proposition de loi créant un fichier national des agresseurs sexuels, sur le modèle des fiches S. Plusieurs textes sur la protection de l’enfance sont en discussion au Parlement.",
+      "link": "https://www.lefigaro.fr/politique/affaire-lyhanna-antoine-vermorel-lr-propose-la-creation-d-une-fiche-as-pour-agresseur-sexuel-20260610",
+      "publishedAt": "2026-06-10T09:02:32.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Annonce la proposition de loi de Vermorel pour un fichier dédié",
+          "link": "https://www.lefigaro.fr/politique/affaire-lyhanna-antoine-vermorel-lr-propose-la-creation-d-une-fiche-as-pour-agresseur-sexuel-20260610"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Analyse l’effervescence législative multiple sur les violences sexuelles",
+          "link": "https://www.lefigaro.fr/actualite-france/une-effervescence-legislative-jamais-vue-sur-l-enfance-ces-propositions-contre-les-violences-sexistes-et-sexuelles-eparpillees-dans-un-empilement-de-textes-20260610"
+        },
+        {
+          "source": "France Info",
+          "angle": "Explique ce que changerait la loi intégrale pour les victimes",
+          "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/mort-de-lyhanna-que-changerait-la-loi-integrale-pour-lutter-contre-les-violences-sexuelles_8052323.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Benjamin Netanyahu annonce sa candidature aux prochaines élections israéliennes",
+      "source": "France 24",
+      "summary": "Le Premier ministre israélien Benjamin Netanyahu briguera un nouveau mandat, a annoncé son parti mercredi. Sa candidature intervient après que Donald Trump a évoqué son avenir politique.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260610-isra%C3%ABl-benjamin-netanyahu-sera-candidat-aux-prochaines-%C3%A9lections-legislatives",
+      "publishedAt": "2026-06-10T10:12:59.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Le projet de loi de Gérald Darmanin sur la justice criminelle rejeté en commission",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France Info"
+      ],
+      "summary": "La commission des Lois a rejeté le projet de loi du garde des Sceaux par 18 voix contre 16, avec les voix de la gauche et l’abstention du RN. Le texte sera examiné fin juin dans sa version du Sénat.",
+      "link": "https://www.lefigaro.fr/actualite-france/le-projet-de-loi-de-gerald-darmanin-sur-la-justice-criminelle-rejete-en-commission-a-l-assemblee-20260610",
+      "publishedAt": "2026-06-10T09:49:57.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Rapporte le rejet en commission avec les détails du vote",
+          "link": "https://www.lefigaro.fr/actualite-france/le-projet-de-loi-de-gerald-darmanin-sur-la-justice-criminelle-rejete-en-commission-a-l-assemblee-20260610"
+        },
+        {
+          "source": "France Info",
+          "angle": "Mentionne le dispositif de plaider-coupable pour certains crimes",
+          "link": "https://www.franceinfo.fr/societe/justice/le-projet-de-loi-sur-la-justice-criminelle-de-gerald-darmanin-rejete-en-commission-a-l-assemblee-nationale_8053703.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Les dirigeants nordiques et baltes demandent l’adhésion rapide de l’Ukraine à l’UE",
+      "source": "20 Minutes",
+      "summary": "Les dirigeants des pays nordiques et baltes ont plaidé pour une adhésion rapide de Kiev à l’Union européenne lors d’une déclaration commune ce mercredi.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4228200-20260610-direct-guerre-ukraine-dirigeants-nordiques-baltes-plaident-adhesion-rapide-kiev-ue?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-10T04:51:01.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L’Inde confirme son intention de couper l’eau des fleuves à destination du Pakistan",
+      "source": "Liberation",
+      "summary": "Le gouvernement indien a annoncé qu’il allait réduire le débit des fleuves s’écoulant vers le Pakistan, provoquant une menace d’acte de guerre de la part d’Islamabad.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/plus-une-goutte-ne-coulera-au-pakistan-linde-confirme-son-intention-de-couper-leau-de-ses-fleuves-qui-secoulent-chez-son-ennemi-20260610_O25MPZMHJNBFJHW6FGZ7CASTWY/",
+      "publishedAt": "2026-06-10T10:05:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation",
+        "Libération"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Douze personnes tuées par des hommes armés dans un bidonville près de Johannesburg",
+      "source": "20 Minutes",
+      "summary": "Douze personnes ont été abattues par des hommes armés dans un township près de Johannesburg. Les motivations de l’attaque ne sont pas encore connues.",
+      "link": "https://www.20minutes.fr/monde/4228225-20260610-afrique-sud-douze-personnes-abattues-hommes-armes-pres-johannesburg?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-10T08:28:31.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ottawa autorise 18 employés de Palantir à accéder à des documents classifiés",
+      "source": "Radio-Canada",
+      "summary": "Selon des contrats signés avec le géant de l’IA Palantir, le gouvernement canadien a accordé à 18 de ses employés un accès à des documents de défense classifiés.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2260320/palantir-autorisation-federale-documents-defense-classifies",
+      "publishedAt": "2026-06-10T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "En Chine, des enquêteurs anticorruption visés eux-mêmes par des purges",
+      "source": "Le Monde",
+      "summary": "Plusieurs proches de l’ex-tsar de la lutte anticorruption Wang Qishan ont été enquêtés. Xi Jinping intensifie les purges au sein du Parti communiste.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/10/en-chine-des-enqueteurs-anticorruption-pris-a-leur-tour-dans-la-toile-des-purges-sans-fin_6700454_3210.html",
+      "publishedAt": "2026-06-10T10:30:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Libye : Derna renaît de ses cendres trois ans après le cyclone Daniel",
+      "source": "France 24",
+      "summary": "La ville de Derna, dévastée par le cyclone Daniel en 2023, est en pleine reconstruction. Les chantiers avancent malgré le traumatisme des habitants.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-libye-derna-rena%C3%AEt-de-ses-cendres-apr%C3%A8s-le-cyclone-daniel",
+      "publishedAt": "2026-06-10T10:17:49.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "De l’ADN de mammouth découvert dans des excréments d’écureuil vieux de 700 000 ans au Canada",
+      "source": "Liberation",
+      "summary": "Une étude dans Nature révèle que des excréments congelés d’écureuil du Yukon contiennent de l’ADN de mammouth laineux. Cette découverte éclaire la biodiversité du Pléistocène.",
+      "link": "https://www.liberation.fr/environnement/animaux/au-canada-de-ladn-de-mammouth-a-ete-trouve-dans-des-excrements-decureuil-vieux-de-700-000-ans-20260610_GHPI7OLD4VFGNKYDYTPM7ECWME/",
+      "publishedAt": "2026-06-10T10:17:02.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "sources": [
+        "Liberation",
+        "Libération"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 218,
+    "articlesAfterDedup": 218,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.8,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 7,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 3,
+      "asia-pacific": 2,
+      "africa": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

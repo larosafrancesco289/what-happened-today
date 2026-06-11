@@ -1,0 +1,238 @@
+{
+  "date": "2026-06-11",
+  "summary": "La situation autour du détroit d'Ormuz reste confuse ce mercredi. L'Iran a confirmé la fermeture complète du détroit, après l'avoir évoquée dans la nuit. Mais l'armée américaine dément et affirme que les navires commerciaux continuent de transiter. Le doute persiste, et la navigation dans cette zone stratégique est sous haute tension. Aucun incident majeur n'a été signalé pour l'instant, mais les marchés pétroliers observent la situation de près.\n\nSpacex a interdit aux investisseurs chinois et de Hong Kong d'acheter des actions lors de sa prochaine entrée en Bourse. Une décision rare, motivée par des sensibilités géopolitiques. Les investisseurs chinois cherchent déjà des contournements pour ne pas manquer l'introduction du siècle. En mer de Chine méridionale, deux navires chinois ont pénétré dans les eaux autour de l'île de Taiping, contrôlée par Taïwan. Les garde-côtes taïwanais ont signalé l'intrusion.\n\nÀ Belfast, des émeutes anti-immigration ont éclaté après une attaque au couteau imputée à un réfugié soudanais. Des épiceries ont été saccagées et des véhicules incendiés. En Colombie, le Sénat a approuvé une loi interdisant les mutilations génitales féminines, après deux ans de discussions. La loi vise les communautés autochtones où cette pratique persiste.\n\nEn RDC, les médecins du secteur public sont en grève illimitée à partir de ce 11 juin. Ils réclament de meilleurs salaires et conditions de travail. La grève survient en pleine épidémie d'Ebola dans l'est du pays. Au Québec, un fonctionnaire a été congédié après avoir dénoncé les risques financiers de la filière batterie. La ministre de l'Économie et l'UPAC sont accusées de chasse aux sources. En parallèle, une étude estime que le projet de TGV pourrait générer jusqu'à 3,6 milliards de dollars en retombées touristiques.",
+  "headlines": [
+    {
+      "title": "L'Iran confirme la fermeture totale du détroit d'Ormuz, les États-Unis démentent",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "L'Iran a confirmé la fermeture complète du détroit d'Ormuz mercredi matin, après avoir initialement évoqué cette mesure dans la nuit. L'armée américaine affirme que les navires commerciaux continuent de transiter, créant une situation incertaine.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/11/en-direct-guerre-au-moyen-orient-apres-les-attaques-americaines-de-la-nuit-l-iran-considere-que-le-cessez-le-feu-est-pratiquement-denue-de-sens_6697888_3210.html",
+      "publishedAt": "2026-06-11T08:15:50.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A rapporté la confirmation par Téhéran, puis le démenti américain, soulignant le flou persistant sur la situation.",
+          "link": "https://www.lemonde.fr/international/live/2026/06/11/en-direct-guerre-au-moyen-orient-apres-les-attaques-americaines-de-la-nuit-l-iran-considere-que-le-cessez-le-feu-est-pratiquement-denue-de-sens_6697888_3210.html"
+        }
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "SpaceX exclut les investisseurs chinois de son introduction en Bourse majeure",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "SpaceX a interdit aux investisseurs chinois et de Hong Kong d'acheter des actions lors de sa prochaine entrée en Bourse, une décision rare motivée par des sensibilités géopolitiques. Les investisseurs chinois cherchent des contournements.",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260611-spacex-pourquoi-investisseurs-chinois-sont-exclus-introduction-bourse-si%C3%A8cle",
+      "publishedAt": "2026-06-11T10:07:59.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "A détaillé les raisons géopolitiques de l'exclusion et les risques pris par les investisseurs chinois pour y accéder.",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260611-spacex-pourquoi-investisseurs-chinois-sont-exclus-introduction-bourse-si%C3%A8cle"
+        }
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Deux navires chinois pénètrent dans les eaux taïwanaises près de l'île de Taiping",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Les garde-côtes taïwanais ont signalé l'intrusion de deux navires chinois dans les eaux entourant l'île de Taiping, dans l'archipel des Spratleys, en mer de Chine méridionale. Taïwan contrôle cette île.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260611-mer-de-chine-m%C3%A9ridionale-ta%C3%AFwan-rapporte-intrusion-navires-chinois-une-%C3%AEle-disput%C3%A9e-spratleys",
+      "publishedAt": "2026-06-11T09:57:40.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "A rapporté l'incident en citant le communiqué des garde-côtes taïwanais et le nom de l'île.",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260611-mer-de-chine-m%C3%A9ridionale-ta%C3%AFwan-rapporte-intrusion-navires-chinois-une-%C3%AEle-disput%C3%A9e-spratleys"
+        }
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le Congrès colombien vote l'interdiction des mutilations génitales féminines",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Le Sénat colombien a approuvé mercredi une loi interdisant les mutilations génitales féminines, après deux ans de discussions. La loi vise les communautés autochtones où cette pratique persiste.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260611-en-colombie-le-congr%C3%A8s-vote-l-interdiction-des-mutilations-g%C3%A9nitales-f%C3%A9minines",
+      "publishedAt": "2026-06-11T10:00:24.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A mis en avant le vote final après deux ans de débats et la cible autochtone de la pratique.",
+          "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260611-en-colombie-le-congr%C3%A8s-vote-l-interdiction-des-mutilations-g%C3%A9nitales-f%C3%A9minines"
+        }
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Des émeutes anti-immigration embrasent Belfast après une attaque au couteau",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Des manifestations anti-immigration ont dégénéré à Belfast, en Irlande du Nord, avec des épiceries saccagées et des véhicules incendiés. Elles font suite à une attaque au couteau imputée à un réfugié soudanais.",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4228452-images-irlande-nord-epicerie-saccagee-vehicules-incendies-emeutes-anti-immigration-embrasent-belfast?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-11T09:06:56.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "A illustré les émeutes par des images et lié le déclencheur à l'attaque au couteau attribuée à un réfugié.",
+          "link": "https://www.20minutes.fr/diaporama/diaporama-4228452-images-irlande-nord-epicerie-saccagee-vehicules-incendies-emeutes-anti-immigration-embrasent-belfast?at_medium=display&at_campaign=149"
+        }
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les médecins congolais en grève illimitée en pleine épidémie d'Ebola",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Le Syndicat libre des médecins en RDC a déclenché une grève illimitée ce 11 juin, réclamant de meilleurs salaires et conditions de travail. La grève survient alors qu'une épidémie d'Ebola sévit dans l'est du pays.",
+      "link": "https://www.rfi.fr/fr/afrique/20260611-rdc-le-syndicat-libre-des-m%C3%A9decins-appelle-%C3%A0-la-gr%C3%A8ve-dans-le-secteur-public-en-pleine-%C3%A9pid%C3%A9mie-d-ebola",
+      "publishedAt": "2026-06-11T09:13:28.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Le Syndicat libre des médecins dénonce depuis plusieurs mois l'absence de réponse du gouvernement à ses revendications salariales et de moyens.",
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A souligné la grève illimitée des médecins en pleine épidémie d'Ebola et les revendications salariales.",
+          "link": "https://www.rfi.fr/fr/afrique/20260611-rdc-le-syndicat-libre-des-m%C3%A9decins-appelle-%C3%A0-la-gr%C3%A8ve-dans-le-secteur-public-en-pleine-%C3%A9pid%C3%A9mie-d-ebola"
+        }
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Théo Francken annonce des investissements pour l'aérodrome militaire de Cerfontaine",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "summary": "Le ministre belge de la Défense Théo Francken a confirmé des investissements pour l'aérodrome de Cerfontaine. La future unité permettra à du matériel militaire lourd de franchir des obstacles naturels.",
+      "link": "https://www.rtbf.be/article/defense-theo-francken-confirme-des-investissements-pour-l-aerodrome-de-cerfontaine-11738719",
+      "publishedAt": "2026-06-11T07:46:04.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "A mis en avant la confirmation des investissements par Théo Francken et la mission de la future unité.",
+          "link": "https://www.rtbf.be/article/defense-theo-francken-confirme-des-investissements-pour-l-aerodrome-de-cerfontaine-11738719"
+        }
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Un fonctionnaire québécois congédié après avoir dénoncé les risques de la filière batterie",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "summary": "Christine Fréchette, ministre de l'Économie, et l'UPAC sont accusés de \"chasse aux sources\" après le congédiement d'un fonctionnaire qui avait alerté sur les risques financiers de la filière batterie au Québec.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2258973/fonctionnaire-quebec-upac-source-journaliste-batterie",
+      "publishedAt": "2026-06-11T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "A détaillé le congédiement du fonctionnaire lanceur d'alerte et les accusations visant la ministre et l'UPAC.",
+          "link": "https://ici.radio-canada.ca/nouvelle/2258973/fonctionnaire-quebec-upac-source-journaliste-batterie"
+        }
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Le TGV pourrait générer jusqu'à 3,6 milliards $ pour le tourisme québécois",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "summary": "Selon une étude, le projet de train à grande variation au Québec pourrait rapporter jusqu'à 3,6 milliards de dollars en retombées touristiques. Ce montant dépend du niveau de coordination des politiques publiques.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2260676/tgv-retombees-economiques-depenses-touristiques-alto",
+      "publishedAt": "2026-06-11T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "A mis en avant le potentiel de 3,6 milliards $ de retombées touristiques, conditionné à la coordination des politiques.",
+          "link": "https://ici.radio-canada.ca/nouvelle/2260676/tgv-retombees-economiques-depenses-touristiques-alto"
+        }
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 207,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 9,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.3,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 2,
+      "society": 2,
+      "science": 1,
+      "politics": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "global": 1,
+      "asia-pacific": 1,
+      "americas": 3,
+      "europe": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 1,
+      "also": 7,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

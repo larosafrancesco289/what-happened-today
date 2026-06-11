@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-11",
+  "summary": "The U.S. and Iran exchanged air attacks for a second day today, deepening the crisis that began when a U.S. helicopter was downed near the Strait of Hormuz. Tehran said the latest American strikes have made the cease-fire 'meaningless,' while President Trump vowed more attacks unless Iran agrees to peace. The fighting has raised fears of a return to all-out war.India said three of its nationals died in a U.S. strike on a tanker enforcing the blockade near Oman — the first known civilian casualties from the blockade. Iran now claims the Strait of Hormuz is 'fully closed,' and oil prices rose again on that news. Malaysia, meanwhile, is exploring Russian crude supplies to replace lost Iranian oil, straining its 'friends with all' foreign policy as Washington pushes to end waivers on Russian oil sanctions.\n\nTwo other conflicts are moving in parallel. Near Europe's largest nuclear plant in Russian-occupied Ukraine, an attack cut power in the area. Separately, a Ukrainian drone strike sparked a fire at a refinery in southern Russia. In the South China Sea, Taiwan reported that Chinese vessels intruded near Itu Aba island for 15 minutes before being expelled by the Taiwanese coast guard. This came a day after Taiwan test-fired U.S.-supplied HIMARS launchers toward China as part of invasion-defense drills.\n\nThe Democratic Republic of Congo's parliament passed a referendum bill this week that could lead to constitutional changes before the 2028 elections. The opposition calls it a 'constitutional coup.' Meanwhile, the UK, Australia, and Canada announced a $4 million fund to support Palestinians, target Israeli settlers, and advance a Gaza peace plan. And in Washington, President Trump's pick for intelligence chief, Bill Pulte, has scrambled talks to renew the FISA 702 surveillance tool — lawmakers in both parties cite his lack of national security experience.\n\nFinally, a sign of the AI-driven chip crunch: Chinese memory maker Biwin signed a $1.86 billion locked-volume deal to secure flash memory chips — a sum larger than its annual revenue. The deal runs from 2026 to 2028, underscoring how AI server demand is tightening global supply.",
+  "headlines": [
+    {
+      "title": "U.S. and Iran trade air strikes for second day, cease-fire 'meaningless'",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "France 24"
+      ],
+      "summary": "The U.S. and Iran exchanged air attacks for a second day after a downed U.S. helicopter near the Strait of Hormuz triggered escalation. Tehran says U.S. strikes make the cease-fire 'meaningless'; Trump vows more strikes unless Iran agrees to peace.",
+      "link": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
+      "publishedAt": "2026-06-11T10:11:29.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Focused on diplomatic breakdown and risk of all-out war",
+          "link": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel"
+        },
+        {
+          "source": "France 24",
+          "angle": "Emphasized Trump's ultimatum and daily attack sequence",
+          "link": "https://www.france24.com/en/video/20260611-us-and-iran-exchange-fire-for-a-second-day-undermining-shaky-ceasefire"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "India says U.S. strike on tanker off Oman kills three Indian seafarers",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "The Hindu"
+      ],
+      "summary": "India confirmed three Indian nationals died in a U.S. strike on a tanker enforcing the Iran blockade near Oman. The deaths are the first known casualties from U.S. blockade actions; Iran claims the Strait of Hormuz is 'fully closed.'",
+      "link": "https://www.wsj.com/world/india-says-u-s-strike-on-tanker-in-iran-blockade-killed-three-nationals-1c323b12",
+      "publishedAt": "2026-06-11T10:50:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Reported deaths as first known from blockade enforcement",
+          "link": "https://www.wsj.com/world/india-says-u-s-strike-on-tanker-in-iran-blockade-killed-three-nationals-1c323b12"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Covered Indian perspective and Strait of Hormuz closure claim",
+          "link": "https://www.thehindu.com/news/international/west-asia-conflict-israel-us-iran-war-strait-of-hormuz-mojtaba-khamenei-donald-trump-benjamin-netanyahu-june-11-2026/article71087443.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Attack near Zaporizhzhia nuclear plant cuts power in Russian-occupied Ukraine",
+      "source": "Deutsche Welle",
+      "summary": "An attack near Europe's largest nuclear plant in Russian-occupied Ukraine caused a power outage in the area. Separately, a Ukrainian drone strike sparked a fire at a refinery in southern Russia.",
+      "link": "https://www.dw.com/en/ukraine-zaporizhzhia-nuclear-plant-s-power-cut-off/live-77498904?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-11T10:11:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "DRC lawmakers pass referendum bill, opposition warns of 'constitutional coup'",
+      "source": "Deutsche Welle",
+      "summary": "Congolese lawmakers passed a referendum bill this week that could lead to constitutional reform ahead of the 2028 elections. The opposition says the move amounts to a 'constitutional coup' and threatens democratic stability.",
+      "link": "https://www.dw.com/en/drc-referendum-bill-intensifies-constitutional-standoff/a-77499438?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-11T09:26:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Taiwan test-fires U.S.-supplied HIMARS missile launcher toward China",
+      "source": "Wall Street Journal World",
+      "summary": "Taiwan staged the first use of U.S.-supplied HIMARS on the Taiwan Strait as part of invasion-defense drills. The test-fire sends a signal of deterrence amid rising cross-strait tensions.",
+      "link": "https://www.wsj.com/world/china/taiwan-test-fires-u-s-supplied-missile-launcher-toward-china-c23b4f44",
+      "publishedAt": "2026-06-10T23:03:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "UK, Australia, Canada launch $4 million peace fund for Israel-Palestine conflict",
+      "source": "Al Jazeera English",
+      "summary": "The UK, Australia, and Canada announced a $4 million fund to provide humanitarian support to Palestinians, crack down on Israeli settlers, and support a Gaza peace plan.",
+      "link": "https://www.aljazeera.com/news/2026/6/11/uk-australia-canada-launch-4mn-peace-fund-for-israel-palestine-conflict?traffic_source=rss",
+      "publishedAt": "2026-06-11T08:59:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump's intel pick Bill Pulte may imperil renewal of key U.S. spy tool",
+      "source": "NPR News",
+      "summary": "President Trump's nominee for director of national intelligence, Bill Pulte, has scrambled talks to renew FISA 702. Lawmakers from both parties cite his lack of national security experience and role as a Trump loyalist.",
+      "link": "https://www.npr.org/2026/06/11/nx-s1-5851895/bill-pulti-director-of-national-intelligence-fisa-702",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Taiwan says Chinese vessels entered disputed South China Sea waters near Itu Aba",
+      "source": "France 24",
+      "summary": "Taiwan reported that Chinese vessels 'openly intruded' on disputed waters around Itu Aba island in the South China Sea for 15 minutes before being expelled by the Taiwanese coast guard.",
+      "link": "https://www.france24.com/en/asia-pacific/20260611-taiwan-says-chinese-vessels-entered-disputed-waters-south-china-sea",
+      "publishedAt": "2026-06-11T09:39:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Hegseth warns Cuba against acquiring weapons during visit to Guantánamo Bay",
+      "source": "The Guardian",
+      "summary": "U.S. Defense Secretary Pete Hegseth warned Cuba not to acquire weapons that could threaten the U.S. during a visit to Guantánamo Bay. Washington has increased sanctions and an oil blockade against Cuba.",
+      "link": "https://www.theguardian.com/us-news/2026/jun/10/hegseth-warns-cuba-weapons-guantanamo-bay",
+      "publishedAt": "2026-06-10T16:38:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Chinese memory chip maker Biwin signs $1.86 billion deal to beat AI-driven crunch",
+      "source": "South China Morning Post",
+      "summary": "Chinese memory module maker Biwin signed a two-year, $1.86 billion locked-volume agreement to secure flash memory chips. The deal exceeds its annual revenue as AI server demand squeezes global chip supply.",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3356752/beat-chip-crunch-chinese-firm-inks-memory-deal-bigger-its-sales?utm_source=rss_feed",
+      "publishedAt": "2026-06-11T10:00:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Malaysia's search for Russian oil strains Anwar's 'friends with all' policy",
+      "source": "South China Morning Post",
+      "summary": "Malaysia's potential tapping of Russian oil despite Western sanctions is complicating PM Anwar Ibrahim's foreign policy. Oil prices rose after Iran declared the Strait of Hormuz closed.",
+      "link": "https://www.scmp.com/week-asia/economics/article/3356775/malaysias-hunt-russian-oil-tests-anwars-friends-all-policy?utm_source=rss_feed",
+      "publishedAt": "2026-06-11T10:31:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 430,
+    "articlesAfterDedup": 427,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 18.3,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 5,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 1,
+      "africa": 1,
+      "asia-pacific": 4,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 8
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

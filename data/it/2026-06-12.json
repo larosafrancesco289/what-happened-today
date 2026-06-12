@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-12",
+  "summary": "Donald Trump ha annunciato la fine della guerra con l’Iran, affermando che Teheran ha accettato di non dotarsi mai di armi nucleari. Il presidente Usa ha parlato durante un comizio in Georgia, dicendo che la bozza dell’intesa contiene 14 punti, tra cui la riapertura dello Stretto di Hormuz e un cessate il fuoco in Libano. La Casa Bianca prepara una cerimonia a Ginevra, ma l’Iran non ha ancora confermato ufficialmente l’accordo. Israele si è detto colto di sorpresa dalla notizia.\n\nIn Corea del Sud, l’ex presidente Yoon Suk-yeol ha ricevuto una condanna aggiuntiva a 30 anni di carcere per aver inviato droni su Pyongyang nel 2024, allo scopo di provocare una reazione nordcoreana e giustificare la legge marziale. Yoon era già stato condannato all’ergastolo per insurrezione. Intanto a Wall Street debutta oggi SpaceX, con una valutazione attesa tra i 2.300 e i 2.400 miliardi di dollari, secondo i derivati scambiati sui mercati paralleli — il che la renderebbe una delle società quotate più preziose al mondo.\n\nSul fronte europeo, entra in vigore oggi il nuovo Patto Ue su migrazione e asilo. Il commissario Magnus Brunner ha parlato di riforma incentrata su dignità umana e diritto internazionale, dicendo di aver discusso di migrazione anche con papa Leo. La Nato ha intanto annunciato una riduzione graduale delle sue truppe in Kosovo, grazie al miglioramento della sicurezza nel paese: l’Italia contribuisce con il contingente più numeroso dell’Alleanza.\n\nNegli Usa, la Casa Bianca è in crisi dopo la pubblicazione del dossier Epstein da parte del New York Times. Fonti riferiscono di riunioni d’emergenza nella Situation Room, e tra le idee discusse c’è un’intervista televisiva a Ghislaine Maxwell per smentire un coinvolgimento di Trump. In Cina, è stato arrestato con l’accusa di spionaggio U Min Zin, cittadino americano a capo di un think tank sul Myanmar. E arriva una notizia di frontiera per la medicina: una prima terapia genica per ringiovanire le cellule è stata testata su un paziente con glaucoma negli Stati Uniti.",
+  "headlines": [
+    {
+      "title": "Trump annuncia l’accordo con l’Iran: Teheran rinuncia alle armi nucleari",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News",
+        "la Repubblica"
+      ],
+      "summary": "Donald Trump ha annunciato la fine della guerra con l’Iran, affermando che Teheran ha accettato di non dotarsi di armi nucleari. La bozza dell’intesa conterrebbe 14 punti, tra cui la riapertura di Hormuz e un cessate il fuoco in Libano. Israele si dice colto di sorpresa.",
+      "link": "https://www.agi.it/estero/news/2026-06-12/iran-trump-notizie-12-giugno-37512890/",
+      "publishedAt": "2026-06-12T10:37:29.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha riportato le dichiarazioni di Trump e il contenuto dell’accordo",
+          "link": "https://www.agi.it/estero/news/2026-06-12/iran-trump-notizie-12-giugno-37512890/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Ha enfatizzato i dettagli della bozza e le reazioni dei Pasdaran",
+          "link": "https://www.rainews.it/maratona/2026/06/guerre-medio-oriente-trump-annuncia-intesa-tutti-accordo-presto-firma-teheran-nega-non-abbiamo-ancora-deciso-b6eda3f1-ee33-4de3-bcf9-c71aca7c0c28.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Ha evidenziato lo stupore di Netanyahu e la sua presa di distanza",
+          "link": "https://www.repubblica.it/esteri/2026/06/12/news/netanyhau_sorpresa_accordo_trump_con_iran_non_siamo_parte_in_causa-425405214/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Ex presidente sudcoreano Yoon condannato a 30 anni per inviare droni in Corea del Nord",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Yoon Suk-yeol, già condannato all’ergastolo per insurrezione, ha ricevuto un’ulteriore condanna a 30 anni per aver inviato droni su Pyongyang nel 2024 per giustificare la legge marziale. La sentenza è stata emessa il 12 giugno 2026.",
+      "link": "https://www.repubblica.it/esteri/2026/06/12/news/corea_del_sud_ex_presidente_yoon_droni_corea_nord_pretesto_legge_marziale_condannato_30_anni-425405723/?rss",
+      "publishedAt": "2026-06-12T08:18:13.000Z",
+      "tier": "top",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "SpaceX debutta al Nasdaq con una valutazione prevista di oltre 2.400 miliardi di dollari",
+      "source": "AGI",
+      "singleSource": true,
+      "summary": "SpaceX si prepara al debutto a Wall Street con una capitalizzazione stimata di circa 1.770 miliardi di dollari al prezzo di collocamento, mentre i derivati la valutano oltre 2.400 miliardi. L’IPO è attesa per oggi, 12 giugno 2026.",
+      "link": "https://www.agi.it/economia/news/2026-06-12/spacex-musk-storico-lancio-wall-street-37516400/",
+      "publishedAt": "2026-06-12T10:06:50.000Z",
+      "tier": "top",
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "NATO riduce gradualmente le truppe in Kosovo per il miglioramento della sicurezza",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "La NATO ha annunciato una riduzione graduale delle sue truppe in Kosovo, a seguito del miglioramento delle condizioni di sicurezza nel Paese. L’Italia contribuisce con il più grande contingente dell’Alleanza. La decisione è stata comunicata il 12 giugno 2026.",
+      "link": "http://it.euronews.com/my-europe/2026/06/12/kosovo-nato-ridurra-le-truppe-per-il-miglioramento-della-sicurezza-nel-paese",
+      "publishedAt": "2026-06-12T10:25:13.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ue: nuovo Patto su migrazione e asilo entra in vigore il 12 giugno, Brunner annuncia riforma",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Il commissario Ue Magnus Brunner ha dichiarato che il nuovo Patto su migrazione e asilo, incentrato su dignità umana e diritto internazionale, entra in vigore oggi. Brunner ha detto di aver discusso di migrazione con papa Leo.",
+      "link": "http://it.euronews.com/my-europe/2026/06/12/brunner-dignita-umana-e-diritto-internazionale-al-centro-della-riforma-ue-sui-migranti",
+      "publishedAt": "2026-06-12T09:56:06.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Casa Bianca in crisi dopo la pubblicazione dei file Epstein: riunioni nella Situation Room",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "La Casa Bianca ha tenuto riunioni d’emergenza nella Situation Room dopo che il New York Times ha rivelato i retroscena della pubblicazione del dossier Epstein. Si valuta anche un’intervista a Ghislaine Maxwell per smentire il coinvolgimento di Trump. La notizia è del 12 giugno 2026.",
+      "link": "https://www.repubblica.it/esteri/2026/06/12/news/casa_bianca_crisi_pubblicazione_file_epstein_riunioni_situation_room-425406101/?rss",
+      "publishedAt": "2026-06-12T10:19:28.000Z",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Cina arresta cittadino americano a capo di think tank, accusato di spionaggio",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "U Min Zin, cittadino americano e direttore di un think tank sul Myanmar, è stato arrestato il 3 giugno all’aeroporto di Kunming, in Cina, con l’accusa di spionaggio. Il Ministero della Sicurezza di Stato ha messo in guardia da spie che usano animali. La notizia è del 12 giugno 2026.",
+      "link": "https://www.repubblica.it/esteri/2026/06/12/news/arrestato_cittadino_americano_cina_accusato_spionaggio_u_min_zin-425406066/?rss",
+      "publishedAt": "2026-06-12T10:07:55.000Z",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Prima terapia genica per ringiovanire le cellule testata su paziente con glaucoma negli Usa",
+      "source": "ANSA",
+      "singleSource": true,
+      "summary": "Un’azienda privata statunitense ha avviato la prima sperimentazione di terapia genica per ringiovanire le cellule su una persona affetta da glaucoma. Il trial, annunciato il 12 giugno 2026, mira a rigenerare i tessuti danneggiati.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/06/11/prima-sperimentazione-della-terapia-genica-per-ringiovanire-le-cellule-_b9555e42-f479-4eaf-a4c7-adf6694f2a3c.html",
+      "publishedAt": "2026-06-12T06:47:47.000Z",
+      "tier": "also",
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Svizzera, domenica al voto la proposta della destra per limitare la popolazione a 10 milioni",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Il partito sovranista Udc ha proposto un'iniziativa per fermare l’immigrazione al raggiungimento di 9,5 milioni di residenti, con un tetto massimo di 10 milioni. Il Governo teme che violi gli accordi bilaterali con l’Ue. La votazione è prevista per domenica 14 giugno 2026.",
+      "link": "https://www.repubblica.it/esteri/2026/06/12/news/svizzera_limitare_popolazione_10_milioni_persone_proposta_destra_domenica_voto-425405892/?rss",
+      "publishedAt": "2026-06-12T09:00:35.000Z",
+      "tier": "developing",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 190,
+    "articlesAfterDedup": 190,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.9,
+    "categoryCounts": {
+      "politics": 6,
+      "economy": 1,
+      "conflict": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "asia-pacific": 2,
+      "global": 1,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "date": "2026-06-12",
+  "summary": "President Trump said today he has halted new strikes on Iran and that a peace agreement could be signed this weekend, but Tehran pushed back quickly. A spokesman for Iran’s foreign ministry said, “Nothing has been finalized.” Meanwhile, U.S. forces shot down two Iranian drones, and Iran’s semi-official Mehr news agency published a draft deal that would release $24 billion in frozen Iranian assets over 60 days. Iran insists it will not cede control of the Strait of Hormuz. The upshot: a fragile pause, not a ceasefire — and both sides are bargaining in public.\n\nIn Latin America, Keiko Fujimori won Peru’s presidency, adding to a string of right-wing electoral victories across the region. And in a sign of shifting U.S. priorities, the Trump administration plans to pull about one-third of U.S. fighter jets currently assigned to NATO in Europe — a concrete reduction in military commitment to the alliance. India summoned the U.S. deputy chief of mission for a second time after another merchant vessel carrying 20 Indian nationals came under attack near Oman, underscoring how quickly the Iran-related tension is drawing in other countries.\n\nOn the economic front, Japan’s Kioxia surged 7.6% to become the country’s most valuable company at $274 billion, driven by AI chip demand just 18 months after its market debut. Hong Kong gazetted a bill to waive salary tax on fund managers’ performance-linked bonuses, aiming to attract more family offices and bolster its status as a wealth hub. And the UK’s defence secretary resigned, accusing the prime minister and Treasury of insufficient military funding as European governments scramble to overhaul their forces amid the Russian threat.\n\nFinally, in Afghanistan, Taliban forces arrested 30 women in Herat for hijab violations and opened fire on a dress-code protest, killing two. The UN says the crackdown on women’s rights is growing. In eastern DR Congo, an Ebola outbreak that began May 15 is spreading, and the WHO says misinformation is hampering containment efforts. Authorities have launched an online campaign to fight the mistrust.",
+  "headlines": [
+    {
+      "title": "Trump claims Iran deal imminent as Tehran says nothing finalized",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "France 24",
+        "The Hindu"
+      ],
+      "summary": "President Trump says he has halted new strikes and an Iran deal could be signed this weekend. Iran states no final decision has been made. U.S. forces shot down two Iranian drones.",
+      "link": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel",
+      "publishedAt": "2026-06-12T10:25:09.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Led with Trump's claim of halting attacks and deal prospects",
+          "link": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel"
+        },
+        {
+          "source": "France 24",
+          "angle": "Highlighted Trump's 'great settlement' claim and Tehran's denial",
+          "link": "https://www.france24.com/en/video/20260612-trump-touts-imminent-iran-deal-as-tehran-says-no-decision-made"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Emphasized Iran's refusal to cede Hormuz control and drone shootdowns",
+          "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-bandar-abbas-strikes-strait-of-hormuz-mojtaba-khamenei-donald-trump-tehran-deal-june-12-2026/article71092034.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran publishes draft deal with US for $24bn asset release",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "summary": "Mehr news agency publishes a draft U.S. deal that would release $24 billion in frozen Iranian assets over 60 days. Iran says it will not cede control of the Strait of Hormuz.",
+      "link": "https://www.thehindu.com/news/international/iran-us-deal-draft-deal-mehr-news-agency-nuclear-deal/article71093076.ece",
+      "publishedAt": "2026-06-12T10:34:54.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Detailed draft deal terms and Iran's stance on Hormuz",
+          "link": "https://www.thehindu.com/news/international/iran-us-deal-draft-deal-mehr-news-agency-nuclear-deal/article71093076.ece"
+        }
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Taliban arrest 30 women for hijab violations as protest turns deadly",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "ABC Australia"
+      ],
+      "summary": "Taliban arrest 30 women for violating hijab rules in Herat. Two protesters killed when Taliban opens fire on a dress code protest. UN reports growing crackdown on women's rights.",
+      "link": "https://www.dw.com/en/taliban-arrest-30-women-for-violating-hijab-rules-un-says/a-77517764?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-12T09:44:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Focused on UN report of arrests and broader repression of women",
+          "link": "https://www.dw.com/en/taliban-arrest-30-women-for-violating-hijab-rules-un-says/a-77517764?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Led with two deaths during protest against dress code enforcement",
+          "link": "https://www.abc.net.au/news/2026-06-12/afghanistan-women-taliban-two-killed-protest-against-dress-code/106792688"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Keiko Fujimori wins Peru presidency in right-wing wave",
+      "source": "Wall Street Journal World",
+      "summary": "Keiko Fujimori, daughter of former authoritarian leader Alberto Fujimori, is elected president of Peru. Her win adds to a string of right-wing electoral victories across Latin America.",
+      "link": "https://www.wsj.com/world/americas/the-daughter-of-a-dictator-wins-power-in-peru-d384158d",
+      "publishedAt": "2026-06-12T02:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "US plans to pull third of NATO fighter jets from Europe",
+      "source": "New York Times World",
+      "summary": "The Trump administration plans to withdraw about one-third of U.S. fighter jets currently provided to NATO in Europe. The plan indicates a significant reduction in U.S. military commitment to the alliance.",
+      "link": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
+      "publishedAt": "2026-06-12T04:01:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "India summons US envoy again after attack on ship with 20 Indian crew",
+      "source": "The Hindu",
+      "summary": "India summons U.S. Deputy Chief of Mission Jason Meeks for the second time after another merchant vessel carrying 20 Indian nationals came under attack near Oman.",
+      "link": "https://www.thehindu.com/news/national/india-summons-us-deputy-chief-of-mission-jason-meeks-after-another-attack-on-merchant-ship-with-indian-crew/article71093111.ece",
+      "publishedAt": "2026-06-12T10:32:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Kioxia becomes Japan's most valuable firm at $274bn amid AI boom",
+      "source": "Japan Times",
+      "summary": "Kioxia shares surge 7.6%, lifting market value above ¥44 trillion ($274 billion) 18 months after debut. The memory chipmaker becomes Japan's most valuable company as AI demand drives growth.",
+      "link": "https://www.japantimes.co.jp/business/2026/06/12/companies/kioxia-ai-valuable-firm/",
+      "publishedAt": "2026-06-12T07:43:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Hong Kong gazettes tax break for fund manager bonuses to boost wealth hub",
+      "source": "South China Morning Post",
+      "summary": "Hong Kong government gazettes a bill to waive salary tax on fund managers' performance-linked bonuses, aiming to attract more managers and family offices to bolster its status as a wealth management hub.",
+      "link": "https://www.scmp.com/business/article/3356920/hong-kong-gazettes-tax-break-fund-managers-bonuses-bolster-role-wealth-hub?utm_source=rss_feed",
+      "publishedAt": "2026-06-12T09:41:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel's buffer zone in Lebanon may target gas reserves, analysis warns",
+      "source": "Al Jazeera English",
+      "summary": "Analysis finds Israel's buffer zone inside Lebanon extends into maritime territory, raising concerns it may become a long-term grab for offshore gas reserves rather than a temporary security measure.",
+      "link": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss",
+      "publishedAt": "2026-06-12T09:35:08.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Australian mines minister backs BHP workers' right to strike at port",
+      "source": "ABC Australia",
+      "summary": "Federal Resources Minister Madeleine King supports BHP workers threatening strike at Australia's biggest port, saying they deserve their pay. Industry body says workers are 'letting down everyone'.",
+      "link": "https://www.abc.net.au/news/2026-06-12/senior-labor-figures-back-bhp-strike-in-port-hedland/106790854",
+      "publishedAt": "2026-06-12T09:01:08.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Ebola outbreak spreads in DR Congo as misinformation hampers response",
+      "source": "AllAfrica",
+      "summary": "Authorities in DR Congo launch online campaign to combat mistrust during Ebola outbreak in Ituri province that began May 15. WHO says misinformation is hampering containment of the hemorrhagic fever.",
+      "link": "https://allafrica.com/stories/202606120223.html",
+      "publishedAt": "2026-06-12T09:39:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nigeria's Tinubu defends economic reforms on Democracy Day",
+      "source": "AllAfrica",
+      "summary": "President Bola Tinubu says his economic reforms are necessary to rescue Nigeria from fiscal strain and lay the foundation for long-term prosperity, speaking on Democracy Day.",
+      "link": "https://allafrica.com/stories/202606120152.html",
+      "publishedAt": "2026-06-12T07:31:19.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "UK defense secretary quits over lack of military spending",
+      "source": "Wall Street Journal World",
+      "summary": "UK Defence Secretary John Healey resigns, accusing Prime Minister Starmer and Treasury of insufficient military funding. European governments face pressure to overhaul militaries amid Russian threat.",
+      "link": "https://www.wsj.com/world/europe/u-k-defense-secretary-quits-over-lack-of-military-spending-0c64ce1e",
+      "publishedAt": "2026-06-11T15:11:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Healey's resignation deepens pressure on Starmer ahead of a by-election and amid anti-immigration riots. European defense funding debates continue.",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 429,
+    "articlesAfterDedup": 427,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 19.5,
+    "categoryCounts": {
+      "politics": 5,
+      "society": 2,
+      "conflict": 3,
+      "economy": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 1,
+      "europe": 2,
+      "asia-pacific": 4,
+      "africa": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 8,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

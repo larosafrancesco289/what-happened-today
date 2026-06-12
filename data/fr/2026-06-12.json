@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-12",
+  "summary": "Le président américain Donald Trump a annoncé ce jeudi un accord avec l'Iran pour rouvrir le détroit d'Ormuz, fermé depuis plusieurs jours. Selon la Maison-Blanche, un protocole d'accord prévoit la réouverture sans péage et un allégement des sanctions sous conditions. L'Iran confirme des négociations en cours. La nouvelle survient après des jours de tensions et de démentis sur la fermeture du détroit, passage clé pour le transport pétrolier mondial.\n\nAu Royaume-Uni, le ministre de la Défense John Healey a démissionné pour protester contre les arbitrages budgétaires du gouvernement. Il a été suivi par le secrétaire d'État aux Forces armées Al Carns et la députée Pamela Nash. C'est un nouveau coup dur pour le Premier ministre Keir Starmer, déjà fragilisé par une série de revers politiques et des contestations au sein de sa majorité.\n\nAux États-Unis, l'administration Trump a annoncé avoir révoqué 600 visas de femmes enceintes à travers le monde, dont 400 en Europe, pour limiter le droit du sol. Le département d'État affirme avoir démantelé des réseaux permettant à des femmes d'accoucher aux États-Unis afin que leurs enfants obtiennent la nationalité américaine. En Alabama, la Cour suprême américaine a bloqué in extremis l'exécution d'un condamné par inhalation d'azote, une méthode controversée.\n\nAu Sénégal, un large collectif de syndicats et d'intellectuels a saisi le Conseil constitutionnel pour contester la légalité de l'élection d'Ousmane Sonko comme président de l'Assemblée nationale. Le bras de fer entre la présidence et l'Assemblée s'envenime. En Belgique, trois suspects ont été placés sous mandat d'arrêt à Bruxelles dans une affaire d'exploitation sexuelle de mineures. Enfin, le Rwanda a présenté un budget de 5,3 milliards de dollars pour 2026-2027, en hausse de 12 %, et les banques comme le Crédit agricole commencent à rationner l'usage de l'IA face aux coûts élevés.",
+  "headlines": [
+    {
+      "title": "Donald Trump annonce un accord avec l'Iran pour rouvrir le détroit d'Ormuz",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "20 Minutes",
+        "Le Figaro"
+      ],
+      "summary": "Le président américain annonce un protocole d'accord prévoyant la réouverture du détroit sans péage et un allégement des sanctions sous conditions. L'Iran confirme des négociations en cours.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/12/en-direct-guerre-au-moyen-orient-donald-trump-annonce-un-nouvel-accord-a-venir-prevoyant-la-reouverture-totale-du-detroit-d-ormuz_6701050_3210.html",
+      "publishedAt": "2026-06-12T07:14:55.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Suivi en direct des annonces de Trump et des réactions iraniennes, avec contexte de tensions",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4228622-20260612-direct-guerre-moyen-orient-trump-retropedale-annonce-encore-tres-bon-accord-iran-reflechit?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Détails de l'accord potentiel et des négociations entre les deux pays, citant Axios",
+          "link": "https://www.lemonde.fr/international/live/2026/06/12/en-direct-guerre-au-moyen-orient-donald-trump-annonce-un-nouvel-accord-a-venir-prevoyant-la-reouverture-totale-du-detroit-d-ormuz_6701050_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Impact sur les marchés boursiers avec la chute du pétrole et l'espoir d'un accord",
+          "link": "https://www.lefigaro.fr/flash-eco/les-bourses-europeennes-accelerent-leurs-gains-20260612"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Le ministre de la Défense britannique John Healey démissionne, suivi de deux autres",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Libération"
+      ],
+      "summary": "John Healey quitte le gouvernement pour protester contre les arbitrages budgétaires, rejoint par le secrétaire d'État Al Carns et la députée Pamela Nash. Keir Starmer sous pression.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-royaume-uni-d%C3%A9missions-en-cascade-au-minist%C3%A8re-de-la-d%C3%A9fense-keir-starmer-sous-pression",
+      "publishedAt": "2026-06-12T10:13:28.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Démissions en cascade au ministère de la Défense, Starmer fragilisé",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-royaume-uni-d%C3%A9missions-en-cascade-au-minist%C3%A8re-de-la-d%C3%A9fense-keir-starmer-sous-pression"
+        },
+        {
+          "source": "Libération",
+          "angle": "Insatisfaction budgétaire, John Healey suivi de deux proches collaborateurs",
+          "link": "https://www.liberation.fr/international/europe/royaume-uni-demissions-en-cascade-au-ministere-de-la-defense-starmer-sous-pression-20260612_7GYUED5ZZNALPMVQABHPBD2TPM/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Les États-Unis révoquent 600 visas de femmes enceintes pour limiter le droit du sol",
+      "source": "RFI",
+      "summary": "L'administration Trump démantèle des réseaux permettant aux femmes d'accoucher aux États-Unis pour la citoyenneté. 600 visas révoqués dont 400 en Europe.",
+      "link": "https://www.rfi.fr/fr/afrique/20260612-les-%C3%A9tats-unis-bloquent-l-entr%C3%A9e-de-femmes-sur-le-point-d-accoucher-pour-b%C3%A9n%C3%A9ficier-du-droit-du-sol",
+      "publishedAt": "2026-06-12T09:42:54.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Un collectif saisit le Conseil constitutionnel sénégalais sur l'élection de Sonko",
+      "source": "RFI",
+      "summary": "Un large collectif de syndicats et d'intellectuels demande au Conseil constitutionnel de se prononcer sur la légalité de l'élection d'Ousmane Sonko comme président de l'Assemblée, dans un contexte de crise politique.",
+      "link": "https://www.rfi.fr/fr/afrique/20260612-s%C3%A9n%C3%A9gal-un-collectif-demande-au-conseil-constitutionnel-de-se-pencher-sur-l-%C3%A9lection-d-ousmane-sonko-%C3%A0-l-assembl%C3%A9e",
+      "publishedAt": "2026-06-12T09:48:48.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Douze interpellations à Bruxelles dans une affaire d'exploitation sexuelle de mineures",
+      "source": "RTBF (Belgian)",
+      "summary": "Trois suspects placés sous mandat d'arrêt après une enquête sur l'exploitation sexuelle de mineures à Bruxelles. Une quatrième personne libérée.",
+      "link": "https://www.rtbf.be/article/douze-interpellations-dans-une-enquete-sur-l-exploitation-sexuelle-de-mineures-a-bruxelles-11739487",
+      "publishedAt": "2026-06-12T10:06:35.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les banques rationnent l'usage de l'IA face aux coûts élevés",
+      "source": "Le Monde",
+      "summary": "La multiplication des agents d'IA bouleverse le modèle économique du secteur bancaire. Le Crédit agricole crée une entreprise pour maîtriser les coûts et s'assurer que les économies dépassent les dépenses.",
+      "link": "https://www.lemonde.fr/economie/article/2026/06/12/les-banques-rationnent-l-usage-de-l-ia-terrifiees-par-les-couts-qu-elle-engendre_6701070_3234.html",
+      "publishedAt": "2026-06-12T08:55:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Rwanda présente un budget de 5,3 milliards de dollars en hausse de 12%",
+      "source": "RFI",
+      "summary": "Le ministre des Finances a dévoilé un budget de 5,3 milliards de dollars pour l'exercice 2026-2027, en augmentation de 12% par rapport à l'année précédente.",
+      "link": "https://www.rfi.fr/fr/afrique/20260612-rwanda-un-budget-de-5-3-milliards-de-dollars-pour-l-ann%C3%A9e-fiscale-2026-2027",
+      "publishedAt": "2026-06-12T10:05:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "economy",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "La Cour suprême américaine bloque une exécution par inhalation d'azote en Alabama",
+      "source": "20 Minutes",
+      "summary": "La plus haute instance judiciaire empêche l'État d'Alabama d'exécuter un condamné pour meurtre par inhalation d'azote, une méthode controversée, suspendue in extremis.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4228647-20260612-etats-unis-cour-supreme-empeche-in-extremis-execution-inhalation-azote?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-12T05:15:31.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 207,
+    "articlesAfterDedup": 204,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 10,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.5,
+    "categoryCounts": {
+      "politics": 4,
+      "society": 2,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2,
+      "americas": 2,
+      "africa": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "date": "2026-06-13",
+  "summary": "Gli Stati Uniti hanno eliminato in Venezuela il leader della gang Tren de Aragua, Niño Guerrero, in un blitz che ha visto la collaborazione del governo di Caracas. Trump ha annunciato l'operazione sui social esultando per il risultato. La notizia segna un raro momento di coordinamento tra Washington e Caracas, e rafforza la linea dura del presidente americano contro le organizzazioni criminali transnazionali.\n\nIn Italia la polizia ha oscurato il sito cFake, una piattaforma che diffondeva deepfake pornografici di personalità pubbliche come la premier Meloni, Schlein e Ferragni. Le immagini e i video erano generati con l'intelligenza artificiale. Il blitz conferma la crescente attenzione delle autorità verso questo tipo di abusi digitali.\n\nArrivano buone notizie dall'economia: il Dipartimento di Giustizia Usa ha approvato l'acquisizione da 110 miliardi di dollari di Warner Bros Discovery da parte di Paramount Skydance. L'accordo è passato senza condizioni, il che significa che Paramount non dovrà vendere asset. Ora manca solo il via libera dell'Europa. Sempre in tema di affari, il ministro Tajani ha annunciato che l'Italia ha ridotto del 60% gli arrivi di migranti irregolari, grazie alle nuove norme europee. Tajani si è detto ottimista anche sull'accordo con l'Iran.\n\nSul fronte internazionale, Israele ha bombardato il sud del Libano colpendo Nabatiyeh e altre 19 località dopo un ordine di evacuazione. L'Onu ha espresso preoccupazione per gli effetti sugli ospedali e la popolazione civile. In Germania il ministro dell'Interno Dobrindt ha chiesto una protezione permanente per il Bundestag, preoccupato per la crescente minaccia di attacchi con droni. Cuba intanto annuncia un pacchetto di riforme economiche per uscire dalla crisi, puntando sul ruolo della diaspora e sulla riforma agricola.",
+  "headlines": [
+    {
+      "title": "Stati Uniti uccidono in Venezuela il leader della gang Tren de Aragua, Trump esulta",
+      "source": "la Repubblica",
+      "summary": "Un blitz americano elimina Niño Guerrero, capo della potente gang venezuelana. Il governo di Caracas ha collaborato all'operazione, annunciata da Trump sui social.",
+      "link": "https://www.repubblica.it/esteri/2026/06/13/news/venezuela_blitz_usa_uccide_nino_guerrero_il_leader_della_gang_tren_de_aragua-425408163/?rss",
+      "publishedAt": "2026-06-13T08:37:52.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Dipartimento di Giustizia Usa approva l'acquisizione da 110 miliardi di Warner Bros da Paramount",
+      "source": "AGI",
+      "summary": "Paramount Skydance ottiene il via libera senza condizioni per l'acquisto di Warner Bros Discovery. Ora attende l'approvazione delle autorità europee per completare l'accordo.",
+      "link": "https://www.agi.it/estero/news/2026-06-13/stati-uniti-paramount-warner-37535437/",
+      "publishedAt": "2026-06-13T08:27:13.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Polizia oscura sito cFake per deepfake sessuali di Meloni, Schlein e Ferragni",
+      "source": "Rai News",
+      "summary": "La piattaforma diffondeva video e immagini pornografici generati con IA. Tra le vittime la premier Meloni, Elly Schlein e Chiara Ferragni. Scattato un blitz delle autorità.",
+      "link": "https://www.rainews.it/articoli/2026/06/deepfake-e-intelligenza-artificiale-la-polizia-oscura-il-sito-cfake-vittime-meloni-e-ferragni-392dde3a-7450-4307-b2f6-29bf67f549b1.html",
+      "publishedAt": "2026-06-13T07:16:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Tajani: l'Italia riduce del 60% gli arrivi di migranti irregolari",
+      "source": "AGI",
+      "summary": "Il ministro degli Esteri annuncia il calo degli sbarchi grazie alle nuove norme europee. Tajani si dice ottimista anche sull'accordo con l'Iran.",
+      "link": "https://www.agi.it/politica/news/2026-06-13/migranti-tajani-sbarchi-37536226/",
+      "publishedAt": "2026-06-13T09:25:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Cuba annuncia riforme economiche: apertura a diaspora e agricoltura",
+      "source": "la Repubblica",
+      "summary": "Il presidente Díaz-Canel presenta un pacchetto di leggi per risollevare l'economia, colpita dalle sanzioni USA. Le misure includono il ruolo della diaspora e la riforma agricola.",
+      "link": "https://www.repubblica.it/esteri/2026/06/13/news/cuba_riforme_economia_diaspora_agricoltura_crisi_trump-425408007/?rss",
+      "publishedAt": "2026-06-13T07:31:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israele bombarda il sud del Libano, l'Onu esprime preoccupazione",
+      "source": "AGI",
+      "summary": "L'Idf lancia raid su Nabatiyeh e altre 19 località dopo ordine di evacuazione. L'Onu teme ripercussioni sugli ospedali e la popolazione civile.",
+      "link": "https://www.agi.it/estero/news/2026-06-13/libano-idf-raid-sud-37534665/",
+      "publishedAt": "2026-06-13T07:53:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ministro tedesco Dobrindt avverte: cresce minaccia di attacchi con droni al Bundestag",
+      "source": "Euronews Italiano",
+      "summary": "Il ministro dell'Interno chiede protezione permanente per gli organi costituzionali. Federazione e Länder potenziano le difese antidrone contro possibili attentati.",
+      "link": "http://it.euronews.com/my-europe/2026/06/13/attacco-con-droni-contro-il-bundestag-dobrindt-avverte-la-minaccia-cresce",
+      "publishedAt": "2026-06-13T08:23:39.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Nato ritira un terzo dei caccia statunitensi dall'Europa",
+      "source": "la Repubblica",
+      "summary": "Prevista la riduzione da 150 a 100 F16 e F15E e da 26 a 15 velivoli da ricognizione. Il ritiro riguarda i mezzi dislocati in diverse basi europee.",
+      "link": "https://www.repubblica.it/esteri/2026/06/13/news/nato_caccia_usa_ritirati_da_europa-425407486/?rss",
+      "publishedAt": "2026-06-12T23:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Nato ridurrà il contingente Kfor in Kosovo, l'Italia frena",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il comandante Nato Grynkewich annuncia la riduzione delle truppe in Kosovo. L'Italia, prima forza del contingente, ritiene la missione indispensabile per la stabilità dei Balcani.",
+      "link": "https://www.ilsole24ore.com/art/la-nato-ridurra-contingente-kfor-kosovo-l-italia-frena-missione-indispensabile-stabilita-balcani-AIVo2IdD",
+      "publishedAt": "2026-06-13T08:32:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Ieri la Nato aveva annunciato una riduzione graduale delle truppe in Kosovo per il miglioramento della sicurezza. Oggi il comandante alleato ha fornito dettagli sulla riduzione, ma l'Italia si oppone.",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 194,
+    "articlesAfterDedup": 194,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 12,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10.6,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 2,
+      "science": 1,
+      "politics": 3
+    },
+    "regionCounts": {
+      "americas": 3,
+      "europe": 5,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

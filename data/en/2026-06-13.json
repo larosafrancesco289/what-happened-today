@@ -1,0 +1,210 @@
+{
+  "date": "2026-06-13",
+  "summary": "U.S. and Iranian officials say a deal to end hostilities is close, with President Trump and Iran's foreign minister both signaling agreement is near. Final details are still being worked out, and Pakistan is mediating. But previous potential deals have collapsed at the last minute, so there's no certainty yet. Meanwhile, fighting continues in Lebanon, and Israeli airstrikes hit villages in southern Lebanon after an evacuation warning.\n\nThe Justice Department cleared a $110 billion merger between Paramount and Warner Brothers Discovery, saying it found no threat to competition. The two companies can now proceed. In other news, the leader of the Tren de Aragua gang, Héctor Rusthenford Guerrero Flores, was killed in a joint U.S.-Venezuela operation. The U.S. had offered a $5 million reward for him. And Elon Musk became the world's first trillionaire, with a net worth of $1.11 trillion, after SpaceX listed on the Nasdaq at a $2.2 trillion valuation.\n\nFive Indian Air Force personnel were killed when an AN-32 transport plane crashed while landing in Jorhat, Assam. A court of inquiry is underway. The U.S. plans to pull about a third of its fighter jets from Europe, according to officials and documents, providing rare detail on the Trump administration's intentions to reduce its NATO commitment. In the Democratic Republic of Congo, an Ebola outbreak in Ituri province is spreading, and the WHO says misinformation is hampering the response.\n\nSwitzerland will hold a referendum on capping its population at 10 million, a measure that would curb migration and likely economic growth. Japan's Prime Minister Takaichi, calling herself the 'Iron Lady,' pledged in the Financial Times to use persistent diplomacy to secure the Strait of Hormuz amid Iran war tensions. And in Peru, Keiko Fujimori won the presidency in a right-wing wave, while the Taliban arrested 30 women for hijab violations as a protest turned deadly.",
+  "headlines": [
+    {
+      "title": "US and Iran say ceasefire deal close but final details remain",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Al Jazeera English",
+        "BBC World",
+        "Wall Street Journal World"
+      ],
+      "summary": "US and Iranian officials report a deal to end hostilities is near, with key steps pending. Pakistan mediates as Lebanon fighting continues.",
+      "link": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel",
+      "publishedAt": "2026-06-13T08:11:40.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Focused on deal nearness but warned past failures",
+          "link": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Emphasized final text agreed, key steps pending",
+          "link": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Highlighted Hormuz reopening as part of deal",
+          "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Noted accord will start toughest phase on nuclear program",
+          "link": "https://www.wsj.com/world/middle-east/trumps-iran-deal-still-has-to-get-past-the-revolutionary-guard-c13ea381"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Justice Department approves $110 billion Paramount-Warner merger",
+      "source": "NPR News",
+      "sources": [
+        "NPR News"
+      ],
+      "summary": "The Justice Department closed its investigation, finding no threat to competition. Paramount and Warner Brothers Discovery can now proceed with the $110 billion deal.",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5856563/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery",
+      "publishedAt": "2026-06-12T23:24:40.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela and US kill Tren de Aragua gang leader in joint operation",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Héctor Rusthenford Guerrero Flores, head of the Tren de Aragua gang with a $5 million US reward, was killed in southern Venezuela. Both countries announced the operation on Friday.",
+      "link": "https://www.france24.com/en/americas/20260613-venezuela-says-leader-of-tren-de-aragua-killed-in-joint-operation-with-us",
+      "publishedAt": "2026-06-13T05:56:09.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX stock debuts",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "summary": "Musk's net worth reached $1.11 trillion after SpaceX listed on Nasdaq at $2.2 trillion value. The Bloomberg rich list confirms the milestone.",
+      "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T22:00:52.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Five IAF personnel killed in AN-32 aircraft crash in Assam's Jorhat",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "summary": "An Indian Air Force AN-32 plane crashed while landing in Jorhat, Assam, killing five personnel. A court of inquiry has been ordered to determine the cause.",
+      "link": "https://www.thehindu.com/news/national/assam/iaf-aircraft-an-32-crashes-while-landing-in-assams-jorhat/article71096781.ece",
+      "publishedAt": "2026-06-13T09:20:34.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Israeli airstrikes hit south Lebanon villages after evacuation warning",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "summary": "Israeli strikes targeted Rihan and Sujud villages near Nabatieh following an evacuation warning. The attacks come amid ongoing Lebanon fighting alongside Iran war.",
+      "link": "https://www.thehindu.com/news/international/lebanon-reports-israeli-strikes-in-south-after-evacuation-warning/article71097122.ece",
+      "publishedAt": "2026-06-13T09:28:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "US plans to pull third of NATO fighter jets from Europe, officials say",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World"
+      ],
+      "summary": "A plan outlined by officials and documents reveals the Trump administration intends to reduce its NATO commitment by withdrawing a third of fighter jets from Europe.",
+      "link": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
+      "publishedAt": "2026-06-12T04:01:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ebola outbreak spreads in DR Congo as misinformation hampers response",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica"
+      ],
+      "summary": "Authorities launched an online campaign to combat mistrust amid the Ebola outbreak in Ituri province. The WHO says misinformation hinders containment of the virus since May 15.",
+      "link": "https://allafrica.com/stories/202606120223.html",
+      "publishedAt": "2026-06-12T09:39:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Switzerland to hold referendum on capping population at 10 million",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World"
+      ],
+      "summary": "Voters will decide on a measure to curb migration and likely limit economic growth. The proposal is presented in warm tones despite potential impacts.",
+      "link": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
+      "publishedAt": "2026-06-13T08:57:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Japan PM Takaichi vows persistent diplomacy to secure Strait of Hormuz",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times"
+      ],
+      "summary": "Writing in the Financial Times, Prime Minister Takaichi pledged efforts to address challenges in the Strait of Hormuz amid Iran war tensions, calling herself Japan's 'Iron Lady.'",
+      "link": "https://www.japantimes.co.jp/news/2026/06/13/japan/takaichi-diplomatic-efforts-hormuz/",
+      "publishedAt": "2026-06-13T06:07:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 429,
+    "articlesAfterDedup": 425,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 29.6,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 2,
+      "society": 1,
+      "politics": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "americas": 3,
+      "asia-pacific": 2,
+      "europe": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 5,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-14",
+  "summary": "Donald Trump a annoncé que la signature d'un protocole d'accord avec l'Iran était prévue dimanche, mais Téhéran n'a pas encore pris de décision finale, selon l'agence FARS. L'accord serait historique s'il aboutit, mais les positions restent floues. Cette annonce intervient alors que les tensions nucléaires persistent depuis des mois.\n\nEn Ukraine, la centrale nucléaire de Zaporijjia a été reconnectée après trois jours sans alimentation électrique, a indiqué samedi 20 Minutes. Une rencontre entre Volodymyr Zelensky et Vladimir Poutine est envisagée, sans date précise. Par ailleurs, le Royaume-Uni a intercepté un pétrolier de la flotte fantôme russe dans la Manche, en coordination avec la France. Des commandos des Royal Marines ont participé à l'opération, saluée par Kyiv. En clair : Londres resserre la surveillance des navires russes.\n\nEn France, plus de 12 000 policiers et gendarmes seront déployés pour le G7 à Évian du 15 au 17 juin. Face aux risques d'émeutes et à la menace islamiste, le dispositif est exceptionnel. En Suisse, les électeurs votent sur une initiative visant à plafonner la population, portée par des arguments comme la pénurie de logements et la hausse des loyers. Au Mexique, Joel Bravo, maire de San Miguel Amatitlán (7 000 habitants), a été tué par balle dans l'État d'Oaxaca, une région connue pour le narcotrafic. En RD Congo, l'épidémie d'Ebola continue de se propager dans la province de l'Ituri ; à Bunia, l'équipe de riposte tente de tracer les cas contacts pour limiter la propagation.\n\nAu Sénégal, après deux ans de négociations, le Sénégal et l'ONU ont signé un accord pour que la Maison des Nations Unies à Dakar accueille des institutions onusiennes de la sous-région ouest-africaine. Enfin, la Corée du Nord a réaffirmé que son statut de puissance nucléaire est « irréversible », après une concertation entre la Corée du Sud, le Japon et les États-Unis à Tokyo sur les questions de sécurité.",
+  "headlines": [
+    {
+      "title": "États-Unis et Iran attendent la signature dimanche d'un accord nucléaire historique",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Donald Trump annonce la signature d'un protocole d'accord avec l'Iran prévue dimanche, mais Téhéran n'a pas encore pris de décision finale, selon l'agence FARS.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-la-signature-d-un-accord-entre-les-etats-unis-et-l-iran-attendue-dimanche-teheran-n-a-pas-encore-pris-de-decision-finale-pour-un-accord_6701050_3210.html",
+      "publishedAt": "2026-06-14T09:21:28.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Met en avant l'incertitude iranienne et la déclaration de Trump",
+          "link": "https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-la-signature-d-un-accord-entre-les-etats-unis-et-l-iran-attendue-dimanche-teheran-n-a-pas-encore-pris-de-decision-finale-pour-un-accord_6701050_3210.html"
+        }
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zelensky et Poutine pourraient se rencontrer, la centrale de Zaporijjia reconnectée",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "La centrale nucléaire de Zaporijjia a été reconnectée après trois jours sans alimentation électrique, tandis qu'une rencontre entre Volodymyr Zelensky et Vladimir Poutine est envisagée.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4228888-20260613-guerre-ukraine-centrale-nucleaire-zaporijjia-reconnectee-rencontre-vue-entre-zelensky-poutine?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-13T17:09:49.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Ouvre avec la reconnectée de la centrale et mentionne la possible rencontre",
+          "link": "https://www.20minutes.fr/monde/ukraine/4228888-20260613-guerre-ukraine-centrale-nucleaire-zaporijjia-reconnectee-rencontre-vue-entre-zelensky-poutine?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Londres intercepte un pétrolier de la flotte fantôme russe dans la Manche",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Liberation"
+      ],
+      "summary": "Le Royaume-Uni, en coordination avec la France, a arraisonné le navire « Smyrtos » dans la Manche. Des commandos des Royal Marines ont participé à l'opération, saluée par Kyiv.",
+      "link": "https://www.20minutes.fr/monde/royaume-uni/4228922-20260614-londres-intercepte-petrolier-flotte-fantome-russe-manche?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-14T09:22:28.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "Souligne la coordination franco-britannique et le transfert du navire",
+          "link": "https://www.20minutes.fr/monde/royaume-uni/4228922-20260614-londres-intercepte-petrolier-flotte-fantome-russe-manche?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Détaille l'action des Royal Marines et la salutation de Kyiv",
+          "link": "https://www.liberation.fr/international/europe/londres-annonce-linterception-dun-petrolier-de-la-flotte-fantome-russe-dans-la-manche-20260614_AMRW2CSXPBETPJGU2OD5ED3OUY/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Plus de 12 000 policiers et gendarmes sécuriseront le G7 à Évian du 15 au 17 juin",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Face aux risques d'émeutes et à la menace islamiste, un dispositif exceptionnel de plus de 12 000 forces de l'ordre sera déployé pour le sommet du G7 à Évian.",
+      "link": "https://www.lefigaro.fr/actualite-france/g7-a-evian-face-aux-risques-d-emeutes-et-a-la-menace-islamiste-plus-de-12-000-policiers-et-gendarmes-pour-securiser-un-sommet-a-hauts-risques-20260608",
+      "publishedAt": "2026-06-14T09:36:54.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Met en avant les risques d'ultraviolence et la menace islamiste",
+          "link": "https://www.lefigaro.fr/actualite-france/g7-a-evian-face-aux-risques-d-emeutes-et-a-la-menace-islamiste-plus-de-12-000-policiers-et-gendarmes-pour-securiser-un-sommet-a-hauts-risques-20260608"
+        }
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Les Suisses votent sur le plafonnement de la population et le service civil",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Les électeurs suisses se prononcent sur une initiative visant à plafonner la population, portée par des arguments comme la pénurie de logements et la hausse des loyers.",
+      "link": "https://www.lefigaro.fr/international/les-suisses-aux-urnes-sur-le-plafonnage-de-la-population-et-le-service-civil-20260614",
+      "publishedAt": "2026-06-14T09:56:26.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Détaille les arguments des promoteurs de l'initiative sur l'immigration",
+          "link": "https://www.lefigaro.fr/international/les-suisses-aux-urnes-sur-le-plafonnage-de-la-population-et-le-service-civil-20260614"
+        }
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Mexique : un maire abattu par balle dans une région du narcotrafic à Oaxaca",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Joel Bravo, maire de San Miguel Amatitlán (7 000 habitants), a été tué par une agression à l'arme à feu dans l'État d'Oaxaca, région connue pour le narcotrafic.",
+      "link": "https://www.20minutes.fr/monde/4228920-20260614-mexique-maire-abattu-balle-region-ur-narcotrafic?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-14T07:57:41.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ebola en RD Congo : la riposte s'organise à Bunia en traçant les cas contacts",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "L'épidémie d'Ebola se propage dans la province de l'Ituri. À Bunia, l'équipe de riposte tente de tracer les cas contacts pour limiter la propagation du virus.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-ebola-en-rd-congo-comment-s-organise-la-riposte-%C3%A0-bunia-dans-la-province-de-l-ituri",
+      "publishedAt": "2026-06-14T09:04:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sénégal et ONU concluent un accord sur la Maison des Nations Unies à Dakar",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Après deux ans de négociations, le Sénégal et l'ONU ont signé un accord pour que la Maison des Nations Unies accueille des institutions onusiennes de la sous-région ouest-africaine.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-le-s%C3%A9n%C3%A9gal-et-l-onu-ont-conclu-un-accord-sur-la-maison-des-nations-unies",
+      "publishedAt": "2026-06-14T09:02:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Corée du Nord réaffirme que son statut de puissance nucléaire est 'irréversible'",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)"
+      ],
+      "summary": "Pyongyang réitère son statut de puissance nucléaire après une concertation entre la Corée du Sud, le Japon et les États-Unis à Tokyo sur les questions de sécurité.",
+      "link": "https://www.rtbf.be/article/coree-du-nord-pyongyang-reaffirme-que-son-statut-de-puissance-nucleaire-est-irreversible-11740332",
+      "publishedAt": "2026-06-14T05:59:10.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Les tensions régionales se sont intensifiées après le sommet trilatéral États-Unis-Japon-Corée du Sud à Tokyo, où les trois pays ont renforcé leur coopération militaire.",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 10,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 16.8,
+    "categoryCounts": {
+      "politics": 5,
+      "conflict": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4,
+      "americas": 1,
+      "africa": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

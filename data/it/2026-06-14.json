@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-14",
+  "summary": "La giornata si apre con l'annuncio di Donald Trump: l'accordo con l'Iran verrà firmato oggi. Il presidente americano ha scritto su Truth che lo Stretto di Hormuz sarà riaperto subito dopo. Ma dalla parte iraniana arrivano segnali più cauti: l'agenzia Fars riferisce che la decisione finale è ancora in fase di valutazione. Intanto a Teheran sono arrivati i negoziatori del Qatar, che spingono per chiudere l'intesa. Il quadro resta fluido, ma la posta è alta: lo Stretto di Hormuz è il passaggio per un quinto del petrolio mondiale.\n\nNel Canale della Manica, i marines britannici hanno bloccato una petroliera russa. Il premier Keir Starmer ha postato il video dell'incursione, con i soldati armati che salgono a bordo. La nave faceva parte della cosiddetta flotta ombra russa, usata per aggirare le sanzioni. L'operazione è stata rivendicata come un segnale forte: Londra vuole mostrare che il controllo delle proprie acque è reale.\n\nIn Italia, Giorgia Meloni ha attaccato la decisione degli organizzatori della fiera Più libri più liberi di chiedere un patentino antifascista agli editori per partecipare. Lo ha definito censura, un vecchio vizio della sinistra. Giuseppe Conte ha risposto sui social spostando il tema sul Ponte sullo Stretto e sui fondi bloccati. Il botta e risposta tiene accesa la polemica politica.\n\nIn Svizzera si vota oggi sull'iniziativa del partito sovranista Udc per limitare l'immigrazione una volta raggiunti i 9,5 milioni di abitanti. Il Paese ha oggi circa 8,9 milioni di persone. Solo a Zurigo ha già votato il 47% degli aventi diritto. Se l'iniziativa passa, sarebbe un giro di vite importante, in un Paese che ha sempre tenuto la porta aperta al lavoro straniero.",
+  "headlines": [
+    {
+      "title": "Iran valuta ancora l'accordo con gli Usa, Trump annuncia firma oggi",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "L'Iran sta ancora valutando la decisione finale sull'accordo quadro con gli Stati Uniti, mentre Trump annuncia su Truth che la firma avverrà oggi e che lo Stretto di Hormuz sarà riaperto subito dopo.",
+      "link": "https://www.agi.it/estero/news/2026-06-14/iran-accordo-trump-37549761/",
+      "publishedAt": "2026-06-14T08:13:51.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Marines britannici bloccano una petroliera russa nel Canale della Manica",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "Il premier Starmer annuncia su X che le forze armate britanniche hanno intercettato una petroliera della flotta ombra russa. Il video dell'incursione mostra i marines con mitra spianati.",
+      "link": "https://www.rainews.it/video/2026/06/lincursione-in-diretta-marines-britannici-con-fucili-spianati-sulla-petroliera-russa-il-video-tensione-gb-russia-1d431e10-e243-4486-9009-e0f81971073d.html",
+      "publishedAt": "2026-06-14T09:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Meloni: patentino antifascista per gli editori è censura, un vizio di sinistra",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Giorgia Meloni critica la decisione degli organizzatori della fiera Più libri più liberi di richiedere un patentino antifascista agli editori, definendola censura e limitazione della libertà di pensiero.",
+      "link": "https://www.agi.it/politica/news/2026-06-14/meloni-patentino-antifascista-editori-37549129/",
+      "publishedAt": "2026-06-14T09:08:41.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha riportato le dichiarazioni integrali di Meloni sulla censura",
+          "link": "https://www.agi.it/politica/news/2026-06-14/meloni-patentino-antifascista-editori-37549129/"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Ha spiegato il contesto della decisione degli organizzatori di Più libri più liberi",
+          "link": "https://www.ilsole24ore.com/art/meloni-patentino-antifascista-piu-libri-piu-liberi-e-censura-AIvOyBfD"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Svizzera al voto sul tetto demografico: destra punta a fermare il Paese a 10 milioni",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "In Svizzera si vota sull'iniziativa del partito sovranista Udc per limitare l'immigrazione una volta raggiunti 9,5 milioni di abitanti. A Zurigo si è già espresso il 47% degli aventi diritto.",
+      "link": "https://www.repubblica.it/esteri/2026/06/14/news/svizzera_voto_proposta_udc_anti_migranti_limite_10_milioni_abitanti-425410011/?rss",
+      "publishedAt": "2026-06-14T08:57:39.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 192,
+    "articlesAfterDedup": 189,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 6,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 1.7,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "global": 1,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

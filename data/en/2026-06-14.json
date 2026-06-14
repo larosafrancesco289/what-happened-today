@@ -1,0 +1,162 @@
+{
+  "date": "2026-06-14",
+  "summary": "A powerful earthquake that struck the southern Philippines this week has reshaped the coastline and left a devastating human toll. At least 61 people died when the 7.8-magnitude tremor hit Mindanao island, and 40 others remain missing. The quake also pushed the seabed up by as much as two metres, exposing coral and killing marine life in what geologists call 'coastal uplift.' Recovery crews continue searching through rubble, and officials warn that aftershocks could slow the effort.\n\nIndia's parliament defeated a constitutional amendment bill that would have reserved one-third of seats in the legislature for women. The measure needed 352 votes to pass but got only 298, with 230 against and 528 members present. The opposition united to block the bill, arguing it did not do enough for marginalized groups. The defeat is a setback for the government, which had pushed the quota as a signature reform.\n\nIn Europe, British forces intercepted an oil tanker in the English Channel that they say is part of Russia's 'shadow fleet' — vessels used to ship crude in violation of Western sanctions. It is the first operation of its kind led by the UK. Separately, Swiss voters head to the polls Sunday on a right-wing initiative to cap the country's population at 10 million. Supporters say it protects resources; opponents warn it would hurt the economy. Results are expected later today.\n\nRomania's president appointed Adrian Vestea, a former Liberal mayor, as prime minister after the previous nominee withdrew. Vestea must now assemble a government and win parliamentary approval. Meanwhile, leaders of the Group of Seven nations begin meetings on Monday amid deep divisions over trade and security, with analysts calling this year's summit a symbol of a fractured global order. The UK's Court of Appeal is also set to rule on whether the government's proscription of the activist group Palestine Action as a terrorist organization was unlawful, a decision that could affect future designations.",
+  "headlines": [
+    {
+      "title": "Deadly Mindanao quake raises seabed 2 metres, causing marine die-off",
+      "source": "South China Morning Post",
+      "summary": "A 7.8-magnitude earthquake killed at least 61 people in southern Philippines, raising the seabed and killing marine life. 40 remain missing as recovery continues.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3357057/deadly-mindanao-quake-raised-seabed-causing-marine-die?utm_source=rss_feed",
+      "publishedAt": "2026-06-14T09:30:58.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "India's Constitutional Amendment Bill for women's quota defeated in Parliament",
+      "source": "The Hindu",
+      "summary": "The bill fell short of the required two-thirds majority, with 298 votes in favor and 230 against. 528 members were present. The opposition united to defeat the measure.",
+      "link": "https://www.thehindu.com/news/national/united-opposition-defeats-constitutional-amendment-bill-for-womens-quota/article70874431.ece",
+      "publishedAt": "2026-06-14T09:48:02.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Swiss voters cast final ballots on right-wing initiative to cap population at 10 million",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "BBC World"
+      ],
+      "summary": "Swiss citizens vote Sunday on a Swiss People's Party initiative to limit population growth. Opponents argue it would harm the economy. Results expected later today.",
+      "link": "https://www.france24.com/en/video/20260614-swiss-cast-ballots-on-right-wing-s-bid-to-cap-country-s-population-at-10-million",
+      "publishedAt": "2026-06-14T09:08:04.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Covered voting process and party arguments",
+          "link": "https://www.france24.com/en/video/20260614-swiss-cast-ballots-on-right-wing-s-bid-to-cap-country-s-population-at-10-million"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Framed as sustainability initiative vs recipe for chaos",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "UK forces intercept sanctioned oil tanker from Russia's shadow fleet in English Channel",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "NPR News"
+      ],
+      "summary": "British forces detained a tanker suspected of being part of Russia's shadow fleet, shipping oil in violation of sanctions. This is the first UK-led operation of its kind.",
+      "link": "https://www.france24.com/en/europe/20260614-uk-intercepts-oil-tanker-from-russia-s-shadow-fleet-in-english-channel",
+      "publishedAt": "2026-06-14T08:39:25.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Reported as first UK-led interception operation",
+          "link": "https://www.france24.com/en/europe/20260614-uk-intercepts-oil-tanker-from-russia-s-shadow-fleet-in-english-channel"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Emphasized sanctions enforcement and investigation",
+          "link": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Romanian president picks Liberal former mayor Adrian Vestea as new PM",
+      "source": "Al Jazeera English",
+      "summary": "President Klaus Iohannis nominated Adrian Vestea after predecessor Eugen Tomac withdrew. Vestea must now form a government and seek parliamentary approval.",
+      "link": "https://www.aljazeera.com/news/2026/6/14/romanian-president-picks-liberal-former-mayor-as-pm-to-form-new-government?traffic_source=rss",
+      "publishedAt": "2026-06-14T09:31:30.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "G7 summit faces fragmentation as Trump divides global order, analysts say",
+      "source": "New York Times World",
+      "summary": "The Group of Seven meetings begin Monday amidst deep divisions over trade and security. This year's summit reflects a fractured global diplomatic order.",
+      "link": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
+      "publishedAt": "2026-06-14T09:00:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "UK court of appeal to rule on Palestine Action 'terrorist' label",
+      "source": "Al Jazeera English",
+      "summary": "The court will decide whether the government's proscription of the action group was unlawful. The ruling could impact future designations.",
+      "link": "https://www.aljazeera.com/news/2026/6/14/uk-court-to-rule-on-palestine-action-terrorist-label-what-we-know?traffic_source=rss",
+      "publishedAt": "2026-06-14T08:34:29.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 381,
+    "articlesAfterDedup": 378,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 1.4,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 4,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "europe": 4,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

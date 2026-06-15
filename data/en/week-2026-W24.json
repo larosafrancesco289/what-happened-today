@@ -1,0 +1,193 @@
+{
+  "weekId": "2026-W24",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-14",
+  "summary": "A catastrophic magnitude 7.8 earthquake struck the southern Philippines on June 8, killing at least 31 people. The death toll rose to 37 by June 9 as aftershocks continued, and by June 14 the quake was reported to have raised the seabed by two metres, causing widespread marine die-off. In the Middle East, a complex and rapidly evolving conflict unfolded. A ceasefire between Iran and Israel collapsed on June 8, and strikes were exchanged. After a U.S. helicopter was downed, the United States and Iran traded strikes on June 10 and continued on June 11, with a U.S. strike on a tanker off Oman killing three Indian seafarers. On June 12, Iran published a draft deal with the U.S. for the release of $24 billion in assets. Both the U.S. and Iran indicated on June 13 that a ceasefire deal was close but final details remained. Separately, Israel launched new strikes in southern Lebanon on June 9. In Asia, Pakistan launched deadly airstrikes on three Afghan provinces on June 10. On June 12, the Taliban arrested 30 women for hijab violations as a protest turned deadly. In India, the Constitutional Amendment Bill for women's quota was defeated in Parliament on June 14. A joint operation by Venezuela and the U.S. on June 13 killed the leader of the Tren de Aragua gang. The Justice Department approved a $110 billion merger between Paramount and Warner on June 13. Elon Musk became the world's first trillionaire after SpaceX stock debuted on the same day. On June 14, UK forces intercepted a tanker from Russia's shadow fleet in the English Channel. In Peru, Keiko Fujimori won the presidency on June 12. The Pentagon blacklisted Alibaba, Baidu, and BYD over Chinese military ties on June 9. Stories that appeared only briefly included the initial Philippines earthquake report, Xi Jinping's North Korea visit, and the Iran-Israel exchange, which quickly escalated into the broader U.S.-Iran confrontation. The Armenian election and a major IPO in Japan also faded from the headlines after single-day appearances.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Magnitude 7.8 earthquake kills at least 31 in southern Philippines",
+    "Xi Jinping pledges unwavering support for North Korea during Pyongyang visit",
+    "Iran and Israel exchange strikes as two-month ceasefire collapses",
+    "Armenian PM Pashinyan's party wins election, cementing Westward shift",
+    "Goldman-backed Go prices Japan's biggest 2026 IPO at 2,400 yen per share",
+    "Nigerian army frees 360 hostages from Boko Haram mountain hideout",
+    "Zelensky's European allies set out five conditions for peace talks with Russia",
+    "South Africa unveils comprehensive plan to tackle illegal immigration",
+    "Philippines earthquake death toll rises to 37 as aftershocks continue",
+    "Pentagon blacklists Alibaba, Baidu, BYD over Chinese military ties"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-08",
+      "title": "Magnitude 7.8 earthquake kills at least 31 in southern Philippines",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Xi Jinping pledges unwavering support for North Korea during Pyongyang visit",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Iran and Israel exchange strikes as two-month ceasefire collapses",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Philippines earthquake death toll rises to 37 as aftershocks continue",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Pentagon blacklists Alibaba, Baidu, BYD over Chinese military ties",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Israel launches new strikes in southern Lebanon after Iran pullback",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "U.S. and Iran trade strikes after downed helicopter escalates conflict",
+      "category": "conflict",
+      "region": "mid-east"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Pakistan launches deadly airstrikes on three Afghan provinces",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Hong Kong charges seven people, two firms over deadly 2025 fire",
+      "category": "society",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "U.S. and Iran trade air strikes for second day, cease-fire 'meaningless'",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "India says U.S. strike on tanker off Oman kills three Indian seafarers",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Attack near Zaporizhzhia nuclear plant cuts power in Russian-occupied Ukraine",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Trump claims Iran deal imminent as Tehran says nothing finalized",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Iran publishes draft deal with US for $24bn asset release",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Taliban arrest 30 women for hijab violations as protest turns deadly",
+      "category": "society",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Keiko Fujimori wins Peru presidency in right-wing wave",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "US and Iran say ceasefire deal close but final details remain",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Justice Department approves $110 billion Paramount-Warner merger",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Venezuela and US kill Tren de Aragua gang leader in joint operation",
+      "category": "conflict",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX stock debuts",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Five IAF personnel killed in AN-32 aircraft crash in Assam's Jorhat",
+      "category": "society",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "Deadly Mindanao quake raises seabed 2 metres, causing marine die-off",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "India's Constitutional Amendment Bill for women's quota defeated in Parliament",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "Swiss voters cast final ballots on right-wing initiative to cap population at 10 million",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "UK forces intercept sanctioned oil tanker from Russia's shadow fleet in English Channel",
+      "category": "conflict",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2862,
+    "totalSourcesUsed": 13,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "environment": 3,
+      "politics": 27,
+      "conflict": 21,
+      "economy": 8,
+      "society": 6,
+      "science": 5
+    },
+    "regionCounts": {
+      "asia-pacific": 25,
+      "middle-east": 11,
+      "europe": 13,
+      "africa": 7,
+      "americas": 9,
+      "global": 4,
+      "mid-east": 1
+    }
+  }
+}

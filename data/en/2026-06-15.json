@@ -1,0 +1,234 @@
+{
+  "date": "2026-06-15",
+  "summary": "The United States and Iran have reached a preliminary agreement to end their military conflict and reopen the Strait of Hormuz, with a formal signing planned for Friday. The deal could stabilize global oil markets after a war that has roiled the world economy. The announcement came as a Russian missile strike hit Kyiv's 900-year-old Pechersk Lavra monastery, killing at least four people and setting the historic cathedral ablaze. The strike devastated a major piece of Ukrainian cultural heritage, which matters as Russia continues its campaign against Ukrainian infrastructure and identity. Separately, Ukraine is set to begin formal negotiations for European Union membership — a major symbolic step, though the path to full accession remains long and uncertain.\n\nIn Britain, Prime Minister Keir Starmer announced plans to bar children under 16 from social media, following similar policies in Australia and elsewhere. The move is meant to protect young people online, though details on enforcement remain unclear. Australian Federal Police have opened an inquiry into allegations that Israeli defence personnel sexually assaulted Australian activists on a flotilla bound for Gaza. The investigation follows talks between Foreign Minister Penny Wong and Australian law enforcement. A new report from the Global Coalition to Protect Education from Attack found that attacks on schools and higher education surged 40% globally, with at least 10,600 students and staff killed, injured, abducted, or arrested in 83 countries between 2024 and 2025. The highest numbers were recorded in Colombia, the Democratic Republic of the Congo, Ethiopia, Haiti, Palestine, and Ukraine.\n\nIn economic news, China's new bank loans totaled 520 billion yuan ($77 billion) in May, below the 620 billion yuan forecast, signaling that Beijing's stimulus efforts have yet to revive weak consumption and investment. The tech sector was a lone bright spot, reflecting the government's push for innovation to reduce external reliance. In Paris, the world's largest defense and security trade fair, Eurosatory, opened with over 2,500 exhibitors from 65 countries — a reflection of surging global military spending amid ongoing conflicts. Finally, residents of Crimea are facing fuel shortages and growing fear as Ukrainian attacks on the annexed peninsula intensify, with many feeling increasingly under siege.",
+  "headlines": [
+    {
+      "title": "US and Iran reach preliminary deal to end war, reopen Strait of Hormuz",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "Al Jazeera English",
+        "New York Times World",
+        "The Hindu",
+        "BBC World"
+      ],
+      "summary": "The United States and Iran have agreed to an immediate and permanent halt to military operations, with a signing planned for Friday that could reopen the Strait of Hormuz and stabilize global oil markets.",
+      "link": "https://www.wsj.com/world/middle-east/iran-threatens-to-pull-out-of-talks-after-israel-strikes-beiruts-outskirts-d0390e22",
+      "publishedAt": "2026-06-14T23:31:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Focused on the signing schedule and potential breakthrough for global economy",
+          "link": "https://www.wsj.com/world/middle-east/iran-threatens-to-pull-out-of-talks-after-israel-strikes-beiruts-outskirts-d0390e22"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Highlighted uncertainty over whether Israel will honor the agreement",
+          "link": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered?traffic_source=rss"
+        },
+        {
+          "source": "New York Times World",
+          "angle": "Noted the deal defers toughest issues to further talks while bringing relief",
+          "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Focused on world leaders, including PM Modi, welcoming the deal as a historic peace step",
+          "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-peace-ceasefire-deal-oil-price-hike-donald-trump-mojtaba-khamenei-netanyahu-june-15-2026/article71103253.ece"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Emphasized oil price drop and stock market jump after the announcement",
+          "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russian missile strike damages historic Kyiv monastery, kills four",
+      "source": "ABC Australia",
+      "sources": [
+        "ABC Australia",
+        "Wall Street Journal World",
+        "BBC World",
+        "New York Times World"
+      ],
+      "summary": "A Russian airstrike hit the 900-year-old Pechersk Lavra monastery in Kyiv, killing at least 11 people and setting the historic cathedral ablaze, devastating Ukrainian cultural heritage.",
+      "link": "https://www.abc.net.au/news/2026-06-15/ukraine-pechersk-lavra-monastery-russia-missile-strike/106800464",
+      "publishedAt": "2026-06-15T09:46:20.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ABC Australia",
+          "angle": "Reported four killed at the monastery, a heritage-listed site",
+          "link": "https://www.abc.net.au/news/2026-06-15/ukraine-pechersk-lavra-monastery-russia-missile-strike/106800464"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Emphasized mass attacks killing 11 and damage to Eastern Orthodoxy's holiest sites",
+          "link": "https://www.wsj.com/world/russian-airstrikes-spark-blaze-at-kyiv-cathedral-1b2d8d2d"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Noted a Ukrainian drone attack killed three in Russian city Tula",
+          "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "New York Times World",
+          "angle": "Focused on recovery of holy items from the cathedral at the monastery",
+          "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukraine to begin EU membership negotiations, starting long journey",
+      "source": "New York Times World",
+      "summary": "Ukraine is set to take a major step toward European Union membership as negotiations formally begin, though the path to full accession remains lengthy and challenging.",
+      "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html",
+      "publishedAt": "2026-06-15T09:31:06.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Described the step as a milestone on a long road ahead",
+          "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html"
+        }
+      ],
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Britain announces social media ban for children under 16",
+      "source": "New York Times World",
+      "summary": "UK Prime Minister Keir Starmer announced plans to bar children under 16 from social media, following similar policies in Australia and other countries, to protect youth online.",
+      "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
+      "publishedAt": "2026-06-15T10:33:23.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Australian police investigate Israeli assault allegations on Gaza flotilla",
+      "source": "ABC Australia",
+      "summary": "Australian Federal Police have launched an inquiry into claims that Israeli defence personnel sexually assaulted Australian activists on a flotilla bound for Gaza, following talks with Foreign Minister Penny Wong.",
+      "link": "https://www.abc.net.au/news/2026-06-15/flotilla-activists-say-afp-to-investigate-assault-allegations/106800664",
+      "publishedAt": "2026-06-15T10:39:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Global attacks on education surge 40%, study finds 10,600 harmed",
+      "source": "The Guardian",
+      "summary": "Attacks on education facilities and personnel rose 40% globally, with at least 10,600 students and staff killed, injured, abducted, or arrested in 83 countries from 2024 to 2025, according to GCPEA research.",
+      "link": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
+      "publishedAt": "2026-06-15T04:00:01.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Chinese credit data shows sluggish loan demand in May",
+      "source": "South China Morning Post",
+      "summary": "China's new bank loans totaled 520 billion yuan ($77 billion) in May, below the 620 billion yuan forecast, indicating persistent weak consumption and investment despite Beijing's stimulus efforts.",
+      "link": "https://www.scmp.com/economy/china-economy/article/3357179/china-credit-data-shows-sluggish-demand-more-household-deleveraging-amid-weak-investment?utm_source=rss_feed",
+      "publishedAt": "2026-06-15T12:30:09.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "World's largest defense exhibition Eurosatory opens in Paris",
+      "source": "France 24",
+      "summary": "The Eurosatory defense and security trade fair in Paris features over 2,500 exhibitors from 65 countries, reflecting a surge in global military spending amid ongoing conflicts.",
+      "link": "https://www.france24.com/en/video/20260615-vast-eurosatory-weapons-showcase-gets-underway",
+      "publishedAt": "2026-06-15T10:53:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Crimeans panic as Ukrainian attacks on peninsula intensify",
+      "source": "Al Jazeera English",
+      "summary": "Residents of Crimea face fuel shortages and growing fear as Ukrainian forces increase strikes on the annexed peninsula, leaving many feeling under siege.",
+      "link": "https://www.aljazeera.com/news/2026/6/15/island-surrounded-by-war-crimeans-panic-amid-ukrainian-strikes?traffic_source=rss",
+      "publishedAt": "2026-06-15T11:38:27.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "Ukraine has escalated attacks on Crimea in recent weeks, targeting military and infrastructure sites, following the breakdown of peace talks.",
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 381,
+    "articlesAfterDedup": 380,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 13.2,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 2,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 5,
+      "global": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

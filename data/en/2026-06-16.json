@@ -1,0 +1,251 @@
+{
+  "date": "2026-06-16",
+  "summary": "Japan's Nikkei 225 broke through 70,000 points for the first time today, driven by investor optimism over a preliminary US-Iran deal that includes reopening the Strait of Hormuz. The surge represents a bet that lower energy costs and reduced geopolitical risk will boost the Japanese economy, which relies heavily on Middle East oil. Markets across Asia followed suit, though analysts caution the deal is preliminary and could still fall apart. The Strait of Hormuz, through which about a fifth of the world's oil passes, has been effectively closed since late last year.\n\nThe European Parliament voted to cut tariffs on US imports, complying with a deal signed last year, hours after President Donald Trump threatened a 100% tariff on French wine unless Paris drops its digital services tax on US tech giants. The EU's vote meets a July 4 deadline Trump had set for the bloc to fulfill its side of the trade agreement. The French tax, a 3% levy imposed in 2019 on companies like Facebook and Amazon, has long been a flashpoint. The upshot: Europe moved to avoid a wider trade war, but the wine dispute remains unresolved.\n\nEight crew members are presumed dead after a B-52 bomber crashed shortly after takeoff at Edwards Air Force Base in California. The Air Force says it is investigating the cause. Separately, the US military plans to build a permanent war-ready weapons stockpile for its Marines on Australia's southeast coast, according to tender documents — a position beyond the range of most Chinese missiles. Analysts say the move underscores Washington's focus on countering Beijing's military buildup in the South Pacific.\n\nIn Europe, a Russian artist and critic of Vladimir Putin was shot dead in Poland. Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, was known for his caricatures of Russian politicians. Polish officials are investigating. And Germany's population shrank in 2025 for the first time since 2020, as lower net migration failed to offset persistently low birth rates. Fuel prices dipped amid news of the Iran deal.",
+  "headlines": [
+    {
+      "title": "Japan’s Nikkei 225 breaks 70,000 points for first time on Iran peace hopes",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "Wall Street Journal World",
+        "BBC World",
+        "NPR News"
+      ],
+      "summary": "Japan's benchmark Nikkei 225 stock index surged past 70,000 points for the first time, driven by investor optimism over the preliminary US-Iran deal and reopening of the Strait of Hormuz.",
+      "link": "https://www.japantimes.co.jp/business/2026/06/16/markets/nikkei-70000-first-time-june/",
+      "publishedAt": "2026-06-16T08:10:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Japan Times",
+          "angle": "Highlighted market milestone tied to geopolitical breakthrough",
+          "link": "https://www.japantimes.co.jp/business/2026/06/16/markets/nikkei-70000-first-time-june/"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Emphasized Trump's weekend shift from threats to deal-making",
+          "link": "https://www.wsj.com/world/middle-east/trump-iran-peace-deal-how-54988a6e"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Focused on Netanyahu's political and security dilemma",
+          "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Noted Israel's potential to complicate peace negotiations",
+          "link": "https://www.npr.org/2026/06/16/g-s1-128341/up-first-newsletter-iran-israel-g7-primaries-luigi-mangione"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "European Parliament approves tariff deal with US ahead of July deadline",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "France 24"
+      ],
+      "summary": "The European Parliament voted to cut tariffs on US imports, complying with last year's deal. President Trump had given the EU a July 4 deadline to fulfill its side of the agreement.",
+      "link": "https://www.dw.com/en/european-parliament-approves-us-tariff-deal/a-77577033?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-16T11:09:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Reported parliamentary approval and deadline context",
+          "link": "https://www.dw.com/en/european-parliament-approves-us-tariff-deal/a-77577033?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "France 24",
+          "angle": "Highlighted separate Trump tariff threat on French wine",
+          "link": "https://www.france24.com/en/video/20260616-trump-threatens-100-tariff-on-french-wines-unless-digital-tax-dropped"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Eight crew members presumed dead in B-52 bomber crash at California base",
+      "source": "Wall Street Journal World",
+      "summary": "A B-52 bomber crashed shortly after takeoff at Edwards Air Force Base, California. All eight crew members are believed dead. The Air Force is investigating the cause.",
+      "link": "https://www.wsj.com/us-news/b-52-bomber-crashes-shortly-after-take-off-at-california-air-base-25365cc0",
+      "publishedAt": "2026-06-16T01:53:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump threatens 100 percent tariff on French wine unless digital tax dropped",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Deutsche Welle"
+      ],
+      "summary": "US President Donald Trump threatened a 100% tariff on French wine and champagne unless Paris removes its digital services tax on US tech giants, a 3% levy imposed since 2019.",
+      "link": "https://www.france24.com/en/video/20260616-trump-threatens-100-tariff-on-french-wines-unless-digital-tax-dropped",
+      "publishedAt": "2026-06-16T10:49:54.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Focused on Trump's tariff threat and French digital tax",
+          "link": "https://www.france24.com/en/video/20260616-trump-threatens-100-tariff-on-french-wines-unless-digital-tax-dropped"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Mentioned within broader tariff deal approval context",
+          "link": "https://www.dw.com/en/european-parliament-approves-us-tariff-deal/a-77577033?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "US plans permanent war-ready weapons stockpile for Marines on Australian coast",
+      "source": "South China Morning Post",
+      "summary": "The US military plans to establish a permanent war-ready weapons stockpile for its Marine Corps on Australia's southeast coast, beyond the range of most Chinese missiles, according to tender documents.",
+      "link": "https://www.scmp.com/news/asia/australasia/article/3357311/us-military-plans-permanent-war-ready-weapons-stockpile-australia?utm_source=rss_feed",
+      "publishedAt": "2026-06-16T10:46:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Russian artist and Putin critic shot dead in Poland, say officials",
+      "source": "BBC World",
+      "summary": "Robert Kuzovkov, known as Semyon Skrepetsky, a Russian artist and critic of Vladimir Putin, was shot dead in Poland. He was known for his caricatures of Russian politicians.",
+      "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-16T10:37:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Victorian premier refuses to reveal cost of CFMEU corruption to taxpayers",
+      "source": "ABC Australia",
+      "summary": "Victorian Premier Jacinta Allan declined to answer repeated questions about the cost of CFMEU corruption to taxpayers, as the scandal threatens her government and leadership.",
+      "link": "https://www.abc.net.au/news/2026-06-16/jacinta-allan-refuses-cfmeu-cost-corruption/106805338",
+      "publishedAt": "2026-06-16T11:20:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Germany’s population shrinks for first time since 2020 as migration dips",
+      "source": "Deutsche Welle",
+      "summary": "Germany's population declined in 2025 for the first time since the COVID-induced dip in 2020, as lower net migration failed to offset persistently low birth rates.",
+      "link": "https://www.dw.com/en/germany-news-population-shrinks-for-first-time-since-covid-induced-dip-in-2020/live-77574042?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-16T11:02:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Canada eliminates human rights watchdog for companies operating abroad",
+      "source": "The Guardian",
+      "summary": "Canada is disbanding the Canadian Ombudsperson for Responsible Enterprise, which investigated human rights abuses by Canadian firms abroad, after PM Mark Carney called the office ineffective.",
+      "link": "https://www.theguardian.com/world/2026/jun/15/canada-eliminates-human-rights-watchdog-companies-abroad",
+      "publishedAt": "2026-06-15T18:36:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Teenager accused of planning Brisbane terror attack targeted LNP over nuclear policy",
+      "source": "ABC Australia",
+      "summary": "A teenager charged with planning a terror attack in Brisbane allegedly intended to target the Liberal National Party over its nuclear energy policy, police said.",
+      "link": "https://www.abc.net.au/news/2026-06-16/teenager-terror-charges-lnp-nuclear-policy/106804024",
+      "publishedAt": "2026-06-16T08:50:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russian strike damages historic Kyiv cathedral for second day as fighting continues",
+      "source": "New York Times World",
+      "summary": "For the second consecutive day, Russian missiles and drones struck Kyiv, damaging a historic Orthodox cathedral at the Pechersk monastery. Holy items were recovered, a bishop reported.",
+      "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+      "publishedAt": "2026-06-15T12:25:06.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Yesterday, a Russian missile strike damaged the historic Kyiv monastery and killed four people. Today, attacks continued, with further damage to the cathedral.",
+      "sources": [
+        "New York Times World"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 424,
+    "articlesAfterDedup": 422,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 23.2,
+    "categoryCounts": {
+      "economy": 1,
+      "politics": 4,
+      "conflict": 5,
+      "society": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 4,
+      "europe": 5,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

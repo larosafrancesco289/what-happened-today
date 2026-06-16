@@ -1,0 +1,143 @@
+{
+  "date": "2026-06-16",
+  "summary": "Al G7 di Evian, Donald Trump ha dichiarato che la Russia deve negoziare la pace con l'Ucraina, dopo una sessione di lavoro a cui ha partecipato il presidente ucraino Volodymyr Zelensky. Trump ha incontrato anche Macron e Zelensky in un trilaterale prima dell'inizio dei lavori, mentre Macron ha chiesto maggiori pressioni su Mosca. La presidente del Consiglio Giorgia Meloni si è intrattenuta a lungo con la premier britannica, segno che il vertice si sta concentrando anche sul coordinamento tra i leader europei. La giornata di oggi è stata la più politica del summit, con la questione ucraina che resta centrale.\n\nSul fronte economico, il Parlamento Europeo ha approvato gli atti attuativi dell'accordo commerciale tra Unione Europea e Stati Uniti, siglato nell'estate 2025. L'intesa rafforza la proposta della Commissione e punta a ridurre le tensioni sui dazi. Intanto l'Istat ha confermato che l'inflazione a maggio è salita del 3,2% su base annua, con un aumento dello 0,4% rispetto ad aprile. L'accelerazione è dovuta ai prezzi più alti di energia non regolamentata, trasporti e servizi ricreativi. Il dato conferma che la ripresa dei prezzi continua, ma senza sorprese.\n\nDue storie bancarie e tecnologiche da seguire. Martedì scade l'offerta pubblica di acquisto ostile di UniCredit su Commerzbank, un passo verso una possibile fusione paneuropea. La banca italiana punta a creare un grande gruppo bancario transfrontaliero, ma l'operazione è delicata e molto politica. Sempre in ambito finanziario, Nvidia ha raccolto 21,5 miliardi di euro con un'emissione obbligazionaria, la prima in cinque anni, con ordini per 85 miliardi. È un segnale dell'enorme appetito degli investitori per l'intelligenza artificiale, che Nvidia guida con i suoi chip.\n\nInfine, un aggiornamento sulla diplomazia commerciale: l'accordo Ue-Usa sui dazi ora ha il via libera del Parlamento Europeo, e gli atti attuativi sono pronti per essere applicati. Questo significa che le imprese europee e americane avranno regole più chiare per il commercio. Il tutto mentre il G7 prosegue a Evian, con la sicurezza e l'economia che restano i temi principali sul tavolo.",
+  "headlines": [
+    {
+      "title": "Trump al G7 di Evian: la Russia deve fare un accordo con l'Ucraina",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "ANSA",
+        "Rai News",
+        "Euronews Italiano"
+      ],
+      "summary": "Al G7 di Evian, Trump dichiara che la Russia deve negoziare la pace, dopo una sessione sull'Ucraina con Zelensky. Macron chiede più pressioni su Mosca.",
+      "link": "https://www.agi.it/estero/news/2026-06-16/g7-evian-ucraina-zelensky-37581852/",
+      "publishedAt": "2026-06-16T11:30:45.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Apertura con dichiarazione di Trump e replica del Cremlino",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/16/trump-al-g7-di-evian-mosca-deve-fare-un-accordo-faro-tutto-cio-che_850dbfa5-1b6b-4b71-a921-f59b05bed3c2.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Focus sulla sessione ucraina al G7 con Zelensky presente",
+          "link": "https://www.agi.it/estero/news/2026-06-16/g7-evian-ucraina-zelensky-37581852/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Enfasi sulla compattezza del G7 e dettagli militari in Ucraina",
+          "link": "https://www.rainews.it/maratona/2026/06/la-guerra-in-ucraina-starmer-uranio-per-le-centrali-a-kiev-e-nuove-sanzioni-lue-apre-percorso-di-adesione-dellucraina-61d6c6de-e075-4acf-8754-b0db1903b33c.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Trump torna sull'Ucraina dopo accordo Iran, pressing di Macron",
+          "link": "http://it.euronews.com/my-europe/2026/06/16/g7-trump-torna-a-puntare-sullucraina-mentre-macron-chiede-piu-pressioni-su-mosca"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Eurocamera approva l'accordo sui dazi tra Unione Europea e Stati Uniti",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "Rai News"
+      ],
+      "summary": "Il Parlamento Europeo dà il via libera agli atti attuativi dell'accordo commerciale Ue-Usa, che rafforzano la proposta della Commissione, siglato nell'estate 2025.",
+      "link": "https://www.tgcom24.mediaset.it/economia/eurocamera-accordo-dazi-ue-usa-_113255504-202602k.shtml",
+      "publishedAt": "2026-06-16T11:29:02.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Via libera con elementi che rafforzano la proposta Commissione",
+          "link": "https://www.tgcom24.mediaset.it/economia/eurocamera-accordo-dazi-ue-usa-_113255504-202602k.shtml"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Due atti legislativi che attuano impegni tariffari Ue",
+          "link": "https://www.rainews.it/articoli/2026/06/dazi-il-parlamento-europeo-approva-atti-attuativi-di-accordo-ue-usa-1fd49cbc-de55-4a17-99f9-8f369bd36a39.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Istat conferma inflazione a +0,4% a maggio e +3,2% su base annua",
+      "source": "Il Sole 24 Ore",
+      "summary": "L'Istat conferma l'accelerazione dell'inflazione a maggio, dovuta a tensioni sui prezzi di energia non regolamentata, trasporti e servizi ricreativi.",
+      "link": "https://www.ilsole24ore.com/art/inflazione-istat-conferma-04percento-maggio-32percento-anno-AIvdTGhD",
+      "publishedAt": "2026-06-16T08:04:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "UniCredit, martedì scade l'offerta ostile per l'acquisto di Commerzbank",
+      "source": "Euronews Italiano",
+      "summary": "Scade l'offerta pubblica di acquisto ostile di UniCredit su Commerzbank, mentre la banca italiana punta a una fusione bancaria paneuropea.",
+      "link": "http://it.euronews.com/business/2026/06/16/unicredit-si-avvicina-la-scadenza-per-lofferta-ostile-su-commerzbank",
+      "publishedAt": "2026-06-16T10:19:06.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Nvidia raccoglie 21,5 miliardi di euro con un bond per investimenti nell'AI",
+      "source": "Euronews Italiano",
+      "summary": "Nvidia colloca bond per 25 miliardi di dollari (21,5 mld euro), il primo dal 2021, con ordini per 85 miliardi, segnale del forte appetito degli investitori per l'IA.",
+      "link": "http://it.euronews.com/business/2026/06/16/nvidia-raccoglie-oltre-215-miliardi-di-euro-con-il-primo-bond-dal-2021-nella-corsa-allai",
+      "publishedAt": "2026-06-16T09:51:54.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 185,
+    "articlesAfterDedup": 183,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 9,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.5,
+    "categoryCounts": {
+      "politics": 1,
+      "economy": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

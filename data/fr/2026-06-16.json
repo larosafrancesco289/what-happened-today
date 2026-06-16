@@ -1,0 +1,294 @@
+{
+  "date": "2026-06-16",
+  "summary": "Donald Trump et l'Iran ont signé un protocole d'accord pour mettre fin à la guerre au Moyen-Orient. Le détroit d'Ormuz rouvrira vendredi et des négociations pour un traité définitif débuteront dans 60 jours. Trump a affirmé que l'Iran n'aura jamais l'arme nucléaire. Pourtant, la CIA doute des véritables intentions nucléaires de Téhéran, pointant un décalage entre déclarations publiques et propos privés. En Iran, la société civile perçoit l'accord comme une trahison. Des experts estiment aussi que cet accord pourrait tendre les relations entre Trump et le Premier ministre israélien Benyamin Nétanyahou.\n\nVolodymyr Zelensky a rencontré Donald Trump en marge du G7 à Évian pour coordonner les positions sur la guerre en Ukraine. Trump a déclaré que la Russie devrait conclure un accord avec l'Ukraine. Pendant ce temps, une attaque russe à grande échelle a tué au moins 11 personnes en Ukraine et endommagé des monuments historiques.\n\nLe Parlement européen a approuvé un accord commercial supprimant les droits de douane sur la plupart des produits industriels et agricoles en provenance des États-Unis, en échange d'un plafonnement à 15 % des taxes américaines sur les importations européennes. Les eurodéputés ont aussi donné un premier feu vert aux nouvelles techniques génomiques, une nouvelle génération d'OGM, avant un vote en plénière.\n\nAux États-Unis, le nouveau président de la Fed, Kevin Warsh, doit choisir entre baisser les taux pour satisfaire Donald Trump ou les relever pour contenir l'inflation accélérée par le conflit au Moyen-Orient. L'armée américaine prévoit de stocker des équipements militaires en Australie pour les mettre hors de portée des missiles chinois. António Guterres est en Haïti pour une visite de solidarité auprès des victimes des gangs. En France, les Écologistes peinent à trouver leur place dans la stratégie de 'trait d'union' à gauche pour la présidentielle de 2027.",
+  "headlines": [
+    {
+      "title": "Donald Trump affirme que l'Iran n'aura jamais l'arme nucléaire suite à l'accord de paix",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "France Info",
+        "France 24",
+        "Liberation"
+      ],
+      "summary": "Washington et Téhéran ont signé un protocole d'accord pour mettre fin à la guerre au Moyen-Orient. Le détroit d'Ormuz rouvrira vendredi, et des négociations pour un traité définitif débuteront dans 60 jours.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-donald-trump-assure-que-le-detroit-d-ormuz-sera-completement-ouvert-vendredi-20260616",
+      "publishedAt": "2026-06-16T10:52:02.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Ouvre avec la menace nucléaire et la réouverture d'Ormuz.",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-donald-trump-assure-que-le-detroit-d-ormuz-sera-completement-ouvert-vendredi-20260616"
+        },
+        {
+          "source": "France Info",
+          "angle": "Met l'accent sur la paix multifront et l'étape préliminaire.",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/accord-de-paix-entre-l-iran-et-les-etats-unis-donald-trump-affirme-que-le-detroit-d-ormuz-sera-completement-ouvert-vendredi_8062664.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Insiste sur le qualificatif 'équitable' donné par Trump.",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260616-iran-%C3%A9tats-unis-le-protocole-d-accord-est-un-accord-%C3%A9quitable-selon-donald-trump"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Relève la signature électronique et la priorité sur le Liban.",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-cours-du-petrole-poursuivent-leur-baisse-20260616_FCNNTBQ5Z5CRFEWCHB4CV7ES4Q/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky rencontre Trump au G7 à Évian pour coordonner les positions sur la guerre en Ukraine",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info",
+        "France 24",
+        "Liberation"
+      ],
+      "summary": "Volodymyr Zelensky et Donald Trump se sont entretenus en marge du sommet du G7 à Évian. Trump a déclaré que la Russie devrait conclure un accord avec l'Ukraine, tandis que Zelensky a rappelé l'importance de la coordination.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/16/en-direct-g7-a-evian-une-premiere-reunion-sur-la-securite-pour-l-ukraine-et-l-europe-en-presence-notamment-de-donald-trump-et-volodymyr-zelensky-a-eu-lieu_6703187_3210.html",
+      "publishedAt": "2026-06-16T09:26:26.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Se concentre sur la rencontre et les déclarations de Zelensky.",
+          "link": "https://www.lemonde.fr/international/live/2026/06/16/en-direct-g7-a-evian-une-premiere-reunion-sur-la-securite-pour-l-ukraine-et-l-europe-en-presence-notamment-de-donald-trump-et-volodymyr-zelensky-a-eu-lieu_6703187_3210.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Mentionne que la guerre en Ukraine est au cœur des débats.",
+          "link": "https://www.franceinfo.fr/monde/sommet-du-g7/direct-sommet-du-g7-la-guerre-en-ukraine-au-c-ur-des-debats_8062709.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Détaille l'arrivée de Zelensky au sommet.",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260616-zelensky-est-arriv%C3%A9-au-sommet-du-g7-en-france"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Relie le sommet à l'annonce de l'accord Iran-USA.",
+          "link": "https://www.liberation.fr/international/en-direct-sommet-du-g7-a-evian-le-moyen-orient-et-la-guerre-en-ukraine-au-menu-des-discussions-20260616_LON4QCM2CNBAVOCQ6XHRHULA4Q/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Le Parlement européen approuve l'accord commercial supprimant les droits de douane avec les États-Unis",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Le Figaro"
+      ],
+      "summary": "Les députés européens ont approuvé un texte supprimant les droits de douane sur la plupart des produits industriels et agricoles en provenance des États-Unis, en échange d'un plafonnement à 15% des taxes américaines sur les importations européennes.",
+      "link": "https://www.liberation.fr/international/amerique/le-parlement-europeen-enterine-laccord-commercial-avec-les-etats-unis-20260616_RZR7Z72V6FAEHCCW65TFFVYESA/",
+      "publishedAt": "2026-06-16T11:11:13.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Insiste sur l'approbation et les détails de l'accord.",
+          "link": "https://www.liberation.fr/international/amerique/le-parlement-europeen-enterine-laccord-commercial-avec-les-etats-unis-20260616_RZR7Z72V6FAEHCCW65TFFVYESA/"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Se concentre sur la suppression des droits de douane par l'UE.",
+          "link": "https://www.lefigaro.fr/conjoncture/le-parlement-europeen-enterine-l-accord-commercial-avec-les-etats-unis-20260616"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Une attaque russe en Ukraine endommage des monuments historiques et fait 11 morts",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Dans la nuit de dimanche à lundi, une frappe russe à grande échelle a tué au moins 11 personnes en Ukraine et endommagé plusieurs monuments du patrimoine culturel, cible récurrente des attaques russes.",
+      "link": "https://www.rfi.fr/fr/europe/20260616-le-patrimoine-culturel-ukrainien-cible-r%C3%A9currente-des-attaques-russes",
+      "publishedAt": "2026-06-16T09:40:27.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les eurodéputés donnent un premier feu vert aux nouvelles techniques génomiques, nouveaux OGM",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "summary": "Les députés européens ont approuvé en commission lundi soir les nouvelles techniques génomiques (NTG), une nouvelle génération d'OGM, avant un vote en plénière qui ouvre la voie à une libéralisation partielle.",
+      "link": "https://www.rtbf.be/article/les-deputes-europeens-prets-a-approuver-les-nouvelles-techniques-genomiques-ntg-une-nouvelle-generation-d-ogm-11741491",
+      "publishedAt": "2026-06-16T08:33:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'armée américaine prévoit un stockage d'armement en Australie hors de portée des missiles chinois",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Les Marines américains prépositionneront des équipements militaires en Australie pour les mettre hors de portée des missiles chinois, une pratique datant de la guerre froide qui renforce la présence américaine dans le Pacifique.",
+      "link": "https://www.20minutes.fr/monde/chine/4229349-20260616-armee-americaine-prevoit-etablir-stockage-armement-australie-hors-portee-missiles-chinois?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-16T09:30:41.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Le nouveau président de la Fed, Kevin Warsh, face au dilemme de baisser ou relever les taux",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Kevin Warsh, nouveau président de la banque centrale américaine, doit choisir entre baisser les taux pour satisfaire Donald Trump ou les relever pour contenir l'inflation accélérée par le conflit au Moyen-Orient.",
+      "link": "https://www.lemonde.fr/economie/article/2026/06/16/a-la-fed-premier-dilemme-pour-kevin-warsh-baisser-les-taux-pour-contenter-donald-trump-ou-les-relever-pour-tenter-de-contenir-l-inflation_6703477_3234.html",
+      "publishedAt": "2026-06-16T04:00:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "L'accord entre Trump et l'Iran met à mal l'amitié entre Trump et Nétanyahou",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "summary": "Le protocole d'entente entre les États-Unis et l'Iran pourrait alimenter les tensions entre le président américain Donald Trump et le Premier ministre israélien Benyamin Nétanyahou, selon des experts.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2261949/trump-netanyahou-desaccords-guerre-iran-relation",
+      "publishedAt": "2026-06-16T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Les Écologistes écartelés par leur stratégie de 'trait d'union' à gauche pour la présidentielle 2027",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "À moins d'un an de l'élection présidentielle, la stratégie du 'trait d'union' impulsée par Marine Tondelier place le parti Vert au second plan, risquant de le rendre inaudible face aux autres forces de gauche.",
+      "link": "https://www.lemonde.fr/idees/article/2026/06/16/presidentielle-2027-les-ecologistes-ecarteles-sur-leur-strategie-au-risque-de-devenir-inaudibles_6703537_3232.html",
+      "publishedAt": "2026-06-16T11:00:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "António Guterres en visite en Haïti pour une 'visite de solidarité' auprès des victimes des gangs",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Le secrétaire général de l'ONU est en Haïti ce mardi 16 juin pour son deuxième déplacement dans ce pays confronté à une grave crise sécuritaire, politique et humanitaire due aux gangs.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260616-le-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-onu-en-ha%C3%AFti-pour-une-visite-de-solidarit%C3%A9-aupr%C3%A8s-des-victimes-des-gangs",
+      "publishedAt": "2026-06-16T10:36:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "La CIA doute des véritables intentions nucléaires de l'Iran malgré l'accord de paix",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Selon Axios, les services de renseignement américains pointent un décalage entre les déclarations publiques des dirigeants iraniens et leurs propos privés, alors qu'un accord détaillé doit être négocié dans 60 jours.",
+      "link": "https://www.lefigaro.fr/international/iran-malgre-l-accord-de-paix-la-cia-doute-des-veritables-intentions-nucleaires-de-teheran-20260616",
+      "publishedAt": "2026-06-16T10:32:28.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Analyse du Figaro : l'Iran tire bénéfice de l'accord avec les États-Unis sur le nucléaire et Ormuz",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Une analyse du Figaro estime que la guerre sans stratégie lancée par Donald Trump renforce le régime iranien sur la scène internationale, notamment sur les questions nucléaires, d'Ormuz et du Liban.",
+      "link": "https://www.lefigaro.fr/international/nucleaire-ormuz-liban-l-iran-tire-benefice-de-l-accord-avec-les-etats-unis-20260615",
+      "publishedAt": "2026-06-15T18:37:40.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Des Iraniens se disent 'traitris' par l'accord avec Washington qui les laisse face à la dictature",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Selon un récit du Figaro, la guerre menée au nom du peuple iranien a aggravé ses conditions, et l'accord de paix est perçu par la société civile comme une véritable trahison.",
+      "link": "https://www.lefigaro.fr/international/trump-nous-a-trahis-l-accord-avec-washington-laisse-les-iraniens-seuls-face-a-la-dictature-20260615",
+      "publishedAt": "2026-06-16T08:42:39.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 212,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 17,
+    "categoryCounts": {
+      "politics": 6,
+      "conflict": 3,
+      "economy": 2,
+      "science": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "europe": 5,
+      "asia-pacific": 1,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7,
+      "developing": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

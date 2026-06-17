@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-17",
+  "summary": "Brazil's Supreme Court sentenced Eduardo Bolsonaro, the third son of former President Jair Bolsonaro, to four years in prison for pressuring US officials to impose economic sanctions on Brazil. The court found that Eduardo aimed to influence his father's trial — the elder Bolsonaro is currently serving a 27-year sentence for a failed coup attempt in 2022. The ruling marks a significant blow to the Bolsonaro political family, which has faced mounting legal challenges since losing power.\n\nAt the G7 summit in France, leaders praised President Trump for securing a preliminary agreement with Iran, calling it a \"breakthrough\" achieved under his \"strong leadership.\" The diplomatic shift comes as the group has been courting Trump at the summit. Meanwhile, the Ebola crisis in the Democratic Republic of Congo is worsening: Africa CDC warned that tens of thousands of contacts are not being traced, risking an outbreak that could surpass the 2014-2016 epidemic, which killed over 11,000 people. In Ukraine, Kyiv's \"logistics lockdown\" — scores of attacks on supply routes — has caused gasoline shortages, aiming to choke Russian forces in Crimea.\n\nUK Prime Minister Keir Starmer condemned Russia for firing warning shots from a warship at a yacht outside British territorial waters, calling the action reckless. In Sri Lanka, Yoshitha Rajapaksa, son of former President Mahinda Rajapaksa, was arrested on corruption charges for allegedly using state funds for overseas training as a naval officer without proper qualifications. Israel launched fresh strikes on Lebanon, drawing criticism from President Trump, who said Prime Minister Netanyahu needed \"to be more responsible with respect to Lebanon.\"\n\nSouth Korea eased civilian restrictions on 270 square kilometers near the North Korean border, responding to farmer complaints and aiming to boost tourism. In Australia, One Nation's treasury spokesman Barnaby Joyce proposed cutting worker entitlements to help small businesses cope with inflation and high power prices. Bahrain stripped 69 people, including children, of their citizenship amid the war with Iran, accusing them of disloyalty and leaving them stateless.",
+  "headlines": [
+    {
+      "title": "Brazil Supreme Court sentences Bolsonaro's son to four years over US lobbying",
+      "source": "France 24",
+      "summary": "Eduardo Bolsonaro, son of former President Jair Bolsonaro, received a four-year prison sentence for pressuring US officials to impose sanctions on Brazil, aiming to influence his father's coup trial.",
+      "link": "https://www.france24.com/en/brazil-supreme-court-sentences-bolsonaro-s-son-over-us-lobbying",
+      "publishedAt": "2026-06-17T10:12:19.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "framings": [],
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "G7 leaders praise Trump for U.S.-Iran deal at France summit",
+      "source": "New York Times World",
+      "summary": "Group of 7 leaders at a summit in France called the preliminary U.S.-Iran agreement a breakthrough secured under President Trump's strong leadership, marking a diplomatic shift.",
+      "link": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france",
+      "publishedAt": "2026-06-17T11:14:06.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "framings": [],
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "DR Congo Ebola outbreak could become worst in history as thousands untraced",
+      "source": "France 24",
+      "summary": "Africa CDC warns tens of thousands of Ebola contacts in DR Congo are not being traced, risking an outbreak surpassing the 2014-2016 epidemic that killed over 11,000 people.",
+      "link": "https://www.france24.com/en/dr-congo-ebola-outbreak-could-become-worst-in-history-as-thousands-not-being-traced",
+      "publishedAt": "2026-06-17T10:02:36.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "framings": [],
+      "sources": [
+        "France 24"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukraine targets Russian supply routes to Crimea in logistics lockdown",
+      "source": "New York Times World",
+      "summary": "Ukraine conducts scores of attacks on supply routes to Crimea, causing gasoline shortages as part of a logistics lockdown to choke Russian forces.",
+      "link": "https://www.nytimes.com/2026/06/17/world/europe/russia-ukraine-crimea-fuel-shortages.html",
+      "publishedAt": "2026-06-17T09:04:58.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "framings": [],
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "UK Prime Minister Starmer calls Russian warship warning shots in Channel reckless",
+      "source": "Al Jazeera English",
+      "summary": "Uk Prime Minister Keir Starmer condemned Russia's warning shots fired from a warship at a yacht outside UK territorial waters, calling the action reckless.",
+      "link": "https://www.aljazeera.com/news/2026/6/17/uks-starmer-says-russian-warships-warning-shots-in-channel-reckless?traffic_source=rss",
+      "publishedAt": "2026-06-17T09:28:48.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "framings": [],
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sri Lanka arrests son of former President Mahinda Rajapaksa on corruption charges",
+      "source": "South China Morning Post",
+      "summary": "Yoshitha Rajapaksa, 38, was arrested for allegedly using state funds for overseas training as a naval officer without proper qualifications, targeting the once-powerful political clan.",
+      "link": "https://www.scmp.com/news/asia/south-asia/article/3357448/sri-lanka-arrests-son-ex-president-mahinda-rajapaksa-corruption?utm_source=rss_feed",
+      "publishedAt": "2026-06-17T10:55:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "framings": [],
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "source": "BBC World",
+      "summary": "Israel conducted new strikes on Lebanon, with President Trump criticizing Prime Minister Netanyahu for not being more responsible, escalating regional tensions.",
+      "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T10:01:42.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "framings": [],
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "South Korea eases civilian curbs along border with North Korea",
+      "source": "Japan Times",
+      "summary": "South Korea announces easing of civilian restrictions on 270 sq km near North Korean border, responding to farmer complaints and aiming to boost local tourism and development.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/17/asia-pacific/south-korea-civilian-curbs-border/",
+      "publishedAt": "2026-06-17T09:29:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Japan Times",
+        "Deutsche Welle"
+      ],
+      "singleSource": false,
+      "framings": [
+        {
+          "source": "Japan Times",
+          "angle": "Emphasized resident welcome and freer farming activities",
+          "link": "https://www.japantimes.co.jp/news/2026/06/17/asia-pacific/south-korea-civilian-curbs-border/"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Focused on the security buffer zone reduction and farmer complaints",
+          "link": "https://www.dw.com/en/south-korea-to-shrink-security-buffer-zone-to-north-korea/a-77586166?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "One Nation proposes cutting worker entitlements to aid struggling small businesses",
+      "source": "ABC Australia",
+      "summary": "One Nation's treasury spokesman Barnaby Joyce says the party is prepared to cut worker entitlements to help small businesses cope with inflation and high power prices.",
+      "link": "https://www.abc.net.au/news/2026-06-17/one-nation-cut-worker-entitlements-joyce-business/106810648",
+      "publishedAt": "2026-06-17T10:05:51.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "framings": [],
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Bahrain revokes citizenship of 69 people, rendering them stateless amid Iran war",
+      "source": "New York Times World",
+      "summary": "Bahrain strips 69 individuals, including children, of citizenship for alleged disloyalty during the war with Iran, leaving them stateless and facing potential expulsion.",
+      "link": "https://www.nytimes.com/2026/06/17/world/middleeast/bahrain-iran-citizenship-expulsions.html",
+      "publishedAt": "2026-06-17T09:00:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "framings": [],
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 426,
+    "articlesAfterDedup": 424,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.3,
+    "categoryCounts": {
+      "politics": 5,
+      "science": 1,
+      "conflict": 3,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "europe": 4,
+      "africa": 1,
+      "asia-pacific": 2,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

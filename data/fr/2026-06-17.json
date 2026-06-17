@@ -1,0 +1,168 @@
+{
+  "date": "2026-06-17",
+  "summary": "Donald Trump a menacé ce mercredi de recommencer à «balancer des bombes» si l'Iran «ne se comporte pas bien», alors que les premiers pétroliers iraniens franchissent le détroit d'Ormuz. Cette menace intervient juste après la signature d'un accord de paix entre les deux pays, que l'ancien premier ministre canadien Mark Carney a qualifié de «tournant décisif» dans une entrevue à CNN. En clair : la tension monte à nouveau, et l'avenir de l'accord reste incertain.\n\nAu G7 à Évian, les alliés arabes des États-Unis — Émirats arabes unis, Qatar et Égypte — s'inquiètent d'un accord bâclé avec l'Iran et des demandes de financement américaines pour des investissements dans le pays. Pendant ce temps, Vladimir Poutine organise un sommet parallèle avec des dirigeants asiatiques, poursuivant son isolement diplomatique tout en cherchant des appuis. Trump a aussi proposé une aide à l'Ukraine, mais en échange d'un déminage européen du détroit d'Ormuz, crucial pour la reprise du commerce maritime.\n\nL'accord iranien crée des tensions entre Trump et le premier ministre israélien Benyamin Netanyahou, qui s'inquiète d'un report de la question nucléaire. Les républicains au Congrès américain ont accueilli la signature avec un silence gêné. Par ailleurs, la crise dans le détroit d'Ormuz expose la dépendance énergétique de Taïwan, qui importe presque tout son gaz, pétrole et charbon. Le gouvernement envisage de relancer le nucléaire pour sécuriser l'énergie de son industrie des semi-conducteurs.\n\nEnfin, la Corée du Sud a demandé à Trump de négocier la paix avec la Corée du Nord, s'appuyant sur son succès diplomatique avec l'Iran. Séoul espère que le président américain pourra jouer les médiateurs dans une région où les tensions restent vives.",
+  "headlines": [
+    {
+      "title": "Donald Trump menace de recommencer à « balancer des bombes » si l'Iran ne se comporte pas bien",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Libération"
+      ],
+      "summary": "Le président américain avertit l'Iran alors que les premiers pétroliers iraniens franchissent le détroit d'Ormuz, point de départ de négociations de paix.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-avant-la-signature-de-l-accord-entre-les-etats-unis-et-l-iran-des-petroliers-iraniens-franchissent-le-detroit-d-ormuz-20260617",
+      "publishedAt": "2026-06-17T11:10:36.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Menace directe de Trump si l'Iran ne respecte pas l'accord.",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-avant-la-signature-de-l-accord-entre-les-etats-unis-et-l-iran-des-petroliers-iraniens-franchissent-le-detroit-d-ormuz-20260617"
+        },
+        {
+          "source": "Libération",
+          "angle": "Insiste sur la signature de l'accord vendredi et la réouverture du détroit.",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-les-premiers-petroliers-iraniens-ont-franchi-le-detroit-dormuz-20260617_Y43LFTCPAJBPFJXKQTJRZ6AAFM/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Mark Carney qualifie l'accord entre les États-Unis et l'Iran de « tournant décisif »",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "summary": "L'ancien premier ministre canadien affirme que l'accord a dépassé ses attentes dans une entrevue à CNN, renforçant l'importance de l'entente.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2262265/mark-carney-cnn-accord-iran-etats-unis",
+      "publishedAt": "2026-06-17T11:10:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Les alliés arabes des États-Unis craignent un accord bâclé avec l'Iran au G7",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Les dirigeants émiratis, qatariens et égyptiens invités au sommet du G7 à Évian s'inquiètent de l'accord et des demandes de financement américaines.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/17/les-allies-arabes-des-etats-unis-craignent-un-accord-bacle-avec-l-iran_6704188_3210.html",
+      "publishedAt": "2026-06-17T09:00:20.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Poutine reçoit des dirigeants asiatiques pour un sommet parallèle au G7 sur la guerre en Ukraine",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Le président russe organise un contre-sommet pendant le G7 à Évian, poursuivant son isolement diplomatique tout en cherchant des appuis en Asie.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4229553-20260617-direct-guerre-ukraine-poutine-recoit-dirigeants-asiatiques-sommet-parallele-g7?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-17T04:50:21.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump propose une aide à l'Ukraine en échange d'un déminage européen du détroit d'Ormuz",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Le président américain conditionne son soutien à l'Ukraine à une participation européenne au déminage du détroit d'Ormuz, crucial pour la reprise du commerce.",
+      "link": "https://www.lefigaro.fr/international/donald-trump-accepterait-d-aider-l-ukraine-en-echange-d-une-aide-europeenne-pour-le-deminage-du-detroit-d-ormuz-20260617",
+      "publishedAt": "2026-06-17T10:48:31.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'accord avec l'Iran suscite des tensions entre Trump et Netanyahou et un malaise chez les républicains",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Israël s'inquiète d'un accord reportant la question nucléaire, tandis que les républicains au Congrès accueillent la signature avec un silence gêné.",
+      "link": "https://www.lefigaro.fr/international/tensions-entre-trump-et-netanyahou-malaise-des-republicains-l-accord-avec-l-iran-suscite-de-vives-critiques-20260616",
+      "publishedAt": "2026-06-16T19:54:35.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Taïwan envisage de relancer le nucléaire pour sécuriser l'énergie de ses semi-conducteurs",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "La crise dans le détroit d'Ormuz expose la dépendance énergétique de l'île, poussant le gouvernement à faire marche arrière sur la sortie du nucléaire.",
+      "link": "https://www.lemonde.fr/economie/article/2026/06/17/taiwan-fragilise-par-la-guerre-au-moyen-orient-envisage-de-relancer-la-filiere-nucleaire-pour-alimenter-la-production-de-semi-conducteurs_6704211_3234.html",
+      "publishedAt": "2026-06-17T10:30:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "La Corée du Sud demande à Trump de négocier la paix avec la Corée du Nord",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Séoul sollicite l'expertise diplomatique de Donald Trump après son succès dans les négociations avec l'Iran pour un accord de paix avec le Nord.",
+      "link": "https://www.20minutes.fr/monde/coree_du_nord/4229570-20260617-coree-sud-demande-trump-aider-faire-paix-voisin-nord?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-17T07:56:51.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "La demande sud-coréenne intervient après l'accord américano-iranien que Trump a mené.",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 218,
+    "articlesAfterDedup": 218,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 9,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 15.4,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 4,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "global": 1,
+      "europe": 2,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

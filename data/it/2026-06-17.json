@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-17",
+  "summary": "Oggi la notizia più importante è l'accordo tra Iran e Stati Uniti. Il 19 giugno firmeranno un memorandum in 14 punti che prevede la riapertura dello Stretto di Hormuz e 300 miliardi di dollari dagli USA a Teheran. Il Papa ha espresso soddisfazione. Ma Donald Trump, dal G7 di Evian, ha subito raffreddato gli entusiasmi: ha detto che il memorandum non è definitivo e che, se non gli piacerà, gli Stati Uniti torneranno a bombardare. Ha però aggiunto di essere sicuro al 99,9% che l'Iran non avrà armi nucleari. Insomma, l'intesa c'è, ma resta fragile e legata al giudizio di Trump.\n\nSul fronte interno italiano, arriva la conclusione dell'inchiesta urbanistica a Milano. Tutti gli imputati sono stati assolti perché il fatto non costituisce reato. Il conto è salato: 150 cantieri bloccati, 14 miliardi di euro di investimenti persi e 5.000 famiglie ancora in attesa di vedere cosa succederà ai loro progetti. L'inchiesta aveva bloccato un settore che valeva circa 35 miliardi dal 2015. La città ora cerca di ripartire, ma il danno economico e la fiducia degli investitori sono già stati compromessi.\n\nDue notizie dalla scienza, una promettente e una di indirizzo. Un team di ricercatori ha sviluppato nanoparticelle che nei test sui topi hanno portato a remissioni complete del tumore alla prostata. I risultati aprono la strada a sperimentazioni sull'uomo, ma serviranno anni per sapere se funzioneranno anche su di noi. Intanto a Roma 90 esperti hanno firmato la Carta di Roma, un documento che definisce nuove linee guida per migliorare diagnosi e cure delle malattie rare in Italia. Un passo avanti per dare più coordinamento alla ricerca e all'accesso ai trattamenti.",
+  "headlines": [
+    {
+      "title": "Iran e Stati Uniti firmano un memorandum in 14 punti per l'accordo nucleare",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "AGI"
+      ],
+      "summary": "L'Iran e gli Stati Uniti firmeranno il 19 giugno un memorandum in 14 punti, che prevede la riapertura dello Stretto di Hormuz e 300 miliardi di dollari dagli USA per Teheran. Il Papa esprime soddisfazione.",
+      "link": "https://www.rainews.it/maratona/2026/06/guerra-usa-iran-israele-maratona-intesa-si-firma-il-19-trump-riapre-hormuz-teheran-proclama-vittoria-e6201990-95bb-45f0-92d3-7417c416d63b.html",
+      "publishedAt": "2026-06-17T10:26:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Pubblica il memorandum in 14 punti e la reazione del Papa",
+          "link": "https://www.rainews.it/maratona/2026/06/guerra-usa-iran-israele-maratona-intesa-si-firma-il-19-trump-riapre-hormuz-teheran-proclama-vittoria-e6201990-95bb-45f0-92d3-7417c416d63b.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Riporta le dichiarazioni di Trump al G7 sull'accordo",
+          "link": "https://www.agi.it/estero/news/2026-06-17/iran-trump-g7-accordo-37602601/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump al G7 minaccia l'Iran: se l'accordo non mi piace torneremo a bombardare",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Donald Trump, al G7 di Evian, dichiara che il memorandum con l'Iran non è definitivo e che, se non lo riterrà soddisfacente, gli Stati Uniti riprenderanno i bombardamenti. Parla di '99,9% di probabilità' che l'Iran non avrà armi nucleari.",
+      "link": "https://www.agi.it/estero/news/2026-06-17/iran-trump-g7-accordo-37602601/",
+      "publishedAt": "2026-06-17T11:14:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Inchiesta urbanistica a Milano: assolti tutti, ma 5.000 famiglie ancora nel limbo",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "L'inchiesta urbanistica a Milano si conclude con l'assoluzione di tutti gli imputati per 'fatto non costituente reato', ma il blocco di 150 cantieri ha causato 14 miliardi di euro di investimenti persi e lasciato 5.000 famiglie in attesa.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/inchiesta-urbanistica-a-milano-alla-fine-a-pagare-sono-state-le-famiglie_113282214-02k.shtml",
+      "publishedAt": "2026-06-17T10:48:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Nanoparticelle curano il tumore alla prostata nei topi: remissioni complete nei test",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Un team di ricercatori ha sviluppato nanoparticelle in grado di uccidere le cellule del tumore alla prostata nei topi, ottenendo remissioni complete. I risultati aprono la strada a future sperimentazioni cliniche sull'uomo.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/06/17/nanoparticelle-efficaci-contro-il-tumore-della-prostata-uccidono-le-cellule_469e2162-626c-4c52-98b9-20e61db7717e.html",
+      "publishedAt": "2026-06-17T06:19:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Novanta esperti firmano la Carta di Roma per migliorare la cura delle malattie rare",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Nasce la Carta di Roma, un documento di indirizzo prodotto da 90 esperti, che definisce nuove linee guida per la governance e la ricerca sulle malattie rare in Italia. Il documento mira a migliorare diagnosi e accesso alle cure.",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/06/16/dalla-governance-alla-ricerca-nasce-la-carta-di-roma-delle-malattie-rare_0a017903-69a1-44b2-896b-57f12e9262d6.html",
+      "publishedAt": "2026-06-16T17:54:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 200,
+    "articlesAfterDedup": 197,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 5,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 17.4,
+    "categoryCounts": {
+      "politics": 2,
+      "society": 1,
+      "science": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "date": "2026-06-18",
+  "summary": "Ukraine launched its largest drone attack on Moscow since the war began, sending nearly 200 drones toward the Russian capital. The strike hit a refinery and a shopping center, and forced the closure of Moscow's airports for several hours. The attack underscores Ukraine's growing ability to reach deep into Russian territory, though it did not immediately change the situation on the front lines, where fighting remains heavy in the east. Russia's defense ministry said it shot down most of the drones, but acknowledged some got through.\"\n\n  , \"The U.S. and Iran have reached an initial deal that grants Iran access to up to $60 billion in annual oil revenue plus a $300 billion redevelopment package, while delaying the most difficult nuclear talks. Critics point out that Iran gave minimal immediate concessions. Separately, U.S. Defense Secretary Pete Hegseth condemned NATO allies for not spending enough on defense and for not supporting U.S. operations in Iran, calling it 'shameful.' He announced a six-month review of U.S. forces in Europe. NATO Secretary General Mark Rutte said allies are on the right path but need more time. In Asia, Taiwan's President Lai Ching-te said he trusts President Trump to approve a $14 billion arms package for Taiwan, after Trump suggested he could use it as leverage with Beijing. Lai reiterated his desire for talks with China.\"\n\n  \t: \"In Africa, 15 nations signed the Mombasa Declaration, a pact to combat illegal fishing, which accounts for one in five fish consumed globally and is linked to forced labor and environmental damage. The agreement focuses on transparency and enforcement. In Cuba, the Communist Party approved a package of free market reforms, which party leaders described as a response to 'economic war' from the United States. They stressed the changes are not a deviation from socialism. In the Democratic Republic of Congo, the Ebola outbreak is devastating the livelihoods of public-facing workers like teachers and taxi drivers in Bunia, as curbs on public activity take a heavy economic toll. A school principal described installing hand-washing stations and banning outside food sellers to try to keep the virus out.\"\n\n  , \"Japan's Defense Minister Shinjiro Koizumi told the BBC that Japan must revisit its pacifist post-World War Two posture, calling increased defense spending essential to deter conflict in the region. His remarks come as Japan outlines plans to nearly double its military spending over five years, a shift that neighbors will watch closely. India and the U.S. also discussed enhanced security cooperation, with Home Minister Amit Shah and Ambassador Eric Garcetti agreeing to deepen collaboration on counter-terrorism, border security, and fighting narcotics.",
+  "headlines": [
+    {
+      "title": "Ukraine Strikes Moscow Refinery in Largest Drone Attack on Capital",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "BBC World"
+      ],
+      "summary": "Ukraine launched nearly 200 drones at Moscow, hitting a refinery and a shopping center, shutting down airports for hours. The attack marks the biggest drone assault on the Russian capital since the war began.",
+      "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
+      "publishedAt": "2026-06-18T09:07:46.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Focused on airport closures and scale of drone wave",
+          "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Emphasized fires at refinery and shopping center, 200 drones",
+          "link": "https://www.bbc.com/news/articles/c98291g5rr1o"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran Gets Major Economic Lifeline in Initial Deal with Minimal Concessions",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Wall Street Journal World",
+        "The Hindu"
+      ],
+      "summary": "The U.S.-Iran agreement grants Iran up to $60 billion annual oil revenue and a $300 billion redevelopment package while delaying nuclear talks. Critics note Iran gives minimal immediate concessions.",
+      "link": "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html",
+      "publishedAt": "2026-06-18T10:14:05.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Stressed minimal concessions and economic boost for Iran",
+          "link": "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Highlighted $60 billion oil revenue potential and regime benefits",
+          "link": "https://www.wsj.com/world/middle-east/deal-gives-iran-chance-to-turbocharge-its-oil-revenue-5b481eb6"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Reported deal immediate effect, Switzerland talks planned June 19",
+          "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-israel-conflict-strait-of-hormuz-washington-tehran-sign-peace-deal-live-updates-june-18-2026/article71116282.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US Defense Secretary Hegseth Threatens NATO Allies Over Spending and Iran Support",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "ABC Australia",
+        "France 24"
+      ],
+      "summary": "Pete Hegseth condemned NATO allies for insufficient defense spending and refusal to support U.S. operations in Iran, calling it 'shameful.' He announced a six-month review of U.S. forces in Europe.",
+      "link": "https://www.dw.com/en/nato-us-lashes-out-alliance-head-says-everything-s-fine/a-77603060?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-18T10:38:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Deutsche Welle",
+          "angle": "Contrasted Hegseth's threats with NATO chief's reassurances",
+          "link": "https://www.dw.com/en/nato-us-lashes-out-alliance-head-says-everything-s-fine/a-77603060"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Focused on 'shameful' denial of access and force review",
+          "link": "https://www.abc.net.au/news/2026-06-18/pete-hegseth-lashes-out-at-nato-members/106815756"
+        },
+        {
+          "source": "France 24",
+          "angle": "Linked review to European self-defense responsibility timeline",
+          "link": "https://www.france24.com/en/us-tells-nato-it-will-review-its-force-presence-in-europe"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Taiwan President Lai Says He Trusts Trump to Approve $14 Billion Arms Sale",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Al Jazeera English"
+      ],
+      "summary": "President Lai Ching-te expressed confidence that President Trump will approve the arms package, after Trump suggested using it as leverage with Beijing. Lai reiterated desire for talks with China.",
+      "link": "https://www.nytimes.com/2026/06/18/world/asia/taiwan-trump-china-arms-weapons.html",
+      "publishedAt": "2026-06-18T08:21:08.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Emphasized Trump's leverage comment and Lai's hopeful tone",
+          "link": "https://www.nytimes.com/2026/06/18/world/asia/taiwan-trump-china-arms-weapons.html"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Highlighted Lai's call for talks based on parity and respect",
+          "link": "https://www.aljazeera.com/news/2026/6/18/taiwan-hopes-us-arms-sale-package-can-be-approved-soon-president-says"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Cuba Approves Free Market Reforms Amid US Pressure, Citing Economic War",
+      "source": "Deutsche Welle",
+      "singleSource": true,
+      "summary": "Cuba's Communist Party approved a package of free market reforms described as a response to 'economic war' from the U.S. Party leaders said the changes do not deviate from socialism.",
+      "link": "https://www.dw.com/en/cuba-approves-economic-reforms-amid-us-pressure/a-77597635?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-18T09:12:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "15 Countries Sign Mombasa Declaration to Fight Illegal Fishing in Africa",
+      "source": "AllAfrica",
+      "singleSource": true,
+      "summary": "The Mombasa Declaration unites 15 African nations against illegal fishing, which accounts for one in five fish consumed globally. The pact addresses forced labor and environmental damage.",
+      "link": "https://allafrica.com/stories/202606180003.html",
+      "publishedAt": "2026-06-18T06:52:24.000Z",
+      "tier": "also",
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "India and US Discuss Enhanced Security Cooperation Against Terrorism",
+      "source": "The Hindu",
+      "singleSource": true,
+      "summary": "India's Home Minister Amit Shah and U.S. Ambassador Eric Garcetti discussed collaboration on counter-terrorism, border security, and fighting narcotics and illicit drugs.",
+      "link": "https://www.thehindu.com/news/national/amit-shah-us-ambassador-gor-discuss-enhancing-india-us-security-cooperation/article71117246.ece",
+      "publishedAt": "2026-06-18T10:36:41.000Z",
+      "tier": "also",
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Japan's Defence Minister Says Military Buildup Critical to Prevent War",
+      "source": "BBC World",
+      "singleSource": true,
+      "summary": "Shinjiro Koizumi told the BBC Japan must revisit its pacifist post-World War Two posture, calling increased defense spending essential to deter conflict in the region.",
+      "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T22:36:13.000Z",
+      "tier": "also",
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Ebola Outbreak in DR Congo Devastates Livelihoods of Public-Facing Workers",
+      "source": "The Guardian",
+      "singleSource": true,
+      "summary": "Teachers, taxi drivers, and travel agents in Bunia face economic ruin as Ebola curtails public activity. A school principal implements safety measures amid fears of spread.",
+      "link": "https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc",
+      "publishedAt": "2026-06-17T04:00:21.000Z",
+      "tier": "also",
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 436,
+    "articlesAfterDedup": 434,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 30.8,
+    "categoryCounts": {
+      "conflict": 1,
+      "economy": 2,
+      "politics": 4,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 1,
+      "asia-pacific": 3,
+      "americas": 1,
+      "africa": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    },
+    "qualityWarnings": [
+      "Summary is too long (2749 chars, recommend <2600)"
+    ],
+    "qualityErrors": []
+  }
+}

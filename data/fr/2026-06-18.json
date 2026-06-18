@@ -1,0 +1,210 @@
+{
+  "date": "2026-06-18",
+  "summary": "Un navire français transportant du gaz naturel liquéfié a traversé le détroit d'Ormuz jeudi, au lendemain de l'accord-cadre signé entre les États-Unis et l'Iran à Versailles. La Suisse a confirmé que des premières négociations sur la mise en œuvre de l'accord auront lieu vendredi près de Lucerne. Les prix du pétrole ont chuté de plus de 3%, soulageant les marchés. Mais à Tel-Aviv, l'accord en quatorze points est perçu comme un désaveu : la classe politique israélienne anticipe déjà un échec des négociations. Emmanuel Macron, lui, défend son invitation de Donald Trump au château de Versailles, présentant le lieu comme un outil diplomatique stratégique face aux critiques politiques.\n\nL'Ukraine a lancé une attaque massive de drones contre Moscou dans la nuit, touchant une raffinerie de la capitale russe. Le président Zelensky a qualifié l'opération de riposte justifiée. L'incident survient alors que les discussions sur la guerre en Ukraine se poursuivent en parallèle au G7, où Vladimir Poutine reçoit des dirigeants asiatiques.\n\nEn Pologne, un suspect a été interpellé pour le meurtre par arme à feu d'un caricaturiste russe, connu pour ses dessins très véhéments contre Vladimir Poutine. Le gouvernement polonais qualifie l'affaire d'« assassinat politique ». En France, une vague de chaleur place 26 départements en vigilance orange, avec un pic attendu dimanche ou lundi : les 40°C pourraient être atteints dans l'Ouest et la vallée du Rhône, voire en Île-de-France.\n\nAu Québec, le gouvernement a débloqué 12,5 millions de dollars pour lutter contre l'itinérance, dont 5 millions pour Montréal, le reste étant réparti entre les régions et les Premières Nations. Par ailleurs, un commissaire au redécoupage électoral, Kevin Bouchard, a démissionné pour protester contre le processus mené par les députés. Enfin, l'Organisation météorologique mondiale rapporte que 13 millions d'Africains ont été touchés par des événements climatiques extrêmes en 2025, le continent se réchauffant plus vite que la moyenne mondiale.",
+  "headlines": [
+    {
+      "title": "Un navire français de GNL franchit Ormuz au lendemain de l'accord États-Unis-Iran",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Un navire français de gaz naturel liquéfié a traversé le détroit d'Ormuz jeudi. La Suisse confirme des premières négociations sur l'accord vendredi près de Lucerne.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/18/en-direct-guerre-au-moyen-orient-apres-la-signature-de-l-accord-iran-etats-unis-a-versailles-de-premieres-negociations-toujours-prevues-vendredi-en-suisse-annonce-berne_6701050_3210.html",
+      "publishedAt": "2026-06-18T09:46:58.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Kiev lance une attaque massive de drones sur Moscou, touchant une raffinerie",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "RFI",
+        "Le Figaro",
+        "Le Monde"
+      ],
+      "summary": "L'Ukraine a mené une attaque de drones à grande échelle contre Moscou dans la nuit, touchant une raffinerie. Zelensky qualifie l'opération de riposte justifiée.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2262536/moscou-attaque-drones-ukraine",
+      "publishedAt": "2026-06-18T05:51:16.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Annonce du maire de Moscou sur la raffinerie touchée et détails de l'attaque",
+          "link": "https://ici.radio-canada.ca/nouvelle/2262536/moscou-attaque-drones-ukraine"
+        },
+        {
+          "source": "RFI",
+          "angle": "Attaque simultanée à un sommet de Poutine avec des dirigeants asiatiques à Kazan",
+          "link": "https://www.rfi.fr/fr/europe/20260618-guerre-en-ukraine-moscou-vis%C3%A9e-par-une-attaque-%C3%A0-grande-%C3%A9chelle-de-drones-ukrainiens"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Alerte aérienne déclenchée dans l'un des principaux aéroports de Moscou",
+          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-une-attaque-de-missiles-en-cours-contre-kiev-20260618"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "La raffinerie de Gazprom Neft assure plus d'un tiers des besoins en carburant de Moscou",
+          "link": "https://www.lemonde.fr/international/live/2026/06/18/en-direct-guerre-en-ukraine-des-drones-ukrainiens-endommagent-une-raffinerie-dans-la-region-de-moscou-une-reponse-justifiee-aux-frappes-russes-declare-volodymyr-zelensky_6702230_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Macron défend l'invitation de Trump à Versailles face aux critiques politiques",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Emmanuel Macron justifie l'accueil de Donald Trump au château de Versailles pour l'accord iranien, présentant le lieu comme un instrument diplomatique stratégique.",
+      "link": "https://www.20minutes.fr/monde/4229750-20260618-moyen-orient-versailles-instrument-puissance-face-critiques-macron-defend-avoir-invite-trump?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-18T05:31:04.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Les prix du pétrole chutent de plus de 3% après la signature de l'accord États-Unis-Iran",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "L'accord-cadre signé mercredi entre Washington et Téhéran a provoqué une baisse des cours du pétrole de plus de 3%, soulageant les marchés mondiaux.",
+      "link": "https://www.lefigaro.fr/conjoncture/les-cours-du-petrole-chutent-de-plus-de-3-apres-la-signature-de-l-accord-entre-les-etats-unis-et-l-iran-20260618",
+      "publishedAt": "2026-06-18T08:47:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israël perçoit l'accord États-Unis-Iran comme un désaveu et mise sur son échec",
+      "source": "France Info",
+      "sources": [
+        "France Info"
+      ],
+      "summary": "À Tel-Aviv, l'accord en quatorze points entre Washington et Téhéran est vécu comme un désaveu. La classe politique israélienne anticipe un échec des négociations.",
+      "link": "https://www.franceinfo.fr/monde/conflit-israel-iran/israel-parie-sur-un-echec-de-l-accord-a-tel-aviv-les-negociations-entre-washington-et-teheran-sont-vecues-comme-un-desaveu_8065697.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-18T09:16:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "La Pologne arrête un suspect après le meurtre d'un caricaturiste critique de Poutine",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Un suspect a été interpellé en Pologne pour le meurtre par arme à feu d'un caricaturiste russe, que le gouvernement polonais qualifie d'assassinat politique.",
+      "link": "https://www.20minutes.fr/monde/pologne/4229790-20260618-pologne-interpellation-homme-soupconne-avoir-participe-meurtre-caricaturiste-russe?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-18T09:20:38.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Québec débloque 12,5 millions de dollars pour lutter contre l'itinérance",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "summary": "Le gouvernement québécois alloue 12,5 millions $ aux mesures d'itinérance, dont 5 millions pour Montréal et le reste réparti entre régions et Premières Nations.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2262515/sommes-itinerance-sans-abri-regions-quebec",
+      "publishedAt": "2026-06-18T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Un commissaire à la carte électorale du Québec démissionne pour protester",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "summary": "Kevin Bouchard, commissaire au redécoupage électoral, quitte ses fonctions en signe de protestation contre le processus mené par les députés.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2262530/redecoupage-carte-electorale-demission-commissaire",
+      "publishedAt": "2026-06-18T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Vague de chaleur : 26 départements en vigilance orange, les 40°C attendus dimanche",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Un épisode de canicule touche la France avec un pic prévu dimanche ou lundi. Les 40°C pourraient être atteints dans l'Ouest et la vallée du Rhône.",
+      "link": "https://www.lemonde.fr/planete/live/2026/06/18/en-direct-canicule-un-episode-de-pollution-a-l-ozone-accompagne-la-vague-de-chaleur-en-ile-de-france-jeudi_6704498_3244.html",
+      "publishedAt": "2026-06-18T09:36:38.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'ONU : 13 millions d'Africains touchés par des événements climatiques extrêmes en 2025",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "L'Organisation météorologique mondiale rapporte que 13 millions de personnes ont été affectées par des catastrophes climatiques en Afrique en 2025, continent qui se réchauffe plus vite que la moyenne.",
+      "link": "https://www.rfi.fr/fr/afrique/20260618-afrique-au-moins-13-millions-de-personnes-touch%C3%A9es-par-des-%C3%A9v%C3%A9nements-climatiques-extr%C3%AAmes-en-2025",
+      "publishedAt": "2026-06-18T09:24:27.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 208,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 12,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.4,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "economy": 1,
+      "society": 2,
+      "environment": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 4,
+      "global": 1,
+      "americas": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

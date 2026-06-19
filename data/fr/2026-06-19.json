@@ -1,0 +1,231 @@
+{
+  "date": "2026-06-19",
+  "summary": "Des drones russes ont tué un marin et blessé cinq autres sur deux navires civils en mer Noire, selon le vice-premier ministre ukrainien. Un membre d'équipage d'un navire panaméen est mort, deux autres ont été grièvement blessés, et trois marins d'un second navire ont été légèrement touchés. L'attaque survient alors que les tensions restent vives dans la région. Par ailleurs, quatre soldats israéliens ont été tués au Liban, ce qui a poussé le ministre israélien de la Sécurité nationale, Itamar Ben Gvir, à déclarer que \"tout le Liban doit brûler\". L'armée israélienne a lancé une attaque meurtrière dans l'est du Liban en représailles. La France a appelé au respect de l'accord de cessez-le-feu et à l'arrêt des frappes, après des bombardements israéliens ayant fait 18 morts au Liban. L'accord États-Unis-Iran vacille. La Suisse a annoncé le report des pourparlers entre les deux pays après l'annulation de la venue du vice-président américain J.D. Vance. Cela fragilise l'accord récent qui avait fait chuter les prix du pétrole. En France, un Biélorusse de 48 ans a été incarcéré pour espionnage présumé au profit de la Russie. Il avait été arrêté le 3 juin alors qu'il filmait un prototype de drone dans une usine près de Toulouse, qui fournit l'armée française et ukrainienne. La justice soupçonne une ingérence étrangère. Au Bénin, l'ex-ministre Candide Azannaï a comparu devant la justice pour la tentative de coup d'État de décembre 2025. Son avocat s'est dit \"optimiste\" et \"serein\" à la sortie de l'audience. En Tunisie, les avocats ont fait grève nationale le 18 juin pour dénoncer leurs conditions de travail, les dysfonctionnements de la justice et les emprisonnements de confrères. Ils réclament une vaste réforme. Au Chili, le président a ouvert une cellule de crise pour enquêter sur un trafic présumé de centaines d'enfants haïtiens entrés dans le pays en 2025 dans des conditions suspectes. Enfin, l'intelligence artificielle s'invite dans les élections américaines de mi-mandat, avec des groupes liés aux géants du secteur qui participent à la campagne.",
+  "headlines": [
+    {
+      "title": "Des drones russes tuent un marin et blessent cinq autres sur deux navires civils en mer Noire",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Un membre d'équipage d'un navire panaméen est tué, deux autres marins blessés, dont un grièvement, par des drones russes en mer Noire, selon le vice-premier ministre ukrainien.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/19/en-direct-guerre-en-ukraine-des-drones-russes-ont-touche-deux-navires-civils-en-mer-noire-faisant-un-mort-et-cinq-blesses-suivez-notre-direct_6702230_3210.html",
+      "publishedAt": "2026-06-19T09:46:02.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Quatre soldats israéliens tués au Liban, un ministre appelle à brûler tout le pays",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "L'armée israélienne mène une attaque meurtrière dans l'est du Liban après la mort de quatre soldats ; le ministre Ben Gvir déclare que \"tout le Liban doit brûler\".",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-entre-liran-et-les-etats-unis-prevues-ce-vendredi-en-suisse-reportees-20260619_AK7HBQ55NBDWJC5IQ4TQXDG7P4/",
+      "publishedAt": "2026-06-19T10:46:46.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "A ouvert sur les déclarations de Ben Gvir après la mort des soldats",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-entre-liran-et-les-etats-unis-prevues-ce-vendredi-en-suisse-reportees-20260619_AK7HBQ55NBDWJC5IQ4TQXDG7P4/"
+        },
+        {
+          "source": "France 24",
+          "angle": "A rapporté les propos de Ben Gvir et le contexte politique",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260619-tout-le-liban-doit-br%C3%BBler-dit-un-ministre-isra%C3%A9lien-apr%C3%A8s-la-mort-de-quatre-soldats"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A cité l'appel de la France à respecter l'accord et à cesser les frappes",
+          "link": "https://www.20minutes.fr/monde/israel/4230004-20260619-guerre-moyen-orient-france-appelle-respecter-accord-reclame-fin-frappes-liban?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Un Biélorusse soupçonné d’espionner une usine française de drones pour la Russie est incarcéré",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Figaro",
+        "France Info",
+        "20 Minutes"
+      ],
+      "summary": "Un homme de 48 ans, arrêté le 3 juin alors qu'il filmait un prototype de drone, est incarcéré pour espionnage présumé au profit de la Russie dans une usine près de Toulouse.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260619-tout-le-liban-doit-br%C3%BBler-dit-un-ministre-isra%C3%A9lien-apr%C3%A8s-la-mort-de-quatre-soldats",
+      "publishedAt": "2026-06-19T09:52:03.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "A détaillé l'arrestation et l'incarcération de l'homme",
+          "link": "https://www.lefigaro.fr/actualite-france/haute-garonne-un-homme-incarcere-apres-l-espionnage-presume-d-une-usine-francaise-de-drones-pour-la-russie-20260619"
+        },
+        {
+          "source": "France Info",
+          "angle": "A évoqué les cocktails Molotov et l'usine Delair",
+          "link": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/des-cocktails-molotov-contre-une-usine-de-drones-pour-la-guerre-en-ukraine-pres-de-toulouse-un-bielorusse-arrete-une-ingerence-russe-soupconnee-3371476.html#xtor=RSS-3-%5Blestitres%5D"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A lié l'espionnage au conflit ukrainien",
+          "link": "https://www.20minutes.fr/monde/ukraine/4229989-20260619-direct-guerre-ukraine-macron-impressionne-capacite-production-stupefiante-drones-kiev?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L’accord États-Unis-Iran vacille après le report des pourparlers en Suisse",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France Info",
+        "Radio-Canada"
+      ],
+      "summary": "La Suisse annonce le report des négociations entre l'Iran et les États-Unis après l'annulation de la venue du vice-président américain J.D. Vance, fragilisant l'accord récent.",
+      "link": "https://www.rfi.fr/fr/afrique/20260619-tentative-de-coup-d-%C3%A9tat-au-b%C3%A9nin-de-d%C3%A9cembre-2025-l-ex-ministre-candide-azanna%C3%AF-a-comparu-devant-la-justice",
+      "publishedAt": "2026-06-19T08:49:56.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A mentionné le report des pourparlers",
+          "link": "https://www.rfi.fr/fr/afrique/20260619-aujourd-hui-il-n-y-a-plus-de-rep%C3%A8res-en-tunisie-des-avocats-en-gr%C3%A8ve-exigent-une-r%C3%A9forme-de-la-justice"
+        },
+        {
+          "source": "France Info",
+          "angle": "A cité Jean-Noël Barrot appelant à respecter l'accord",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-accord-entre-l-iran-et-les-etats-unis-la-suisse-annonce-le-report-des-pourparlers-entre-l-iran-et-les-etats-unis-apres-l-annulation-de-la-venue-du-vice-president-americain_8068682.html#xtor=RSS-3-%5Blestitres%5D"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A souligné le vide après la signature",
+          "link": "https://ici.radio-canada.ca/nouvelle/2262870/negociations-iran-etats-unis-suisse-reportees"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "La France appelle à respecter l’accord et à arrêter les frappes israéliennes au Liban",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "20 Minutes"
+      ],
+      "summary": "Le ministre des Affaires étrangères Jean-Noël Barrot demande le respect de l'accord après des frappes israéliennes ayant fait 18 morts au Liban.",
+      "link": "https://www.lefigaro.fr/actualite-france/haute-garonne-un-homme-incarcere-apres-l-espionnage-presume-d-une-usine-francaise-de-drones-pour-la-russie-20260619",
+      "publishedAt": "2026-06-19T10:57:51.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "L’ex-ministre Candide Azannaï comparaît pour la tentative de coup d’État au Bénin",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "RFI"
+      ],
+      "summary": "Candide Azannaï, ancien ministre béninois, a comparu devant la justice pour la tentative de coup d'État de décembre 2025 ; son avocat se dit \"optimiste\".",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-accord-entre-l-iran-et-les-etats-unis-la-suisse-annonce-le-report-des-pourparlers-entre-l-iran-et-les-etats-unis-apres-l-annulation-de-la-venue-du-vice-president-americain_8068682.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-19T10:12:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Les avocats tunisiens font grève nationale pour réclamer une réforme de la justice",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "RFI"
+      ],
+      "summary": "L'Ordre des avocats en Tunisie organise une grève nationale le 18 juin, dénonçant les conditions de travail et les emprisonnements de confrères, et exigeant une réforme.",
+      "link": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/des-cocktails-molotov-contre-une-usine-de-drones-pour-la-guerre-en-ukraine-pres-de-toulouse-un-bielorusse-arrete-une-ingerence-russe-soupconnee-3371476.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-19T10:42:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Chili enquête sur un trafic présumé de centaines d’enfants haïtiens",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "RFI"
+      ],
+      "summary": "Le président chilien ouvre une cellule de crise pour retrouver des enfants haïtiens entrés au Chili en 2025 dans des conditions suspectes de trafic.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4229989-20260619-direct-guerre-ukraine-macron-impressionne-capacite-production-stupefiante-drones-kiev?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-19T05:27:08.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "L’IA s’invite dans les élections américaines de mi-mandat",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Radio-Canada"
+      ],
+      "summary": "Des groupes liés aux géants de l'intelligence artificielle participent à la campagne des élections de mi-mandat aux États-Unis, selon Radio-Canada.",
+      "link": "https://www.rfi.fr/fr/afrique/20260619-aujourd-hui-il-n-y-a-plus-de-rep%C3%A8res-en-tunisie-des-avocats-en-gr%C3%A8ve-exigent-une-r%C3%A9forme-de-la-justice",
+      "publishedAt": "2026-06-19T10:19:28.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 207,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.5,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 5,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 3,
+      "africa": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

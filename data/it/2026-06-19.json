@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-19",
+  "summary": "I raid israeliani nel sud del Libano hanno ucciso almeno 18 persone durante la notte, secondo fonti locali, mentre i residenti fuggono dai villaggi. L'esercito israeliano dice di aver colpito terroristi di Hezbollah in risposta a ripetute violazioni del cessate il fuoco. Hezbollah, da parte sua, rivendica attacchi contro le truppe israeliane per autodifesa, accusando Israele di aver violato per primo l'accordo. Il bilancio non distingue tra civili e miliziani, ma cresce la preoccupazione per la tenuta della tregua, già fragile dopo mesi di scontri.\n\nSul fronte ucraino, droni russi hanno colpito due navi civili straniere nel Mar Nero tra giovedì e venerdì, mentre la difesa aerea ucraina ha abbattuto 79 dei 90 droni lanciati. L'attacco alle navi mercantili conferma la strategia russa di colpire le rotte commerciali, un tema caldo per l'economia globale. Intanto, l'Italia è scossa da una polemica diplomatica: la premier Meloni ha smentito con un video le dichiarazioni attribuite a Donald Trump, secondo cui lei lo avrebbe implorato per una foto. Meloni le definisce 'totalmente inventate' e critica il comportamento del presidente Usa verso gli alleati, un episodio che agita i rapporti bilaterali.\n\nSul fronte della difesa, il ministro Crosetto è stato netto: gli impegni Nato sulle spese militari vanno rispettati o si esce dall'alleanza. Le parole arrivano mentre nel governo si discute tra Meloni, Giorgetti e altri sui conti pubblici e il target del 2% del Pil. Infine, a Campobasso sono stati sequestrati 70 alimenti sospettati di contenere ricina. I campioni saranno analizzati da consulenti italiani e tedeschi. Per ora non si segnalano intossicati, ma l'inchiesta è delicata.",
+  "headlines": [
+    {
+      "title": "Raid israeliani in Libano uccidono 18 persone, residenti fuggono dai villaggi",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Israele ha condotto raid aerei notturni nel sud del Libano, uccidendo almeno 18 persone secondo fonti locali e alimentando timori per la tenuta del cessate il fuoco con Hezbollah. L'Idf afferma di aver colpito terroristi in risposta a violazioni del cessate il fuoco.",
+      "link": "https://www.agi.it/estero/news/2026-06-19/libano-israele-raid-37635531/",
+      "publishedAt": "2026-06-19T10:48:05.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha riportato 16 morti con accusa israeliana di violazioni del cessate il fuoco da parte di Hezbollah",
+          "link": "https://www.agi.it/estero/news/2026-06-19/libano-israele-raid-37635531/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha enfatizzato il bilancio di 18 morti e la fuga dei residenti, con timori per la pace regionale",
+          "link": "http://it.euronews.com/video/2026/06/19/raid-aerei-in-libano-uccidono-18-persone-residenti-fuggono-dai-villaggi-del-sud"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Droni russi colpiscono due navi civili nel Mar Nero, 79 abbattuti dalla difesa ucraina",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "L'Ucraina denuncia che droni russi hanno colpito due navi civili straniere nel Mar Nero tra giovedì e venerdì. La difesa aerea ucraina ha abbattuto 79 dei 90 droni lanciati, secondo l'aeronautica militare.",
+      "link": "http://it.euronews.com/my-europe/2026/06/19/droni-russi-colpiscono-due-navi-civili-straniere-nel-mar-nero-secondo-lucraina",
+      "publishedAt": "2026-06-19T10:01:08.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Meloni smentisce Trump: dichiarazioni su presunte implorazioni per una foto sono inventate",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "La premier Giorgia Meloni ha risposto con un video a dichiarazioni attribuite a Donald Trump, secondo cui l'avrebbe implorata per una foto. Meloni definisce le affermazioni totalmente inventate e critica il comportamento del presidente Usa verso gli alleati.",
+      "link": "https://www.agi.it/vista-tv/video/2026-06-19/meloni-da-trump-dichiarazioni-inventate-io-e-l-italia-non-imploriamo-mai-37639241/",
+      "publishedAt": "2026-06-19T10:29:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Spese Difesa: ministro Crosetto ribadisce impegni Nato o si esce dall'alleanza",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il ministro della Difesa Guido Crosetto ha espresso la posizione del governo sulle spese militari: gli impegni Nato vanno rispettati o si lascia l'alleanza. Le dichiarazioni arrivano in un dibattito interno tra Meloni, Giorgetti e altri esponenti.",
+      "link": "https://www.ilsole24ore.com/art/spese-difesa-giorgetti-crosetto-e-meloni-quali-sono-posizioni-governo-AItRtalD",
+      "publishedAt": "2026-06-19T07:52:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Campobasso: 70 alimenti sospetti di ricina sotto sequestro, consulenti italiani e tedeschi li esamineranno",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "A Campobasso sono stati sequestrati 70 alimenti sospettati di essere stati avvelenati con ricina. Le analisi saranno condotte da consulenti italiani e tedeschi per determinare la natura della contaminazione.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/campobasso-avvelenate-ricina_113361872-202602k.shtml",
+      "publishedAt": "2026-06-19T10:33:53.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "Non sono note precedenti notizie su questo caso specifico.",
+      "category": "science",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 187,
+    "articlesAfterDedup": 187,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 6,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.1,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4
+    },
+    "tierCounts": {
+      "top": 1,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

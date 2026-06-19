@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-19",
+  "summary": "Militants linked to al Qaeda attacked Niger's main airport and a nearby military base in Niamey, killing at least 11 soldiers and two civilians. The group JNIM claimed responsibility for the assault, which the government confirmed late Thursday. The attack follows a similar large-scale strike on the same sensitive site six months ago, highlighting ongoing security challenges in the Sahel region where Niger's military rulers have struggled to contain jihadist groups since taking power in a 2023 coup.\n\nDiplomatic efforts suffered a pair of setbacks. Switzerland postponed US-Iran talks originally scheduled for Friday, keeping the fragile diplomatic process in limbo. Separately, Israel struck Hezbollah targets in southern Lebanon after four Israeli soldiers were killed there, escalating cross-border tensions that have simmered for months. The upshot: the calendar for negotiations and the security picture along Israel's northern border both shifted in unwelcome directions today.\n\nIn the US, the CDC announced it will tap $107 million in emergency funding to combat the Ebola outbreak in the Democratic Republic of the Congo and Uganda, where infections have now topped 1,000. Officials say global risk remains low, but the outbreak is the third largest on record and requires strong immediate support. Meanwhile, Ukraine struck Moscow with a drone attack that sent smoke over the capital, a symbolic escalation that Ukrainians hope signals an ability to bring the war deeper into Russian territory; its long-term effect on the conflict's trajectory remains unclear.\n\nZimbabwe's parliament passed a bill to extend President Emmerson Mnangagwa's term by two years and eliminate direct presidential elections, a move opposition groups say will entrench authoritarian rule. And in Australia, the Court of Appeal overturned the convictions of a Perth couple jailed for starving their daughter, citing a miscarriage of justice due to improper conduct by the judge during the original trial.",
+  "headlines": [
+    {
+      "title": "Al Qaeda-Linked Militants Claim Deadly Attack on Niger Airport",
+      "source": "AllAfrica",
+      "summary": "JNIM claimed responsibility for an attack on Niamey's main airport and military airbase, killing at least 11 soldiers and two civilians. The incident follows a major assault six months ago.",
+      "link": "https://allafrica.com/stories/202606190038.html",
+      "publishedAt": "2026-06-19T07:32:57.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Attacks in Lebanon and Iran Talks Delay Challenge US Deal",
+      "source": "New York Times World",
+      "summary": "Israel struck Hezbollah targets after four soldiers were killed in southern Lebanon. Switzerland postponed US-Iran talks scheduled for Friday, testing the fragile diplomatic process.",
+      "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
+      "publishedAt": "2026-06-19T10:51:10.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukraine Flexes Military Capability With Drone Strike on Moscow",
+      "source": "New York Times World",
+      "summary": "A drone attack sent smoke over Moscow, boosting Ukrainian hopes of bringing war to Russia. The strike's long-term impact remains uncertain but marks a significant escalation.",
+      "link": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+      "publishedAt": "2026-06-19T10:42:22.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "CDC Allocates $107M Emergency Fund for Ebola in DRC and Uganda",
+      "source": "The Guardian",
+      "summary": "CDC plans to use $107m in emergency funding as Ebola cases top 1,000 in DRC and Uganda. Officials say global risk remains low but the third-largest outbreak requires strong support.",
+      "link": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+      "publishedAt": "2026-06-18T18:55:09.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Zimbabwe MPs Pass Bill to Extend President's Term by Two Years",
+      "source": "BBC World",
+      "summary": "Zimbabwe's parliament passed a bill to extend President Emmerson Mnangagwa's term by two years and eliminate direct presidential elections. The move faces criticism from opposition groups.",
+      "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T08:03:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Retrial Ordered for Parents Jailed for Starving Daughter in Perth",
+      "source": "ABC Australia",
+      "summary": "The WA Court of Appeal overturned guilty verdicts against Perth parents convicted of starving their daughter, citing a 'miscarriage of justice' due to improper judicial conduct during the trial.",
+      "link": "https://www.abc.net.au/news/2026-06-19/perth-parents-jailed-for-starving-daughter-trial-unfair/106819730",
+      "publishedAt": "2026-06-19T07:53:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 423,
+    "articlesAfterDedup": 422,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 8,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 16,
+    "categoryCounts": {
+      "conflict": 3,
+      "science": 1,
+      "politics": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "africa": 3,
+      "middle-east": 1,
+      "europe": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

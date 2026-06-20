@@ -1,0 +1,221 @@
+{
+  "date": "2026-06-20",
+  "summary": "Israël a bombardé plus d'une douzaine de localités au Liban après l'annonce d'un cessez-le-feu, tuant au moins 16 personnes selon l'agence nationale d'information libanaise. Les frappes ont visé des zones comme Nabatieh, où les affrontements entre l'armée israélienne et le Hezbollah se poursuivent. Cette escalade met à l'épreuve l'accord entre les États-Unis et l'Iran, qui vacille déjà : les Iraniens ont annulé la cérémonie de signature prévue vendredi en Suisse, utilisant le détroit d'Ormuz comme levier pour faire pression sur Washington. En clair, la trêve annoncée n'a pas tenu, et les négociations diplomatiques sont au point mort.\n\nAu Sahel, deux attaques ont fait des victimes civiles. Au Niger, le Groupe de soutien à l'islam et aux musulmans (JNIM), affilié à Al-Qaïda, a revendiqué l'attaque du 18 juin contre la base militaire de l'aéroport de Niamey. L'armée nigérienne a repoussé l'assaut après plus de deux heures de combats. Au Mali, des avions militaires ont bombardé les environs de Kimya le 15 juin, tuant sept civils. L'armée avait annoncé avoir neutralisé des terroristes dans cette zone, mais les habitants accusent les forces gouvernementales d'avoir visé des non-combattants.\n\nEn Europe, deux affaires retiennent l'attention. En France, une commission d'enquête indépendante recommande des réparations financières pour toutes les victimes de violences à l'école de Bétharram, estimant leur nombre jusqu'à 1 500 personnes. Le rapport, publié samedi, insiste sur l'impact des traumatismes à long terme. En Pologne, le président Karol Nawrocki a annoncé retirer la plus haute distinction du pays à Volodymyr Zelensky. Cette décision symbolique pourrait nuire aux relations bilatérales entre Varsovie et Kiev, alors que la Pologne est l'un des plus ardents soutiens de l'Ukraine.\n\nEnfin, une avancée majeure contre le sida : le Lenacapavir, une injection deux fois par an offrant une protection de plus de 99 % contre le VIH, a été homologué et sera bientôt administré à grande échelle avec le soutien du Global Fund et du PEPFAR. Ce traitement préventif pourrait changer la donne dans la lutte contre le virus. Par ailleurs, un homme né en Biélorussie a été mis en examen en France pour avoir filmé un prototype du fabricant de drones Delair, fournisseur des armées française et ukrainienne. Il est soupçonné d'espionnage pour le compte de la Russie.",
+  "headlines": [
+    {
+      "title": "Israël bombarde douze localités libanaises après l'annonce d'un cessez-le-feu, 16 morts",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Liberation",
+        "RTBF (Belgian)",
+        "20 Minutes",
+        "Le Monde",
+        "Radio-Canada"
+      ],
+      "summary": "Israël a bombardé plus d'une douzaine de localités au Liban après l'annonce d'un cessez-le-feu, tuant au moins 16 personnes selon l'agence nationale d'information libanaise.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-etats-unis-accord-pourparlers-donald-trump-nucleaire-ormuz-israel-liban-benyamin-netanyahou-20260620",
+      "publishedAt": "2026-06-20T09:43:03.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "A souligné la poursuite des frappes malgré le cessez-le-feu annoncé la veille",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-etats-unis-accord-pourparlers-donald-trump-nucleaire-ormuz-israel-liban-benyamin-netanyahou-20260620"
+        },
+        {
+          "source": "Liberation",
+          "angle": "A mis en avant l'entrée en vigueur du cessez-le-feu vendredi à 15h avant les bombardements",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-malgre-le-cessez-le-feu-des-bombardements-israeliens-font-cinq-morts-dans-le-sud-du-liban-20260620_2R247JCD5BFZJOFPHAHDZRAKS4/"
+        },
+        {
+          "source": "RTBF (Belgian)",
+          "angle": "A rapporté cinq morts dans le sud, notamment trois à Arab Salim",
+          "link": "https://www.rtbf.be/article/cinq-morts-dans-des-frappes-israeliennes-sur-le-sud-du-liban-malgre-un-accord-de-cessez-le-feu-11744228"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A mentionné six morts et les frappes israéliennes en réponse à des attaques contre ses soldats",
+          "link": "https://www.20minutes.fr/monde/4230200-20260620-guerre-moyen-orient-six-morts-frappes-israeliennes-liban-malgre-cessez-feu"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "A ouvert sur les bombardements quelques heures après l'annonce du cessez-le-feu entre Israël et le Hezbollah",
+          "link": "https://www.lemonde.fr/international/live/2026/06/20/en-direct-guerre-au-moyen-orient-israel-poursuit-ses-bombardements-au-liban-au-moins-dix-morts-selon-l-agence-nationale-d-information-libanaise_6705272_3210.html"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A rapporté les frappes visant plus d'une douzaine de localités après minuit",
+          "link": "https://ici.radio-canada.ca/nouvelle/2263133/morts-frappes-israeliennes-liban-cessez-le-feu"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'accord Iran-États-Unis vacille, les Iraniens annulent la signature en Suisse",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Radio-Canada"
+      ],
+      "summary": "L'accord États-Unis-Iran bat de l'aile après que les Iraniens ont annulé la cérémonie de signature prévue vendredi en Suisse, utilisant le détroit d'Ormuz comme levier.",
+      "link": "https://www.lefigaro.fr/international/entre-l-iran-et-les-etats-unis-un-accord-qui-bat-deja-de-l-aile-20260619",
+      "publishedAt": "2026-06-19T19:00:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "A détaillé l'annulation de la signature par les Iraniens et la pression via Ormuz",
+          "link": "https://www.lefigaro.fr/international/entre-l-iran-et-les-etats-unis-un-accord-qui-bat-deja-de-l-aile-20260619"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A rapporté l'incertitude sur le démarrage des pourparlers malgré l'émissaire américain en route",
+          "link": "https://ici.radio-canada.ca/nouvelle/2263134/negociations-iran-emissaire-americain-steve-witkoff-suisse"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nabatieh devient l'épicentre des affrontements entre Israël et le Hezbollah au Liban",
+      "source": "Le Figaro",
+      "summary": "Les affrontements se poursuivent entre Israël et le Hezbollah autour de Nabatieh, ville stratégique où les habitants reviennent au compte-gouttes, mettant à l'épreuve l'accord Iran-États-Unis.",
+      "link": "https://www.lefigaro.fr/international/aujourd-hui-ils-continuent-d-avancer-vers-nous-nabatieh-epicentre-libanais-de-la-mise-a-l-epreuve-de-l-accord-iran-etats-unis-20260619",
+      "publishedAt": "2026-06-20T09:05:48.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le JNIM revendique l'attaque contre l'aéroport de Niamey, repoussée par l'armée",
+      "source": "France 24",
+      "summary": "Le Groupe de soutien à l'islam et aux musulmans (JNIM) a revendiqué l'attaque du 18 juin contre la base militaire de l'aéroport de Niamey, repoussée après plus de deux heures d'affrontements.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-niger-ce-que-l-on-sait-de-l-attaque-jihadiste-contre-l-a%C3%A9roport-de-niamey",
+      "publishedAt": "2026-06-20T09:41:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sept civils tués par des bombardements de l'armée malienne dans le centre du pays",
+      "source": "RFI",
+      "summary": "Des avions militaires maliens ont bombardé les environs de Kimya le 15 juin, tuant sept civils. L'armée avait annoncé avoir neutralisé des terroristes dans cette zone.",
+      "link": "https://www.rfi.fr/fr/afrique/20260620-l-arm%C3%A9e-malienne-accus%C3%A9e-de-bavure-apr%C3%A8s-la-mort-de-sept-personnes-dans-le-centre-du-pays",
+      "publishedAt": "2026-06-20T08:50:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Une commission préconise des réparations pour jusqu'à 1.500 victimes de l'affaire Bétharram",
+      "source": "Le Monde",
+      "summary": "Une commission d'enquête indépendante recommande des réparations financières pour toutes les victimes de violences à Bétharram, estimant leur nombre jusqu'à 1.500 personnes.",
+      "link": "https://www.lemonde.fr/societe/article/2026/06/20/affaire-de-betharram-une-commission-d-enquete-independante-preconise-des-reparations-financieres-pour-toutes-les-victimes-de-violences_6705292_3224.html",
+      "publishedAt": "2026-06-20T09:00:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Le président polonais Nawrocki retire la plus haute distinction du pays à Zelensky",
+      "source": "RTBF (Belgian)",
+      "summary": "Karol Nawrocki a annoncé retirer la plus haute distinction polonaise à Volodymyr Zelensky, une décision symbolique qui pourrait nuire aux relations bilatérales entre Varsovie et Kiev.",
+      "link": "https://www.rtbf.be/article/le-president-polonais-karol-nawrocki-annonce-retirer-la-plus-haute-distinction-du-pays-a-zelensky-11744081",
+      "publishedAt": "2026-06-19T19:32:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Lenacapavir, traitement préventif du sida à 99% d'efficacité, bientôt administré",
+      "source": "France 24",
+      "summary": "Le Lenacapavir, injection deux fois par an offrant une protection quasi complète contre le VIH (plus de 99%), a été homologué et sera bientôt administré à grande échelle avec le soutien du Global Fund.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-sida-le-lenacapavir-un-traitement-pr%C3%A9ventif-%C3%A0-l-efficacit%C3%A9-prometteuse",
+      "publishedAt": "2026-06-20T09:42:50.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Un Biélorusse soupçonné d'espionner une usine française de drones pour la Russie incarcéré",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Un homme né en Biélorussie a été mis en examen pour avoir filmé un prototype du fabricant français Delair, fournisseur des armées française et ukrainienne, soupçonné d'espionnage pour la Russie.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4230178-20260619-guerre-ukraine-homme-soupconne-avoir-espionne-usine-francaise-drones-russie-arrete?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-19T19:23:08.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Un suspect a été arrêté début juin en France pour avoir filmé un prototype de drone Delair, fournisseur des armées française et ukrainienne. Le parquet de Paris a confirmé son placement en détention.",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 211,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 14.8,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "africa": 2,
+      "europe": 3,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

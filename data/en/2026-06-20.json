@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-20",
+  "summary": "Israeli strikes killed at least 16 people in southern Lebanon today, breaking a renewed ceasefire between Israel and Hezbollah. The violence derailed planned talks between the United States and Iran, which were postponed. US special envoy declined to comment, but the upshot is clear: the region's fragile calm has collapsed again, and diplomatic efforts to ease tensions are on hold.\n\nThe official death toll from last week's jihadist attack on Niger's Niamey airport has risen to 35, according to the Ministry of Defense — 11 soldiers, 2 civilians, and 22 attackers killed. About 20 suspects are in custody. Meanwhile in Ghana, heads of state approved an 18-point strategic roadmap for reparatory justice, addressing legacies of enslavement and debt burdens. It was the first major meeting since the UN declared the slave trade a crime against humanity. Elsewhere in Africa, the US announced it will stop funding HIV programmes in South Africa, home to more than 8 million people living with HIV — the highest of any country. The future of treatment is uncertain.\n\nIn the Americas, Bolivia's President Rodrigo Paz declared a state of emergency, allowing the military to clear blockades after more than 50 days of protests that caused food and fuel shortages. In Peru, the presidential election between Keiko Fujimori and her rival is being decided by less than one percentage point — the closest in history. Fujimori is expected to win, but her rival alleges irregularities. In Pakistan, two roadside bombs killed at least seven people in the northwest. No group has claimed responsibility.\n\nBeijing has built a near-constant naval presence around Taiwan since 2020, stepping up efforts to bring the island under its control and raising regional tensions. Japan's prime minister proposed coordinated stockpiling of critical minerals at the G7, a move analysts say risks further tension with China over rare earth supplies. Separately, the US and Qatar are working on a plan to give Iran access to billions of dollars in frozen funds for humanitarian spending, part of an interim agreement. The plan is not yet completed.",
+  "headlines": [
+    {
+      "title": "Israeli Strikes Kill 16 in South Lebanon Despite Ceasefire Agreement",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "Al Jazeera English",
+        "Wall Street Journal World",
+        "BBC World"
+      ],
+      "summary": "At least 16 killed in Israeli strikes on southern Lebanon, violating a renewed ceasefire between Israel and Hezbollah. US-Iran talks postponed amid ongoing hostilities.",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-deal-live-updates-june-20-2026/article71124892.ece",
+      "publishedAt": "2026-06-20T09:37:55.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Focuses on casualties and impact on US-Iran talks",
+          "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-deal-live-updates-june-20-2026/article71124892.ece"
+        },
+        {
+          "source": "Al Jazeera English",
+          "angle": "Reports family killed in Gaza, violations of October ceasefire",
+          "link": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Highlights renewed ceasefire agreement and impact on Iran talks",
+          "link": "https://www.wsj.com/world/middle-east/israel-hezbollah-clashes-put-iran-deal-under-early-pressure-0aa5ae90"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Emphasizes ceasefire deal and US role in brokering",
+          "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Official Toll Rises to 35 in Jihadist Attack on Niger Airport",
+      "source": "AllAfrica",
+      "summary": "Nigerien Ministry of Defense reports 11 soldiers, 2 civilians, and 22 attackers killed in June 18 attack on Niamey airport. About 20 suspects arrested.",
+      "link": "https://allafrica.com/stories/202606190401.html",
+      "publishedAt": "2026-06-19T14:58:40.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Global Framework for Reparatory Justice Adopted at Ghana Conference",
+      "source": "The Guardian",
+      "summary": "Heads of state approve an 18-point strategic roadmap for reparations addressing legacies of enslavement and debt burdens. First major meeting since UN resolution declaring slave trade a crime against humanity.",
+      "link": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "publishedAt": "2026-06-19T17:26:45.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Bolivia’s President Declares State of Emergency Over 50-Day Blockade",
+      "source": "ABC Australia",
+      "sources": [
+        "ABC Australia",
+        "South China Morning Post",
+        "France 24",
+        "Deutsche Welle"
+      ],
+      "summary": "Bolivian President Rodrigo Paz declares state of emergency, enabling military deployment to clear blockades after 50 days of protests causing food and fuel shortages.",
+      "link": "https://www.abc.net.au/news/2026-06-20/bolivian-president-declares-emergency-after-weeks-of-protests/106823480",
+      "publishedAt": "2026-06-20T08:57:13.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ABC Australia",
+          "angle": "Reports on state of emergency and economic impact of blockades",
+          "link": "https://www.abc.net.au/news/2026-06-20/bolivian-president-declares-emergency-after-weeks-of-protests/106823480"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "Focuses on troop deployment and constitutional tools",
+          "link": "https://www.scmp.com/news/world/americas/article/3357770/bolivias-president-declares-state-emergency-paving-way-troop-deployment?utm_source=rss_feed"
+        },
+        {
+          "source": "France 24",
+          "angle": "Highlights deal with trade unions and shortages in capital",
+          "link": "https://www.france24.com/en/bolivia-declares-state-of-emergency-escalating-a-50-day-blockade-crisis"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Quotes president on freeing roads and weeks of protests",
+          "link": "https://www.dw.com/en/bolivia-s-paz-declares-state-of-emergency-over-blockades/a-77635224?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Two Roadside Bombs Kill at Least Seven in Northwestern Pakistan",
+      "source": "Al Jazeera English",
+      "summary": "At least seven killed in two roadside bombings in northwestern Pakistan. No group claims responsibility, investigation ongoing.",
+      "link": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss",
+      "publishedAt": "2026-06-20T08:53:41.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "US to Stop Funding HIV Programmes in South Africa",
+      "source": "BBC World",
+      "summary": "The US announces halt to HIV programme funding in South Africa, home to over 8 million people living with HIV, the highest globally. Future of treatment uncertain.",
+      "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T23:35:07.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Peru Awaits Result of Closest Presidential Election in History",
+      "source": "France 24",
+      "summary": "Peru’s presidential election between Keiko Fujimori and her rival decided by under one percentage point. Fujimori expected to win; rival alleges irregularities.",
+      "link": "https://www.france24.com/en/peru-voters-await-result-of-presidential-election-the-closest-in-the-country-s-history",
+      "publishedAt": "2026-06-20T09:18:30.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "China’s Navy Tightens Noose on Taiwan With Constant Naval Presence",
+      "source": "Wall Street Journal World",
+      "summary": "China builds near-constant naval presence around Taiwan since 2020, stepping up efforts to bring island under control. Tensions rise in the region.",
+      "link": "https://www.wsj.com/world/china/how-chinas-navy-is-tightening-the-noose-on-taiwan-7c8ab9bd",
+      "publishedAt": "2026-06-20T03:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "US and Qatar Work to Give Iran Access to Billions in Frozen Cash",
+      "source": "Wall Street Journal World",
+      "summary": "Uncompleted plan would make billions of dollars available to Iran for humanitarian spending, as part of US-Iran interim agreement. Details pending.",
+      "link": "https://www.wsj.com/world/middle-east/iran-frozen-funds-qatar-effed975",
+      "publishedAt": "2026-06-20T01:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Japan’s Rare Earth Proposal at G7 Risks Regional Tension, Analysts Say",
+      "source": "South China Morning Post",
+      "summary": "Japanese PM Sanae Takaichi proposes G7 stockpiling critical minerals, raising concerns of increased tension with China over rare earth supplies.",
+      "link": "https://www.scmp.com/opinion/asia-opinion/article/3357602/japans-g7-rare-earth-proposal-risks-further-regional-tension?utm_source=rss_feed",
+      "publishedAt": "2026-06-20T08:30:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 423,
+    "articlesAfterDedup": 423,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 18.7,
+    "categoryCounts": {
+      "conflict": 4,
+      "society": 1,
+      "politics": 5
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "africa": 3,
+      "americas": 2,
+      "asia-pacific": 3
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-20",
+  "summary": "I raid israeliani in Libano hanno ucciso 47 persone giovedì 19 giugno, e interi villaggi come Qlaileh sono stati quasi rasi al suolo. Donald Trump dice di aver spinto Israele verso un cessate il fuoco, ma i negoziati tra Stati Uniti e Iran restano sospesi. Il bilancio delle vittime sale mentre la comunità internazionale osserva senza intervenire. È la notizia più grave della giornata, perché mostra come il conflitto in Medio Oriente stia accelerando invece di rallentare.\n\nIn Ucraina la situazione resta tesa: un attacco russo su Kharkiv ha ucciso una donna e ferito altre nove persone. Kiev ha risposto con droni sulla regione di Mosca. Intanto i colloqui guidati dagli Stati Uniti per porre fine alla guerra sono ancora congelati. Un nuovo sviluppo arriva dai negoziati USA-Iran: l'inviato Steve Witkoff è atteso in Svizzera per riprendere il dialogo, sospeso giovedì scorso proprio a causa dei raid israeliani in Libano. Il ministro degli Esteri iraniano Araghchi potrebbe partecipare. Il che conta perché una tregua tra Israele e Hezbollah potrebbe riaprire la porta a un accordo sul nucleare iraniano.\n\nSul fronte migratorio l'Italia propone di creare hub per i richiedenti asilo in Paesi terzi, rilanciando il modello Albania in una lettera firmata da 19 leader europei. Ma si scontra con il premier spagnolo Sánchez, contrario. Il cancelliere tedesco Merz e il presidente francese Macron non hanno firmato. In sostanza: l'Europa è spaccata su come gestire i flussi, e la posta in gioco è alta perché i numeri crescono.\n\nInfine due notizie meno drammatiche ma che toccano la vita quotidiana. In Italia a maggio i prestiti a famiglie e imprese sono cresciuti del 3%: per le famiglie è il diciassettesimo mese consecutivo di aumento, per le imprese l'undicesimo. I depositi bancari hanno raggiunto un nuovo record a 1.890 miliardi. Segno che, nonostante l'incertezza, famiglie e aziende continuano a chiedere credito e a risparmiare. E dallo Sri Lanka arriva un allarme sanitario: oltre 44mila casi di dengue, con gli ospedali sotto pressione. Le autorità temono un'epidemia simile a quella del 2019, quando si superarono 105mila contagi.",
+  "headlines": [
+    {
+      "title": "Raid israeliani in Libano: 47 morti in un giorno, villaggi rasi al suolo",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "I raid israeliani in Libano uccidono 47 persone il 19 giugno. Donald Trump dice di aver spinto Israele verso un cessate il fuoco. I negoziati USA-Iran restano sospesi.",
+      "link": "https://www.rainews.it/video/2026/06/la-tregua-inesistente-villaggi-libanesi-ridotti-in-macerie-video-raid-idf-4df79571-ea59-48f0-b39e-e0bc32899281.html",
+      "publishedAt": "2026-06-20T08:07:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Enfatizza la distruzione dei villaggi libanesi e il numero di vittime",
+          "link": "https://www.rainews.it/video/2026/06/la-tregua-inesistente-villaggi-libanesi-ridotti-in-macerie-video-raid-idf-4df79571-ea59-48f0-b39e-e0bc32899281.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Riporta le dichiarazioni di Trump a sostegno del cessate il fuoco",
+          "link": "https://www.agi.it/estero/news/2026-06-20/libano-raid-israele-trump-37651472/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Collega i raid alla sospensione dei negoziati USA-Iran",
+          "link": "http://it.euronews.com/2026/06/20/negoziati-iran-usa-ancora-incerti-witkoff-verso-la-svizzera-atteso-anche-araghchi"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Migranti, Italia propone hub europei nei Paesi terzi: scontro Meloni-Sánchez",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "L'Italia propone hub per migranti in Paesi terzi nell'UE. Lettera di 19 leader rilanci il modello Albania. Merz e Macron non firmano. Scontro con Sánchez.",
+      "link": "https://www.ilsole24ore.com/art/migranti-lite-meloni-e-sanchez-l-italia-propone-hub-europei-paesi-terzi-AIlK0rmD",
+      "publishedAt": "2026-06-20T06:34:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ucraina: attacco russo su Kharkiv uccide una donna, Kiev colpisce Mosca con droni",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Attacco russo su Kharkiv il 20 giugno: una donna muore sotto le macerie, nove feriti. Kiev risponde con droni sulla regione di Mosca. Colloqui Usa ancora congelati.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-in-ucraina-ultime-notizie-20-giugno_113390231-202602k.shtml",
+      "publishedAt": "2026-06-20T09:14:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Negoziati Iran-USA: Witkoff in Svizzera per riprendere colloqui sospesi",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Steve Witkoff, inviato USA, è atteso in Svizzera per colloqui con l'Iran. Il confronto era sospeso da giovedì per i raid israeliani in Libano. Araghchi potrebbe partecipare.",
+      "link": "http://it.euronews.com/2026/06/20/negoziati-iran-usa-ancora-incerti-witkoff-verso-la-svizzera-atteso-anche-araghchi",
+      "publishedAt": "2026-06-20T09:13:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Prestiti a famiglie e imprese: +3% a maggio, depositi record a 1.890 miliardi",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "A maggio i prestiti crescono del 3%: 17° mese consecutivo per famiglie, 11° per imprese. Depositi bancari salgono a 1.890 miliardi, nuovo record.",
+      "link": "https://www.ilsole24ore.com/art/prestiti-3percento-maggio-depositi-livelli-record-salgono-1890-miliardi-AI1BhumD",
+      "publishedAt": "2026-06-20T08:36:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Sri Lanka: oltre 44mila casi di dengue, ospedali sotto pressione come nel 2019",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Lo Sri Lanka registra oltre 44mila casi di dengue. Le autorità temono un'epidemia simile al 2019, quando i contagi superarono 105mila. Ospedali sotto pressione.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/sri-lanka-44mila-casi-di-dengue_113395621-202602k.shtml",
+      "publishedAt": "2026-06-20T08:45:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 190,
+    "articlesAfterDedup": 189,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 7,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.2,
+    "categoryCounts": {
+      "conflict": 2,
+      "society": 1,
+      "politics": 1,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 3,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "date": "2026-06-21",
+  "summary": "Les négociations entre l'Iran et les États-Unis commencent aujourd'hui en Suisse, avec le cessez-le-feu au Liban comme priorité. L'accord préalable est déjà fragilisé. En parallèle, Donald Trump menace d'imposer un péage américain dans le détroit d'Ormuz si les discussions échouent, accentuant la pression sur Téhéran. Aucun détail sur les participants ou le lieu exact n'a été communiqué.\n\nAu Moyen-Orient, un responsable militaire israélien a confirmé avoir reçu l'ordre de cesser les affrontements avec le Hezbollah dans le sud du Liban, après des bombardements intenses. Mais la veille, Israël avait bombardé douze localités libanaises, tuant 16 personnes, après l'annonce d'un cessez-le-feu. À Gaza, un journaliste d'Al Jazeera a été tué par une frappe israélienne, portant à douze le nombre d'employés de la chaîne morts depuis octobre 2023. Al Jazeera dénonce un meurtre délibéré ; l'armée israélienne le qualifie de terroriste du Hamas.\n\nEn Ukraine, la Crimée a été frappée par une attaque de drones ukrainiens samedi, faisant cinq morts et endommageant des infrastructures énergétiques. La distribution de carburant a été interrompue, et une partie de la péninsule a été privée d'électricité. L'attaque vise à priver la Russie des revenus pétroliers qui financent son effort de guerre. Par ailleurs, le plateau du Golan reste un enjeu stratégique entre Israël et la Syrie, renforcé depuis le renversement de Bachar Al-Assad en 2024 ; Donald Trump est le seul dirigeant à avoir reconnu l'annexion israélienne.\n\nEn Colombie, les électeurs votent aujourd'hui pour leur président dans un climat tendu, opposant le sénateur de gauche Ivan Cepeda à son rival de droite. En Nouvelle-Calédonie, la France a renforcé ses capacités militaires avec l'arrivée du patrouilleur Jean-Tranape le 18 juin, faisant de l'archipel un avant-poste de sa stratégie indo-pacifique. Enfin, un premier cas de grippe aviaire H5N1 a été détecté en Australie sur un oiseau migrateur, menaçant la faune et l'industrie avicole.",
+  "headlines": [
+    {
+      "title": "Les négociations Iran-États-Unis débutent en Suisse avec le Liban comme principal sujet",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "France 24",
+        "RFI",
+        "Radio-Canada"
+      ],
+      "summary": "Les discussions entre l'Iran et les États-Unis commencent dimanche en Suisse, avec le cessez-le-feu au Liban comme priorité. L'accord préalable est déjà fragilisé.",
+      "link": "https://www.20minutes.fr/monde/4230270-20260621-cessez-feu-liban-nucleaire-negociations-entre-iran-etats-unis-debutent-dimanche-suisse?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-21T10:03:17.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "A ouvert sur le Liban comme principal sujet des négociations",
+          "link": "https://www.20minutes.fr/monde/4230270-20260621-cessez-feu-liban-nucleaire-negociations-entre-iran-etats-unis-debutent-dimanche-suisse?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "angle": "A mis en avant le lieu des négociations, un hôtel de luxe suisse",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260621-les-n%C3%A9gociations-entre-l-iran-et-les-%C3%A9tats-unis-vont-d%C3%A9marrer-en-suisse"
+        },
+        {
+          "source": "RFI",
+          "angle": "A souligné le rôle de la Suisse comme médiatrice diplomatique",
+          "link": "https://www.rfi.fr/fr/europe/20260621-la-suisse-passage-privil%C3%A9gi%C3%A9-sur-le-chemin-de-la-paix-entre-l-iran-et-les-%C3%A9tats-unis"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "La Crimée suspend la distribution de carburant après une attaque ukrainienne de drones",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Monde"
+      ],
+      "summary": "La Crimée a été frappée par une attaque de drones ukrainiens samedi, faisant cinq morts et endommageant des infrastructures. La distribution de carburant est interrompue. L'attaque vise à priver la Russie de revenus pétroliers.",
+      "link": "https://www.france24.com/fr/europe/20260621-russie-distribution-carburant-suspendue-en-crim%C3%A9e-apr%C3%A8s-attaque-ukraine-drones",
+      "publishedAt": "2026-06-21T09:59:32.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A commencé par la fermeture du pont de Crimée et les explosions nocturnes",
+          "link": "https://www.lemonde.fr/international/live/2026/06/21/en-direct-guerre-en-ukraine-trois-morts-dans-des-attaques-russes-sur-les-oblasts-ukrainiens-de-poltava-et-dnipropetrovsk_6702230_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "A détaillé les conséquences sur les stations-service et l'électricité en Crimée",
+          "link": "https://www.france24.com/fr/europe/20260621-russie-distribution-carburant-suspendue-en-crim%C3%A9e-apr%C3%A8s-attaque-ukraine-drones"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Un journaliste d'Al Jazeera tué à Gaza par une frappe israélienne",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Un journaliste d'Al Jazeera a été tué à Gaza par une frappe israélienne, portant à douze le nombre d'employés de la chaîne morts depuis le début de la guerre en 2023. La chaîne dénonce un meurtre délibéré.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260621-journaliste-al-jazeera-tu%C3%A9-%C3%A0-gaza-frappe-israel",
+      "publishedAt": "2026-06-21T09:05:50.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Un responsable de l'armée israélienne confirme avoir reçu l'ordre de cessez-le-feu au Liban",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Le Monde"
+      ],
+      "summary": "Un responsable militaire israélien a déclaré que l'armée avait reçu l'ordre de cesser les affrontements avec le Hezbollah dans le sud du Liban. L'annonce est intervenue samedi, après des bombardements intenses.",
+      "link": "https://www.20minutes.fr/monde/4230237-20260620-guerre-moyen-orient-responsable-armee-israelienne-dit-avoir-recu-ordre-cesser-feu-liban?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-20T20:21:09.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Israël a bombardé douze localités libanaises jeudi après l'annonce d'un cessez-le-feu. L'accord est désormais en cours d'application avec des ordres de cessez-le-feu.",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "A ouvert sur l'ordre de cessez-le-feu venant de la direction politique",
+          "link": "https://www.20minutes.fr/monde/4230237-20260620-guerre-moyen-orient-responsable-armee-israelienne-dit-avoir-recu-ordre-cesser-feu-liban?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "A mentionné l'importance stratégique du Golan et les déclarations de Trump",
+          "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/06/21/donald-trump-demeure-le-seul-dirigeant-du-monde-a-avoir-reconnu-l-annexion-par-israel-du-golan-syrien_6705488_6116995.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump menace d'imposer un péage américain dans le détroit d'Ormuz",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Donald Trump menace d'imposer un péage américain dans le détroit d'Ormuz si les négociations avec l'Iran échouent. La menace vise à faire pression sur Téhéran avant les discussions en Suisse.",
+      "link": "https://www.20minutes.fr/monde/4230236-20260620-donald-trump-menace-imposer-peage-americain-detroit-ormuz-cas-echec-negociations-iran?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-20T19:55:30.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Les Colombiens votent aujourd'hui pour leur président dans un climat tendu",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "France 24"
+      ],
+      "summary": "La Colombie tient son élection présidentielle ce 21 juin, dans un contexte de forte tension. Les candidats en lice sont le sénateur de gauche Ivan Cepeda et son rival de droite.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2263240/colombie-election-bogota-cepada-espriella",
+      "publishedAt": "2026-06-21T08:00:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "A décrit le scrutin comme une discorde entre deux feux",
+          "link": "https://ici.radio-canada.ca/nouvelle/2263240/colombie-election-bogota-cepada-espriella"
+        },
+        {
+          "source": "France 24",
+          "angle": "A présenté le profil du candidat de gauche Ivan Cepeda",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260621-pr%C3%A9sidentielle-en-colombie-qui-est-le-candidat-de-gauche-ivan-cepeda"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Le plateau du Golan reste un enjeu stratégique majeur entre Israël et la Syrie",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "L'importance stratégique du plateau syrien du Golan s'est accrue depuis le renversement de Bachar Al-Assad en 2024. Donald Trump est le seul dirigeant ayant reconnu l'annexion israélienne.",
+      "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/06/21/donald-trump-demeure-le-seul-dirigeant-du-monde-a-avoir-reconnu-l-annexion-par-israel-du-golan-syrien_6705488_6116995.html",
+      "publishedAt": "2026-06-21T05:00:07.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "La France renforce ses capacités militaires en Nouvelle-Calédonie avec un nouveau patrouilleur",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "La France a reçu le Jean-Tranape, un nouveau patrouilleur, en Nouvelle-Calédonie le 18 juin. L'archipel devient un avant-poste de la stratégie indo-pacifique française.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260621-avec-le-jean-tranape-la-france-renforce-ses-capacit%C3%A9s-militaires-en-nouvelle-cal%C3%A9donie",
+      "publishedAt": "2026-06-21T07:41:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Un premier cas de grippe aviaire H5N1 détecté en Australie sur un oiseau migrateur",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Le cadavre d'un oiseau porteur du virus H5N1 a été trouvé sur une plage de l'ouest de l'Australie samedi. C'est le premier cas sur le continent, menaçant la faune et l'industrie avicole.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260621-inqui%C3%A9tudes-pour-la-faune-sauvage-apr%C3%A8s-un-premier-cas-de-grippe-aviaire-h5n1-d%C3%A9tect%C3%A9-en-australie",
+      "publishedAt": "2026-06-21T06:14:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 215,
+    "articlesAfterDedup": 214,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 14.2,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 4,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 5,
+      "europe": 1,
+      "americas": 1,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "developing": 1,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

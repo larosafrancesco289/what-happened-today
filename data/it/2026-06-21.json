@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-21",
+  "summary": "Il vicepresidente USA JD Vance è arrivato a Ginevra per incontrare la delegazione iraniana, accompagnato dal mediatore Witkoff. Sul tavolo ci sono il programma nucleare di Teheran e il cessate il fuoco in Libano. La partita è delicata: i Pasdaran hanno dichiarato chiuso lo Stretto di Hormuz, via d'acqua cruciale per il petrolio mondiale, ma il comando centrale americano ha subito smentito. Il che conta perché una chiusura reale farebbe schizzare il prezzo del greggio, con effetti immediati su benzina e bollette. I colloqui riprendono dopo settimane di stallo.\n\nIn Bolivia lo stato d'emergenza è realtà. Il presidente Paz ha firmato il decreto dopo 51 giorni di blocchi stradali che paralizzano il Paese. Sindacati e lavoratori chiedono le sue dimissioni, e la situazione è grave: mancano cibo e farmaci nei centri urbani. Paz punta il dito contro l'ex presidente Morales, accusandolo di sobillare le proteste. La zona più colpita è l'altopiano centrale, dove le strade sono tagliate e i trasporti fermi. In sostanza: la Bolivia vive una crisi politica e sociale che potrebbe allargarsi.\n\nDue notizie dall'Ucraina. La Russia ha sospeso la vendita di benzina in Crimea dopo gli attacchi di Kiev alle infrastrutture energetiche russe. Il carburante è ora riservato solo a enti di governo e sicurezza, mentre ai distributori si formano lunghe code. È un segnale che gli attacchi ucraini cominciano a mordere sul territorio occupato. Intanto, una disputa storica tra Polonia e Ucraina si è inasprita: dopo che Varsavia ha revocato la massima onorificenza a Zelensky, diversi ex ministri ucraini hanno restituito le loro decorazioni polacche per solidarietà.\n\nInfine, una notizia tecnica ma concreta per chi ha a che fare con fisco e appalti. Il direttore dell'Unità di Informazione Finanziaria, Serata, ha annunciato una collaborazione più stretta con Guardia di Finanza e Agenzia delle Entrate. L'obiettivo è prevenire frodi su false fatture, bandi pubblici e Superbonus, sfruttando i dati per incrociare le segnalazioni in tempo reale. Per le imprese pulite significa meno concorrenza sleale, per i cittadini meno denaro pubblico sprecato.",
+  "headlines": [
+    {
+      "title": "USA e Iran riprendono i negoziati in Svizzera, tensione sullo Stretto di Hormuz",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Il vicepresidente USA JD Vance e il mediatore Witkoff incontrano a Ginevra la delegazione iraniana per discutere l'accordo nucleare e la crisi in Libano. Teheran dichiara chiuso lo Stretto di Hormuz, ma il Centcom nega.",
+      "link": "http://it.euronews.com/2026/06/21/delegazioni-di-usa-in-svizzera-per-colloqui-sullaccordo-di-pace-giallo-su-stretto-di-hormu",
+      "publishedAt": "2026-06-21T09:29:40.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Colloqui USA-Iran in Svizzera e l'incertezza sulla chiusura dello Stretto di Hormuz",
+          "link": "http://it.euronews.com/2026/06/21/delegazioni-di-usa-in-svizzera-per-colloqui-sullaccordo-di-pace-giallo-su-stretto-di-hormu"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Avvio negoziati USA-Iran in Svizzera e dichiarazioni iraniane sulla chiusura di Hormuz",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-21-giugno_113421707-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Bolivia in stato d'emergenza, blocchi stradali paralizzano il Paese da 51 giorni",
+      "source": "la Repubblica",
+      "summary": "Il presidente Paz proclama lo stato d'emergenza dopo 51 giorni di proteste di sindacati e lavoratori che chiedono le sue dimissioni. Mancano cibo e farmaci. Paz accusa l'ex presidente Morales.",
+      "link": "https://www.repubblica.it/esteri/2026/06/21/news/bolivia_proteste_blocchi_stradali_dichiarato_stato_emergenza_paz_morales-425424817/?rss",
+      "publishedAt": "2026-06-21T08:57:50.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Russia sospende la vendita di benzina in Crimea dopo gli attacchi ucraini",
+      "source": "Euronews Italiano",
+      "summary": "Gli attacchi di Kiev alle infrastrutture energetiche russe provocano una grave carenza di carburante in Crimea. Code ai distributori, vendita limitata a enti di governo e sicurezza.",
+      "link": "http://it.euronews.com/my-europe/2026/06/21/crisi-energia-in-crimea-la-russia-sospende-la-vendita-di-benzina-e-carburanti-dopo-attacch",
+      "publishedAt": "2026-06-21T09:39:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zelensky e ministri ucraini restituiscono le onorificenze polacche per una disputa storica",
+      "source": "Euronews Italiano",
+      "summary": "Dopo la revoca della massima onorificenza a Zelensky da parte del presidente polacco, molti ex dirigenti ucraini rinunciano a titoli e decorazioni ricevuti da Varsavia per un gesto ritenuto offensivo.",
+      "link": "http://it.euronews.com/my-europe/2026/06/21/zelensky-ministri-ed-ex-presidenti-restituiscono-le-onorificenze-che-accade-tra-ucraina-e-",
+      "publishedAt": "2026-06-21T08:09:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "UIF: con i dati si potenzia la prevenzione di false fatture, bandi e Superbonus",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il direttore della UIF Serata annuncia una collaborazione più stretta con Guardia di Finanza e Agenzia delle Entrate per prevenire frodi su false fatture e Superbonus.",
+      "link": "https://www.ilsole24ore.com/art/serata-uif-false-fatture-bandi-e-superbonus-i-dati-spazio-prevenzione-AIYR2XmD",
+      "publishedAt": "2026-06-21T10:02:31.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 197,
+    "articlesAfterDedup": 197,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 6,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "americas": 1,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

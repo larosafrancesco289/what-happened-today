@@ -1,0 +1,162 @@
+{
+  "weekId": "2026-W25",
+  "startDate": "2026-06-15",
+  "endDate": "2026-06-21",
+  "summary": "This week saw major geopolitical developments, with a preliminary US-Iran deal (June 15) raising hopes for ending the war and reopening the Strait of Hormuz, though subsequent attacks in Lebanon (June 20) and Iran talks delays (June 19) challenged its durability. Globally, the deal boosted Japan’s Nikkei 225 to a record 70,000 points (June 16), and G7 leaders praised Trump at a France summit (June 17). Ukraine intensified its military actions, targeting Russian supply routes (June 17) and striking a Moscow refinery in its largest drone attack (June 18), showcasing its growing capability. Meanwhile, Ukraine began EU membership negotiations (June 15), a long-term process. In Africa, an al Qaeda-linked attack on a Niger airport (June 19) killed 35 (June 20), while a DR Congo Ebola outbreak risked becoming the worst in history (June 17). Other notable events: a B-52 crash in California (June 16, 8 dead), the European Parliament approving a tariff deal with the US (June 16), Brazil sentencing Bolsonaro’s son (June 17), Israeli strikes killing 16 in south Lebanon despite a ceasefire (June 20), and Bolivia declaring a state of emergency over a blockade (June 20). Stories that faded quickly include the initial Iran deal announcement, a Russian missile strike on a Kyiv monastery (June 15), and UK social media ban and Australian flotilla investigation (both June 15). These headlines suggest the week’s main narrative was the fragile Iran peace push and Ukraine’s escalating drone war, while other events saw prompt resolution or news-cycle exit.",
+  "persistentStories": [],
+  "fadedStories": [
+    "US and Iran reach preliminary deal to end war, reopen Strait of Hormuz",
+    "Russian missile strike damages historic Kyiv monastery, kills four",
+    "Ukraine to begin EU membership negotiations, starting long journey",
+    "Britain announces social media ban for children under 16",
+    "Australian police investigate Israeli assault allegations on Gaza flotilla",
+    "Global attacks on education surge 40%, study finds 10,600 harmed",
+    "Chinese credit data shows sluggish loan demand in May",
+    "World's largest defense exhibition Eurosatory opens in Paris",
+    "Japan’s Nikkei 225 breaks 70,000 points for first time on Iran peace hopes",
+    "European Parliament approves tariff deal with US ahead of July deadline"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-15",
+      "title": "US and Iran reach preliminary deal to end war, reopen Strait of Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "Russian missile strike damages historic Kyiv monastery, kills four",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "Ukraine to begin EU membership negotiations, starting long journey",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "Japan’s Nikkei 225 breaks 70,000 points for first time on Iran peace hopes",
+      "category": "economy",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "European Parliament approves tariff deal with US ahead of July deadline",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "Eight crew members presumed dead in B-52 bomber crash at California base",
+      "category": "conflict",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Brazil Supreme Court sentences Bolsonaro's son to four years over US lobbying",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "G7 leaders praise Trump for U.S.-Iran deal at France summit",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "DR Congo Ebola outbreak could become worst in history as thousands untraced",
+      "category": "science",
+      "region": "africa"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Ukraine targets Russian supply routes to Crimea in logistics lockdown",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Ukraine Strikes Moscow Refinery in Largest Drone Attack on Capital",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Iran Gets Major Economic Lifeline in Initial Deal with Minimal Concessions",
+      "category": "economy",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "US Defense Secretary Hegseth Threatens NATO Allies Over Spending and Iran Support",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Al Qaeda-Linked Militants Claim Deadly Attack on Niger Airport",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Attacks in Lebanon and Iran Talks Delay Challenge US Deal",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Ukraine Flexes Military Capability With Drone Strike on Moscow",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Israeli Strikes Kill 16 in South Lebanon Despite Ceasefire Agreement",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Official Toll Rises to 35 in Jihadist Attack on Niger Airport",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Global Framework for Reparatory Justice Adopted at Ghana Conference",
+      "category": "society",
+      "region": "africa"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Bolivia’s President Declares State of Emergency Over 50-Day Blockade",
+      "category": "politics",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2513,
+    "totalSourcesUsed": 13,
+    "daysWithData": 6,
+    "categoryCounts": {
+      "conflict": 21,
+      "politics": 21,
+      "society": 5,
+      "economy": 4,
+      "science": 3,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 8,
+      "europe": 17,
+      "global": 1,
+      "asia-pacific": 14,
+      "americas": 6,
+      "africa": 9
+    }
+  }
+}

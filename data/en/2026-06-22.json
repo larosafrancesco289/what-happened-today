@@ -1,0 +1,236 @@
+{
+  "date": "2026-06-22",
+  "summary": "Mediators in Switzerland reported progress today after the first session of U.S.-Iran talks, with both sides agreeing to a 60-day roadmap toward a final deal. Technical talks are set to follow immediately. The breakthrough comes amid complications from Lebanon and tensions near the Strait of Hormuz, though no details of the roadmap's contents have been released. The host nation said conditions are now in place for the next phase of negotiations.\n\nBritish Prime Minister Keir Starmer stepped down as leader of the governing Labour Party, ending his premiership amid mounting pressure. Andy Burnham, the party's most popular politician, announced he would seek the prime minister's job and quickly secured a key endorsement from a potential rival. Separately, in Colombia, far-right millionaire lawyer Abelardo de la Espriella won the presidential runoff with 49.66% of the vote, defeating leftist Iván Cepeda by just 250,830 votes. Cepeda has alleged irregularities in the vote count, and the election outcome has been closely watched internationally.\n\nEbola cases in the Democratic Republic of Congo have surpassed 1,000, with overcrowded camps facing heightened risks due to ongoing displacement. The government announced free healthcare for Ituri province as a pilot project that it plans to extend nationwide. In Ukraine, thousands of civilians are evacuating Sloviansk and Kramatorsk in the Donbas as Russian forces intensify bomb and drone attacks. Russia is also massing troops near Kostyantynivka, a city whose capture would allow Moscow to push toward Ukraine's last remaining eastern strongholds — a strategic shift that raises the stakes in the war.\n\nAlan Greenspan, who led the U.S. Federal Reserve from 1987 to 2006, died at age 100 from complications of Parkinson's disease. He steered the economy through global upheaval but drew criticism for his hands-off regulation before the 2008 financial crisis. Meanwhile, China imposed restrictions on dozens of U.S. companies in retaliation for Washington expanding its military-linked company list, escalating trade tensions. Taiwan began a week-long Immediate Combat Readiness Exercise on Monday, designed to boost rapid deployment capabilities amid sustained Chinese military pressure, including frequent air and naval operations that officials say blur the line between peacetime and wartime.",
+  "headlines": [
+    {
+      "title": "Mediators hail progress in U.S.-Iran talks after opening session",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "NPR News",
+        "Wall Street Journal World"
+      ],
+      "summary": "Mediators in Switzerland reported progress after the first session of U.S.-Iran talks. The sides agreed to a 60-day roadmap for a final deal, with technical talks set to follow, amid complications from Lebanon and Hormuz tensions.",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-talks-in-switzerland-live-updates-june-22-2026/article71131544.ece",
+      "publishedAt": "2026-06-22T12:14:50.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "The Hindu",
+          "angle": "Focused on mediators' progress and technical talks timeline",
+          "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-talks-in-switzerland-live-updates-june-22-2026/article71131544.ece"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Emphasized U.S.-Iran agreement on a roadmap for final deal",
+          "link": "https://www.npr.org/2026/06/22/g-s1-129268/up-first-newsletter-keir-starmer-iran-us-vance-trump-reflection-pool"
+        },
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Highlighted Lebanon and Hormuz tensions complicating talks",
+          "link": "https://www.wsj.com/world/middle-east/war-in-lebanon-casts-shadow-over-renewed-iran-u-s-nuclear-talks-f457c7e9"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "UK PM Keir Starmer resigns; Andy Burnham seeks leadership",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "NPR News",
+        "ABC Australia"
+      ],
+      "summary": "British Prime Minister Keir Starmer stepped down as Labour Party leader amid pressure. Andy Burnham, the party's most popular politician, announced his candidacy for prime minister and secured a key endorsement.",
+      "link": "https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure",
+      "publishedAt": "2026-06-22T12:12:04.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times World",
+          "angle": "Covered Starmer's resignation and Burnham's endorsement",
+          "link": "https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Reported Starmer's resignation as a major political shift",
+          "link": "https://www.npr.org/2026/06/22/g-s1-129268/up-first-newsletter-keir-starmer-iran-us-vance-trump-reflection-pool"
+        },
+        {
+          "source": "ABC Australia",
+          "angle": "Analyzed Starmer's landslide win as shaky foundation",
+          "link": "https://www.abc.net.au/news/2026-06-22/keir-starmer-landslide-victory-built-on-shaky-ground/106505790"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Far-right millionaire wins Colombia's razor-thin presidential election",
+      "source": "The Guardian",
+      "summary": "Far-right lawyer Abelardo de la Espriella won Colombia's presidential runoff with 49.66% of the vote, defeating leftist Iván Cepeda by 250,830 votes. The leftwing opponent alleged vote count irregularities, and the election was closely watched.",
+      "link": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
+      "publishedAt": "2026-06-22T00:27:07.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Ebola cases surpass 1,000 in DR Congo amid violence and displacement",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "AllAfrica"
+      ],
+      "summary": "Ebola cases in DR Congo have exceeded 1,000, with overcrowded camps facing heightened risks due to displacement. The government announced free healthcare for Ituri as a pilot project to be extended nationwide.",
+      "link": "https://www.aljazeera.com/gallery/2026/6/22/ebola-cases-surpass-1000-in-congo-amid-violence-and-displacement?traffic_source=rss",
+      "publishedAt": "2026-06-22T12:03:38.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Al Jazeera English",
+          "angle": "Highlighted case numbers and camp risks from displacement",
+          "link": "https://www.aljazeera.com/gallery/2026/6/22/ebola-cases-surpass-1000-in-congo-amid-violence-and-displacement?traffic_source=rss"
+        },
+        {
+          "source": "AllAfrica",
+          "angle": "Focused on free healthcare announcement amid outbreak",
+          "link": "https://allafrica.com/stories/202606220512.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Thousands flee Ukraine's Donbas strongholds as Russia pushes closer",
+      "source": "New York Times World",
+      "summary": "Thousands of civilians are evacuating Sloviansk and Kramatorsk in Ukraine's Donbas as Russian forces intensify bomb and drone attacks. The exodus marks a strategic shift amid Russia's push toward fortress cities.",
+      "link": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
+      "publishedAt": "2026-06-22T09:09:29.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russian troop build-up threatens key city in Ukraine's Donbas",
+      "source": "BBC World",
+      "summary": "Russia is massing troops near Kostyantynivka, a city critical to seizing Ukraine's Donbas. If captured, Russian forces could advance on Ukraine's last eastern strongholds, raising stakes in the war.",
+      "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T23:57:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Alan Greenspan, influential Fed chairman, dies at age 100",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "South China Morning Post"
+      ],
+      "summary": "Alan Greenspan, who led the U.S. Federal Reserve from 1987 to 2006, died at 100 from Parkinson's complications. His legacy includes managing economic upheaval but also criticism for hands-off regulation before the 2008 crisis.",
+      "link": "https://www.wsj.com/economy/central-banking/alan-greenspan-fed-chair-dies-100-eeacb8eb",
+      "publishedAt": "2026-06-22T11:35:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Emphasized his influence and legacy dimmed by financial crisis",
+          "link": "https://www.wsj.com/economy/central-banking/alan-greenspan-fed-chair-dies-100-eeacb8eb"
+        },
+        {
+          "source": "South China Morning Post",
+          "angle": "Reported death from Parkinson's and reaction from wife",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3357946/alan-greenspan-former-us-fed-reserve-chair-dies-aged-100?utm_source=rss_feed"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "China slaps restrictions on dozens of U.S. companies",
+      "source": "Wall Street Journal World",
+      "summary": "China imposed restrictions on dozens of U.S. companies in retaliation for Washington expanding its military-linked company list. The move escalates trade tensions between the two nations.",
+      "link": "https://www.wsj.com/world/china/china-slaps-restrictions-on-dozens-of-u-s-companies-bd337a1c",
+      "publishedAt": "2026-06-22T07:46:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Taiwan starts drill to simulate rapid deployment amid PLA pressure",
+      "source": "South China Morning Post",
+      "summary": "Taiwan began a week-long Immediate Combat Readiness Exercise to boost rapid deployment capabilities. The drill comes amid sustained Chinese military pressure, including frequent air and naval operations.",
+      "link": "https://www.scmp.com/news/china/military/article/3357942/amid-pla-pressure-taiwan-starts-drill-simulate-rapid-deployment-crisis?utm_source=rss_feed",
+      "publishedAt": "2026-06-22T11:04:37.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "The Chinese mainland has increased air and naval operations near Taiwan, blurring peacetime-wartime lines.",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 393,
+    "articlesAfterDedup": 388,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 12.5,
+    "categoryCounts": {
+      "politics": 3,
+      "science": 1,
+      "conflict": 3,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 3,
+      "americas": 2,
+      "africa": 1,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "date": "2026-06-22",
+  "summary": "Keir Starmer a annoncé sa démission lundi, après des mois de pression. Son rival Andy Burnham a confirmé sa candidature pour la tête du parti travailliste et Downing Street. Starmer était notamment tenu responsable de la déroute de son parti aux élections locales du 7 mai. Au même moment, 49 départements français sont placés en vigilance rouge canicule. Treize personnes sont mortes par noyade depuis samedi soir, selon la Sécurité civile. La chaleur continue de s'intensifier sur une large partie du pays.\n\nSur le plan international, les négociations entre l'Iran et les États-Unis avancent en Suisse. Le vice-président américain J.D. Vance, présent à la première séance, affirme que des bases solides ont été jetées pour un accord final sous 60 jours. En Espagne, José Luis Ábalos, ancien ministre et figure clé du parti socialiste, a été condamné à 24 ans de prison pour corruption. Il était le bras droit du Premier ministre Pedro Sánchez. Au Canada, un contrat de 1,5 milliard d'euros a été signé avec l'Australie pour l'achat d'un radar transhorizon à haute fréquence, capable de surveiller à très longue distance.\n\nEn Ukraine, 59 drones russes ont été abattus près de Moscou, selon le maire Sergueï Sobianine. Des rumeurs de nouvelle offensive russe circulent, mais elles s'appuient sur des images sorties de leur contexte. Au Qatar, une explosion dans le complexe gazier de Ras Laffan a fait 18 disparus et 54 blessés, probablement due à un incident technique. Aux Philippines, deux élèves de 14 et 15 ans ont ouvert le feu dans un lycée, tuant trois adolescents et en blessant sept autres ; ils ont tiré au hasard, selon la police.\n\nEn France, les députés entament la troisième lecture de la proposition de loi sur l'aide à mourir, avec une possible adoption définitive en juillet. L'écart de voix s'est resserré entre partisans et opposants. Au Burkina Faso, l'Assemblée de transition a adopté une loi sur les libertés religieuses visant à prévenir les dérives et réaffirmer la laïcité de l'État. Enfin, le Parlement européen doit examiner mardi la création d'un euro numérique, destiné à réduire la dépendance aux acteurs américains des paiements.",
+  "headlines": [
+    {
+      "title": "Keir Starmer démissionne, Andy Burnham se présente pour lui succéder",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "France 24",
+        "RTBF",
+        "France Info"
+      ],
+      "summary": "Le Premier ministre travailliste Keir Starmer a annoncé sa démission lundi après des mois de pression. Son rival Andy Burnham confirme sa candidature pour la tête du parti et Downing Street.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2263380/keir-starmer-demission-premier-ministre-royaume-uni-travailliste",
+      "publishedAt": "2026-06-22T11:45:21.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Annonce de la démission et montée d'Andy Burnham comme successeur",
+          "link": "https://ici.radio-canada.ca/nouvelle/2263380/keir-starmer-demission-premier-ministre-royaume-uni-travailliste"
+        },
+        {
+          "source": "France 24",
+          "angle": "Démission après des mois de pression, contexte politique",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260622-royaume-uni-keir-starmer-d%C3%A9missionne-apr%C3%A8s-des-mois-de-pression"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Burnham confirme sa candidature, crise politique",
+          "link": "https://www.rtbf.be/article/crise-politique-au-royaume-uni-le-travailliste-andy-burnham-confirme-qu-il-se-presentera-pour-succeder-a-starmer-11745118"
+        },
+        {
+          "source": "France Info",
+          "angle": "Burnham favori pour Downing Street",
+          "link": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-le-travailliste-andy-burnham-confirme-qu-il-se-presentera-pour-succeder-a-keir-starmer_8073812.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Canicule : 49 départements en rouge, treize noyades en deux jours en France",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "RTBF"
+      ],
+      "summary": "La canicule s'intensifie avec 49 départements en vigilance rouge. Treize personnes sont mortes par noyade depuis samedi soir, annonce la Sécurité civile.",
+      "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-les-chaleurs-s-intensifient-encore-jusqu-a-440c-attendus-ce-lundi-dans-l-ouest-et-le-centre-20260622",
+      "publishedAt": "2026-06-22T12:27:03.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Avec les données de noyades et la vigilance rouge",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-les-chaleurs-s-intensifient-encore-jusqu-a-440c-attendus-ce-lundi-dans-l-ouest-et-le-centre-20260622"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Chaleur historique, moitié des Français en alerte",
+          "link": "https://www.rtbf.be/article/canicule-historique-en-france-sous-une-chaleur-suffocante-la-moitie-des-francais-en-vigilance-rouge-11744908"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iran-États-Unis : Vance annonce des bases solides pour un accord final",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "Liberation"
+      ],
+      "summary": "Le vice-président américain J.D. Vance est en Suisse pour la première séance de négociations avec l'Iran. Il affirme que des bases solides ont été jetées pour un accord final sous 60 jours.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2263386/nucleaire-iran-retour-inspecteurs-vance-aiea",
+      "publishedAt": "2026-06-22T12:25:13.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Vance en Suisse pour négociations, retour d'inspecteurs AIEA",
+          "link": "https://ici.radio-canada.ca/nouvelle/2263386/nucleaire-iran-retour-inspecteurs-vance-aiea"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Négociations en Suisse, Iran accepte l'AIEA, Ormuz ouvert",
+          "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-et-les-etats-unis-sentendent-sur-une-feuille-de-route-pour-un-accord-definitif-sous-60-jours-20260622_3GC3LEO2TZBJTK63DGLWU3225I/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Espagne : l'ex-bras droit de Pedro Sanchez condamné à 24 ans de prison",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "José Luis Ábalos, ancien ministre et figure clé du parti socialiste, a été condamné à 24 ans de prison pour corruption. Il était le bras droit du Premier ministre Pedro Sanchez.",
+      "link": "https://www.20minutes.fr/monde/espagne/4230527-20260622-espagne-ex-bras-droit-pedro-sanchez-condamne-24-ans-prison-corruption?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-22T12:02:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Canada achète un système de radar avancé à l'Australie pour 1,5 milliard d'euros",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "RFI"
+      ],
+      "summary": "Le Canada a signé un contrat de 1,5 milliard d'euros avec l'Australie pour l'achat d'un radar transhorizon à haute fréquence. Le système permet une surveillance à très longue distance.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2263371/canada-australie-systeme-radar",
+      "publishedAt": "2026-06-22T03:57:03.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Contrat de 2,5 milliards de dollars canadiens pour un radar avancé",
+          "link": "https://ici.radio-canada.ca/nouvelle/2263371/canada-australie-systeme-radar"
+        },
+        {
+          "source": "RFI",
+          "angle": "Vente de radar pour 1,5 milliard d'euros, rapprochement défense",
+          "link": "https://www.rfi.fr/fr/asie-pacifique/20260622-l-australie-vend-au-canada-un-syst%C3%A8me-de-radar-avanc%C3%A9-pour-1-5-milliard-d-euros"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Ukraine : 59 drones russes abattus près de Moscou, désinformation en ligne",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "L'armée ukrainienne continue de cibler Moscou avec des drones. Le maire de Moscou annonce 59 drones abattus. Des rumeurs de nouvelle offensive russe circulent basées sur des images sorties de leur contexte.",
+      "link": "https://www.rfi.fr/fr/europe/20260622-ukraine-la-d%C3%A9sinformation-bat-son-plein-apr%C3%A8s-les-attaques-sur-moscou",
+      "publishedAt": "2026-06-22T11:39:31.000Z",
+      "tier": "developing",
+      "dayNumber": 3,
+      "previousContext": "Les combats se sont intensifiés autour de Moscou après des attaques ukrainiennes sur des raffineries. La désinformation cherche à influencer la perception du conflit.",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Qatar : 18 disparus et 54 blessés après une explosion dans un complexe gazier",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Une puissante explosion a eu lieu dimanche soir dans la zone industrielle de Ras Laffan au Qatar, faisant 18 disparus et 54 blessés. L'origine serait un incident technique.",
+      "link": "https://www.20minutes.fr/monde/4230525-20260622-qatar-18-disparus-54-blesses-apres-puissante-explosion-complexe-gazier?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-22T11:46:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Philippines : trois adolescents tués par des élèves de 14 et 15 ans dans un lycée",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Deux élèves de 14 et 15 ans ont ouvert le feu dans un lycée du centre des Philippines, tuant trois adolescents et blessant sept autres. Ils ont tiré au hasard selon la police.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260622-philippines-ils-ont-tir%C3%A9-au-hasard-trois-adolescents-tu%C3%A9s-lors-d-une-fusillade-dans-un-lyc%C3%A9e",
+      "publishedAt": "2026-06-22T11:50:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Les députés français débutent la troisième lecture du projet de loi sur l'aide à mourir",
+      "source": "France Info",
+      "sources": [
+        "France Info"
+      ],
+      "summary": "Les députés entament lundi une troisième lecture de la proposition de loi sur la fin de vie. L'écart de voix s'est resserré, avec une possible adoption définitive en juillet.",
+      "link": "https://www.franceinfo.fr/societe/euthanasie/c-est-un-dilemme-douloureux-les-deputes-indecis-peuvent-ils-faire-basculer-le-vote-sur-l-aide-a-mourir_8068745.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-22T04:08:46.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Le Parlement français examine le texte depuis plusieurs semaines, avec un dilemme douloureux pour les députés indécis.",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Burkina Faso : l'Assemblée adopte une nouvelle loi sur les libertés religieuses",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "L'Assemblée législative de transition du Burkina Faso a adopté le 20 juin une loi sur les libertés religieuses. Le texte vise à prévenir les dérives et confirmer la laïcité de l'État.",
+      "link": "https://www.rfi.fr/fr/afrique/20260622-burkina-faso-un-nouveau-cadre-l%C3%A9gal-sur-les-libert%C3%A9s-religieuses",
+      "publishedAt": "2026-06-22T12:23:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Parlement européen examine la création de l'euro numérique pour contrer le dollar",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Le Parlement européen doit examiner mardi la création d'un euro numérique. Le système vise à réduire la dépendance aux acteurs américains du secteur des paiements.",
+      "link": "https://www.lemonde.fr/economie/article/2026/06/22/avec-l-euro-numerique-l-europe-tente-de-contrer-la-domination-ecrasante-du-roi-dollar_6706429_3234.html",
+      "publishedAt": "2026-06-22T04:00:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 213,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 19,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 8.5,
+    "categoryCounts": {
+      "politics": 4,
+      "environment": 2,
+      "economy": 2,
+      "conflict": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 6,
+      "middle-east": 2,
+      "global": 1,
+      "asia-pacific": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

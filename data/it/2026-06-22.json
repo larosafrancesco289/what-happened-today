@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-22",
+  "summary": "Keir Starmer si è dimesso oggi da leader del Partito Laburista e, di conseguenza, da primo ministro britannico. Nell'annuncio, visibilmente commosso, ha detto di aver 'ascoltato la risposta' della dirigenza del partito sulla sua idoneità a guidarlo alle prossime elezioni e di accettarla con serenità. Le candidature per la successione si apriranno tra due settimane, e il favorito è Andy Burnham. Starmer ha rivendicato di aver ereditato un partito 'in bancarotta politica, finanziaria e morale' e di aver dimostrato che i critici si sbagliavano.\n\nSul fronte diplomatico, i negoziati Iran-Usa in Svizzera hanno portato all'accordo di Teheran per il ritorno degli ispettori dell'Aiea, che il vicepresidente americano Vance ha definito una 'pietra miliare'. Intanto la Marina italiana ha scortato una nave del gruppo D'Amico fuori dal Golfo Persico, primo dispiegamento operativo nell'area di Hormuz dopo l'intesa, in sinergia con la Marina americana. L'operazione è stata ringraziata pubblicamente dalla società di navigazione.\n\nDue sviluppi nel settore della difesa. La Germania entrerà come azionista pubblico in KNDS, il gruppo franco-tedesco che produce i carri Leopard e Leclerc, con una partecipazione del 40% al fianco della Francia. Sul fronte ucraino, il presidente Zelensky ha denunciato l'uso di circa 2.200 droni, 1.800 bombe e 87 razzi russi nell'ultima settimana. Solo ieri a Zaporizhzhia e Poltava si contano 7 morti, tra cui sei bambini.\n\nInfine, due notizie di segno opposto. Alan Greenspan, storico presidente della Federal Reserve dal 1987 al 2006, è morto a 100 anni per complicanze del Parkinson. E re Carlo ha pubblicato per la prima volta la dichiarazione dei redditi, per modernizzare e democratizzare la corona. Nel frattempo, Ue e Ocse hanno rilasciato linee guida per un uso responsabile dell'intelligenza artificiale nelle scuole, definendo la tecnologia cruciale per competitività e democrazia.",
+  "headlines": [
+    {
+      "title": "Keir Starmer si dimette da primo ministro britannico dopo le pressioni interne",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News",
+        "la Repubblica",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Keir Starmer si è dimesso da leader laburista e primo ministro, annunciando che le candidature per la successione si apriranno tra due settimane. Il favorito è Andy Burnham.",
+      "link": "https://www.agi.it/estero/news/2026-06-22/starmer-dimissioni-primo-ministro-regno-unito-37676515/",
+      "publishedAt": "2026-06-22T11:29:13.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha aperto con l'annuncio emozionato di Starmer e le sue motivazioni personali.",
+          "link": "https://www.agi.it/estero/news/2026-06-22/starmer-dimissioni-primo-ministro-regno-unito-37676515/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Ha sottolineato il contesto dell'era Brexit con dieci anni di instabilità.",
+          "link": "https://www.rainews.it/video/2026/06/dimissioni-del-premier-starmer-si-apre-una-fase-per-il-regno-unito-e-per-i-laburisti--2ed634c5-1ead-4220-bebc-fd44e5935618.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Ha collegato le dimissioni ai dieci anni dalla Brexit e sette premier succeduti.",
+          "link": "https://www.repubblica.it/esteri/2026/06/22/news/brexit_dimissioni_starmer_regno_unito-425426617/?rss"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Ha riportato l'annuncio di Starmer e l'apertura delle candidature.",
+          "link": "https://www.agi.it/estero/news/2026-06-22/starmer-burnham-candidati-primo-ministro-37678467/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "D'Amico ringrazia la Marina italiana per il supporto nel Golfo Persico",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il gruppo D'Amico ringrazia la Marina italiana per l'uscita della nave dal Golfo Persico, primo dispiegamento operativo nell'area di Hormuz dopo l'intesa Usa-Iran.",
+      "link": "https://www.ilsole24ore.com/art/d-amico-grazie-marina-il-supporto-all-uscita-yasa-moon-golfo-persico-AI9u5PoD",
+      "publishedAt": "2026-06-22T11:37:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Colloqui Iran-Usa in Svizzera: Vance definisce storico il ritorno degli ispettori Aiea",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "I negoziati Iran-Usa in Svizzera vedono l'accordo di Teheran per il ritorno degli ispettori Aiea. Il vicepresidente Vance parla di 'pietra miliare' nella risoluzione della crisi.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-22-giugno_113453592-202602k.shtml",
+      "publishedAt": "2026-06-22T11:58:38.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Alan Greenspan, storico presidente della Fed, muore a 100 anni per complicanze del Parkinson",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Alan Greenspan, presidente della Federal Reserve dal 1987 al 2006, è morto a 100 anni a causa del morbo di Parkinson. Lascia la moglie Andrea Mitchell, sposata per 29 anni.",
+      "link": "https://www.agi.it/economia/news/2026-06-22/greenspan-presidente-fed-morto-37680726/",
+      "publishedAt": "2026-06-22T12:02:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Germania acquista il 40% del produttore di carri armati KNDS insieme alla Francia",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "La Germania entra come azionista pubblico in KNDS, gruppo franco-tedesco che produce i carri Leopard e Leclerc, con una partecipazione del 40% affiancando la Francia nella difesa europea.",
+      "link": "http://it.euronews.com/business/2026/06/22/germania-acquisisce-il-40-del-produttore-dei-carri-leopard-knds-insieme-alla-francia",
+      "publishedAt": "2026-06-22T11:34:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky: 2.200 droni e 1.800 bombe russe sull'Ucraina in una settimana, 7 morti ieri",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Il presidente Zelensky denuncia 2.200 droni, 1.800 bombe e 87 razzi russi in sette giorni. Ieri 5 morti a Zaporizhzhia e 2 a Poltava, tra cui sei bambini.",
+      "link": "https://www.agi.it/vista-tv/video/2026-06-22/2-200-droni-e-1-800-bombe-russe-sull-ucraina-nell-ultima-settimana-37679896/",
+      "publishedAt": "2026-06-22T10:49:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ue e Ocse pubblicano linee guida sull'intelligenza artificiale per gli studenti",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Ue e Ocse hanno rilasciato linee guida per un uso responsabile dell'IA nelle scuole. Il documento promuove la tecnologia come 'cruciale per competitività e democrazia'.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/06/18/da-ue-e-ocse-linee-guida-sullintelligenza-artificiale-per-gli-studenti_434af04f-806e-4f23-bd0b-936dca8fd6e4.html",
+      "publishedAt": "2026-06-22T11:47:36.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Giustizia e Pnrr: tempi processuali calano del 28,8% ma obiettivo 40% non centrato",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Tra 2019 e 2025 i tempi medi della giustizia civile e penale calano del 28,8%. L'obiettivo Pnrr del 40% di riduzione nei procedimenti civili non è ancora stato raggiunto.",
+      "link": "https://www.ilsole24ore.com/art/giustizia-e-pnrr-processi-piu-rapidi-tempi-giu-288percento-AIDayPoD",
+      "publishedAt": "2026-06-22T11:07:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Nuova legge Ue su cloud e IA divide tra reazioni contrastanti per l'interventismo",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "La Commissione Ue mira a triplicare il mercato dei data center in 5-7 anni con la legge CADA. Il forte interventismo richiesto divide gli operatori del settore.",
+      "link": "http://it.euronews.com/next/2026/06/22/nuova-legge-ue-su-cloud-e-ia-suscita-reazioni-contrastanti",
+      "publishedAt": "2026-06-22T11:51:19.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Re Carlo pubblica per la prima volta la dichiarazione dei redditi per modernizzare la corona",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il sovrano britannico rende pubblica la propria dichiarazione dei redditi per la prima volta, con l'obiettivo di modernizzare e democratizzare la corona.",
+      "link": "https://www.repubblica.it/esteri/2026/06/22/news/quanto_guadagna_re_carlo_dichiarazione_redditi_regno_unito-425426001/?rss",
+      "publishedAt": "2026-06-22T06:29:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Caccia ai miliardi congelati di Teheran: il mistero dei fondi per la ricostruzione",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Gli ayatollah stimano oltre 100 miliardi di dollari congelati dagli Stati Uniti. Senza quei fondi la ricostruzione è bloccata, ma Washington mantiene il controllo.",
+      "link": "https://www.repubblica.it/esteri/2026/06/22/news/caccia_al_tesoro_di_teheran_mistero_fondi_congelati_dagli_stati_uniti-425425733/?rss",
+      "publishedAt": "2026-06-21T23:00:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Dopo l'accordo Usa-Iran per il ritorno degli ispettori, emergono dettagli sulle risorse bloccate: i fondi congelati superano i 100 miliardi, cruciali per la ricostruzione iraniana.",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 196,
+    "articlesAfterDedup": 196,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 13.5,
+    "categoryCounts": {
+      "politics": 5,
+      "society": 3,
+      "economy": 1,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "europe": 7,
+      "middle-east": 3,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

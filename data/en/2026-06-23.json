@@ -1,0 +1,220 @@
+{
+  "date": "2026-06-23",
+  "summary": "Iran and the US wrapped up technical talks in Switzerland with both sides claiming progress toward a nuclear deal. Iran's top negotiator, Mohammad Ghalibaf, said Tehran agreed to allow international inspections of its nuclear sites. In exchange, the US will release roughly $12 billion in frozen Iranian assets. The talks are the highest-level direct contact between the two countries in years, and mediators say the framework of a broader agreement is taking shape — though details on timing and verification remain unresolved.\n\nA gas explosion at Qatar's main LNG processing plant in Ras Laffan killed at least 13 people and wounded dozens more. Qatari authorities say it was a technical accident, not a deliberate attack, and have opened an investigation. The facility handles about a third of the world's liquefied natural gas trade, so any prolonged shutdown could ripple through global energy markets. Meanwhile, in northern India, a building fire killed 15 people; witnesses reported seeing residents jump from windows to escape. Authorities have ordered an inquiry.\n\nColombia's presidential runoff ended with a razor-thin victory for far-right lawyer Abelardo de la Espriella, who took 49.66% of the vote against leftist Iván Cepeda's 48.7%. Cepeda alleged irregularities in the count, but international observers have not reported widespread fraud. De la Espriella, a Trump-endorsed outsider, has promised to reverse the country's peace deal with FARC rebels and crack down on crime — a sharp policy shift for a nation still emerging from decades of armed conflict.\n\nA UN commission reported that Israel deliberately killed Palestinian children during the war, including after a ceasefire took effect in October 2025, and said the actions amount to genocide. Israel has rejected the findings as biased. Separately, the EU held high-level talks with Taliban officials in Brussels on returning failed Afghan asylum-seekers — one of the bloc's most significant contacts with the Taliban since 2021. And in the South China Sea, four Chinese warships confronted a Philippine Navy vessel near Scarborough Shoal on Saturday, as Manila wrapped up a joint military drill with the US and other allies. Beijing has not commented.",
+  "headlines": [
+    {
+      "title": "Iran technical talks with US in Switzerland conclude successfully",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "NPR News",
+        "BBC World"
+      ],
+      "summary": "Iran and the US wrapped up technical talks in Switzerland, with Iran agreeing to allow nuclear inspections and the US easing $12 billion in frozen assets, marking progress toward a war-ending deal.",
+      "link": "https://www.aljazeera.com/news/2026/6/23/iran-says-technical-talks-with-us-in-switzerland-conclude-successfully?traffic_source=rss",
+      "publishedAt": "2026-06-23T08:49:58.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Al Jazeera English",
+          "angle": "Emphasized successful conclusion and asset release agreement",
+          "link": "https://www.aljazeera.com/news/2026/6/23/iran-says-technical-talks-with-us-in-switzerland-conclude-successfully?traffic_source=rss"
+        },
+        {
+          "source": "NPR News",
+          "angle": "Highlighted Pezeshkian's Pakistan visit alongside deal details",
+          "link": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal"
+        },
+        {
+          "source": "BBC World",
+          "angle": "Focused on Iran denying new commitments on nuclear sites",
+          "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "source": "BBC World",
+      "summary": "A technical accident at Qatar's main LNG processing site in Ras Laffan killed at least 13 people and injured dozens. Authorities are investigating the cause of the explosion.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-22T15:15:42.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.N. inquiry reports Israel targeted Palestinian children, amounting to genocide",
+      "source": "Japan Times",
+      "summary": "A U.N. commission reported that Israel deliberately killed Palestinian children during the war, even after a ceasefire in October 2025. The finding calls for international accountability.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/23/world/israel-gaza-children-target-un-report/",
+      "publishedAt": "2026-06-23T08:53:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Far-right millionaire Abelardo de la Espriella wins Colombia presidential runoff",
+      "source": "The Guardian",
+      "summary": "Trump-endorsed lawyer Abelardo de la Espriella won Colombia's presidential runoff with 49.66% of votes, defeating leftist Iván Cepeda. Cepeda alleged irregularities; de la Espriella's victory marks a sharp policy shift.",
+      "link": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
+      "publishedAt": "2026-06-22T00:27:07.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Inquiry ordered after building fire kills 15 in northern India city",
+      "source": "BBC World",
+      "summary": "A building fire in a northern Indian city killed 15 people, with witnesses reporting people jumping from windows. Authorities ordered an inquiry as rescue teams saved others.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T06:37:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "EU hosts Taliban officials for migrant return talks in Brussels",
+      "source": "Deutsche Welle",
+      "summary": "The EU held high-level talks with Taliban officials in Brussels to discuss returning failed Afghan asylum-seekers, granting temporary visas for the meeting. It is one of the bloc's highest-level contacts since 2021.",
+      "link": "https://www.dw.com/en/eu-hosts-taliban-for-migrant-return-talks-in-brussels/a-77668214?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-06-23T09:39:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "China and Philippines in rare naval stand-off near Scarborough Shoal",
+      "source": "South China Morning Post",
+      "summary": "Four Chinese warships confronted a Philippine Navy vessel near Scarborough Shoal on Saturday, as Manila ended a joint drill with the US and allies. Beijing has not commented on the incident.",
+      "link": "https://www.scmp.com/news/china/military/article/3358063/china-and-philippines-have-rare-naval-stand-near-disputed-scarborough-shoal?utm_source=rss_feed",
+      "publishedAt": "2026-06-23T09:14:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Whistleblower investigating Ecuador president's family business murdered, activists say",
+      "source": "The Guardian",
+      "summary": "Polish activist Monika Silva Koniuszek, who investigated the Ecuadorian president's family business, died from a blow to the head and strangulation, according to a postmortem. Activists say she was murdered to silence her.",
+      "link": "https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business",
+      "publishedAt": "2026-06-23T06:00:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Japan top court upholds dissolution order for Unification Church",
+      "source": "Japan Times",
+      "summary": "Japan's Supreme Court upheld the dissolution order for the Unification Church, ruling it does not violate constitutional guarantees of religious freedom. The decision is final.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/23/japan/crime-legal/top-court-unification-church-dissolve/",
+      "publishedAt": "2026-06-23T09:38:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Montreal shooting leaves officer, civilian and suspect dead",
+      "source": "BBC World",
+      "summary": "A shooting in Montreal killed a police officer, a civilian, and the suspect, marking the first line-of-duty death of a Montreal police officer in 24 years, the police chief said.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T08:36:38.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran moves to assert control over Strait of Hormuz, plans to charge fees",
+      "source": "New York Times World",
+      "summary": "Iran, after making the Strait of Hormuz unsafe for business, now plans to charge fees for vessel transit. Experts say this is a move to control the strategic waterway.",
+      "link": "https://www.nytimes.com/2026/06/23/world/middleeast/iran-control-strait-of-hormuz.html",
+      "publishedAt": "2026-06-23T09:01:32.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Iran has previously weaponized the Strait of Hormuz in the ongoing conflict, disrupting shipping. Today, it announced plans to charge transit fees.",
+      "sources": [
+        "New York Times World"
+      ],
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 416,
+    "articlesAfterDedup": 413,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 33.6,
+    "categoryCounts": {
+      "politics": 5,
+      "society": 4,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "global": 1,
+      "middle-east": 3,
+      "americas": 3,
+      "asia-pacific": 3,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

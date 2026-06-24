@@ -1,0 +1,244 @@
+{
+  "date": "2026-06-24",
+  "summary": "La France connaît une journée historique : la canicule a porté la température moyenne à 38,2°C mardi, battant le record de 2003. Dans le Finistère, 68 000 foyers ont perdu l'électricité à cause de câbles qui se sont dilatés sous la chaleur — les lignes ont explosé, sans faire de blessé. Une géographe alerte : les 50°C pourraient être dépassés d'ici 25 ans, même dans le nord du pays. Par ailleurs, un premier cas d'Ebola a été détecté en France, chez un médecin de retour de RDC. Le Premier ministre Sébastien Lecornu suit la situation de près, selon son entourage.\n\nAu Pérou, l'autorité électorale donne Keiko Fujimori vainqueure de la présidentielle, avec une avance de 43 000 voix sur Roberto Sanchez, que les dépouillements rendent irrattrapable. Sanchez conteste les résultats. En Roumanie, la crise politique s'aggrave : le président Nicusor Dan multiplie les consultations après l'échec de deux Premiers ministres désignés depuis mai. L'extrême droite réclame des législatives anticipées. La Corée du Nord, elle, équipe des navires d'armes nucléaires et prévoit des bâtiments de 10 000 tonnes, accentuant la pression sur Séoul.\n\nEn France, l'Assemblée nationale a adopté le principe d'une Corse autonome au sein de la République, par 271 voix contre 202. C'est une première étape, d'autres validations parlementaires sont nécessaires. Le gouvernement a aussi annoncé une loi globale contre les violences sexistes et sexuelles pour l'automne, après le meurtre de Lyhanna, 11 ans. Le texte prévoit 78 mesures, de la prévention à la protection des victimes. En Chine, le Premier ministre Li Qiang appelle à renforcer la gouvernance de l'intelligence artificielle, avertissant que son absence pourrait mener à une \"perte de contrôle\" aux conséquences graves.\n\nAux États-Unis, la Cour suprême a débouté un ancien détenu rastafarien dont les dreadlocks avaient été rasées en prison — une décision qui pourrait affecter les droits religieux des détenus. Au Canada, Ottawa s'apprête à désigner les premiers projets d'intérêt national dans l'Arctique, dont la route de la vallée du Mackenzie. Enfin, bonne nouvelle pour Bruxelles : le nombre d'entreprises a augmenté de 26 % entre 2015 et 2024, passant à 122 725, signe d'une attractivité économique soutenue.",
+  "headlines": [
+    {
+      "title": "Premier cas d'Ebola identifié en France chez un médecin de retour de RDC",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Libération"
+      ],
+      "summary": "Un médecin de retour de la RDC a été testé positif au virus Ebola en France. Le Premier ministre Sébastien Lecornu suit la situation de près, le ministère de la Santé confirmant le cas sur le territoire.",
+      "link": "https://www.lemonde.fr/societe/article/2026/06/24/ebola-un-premier-cas-identifie-en-france-chez-un-medecin-de-retour-de-rdc_6710248_3224.html",
+      "publishedAt": "2026-06-24T09:27:56.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec les détails du médecin et le suivi par le Premier ministre",
+          "link": "https://www.lemonde.fr/societe/article/2026/06/24/ebola-un-premier-cas-identifie-en-france-chez-un-medecin-de-retour-de-rdc_6710248_3224.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Insiste sur la confirmation du ministère de la Santé sur le territoire",
+          "link": "https://www.liberation.fr/societe/sante/ebola-un-premier-cas-identifie-en-france-chez-un-medecin-de-retour-de-rdc-20260624_K46A4NVLABA2JIQQ6TTFGBSRCE/"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Keiko Fujimori donnée gagnante de la présidentielle au Pérou, son rival conteste",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Libération"
+      ],
+      "summary": "L'autorité électorale péruvienne donne Keiko Fujimori gagnante avec 99,86% des bulletins dépouillés. Son avance de 43 000 voix sur Roberto Sanchez semble irrattrapable, mais Sanchez conteste les résultats.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260624-pr%C3%A9sidentielle-au-p%C3%A9rou-la-candidate-de-droite-keiko-fujimori-donn%C3%A9e-gagnante-par-l-autorit%C3%A9-%C3%A9lectorale",
+      "publishedAt": "2026-06-24T04:25:07.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Présente l'avance comme irrattrapable selon l'autorité électorale",
+          "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260624-pr%C3%A9sidentielle-au-p%C3%A9rou-la-candidate-de-droite-keiko-fujimori-donn%C3%A9e-gagnante-par-l-autorit%C3%A9-%C3%A9lectorale"
+        },
+        {
+          "source": "Libération",
+          "angle": "Souligne le lien avec Alberto Fujimori et la contestation de Sanchez",
+          "link": "https://www.liberation.fr/international/amerique/presidentielle-au-perou-la-candidate-de-droite-keiko-fujimori-en-passe-detre-elue-selon-lautorite-electorale-20260624_5P2SDRJQ7FCDPKQ3CIMSJ3SCVI/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "France : le principe de l'autonomie corse adopté à l'Assemblée nationale par 271 voix",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Le projet de loi constitutionnelle pour une Corse autonome au sein de la République a été adopté par 271 députés contre 202. Cette première étape nécessite encore d'autres validations parlementaires.",
+      "link": "https://www.rfi.fr/fr/france/20260624-france-le-principe-de-l-autonomie-corse-adopt%C3%A9-%C3%A0-l-assembl%C3%A9e-nationale",
+      "publishedAt": "2026-06-24T09:15:53.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Canicule : la France bat son record de température maximale avec 38,2°C mardi",
+      "source": "France Info",
+      "sources": [
+        "France Info"
+      ],
+      "summary": "Mardi, la température maximale moyenne a atteint 38,2°C, battant le record de 2003 (37,7°C). Une géographe alerte sur des dépassements des 50°C d'ici 25 ans, y compris dans le nord de la France.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/d-ici-25-ans-on-va-depasser-les-50-degres-y-compris-sur-le-nord-de-la-france-assure-la-geographe-magali-reghezza-zitt_8077103.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-24T09:16:35.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La Roumanie s'enfonce dans la crise politique, l'extrême droite en profite",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Le président Nicusor Dan multiplie les consultations après les échecs de deux Premiers ministres désignés depuis mai. L'extrême droite, en hausse, réclame des législatives anticipées face à l'instabilité.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/24/la-roumanie-s-enfonce-dans-la-crise-politique-sur-fond-de-montee-de-l-extreme-droite_6710221_3210.html",
+      "publishedAt": "2026-06-24T07:26:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Kim Jong-un équipe des navires d'armes nucléaires, nouvelle pression sur Séoul",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "La Corée du Nord équipe certains bateaux d'armes nucléaires et prévoit la construction de navires de 10 000 tonnes, accentuant la pression militaire dans la région.",
+      "link": "https://www.20minutes.fr/monde/coree_du_nord/4230877-20260624-coree-nord-kim-jong-remet-enieme-coup-pression-armes-nucleaires?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-24T06:48:14.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "68 000 foyers privés d'électricité dans le Finistère à cause de la canicule",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro"
+      ],
+      "summary": "Les fortes chaleurs ont provoqué des explosions sur des lignes aériennes, coupant l'électricité pour 68 000 foyers dans le Finistère. Aucun blessé n'est à déplorer, selon la préfecture.",
+      "link": "https://www.lefigaro.fr/societes/explosions-dans-le-finistere-risques-sur-des-lignes-aeriennes-les-reseaux-electriques-francais-durement-mis-a-l-epreuve-par-la-canicule-20260624",
+      "publishedAt": "2026-06-24T09:20:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Après le meurtre de Lyhanna, la France prépare une loi contre les violences sexuelles",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Le gouvernement annonce une loi globale contre les violences sexistes et sexuelles pour l'automne, comprenant 78 mesures. Le meurtre de Lyhanna, 11 ans, a suscité l'indignation et des critiques sur la protection des mineurs.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-apr%C3%A8s-le-meurtre-de-lyhanna-une-loi-contre-les-violences-sexuelles-%C3%A0-l-automne-en-france",
+      "publishedAt": "2026-06-24T09:02:45.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La Chine plaide pour une régulation de l'IA face au risque de perte de contrôle",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Le Premier ministre Li Qiang appelle à renforcer la gouvernance de l'intelligence artificielle, avertissant que son absence pourrait mener à une perte de contrôle aux conséquences graves.",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260624-intelligence-artificielle-tech-chine-plaide-pour-la-r%C3%A9gulation-face-au-risque-de-perte-de-contr%C3%B4le",
+      "publishedAt": "2026-06-24T09:03:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "La Cour suprême américaine rejette le recours d'un rastafarien aux dreadlocks rasées",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "La Cour suprême des États-Unis a débouté un ancien détenu rastafarien dont les dreadlocks avaient été rasées en prison. Cette décision pourrait affecter les droits religieux des détenus.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260624-%C3%A9tats-unis-la-cour-supr%C3%AAme-rejette-le-recours-d-un-rastafarien-dont-les-dreadlocks-ont-%C3%A9t%C3%A9-ras%C3%A9es-en-prison",
+      "publishedAt": "2026-06-24T09:03:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Ottawa s'apprête à désigner les premiers projets d'intérêt national dans l'Arctique",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada"
+      ],
+      "summary": "Le gouvernement canadien s'apprête à désigner les premiers projets d'intérêt national dans l'Arctique, incluant notamment la route de la vallée du Mackenzie aux Territoires du Nord-Ouest.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2264082/loi-batir-canada-route-vallee-mackenzie",
+      "publishedAt": "2026-06-24T01:19:45.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Le nombre d'entreprises à Bruxelles a augmenté de 26% entre 2015 et 2024",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "summary": "Bruxelles comptait 122 725 entreprises assujetties à la TVA en 2024, soit 25 549 de plus qu'en 2015, une hausse de 26% qui témoigne de l'attractivité économique de la région.",
+      "link": "https://www.rtbf.be/article/le-nombre-d-entreprises-installees-a-bruxelles-a-augmente-de-26-entre-2015-et-2024-11746401",
+      "publishedAt": "2026-06-24T09:13:22.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Pas de contexte antérieur spécifique : il s'agit d'une donnée de cadrage économique.",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 16,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 8.6,
+    "categoryCounts": {
+      "science": 2,
+      "politics": 4,
+      "environment": 2,
+      "conflict": 1,
+      "society": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 7,
+      "americas": 3,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 7,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

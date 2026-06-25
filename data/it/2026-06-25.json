@@ -1,0 +1,209 @@
+{
+  "date": "2026-06-25",
+  "summary": "Un doppio terremoto ha colpito il Venezuela, con la scossa più forte di magnitudo 7.5. Il bilancio provvisorio è di 32 morti e molti feriti. L'aeroporto internazionale è chiuso e i soccorritori scavano tra le macerie a mani nude. Tre fratellini sono stati estratti vivi. Il governo ha dichiarato lo stato di emergenza.\n\nSul fronte geopolitico, aumentano le tensioni tra Stati Uniti e Iran. Il segretario di Stato americano Marco Rubio, in Bahrein, ha ribadito che gli USA vogliono un accordo con l'Iran, ma non a qualsiasi prezzo. Ha respinto l'ipotesi di pedaggi nello Stretto di Hormuz, parlando di possibile 'caos totale'. Nel frattempo, l'Organizzazione Marittima Internazionale ha ordinato alle navi bloccate nel Golfo di restare ferme e attendere istruzioni. In questo contesto, il presidente Trump ha elogiato il leader turco Erdoğan e non ha escluso la vendita di caccia F-35 alla Turchia, criticando gli alleati europei. I leader dei cinque maggiori paesi europei si sono riuniti a Berlino per preparare il summit NATO di Ankara, con l'obiettivo di serrare i ranghi e riavvicinare gli Stati Uniti.\n\nIn Europa, l'Unione Europea ha adottato una nuova direttiva contro gli abusi sessuali sui minori. Le vittime potranno denunciare i predatori fino a 50 anni dopo la maggiore età. La norma contrasta anche l'adescamento online e l'uso dell'IA, azzerando le differenze tra gli Stati membri. In Italia, è diventata legge l'obbligo per i commercianti di accettare pagamenti elettronici anche tramite app e wallet digitali. Satispay ha accolto la norma con favore, annunciando che da settembre azzererà le commissioni per transazioni sotto i dieci euro.\n\nInfine, due notizie economiche. La Banca Centrale Europea ha rilevato un peggioramento della crescita nell'area euro: l'indice Pmi composito è sceso a maggio, restando in contrazione per due mesi consecutivi. Negli Stati Uniti, invece, il produttore di semiconduttori Micron Technology ha registrato risultati record, con un utile netto aumentato di 15 volte grazie alla domanda di memorie per l'intelligenza artificiale.",
+  "headlines": [
+    {
+      "title": "Doppio terremoto in Venezuela: scossa di 7.5, 32 morti e stato d'emergenza",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "Rai News"
+      ],
+      "summary": "Due forti scosse hanno colpito il Venezuela, la più potente di magnitudo 7.5. Il bilancio provvisorio è di 32 vittime e numerosi feriti. L'aeroporto internazionale è chiuso, soccorritori scavano a mani nude tra le macerie.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/terremoto-venezuela-diretta-news_113580980-202602k.shtml",
+      "publishedAt": "2026-06-25T08:22:17.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Immagini dei soccorsi con scavatori a mani nude, salvataggio di un uomo",
+          "link": "https://www.rainews.it/video/2026/06/scavano-nelle-macerie-a-mani-nude-e-salvano-un-uomo-seppellito-dal-terremoto-venezuela-aa21c211-420d-4354-91e8-a6263dda00b8.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Bilancio di 32 morti, stato di emergenza e salvataggio di tre fratellini",
+          "link": "https://www.tgcom24.mediaset.it/mondo/terremoto-venezuela-diretta-news_113580980-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ue adotta nuova direttiva: denunce per abusi su minori possibili fino a 50 anni",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "L'Unione Europea ha raggiunto un accordo sulla direttiva contro gli abusi sessuali sui minori. Le vittime potranno denunciare i predatori fino a 50 anni dopo la maggiore età. La norma contrasta anche l'adescamento online e l'uso dell'IA, azzerando le differenze tra gli Stati membri.",
+      "link": "http://it.euronews.com/my-europe/2026/06/25/abusi-sui-minori-nuovo-accordo-ue-denunce-possibili-fino-a-50-anni-e-pene-piu-severe",
+      "publishedAt": "2026-06-25T09:42:12.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump elogia Erdoğan e la Turchia, non esclude la cessione di F-35",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "la Repubblica"
+      ],
+      "summary": "Il presidente statunitense ha elogiato il leader turco criticando gli alleati europei. Trump ha aperto alla possibilità di vendere caccia F-35 alla Turchia. Le dichiarazioni arrivano in vista del summit NATO di Ankara, mentre aumentano le tensioni tra USA e Iran.",
+      "link": "http://it.euronews.com/2026/06/25/trump-elogia-erdogan-e-la-turchia-non-esclude-la-cessione-di-f-35",
+      "publishedAt": "2026-06-25T08:40:58.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Trump deluso dagli alleati europei, grato solo a Erdoğan e loda Zelensky",
+          "link": "https://www.repubblica.it/esteri/2026/06/25/news/trump_non_si_placa_gli_alleati_europei_mi_hanno_deluso_grato_solo_a_erdogan-425432369/?rss"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Trump apre alla cessione di F-35 alla Turchia, critica la NATO e gli europei",
+          "link": "http://it.euronews.com/2026/06/25/trump-elogia-erdogan-e-la-turchia-non-esclude-la-cessione-di-f-35"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Vertice E5 a Berlino: i leader europei vogliono una Nato più forte per ricucire con gli Usa",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "I leader dei cinque maggiori paesi europei (E5) si sono riuniti a Berlino per preparare il summit NATO di Ankara. Obiettivo: serrare i ranghi dopo settimane di polemiche interne e riavvicinare gli Stati Uniti, in un momento di forti tensioni tra NATO e Iran.",
+      "link": "https://www.repubblica.it/esteri/2026/06/25/news/vertice_e5_serve_nato_forte_strategia_europei_per_ricucire_con_usa-425432374/?rss",
+      "publishedAt": "2026-06-24T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iran, Rubio: 'Vogliamo un accordo ma non a qualsiasi prezzo'",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Il segretario di Stato americano Marco Rubio, in Bahrein per incontrare i ministri del Golfo, ha ribadito la volontà di un accordo con l'Iran ma senza cedimenti. Ha respinto l'ipotesi di pedaggi nello Stretto di Hormuz, parlando di possibile 'caos totale'.",
+      "link": "https://www.agi.it/estero/news/2026-06-25/iran-rubio-accordo--37725751/",
+      "publishedAt": "2026-06-25T09:00:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Micron registra risultati record: utile netto sale di 15 volte grazie all'IA",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Il produttore statunitense di semiconduttori Micron Technology ha superato le attese di Wall Street con ricavi e profitti trimestrali record, grazie alla domanda di memorie per l'intelligenza artificiale. L'utile netto è aumentato di 15 volte rispetto all'anno precedente.",
+      "link": "http://it.euronews.com/business/2026/06/25/micron-registra-risultati-record-boom-dellia-fa-balzare-lutile-netto-di-15-volte",
+      "publishedAt": "2026-06-25T08:46:23.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Bce: indici Pmi segnalano peggioramento della crescita nell'area euro",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "La Banca Centrale Europea ha rilevato che l'indice Pmi composito flash dell'area euro è sceso a maggio, restando in territorio di contrazione per due mesi consecutivi. Il dato suggerisce un peggioramento della crescita economica nel secondo trimestre.",
+      "link": "https://www.tgcom24.mediaset.it/economia/bce-indici-pmi-peggioramento-crescita-secondo-trimestre_113586204-202602k.shtml",
+      "publishedAt": "2026-06-25T08:21:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Decreto Accise: diventa legge l'obbligo di accettare pagamenti elettronici anche via app",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il Decreto Accise è legge: i commercianti devono accettare moneta elettronica anche tramite app e wallet digitali. Satispay ha accolto la norma con favore, annunciando che da settembre azzererà le commissioni per transazioni sotto i dieci euro.",
+      "link": "https://www.ilsole24ore.com/art/decreto-accise-e-legge-l-obbligo-accettazione-moneta-elettronica-anche-via-app-e-wallet-AI60Q1qD",
+      "publishedAt": "2026-06-25T09:16:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Stretto di Hormuz: l'agenzia Onu ordina alle navi di restare ferme e attendere istruzioni",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "L'Organizzazione Marittima Internazionale (IMO) ha impartito ordini chiari ai comandanti delle navi bloccate nel Golfo: restare fermi, attendere di essere contattati e seguire solo le istruzioni degli Stati costieri. La misura mira a gestire la crisi nello Stretto di Hormuz.",
+      "link": "https://www.repubblica.it/esteri/2026/06/25/news/hormuz_regole_agenzia_marittima_onu_uscire_stretto_hormuz-425433081/?rss",
+      "publishedAt": "2026-06-25T08:50:54.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Basi Usa in Italia: quali sono e le loro funzioni strategiche nell'area euro-mediterranea",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Un'analisi del Sole 24 Ore elenca le basi statunitensi presenti in Italia, descrivendone le funzioni logistiche e strategiche. L'Italia ospita alcune delle installazioni più importanti per la difesa dell'intera scacchiera euro-mediterranea, in un momento di tensioni globali.",
+      "link": "https://www.ilsole24ore.com/art/basi-usa-italia-quali-sono-e-quali-funzioni-strategiche-AIN5EZrD",
+      "publishedAt": "2026-06-25T08:53:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 184,
+    "articlesAfterDedup": 183,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 12,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10.8,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 5,
+      "economy": 2,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "americas": 1,
+      "europe": 5,
+      "middle-east": 3,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

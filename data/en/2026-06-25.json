@@ -1,0 +1,192 @@
+{
+  "date": "2026-06-25",
+  "summary": "A few other developments. Niger formally withdrew from the International Criminal Court, citing selective justice, adding to a string of African exits and deepening debate over the court's legitimacy. Amazon CEO Andy Jassy told Indian Prime Minister Narendra Modi that the company would invest $13 billion in India for cloud and AI infrastructure, aiming to support 3.8 million jobs by 2030. And a doctor in Hong Kong performed the world's first robotic living-donor liver transplant, a milestone that could expand access to the procedure.",
+  "headlines": [
+    {
+      "title": "Twin earthquakes kill 32, injure 700 in Caracas, Venezuela",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "The Guardian",
+        "Deutsche Welle",
+        "The Hindu"
+      ],
+      "summary": "Two powerful earthquakes struck Caracas and surrounding cities, collapsing buildings and killing at least 32 people while injuring more than 700. International rescue teams are arriving to assist survivors.",
+      "link": "https://www.wsj.com/world/americas/venezuela-earthquakes-caracas-damage-a5835528",
+      "publishedAt": "2026-06-25T07:16:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Wall Street Journal World",
+          "angle": "Focused on casualty figures and building collapses in Caracas",
+          "link": "https://www.wsj.com/world/americas/venezuela-earthquakes-caracas-damage-a5835528"
+        },
+        {
+          "source": "The Guardian",
+          "angle": "Spotlighted rescue efforts and volunteer response in Altamira area",
+          "link": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Reported on acting president confirming 32 deaths in nationwide quake impact",
+          "link": "https://www.dw.com/en/buildings-collapse-after-deadly-earthquakes-rock-venezuela/live-77699720?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Highlighted world leaders offering solidarity and aid after the quakes",
+          "link": "https://www.thehindu.com/news/international/venezuela-earthquakes-live-updates-terremoto-caracas-magnitude-7-tsunami-alert-damages-death-toll-live-updates-june-25-2026/article71144983.ece"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump asks Congress for billions for Iran war, feuds with Senate",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Deutsche Welle"
+      ],
+      "summary": "President Trump requested billions in funding for the Iran war after a Senate motion rebuking his policy. He canceled a housing bill signing and clashed with Republican senators, threatening the budget's passage.",
+      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-25T09:06:59.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "BBC World",
+          "angle": "Stressed budget's uphill fight amid Trump tensions with own party",
+          "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "angle": "Focused on Senate feud and cancellation of housing bill ceremony after rebuke",
+          "link": "https://www.dw.com/en/us-trump-feuds-with-senators-after-rare-iran-war-rebuke/a-77684833?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "China orders foreign ships near Taiwan, drawing US rebuke",
+      "source": "Wall Street Journal World",
+      "summary": "China's coast guard began issuing commands to foreign vessels on Taiwan's Pacific side this month. The US decried the move as destabilizing, escalating tensions in the region.",
+      "link": "https://www.wsj.com/world/asia/chinas-assertions-of-authority-over-foreign-ships-near-taiwan-draw-u-s-rebuke-d0546eb0",
+      "publishedAt": "2026-06-24T15:26:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Niger formally withdraws from International Criminal Court",
+      "source": "AllAfrica",
+      "summary": "Niger's government quit the ICC citing selective justice, deepening debate over the court's legitimacy. The move adds to recent withdrawals by African nations.",
+      "link": "https://allafrica.com/stories/202606250127.html",
+      "publishedAt": "2026-06-25T08:21:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Turkish arms sale triggers face-off between Trump and Congress",
+      "source": "Wall Street Journal World",
+      "summary": "The Trump administration pushes for a rare override to approve a Turkish arms sale ahead of the NATO summit in Ankara. Congress opposes the deal amid human rights concerns.",
+      "link": "https://www.wsj.com/politics/national-security/a-turkish-arms-sale-leads-to-a-face-off-between-trump-and-congress-ee55c700",
+      "publishedAt": "2026-06-24T22:46:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Amazon CEO announces $13 billion investment in India for cloud and AI",
+      "source": "The Hindu",
+      "summary": "Andy Jassy told PM Modi that Amazon will invest $13 billion and aims to support 3.8 million jobs by 2030 in India, boosting cloud and AI infrastructure.",
+      "link": "https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-meets-pm-modi-investments-2030-india-ai-cloud/article71145559.ece",
+      "publishedAt": "2026-06-25T09:35:50.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Canada discusses joining GCAP fighter jet program with Japan",
+      "source": "Japan Times",
+      "summary": "Canadian defense minister talked with Japanese counterpart about possible participation in the Global Combat Air Program, as rival European fighter project collapsed.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/25/japan/canada-gcap/",
+      "publishedAt": "2026-06-25T09:21:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran warns against unathorized Hormuz crossings; Rubio in Bahrain",
+      "source": "The Hindu",
+      "summary": "The IRGC issued warnings on Hormuz strait crossings as an oil tanker reportedly hugged the coast. Rubio said tolls could spread to other waterways, speaking at a GCC meeting.",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-25-2026/article71144582.ece",
+      "publishedAt": "2026-06-25T09:40:45.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 413,
+    "articlesAfterDedup": 413,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 18.3,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 4,
+      "conflict": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "asia-pacific": 3,
+      "africa": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

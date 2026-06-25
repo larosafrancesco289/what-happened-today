@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-25",
+  "summary": "Un double séisme a frappé le Venezuela ce 25 juin, faisant au moins 32 morts et plus de 700 blessés. Le plus violent depuis 126 ans, il a touché la région proche de Caracas. La présidente par intérim Delcy Rodriguez a déclaré l'état d'urgence, alors que des répliques sont redoutées. Les secours continuent de chercher d'éventuelles victimes sous les décombres.\n\nL'Union européenne a transféré 3,2 milliards d'euros à l'Ukraine dans le cadre d'un prêt global de 90 milliards pour soutenir son budget face à la guerre. Un deuxième versement de 6 milliards d'euros est prévu dans les prochains jours pour financer l'achat de drones, a précisé Ursula von der Leyen. Par ailleurs, un tribunal parisien examine ce 25 juin la responsabilité climatique de TotalEnergies, dans un procès intenté par des ONG et la Ville de Paris. La décision pourrait redéfinir les obligations des grandes entreprises françaises en matière climatique.\n\nUne commission d'enquête de l'ONU accuse Israël de cibler délibérément des enfants à Gaza, et confirme, sur la base de motifs raisonnables, qu'Israël commet un génocide à Gaza. Israël a entamé un retrait partiel du sud du Liban, tandis qu'un mort israélien est signalé dans la zone. Le cours du pétrole baisse, et l'Iran accuse l'Otan de complicité, tout en menaçant de régenter le détroit d'Ormuz.\n\nEn France, le plan ORSAN de niveau 3 a été activé face à la canicule persistante, qui met sous pression les hôpitaux. La Chine menace de riposter si l'UE durcit ses mesures contre ses entreprises, alors que Bruxelles cherche à réduire son déficit commercial quotidien d'un milliard d'euros avec Pékin. En Ukraine, Donald Trump a flatté Volodymyr Zelensky, et un dépôt pétrolier est en feu en Russie, sans lien direct signalé entre les deux.",
+  "headlines": [
+    {
+      "title": "Double séisme au Venezuela fait au moins 32 morts et plus de 700 blessés",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Radio-Canada"
+      ],
+      "summary": "Deux puissants tremblements de terre ont frappé le Venezuela le 25 juin, causant 32 morts et 700 blessés, le plus violent depuis 126 ans. La présidente par intérim Delcy Rodriguez a déclaré l'état d'urgence, alors que des répliques sont redoutées près de Caracas.",
+      "link": "https://www.lemonde.fr/planete/article/2026/06/25/le-venezuela-sous-le-choc-apres-un-double-seisme-le-plus-violent-depuis-126-ans-on-a-eu-l-impression-que-la-terre-n-allait-jamais-s-arreter-de-trembler_6713377_3244.html",
+      "publishedAt": "2026-06-25T06:35:43.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Met l'accent sur le choc des habitants et l'ampleur historique du double séisme.",
+          "link": "https://www.lemonde.fr/planete/article/2026/06/25/le-venezuela-sous-le-choc-apres-un-double-seisme-le-plus-violent-depuis-126-ans-on-a-eu-l-impression-que-la-terre-n-allait-jamais-s-arreter-de-trembler_6713377_3244.html"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Annonce l'état d'urgence par la présidente par intérim Delcy Rodriguez et le bilan provisoire.",
+          "link": "https://ici.radio-canada.ca/info/en-direct/1013961/deux-seismes-venezuela-caracas-morts"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'UE transfère 3,2 milliards d'euros à Kiev sur un prêt de 90 milliards",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "20 Minutes"
+      ],
+      "summary": "La Commission européenne a versé un premier prêt de 3,2 milliards d'euros à l'Ukraine, suivi de 6 milliards pour l'achat de drones. Ce transfert s'inscrit dans un prêt global de 90 milliards pour soutenir le budget ukrainien face à la guerre.",
+      "link": "https://www.lemonde.fr/international/live/2026/06/25/en-direct-guerre-en-ukraine-un-premier-versement-du-pret-europeen-de-90-milliards-d-euros-alloue-a-kiev-a-ete-effectue-jeudi_6706390_3210.html",
+      "publishedAt": "2026-06-25T09:31:11.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille les montants du prêt et le calendrier des versements pour le budget et les drones.",
+          "link": "https://www.lemonde.fr/international/live/2026/06/25/en-direct-guerre-en-ukraine-un-premier-versement-du-pret-europeen-de-90-milliards-d-euros-alloue-a-kiev-a-ete-effectue-jeudi_6706390_3210.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Relate également ce versement dans son live, avec focus sur les déclarations de Trump et un dépôt pétrolier en feu en Russie.",
+          "link": "https://www.20minutes.fr/monde/ukraine/4231083-20260625-direct-guerre-ukraine-trump-flatte-zelensky-depot-petrolier-feu-russie?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Le tribunal de Paris rend une décision historique sur le devoir de vigilance de TotalEnergies",
+      "source": "France 24",
+      "summary": "Le tribunal judiciaire de Paris examine ce 25 juin la responsabilité climatique de TotalEnergies, dans un procès intenté par des ONG et la Ville de Paris. Cette décision pourrait redéfinir les obligations des grandes entreprises françaises en matière climatique.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260625-devoir-de-vigilance-totalenergies-face-%C3%A0-une-d%C3%A9cision-de-justice-historique-sur-le-climat",
+      "publishedAt": "2026-06-25T09:47:44.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Une commission de l'ONU accuse Israël de cibler délibérément des enfants à Gaza",
+      "source": "RFI",
+      "summary": "Une commission d'enquête internationale mandatée par l'ONU déclare qu'Israël cible délibérément les enfants palestiniens à Gaza. Les experts onusiens confirment, sur la base de motifs raisonnables, qu'Israël commet un génocide à Gaza.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260625-bande-de-gaza-isra%C3%ABl-cible-d%C3%A9lib%C3%A9r%C3%A9ment-des-enfants-affirme-une-commission-de-l-onu",
+      "publishedAt": "2026-06-25T09:16:57.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "La France active le plan ORSAN de niveau 3 face à la canicule persistante",
+      "source": "Le Figaro",
+      "summary": "Le Premier ministre Sébastien Lecornu a annoncé l'activation du plan ORSAN de niveau 3 pour le système de santé, en raison de la canicule qui ne faiblit pas. La ministre de la Santé est concertée pour faire face à la pression sur les hôpitaux.",
+      "link": "https://www.lefigaro.fr/meteo/en-direct-meteo-canicule-chaleur-france-alerte-rouge-vigilance-temperatures-20260625",
+      "publishedAt": "2026-06-25T09:39:36.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Chine menace de riposter si l'UE prend des mesures restrictives contre ses entreprises",
+      "source": "RFI",
+      "summary": "L'ambassadeur de Chine auprès de l'UE prévient que la Chine répliquera si Bruxelles durcit son arsenal législatif contre ses entreprises. Les tensions commerciales persistent, l'UE cherchant à réduire son déficit commercial quotidien d'un milliard d'euros avec la Chine.",
+      "link": "https://www.rfi.fr/fr/%C3%A9conomie/20260625-la-chine-r%C3%A9pliquera-si-l-ue-prend-des-mesures-restrictives-envers-ses-entreprises",
+      "publishedAt": "2026-06-25T09:12:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israël se retire d'une partie du sud du Liban, baisse du pétrole et tensions avec l'Iran",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "20 Minutes"
+      ],
+      "summary": "Israël entame un retrait partiel du sud du Liban, tandis que le cours du pétrole baisse et que l'Iran accuse l'Otan de complicité. Un mort israélien est signalé dans le sud du Liban, et l'Iran veut régenter le détroit d'Ormuz.",
+      "link": "https://www.liberation.fr/international/moyen-orient/baisse-du-cours-de-petrole-complicite-de-lotan-selon-liran-un-mort-israelien-dans-le-sud-du-liban-lactu-du-conflit-au-moyen-orient-ce-jeudi-25-juin-20260625_SBFTA5BBRFFBRNBFUYVARKZNGA/",
+      "publishedAt": "2026-06-25T09:37:29.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "Résume les développements clés du conflit au Moyen-Orient ce 25 juin.",
+          "link": "https://www.liberation.fr/international/moyen-orient/baisse-du-cours-de-petrole-complicite-de-lotan-selon-liran-un-mort-israelien-dans-le-sud-du-liban-lactu-du-conflit-au-moyen-orient-ce-jeudi-25-juin-20260625_SBFTA5BBRFFBRNBFUYVARKZNGA/"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Se concentre sur l'accusation iranienne de complicité de l'Otan et les pourparlers avec les États-Unis.",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4231077-20260625-direct-guerre-moyen-orient-iran-accuse-otan-complicite-guerre-menee-contre?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump flatte Zelensky et un dépôt pétrolier en feu en Russie",
+      "source": "20 Minutes",
+      "summary": "Dans le live sur la guerre en Ukraine, 20 Minutes rapporte que Trump flatte Zelensky et qu'un dépôt pétrolier est en feu en Russie. Aucune indication sur un lien direct entre les deux événements.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4231083-20260625-direct-guerre-ukraine-trump-flatte-zelensky-depot-petrolier-feu-russie?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-25T06:18:22.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "La guerre en Ukraine se poursuit, avec des frappes et des tensions diplomatiques.",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 217,
+    "articlesAfterDedup": 217,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 10,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.5,
+    "categoryCounts": {
+      "environment": 2,
+      "politics": 2,
+      "society": 1,
+      "conflict": 3
+    },
+    "regionCounts": {
+      "americas": 1,
+      "europe": 3,
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

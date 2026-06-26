@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-26",
+  "summary": "Oggi l'Italia è sotto una cappa di caldo record. Diciotto città sono in bollino rosso e gli accessi al pronto soccorso sono aumentati del 10-15%. Secondo la Wwa, il 45% delle città europee ha superato i massimi storici di stress termico, mentre la Francia ha registrato un picco di mortalità. Gli esperti raccomandano di bere anche senza sete e di evitare sbalzi di temperatura; alcuni farmaci possono alterare la termoregolazione, quindi serve prudenza. Cinque regioni sono anche sotto allerta temporali, il che mostra quanto sia variabile la situazione.\n\nSul piano internazionale, Israele ha colpito Nabatiye nel sud del Libano. Il premier Netanyahu smentisce un ritiro delle truppe, dicendo che l'Idf non se ne va. Hezbollah accusa Tel Aviv di aver preso di mira civili che rientravano nelle loro case. A Vienna, l'Iran mantiene un severo sistema di monitoraggio nucleare secondo l'Aiea, mentre il segretario Usa Rubio ha ribadito che vuole un accordo ma non a qualsiasi prezzo.\n\nBuone notizie dallo spazio: il rover Perseverance ha rilevato centinaia di molecole organiche in due rocce marziane. La scoperta potrebbe indicare tracce di antichi microrganismi, aprendo nuove ipotesi sulla vita passata su Marte.\n\nIn Italia, due storie giudiziarie e scolastiche. A Milano, il gup ha concesso la giustizia riparativa a Davide Cavallo, 22enne, per l'accoltellamento di Alessandro Chiani, 19enne. Il provvedimento tiene conto della disponibilità della vittima a incontrare l'aggressore. Intanto, la Rete degli studenti ha presentato un documento sulle criticità degli esami di maturità, in occasione dei colloqui orali in corso.",
+  "headlines": [
+    {
+      "title": "Caldo record: bollino rosso in 18 città italiane, accessi al pronto soccorso +15%",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Ondata di calore eccezionale: 18 città con bollino rosso, accessi al pronto soccorso aumentati del 10-15%. Allerta temporali in 5 regioni. Il 45% delle città europee ha superato i massimi storici di stress termico.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/caldo-italia-europa-ultime-notizie-26-giugno_113616233-202602k.shtml",
+      "publishedAt": "2026-06-26T09:46:41.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israele colpisce Nabatiye in Libano, Netanyahu smentisce il ritiro delle truppe",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Due aerei israeliani hanno colpito Nabatiye, nel sud del Libano. Il premier Netanyahu nega il ritiro dell'IDF: 'L'Idf non se ne va'. Hezbollah accusa Tel Aviv di aver preso di mira civili che rientravano nelle loro case.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-26-giugno_113612913-202602k.shtml",
+      "publishedAt": "2026-06-26T09:33:20.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rover Perseverance scopre centinaia di molecole organiche in due rocce su Marte",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Il rover Perseverance ha rilevato centinaia di molecole organiche in due rocce marziane. La scoperta potrebbe indicare tracce di antichi microrganismi, aprendo nuove ipotesi sulla vita passata su Marte.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/06/26/marte-in-due-rocce-scoperte-centinaia-di-molecole-organiche-_7c014d30-d141-49be-a63c-4dd5b544dfae.html",
+      "publishedAt": "2026-06-26T07:02:48.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Studente accoltellato a Milano: il 19enne Alessandro Chiani ottiene la giustizia riparativa",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Il gup ha concesso la giustizia riparativa a Davide Cavallo, 22enne, per l'accoltellamento di Alessandro Chiani, 19enne. Il provvedimento tiene conto della disponibilità della vittima a incontrare l'aggressore.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/davide-cavallo-accoltellato-giustizia-riparativa_113620514-202602k.shtml",
+      "publishedAt": "2026-06-26T09:50:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Rete degli studenti presenta documento sulle criticità degli esami di maturità",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "In occasione dei colloqui orali in corso in tutta Italia, la Rete degli studenti ha presentato un documento che elenca le criticità riscontrate durante l'esame di maturità.",
+      "link": "https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/06/25/rete-studenti-presenta-documento-queste-le-criticita-sulla-maturita_448ca6a7-cf73-4216-a9a1-6372385b490f.html",
+      "publishedAt": "2026-06-25T09:26:30.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Esperti: regole per affrontare il caldo, da idratazione a farmaci senza sbalzi",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Con l'ondata di calore, gli esperti raccomandano di bere anche senza sete e di evitare sbalzi di temperatura. Attenzione ai farmaci che possono alterare la termoregolazione.",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/06/25/da-idratazione-a-farmaci-le-regole-per-affrontare-il-caldo_59ca3ab6-df7e-4f4f-910f-fe9b3e76d45e.html",
+      "publishedAt": "2026-06-25T23:13:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 189,
+    "articlesAfterDedup": 189,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 6,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 24.5,
+    "categoryCounts": {
+      "environment": 2,
+      "conflict": 1,
+      "science": 1,
+      "society": 1,
+      "politics": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "middle-east": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [
+      "Low source diversity (2 unique sources, recommend 3+)"
+    ],
+    "qualityErrors": []
+  }
+}

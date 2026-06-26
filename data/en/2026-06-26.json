@@ -1,0 +1,253 @@
+{
+  "date": "2026-06-26",
+  "summary": "The death toll from Venezuela's twin earthquakes has climbed to 235, with thousands injured and hundreds still missing. Rescue teams from the United States and Mexico have joined the search, and the Treasury has authorized relief transactions despite existing sanctions. The quakes struck Caracas and surrounding areas, leveling buildings and straining hospitals. Officials warn the number of casualties could rise further as crews dig through rubble.\n\nNew satellite imagery reveals the extent of damage Iran inflicted on Naval Support Activity Bahrain, a key US naval base. The attack has prompted a strategic recalculation in the Gulf, where three months of US-Iran war are reshaping regional alliances. Gulf Arab states, bracing for a potential US-Iran deal that might leave them exposed, are overhauling their defense strategies, economies, and trade routes. Meanwhile, an attack on a ship in the Strait of Hormuz has halted a UN evacuation plan for trapped sailors, and the IAEA chief is demanding robust nuclear inspections in Iran post-war.\n\nUkraine launched its largest drone attack on Russia since the 2022 invasion, with Russian air defenses intercepting 660 drones across 12 regions and Crimea. A chemical plant in Novomoskovsk was damaged. Separately, President Zelensky accused Belarus of allowing its radio relay stations to guide Russian attack drones, escalating warnings against its northern neighbor. In Zimbabwe, the senate voted 75-4 to extend presidential terms from five to seven years, allowing the 83-year-old President Mnangagwa to stay until 2030; opponents called it a 'constitutional coup.'\n\nTwo other stories: rescue workers in Lagos recovered nine bodies, including a baby, from a collapsed three-storey shopping complex, with 26 survivors pulled alive. And in Paris, police ordered cancellations of the pride march and Solidays music festival as a record-breaking heatwave overwhelmed hospitals. Temperatures soared, and emergency services were stretched thin.",
+  "headlines": [
+    {
+      "title": "Venezuela earthquake death toll reaches 235 as international rescuers arrive",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "New York Times",
+        "France 24"
+      ],
+      "summary": "Rescue teams from the US and Mexico join search for survivors after twin earthquakes killed 235 and injured thousands. Treasury authorizes relief transactions despite sanctions.",
+      "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
+      "publishedAt": "2026-06-26T09:52:21.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "New York Times",
+          "angle": "Focus on rescue efforts and international aid response",
+          "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake"
+        },
+        {
+          "source": "France 24",
+          "angle": "Emphasizes 235 deaths and US sanctions waiver for aid",
+          "link": "https://www.france24.com/en/venezuela-hunts-for-survivors-of-twin-quakes-as-it-waits-for-foreign-aid"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Satellite imagery reveals Iran destroyed US naval base in Bahrain",
+      "source": "Wall Street Journal World",
+      "summary": "New satellite photos show extensive damage at Naval Support Activity Bahrain from Iranian attack, prompting US strategic recalculation in Gulf region.",
+      "link": "https://www.wsj.com/world/middle-east/iran-us-naval-base-bahrain-e87bbca3",
+      "publishedAt": "2026-06-26T01:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World",
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukraine launches 660 drones in largest attack on Russia and Crimea",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "The Hindu",
+        "Wall Street Journal"
+      ],
+      "summary": "Russia intercepts 660 Ukrainian drones targeting 12 regions and Crimea in biggest aerial assault since 2022 invasion. Chemical plant in Novomoskovsk damaged.",
+      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3358513/russia-reports-one-biggest-ukrainian-drone-attacks-including-crimea?utm_source=rss_feed",
+      "publishedAt": "2026-06-26T09:41:15.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "South China Morning Post",
+          "angle": "Reports scale of drone attack and defense ministry claims",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3358513/russia-reports-one-biggest-ukrainian-drone-attacks-including-crimea?utm_source=rss_feed"
+        },
+        {
+          "source": "The Hindu",
+          "angle": "Highlights damage to chemical plant south of Moscow",
+          "link": "https://www.thehindu.com/news/international/ukraine-hits-russian-chemical-plant-again-reports-say-in-heavy-overnight-drone-attack/article71149896.ece"
+        },
+        {
+          "source": "Wall Street Journal",
+          "angle": "Analyzes drone campaign overwhelming Russian defenses",
+          "link": "https://www.wsj.com/world/ukraines-growing-drone-armada-is-overwhelming-russias-air-defenses-d123064c"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Gulf Arab states reshape strategies three months into US-Iran war",
+      "source": "New York Times World",
+      "summary": "Facing emerging US-Iran deal, Gulf countries overhaul defense, economy, and trade routes. Analysis shows permanent regional shifts from three months of conflict.",
+      "link": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
+      "publishedAt": "2026-06-26T09:01:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World",
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "IAEA demands strong nuclear verification in Iran as Hormuz attack stalls evacuation",
+      "source": "The Hindu",
+      "summary": "IAEA chief calls for robust nuclear inspections in Iran post-war. Attack on ship in Strait of Hormuz halts UN evacuation plan for trapped sailors.",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-26-2026/article71149347.ece",
+      "publishedAt": "2026-06-26T09:08:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky threatens Belarus for aiding Russian drone guidance systems",
+      "source": "New York Times World",
+      "summary": "Ukraine accuses Belarus of allowing radio relay stations to guide Russian attack drones. Zelensky escalates warnings against northern neighbor.",
+      "link": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html",
+      "publishedAt": "2026-06-26T08:38:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World",
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Zimbabwe senate approves extending presidential term to 2030",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "AllAfrica"
+      ],
+      "summary": "Upper house votes 75-4 to extend presidential terms from five to seven years, allowing President Mnangagwa to stay until 2030. Opponents call it 'constitutional coup'.",
+      "link": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "publishedAt": "2026-06-25T16:04:41.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "The Guardian",
+          "angle": "Describes vote as 'constitutional coup' and opposition fears",
+          "link": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term"
+        },
+        {
+          "source": "AllAfrica",
+          "angle": "Reports civil group urging referendum before Mnangagwa signs",
+          "link": "https://allafrica.com/stories/202606260117.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "North Korea tests major weapons; South Korea trains 'drone warriors'",
+      "source": "Al Jazeera English",
+      "summary": "Kim Jong Un demands 'deadly offensive posture' as North Korea upgrades arsenal. South Korea trains drone operators in response to heightened threats.",
+      "link": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors?traffic_source=rss",
+      "publishedAt": "2026-06-26T08:16:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nine dead, 26 rescued in Lagos building collapse in Nigeria",
+      "source": "AllAfrica",
+      "summary": "Rescue workers recover nine bodies including a baby from collapsed three-storey shopping complex. Search continues for more victims in Alakija area.",
+      "link": "https://allafrica.com/stories/202606260091.html",
+      "publishedAt": "2026-06-26T04:18:18.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russian hackers linked to $2.5 billion ransomware attack on Jaguar Land Rover",
+      "source": "New York Times World",
+      "summary": "Investigators trace massive ransomware attack that crippled Jaguar Land Rover last year to Russian cybercriminals, not initially claimed collective.",
+      "link": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html",
+      "publishedAt": "2026-06-26T07:03:36.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World",
+        "New York Times"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Paris police orders festival cancellations as heatwave overwhelms hospitals",
+      "source": "France 24",
+      "summary": "Police demand cancellation of pride march and Solidays music festival due to record-breaking heatwave. Emergency services overwhelmed as temperatures soar.",
+      "link": "https://www.france24.com/en/paris-police-asks-major-festivals-be-cancelled-due-to-relentless-heatwave",
+      "publishedAt": "2026-06-26T09:44:55.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "France faces extreme heatwave with record temperatures. Hospitals report surge in heat-related cases.",
+      "sources": [
+        "France 24"
+      ],
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 420,
+    "articlesAfterDedup": 419,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 17.8,
+    "categoryCounts": {
+      "environment": 2,
+      "conflict": 5,
+      "politics": 2,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "middle-east": 3,
+      "europe": 4,
+      "africa": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 7,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

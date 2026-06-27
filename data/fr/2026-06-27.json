@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-27",
+  "summary": "Les tensions entre les États-Unis et l'Iran ont franchi un palier dangereux ce week-end. Après des frappes américaines vendredi sur son territoire en représailles à l'attaque d'un cargo dans le détroit d'Ormuz, l'Iran a riposté samedi. Téhéran dénonce une violation flagrante d'un protocole d'accord. L'escalade est directe et inédite. Dans le même temps, des évacuations se poursuivent dans le Golfe, concernant 115 navires et 2 500 marins, tandis qu'Israël et le Liban saluent un fragile accord-cadre. Le Premier ministre israélien Benjamin Netanyahou a toutefois prévenu que les déplacés du sud du Liban ne pourront pas rentrer chez eux malgré cet accord.\n\nAu Venezuela, le bilan du double séisme de mercredi continue de s'alourdir. On compte désormais au moins 920 morts et 50 000 disparus. L'assistance internationale commence tout juste à arriver, mais sur place, les habitants déblaient les ruines à mains nues. Les secouristes craignent que le nombre de victimes n'augmente encore. La situation est critique dans plusieurs villes de l'ouest du pays.\n\nSur le front diplomatique, le Burkina Faso a rompu ses relations avec la France. La junte, par la voix de son porte-parole Pingdwendé Gilbert Ouédraogo, accuse Paris d'activisme incessant et d'ambitions néocoloniales. La France a répondu en regrettant une décision hostile et sans fondement. Cette rupture marque un nouveau sommet dans les tensions entre les deux pays.\n\nEn Ukraine, Kiev a multiplié les frappes sur la Crimée occupée, provoquant une situation d'urgence avec des pénuries de carburant et d'électricité. Parallèlement, la Russie gagne du terrain dans le Donbass, notamment autour de Kostiantynivka. Le président Volodymyr Zelensky a annoncé une opération de 40 jours visant à faire plier la Russie, sans donner de détails. Les analystes y voient une manœuvre dans la guerre de l'information.",
+  "headlines": [
+    {
+      "title": "États-Unis et Iran échangent des frappes militaires directes après l'attaque d'un cargo",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "Le Monde"
+      ],
+      "summary": "L'Iran a riposté samedi à des frappes américaines menées vendredi contre son territoire, en réponse à l'attaque d'un cargo dans le détroit d'Ormuz. Téhéran dénonce une violation flagrante du protocole d'accord.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2265114/etats-unis-iran-echangent-frappes",
+      "publishedAt": "2026-06-27T05:23:24.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Titre direct sur l'échange de frappes entre les deux pays",
+          "link": "https://ici.radio-canada.ca/nouvelle/2265114/etats-unis-iran-echangent-frappes"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Met l'accent sur la dénonciation iranienne de violation flagrante",
+          "link": "https://www.lemonde.fr/international/article/2026/06/27/l-iran-denonce-une-violation-flagrante-du-protocole-d-accord-apres-des-frappes-americaines_6716353_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "global",
+      "importance": "breaking"
+    },
+    {
+      "title": "Double séisme au Venezuela : le bilan atteint 920 morts et 50 000 disparus",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Après deux séismes dévastateurs mercredi, le bilan grimpe à 920 morts et 50 000 disparus. L'assistance internationale arrive lentement tandis que les habitants déblaient les ruines à mains nues.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/27/apres-le-double-seisme-au-venezuela-les-habitants-appellent-a-l-aide-pour-sortir-les-survivants-des-ruines_6716226_3210.html",
+      "publishedAt": "2026-06-27T03:30:01.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Titre centré sur l'appel à l'aide des habitants et le déblaiement à mains nues",
+          "link": "https://www.lemonde.fr/international/article/2026/06/27/apres-le-double-seisme-au-venezuela-les-habitants-appellent-a-l-aide-pour-sortir-les-survivants-des-ruines_6716226_3210.html"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Bilan chiffré et mention des survivants dormant dans les parcs",
+          "link": "https://ici.radio-canada.ca/nouvelle/2264821/seismes-venezuela-bilan-recherche-survivants-decombres"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Évoque 589 morts et 50 000 disparus selon l'ONU, avec des ressortissants espagnols disparus",
+          "link": "https://www.20minutes.fr/monde/4231483-20260626-seisme-venezuela-recherches-intensifient-onu-evoque-moins-50-000-disparus"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le Burkina Faso rompt ses relations diplomatiques avec la France",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Liberation",
+        "France Info"
+      ],
+      "summary": "La junte burkinabè a annoncé vendredi soir la rupture des liens avec Paris, accusant la France d'activisme incessant et d'ambitions néocoloniales. Paris regrette une décision hostile et sans fondement.",
+      "link": "https://www.rfi.fr/fr/afrique/20260626-le-burkina-faso-annonce-rompre-ses-relations-diplomatiques-avec-la-france",
+      "publishedAt": "2026-06-26T19:03:30.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Annonce officielle et réaction de la France qualifiant la décision d'hostile",
+          "link": "https://www.rfi.fr/fr/afrique/20260626-le-burkina-faso-annonce-rompre-ses-relations-diplomatiques-avec-la-france"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Reprend les accusations de la junte : soutien à des réseaux subversifs et terroristes",
+          "link": "https://www.liberation.fr/international/afrique/le-burkina-faso-annonce-rompre-ses-relations-diplomatiques-avec-la-france-20260626_H3NT43PTUFC3HBDVKPQHUHYELE/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Insiste sur les années de tensions et l'accusation d'activisme incessant",
+          "link": "https://www.franceinfo.fr/monde/afrique/burkina-faso/le-burkina-faso-annonce-rompre-ses-relations-diplomatiques-avec-la-france_8081822.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Kiev frappe la Crimée occupée, Moscou progresse dans le Donbass",
+      "source": "RFI",
+      "summary": "L'Ukraine a multiplié les frappes en Crimée, plaçant la péninsule en situation d'urgence avec des pénuries de carburant et d'électricité. Parallèlement, la Russie gagne du terrain dans le Donbass, notamment autour de Kostiantynivka.",
+      "link": "https://www.rfi.fr/fr/europe/20260627-kiev-multiplie-les-frappes-en-crim%C3%A9e-occup%C3%A9e-moscou-grignote-%C3%A0-nouveau-du-terrain-dans-le-donbass",
+      "publishedAt": "2026-06-27T07:48:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zelensky annonce une opération de 40 jours pour faire plier la Russie",
+      "source": "France 24",
+      "summary": "Le président ukrainien a évoqué jeudi une opération décisive de 40 jours sans donner de détails. Cette annonce s'inscrit dans la guerre de l'information, selon les analystes.",
+      "link": "https://www.france24.com/fr/europe/20260627-ukraine-russie-volodymyr-zelensky-sbu-fin-du-conflit-dans-40-jours-communication-guerre",
+      "publishedAt": "2026-06-27T07:23:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "115 navires et 2 500 marins évacués du Golfe malgré les risques",
+      "source": "20 Minutes",
+      "summary": "Les évacuations se poursuivent dans le Golfe alors qu'Israël et le Liban saluent un accord-cadre fragile. Les opérations concernent 115 navires et 2 500 marins.",
+      "link": "https://www.20minutes.fr/monde/4231507-20260626-guerre-moyen-orient-quelque-115-navires-2-500-marins-deja-evacues-malgre-menaces?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-26T20:29:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Netanyahou : les déplacés du sud du Liban ne pourront pas rentrer chez eux",
+      "source": "20 Minutes",
+      "summary": "Le Premier ministre israélien a prévenu que les civils ne pourront pas revenir dans les zones contrôlées au sud du Liban, malgré un accord-cadre récent.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4231504-20260626-liban-habitants-deplaces-zone-occupee-israel-pourront-revenir-chez-previent-netanyahou?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-26T20:09:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Canicule à Bruxelles : plus de 400 interventions médicales du SIAMU",
+      "source": "RTBF (Belgian)",
+      "summary": "Le service d'incendie et d'aide médicale urgente de Bruxelles a effectué plus de 400 interventions liées à la vague de chaleur, selon son porte-parole.",
+      "link": "https://www.rtbf.be/article/vague-de-chaleur-a-bruxelles-plus-de-400-interventions-medicales-de-la-part-du-siamu-11748531",
+      "publishedAt": "2026-06-27T06:41:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'Allemagne transforme ses mines de charbon en plus grand réseau de lacs artificiels d'Europe",
+      "source": "Liberation",
+      "summary": "La Lusace inaugurera lundi le plus grand réseau de lacs artificiels d'Europe, fruit de la reconversion des mines à ciel ouvert. La sortie du charbon est prévue pour 2038.",
+      "link": "https://www.liberation.fr/international/europe/en-allemagne-la-mue-verte-et-bleue-des-mines-a-ciel-ouvert-de-senftenberg-20260627_I3NWETRLDJGRLLOA7ANTWVUNB4/",
+      "publishedAt": "2026-06-27T08:20:00.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Ce projet de reconversion des mines de lignite en lacs artificiels est en préparation depuis plusieurs années dans le cadre de la transition énergétique allemande.",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 13.8,
+    "categoryCounts": {
+      "conflict": 4,
+      "environment": 3,
+      "politics": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "global": 1,
+      "americas": 1,
+      "africa": 1,
+      "europe": 4,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

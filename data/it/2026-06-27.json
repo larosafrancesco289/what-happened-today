@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-27",
+  "summary": "Il terremoto in Venezuela ha provocato almeno 920 morti e 50mila dispersi, con tre italo-venezuelani tra le vittime, tra cui una donna siciliana. La carenza di cibo e soccorsi ha scatenato saccheggi a La Guaira. L'Italia ha inviato una missione con 520 soccorritori, mentre l'ONU stima numeri drammatici. Il calcio locale è in lutto per la morte del 18enne Yimvert Berroteràn, nazionale Under 20.\n\nIn Medio Oriente, Israele e Libano hanno firmato a Washington un accordo di pace storico. Prevede sovranità libanese, disarmo di Hezbollah e ritiro israeliano, ma Hezbollah lo respinge, accusandolo di minare la sovranità del Libano. Gli Stati Uniti hanno anche bombardato un traliccio nel sud dell'Iran, in risposta all'attacco dei Pasdaran a una nave cargo nello Stretto di Hormuz. L'Italia e la Francia propongono una nuova missione Unifil con Qatar e Arabia Saudita per la pace in Libano.\n\nSul fronte tecnologico, gli Stati Uniti hanno revocato il blocco su due modelli IA di Anthropic per oltre 100 istituzioni partner, allentando le tensioni con l'amministrazione Trump. Nel primo semestre 2026, gli investimenti in IA infrastrutturale hanno sovraperformato, mentre criptovalute e oro hanno perso terreno, ridisegnando i mercati globali.\n\nInfine, il sisma in Venezuela ha lasciato 50mila dispersi e una situazione di emergenza per saccheggi e collasso dei servizi. Le autorità locali e internazionali continuano a coordinare i soccorsi, mentre il Paese piange le vittime, tra cui il giovane calciatore Yimvert Berroteràn. Il bilancio potrebbe aggravarsi nei prossimi giorni.",
+  "headlines": [
+    {
+      "title": "Terremoto in Venezuela: 920 morti, tre italiani tra le vittime accertate",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "la Repubblica",
+        "Euronews Italiano",
+        "AGI"
+      ],
+      "summary": "Il sisma di magnitudo 7.5 ha causato 920 vittime e oltre 50mila dispersi. Tre italo-venezuelani sono morti, tra cui una donna siciliana. L'Italia ha inviato soccorsi.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/terremoto-venezuela-morti-dispersi-ultime-notizie_113657810-202602k.shtml",
+      "publishedAt": "2026-06-27T08:07:20.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Focalizzato sulle vittime italiane e la scossa di replica",
+          "link": "https://www.tgcom24.mediaset.it/mondo/terremoto-venezuela-morti-dispersi-ultime-notizie_113657810-202602k.shtml"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Enfasi sulla paura per gli italiani e le ricerche tra le macerie",
+          "link": "https://www.repubblica.it/esteri/2026/06/27/news/venezuela_terremoto_italiani_morti_dispersi-425436703/?rss"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Riporta saccheggi e 50mila dispersi, mobilitazione UE",
+          "link": "http://it.euronews.com/2026/06/27/venezuela-la-disperazione-per-la-carenza-di-beni-scatena-unondata-di-saccheggi"
+        },
+        {
+          "source": "AGI",
+          "angle": "Dettaglia la morte del calciatore under20 Berroteràn",
+          "link": "https://www.agi.it/sport/news/2026-06-27/berroteran-terremoto-venezuela-37757357/"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israele e Libano firmano a Washington l'accordo di pace storico",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "L'intesa prevede zone pilota, sovranità libanese, disarmo di Hezbollah e ritiro israeliano. Hezbollah la respinge, accusandola di minare la sovranità del Libano.",
+      "link": "https://www.agi.it/estero/news/2026-06-27/punti-principali-accordo-israele-libano-37757379/",
+      "publishedAt": "2026-06-27T08:24:14.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Elenca i punti salienti dell'intesa, inclusi disarmo e pace",
+          "link": "https://www.agi.it/estero/news/2026-06-27/punti-principali-accordo-israele-libano-37757379/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Sottolinea il rifiuto di Hezbollah e l'attacco dei Pasdaran iraniani",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-27-giugno_113657383-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Stati Uniti bombardano l'Iran in risposta all'attacco a una nave cargo",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Gli USA hanno colpito un traliccio delle telecomunicazioni nel sud dell'Iran dopo che i Pasdaran hanno attaccato una nave cargo nello Stretto di Hormuz. Hezbollah respinge l'accordo.",
+      "link": "http://it.euronews.com/2026/06/27/medio-oriente-gli-stati-uniti-attaccano-liran-dopo-raid-nello-stretto-di-hormuz",
+      "publishedAt": "2026-06-27T06:18:45.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Riporta l'attacco USA come rappresaglia per il raid nel Golfo",
+          "link": "http://it.euronews.com/2026/06/27/medio-oriente-gli-stati-uniti-attaccano-liran-dopo-raid-nello-stretto-di-hormuz"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Collega l'attacco iraniano alle postazioni USA e alla firma dell'accordo",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-27-giugno_113657383-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Anthropic: gli Stati Uniti revocano il blocco su due modelli IA",
+      "source": "la Repubblica",
+      "summary": "Il via libera interessa oltre 100 istituzioni americane partner di fiducia. La decisione allenta la tensione tra l'amministrazione Trump e Anthropic.",
+      "link": "https://www.repubblica.it/esteri/2026/06/27/news/anthropic_ia_trump_revoca_blocco_claude_mythos-425436834/?rss",
+      "publishedAt": "2026-06-27T02:06:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia e Francia propongono nuova Unifil con Paesi del Golfo",
+      "source": "la Repubblica",
+      "summary": "Meloni ringrazia gli USA per la mediazione. L'obiettivo è allestire una spedizione con Qatar e Arabia Saudita per la missione di pace in Libano.",
+      "link": "https://www.repubblica.it/esteri/2026/06/27/news/italia_francia_nuova_unifil_qatar_arabia_saudita-425436719/?rss",
+      "publishedAt": "2026-06-26T23:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Venezuela: saccheggi e 50mila dispersi dopo il sisma devastante",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "la Repubblica"
+      ],
+      "summary": "La carenza di beni dopo il terremoto ha scatenato saccheggi a La Guaira. L'ONU stima 50mila dispersi. Arrivati aiuti dall'Italia e dall'UE con 520 soccorritori.",
+      "link": "http://it.euronews.com/2026/06/27/venezuela-la-disperazione-per-la-carenza-di-beni-scatena-unondata-di-saccheggi",
+      "publishedAt": "2026-06-27T07:00:46.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Descrive saccheggi e angoscia, con 50mila dispersi stimati",
+          "link": "http://it.euronews.com/2026/06/27/venezuela-la-disperazione-per-la-carenza-di-beni-scatena-unondata-di-saccheggi"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Si concentra sugli italiani dispersi e sulla mobilitazione social",
+          "link": "https://www.repubblica.it/esteri/2026/06/27/news/venezuela_terremoto_italiani_morti_dispersi-425436703/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Terremoto in Venezuela: morto il nazionale Under20 Yimvert Berroteràn",
+      "source": "AGI",
+      "summary": "La federazione calcistica venezuelana ha confermato la morte del centrocampista 18enne nel sisma. Il calcio del Paese è in lutto.",
+      "link": "https://www.agi.it/sport/news/2026-06-27/berroteran-terremoto-venezuela-37757357/",
+      "publishedAt": "2026-06-27T08:38:42.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Investimenti: IA infrastrutturale in rialzo, criptovalute in calo nel 2026",
+      "source": "Euronews Italiano",
+      "summary": "Nel primo semestre 2026, gli investimenti in IA hanno sovraperformato, mentre criptovalute e oro hanno perso terreno, ridisegnando i mercati globali.",
+      "link": "http://it.euronews.com/business/2026/06/27/investimenti-in-rialzo-e-in-calo-nel-primo-semestre-2026",
+      "publishedAt": "2026-06-27T05:00:54.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 188,
+    "articlesAfterDedup": 187,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 11,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.9,
+    "categoryCounts": {
+      "environment": 3,
+      "politics": 2,
+      "conflict": 1,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "middle-east": 2,
+      "global": 2,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

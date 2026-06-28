@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-28",
+  "summary": "Il bilancio del terremoto in Venezuela continua a salire: 1.430 morti e 3.238 feriti, secondo l’annuncio del presidente dell’Assemblea nazionale Jorge Rodriguez. Le autorità hanno assistito quasi 75mila famiglie, con lo Stato de La Guaira il più colpito. Tra le vittime anche 135 dei 147 venezuelani appena deportati dagli Stati Uniti, morti nel crollo dell’hotel dove erano alloggiati il giorno del sisma. Solo 12 persone sono sopravvissute.\n\nLa tregua tra Stati Uniti e Iran resta fragile. Washington ha condotto nuovi attacchi nel Golfo Persico contro obiettivi iraniani, in risposta a un’aggressione con droni contro una petroliera battente bandiera panamense carica di oltre due milioni di barili di greggio. Il Bahrein ha denunciato attacchi iraniani con missili e droni. Nel frattempo, un’inchiesta del Wall Street Journal rivela che la base Us Navy in Bahrein ha subito 14 edifici distrutti dai missili dei pasdaran, e il Pentagono sta spostando i comandi in strutture sotterranee per proteggerli.\n\nL’ondata di caldo in Francia ha provocato circa mille decessi in più dal 24 giugno, secondo l’agenzia Santé publique France, perlopiù tra over 65. L’agenzia segnala anche un aumento del 40% delle morti in casa. In Germania è stata registrata la notte più calda di sempre, mentre in Italia l’afa raggiunge il picco oggi.\n\nDal primo luglio cambiano le regole per la previdenza complementare in Italia: per i nuovi assunti del settore privato, il silenzio-assenso viene sostituito da un meccanismo di iscrizione automatica, come previsto dalla legge di bilancio 2026. Infine, sommozzatori hanno ritrovato al largo delle Filippine il relitto del cargo giapponese Hofuku Maru, affondato nel 1944 con oltre 1.200 prigionieri di guerra alleati. Un documento giapponese digitalizzato ha permesso di risolvere il mistero.",
+  "headlines": [
+    {
+      "title": "Terremoto in Venezuela: bilancio sale a 1.430 morti e 3.238 feriti",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Il presidente dell'Assemblea nazionale Jorge Rodriguez ha annunciato il nuovo bilancio del doppio sisma del 24 giugno. 3.142 famiglie sono state colpite, con Lo Stato de La Guaira il più danneggiato.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/terremoto-venezuela-immagini-drone-distruzione_113705412-02k.shtml",
+      "publishedAt": "2026-06-28T08:37:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Ha mostrato immagini da drone dei danni e aggiornato le vittime",
+          "link": "https://www.tgcom24.mediaset.it/2026/video/terremoto-venezuela-immagini-drone-distruzione_113705412-02k.shtml"
+        }
+      ],
+      "singleSource": true,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Terremoto Venezuela: 147 deportati dagli Usa, 135 morti nel crollo di un hotel",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Il giorno del sisma del 24 giugno, 147 venezuelani deportati dagli Stati Uniti sono morti nel crollo di un hotel. Solo 12 persone sono sopravvissute.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/terremoto-venezuela-vittime-deportati-usa_113704032-202602k.shtml",
+      "publishedAt": "2026-06-28T07:39:34.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Tregua Usa-Iran a rischio: nuovi raid americani nel Golfo Persico",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "ANSA"
+      ],
+      "summary": "Washington ha condotto nuovi attacchi contro obiettivi iraniani in risposta ad aggressioni a navi nello Stretto di Hormuz. Il Bahrein ha denunciato attacchi con missili e droni iraniani.",
+      "link": "https://www.agi.it/estero/news/2026-06-28/tregua-usa-iran-37768481/",
+      "publishedAt": "2026-06-28T09:31:36.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Ha sottolineato l'avvertimento di Trump e la tensione su Hormuz",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/28/medio-oriente-sale-la-tensione-ad-hormuz.-bahrein-attaccati-da-missili-e-droni-iraniani_518aa989-5985-49b2-a205-b639ea33a983.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Ha enfatizzato la fragilità della tregua e i rischi per il petrolio",
+          "link": "https://www.agi.it/estero/news/2026-06-28/tregua-usa-iran-37768481/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ondata di caldo in Francia: mille decessi in più dal 24 giugno",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "ANSA",
+        "Euronews Italiano"
+      ],
+      "summary": "Santé publique France ha annunciato circa 1.000 decessi in più rispetto alla norma, perlopiù over 65. In Germania è stata registrata la notte più calda di sempre, mentre in Italia l'afa raggiunge il picco oggi.",
+      "link": "https://www.agi.it/estero/news/2026-06-28/francia-caldo-decessi-37770319/",
+      "publishedAt": "2026-06-28T08:27:28.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Ha citato l'Economist e previsto 12mila morti in 3 giorni",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/28/lemergenza-caldo-per-193-milioni-di-europei-il-picco-lunedi_5859c8c2-a374-45dd-a2cc-e8c675cb0883.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Ha riportato i dati ufficiali di Santé publique France",
+          "link": "https://www.agi.it/estero/news/2026-06-28/francia-caldo-decessi-37770319/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha evidenziato le temperature sopra 40°C in Francia e il record in Germania",
+          "link": "http://it.euronews.com/my-europe/2026/06/28/caldo-torrido-in-francia-quasi-mille-morti-in-germania-notte-con-temperature-record"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Dopo attacchi iraniani, il Pentagono sposta comandi nelle basi Usa sottoterra",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Un'inchiesta del Wall Street Journal rivela che la base Us Navy in Bahrein ha subito 14 edifici distrutti da missili iraniani. Il Pentagono sta riorganizzando i comandi per proteggerli con strutture sotterranee.",
+      "link": "https://www.repubblica.it/esteri/2026/06/28/news/basi_usa_vulnerabili_dopo_l_iran_la_rivoluzione_del_pentagono_i_comandi_si_spostano_sottoterra-425438742/?rss",
+      "publishedAt": "2026-06-28T08:15:18.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Filippine: ritrovato relitto di nave giapponese con oltre 1.000 prigionieri di guerra",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Sommozzatori hanno individuato al largo di Luzón il cargo Hofuku Maru, affondato nel 1944 con oltre 1.200 prigionieri alleati. Un documento giapponese digitalizzato ha risolto il mistero.",
+      "link": "http://it.euronews.com/cultura/2026/06/28/seconda-guerra-mondiale-ritrovata-nelle-filippine-nave-dellinferno-con-1000-prigionieri",
+      "publishedAt": "2026-06-28T07:46:18.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Previdenza complementare: dal 1° luglio silenzio vale iscrizione per nuovi assunti",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "La legge di bilancio 2026 modifica le regole per i nuovi assunti del settore privato: dal primo luglio il silenzio-assenso viene sostituito da un meccanismo che fa scattare l'iscrizione automatica.",
+      "link": "https://www.ilsole24ore.com/art/dal-1-luglio-silenzio-vale-iscrizione-nuove-regole-previdenza-complementare-AIRgqsuD",
+      "publishedAt": "2026-06-28T08:46:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 189,
+    "articlesAfterDedup": 187,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 10,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 1.9,
+    "categoryCounts": {
+      "environment": 3,
+      "conflict": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 2,
+      "europe": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

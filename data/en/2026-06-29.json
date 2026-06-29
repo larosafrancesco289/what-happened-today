@@ -1,112 +1,111 @@
 {
   "date": "2026-06-29",
-  "summary": "The critical 72-hour window for finding survivors of the twin earthquakes that struck Venezuela has closed. The death toll has surpassed 1,450, with at least 50,000 people still missing and nearly 200 buildings completely collapsed. Rescue teams from France and the US did pull a man and his teen son alive from the rubble near Caraballeda on Sunday, but hope is fading. International crews continue to search, but officials acknowledge the odds of finding more survivors are slim.\n\nThe U.S. and Iran have agreed to halt attacks in the Strait of Hormuz, allowing vessels to move freely again, and will resume peace talks aimed at ending hostilities and curbing Iran's nuclear program. The agreement follows weeks of tension that threatened a two-week-old cease-fire. In Crimea, Ukrainian strikes on fuel and power infrastructure have cut electricity, strained water supplies, and pushed residents to buy gasoline on the black market—a sign the war is reaching people far from the front lines.\n\nA heatwave across Europe has now been linked to at least 1,300 deaths. Paris mortuaries are overflowing as France reports over 1,000 additional deaths above normal. WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures. Meanwhile, a separate deal raises ethics questions: an agreement between the U.S. and Kazakhstan gives investors with ties to President Trump and the commerce secretary access to one of the world's largest untapped tungsten reserves. The arrangement is drawing scrutiny from watchdog groups.",
+  "summary": "Rescue crews in Venezuela are still searching through rubble four days after twin earthquakes killed more than 1,400 people and left 50,000 unaccounted for. The government of Delcy Rodríguez is facing growing criticism over its response, as families wait for news and hope fades. The true scale of the disaster is still emerging, and officials have not said when the search might end.\n\nThe United States has reached a deal with Iran to keep vessels moving freely through the Strait of Hormuz, a US official said, though Iran has not confirmed the agreement. The development comes as peace talks are set to resume, but the lack of Iranian confirmation leaves the deal uncertain. In a separate conflict, Pakistan launched airstrikes into Afghanistan that the Taliban says killed 36 civilians. Pakistan claims it targeted 32 militants. The cross-border fighting has continued for months, and both sides are sticking to their own casualty numbers.\n\nThe world's largest recorded Bundibugyo Ebola outbreak continues in the Democratic Republic of Congo, with 1,274 confirmed cases and 360 deaths. There is some progress: the number of recoveries nearly doubled in a week, rising to 148. Doctors are learning more about this rare strain as treatment centers admit dozens of patients each day. Meanwhile, a US-Kazakhstan agreement has given a group of American investors with ties to President Trump and Commerce Secretary Lutnick access to one of the world's largest tungsten reserves. The deal, worth billions, has drawn attention because of the personal connections involved.",
   "headlines": [
     {
-      "title": "Venezuela earthquake death toll nears 1,500 as rescue window closes",
-      "source": "South China Morning Post",
+      "title": "US Reaches Deal with Iran to Halt Attacks on Strait of Hormuz",
+      "source": "New York Times World",
       "sources": [
-        "South China Morning Post",
-        "France 24",
-        "New York Times",
-        "Wall Street Journal",
-        "The Guardian"
+        "New York Times World",
+        "Wall Street Journal World",
+        "BBC World"
       ],
-      "summary": "The critical 72-hour search window for survivors of twin earthquakes has closed. Death toll surpasses 1,450 with 50,000 missing and nearly 200 buildings collapsed. International teams continue efforts.",
-      "link": "https://www.scmp.com/news/world/americas/article/3358739/critical-rescue-window-passes-quake-hit-venezuela-death-toll-nears-1500?utm_source=rss_feed",
-      "publishedAt": "2026-06-29T07:44:49.000Z",
+      "summary": "The agreement would allow vessels to move freely through the Strait of Hormuz, a US official said. Iran has not confirmed the deal, as peace talks are set to resume.",
+      "link": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
+      "publishedAt": "2026-06-29T10:58:22.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Venezuela Searches for 50,000 Missing After Earthquakes as Death Toll Exceeds 1,400",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "The Guardian",
+        "Deutsche Welle"
+      ],
+      "summary": "Four days after the twin earthquakes, rescue teams continue searching for survivors amid growing criticism of the government's response. Over 1,400 dead and 50,000 unaccounted for.",
+      "link": "https://www.wsj.com/world/americas/venezuela-earthquake-search-rescue-missing-806b52d1",
+      "publishedAt": "2026-06-28T22:59:00.000Z",
       "tier": "top",
       "singleSource": false,
       "category": "environment",
       "region": "americas",
-      "importance": "breaking"
+      "importance": "major"
     },
     {
-      "title": "U.S. and Iran agree to halt attacks in Strait of Hormuz, resume talks",
+      "title": "Pakistan Strikes Kill 36 Civilians in Afghanistan, Taliban Says",
       "source": "New York Times World",
       "sources": [
         "New York Times World",
-        "New York Times",
-        "Wall Street Journal"
+        "BBC World"
       ],
-      "summary": "The U.S. and Iran agreed to suspend hostilities in the Strait of Hormuz, allowing free vessel movement. Both sides will resume peace talks to end fighting and curb Iran's nuclear program.",
-      "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-      "publishedAt": "2026-06-29T07:52:50.000Z",
+      "summary": "Taliban says airstrikes killed 36 civilians, while Pakistan claims 32 militants were targeted. The attack is the latest in a monthslong cross-border conflict.",
+      "link": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
+      "publishedAt": "2026-06-29T09:43:48.000Z",
       "tier": "top",
       "singleSource": false,
       "category": "conflict",
-      "region": "middle-east",
+      "region": "asia-pacific",
       "importance": "major"
     },
     {
-      "title": "Europe heatwave linked to 1,300 deaths as Paris mortuaries fill",
-      "source": "BBC World",
-      "sources": [
-        "BBC World",
-        "France 24"
-      ],
-      "summary": "WHO reports at least 1,300 deaths linked to Europe's heatwave. Paris mortuaries overflow as France counts over 1,000 additional deaths. Officials warn of unpreparedness for high temperatures.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T19:37:07.000Z",
+      "title": "Confirmed Ebola Cases in Congo Reach 1,274 with 360 Deaths",
+      "source": "South China Morning Post",
+      "singleSource": true,
+      "summary": "The world's largest Bundibugyo Ebola outbreak continues, with recoveries doubling to 148 in a week. Doctors study the rare virus as treatment centers admit dozens daily.",
+      "link": "https://www.scmp.com/news/world/africa/article/3358776/confirmed-ebola-cases-congo-1274-including-360-deaths?utm_source=rss_feed",
+      "publishedAt": "2026-06-29T10:47:51.000Z",
       "tier": "also",
-      "singleSource": false,
-      "category": "environment",
-      "region": "europe",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "science",
+      "region": "africa",
       "importance": "major"
     },
     {
-      "title": "Trump-linked investors secure billion-dollar tungsten deal in Kazakhstan",
+      "title": "Trump-Cut Billion-Dollar Mining Deal with Kazakhstan Benefits His Sons",
       "source": "New York Times World",
-      "sources": [
-        "New York Times World"
-      ],
-      "summary": "An agreement between the U.S. and Kazakhstan gives investors with ties to President Trump access to one of the world's largest tungsten reserves. The deal raises ethics concerns.",
+      "singleSource": true,
+      "summary": "The deal gives a group of American investors with ties to President Trump and Commerce Secretary Lutnick access to one of the world's largest untapped tungsten reserves.",
       "link": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
       "publishedAt": "2026-06-28T13:52:38.000Z",
       "tier": "also",
-      "singleSource": true,
-      "category": "economy",
-      "region": "asia-pacific",
-      "importance": "notable"
-    },
-    {
-      "title": "Ukraine strikes cripple Crimea's fuel and power, straining residents",
-      "source": "Wall Street Journal World",
       "sources": [
-        "Wall Street Journal World"
+        "New York Times World"
       ],
-      "summary": "Ukrainian strikes on Crimea's infrastructure cut electricity, strain water supplies, and push residents to black market gasoline. Russians feel war hardships.",
-      "link": "https://www.wsj.com/world/europe/russians-feel-the-wars-hardships-as-ukraine-pummels-crimea-b59510f1",
-      "publishedAt": "2026-06-28T23:19:00.000Z",
-      "tier": "also",
-      "singleSource": true,
-      "category": "conflict",
-      "region": "europe",
-      "importance": "breaking"
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
     }
   ],
   "metadata": {
-    "sourcesUsed": 8,
-    "articlesProcessed": 388,
-    "articlesAfterDedup": 386,
+    "sourcesUsed": 6,
+    "articlesProcessed": 391,
+    "articlesAfterDedup": 389,
     "articlesAfterDiversity": 65,
     "articlesAfterFilter": 20,
     "freshnessCutoffHours": 48,
-    "oldestHeadlineAgeHours": 18.4,
+    "oldestHeadlineAgeHours": 21.5,
     "categoryCounts": {
-      "environment": 2,
-      "conflict": 2,
-      "economy": 1
+      "politics": 2,
+      "environment": 1,
+      "conflict": 1,
+      "science": 1
     },
     "regionCounts": {
-      "americas": 1,
       "middle-east": 1,
-      "europe": 2,
-      "asia-pacific": 1
+      "americas": 1,
+      "asia-pacific": 2,
+      "africa": 1
     },
     "tierCounts": {
-      "top": 2,
-      "also": 3
+      "top": 3,
+      "also": 2
     },
     "qualityWarnings": [],
     "qualityErrors": []

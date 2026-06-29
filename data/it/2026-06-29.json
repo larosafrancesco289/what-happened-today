@@ -1,190 +1,178 @@
 {
   "date": "2026-06-29",
-  "summary": "Stati Uniti e Iran hanno sospeso le ostilità nello Stretto di Hormuz e si incontreranno martedì a Doha. La tregua arriva dopo settimane di raid reciproci che avevano messo in pericolo il traffico petrolifero. Hezbollah ha intanto criticato Israele per presunte violazioni del cessate il fuoco in Libano, minacciando di difendere la 'patria'. Il dialogo resta fragile, ma l'incontro di Doha è un primo passo concreto.\n\nIn Russia, un attacco ucraino ha incendiato la principale raffineria di Sloviansk, causando un morto. L'impianto lavora quasi 4 milioni di tonnellate di greggio all'anno, ed è vitale per la Russia meridionale. Vladimir Putin ha ammesso una carenza di petrolio e rivisto i piani sui carburanti. Il colpo alle infrastrutture energetiche russe continua a essere una leva ucraina.\n\nIl New York Times rivela che Donald Trump Jr. ed Eric Trump sono investitori nell'accordo minerario da 1,6 miliardi di dollari tra Stati Uniti e Kazakistan per il tungsteno. I soldi pubblici americani finanzieranno la Kaz Resources, compagnia legata ai figli del tycoon. Intanto la Corte Suprema Usa ha dato ragione a Monsanto sul Roundup: l'azienda non doveva etichettare il diserbante come cancerogeno. La sentenza divide i trumpiani, con gli attivisti di Make America Healthy Again furiosi.\n\nLa Francia approva oggi la legge contro l'ultra fast fashion, che penalizza Shein, Temu e AliExpress con multe e divieti pubblicitari. Obiettivo: ridurre l'impatto ambientale della moda a basso costo. Sul fronte tecnologico, i prezzi della RAM non torneranno ai livelli pre-crisi a causa della domanda di chip per intelligenza artificiale, che assorbe la produzione. In Italia, la legge elettorale è l'ultimo scoglio prima della pausa estiva: centrodestra e centrosinistra preparano lo scontro alla Camera. Infine, scienziati hanno individuato una firma genetica dell'invecchiamento che migliora gli orologi molecolari, utili per stimare età e longevità.",
+  "summary": "Il bilancio del terremoto in Venezuela continua a salire: 1.450 morti, 3.150 feriti e circa 50.000 dispersi, secondo l'Onu. I soccorritori hanno estratto vive 33 persone, tra cui un padre e un figlio dopo 86 ore. L'Unicef stima che 680.000 bambini abbiano bisogno di assistenza. I danni superano i 6,7 miliardi di dollari. Tra le vittime ci sono anche cinque italo-venezuelani.\n\nSul fronte geopolitico, Stati Uniti e Iran hanno sospeso le ostilità nello Stretto di Hormuz, dopo i raid americani di ieri. Il prezzo del gas continua però a salire. Intanto Israele ha distrutto una struttura sotterranea di Hezbollah nel sud del Libano. Il gruppo si è riservato il diritto di difendere la patria, il che lascia aperta la possibilità di nuove tensioni.\n\nIn Italia, il partito dell'ex generale Roberto Vannacci ha raggiunto il 6% nei sondaggi, superando la Lega ferma al 5,6%. Per la premier Giorgia Meloni è un rebus politico: Vannacci toglie voti a destra, ma sostenerlo irriterebbe i partner europei. Nel frattempo, gli Stati Uniti e il Kazakhstan hanno firmato un'intesa da 1,6 miliardi di dollari per finanziare una compagnia mineraria di tungsteno. Secondo il New York Times, i figli di Donald Trump beneficeranno dell'accordo.\n\nInfine, due notizie dal mondo. L'Australia raddoppierà le multe per le piattaforme social dopo che sette minori su dieci hanno aggirato il divieto per under 16, restando attivi su Facebook, Instagram, Snapchat e TikTok. La Corea del Sud ha invece formalizzato un piano industriale miliardario per chip e intelligenza artificiale, con Samsung e SK Hynix come motori, sfidando USA e Cina. I curdi in Turchia hanno manifestato a Diyarbakir chiedendo la liberazione del leader del PKK Abdullah Öcalan, detenuto dal 1999.",
   "headlines": [
     {
-      "title": "Usa e Iran sospendono le ostilità sullo Stretto di Hormuz, martedì incontro a Doha",
-      "source": "ANSA",
+      "title": "Sisma Venezuela: 1.450 morti, 3.150 feriti, 50.000 dispersi. Salvate 33 persone",
+      "source": "Rai News",
       "sources": [
-        "ANSA",
         "Rai News",
-        "TGCOM24"
+        "AGI",
+        "ANSA",
+        "la Repubblica"
       ],
-      "summary": "Stati Uniti e Iran hanno fermato gli attacchi reciproci nello Stretto di Hormuz. Martedì si terrà un incontro a Doha. Hezbollah critica Israele per violazioni del cessate il fuoco in Libano.",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/29/medio-oriente-usa-iran-stop-agli-attacchi-martedi-incontro-a-doha_eb2964ce-aad0-445b-ac90-31aa258d803b.html",
-      "publishedAt": "2026-06-29T07:41:35.000Z",
+      "summary": "A una settimana dal terremoto di magnitudo 7,2 e 7,5 che ha colpito il nord del Venezuela, il bilancio sale a 1.450 morti e 3.150 feriti. I soccorritori hanno estratto vive 33 persone, tra cui padre e figlio dopo 86 ore.",
+      "link": "https://www.rainews.it/maratona/2026/06/terremoto-in-venezuela-scosse-di-magnitudo-71-e-75-morti-e-feriti-proclamato-stato-di-emergenza-sisma-6ac328fe-3224-465c-acfa-966a5641e068.html",
+      "publishedAt": "2026-06-29T11:23:00.000Z",
       "tier": "top",
       "framings": [
         {
-          "source": "ANSA",
-          "angle": "Sottolinea la tregua e l'incontro a Doha",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/29/medio-oriente-usa-iran-stop-agli-attacchi-martedi-incontro-a-doha_eb2964ce-aad0-445b-ac90-31aa258d803b.html"
-        },
-        {
           "source": "Rai News",
-          "angle": "Enfatizza il conflitto in Libano e l'incontro",
-          "link": "https://www.rainews.it/maratona/2026/06/firmato-a-washington-laccordo-israele-libano-attacchi-iraniani-risale-la-tensione-a-hormuz-a3b76ba6-ed8a-4d0b-a87d-56a5b8def2b4.html"
+          "angle": "Ha aperto con il bilancio aggiornato e il salvataggio di padre e figlio",
+          "link": "https://www.rainews.it/maratona/2026/06/terremoto-in-venezuela-scosse-di-magnitudo-71-e-75-morti-e-feriti-proclamato-stato-di-emergenza-sisma-6ac328fe-3224-465c-acfa-966a5641e068.html"
         },
         {
-          "source": "TGCOM24",
-          "angle": "Evidenzia la sospensione delle ostilità e l'aumento del gas",
-          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-29-giugno_113742272-202602k.shtml"
+          "source": "AGI",
+          "angle": "Ha tradotto la tragedia in cifre dettagliate su vittime e sfollati",
+          "link": "https://www.agi.it/estero/news/2026-06-29/terremoto-venezuela-bilancio-37781085/"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Si è concentrato sulle vittime italiane e il recupero del corpo di Enzo Cuomo",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/29/venezuela-si-scava-ancora-per-salvare-la-donna-con-i-due-figli_5209348c-92bb-4835-ab57-10f4053ff59f.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Ha raccontato il salvataggio di una donna dopo 86 ore sotto le macerie",
+          "link": "https://www.repubblica.it/esteri/2026/06/29/news/venezuela_terremoto_salvati_macerie-425439674/?rss"
         }
       ],
       "singleSource": false,
-      "category": "conflict",
-      "region": "middle-east",
+      "category": "environment",
+      "region": "americas",
       "importance": "breaking"
     },
     {
-      "title": "Accordo Usa-Kazakistan sul tungsteno da 1,6 miliardi, i figli di Trump tra gli investitori",
+      "title": "Accordo Usa-Kazakhstan sul tungsteno da 1 miliardo di dollari, i figli di Trump ne trarranno profitto",
       "source": "la Repubblica",
       "sources": [
         "la Repubblica",
-        "AGI",
         "Il Sole 24 Ore"
       ],
-      "summary": "Il New York Times rivela che Donald Trump Jr. ed Eric Trump sono entrati come investitori nell'accordo minerario tra Stati Uniti e Kazakistan per lo sfruttamento di un giacimento di tungsteno, sollevando conflitti di interesse.",
+      "summary": "Washington e Astana firmano un'intesa per finanziamenti da 1,6 miliardi di dollari a una compagnia mineraria. Secondo il New York Times, i figli di Trump beneficeranno dell'accordo.",
       "link": "https://www.repubblica.it/esteri/2026/06/29/news/accordo_usa_kazakhstan_tungsteno_trump_figli-425439921/?rss",
       "publishedAt": "2026-06-29T07:32:20.000Z",
       "tier": "top",
       "framings": [
         {
-          "source": "AGI",
-          "angle": "Solleva interrogativi sui conflitti di interesse",
-          "link": "https://www.agi.it/estero/news/2026-06-29/trump-tungsteno-accordo-kazakistan-37782517/"
-        },
-        {
           "source": "la Repubblica",
-          "angle": "Mette in evidenza il guadagno dei figli di Trump",
+          "angle": "Ha svelato il coinvolgimento dei figli di Trump nell'accordo minerario",
           "link": "https://www.repubblica.it/esteri/2026/06/29/news/accordo_usa_kazakhstan_tungsteno_trump_figli-425439921/?rss"
         },
         {
           "source": "Il Sole 24 Ore",
-          "angle": "Riporta l'inchiesta del New York Times",
-          "link": "https://www.ilsole24ore.com/art/nyt-trump-ha-concluso-accordo-minerario-un-miliardo-dollari-suoi-figli-ne-trarranno-profitto-AIKLs6uD"
+          "angle": "Ha ripreso l'inchiesta del New York Times sull'affare minerario",
+          "link": "https://www.ilsole24ore.com/art/nyt-trump-ha-concluso-accordo-minerario-un-miliardo-dollari-sui-figli-ne-trarranno-profitto-AIKLs6uD"
         }
       ],
       "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Migliaia di curdi in corteo a Diyarbakir chiedono la liberazione di Öcalan",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "I curdi in Turchia manifestano a Diyarbakir per chiedere la liberazione del leader del PKK Abdullah Öcalan, detenuto dal 1999, e di altri prigionieri.",
+      "link": "https://www.rainews.it/video/2026/06/turchia-migliaia-di-curdi-in-corteo-a-diyarbakir-chiedono-la-liberazione-di-ocalan-8b4a522a-1ac8-47db-9a01-a764c5690eaa.html",
+      "publishedAt": "2026-06-29T11:18:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Corea del Sud punta a guidare il mondo dell'AI e dei semiconduttori con maxi investimenti",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "Il governo sudcoreano formalizza un piano industriale da miliardi di dollari centrato su chip e IA, con Samsung e SK Hynix come motori, sfidando USA e Cina.",
+      "link": "https://www.rainews.it/articoli/2026/06/la-corea-del-sud-punta-a-guidare-il-mondo-dellai-e-dei-semiconduttori-con-maxi-investimenti-76e37075-c6e6-4641-98c4-0397ac76dd23.html",
+      "publishedAt": "2026-06-29T10:48:00.000Z",
+      "tier": "also",
+      "singleSource": true,
       "category": "economy",
       "region": "asia-pacific",
       "importance": "major"
     },
     {
-      "title": "Putin ammette carenza di petrolio dopo raid ucraini su raffineria a Sloviansk",
+      "title": "Australia raddoppia le multe per i social media dopo che i teenager aggirano il divieto",
       "source": "Euronews Italiano",
       "sources": [
         "Euronews Italiano"
       ],
-      "summary": "Un attacco ucraino ha incendiato la principale raffineria di Sloviansk, in Russia, causando un morto. Putin ha rivisto i piani sui carburanti a causa della carenza di petrolio.",
-      "link": "http://it.euronews.com/my-europe/2026/06/29/putin-ammette-carenza-di-petrolio-e-rivede-i-piani-sui-carburanti-dopo-raid-ucraini-su-raf",
-      "publishedAt": "2026-06-29T07:00:58.000Z",
-      "tier": "top",
+      "summary": "L'Australia raddoppia le sanzioni per le piattaforme social dopo che sette minori su dieci sono rimasti attivi su Facebook, Instagram, Snapchat e TikTok nonostante il bando per under 16.",
+      "link": "http://it.euronews.com/next/2026/06/29/australia-social-media-ai-minori-multe-raddoppiate-i-teenager-aggirano-il-divieto",
+      "publishedAt": "2026-06-29T10:52:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Vannacci supera la Lega nei sondaggi con il 6%, per Meloni è un rebus politico",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Il partito dell'ex generale Roberto Vannacci raggiunge il 6% nei sondaggi, superando la Lega ferma al 5,6%. Per la premier Meloni è un dilemma: toglie voti a destra ma irrita i partner europei.",
+      "link": "http://it.euronews.com/my-europe/2026/06/29/vannacci-supera-la-lega-nei-sondaggi-per-meloni-il-generale-e-un-rebus-politico",
+      "publishedAt": "2026-06-29T10:40:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Stati Uniti e Iran sospendono le ostilità a Hormuz, ma il prezzo del gas sale",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Dopo i raid americani di ieri, USA e Iran sospendono le ostilità a Hormuz. Intanto Israele distrugge una struttura di Hezbollah in Libano e il prezzo del gas continua a salire.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-29-giugno_113742272-202602k.shtml",
+      "publishedAt": "2026-06-29T11:01:20.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Ieri gli Stati Uniti hanno condotto nuovi raid nel Golfo Persico mettendo a rischio la tregua con l'Iran. Oggi le due parti sospendono le ostilità a Hormuz.",
       "singleSource": true,
       "category": "conflict",
-      "region": "europe",
-      "importance": "major"
-    },
-    {
-      "title": "Francia approva legge contro l'ultra fast fashion, colpiti Shein, Temu e AliExpress",
-      "source": "AGI",
-      "sources": [
-        "AGI"
-      ],
-      "summary": "Il Senato francese vota oggi il testo finale della legge che penalizza la moda ultra-rapida, imponendo multe sulle piattaforme a basso costo per ridurre l'impatto ambientale.",
-      "link": "https://www.agi.it/estero/news/2026-06-29/legge-francia-fast-fashion-37782071/",
-      "publishedAt": "2026-06-29T06:19:02.000Z",
-      "tier": "also",
-      "singleSource": true,
-      "category": "politics",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Corte Suprema Usa dà ragione a Monsanto sul Roundup, spaccatura tra i trumpiani",
-      "source": "AGI",
-      "sources": [
-        "AGI"
-      ],
-      "summary": "La Corte Suprema ha stabilito che Monsanto non doveva etichettare il Roundup come cancerogeno. La sentenza divide i sostenitori di Trump, con gli attivisti di Maha contrari.",
-      "link": "https://www.agi.it/estero/news/2026-06-29/corte-suprema-monsanto-37782244/",
-      "publishedAt": "2026-06-29T06:35:53.000Z",
-      "tier": "also",
-      "singleSource": true,
-      "category": "politics",
-      "region": "americas",
-      "importance": "major"
-    },
-    {
-      "title": "Colossi tech avvertono: prezzi della RAM non torneranno pre-crisi per alta domanda IA",
-      "source": "Euronews Italiano",
-      "sources": [
-        "Euronews Italiano"
-      ],
-      "summary": "L'aumento della domanda di chip per intelligenza artificiale riduce la produzione di RAM tradizionale, causando rincari persistenti su tutto il mercato.",
-      "link": "http://it.euronews.com/next/2026/06/29/colossi-tech-avvertono-prezzi-della-ram-non-torneranno-presto-ai-livelli-pre-crisi",
-      "publishedAt": "2026-06-29T08:05:03.000Z",
-      "tier": "also",
-      "singleSource": true,
-      "category": "economy",
-      "region": "global",
-      "importance": "notable"
-    },
-    {
-      "title": "Legge elettorale: preferenze e fuori sede ultimi scogli prima del voto in Aula alla Camera",
-      "source": "Il Sole 24 Ore",
-      "sources": [
-        "Il Sole 24 Ore"
-      ],
-      "summary": "Centrodestra e centrosinistra preparano le mosse per il voto alla Camera sulla legge elettorale, previsto come ultima battaglia prima della pausa estiva.",
-      "link": "https://www.ilsole24ore.com/art/legge-elettorale-preferenze-fuori-sede-e-raccolta-firme-ultimi-scogli-prima-voto-aula-AIpJy8uD",
-      "publishedAt": "2026-06-29T04:55:13.000Z",
-      "tier": "also",
-      "singleSource": true,
-      "category": "politics",
-      "region": "europe",
-      "importance": "notable"
-    },
-    {
-      "title": "Ricercatori individuano la firma genetica dell'invecchiamento, utile per orologi molecolari",
-      "source": "ANSA",
-      "sources": [
-        "ANSA"
-      ],
-      "summary": "Scienziati hanno identificato una firma genetica che permette di stimare l'età e la longevità, migliorando gli orologi molecolari.",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/06/13/vista-la-firma-genetica-dellinvecchiamento-_836ea676-09ce-4d71-be35-0bffd3bdb64a.html",
-      "publishedAt": "2026-06-29T06:13:03.000Z",
-      "tier": "also",
-      "singleSource": true,
-      "category": "science",
-      "region": "global",
-      "importance": "notable"
+      "region": "middle-east",
+      "importance": "breaking"
     }
   ],
   "metadata": {
     "sourcesUsed": 7,
-    "articlesProcessed": 196,
+    "articlesProcessed": 197,
     "articlesAfterDedup": 196,
     "articlesAfterDiversity": 35,
-    "articlesAfterFilter": 14,
+    "articlesAfterFilter": 18,
     "freshnessCutoffHours": 48,
-    "oldestHeadlineAgeHours": 3.4,
+    "oldestHeadlineAgeHours": 3.9,
     "categoryCounts": {
-      "conflict": 2,
+      "environment": 1,
       "economy": 2,
       "politics": 3,
-      "science": 1
+      "conflict": 1
     },
     "regionCounts": {
-      "middle-east": 1,
-      "asia-pacific": 1,
-      "europe": 3,
       "americas": 1,
-      "global": 2
+      "global": 1,
+      "middle-east": 2,
+      "asia-pacific": 2,
+      "europe": 1
     },
     "tierCounts": {
-      "top": 3,
-      "also": 5
+      "top": 2,
+      "also": 4,
+      "developing": 1
     },
     "qualityWarnings": [],
     "qualityErrors": []

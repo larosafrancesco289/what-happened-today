@@ -1,0 +1,126 @@
+{
+  "weekId": "2026-W26",
+  "startDate": "2026-06-22",
+  "endDate": "2026-06-28",
+  "summary": "The week of June 22–28 was dominated by escalating U.S.-Iran tensions, a devastating earthquake in Venezuela, and a massive Ukrainian drone attack. U.S.-Iran nuclear talks in Switzerland (June 22–23) initially showed progress, but by June 24 both sides offered conflicting accounts. On June 25, President Trump asked Congress for billions for a potential Iran war, and Congress passed its first war powers measure, breaking with Trump. Satellite imagery on June 26 revealed Iran destroyed a U.S. naval base in Bahrain, dramatically escalating the crisis. This story persisted across the week and overshadowed earlier diplomatic hopes. In Venezuela, twin earthquakes on June 25 killed 32, but the death toll rose to 235 by June 26 as international rescuers arrived. On June 26, Ukraine launched 660 drones in its largest attack on Russia and Crimea. Other significant but shorter-lived stories included UK Prime Minister Keir Starmer’s resignation on June 22, with Andy Burnham seeking the Labour leadership; far-right millionaire winning Colombia’s razor-thin presidential election on June 22; a Qatar gas explosion on June 23 killing 13; a UN inquiry on June 23 reporting Israel targeted Palestinian children, amounting to genocide; Hong Kong doctors performing the world’s first robotic living-donor liver transplant on June 24; and Congress passing a war powers measure on June 24. Stories that faded quickly after their initial appearance included the mediator-hailed U.S.-Iran talks progress, Starmer’s resignation, the Colombia election, Ebola cases surpassing 1,000 in DR Congo, and thousands fleeing Ukraine’s Donbas strongholds.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Mediators hail progress in U.S.-Iran talks after opening session",
+    "UK PM Keir Starmer resigns; Andy Burnham seeks leadership",
+    "Far-right millionaire wins Colombia's razor-thin presidential election",
+    "Ebola cases surpass 1,000 in DR Congo amid violence and displacement",
+    "Thousands flee Ukraine's Donbas strongholds as Russia pushes closer",
+    "Russian troop build-up threatens key city in Ukraine's Donbas",
+    "Alan Greenspan, influential Fed chairman, dies at age 100",
+    "China slaps restrictions on dozens of U.S. companies",
+    "Iran technical talks with US in Switzerland conclude successfully",
+    "At least 13 killed and dozens injured after Qatar gas explosion"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-22",
+      "title": "Mediators hail progress in U.S.-Iran talks after opening session",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "UK PM Keir Starmer resigns; Andy Burnham seeks leadership",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Far-right millionaire wins Colombia's razor-thin presidential election",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Iran technical talks with US in Switzerland conclude successfully",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "category": "society",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "U.N. inquiry reports Israel targeted Palestinian children, amounting to genocide",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "U.S. and Iran offer conflicting accounts of nuclear discussions",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Hong Kong doctors perform world’s first robotic living-donor liver transplant",
+      "category": "science",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Twin earthquakes kill 32, injure 700 in Caracas, Venezuela",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Trump asks Congress for billions for Iran war, feuds with Senate",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Venezuela earthquake death toll reaches 235 as international rescuers arrive",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Satellite imagery reveals Iran destroyed US naval base in Bahrain",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Ukraine launches 660 drones in largest attack on Russia and Crimea",
+      "category": "conflict",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2066,
+    "totalSourcesUsed": 15,
+    "daysWithData": 5,
+    "categoryCounts": {
+      "politics": 20,
+      "science": 3,
+      "conflict": 14,
+      "economy": 6,
+      "society": 5,
+      "environment": 3
+    },
+    "regionCounts": {
+      "middle-east": 9,
+      "europe": 11,
+      "americas": 11,
+      "africa": 5,
+      "asia-pacific": 13,
+      "global": 2
+    }
+  }
+}

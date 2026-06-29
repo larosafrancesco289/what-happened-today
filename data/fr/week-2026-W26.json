@@ -1,0 +1,180 @@
+{
+  "weekId": "2026-W26",
+  "startDate": "2026-06-22",
+  "endDate": "2026-06-28",
+  "summary": "Semaine du 22 au 28 juin 2026 : une escalade militaire majeure entre les États-Unis et l'Iran, un séisme dévastateur au Venezuela, une canicule meurtrière en France et des changements politiques au Royaume-Uni dominent l'actualité.\n\nÉtats-Unis – Iran : Après des annonces d'un possible accord (Vance le 22 juin), les tensions explosent : le 27 juin, les États-Unis bombardent l'Iran, qui riposte en frappant le Koweït et Bahreïn. Un cargo avait été attaqué en prélude. Ce conflit direct marque un tournant.\n\nVenezuela : Un double séisme frappe le pays le 25 juin (32 morts), le bilan s'alourdit chaque jour : 235 morts le 26, 920 le 27, et 1 430 morts et 50 000 disparus le 28. Les secours restent mobilisés.\n\nCanicule en France : Vague de chaleur exceptionnelle du 22 au 28 juin. Records battus (38,2°C le 24), 61 départements en rouge le 26, environ 1 000 décès supplémentaires selon Santé publique France. Noyades en hausse (treize le 22, quarante le 23). Solidays annulé, Marche des fiertés reportée.\n\nRoyaume-Uni : Keir Starmer démissionne le 22 juin, Andy Burnham se présente et se prépare à devenir Premier ministre (confirmé le 23).\n\nConflit Israël-Gaza : Le 23 juin, une commission de l'ONU accuse Israël de cibler des enfants et de commettre un génocide.\n\nAutres faits marquants : Premier cas d'Ebola en France (médecin de retour de RDC, 24 juin) ; Keiko Fujimori donnée gagnante au Pérou (24 juin, contestation) ; l'Assemblée nationale française adopte le principe d'autonomie corse (271 voix, 24 juin) ; l'UE transfère 3,2 milliards d'euros à Kiev (25 juin) ; décision historique du tribunal de Paris sur le devoir de vigilance de TotalEnergies (25 juin) ; l'auteur de l'attaque de Magdebourg condamné à perpétuité (26 juin) ; la Cour suprême américaine bloque les plaintes contre Bayer pour le Roundup (26 juin) ; le Burkina Faso rompt ses relations diplomatiques avec la France (27 juin).\n\nHistoires fugaces : Plusieurs sujets n'ont été mentionnés qu'un seul jour : la condamnation de l'ex-bras droit de Pedro Sánchez en Espagne (24 ans), l'achat d'un radar par le Canada à l'Australie, et une explosion dans un complexe gazier au Qatar (18 disparus, 54 blessés).",
+  "persistentStories": [],
+  "fadedStories": [
+    "Canicule : 49 départements en rouge, treize noyades en deux jours en France",
+    "Iran-États-Unis : Vance annonce des bases solides pour un accord final",
+    "Espagne : l'ex-bras droit de Pedro Sanchez condamné à 24 ans de prison",
+    "Canada achète un système de radar avancé à l'Australie pour 1,5 milliard d'euros",
+    "Qatar : 18 disparus et 54 blessés après une explosion dans un complexe gazier",
+    "Philippines : trois adolescents tués par des élèves de 14 et 15 ans dans un lycée",
+    "Burkina Faso : l'Assemblée adopte une nouvelle loi sur les libertés religieuses",
+    "Le Parlement européen examine la création de l'euro numérique pour contrer le dollar",
+    "Canicule en France : quarante noyades, records de chaleur et 54 départements en rouge",
+    "Un policier et un civil tués par un masculiniste lors d'une fusillade à Montréal"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-22",
+      "title": "Keir Starmer démissionne, Andy Burnham se présente pour lui succéder",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Canicule : 49 départements en rouge, treize noyades en deux jours en France",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Iran-États-Unis : Vance annonce des bases solides pour un accord final",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Une commission de l'ONU accuse Israël de cibler des enfants à Gaza et dénonce un génocide",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Canicule en France : quarante noyades, records de chaleur et 54 départements en rouge",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Keir Starmer démissionne, Andy Burnham se prépare à devenir Premier ministre britannique",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Premier cas d'Ebola identifié en France chez un médecin de retour de RDC",
+      "category": "science",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Keiko Fujimori donnée gagnante de la présidentielle au Pérou, son rival conteste",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "France : le principe de l'autonomie corse adopté à l'Assemblée nationale par 271 voix",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Canicule : la France bat son record de température maximale avec 38,2°C mardi",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Double séisme au Venezuela fait au moins 32 morts et plus de 700 blessés",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "L'UE transfère 3,2 milliards d'euros à Kiev sur un prêt de 90 milliards",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Le tribunal de Paris rend une décision historique sur le devoir de vigilance de TotalEnergies",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Séisme au Venezuela : le bilan s'alourdit à 235 morts et les secours recherchent les disparus",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "L'auteur de l'attaque de Magdebourg condamné à la réclusion criminelle à perpétuité",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Canicule : Solidays annulé, Marche des fiertés reportée à Paris, 61 départements en vigilance rouge",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "La Cour suprême américaine bloque des milliers de plaintes contre Bayer pour le Roundup",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "États-Unis et Iran échangent des frappes militaires directes après l'attaque d'un cargo",
+      "category": "conflict",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Double séisme au Venezuela : le bilan atteint 920 morts et 50 000 disparus",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Le Burkina Faso rompt ses relations diplomatiques avec la France",
+      "category": "politics",
+      "region": "africa"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Venezuela : le bilan du double séisme monte à 1 430 morts et 50 000 disparus",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Canicule en France : Santé publique France recense environ 1 000 décès supplémentaires",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "États-Unis bombardent l'Iran, Téhéran riposte en frappant le Koweït et Bahreïn",
+      "category": "conflict",
+      "region": "middle-east"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1483,
+    "totalSourcesUsed": 11,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "politics": 22,
+      "environment": 12,
+      "economy": 3,
+      "conflict": 17,
+      "society": 6,
+      "science": 2
+    },
+    "regionCounts": {
+      "europe": 26,
+      "middle-east": 11,
+      "global": 9,
+      "asia-pacific": 4,
+      "africa": 3,
+      "americas": 9
+    }
+  }
+}

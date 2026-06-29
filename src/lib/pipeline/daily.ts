@@ -225,9 +225,11 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
   }
 
   console.log('Step 5/7: Generating headlines with AI...');
+  const headlineCandidateArticles = filteredArticles.slice(0, 12);
+  console.log(`  Using ${headlineCandidateArticles.length}/${filteredArticles.length} filtered articles for headline generation`);
   const headlines = await withTimeout(
-    generateHeadlines(filteredArticles, languageCode, yesterdayHeadlines),
-    180000,
+    generateHeadlines(headlineCandidateArticles, languageCode, yesterdayHeadlines),
+    240000,
     'Headlines generation',
   );
   console.log(`  Generated ${headlines.length} headlines\n`);
@@ -249,7 +251,7 @@ export async function runDailyPipeline(languageCode: LanguageCode = DEFAULT_LANG
 
   console.log('Step 7/7: Generating daily summary with AI...');
   const summary = await withTimeout(
-    generateDailySummary(categorizedHeadlines, filteredArticles, languageCode, yesterdayHeadlines),
+    generateDailySummary(categorizedHeadlines, headlineCandidateArticles, languageCode, yesterdayHeadlines),
     180000,
     'Summary generation',
   );

@@ -129,11 +129,13 @@ ${articles.map((a, i) => `[${i}] ${a.source}: ${a.title}\nPublished: ${a.publish
 
       return `Create headlines + summaries for distinct news events. Write in clear, factual English.
 
-TIER SYSTEM — Generate 8-15 headlines in 3 tiers:
+The ARTICLES list has already passed relevance filtering. If ARTICLES is non-empty, do not return an empty headlines array.
+
+TIER SYSTEM — Generate 5-10 headlines in 3 tiers:
 - "top" (2-4): Day's most important events, full detailed summaries
 - "also" (3-6): Important but not lead stories, shorter summaries
 - "developing" (0-3): Ongoing stories that remain important today, with today's concrete update and enough context to stand alone
-If fewer than 8 stories meet the quality threshold, produce fewer. Never pad with marginal stories.
+If fewer than 5 stories meet the quality threshold, produce fewer. Never pad with marginal stories, but always choose the strongest available stories when ARTICLES is non-empty.
 ${memorySection}
 HEADLINE RULES:
 - 8-14 words, active voice, present tense for today's events
@@ -151,10 +153,6 @@ MULTI-SOURCE: When input articles have coveringSources, include all sources in a
 
 SINGLE-SOURCE: If an article has NO [Also: ...] annotation, include "singleSource": true in the JSON.
 
-	FRAMING: For multi-source stories, add a "framings" array showing how each source approached the story.
-	Each framing: {"source":"AP","angle":"Led with casualty figures and blast mechanics","link":"..."}
-	The angle should be 8-15 words describing what the source emphasized, NOT an opinion about the source.
-
 	SOURCE INTEGRITY:
 	- Use only stories from the provided ARTICLES list.
 	- Choose the primary ARTICLE_ID and return it as numeric "articleIndex".
@@ -165,7 +163,7 @@ SINGLE-SOURCE: If an article has NO [Also: ...] annotation, include "singleSourc
 	IMPORTANT: Each story must appear in exactly ONE tier. Do not place the same event in both "top" and "developing".
 
 	OUTPUT JSON FORMAT:
-	{"headlines":[{"articleIndex":0,"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top","framings":[{"source":"AP","angle":"...","link":"..."}]},{"articleIndex":1,"title":"...","source":"SingleSource","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"articleIndex":2,"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"},...]}
+	{"headlines":[{"articleIndex":0,"title":"...","source":"PrimarySource","sources":["Source1","Source2"],"summary":"...","link":"...","publishedAt":"...","tier":"top"},{"articleIndex":1,"title":"...","source":"SingleSource","summary":"...","link":"...","publishedAt":"...","tier":"also","singleSource":true},{"articleIndex":2,"title":"...","source":"...","summary":"...","link":"...","publishedAt":"...","tier":"developing","dayNumber":3,"previousContext":"Fighting shifted from X to Y"}]}
 
 ARTICLES:
 ${formatArticlesForPrompt(articles, 'Also')}`;

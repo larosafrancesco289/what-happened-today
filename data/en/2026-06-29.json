@@ -1,0 +1,114 @@
+{
+  "date": "2026-06-29",
+  "summary": "The critical 72-hour window for finding survivors of the twin earthquakes that struck Venezuela has closed. The death toll has surpassed 1,450, with at least 50,000 people still missing and nearly 200 buildings completely collapsed. Rescue teams from France and the US did pull a man and his teen son alive from the rubble near Caraballeda on Sunday, but hope is fading. International crews continue to search, but officials acknowledge the odds of finding more survivors are slim.\n\nThe U.S. and Iran have agreed to halt attacks in the Strait of Hormuz, allowing vessels to move freely again, and will resume peace talks aimed at ending hostilities and curbing Iran's nuclear program. The agreement follows weeks of tension that threatened a two-week-old cease-fire. In Crimea, Ukrainian strikes on fuel and power infrastructure have cut electricity, strained water supplies, and pushed residents to buy gasoline on the black market—a sign the war is reaching people far from the front lines.\n\nA heatwave across Europe has now been linked to at least 1,300 deaths. Paris mortuaries are overflowing as France reports over 1,000 additional deaths above normal. WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures. Meanwhile, a separate deal raises ethics questions: an agreement between the U.S. and Kazakhstan gives investors with ties to President Trump and the commerce secretary access to one of the world's largest untapped tungsten reserves. The arrangement is drawing scrutiny from watchdog groups.",
+  "headlines": [
+    {
+      "title": "Venezuela earthquake death toll nears 1,500 as rescue window closes",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "France 24",
+        "New York Times",
+        "Wall Street Journal",
+        "The Guardian"
+      ],
+      "summary": "The critical 72-hour search window for survivors of twin earthquakes has closed. Death toll surpasses 1,450 with 50,000 missing and nearly 200 buildings collapsed. International teams continue efforts.",
+      "link": "https://www.scmp.com/news/world/americas/article/3358739/critical-rescue-window-passes-quake-hit-venezuela-death-toll-nears-1500?utm_source=rss_feed",
+      "publishedAt": "2026-06-29T07:44:49.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. and Iran agree to halt attacks in Strait of Hormuz, resume talks",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "New York Times",
+        "Wall Street Journal"
+      ],
+      "summary": "The U.S. and Iran agreed to suspend hostilities in the Strait of Hormuz, allowing free vessel movement. Both sides will resume peace talks to end fighting and curb Iran's nuclear program.",
+      "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "publishedAt": "2026-06-29T07:52:50.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Europe heatwave linked to 1,300 deaths as Paris mortuaries fill",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "France 24"
+      ],
+      "summary": "WHO reports at least 1,300 deaths linked to Europe's heatwave. Paris mortuaries overflow as France counts over 1,000 additional deaths. Officials warn of unpreparedness for high temperatures.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T19:37:07.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump-linked investors secure billion-dollar tungsten deal in Kazakhstan",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World"
+      ],
+      "summary": "An agreement between the U.S. and Kazakhstan gives investors with ties to President Trump access to one of the world's largest tungsten reserves. The deal raises ethics concerns.",
+      "link": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
+      "publishedAt": "2026-06-28T13:52:38.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Ukraine strikes cripple Crimea's fuel and power, straining residents",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "summary": "Ukrainian strikes on Crimea's infrastructure cut electricity, strain water supplies, and push residents to black market gasoline. Russians feel war hardships.",
+      "link": "https://www.wsj.com/world/europe/russians-feel-the-wars-hardships-as-ukraine-pummels-crimea-b59510f1",
+      "publishedAt": "2026-06-28T23:19:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 388,
+    "articlesAfterDedup": 386,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 18.4,
+    "categoryCounts": {
+      "environment": 2,
+      "conflict": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "middle-east": 1,
+      "europe": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

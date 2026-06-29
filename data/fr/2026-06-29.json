@@ -1,0 +1,195 @@
+{
+  "date": "2026-06-29",
+  "summary": "Au Venezuela, l'espoir de retrouver des survivants du double séisme s'évanouit. Le bilan officiel est de 1 430 morts, et 50 000 personnes sont toujours portées disparues. Les secours continuent leurs recherches dans les décombres, mais les autorités reconnaissent que les chances de trouver des vivants sont minces. Le pays, déjà fragilisé, doit désormais gérer une crise humanitaire d'une ampleur inédite.\n\nSur le front militaire, deux développements notables. Les États-Unis et l'Iran ont accepté de reprendre les discussions et de cesser leurs frappes réciproques, après des échanges qui avaient malgré tout suivi le cessez-le-feu. Le contrôle du détroit d'Ormuz reste au cœur des tensions. Par ailleurs, le Pakistan a mené de nouvelles frappes dans l'est de l'Afghanistan, visant une faction dissidente des talibans pakistanais. Selon Kaboul, le bilan est de 36 morts et 163 blessés.\n\nLa canicule en Europe continue de faire des victimes. L'OMS recense 1 300 décès imputables aux fortes chaleurs. En France, le gouvernement est accusé d'incompétence et a convoqué une cellule interministérielle de crise. Emmanuel Macron, critiqué, défend son bilan. Parallèlement, la Bolivie a abandonné l'ancrage de sa monnaie au dollar. Le boliviano perd près de 40 % de sa valeur, une décision destinée à lutter contre la pénurie de devises et à soutenir les exportateurs.\n\nEn Nouvelle-Calédonie, les élections provinciales n'ont pas dégagé de majorité absolue. Les loyalistes remportent largement la province Sud, mais les indépendantistes conservent les deux autres provinces. Les alliances à venir au Congrès seront déterminantes. En Cisjordanie occupée, l'ONG israélienne B'Tselem documente la mort de 54 enfants tués par l'armée israélienne depuis janvier 2025, dénonçant des tirs ciblés et l'impunité des soldats. Enfin, Vladimir Poutine se dit prêt à reprendre les négociations sur l'Ukraine avec les États-Unis, sans date précise pour l'instant.",
+  "headlines": [
+    {
+      "title": "Le double séisme au Venezuela : 1 430 morts, 50 000 disparus, l'espoir s'amenuise",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF",
+        "France 24"
+      ],
+      "summary": "L'espoir de retrouver des survivants s'amenuise alors que 50 000 personnes sont toujours portées disparues. Les secours continuent leurs recherches dans un pays déjà en ruines.",
+      "link": "https://www.rtbf.be/article/seismes-au-venezuela-l-espoir-de-retrouver-des-survivants-s-amenuise-alors-que-50-000-personnes-sont-toujours-portees-disparues-11749284",
+      "publishedAt": "2026-06-29T04:58:45.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "Ouvre avec la citation d'un habitant et la diminution de l'espoir",
+          "link": "https://www.rtbf.be/article/seismes-au-venezuela-l-espoir-de-retrouver-des-survivants-s-amenuise-alors-que-50-000-personnes-sont-toujours-portees-disparues-11749284"
+        },
+        {
+          "source": "France 24",
+          "angle": "Revue de presse soulignant que le Venezuela était déjà en ruines avant le séisme",
+          "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260629-venezuela-un-pays-d%C3%A9j%C3%A0-en-ruines-avant-le-s%C3%A9isme"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Canicule en Europe : 1 300 morts, records de chaleur, le gouvernement français accusé d’inaction",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "RFI",
+        "Le Figaro",
+        "France 24"
+      ],
+      "summary": "L'OMS recense 1 300 morts imputables à la canicule en Europe. En France, l'exécutif est accusé d'incompétence et convoque une cellule de crise.",
+      "link": "https://www.lemonde.fr/politique/article/2026/06/29/canicule-l-executif-attaque-sur-son-bilan-ecologique-et-sur-sa-reactivite_6716869_823448.html",
+      "publishedAt": "2026-06-29T04:30:03.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Met l'accent sur les critiques politiques contre l'exécutif et la réunion de crise",
+          "link": "https://www.lemonde.fr/politique/article/2026/06/29/canicule-l-executif-attaque-sur-son-bilan-ecologique-et-sur-sa-reactivite_6716869_823448.html"
+        },
+        {
+          "source": "RFI",
+          "angle": "Insiste sur le réchauffement climatique et les records de chaleur en Europe",
+          "link": "https://www.rfi.fr/fr/environnement/20260629-canicule-l-europe-se-r%C3%A9chauffe-plus-vite-que-le-reste-du-monde-en-italie-des-r%C3%A9coltes-d%C3%A9j%C3%A0-menac%C3%A9es"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Relate la fin de la vigilance rouge et les accusations d'incompétence",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-canicule-la-vigilance-rouge-se-termine-ce-lundi-en-france-le-gouvernement-accuse-d-incompetence-et-d-inaction-20260629"
+        },
+        {
+          "source": "France 24",
+          "angle": "Souligne la pression politique et la préparation d'une nouvelle vague de chaleur",
+          "link": "https://www.france24.com/fr/france/20260629-canicule-cellule-interminist%C3%A9rielle-de-crise-apr%C3%A8s-inaction-reproch%C3%A9e-au-gouvernement"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'Iran et les Etats-Unis acceptent de reprendre les discussions et de cesser les frappes",
+      "source": "20 Minutes",
+      "summary": "Après des échanges de frappes malgré le cessez-le-feu, Washington et Téhéran auraient accepté de se reparler et de cesser les attaques, avec le détroit d'Ormuz au cœur des tensions.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4231651-20260629-guerre-moyen-orient-iran-etats-unis-accepte-reparler-cesser-attaques?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-29T02:30:13.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "En Cisjordanie, 54 enfants tués par l’armée israélienne depuis janvier 2025",
+      "source": "Le Monde",
+      "summary": "L'ONG israélienne B'Tselem documente la mort de 54 mineurs tués par l'armée israélienne, dénonçant des tirs ciblés et l'impunité des soldats.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/29/en-cisjordanie-le-sort-des-enfants-tues-par-l-armee-israelienne-revelateur-du-processus-de-deshumanisation-des-palestiniens_6716887_3210.html",
+      "publishedAt": "2026-06-29T08:00:09.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Le Pakistan mène de nouvelles frappes dans l’est de l’Afghanistan, 36 morts",
+      "source": "Liberation",
+      "summary": "Islamabad vise une faction dissidente des talibans pakistanais. Kaboul fait état de 36 morts et 163 blessés dans ces frappes.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/le-pakistan-a-mene-de-nouvelles-frappes-dans-lest-de-lafghanistan-20260629_TNPDVIVQGFEDNERBMPNPGOTMCA/",
+      "publishedAt": "2026-06-29T06:37:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Nouvelle-Calédonie : les élections provinciales ne dégagent pas de majorité absolue",
+      "source": "Liberation",
+      "summary": "Les loyalistes remportent largement la province Sud mais n'obtiennent pas la majorité absolue au Congrès. Les indépendantistes conservent les deux autres provinces.",
+      "link": "https://www.liberation.fr/politique/elections/elections-en-nouvelle-caledonie-les-loyalistes-nobtiendraient-pas-la-majorite-absolue-20260628_KLU5U74JYRCFLB7WSXMPR76UQE/",
+      "publishedAt": "2026-06-29T07:48:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "La Bolivie abandonne son ancrage au dollar, le boliviano perd 40%",
+      "source": "RFI",
+      "summary": "La Banque centrale bolivienne laisse flotter le boliviano face au dollar pour lutter contre la pénurie de devises. Le boliviano perd près de 40% de sa valeur.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260629-la-bolivie-abandonne-son-ancrage-au-dollar-pour-lutter-contre-la-p%C3%A9nurie-de-devises",
+      "publishedAt": "2026-06-29T07:37:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Poutine se dit prêt à reprendre les négociations avec les Etats-Unis sur l'Ukraine",
+      "source": "20 Minutes",
+      "summary": "Le président russe Vladimir Poutine attend de reprendre les négociations sur l'Ukraine avec les États-Unis, selon des sources. Aucune date n'a été fixée.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4231753-20260629-direct-guerre-ukraine-poutine-attend-reprendre-negociations-ukraine-etats-unis?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-29T04:04:56.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "La Crimée a été placée en état d'alerte après des frappes ukrainiennes.",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.8,
+    "categoryCounts": {
+      "environment": 2,
+      "politics": 3,
+      "conflict": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 2,
+      "middle-east": 2,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

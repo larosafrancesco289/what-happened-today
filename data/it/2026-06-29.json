@@ -1,0 +1,192 @@
+{
+  "date": "2026-06-29",
+  "summary": "Stati Uniti e Iran hanno sospeso le ostilità nello Stretto di Hormuz e si incontreranno martedì a Doha. La tregua arriva dopo settimane di raid reciproci che avevano messo in pericolo il traffico petrolifero. Hezbollah ha intanto criticato Israele per presunte violazioni del cessate il fuoco in Libano, minacciando di difendere la 'patria'. Il dialogo resta fragile, ma l'incontro di Doha è un primo passo concreto.\n\nIn Russia, un attacco ucraino ha incendiato la principale raffineria di Sloviansk, causando un morto. L'impianto lavora quasi 4 milioni di tonnellate di greggio all'anno, ed è vitale per la Russia meridionale. Vladimir Putin ha ammesso una carenza di petrolio e rivisto i piani sui carburanti. Il colpo alle infrastrutture energetiche russe continua a essere una leva ucraina.\n\nIl New York Times rivela che Donald Trump Jr. ed Eric Trump sono investitori nell'accordo minerario da 1,6 miliardi di dollari tra Stati Uniti e Kazakistan per il tungsteno. I soldi pubblici americani finanzieranno la Kaz Resources, compagnia legata ai figli del tycoon. Intanto la Corte Suprema Usa ha dato ragione a Monsanto sul Roundup: l'azienda non doveva etichettare il diserbante come cancerogeno. La sentenza divide i trumpiani, con gli attivisti di Make America Healthy Again furiosi.\n\nLa Francia approva oggi la legge contro l'ultra fast fashion, che penalizza Shein, Temu e AliExpress con multe e divieti pubblicitari. Obiettivo: ridurre l'impatto ambientale della moda a basso costo. Sul fronte tecnologico, i prezzi della RAM non torneranno ai livelli pre-crisi a causa della domanda di chip per intelligenza artificiale, che assorbe la produzione. In Italia, la legge elettorale è l'ultimo scoglio prima della pausa estiva: centrodestra e centrosinistra preparano lo scontro alla Camera. Infine, scienziati hanno individuato una firma genetica dell'invecchiamento che migliora gli orologi molecolari, utili per stimare età e longevità.",
+  "headlines": [
+    {
+      "title": "Usa e Iran sospendono le ostilità sullo Stretto di Hormuz, martedì incontro a Doha",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "Rai News",
+        "TGCOM24"
+      ],
+      "summary": "Stati Uniti e Iran hanno fermato gli attacchi reciproci nello Stretto di Hormuz. Martedì si terrà un incontro a Doha. Hezbollah critica Israele per violazioni del cessate il fuoco in Libano.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/29/medio-oriente-usa-iran-stop-agli-attacchi-martedi-incontro-a-doha_eb2964ce-aad0-445b-ac90-31aa258d803b.html",
+      "publishedAt": "2026-06-29T07:41:35.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Sottolinea la tregua e l'incontro a Doha",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/29/medio-oriente-usa-iran-stop-agli-attacchi-martedi-incontro-a-doha_eb2964ce-aad0-445b-ac90-31aa258d803b.html"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Enfatizza il conflitto in Libano e l'incontro",
+          "link": "https://www.rainews.it/maratona/2026/06/firmato-a-washington-laccordo-israele-libano-attacchi-iraniani-risale-la-tensione-a-hormuz-a3b76ba6-ed8a-4d0b-a87d-56a5b8def2b4.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Evidenzia la sospensione delle ostilità e l'aumento del gas",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-29-giugno_113742272-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Accordo Usa-Kazakistan sul tungsteno da 1,6 miliardi, i figli di Trump tra gli investitori",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "AGI",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il New York Times rivela che Donald Trump Jr. ed Eric Trump sono entrati come investitori nell'accordo minerario tra Stati Uniti e Kazakistan per lo sfruttamento di un giacimento di tungsteno, sollevando conflitti di interesse.",
+      "link": "https://www.repubblica.it/esteri/2026/06/29/news/accordo_usa_kazakhstan_tungsteno_trump_figli-425439921/?rss",
+      "publishedAt": "2026-06-29T07:32:20.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Solleva interrogativi sui conflitti di interesse",
+          "link": "https://www.agi.it/estero/news/2026-06-29/trump-tungsteno-accordo-kazakistan-37782517/"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Mette in evidenza il guadagno dei figli di Trump",
+          "link": "https://www.repubblica.it/esteri/2026/06/29/news/accordo_usa_kazakhstan_tungsteno_trump_figli-425439921/?rss"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Riporta l'inchiesta del New York Times",
+          "link": "https://www.ilsole24ore.com/art/nyt-trump-ha-concluso-accordo-minerario-un-miliardo-dollari-suoi-figli-ne-trarranno-profitto-AIKLs6uD"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Putin ammette carenza di petrolio dopo raid ucraini su raffineria a Sloviansk",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Un attacco ucraino ha incendiato la principale raffineria di Sloviansk, in Russia, causando un morto. Putin ha rivisto i piani sui carburanti a causa della carenza di petrolio.",
+      "link": "http://it.euronews.com/my-europe/2026/06/29/putin-ammette-carenza-di-petrolio-e-rivede-i-piani-sui-carburanti-dopo-raid-ucraini-su-raf",
+      "publishedAt": "2026-06-29T07:00:58.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Francia approva legge contro l'ultra fast fashion, colpiti Shein, Temu e AliExpress",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Il Senato francese vota oggi il testo finale della legge che penalizza la moda ultra-rapida, imponendo multe sulle piattaforme a basso costo per ridurre l'impatto ambientale.",
+      "link": "https://www.agi.it/estero/news/2026-06-29/legge-francia-fast-fashion-37782071/",
+      "publishedAt": "2026-06-29T06:19:02.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Corte Suprema Usa dà ragione a Monsanto sul Roundup, spaccatura tra i trumpiani",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "La Corte Suprema ha stabilito che Monsanto non doveva etichettare il Roundup come cancerogeno. La sentenza divide i sostenitori di Trump, con gli attivisti di Maha contrari.",
+      "link": "https://www.agi.it/estero/news/2026-06-29/corte-suprema-monsanto-37782244/",
+      "publishedAt": "2026-06-29T06:35:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Colossi tech avvertono: prezzi della RAM non torneranno pre-crisi per alta domanda IA",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "L'aumento della domanda di chip per intelligenza artificiale riduce la produzione di RAM tradizionale, causando rincari persistenti su tutto il mercato.",
+      "link": "http://it.euronews.com/next/2026/06/29/colossi-tech-avvertono-prezzi-della-ram-non-torneranno-presto-ai-livelli-pre-crisi",
+      "publishedAt": "2026-06-29T08:05:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Legge elettorale: preferenze e fuori sede ultimi scogli prima del voto in Aula alla Camera",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Centrodestra e centrosinistra preparano le mosse per il voto alla Camera sulla legge elettorale, previsto come ultima battaglia prima della pausa estiva.",
+      "link": "https://www.ilsole24ore.com/art/legge-elettorale-preferenze-fuori-sede-e-raccolta-firme-ultimi-scogli-prima-voto-aula-AIpJy8uD",
+      "publishedAt": "2026-06-29T04:55:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ricercatori individuano la firma genetica dell'invecchiamento, utile per orologi molecolari",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Scienziati hanno identificato una firma genetica che permette di stimare l'età e la longevità, migliorando gli orologi molecolari.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/06/13/vista-la-firma-genetica-dellinvecchiamento-_836ea676-09ce-4d71-be35-0bffd3bdb64a.html",
+      "publishedAt": "2026-06-29T06:13:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 196,
+    "articlesAfterDedup": 196,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.4,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 2,
+      "politics": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "asia-pacific": 1,
+      "europe": 3,
+      "americas": 1,
+      "global": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

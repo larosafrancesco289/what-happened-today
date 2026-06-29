@@ -42,14 +42,12 @@ CRON_SECRET=replace-me-with-a-long-random-string
 OPENROUTER_SITE_URL=https://what-happened-today.vercel.app
 OPENROUTER_SITE_NAME=What Happened Today
 
-# Optional model overrides (one model per role; defaults shown)
+# Optional model overrides (one model per role; defaults shown).
+# Non-deepseek values are ignored; provider routing is pinned to DeepSeek.
 OPENROUTER_MODEL_FILTER=deepseek/deepseek-v4-flash
 OPENROUTER_MODEL_HEADLINES=deepseek/deepseek-v4-flash
 OPENROUTER_MODEL_CATEGORIZE=deepseek/deepseek-v4-flash
 OPENROUTER_MODEL_SUMMARY=deepseek/deepseek-v4-flash
-
-# Optional provider override; defaults to the DeepSeek provider only.
-OPENROUTER_PROVIDER=deepseek
 ```
 
 Get your API key at [openrouter.ai/keys](https://openrouter.ai/keys)

@@ -11,7 +11,7 @@ import {
 
 const DEEPSEEK_V4_FLASH = 'deepseek/deepseek-v4-flash';
 const OPENROUTER_PROVIDER = {
-  order: [process.env.OPENROUTER_PROVIDER?.trim() || 'deepseek'],
+  order: ['deepseek'],
   allow_fallbacks: false,
   require_parameters: true,
 } as const;
@@ -44,14 +44,19 @@ function getClient(): OpenAI {
 // Each is overridable with a single env var; no fallback ladder — a step that
 // fails retries the same model, then fails its language without taking the others down.
 export const MODELS = {
-  filter: process.env.OPENROUTER_MODEL_FILTER?.trim() || DEEPSEEK_V4_FLASH,
-  headlines: process.env.OPENROUTER_MODEL_HEADLINES?.trim() || DEEPSEEK_V4_FLASH,
-  categorize: process.env.OPENROUTER_MODEL_CATEGORIZE?.trim() || DEEPSEEK_V4_FLASH,
-  summary: process.env.OPENROUTER_MODEL_SUMMARY?.trim() || DEEPSEEK_V4_FLASH,
+  filter: deepSeekModelFromEnv('OPENROUTER_MODEL_FILTER'),
+  headlines: deepSeekModelFromEnv('OPENROUTER_MODEL_HEADLINES'),
+  categorize: deepSeekModelFromEnv('OPENROUTER_MODEL_CATEGORIZE'),
+  summary: deepSeekModelFromEnv('OPENROUTER_MODEL_SUMMARY'),
 } as const;
 
 // Retained for scripts/generate-weekly.ts.
 export const MODEL_SUMMARY = MODELS.summary;
+
+function deepSeekModelFromEnv(envName: string): string {
+  const value = process.env[envName]?.trim();
+  return value?.startsWith('deepseek/') ? value : DEEPSEEK_V4_FLASH;
+}
 
 function getErrorStatus(error: unknown): number | undefined {
   if (typeof error !== 'object' || error === null || !('status' in error)) return undefined;

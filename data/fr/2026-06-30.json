@@ -1,0 +1,185 @@
+{
+  "date": "2026-06-30",
+  "summary": "Le séisme dévastateur qui a frappé le Venezuela le 25 juin continue de révéler son ampleur. Selon les données satellitaires de l'Agence spatiale européenne, le bilan s'élève désormais à 1 719 morts et 50 000 bâtiments détruits. Des dizaines de milliers de personnes sont toujours portées disparues. Les secours sont à la peine face à l'étendue des dégâts, et les besoins en aide humanitaire sont immenses.\n\nDans le ciel ukrainien, la Russie a annoncé avoir abattu 419 drones en une seule nuit, dont 46 au-dessus de la région de Moscou. Un bébé de six mois a été tué dans cette attaque, selon les autorités locales. De son côté, une explosion à Monaco, dans un immeuble résidentiel, a grièvement blessé l'oligarque ukrainien Vadim Ermolaev et deux membres de sa famille. Un suspect est en fuite, et une enquête pour tentative d'assassinat a été ouverte.\n\nSur le plan diplomatique, des représentants américains et iraniens se rencontrent au Qatar pour tenter d'apaiser les tensions au Moyen-Orient. Les discussions portent sur le conflit entre Israël et le Hezbollah ainsi que sur le programme nucléaire iranien. Par ailleurs, la France et l'Algérie négocient en coulisses : le Parquet antiterroriste a demandé la remise en liberté d'un agent consulaire algérien détenu, ce qui pourrait faciliter la libération du journaliste français Christophe Gleizes.\n\nEn France, la préfète de la Drôme a annoncé l'arrestation de 67 personnes liées au narcotrafic, dont dix tueurs à gages. Les suspects appartenaient à trois équipes lourdement armées de kalachnikovs et fusils à pompe. Enfin, en Afrique du Sud, des milliers d'étrangers quittent le pays face à une campagne xénophobe violente. Le mouvement March and March avait fixé au 30 juin un ultimatum de départ forcé, et beaucoup obéissent, certains après des décennies passées dans le pays.",
+  "headlines": [
+    {
+      "title": "Séisme au Venezuela : le bilan grimpe à 1.719 morts et 50.000 bâtiments détruits",
+      "source": "20 Minutes",
+      "summary": "Les données satellitaires de l'Agence spatiale européenne révèlent l'ampleur du séisme du 25 juin. Des dizaines de milliers de personnes sont toujours portées disparues.",
+      "link": "https://www.20minutes.fr/monde/4231975-20260630-seisme-venezuela-bilan-grimpe-1-719-morts-plus-50-000-batiments-detruits?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-30T09:16:39.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "La Russie abat 419 drones ukrainiens dans la nuit, un bébé tué près de Moscou",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France Info",
+        "Radio-Canada"
+      ],
+      "summary": "La défense russe a intercepté une vague massive de drones, dont 46 au-dessus de Moscou. Un bébé de six mois a été tué dans la région.",
+      "link": "https://www.rfi.fr/fr/europe/20260630-la-russie-dit-avoir-abattu-419-drones-ukrainiens-dans-la-nuit",
+      "publishedAt": "2026-06-30T09:01:29.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A ouvert avec le nombre de drones abattus et la mort du bébé",
+          "link": "https://www.rfi.fr/fr/europe/20260630-la-russie-dit-avoir-abattu-419-drones-ukrainiens-dans-la-nuit"
+        },
+        {
+          "source": "France Info",
+          "angle": "A mentionné les régions touchées : Crimée, Krasnodar et Moscou",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-russie-dit-avoir-abattu-419-drones-dans-la-nuit-un-bebe-tue-pres-de-moscou_8086244.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A souligné que cette attaque survient après une nuée de 660 drones",
+          "link": "https://ici.radio-canada.ca/nouvelle/2265734/russie-abattu-419-drones-ukrainiens-guerre"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Explosion d'un colis piégé à Monaco : trois blessés dont un oligarque ukrainien, le suspect en fuite",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Le Monde",
+        "France Info",
+        "20 Minutes"
+      ],
+      "summary": "Une déflagration dans un immeuble résidentiel a grièvement blessé l'oligarque Vadim Ermolaev et deux proches. Une enquête pour tentative d'assassinat est ouverte.",
+      "link": "https://www.lefigaro.fr/nice/une-forte-explosion-retentit-au-coeur-de-monaco-plusieurs-blesses-20260629",
+      "publishedAt": "2026-06-30T09:44:31.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A souligné que l'oligarque ukrainien Vadim Ermolaev figure parmi les blessés graves",
+          "link": "https://www.lemonde.fr/societe/article/2026/06/29/monaco-trois-blesses-dont-deux-graves-dans-une-explosion-volontaire_6716980_3224.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A rapporté que l'explosion s'est produite dans un immeuble résidentiel le long de la frontière avec la France",
+          "link": "https://www.lefigaro.fr/nice/une-forte-explosion-retentit-au-coeur-de-monaco-plusieurs-blesses-20260629"
+        },
+        {
+          "source": "France Info",
+          "angle": "A annoncé qu'une enquête pour tentative d'assassinat a été ouverte par le procureur",
+          "link": "https://www.franceinfo.fr/faits-divers/direct-explosion-d-un-colis-piege-a-monaco-trois-personnes-blessees-le-prince-albert-ii-denonce-un-crime-odieux_8085974.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A résumé les faits en citant victimes, oligarque et suspect en fuite",
+          "link": "https://www.20minutes.fr/monde/ukraine/4231950-20260630-attentat-oligarque-ukrainien-sait-explosion-monaco?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Des réunions au Qatar entre Américains et Iraniens pour apaiser les tensions au Moyen-Orient",
+      "source": "20 Minutes",
+      "summary": "Les discussions doivent aborder le conflit entre Israël et le Hezbollah ainsi que le programme nucléaire iranien. Aucun détail sur les participants n'a été divulgué.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4231944-20260630-direct-guerre-moyen-orient-reunions-attendues-qatar-entre-americains-iraniens?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-06-30T04:55:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Détention d'un agent consulaire algérien au cœur des négociations entre la France et l'Algérie",
+      "source": "Le Monde",
+      "summary": "Le Parquet antiterroriste a requis sans succès la remise en liberté de l'agent. Cette libération pourrait faciliter celle du journaliste français Christophe Gleizes.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/30/liberation-de-christophe-gleizes-la-remise-en-liberte-d-un-agent-consulaire-algerien-au-c-ur-de-negociations-entre-la-france-et-l-algerie_6717222_3210.html",
+      "publishedAt": "2026-06-30T07:00:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La préfète de la Drôme annonce l'arrestation de 67 personnes liées au narcotrafic, dont dix tueurs à gages",
+      "source": "France Info",
+      "summary": "Ces individus appartenaient à trois équipes lourdement armées. Les opérations ont été menées depuis plusieurs semaines selon la préfète.",
+      "link": "https://www.franceinfo.fr/societe/drogue/la-prefete-de-la-drome-annonce-l-arrestation-de-67-personnes-depuis-plusieurs-semaines-dont-dix-tueurs-a-gages-avant-leur-passage-a-l-acte-sur-fond-de-narcotrafic_8086499.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-06-30T09:43:39.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "En Afrique du Sud, des milliers d'étrangers quittent le pays face à une campagne xénophobe violente",
+      "source": "Le Monde",
+      "summary": "Le mouvement March and March avait fixé au 30 juin le départ forcé des immigrés. Des milliers obéissent à l'ultimatum, certains après des décennies dans le pays.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/06/30/en-afrique-du-sud-l-exode-force-des-etrangers-vises-par-une-violente-campagne-xenophobe_6717202_3212.html",
+      "publishedAt": "2026-06-30T04:00:22.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "Hier, les immigrés étaient sommés de quitter le territoire avant mardi. Aujourd'hui, l'exode est en cours.",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 213,
+    "articlesAfterDedup": 210,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.1,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 2,
+      "politics": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "americas": 1,
+      "europe": 4,
+      "middle-east": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

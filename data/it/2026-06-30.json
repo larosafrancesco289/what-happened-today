@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-30",
+  "summary": "L'ondata di calore che sta colpendo l'Europa ha causato oltre 1.300 morti dal 21 giugno, secondo l'OMS. L'emergenza si sposta ora verso est: in Germania e Romania si contano una trentina tra morti e dispersi, mentre l'Ungheria registra 41,6 gradi, aggravando la siccità e portando a restrizioni idriche. Il governo ungherese ha chiesto telelavoro e limitazioni nell'uso dell'acqua.\n\nDue attentati dinamitardi hanno scosso l'Italia e Monaco. In Italia, la polizia ha arrestato quattro persone per la bomba che ha danneggiato l'auto e il muro di casa del giornalista Sigfrido Ranucci; gli inquirenti ipotizzano un mandante con metodo mafioso. A Monaco, un'esplosione ha ferito gravemente l'oligarca ucraino Vadim Ermolaev, la moglie e il figlio tredicenne. Le autorità indagano per terrorismo, mobilitando decine di agenti e due elicotteri.\n\nSul fronte diplomatico, Iran e Stati Uniti hanno inviato delegazioni in Qatar per colloqui, ma Teheran nega incontri diretti. Intanto un attacco terroristico in Iran ha ucciso due Pasdaran. Papa Leone ha inviato una lettera ai lefebvriani, esortandoli a non compiere un atto scismatico che priverebbe i fedeli dei sacramenti, offrendo dialogo.\n\nIn Italia l'inflazione resta stabile a giugno: +3% su anno, invariata sul mese. In Francia scende all'1,8% grazie al calo dei prezzi energetici. Infine, una scoperta scientifica: gli astronomi hanno registrato per la prima volta un segnale dall'orizzonte degli eventi di un buco nero, aprendo nuove frontiere per l'astrofisica.",
+  "headlines": [
+    {
+      "title": "Polizia arresta 4 persone per attentato dinamitardo contro Sigfrido Ranucci",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Quattro persone sono state arrestate per l'esplosione di una bomba davanti all'abitazione del giornalista Sigfrido Ranucci. Gli inquirenti ipotizzano un mandante con metodo mafioso.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/30/attentato-dinamitardo-contro-sigfrido-ranucci-4-arresti-_9af24c92-35bc-4cbb-8c10-3d7e3229c017.html",
+      "publishedAt": "2026-06-30T09:22:21.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Esplosione a Monaco ferisce gravemente un oligarca ucraino e la sua famiglia",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Una bomba esplode davanti all'abitazione di Vadim Ermolaev a Monaco, ferendo gravemente lui, la moglie e il figlio tredicenne. Le autorità indagano per attentato terroristico.",
+      "link": "https://www.agi.it/estero/news/2026-06-30/monaco-attentato-terrorismo-37799316/",
+      "publishedAt": "2026-06-30T09:25:24.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Sottolinea che Monaco era stato risparmiato dal terrorismo per decenni",
+          "link": "https://www.agi.it/estero/news/2026-06-30/monaco-attentato-terrorismo-37799316/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Dettaglia le condizioni dell'oligarca e della famiglia feriti",
+          "link": "https://www.tgcom24.mediaset.it/mondo/monaco-attentato-esplosione_113778997-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iran e USA negoziano in Qatar mentre due Pasdaran muoiono in attacco",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Washington e Teheran inviano delegazioni in Qatar per colloqui, ma l'Iran nega incontri diretti. Intanto un attacco terroristico uccide due Pasdaran in Iran.",
+      "link": "https://www.agi.it/estero/news/2026-06-30/iran-usa--37794469/",
+      "publishedAt": "2026-06-30T09:09:14.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Riporta dichiarazioni contrastanti tra Trump e Teheran sull'incontro in Qatar",
+          "link": "https://www.agi.it/estero/news/2026-06-30/iran-usa--37794469/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Segnala l'uccisione di due Pasdaran e lo stallo nei colloqui",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-30-giugno_113788033-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Ondata di calore record si sposta verso est: 1.300 morti in Europa dal 21 giugno",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "L'ondata di calore che ha colpito l'Europa si sposta verso est, con oltre 1.300 decessi segnalati dall'OMS. Germania e Romania contano trenta tra morti e dispersi.",
+      "link": "https://www.agi.it/estero/news/2026-06-30/meteo-caldo-record-europa-37800150/",
+      "publishedAt": "2026-06-30T09:54:24.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ascoltato il primo segnale dall'orizzonte degli eventi di un buco nero",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Scienziati registrano per la prima volta un segnale dall'orizzonte degli eventi di un buco nero utilizzando un nuovo metodo di osservazione. La scoperta apre nuove frontiere per l'astrofisica.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/06/30/buchi-neri-ascoltato-il-primo-segnale-dallorizzonte-degli-eventi-_7ce93b98-b720-452c-9fba-60a9d5f7a057.html",
+      "publishedAt": "2026-06-30T07:24:14.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Papa Leone chiede ai lefebvriani di fermare la scissione per il bene dei fedeli",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Papa Leone invia una lettera al superiore della Fraternità San Pio X, esortando a non compiere un atto scismatico che priverebbe i fedeli dei sacramenti. La Chiesa offre dialogo.",
+      "link": "https://www.agi.it/estero/news/2026-06-30/papa-lefebvriani-scisma-37800208/",
+      "publishedAt": "2026-06-30T09:46:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Inflazione ferma a giugno in Italia: +3% su anno, variazione nulla mensile",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "L'Istat stima un'inflazione invariata a giugno rispetto a maggio, con un aumento del 3% su base annua. In Francia l'inflazione scende all'1,8% grazie al calo dei prezzi energetici.",
+      "link": "https://www.ilsole24ore.com/art/francia-giugno-inflazione-frena-all-18percento-anno-AIGOVRwD",
+      "publishedAt": "2026-06-30T07:46:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Terremoto in Venezuela: il porto di La Guaira diventa obitorio per le vittime",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Dopo i due terremoti che hanno causato 1.450 morti, il porto di La Guaira viene trasformato in obitorio. Le squadre forensi identificano le vittime mentre le famiglie aspettano.",
+      "link": "http://it.euronews.com/video/2026/06/30/terremoto-in-venezuela-il-porto-di-la-guaira-diventa-obitorio-improvvisato",
+      "publishedAt": "2026-06-30T09:05:04.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "Ieri si contavano 1.450 morti, 3.150 feriti e 50.000 dispersi dopo i terremoti in Venezuela.",
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 165,
+    "articlesAfterDedup": 165,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 10,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.7,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 1,
+      "environment": 2,
+      "science": 1,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 5,
+      "middle-east": 1,
+      "global": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

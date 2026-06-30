@@ -1,0 +1,182 @@
+{
+  "date": "2026-06-30",
+  "summary": "Peru's president-elect Keiko Fujimori has promised to restore 'order and hope' after defeating leftist candidate Roberto Sanchez by fewer than 50,000 votes in a runoff election. The narrow win, confirmed after weeks of ballot review, extends the Latin American right's hold on power. Fujimori, the 51-year-old daughter of former president Alberto Fujimori, faces deep divisions in a country where many see her as a return to a controversial past.\n\nFive days after twin earthquakes flattened neighborhoods in Venezuela, the official death toll has surpassed 1,700, but experts fear a serious undercount as rescue efforts stall. Survivors accuse the government of hampering relief. In Gaza, an Israeli strike on the al-Mawasi camp killed a mother and her child, wounding dozens more, and forced hundreds to flee. The ongoing conflict shows no sign of easing.\n\nThe yen fell to 162 against the dollar, its weakest in 40 years, as markets remain skeptical of government intervention. Beijing escalated pressure on Japan by flying bombers near its territory, detaining businesspeople, and restricting rare earth exports. In Argentina, President Milei's free-market overhaul hit a setback when a top aide resigned in a corruption scandal, casting doubt on his pledge to clean up politics. And in the U.S., Chinese critic Guo Wengui was sentenced to 30 years in prison for fraud, sparking calls for his pardon or deportation.\n\nConflicting statements from Washington and Tehran raised doubts about planned direct talks in Doha. Iranian officials contradicted President Trump's claim that representatives would meet in Qatar this week. Meanwhile, a bomb attack in Monaco injured a Ukrainian oligarch and his family; the blast used an explosive device filled with bolts and pellets. Authorities are searching for suspects.",
+  "headlines": [
+    {
+      "title": "Peru's Keiko Fujimori wins presidential election in narrow runoff",
+      "source": "The Guardian",
+      "summary": "Keiko Fujimori defeated leftist candidate Roberto Sanchez by fewer than 50,000 votes, extending the Latin American right's hold on power.",
+      "link": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
+      "publishedAt": "2026-06-30T00:18:15.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela earthquake death toll exceeds 1,700 amid rescue challenges",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "New York Times",
+        "Wall Street Journal",
+        "The Guardian"
+      ],
+      "summary": "Five days after twin earthquakes, official death toll stands at 1,719 but experts fear undercount; survivors accuse government of hampering relief efforts.",
+      "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-death-toll.html",
+      "publishedAt": "2026-06-30T09:03:18.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Yen plunges to 40-year low below 162 per dollar",
+      "source": "Japan Times",
+      "summary": "The yen broke the 162 level against the dollar, a 40-year low, as markets doubt government intervention efforts to support the currency.",
+      "link": "https://www.japantimes.co.jp/business/2026/06/30/markets/yen-breakout-162/",
+      "publishedAt": "2026-06-30T08:36:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli strike on Gaza camp kills mother and child, wounds dozens",
+      "source": "Al Jazeera English",
+      "summary": "An Israeli attack on the al-Mawasi camp in Khan Younis killed two including a mother and her child, displacing hundreds amid ongoing conflict.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
+      "publishedAt": "2026-06-30T09:10:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "China escalates pressure on Japan with bomber flights and rare earth export restrictions",
+      "source": "New York Times World",
+      "summary": "Beijing sent bombers near Japan, detained businesspeople, and limited rare earth exports, stepping up coercion amid territorial and economic disputes.",
+      "link": "https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html",
+      "publishedAt": "2026-06-30T09:11:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World",
+        "New York Times"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Milei's free-market overhaul faces setback as top aide resigns in corruption scandal",
+      "source": "Wall Street Journal World",
+      "summary": "The resignation of a key aide raises doubts about President Milei's promise to clean up politics, jeopardizing his economic reform agenda.",
+      "link": "https://www.wsj.com/world/americas/corruption-scandals-threaten-mileis-free-market-makeover-of-argentina-793c263b",
+      "publishedAt": "2026-06-30T02:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World",
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "China critic Guo Wengui sentenced to 30 years in U.S. for fraud",
+      "source": "Wall Street Journal World",
+      "summary": "The Chinese tycoon and Trump administration ally was convicted in a U.S. court; calls for pardon or deportation are expected.",
+      "link": "https://www.wsj.com/us-news/law/guo-wengui-china-critic-and-tycoon-sentenced-to-30-years-for-fraud-f9877440",
+      "publishedAt": "2026-06-29T23:49:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World",
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. and Iran offer conflicting plans for direct talks in Doha",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "New York Times",
+        "Wall Street Journal"
+      ],
+      "summary": "Iranian officials contradicted Trump’s claim that representatives would meet directly in Qatar on Tuesday, casting doubt on the peace process after the recent Hormuz deal.",
+      "link": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+      "publishedAt": "2026-06-30T09:28:24.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "U.S. and Iran reached a deal to halt fighting over the Strait of Hormuz on June 29.",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Manhunt underway after bomb attack injures Ukrainian oligarch in Monaco",
+      "source": "BBC World",
+      "summary": "An explosive device with bolts and pellets injured a Ukrainian oligarch and his family; authorities launch a search for suspects.",
+      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-30T09:38:50.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "",
+      "sources": [
+        "BBC World",
+        "BBC"
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 404,
+    "articlesAfterDedup": 403,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10.2,
+    "categoryCounts": {
+      "politics": 4,
+      "environment": 1,
+      "economy": 1,
+      "conflict": 3
+    },
+    "regionCounts": {
+      "americas": 4,
+      "asia-pacific": 2,
+      "middle-east": 2,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 5,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

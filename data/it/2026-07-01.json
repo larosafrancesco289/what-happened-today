@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-01",
+  "summary": "La Fraternità San Pio X ha consacrato oggi i primi quattro vescovi, nonostante l'appello del Papa. La cerimonia, tenuta dal vescovo Alfonso de Galarreta, segna lo scisma formale con la Chiesa cattolica. I nuovi vescovi sono don Pascal Schreiber (Svizzera), don Michael Goldade (Stati Uniti), don Michel Poinsinet de Sivry (Francia) e don Marc Hanappier (Francia). La decisione arriva dopo anni di tensione tra i lefebvriani e il Vaticano.\n\nNegli Stati Uniti, Donald Trump ha reso pubblica la dichiarazione dei redditi: 927 pagine che rivelano guadagni per 635 milioni di dollari dalle royalties della sua criptovaluta meme. Per la prima volta, i proventi da criptovalute superano quelli immobiliari. Sempre oggi, la Corte Suprema ha respinto il suo tentativo di limitare la cittadinanza per nascita, confermando lo ius soli previsto dal XIV Emendamento. È la fine di uno scontro costituzionale iniziato con un decreto presidenziale.\n\nBuone notizie dall'Egitto: la cittadina italiana Nessy Guerra è stata rilasciata dopo l'intervento del ministro Tajani. L'ambasciatore al Cairo ha ottenuto la sua liberazione, e ora si lavora per il rientro in Italia. Guerra era stata fermata con l'accusa di adulterio su denuncia dell'ex marito. Sul fronte difesa, l'Italia schiererà dal 3 luglio una batteria antimissile in Turchia per proteggere il vertice Nato ad Ankara. Lo ha annunciato il generale Iannucci in audizione.\n\nIn Venezuela, il porto di La Guaira è diventato un obitorio a cielo aperto: un migliaio di corpi accatastati dopo il terremoto. Gli operatori temono focolai infettivi e indossano mascherine. Intanto, a Montecarlo, la polizia cerca il sicario che ha ferito gravemente l'oligarca ucraino Ermolaev e la moglie. L'uomo potrebbe essere fuggito in Francia o in Italia. Il figlio è fuori pericolo.",
+  "headlines": [
+    {
+      "title": "Lefebvriani consacrano quattro vescovi, la Chiesa cattolica dichiara lo scisma",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "La Fraternità San Pio X ha consacrato i primi quattro vescovi nonostante l'appello di Papa Leone. La consacrazione, avvenuta ieri, sancisce lo scisma formale.",
+      "link": "https://www.agi.it/estero/news/2026-06-30/papa-lefebvriani-scisma-37800208/",
+      "publishedAt": "2026-07-01T09:20:07.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha enfatizzato i dettagli del rito di consacrazione e la rottura",
+          "link": "https://www.agi.it/estero/news/2026-06-30/papa-lefebvriani-scisma-37800208/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha sottolineato il rifiuto dell'appello papale e la rottura",
+          "link": "https://www.tgcom24.mediaset.it/mondo/scisma-chiesa-cattolica-papa-leone-lefebvriani_113849757-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump presenta dichiarazione dei redditi: nel 2025 guadagnato 1 miliardo da criptovalute",
+      "source": "Rai News",
+      "summary": "Donald Trump ha reso pubblica la dichiarazione fiscale obbligatoria, lunga 927 pagine. I guadagni in criptovalute superano quelli immobiliari, con 635 milioni in royalties da meme coin.",
+      "link": "https://www.rainews.it/articoli/2026/07/trump-presenta-la-dichiarazione-dei-redditi-obbligatoria-nel-2025-guadagnato-1-mld-da-criptovalute-0811b4a2-a6a4-410a-b7b5-cddaca47ad26.html",
+      "publishedAt": "2026-07-01T10:08:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Nessy Guerra rilasciata in Egitto dopo l'intervento del ministro Tajani",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "La cittadina italiana, fermata dalla polizia egiziana con l'accusa di adulterio, è stata liberata grazie all'intervento diplomatico. Tajani lavora per il suo rientro in Italia.",
+      "link": "https://www.agi.it/estero/news/2026-07-01/nessy-guerra-rilasciata-37817795/",
+      "publishedAt": "2026-07-01T09:28:26.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha evidenziato il ruolo del ministro Tajani nell'ottenere il rilascio",
+          "link": "https://www.agi.it/estero/news/2026-07-01/nessy-guerra-rilasciata-37817795/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha sottolineato l'impegno per riportare Nessy in Italia",
+          "link": "https://www.tgcom24.mediaset.it/mondo/nessy-guerra-rilasciata-cairo_113845009-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Corte Suprema Usa conferma ius soli: respinto il decreto di Trump",
+      "source": "la Repubblica",
+      "summary": "La Corte Suprema ha respinto il tentativo di Trump di limitare la cittadinanza per nascita. Il XIV Emendamento resta in vigore, chiudendo uno scontro costituzionale.",
+      "link": "https://www.repubblica.it/esteri/2026/07/01/news/ius_soli_usa_trump_significato_diritto_cittadinanza_cosa_e-425443889/?rss",
+      "publishedAt": "2026-07-01T07:54:36.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Italia schiera batteria anti-missile a difesa del summit Nato ad Ankara",
+      "source": "Il Sole 24 Ore",
+      "summary": "Dal 3 luglio una batteria antimissile italiana sarà operativa in Turchia per proteggere il vertice Nato. Lo ha annunciato il generale Iannucci in audizione.",
+      "link": "https://www.ilsole24ore.com/art/dal-3-luglio-sara-operativa-batteria-anti-missile-italiana-difesa-summit-nato-ankara-AIaaMVxD",
+      "publishedAt": "2026-07-01T08:33:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "India, otto arresti per corruzione nel tempio della rettitudine di Modi",
+      "source": "la Repubblica",
+      "summary": "Otto persone sono state arrestate con l'accusa di essersi appropriati delle donazioni dei fedeli nel tempio di Ram ad Ayodhya, simbolo del governo Modi.",
+      "link": "https://www.repubblica.it/esteri/2026/07/01/news/india_tempio_ayodhya_rettitudine_modi_scandalo_corruzione-425444055/?rss",
+      "publishedAt": "2026-07-01T08:24:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Venezuela, il porto di La Guaira diventa obitorio: mille corpi e rischio epidemie",
+      "source": "la Repubblica",
+      "summary": "Le morgue sono piene dopo il terremoto. Al porto giacciono un migliaio di corpi. Gli operatori temono focolai infettivi. La situazione è critica.",
+      "link": "https://www.repubblica.it/esteri/2026/07/01/news/venezuela_porto_la_guaira_diventa_obitorio_cielo_aperto_rischio_epidemie-425443486/?rss",
+      "publishedAt": "2026-06-30T23:00:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Attentato a Montecarlo: killer dell'oligarca ucraino forse fuggito in Francia o Italia",
+      "source": "la Repubblica",
+      "summary": "L'oligarca Ermolaev e il figlio sono fuori pericolo, la moglie è grave. La polizia esclude il terrorismo e cerca il sicario, forse fuggito all'estero.",
+      "link": "https://www.repubblica.it/esteri/2026/07/01/news/principato_di_monaco_sotto_shock_attentato_oligarca_ucraino_ermolaev_caccia_killer_montecarlo-425443393/?rss",
+      "publishedAt": "2026-06-30T23:00:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 194,
+    "articlesAfterDedup": 193,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 10,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 11.3,
+    "categoryCounts": {
+      "society": 2,
+      "economy": 1,
+      "politics": 3,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "europe": 2,
+      "americas": 3,
+      "middle-east": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

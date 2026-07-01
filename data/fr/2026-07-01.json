@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-01",
+  "summary": "Les secouristes continuent de fouiller les décombres à La Guaira, au Venezuela, où le bilan des séismes atteint 1.719 morts et 50.000 bâtiments détruits. Les habitants creusent à mains nues pour retrouver des proches disparus. Pendant ce temps, l'Ukraine a signé un contrat pour 16 avions de chasse suédois, renforçant sa défense aérienne. La Russie, elle, fait face à une pénurie de carburant qui touche désormais 95% du pays, conséquence des frappes ukrainiennes sur ses raffineries. Moscou cherche des solutions pour atténuer la crise.\n\nLa chaleur extrême a fait au moins 1.028 morts en Espagne en juin, un record. Les océans mondiaux ont aussi enregistré leur mois de juin le plus chaud, avec une température moyenne de 20,98°C à la surface, battant le record de 2024. En France, les conséquences de la vague de chaleur sans précédent persistent, affectant la santé, l'agriculture et les forêts. Ce constat alourdit le débat sur le réchauffement climatique.\n\nAu Moyen-Orient, des émissaires américains rencontrent des Iraniens à Doha pour apaiser les tensions, après l'accord-cadre entre le Liban et Israël. La communauté chiite libanaise est partagée entre fierté et amertume, s'interrogeant sur les sacrifices de la guerre. Par ailleurs, des Casques bleus ont été blessés dans une attaque à la frontière centrafricano-soudanaise, zone stratégique alors que le Soudan est en guerre.\n\nEn Allemagne, le gouvernement envisage de repousser l'âge légal de la retraite jusqu'à 70 ans, face au vieillissement de la population. L'administration Trump a levé les restrictions sur les modèles d'IA Claude Fable 5 et Mythos 5 d'Anthropic, qui peuvent désormais être déployés. En France, le procès \"Scribe\" examine l'échec d'un logiciel de rédaction de procédure pénale, qui a coûté des dizaines de millions d'euros sans être livré.",
+  "headlines": [
+    {
+      "title": "Les secouristes poursuivent les recherches à La Guaira après les séismes au Venezuela",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "Les secouristes et habitants continuent de fouiller les décombres à La Guaira après les séismes. Le bilan grimpe à 1.719 morts et 50.000 bâtiments détruits.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260701-seismes-venezuela-la-guaira-recherche-morts-survivants-continue",
+      "publishedAt": "2026-07-01T09:37:44.000Z",
+      "tier": "top",
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "La canicule en Espagne cause plus de 1.000 décès en juin",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "Au moins 1.028 décès attribuables à la canicule ont été recensés en juin en Espagne. Ce bilan record alerte sur les effets du réchauffement climatique en Europe.",
+      "link": "https://www.20minutes.fr/monde/espagne/4232182-20260701-canicule-espagne-plus-1-000-deces-attribues-vague-chaleur-mois-juin?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-01T07:45:28.000Z",
+      "tier": "top",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Kiev signe un contrat pour l'achat de 16 avions de chasse suédois",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "L'Ukraine a signé un contrat pour 16 avions de chasse suédois, renforçant sa défense aérienne face à la Russie. Les modalités financières et de livraison restent à préciser.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4232164-20260701-direct-guerre-ukraine-kiev-signe-contrat-16-chasse-suedois?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-01T04:55:52.000Z",
+      "tier": "top",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La communauté chiite libanaise partagée entre fierté et amertume après la guerre",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "Après l'accord-cadre signé le 26 juin entre le Liban et Israël, la communauté chiite s'interroge sur les sacrifices consentis lors de la guerre relancée en mars.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/01/au-liban-la-communaute-chiite-entre-fierte-et-amertume-face-au-hezbollah-au-deuil-et-a-l-exil_6717524_3210.html",
+      "publishedAt": "2026-07-01T10:00:11.000Z",
+      "tier": "also",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Les océans mondiaux atteignent un record de chaleur en juin",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "La température moyenne à la surface des océans a atteint 20,98°C en juin, battant le record de 2024. Le premier semestre 2026 est le deuxième plus chaud.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260701-environnement-les-oc%C3%A9ans-mondiaux-ont-atteint-un-pic-de-chaleur-en-juin",
+      "publishedAt": "2026-07-01T09:56:39.000Z",
+      "tier": "also",
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Des Casques bleus blessés dans une attaque en Centrafrique près du Soudan",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "Des Casques bleus ont été blessés lors d'une attaque à la frontière centrafricano-soudanaise. La zone est stratégique alors que le Soudan est en guerre.",
+      "link": "https://www.20minutes.fr/monde/soudan/4232181-20260701-centrafrique-casques-bleus-blesses-attaque-pres-frontiere-soudan?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-01T07:49:35.000Z",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les émissaires de Trump rencontrent des Iraniens à Doha pour apaiser les tensions",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "Les émissaires américains sont à Doha pour discuter avec l'Iran et le Liban. Ils cherchent à réduire les tensions au Moyen-Orient, notamment après l'accord libano-israélien.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4232162-20260701-direct-guerre-moyen-orient-emissaires-trump-doha-parler-iran-liban?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-01T04:27:50.000Z",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "L'Allemagne étudie un report de l'âge de la retraite jusqu'à 70 ans",
+      "source": "France Info",
+      "singleSource": true,
+      "summary": "Face au vieillissement de la population, le gouvernement allemand envisage de repousser l'âge légal de la retraite de six mois par décennie, jusqu'à 70 ans.",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/reforme-des-retraites-l-allemagne-etudie-un-report-de-l-age-de-depart-jusqu-a-70-ans_8087984.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-07-01T08:41:07.000Z",
+      "tier": "also",
+      "sources": [
+        "France Info"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Les pénuries de carburant s'étendent à 95% de la Russie",
+      "source": "RFI",
+      "singleSource": true,
+      "summary": "Les frappes ukrainiennes sur les raffineries russes ont provoqué une pénurie de carburant touchant 95% du pays. Le Kremlin cherche des solutions pour atténuer la crise.",
+      "link": "https://www.rfi.fr/fr/europe/20260701-russie-les-p%C3%A9nuries-de-carburant-gagnent-le-kremlin-cherche-des-solutions",
+      "publishedAt": "2026-07-01T10:02:54.000Z",
+      "tier": "developing",
+      "sources": [
+        "RFI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Les États-Unis lèvent les restrictions sur l'IA Anthropic",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "L'administration Trump a levé les restrictions qui bloquaient les modèles Claude Fable 5 et Mythos 5 d'Anthropic. L'entreprise peut désormais les déployer.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4232160-20260701-intelligence-artificielle-etats-unis-levent-finalement-restrictions-anthropic?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-01T03:22:30.000Z",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "science",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Au procès \"Scribe\", le logiciel défaillant de la police française mis en cause",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "Six agents publics sont jugés pour l'échec du logiciel Scribe, qui a coûté des dizaines de millions d'euros. La Cour des comptes examine les \"dérives\" du projet.",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/01/au-proces-scribe-les-graves-difficultes-et-derives-du-logiciel-qui-empoisonne-la-police_6717491_3224.html",
+      "publishedAt": "2026-07-01T08:00:09.000Z",
+      "tier": "also",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Les effets de la canicule persistent en France malgré la baisse des températures",
+      "source": "France Info",
+      "singleSource": true,
+      "summary": "Les conséquences de la vague de chaleur sans précédent continuent d'affecter la santé, l'économie, l'agriculture et les forêts en France, même après la baisse des températures.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/sante-economie-agriculture-forets-les-effets-deleteres-de-la-canicule-continuent-de-se-faire-sentir-malgre-la-baisse-des-temperatures_8085197.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-07-01T07:57:18.000Z",
+      "tier": "also",
+      "sources": [
+        "France Info"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 213,
+    "articlesAfterDedup": 213,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.9,
+    "categoryCounts": {
+      "environment": 4,
+      "conflict": 2,
+      "society": 2,
+      "politics": 1,
+      "economy": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 6,
+      "middle-east": 2,
+      "global": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 8,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

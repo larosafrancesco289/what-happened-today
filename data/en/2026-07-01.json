@@ -1,0 +1,194 @@
+{
+  "date": "2026-07-01",
+  "summary": "The US Supreme Court dealt a major blow to President Trump's immigration agenda today, ruling that children born in the United States are automatically citizens—upholding birthright citizenship. Civil rights groups praised the decision, which blocks a key part of Trump's broader push to tighten immigration laws. The ruling is the latest in a series of court defeats for the administration, and it settles a constitutional question that had divided lower courts.\n\nExtreme weather is dominating headlines elsewhere. Spain recorded its hottest January-to-June period on record, and at least 1,028 people died during the country's heat wave, according to officials. Scientists say climate change is driving the extreme heat across Europe. Meanwhile, the world's oceans hit a record average surface temperature of 21°C in June, logged by the EU's Copernicus programme—a worrying sign for marine life and global weather. The onset of a potentially powerful El Niño could push temperatures even higher.\n\nIn Russia, long lines at gas stations and fuel shortages are threatening President Putin's government. Moscow may need to import gasoline and ban diesel exports to stabilize supply, a sign of how war and sanctions are straining the economy. And in Senegal, parliament approved constitutional reforms that expand lawmakers' powers while limiting the president's authority, deepening a rift between President Bassirou Diomaye Faye and Speaker Ousmane Sonko.\n\nElsewhere, Lagos was paralyzed by torrential rain that lasted over 12 hours, flooding properties and roads and halting businesses. After the earthquake in Venezuela, many of the 146 Venezuelans deported from the US the day the disaster struck are feared dead. President Trump was briefed on all-out military options against Iran but chose to continue negotiations, with talks in Doha ongoing. And China arrested two Japanese nationals for violating rare earth export laws, following recent restrictions on exports of the strategic minerals.",
+  "headlines": [
+    {
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "source": "BBC World",
+      "summary": "The Supreme Court ruled against President Trump's challenge to birthright citizenship, affirming that children born in the U.S. are automatically citizens. Civil rights groups praised the decision.",
+      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T05:32:26.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Spain heat wave kills over 1,000 in second-hottest June ever",
+      "source": "Deutsche Welle",
+      "summary": "At least 1,028 people died during Spain's heatwave as the country recorded its hottest January-to-June period. Scientists attribute the extreme heat across Europe to climate change.",
+      "link": "https://www.dw.com/en/spain-heat-wave-kills-over-1-000-in-second-hottest-june-ever/a-77781523?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-01T09:21:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Putin faces political crisis as fuel shortages ripple through Russia",
+      "source": "Wall Street Journal World",
+      "summary": "Long lines at gas stations and fuel shortages across Russia are threatening President Putin's government. Moscow may need to import gasoline and ban diesel exports to stabilize supply.",
+      "link": "https://www.wsj.com/world/russia/putin-faces-a-political-crisis-as-fuel-shortages-ripple-through-russia-8991cd9a",
+      "publishedAt": "2026-07-01T02:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "World's oceans break June heat record, says EU monitor",
+      "source": "France 24",
+      "summary": "The average surface temperature of the world's oceans reached 21°C in June, a record high. The EU's Copernicus programme warns that El Niño could further increase heat this year.",
+      "link": "https://www.france24.com/en/world-s-oceans-break-june-heat-record-says-eu-monitor",
+      "publishedAt": "2026-07-01T10:01:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Russia approved secret China military training at top level, sources say",
+      "source": "Japan Times",
+      "summary": "China's covert military training of Russian forces last year was approved by Russia's defense minister and involved at least four Russian and Chinese generals, according to sources.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/01/asia-pacific/politics/russia-secret-china-military-training/",
+      "publishedAt": "2026-07-01T07:53:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Senegal MPs pass reform limiting presidential powers",
+      "source": "AllAfrica",
+      "summary": "Senegal's parliament approved constitutional reforms expanding lawmakers' powers and limiting the president's authority, deepening a political rift between President Bassirou Diomaye Faye and Speaker Ousmane Sonko.",
+      "link": "https://allafrica.com/stories/202607010095.html",
+      "publishedAt": "2026-07-01T07:13:49.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Lagos submerged as floods sack homes, paralyse traffic in Nigeria",
+      "source": "AllAfrica",
+      "summary": "Torrential rain lasting over 12 hours flooded Lagos, submerging properties and roads, halting businesses and traffic. The flooding caused widespread disruption in Nigeria's commercial capital.",
+      "link": "https://allafrica.com/stories/202607010113.html",
+      "publishedAt": "2026-07-01T07:58:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "After Venezuela earthquakes, deportees from U.S. are missing or found dead",
+      "source": "New York Times World",
+      "summary": "Many of the 146 Venezuelans deported from the U.S. the day the earthquake struck are feared dead. Rescue efforts continue amid widespread destruction across the country.",
+      "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html",
+      "publishedAt": "2026-07-01T09:03:34.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "A series of earthquakes struck Venezuela, killing over 1,700 people and causing widespread damage. Rescue operations are ongoing.",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump briefed on all-out war options in Iran but sticks with talks",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "Al Jazeera English"
+      ],
+      "summary": "President Trump was presented with military options against Iran but chose to continue negotiations. Talks in Doha continue as the Aug. 18 nuclear deadline approaches.",
+      "link": "https://www.wsj.com/world/middle-east/trump-briefed-on-all-out-war-options-in-iran-but-opts-to-stick-with-talks-98304b5b",
+      "publishedAt": "2026-07-01T00:18:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "The U.S. and Iran have been engaged in indirect talks in Doha over Iran's nuclear program, with both sides presenting opposing proposals.",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "China arrests two Japanese nationals for rare earth export violations",
+      "source": "Japan Times",
+      "summary": "Chinese authorities arrested two employees of Fuji Electric in Dalian for violating laws governing rare earth exports. The arrests follow China's recent export restrictions on rare earths.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/01/japan/crime-legal/japan-nationals-china-arrest/",
+      "publishedAt": "2026-07-01T08:18:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "China has tightened rare earth export restrictions and increased military pressure on Japan, including bomber flights near Japanese airspace.",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 418,
+    "articlesAfterDedup": 418,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.9,
+    "categoryCounts": {
+      "politics": 3,
+      "environment": 3,
+      "conflict": 2,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "europe": 2,
+      "global": 1,
+      "asia-pacific": 2,
+      "africa": 2,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

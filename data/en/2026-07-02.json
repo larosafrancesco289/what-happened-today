@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-02",
+  "summary": "Russian missiles and drones tore through apartment buildings in Kyiv early Thursday, killing at least 17 people and wounding dozens. The attack came hours after President Volodymyr Zelensky warned Moscow was preparing a 'massive attack.' Kyiv's mayor declared a day of mourning, and Ukraine renewed its call for more air defense systems from allies.\n\nOn the diplomatic front, the United States and Iran held indirect talks in Qatar on Wednesday, with Qatari and Pakistani mediators shuttling between the two sides. Host Qatar said 'positive progress' was made and that they agreed to continue discussions after Iran's former supreme leader's funeral. Separately, Washington let the USMCA trade pact expire by the July 1 deadline, triggering an annual review. The move creates uncertainty for businesses across North America, as the deal now faces regular scrutiny.\n\nGerman prosecutors charged a Ukrainian national on Wednesday with sabotaging the Nord Stream gas pipelines in 2022, alleging he acted on orders from Ukrainian authorities. The suspect is accused of blowing up the Baltic Sea pipelines. Meanwhile, Amnesty International released a report accusing Sudan's Rapid Support Forces of crimes against humanity and ethnic cleansing in El Fasher, including murder, torture, rape, and sexual slavery. The UN says the acts bear hallmarks of genocide. The RSF denies the allegations. In Venezuela, the aftermath of a massive earthquake has overwhelmed morgues, with thousands of bodies piling up. Many of the 146 US deportees missing since the quake are feared dead, as recovery and identification efforts continue.",
+  "headlines": [
+    {
+      "title": "Russian missiles and drones kill 17 in massive attack on Kyiv",
+      "source": "France 24",
+      "summary": "Russia launched over 40 missiles and drones early Thursday, killing at least 17 and wounding dozens. Kyiv mayor declares day of mourning. Ukraine calls for more air defense.",
+      "link": "https://www.france24.com/en/europe/20260702-ukraine-live-russian-missiles-drones-kill-massive-attack-kyiv-war",
+      "publishedAt": "2026-07-02T07:54:39.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. and Iran hold indirect talks in Qatar, agree to continue",
+      "source": "NPR News",
+      "summary": "Negotiators met separately with Qatari and Pakistani mediators, making positive progress. Next meeting after Iran's former supreme leader funeral.",
+      "link": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
+      "publishedAt": "2026-07-02T05:57:33.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "U.S. lets North American trade pact expire, triggering annual review",
+      "source": "Wall Street Journal World",
+      "summary": "Washington declined to renew USMCA by July 1 deadline, setting up annual reviews and raising uncertainty for businesses across the continent.",
+      "link": "https://www.wsj.com/world/americas/u-s-plunges-trade-pact-with-canada-and-mexico-into-doubt-4ee87167",
+      "publishedAt": "2026-07-01T20:59:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "German prosecutors charge Ukrainian official for Nord Stream sabotage",
+      "source": "Deutsche Welle",
+      "summary": "Prosecutors allege the suspect acted on orders of Ukrainian authorities to blow up Baltic Sea gas pipelines in 2022. Suspect charged Wednesday.",
+      "link": "https://www.dw.com/en/nord-stream-blast-ordered-by-ukraine-say-german-prosecutors/a-77798230?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-02T09:31:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Amnesty says Sudan's RSF committed crimes against humanity in El Fasher",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "BBC World"
+      ],
+      "summary": "Report accuses paramilitary force of ethnic cleansing, murder, torture, rape. UN says acts bear hallmarks of genocide. RSF denies allegations.",
+      "link": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+      "publishedAt": "2026-07-01T12:45:00.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela earthquake bodies overwhelm morgues, deportees feared dead",
+      "source": "New York Times World",
+      "summary": "Thousands of bodies strain forensic system; many of 146 US deportees missing since earthquake are feared dead. Recovery and identification efforts continue.",
+      "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html",
+      "publishedAt": "2026-07-01T21:21:29.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 422,
+    "articlesAfterDedup": 420,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 20.8,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 2,
+      "economy": 1,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 1,
+      "americas": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

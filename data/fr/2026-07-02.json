@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-02",
+  "summary": "Une attaque massive de drones et missiles russes a frappé Kiev dans la nuit, faisant au moins 17 morts et près de 90 blessés. Il s'agit de la pire attaque sur la capitale ukrainienne depuis 2022. Le président Zelensky a renouvelé ses appels aux États-Unis pour obtenir des systèmes Patriot, tandis que l'Union européenne a proposé de nouvelles sanctions contre Moscou. Les secouristes continuent de fouiller les décombres.\n\nDans un développement diplomatique explosif, le parquet allemand a accusé les autorités ukrainiennes d'avoir ordonné le sabotage des gazoducs Nord Stream en 2022. Selon les procureurs, un suspect nommé Serhii K. et d'autres militaires ont planifié la destruction des pipelines sur ordre de Kiev. Par ailleurs, la Russie a suspendu sept postes-frontières ferroviaires avec la Finlande, l'Estonie et la Lettonie, bloquant le transport de marchandises sans explication officielle. Une décision qui accroît la pression économique sur l'UE.\n\nDeux catastrophes naturelles et humaines cette semaine. En Côte d'Ivoire, des pluies torrentielles ont provoqué des éboulements à Abidjan, ensevelissant des habitations. Le bilan provisoire fait état de plusieurs dizaines de morts, et les recherches se poursuivent. Au Soudan, Amnesty International accuse les belligérants de crimes contre l'humanité et de nettoyage ethnique au Darfour, appelant la communauté internationale à protéger les civils.\n\nEnfin, Donald Trump s'est félicité des discussions indirectes avec l'Iran sur le nucléaire à Doha, affirmant que la dénucléarisation avance bien malgré le refus de Téhéran de négocier directement. Le Nigeria envisage de réclamer des réparations à l'Afrique du Sud après l'évacuation de plus de 550 Nigérians fuyant les violences xénophobes. Et en Cisjordanie, le déclassement économique frappe Naplouse, plongeant la société dans une paupérisation sans précédent sous l'occupation israélienne.",
+  "headlines": [
+    {
+      "title": "Une attaque massive de drones et missiles russes sur Kiev fait au moins 17 morts et près de 90 blessés",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Radio-Canada",
+        "20 Minutes",
+        "Le Figaro"
+      ],
+      "summary": "Les forces russes ont lancé la pire attaque sur la capitale ukrainienne depuis 2022. Le président Zelensky réclame des systèmes Patriot aux États-Unis et l'UE propose de nouvelles sanctions contre Moscou.",
+      "link": "https://www.rfi.fr/fr/europe/20260702-en-direct-ukraine-apr%C3%A8s-une-attaque-massive-kiev-demande-%C3%A0-ses-alli%C3%A9s-plus-de-syst%C3%A8mes-de-d%C3%A9fense-antia%C3%A9rienne",
+      "publishedAt": "2026-07-02T09:18:42.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A ouvert avec le bilan humain et les appels à l'aide de Kiev",
+          "link": "https://www.rfi.fr/fr/europe/20260702-en-direct-ukraine-apr%C3%A8s-une-attaque-massive-kiev-demande-%C3%A0-ses-alli%C3%A9s-plus-de-syst%C3%A8mes-de-d%C3%A9fense-antia%C3%A9rienne"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A mis l'accent sur les dégâts matériels et le bilan provisoire de neuf morts",
+          "link": "https://ici.radio-canada.ca/nouvelle/2266361/attaques-missiles-kiev-ukraine-russie-morts"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A suivi en direct l'attaque et ses conséquences politiques",
+          "link": "https://www.20minutes.fr/monde/ukraine/4232356-20260702-direct-guerre-ukraine-attaque-massive-kiev-fait-moins-huit-morts?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A rapporté la demande de licence Patriot par Zelensky après les frappes",
+          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-reclame-une-licence-a-washington-pour-des-missiles-patriot-apres-les-frappes-russes-sur-kiev-20260702"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A annoncé les nouvelles sanctions proposées par Kaja Kallas contre la Russie",
+          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-chef-de-la-diplomatie-europeenne-kaja-kallas-va-proposer-de-nouvelles-sanctions-contre-la-russie-apres-les-frappes-sur-kiev-20260702"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le parquet allemand accuse les autorités ukrainiennes d'avoir ordonné le sabotage des gazoducs Nord Stream en 2022",
+      "source": "Le Figaro",
+      "summary": "Les procureurs allemands affirment que Serhii K. et d'autres militaires ont planifié la destruction de Nord Stream 1 et 2 sur ordre de Kiev, une accusation aux lourdes implications diplomatiques.",
+      "link": "https://www.lefigaro.fr/international/le-parquet-allemand-accuse-les-autorites-ukrainiennes-d-avoir-ordonne-le-sabotage-des-gazoducs-nord-stream-en-2022-20260702",
+      "publishedAt": "2026-07-02T09:33:23.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Des pluies torrentielles provoquent des éboulements et font des dizaines de morts en Côte d'Ivoire",
+      "source": "France 24",
+      "summary": "À Abidjan, des glissements de terrain ont enseveli des habitations, tuant plusieurs dizaines de personnes. Les secouristes poursuivent les recherches tandis que les autorités renforcent les mesures de prévention.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-des-dizaines-de-morts-en-c%C3%B4te-d-ivoire-suite-%C3%A0-des-pluies-torrentielles",
+      "publishedAt": "2026-07-02T09:09:19.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Amnesty International accuse les belligérants au Soudan de crimes contre l'humanité au Darfour",
+      "source": "Radio-Canada",
+      "summary": "L'organisation dénonce un nettoyage ethnique et des atrocités systématiques au Darfour, et appelle la communauté internationale à intervenir pour protéger les civils.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2266156/amnistie-internationale-crimes-contre-humanite-soudan",
+      "publishedAt": "2026-07-02T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump se félicite des discussions indirectes avec l'Iran sur le nucléaire à Doha",
+      "source": "20 Minutes",
+      "summary": "Malgré le refus iranien de négocier directement, les émissaires américains rencontrent Téhéran au Qatar. Trump affirme que la dénucléarisation avance bien.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4232354-20260702-guerre-moyen-orient-trump-enthousiasme-tres-bonnes-discussions-indirectes-iran?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-02T03:11:56.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Nigeria envisage de réclamer des réparations à l'Afrique du Sud pour les violences xénophobes",
+      "source": "RFI",
+      "summary": "Après l'évacuation de plus de 550 Nigérians, Abuja étudie des demandes de compensation pour les pertes dues aux attaques anti-immigration en Afrique du Sud.",
+      "link": "https://www.rfi.fr/fr/afrique/20260702-manifestations-anti-immigration-en-afrique-du-sud-le-nigeria-envisage-de-demander-des-r%C3%A9parations",
+      "publishedAt": "2026-07-02T09:11:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "La Russie suspend sept postes-frontières ferroviaires avec les pays Baltes et la Finlande",
+      "source": "RFI",
+      "summary": "Sans explication, Moscou bloque le transport de marchandises vers l'Estonie, la Lettonie et la Finlande, accentuant la pression économique sur l'Union européenne.",
+      "link": "https://www.rfi.fr/fr/europe/20260702-la-russie-suspend-le-fonctionnement-de-postes-fronti%C3%A8res-ferroviaires-avec-les-pays-baltes",
+      "publishedAt": "2026-07-02T08:29:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "À Naplouse, le déclassement économique frappe la société palestinienne sous occupation israélienne",
+      "source": "Le Monde",
+      "summary": "Le Monde décrit comment l'étranglement financier par Israël et les barrages militaires plongent la ville dans une paupérisation sans précédent, touchant tous les milieux.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/02/nous-avons-tout-sacrifie-a-naplouse-l-inexorable-declassement-de-la-societe-palestinienne_6717792_3210.html",
+      "publishedAt": "2026-07-02T04:00:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.4,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 4,
+      "environment": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "africa": 3,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-02",
+  "summary": "Il terremoto in Venezuela ha causato 2.295 morti accertati, mentre i soccorritori scavano ancora per salvare un uomo di 47 anni intrappolato sotto un centro commerciale da otto giorni. Il governo ha dichiarato sette giorni di lutto nazionale. Nel frattempo, Mosca ha colpito Kiev con una doppia ondata di droni e missili cruise, causando crolli e incendi: immagini satellitari avevano permesso a Zelensky di allertare la popolazione in tempo, ma migliaia di persone sono comunque fuggite nei rifugi. A mille giorni dall'inizio della guerra a Gaza, la crisi umanitaria resta grave, con centinaia di tende allestite tra le macerie nel porto di Gaza City.\n\nIn Sudafrica, un autobus con circa 80 passeggeri si è ribaltato mentre cercava di evitare un furgone: 16 morti e 20 feriti. Il ministro dei Trasporti aveva definito le strade del paese una \"vergogna nazionale\". In Germania, il cancelliere Friedrich Merz ha annunciato un \"grande balzo in avanti\" dopo sette ore di consultazioni: la coalizione CDU/CSU-SPD ha raggiunto un compromesso su riforme di patrimoniale e pensioni. Intanto, la Spagna entra nel periodo di massimo rischio incendi con quasi 50.000 ettari già bruciati nel 2026; i roghi a Leciñena e Despeñaperros tengono in allerta i servizi di emergenza.\n\nIn Italia, i dati Istat di maggio mostrano un aumento del tasso di inattività al 33,6%, mentre occupazione e disoccupazione calano insieme: un segnale preoccupante per il mercato del lavoro. Dalla ricerca, uno studio statunitense ha identificato nel sangue i circRNA, biomarcatori che aumentano due-quattro anni prima dei sintomi dell'Alzheimer: possibile futuro test predittivo. Sul fronte archeologico, a Sirolo (Conero) è emersa una necropoli principesca del VI secolo a.C. con un carro da guerra e sepolture aristocratiche.\n\nInfine, il Vaticano ha scomunicato i vescovi lefebvriani per la consacrazione di quattro presbiteri senza mandato pontificio, dichiarando l'atto di natura scismatica. Il provvedimento colpisce Alfonso de Galarreta e altri quattro religiosi, mentre Bernard Fellay è coinvolto per la partecipazione.",
+  "headlines": [
+    {
+      "title": "Terremoto in Venezuela: 2.295 morti accertati, governo dichiara lutto nazionale",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Il governo venezuelano ha dichiarato sette giorni di lutto nazionale dopo il terremoto che ha causato 2.295 morti accertati, mentre squadre di soccorso scavano per salvare un uomo vivo sotto le macerie da otto giorni.",
+      "link": "https://www.repubblica.it/esteri/2026/07/02/news/venezuela_sette_giorni_lutto_nazionale_bilancio_morti_accertati-425446296/?rss",
+      "publishedAt": "2026-07-02T08:26:30.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Pubblica il bilancio delle vittime e la dichiarazione di lutto nazionale",
+          "link": "https://www.repubblica.it/esteri/2026/07/02/news/venezuela_sette_giorni_lutto_nazionale_bilancio_morti_accertati-425446296/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Si concentra sul salvataggio di un uomo vivo sotto le macerie da otto giorni",
+          "link": "https://www.tgcom24.mediaset.it/mondo/terremoto-venezuela-uomo-vivo-otto-giorni-dal-sisma_113891385-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "La Russia colpisce Kiev con missili e droni, crolli e incendi in città",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Mosca ha attaccato Kiev con una doppia ondata di droni e missili cruise, provocando crolli e incendi; immagini satellitari avevano allertato Zelensky in anticipo.",
+      "link": "https://www.repubblica.it/esteri/2026/07/02/news/kiev_attacco_russo_ucraina_guerra-425445807/?rss",
+      "publishedAt": "2026-07-02T09:25:49.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Descrive la pioggia di missili e i danni a Kiev",
+          "link": "https://www.repubblica.it/esteri/2026/07/02/news/kiev_attacco_russo_ucraina_guerra-425445807/?rss"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Rivela le foto satellitari che hanno permesso la preparazione",
+          "link": "https://www.repubblica.it/esteri/2026/07/02/news/satellitari_dei_bombardieri_in_movimento_cosi_zelensky_ha_saputo_in_anticipo_dei_raid-425446257/?rss"
+        }
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sudafrica: autobus con 80 passeggeri si ribalta, almeno 16 morti",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Un autobus diretto da Città del Capo a Idutywa si è ribaltato nella provincia del Capo Occidentale, causando 16 morti e 20 feriti; la dinamica è in fase di accertamento.",
+      "link": "https://www.agi.it/estero/news/2026-07-02/strage-bus-sudafrica-37833441/",
+      "publishedAt": "2026-07-02T09:16:27.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Germania: il cancelliere Merz vara riforme su patrimoniale e pensioni",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Dopo sette ore di consultazioni, la coalizione CDU/CSU-SPD ha trovato un compromesso sulle riforme; Merz parla di un 'grande balzo in avanti'.",
+      "link": "http://it.euronews.com/my-europe/2026/07/02/germania-il-cancelliere-tedesco-merz-vara-le-riforme-sulla-patrimoniale-e-sulle-pensioni",
+      "publishedAt": "2026-07-02T09:13:49.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Spagna: 50.000 ettari già bruciati, massimo rischio incendi",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "La Spagna entra nel periodo di massimo rischio incendi con quasi 50.000 ettari bruciati nel 2026; gli incendi a Leciñena e Despeñaperros tengono in allerta i servizi di emergenza.",
+      "link": "http://it.euronews.com/2026/07/02/spagna-nel-periodo-di-massimo-rischio-incendi-50000-ettari-gia-bruciati",
+      "publishedAt": "2026-07-02T09:33:02.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Mille giorni di guerra a Gaza, striscia rasa al suolo dagli attacchi israeliani",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "A mille giorni dall'inizio della guerra, la crisi umanitaria a Gaza si aggrava con centinaia di tende allestite tra le macerie nel porto di Gaza City.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/1000-giorni-di-guerra-la-striscia-di-gaza-rasa-al-suolo-dagli-attacchi-israeliani-_113896157-02k.shtml",
+      "publishedAt": "2026-07-02T09:06:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Alzheimer: nuovo test del sangue prevede sintomi imminenti",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "Uno studio Usa ha identificato i circRNA come biomarcatori che aumentano 2-4 anni prima della demenza, aprendo la strada a un test predittivo.",
+      "link": "https://www.rainews.it/articoli/2026/07/alzheimer-nuovo-test-del-sangue-potrebbe-prevedere-sintomi-imminenti--2ab84c26-d80c-4ce4-8c7e-7fd88a7ed3b4.html",
+      "publishedAt": "2026-07-02T09:11:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia: tasso di inattività sale al 33,6%, calano occupazione e disoccupazione",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Secondo i dati Istat di maggio, il tasso di inattività in Italia è salito al 33,6%, mentre occupazione e disoccupazione sono diminuite.",
+      "link": "https://www.ilsole24ore.com/art/lavoro-tasso-disoccupazione-scende-5percento-maggio-AIAdeiyD",
+      "publishedAt": "2026-07-02T08:14:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Scoperta nel Conero una necropoli principesca del VI secolo a.C.",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "A Sirolo sono emersi un carro da guerra, sepolture aristocratiche e una struttura monumentale risalenti al VI secolo avanti Cristo.",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/itinerari/2026/07/01/scoperta-nel-conero-una-necropoli-principesca-del-vi-secolo-avanti-cristo_5f3e6d6c-f4a4-45dc-aac7-7ecd9debe48e.html",
+      "publishedAt": "2026-07-01T17:25:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Il Vaticano scomunica i vescovi lefebvriani per atto scismatico",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "Il Dicastero per la Dottrina della Fede ha dichiarato la scomunica latae sententiae per il vescovo Alfonso de Galarreta e i quattro presbiteri consacrati, per atto di natura scismatica.",
+      "link": "https://www.agi.it/estero/news/2026-07-02/scomunica-vescovi-lefebvriani-37832367/",
+      "publishedAt": "2026-07-02T08:22:21.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "La Fraternità San Pio X ha consacrato quattro vescovi senza mandato pontificio, provocando la dichiarazione di scisma da parte della Chiesa cattolica.",
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 195,
+    "articlesAfterDedup": 195,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 16.2,
+    "categoryCounts": {
+      "environment": 2,
+      "conflict": 2,
+      "society": 2,
+      "politics": 2,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "europe": 6,
+      "africa": 1,
+      "middle-east": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 7,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-03",
+  "summary": "L'attaque russe sur Kiev a tué au moins 30 personnes et fait près de 100 blessés, avec plus de 500 drones et 74 missiles lancés. Les opérations de secours se poursuivent dans une ville enveloppée de fumée, et l'Ukraine promet une riposte. C'est la frappe la plus meurtrière contre la capitale depuis le début de la guerre.\n\nPlus d'une semaine après le double séisme au Venezuela, le bilan atteint plus de 2 500 morts et des dizaines de milliers de disparus. La colère monte contre le gouvernement, accusé de gestion chaotique des secours. Dans une affaire distincte, Interpol recherche une femme d'origine ukrainienne, Anastasiia Berezovska, 39 ans, pour avoir déposé un colis piégé à Monaco le 29 juin, faisant trois blessés.\n\nEn France, six départements du sud sont placés en 'danger très élevé' d'incendies, et un feu important brûle toujours à Pouzols-Minervois. Par ailleurs, Santé publique France indique que la canicule de juin a entraîné une hausse des décès de près de 30 %, avec 62 % d'augmentation en Île-de-France et dans les Pays de la Loire. L'agriculture française subit aussi les conséquences de deux canicules consécutives, avec cultures brûlées et élevages décimés.\n\nDans l'actualité politique et économique : Donald Trump a accumulé plus de 2 milliards de dollars depuis son retour au pouvoir, un montant sans précédent pour un président américain. Au Canada, Ottawa et l'Alberta se sont entendus sur un tracé pour un nouveau pipeline vers Vancouver, suivant l'actuel Trans Mountain. Enfin, au Pakistan, la chute d'un bus dans un ravin a fait au moins 40 morts.",
+  "headlines": [
+    {
+      "title": "La plus grande attaque russe sur Kiev tue au moins 30 personnes et fait près de 100 blessés",
+      "source": "France 24",
+      "summary": "Au moins 30 morts, près de 100 blessés et des dizaines de bâtiments endommagés à Kiev suite à plus de 500 drones et 74 missiles lancés par la Russie. Les opérations de secours se poursuivent tandis que l'Ukraine promet une riposte.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-ukraine-%C3%A0-kiev-poursuite-des-op%C3%A9rations-de-secours-apr%C3%A8s-les-plus-grosses-frappes-russes",
+      "publishedAt": "2026-07-03T09:21:25.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Plus d'une semaine après le double séisme au Venezuela, la colère monte contre le gouvernement",
+      "source": "RFI",
+      "summary": "Plus d'une semaine après le double séisme qui a fait plus de 2 500 morts et des dizaines de milliers de disparus, la colère gronde contre le gouvernement accusé de gestion chaotique des secours.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260703-s%C3%A9ismes-au-venezuela-une-semaine-apr%C3%A8s-la-tension-monte-au-sujet-d-une-gestion-de-crise-chaotique",
+      "publishedAt": "2026-07-03T08:35:32.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Six départements du sud de la France placés en 'danger très élevé' d'incendies",
+      "source": "Le Monde",
+      "summary": "Six départements du sud de la France sont en 'danger très élevé' d'incendies. Plusieurs feux brûlent depuis mercredi, dont un important à Pouzols-Minervois. Des milliers de pompiers mobilisés.",
+      "link": "https://www.lemonde.fr/planete/live/2026/07/03/feux-des-milliers-de-pompiers-toujours-mobilises-dans-le-sud-de-la-france_6718467_3244.html",
+      "publishedAt": "2026-07-03T05:53:19.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Une femme d'origine ukrainienne suspectée de l'explosion à Monaco, mandat d'arrêt international",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "Libération"
+      ],
+      "summary": "Une femme d'origine ukrainienne, Anastasiia Berezovska, 39 ans, est recherchée par Interpol pour tentative d'assassinats après avoir déposé un colis piégé le 29 juin à Monaco, faisant trois blessés.",
+      "link": "https://www.franceinfo.fr/faits-divers/le-principal-suspect-de-l-explosion-ayant-fait-trois-blesses-a-monaco-est-une-femme_8090672.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-07-03T09:33:57.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "Identification de la suspecte et mandat d'arrêt émis par Interpol",
+          "link": "https://www.franceinfo.fr/faits-divers/le-principal-suspect-de-l-explosion-ayant-fait-trois-blesses-a-monaco-est-une-femme_8090672.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Précisions sur l'origine ukrainienne et le dépôt du colis piégé le 29 juin",
+          "link": "https://www.liberation.fr/international/europe/le-principal-suspect-de-lexplosion-ayant-fait-trois-blesses-a-monaco-est-une-femme-20260702_6EXMDFU3KZFUZHU3HPSXK64VLI/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Au moins 40 morts dans la chute d'un bus dans un ravin au Pakistan",
+      "source": "20 Minutes",
+      "summary": "Au moins 40 personnes sont mortes lorsqu'un bus a chuté dans un ravin dans une région montagneuse du Pakistan, selon les autorités locales. Le bilan pourrait s'alourdir.",
+      "link": "https://www.20minutes.fr/monde/4232605-20260703-pakistan-bus-chute-ravin-bilan-lourd-moins-40-morts?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-03T09:17:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "La canicule de juin 2026 a fait augmenter les décès de près de 30% en France",
+      "source": "Le Monde",
+      "summary": "La canicule de juin a entraîné une hausse des décès de près de 30% en France, avec une augmentation de 62% en Ile-de-France et dans les Pays de la Loire, selon Santé publique France.",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/03/canicule-de-juin-les-deces-ont-augmente-de-presque-30-selon-sante-publique-france_6718477_3224.html",
+      "publishedAt": "2026-07-03T08:00:01.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump a accumulé plus de 2 milliards de dollars depuis son retour au pouvoir",
+      "source": "Radio-Canada",
+      "summary": "Les revenus perçus par Donald Trump en 2025 sont sans précédent pour un président américain, totalisant plus de 2 milliards de dollars, selon un rapport.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2266476/trump-revenus-2025-crypto-mar-a-lago",
+      "publishedAt": "2026-07-03T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Ottawa et l'Alberta s'entendent sur un pipeline albertain vers Vancouver via le tracé Trans Mountain",
+      "source": "Radio-Canada",
+      "summary": "Ottawa et l'Alberta choisissent un tracé au sud de la Colombie-Britannique pour le nouveau pipeline, suivant celui de l'actuel Trans Mountain. Le moratoire sur les grands pétroliers est maintenu.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2266591/alberta-pipeline-carney-smith",
+      "publishedAt": "2026-07-03T02:19:56.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "L'agriculture française en crise après deux canicules consécutives",
+      "source": "Le Monde",
+      "summary": "Cultures brûlées, élevages décimés, baisse de production à deux chiffres : l'agriculture française dresse un bilan très lourd après deux canicules consécutives en juin.",
+      "link": "https://www.lemonde.fr/economie/article/2026/07/03/situation-de-crise-pour-l-agriculture-francaise-entre-deux-canicules-tout-le-monde-a-la-boule-au-ventre_6718374_3234.html",
+      "publishedAt": "2026-07-03T03:00:18.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 206,
+    "articlesAfterDedup": 205,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 7.3,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 4,
+      "society": 1,
+      "economy": 1,
+      "politics": 1
+    },
+    "regionCounts": {
+      "europe": 5,
+      "americas": 3,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

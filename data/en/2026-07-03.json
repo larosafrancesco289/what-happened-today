@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-03",
+  "summary": "At least 21 people were killed in Kyiv as Russia launched one of its largest attacks using ballistic missiles and drones. Ukraine declared a day of mourning and continued searching for survivors. President Zelensky had warned Moscow was preparing a massive strike as Ukrainian forces hit deeper into Russian territory.\n\nLong-delayed funeral ceremonies for Ayatollah Ali Khamenei, killed during U.S.-Israeli strikes at the war's outset, begin Friday. For the regime, it is a critical moment to demonstrate it has endured. In Venezuela, rescuers continue digging through rubble eight days after earthquakes killed over 2,000 people. Interim President Delcy Rodriguez rejected allegations that the government responded too slowly. In Pakistan, an overcrowded bus veered off a mountain road in Balochistan, killing at least 40; speeding is the likely cause.\n\nChina told the European Union it is willing to increase purchases of EU goods to reduce the trade gap, potentially easing the risk of a trade war. Commerce Minister Wang Wentao signaled openness to lower tariffs on European imports during talks with EU trade chief Maros Sefcovic. Separately, Australia directly raised concerns with Chinese officials about China's activities near Taiwan. In Washington, Defense Secretary Pete Hegseth's proposal to adjust U.S. troop levels in Europe was pulled back after being floated to the White House, sources said.\n\nAmnesty International accused Sudan's Rapid Support Forces of crimes against humanity and ethnic cleansing during the campaign to capture El Fasher, including murder, torture, rape, and sexual slavery. In West Africa, floods have killed 59 people in Côte d'Ivoire since May, with Ghana reporting 13 deaths and floods hitting Benin, Togo, and Nigeria. The rainy season runs until July, and the toll could rise.",
+  "headlines": [
+    {
+      "title": "Russia kills at least 21 in massive missile and drone attack on Kyiv",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Wall Street Journal World",
+        "BBC World",
+        "France 24"
+      ],
+      "summary": "At least 21 people are killed in Kyiv as Russia launches one of its largest attacks with ballistic missiles and drones; Ukraine holds a day of mourning and continues search for survivors.",
+      "link": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+      "publishedAt": "2026-07-03T02:52:25.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran prepares to bury Supreme Leader Khamenei killed at war's outset",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World"
+      ],
+      "singleSource": true,
+      "summary": "Long-delayed funeral ceremonies for Ayatollah Ali Khamenei begin Friday, offering a critical moment for the regime to demonstrate it has endured U.S.-Israeli strikes.",
+      "link": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+      "publishedAt": "2026-07-03T02:47:51.000Z",
+      "tier": "top",
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuelan rescuers dig through rubble as president defends quake response",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "singleSource": true,
+      "summary": "Rescuers continue searching for survivors eight days after earthquakes killed over 2,000; Interim President Delcy Rodriguez rejects allegations of slow government response.",
+      "link": "https://www.france24.com/en/video/20260703-rescue-teams-in-venezuela-cling-to-hope-as-president-defends-response",
+      "publishedAt": "2026-07-03T09:19:26.000Z",
+      "tier": "top",
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Bus crashes into ravine in Pakistan, killing at least 40",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "singleSource": true,
+      "summary": "An overcrowded bus veers off a mountain road in Balochistan, killing at least 40; authorities say speeding is likely cause.",
+      "link": "https://www.dw.com/en/pakistan-bus-crashes-into-ravine-killing-at-least-40/a-77814864?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-03T08:09:00.000Z",
+      "tier": "also",
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "China offers to increase EU imports to ease trade tensions",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "singleSource": true,
+      "summary": "Commerce Minister Wang Wentao signals openness to purchase agreements and lower tariffs on European goods to reduce the massive trade gap and ease trade tensions.",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3359302/china-eu-trade-xi-touts-global-influence-nato-summit?utm_source=rss_feed",
+      "publishedAt": "2026-07-03T09:00:07.000Z",
+      "tier": "also",
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Australia raises concerns over China's activities near Taiwan",
+      "source": "ABC Australia",
+      "sources": [
+        "ABC Australia"
+      ],
+      "singleSource": true,
+      "summary": "Australia directly raises concerns with Chinese officials about China's latest activities near Taiwan as regional tensions continue to simmer.",
+      "link": "https://www.abc.net.au/news/2026-07-03/australia-concerns-about-china-action-east-of-taiwan/106877030",
+      "publishedAt": "2026-07-03T08:03:05.000Z",
+      "tier": "also",
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "White House rejects Hegseth plan to cut US troops in Europe",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "singleSource": true,
+      "summary": "Defense secretary's proposal to adjust U.S. troop levels in Europe is pulled back after being floated to the White House, sources say.",
+      "link": "https://www.wsj.com/politics/national-security/hegseth-prepared-a-bombshell-plan-to-cut-troops-in-europe-then-it-got-nixed-cbb87e75",
+      "publishedAt": "2026-07-03T00:05:00.000Z",
+      "tier": "also",
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Amnesty accuses Sudan's RSF of crimes against humanity in El Fasher",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "singleSource": true,
+      "summary": "Amnesty International report alleges paramilitary force committed ethnic cleansing, murder, torture, and sexual slavery as part of systematic attacks on civilians.",
+      "link": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+      "publishedAt": "2026-07-01T12:45:00.000Z",
+      "tier": "also",
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Floods kill 59 in Côte d'Ivoire as west Africa rains intensify",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "singleSource": true,
+      "summary": "Deadly rainy season continues with 59 deaths since May; Ghana reports 13 dead and floods hit Benin, Togo and Nigeria.",
+      "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+      "publishedAt": "2026-07-02T11:01:32.000Z",
+      "tier": "also",
+      "category": "environment",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 428,
+    "articlesAfterDedup": 426,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 44.8,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 2,
+      "society": 2,
+      "economy": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "europe": 1,
+      "middle-east": 1,
+      "americas": 2,
+      "asia-pacific": 2,
+      "global": 1,
+      "africa": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

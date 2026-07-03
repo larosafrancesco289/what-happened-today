@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-03",
+  "summary": "La salma del leader supremo iraniano Ali Khamenei è esposta nella Grande Moschea di Teheran, dove riceve gli omaggi della folla. I riti funebri dureranno fino alla sepoltura il 9 luglio, e nel frattempo i negoziati internazionali restano bloccati. La successione è incerta e la regione osserva con attenzione.\n\nIntanto, il New York Times rivela che Israele aveva pianificato di assassinare il presidente del Parlamento iraniano Ghalibaf e il ministro Araghchi. Un jet governativo sarebbe stato costretto a un atterraggio d'emergenza per sfuggire a un raid. Il piano, se confermato, aggraverebbe le tensioni già altissime tra i due Paesi.\n\nIn Francia, l'ondata di caldo di fine giugno ha causato 2.025 morti in più rispetto alla media, un aumento del 30%. Le autorità monitorano la situazione. Negli Stati Uniti, il segretario alla Guerra Hegseth voleva ridurre le truppe in Europa, ma ha fatto marcia indietro dopo l'intervento del segretario di Stato Rubio, secondo il Wall Street Journal. La decisione ha implicazioni per la sicurezza europea.\n\nIn Italia, la Guardia di Finanza ha sequestrato 300 chili di cocaina purissima a Vado Ligure, nascosti in un container dalla Colombia. Il valore è di 120 milioni di euro. Infine, la responsabile dell'attentato di Monaco, Anastasia B., ucraina con legami criminali, è fuggita in auto in Italia dopo aver recuperato la vettura a Beausoleil. Le indagini proseguono.",
+  "headlines": [
+    {
+      "title": "Iran: la salma di Ali Khamenei riceve gli omaggi nella Grande Moschea di Teheran",
+      "source": "TGCOM24",
+      "summary": "La salma del leader supremo iraniano è esposta nella Grande Moschea di Teheran. I riti funebri proseguiranno fino alla sepoltura il 9 luglio, con i negoziati internazionali bloccati.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3luglio_113925144-202602k.shtml",
+      "publishedAt": "2026-07-03T08:50:52.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israele pianificava di assassinare i negoziatori iraniani, rivela il NYT",
+      "source": "TGCOM24",
+      "summary": "Il New York Times rivela che Israele aveva pianificato di uccidere il presidente del Parlamento Ghalibaf e il ministro Araghchi. Un jet governativo è stato costretto a un atterraggio d'emergenza per sfuggire a un raid.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/israele-piano-uccidere-negoziatori-iran-usa_113929512-202602k.shtml",
+      "publishedAt": "2026-07-03T09:09:50.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Francia: ondata di caldo di giugno causa 2.025 morti, quasi il 30% in più",
+      "source": "Euronews Italiano",
+      "summary": "Nella settimana dal 22 giugno, l'apice dell'ondata di caldo senza precedenti in Francia ha provocato 2.025 morti in più rispetto alla media, con un aumento del 30%. Le autorità monitorano la situazione.",
+      "link": "http://it.euronews.com/2026/07/03/francia-ondata-di-caldo-di-giugno-morti-in-aumento-di-quasi-il-30",
+      "publishedAt": "2026-07-03T08:07:23.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Hegseth pronto a tagliare truppe USA in Europa, Rubio lo ferma",
+      "source": "la Repubblica",
+      "summary": "Il segretario alla Guerra Hegseth voleva ridurre significativamente le truppe statunitensi in Europa, ma ha fatto marcia indietro dopo l'intervento del segretario di Stato Rubio, secondo il Wall Street Journal.",
+      "link": "https://www.repubblica.it/esteri/2026/07/03/news/hegseth_tagli_truppe_usa_europa_rubio_divisioni_vertice_ankara-425448581/?rss",
+      "publishedAt": "2026-07-03T07:43:54.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Nigel Farage nel mirino per donazioni cripto milionarie e cinque immobili",
+      "source": "la Repubblica",
+      "summary": "Il leader della destra britannica è sotto pressione per enormi flussi di denaro in criptovalute e proprietà acquisite dopo la Brexit. In un'intervista a Repubblica, Farage respinge le critiche.",
+      "link": "https://www.repubblica.it/esteri/2026/07/03/news/donazioni_cripto_milionarie_immobili_dopo_brexit_affari_controversi_nigel_farage-425448903/?rss",
+      "publishedAt": "2026-07-03T09:20:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Savona: sequestrati oltre tre quintali di cocaina purissima dal valore di 120 milioni",
+      "source": "Il Sole 24 Ore",
+      "summary": "La Guardia di Finanza e l'Agenzia delle Dogane hanno sequestrato 300 kg di cocaina pura a Vado Ligure, nascosti in container dalla Colombia. Valore stimato di 120 milioni di euro.",
+      "link": "https://www.ilsole24ore.com/art/savona-guardia-finanza-e-dogana-maxi-sequestro-oltre-tre-quintali-cocaina-purissima-AId7xOzD",
+      "publishedAt": "2026-07-03T06:05:54.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Francia: incendio nell'Aude brucia 900 ettari, vigili del fuoco in azione",
+      "source": "Euronews Italiano",
+      "summary": "Un vasto incendio nel dipartimento francese dell'Aude ha distrutto 900 ettari. I vigili del fuoco sono impegnati con mezzi aerei, mentre gli sfollati vengono accolti nei centri di accoglienza.",
+      "link": "http://it.euronews.com/video/2026/07/03/maxi-incendio-nel-sud-della-francia-vigili-del-fuoco-in-azione",
+      "publishedAt": "2026-07-03T07:22:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Anthropic blocca accessi dalla Cina via VPN, rafforzati i controlli",
+      "source": "AGI",
+      "summary": "La società di intelligenza artificiale Anthropic intensifica le misure per impedire l'accesso ai suoi modelli dalla Cina, dopo che aziende locali aggiravano le restrizioni con VPN e cloud esteri.",
+      "link": "https://www.agi.it/economia/news/2026-07-03/anthropic-stop-accesso-cina-vpn-37849757/",
+      "publishedAt": "2026-07-03T09:29:07.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Sempre più Paesi introducono divieti ai social per i minori",
+      "source": "ANSA",
+      "summary": "Molte nazioni, seguendo l'esempio dell'Australia, stanno introducendo restrizioni ai social media per i minori. Il dibattito è acceso: non tutti concordano sull'efficacia delle misure.",
+      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/07/02/in-cosa-consistono-i-divieti-ai-social-per-i-minori_7fe9f233-5906-4544-81a0-74c0a170db88.html",
+      "publishedAt": "2026-07-02T18:07:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Attentato di Monaco: l'autrice è una donna ucraina fuggita in auto in Italia",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "La responsabile dell'esplosione a Monaco, Anastasia B., ucraina con legami criminali, è fuggita in auto in Italia dopo aver recuperato la vettura a Beausoleil. Le indagini proseguono.",
+      "link": "https://www.rainews.it/articoli/2026/07/attentato-di-monaco-lautrice-e-fuggita-in-auto-in-italia-e-nota-per-legami-con-la-criminalita-il-giallo-4bf0cd56-00c5-4bec-ae83-8e063d4830a2.html",
+      "publishedAt": "2026-07-03T08:21:00.000Z",
+      "tier": "developing",
+      "dayNumber": 3,
+      "previousContext": "Lunedì scorso è esplosa una bomba nell'abitazione dell'oligarca ucraino Vadim Ermolaev a Monaco. Oggi emerge che l'attentatrice è una donna ucraina camuffata da uomo, fuggita in Italia.",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Si concentra sull'identità della sospetta e sui suoi legami con la criminalità",
+          "link": "https://www.rainews.it/articoli/2026/07/03/attentato-di-monaco-lautrice-e-fuggita-in-auto-in-italia-e-nota-per-legami-con-la-criminalita-il-giallo-4bf0cd56-00c5-4bec-ae83-8e063d4830a2.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Dettaglia la fuga in auto dopo aver recuperato il veicolo a Beausoleil",
+          "link": "https://www.repubblica.it/esteri/2026/07/03/news/attentatrice_monaco_donna_ucraina_fuggita_italia-425448607/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta la testimonianza di un testimone sulla fuga con complici",
+          "link": "https://www.tgcom24.mediaset.it/mondo/attentatrice-monaco-ucraina-fuggita-italia_113912752-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 190,
+    "articlesAfterDedup": 190,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 15.5,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 2,
+      "environment": 2,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 6,
+      "global": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

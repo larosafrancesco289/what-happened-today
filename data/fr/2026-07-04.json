@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-04",
+  "summary": "Des milliers d'Iraniens ont afflué aux funérailles d'Ali Khamenei à Téhéran, un hommage public au guide suprême tué en février. La cérémonie, en présence de responsables étrangers, vise à montrer la force du régime alors que des négociations avec les États-Unis sont en cours. L'absence de son successeur désigné, Mojtaba Khamenei, suscite des interrogations sur la stabilité future du pouvoir.\n\nAu Mali, des attaques coordonnées visent plusieurs localités et une prison, menées par des jihadistes et des indépendantistes touareg. L'armée malienne tente de repousser les assauts à Gao, Anefis, Aguelhoc, Sévaré et Kéniéroba. Ces combats surviennent dans un contexte de fragilité sécuritaire persistante dans le nord et le centre du pays.\n\nAux États-Unis, une canicule exceptionnelle perturbe les célébrations du 4-Juillet et la Coupe du monde. Les températures frôlent 40°C à New York, Philadelphie et Washington, entraînant des coupures de courant et le report de festivités. Par ailleurs, une enquête mondiale réalisée dans 36 pays montre une défiance généralisée envers les États-Unis et Trump, à l'occasion du 250e anniversaire de l'indépendance.\n\nEn Chine, une loi sur l'unité ethnique est entrée en vigueur, critiquée par des représentants ouïghours et tibétains comme une tentative d'effacement culturel. En France, une grande marche est prévue à Paris pour réclamer une loi globale contre les violences sexuelles, après la mort de Lyhanna. Enfin, l'Unesco a refusé de classer la Grande Barrière de corail en péril, mais s'inquiète de sa capacité de récupération, tandis que le porte-avions français Charles-de-Gaulle rentre à Toulon après son déploiement au Moyen-Orient.",
+  "headlines": [
+    {
+      "title": "Des milliers d'Iraniens affluent aux funérailles d'Ali Khamenei à Téhéran",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "Liberation",
+        "France Info",
+        "20 Minutes"
+      ],
+      "summary": "L'hommage public au guide suprême tué en février a débuté vendredi, en présence de responsables étrangers. L'absence de son successeur Mojtaba Khamenei pourrait fragiliser le régime.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2266836/funerailles-iran-ayatollah-khamenei",
+      "publishedAt": "2026-07-04T04:49:21.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Met l'accent sur l'afflux de la foule et le contexte diplomatique avec les États-Unis",
+          "link": "https://ici.radio-canada.ca/nouvelle/2266836/funerailles-iran-ayatollah-khamenei"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Soulève la possible absence du nouveau guide et ses conséquences politiques",
+          "link": "https://www.liberation.fr/international/moyen-orient/funerailles-du-guide-ali-khamenei-le-pouvoir-serait-fragilise-si-son-fils-et-successeur-netait-pas-present-20260704_XGMZWJV4WBC4LJITUL5KK766IQ/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Montre le sentiment de vengeance et la dimension politique des funérailles",
+          "link": "https://www.franceinfo.fr/monde/iran/reportage-le-sentiment-que-nous-avons-aujourd-hui-c-est-le-desir-de-vengeance-en-iran-les-tres-politiques-funerailles-du-guide-supreme-ali-khamenei_8093567.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Énumère les délégations étrangères présentes, dont les Talibans et Pakistanais",
+          "link": "https://www.20minutes.fr/monde/israel/4232782-20260703-guerre-iran-talibans-pakistanais-gardiens-revolution-deplace-funerailles-ali-khamenei"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Des attaques coordonnées visent plusieurs localités et une prison au Mali",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Des combats ont lieu à Gao, Anefis, Aguelhoc, Sévaré et contre la prison de Kéniéroba, menés par des jihadistes et indépendantistes touareg. L'armée malienne tente de repousser les assauts.",
+      "link": "https://www.france24.com/fr/afrique/20260704-au-mali-nouvelles-attaques-coordonn%C3%A9es-dans-des-localit%C3%A9s-et-contre-une-prison",
+      "publishedAt": "2026-07-04T08:37:15.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Détaille les localités touchées et mentionne la prison proche de la capitale",
+          "link": "https://www.france24.com/fr/afrique/20260704-au-mali-nouvelles-attaques-coordonn%C3%A9es-dans-des-localit%C3%A9s-et-contre-une-prison"
+        },
+        {
+          "source": "RFI",
+          "angle": "Identifie les rebelles du Front de libération de l'Azawad et les jihadistes du Jnim",
+          "link": "https://www.rfi.fr/fr/afrique/20260704-mali-des-localit%C3%A9s-dans-le-nord-et-une-prison-dans-le-sud-vis%C3%A9es-par-des-attaques"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Une canicule exceptionnelle perturbe le 4-Juillet et la Coupe du monde aux États-Unis",
+      "source": "Le Monde",
+      "summary": "Les températures frôlent 40°C à New York, Philadelphie et Washington, entraînant des coupures de courant et le retard des festivités du 250e anniversaire de l'indépendance.",
+      "link": "https://www.lemonde.fr/planete/article/2026/07/04/aux-etats-unis-une-canicule-exceptionnelle-perturbe-les-250-ans-de-l-independance-et-la-coupe-du-monde-de-football_6720594_3244.html",
+      "publishedAt": "2026-07-04T03:00:05.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Une enquête mondiale révèle une défiance généralisée envers les États-Unis et Trump",
+      "source": "Le Figaro",
+      "summary": "À l'occasion du 250e anniversaire de l'indépendance, une étude menée dans 36 pays auprès de 42.000 personnes montre un climat de défiance envers la première puissance mondiale.",
+      "link": "https://www.lefigaro.fr/international/250-ans-de-l-independance-des-etats-unis-quelle-est-l-opinion-du-monde-sur-la-premiere-puissance-mondiale-et-sur-donald-trump-20260704",
+      "publishedAt": "2026-07-04T06:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Une loi chinoise sur l'unité ethnique entre en vigueur, critiquée par les minorités",
+      "source": "RFI",
+      "summary": "La loi promouvant l'harmonie sociale et l'identité nationale partagée est dénoncée par des représentants ouïghours et tibétains comme une tentative d'effacement culturel au profit de la majorité han.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260704-entr%C3%A9e-en-vigueur-d-une-loi-sur-l-unit%C3%A9-ethnique-c-est-le-r%C3%A9gime-chinois-d-aujourd-hui-l-obsession-s%C3%A9curitaire",
+      "publishedAt": "2026-07-04T07:32:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Le porte-avions français Charles-de-Gaulle rentre à Toulon après son déploiement au Moyen-Orient",
+      "source": "20 Minutes",
+      "summary": "Emmanuel Macron a annoncé vendredi que le porte-avions, déployé pendant la guerre entre l'Iran et les États-Unis, fait route vers son port d'attache de Toulon.",
+      "link": "https://www.20minutes.fr/monde/4232787-20260703-guerre-moyen-orient-porte-charles-gaulle-rentre-toulon-port-attache?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-03T19:55:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Une grande marche à Paris pour réclamer une loi globale contre les violences sexuelles",
+      "source": "Liberation",
+      "summary": "Après la mort de Lyhanna, associations féministes et enfantistes appellent à manifester ce samedi à 15h30 place de la Bastille pour exiger une loi cadre contre les violences sexuelles et sexistes.",
+      "link": "https://www.liberation.fr/societe/droits-des-femmes/apres-la-mort-de-lyhanna-une-grande-marche-pour-demander-une-loi-globale-contre-les-violences-sexuelles-20260704_QRNRFLM4YBG45BEQH4XTKOP73U/",
+      "publishedAt": "2026-07-04T08:10:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Unesco ne classe pas la Grande Barrière de corail en péril mais s'inquiète de son état",
+      "source": "20 Minutes",
+      "summary": "Le récif australien échappe à l'inscription sur la liste du patrimoine mondial en péril, mais l'Unesco prévient que sa capacité à tolérer et récupérer des événements est de plus en plus compromise.",
+      "link": "https://www.20minutes.fr/monde/4232819-20260704-australie-grande-barriere-corail-classee-peril-etat-preoccupant-previent-unesco?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-04T08:27:27.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 218,
+    "articlesAfterDedup": 216,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 13.1,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 1,
+      "environment": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "africa": 1,
+      "americas": 1,
+      "global": 1,
+      "asia-pacific": 2,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

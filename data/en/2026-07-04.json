@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-04",
+  "summary": "Iran began a six-day funeral for Supreme Leader Ayatollah Ali Khamenei on Thursday, with authorities expecting up to 20 million mourners in Tehran alone. Khamenei was killed in an airstrike earlier this week. The ceremonies, one of the largest gatherings in the country's history, are seen as a test of the regime's ability to manage public emotion and security. The succession process remains unclear, but the funeral will be closely watched for signs of political stability or unrest.\n\nIn Venezuela, the death toll from last week's double earthquakes rose to 2,645, with most fatalities in the coastal town of La Guaira, where entire residential blocks collapsed. International rescue teams are now searching for bodies as families grow frustrated and demand accountability. President Nicolás Maduro defended the government's response, but critics say the official toll may undercount the dead. Meanwhile, in Peru, Keiko Fujimori was declared the winner of a tight presidential race nearly a month after voting ended. She will lead a deeply divided nation as the daughter of former president Alberto Fujimori, who remains a polarizing figure.\n\nCanada announced a C$150 billion investment on Thursday to build a major oil pipeline through British Columbia, part of a broader effort to reduce trade reliance on the United States. Prime Minister Mark Carney shuttled between provinces to secure support, addressing concerns from First Nations and environmental groups. The project includes port expansions and protections for whales. Separately, floods in West Africa have killed 59 people in Côte d'Ivoire since May, with Ghana reporting 13 deaths and flooding also hitting Benin, Togo, and Nigeria. Rescue teams continue searching for victims as the rainy season worsens.\n\nFinally, a Tibet-born man died after setting himself on fire outside the United Nations headquarters on Thursday, a day after China enacted a law viewed as forcing assimilation of ethnic minorities. The incident highlights ongoing tensions between the Chinese government and Tibetan activists. Authorities in Beijing have not commented.",
+  "headlines": [
+    {
+      "title": "Iran begins week-long funeral for Supreme Leader Khamenei with millions expected",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "France 24",
+        "New York Times World",
+        "Wall Street Journal World",
+        "NPR News"
+      ],
+      "summary": "Mourners gathered in Tehran on July 4 for the start of six days of ceremonies for Ayatollah Ali Khamenei, killed in an airstrike. Authorities expect up to 20 million attendees.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/04/world/funeral-ceremonies-iran-ali-khamenei/",
+      "publishedAt": "2026-07-04T06:49:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela earthquake death toll rises to 2,645 as foreign rescuers aid recovery",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "The Guardian",
+        "BBC World"
+      ],
+      "summary": "The 7.2 and 7.5 magnitude quakes killed at least 2,645 people, with most fatalities in La Guaira. International teams help search for bodies; families demand accountability.",
+      "link": "https://www.france24.com/en/foreign-rescue-workers-help-with-recovering-venezuela-s-quake-victims",
+      "publishedAt": "2026-07-04T08:41:14.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Keiko Fujimori wins Peru's presidential election nearly a month after vote",
+      "source": "BBC World",
+      "summary": "Peru's electoral authority declared Keiko Fujimori the winner on July 4, ending a tight race. She will lead a divided nation as the daughter of former president Alberto Fujimori.",
+      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T07:52:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Canada pledges C$150 billion for pipeline project to reduce US trade reliance",
+      "source": "The Guardian",
+      "summary": "Prime Minister Mark Carney announced July 3 a C$150bn investment to build a major oil pipeline through British Columbia, addressing First Nations concerns and expanding overseas markets.",
+      "link": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+      "publishedAt": "2026-07-03T15:34:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Floods in Côte d'Ivoire kill 59 as west Africa rainy season worsens",
+      "source": "The Guardian",
+      "summary": "Since May, heavy rains have killed 59 in Côte d'Ivoire and 13 in Ghana, with floods also hitting Benin, Togo and Nigeria. Rescue teams continue searching for victims.",
+      "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+      "publishedAt": "2026-07-02T11:01:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Tibet-born man dies after apparent self-immolation outside UN headquarters",
+      "source": "Wall Street Journal World",
+      "summary": "A Tibetan man died July 3 outside the UN after setting himself on fire, a day after China enacted a law viewed as forcing assimilation of ethnic minorities.",
+      "link": "https://www.wsj.com/world/china/tibet-born-man-dies-outside-u-n-after-appearing-to-set-himself-alight-9b41a1e6",
+      "publishedAt": "2026-07-03T22:08:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 418,
+    "articlesAfterDedup": 413,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 46,
+    "categoryCounts": {
+      "politics": 2,
+      "environment": 2,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "americas": 3,
+      "africa": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

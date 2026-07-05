@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-05",
+  "summary": "President Donald Trump spoke with Vladimir Putin and Volodymyr Zelensky over the weekend, offering to help end Russia's war in Ukraine. The calls happened late Saturday, and a Kremlin aide said Trump made the offer during a nearly 90-minute phone call with Putin. The mediation offer comes ahead of a NATO summit in Turkey on July 7-8. Zelensky has not commented publicly.\n\nOn the battlefield, Ukraine struck a major oil terminal near St. Petersburg, one of the deepest attacks inside Russian territory. President Zelensky said the target was key infrastructure \"that generates revenue for Russia's war.\" In Sudan, at least 20 people died, including students, when drones hit schools and fuel stations in the besieged city of El Obeid, a key battleground between Sudan's army and the paramilitary RSF.\n\nTwo disasters are taking a heavy human toll. International rescue teams have begun closing operations in Venezuela as the death toll from the double earthquakes approaches 3,000. Families continue searching for missing loved ones. In Iran, authorities predict 20 million people will attend six days of funerals for Supreme Leader Khamenei, killed in the war with Israel and the U.S.\n\nFinally, two stories of progress. China released Ezra Jin, leader of a prominent underground church, less than two months after Trump raised his case with Xi Jinping. Jin arrived in Los Angeles on Friday. In Congo, researchers launched a study of two experimental Ebola treatments in Bunia as the outbreak grows. The launch was marked by urgency; residents hope the therapies will curb a disease that has already killed hundreds.",
+  "headlines": [
+    {
+      "title": "Trump offers to help end Russia-Ukraine war in calls with Putin and Zelensky",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "France 24"
+      ],
+      "summary": "US President Donald Trump spoke with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky late Saturday, offering mediation ahead of a NATO summit in Turkey on July 7-8.",
+      "link": "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
+      "publishedAt": "2026-07-05T08:06:15.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela earthquake death toll nears 3,000 as rescue operations wind down",
+      "source": "Deutsche Welle",
+      "summary": "International rescue teams begin closing operations as deaths from Venezuela earthquakes approach 3,000. Families continue searching for missing loved ones.",
+      "link": "https://www.dw.com/en/venezuela-earthquake-death-toll-nears-3-000-as-hope-to-find-survivors-dims/a-77835156?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-05T03:27:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukraine strikes major oil terminal in Russia's St Petersburg",
+      "source": "BBC World",
+      "summary": "Ukrainian President Zelensky says the attack targeted key infrastructure generating revenue for Russia's war effort. The strike is one of the deepest inside Russian territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T18:41:25.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "China frees underground church pastor Ezra Jin after Trump's request",
+      "source": "NPR News",
+      "sources": [
+        "NPR News",
+        "The Hindu"
+      ],
+      "summary": "Ezra Jin Mingri, leader of a prominent Chinese underground church, was released from prison weeks after President Trump raised his case with Xi Jinping. He arrived in Los Angeles on Friday.",
+      "link": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
+      "publishedAt": "2026-07-05T08:30:07.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Massive crowds gather in Tehran for Khamenei's six-day funeral",
+      "source": "Wall Street Journal World",
+      "summary": "Authorities expect 20 million people to attend ceremonies mourning Iran's supreme leader, killed in the war with Israel and the US. The funeral continues through the week.",
+      "link": "https://www.wsj.com/world/middle-east/iran-supreme-leader-khamenei-funeral-7e1ad603",
+      "publishedAt": "2026-07-04T16:25:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Ebola treatment trial begins in Congo as outbreak death toll rises",
+      "source": "South China Morning Post",
+      "summary": "Researchers launch a study of two experimental Ebola treatments in Bunia, eastern Congo, as the outbreak grows. Residents mourn hundreds of dead and hope for effective therapies.",
+      "link": "https://www.scmp.com/news/world/africa/article/3359470/ebola-treatment-trial-begins-congo-citizens-mourn-hundreds?utm_source=rss_feed",
+      "publishedAt": "2026-07-05T08:52:57.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Drone strikes kill over 20 in besieged Sudanese city of El Obeid",
+      "source": "The Guardian",
+      "summary": "At least 20 people died, including students, as drones hit schools and fuel stations in El Obeid. The city is a key battleground in the war between Sudan's army and RSF.",
+      "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "publishedAt": "2026-07-04T15:14:18.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Sudan's civil war between the army and paramilitary RSF has escalated, with fighting shifting to El Obeid after earlier clashes in Khartoum.",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 381,
+    "articlesAfterDedup": 377,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 18.1,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 1,
+      "politics": 1,
+      "society": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "americas": 1,
+      "asia-pacific": 1,
+      "middle-east": 1,
+      "africa": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 2,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

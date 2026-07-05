@@ -1,0 +1,164 @@
+{
+  "date": "2026-07-05",
+  "summary": "Il presidente americano Donald Trump ha telefonato a Vladimir Putin il 4 luglio per 90 minuti, su iniziativa della Casa Bianca. Al centro del colloquio, la situazione in Ucraina, la Nato e l'Iran. Nello stesso giorno, a Teheran, ai funerali dell'ayatollah Khamenei, un oratore ha invocato la morte di Trump mentre la folla gridava 'Morte all'America'. Un contrasto netto che mostra quanto le relazioni tra Stati Uniti e Iran restino tese.\n\nNegli Usa, una sparatoria durante i fuochi del 4 luglio a New York ha ferito otto persone, tra cui quattro bambini. Una ragazza di 21 anni è in gravi condizioni. Sul fronte della sicurezza, il presidente del Comitato militare Nato, ammiraglio Cavo Dragone, ha ribadito che la Russia è la minaccia più diretta e persistente per l'Alleanza, richiedendo un adattamento costante.\n\nIn Italia, da oggi i prezzi di benzina e gasolio tornano a salire dopo lo stop al taglio delle accise. Il self service costa in media 1,841 euro al litro per la benzina e 1,922 per il diesel; in autostrada il gasolio supera i due euro. In Francia, la corte d'appello deciderà il 7 luglio se Marine Le Pen potrà candidarsi alle presidenziali del 2027. Nel frattempo, lei e il presidente del Rassemblement National, Jordan Bardella, si promettono fiducia reciproca.\n\nInfine, la Turchia ha negato l'accesso ai porti di Kuşadasi e Istanbul a una nave da crociera con quasi duemila passeggeri Lgbtq+, definendo l'evento incompatibile con i valori nazionali. La decisione arriva a pochi giorni dal viaggio.",
+  "headlines": [
+    {
+      "title": "Trump chiama Putin per 90 minuti il 4 luglio, colloquio su Ucraina e Iran",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Il presidente americano Donald Trump ha telefonato al russo Vladimir Putin il 4 luglio per 90 minuti, discutendo di Ucraina, Nato e Iran. La Casa Bianca ha preso l'iniziativa.",
+      "link": "https://www.agi.it/estero/news/2026-07-05/telefonata-trump-putin-37876443/",
+      "publishedAt": "2026-07-05T09:18:55.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Enfatizza la durata di 90 minuti e l'iniziativa della Casa Bianca",
+          "link": "https://www.agi.it/estero/news/2026-07-05/telefonata-trump-putin-37876443/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Sottolinea la durata di un'ora e venticinque minuti e il ruolo di Ushakov",
+          "link": "http://it.euronews.com/2026/07/05/zelensky-e-putin-parlano-al-telefono-con-trump-per-il-4-luglio"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Al funerale di Khamenei, oratore invoca l'uccisione di Donald Trump",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Ai funerali dell'ayatollah Khamenei a Teheran, un oratore ha invocato l'uccisione del presidente Trump mentre la folla gridava 'Morte all'America'. Manca l'erede Mojtaba.",
+      "link": "http://it.euronews.com/2026/07/05/funerale-di-ali-khamenei-oratore-invoca-luccisione-di-donald-trump",
+      "publishedAt": "2026-07-05T08:17:05.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Evidenzia l'invocazione di morte contro Trump e le grida della folla",
+          "link": "http://it.euronews.com/2026/07/05/funerale-di-ali-khamenei-oratore-invoca-luccisione-di-donald-trump"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Si concentra sull'assenza dell'erede Mojtaba e su altri quattro familiari uccisi",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-5-luglio_114019381-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Sparatoria a New York durante fuochi d'artificio del 4 luglio: otto feriti, quattro bambini",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "A New York, una sparatoria durante i festeggiamenti del 4 luglio ha ferito otto persone, tra cui quattro bambini. Una ragazza di 21 anni è in gravi condizioni.",
+      "link": "https://www.repubblica.it/esteri/2026/07/05/news/sparatoria_new_york_fuochi_artificio_4_luglio-425452431/?rss",
+      "publishedAt": "2026-07-05T07:20:22.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Nato, Cavo Dragone: la Russia è la minaccia più diretta e persistente",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "L'ammiraglio Cavo Dragone, presidente del Comitato militare Nato, ha dichiarato che la Russia rappresenta la minaccia più diretta e persistente, richiedendo un adattamento costante dell'Alleanza.",
+      "link": "https://www.rainews.it/articoli/2026/07/nato-cavo-dragone-la-russia-la-minaccia-piu-diretta-e-persistente-il-punto-militare-81d9183e-ff7a-4776-b2ba-f37567b5dc4e.html",
+      "publishedAt": "2026-07-05T08:28:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Carburanti, dopo lo stop al taglio delle accise prezzi di benzina e gasolio tornano a salire",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "Dal 5 luglio, i prezzi di benzina e gasolio aumentano: self benzina media a 1,841 euro/litro, diesel 1,922; in autostrada il gasolio supera i 2 euro.",
+      "link": "https://www.rainews.it/articoli/2026/07/carburanti-dopo-stop-taglio-accise-tornano-a-salire-i-prezzi-di-benzina-e-gasolio-93fc3afc-2d47-41c6-bcf3-9fd10b55272e.html",
+      "publishedAt": "2026-07-05T08:43:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Marine Le Pen e Jordan Bardella si promettono fiducia in attesa del verdetto sulla candidatura",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "La corte d'appello deciderà il 7 luglio se Marine Le Pen potrà candidarsi alle presidenziali 2027; in attesa, lei e il presidente del RN Bardella promettono di lavorare insieme.",
+      "link": "http://it.euronews.com/my-europe/2026/07/05/marine-le-pen-e-jordan-bardella-si-promettono-fiducia-e-amicizia",
+      "publishedAt": "2026-07-05T09:11:09.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Turchia chiude porti a crociera Lgbtq+: 'Incompatibile con i nostri valori'",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "La Turchia ha negato l'accesso ai porti di Kuşadasi e Istanbul a una nave da crociera con quasi duemila passeggeri Lgbtq+, definendola incompatibile con i valori nazionali.",
+      "link": "https://www.repubblica.it/esteri/2026/07/05/news/turchia_chiude_porti_crociera_lgbtq_incompatibile_nostri_valori-425452634/?rss",
+      "publishedAt": "2026-07-05T09:08:23.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 192,
+    "articlesAfterDedup": 192,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 9,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.1,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 1,
+      "society": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "global": 1,
+      "middle-east": 2,
+      "americas": 1,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "date": "2026-07-05",
+  "summary": "Le bilan du double séisme au Venezuela s'alourdit : près de 3 000 morts, 16 592 blessés et 16 000 sans logement, selon les chiffres officiels. Les équipes de secours internationales cessent progressivement les recherches, et les familles craignent de ne pas retrouver les corps. Le nord du pays est dévasté, et l'aide humanitaire commence à arriver, mais les besoins restent immenses.\n\nÀ Téhéran, le deuxième jour des funérailles d'Ali Khamenei a rassemblé une foule massive — jusqu'à 20 millions de personnes attendues. Une grande prière a eu lieu à la Grande Mosalla. Mais l'absence de son fils Mojtaba, pressenti comme successeur, a été remarquée. La question de la transition du pouvoir reste ouverte.\n\nAux États-Unis, Donald Trump a prononcé un discours nationaliste pour le 250e anniversaire du pays, sous la pluie et avec retard à cause de la canicule et des orages. Il a vanté « l'Amérique de retour » et fustigé les « communistes ». Par ailleurs, avant le sommet de l'Otan en Turquie, Trump s'est entretenu avec Vladimir Poutine et Volodymyr Zelensky, sans que le contenu des échanges soit détaillé.\n\nL'Ukraine a frappé plusieurs sous-stations électriques en Crimée annexée. La Russie affirme avoir détruit 71 drones ukrainiens. Côté énergie, l'Iran envisage d'instaurer un péage dans le détroit d'Ormuz pour les pays amis, ce à quoi les États-Unis s'opposent. Enfin, en France, le parti Rassemblement national attend le jugement de la cour d'appel sur l'affaire des assistants parlementaires, qui décidera de sa candidature à la présidentielle. La décision est attendue mardi.",
+  "headlines": [
+    {
+      "title": "Venezuela : Le bilan du double séisme monte à 2.954 morts",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "Près de 3000 morts, 16.592 blessés et 16.000 sans logement. Les secours internationaux cessent les recherches, les familles craignent de perdre les corps.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-venezuela-la-crainte-de-perdre-la-d%C3%A9pouille-de-proches-victimes-des-s%C3%A9ismes",
+      "publishedAt": "2026-07-05T08:57:38.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "A mis l'accent sur la crainte des familles de perdre les dépouilles des victimes",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-venezuela-la-crainte-de-perdre-la-d%C3%A9pouille-de-proches-victimes-des-s%C3%A9ismes"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A ouvert avec le bilan chiffré officiel du gouvernement intérimaire",
+          "link": "https://www.20minutes.fr/monde/4232860-20260704-venezuela-bilan-double-seisme-monte-2-954-morts?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Deuxième jour des funérailles d'Ali Khamenei à Téhéran, son fils Mojtaba absent",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "RTBF",
+        "Radio-Canada"
+      ],
+      "summary": "Une grande prière a été donnée à la Grande Mosalla. Jusqu'à 20 millions de personnes sont attendues à Téhéran. Mojtaba Khamenei, successeur pressenti, était absent.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260705-en-direct-iran-une-grande-pri%C3%A8re-organis%C3%A9e-pour-les-fun%C3%A9railles-d-ali-khamenei-son-fils-et-successeur-mojtaba-absent",
+      "publishedAt": "2026-07-05T07:05:42.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A couvert l'événement en direct avec les détails de la prière",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260705-en-direct-iran-une-grande-pri%C3%A8re-organis%C3%A9e-pour-les-fun%C3%A9railles-d-ali-khamenei-son-fils-et-successeur-mojtaba-absent"
+        },
+        {
+          "source": "RTBF",
+          "angle": "A mentionné le nom de l'ayatollah qui a dirigé la prière et l'absence du fils",
+          "link": "https://www.rtbf.be/article/iran-au-deuxieme-jour-des-funerailles-de-l-ayatollah-khamenei-une-grande-priere-a-ete-donnee-a-teheran-son-fils-mojtaba-etait-absent-11752991"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A mis en avant le chiffre de 15 à 20 millions de participants attendus",
+          "link": "https://ici.radio-canada.ca/nouvelle/2267067/jour-priere-iran-teheran-funerailles-khamenei"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump vante l'Amérique lors des célébrations perturbées par les orages pour les 250 ans",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info",
+        "France 24"
+      ],
+      "summary": "Sous la pluie et avec du retard, Trump a prononcé un discours nationaliste, fustigeant les 'communistes'. La foule a bravé la canicule et les orages.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/05/250-ans-des-etats-unis-donald-trump-vante-l-amerique-et-fustige-les-communistes-au-terme-d-une-celebration-chaotique_6720833_3210.html",
+      "publishedAt": "2026-07-05T04:54:40.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A décrit la célébration chaotique et le discours de Trump fustigeant les communistes",
+          "link": "https://www.lemonde.fr/international/article/2026/07/05/250-ans-des-etats-unis-donald-trump-vante-l-amerique-et-fustige-les-communistes-au-terme-d-une-celebration-chaotique_6720833_3210.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "A rapporté les propos de Trump qualifiant les États-Unis de 'chef-d'œuvre'",
+          "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-qualifie-les-etats-unis-de-chef-d-uvre-de-l-histoire-de-l-humanite-les-celebrations-des-250-ans-de-l-independance-perturbees-par-les-orages_8094617.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "A souligné la démonstration politique de Trump malgré la chaleur",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-america-250-la-d%C3%A9monstration-politique-de-trump-malgr%C3%A9-la-chaleur"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Ukraine frappe plusieurs sous-stations électriques en Crimée annexée",
+      "source": "Le Monde",
+      "summary": "Kiev annonce des frappes sur des infrastructures électriques en Crimée. La Russie dit avoir détruit 71 drones ukrainiens.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/05/en-direct-guerre-en-ukraine-kiev-annonce-avoir-frappe-plusieurs-sous-stations-electriques-en-crimee-annexee-dans-la-nuit-de-samedi-a-dimanche_6720832_3210.html",
+      "publishedAt": "2026-07-05T08:45:41.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump s'entretient avec Poutine et Zelensky avant le sommet de l'Otan",
+      "source": "20 Minutes",
+      "summary": "À la veille du sommet de l'Otan en Turquie, le président américain a échangé avec ses homologues russe et ukrainien.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4232880-20260705-guerre-ukraine-trump-entretient-poutine-zelensky?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-05T01:41:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "L'Iran envisage un droit spécial dans le détroit d'Ormuz pour les pays amis",
+      "source": "20 Minutes",
+      "summary": "Téhéran propose un péage pour les pays alliés dans le détroit stratégique, tandis que les États-Unis s'opposent à tout droit de douane.",
+      "link": "https://www.20minutes.fr/monde/4232894-20260705-guerre-moyen-orient-iran-envisage-droit-special-detroit-ormuz-pays-amis?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-05T08:49:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Le RN attend le jugement de la cour d'appel sur les assistants parlementaires ce mardi",
+      "source": "Liberation",
+      "summary": "La cour d'appel de Paris rend mardi son arrêt qui décidera de la candidature du RN à la présidentielle. Marine Le Pen ou Jordan Bardella, l'issue est incertaine.",
+      "link": "https://www.liberation.fr/politique/elections/ce-sera-peut-etre-un-coup-de-poignard-mais-ca-tranchera-comment-les-deux-clans-du-rn-attendent-le-jugement-de-la-delivrance-20260705_ZNDL4FARKFDXVBA7J6XAAQFICE/",
+      "publishedAt": "2026-07-05T09:11:22.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "previousContext": "L'affaire des assistants parlementaires du RN pourrait empêcher Marine Le Pen de se présenter à la présidentielle.",
+      "sources": [
+        "Liberation"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 206,
+    "articlesAfterDedup": 204,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 7.8,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 4,
+      "conflict": 2
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 2,
+      "europe": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

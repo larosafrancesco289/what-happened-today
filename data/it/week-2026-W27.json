@@ -1,0 +1,168 @@
+{
+  "weekId": "2026-W27",
+  "startDate": "2026-06-29",
+  "endDate": "2026-07-05",
+  "summary": "La settimana dal 29 giugno al 5 luglio è stata dominata da eventi tragici e sviluppi geopolitici. Il terremoto in Venezuela ha continuato a mietere vittime: il 29 giugno si contavano 1.450 morti e 50.000 dispersi, ma il 2 luglio il bilancio è salito a 2.295 morti accertati, con il governo che ha dichiarato il lutto nazionale. In Europa, l'ondata di caldo record ha causato 1.300 morti dal 21 giugno, con la Francia che il 3 luglio ha riportato 2.025 decessi a giugno (+30%). Sul fronte Iran, il 3 luglio la salma di Ali Khamenei ha ricevuto omaggi a Teheran, mentre il NYT ha rivelato che Israele pianificava di assassinare i negoziatori iraniani. Il 5 luglio, al funerale di Khamenei, un oratore ha invocato l'uccisione di Donald Trump. Nel frattempo, il 30 giugno Iran e USA hanno negoziato in Qatar, mentre due Pasdaran sono morti in un attacco. La guerra in Ucraina è proseguita: il 2 luglio la Russia ha colpito Kiev con missili e droni, e il 4 luglio droni ucraini hanno attaccato un terminal petrolifero a San Pietroburgo. Trump è stato protagonista: il 1° luglio ha rivelato di aver guadagnato 1 miliardo di dollari da criptovalute nel 2025, il 4 luglio ha tenuto un discorso sulla 'minaccia comunista' annullando la parata a Washington, e il 5 luglio ha avuto una telefonata di 90 minuti con Putin su Ucraina e Iran. Altri eventi: il 30 giugno la polizia ha arrestato 4 persone per l'attentato a Sigfrido Ranucci; il 1° luglio la consacrazione di quattro vescovi lefebvriani ha portato la Chiesa cattolica a dichiarare lo scisma; lo stesso giorno, Nessy Guerra è stata rilasciata in Egitto grazie all'intervento del ministro Tajani. Il 4 luglio, Papa Leone ha visitato Lampedusa. In chiusura di settimana, l'8 luglio una sparatoria a New York durante i fuochi d'artificio ha ferito 8 persone, tra cui 4 bambini. Storie di breve durata includono il terremoto venezuelano (aggiornato poi), l'accordo Usa-Kazakhstan sul tungsteno (con profitti per i figli di Trump), la manifestazione curda, gli investimenti sudcoreani, e le multe australiane ai social media.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Sisma Venezuela: 1.450 morti, 3.150 feriti, 50.000 dispersi. Salvate 33 persone",
+    "Accordo Usa-Kazakhstan sul tungsteno da 1 miliardo di dollari, i figli di Trump ne trarranno profitto",
+    "Migliaia di curdi in corteo a Diyarbakir chiedono la liberazione di Öcalan",
+    "Corea del Sud punta a guidare il mondo dell'AI e dei semiconduttori con maxi investimenti",
+    "Australia raddoppia le multe per i social media dopo che i teenager aggirano il divieto",
+    "Vannacci supera la Lega nei sondaggi con il 6%, per Meloni è un rebus politico",
+    "Polizia arresta 4 persone per attentato dinamitardo contro Sigfrido Ranucci",
+    "Esplosione a Monaco ferisce gravemente un oligarca ucraino e la sua famiglia",
+    "Iran e USA negoziano in Qatar mentre due Pasdaran muoiono in attacco",
+    "Ondata di calore record si sposta verso est: 1.300 morti in Europa dal 21 giugno"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-29",
+      "title": "Sisma Venezuela: 1.450 morti, 3.150 feriti, 50.000 dispersi. Salvate 33 persone",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Accordo Usa-Kazakhstan sul tungsteno da 1 miliardo di dollari, i figli di Trump ne trarranno profitto",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Polizia arresta 4 persone per attentato dinamitardo contro Sigfrido Ranucci",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Esplosione a Monaco ferisce gravemente un oligarca ucraino e la sua famiglia",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Iran e USA negoziano in Qatar mentre due Pasdaran muoiono in attacco",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Ondata di calore record si sposta verso est: 1.300 morti in Europa dal 21 giugno",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Lefebvriani consacrano quattro vescovi, la Chiesa cattolica dichiara lo scisma",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Trump presenta dichiarazione dei redditi: nel 2025 guadagnato 1 miliardo da criptovalute",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Nessy Guerra rilasciata in Egitto dopo l'intervento del ministro Tajani",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Terremoto in Venezuela: 2.295 morti accertati, governo dichiara lutto nazionale",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "La Russia colpisce Kiev con missili e droni, crolli e incendi in città",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Iran: la salma di Ali Khamenei riceve gli omaggi nella Grande Moschea di Teheran",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Israele pianificava di assassinare i negoziatori iraniani, rivela il NYT",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Francia: ondata di caldo di giugno causa 2.025 morti, quasi il 30% in più",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Hegseth pronto a tagliare truppe USA in Europa, Rubio lo ferma",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Droni ucraini colpiscono terminal petrolifero a San Pietroburgo in massiccio attacco",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Papa Leone visita Lampedusa, omaggia migranti al cimitero e varca la Porta d'Europa",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Trump parla di minaccia comunista al 4 luglio, annullata parata a Washington",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Trump chiama Putin per 90 minuti il 4 luglio, colloquio su Ucraina e Iran",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Al funerale di Khamenei, oratore invoca l'uccisione di Donald Trump",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Sparatoria a New York durante fuochi d'artificio del 4 luglio: otto feriti, quattro bambini",
+      "category": "society",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1322,
+    "totalSourcesUsed": 7,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "environment": 7,
+      "economy": 6,
+      "politics": 19,
+      "conflict": 12,
+      "science": 3,
+      "society": 10
+    },
+    "regionCounts": {
+      "americas": 8,
+      "global": 6,
+      "middle-east": 10,
+      "asia-pacific": 3,
+      "europe": 29,
+      "africa": 1
+    }
+  }
+}

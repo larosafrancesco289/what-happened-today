@@ -1,0 +1,162 @@
+{
+  "weekId": "2026-W27",
+  "startDate": "2026-06-29",
+  "endDate": "2026-07-05",
+  "summary": "Briefing hebdomadaire du 29 juin au 5 juillet 2026\n\nLa semaine a été marquée par la catastrophe au Venezuela, où le double séisme du 29 juin a vu son bilan grimper à 2 954 morts au 5 juillet, avec 50 000 bâtiments détruits. La colère monte contre le gouvernement face à la lenteur des secours (3 juillet). Parallèlement, la Russie a intensifié ses frappes sur l'Ukraine : 419 drones abattus le 30 juin, puis deux attaques massives sur Kiev les 2 et 3 juillet (17 morts le 2, 30 morts le 3). Le 2 juillet, le parquet allemand a accusé les autorités ukrainiennes d'avoir ordonné le sabotage des gazoducs Nord Stream en 2022.\n\nEn Iran, les funérailles d'Ali Khamenei ont rassemblé des milliers de personnes à Téhéran les 4 et 5 juillet, en l'absence de son fils Mojtaba. Une canicule exceptionnelle a frappé l'Europe et les États-Unis : 20 000 foyers sans électricité en France le 29 juin, plus de 1 000 décès en Espagne en juin, et des perturbations le 4 juillet pour le 250e anniversaire américain.\n\nD'autres événements notables sont apparus ponctuellement : bombardement israélien au sud du Liban le 29 juin avec menace de riposte du Hezbollah ; frappe pakistanaise en Afghanistan (36 morts) le même jour ; explosion d'un colis piégé à Monaco le 30 juin (trois blessés) ; attaques coordonnées au Mali le 4 juillet. \n\nHistoires éphémères (apparues un seul jour) : les frappes israéliennes et pakistanaises, la critique du gouvernement français sur la canicule, une frappe russe à Dnipro (5 morts), et la mort de 54 enfants palestiniens en Cisjordanie depuis janvier 2025. Ces sujets n'ont pas connu de développements ultérieurs.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Israël bombarde le sud du Liban, le Hezbollah menace de riposter malgré l'accord de paix",
+    "Le Pakistan bombarde l'Afghanistan, au moins 36 morts dans une nouvelle escalade",
+    "Canicule : le gouvernement critiqué pour son inaction, 20 000 foyers sans électricité",
+    "Frappe russe à Dnipro : au moins 5 morts dans un missile sur la ville industrielle",
+    "54 enfants palestiniens tués par l'armée israélienne en Cisjordanie depuis janvier 2025",
+    "Israël annonce avoir tué plusieurs terroristes armés dans le sud de la Syrie",
+    "L'Ukraine se prépare à une canicule de 38°C avec un réseau électrique endommagé",
+    "Afrique du Sud : les immigrés africains sommés de quitter le territoire avant mardi",
+    "Séisme au Venezuela : le bilan grimpe à 1.719 morts et 50.000 bâtiments détruits",
+    "La Russie abat 419 drones ukrainiens dans la nuit, un bébé tué près de Moscou"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-29",
+      "title": "Israël bombarde le sud du Liban, le Hezbollah menace de riposter malgré l'accord de paix",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Le Pakistan bombarde l'Afghanistan, au moins 36 morts dans une nouvelle escalade",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Canicule : le gouvernement critiqué pour son inaction, 20 000 foyers sans électricité",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Séisme au Venezuela : le bilan grimpe à 1.719 morts et 50.000 bâtiments détruits",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "La Russie abat 419 drones ukrainiens dans la nuit, un bébé tué près de Moscou",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Explosion d'un colis piégé à Monaco : trois blessés dont un oligarque ukrainien, le suspect en fuite",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Les secouristes poursuivent les recherches à La Guaira après les séismes au Venezuela",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "La canicule en Espagne cause plus de 1.000 décès en juin",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Kiev signe un contrat pour l'achat de 16 avions de chasse suédois",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Une attaque massive de drones et missiles russes sur Kiev fait au moins 17 morts et près de 90 blessés",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Le parquet allemand accuse les autorités ukrainiennes d'avoir ordonné le sabotage des gazoducs Nord Stream en 2022",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "La plus grande attaque russe sur Kiev tue au moins 30 personnes et fait près de 100 blessés",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Plus d'une semaine après le double séisme au Venezuela, la colère monte contre le gouvernement",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Six départements du sud de la France placés en 'danger très élevé' d'incendies",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Des milliers d'Iraniens affluent aux funérailles d'Ali Khamenei à Téhéran",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Des attaques coordonnées visent plusieurs localités et une prison au Mali",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Une canicule exceptionnelle perturbe le 4-Juillet et la Coupe du monde aux États-Unis",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Venezuela : Le bilan du double séisme monte à 2.954 morts",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Deuxième jour des funérailles d'Ali Khamenei à Téhéran, son fils Mojtaba absent",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Donald Trump vante l'Amérique lors des célébrations perturbées par les orages pour les 250 ans",
+      "category": "politics",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1480,
+    "totalSourcesUsed": 11,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 16,
+      "environment": 15,
+      "society": 8,
+      "politics": 16,
+      "economy": 4,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 11,
+      "asia-pacific": 4,
+      "europe": 26,
+      "africa": 7,
+      "americas": 9,
+      "global": 3
+    }
+  }
+}

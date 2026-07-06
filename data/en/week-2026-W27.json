@@ -1,0 +1,162 @@
+{
+  "weekId": "2026-W27",
+  "startDate": "2026-06-29",
+  "endDate": "2026-07-05",
+  "summary": "This week, the devastating Venezuela earthquakes dominated headlines as the death toll rose dramatically from over 1,400 on June 29 to nearly 3,000 by July 5, with rescue operations winding down amid ongoing challenges. Initially, 50,000 were reported missing, but that figure faded as focus shifted to recovery. In Iran, a major development emerged with the death of Supreme Leader Khamenei, reportedly killed at the war's outset. The country began a week-long funeral on July 4, with millions expected. Earlier, on June 29, the US reached a deal with Iran to halt attacks on the Strait of Hormuz, but that story quickly faded as indirect talks in Qatar on July 2 led to an agreement to continue negotiations. The Russia-Ukraine war escalated: Russian missile and drone attacks killed 17 in Kyiv on July 2 and at least 21 on July 3. In response, Ukraine struck a major oil terminal in St. Petersburg on July 5. Former President Trump offered to help end the war in calls with Putin and Zelensky on July 5. Domestically, the US Supreme Court upheld birthright citizenship on July 1, a blow to Trump. The US let the North American trade pact expire on July 2, triggering an annual review. In Peru, Keiko Fujimori won the presidential election in a narrow runoff on June 30. Spain's heat wave killed over 1,000 people, marking the second-hottest June ever. Putin faced a political crisis due to fuel shortages in Russia on July 1. Stories that faded quickly included a Pakistan strike killing 36 civilians in Afghanistan (June 29), confirmed Ebola cases in Congo (1,274 cases, 360 deaths), and a Trump-linked mining deal with Kazakhstan. China freed underground church pastor Ezra Jin on July 5 after Trump's request.",
+  "persistentStories": [],
+  "fadedStories": [
+    "US Reaches Deal with Iran to Halt Attacks on Strait of Hormuz",
+    "Venezuela Searches for 50,000 Missing After Earthquakes as Death Toll Exceeds 1,400",
+    "Pakistan Strikes Kill 36 Civilians in Afghanistan, Taliban Says",
+    "Confirmed Ebola Cases in Congo Reach 1,274 with 360 Deaths",
+    "Trump-Cut Billion-Dollar Mining Deal with Kazakhstan Benefits His Sons",
+    "Peru's Keiko Fujimori wins presidential election in narrow runoff",
+    "Venezuela earthquake death toll exceeds 1,700 amid rescue challenges",
+    "Yen plunges to 40-year low below 162 per dollar",
+    "Israeli strike on Gaza camp kills mother and child, wounds dozens",
+    "China escalates pressure on Japan with bomber flights and rare earth export restrictions"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-06-29",
+      "title": "US Reaches Deal with Iran to Halt Attacks on Strait of Hormuz",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Venezuela Searches for 50,000 Missing After Earthquakes as Death Toll Exceeds 1,400",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Pakistan Strikes Kill 36 Civilians in Afghanistan, Taliban Says",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Peru's Keiko Fujimori wins presidential election in narrow runoff",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Venezuela earthquake death toll exceeds 1,700 amid rescue challenges",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Spain heat wave kills over 1,000 in second-hottest June ever",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Putin faces political crisis as fuel shortages ripple through Russia",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Russian missiles and drones kill 17 in massive attack on Kyiv",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "U.S. and Iran hold indirect talks in Qatar, agree to continue",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "U.S. lets North American trade pact expire, triggering annual review",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Russia kills at least 21 in massive missile and drone attack on Kyiv",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Iran prepares to bury Supreme Leader Khamenei killed at war's outset",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Venezuelan rescuers dig through rubble as president defends quake response",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Iran begins week-long funeral for Supreme Leader Khamenei with millions expected",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Venezuela earthquake death toll rises to 2,645 as foreign rescuers aid recovery",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Trump offers to help end Russia-Ukraine war in calls with Putin and Zelensky",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Venezuela earthquake death toll nears 3,000 as rescue operations wind down",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Ukraine strikes major oil terminal in Russia's St Petersburg",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "China frees underground church pastor Ezra Jin after Trump's request",
+      "category": "politics",
+      "region": "asia-pacific"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2862,
+    "totalSourcesUsed": 16,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "politics": 16,
+      "environment": 11,
+      "conflict": 12,
+      "science": 2,
+      "economy": 5,
+      "society": 6
+    },
+    "regionCounts": {
+      "middle-east": 8,
+      "americas": 15,
+      "asia-pacific": 10,
+      "africa": 9,
+      "europe": 8,
+      "global": 2
+    }
+  }
+}

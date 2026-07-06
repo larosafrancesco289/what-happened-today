@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-06",
+  "summary": "Millions of Iranians filled Tehran's streets for a third day as the funeral procession for Supreme Leader Khamenei moved to the airport. Mourners chanted for revenge against the US and Israel, underscoring the regime's strength even amid ongoing peace talks. The six-day funeral has drawn enormous crowds, with the coffin continuing its journey for burial.\n\nIn Ukraine, a Russian ballistic missile strike killed at least 18 people in Kyiv on the eve of a NATO summit. President Zelensky used the attack to renew his call for more air defenses, as the bombing followed another that killed 30 days earlier. The summit is expected to focus on increasing military aid to Ukraine.\n\nVenezuela's earthquake death toll has surpassed 3,300, with survivors and volunteers scrambling to treat the injured and search for the missing, frustrated by the government's slow response. In Sri Lanka, more than two dozen prisoners died in violent clashes at a Negombo prison; over 100 were injured, and authorities are investigating. Separately, China test-fired a submarine-launched ballistic missile into the Pacific Ocean, prompting concern from neighboring nations. The test came as Australia signed new defense deals with Pacific islands.\n\nOn a diplomatic front, Hamas confirmed it will dissolve Gaza's governing body as part of a peace deal with Israel — a significant step in the long-stalled process, though details remain scarce.",
+  "headlines": [
+    {
+      "title": "Millions attend funeral procession for Iran's Supreme Leader Khamenei in Tehran",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "The Hindu",
+        "Deutsche Welle",
+        "France 24"
+      ],
+      "summary": "Enormous crowds lined Tehran streets for the third day as Khamenei's coffin traveled to the airport. Mourners called for revenge against the US and Israel. The funeral highlights the regime's strength amid peace talks.",
+      "link": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss",
+      "publishedAt": "2026-07-06T10:52:55.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russian missile strike kills 18 in Kyiv on eve of NATO summit",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "BBC World",
+        "ABC Australia"
+      ],
+      "summary": "Ballistic missiles hit Kyiv on Sunday, killing at least 18, days after another attack killed 30. President Zelensky urged NATO to boost Ukraine's air defenses as the summit begins.",
+      "link": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
+      "publishedAt": "2026-07-06T10:36:38.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Venezuela earthquake death toll rises above 3,300 as survivors search for missing",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "The Guardian"
+      ],
+      "summary": "More than ten days after the disaster, official toll stands at least 3,342 killed. Survivors and volunteers treat injured and search for missing amid anger at government response.",
+      "link": "https://www.france24.com/en/venezuelans-mobilise-to-deal-with-earthquakes-consequences-france-24-reports",
+      "publishedAt": "2026-07-06T10:23:05.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "China test fires long-range ballistic missile into Pacific Ocean",
+      "source": "New York Times World",
+      "summary": "China launched a submarine-launched ballistic missile into the Pacific on Monday, prompting concern from nations. The test came as Australia secured defense deals with Pacific islands.",
+      "link": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
+      "publishedAt": "2026-07-06T09:23:30.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Dozens killed in Sri Lanka prison clashes between inmates",
+      "source": "Deutsche Welle",
+      "summary": "On Sunday, more than two dozen prisoners died and over 100 were injured in a violent dispute at a prison in Negombo. Authorities are investigating the cause.",
+      "link": "https://www.dw.com/en/sri-lanka-prison-clashes-leave-dozens-dead/a-77848476?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-06T10:53:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Hamas agrees to dissolve Gaza governing body under peace deal",
+      "source": "Deutsche Welle",
+      "summary": "Hamas officials confirmed on Monday the dissolution of Gaza's governing body, as part of a peace deal with Israel. The move is a significant step in the peace process.",
+      "link": "https://www.dw.com/en/hamas-to-dissolve-gaza-governing-body/a-77847836?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-06T10:44:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 387,
+    "articlesAfterDedup": 385,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 1.7,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 3,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 1,
+      "americas": 1,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

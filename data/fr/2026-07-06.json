@@ -1,0 +1,183 @@
+{
+  "date": "2026-07-06",
+  "summary": "Le cortège funèbre de l'ayatollah Ali Khamenei a traversé Téhéran lundi, troisième jour d'obsèques nationales. Son fils Mojtaba, pressenti comme successeur, reste absent des cérémonies. La dépouille doit rejoindre Qom puis les villes saintes irakiennes avant l'inhumation jeudi à Machhad. Parallèlement, le Hamas a annoncé la dissolution de son administration à Gaza, ouvrant la voie à un comité technocratique pour gérer le territoire. Cette décision pourrait permettre une représentation palestinienne dans les institutions gazaouies.\n\nEn Ukraine, des frappes russes nocturnes ont tué 14 personnes dans la région de Kiev, dont deux enfants, selon les autorités. 64 blessés sont à déplorer. La Turquie accueille ce lundi et mardi le 36e sommet de l'Otan à Ankara, avec Donald Trump et les 32 États membres. Au menu : la guerre en Ukraine, les tensions au Moyen-Orient et l'engagement américain. Un avion de patrouille russe a été intercepté par deux chasseurs britanniques le 2 juillet après avoir largué des bouées acoustiques près d'un porte-avions de l'Otan dans l'Atlantique Nord.\n\nLa Chine a procédé à un tir de missile balistique intercontinental dans le Pacifique, une rare démonstration de force malgré les tentatives de dissuasion japonaises. Au Sri Lanka, des affrontements dans la prison de Negombo ont fait 23 morts : 19 détenus et quatre gardiens. En France, un incendie dans les Pyrénées-Orientales a parcouru 4 600 hectares. L'étape du Tour de France se déroule sans public côté français, et sept départements sont en risque très élevé. Le ministre de l'Intérieur Laurent Nuñez est attendu sur place.",
+  "headlines": [
+    {
+      "title": "Le cortège funèbre d'Ali Khamenei traverse Téhéran lors de funérailles nationales",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24"
+      ],
+      "summary": "Le cortège funèbre de l'ayatollah Ali Khamenei s'est mis en route lundi à Téhéran, au troisième jour d'obsèques nationales. Son fils Mojtaba, pressenti comme successeur, est absent des cérémonies.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/06/iran-aux-funerailles-de-l-ancien-guide-supreme-ali-khamenei-l-absence-remarquee-de-mojtaba-son-fils-et-successeur_6721161_3210.html",
+      "publishedAt": "2026-07-06T09:35:46.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A mis en avant l'absence remarquée de Mojtaba Khamenei et le parcours du cortège",
+          "link": "https://www.lemonde.fr/international/article/2026/07/06/iran-aux-funerailles-de-l-ancien-guide-supreme-ali-khamenei-l-absence-remarquee-de-mojtaba-son-fils-et-successeur_6721161_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "A décrit le cortège comme une démonstration de force et d'unité par le pouvoir iranien",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260706-le-cort%C3%A8ge-fun%C3%A8bre-de-khamenei-d%C3%A9bute-sa-travers%C3%A9e-de-t%C3%A9h%C3%A9ran"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Le Hamas dissout ses instances dirigeantes dans la bande de Gaza",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "Le Hamas a annoncé la dissolution de son administration à Gaza, ouvrant la voie à un comité technocratique pour gérer le territoire palestinien.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/06/le-hamas-annonce-dissoudre-ses-instances-dirigeantes-dans-la-bande-de-gaza_6721171_3210.html",
+      "publishedAt": "2026-07-06T10:09:58.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A souligné que la décision permet une transition vers un comité technocratique",
+          "link": "https://www.lemonde.fr/international/article/2026/07/06/le-hamas-annonce-dissoudre-ses-instances-dirigeantes-dans-la-bande-de-gaza_6721171_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "A rapporté l'annonce du directeur du bureau des médias du Hamas",
+          "link": "https://www.france24.com/fr/moyen-orient/20260706-hamas-dissout-instances-dirigeantes-gaza-isra%C3%ABl"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A mis l'accent sur la volonté du Hamas de faciliter la transition",
+          "link": "https://www.20minutes.fr/monde/4233110-20260706-gaza-hamas-dissout-instances-dirigeantes-enclave-palestinienne?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Des bombardements russes font au moins 14 morts dans la région de Kiev",
+      "source": "Radio-Canada",
+      "summary": "Des frappes nocturnes russes ont tué 11 personnes à Kiev et 3 dans la région, dont deux enfants, selon les autorités ukrainiennes.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2267155/morts-ukraine-kiev-frappes-russes",
+      "publishedAt": "2026-07-06T10:04:32.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Turquie accueille le sommet de l'Otan avec Donald Trump et les 32 États membres",
+      "source": "RFI",
+      "summary": "Ankara reçoit les 7 et 8 juillet le 36e sommet de l'Otan, où seront discutés la guerre en Ukraine, l'engagement américain et les tensions au Moyen-Orient.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260706-la-turquie-veut-%C3%AAtre-au-centre-du-jeu-%C3%A0-l-occasion-du-sommet-de-l-otan",
+      "publishedAt": "2026-07-06T09:56:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "La Chine tire un missile balistique dans le Pacifique malgré l'opposition du Japon",
+      "source": "20 Minutes",
+      "summary": "Pékin a procédé à un tir de missile balistique intercontinental dans le Pacifique, une rare démonstration de force malgré les tentatives de dissuasion japonaises.",
+      "link": "https://www.20minutes.fr/monde/chine/4233075-20260706-chine-malgre-tentative-dissuasion-japon-pekin-tire-missile-pacifique?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-06T07:26:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "23 morts dont quatre gardiens dans des affrontements dans une prison au Sri Lanka",
+      "source": "20 Minutes",
+      "summary": "De violents affrontements dans la prison de Negombo ont fait 19 détenus et quatre agents pénitentiaires morts, selon les autorités.",
+      "link": "https://www.20minutes.fr/monde/4233094-20260706-sri-lankaise-moins-23-morts-dont-gardiens-lors-affrontements-prison?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-06T09:59:39.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Un incendie parcourt 4 600 hectares dans les Pyrénées-Orientales, sept départements en risque très élevé",
+      "source": "Le Monde",
+      "summary": "Le feu a brûlé 4 600 hectares dans les Pyrénées-Orientales. L'étape du Tour de France se tient sans public côté français. Sept départements sont en risque très élevé.",
+      "link": "https://www.lemonde.fr/planete/live/2026/07/06/en-direct-incendies-dans-les-pyrenees-orientales-le-feu-a-parcouru-4-600-hectares-sept-departements-en-risque-tres-eleve-lundi-selon-meteo-france_6720911_3244.html",
+      "publishedAt": "2026-07-06T08:36:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Un avion russe intercepté par la RAF après avoir largué des bouées acoustiques",
+      "source": "Le Figaro",
+      "summary": "Un avion de patrouille russe a été intercepté par deux chasseurs britanniques le 2 juillet après avoir largué des bouées acoustiques près d'un porte-avions de l'Otan.",
+      "link": "https://www.lefigaro.fr/international/une-activite-dangereuse-un-avion-russe-intercepte-par-deux-avions-de-chasse-britanniques-apres-avoir-largue-des-bouees-acoustiques-20260706",
+      "publishedAt": "2026-07-06T09:47:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 211,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.7,
+    "categoryCounts": {
+      "politics": 2,
+      "conflict": 5,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 4,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

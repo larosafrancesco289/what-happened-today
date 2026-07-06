@@ -1,0 +1,163 @@
+{
+  "date": "2026-07-06",
+  "summary": "Per il terzo giorno consecutivo, Teheran è stata teatro dei funerali di Ali Khamenei. La folla, enorme, ha sventolato striscioni minacciosi e gridato 'uccideremo Trump'. Intanto Hamas ha sciolto l'organismo di governo di Gaza e si parla di nuovi negoziati tra Stati Uniti e Iran per l'11 luglio. Israele ha continuato a bombardare Libano e Gaza. Il tutto mentre il figlio di Khamenei, Mojtaba, non ha partecipato al corteo, e gli ex presidenti Rouhani, Ahmadinejad e Khatami sono rimasti assenti.\n\nUna nuova ondata di missili russi ha colpito Kiev, causando almeno 14 morti e 60 feriti. La Polonia ha fatto alzare i caccia in segno di allerta, mentre si apprende che la scorsa settimana un jet britannico ha intercettato un aereo spia russo sull'Artico. Sono segnali di una tensione che non accenna a diminuire.\n\nSul fronte politico, Donald Trump ha attaccato la premier italiana Giorgia Meloni con un meme su Truth, scrivendo 'serve un ordine restrittivo'. Il ministro della Difesa Guido Crosetto ha risposto: 'Le persone passano, ma i rapporti con gli Usa devono restare'. Carlo Calenda lo ha definito 'un bullo da quattro soldi'. Intanto ad Ankara è iniziato un vertice Nato di due giorni, dedicato alla crescita dell'industria bellica e alle crescenti tensioni con gli Stati Uniti sotto la presidenza Trump.\n\nDa Cuba arriva un'apertura: Raúl Guillermo Rodríguez, nipote di Raúl Castro, ha dichiarato al quotidiano Us Today che sono possibili negoziati con gli Usa e il rilascio di prigionieri politici. Sul fronte economico, Fincantieri ha annunciato la creazione di un polo subacqueo con otto aziende, attraverso quattro acquisizioni: il ceo Folgiero parla di 'un campione internazionale'. Infine, un dato che mette in prospettiva: la capitalizzazione delle prime otto società tecnologiche americane ha raggiunto 19.500 miliardi di dollari, superando l'intero Pil dell'Unione Europea.",
+  "headlines": [
+    {
+      "title": "Terzo giorno di funerali per Khamenei a Teheran, folla grida 'uccideremo Trump'",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "TGCOM24"
+      ],
+      "summary": "Ali Khamenei: terzo giorno di funerali, folla immensa con striscioni minacciosi. Hamas scioglie l'organismo di governo di Gaza. Nuovi negoziati USA-Iran l'11 luglio. Israele bombarda ancora Libano e Gaza.",
+      "link": "https://www.rainews.it/maratona/2026/07/medio-oriente-maratona-guerra-iran-libano-gaza-terzo-giorno-funerali-ali-khamenei-allarme-pericolo-vita-dottor-abu-safiya-picchiato-carceri-israeliane-893db933-24c1-44df-b055-a6bcf038565a.html",
+      "publishedAt": "2026-07-06T10:19:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Ha aperto con la folla e l'assenza del figlio e di ex presidenti, menzionato negoziati USA-Iran",
+          "link": "https://www.rainews.it/maratona/2026/07/medio-oriente-maratona-guerra-iran-libano-gaza-terzo-giorno-funerali-ali-khamenei-allarme-pericolo-vita-dottor-abu-safiya-picchiato-carceri-israeliane-893db933-24c1-44df-b055-a6bcf038565a.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha enfatizzato lo striscione 'Uccideremo Trump' e le proteste contro Usa e Israele",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-6-luglio_114065294-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Attacchi russi su Kiev causano almeno 14 morti e 60 feriti",
+      "source": "TGCOM24",
+      "summary": "Nuova ondata di missili russi colpisce Kiev, 14 morti e 60 feriti. La Polonia fa alzare i caccia. Jet britannico intercetta aereo spia russo sull'Artico.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-missili-kiev-morti-feriti_114065301-202602k.shtml",
+      "publishedAt": "2026-07-06T11:04:02.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump pubblica meme su Meloni con didascalia 'serve un ordine restrittivo'",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il presidente Usa attacca la premier italiana su Truth con un meme. Crosetto: 'Le persone passano, ma i rapporti con Usa devono restare'. Calenda: 'Bullo da quattro soldi'.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/06/trump-posta-meme-con-meloni-serve-un-ordine-restrittivo.-crosetto-le-persone_5c7d2e10-a87e-4318-a0cb-3fec90a74812.html",
+      "publishedAt": "2026-07-06T09:50:25.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Ha aperto con l'attacco di Trump e le reazioni di Crosetto e Calenda",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/06/trump-posta-meme-con-meloni-serve-un-ordine-restrittivo.-crosetto-le-persone_5c7d2e10-a87e-4318-a0cb-3fec90a74812.html"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Ha citato le parole di Tajani e Crosetto, sottolineando la reazione politica",
+          "link": "https://www.ilsole24ore.com/art/nuovo-attacco-trump-meloni-crosetto-le-persone-passano-ma-gli-usa-rapporti-devono-restare-AJhxyL"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Vertice Nato ad Ankara: leader discutono crescita industria militare e tensioni con Trump",
+      "source": "la Repubblica",
+      "summary": "I leader Nato si incontrano per due giorni ad Ankara. Al centro la crescita dell'industria bellica e il disimpegno statunitense sotto Trump.",
+      "link": "https://www.repubblica.it/esteri/2026/07/06/news/vertice_nato_ankara_di_cosa_si_parla_crescita_industria_militare-425454063/?rss",
+      "publishedAt": "2026-07-06T08:47:42.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Nipote di Raúl Castro apre a negoziati con Usa: 'Possibile rilascio prigionieri politici'",
+      "source": "la Repubblica",
+      "summary": "Raúl Guillermo Rodríguez, nipote di Raúl Castro, propone negoziati con gli Usa e il rilascio di prigionieri politici a Cuba.",
+      "link": "https://www.repubblica.it/esteri/2026/07/06/news/cuba_nipote_raul_castro_si_negoziati_con_usa_rilasciare_prigionieri_politici-425454303/?rss",
+      "publishedAt": "2026-07-06T10:28:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Fincantieri crea polo subacqueo con otto aziende, ricavi da 1,1 miliardi",
+      "source": "Il Sole 24 Ore",
+      "summary": "Fincantieri annuncia la creazione di un polo per l'underwater con quattro acquisizioni. Il ceo Folgiero: 'Nasce un campione internazionale'.",
+      "link": "https://www.ilsole24ore.com/art/fincantieri-crea-polo-subacquea-8-aziende-11-mld-ricavi-e-200-mln-ebitda-AJcAmK",
+      "publishedAt": "2026-07-06T08:02:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Big Tech americane: capitalizzazione di 19.500 miliardi supera Pil Ue",
+      "source": "TGCOM24",
+      "summary": "Le prime otto società tecnologiche statunitensi valgono complessivamente 19.500 miliardi di dollari, più dell'intero Pil dell'Unione Europea.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/le-prime-otto-big-tech-americane-valgono-piu-di-tutto-il-pil-della-ue_114076709-02k.shtml",
+      "publishedAt": "2026-07-06T10:49:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 187,
+    "articlesAfterDedup": 186,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 9,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.1,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4,
+      "americas": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "date": "2026-07-07",
+  "summary": "Iran's Revolutionary Guard fired missiles at ships near the Strait of Hormuz today, escalating tensions and potentially complicating efforts to end the U.S. war with Iran. The attack comes as China also flexed its military muscle: Beijing conducted its first known launch of a strategic missile from a nuclear submarine. NATO chief Mark Rutte, speaking ahead of the alliance's summit in Ankara, warned that Europe cannot be naive about China's military build-up, noting that the Indo-Pacific and European theatres are becoming more intertwined.\n\nIn Syria, at least 18 people, including four police officers, were wounded in explosions near French President Emmanuel Macron's hotel in Damascus during his landmark visit. Macron was unhurt and continued his schedule. The blasts occurred as millions of mourners in Tehran lined the streets for the funeral of Supreme Leader Ayatollah Ali Khamenei, whose coffin arrived at Azadi Square on Monday. Elsewhere, Venezuela's interim president defended the government's response to the twin earthquakes on June 24 that killed over 3,300, vowing no social unrest despite public anger over the official handling of the disaster.\n\nTwo legal stories also made news. In France, a court delivered its judgment on Marine Le Pen's alleged embezzlement of €4.4 million from the European Parliament, a verdict that could shape her political future. And a BBC investigation exposed Russian-run detention centers in Ukraine, where former prisoners accuse jailers of abuse and call for prosecution. The report adds to growing evidence of atrocities since Russia's invasion.",
+  "headlines": [
+    {
+      "title": "Iran's Revolutionary Guard fires missiles at ships near Strait of Hormuz",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "summary": "Iran's Revolutionary Guard fired missiles at ships near the Strait of Hormuz, escalating tensions and potentially complicating negotiations to end the U.S. war with Iran.",
+      "link": "https://www.wsj.com/world/middle-east/irgc-fires-missiles-at-ships-in-strait-of-hormuz-c3fbadd0",
+      "publishedAt": "2026-07-07T07:48:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "China submarine fires long-range ballistic missile ahead of NATO summit",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "summary": "China conducted its first known launch of a strategic missile from a nuclear submarine, prompting NATO chief Mark Rutte to warn against naivety about China's military build-up ahead of the Ankara summit.",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3359717/china-submarine-fires-long-range-missile-ahead-nato-summit?utm_source=rss_feed",
+      "publishedAt": "2026-07-07T09:00:08.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Explosions injure 18 in Damascus during Macron's landmark visit to Syria",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "France 24",
+        "New York Times World",
+        "BBC World",
+        "Deutsche Welle",
+        "Japan Times"
+      ],
+      "summary": "At least 18 people, including four police officers, were wounded in blasts near French President Emmanuel Macron's hotel in Damascus. Macron was unhurt and continued his schedule.",
+      "link": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+      "publishedAt": "2026-07-07T07:32:04.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Millions join funeral procession for Iran's Supreme Leader Khamenei in Tehran",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World"
+      ],
+      "summary": "Ayatollah Ali Khamenei's coffin arrived at Tehran's Azadi Square on Monday as millions of mourners filled the streets in a days-long public mourning ceremony.",
+      "link": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
+      "publishedAt": "2026-07-07T07:15:30.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela earthquake death toll exceeds 3,300 as officials defend response",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "Interim President Rodríguez defended Venezuela's emergency response to the June 24 twin earthquakes that killed over 3,300, vowing no social unrest despite public anger.",
+      "link": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
+      "publishedAt": "2026-07-05T21:50:42.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "French court delivers judgment on Marine Le Pen's embezzlement charges",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "A French court rules on Marine Le Pen's alleged embezzlement of €4.4 million from the European Parliament, a verdict that could shape her political future.",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260707-judgement-day-for-marine-le-pen",
+      "publishedAt": "2026-07-07T08:20:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "BBC exposes Russian 'torture prisons' in Ukraine, former prisoners accuse jailers",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "summary": "A BBC investigation reveals Russian-run detention centers in Ukraine where former prisoners allege abuse by jailers and officials, calling for prosecution.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T23:55:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 412,
+    "articlesAfterDedup": 411,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 36.2,
+    "categoryCounts": {
+      "conflict": 4,
+      "society": 1,
+      "environment": 1,
+      "politics": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "asia-pacific": 1,
+      "americas": 1,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

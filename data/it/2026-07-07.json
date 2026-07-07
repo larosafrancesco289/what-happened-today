@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-07",
+  "summary": "Durante la sua visita a Damasco, il presidente francese Emmanuel Macron è scampato a un attentato. Due ordigni sono esplosi vicino al suo hotel, ferendo 18 persone. Macron, primo leader dell'Unione Europea a recarsi in Siria dalla caduta di Assad, ha proseguito la visita. L'attacco mostra la fragilità della sicurezza nel paese, nonostante il nuovo governo al-Sharaa.\n\nIn Russia, l'Ucraina ha lanciato un attacco record con oltre 430 droni su Mosca e Belgorod. A Belgorod un incendio è scoppiato all'aeroporto, seguito da un blackout. La risposta della Nato è arrivata subito: al forum di Ankara, l'alleanza ha annunciato un piano da 40 miliardi di dollari in 5 anni per rafforzare le difese anti-drone, con una piattaforma comune tra i membri.\n\nA Kiev è stata trovata uccisa Anastasiia Berezovska, sospettata dell'attentato di Monaco del 29 giugno. La donna, cittadina ucraina, sarebbe stata uccisa a colpi d'arma da fuoco. Due persone sono state arrestate, tra cui un agente dell'intelligence ucraina. Intanto in Italia, la procura di Bari ha aperto un'inchiesta per bancarotta nei confronti di Luigi e Aurelio De Laurentiis, con perquisizioni nelle sedi di Bari Calcio, Napoli e Filmauro.\n\nIn Cina, il tifone Maysak ha causato il cedimento della diga di Liulan, nel Guangxi, costringendo all'evacuazione di migliaia di persone. Una diga crollata che ha travolto la vallata. Sul fronte economico, il governatore della Banca d'Italia Fabio Panetta ha invitato la Bce a non ripetere i maxi rialzi dei tassi del 2022, nonostante lo shock energetico della guerra in Medio Oriente. E infine, una scoperta astronomica: i quasar più antichi mai visti, risalenti a 670 milioni di anni dopo il Big Bang, pubblicati su Nature.",
+  "headlines": [
+    {
+      "title": "Esplosioni a Damasco durante la visita di Macron: 18 feriti, il presidente è salvo",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "AGI",
+        "la Repubblica"
+      ],
+      "summary": "Due ordigni esplodono vicino all'hotel del presidente francese a Damasco, ferendo 18 persone. Macron, primo leader Ue in Siria dopo la caduta di Assad, prosegue la visita.",
+      "link": "https://www.rainews.it/articoli/2026/07/damasco-esplosioni-vicino-allhotel-di-macron-efbca710-fa4e-402c-8079-8a08a8a290d3.html",
+      "publishedAt": "2026-07-07T09:01:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Focus sulla sicurezza di Macron e sulla continuità del programma di visita.",
+          "link": "https://www.agi.it/estero/news/2026-07-07/siria-esplosioni-macron-37901310/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Dettaglio sulle 18 persone ferite e contesto della prima visita di un leader Ue dopo Assad.",
+          "link": "https://www.rainews.it/articoli/2026/07/damasco-esplosioni-vicino-allhotel-di-macron-efbca710-fa4e-402c-8079-8a08a8a290d3.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Enfasi sulla protezione del presidente e sull'incontro con al-Sharaa.",
+          "link": "https://www.repubblica.it/esteri/2026/07/07/news/esplosioni_damasco_paura_per_macron-425456242/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Oltre 430 droni ucraini colpiscono Mosca e Belgorod: per i russi è un record",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "La Russia registra il più grande attacco di droni ucraini, con oltre 430 velivoli lanciati su Mosca e Belgorod. A Belgorod scoppia un incendio all'aeroporto e blackout.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-7-luglio_114110251-202602k.shtml",
+      "publishedAt": "2026-07-07T09:45:14.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Nato annuncia 40 miliardi di dollari in 5 anni per difese anti-drone",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Al forum sulla Difesa di Ankara, la Nato svela un piano da 40 miliardi per contrastare i droni. Verrà creata una piattaforma dedicata tra gli alleati.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/07/al-via-il-forum-della-difesa-nato-sul-tavolo-intese-per-missili_c719b47d-0c2f-4ce6-b497-762bea90cfe5.html",
+      "publishedAt": "2026-07-07T09:44:51.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Trovata uccisa a Kiev la sospettata dell'attentato di Monaco",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "ANSA",
+        "AGI"
+      ],
+      "summary": "Anastasiia Berezovska, cittadina ucraina sospettata di aver piazzato una bomba a Monaco il 29 giugno, viene trovata morta a Kiev con colpi d'arma da fuoco. Due arresti.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/monaco-media-ucraini-trovata-morta-kiev-sospettata-attentato_114111730-202602k.shtml",
+      "publishedAt": "2026-07-07T09:30:17.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta la notizia della morte con dettagli su colpi d'arma da fuoco e due arresti.",
+          "link": "https://www.tgcom24.mediaset.it/mondo/monaco-media-ucraini-trovata-morta-kiev-sospettata-attentato_114111730-202602k.shtml"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Sottolinea che il corpo è stato scoperto nei pressi di Kiev con due arresti.",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/07/media-ucraini-trovata-uccisa-a-kiev-donna-sospettata-di-attentato-a-monaco_7e616ca9-e073-46c9-938e-83ac3097b84b.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Descrive il giallo di Monaco e i dettagli sulla sospettata Anastasiia Berezovska.",
+          "link": "https://www.agi.it/estero/news/2026-07-07/monaco-pricipato-attentato-uccisa-donna-37901626/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Bancarotta Bari Calcio: indagati Luigi e Aurelio De Laurentiis, perquisizioni in corso",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "ANSA"
+      ],
+      "summary": "La Guardia di Finanza perquisisce le sedi di SSC Bari, SSC Napoli e Filmauro nell'inchiesta per bancarotta. I due produttori cinematografici sono indagati dalla Procura di Bari.",
+      "link": "https://www.ilsole24ore.com/art/bancarotta-bari-calcio-indagati-luigi-e-aurelio-de-laurentiis-AJ1qAPB",
+      "publishedAt": "2026-07-07T07:23:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Apre con l'indagine e le perquisizioni in corso.",
+          "link": "https://www.ilsole24ore.com/art/bancarotta-bari-calcio-indagati-luigi-e-aurelio-de-laurentiis-AJ1qAPB"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Specifica le squadre coinvolte e la Procura di Bari.",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/07/bancarotta-bari-calcio-indagati-luigi-e-aurelio-de-laurentiis-_ee7302b1-48ce-498c-ab83-e82af235f1e7.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Crolla una diga in Cina dopo il tifone Maysak: migliaia evacuati",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "La diga di Liulan, nel Guangxi, cede dopo il passaggio del tifone Maysak. Un'ondata di piena travolge la vallata, migliaia di persone evacuate.",
+      "link": "https://www.rainews.it/video/2026/07/cina-crolla-una-diga-dopo-il-tifone-maysak-londata-di-piena-travolge-la-vallata-001ad306-60ad-4ee6-b3ea-63ff546c53f7.html",
+      "publishedAt": "2026-07-07T09:35:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Panetta verso la Bce: 'Nessun maxi rialzo dei tassi come nel 2022'",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il governatore della Banca d'Italia Fabio Panetta invita la Bce a non ripetere i forti aumenti dei tassi del 2022, nonostante lo shock energetico della guerra in Medio Oriente.",
+      "link": "https://www.ilsole24ore.com/art/panetta-bce-no-maxi-rialzo-tassi-come-2022-AJ8ScQB",
+      "publishedAt": "2026-07-07T08:01:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Scoperti i quasar più antichi mai visti, risalgono a 670 milioni di anni dopo il Big Bang",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Un team di astronomi individua i quasar più remoti, nati quando l'universo aveva solo 670 milioni di anni. La scoperta pubblicata su Nature.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/07/07/scoperti-i-quasar-piu-antichi-mai-visti-video_0221c6e7-6baa-4e3b-a2ee-f36b23989d26.html",
+      "publishedAt": "2026-07-07T08:29:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 193,
+    "articlesAfterDedup": 190,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.7,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 1,
+      "economy": 2,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4,
+      "global": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

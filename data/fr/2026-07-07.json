@@ -1,0 +1,186 @@
+{
+  "date": "2026-07-07",
+  "summary": "L'Ukraine a lancé plus de 430 drones sur Moscou dans la nuit, selon le maire Sergueï Sobianine. Ces frappes surviennent au lendemain d'une attaque ukrainienne sur la raffinerie d'Omsk, la plus grande de Russie. Au même moment, un sommet de l'Otan s'ouvre à Ankara, avec le président ukrainien Volodymyr Zelensky comme invité. Les bombardements russes sur l'Ukraine se sont également intensifiés. En clair : le conflit monte d'un cran alors que les deux camps frappent loin derrière les lignes.\n\nÀ Paris, la cour d'appel doit rendre son arrêt dans l'affaire des assistants parlementaires du FN, attendu à 13h30. L'enjeu est crucial pour Marine Le Pen : si l'inéligibilité est confirmée, sa candidature à la présidentielle de 2027 serait compromise. Ce procès en appel est très suivi.\n\nEn Cisjordanie, deux ONG, Peace Now et Kerem Navot, publient un rapport montrant qu'Israël contrôle désormais 18 % des territoires occupés, contre 7 % avant la guerre à Gaza. L'annexion de facto s'accélère : confiscations de terres, routes réservées aux colons, expulsions. Par ailleurs, de violents orages en Chine ont fait au moins 15 morts et des centaines de blessés. Le président Xi Jinping a ordonné une mobilisation totale des secours.\n\nEnfin, une bonne nouvelle venue de l'espace : la sonde européenne BepiColombo s'apprête à se placer en orbite autour de Mercure, après sept ans de voyage. Lancée en 2018, la mission doit percer les mystères de la planète la plus proche du Soleil.",
+  "headlines": [
+    {
+      "title": "Deux explosions près de l'hôtel de Macron à Damas font 18 blessés, dont quatre policiers",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF",
+        "Radio-Canada",
+        "20 Minutes",
+        "Le Monde",
+        "Le Figaro"
+      ],
+      "summary": "Deux bombes ont explosé près de l'hôtel Four Seasons à Damas où Emmanuel Macron a passé la nuit. Le président français est sain et sauf et a maintenu son programme. Le bilan est de 18 blessés.",
+      "link": "https://www.rtbf.be/article/syrie-deux-explosions-pres-de-l-hotel-ou-macron-a-passe-la-nuit-a-damas-11754028",
+      "publishedAt": "2026-07-07T08:22:52.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "A ouvert avec le bilan des blessés et la localisation des bombes dans l'hôtel",
+          "link": "https://www.rtbf.be/article/syrie-deux-explosions-pres-de-l-hotel-ou-macron-a-passe-la-nuit-a-damas-11754028"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A mis l'accent sur le caractère historique de la visite et le nombre de blessés",
+          "link": "https://ici.radio-canada.ca/nouvelle/2267407/attentats-bombe-syrie-visite-macron-blesses"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A assuré que Macron était sain et sauf et mentionné le bilan des blessés",
+          "link": "https://www.20minutes.fr/monde/4233272-20260707-syrie-deux-explosions-pres-hotel-emmanuel-macron-damas"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "A précisé que Macron avait quitté le quartier avant les explosions et rapporté le bilan",
+          "link": "https://www.lemonde.fr/international/article/2026/07/07/emmanuel-macron-rencontre-ahmed-al-charaa-a-damas-une-explosion-dans-le-quartier-de-son-hotel_6721432_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A rapporté que les bombes visaient à faire du bruit et que Macron maintenait son programme",
+          "link": "https://www.lefigaro.fr/international/elles-visaient-a-faire-du-bruit-malgre-les-explosions-pres-de-son-hotel-a-damas-emmanuel-macron-maintient-son-programme-en-syrie-20260707"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'Ukraine lance plus de 430 drones en direction de Moscou, selon le maire de la capitale russe",
+      "source": "RFI",
+      "summary": "L'Ukraine a lancé plus de 430 drones sur Moscou dans la nuit, au lendemain d'une attaque sur la raffinerie d'Omsk. Un sommet de l'Otan s'ouvre à Ankara avec Volodymyr Zelensky.",
+      "link": "https://www.rfi.fr/fr/europe/20260707-russie-plus-de-430-drones-ukrainiens-lanc%C3%A9s-en-direction-de-moscou-apr%C3%A8s-une-attaque-contre-la-raffinerie-d-omsk",
+      "publishedAt": "2026-07-07T09:52:39.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Procès en appel de Marine Le Pen : la cour d'appel de Paris rend son arrêt sur l'inéligibilité",
+      "source": "Le Monde",
+      "summary": "La cour d'appel de Paris doit rendre son arrêt dans l'affaire des assistants parlementaires du FN. L'enjeu est crucial pour la candidature de Marine Le Pen à la présidentielle de 2027.",
+      "link": "https://www.lemonde.fr/politique/live/2026/07/07/en-direct-proces-en-appel-de-marine-le-pen-suivez-l-arret-de-la-cour-d-appel-de-paris-dans-l-affaire-des-assistants-parlementaires-du-fn_6721429_823448.html",
+      "publishedAt": "2026-07-07T07:30:06.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "En Cisjordanie, le contrôle israélien atteint 18 % des territoires occupés, selon deux ONG",
+      "source": "Le Monde",
+      "summary": "Un rapport de Peace Now et Kerem Navot documente une accélération de l'annexion de facto en Cisjordanie depuis la guerre à Gaza, avec davantage de terres confisquées et de routes réservées aux colons.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/07/en-cisjordanie-une-annexion-de-facto-a-un-rythme-sans-precedent-le-rapport-alarmant-de-deux-ong-israeliennes_6721438_3210.html",
+      "publishedAt": "2026-07-07T08:06:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Au moins 15 morts en Chine après des orages et des inondations, Xi Jinping appelle à une mobilisation totale",
+      "source": "20 Minutes",
+      "summary": "Des orages violents ont frappé plusieurs régions de Chine, faisant au moins 15 morts et des centaines de blessés. Le président Xi Jinping a ordonné une mobilisation totale des secours.",
+      "link": "https://www.20minutes.fr/monde/chine/4233268-20260707-chine-moins-15-morts-apres-orages-inondations-xi-jinping-appelle-mobilisation-totale?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-07T07:33:39.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Le Brésil craint un recours à la force militaire des États-Unis sur son territoire après le classement de groupes criminels comme terroristes",
+      "source": "20 Minutes",
+      "summary": "Le gouvernement brésilien s'inquiète de la décision américaine de classer deux groupes criminels brésiliens comme organisations terroristes, ce qui pourrait justifier une intervention militaire.",
+      "link": "https://www.20minutes.fr/monde/bresil/4233265-20260707-bresil-craint-recours-force-militaire-etats-unis-territoire?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-07T06:18:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Attaque à la bombe à Monaco : le corps de la principale suspecte retrouvé près de Kiev, un officier arrêté",
+      "source": "Le Figaro",
+      "summary": "Anastasia Berezovskaya, soupçonnée d'avoir placé une bombe chez un oligarque à Monaco, a été retrouvée morte près de Kiev. Un officier des renseignements ukrainiens a été arrêté.",
+      "link": "https://www.lefigaro.fr/international/explosion-a-monaco-la-femme-soupconnee-d-avoir-tente-d-assassiner-l-oligarque-vadim-yermolayev-retrouvee-morte-pres-de-kiev-20260707",
+      "publishedAt": "2026-07-07T09:41:29.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Après un périple de 9 milliards de kilomètres, la sonde BepiColombo approche enfin de Mercure",
+      "source": "RFI",
+      "summary": "Lancée en 2018, la mission européenne BepiColombo est sur le point de se placer en orbite autour de Mercure. Les scientifiques veulent percer les mystères de la planète la plus proche du Soleil.",
+      "link": "https://www.rfi.fr/fr/connaissances/20260707-apr%C3%A8s-un-p%C3%A9riple-de-9-milliards-de-kilom%C3%A8tres-la-sonde-bepicolombo-approche-enfin-de-mercure",
+      "publishedAt": "2026-07-07T08:19:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 216,
+    "articlesAfterDedup": 216,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.8,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 2,
+      "environment": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 3,
+      "asia-pacific": 1,
+      "americas": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

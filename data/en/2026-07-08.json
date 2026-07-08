@@ -1,0 +1,147 @@
+{
+  "date": "2026-07-08",
+  "summary": "The United States and Iran exchanged strikes today, threatening to unravel an interim peace deal that had held for weeks. Washington revoked a waiver allowing Tehran to sell oil, a key incentive for Iran to observe the ceasefire. In response, Iran struck targets in Bahrain and Kuwait. The upshot: the Middle East conflict, which had been slowly cooling, is heating up again. No casualties have been reported, but both sides are warning of further action.\n\nAt the NATO summit in Ankara, President Trump said he is 'very upset with NATO' just as allies unveiled a $37 billion missile program. Secretary-General Mark Rutte insisted the United States remains fully committed, but the tension was plain. The new missile project is meant to bolster European defenses, a sign allies are preparing for a future in which Washington may be less reliable.\n\nIn France, an appeals court upheld Marine Le Pen’s embezzlement conviction but shortened her ban from elected office, allowing the far-right leader to run for president in 2027. She will serve one year under house arrest with an electronic tag. The ruling removes a major obstacle to her presidential ambitions. Millions continued to mourn Iran’s late Supreme Leader Ali Khamenei, with a ceremony at a sacred Shiite site in Qom. Iraq also hosted a procession. The state funeral has drawn huge crowds and underscored the regime's hold on power.\n\nCuba suffered its third nationwide blackout in six months, as fuel shortages worsen under a US oil blockade imposed in January. The state electricity company says the grid is stretched to its limit. A rare Ebola strain is spreading rapidly through Central and East Africa, testing local health authorities and raising global health security concerns. And in hopeful news, a new vaccine slowed disease progression and extended lives of patients with incurable brain tumors in early trials, offering more time for those with few options.",
+  "headlines": [
+    {
+      "title": "U.S. and Iran Exchange Strikes, Threatening Fragile Ceasefire",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "Wall Street Journal",
+        "NPR",
+        "The Hindu"
+      ],
+      "summary": "The U.S. revoked an oil waiver allowing Iranian sales, prompting Tehran to strike Bahrain and Kuwait. The exchange risks collapse of the interim peace deal and escalation of the Middle East conflict.",
+      "link": "https://www.wsj.com/world/middle-east/u-s-revokes-waiver-allowing-sale-of-iranian-oil-b6eb5620",
+      "publishedAt": "2026-07-08T03:34:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "NATO Allies Announce $37 Billion Missile Project as Trump Expresses Displeasure",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Al Jazeera",
+        "BBC"
+      ],
+      "summary": "At the Ankara summit, President Trump said he is 'very upset with NATO' while allies unveiled a $37 billion missile program. The alliance reaffirmed commitment despite tensions.",
+      "link": "https://www.france24.com/en/europe/20260708-ukraine-live-russia-launches-deadly-strikes-kyiv-nato-leaders-prepare-meet-in-ankara",
+      "publishedAt": "2026-07-08T05:57:51.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "French Court Allows Marine Le Pen to Run for President, Orders Ankle Tag",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "New York Times",
+        "The Hindu"
+      ],
+      "summary": "An appeals court upheld her embezzlement conviction but shortened the office ban, permitting the far-right leader to contest the 2027 election. She will serve one year with an electronic tag.",
+      "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
+      "publishedAt": "2026-07-07T20:49:09.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Millions Mourn Khamenei in Qom as Funeral Procession Continues",
+      "source": "New York Times World",
+      "singleSource": true,
+      "summary": "The ceremony for Ayatollah Ali Khamenei at a sacred Shiite site marked the latest step in a weeklong state funeral. Iraq also hosted a procession for the late Supreme Leader.",
+      "link": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html",
+      "publishedAt": "2026-07-07T15:33:32.000Z",
+      "tier": "also",
+      "sources": [
+        "New York Times World",
+        "New York Times"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Cuba Suffers Third Nationwide Blackout in Six Months Amid U.S. Blockade",
+      "source": "The Guardian",
+      "singleSource": true,
+      "summary": "The state electricity company reported the third nationwide blackout in six months as the impoverished island struggles with fuel shortages worsened by a U.S. oil blockade imposed in January.",
+      "link": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+      "publishedAt": "2026-07-06T19:30:09.000Z",
+      "tier": "also",
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Rare Ebola Strain Spreads Rapidly Through Central and East Africa",
+      "source": "AllAfrica",
+      "singleSource": true,
+      "summary": "A rare Ebola strain is spreading rapidly through Central and East Africa, testing local health authorities and raising global health security concerns. Authorities work to contain the virus.",
+      "link": "https://allafrica.com/stories/202607070620.html",
+      "publishedAt": "2026-07-07T19:43:52.000Z",
+      "tier": "also",
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "New Vaccine Offers Hope for Patients with Incurable Brain Tumors",
+      "source": "Deutsche Welle",
+      "singleSource": true,
+      "summary": "A new vaccine slowed disease progression and extended lives of patients with incurable brain tumors in early trials, offering hope for more time.",
+      "link": "https://www.dw.com/en/brain-tumors-new-vaccine-offers-patients-hope-for-more-time/a-77863307?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-08T05:28:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 414,
+    "articlesAfterDedup": 413,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 37.2,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 2,
+      "society": 2,
+      "science": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 2,
+      "americas": 1,
+      "africa": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-09",
+  "summary": "Les États-Unis ont frappé 90 cibles militaires en Iran dans la nuit, après que Donald Trump a déclaré le cessez-le-feu terminé. En représailles, les Gardiens de la révolution iraniens ont visé trois pays alliés de Washington dans le Golfe. L'escalade fait suite aux frappes américaines de la veille sur 80 cibles iraniennes, déclenchées par des tirs sur des navires dans le détroit d'Ormuz. Le pétrole avait bondi de 5% hier, et cette nouvelle poussée militaire pourrait aggraver les tensions dans la région.\n\nAu Venezuela, le bilan du double séisme du 24 juin a été révisé à 3 811 morts, annoncé par le président de l'Assemblée nationale Jorge Rodriguez. En RDC, l'Organisation mondiale de la santé officielise 600 décès et plus de 1 700 cas d'Ebola depuis mai, prévenant que la crise pourrait durer plusieurs mois. À Damas, deux attentats à la bombe ont fait 18 blessés pendant la visite d'Emmanuel Macron, qui a appelé à la fermeté sécuritaire.\n\nAu sommet de l'OTAN en Turquie, Trump a réaffirmé son engagement envers la clause de défense mutuelle et autorisé l'Ukraine à produire sous licence des missiles Patriot. Aux États-Unis, le candidat démocrate au Sénat Graham Platner s'est retiré après des accusations de viol. En France, la cour d'appel de Paris a maintenu en détention l'agent consulaire algérien soupçonné d'implication dans l'enlèvement d'Amir Boukhors en 2024.\n\nEnfin, le Haut Conseil pour le climat français alerte sur le ralentissement de la décarbonation et le manque de préparation aux impacts du réchauffement, alors que le pays subit sa troisième canicule en deux mois.",
+  "headlines": [
+    {
+      "title": "Les États-Unis frappent 90 cibles en Iran, Téhéran riposte dans le Golfe",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Monde",
+        "Liberation",
+        "Radio-Canada",
+        "France Info"
+      ],
+      "summary": "L'armée américaine a frappé 90 cibles militaires en Iran dans la nuit, après que Donald Trump a déclaré le cessez-le-feu terminé. En représailles, les Gardiens de la révolution ont visé trois pays alliés de Washington dans le Golfe.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-les-%C3%A9tats-unis-frappent-%C3%A0-nouveau-l-iran-qui-riposte-dans-le-golfe",
+      "publishedAt": "2026-07-09T09:14:42.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "A ouvert avec les frappes américaines et la déclaration de Trump",
+          "link": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-frappent-a-nouveau-liran-qui-riposte-dans-le-golfe-20260709_XB3MWSPX3FEFFLSDF546W4C4HI/"
+        },
+        {
+          "source": "France 24",
+          "angle": "A mis en avant les frappes américaines et la riposte iranienne dans le Golfe",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-les-%C3%A9tats-unis-frappent-%C3%A0-nouveau-l-iran-qui-riposte-dans-le-golfe"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A souligné la revendication iranienne d'imposer des droits sur Ormuz",
+          "link": "https://ici.radio-canada.ca/nouvelle/2267918/etats-unis-frappent-iran-riposte-golfe"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le Venezuela révise à 3 811 le bilan du double séisme du 24 juin",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "Le président de l'Assemblée nationale Jorge Rodriguez a annoncé mercredi que le bilan du double séisme s'élève désormais à 3 811 morts, en hausse par rapport au précédent décompte.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-venezuela-le-bilan-du-double-s%C3%A9isme-s-alourdit-%C3%A0-3-811-morts",
+      "publishedAt": "2026-07-09T09:48:07.000Z",
+      "tier": "top",
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "L'OMS annonce au moins 600 morts et 1 700 cas d'Ebola en RDC",
+      "source": "Liberation",
+      "singleSource": true,
+      "summary": "L'Organisation mondiale de la santé a diffusé un nouveau bilan jeudi, officialisant 600 décès et plus de 1 700 cas confirmés depuis mai. La crise pourrait durer encore plusieurs mois.",
+      "link": "https://www.liberation.fr/societe/sante/ebola-au-moins-600-morts-et-plus-de-1-700-cas-confirmes-en-rdc-annonce-loms-20260709_JOORLQ7S2RD6PDYSGXLO3JLOVI/",
+      "publishedAt": "2026-07-09T09:31:21.000Z",
+      "tier": "top",
+      "sources": [
+        "Liberation"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump rassure l'OTAN et autorise l'Ukraine à produire des missiles Patriot",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "Au sommet de l'OTAN en Turquie, le président américain a réaffirmé son engagement envers la clause d'assistance mutuelle et permis à Kyiv de produire sous licence des missiles Patriot.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/09/au-sommet-de-l-otan-donald-trump-alterne-menaces-et-effusions-rassure-ses-allies-et-apporte-un-nouveau-soutien-a-l-ukraine_6722015_3210.html",
+      "publishedAt": "2026-07-09T03:36:07.000Z",
+      "tier": "top",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Le candidat démocrate Graham Platner se retire du Sénat après des accusations de viol",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Graham Platner, soutenu par Bernie Sanders et en lice pour faire basculer le Sénat, a jeté l'éponge mercredi après une série de scandales, dont des accusations de viol.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/09/aux-etats-unis-la-chute-du-democrate-gerald-platner-menace-d-empecher-le-parti-d-emporter-le-congres_6722026_3210.html",
+      "publishedAt": "2026-07-09T04:30:05.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "A mis en avant le retrait et le soutien de Bernie Sanders",
+          "link": "https://ici.radio-canada.ca/nouvelle/2267903/candidat-democrate-senat-retrait-accusations-viol"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A souligné l'enjeu de la majorité au Sénat",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4233690-20260709-etats-unis-poids-lourd-democrate-retire-course-senat-apres-accusations-viol"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "A détaillé l'impact sur les chances démocrates de remporter le Congrès",
+          "link": "https://www.lemonde.fr/international/article/2026/07/09/aux-etats-unis-la-chute-du-democrate-gerald-platner-menace-d-empecher-le-parti-d-emporter-le-congres_6722026_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Deux attentats à Damas font 18 blessés pendant la visite d'Emmanuel Macron",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "Le président français a affirmé que les explosions ne doivent pas déstabiliser la Syrie, appelant à la fermeté sécuritaire. Dix-huit personnes ont été blessées.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-syrie-ce-que-l-on-sait-des-explosions-%C3%A0-damas-survenues-pendant-la-visite-de-macron",
+      "publishedAt": "2026-07-09T09:47:21.000Z",
+      "tier": "also",
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le Haut Conseil pour le climat alerte sur l'urgence climatique face aux canicules",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "L'instance dénonce le ralentissement de la décarbonation en France et le manque de préparation aux impacts du réchauffement, alors que le pays subit sa troisième canicule en deux mois.",
+      "link": "https://www.lemonde.fr/planete/article/2026/07/09/le-haut-conseil-pour-le-climat-alerte-sur-l-urgence-de-changer-d-echelle-dans-les-politiques-climatiques_6722027_3244.html",
+      "publishedAt": "2026-07-09T04:55:03.000Z",
+      "tier": "also",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La cour d'appel de Paris maintient en détention l'agent consulaire algérien",
+      "source": "Liberation",
+      "singleSource": true,
+      "summary": "Le mis en examen, soupçonné d'implication dans l'enlèvement d'Amir Boukhors en 2024, voit son refus de remise en liberté confirmé jeudi 9 juillet.",
+      "link": "https://www.liberation.fr/international/afrique/enlevement-damir-dz-sur-fond-de-tensions-autour-du-cas-de-christophe-gleizes-un-agent-consulaire-algerien-maintenu-en-detention-20260709_WJPHOX76DRH2BE5KCFZFDS3RIQ/",
+      "publishedAt": "2026-07-09T09:43:58.000Z",
+      "tier": "also",
+      "sources": [
+        "Liberation"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 16,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.4,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 2,
+      "science": 1,
+      "politics": 3
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "americas": 2,
+      "africa": 1,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "date": "2026-07-09",
+  "summary": "Gli Stati Uniti hanno condotto nuovi attacchi aerei in Iran, causando almeno 14 morti e 78 feriti in due giorni. Teheran ha risposto colpendo basi militari in Kuwait e Bahrein. Trump ha dichiarato finita la tregua, mentre la sepoltura di Ali Khamenei si è tenuta oggi a Mashhad. La tensione resta altissima, con il capo negoziatore iraniano Ghalibaf che ha avvertito gli Usa di non sprecare energie.\n\nIn Europa, l'Italia ha espulso due militari russi accusati di spionaggio, in seguito a un'inchiesta della procura di Roma. Il ministro Tajani ha parlato di una grave ingerenza nella sicurezza nazionale. Mosca ha già annunciato ritorsioni. Intanto Volkswagen fa i conti con la crisi: il gruppo chiuderà quattro stabilimenti dal 2031 e taglierà 50mila posti di lavoro in Germania, con un piano di riduzione degli investimenti di circa 50 miliardi di euro. L'industria automobilistica è sotto pressione per i costi energetici e la concorrenza cinese.\n\nNegli Stati Uniti, la missione Artemis II della Nasa ha fatto ritorno sulla Terra dopo lo storico sorvolo della Luna: gli astronauti hanno recuperato la capsula Orion. Intanto Meta investe oltre 9,1 miliardi di dollari in Canada per costruire il suo più grande data center di intelligenza artificiale fuori dagli Usa, alimentato a gas naturale.\n\nIn Italia, Luigi Lavitola ha negato ogni coinvolgimento nell'attentato contro il conduttore di Report Sigfrido Ranucci nell'ottobre 2025, dicendosi sconcertato e rivendicando un rapporto di amicizia. In Venezuela, la presidente ad interim Delcy Rodríguez ha chiesto a re Carlo III la restituzione dell'oro bloccato alla Banca d'Inghilterra per la ricostruzione dopo il doppio terremoto del 24 giugno. Infine, l'Inps segnala che lo smart working aiuta le neomamme a recuperare reddito nel primo anno dopo il parto, un dato positivo per la conciliazione lavoro-famiglia.",
+  "headlines": [
+    {
+      "title": "Stati Uniti lanciano nuovi attacchi in Iran, Teheran colpisce basi in Kuwait e Bahrein",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "AGI",
+        "Rai News",
+        "la Repubblica"
+      ],
+      "summary": "Gli Stati Uniti hanno condotto nuovi attacchi aerei contro l'Iran, causando almeno 14 morti e 78 feriti in due giorni. Teheran ha risposto colpendo basi in Kuwait e Bahrein. Trump ha dichiarato finita la tregua. La sepoltura di Ali Khamenei si è tenuta a Mashhad.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/09/nuovi-raid-usa-sulliran.-la-reazione-di-teheran-colpite-basi-in-kuwait-e-bahrein_0e4e76cf-4410-4107-bc49-6fd6103d3ec0.html",
+      "publishedAt": "2026-07-09T08:59:23.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "ha aperto con le cifre delle vittime e la sepoltura di Khamenei",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/09/nuovi-raid-usa-sulliran.-la-reazione-di-teheran-colpite-basi-in-kuwait-e-bahrein_0e4e76cf-4410-4107-bc49-6fd6103d3ec0.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "si concentra sulla contesa per lo Stretto di Hormuz e il botta e risposta",
+          "link": "https://www.agi.it/estero/news/2026-07-09/iran-usa-hormuz-attacchi-37932694/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "riporta il quasi blocco di Hormuz, l'inumazione di Khamenei e le dichiarazioni di Trump sull'accordo",
+          "link": "https://www.rainews.it/maratona/2026/07/medio-oriente-maratona-guerra-iran-libano-gaza-nuovi-attacchi-usa-su-iran-allerta-kuwait-bahrein-07f4f62c-a388-429a-8645-b9aa96c2c673.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "enfatizza la dichiarazione di Trump sul tentato omicidio e la minaccia di chiudere Hormuz",
+          "link": "https://www.repubblica.it/esteri/2026/07/09/news/il_presidente_trump_rilancia_i_raid_l_iran_mi_vuole_uccidere_per_me_la_tregua_e_terminata-425459940/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Italia espelle due militari russi per spionaggio, Mosca promette ritorsione",
+      "source": "TGCOM24",
+      "singleSource": true,
+      "summary": "Il governo italiano ha espulso due militari russi accusati di spionaggio, in seguito a un'inchiesta della procura di Roma. La Russia ha dichiarato che risponderà alla decisione.",
+      "link": "https://www.tgcom24.mediaset.it/politica/italia-espelle-militari-russia-spionaggio_114208522-202602k.shtml",
+      "publishedAt": "2026-07-09T09:49:09.000Z",
+      "tier": "top",
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Volkswagen chiuderà quattro stabilimenti dal 2031, previsti tagli per 50 miliardi",
+      "source": "AGI",
+      "singleSource": true,
+      "summary": "Il gruppo automobilistico tedesco Volkswagen intende chiudere quattro impianti a partire dal 2031, con riduzione degli investimenti di circa 50 miliardi di euro. Già annunciati 50mila tagli di posti di lavoro in Germania.",
+      "link": "https://www.agi.it/economia/news/2026-07-09/volkswagen-chiude-stabilimenti-37935305/",
+      "publishedAt": "2026-07-09T08:46:35.000Z",
+      "tier": "also",
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Astronauti di Artemis II ritrovano Orion dopo la missione record intorno alla Luna",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Gli astronauti della missione Artemis II della NASA hanno ritrovato la capsula Orion dopo il sorvolo storico della Luna. Il programma prosegue verso i prossimi obiettivi di esplorazione lunare.",
+      "link": "http://it.euronews.com/next/2026/07/09/gli-astronauti-di-artemis-ii-ritrovano-orion-dopo-la-missione-record-sulla-luna",
+      "publishedAt": "2026-07-09T09:09:29.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Lavitola nega di essere il mandante dell'attentato a Ranucci, dice di essere sconcertato",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Luigi Lavitola, ascoltato in Procura, ha negato ogni coinvolgimento nell'attentato contro il conduttore di Report Sigfrido Ranucci dell'ottobre 2025, dicendosi sconcertato e di avere un rapporto di amicizia con la vittima.",
+      "link": "http://it.euronews.com/my-europe/2026/07/09/attentato-a-ranucci-lavitola-in-procura-si-difende-sono-sconcertato-non-sono-il-mandante",
+      "publishedAt": "2026-07-09T09:03:35.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Meta investe 9,1 miliardi in Canada per il più grande data center IA fuori dagli Usa",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Meta investirà oltre 9,1 miliardi di dollari in Alberta, Canada, per un data center di intelligenza artificiale alimentato a gas naturale. Sarà il suo più grande fuori dagli Stati Uniti.",
+      "link": "http://it.euronews.com/next/2026/07/09/meta-investira-91-miliardi-in-canada-per-il-suo-piu-grande-data-center-ia-fuori-dagli-usa",
+      "publishedAt": "2026-07-09T07:59:46.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela chiede a Re Carlo l'oro bloccato a Londra per la ricostruzione post-terremoto",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "La presidente ad interim Delcy Rodríguez ha chiesto al re Carlo III la restituzione delle riserve auree venezuelane bloccate alla Banca d'Inghilterra, da usare per la ricostruzione dopo il doppio terremoto del 24 giugno.",
+      "link": "https://www.repubblica.it/esteri/2026/07/09/news/venezuela_delcy_rodriguez_carlo_iii_restituzione_oro-425460622/?rss",
+      "publishedAt": "2026-07-09T08:55:27.000Z",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Smart working aiuta le neomamme ad aumentare il reddito nel primo anno dopo il parto",
+      "source": "Il Sole 24 Ore",
+      "singleSource": true,
+      "summary": "Secondo la relazione annuale dell'Inps, il lavoro da remoto consente alle madri di recuperare reddito nel primo anno dopo il parto, migliorando la loro situazione economica.",
+      "link": "https://www.ilsole24ore.com/art/cosi-lo-smart-working-neomamme-aumentano-reddito-primo-anno-il-parto-AJD0bDD",
+      "publishedAt": "2026-07-09T09:32:25.000Z",
+      "tier": "also",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 188,
+    "articlesAfterDedup": 188,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 2,
+      "economy": 2,
+      "science": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 3,
+      "global": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

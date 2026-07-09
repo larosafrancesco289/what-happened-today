@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-09",
+  "summary": "The fragile US-Iran ceasefire collapsed overnight as both sides traded strikes for a second night. US Central Command said it targeted Iranian positions to protect shipping in the Strait of Hormuz; Iran retaliated against military sites in Kuwait, Bahrain, and Qatar. President Trump declared the three-week-old truce \"over\" earlier in the day. Traffic through the crucial oil chokepoint has dropped dramatically, and Brent crude rose on the news. China called for restraint, urging both sides to uphold their memorandum of understanding and avoid force. \"Reigniting the conflict does not serve any party's interests,\" a foreign ministry spokesman said.\n\nAmid the renewed fighting, Iran buried its slain Supreme Leader Ayatollah Ali Khamenei at the holy shrine in Mashhad, capping a week of mass funeral processions. His son and successor, Mojtaba Khamenei, has still not made any public appearances. Separately, Trump praised NATO unity after criticizing allies, announcing that Germany agreed to purchase US Tomahawk cruise missiles to fill a strategic gap. He also granted Ukraine long-sought authority to use Patriot air-defense systems, a move Kyiv had pushed for months.\n\nEurope is grappling with a deadly heat wave. Germany reported 5,000 excess deaths in June 2026, the hottest June on record for the European Union. France, Spain, and Belgium also recorded thousands of additional deaths. In Sudan, the army and allied forces liberated the town of Al-Kormuk in Blue Nile State after fierce battles, consolidating government control in the region. The economic ripple effects from the Middle East conflict remain the biggest global concern, with oil prices rising and the risk of renewed inflation.",
+  "headlines": [
+    {
+      "title": "U.S. and Iran Trade Strikes for Second Night After Trump Declares Ceasefire Over",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "The Hindu",
+        "Wall Street Journal World",
+        "BBC World",
+        "Al Jazeera English"
+      ],
+      "summary": "U.S. Central Command said it targeted Iran to protect shipping in the Strait of Hormuz. Iran retaliated against sites in Kuwait, Bahrain, and Qatar. Traffic through the strait has dropped dramatically.",
+      "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+      "publishedAt": "2026-07-09T09:51:04.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iran Buries Slain Supreme Leader Khamenei in Culmination of Week-Long Funeral",
+      "source": "France 24",
+      "summary": "Ayatollah Ali Khamenei was laid to rest at the shrine in Mashhad. His son and successor, Mojtaba Khamenei, has not made public appearances. The funeral coincided with renewed U.S.-Iran conflict.",
+      "link": "https://www.france24.com/en/iran-bury-slain-leader-ali-khamenei-culmination-funeral-procession",
+      "publishedAt": "2026-07-09T09:54:46.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump Praises NATO Unity, Germany Agrees to Buy Tomahawk Missiles",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Deutsche Welle"
+      ],
+      "summary": "President Trump commended alliance unity after criticizing allies. Germany agreed to purchase U.S. Tomahawk cruise missiles to fill a strategic gap. Trump also granted Ukraine authority to use Patriot systems.",
+      "link": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
+      "publishedAt": "2026-07-09T09:51:04.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "June Heat Wave Linked to 5,000 Excess Deaths in Germany as Europe Bakes",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "Al Jazeera English"
+      ],
+      "summary": "Germany reported 5,000 excess deaths in June 2026, the hottest June on record for the European Union. France, Spain, and Belgium also recorded thousands of additional deaths.",
+      "link": "https://www.dw.com/en/germany-june-heat-wave-linked-to-5-000-excess-deaths/a-77885295?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-09T09:10:00.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Sudanese Army Liberates Al-Kormuk Town in Blue Nile State",
+      "source": "AllAfrica",
+      "summary": "The Sudanese Armed Forces and allied groups announced the liberation of Al-Kormuk in Blue Nile State after fierce battles. The victory consolidates government control in the region.",
+      "link": "https://allafrica.com/stories/202607080666.html",
+      "publishedAt": "2026-07-08T16:35:35.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "US-Iran Ceasefire Collapse Revives Global Inflation Risks, China Urges Restraint",
+      "source": "South China Morning Post",
+      "summary": "Brent crude rose after renewed strikes. China called on both sides to uphold the memorandum of understanding and avoid force. The conflict threatens global economic stability.",
+      "link": "https://www.scmp.com/plus/news/world/middle-east/article/3359977/us-iran-ceasefire-collapse-revives-risks-global-inflation?utm_source=rss_feed",
+      "publishedAt": "2026-07-09T09:03:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 427,
+    "articlesAfterDedup": 425,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 17.4,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 2,
+      "environment": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 2,
+      "africa": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

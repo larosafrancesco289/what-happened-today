@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-10",
+  "summary": "A fast-moving wildfire tore through the village of Bedar in southeastern Spain, killing at least 12 people and leaving 19 others missing, most of them foreign tourists. The blaze swept through forested terrain, catching victims as they tried to flee. About 400 firefighters and troops are battling the fire. Authorities are still confirming identities, with reports that four victims may have been British.\n\nIran laid former Supreme Leader Ali Khamenei to rest, more than four months after his killing in an airstrike, as U.S. and Iranian forces struck each other for a second night. The escalation has raised fears of a return to all-out war. Meanwhile, Israeli intelligence reportedly uncovered a specific Iranian plot to assassinate President Trump, which may explain his decision to switch planes at the NATO summit. Adding to the uncertainty, Ayatollah Mojtaba Khamenei did not appear at his father's funeral, deepening speculation about his health and leaving a power vacuum in a divided Iran.\n\nChina achieved its first controlled recovery of an orbital-class rocket, successfully launching and landing the Long March 10B booster in a sea-based test. The breakthrough challenges U.S. dominance in reusable rocket technology and offers a boost to Chinese satellite companies. In Gaza, Israeli forces have pushed deeper since last year's ceasefire, now controlling more than half the territory. Palestinians continue to face deadly consequences from shelling and gunfire. Ukrainian drones struck Russian energy assets in Siberia, creating a new dilemma for the Kremlin as it struggles to protect a vast area with limited air defenses. The attacks threaten Russia's oil exports.\n\nPresident Trump announced the lifting of sanctions on Turkey over its purchase of Russian S-400 air defense systems, paving the way for Ankara's return to the F-35 stealth jet program. Israel objected to the move, which signals a shift in U.S.-Turkey relations. The decision came during the NATO summit in Ankara, where Trump emphasized his good chemistry with President Erdogan.",
+  "headlines": [
+    {
+      "title": "Wildfire kills 12, leaves 19 missing in Spanish village",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "Japan Times",
+        "Al Jazeera English"
+      ],
+      "summary": "A fast-moving wildfire tore through the village of Bedar in southeastern Spain, killing at least 12 people and leaving 19 missing, mostly foreign tourists. Over 400 firefighters are battling the blaze.",
+      "link": "https://www.scmp.com/news/world/europe/article/3360109/11-dead-19-missing-spain-wildfire-roars-through-village?utm_source=rss_feed",
+      "publishedAt": "2026-07-10T08:31:38.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran buries Khamenei as US and Iran exchange new airstrikes",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "summary": "Iran laid to rest former Supreme Leader Ali Khamenei four months after his killing, as U.S. and Iranian forces struck each other for a second night, raising fears of all-out war. The IEA warns the conflict could threaten oil market surplus.",
+      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-ali-khamenei-funeral-ceremony-burial-military-strikes-donald-trump-mojtaba-khamenei-ceasefire-deal/article71205094.ece",
+      "publishedAt": "2026-07-10T09:41:53.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "China achieves first controlled recovery of reusable rocket",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "ABC Australia",
+        "Japan Times",
+        "The Hindu"
+      ],
+      "summary": "China successfully launched and recovered the Long March 10B rocket booster in a sea-based test, marking its first retrieval of an orbital-class rocket. The breakthrough challenges U.S. dominance in reusable rocket technology.",
+      "link": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html",
+      "publishedAt": "2026-07-10T07:39:11.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Israel expands military control in Gaza despite ceasefire",
+      "source": "NPR News",
+      "sources": [
+        "NPR News"
+      ],
+      "summary": "Israeli forces have pushed deeper into Gaza since the U.S.-brokered ceasefire last year, now controlling more than half the territory. Palestinians face deadly consequences as shelling and gunfire persist.",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
+      "publishedAt": "2026-07-10T09:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Ukraine drones strike Siberian energy assets, imperiling Russian oil",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "summary": "Ukrainian drones have reached Siberia, striking Russian energy assets and creating a new dilemma for the Kremlin to protect a vast area with limited air defenses. The attacks threaten Russia's oil exports.",
+      "link": "https://www.wsj.com/world/ukraines-drones-are-now-reaching-siberia-and-imperiling-russian-energy-assets-e0d2caa7",
+      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iran had specific plan to assassinate Trump, Israeli intel says",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Israeli intelligence uncovered a 'specific' Iranian plot to assassinate U.S. President Donald Trump, possibly explaining Trump's plane switch at the NATO summit. The plan heightens tensions amid ongoing U.S.-Iran clashes.",
+      "link": "https://www.france24.com/en/americas/20260710-iran-had-specific-plan-kill-trump-us-media-israeli-intel",
+      "publishedAt": "2026-07-10T07:33:57.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US lifts sanctions, opens door for Turkey's return to F-35 program",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "summary": "President Trump announced the lifting of sanctions on Turkey for its Russian S-400 purchase, paving the way for Ankara's return to the F-35 stealth jet program. Israel objects to the move, signaling a shift in U.S.-Turkey relations.",
+      "link": "https://www.scmp.com/week-asia/politics/article/3360097/us-opens-door-turkeys-return-f-35-stealth-jet-programme-israels-not-happy?utm_source=rss_feed",
+      "publishedAt": "2026-07-10T08:30:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran's new supreme leader remains absent, deepening power vacuum",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World"
+      ],
+      "summary": "Ayatollah Mojtaba Khamenei did not appear at his father's funeral, fueling speculation about his health and leaving a power vacuum in a divided Iran. The absence raises questions about regime stability.",
+      "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+      "publishedAt": "2026-07-10T09:00:06.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 421,
+    "articlesAfterDedup": 418,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.9,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 3,
+      "science": 1,
+      "politics": 3
+    },
+    "regionCounts": {
+      "europe": 2,
+      "middle-east": 5,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

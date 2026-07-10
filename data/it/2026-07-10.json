@@ -1,0 +1,197 @@
+{
+  "date": "2026-07-10",
+  "summary": "Gli Stati Uniti hanno colpito 170 obiettivi in Iran, alcuni vicino alla centrale nucleare di Bushehr. L'ayatollah Khamenei è stato tumulato a Mashhad dopo la sua morte. Donald Trump ha commentato i piani iraniani per ucciderlo, mentre gli inviati Witkoff e Kushner continuano a trattare. Intanto, un devastante incendio boschivo a Los Gallardos, in Spagna, ha ucciso 11 persone, tra cui quattro turisti britannici, e 23 risultano dispersi. Le fiamme, causate da un cavo elettrico, non sono ancora domate.\n\nIn Italia, il governo ha espulso due diplomatici russi accusati di spionaggio, legati all'arresto di ex agenti dei servizi segreti italiani. Il ministro Tajani ha convocato l'ambasciatore russo, e Mosca ha promesso una risposta adeguata. Sul fronte energetico, l'Unione Europea cerca di evitare un aumento automatico del tetto al prezzo del petrolio russo: se gli ambasciatori non trovano un accordo entro il 15 luglio, il limite salirà a 58 dollari al barile, una prospettiva che Bruxelles giudica inaccettabile.\n\nIn Gran Bretagna, Andy Burnham ha ottenuto il sostegno di 322 deputati laburisti su 403, avvicinandosi alla premiership. Nel frattempo, il Parlamento europeo ha prorogato il Chat Control 1.0 fino al 2026, il controllo massivo delle comunicazioni private, sfruttando una lacuna procedurale per evitare un voto diretto sul merito.\n\nInfine, l'Istat ha registrato un calo della produzione industriale italiana dello 0,3% a maggio, ma la media trimestrale marzo-maggio segna una crescita dello 0,9%. L'Inps, nel suo rapporto annuale, ha rilevato che l'età media di pensionamento salirà a 64,7 anni nel 2025, con un assegno medio lordo di 1.906 euro, e un persistente divario di reddito tra uomini e donne.",
+  "headlines": [
+    {
+      "title": "Stati Uniti colpiscono 170 obiettivi in Iran, sepolto l'ayatollah Khamenei",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Gli Usa hanno attaccato 170 bersagli in Iran, anche vicino alla centrale di Bushehr. Khamenei è stato tumulato a Mashhad. Trump commenta i piani iraniani per ucciderlo.",
+      "link": "https://www.repubblica.it/esteri/2026/07/10/news/iran_usa_attacchi_incrociati_puo_durare_un_mese_tumulato_l_ayatollah_khamenei-425462026/?rss",
+      "publishedAt": "2026-07-09T23:00:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Ha enfatizzato l'estensione degli attacchi e la sepoltura di Khamenei",
+          "link": "https://www.repubblica.it/esteri/2026/07/10/news/iran_usa_attacchi_incrociati_puo_durare_un_mese_tumulato_l_ayatollah_khamenei-425462026/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha riportato il piano iraniano per uccidere Trump e la reazione del tycoon",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-10-luglio_114237241-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Incendio in Spagna uccide 11 persone, 23 dispersi a Los Gallardos",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Un incendio boschivo ad Almeria ha causato almeno 11 morti e 23 dispersi. Quattro vittime sono turisti britannici. Le fiamme, causate da un cavo elettrico, non sono ancora domate.",
+      "link": "http://it.euronews.com/video/2026/07/10/spagna-incendio-vicino-ad-almeria-uccide-11-persone-e-provoca-grandi-evacuazioni",
+      "publishedAt": "2026-07-10T08:55:30.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha evidenziato il bilancio delle vittime e le evacuazioni",
+          "link": "http://it.euronews.com/video/2026/07/10/spagna-incendio-vicino-ad-almeria-uccide-11-persone-e-provoca-grandi-evacuazioni"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Ha dato risalto ai turisti britannici morti e ai dispersi",
+          "link": "https://www.repubblica.it/esteri/2026/07/10/news/spagna_incendio_boschivo_in_andalusia_6_morti-425462140/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha indicato la causa dell'incendio (cavo elettrico)",
+          "link": "https://www.tgcom24.mediaset.it/mondo/incendio-spagna-bosco-almeria-los-gallardos_114234580-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Italia espelle due diplomatici russi per spionaggio, Mosca minaccia ritorsione",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "ANSA"
+      ],
+      "summary": "Roma ha espulso due addetti militari russi accusati di spionaggio, legati all'arresto di ex 007 italiani. Tajani ha convocato l'ambasciatore. Mosca promette una risposta adeguata.",
+      "link": "https://www.ilsole24ore.com/art/spie-russe-roma-espelle-due-diplomatici-l-ira-mosca-AJcBMvE",
+      "publishedAt": "2026-07-10T07:10:57.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Ha sottolineato l'accusa di spionaggio e la reazione russa",
+          "link": "https://www.ilsole24ore.com/art/spie-russe-roma-espelle-due-diplomatici-l-ira-mosca-AJcBMvE"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Ha riportato la convocazione dell'ambasciatore e le minacce di Mosca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/09/tajani-espulsi-due-addetti-militari-dellambasciata-russa-per-spionaggio_4de8d63a-cc11-416d-9a83-56effec41ac9.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "UE tenta di evitare aumento automatico del tetto al prezzo del petrolio russo",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Se gli ambasciatori Ue non trovano un accordo entro il 15 luglio, il tetto sale a 58 dollari al barile. Bruxelles giudica inaccettabile la prospettiva.",
+      "link": "http://it.euronews.com/my-europe/2026/07/10/i-paesi-ue-vogliono-evitare-la-revisione-disastrosa-del-tetto-al-prezzo-del-petrolio-russo",
+      "publishedAt": "2026-07-10T09:48:45.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Andy Burnham ottiene sostegno di 322 deputati laburisti, verso la premiership",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Il 're del Nord' ha raccolto 322 voti su 403 deputati laburisti, a un passo dalla conquista di Downing Street.",
+      "link": "https://www.repubblica.it/esteri/2026/07/10/news/gran_bretagna_i_laburisti_sono_tutti_per_lui_burnham_e_quasi_premier-425461964/?rss",
+      "publishedAt": "2026-07-09T23:00:00.000Z",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Parlamento europeo proroga Chat Control 1.0 senza voto diretto",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Una lacuna procedurale ha permesso agli eurodeputati di estendere fino al 2026 il controllo massivo delle comunicazioni private, evitando un voto sul merito.",
+      "link": "http://it.euronews.com/next/2026/07/10/chat-control-10-passa-al-parlamento-europeo-dalla-porta-di-servizio",
+      "publishedAt": "2026-07-10T08:56:46.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Produzione industriale italiana cala dello 0,3% a maggio, +1,1% su anno",
+      "source": "Il Sole 24 Ore",
+      "singleSource": true,
+      "summary": "L'Istat registra un calo congiunturale dello 0,3% a maggio, ma la media trimestrale marzo-maggio segna una crescita dello 0,9%.",
+      "link": "https://www.ilsole24ore.com/art/industria-istat-03percento-produzione-maggio-11percento-anno-AJpK2yE",
+      "publishedAt": "2026-07-10T08:03:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Età pensionabile sale a 64,7 anni nel 2025, assegno medio 1.906 euro",
+      "source": "AGI",
+      "singleSource": true,
+      "summary": "Il rapporto Inps mostra un aumento dell'età media di pensionamento, con un assegno medio lordo di 1.906 euro. Permane il gap di reddito tra uomini e donne.",
+      "link": "https://www.agi.it/economia/news/2026-07-09/pensioni-eta-gap-reddito-37940879/",
+      "publishedAt": "2026-07-09T13:22:06.000Z",
+      "tier": "also",
+      "sources": [
+        "AGI"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 192,
+    "articlesAfterDedup": 191,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 20.5,
+    "categoryCounts": {
+      "conflict": 1,
+      "environment": 1,
+      "politics": 3,
+      "economy": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 7
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

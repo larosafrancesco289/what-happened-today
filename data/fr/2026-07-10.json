@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-10",
+  "summary": "Les frappes entre les États-Unis et l'Iran ont repris ce jeudi dans le détroit d'Ormuz, compromettant l'accord de trêve conclu récemment. Donald Trump risque une guerre impopulaire, l'opinion publique américaine restant opposée au conflit. À Téhéran, les funérailles du guide suprême Ali Khamenei ont eu lieu le même jour, alors que son successeur doit être désigné par l'Assemblée des experts. En clair : la situation au Moyen-Orient reste explosive, avec un risque de regain de tensions entre les deux pays.\n\nLa canicule frappe durement l'Europe. En France, 24 départements seront en vigilance rouge samedi, et la quasi-totalité du pays en orange ; l'épisode devrait durer au moins jusqu'au 14 juillet. En Espagne, un incendie de forêt en Andalousie a tué au moins 11 personnes et fait 19 disparus, possiblement causé par un câble électrique. L'armée espagnole a déployé une unité d'urgence pour contenir les flammes. Ces événements illustrent l'intensification des vagues de chaleur en Europe.\n\nDeux alertes sécuritaires à noter. Selon CNN, Israël a averti Washington d'un projet iranien d'assassinat de Donald Trump, sans donner plus de détails. Les services de sécurité américains sont en alerte. Par ailleurs, la Syrie a annoncé l'arrestation des auteurs présumés des attentats du 7 juillet à Damas, attribués à l'État islamique, qui avaient eu lieu lors de la visite du président français Emmanuel Macron.\n\nEnfin, en France, le Comité de suivi des retraites propose de ne pas indexer les pensions sur l'inflation jusqu'en 2030 et d'instaurer une « règle d'or » pour ajuster automatiquement les paramètres, une mesure déjà refusée par les députés. Au Brésil, São Paulo est accusée de profiling racial avec son système de reconnaissance faciale, le plus grand jamais déployé dans une seule ville, ciblant disproportionnellement les populations noires.",
+  "headlines": [
+    {
+      "title": "Les États-Unis et l'Iran échangent de nouvelles frappes dans le détroit d'Ormuz",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "20 Minutes"
+      ],
+      "summary": "Les frappes américaines et iraniennes reprennent dans le détroit d'Ormuz le 10 juillet, compromettant l'accord de trêve. Donald Trump risque une guerre impopulaire aux États-Unis, alors que l'opinion publique s'oppose au conflit.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/10/detroit-d-ormuz-donald-trump-face-au-risque-d-une-guerre-sporadique-contre-l-iran_6722401_3210.html",
+      "publishedAt": "2026-07-10T07:00:07.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Analyse le risque de guerre sporadique et l'impopularité du conflit",
+          "link": "https://www.lemonde.fr/international/article/2026/07/10/detroit-d-ormuz-donald-trump-face-au-risque-d-une-guerre-sporadique-contre-l-iran_6722401_3210.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Couverture en direct de la reprise des hostilités au Moyen-Orient",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4233909-20260710-direct-guerre-moyen-orient-plan-iranien-tuer-donald-trump?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Israël avertit Washington d'un projet iranien d'assassinat de Donald Trump",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Selon CNN, Israël a informé les États-Unis d'une tentative d'assassinat imminente de Donald Trump par l'Iran. L'alerte, arrivée cette semaine, reste peu détaillée. Les services de sécurité américains sont en alerte.",
+      "link": "https://www.rtbf.be/article/l-iran-cherche-a-assassiner-donald-trump-a-affirme-israel-aupres-de-washington-11755739",
+      "publishedAt": "2026-07-10T03:57:45.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "Rapporte l'alerte israélienne et les détails vagues de CNN",
+          "link": "https://www.rtbf.be/article/l-iran-cherche-a-assassiner-donald-trump-a-affirme-israel-aupres-de-washington-11755739"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Relaye l'information avec source CNN",
+          "link": "https://ici.radio-canada.ca/nouvelle/2268184/iran-tuer-donald-trump-israel"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Inclut le direct sur le plan iranien dans son live",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4233909-20260710-direct-guerre-moyen-orient-plan-iranien-tuer-donald-trump?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Un incendie en Andalousie fait au moins 11 morts, le pire bilan depuis des années",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "RTBF",
+        "20 Minutes"
+      ],
+      "summary": "Un feu de forêt dans la province d'Almería, possiblement causé par un câble électrique, a tué 11 personnes et fait 19 disparus. L'armée espagnole déploie une unité d'urgence pour contenir les flammes, alors que l'Espagne subit une vague de chaleur.",
+      "link": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-07-10T06:37:17.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "Annonce les 11 morts et le déploiement de l'armée",
+          "link": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RTBF",
+          "angle": "Fait état de 11 morts et 19 disparus",
+          "link": "https://www.rtbf.be/article/espagne-au-moins-douze-morts-dans-un-feu-de-foret-en-andalousie-plus-que-sur-toute-l-annee-2025-11755711"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Souligne le pire bilan depuis des années et la cause possible (câble électrique)",
+          "link": "https://www.20minutes.fr/monde/espagne/4233916-20260710-espagne-incendie-fait-12-morts-andalousie-pire-bilan-depuis-annees?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Le guide suprême iranien Ali Khamenei inhumé sur fond de reprise des hostilités avec les États-Unis",
+      "source": "RTBF (Belgian)",
+      "singleSource": true,
+      "summary": "Les funérailles d'Ali Khamenei ont eu lieu à Téhéran le 10 juillet, alors que les frappes entre l'Iran et les États-Unis reprenaient. Son successeur doit être désigné par l'Assemblée des experts.",
+      "link": "https://www.rtbf.be/article/le-guide-supreme-ali-khamenei-a-ete-inhume-sur-fond-de-reprise-des-hostilites-entre-les-etats-unis-et-l-ira-11755714",
+      "publishedAt": "2026-07-10T04:38:29.000Z",
+      "tier": "also",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Syrie annonce l'arrestation de suspects liés à Daesh après les attentats de Damas",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "Les autorités syriennes ont arrêté les auteurs présumés des attentats du 7 juillet à Damas, attribués à l'État islamique. Les attaques avaient eu lieu lors de la visite du président français Emmanuel Macron.",
+      "link": "https://www.20minutes.fr/monde/syrie/4233895-20260710-syrie-autorites-annoncent-arrestation-suspects-lies-daesh-apres-attentats-damas?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-09T23:24:45.000Z",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Canicule : 24 départements en vigilance rouge, les fortes chaleurs persistent jusqu'à samedi",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "Vendredi 10 juillet, 9 départements sont en rouge, et 24 le seront samedi. La quasi-totalité de la France est en orange. L'épisode caniculaire devrait durer au moins jusqu'au 14 juillet.",
+      "link": "https://www.lemonde.fr/planete/live/2026/07/10/en-direct-canicule-les-tres-fortes-chaleurs-persistent-et-s-etendront-encore-samedi-avec-24-departements-en-vigilance-rouge_6720911_3244.html",
+      "publishedAt": "2026-07-10T05:29:16.000Z",
+      "tier": "also",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Comité de suivi des retraites préconise de brider les pensions face à une situation alarmante",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "L'instance indépendante propose de ne pas indexer les pensions sur l'inflation jusqu'en 2030 et d'instaurer une 'règle d'or' pour ajuster automatiquement les paramètres. Les députés avaient refusé cette mesure auparavant.",
+      "link": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
+      "publishedAt": "2026-07-10T07:10:17.000Z",
+      "tier": "also",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "São Paulo accusé de profiling racial avec son système de reconnaissance faciale",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "La plus grande ville d'Amérique latine a déployé le plus vaste système de reconnaissance faciale au monde, accusé de cibler disproportionnellement les populations noires. Le cadre légal reste flou, comme dans d'autres pays.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260710-br%C3%A9sil-reconnaissance-faciale-%C3%A0-s%C3%A3o-paulo-big-brother-accus%C3%A9-de-profiling-racial",
+      "publishedAt": "2026-07-10T09:40:49.000Z",
+      "tier": "also",
+      "sources": [
+        "France 24"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 208,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10.5,
+    "categoryCounts": {
+      "conflict": 4,
+      "environment": 2,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "europe": 3,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

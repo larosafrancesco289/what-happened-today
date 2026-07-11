@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-11",
+  "summary": "The death toll from Venezuela's twin earthquakes on June 24 has reached 4,118, with nearly 17,000 injured and thousands still missing. President Delcy Rodríguez and the UN are appealing for international financial aid as the coastal state of La Guaira remains in ruins. Parliament chief Jorge Rodriguez confirmed the numbers, warning that search efforts continue. The disaster has flattened entire districts, leaving survivors without homes or basic services. International relief is slow to arrive, and officials say the full scale of the tragedy is still emerging.\n\nPresident Donald Trump escalated tensions with Iran on Friday, threatening to \"completely decimate and destroy all areas of Iran\" if it attempts or succeeds in assassinating the sitting president. The warning follows open calls for his killing at Qasem Soleimani's funeral. Separately, the Trump administration gave Iran a Saturday deadline to reopen the Strait of Hormuz, with a senior US official warning of consequences if it does not comply. Iran insists it has kept its word on a ceasefire, even as Trump declares the truce over and talks reportedly continue behind the scenes.\n\nIn a potential breakthrough for Ukraine's air defense, Trump announced a license for Kyiv to produce its own Patriot missile interceptors. Experts caution the move will not provide immediate relief, as production takes time. Meanwhile, in Sudan, a new cholera outbreak has killed over 100 people, with daily drone attacks hampering aid access in besieged El-Obeid. The health system is collapsing, leaving war-weary communities at heightened risk.\n\nA Unesco report reveals that 113 developing countries spent more on servicing foreign debt than on education in 2025. In sub-Saharan Africa, debt payments were 3.6 times higher than education spending. Global aid to education is predicted to decline by up to 30%, compounding the crisis. Finally, a new report found that the White House explored declaring a national emergency to address alleged voting machine vulnerabilities before Trump ousted leaders of the Election Assistance Commission.",
+  "headlines": [
+    {
+      "title": "Venezuela earthquake death toll passes 4,000 as thousands remain missing",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "France 24"
+      ],
+      "summary": "The death toll from Venezuela's twin earthquakes on June 24 has reached 4,118, with 16,740 injured and thousands missing. The UN and President Delcy Rodríguez appeal for international financial aid to support recovery efforts.",
+      "link": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "publishedAt": "2026-07-11T00:37:54.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump warns US will 'completely decimate' Iran if it attempts to assassinate him",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "President Donald Trump said Friday the US military has orders to 'completely decimate and destroy all areas of Iran' if the country attempts or succeeds in assassinating the sitting president. The threat follows open calls for his killing at Khamenei's funeral.",
+      "link": "https://www.france24.com/en/middle-east/20260711-live-trump-threatens-iran-after-khamenei-s-funeral-saw-open-calls-for-his-killing",
+      "publishedAt": "2026-07-11T05:10:36.000Z",
+      "tier": "top",
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US gives Iran Saturday deadline to reopen Strait of Hormuz as nuclear deal falters",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "summary": "The Trump administration is increasingly pessimistic about clinching an Iran nuclear deal, with a senior US official demanding Iran vow to reopen the Strait of Hormuz by Saturday or face consequences. Iran continues to rush its own ships through the snarled waterway.",
+      "link": "https://www.wsj.com/world/middle-east/trump-administration-increasingly-pessimistic-of-clinching-iran-nuclear-deal-ec3ad92e",
+      "publishedAt": "2026-07-10T22:52:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump approves license for Ukraine to produce Patriot missile interceptors",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "President Trump announced a license for Ukraine to produce its own Patriot missile interceptors, a potential breakthrough for Kyiv's air defense. Experts caution the move will not provide immediate relief as production takes time.",
+      "link": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump",
+      "publishedAt": "2026-07-11T05:11:04.000Z",
+      "tier": "also",
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Cholera outbreak in war-torn Sudan kills over 100, threatens besieged communities",
+      "source": "AllAfrica",
+      "singleSource": true,
+      "summary": "A new cholera outbreak in Sudan has claimed more than 100 lives, with daily drone attacks hampering aid access in besieged El-Obeid. War-weary communities face heightened risk as the health system collapses.",
+      "link": "https://allafrica.com/stories/202607100404.html",
+      "publishedAt": "2026-07-10T12:03:20.000Z",
+      "tier": "also",
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump explored national emergency to bypass election agency before firings, report finds",
+      "source": "Deutsche Welle",
+      "singleSource": true,
+      "summary": "The White House considered declaring a national emergency to address alleged voting machine vulnerabilities before President Trump ousted leaders of the Election Assistance Commission, according to a new report.",
+      "link": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-11T03:57:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "UN finds 113 developing countries spend more on foreign debt than education",
+      "source": "The Guardian",
+      "singleSource": true,
+      "summary": "A Unesco report reveals that most developing countries spent more on servicing foreign debt than on education in 2025, with sub-Saharan Africa spending 3.6 times more on debt. Global aid to education is predicted to decline by up to 30%.",
+      "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "publishedAt": "2026-07-10T07:00:14.000Z",
+      "tier": "also",
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran insists it has kept ceasefire word as Trump declares truce over",
+      "source": "Japan Times",
+      "singleSource": true,
+      "summary": "Iran maintains it has upheld the ceasefire with the US, despite President Trump declaring the truce over. Talks between the two sides are reportedly continuing amid heightened tensions and new threats.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/11/world/politics/trump-talks-continue-ceasefire-over-iran/",
+      "publishedAt": "2026-07-11T04:42:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "US and Iran exchanged airstrikes after Khamenei's funeral, and intelligence revealed an Iranian plot to assassinate Trump.",
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 416,
+    "articlesAfterDedup": 412,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 25.2,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 2,
+      "conflict": 4,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 3,
+      "europe": 1,
+      "africa": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

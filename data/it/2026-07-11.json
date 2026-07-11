@@ -1,0 +1,199 @@
+{
+  "date": "2026-07-11",
+  "summary": "In Spagna, l'incendio di Los Gallardos continua a devastare: oltre 6.000 ettari bruciati, 500 uomini al lavoro. Le vittime non sono state ancora identificate. Alle Bahamas, un aereo partito da Nassau e diretto a San Andros è precipitato, causando dieci morti. Le cause sono in accertamento. Due tragedie che aggravano il bilancio delle emergenze internazionali.",
+  "headlines": [
+    {
+      "title": "Attacchi missilistici russi colpiscono Kiev e Zaporizhzhia: un morto e 50 feriti",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Nella notte la Russia ha lanciato missili e droni su Kiev e Zaporizhzhia, causando almeno un morto e 50 feriti. L'Ucraina ha abbattuto parte dei droni.",
+      "link": "http://it.euronews.com/my-europe/2026/07/11/attacchi-missilistici-russi-su-kiev-almeno-10-feriti",
+      "publishedAt": "2026-07-11T07:24:46.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Riporta i dettagli dei missili e droni lanciati dalla Russia",
+          "link": "http://it.euronews.com/my-europe/2026/07/11/attacchi-missilistici-russi-su-kiev-almeno-10-feriti"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Si concentra sulle vittime a Zaporizhzhia e la situazione a Kiev",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-luglio_114280161-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Dieci vittime in incidente aereo alle Bahamas, volo diretto a San Andros",
+      "source": "la Repubblica",
+      "summary": "Un aereo partito da Nassau è precipitato alle Bahamas causando dieci vittime. Il velivolo era diretto a San Andros. Le cause sono in fase di accertamento.",
+      "link": "https://www.repubblica.it/esteri/2026/07/11/news/aereo_precipita_alle_bahams_dieci_vittime-425464263/?rss",
+      "publishedAt": "2026-07-11T07:04:29.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Servizi israeliani avvertono Trump: Teheran prepara un complotto per ucciderlo",
+      "source": "la Repubblica",
+      "summary": "Secondo il Wall Street Journal, i servizi segreti israeliani hanno informato Trump di un piano iraniano per attentare alla sua vita. Il presidente Usa ne ha parlato al summit Nato.",
+      "link": "https://www.repubblica.it/esteri/2026/07/11/news/i_servizi_israeliani_a_trump_teheran_vuole_ucciderti_ecco_i_piani_del_complotto-425464164/?rss",
+      "publishedAt": "2026-07-10T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Risparmio delle famiglie italiane tocca 6.500 miliardi: +1,5% in un anno",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore",
+        "ANSA"
+      ],
+      "summary": "Il rapporto Fabi mostra che conti correnti e depositi sono saliti a 1.603 miliardi, con un aumento di 23,5 miliardi. Azioni e obbligazioni in crescita.",
+      "link": "https://www.ilsole24ore.com/art/fabi-circa-6500-miliardi-salvadanai-famiglie-italiane-AJfJt4F",
+      "publishedAt": "2026-07-11T06:12:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Fornisce i dati dettagliati per categoria di investimento",
+          "link": "https://www.ilsole24ore.com/art/fabi-circa-6500-miliardi-salvadanai-famiglie-italiane-AJfJt4F"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Sottolinea l'aumento complessivo e la crescita delle azioni",
+          "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/07/11/fabi-circa-6.500-miliardi-nei-salvadanai-delle-famiglie-italiane_5186cade-d5fa-467e-8a23-a9bec5944789.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Parlamento approva voto per fuorisede: si potrà votare nel collegio di domicilio",
+      "source": "Il Sole 24 Ore",
+      "summary": "Con un emendamento della maggioranza, gli studenti fuorisede potranno votare per politiche, europee e referendum nel comune di domicilio, senza tornare nella città di residenza.",
+      "link": "https://www.ilsole24ore.com/art/arriva-voto-fuorisede-politiche-referendum-ed-europee-ecco-come-funziona-AJTlsPF",
+      "publishedAt": "2026-07-11T06:23:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Dal 15 luglio nuove regole Ue contro il riporzionamento dei prodotti",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il 15 luglio scade il termine per l'Ue per contestare il decreto italiano contro lo shrinkflation. I prodotti non potranno più avere prezzo identico con meno quantità.",
+      "link": "https://www.ilsole24ore.com/art/prezzo-identico-ma-meno-prodotto-15-luglio-scattano-nuove-regole-AJ7ZkUF",
+      "publishedAt": "2026-07-11T08:01:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Maxifrode fiscale in Sardegna: scontrini fantasma per 20 milioni di euro",
+      "source": "Il Sole 24 Ore",
+      "summary": "La Guardia di finanza di Sassari ha scoperto un sistema di evasione fiscale: i negozi emettevano scontrini regolari solo per pagamenti elettronici, omettendo quelli in contante.",
+      "link": "https://www.ilsole24ore.com/art/maxifrode-fiscale-scontrini-fantasma-i-pagamenti-contante-evasione-20-milioni-euro-AJNUK7F",
+      "publishedAt": "2026-07-11T07:43:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Incendio in Almería: 500 uomini al lavoro, fiamme hanno devastato 6.000 ettari",
+      "source": "Euronews Italiano",
+      "summary": "L'incendio a Los Gallardos continua: le fiamme hanno bruciato oltre 6.000 ettari. I vigili del fuoco lavorano senza sosta, le vittime ancora non identificate.",
+      "link": "http://it.euronews.com/my-europe/2026/07/11/incendio-in-almeria-vittime-non-ancora-identificate-si-lavora-per-spegnere-i-roghi",
+      "publishedAt": "2026-07-11T07:28:53.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "L'incendio a Los Gallardos ha già causato 11 vittime e 23 dispersi.",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Usa: 'La tregua con l'Iran è finita'; possibile nuovo round negoziale in Svizzera",
+      "source": "la Repubblica",
+      "summary": "I mediatori tentano di riavviare i negoziati, ma l'Amministrazione Usa dichiara conclusa la tregua. L'Iran nega disponibilità a un nuovo incontro.",
+      "link": "https://www.repubblica.it/esteri/2026/07/11/news/iran_stati_uniti_ripresa_negoziati-425464146/?rss",
+      "publishedAt": "2026-07-10T23:00:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "Gli Stati Uniti hanno colpito 170 obiettivi in Iran e sepolto l'ayatollah Khamenei.",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 188,
+    "articlesAfterDedup": 186,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.3,
+    "categoryCounts": {
+      "conflict": 3,
+      "society": 1,
+      "economy": 3,
+      "politics": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 6,
+      "americas": 1,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

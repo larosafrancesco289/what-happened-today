@@ -1,0 +1,130 @@
+{
+  "date": "2026-07-12",
+  "summary": "The United States and Iran traded fresh strikes today near the Strait of Hormuz, the narrow waterway that carries about a fifth of the world's oil. The US military hit Iranian targets after Iran's Revolutionary Guard attacked a container ship in the strait, officials said. The conflict threatens global oil shipping as both sides escalate — the US had given Iran a Saturday deadline to reopen the strait, and now the fighting has begun in earnest. Oil prices jumped on the news.\n\nSenator Lindsey Graham of South Carolina died today at 71 after a brief and sudden illness, his office announced. The Republican and close Trump ally had just returned from Kyiv, where he met with Ukraine's President Zelensky. His death leaves a vacant Senate seat in a closely divided chamber, and it's unclear who will be appointed to fill it. Meanwhile, the death toll from Venezuela's twin earthquakes on June 24 has passed 4,300, with nearly 17,000 injured and thousands still missing in the coastal state of La Guaira. The government and the UN are calling for international aid as recovery continues.\n\nIn Asia, Typhoon Bavi made landfall in eastern China after killing 17 in the Philippines, forcing nearly two million people to evacuate. The storm, once about the width of France, has weakened to a severe tropical storm. In southern Spain, a wildfire has killed 12 people, mostly from Belgium and Britain, with more than 20 still missing — one of the deadliest wildfires in the country's history. Search operations continue.\n\nThere is also a rare bit of progress in public health: the first patients have been enrolled in a record-breaking Ebola treatment trial in the Democratic Republic of the Congo, just six weeks after the outbreak was declared a public health emergency. Two drugs are being tested in the Ituri region, with scientists hoping to rapidly reduce mortality rates.",
+  "headlines": [
+    {
+      "title": "US and Iran launch fresh attacks in battle for Strait of Hormuz",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "BBC World",
+        "France 24"
+      ],
+      "summary": "US military strikes Iranian targets after Iran attacks a container ship in the Strait of Hormuz. The conflict threatens global oil shipping as both sides escalate.",
+      "link": "https://www.wsj.com/world/middle-east/u-s-launches-new-strikes-on-iran-after-hormuz-tensions-escalate-d6903c7f",
+      "publishedAt": "2026-07-12T04:22:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "US Senator Lindsey Graham dies at 71 after brief sudden illness",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "BBC World",
+        "France 24"
+      ],
+      "summary": "Republican senator and Trump ally Lindsey Graham died after a short illness. He had just returned from Kyiv where he met Ukrainian President Zelensky. His death leaves a vacant Senate seat.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/12/world/politics/us-senator-lindsey-graham-dies/",
+      "publishedAt": "2026-07-12T08:12:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Venezuela earthquake death toll passes 4,300 as thousands remain missing",
+      "source": "The Guardian",
+      "summary": "Venezuela's government reports 4,333 dead and 16,740 injured from June 24 quakes. Thousands are still missing in La Guaira. Recovery efforts continue amid calls for international aid.",
+      "link": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "publishedAt": "2026-07-11T17:23:19.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Typhoon Bavi hits China forcing nearly 2 million to evacuate",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "BBC World",
+        "France 24"
+      ],
+      "summary": "Typhoon Bavi made landfall in eastern China after killing 17 in the Philippines. Authorities evacuated nearly two million people and suspended transport. The storm weakened to a severe tropical storm.",
+      "link": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
+      "publishedAt": "2026-07-12T07:17:40.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Wildfire kills 12 in southern Spain, 20 still missing",
+      "source": "New York Times World",
+      "summary": "A wildfire in southern Spain killed 12 people, mostly from Belgium and Britain. More than 20 remain missing in one of Spain's deadliest wildfires. Officials continue search operations.",
+      "link": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
+      "publishedAt": "2026-07-11T14:46:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "source": "The Guardian",
+      "summary": "Six weeks after the Ebola outbreak was declared, patients are enrolled in a trial testing two drugs in Ituri region. Scientists hope to rapidly reduce mortality rates with the new treatments.",
+      "link": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "publishedAt": "2026-07-12T08:00:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 393,
+    "articlesAfterDedup": 390,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 17.8,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 1,
+      "environment": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "americas": 2,
+      "asia-pacific": 1,
+      "europe": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "weekId": "2026-W28",
+  "startDate": "2026-07-06",
+  "endDate": "2026-07-12",
+  "summary": "La semaine du 6 au 12 juillet 2026 a été dominée par une escalade militaire majeure entre les États-Unis et l'Iran. Le 8 juillet, les États-Unis ont frappé 80 cibles en Iran après des tirs sur des navires dans le détroit d'Ormuz. L'Iran a riposté en attaquant des bases américaines au Koweït et à Bahreïn. Donald Trump a déclaré le cessez-le-feu « terminé ». Les frappes se sont intensifiées le 9 juillet (90 cibles), le 10 juillet (échanges dans le détroit) et le 12 juillet (140 cibles iraniennes, ripostes iraniennes visant les pays du Golfe). Le pétrole a bondi de 5 % le 8 juillet. Parallèlement, le renseignement israélien a alerté les États-Unis d'un complot iranien visant Trump (10-11 juillet).\n\nD'autres événements notables incluent le cortège funèbre d'Ali Khamenei le 6 juillet, mais cette histoire a rapidement disparu. Le Hamas a dissous ses instances dirigeantes à Gaza (6 juillet). Des bombardements russes ont fait 14 morts dans la région de Kiev (6 juillet). Deux explosions près de l'hôtel de Macron à Damas ont fait 18 blessés (7 juillet). L'Ukraine a lancé plus de 430 drones vers Moscou (7 juillet). Le procès en appel de Marine Le Pen a vu la cour d'appel rendre son arrêt sur l'inéligibilité (7 juillet). Le Venezuela a révisé le bilan du double séisme du 24 juin à 3 811 morts le 9 juillet, puis à 4 333 le 12 juillet, avec un plan de relogement. L'OMS a annoncé au moins 600 morts et 1 700 cas d'Ebola en RDC (9 juillet). Un incendie en Andalousie a fait au moins 11 morts (10 juillet).\n\nHistoires apparues un seul jour : le cortège funèbre de Khamenei, la dissolution du Hamas, les bombardements russes, le sommet de l'OTAN en Turquie (non détaillé), et le tir de missile balistique chinois. Une histoire a gagné en ampleur : la canicule en France, avec 24 départements en vigilance rouge le 11 juillet, persistant jusqu'au 12 juillet.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Le cortège funèbre d'Ali Khamenei traverse Téhéran lors de funérailles nationales",
+    "Le Hamas dissout ses instances dirigeantes dans la bande de Gaza",
+    "Des bombardements russes font au moins 14 morts dans la région de Kiev",
+    "La Turquie accueille le sommet de l'Otan avec Donald Trump et les 32 États membres",
+    "La Chine tire un missile balistique dans le Pacifique malgré l'opposition du Japon",
+    "23 morts dont quatre gardiens dans des affrontements dans une prison au Sri Lanka",
+    "Un incendie parcourt 4 600 hectares dans les Pyrénées-Orientales, sept départements en risque très élevé",
+    "Un avion russe intercepté par la RAF après avoir largué des bouées acoustiques",
+    "Deux explosions près de l'hôtel de Macron à Damas font 18 blessés, dont quatre policiers",
+    "L'Ukraine lance plus de 430 drones en direction de Moscou, selon le maire de la capitale russe"
+  ],
+  "escalatedStories": [
+    "Canicule : 24 départements en vigilance rouge, les fortes chaleurs persistent jusqu'à samedi"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-07-06",
+      "title": "Le cortège funèbre d'Ali Khamenei traverse Téhéran lors de funérailles nationales",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Le Hamas dissout ses instances dirigeantes dans la bande de Gaza",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Des bombardements russes font au moins 14 morts dans la région de Kiev",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Deux explosions près de l'hôtel de Macron à Damas font 18 blessés, dont quatre policiers",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "L'Ukraine lance plus de 430 drones en direction de Moscou, selon le maire de la capitale russe",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Procès en appel de Marine Le Pen : la cour d'appel de Paris rend son arrêt sur l'inéligibilité",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Les États-Unis frappent 80 cibles en Iran après des tirs sur des navires dans le détroit d'Ormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "L'Iran riposte en attaquant des bases américaines au Koweït et à Bahreïn",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Donald Trump déclare le cessez-le-feu avec l'Iran « terminé »",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Le pétrole bondit de 5% après l'escalade militaire entre les États-Unis et l'Iran",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Les États-Unis frappent 90 cibles en Iran, Téhéran riposte dans le Golfe",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Le Venezuela révise à 3 811 le bilan du double séisme du 24 juin",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "L'OMS annonce au moins 600 morts et 1 700 cas d'Ebola en RDC",
+      "category": "science",
+      "region": "africa"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Donald Trump rassure l'OTAN et autorise l'Ukraine à produire des missiles Patriot",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Les États-Unis et l'Iran échangent de nouvelles frappes dans le détroit d'Ormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Israël avertit Washington d'un projet iranien d'assassinat de Donald Trump",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Un incendie en Andalousie fait au moins 11 morts, le pire bilan depuis des années",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Le renseignement israélien alerte les États-Unis sur un complot iranien visant Donald Trump",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Canicule : 24 départements en vigilance rouge, les fortes chaleurs persistent",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Donald Trump face au risque d'une guerre sporadique contre l'Iran dans le détroit d'Ormuz",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Les États-Unis bombardent 140 cibles iraniennes et l’Iran vise les pays du Golfe, la trêve vole en éclats",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Le Venezuela dénombre 4 333 morts après le séisme du 24 juin et présente un plan de relogement",
+      "category": "environment",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1480,
+    "totalSourcesUsed": 11,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "politics": 20,
+      "conflict": 20,
+      "environment": 10,
+      "science": 2,
+      "economy": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 14,
+      "europe": 16,
+      "asia-pacific": 4,
+      "americas": 9,
+      "global": 11,
+      "africa": 1
+    }
+  }
+}

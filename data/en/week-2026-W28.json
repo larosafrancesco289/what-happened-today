@@ -1,0 +1,180 @@
+{
+  "weekId": "2026-W28",
+  "startDate": "2026-07-06",
+  "endDate": "2026-07-12",
+  "summary": "The week of July 6-12, 2026, was dominated by escalating U.S.-Iran hostilities following the death of Iran's Supreme Leader Khamenei and a devastating earthquake in Venezuela. The U.S. and Iran exchanged multiple rounds of airstrikes, imperiling a fragile ceasefire and triggering a crisis over the Strait of Hormuz. Meanwhile, the Venezuela earthquake death toll surpassed 4,300, with thousands still missing. A NATO summit saw allies announce a $37 billion missile project, despite initial displeasure from former President Trump, who later praised unity. Other notable events included China's first controlled recovery of a reusable rocket, a deadly wildfire in Spain, the death of U.S. Senator Lindsey Graham, and Typhoon Bavi forcing nearly 2 million evacuations in China. Several stories, such as the Russian missile strike on Kyiv and Sri Lanka prison clashes, faded quickly.\n\nWhat mattered: The U.S.-Iran confrontation, driven by Khamenei's funeral and subsequent attacks, became the week's central crisis. Iran buried Khamenei on July 9, but fighting continued, with the U.S. issuing a Saturday deadline for Iran to reopen the Strait of Hormuz. The conflict remained unresolved as the week ended. The Venezuela earthquake, with a steadily rising death toll, persisted as a humanitarian disaster.\n\nWhat developed: The U.S.-Iran conflict escalated from funeral protests to direct military exchanges. NATO's $37 billion missile project and Germany's Tomahawk purchase signaled a shift in European defense posture. France's court allowed Marine Le Pen to run for president under electronic monitoring. China's missile test and reusable rocket recovery highlighted its military and space advancements.\n\nWhat resolved: Khamenei's burial on July 9 concluded a week-long funeral period. The Russian missile strike on Kyiv, which killed 18 on July 6, did not lead to sustained escalation. Sri Lanka prison clashes and explosions in Damascus during Macron's visit were not followed up. The U.S.-Iran situation, however, remained dangerously unresolved.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Millions attend funeral procession for Iran's Supreme Leader Khamenei in Tehran",
+    "Russian missile strike kills 18 in Kyiv on eve of NATO summit",
+    "Venezuela earthquake death toll rises above 3,300 as survivors search for missing",
+    "China test fires long-range ballistic missile into Pacific Ocean",
+    "Dozens killed in Sri Lanka prison clashes between inmates",
+    "Hamas agrees to dissolve Gaza governing body under peace deal",
+    "Iran's Revolutionary Guard fires missiles at ships near Strait of Hormuz",
+    "China submarine fires long-range ballistic missile ahead of NATO summit",
+    "Explosions injure 18 in Damascus during Macron's landmark visit to Syria",
+    "Millions join funeral procession for Iran's Supreme Leader Khamenei in Tehran"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-07-06",
+      "title": "Millions attend funeral procession for Iran's Supreme Leader Khamenei in Tehran",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Russian missile strike kills 18 in Kyiv on eve of NATO summit",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Venezuela earthquake death toll rises above 3,300 as survivors search for missing",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Iran's Revolutionary Guard fires missiles at ships near Strait of Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "China submarine fires long-range ballistic missile ahead of NATO summit",
+      "category": "conflict",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Explosions injure 18 in Damascus during Macron's landmark visit to Syria",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Millions join funeral procession for Iran's Supreme Leader Khamenei in Tehran",
+      "category": "society",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "U.S. and Iran Exchange Strikes, Threatening Fragile Ceasefire",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "NATO Allies Announce $37 Billion Missile Project as Trump Expresses Displeasure",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "French Court Allows Marine Le Pen to Run for President, Orders Ankle Tag",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "U.S. and Iran Trade Strikes for Second Night After Trump Declares Ceasefire Over",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Iran Buries Slain Supreme Leader Khamenei in Culmination of Week-Long Funeral",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Trump Praises NATO Unity, Germany Agrees to Buy Tomahawk Missiles",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Wildfire kills 12, leaves 19 missing in Spanish village",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Iran buries Khamenei as US and Iran exchange new airstrikes",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "China achieves first controlled recovery of reusable rocket",
+      "category": "science",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Venezuela earthquake death toll passes 4,000 as thousands remain missing",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Trump warns US will 'completely decimate' Iran if it attempts to assassinate him",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "US gives Iran Saturday deadline to reopen Strait of Hormuz as nuclear deal falters",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "US and Iran launch fresh attacks in battle for Strait of Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "US Senator Lindsey Graham dies at 71 after brief sudden illness",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Venezuela earthquake death toll passes 4,300 as thousands remain missing",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Typhoon Bavi hits China forcing nearly 2 million to evacuate",
+      "category": "environment",
+      "region": "asia-pacific"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2870,
+    "totalSourcesUsed": 18,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "politics": 13,
+      "conflict": 18,
+      "environment": 8,
+      "society": 3,
+      "science": 4,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 18,
+      "europe": 11,
+      "americas": 7,
+      "asia-pacific": 5,
+      "africa": 4,
+      "global": 3
+    }
+  }
+}

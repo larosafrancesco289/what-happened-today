@@ -1,0 +1,184 @@
+{
+  "date": "2026-07-13",
+  "summary": "Les États-Unis bombardent l'Iran pour le deuxième jour consécutif près du détroit d'Ormuz, et Téhéran a riposté en frappant des bases américaines en Jordanie, Bahreïn et au Koweït. Les cours du pétrole ont bondi après la fermeture du détroit, ravivant le spectre d'une guerre totale. En clair : la confrontation directe entre les deux puissances s'intensifie, avec des conséquences immédiates sur les marchés énergétiques.\n\nÀ Paris, Emmanuel Macron accueille aujourd'hui la Coalition des volontaires pour l'Ukraine, avec 37 pays présents et Volodymyr Zelensky. Ce sommet vise à renforcer la coopération militaire face à la Russie. Parallèlement, des drones ukrainiens ont frappé Moscou, tuant trois personnes, signe que l'Ukraine intensifie ses frappes sur le sol russe. La guerre s'étend donc sur plusieurs fronts.\n\nDeux incendies marquent l'actualité en Europe. En Andalousie, le feu est désormais stabilisé, mais le bilan s'est alourdi à 13 morts, dont une Britannique de 93 ans. En France, un incendie d'ampleur exceptionnelle ravage 800 hectares en forêt de Fontainebleau. Le ministre Laurent Nuñez évoque une dizaine de points de départ, suspectant une origine volontaire. Deux Canadair ont été déployés, une première en Île-de-France.\n\nEnfin, au Québec, la communauté innue de Pessamit a rejeté l'entente avec Hydro-Québec lors d'un référendum : 63 % des voix ont voté contre, avec une participation de 37 %. Le projet de partenariat est donc abandonné.",
+  "headlines": [
+    {
+      "title": "Les États-Unis bombardent l'Iran, Téhéran riposte sur des bases du Golfe et le pétrole bondit",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "Le Monde",
+        "France 24"
+      ],
+      "summary": "Washington bombarde l'Iran pour le deuxième jour près du détroit d'Ormuz. Téhéran frappe des bases américaines en Jordanie, Bahreïn et au Koweït. Les cours du pétrole grimpent après la fermeture du détroit.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4234316-20260713-guerre-moyen-orient-iran-annonce-avoir-frappe-bases-americaines-jordanie-bahrein-koweit?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-13T05:37:57.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "A ouvert sur l'annonce iranienne de frappes contre des bases américaines",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4234316-20260713-guerre-moyen-orient-iran-annonce-avoir-frappe-bases-americaines-jordanie-bahrein-koweit?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "A analysé l'impuissance diplomatique américaine face à la reprise des hostilités",
+          "link": "https://www.lemonde.fr/international/article/2026/07/13/la-diplomatie-americaine-impuissante-face-a-la-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6723050_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "A décrit les bombardements américains et la riposte iranienne en vidéo",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-les-%C3%A9tats-unis-frappent-l-iran-t%C3%A9h%C3%A9ran-riposte-en-ciblant-des-bases-du-golfe"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A souligné la hausse des cours du pétrole après la fermeture d'Ormuz",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4234329-20260713-guerre-moyen-orient-cours-petrole-hausse-apres-annonce-nouvelle-fermeture-detroit-ormuz?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "La coalition des volontaires pour l'Ukraine se réunit à Paris avec Zelensky",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Figaro",
+        "Libération"
+      ],
+      "summary": "Emmanuel Macron accueille 37 pays soutenant Kyiv, dont Volodymyr Zelensky, pour un sommet visant à renforcer la coopération militaire face à la Russie.",
+      "link": "https://www.france24.com/fr/france/20260713-en-direct-suivez-le-traditionnel-discours-aux-arm%C3%A9es-d-emmanuel-macron",
+      "publishedAt": "2026-07-13T08:28:21.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "A couvert en direct le discours aux armées et le sommet",
+          "link": "https://www.france24.com/fr/france/20260713-en-direct-suivez-le-traditionnel-discours-aux-arm%C3%A9es-d-emmanuel-macron"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A mis en avant le 'réveil stratégique' européen",
+          "link": "https://www.lefigaro.fr/international/en-direct-le-discours-aux-armees-d-emmanuel-macron-a-la-veille-de-la-ceremonie-du-14-juillet-20260713"
+        },
+        {
+          "source": "Libération",
+          "angle": "A insisté sur la pression accrue sur Moscou",
+          "link": "https://www.liberation.fr/international/europe/guerre-en-ukraine-la-coalition-des-volontaires-se-reunit-a-paris-en-presence-de-zelensky-20260713_L24UNWNENRCJRGVNJEEU37W4NM/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'incendie en Andalousie fait 13 morts, le feu est stabilisé",
+      "source": "France 24",
+      "summary": "Le bilan de l'incendie dans le sud de l'Espagne s'est alourdi à 13 morts après le décès d'une Britannique de 93 ans. Le président régional annonce le feu stabilisé.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-espagne-le-bilan-de-l-incendie-en-andalousie-s-alourdit-%C3%A0-treize-morts",
+      "publishedAt": "2026-07-13T08:55:59.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trois morts à Moscou dans des attaques de drones ukrainiens",
+      "source": "20 Minutes",
+      "summary": "Des drones ukrainiens ont frappé Moscou, tuant trois personnes. L'Ukraine intensifie ses frappes sur le territoire russe alors que la guerre s'étend.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4234317-20260713-direct-guerre-ukraine-trois-morts-moscou-attaques-drones-ukrainiens?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-13T05:32:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Un incendie ravage 800 hectares en forêt de Fontainebleau, possible acte volontaire",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "France 24"
+      ],
+      "summary": "Un incendie d'ampleur exceptionnelle brûle 800 hectares dans la forêt de Fontainebleau. Le ministre Nuñez évoque une dizaine de points de départ, suspectant une origine volontaire. Deux Canadair sont déployés.",
+      "link": "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
+      "publishedAt": "2026-07-13T08:08:04.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A suivi en direct l'incendie et la fermeture de secteurs",
+          "link": "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A cité le ministre évoquant une origine volontaire",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-l-incendie-en-foret-de-fontainebleau-est-d-une-ampleur-exceptionnelle-le-ministre-de-l-interieur-attendu-sur-place-lundi-matin-20260713"
+        },
+        {
+          "source": "France 24",
+          "angle": "A rapporté le déploiement de deux avions bombardiers",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-france-huit-cent-hectares-incendi%C3%A9s-%C3%A0-fontainebleau-deux-avions-bombardiers-d%C3%A9ploy%C3%A9s"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La communauté innue de Pessamit rejette l'entente avec Hydro-Québec",
+      "source": "Radio-Canada",
+      "summary": "Lors d'un référendum, 63 % des voix ont voté contre l'entente avec Hydro-Québec. La participation était de 37 %. Le projet est donc rejeté.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2268448/jour-vote-entente-pessamit-hydro-quebec",
+      "publishedAt": "2026-07-13T03:09:54.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 214,
+    "articlesAfterDedup": 211,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.7,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 1,
+      "environment": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-13",
+  "summary": "La tensione tra Iran e Stati Uniti è salita di nuovo. I pasdaran hanno attaccato basi in Giordania e Kuwait dopo i raid americani, e lo Stretto di Hormuz è chiuso al traffico navale. Il Brent è salito del 4%. Washington dice di aver colpito duramente i pasdaran e che il passaggio resta aperto, ma la situazione è molto fluida.\n\nIn Europa, due notizie da Bruxelles. L’Alta rappresentante Kaja Kallas ha detto che diversi Stati membri chiedono di valutare il divieto di scambi con gli insediamenti israeliani in Cisgiordania. La proposta è in discussione. Sempre dall’Ue, la presidente Von der Leyen ha proposto un’età minima per iscrivere i bambini ai social, per proteggere la loro salute mentale.\n\nIn Francia, un maxi incendio a Fontainebleau ha devastato 800 ettari di foresta. Circa 400 vigili del fuoco sono al lavoro, e si sospetta il dolo. A Palermo, la polizia ha eseguito 15 fermi per l’escalation criminale da novembre: indaga la Dda. In Germania, il caldo estremo ha portato a 99 annegamenti a giugno, un record; la presidente del DIrg teme altre vittime.\n\nInfine, una notizia positiva dalla medicina: in Svezia è stato eseguito con successo il primo trapianto di cellule staminali cerebrali su otto pazienti con Parkinson. Lo studio dimostra che è fattibile e sicuro. In Spagna, un sondaggio rivela che sette cittadini su dieci ritengono più conveniente il mutuo che l’affitto, mentre cresce il timore di una bolla immobiliare.",
+  "headlines": [
+    {
+      "title": "Iran colpisce basi in Giordania e Kuwait, Usa bombardano lo Stretto di Hormuz",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "I pasdaran hanno attaccato basi in Giordania e Kuwait dopo raid americani. Lo Stretto di Hormuz è chiuso al traffico navale, con il Brent in rialzo del 4%.",
+      "link": "https://www.repubblica.it/esteri/2026/07/13/news/pioggia_di_missili_per_hormuz_teheran_chiude_il_traffico_navale_ma_trump_nega_lo_controllo_io-425467059/?rss",
+      "publishedAt": "2026-07-12T23:00:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Sottolinea la chiusura di Hormuz e la replica di Trump",
+          "link": "https://www.repubblica.it/esteri/2026/07/13/news/pioggia_di_missili_per_hormuz_teheran_chiude_il_traffico_navale_ma_trump_nega_lo_controllo_io-425467059/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Enfatizza i bombardamenti Usa e l’impennata del petrolio",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-13-luglio_114364859-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "UE valuta stop al commercio con gli insediamenti israeliani in Cisgiordania",
+      "source": "TGCOM24",
+      "summary": "L’Alta rappresentante Kaja Kallas ha detto che diversi Stati membri chiedono di valutare il divieto di scambi con gli insediamenti. La proposta è in fase di discussione.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-kaja-kallas-divieto-commercio-insediamenti-israeliani_114369441-202602k.shtml",
+      "publishedAt": "2026-07-13T09:14:21.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Maxi incendio a Fontainebleau devasta 800 ettari di foresta, forse doloso",
+      "source": "la Repubblica",
+      "summary": "Circa 400 vigili del fuoco combattono le fiamme nella foresta di Fontainebleau. Il rogo, forse doloso, minaccia abitazioni e beni materiali.",
+      "link": "https://www.repubblica.it/esteri/2026/07/13/news/francia_incendio_foresta_fontainebleau_dimensioni_eccezionali-425467163/?rss",
+      "publishedAt": "2026-07-13T08:49:37.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Palermo, 15 fermi per escalation criminale: indaga la Dda",
+      "source": "Rai News",
+      "summary": "La polizia ha eseguito 15 fermi di indiziati per reati legati all’escalation criminale a Palermo da novembre. Le indagini sono coordinate dalla Dda.",
+      "link": "https://www.rainews.it/video/2026/07/palermo-escalation-criminale-in-citta-eseguiti-fermi-7e022136-c598-40c3-a0e6-99b588235668.html",
+      "publishedAt": "2026-07-13T08:35:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Barış Boyun in processo: vuole creare organizzazione alternativa al PKK",
+      "source": "Euronews Italiano",
+      "summary": "Dalle intercettazioni emerge che Boyun ritiene il PKK insufficiente e punta a fondare un’organizzazione di strada per una nuova rivoluzione in Turchia.",
+      "link": "http://it.euronews.com/2026/07/13/baris-boyun-nel-processo-in-italia-creare-unorganizzazione-alternativa-al-pkk",
+      "publishedAt": "2026-07-13T07:54:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Ue, Von der Leyen propone età minima per iscrivere bambini ai social",
+      "source": "TGCOM24",
+      "summary": "La presidente della Commissione Ue ha presentato linee guida per la tutela dei minori online, chiedendo un’età minima per l’accesso ai social per combattere i danni alla salute mentale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/von-der-leyen-minori-online-tutela-social-media-eta-minima_114370652-202602k.shtml",
+      "publishedAt": "2026-07-13T09:38:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Caldo estremo in Germania: 99 annegamenti a giugno, è record",
+      "source": "TGCOM24",
+      "summary": "Con il caldo estremo, in Germania si sono registrati 99 annegamenti a giugno. La presidente del DIrg Ute Vorg teme ulteriori vittime in estate.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/germania-caldo-estremo-boom-annegamenti_114370648-202602k.shtml",
+      "publishedAt": "2026-07-13T08:35:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trapianto di staminali cerebrali per Parkinson: primo studio su 8 pazienti",
+      "source": "ANSA",
+      "summary": "In Svezia è stato eseguito con successo il trapianto di cellule staminali nel cervello di 8 pazienti con Parkinson. Lo studio dimostra la fattibilità e sicurezza.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/07/13/parkinson-trapianto-di-staminali-nel-cervello-di-8-pazienti-_691839b9-63d8-419e-9ea9-50ae2025096c.html",
+      "publishedAt": "2026-07-13T07:54:51.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Spagna, 71% dei cittadini: più conveniente il mutuo che l’affitto",
+      "source": "Euronews Italiano",
+      "summary": "Secondo un sondaggio, sette spagnoli su dieci ritengono più economico acquistare casa che affittare, mentre cresce il timore di una nuova bolla immobiliare.",
+      "link": "http://it.euronews.com/business/2026/07/13/il-circolo-vizioso-degli-affitti-in-spagna-per-il-71-conviene-il-mutuo",
+      "publishedAt": "2026-07-13T08:57:45.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Europa spreca energia rinnovabile: governi puntano sullo stoccaggio",
+      "source": "Euronews Italiano",
+      "summary": "Nonostante la produzione record di elettricità verde, molta energia va sprecata. I governi Ue investono nello stoccaggio per renderla più affidabile e ridurre i fossili.",
+      "link": "http://it.euronews.com/my-europe/2026/07/13/energia-pulita-sprecata-in-europa-perche-succede-ancora-partecipa-al-sondaggio",
+      "publishedAt": "2026-07-13T08:39:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Legge elettorale, emendamenti di Fdi, Nm e Udc sulle preferenze",
+      "source": "Il Sole 24 Ore",
+      "summary": "Scade lunedì il termine per gli emendamenti alla legge elettorale. Resta l’ipotesi della fiducia, con emendamenti di Fdi, Noi Moderati e Udc per modificare le preferenze.",
+      "link": "https://www.ilsole24ore.com/art/legge-elettorale-oggi-testo-camera-martedi-battaglia-aula-AJFM5lG",
+      "publishedAt": "2026-07-13T06:30:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 170,
+    "articlesAfterDedup": 169,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 12,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10.8,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 3,
+      "environment": 3,
+      "society": 1,
+      "science": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 8,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 8
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

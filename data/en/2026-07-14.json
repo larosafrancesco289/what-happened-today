@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-14",
+  "summary": "The U.S. struck Iran for a third straight night, as President Trump announced a 20 percent fee on cargo shipped through the Strait of Hormuz. Iran retaliated by attacking two tankers in the waterway, escalating a confrontation that now threatens global oil shipments. The blockade on Iranian ships, reinstated by Trump, follows weeks of rising tensions over the strategic chokepoint. The upshot: shipping costs through the strait are set to rise sharply, and the risk of a broader military conflict in the Gulf is higher than it has been in years.\n\nIn Thailand, the death toll from a Bangkok bar fire climbed to 30, with 24 others critically injured. Police are investigating whether blocked exits contributed to the high number of casualties. The bar's owner issued a public apology and promised to cooperate with the probe. An initial assessment blamed an electrical short circuit in an air conditioner. The fire is the deadliest in the city in 17 years. Meanwhile, China's anti-corruption campaign ensnared a third member of the Politburo, deepening President Xi Jinping's purge of senior party figures. The official, whose name has not been released, is the latest in a yearslong crackdown that has reached the highest levels of government and the military.\n\nJapan took a historic step by building its first centralized intelligence agency since World War II, turning to Western allies for help as threats from Russia and China grow. Prime Minister Sanae Takaichi said the agency would improve coordination among Japan's fragmented intelligence services. Elsewhere, China's chip exports nearly doubled in the first half of 2026, surging 96 percent year-on-year to $177.28 billion, driven by global demand for AI computing hardware. The data underscores how semiconductors have become a key economic engine for China. In the U.S., a federal judge voided a $1.8 billion tax settlement between Donald Trump and the IRS, ruling the suit was brought for improper purposes. The judge referred a Trump attorney for possible disciplinary action.",
+  "headlines": [
+    {
+      "title": "U.S. Strikes Iran for Third Night, Imposes 20% Fee on Strait of Hormuz Cargo",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Wall Street Journal World",
+        "The Hindu",
+        "Japan Times",
+        "Al Jazeera English"
+      ],
+      "summary": "President Trump reinstated a blockade on Iranian ships and announced a 20% fee on cargo through the Strait of Hormuz, as U.S. launched a third night of strikes. Iran attacked two tankers in retaliation.",
+      "link": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+      "publishedAt": "2026-07-14T07:59:13.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Bangkok Bar Fire Death Toll Reaches 30 as Police Probe Negligence",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "Al Jazeera English"
+      ],
+      "summary": "The death toll from the Bangkok bar fire rose to 30, with 24 critically injured. Police investigate whether blocked exits contributed, as the owner apologizes.",
+      "link": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand",
+      "publishedAt": "2026-07-14T05:06:28.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "China Purges Third Politburo Member in Deepening Anti-Graft Campaign",
+      "source": "Japan Times",
+      "singleSource": true,
+      "summary": "China's corruption crackdown ensnares another senior Communist Party official, the third Politburo member purged under President Xi Jinping's campaign.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/14/asia-pacific/politics/china-purge-politburo-graft/",
+      "publishedAt": "2026-07-14T08:06:00.000Z",
+      "tier": "top",
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Japan Builds First Centralized Intelligence Agency Since World War II",
+      "source": "New York Times World",
+      "singleSource": true,
+      "summary": "Facing threats from Russia and China, Japan creates a centralized intelligence agency with Western help, a first since WWII.",
+      "link": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
+      "publishedAt": "2026-07-13T12:57:30.000Z",
+      "tier": "also",
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "China's Chip Exports Nearly Double in First Half of 2026 Amid Global AI Boom",
+      "source": "South China Morning Post",
+      "singleSource": true,
+      "summary": "China's integrated circuit exports surged 96% year-on-year to $177.28 billion in H1 2026, driven by global AI demand.",
+      "link": "https://www.scmp.com/tech/article/3360503/global-ai-boom-sees-chinas-chip-exports-nearly-double-first-half-year?utm_source=rss_feed",
+      "publishedAt": "2026-07-14T07:59:17.000Z",
+      "tier": "also",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "US Judge Voids Trump's $1.8 Billion IRS Settlement, Cites Improper Purpose",
+      "source": "BBC World",
+      "singleSource": true,
+      "summary": "A federal judge invalidated Donald Trump's $1.8 billion tax settlement with the IRS, ruling it was brought for improper purposes and referring Trump's attorney for possible discipline.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-13T18:52:46.000Z",
+      "tier": "also",
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 401,
+    "articlesAfterDedup": 400,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 19.5,
+    "categoryCounts": {
+      "conflict": 1,
+      "society": 1,
+      "politics": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "asia-pacific": 4,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-14",
+  "summary": "Donald Trump ha annunciato la ripresa delle ostilità contro l'Iran, minacciando di bloccare lo Stretto di Hormuz e colpire siti nucleari. La Casa Bianca ha comunicato al Congresso l'intenzione di imporre un pedaggio del 20% per il transito delle navi. È un'escalation significativa dopo gli attacchi della scorsa settimana tra Iran e Stati Uniti, e rischia di far impennare i prezzi del petrolio. Il mondo osserva con attenzione: Teheran ha già definito la mossa una \"dichiarazione di guerra\".\n\nIntanto, in Thailandia un incendio in un bar di Bangkok ha ucciso almeno 27 persone e ferito 70. La polizia indaga su uscite bloccate e un impianto elettrico difettoso. Sul fronte ucraino, l'esercito di Kyiv ha annunciato di aver distrutto 11 navi della flotta ombra russa nel Mar d'Azov, tra petroliere e navi da carico, usando aerei SBS. L'operazione colpisce una delle rotte chiave per il commercio di greggio russo. L'UE ha risposto ai cyberattacchi russi convocando l'ambasciatore di Mosca e adottando il più ampio pacchetto di sanzioni informatiche, come annunciato da Kallas.\n\nIl caldo estremo continua a mietere vittime. Uno studio certifica che l'ondata di calore record in Europa ha causato 14mila decessi in più, rendendolo uno dei disastri climatici più letali del continente. In Italia le temperature toccano i 45 gradi, con 14 città da bollino rosso e lo zero termico oltre i 5.000 metri. A Firenze i rider hanno scioperato per le condizioni insostenibili.\n\nIn positivo, l'UE ha aperto un nuovo cluster nei negoziati di adesione con l'Ucraina, incentrato su diritti fondamentali e giustizia. Il presidente Byrne lo ha definito una pietra miliare. Infine, spunta un caso di spionaggio: politici e giornalisti italiani sono stati presi di mira da hacker sospetti russi tramite l'app Signal. Non si è trattato di un phishing di massa, ma di un attacco mirato a persone con accesso a informazioni delicate.",
+  "headlines": [
+    {
+      "title": "Trump minaccia blocco di Hormuz e siti nucleari, annuncia pedaggi per navi",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Donald Trump ha annunciato la ripresa delle ostilità contro l'Iran, minacciando di bloccare lo Stretto di Hormuz e colpire siti nucleari, chiedendo un pedaggio del 20% per il transito delle navi.",
+      "link": "https://www.repubblica.it/esteri/2026/07/14/news/trump_hormuz_nucleare_iran-425469107/?rss",
+      "publishedAt": "2026-07-13T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Incendio in bar di Bangkok: 27 morti e 70 feriti, indagini in corso",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Almeno 27 persone sono morte e 70 ferite in un incendio in un bar di Bangkok. La polizia indaga su uscite bloccate e un impianto elettrico difettoso nel locale, aperto da 50 anni.",
+      "link": "http://it.euronews.com/video/2026/07/14/incendio-mortale-in-un-bar-di-bangkok-fiori-e-rilievi-forensi-dopo-27-morti",
+      "publishedAt": "2026-07-14T06:51:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Aerei ucraini abbattono 11 navi della flotta ombra russa nel Mar d'Azov",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "L'esercito ucraino ha annunciato di aver distrutto 11 navi russe, tra petroliere e navi da carico, nel Mar d'Azov utilizzando aerei SBS. L'operazione colpisce la flotta ombra russa.",
+      "link": "https://www.rainews.it/video/2026/07/aerei-sbs-ucraini-abbattono-altre-11-navi-della-flotta-ombra-russa-nel-mar-dazov-video-0e282206-63d8-467a-97d5-a23a3b036052.html",
+      "publishedAt": "2026-07-14T07:58:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Caldo estremo in Europa causa 14mila decessi in più, uno dei disastri climatici più letali",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Le analisi dei ricercatori certificano che il caldo record ha causato 14mila decessi in più in Europa, rendendolo uno dei disastri climatici più letali del continente. Il dato emerge da uno studio sulle temperature estreme.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/caldo-europa-14mila-decessi-rispetto-anni-scorsi_114401948-202602k.shtml",
+      "publishedAt": "2026-07-14T08:21:53.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ue convoca ambasciatore russo per cyberattacchi e adotta maxi-pacchetto sanzioni",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "L'Alta rappresentante Kallas ha annunciato la convocazione dell'ambasciatore russo e l'adozione del più ampio pacchetto di sanzioni informatiche per i cyberattacchi russi contro l'UE.",
+      "link": "https://www.rainews.it/articoli/2026/07/ue-kallas-convocheremo-ambasciatore-russo-per-cyberattacchi-la-stretta-la-guerra-ibrida-78ff322d-2e6d-4a3f-abfd-2cf770990714.html",
+      "publishedAt": "2026-07-14T07:03:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ue apre nuovo cluster nei negoziati di adesione con l'Ucraina, Byrne: tappa importante",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "L'Ue ha aperto un nuovo cluster nei negoziati di adesione con l'Ucraina, definito dal presidente Byrne come una pietra miliare. Il cluster riguarda i diritti fondamentali e la giustizia.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/ue-nuovo-cluster-negoziati-adesione-ucraina_114401874-202602k.shtml",
+      "publishedAt": "2026-07-14T07:47:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Kyiv: esercito russo ha giustiziato centinaia di prigionieri di guerra ucraini dal 2022",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Un rapporto ONU ha verificato 129 esecuzioni di prigionieri di guerra ucraini. Kyiv accusa l'esercito russo di averne giustiziati centinaia dal 2022, con un netto aumento segnalato lo scorso anno.",
+      "link": "http://it.euronews.com/my-europe/2026/07/14/kyiv-lesercito-russo-ha-giustiziato-centinaia-di-prigionieri-di-guerra-ucraini-dal-2022",
+      "publishedAt": "2026-07-14T06:50:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Politici e giornalisti italiani spiati sull'app Signal, sospetti hacker russi",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Individuata una lista di politici e giornalisti italiani spiati tramite l'app Signal. Non si tratta di una phishing di massa, ma di un attacco mirato. Sospetti su hacker russi.",
+      "link": "https://www.repubblica.it/esteri/2026/07/14/news/signal_politici_e_giornalisti_spiati_hacker_russi-425469102/?rss",
+      "publishedAt": "2026-07-13T23:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia bollente: caldo record fino a 45 gradi, giovedì il picco, città da bollino rosso",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "L'ondata di caldo subtropicale porta temperature fino a 45°C in Italia, con zero termico oltre 5.000 metri. Giovedì il picco. 14 città da bollino rosso, allerta sanitaria. A Firenze sciopero dei rider.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/caldo-emergenza-citta-bollini-rossi-allerta_114398697-202602k.shtml",
+      "publishedAt": "2026-07-14T07:43:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 171,
+    "articlesAfterDedup": 171,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 12,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.5,
+    "categoryCounts": {
+      "conflict": 3,
+      "society": 1,
+      "environment": 2,
+      "politics": 3
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "asia-pacific": 1,
+      "europe": 7
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

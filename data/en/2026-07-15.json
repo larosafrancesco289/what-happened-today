@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-15",
+  "summary": "For a third night, U.S. airstrikes hit an Iranian army base, killing at least seven and wounding over 260. Iran retaliated by striking a target in Jordan. Washington reinstated its blockade on Iranian ports, sending oil prices higher. The strikes are the latest escalation in a conflict that has drawn in regional powers and raised fears of a wider war.\n\nIn Ukraine, a Russian strike on the port city of Odesa killed three people, a local official reported, as European Commission President Ursula von der Leyen arrived in Kyiv to announce new defense initiatives. Overnight, Ukraine said it struck 20 Russian vessels in the Black Sea, including gas tankers. Separately, France’s National Assembly gave final approval to a bill allowing adults with incurable illnesses to receive lethal medication, ending years of debate over end-of-life care. In the Philippines, schools in Manila began active shooter drills after a rare attack in Tacloban City where two students killed three and injured 20.\n\nChina’s economy grew 4.3% in the latest quarter, its slowest since 2022 and below the government’s target of 4.5-5%, as a real estate slump, weak consumption, and job market challenges persist. The European Union banned imports of gold from Sudan to cut off funding for the warring parties. On a brighter note, global childhood immunization reached 90% for the first dose of the DTP vaccine in 2025, according to WHO and UNICEF data, with 85% completing the full series. And in Brussels, a fire at the Oxy building trapped six people in an elevator, killing them; the cause is under investigation.",
+  "headlines": [
+    {
+      "title": "U.S. Airstrikes Kill Seven at Iranian Army Base as Blockade Resumes",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "Al Jazeera English",
+        "New York Times World"
+      ],
+      "summary": "U.S. strikes kill at least seven and wound over 260 at an Iranian army base; Tehran retaliates by attacking Jordan. Oil prices rise as Washington reinstates a blockade on Iranian ports.",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-washington-strikes-tehran-donald-trump-peace-deal-strait-of-hormuz-live-updates-july-15-2026/article71223849.ece",
+      "publishedAt": "2026-07-15T08:29:10.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russian Strike Kills Three in Odesa as EU Chief Visits Kyiv for Defense Talks",
+      "source": "France 24",
+      "summary": "A Russian strike on Odesa kills three as European Commission President Ursula von der Leyen arrives in Kyiv to announce new defense initiatives. Ukraine also strikes 20 Russian vessels in the Black Sea.",
+      "link": "https://www.france24.com/en/europe/20260715-deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-with-defence-plans",
+      "publishedAt": "2026-07-15T06:01:15.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "France Approves Assisted Dying Bill for Adults with Incurable Illnesses",
+      "source": "France 24",
+      "summary": "France's National Assembly gives final approval to a bill allowing adults with incurable diseases to receive lethal medication, ending years of debate on end-of-life care.",
+      "link": "https://www.france24.com/en/france/20260715-france-expected-to-pass-final-vote-on-assisted-dying-after-years-of-debate",
+      "publishedAt": "2026-07-15T05:25:11.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Philippines Launches Active Shooter Drills After Tacloban School Shooting",
+      "source": "South China Morning Post",
+      "summary": "Schools in Manila begin active shooter drills after a rare attack in Tacloban City where two students killed three and injured 20. Hundreds practice barricading classrooms.",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3360653/philippines-starts-active-school-shooter-drills-after-deadly-attack-tacloban-city?utm_source=rss_feed",
+      "publishedAt": "2026-07-15T08:29:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "China's 4.3% GDP Growth Raises Concerns Over Economic Slowdown",
+      "source": "The Hindu",
+      "summary": "China posts its slowest GDP growth since 2022 at 4.3%, below the government's 4.5-5% target, amid real estate slump, weak consumption, and job market challenges.",
+      "link": "https://www.thehindu.com/business/why-chinas-43-growth-is-worrying-its-government-explainer/article71224721.ece",
+      "publishedAt": "2026-07-15T08:33:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "EU Bans Sudan Gold Imports to Cut Funding for War",
+      "source": "AllAfrica",
+      "summary": "The European Union bans imports of gold from Sudan to reduce revenue fueling the conflict. The measure targets a key source of funding for warring parties.",
+      "link": "https://allafrica.com/stories/202607150120.html",
+      "publishedAt": "2026-07-15T06:42:01.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Global Childhood Immunization Reaches 90% for First Vaccine Dose, WHO Reports",
+      "source": "AllAfrica",
+      "summary": "In 2025, 90% of infants received at least one DTP vaccine dose, and 85% completed the full series, according to WHO and UNICEF data. Progress continues despite conflict and hesitancy.",
+      "link": "https://allafrica.com/stories/202607150069.html",
+      "publishedAt": "2026-07-15T04:57:38.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Six Die in Elevator After Fire Breaks Out in Brussels Office Tower",
+      "source": "New York Times World",
+      "summary": "A fire at the Oxy building in central Brussels traps six people in an elevator, killing them. The cause of the fire is under investigation.",
+      "link": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+      "publishedAt": "2026-07-15T07:01:30.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 405,
+    "articlesAfterDedup": 404,
+    "articlesAfterDiversity": 60,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.6,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 1,
+      "society": 2,
+      "economy": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4,
+      "asia-pacific": 2,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

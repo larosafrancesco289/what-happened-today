@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-15",
+  "summary": "Les États-Unis ont frappé la ville iranienne de Bouchehr et d'autres sites dans le sud-est du pays, faisant sept morts parmi les militaires iraniens, a annoncé le gouverneur local. En représailles, l'Iran a fermé le détroit d'Ormuz jusqu'à la fin des « actes d'agression », accentuant la crise régionale. Téhéran maintient sa position, tandis que Washington n'a pas commenté officiellement. Ce blocage du détroit stratégique pourrait perturber les approvisionnements pétroliers mondiaux.\n\nEn France, l'Assemblée nationale doit adopter ce mercredi la proposition de loi sur l'aide à mourir portée par Emmanuel Macron, après des mois de débats. Le vote final est attendu dans l'après-midi. Par ailleurs, la ministre des Sports Marina Ferrari a alerté sur 142 décès par noyade depuis le 19 juin, en hausse de 20% par rapport à l'été dernier. Plus de la moitié surviennent dans des zones non surveillées. Sur le plan économique, la Banque de France propose de relever le taux du Livret A à 1,7% en août, en raison du rebond de l'inflation lié à la guerre au Moyen-Orient. Bercy doit confirmer.\n\nEn Espagne, les autorités ont identifié les 13 victimes de l'incendie de Los Gallardos en Andalousie : douze étrangers, dont sept Britanniques, et un Espagnol. L'enquête se poursuit. Au Royaume-Uni, le gouvernement a annoncé un couvre-feu nocturne sur les réseaux sociaux pour les adolescents de 16 et 17 ans, en plus de l'interdiction totale pour les moins de 16 ans, afin de protéger leur santé mentale.\n\nLa croissance chinoise a ralenti à 4,3% au deuxième trimestre, son plus faible taux depuis trois ans, freinée par la consommation intérieure et la crise immobilière, mais les exportations ont atteint un record. Enfin, les négociations entre Israël et le Liban à Rome ont progressé sur le retrait israélien de deux zones du sud du Liban ; les discussions reprennent ce mercredi pour finaliser l'accord. Par ailleurs, d'anciens détenus palestiniens libérés dénoncent des violences sexuelles systématiques dans les prisons israéliennes, appelant à une enquête indépendante.",
+  "headlines": [
+    {
+      "title": "Les États-Unis frappent Bouchehr en Iran, Téhéran maintient le détroit d'Ormuz fermé",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "20 Minutes",
+        "France Info"
+      ],
+      "summary": "De nouvelles frappes américaines visent la ville iranienne de Bouchehr, faisant sept morts dans le sud-est. L'Iran ferme le détroit d'Ormuz jusqu'à la fin des « actes d'agression », accentuant la crise régionale.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-des-etats-unis-dit-l-iran_6722873_3210.html",
+      "publishedAt": "2026-07-15T05:10:44.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur les frappes à Bouchehr avec les déclarations du gouverneur iranien",
+          "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-des-etats-unis-dit-l-iran_6722873_3210.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Titre général sur les frappes en Iran et la fermeture du détroit d'Ormuz",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4234553-20260715-direct-guerre-moyen-orient-frappes-americaines-iran-trump-menace-detruire-centrales-electriques?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France Info",
+          "angle": "Met l'accent sur la fermeture du détroit d'Ormuz comme riposte iranienne",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-iran-affirme-que-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-americains_8108381.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'Assemblée nationale adopte la proposition de loi sur l'aide à mourir",
+      "source": "Le Monde",
+      "summary": "Après des mois de débat, l'Assemblée adopte ce mercredi la loi sur l'aide à mourir portée par Emmanuel Macron, qui a surmonté ses doutes. Le vote final est attendu dans l'après-midi.",
+      "link": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-l-aide-a-mourir-un-long-cheminement-pour-emmanuel-macron_6723495_823448.html",
+      "publishedAt": "2026-07-15T04:00:14.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Incendie en Espagne : 12 étrangers parmi les 13 morts identifiés à Los Gallardos",
+      "source": "20 Minutes",
+      "summary": "Les autorités espagnoles identifient les 13 victimes de l'incendie à Los Gallardos, dont 12 étrangers (7 Britanniques). L'enquête se poursuit pour déterminer les causes du sinistre.",
+      "link": "https://www.20minutes.fr/monde/espagne/4234565-20260715-incendie-espagne-toutes-victimes-identifiees-12-etrangers-dont-7-britanniques-parmi-13-morts?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-15T05:51:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "La Banque de France propose un taux du Livret A à 1,7 % en août",
+      "source": "Le Figaro",
+      "summary": "Face au rebond de l'inflation dû à la guerre au Moyen-Orient, la Banque de France suggère de relever le taux du Livret A à 1,7 % en août. Bercy doit confirmer la décision.",
+      "link": "https://www.lefigaro.fr/conjoncture/livret-a-la-banque-de-france-propose-de-relever-son-taux-a-1-7-en-aout-20260715",
+      "publishedAt": "2026-07-15T08:17:01.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Royaume-Uni instaure un couvre-feu nocturne sur les réseaux sociaux pour les adolescents",
+      "source": "20 Minutes",
+      "summary": "Le gouvernement britannique annonce un couvre-feu nocturne sur les réseaux sociaux pour les 16-17 ans, en complément de l'interdiction totale pour les moins de 16 ans, pour protéger la santé mentale.",
+      "link": "https://www.20minutes.fr/monde/royaume-uni/4234570-20260715-reseaux-sociaux-quoi-couvre-feu-adolescents-decide-royaume-uni?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-15T07:21:09.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "142 noyades mortelles en France depuis le début de l'été, alerte la ministre des Sports",
+      "source": "France Info",
+      "summary": "La ministre des Sports Marina Ferrari annonce 142 décès par noyade depuis le 19 juin, en hausse de 20 % par rapport à 2025. Plus de la moitié surviennent dans des zones non surveillées.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-est-levee-mais-69-departements-restent-en-vigilance-orange-et-11-sont-concernes-par-un-risque-d-orages_8108324.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-07-15T07:43:41.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "La croissance chinoise ralentit à 4,3 % mais les exportations atteignent un record",
+      "source": "France 24",
+      "summary": "Au deuxième trimestre 2026, l'économie chinoise croît de 4,3 %, son plus faible taux depuis trois ans, freinée par la consommation intérieure et l'immobilier, tandis que les exportations battent des records.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260715-la-chine-ralentit-mais-ses-exportations-battent-des-records-economie-chinoise",
+      "publishedAt": "2026-07-15T08:10:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Israël et le Liban progressent sur le retrait israélien du sud du Liban à Rome",
+      "source": "20 Minutes",
+      "summary": "Les négociations à Rome entre Israël et le Liban aboutissent à des avancées sur le retrait de deux zones. Les discussions reprennent ce mercredi pour finaliser l'accord.",
+      "link": "https://www.20minutes.fr/monde/israel/4234535-20260715-guerre-moyen-orient-rome-israel-dit-pret-avancer-retrait-sud-liban?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-14T22:24:52.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Les négociations de paix entre Israël et le Liban ont repris à Rome, avec des enjeux majeurs sur la démarcation de la frontière et le retrait des forces israéliennes du sud du Liban.",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "D'anciens détenus palestiniens dénoncent des abus sexuels dans les prisons israéliennes",
+      "source": "RTBF (Belgian)",
+      "summary": "Selon le coordinateur Youssef al-Amayreh, des détenus palestiniens libérés rapportent des actes de violence sexuelle systématiques dans les prisons israéliennes. Des organisations appellent à une enquête indépendante.",
+      "link": "https://www.rtbf.be/article/guerre-au-proche-orient-d-anciens-detenus-palestiniens-denoncent-des-abus-sexuels-dans-les-prisons-israeliennes-11757892",
+      "publishedAt": "2026-07-14T18:12:20.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Des allégations d'abus sexuels commis par les autorités israéliennes sur des prisonniers palestiniens ont émergé, suscitant des réactions internationales et des demandes d'enquête.",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "society",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 215,
+    "articlesAfterDedup": 212,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 14.4,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 3,
+      "environment": 1,
+      "economy": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 5,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 5,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

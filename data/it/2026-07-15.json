@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-15",
+  "summary": "La notizia più pesante arriva dal Golfo. I Pasdaran iraniani hanno bloccato lo Stretto di Hormuz lanciando missili su cargo e petroliere. Gli Stati Uniti hanno risposto bombardando decine di obiettivi costieri. Trump ha ritirato la minaccia di pedaggi sulle navi, e il petrolio è in rialzo. È uno scontro diretto che fa temere un allargamento del conflitto in Medio Oriente.\n\nIn Ucraina, due sviluppi. Ursula von der Leyen è arrivata a Kiev per l'undicesima volta, con un vertice Ue su adesione e produzione bellica. E Kiev ha impiegato per la prima volta un tank robot autonomo, sbarcato da una nave senza equipaggio, per distruggere bunker russi sul Dnipro. L'esercito ucraino dice di poter replicare su larga scala, magari in Crimea.\n\nIn Italia, la Cassazione ha confermato l'ergastolo per genitori e cugini di Saman Abbas, uccisa a Novellara nel 2021. È una sentenza definitiva che chiude la vicenda giudiziaria. Intanto a Roma continuano i negoziati tra Israele e Libano sul ritiro israeliano dal Libano, ospitati all'ambasciata Usa.\n\nL'economia cinese cresce al ritmo più lento dal 2022: 4,3% nel secondo trimestre, frenata dalla crisi immobiliare e dalla domanda interna debole. Pechino è sotto pressione per nuovi stimoli. In Romania, la siccità ha ridotto il Danubio ai minimi da vent'anni, bloccando la navigazione e l'irrigazione. Infine, una barca è affondata vicino ad Alcatraz durante una commemorazione: un morto, tre dispersi, sedici salvati. Le ricerche sono proseguite tutta la notte.",
+  "headlines": [
+    {
+      "title": "Pasdaran bloccano Hormuz con missili, USA bombardano coste iraniane",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "I Pasdaran iraniani hanno bloccato lo Stretto di Hormuz lanciando missili su cargo e petroliere. Gli USA hanno bombardato decine di obiettivi costieri. Trump ha ritirato la minaccia di pedaggi. Il petrolio è in rialzo.",
+      "link": "https://www.repubblica.it/esteri/2026/07/15/news/i_pasdaran_bloccano_hormuz_missili_su_cargo_e_petroliere_e_trump_batte_in_ritirata_sui_pedaggi-425471033/?rss",
+      "publishedAt": "2026-07-14T23:00:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Apre con il blocco di Hormuz e i missili, poi il ritiro di Trump",
+          "link": "https://www.repubblica.it/esteri/2026/07/15/news/i_pasdaran_bloccano_hormuz_missili_su_cargo_e_petroliere_e_trump_batte_in_ritirata_sui_pedaggi-425471033/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta dichiarazioni di Trump e Pasdaran, e bombardamenti Centcom",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-15-luglio_114428245-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ursula von der Leyen arriva a Kiev per vertice Ue su adesione e difesa",
+      "source": "Rai News",
+      "summary": "La presidente della Commissione Ue è a Kiev per l'undicesima visita. Discute di adesione e riarmo con delegazioni europee arrivate per un vertice sulla produzione bellica.",
+      "link": "https://www.rainews.it/video/2026/07/ursula-von-der-leyen-vonderleyen-just-arrived-in-kyiv-for-my-11th-visit-to-ukraine-in-wartime-3b479a2b-1aa4-439d-977c-79ec0db3ad42.html",
+      "publishedAt": "2026-07-15T08:09:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Crescita Cina al 4,3%, ritmo più lento da fine 2022 per crisi immobiliare",
+      "source": "Euronews Italiano",
+      "summary": "L'economia cinese è cresciuta del 4,3% nel secondo trimestre, il tasso più basso dal 2022, per domanda interna debole e crisi immobiliare. Pechino sotto pressione per nuovi sostegni.",
+      "link": "http://it.euronews.com/business/2026/07/15/crescita-economica-della-cina-al-ritmo-piu-lento-da-oltre-tre-anni",
+      "publishedAt": "2026-07-15T08:16:55.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Omicidio Saman, Cassazione conferma ergastolo per familiari",
+      "source": "Il Sole 24 Ore",
+      "summary": "La Corte di Cassazione ha reso definitive le condanne all'ergastolo per genitori e cugini di Saman Abbas, uccisa a Novellara nel 2021, rigettando i ricorsi.",
+      "link": "https://www.ilsole24ore.com/art/omicidio-saman-definitive-condanne-i-familiari-AJ16FSK",
+      "publishedAt": "2026-07-15T08:36:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "A Roma secondo giorno negoziati Israele-Libano sul ritiro",
+      "source": "Il Sole 24 Ore",
+      "summary": "Delegazioni israeliane e libanesi si incontrano all'ambasciata Usa a Roma per la seconda giornata di colloqui, con focus sul ritiro dell'esercito israeliano dal Libano.",
+      "link": "https://www.ilsole24ore.com/art/a-roma-secondo-giorno-negoziati-israele-e-libano-ambasciatori-cercano-accordo-ritiro-dell-esercito-israeliano-AJpPCIJ",
+      "publishedAt": "2026-07-15T05:39:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Siccità record in Romania: Danubio ai minimi, trasporti bloccati",
+      "source": "Euronews Italiano",
+      "summary": "L'ondata di caldo ha ridotto il Danubio ai minimi da vent'anni, paralizzando navigazione e irrigazione. Navi commerciali e turistiche ferme, campagne a secco.",
+      "link": "http://it.euronews.com/my-europe/2026/07/15/siccita-record-in-romania-il-danubio-si-prosciuga-trasporti-e-agricoltura-in-crisi",
+      "publishedAt": "2026-07-15T08:26:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ucraina usa tank robot autonomo per sbarcare sul Dnipro",
+      "source": "la Repubblica",
+      "summary": "Kiev ha impiegato un veicolo cingolato senza equipaggio, sbarcato da una nave robot, per distruggere bunker russi nelle isole del Dnipro. Possibile uso in Crimea.",
+      "link": "https://www.repubblica.it/esteri/2026/07/15/news/robot_marines_ucraina_guerra_dnipro_tank-425471700/?rss",
+      "publishedAt": "2026-07-15T08:13:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tragedia ad Alcatraz: barca affonda, un morto e tre dispersi",
+      "source": "Rai News",
+      "summary": "Un'imbarcazione con una famiglia è affondata vicino ad Alcatraz durante una commemorazione. Un morto, tre dispersi, 16 salvati. Ricerche proseguite per tutta la notte.",
+      "link": "https://www.rainews.it/video/2026/07/tragedia-davanti-ad-alcatraz-affonda-una-barca-a-bordo-una-famiglia-riunita-per-una-commemorazione-e15ef7cb-db5b-4ac5-aed8-76811b1ee5ec.html",
+      "publishedAt": "2026-07-15T08:05:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 168,
+    "articlesAfterDedup": 167,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.6,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 2,
+      "economy": 1,
+      "society": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 4,
+      "asia-pacific": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

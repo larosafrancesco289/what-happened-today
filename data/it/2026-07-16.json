@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-16",
+  "summary": "Il tribunale di Genova ha emesso oggi la sentenza di primo grado per il crollo del Ponte Morandi, il viadotto autostradale crollato il 14 agosto 2018 causando 43 morti. Tra gli imputati c'è l'ex amministratore delegato di Aspi, Giovanni Castellucci. La decisione arriva dopo un lungo processo e segna un momento chiave per la giustizia italiana su una delle tragedie più discusse degli ultimi anni.\n\nSul fronte internazionale, gli Stati Uniti hanno condotto nuovi raid in Iran e nel Golfo, mentre il primo ministro israeliano Benjamin Netanyahu si reca a Washington per un summit. L'escalation militare fa temere per le scorte petrolifere: le riserve americane sono al livello più basso dal 1983, con il rischio di una crisi energetica globale. La situazione resta tesa, anche se non si esclude l'impiego di truppe di terra.\n\nIn Ucraina, il premier britannico uscente Keir Starmer ha visitato Kiev per assicurare che il sostegno del Regno Unito continuerà dopo le sue dimissioni. Contemporaneamente, la presidente della Commissione Ue Ursula von der Leyen ha annunciato a Kiev il \"Drone Deal\", un accordo per la produzione congiunta di droni tra Ue e Ucraina. Tuttavia, il presidente ucraino Volodymyr Zelensky ha licenziato il ministro della difesa Mykhailo Fedorov, responsabile del programma droni, dopo uno scontro con il generale Syrsky accusato di corruzione.\n\nIn Italia, l'Istat ha confermato l'inflazione di giugno al 3% su anno, con una riduzione del carrello della spesa (da +1,9% a +1,3%) e un'inflazione di fondo in leggero calo. Intanto la premier Giorgia Meloni prosegue sulla riforma elettorale dopo la bocciatura dell'emendamento sulle preferenze, allontanando l'ipotesi di crisi di governo. Infine, in Algeria un incendio in un orfanotrofio ha causato almeno 11 morti e 19 feriti, con il premier Sifi Ghrieb recatosi negli ospedali.",
+  "headlines": [
+    {
+      "title": "Il tribunale di Genova emette la sentenza di primo grado per il crollo del Ponte Morandi",
+      "source": "Rai News",
+      "summary": "Il tribunale di Genova emette la sentenza di primo grado per il crollo del viadotto autostradale del 14 agosto 2018, che causò 43 morti. Tra gli imputati l'ex ad di Aspi Giovanni Castellucci.",
+      "link": "https://www.rainews.it/articoli/2026/07/ponte-morandi-dopo-8-anni-a-genova-il-giorno-della-sentenza-di-primo-grado-0765f107-011d-4de3-9018-65369d842adc.html",
+      "publishedAt": "2026-07-16T07:57:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Nuovi raid in Iran e nel Golfo, Netanyahu va alla Casa Bianca per summit",
+      "source": "la Repubblica",
+      "summary": "Gli Stati Uniti conducono nuovi raid in Iran e nel Golfo mentre il premier israeliano Netanyahu si reca a Washington per un summit. Possibile escalation con rischi per le scorte petrolifere.",
+      "link": "https://www.repubblica.it/esteri/2026/07/16/news/nuovi_raid_iran_golfo_negoziati_stallo_rischio_nuova_escalation-425473422/?rss",
+      "publishedAt": "2026-07-15T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Incendio in un orfanotrofio in Algeria, almeno 11 morti e 19 feriti",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "TGCOM24"
+      ],
+      "summary": "Un incendio divampa in un orfanotrofio in Algeria, causando almeno 11 morti e 19 feriti. Il premier Sifi Ghrieb si reca negli ospedali per verificare le condizioni dei feriti.",
+      "link": "https://www.rainews.it/articoli/2026/07/incendio-in-un-orfanotrofio-in-algeria-morti-feriti-339bdc7c-120b-4d4a-b2b4-1a719bb80d19.html",
+      "publishedAt": "2026-07-16T07:36:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Ha riportato il numero dei morti e l'aggiornamento della protezione civile",
+          "link": "https://www.rainews.it/articoli/2026/07/incendio-in-un-orfanotrofio-in-algeria-morti-feriti-339bdc7c-120b-4d4a-b2b4-1a719bb80d19.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha aggiunto il numero dei feriti (19) e la visita del premier",
+          "link": "https://www.tgcom24.mediaset.it/mondo/algeria-incendio-orfanotrofio_114468711-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Toronto registra la peggior qualità dell'aria al mondo per fumo degli incendi",
+      "source": "Euronews Italiano",
+      "summary": "Il fumo degli incendi nel nord-ovest dell'Ontario ha avvolto Toronto il 15 luglio, causando la peggiore qualità dell'aria al mondo secondo IQAir.",
+      "link": "http://it.euronews.com/video/2026/07/16/toronto-soffocata-dal-fumo-degli-incendi-registra-la-peggior-qualita-dellaria-al-mondo",
+      "publishedAt": "2026-07-16T08:01:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Tre vincitori di Area Sanremo arrestati a Roma per tortura e sequestro",
+      "source": "Rai News",
+      "summary": "Tre giovani vincitori del concorso 'Area Sanremo 2025' arrestati con l'accusa di tortura e sequestro per un violento pestaggio in un B&B a Trastevere nell'ottobre 2025.",
+      "link": "https://www.rainews.it/articoli/2026/07/roma-tre-giovani-vincitori-di-area-sanremo2025-arrestati-per-tortura-e-sequestro-d9f40834-3ea4-4a1c-b7c2-5c51e7f0b762.html",
+      "publishedAt": "2026-07-16T07:24:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Starmer in Ucraina assicura il sostegno del Regno Unito dopo le dimissioni",
+      "source": "Euronews Italiano",
+      "summary": "Il primo ministro britannico uscente Starmer visita Kiev per garantire che il sostegno del Regno Unito all'Ucraina continuerà anche dopo le sue dimissioni.",
+      "link": "http://it.euronews.com/my-europe/2026/07/16/starmer-allucraina-il-sostegno-del-regno-unito-continuera-dopo-laddio",
+      "publishedAt": "2026-07-16T07:18:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Inflazione ferma a giugno al 3% su anno, conferma Istat",
+      "source": "Il Sole 24 Ore",
+      "summary": "L'Istat conferma l'inflazione di giugno al 3% su anno, con riduzione del carrello della spesa da +1,9% a +1,3% e inflazione di fondo da +1,7% a +1,6%.",
+      "link": "https://www.ilsole24ore.com/art/inflazione-istat-conferma-ferma-giugno-3percento-anno-AJuxwSL",
+      "publishedAt": "2026-07-16T08:04:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Meloni tira dritto sulla legge elettorale e allontana la crisi di governo",
+      "source": "Il Sole 24 Ore",
+      "summary": "La premier Meloni prosegue sulla riforma elettorale dopo la bocciatura dell'emendamento sulle preferenze, allontanando l'ipotesi di crisi di governo.",
+      "link": "https://www.ilsole24ore.com/art/legge-elettorale-meloni-tira-dritto-e-allontana-crisi-fari-puntati-tenuta-gruppi-AJ7m1zK",
+      "publishedAt": "2026-07-16T05:11:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Ue e Ucraina firmano accordo per la produzione congiunta di droni a Kiev",
+      "source": "la Repubblica",
+      "summary": "La presidente della Commissione Ue von der Leyen annuncia a Kiev il 'Drone Deal' per la produzione congiunta di droni. A settembre riunione a Bruxelles dei primi 18 membri.",
+      "link": "https://www.repubblica.it/esteri/2026/07/16/news/accordo_droni_ue_ucraina_cosa_prevede_produzione_congiunta-425473862/?rss",
+      "publishedAt": "2026-07-16T06:51:30.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "Ieri von der Leyen era a Kiev per il vertice Ue sulla difesa; oggi è stato annunciato l'accordo.",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky silura il ministro della difesa Fedorov, responsabile dei droni",
+      "source": "la Repubblica",
+      "summary": "Il presidente ucraino Zelensky licenzia il ministro della difesa Mykhailo Fedorov, che si era scontrato con il generale Syrsky accusato di corruzione.",
+      "link": "https://www.repubblica.it/esteri/2026/07/16/news/zelensky_licenzia_ministro_difesa_fedorov-425473399/?rss",
+      "publishedAt": "2026-07-15T23:00:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "Fedorov era responsabile del programma droni; oggi Zelensky lo ha silurato in seguito a conflitti interni.",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 169,
+    "articlesAfterDedup": 167,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 11,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.6,
+    "categoryCounts": {
+      "politics": 3,
+      "conflict": 3,
+      "society": 2,
+      "environment": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 7,
+      "middle-east": 1,
+      "africa": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

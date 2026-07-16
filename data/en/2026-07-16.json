@@ -1,0 +1,155 @@
+{
+  "date": "2026-07-16",
+  "summary": "The U.S. and Iran exchanged airstrikes for a fifth straight day on Thursday, pushing the death toll past 35, according to Iranian officials. At least 300 people have been wounded. Despite the escalation, a top Iranian official signaled openness to negotiations, saying, 'We must fear neither war nor negotiations.' The conflict has drawn global concern as the Strait of Hormuz remains a flashpoint. Separately, Iran released a U.S. citizen who had been detained for over a year, a move President Trump called a goodwill gesture amid the crisis. No prisoner exchange was reported.\n\nIn Ukraine, rare wartime protests broke out Thursday after President Volodymyr Zelensky removed popular Defence Minister Mykhailo Fedorov. Thousands demonstrated in multiple cities, demanding his reinstatement. The protests underscore growing tensions within the government as the war with Russia continues. Elsewhere, the UN reported that two boats carrying Rohingya refugees likely capsized in hazardous conditions, with over 500 people feared dead. The UN highlighted that thousands of Rohingya continue to undertake dangerous sea crossings, fleeing persecution in Myanmar.\n\nA former Moroccan domestic intelligence agent revealed that security services used Pegasus spyware from 2017 to target journalists, activists, and foreign officials, including French politicians and Spanish ministers. The NSO Group, which makes Pegasus, denied wrongdoing. In Algeria, a fire at an orphanage outside Algiers killed at least 11 people and wounded 19; investigations are underway. Human Rights Watch reported that Uganda's military is targeting opposition figures and journalists, violating fundamental rights. The Ugandan government has not commented.\n\nIn Hong Kong, Beijing used national security laws to arrest booksellers and publishers, targeting publications on sensitive topics such as the Tiananmen crackdown, further cowing the city's once-free literary scene. The arrests signal Beijing's determination to suppress dissent in the territory.",
+  "headlines": [
+    {
+      "title": "U.S. and Iran Exchange Strikes for Fifth Day as Death Toll Exceeds 35",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "BBC World",
+        "Al Jazeera English"
+      ],
+      "summary": "The U.S. and Iran continue airstrikes for a fifth consecutive day, with Iran reporting at least 35 killed and 300 wounded. A top Iranian official signals openness to negotiations.",
+      "link": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
+      "publishedAt": "2026-07-16T08:14:07.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Protests Erupt Across Ukraine After Zelensky Removes Popular Defence Minister",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Thousands of Ukrainians demonstrated on Thursday demanding President Zelensky reinstate Mykhailo Fedorov, a popular defence minister removed on Wednesday, marking rare wartime protests.",
+      "link": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine",
+      "publishedAt": "2026-07-16T07:34:49.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "UN Says More Than 500 Rohingya Feared Dead After Two Boats Capsize",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "summary": "The UN reports that two vessels carrying Rohingya refugees likely capsized in hazardous conditions, with over 500 feared dead. Thousands of Rohingya continue dangerous sea crossings.",
+      "link": "https://www.dw.com/en/myanmar-more-than-500-feared-dead-in-capsized-refugee-boats-un-says/a-77977875?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-16T06:30:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Moroccan Intelligence Whistleblower Exposes Widespread Pegasus Spyware Use",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "summary": "A former Moroccan domestic intelligence agent reveals that security services used Pegasus spyware from 2017 to target journalists, activists, and foreign officials. The NSO Group denies wrongdoing.",
+      "link": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "publishedAt": "2026-07-16T04:30:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Fire at Orphanage in Algeria Kills 11 and Wounds 19",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "A fire broke out at an orphanage outside Algiers on Thursday, killing at least 11 people and wounding 19, according to Algeria's civil defence. Investigations are underway.",
+      "link": "https://www.france24.com/en/africa/20260716-fire-at-orphanage-in-algeria-kills-11-and-wounds-19",
+      "publishedAt": "2026-07-16T07:48:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Ugandan Military Seizes Government Critics, Human Rights Watch Reports",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica"
+      ],
+      "summary": "Human Rights Watch reports that Uganda's military is targeting opposition figures and journalists, violating fundamental rights. The government has not commented on the allegations.",
+      "link": "https://allafrica.com/stories/202607160147.html",
+      "publishedAt": "2026-07-16T05:45:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "China Uses Security Laws to Suppress Hong Kong's Literary Scene",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "summary": "Beijing arrests booksellers and publishers under national security laws, targeting publications on sensitive topics like the Tiananmen crackdown, cowing Hong Kong's once-free literary scene.",
+      "link": "https://www.wsj.com/world/china/china-wields-security-laws-to-cow-hong-kongs-once-free-literary-scene-8eb39cfc",
+      "publishedAt": "2026-07-16T05:58:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran Allows U.S. Citizen Held for Over a Year to Leave, Trump Calls Gesture",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "summary": "Iran released a U.S. citizen detained for more than a year, a move President Trump called a goodwill gesture amid the escalating Strait of Hormuz crisis. No exchange reported.",
+      "link": "https://www.wsj.com/world/middle-east/iran-allows-u-s-citizen-it-held-for-more-than-a-year-to-leave-035b44e0",
+      "publishedAt": "2026-07-16T04:53:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 437,
+    "articlesAfterDedup": 435,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 4.1,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 3,
+      "society": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 1,
+      "asia-pacific": 2,
+      "africa": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

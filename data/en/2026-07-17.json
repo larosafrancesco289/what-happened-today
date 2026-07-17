@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-17",
+  "summary": "The United States and Iran traded strikes for a sixth night, escalating a conflict that now spans multiple countries. The U.S. targeted Iranian bridges and infrastructure, killing at least seven. Iran retaliated by striking Bahrain, Qatar, Oman, Jordan, and Syria. Tensions are rising over the Strait of Hormuz, where the U.S. Navy boarded a ship. The upshot: a widening regional confrontation with no off-ramp in sight.\n\nElsewhere, a school bus crash in Uganda killed at least 23 pupils from King David Junior School during a field trip in Kapchorwa District. The cause remains unclear. More than 500 Rohingya are feared dead after two boats that left Myanmar on June 29 vanished without a trace; the UN has expressed alarm. And in Algeria, a fire at an orphanage in Algiers province killed 11 people, including children, and injured 19. President Tebboune offered condolences from Berlin.\n\nA former Moroccan intelligence officer has provided evidence that the country used Pegasus spyware since 2017 to target journalists, human rights defenders, and foreign officials — including French politicians and Spanish cabinet ministers. The revelations raise fresh concerns about surveillance. Meanwhile, UK foreign aid cuts will reduce bilateral support to some African countries by up to 90% over three years, according to Foreign Office figures. Critics say the cuts send a damaging message about Britain's global role.\n\nFinally, Europe's push to reduce reliance on Chinese rare earths for rearmament is hitting a snag: deep-pocketed U.S. buyers are outbidding allies. This competition complicates efforts to secure supply chains for critical minerals.",
+  "headlines": [
+    {
+      "title": "U.S. Strikes Iranian Bridges, Iran Retaliates Across Gulf Countries",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "New York Times",
+        "Wall Street Journal",
+        "BBC World",
+        "Deutsche Welle",
+        "The Hindu"
+      ],
+      "summary": "The U.S. launched a sixth night of strikes targeting Iranian bridges and infrastructure, killing at least seven. Iran retaliated with strikes on Bahrain, Qatar, Oman, Jordan, and Syria. Tensions escalate over the Strait of Hormuz as the U.S. boards a ship.",
+      "link": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
+      "publishedAt": "2026-07-17T07:56:06.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "23 Pupils Feared Dead After School Bus Crash in Uganda",
+      "source": "AllAfrica",
+      "summary": "At least 23 pupils of King David Junior School died when their bus crashed in Kapchorwa District on Thursday evening during a field trip. The exact cause remains unclear.",
+      "link": "https://allafrica.com/stories/202607170042.html",
+      "publishedAt": "2026-07-17T05:07:15.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "More Than 500 Rohingya Feared Dead After Two Boats Disappear",
+      "source": "BBC World",
+      "summary": "Two boats carrying an estimated 530 Rohingya have vanished since leaving Myanmar on June 29. No survivors have been found, and the UN expresses deep alarm over the humanitarian crisis.",
+      "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T03:07:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Fire at Algerian Orphanage Kills 11, Including Children",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica",
+        "Deutsche Welle"
+      ],
+      "summary": "A fire at an orphanage in Algiers province killed 11 people, including children, and injured 19. President Tebboune expressed condolences while on a trip to Berlin. Authorities are investigating.",
+      "link": "https://allafrica.com/stories/202607170062.html",
+      "publishedAt": "2026-07-17T06:30:38.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Moroccan Intelligence Insider Reveals Widespread Pegasus Spyware Use",
+      "source": "The Guardian",
+      "summary": "A former Moroccan intelligence officer provided evidence of widespread use of Pegasus spyware since 2017, targeting journalists, rights defenders, and foreign officials. The revelation raises concerns about surveillance.",
+      "link": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "publishedAt": "2026-07-16T04:30:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "UK Aid Cuts Reduce Bilateral Support to Some African Countries by 90%",
+      "source": "The Guardian",
+      "summary": "Foreign Office figures show Labour's aid cuts will reduce bilateral support to some African countries by up to 90% over three years. Critics say this sends a damaging global message.",
+      "link": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "publishedAt": "2026-07-16T15:20:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "economy",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. Tramples Allies in Global Hunt for Rare Earths",
+      "source": "Wall Street Journal World",
+      "summary": "Europe's efforts to reduce reliance on Chinese rare earths face competition from U.S. buyers with deep pockets, complicating allied rearmament plans. The U.S. is outbidding allies.",
+      "link": "https://www.wsj.com/world/europe/the-u-s-is-trampling-allies-in-the-global-hunt-for-rare-earths-82371d13",
+      "publishedAt": "2026-07-17T03:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 439,
+    "articlesAfterDedup": 438,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 28,
+    "categoryCounts": {
+      "conflict": 1,
+      "society": 3,
+      "politics": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "africa": 4,
+      "asia-pacific": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-17",
+  "summary": "Les frappes américaines en Iran cette nuit ont fait au moins 38 morts, selon Téhéran. En représailles, l'Iran a attaqué des cibles dans cinq pays : Qatar, Oman, Koweït, Bahreïn et Syrie. Le Qatar a annoncé avoir repoussé des missiles. La région est en état d'alerte, et les chaînes d'information locales appellent leurs citoyens à la prudence. Ce regain de tensions intervient alors que les États-Unis et l'Iran s'affrontent par alliés interposés depuis des mois.\n\nAu Royaume-Uni, Andy Burnham a officiellement pris la tête du Parti travailliste ce vendredi, une étape clé avant sa nomination comme Premier ministre lundi. Il succède à Keir Starmer et promet une rupture avec l'austérité. En Ukraine, le président Volodymyr Zelensky a justifié le limogeage de son ministre de la Défense, Mykhaïlo Fedorov, malgré les manifestations. Il affirme que ce remaniement, qui place le commandant Syrsky à la tête de la Défense, est nécessaire pour l'effort de guerre.\n\nAux États-Unis, Donald Trump a prononcé une allocution à la nation jeudi. Il a répété que l'élection de 2020 lui a été volée, évoquant une ingérence chinoise et un « État profond ». Il a menacé de retirer les licences des chaînes NBC et ABC pour avoir refusé de diffuser son discours. Par ailleurs, d'importantes fumées venues des feux de forêt au Canada ont envahi Manhattan et les plages de Chicago, dégradant fortement la qualité de l'air pour des millions d'Américains.\n\nEnfin, trois autres sujets méritent l'attention : Israël a confirmé au Pentagone vouloir rester dans des zones de sécurité au Liban, en Syrie et à Gaza. En Algérie, au moins 11 personnes sont mortes dans l'incendie d'un orphelinat près d'Alger. Et de nouvelles preuves montrent que le Maroc a utilisé le logiciel espion Pegasus.",
+  "headlines": [
+    {
+      "title": "Les États-Unis bombardent l'Iran, Téhéran riposte en frappant cinq pays dont le Qatar et Oman",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "RTBF",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "L'armée américaine a mené des frappes nocturnes en Iran, tuant au moins 38 personnes selon Téhéran. En représailles, l'Iran a attaqué des cibles au Qatar, à Oman, au Koweït, à Bahreïn et en Syrie. Le Qatar a repoussé des missiles. La région est en état d'alerte.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-les-attaques-americaines-de-la-nuit-en-iran-ont-fait-huit-morts-et-20-blesses_6722873_3210.html",
+      "publishedAt": "2026-07-17T07:55:34.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A ouvert avec le bilan de 8 morts et 20 blessés et la liste des pays visés par l'Iran",
+          "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-les-attaques-americaines-de-la-nuit-en-iran-ont-fait-huit-morts-et-20-blesses_6722873_3210.html"
+        },
+        {
+          "source": "RTBF",
+          "angle": "A mis en avant les déclarations de l'armée américaine sur les 'dizaines de cibles' détruites",
+          "link": "https://www.rtbf.be/article/guerre-au-moyen-orient-nouvelle-nuit-de-bombardements-americains-en-iran-riposte-de-teheran-11759093"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A rapporté le bilan iranien de 38 morts et plus de 400 blessés, soulignant la divergence avec les sources américaines",
+          "link": "https://ici.radio-canada.ca/nouvelle/2269854/frappes-americaines-iran-38-morts"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A centré sur la riposte iranienne contre le Qatar et la défense antimissile qatarie",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4234942-20260717-guerre-moyen-orient-qatar-repousse-plusieurs-attaques-missiles-iraniens"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Andy Burnham prend officiellement la tête des travaillistes britanniques avant d'être Premier ministre lundi",
+      "source": "20 Minutes",
+      "summary": "Andy Burnham a été désigné ce vendredi à la tête du Labour, étape décisive avant sa nomination comme Premier ministre lundi. Il succède à Keir Starmer et promet une rupture avec l'austérité.",
+      "link": "https://www.20minutes.fr/monde/royaume-uni/4234934-20260717-andy-burnham-prend-officiellement-tete-travaillistes-britanniques-avant-installer-lundi-downing-street?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-17T05:28:01.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Volodymyr Zelensky assume la crise politique après le limogeage de son ministre de la Défense",
+      "source": "Le Monde",
+      "summary": "Le président ukrainien a justifié le renvoi de Mykhaïlo Fedorov au profit du commandant Syrsky, malgré des manifestations. Il affirme que ce remaniement est nécessaire pour l'effort de guerre.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/17/en-ukraine-apres-son-remaniement-volodymyr-zelensky-passe-outre-les-manifestants_6724085_3210.html",
+      "publishedAt": "2026-07-17T03:00:17.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Manifestants ukrainiens protestent contre le départ du ministre de la Défense Fedorov.",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Donald Trump accuse la Chine d'ingérence électorale et menace les chaînes NBC et ABC",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Radio-Canada",
+        "Le Figaro"
+      ],
+      "summary": "Dans une allocution à la nation, Trump a répété que l'élection de 2020 lui a été volée et a appelé à réformer le système électoral. Il a également menacé de retirer les licences de NBC et ABC pour avoir refusé de diffuser son discours.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-livre-un-discours-aux-accents-complotistes-sur-la-vulnerabilite-du-systeme-electoral-americain-et-accuse-la-chine-d-ingerence_6724151_3210.html",
+      "publishedAt": "2026-07-17T08:00:05.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A détaillé les accusations complotistes de Trump, notamment l'idée d'un 'État profond' et l'ingérence chinoise",
+          "link": "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-livre-un-discours-aux-accents-complotistes-sur-la-vulnerabilite-du-systeme-electoral-americain-et-accuse-la-chine-d-ingerence_6724151_3210.html"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A insisté sur la déclassification de documents pour étayer les allégations de Trump",
+          "link": "https://ici.radio-canada.ca/nouvelle/2269721/trump-discours-nation-systeme-electoral"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A mis l'accent sur l'offensive de Trump pour changer les règles électorales, qualifiant son discours de 'révolutionnaire'",
+          "link": "https://www.lefigaro.fr/international/trump-lance-une-vaste-offensive-pour-changer-les-regles-electorales-aux-etats-unis-20260717"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A rapporté la menace de Trump de retirer les licences des chaînes NBC et ABC",
+          "link": "https://www.lefigaro.fr/medias/vexe-donald-trump-appelle-au-retrait-des-licences-des-chaines-nbc-et-abc-qui-ont-refuse-de-diffuser-son-allocution-20260717"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "La fumée des incendies canadiens asphyxie New York et Chicago",
+      "source": "20 Minutes",
+      "summary": "D'importantes fumées venues des feux de forêt au Canada ont envahi Manhattan et les plages de Chicago, dégradant fortement la qualité de l'air pour des millions d'Américains.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4234942-20260717-etats-unis-asphyxies-fumee-incendies-canada?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-17T08:05:26.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 215,
+    "articlesAfterDedup": 215,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 17,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5.5,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 3,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 1,
+      "also": 2,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

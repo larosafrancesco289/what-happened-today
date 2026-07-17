@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-17",
+  "summary": "Una nuova ondata di missili iraniani ha colpito il Golfo, presi di mira Qatar, Kuwait, Bahrein e Giordania. La difesa aerea qatariota ha intercettato i proiettili, mentre Teheran intensifica le minacce sullo stretto di Hormuz. È l'ultimo capitolo di uno scontro che rischia di allargare il conflitto mediorientale. Nel frattempo, in Gran Bretagna si consuma un cambio di governo rapido: Andy Burnham è stato incoronato leader del Labour Party e da lunedì sarà primo ministro. Nel suo primo discorso, ha promesso maggiore controllo pubblico e redistribuzione delle risorse, segnando una netta inversione rispetto alle politiche conservatrici. Due notizie da Washington: Donald Trump ha accusato la Cina di aver rubato i dati di 220 milioni di elettori americani e ha minacciato di revocare le licenze a Nbc e Abc per non aver trasmesso il suo discorso sull'integrità elettorale. Sempre dall'amministrazione Trump, nuove restrizioni per gli studenti internazionali: i visti saranno limitati a quattro anni, in vigore da settembre. L'Europa guarda alla difesa: Ue e Ucraina hanno firmato un accordo per produrre insieme droni e sistemi anti-drone entro il 2026, con Fincantieri tra le aziende coinvolte. Infine, in Italia il 72enne Mario Roggero, condannato in via definitiva a 14 anni e 9 mesi per rapina, ha annunciato che si costituirà dopo l'ordine di carcerazione. La Cassazione ha escluso la legittima difesa.",
+  "headlines": [
+    {
+      "title": "Qatar abbatte missili iraniani, Teheran attacca Golfo con nuova ondata",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "La difesa aerea qatariota intercetta missili lanciati dall'Iran contro Qatar, Kuwait, Bahrein e Giordania. Teheran intensifica le minacce sullo stretto di Hormuz.",
+      "link": "http://it.euronews.com/2026/07/17/qatar-la-difesa-aerea-intercetta-nuovo-attacco-missilistico-iraniano-su-doha",
+      "publishedAt": "2026-07-17T08:07:16.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Andy Burnham diventa leader Labour e sarà premier britannico da lunedì",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "la Repubblica"
+      ],
+      "summary": "Andy Burnham viene incoronato capo del Labour Party e lunedì diventerà primo ministro. Promette maggiore controllo pubblico e redistribuzione delle risorse.",
+      "link": "http://it.euronews.com/my-europe/2026/07/17/andy-burnham-verso-la-guida-labour-poi-premier-del-regno-unito",
+      "publishedAt": "2026-07-17T08:08:04.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Burnham promette di affrontare i grandi problemi ignorati dalla politica",
+          "link": "http://it.euronews.com/my-europe/2026/07/17/andy-burnham-verso-la-guida-labour-poi-premier-del-regno-unito"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Enfatizza lo slogan 'Give back control' e la nuova era di redistribuzione",
+          "link": "https://www.repubblica.it/esteri/2026/07/17/news/andy_burnham_discorso_leader_labour_give_back_control-425476290/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump accusa la Cina di aver rubato dati di 220 milioni di elettori",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Nel discorso alla nazione, Trump annuncia la declassificazione di documenti su vulnerabilità elettorali e accusa Pechino di furto dati. La Cina respinge le accuse.",
+      "link": "https://www.repubblica.it/esteri/2026/07/17/news/trump_discorso_cina_elezioni_stati_uniti_furto_file_sicurezza-425475892/?rss",
+      "publishedAt": "2026-07-17T07:37:53.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Borse europee aprono in rosso, tech affonda Asia e Wall Street",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "Le borse europee aprono in ribasso dopo i cali di Wall Street e Asia, con il settore tecnologico in vendita. Milano -0,9%, Francoforte e Parigi -0,6%.",
+      "link": "https://www.rainews.it/articoli/2026/07/il-tech-affonda-lasia-anche-leuropa-apre-in-rosso-8fe5c40a-2694-46fa-97da-696bb562ab73.html",
+      "publishedAt": "2026-07-17T07:29:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump limita a 4 anni i visti per studenti stranieri negli Usa",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "La nuova normativa dell'amministrazione Trump limita a quattro anni il soggiorno degli studenti internazionali negli Stati Uniti, in vigore da settembre.",
+      "link": "https://www.repubblica.it/esteri/2026/07/17/news/studenti_stranieri_stati_unitiquattro_anni_trump-425476210/?rss",
+      "publishedAt": "2026-07-17T07:17:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Ue e Ucraina firmano accordo per produzione congiunta di droni, Fincantieri coinvolta",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "L'intesa UE-Ucraina promuove la produzione congiunta di droni e sistemi anti-drone entro fine 2026. Fincantieri tra le aziende selezionate.",
+      "link": "https://www.ilsole24ore.com/art/intesa-ue-e-ucraina-droni-fincantieri-e-le-aziende-selezionate-AJVgL8L",
+      "publishedAt": "2026-07-17T07:35:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump minaccia di revocare licenze a Nbc e Abc per mancata trasmissione discorso",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Trump minaccia di revocare le licenze a Nbc e Abc per non aver trasmesso il suo discorso alla nazione sull'integrità elettorale, accusandole di far parte del complotto.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/trump-contro-media-nbc-abc_114500521-02k.shtml",
+      "publishedAt": "2026-07-17T08:05:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Mario Roggero si costituirà dopo ordine di carcerazione per condanna definitiva",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "Il 72enne condannato a 14 anni e 9 mesi per rapina si dice pronto a costituirsi. La Cassazione ha confermato la sentenza escludendo la legittima difesa.",
+      "link": "https://www.rainews.it/articoli/2026/07/mario-roggero-si-costituira-dopo-lordine-di-carcerazione-dice-il-fratello-rapina-legittima-difesa-illegittima-vendetta-bed0d6c9-d531-4fd7-b1fd-64973f8cb280.html",
+      "publishedAt": "2026-07-17T08:02:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Commissione Ue presenta revisione del sistema Ets per la decarbonizzazione",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "La Commissione Europea presenta oggi la revisione dell'Emission Trading System, il principale strumento UE per raggiungere la neutralità climatica entro il 2050.",
+      "link": "https://www.rainews.it/articoli/2026/07/unione-europea-cose-e-come-funziona-il-sistema-ets-sfida-della-decarbonizzazione-ue-la-commissione-presenta-la-revisione-del-sistema-ets-765e7c23-55e5-43d8-9bae-badc5d97cbec.html",
+      "publishedAt": "2026-07-17T07:18:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Cile, Penco allagata da mareggiata: autorità valutano danni",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "La costa centrale del Cile è colpita da un'ondata di maltempo che ha allagato case e danneggiato infrastrutture. Le autorità invitano a tenersi lontani dalla riva.",
+      "link": "http://it.euronews.com/video/2026/07/17/cile-penco-allagata-da-mareggiata-mortale-autorita-valutano-i-danni",
+      "publishedAt": "2026-07-17T08:26:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Italia e Nicaragua in scontro sul caso Casimirri, ex Br rifugiato",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il governo italiano chiede l'estradizione di Alvaro Casimirri, ex Br coinvolto nel rapimento Moro, rifugiato in Nicaragua dal 1982. Il Nicaragua rifiuta.",
+      "link": "https://www.ilsole24ore.com/art/scontro-italia-e-nicaragua-tutto-quello-che-c-e-sapere-caso-casimirri-AJEsaoM",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 176,
+    "articlesAfterDedup": 176,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 12,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 1.5,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 5,
+      "economy": 1,
+      "society": 1,
+      "environment": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4,
+      "global": 3,
+      "americas": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 8
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

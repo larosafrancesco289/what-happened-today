@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-18",
+  "summary": "Les États-Unis ont bombardé l'Iran pour la septième nuit consécutive, faisant huit morts. En riposte, les Gardiens de la Révolution ont stoppé quatre pétroliers dans le détroit d'Ormuz et attaqué des bases américaines en Jordanie, au Koweït et à Bahreïn. Téhéran a aussi frappé des radars à Oman et la base d'Al-Tanf en Syrie. L'escalade s'intensifie au Moyen-Orient.\n\nAu Venezuela, le double séisme du 24 juin continue de révéler son ampleur. Le bilan officiel dépasse les 5 000 morts, et l'ONU estime que 50 000 personnes sont toujours disparues. Le FMI a débloqué 346 millions de dollars pour la reconstruction. Des centaines de bâtiments se sont effondrés, compliquant les sec",
+  "headlines": [
+    {
+      "title": "Les États-Unis frappent l'Iran pour la septième nuit, Téhéran riposte en attaquant pétroliers et bases",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "France Info",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Washington a bombardé l'Iran pour la septième nuit consécutive, faisant huit morts. En riposte, les Gardiens de la Révolution ont stoppé quatre pétroliers dans le détroit d'Ormuz et attaqué des bases américaines en Jordanie, au Koweït et à Bahreïn.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-les-attaques-americaines-de-la-nuit-en-iran-ont-fait-huit-morts-et-20-blesses_6722873_3210.html",
+      "publishedAt": "2026-07-17T07:55:34.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A ouvert avec le bilan des attaques américaines : huit morts et 20 blessés",
+          "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-les-attaques-americaines-de-la-nuit-en-iran-ont-fait-huit-morts-et-20-blesses_6722873_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A mis en avant les incidents maritimes : quatre pétroliers stoppés, deux sur des mines",
+          "link": "https://www.lefigaro.fr/international/en-direct-iran-quatre-petroliers-stoppes-dans-le-detroit-deux-sautent-sur-des-mines-selon-les-gardiens-de-la-revolution-20260718"
+        },
+        {
+          "source": "France Info",
+          "angle": "A couvert la défense de Bahreïn contre une attaque iranienne",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-bahrein-repousse-une-nouvelle-attaque-iranienne-apres-une-septieme-nuit-de-frappes-entre-washington-et-teheran_8112620.html"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A rapporté la septième nuit de bombardements et la riposte iranienne",
+          "link": "https://ici.radio-canada.ca/nouvelle/2270079/bombarde-pour-la-septieme-nuit-de-suite-liran-riposte-de-nouveau"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A listé les attaques iraniennes en Jordanie et au Koweït",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4235119-20260718-direct-guerre-moyen-orient-nouvelle-nuit-frappes-americaines-attaques-iraniennes-jordanie-koweit?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le double séisme au Venezuela fait plus de 5 000 morts, le FMI débloque 346 millions de dollars",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Les deux tremblements de terre du 24 juin ont causé l'effondrement de centaines de bâtiments. L'ONU estime que 50 000 personnes sont toujours portées disparues. Le FMI a débloqué une aide de 346 millions pour la reconstruction.",
+      "link": "https://www.20minutes.fr/monde/4235124-20260718-venezuela-bilan-seismes-depasse-5-000-morts-fmi-debloque-346-millions-dollars-reconstruction?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-18T08:06:46.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "L'Ukraine attaque un centre logistique en Russie, 7 morts et 24 blessés dans la région de Moscou",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes",
+        "France 24"
+      ],
+      "summary": "Une attaque massive de drones ukrainiens a visé un centre logistique dans l'ouest de la Russie, tuant sept employés de nuit. Plus de 370 drones ont été lancés sur la région de Moscou, selon les autorités.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4235123-20260718-guerre-ukraine-attaque-kiev-contre-centre-logistique-russie-fait-7-morts-24-blesses?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-18T08:08:20.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "20 Minutes",
+          "angle": "A précisé que les victimes étaient des employés de nuit et que l'attaque visait Moscou",
+          "link": "https://www.20minutes.fr/monde/ukraine/4235123-20260718-guerre-ukraine-attaque-kiev-contre-centre-logistique-russie-fait-7-morts-24-blesses?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "angle": "A annoncé au moins sept morts et 24 blessés dans l'ouest de la Russie",
+          "link": "https://www.france24.com/fr/europe/20260718-russie-une-attaque-de-drones-ukrainienne-contre-un-centre-logistique-fait-au-moins-sept-morts"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Plus de 200 feux de forêt hors de contrôle au Canada, leurs fumées menacent la finale du Mondial",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Libération"
+      ],
+      "summary": "Les incendies en Ontario ont brûlé 2,8 millions d'hectares depuis janvier. La fumée pourrait perturber la finale de la Coupe du monde dimanche aux États-Unis.",
+      "link": "https://www.liberation.fr/international/amerique/canada-plus-de-200-feux-de-foret-hors-de-controle-leurs-fumees-menacent-la-finale-du-mondial-dimanche-20260718_FS756NMYGZC3VF5SFHNQVTGL2U/",
+      "publishedAt": "2026-07-18T07:55:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Les États-Unis réduisent la durée des visas pour les étudiants et journalistes étrangers",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "L'administration Trump a annoncé une limitation des séjours pour les étudiants et journalistes étrangers, suscitant des critiques des organisations de défense de la presse.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4235105-20260718-etats-unis-duree-sejours-etudiants-etrangers-journalistes-va-etre-reduite?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-17T23:22:44.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 213,
+    "articlesAfterDedup": 213,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 16,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 24.3,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 2,
+      "politics": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "americas": 3,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 2,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

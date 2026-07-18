@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-18",
+  "summary": "The U.S. struck Iranian bridges and water plants for the seventh straight night, hitting infrastructure that also serves civilians. Iran retaliated by attacking power and water plants in Kuwait and Jordan, both countries that host American bases. Neither side is backing down, raising the risk of a wider regional war. The past week has been one of the deadliest for commercial sailors in the Gulf, as Tehran has switched to more-lethal missiles. On Saturday, a Ukrainian drone attack killed seven people at a Moscow logistics centre as part of a 370-drone assault; Kyiv says the strikes are retaliation for Russia's war in Ukraine.\n\nIn the UK, Andy Burnham won the Labour leadership and becomes prime minister on Monday, the seventh in a decade, inheriting political upheaval and economic stagnation. The same day, the government confirmed it will cut bilateral aid to nine African countries by more than 80% by 2029, reducing overseas development spending from 0.5% to 0.3% of GNI.\n\nIndia launched its first private orbital rocket, the Vikram-1, built by Skyroot Aerospace, from Sriharikota. The mission, called 'Aagaman', placed tech payloads and postcards into orbit, marking India's entry into the small group of nations with private orbital launch capability. Separately, Chinese President Xi Jinping urged Thailand and Cambodia to resolve their long-running border dispute, which killed over 100 people last year. A December 2025 ceasefire holds, but both sides accuse each other of breaches.",
+  "headlines": [
+    {
+      "title": "U.S. Strikes Iranian Infrastructure for Seventh Straight Night as Iran Retaliates Against Gulf Allies",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Wall Street Journal World",
+        "BBC World",
+        "NPR News",
+        "The Hindu",
+        "France 24"
+      ],
+      "summary": "The U.S. struck Iranian bridges and water plants for the seventh straight night, hitting civilian infrastructure. Iran retaliated by attacking U.S. allies' power and water plants in Kuwait and Jordan. Neither side is backing down, risking a wider war.",
+      "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+      "publishedAt": "2026-07-18T06:44:13.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Andy Burnham to Become UK Prime Minister on Monday After Winning Labour Leadership",
+      "source": "New York Times World",
+      "singleSource": true,
+      "summary": "Andy Burnham won the Labour leadership and will become Britain's seventh prime minister in a decade on Monday. He takes over amid political upheaval and economic stagnation, facing immediate challenges.",
+      "link": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html",
+      "publishedAt": "2026-07-17T18:53:00.000Z",
+      "tier": "top",
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "UK Confirms 90% Aid Cuts to Nine African Countries by 2029",
+      "source": "AllAfrica",
+      "singleSource": true,
+      "summary": "The UK confirmed sweeping reductions to its bilateral aid program, cutting support to nine African countries by over 80% by 2029. The cuts are part of reducing overseas development spending from 0.5% to 0.3% of GNI.",
+      "link": "https://allafrica.com/stories/202607170151.html",
+      "publishedAt": "2026-07-17T09:03:58.000Z",
+      "tier": "also",
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "India Launches First Private Orbital Rocket Vikram-1, Marking Historic Milestone",
+      "source": "The Hindu",
+      "singleSource": true,
+      "summary": "India's first private orbital rocket, Vikram-1, built by Skyroot Aerospace, successfully launched from Sriharikota, placing tech payloads and postcards into orbit. The mission marks India's entry into private orbital launch capability.",
+      "link": "https://www.thehindu.com/sci-tech/science/vikram-1-indias-first-privately-developed-orbital-class-rocket-launch-updates/article71237224.ece",
+      "publishedAt": "2026-07-18T07:51:38.000Z",
+      "tier": "also",
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Xi Jinping Urges Thailand and Cambodia to Settle Long-Running Border Dispute",
+      "source": "South China Morning Post",
+      "singleSource": true,
+      "summary": "Chinese President Xi Jinping urged Thailand and Cambodia to resolve their border dispute, which killed over 100 last year. A December 2025 ceasefire holds, but both sides accuse each other of breaches.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3361036/chinese-leader-urges-thailand-and-cambodia-settle-long-running-border-dispute?utm_source=rss_feed",
+      "publishedAt": "2026-07-18T07:02:01.000Z",
+      "tier": "also",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran War Makes Gulf Waters Deadliest for Sailors as Tehran Deploys Lethal Missiles",
+      "source": "Wall Street Journal World",
+      "singleSource": true,
+      "summary": "The Iran-U.S. conflict has made the Gulf highly dangerous for commercial sailors, with Iran using more-lethal missiles. The past week saw the highest casualties among sailors since the war started.",
+      "link": "https://www.wsj.com/world/middle-east/gulf-sailing-risk-iran-war-fb61d65a",
+      "publishedAt": "2026-07-18T02:00:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ukrainian Drone Attack Kills 7 at Moscow Logistics Centre, Wounds 24",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "A Ukrainian drone attack killed 7 and wounded 24 at a Moscow logistics centre, part of a 370-drone assault. Russia says most drones were neutralized; Kyiv calls it retaliation for the war in Ukraine.",
+      "link": "https://www.france24.com/en/europe/20260718-russia-says-ukrainian-drone-attack-killed-several-in-moscow-logistics-centre",
+      "publishedAt": "2026-07-18T05:32:46.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Ukraine has been conducting drone strikes on Russian infrastructure in retaliation for Russia's invasion.",
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 440,
+    "articlesAfterDedup": 439,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 23.1,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 3,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 3,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

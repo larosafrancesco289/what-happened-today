@@ -1,0 +1,199 @@
+{
+  "date": "2026-07-19",
+  "summary": "Due militari americani sono morti in Giordania mentre respingevano attacchi iraniani con missili e droni. Proseguono gli attacchi dell’esercito USA contro siti iraniani di sorveglianza e stoccaggio, giunti alla loro ottava notte. Intanto la Russia ha lanciato 50 missili su Kiev in meno di un’ora, colpendo due edifici residenziali. Le squadre di soccorso scavano tra le macerie e si contano almeno un morto. Entrambi i fronti restano tesi e il rischio di escalation è concreto.\"\n,\n\"In Europa, gli incendi in Spagna hanno divorato oltre 50.000 ettari. L’incendio di La Mierla, a Guadalajara, ha devastato 9.900 ettari e costretto all’evacuazione 16 paesi. Quello di Orés, a Saragozza, supera i 15.400 ettari. A pesare sull’economia italiana è invece il prezzo del diesel, che ha superato i 2,1 euro al litro a causa della chiusura dello stretto di Hormuz, legata alle tensioni in Medio Oriente. La notizia riguarda chiunque faccia rifornimento.\"\n,\n\"Sul fronte politico-giudiziario, la premier Meloni ha rivelato di aver sollecitato il ministro Nordio per la grazia a Mario Roggero, il gioielliere condannato per l’uccisione di un rapinatore. Le opposizioni parlano di propaganda sulla sicurezza. Fratelli Tate, Andrew e Tristan, sono stati arrestati a Miami per essere estradati nel Regno Unito, dove sono accusati di stupro, traffico di esseri umani e aggressione. Il loro avvocato ha dichiarato che sono innocenti e che torneranno liberi.\"\n,\n\"Un terremoto di magnitudo 5,6 ha colpito la regione centrale di Junin, in Perù, causando almeno 5 vittime e crolli di edifici. Le squadre di soccorso lavorano tra i dispersi, mentre si sono verificati estesi blackout elettrici. Infine, Poste Italiane ha pubblicato il prospetto dell’OPAS su Tim, con l’obiettivo del delisting e della crescita del gruppo, senza decisioni su operazioni straordinarie per ora.",
+  "headlines": [
+    {
+      "title": "Due soldati USA uccisi in Giordania, proseguono attacchi contro l'Iran",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "Rai News"
+      ],
+      "summary": "Due militari americani sono morti in Giordania respingendo attacchi iraniani. Proseguono i raid USA nell'ottava notte di bombardamenti su siti di sorveglianza e stoccaggio.",
+      "link": "http://it.euronews.com/2026/07/19/guerra-in-medio-oriente-due-soldati-usa-uccisi-in-giordania-ripresi-attacchi-contro-liran",
+      "publishedAt": "2026-07-19T06:51:16.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Si concentra sugli attacchi notturni e la dichiarazione del CentCom",
+          "link": "https://www.rainews.it/video/2026/07/ottava-notte-consecutiva-di-attacchi-contro-liran-sorveglianza-stoccaggio-video-ed268828-da6a-43e3-b77b-49892c2b0fc2.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Enfatizza la morte di due soldati USA in Giordania",
+          "link": "http://it.euronews.com/2026/07/19/guerra-in-medio-oriente-due-soldati-usa-uccisi-in-giordania-ripresi-attacchi-contro-liran"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Kiev subisce attacco notturno con 50 missili russi, almeno un morto",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "La Russia ha lanciato 50 missili su Kiev in meno di un'ora, colpendo due edifici residenziali. Le squadre di soccorso scavano tra le macerie.",
+      "link": "https://www.repubblica.it/esteri/2026/07/19/news/ucraina_kiev_attacco_russia_notte_50_missili_morto-425479965/?rss",
+      "publishedAt": "2026-07-19T03:37:04.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Incendi in Spagna divorano oltre 50mila ettari, fuoco a Guadalajara fuori controllo",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "L'incendio di La Mierla ha devastato 9.900 ettari e costretto 16 paesi all'evacuazione. In Spagna bruciati finora oltre 50mila ettari.",
+      "link": "http://it.euronews.com/my-europe/2026/07/19/in-spagna-oltre-50mila-ettari-bruciati-incendio-a-guadalajara-fuori-controllo",
+      "publishedAt": "2026-07-19T08:08:17.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Caso Roggero, Meloni rivela: ho detto io a Nordio di attivarsi per la grazia",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "Il Sole 24 Ore",
+        "TGCOM24"
+      ],
+      "summary": "La premier Meloni afferma di aver sollecitato il ministro Nordio per la grazia a Mario Roggero, condannato per l'uccisione del rapinatore. Opposizioni criticano la mossa.",
+      "link": "https://www.rainews.it/articoli/2026/07/caso-roggero-meloni-pena-sproporzionata-sulla-grazia-ho-detto-a-nordio-di-andare-avanti-110684be-033a-4527-a03e-8dcf030a58ea.html",
+      "publishedAt": "2026-07-19T06:09:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Riporta la dichiarazione di Meloni di aver chiesto a Nordio di attivarsi per la grazia",
+          "link": "https://www.ilsole24ore.com/art/caso-roggero-meloni-ho-detto-io-nordio-attivarsi-la-grazia-AJ74WyO"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Include le reazioni della moglie del gioielliere e del legale, e le critiche delle opposizioni",
+          "link": "https://www.rainews.it/articoli/2026/07/caso-roggero-meloni-pena-sproporzionata-sulla-grazia-ho-detto-a-nordio-di-andare-avanti-110684be-033a-4527-a03e-8dcf030a58ea.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Cita i dubbi di Meloni sul trauma di Roggero e il confronto con le pene per stupro",
+          "link": "https://www.tgcom24.mediaset.it/cronaca/mario-roggero-giorgia-meloni-trauma-grazia_114571168-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Prezzo del diesel supera 2,1 euro al litro in Italia per la chiusura di Hormuz",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il diesel raggiunge nuovi record sopra i 2,1 euro in Italia a causa della tensione in Medio Oriente e della chiusura dello stretto di Hormuz.",
+      "link": "https://www.ilsole24ore.com/art/gasolio-183-cent-15-giorni-prezzi-risaliti-livelli-marzo-AJdYKwO",
+      "publishedAt": "2026-07-19T06:20:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Fratelli Tate arrestati a Miami per estradizione in GB, accuse di stupro e traffico",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "Euronews Italiano"
+      ],
+      "summary": "Andrew e Tristan Tate sono stati arrestati a Miami su richiesta del Regno Unito per accuse di stupro, traffico di esseri umani e aggressione.",
+      "link": "https://www.rainews.it/articoli/2026/07/fratelli-tate-arrestati-a-miami-avvocato-fiducioso-che-saranno-rilasciati-gb-chiede-estradizione-6c0827ff-3918-4edc-9299-f698abd9fb6f.html",
+      "publishedAt": "2026-07-19T07:53:00.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Riporta l'arresto e le accuse con la dichiarazione dell'avvocato",
+          "link": "https://www.rainews.it/articoli/2026/07/fratelli-tate-arrestati-a-miami-avvocato-fiducioso-che-saranno-rilasciati-gb-chiede-estradizione-6c0827ff-3918-4edc-9299-f698abd9fb6f.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Sottolinea la richiesta di estradizione e la gravità delle accuse",
+          "link": "http://it.euronews.com/2026/07/19/fratelli-andrew-e-tristan-tate-arrestati-a-miami-londra-chiede-lestradizione"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Terremoto in Perù di magnitudo 5,6, cinque morti e crolli nella regione Junin",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Un sisma di magnitudo 5,6 ha colpito la regione centrale di Junin, causando almeno 5 vittime e crolli di edifici. Squadre di soccorso al lavoro tra i dispersi.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/terremoto-peru-morti-magnitudo_114572798-202602k.shtml",
+      "publishedAt": "2026-07-19T08:25:30.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Tim pubblica prospetto Opas: Poste punta a delisting e crescita senza operazioni straordinarie",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Poste Italiane ha pubblicato il prospetto dell'OPAS su Tim, puntando al delisting e alla crescita. Nessuna decisione su operazioni straordinarie per ora.",
+      "link": "https://www.ilsole24ore.com/art/tim-prospetto-opas-poste-punta-delisting-e-crescita-AJLSw1O",
+      "publishedAt": "2026-07-19T08:12:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 176,
+    "articlesAfterDedup": 173,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 2,
+      "politics": 1,
+      "economy": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 4,
+      "global": 1,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

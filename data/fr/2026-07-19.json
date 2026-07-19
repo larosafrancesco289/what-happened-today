@@ -1,0 +1,197 @@
+{
+  "date": "2026-07-19",
+  "summary": "Les États-Unis ont mené une huitième nuit consécutive de frappes contre l'Iran, visant les Gardiens de la révolution, après la mort de deux soldats américains en Jordanie. Téhéran a riposté en lançant des drones explosifs contre des bases américaines au Koweït. L'escalade se poursuit sans signe d'apaisement.\n\nEn Ukraine, la Russie a bombardé Kiev avec des missiles balistiques, tuant un civil et en blessant 13 dans cinq districts. Cette attaque répond à des frappes ukrainiennes de drones qui avaient fait huit morts en Russie la veille. Les deux camps intensifient leurs opérations.\n\nAux États-Unis, l'influenceur Andrew Tate et son frère Tristan ont été arrêtés à Miami à la demande du Royaume-Uni. Ils sont accusés de viols, exploitation sexuelle et infractions pédocriminelles, pour 59 chefs d'accusation. En Hongrie, le président Tamás Sulyok, allié de Viktor Orbán, a annoncé son départ après avoir signé une réforme constitutionnelle mettant fin à son mandat.\n\nEn Afrique de l'Ouest, la Cédéao a ouvert son sommet à Freetown, en Sierra Leone, avec une douzaine de chefs d'État. Ils doivent désigner un nouveau président de la Commission, le favori étant le général sénégalais Birame Diop. La sécurité régionale et la gouvernance démocratique sont à l'ordre du jour. Enfin, l'artiste dissident cubain Luis Manuel Otero Alcantara, arrêté en 2021 pour son opposition au régime, s'est exilé aux États-Unis. « Chaque minute perdue est une minute de dictature en plus », a-t-il déclaré en arrivant à Miami.",
+  "headlines": [
+    {
+      "title": "Les États-Unis bombardent l'Iran pour la huitième nuit consécutive après la mort de deux soldats",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Monde",
+        "France Info",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "L'armée américaine a mené une huitième nuit de frappes contre l'Iran pour punir l'attaque ayant tué deux soldats en Jordanie. Téhéran a riposté avec des drones explosifs contre des bases au Koweït.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260719-en-direct-l-arm%C3%A9e-am%C3%A9ricaine-affirme-avoir-cibl%C3%A9-les-forces-iraniennes-ayant-tu%C3%A9-deux-militaires",
+      "publishedAt": "2026-07-19T05:11:54.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Met l'accent sur la pression sur Trump après la mort des soldats et l'enlisement du conflit",
+          "link": "https://www.lemonde.fr/international/article/2026/07/19/guerre-en-iran-donald-trump-est-pousse-a-l-escalade-par-la-mort-de-deux-soldats-americains_6725299_3210.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Relate les représailles iraniennes par drones contre des bases au Koweït",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-bombardent-a-nouveau-l-iran-apres-la-mort-de-deux-soldats-americains-dans-une-base-militaire-en-jordanie_8113670.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Couverture en direct des frappes et de la riposte iranienne",
+          "link": "https://www.france24.com/fr/moyen-orient/20260719-en-direct-l-arm%C3%A9e-am%C3%A9ricaine-affirme-avoir-cibl%C3%A9-les-forces-iraniennes-ayant-tu%C3%A9-deux-militaires"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Insiste sur la motivation punitive des frappes américaines",
+          "link": "https://ici.radio-canada.ca/nouvelle/2270156/etats-unis-frappes--iran-represailles-soldat-morts"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Suivi en direct du conflit et du contexte de l'accord de juin",
+          "link": "https://www.20minutes.fr/monde/israel/4235177-20260719-direct-guerre-moyen-orient-etats-unis-frappe-iran-punir-mort-deux-militaires-teheran-riposte"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Russie bombarde Kiev, tuant un civil et blessant 13 personnes, après des frappes ukrainiennes",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "France Info",
+        "20 Minutes"
+      ],
+      "summary": "Kiev a été visée par des missiles balistiques russes dans la nuit, faisant un mort et 13 blessés dans cinq districts. Cette attaque répond à des drones ukrainiens ayant tué huit personnes en Russie la veille.",
+      "link": "https://www.france24.com/fr/europe/20260719-la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtri%C3%A8res",
+      "publishedAt": "2026-07-19T01:19:16.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Met en lien les bombardements russes avec les attaques ukrainiennes précédentes",
+          "link": "https://www.france24.com/fr/europe/20260719-la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtri%C3%A8res"
+        },
+        {
+          "source": "France Info",
+          "angle": "Détaille le bilan humain et les districts touchés",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-1-mort-et-13-blesses-recenses_8113676.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Rapporte l'attaque aux missiles balistiques et le nombre de districts",
+          "link": "https://www.20minutes.fr/monde/ukraine/4235179-20260719-guerre-ukraine-kiev-bombardee-lendemain-attaques-meurtrieres-contre-russie-moins-mort"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'influenceur Andrew Tate et son frère arrêtés à Miami pour extradition vers le Royaume-Uni",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Le Monde",
+        "Liberation",
+        "Radio-Canada"
+      ],
+      "summary": "Andrew et Tristan Tate ont été arrêtés samedi à la demande du Royaume-Uni, qui les accuse de viols, exploitation sexuelle et infractions pédocriminelles. Ils font face à 59 chefs d'accusation.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260719-l-influenceur-masculiniste-andrew-tate-et-son-fr%C3%A8re-arr%C3%AAt%C3%A9s-aux-%C3%A9tats-unis-%C3%A0-la-demande-de-londres",
+      "publishedAt": "2026-07-19T05:31:30.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Souligne l'arrestation à Miami à la demande de Londres pour viols",
+          "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260719-l-influenceur-masculiniste-andrew-tate-et-son-fr%C3%A8re-arr%C3%AAt%C3%A9s-aux-%C3%A9tats-unis-%C3%A0-la-demande-de-londres"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Précise les charges britanniques : viols, exploitation sexuelle, images indécentes d'enfant",
+          "link": "https://www.lemonde.fr/international/article/2026/07/19/l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis-a-la-demande-du-royaume-uni-qui-reclame-leur-extradition_6725297_3210.html"
+        },
+        {
+          "source": "Liberation",
+          "angle": "Donne le détail des 59 chefs d'accusation, dont au moins sept victimes présumées",
+          "link": "https://www.liberation.fr/international/amerique/etats-unis-linfluenceur-masculiniste-andrew-tate-et-son-frere-arretes-le-royaume-uni-reclame-leur-extradition-20260719_AXA6VEV7YFAOBEDCWIUJRKBR4U/"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Confirme l'arrestation à la demande du Royaume-Uni",
+          "link": "https://ici.radio-canada.ca/nouvelle/2270160/andrew-tate-frere-arrestation-miami-influenceurs"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Le président hongrois pro-Orban Tamás Sulyok quitte ses fonctions après une réforme constitutionnelle",
+      "source": "20 Minutes",
+      "summary": "Tamás Sulyok, allié de Viktor Orbán, a annoncé samedi qu'il signerait une réforme constitutionnelle mettant fin à son mandat, effective dimanche. Il quitte la présidence.",
+      "link": "https://www.20minutes.fr/monde/4235153-20260718-hongrie-president-pro-orban-devrait-quitter-fonctions-dimanche?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-18T18:53:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La Cédéao ouvre son sommet à Freetown pour redéfinir ses priorités régionales",
+      "source": "RFI",
+      "summary": "Une douzaine de chefs d'État se réunissent dimanche en Sierra Leone pour le sommet de la Cédéao. Ils doivent notamment désigner le nouveau président de la Commission, le favori étant le général Birame Diop.",
+      "link": "https://www.rfi.fr/fr/afrique/20260719-le-sommet-de-la-c%C3%A9d%C3%A9ao-s-ouvre-%C3%A0-freetown-avec-la-promesse-de-red%C3%A9finir-les-r%C3%B4les-de-l-organisation",
+      "publishedAt": "2026-07-19T08:13:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "L'artiste dissident cubain Luis Manuel Otero Alcantara s'exile aux États-Unis après sa libération",
+      "source": "Liberation",
+      "summary": "Le plasticien, arrêté en 2021, est arrivé à Miami samedi. Il avait été emprisonné pour son opposition au régime cubain. « Chaque minute perdue est une minute de dictature en plus », a-t-il déclaré.",
+      "link": "https://www.liberation.fr/international/amerique/sorti-des-geoles-du-regime-cubain-lartiste-dissident-luis-manuel-otero-alcantara-sexile-aux-etats-unis-20260719_UCWCAFCLRVASTFYSP34PF4CROQ/",
+      "publishedAt": "2026-07-19T08:12:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 205,
+    "articlesAfterDedup": 201,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 13.7,
+    "categoryCounts": {
+      "conflict": 2,
+      "society": 2,
+      "politics": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2,
+      "americas": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

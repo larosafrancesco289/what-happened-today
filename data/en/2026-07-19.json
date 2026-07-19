@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-19",
+  "summary": "The United States bombed Iranian Revolutionary Guard targets for an eighth straight night, after two American soldiers were killed in Jordan. Iran retaliated with drones targeting U.S. forces in Kuwait. A third U.S. soldier is missing. The soldiers were the first U.S. troops to die from hostile fire since an April truce. The strikes began Sunday, and the back-and-forth shows no sign of easing.\n\nRussia fired about 50 ballistic missiles at Kyiv, the largest such attack of the war, after Ukraine struck a Wildberries warehouse in Russia, killing eight people. The Ukrainian drone attack hit Russia's largest online retailer, injuring dozens. Ukraine faces shortages of Patriot missiles, a key defense against ballistic missiles.\n\nThe UK confirmed it will cut bilateral aid to nine African countries by more than 80% by 2029, reducing overseas development spending from 0.5% to 0.3% of GNI. The cuts are sweeping. In Taiwan, President Lai Ching-te reiterated that the island is an independent country and not subordinate to China, rejecting the term 'China's Taiwan.' The statement comes amid increased Chinese pressure.\n\nIn India, flash floods in Jammu and Kashmir killed at least 10 people and damaged houses. Home Minister Amit Shah reviewed the situation with local leaders. The floods hit Poonch, Rajouri and Kishtwar districts after heavy rainfall.",
+  "headlines": [
+    {
+      "title": "U.S. Bombs Iran for Eighth Consecutive Night After Troop Deaths in Jordan",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Wall Street Journal World",
+        "BBC World",
+        "Al Jazeera English",
+        "France 24"
+      ],
+      "summary": "The U.S. launched its eighth straight night of strikes on Iranian Revolutionary Guard targets after two American soldiers were killed in Jordan. Iran retaliated with drones at U.S. forces in Kuwait. A third soldier is missing.",
+      "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+      "publishedAt": "2026-07-19T06:48:03.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russia Launches Largest Ballistic Missile Attack on Kyiv After Ukrainian Drone Strike",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "Deutsche Welle",
+        "Al Jazeera English"
+      ],
+      "summary": "Ukraine struck a Wildberries warehouse in Russia, killing eight people. Russia retaliated with 50 ballistic missiles on Kyiv, the largest such attack of the war, injuring several. Ukraine faces Patriot missile shortages.",
+      "link": "https://www.wsj.com/world/ukraine-escalates-air-war-with-deadly-strikes-on-russias-amazon-163ba241",
+      "publishedAt": "2026-07-19T01:24:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "UK Confirms 90% Aid Cuts to Nine African Countries by 2029",
+      "source": "AllAfrica",
+      "singleSource": true,
+      "summary": "The UK government confirmed it will cut bilateral aid to nine African countries by over 80% by 2029, reducing overseas development spending from 0.5% to 0.3% of GNI.",
+      "link": "https://allafrica.com/stories/202607170151.html",
+      "publishedAt": "2026-07-17T09:03:58.000Z",
+      "tier": "also",
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Flash Floods in Jammu and Kashmir Kill 10, Damage Houses",
+      "source": "The Hindu",
+      "singleSource": true,
+      "summary": "Heavy rainfall triggered flash floods in Poonch, Rajouri and Kishtwar districts of Jammu and Kashmir, killing at least 10 people and damaging houses. Home Minister Amit Shah reviewed the situation.",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-2026-live-updates-temporary-suspension-pahalgam-baltal-routes-jammu-and-kashmir-heavy-rains/article71240667.ece",
+      "publishedAt": "2026-07-19T08:20:56.000Z",
+      "tier": "also",
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Taiwan President Lai Ching-te Reiterates Island’s Independence from China",
+      "source": "Japan Times",
+      "singleSource": true,
+      "summary": "Taiwanese President Lai Ching-te stated that Taiwan is an independent country and not subordinate to China, rejecting the term 'China's Taiwan.' The statement comes amid increased Chinese pressure.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/19/asia-pacific/politics/democratic-taiwan-lai-ching-te/",
+      "publishedAt": "2026-07-19T07:58:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 404,
+    "articlesAfterDedup": 404,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 47.5,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

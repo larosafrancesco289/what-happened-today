@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-20",
+  "summary": "A third US soldier has died in Iraq, killed during the disposal of an Iranian drone in northern Iraq, bringing the total US troop deaths in the Iran conflict to 17. US Central Command confirmed the incident as American airstrikes continue for a ninth consecutive night. The fighting, which resumed after a 60-day ceasefire collapsed in early July, is expanding beyond Iran's borders. Jordan, a close US ally, has seen a buildup of American forces, and the US embassy in Bahrain has warned Americans there to take precautions. The risk of a wider regional war is growing.\n\nIn Britain, Andy Burnham became prime minister on Monday, taking over from Keir Starmer just two years after Starmer led Labour to a landslide election victory. Burnham delivered his first speech at 10 Downing Street, facing urgent challenges including the escalating US-Iran war and domestic issues. The transfer of power marks a significant shift in UK leadership at a time of global uncertainty.\n\nRussia struck multiple Ukrainian cities with missiles and drones, killing eight people and wounding dozens. Ukraine responded with its own attacks on Russian infrastructure, continuing the cycle of escalation that has marked the conflict in recent weeks. Meanwhile, off the coast of Guyana, a passenger ferry sank late Saturday night, leaving dozens missing in what officials are calling one of the country's worst maritime disasters. Authorities launched a criminal investigation after the vessel's manifest was found to be inaccurate — it listed more than 100 passengers — and the captain and a crew member tested positive for marijuana.",
+  "headlines": [
+    {
+      "title": "Third US soldier killed in Iraq as Iran war death toll reaches 17",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "New York Times World",
+        "Wall Street Journal World",
+        "BBC World",
+        "Deutsche Welle",
+        "Al Jazeera English"
+      ],
+      "summary": "A US service member died in northern Iraq while disposing of an Iranian drone, marking the third American death since a ceasefire ended. US strikes continue for a ninth night, risking a wider regional war.",
+      "link": "https://www.france24.com/en/war-in-iran-expands-as-third-us-soldier-killed-since-end-of-ceasefire",
+      "publishedAt": "2026-07-20T09:27:51.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Andy Burnham becomes UK prime minister, succeeds Keir Starmer",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "New York Times World"
+      ],
+      "summary": "Andy Burnham succeeded Keir Starmer as UK prime minister on Monday, facing urgent challenges including the US-Iran war and domestic issues. He delivered his first speech at 10 Downing Street.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing?traffic_source=rss",
+      "publishedAt": "2026-07-20T09:12:03.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Russia missile attack on Ukrainian cities kills 8, injures dozens",
+      "source": "BBC World",
+      "summary": "Russia struck multiple Ukrainian cities with missiles and drones, killing eight people and injuring dozens. Ukraine retaliated with assaults on Russian infrastructure in an escalation of the conflict.",
+      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T18:25:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ferry sinks off Guyana coast, dozens missing in maritime disaster",
+      "source": "The Guardian",
+      "summary": "A passenger ferry sank off Guyana late Saturday, leaving dozens missing. Authorities launched a criminal investigation after the captain and crew tested positive for marijuana and the manifest was inaccurate.",
+      "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+      "publishedAt": "2026-07-20T03:54:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Jordan becomes new flashpoint in US-Iran war as troop deaths rise",
+      "source": "Wall Street Journal World",
+      "summary": "The close US ally Jordan has seen a buildup of American forces as the Iran conflict expands. US troop deaths in the region rise amid ongoing strikes, and the US embassy warned Americans in Bahrain.",
+      "link": "https://www.wsj.com/world/middle-east/jordan-becomes-new-flashpoint-in-u-s-iran-war-as-troop-deaths-rise-9858b7d1",
+      "publishedAt": "2026-07-20T01:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 378,
+    "articlesAfterDedup": 376,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 15.1,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

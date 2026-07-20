@@ -1,0 +1,194 @@
+{
+  "date": "2026-07-20",
+  "summary": "L'escalation tra Stati Uniti e Iran si è allargata. L'Iran ha bombardato la Giordania dopo che gli Usa avevano ucciso due soldati americani. Un terzo soldato è morto in Iraq. L'esercito israeliano si sta preparando a un possibile conflitto regionale. Il prezzo del petrolio è salito lunedì per i timori di interruzioni nello stretto di Hormuz, un passaggio cruciale per le forniture energetiche.\n\nNel Regno Unito, Andy Burnham è diventato primo ministro, il settimo in dieci anni. Ancora incertezze sul suo gabinetto e sulle priorità politiche. In Spagna, un ragazzo di 13 anni è morto quando una fontana è crollata durante i festeggiamenti per la vittoria ai Mondiali. Il peso della folla ha causato il cedimento.\n\nIn Italia, per la prima volta è stata applicata la norma sullo scudo per gli agenti dopo la morte di Abderrahim Fakir a Bologna, ammanettato durante un intervento dei carabinieri. I pm dicono che i fatti sono più estesi del video. Sempre in Italia, una maxi operazione contro la criminalità giovanile ha portato a 539 arresti e quasi 190mila controlli in zone di spaccio e movida, coordinati dal Servizio Centrale Operativo.\n\nUn rapporto NewsGuard ha identificato oltre 3.800 siti di notizie creati dall'intelligenza artificiale, di cui il 10% con domini italiani. Diffondono false informazioni e sottraggono pubblicità ai media legittimi. Infine, la Corte dei conti ha chiesto una programmazione più accurata per il Fondo indennizzo risparmiatori, che dovrà erogare 1,35 miliardi di euro. È morto il comandante Alfa, fondatore del Gis dei carabinieri, che partecipò alla cattura degli esattori di Cesare Casella.",
+  "headlines": [
+    {
+      "title": "Iran bombarda la Giordania dopo raid Usa, l'Idf si prepara alla guerra",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "L'Iran ha bersagliato la Giordania dopo l'uccisione di due soldati Usa. Un terzo soldato è deceduto in Iraq. L'Idf si mobilita per un possibile conflitto regionale.",
+      "link": "https://www.repubblica.it/esteri/2026/07/20/news/ondata_di_raid_dopo_i_morti_usa_l_iran_bersaglia_la_giordania_e_anche_l_idf_si_prepara_alla_guerra-425481251/?rss",
+      "publishedAt": "2026-07-19T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Andy Burnham diventa premier del Regno Unito, dubbi su governo e programma",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Andy Burnham assume la carica di primo ministro britannico, settimo in dieci anni. Restano incertezze sulla composizione del gabinetto e sulle priorità politiche.",
+      "link": "http://it.euronews.com/my-europe/2026/07/20/andy-burnham-diventa-premier-oggi-ma-restano-dubbi-su-governo-e-programma",
+      "publishedAt": "2026-07-20T07:15:22.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Spagna, crolla fontana durante festeggiamenti Mondiali: morto un tredicenne",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Un ragazzo di 13 anni è morto in Spagna dopo il crollo di una fontana durante i festeggiamenti per la vittoria ai Mondiali. Il peso della folla ha causato il cedimento.",
+      "link": "https://www.repubblica.it/esteri/2026/07/20/news/spagna_13enne_muore_festeggiamenti_vittoria_mondiali-425481686/?rss",
+      "publishedAt": "2026-07-20T07:14:44.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Ha descritto il crollo della fontana e la morte del ragazzo",
+          "link": "https://www.repubblica.it/esteri/2026/07/20/news/spagna_13enne_muore_festeggiamenti_vittoria_mondiali-425481686/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha riportato la dinamica con il peso della folla sulla fontana",
+          "link": "https://www.tgcom24.mediaset.it/mondo/spagna-tredicenne-morto-vittoria-mondiali_114615633-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Morto ammanettato a Bologna, applicata per la prima volta la norma sullo scudo per gli agenti",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "TGCOM24"
+      ],
+      "summary": "La procura di Bologna ha applicato per la prima volta la nuova norma che protegge gli agenti. Il 43enne Abderrahim Fakir è deceduto dopo l'intervento dei carabinieri. I pm: 'Fatti più estesi del video'.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/morto-ammanettato-applicata-la-nuova-norma-sullo-scudo-per-gli-agenti_667f2cb6-3f79-46b0-a3e1-b09a0467b0cf.html",
+      "publishedAt": "2026-07-20T09:25:58.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Ha annunciato l'applicazione della nuova norma e le dichiarazioni dei pm",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/morto-ammanettato-applicata-la-nuova-norma-sullo-scudo-per-gli-agenti_667f2cb6-3f79-46b0-a3e1-b09a0467b0cf.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha fornito il profilo della vittima e la testimonianza di un testimone",
+          "link": "https://www.tgcom24.mediaset.it/cronaca/bologna-chi-era-abderrahim-fakir_114613841-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Prezzi del petrolio in rialzo per l'escalation tra Usa e Iran, timori su Hormuz",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "I prezzi del petrolio sono aumentati lunedì mentre gli scontri tra Stati Uniti e Iran si intensificano, alimentando preoccupazioni per l'interruzione delle forniture attraverso lo stretto di Hormuz.",
+      "link": "http://it.euronews.com/business/2026/07/20/prezzi-del-petrolio-in-rialzo-mentre-si-intensifica-lo-scontro-tra-usa-e-iran",
+      "publishedAt": "2026-07-20T08:55:27.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Oltre 3.800 siti d'informazione generati dall'IA nel mondo, il 10% con domini italiani",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Un rapporto NewsGuard rivela che esistono oltre 3.800 siti di notizie creati interamente dall'IA, di cui circa il 10% con domini italiani. Diffondono false informazioni e sottraggono pubblicità ai media legittimi.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/07/18/nel-mondo-oltre-3.800-siti-dinformazione-solo-con-lia-per_0e2cb988-40aa-4acd-8f27-b5ae65207a36.html",
+      "publishedAt": "2026-07-20T07:40:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Crack bancari: indennizzi per 1,35 miliardi ai risparmiatori, Corte dei conti chiede programmazione mirata",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il Fondo indennizzo risparmiatori dovrà erogare 1,35 miliardi di euro. La Corte dei conti prescrive una programmazione finanziaria più accurata e la definizione rapida delle nuove istanze.",
+      "link": "https://www.ilsole24ore.com/art/crack-bancari-indennizzi-135-miliardi-risparmiatori-corte-conti-programmazione-piu-mirata-AJx9xpP",
+      "publishedAt": "2026-07-20T08:57:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Morto il comandante Alfa, fondatore del Gis dei carabinieri, partecipò alla cattura di Casella",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il comandante Alfa, fondatore del Gruppo di Intervento Speciale dei carabinieri, è morto. Partecipò alla cattura degli esattori di Cesare Casella e protesse il magistrato Nino Di Matteo.",
+      "link": "https://www.ilsole24ore.com/art/morto-comandante-alfa-fondatore-gis-carabinieri-AJPV0jP",
+      "publishedAt": "2026-07-20T06:44:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Maxi operazione contro la criminalità giovanile: 539 arresti e quasi 190mila controlli",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "La polizia ha arrestato 539 persone in una maxi operazione contro la criminalità giovanile. Quasi 190mila controlli nelle zone di spaccio e movida, coordinati dal Servizio Centrale Operativo.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/polizia-maxi-operazione-criminalita-giovanile_114611140-202602k.shtml",
+      "publishedAt": "2026-07-20T09:05:36.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 169,
+    "articlesAfterDedup": 168,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 11,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10.6,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 1,
+      "society": 4,
+      "economy": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 6,
+      "global": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

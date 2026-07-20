@@ -1,0 +1,144 @@
+{
+  "weekId": "2026-W29",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-19",
+  "summary": "The week of July 13–19 was dominated by the escalating U.S.-Iran conflict over the Strait of Hormuz, which persisted daily with airstrikes and retaliations. The U.S. launched strikes for eight consecutive nights, targeting Iranian bases, bridges, and infrastructure, while Iran retaliated against Gulf allies. By July 16, the death toll exceeded 35, and by July 19, U.S. troop deaths in Jordan triggered further bombing. In Ukraine, a Russian strike killed three in Odesa on July 15 as EU Chief visited Kyiv for defense talks. Protests erupted on July 16 after President Zelensky removed the popular defence minister. On July 19, Russia launched its largest ballistic missile attack on Kyiv following a Ukrainian drone strike. In Bangkok, a bar fire on July 13 killed at least 27, rising to 30 by July 14 as police probed negligence. China purged a third Politburo member in an anti-graft campaign on July 14. France approved an assisted dying bill for adults with incurable illnesses on July 15. On July 17, 23 pupils were feared dead after a school bus crash in Uganda. The UN reported over 500 Rohingya feared dead after two boats capsized on July 16. Politically, Andy Burnham was set to become UK Prime Minister on July 20 after winning Labour leadership on July 18. Stories that faded quickly included the initial U.S.-Iran attacks (July 13), the Bangkok bar fire (July 13), the death of U.S. senator Lindsey Graham (not dated, but listed as faded), China joining the U.S. in reusable orbital rocket capability (not dated), and the link between UK heatwaves and over 2,700 deaths (not dated). These events appeared only briefly and did not develop further.",
+  "persistentStories": [],
+  "fadedStories": [
+    "U.S. and Iran Trade New Rounds of Attacks in Fight Over Strait of Hormuz",
+    "Fire Tears Through Bangkok Bar, Kills at Least 27",
+    "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+    "China joins US in reusable orbital rocket capability",
+    "More than 2,700 deaths in UK linked to May, June heatwaves",
+    "Nigeria: Benue, Plateau Communities Hit By Fresh Attacks, 27 Killed",
+    "A Robot Army Remakes Ground Warfare in Ukraine",
+    "U.S. Strikes Iran for Third Night, Imposes 20% Fee on Strait of Hormuz Cargo",
+    "Bangkok Bar Fire Death Toll Reaches 30 as Police Probe Negligence",
+    "China Purges Third Politburo Member in Deepening Anti-Graft Campaign"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-07-13",
+      "title": "U.S. and Iran Trade New Rounds of Attacks in Fight Over Strait of Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Fire Tears Through Bangkok Bar, Kills at Least 27",
+      "category": "society",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "U.S. Strikes Iran for Third Night, Imposes 20% Fee on Strait of Hormuz Cargo",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Bangkok Bar Fire Death Toll Reaches 30 as Police Probe Negligence",
+      "category": "society",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "China Purges Third Politburo Member in Deepening Anti-Graft Campaign",
+      "category": "politics",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "U.S. Airstrikes Kill Seven at Iranian Army Base as Blockade Resumes",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Russian Strike Kills Three in Odesa as EU Chief Visits Kyiv for Defense Talks",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "France Approves Assisted Dying Bill for Adults with Incurable Illnesses",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "U.S. and Iran Exchange Strikes for Fifth Day as Death Toll Exceeds 35",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Protests Erupt Across Ukraine After Zelensky Removes Popular Defence Minister",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "UN Says More Than 500 Rohingya Feared Dead After Two Boats Capsize",
+      "category": "society",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "U.S. Strikes Iranian Bridges, Iran Retaliates Across Gulf Countries",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "23 Pupils Feared Dead After School Bus Crash in Uganda",
+      "category": "society",
+      "region": "africa"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "U.S. Strikes Iranian Infrastructure for Seventh Straight Night as Iran Retaliates Against Gulf Allies",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Andy Burnham to Become UK Prime Minister on Monday After Winning Labour Leadership",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "U.S. Bombs Iran for Eighth Consecutive Night After Troop Deaths in Jordan",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Russia Launches Largest Ballistic Missile Attack on Kyiv After Ukrainian Drone Strike",
+      "category": "conflict",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2917,
+    "totalSourcesUsed": 16,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 14,
+      "society": 10,
+      "politics": 14,
+      "science": 4,
+      "environment": 2,
+      "economy": 4
+    },
+    "regionCounts": {
+      "middle-east": 9,
+      "asia-pacific": 15,
+      "americas": 2,
+      "europe": 12,
+      "africa": 8,
+      "global": 2
+    }
+  }
+}

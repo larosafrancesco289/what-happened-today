@@ -1,0 +1,133 @@
+{
+  "weekId": "2026-W29",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-19",
+  "summary": "La semaine du 13 au 19 juillet 2026 a été dominée par l'escalade militaire entre les États-Unis et l'Iran. Dès le 13 juillet, Washington bombarde l'Iran, Téhéran riposte sur des bases du Golfe, et le pétrole bondit. Les frappes se poursuivent chaque nuit jusqu'au 19 juillet, touchant notamment Bouchehr le 15, et s'étendent à des bases dans trois pays le 16, puis cinq pays dont le Qatar et Oman le 17. Le 18, une septième nuit de frappes s'accompagne d'attaques iraniennes contre des pétroliers et des bases. Le 19, une huitième nuit est déclenchée après la mort de deux soldats américains. Le détroit d'Ormuz reste fermé, accentuant les tensions énergétiques. Cette confrontation a été l'histoire persistante de la semaine, apparaissant chaque jour.\n\nParallèlement, d'autres événements marquants ont émergé. Le 18 juillet, un double séisme au Venezuela fait plus de 5 000 morts ; le FMI débloque 346 millions de dollars d'urgence. Le 19 juillet, la Russie bombarde Kiev, tuant un civil et blessant 13 personnes, en riposte à des frappes ukrainiennes. En France, le 15 juillet, l'Assemblée nationale adopte la proposition de loi sur l'aide à mourir. Le 14 juillet, un incendie en forêt de Fontainebleau brûle plus de 1 900 hectares ; deux suspects sont interpellés. En Algérie, l'incendie d'un orphelinat près d'Alger le 16 juillet fait au moins 11 morts. Le 19 juillet, l'influenceur Andrew Tate et son frère sont arrêtés à Miami en vue d'une extradition vers le Royaume-Uni.\n\nPlusieurs histoires ont rapidement disparu des radars : la réunion de la coalition des volontaires pour l'Ukraine à Paris avec Zelensky le 13 juillet, l'incendie andalou stabilisé le 13 juillet (13 morts), des attaques de drones ukrainiens à Moscou (trois morts), un autre incendie à Fontainebleau (800 hectares, possible acte volontaire), et le rejet par la communauté innue de Pessamit d'une entente avec Hydro-Québec.",
+  "persistentStories": [
+    "Les États-Unis bombardent l'Iran, Téhéran riposte sur des bases du Golfe et le pétrole bondit"
+  ],
+  "fadedStories": [
+    "La coalition des volontaires pour l'Ukraine se réunit à Paris avec Zelensky",
+    "L'incendie en Andalousie fait 13 morts, le feu est stabilisé",
+    "Trois morts à Moscou dans des attaques de drones ukrainiens",
+    "Un incendie ravage 800 hectares en forêt de Fontainebleau, possible acte volontaire",
+    "La communauté innue de Pessamit rejette l'entente avec Hydro-Québec",
+    "Un missile frappe un pétrolier au large d'Oman, explosions à Bahreïn et blocus américain",
+    "Plus de 1 900 hectares brûlés en forêt de Fontainebleau, deux suspects interpellés",
+    "Les parties civiles fustigent la défense d'Eugène Rwamucyo à son procès en appel",
+    "Les États-Unis préparent de nouvelles sanctions contre la Cour pénale internationale",
+    "Neuf pays européens, dont la France, lancent un bouclier antimissile avec l'Ukraine"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-07-13",
+      "title": "Les États-Unis bombardent l'Iran, Téhéran riposte sur des bases du Golfe et le pétrole bondit",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "La coalition des volontaires pour l'Ukraine se réunit à Paris avec Zelensky",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "L'incendie en Andalousie fait 13 morts, le feu est stabilisé",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Un missile frappe un pétrolier au large d'Oman, explosions à Bahreïn et blocus américain",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Plus de 1 900 hectares brûlés en forêt de Fontainebleau, deux suspects interpellés",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Les États-Unis frappent Bouchehr en Iran, Téhéran maintient le détroit d'Ormuz fermé",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "L'Assemblée nationale adopte la proposition de loi sur l'aide à mourir",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Les États-Unis bombardent l'Iran, Téhéran riposte en frappant des bases dans trois pays",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Au moins 11 morts dans l'incendie d'un orphelinat près d'Alger",
+      "category": "society",
+      "region": "africa"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "Les États-Unis bombardent l'Iran, Téhéran riposte en frappant cinq pays dont le Qatar et Oman",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Les États-Unis frappent l'Iran pour la septième nuit, Téhéran riposte en attaquant pétroliers et bases",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Le double séisme au Venezuela fait plus de 5 000 morts, le FMI débloque 346 millions de dollars",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Les États-Unis bombardent l'Iran pour la huitième nuit consécutive après la mort de deux soldats",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "La Russie bombarde Kiev, tuant un civil et blessant 13 personnes, après des frappes ukrainiennes",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "L'influenceur Andrew Tate et son frère arrêtés à Miami pour extradition vers le Royaume-Uni",
+      "category": "society",
+      "region": "americas"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1488,
+    "totalSourcesUsed": 11,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 12,
+      "politics": 14,
+      "environment": 7,
+      "society": 7,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 10,
+      "europe": 18,
+      "americas": 8,
+      "africa": 4,
+      "global": 1,
+      "asia-pacific": 1
+    }
+  }
+}

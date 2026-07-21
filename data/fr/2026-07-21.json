@@ -1,0 +1,191 @@
+{
+  "date": "2026-07-21",
+  "summary": "Les États-Unis ont mené une dixième nuit de frappes contre l'Iran, visant notamment des centres de commandement et des cibles maritimes. En représailles, les Gardiens de la révolution ont attaqué des bases américaines au Bahreïn et au Koweït et stoppé deux pétroliers dans le détroit d'Ormuz. Le conflit s'étend sans signe d'apaisement. Parallèlement, le double séisme au Venezuela a fait 5 278 morts confirmés, et les secours peinent à extraire les corps des décombres. Le bilan pourrait dépasser 10 000 morts.\n\nAu Royaume-Uni, le nouveau Premier ministre Andy Burnham a dévoilé son gouvernement lundi, avec John Healey aux Finances, Ed Miliband aux Affaires étrangères et Wes Streeting à la Défense, écartant plusieurs proches de Keir Starmer. Autre tension diplomatique : la France a dénoncé la détention arbitraire de deux agents diplomatiques à Téhéran, dont l'un a subi des violences physiques. Le ministre des Affaires étrangères Jean-Noël Barrot a qualifié cette atteinte d'inadmissible et l'a signalé à son homologue iranien.\n\nUn ferry a fait naufrage au Guyana dans la nuit de samedi, faisant 27 morts et 83 disparus. Le navire transportait 179 passagers, contre 133 inscrits, et des membres de l'équipage ont été testés positifs au cannabis. Sur le plan commercial, Washington a imposé 50 % de droits de douane supplémentaires sur des produits canadiens comme le vin et le ciment, en représailles aux mesures de rétorsion d'Ottawa. Enfin, selon le HCR, 5,213 millions de réfugiés ukrainiens sont enregistrés en Europe au 30 avril 2026, et une frappe ukrainienne sur la raffinerie d'Omsk, à 2 500 km du front, a profondément marqué les habitants sans affecter les approvisionnements.",
+  "headlines": [
+    {
+      "title": "Les États-Unis mènent leur dixième frappe contre l'Iran, l'Iran vise des bases américaines au Bahreïn et au Koweït",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Le Monde",
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "L'armée américaine a annoncé une dixième nuit de frappes visant des centres de commandement iraniens. En riposte, les Gardiens de la révolution ont attaqué des cibles américaines à Bahreïn et au Koweït et stoppé deux pétroliers dans le détroit d'Ormuz.",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
+      "publishedAt": "2026-07-21T07:50:29.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Analyse la stratégie d'usure de l'Iran et son pari énergétique",
+          "link": "https://www.lemonde.fr/international/article/2026/07/21/face-aux-etats-unis-l-iran-parie-sur-une-guerre-d-usure_6728460_3210.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Rapporte dixième nuit de frappes et riposte iranienne immédiate",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721"
+        },
+        {
+          "source": "France 24",
+          "angle": "Ouvre sur les frappes américaines et les revendications iraniennes",
+          "link": "https://www.france24.com/fr/moyen-orient/20260721-en-direct-moyen-orient-iran-etats-unis-frappes-americaines-bahrein-koweit-ormuz-trump-houthis"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Insiste sur la volonté de Trump de faire payer l'Iran",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le séisme au Venezuela fait 5 278 morts, le bilan pourrait dépasser 10 000",
+      "source": "20 Minutes",
+      "summary": "Le double séisme du 19 juillet a causé 5 278 décès confirmés, mais les secours peinent à extraire les corps des décombres. Le bilan final pourrait atteindre 10 000 morts.",
+      "link": "https://www.20minutes.fr/monde/4235522-20260721-venezuela-bilan-double-seisme-monte-5-278-morts-pourrait-monter-plus-10-000?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-21T07:07:21.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Andy Burnham dévoile son gouvernement, écarte les proches de Starmer",
+      "source": "France 24",
+      "summary": "Le nouveau Premier ministre britannique a présenté lundi son cabinet, avec John Healey aux Finances, Ed Miliband aux Affaires étrangères et Wes Streeting à la Défense, marquant une rupture avec Keir Starmer.",
+      "link": "https://www.france24.com/fr/europe/20260721-royaume-uni-andy-burnham-devoile-gouvernement-keir-starmer-john-healey-ed-miliband-wes-streeting",
+      "publishedAt": "2026-07-21T02:31:09.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Deux diplomates français détenus en Iran «sans motif», l'un a subi des violences physiques",
+      "source": "Le Figaro",
+      "summary": "Le ministre français des Affaires étrangères a dénoncé lundi la détention arbitraire de deux agents diplomatiques à Téhéran, dont l'un a été victime de violences, qualifiant cette atteinte d'inadmissible.",
+      "link": "https://www.lefigaro.fr/international/les-deux-diplomates-francais-detenus-en-iran-l-ont-ete-sans-motif-l-un-a-fait-l-objet-de-violences-physiques-20260721",
+      "publishedAt": "2026-07-21T08:39:08.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Naufrage d'un ferry au Guyana fait 27 morts et 83 disparus",
+      "source": "France 24",
+      "summary": "Un ferry transportant 179 passagers, contre 133 inscrits, a coulé dans la nuit de samedi. Les secours ont retrouvé 27 corps et 83 personnes sont portées disparues, l'équipage testé positif au cannabis.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260721-un-naufrage-au-guyana-fait-au-moins-27-morts-et-83-disparus",
+      "publishedAt": "2026-07-21T07:28:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Washington impose 50 % de droits de douane supplémentaires sur les produits canadiens",
+      "source": "Radio-Canada",
+      "sources": [
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Les États-Unis ont annoncé lundi des droits de douane additionnels de 50 % sur divers produits canadiens comme le vin et le ciment, en représailles aux mesures de rétorsion d'Ottawa.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2270536/trump-droits-douane-additionnels-exportations-canada",
+      "publishedAt": "2026-07-21T01:19:01.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Radio-Canada",
+          "angle": "Met en avant la justification américaine des représailles",
+          "link": "https://ici.radio-canada.ca/nouvelle/2270536/trump-droits-douane-additionnels-exportations-canada"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Liste les produits concernés et les exclusions",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4235532-20260721-etats-unis-trump-impose-50-droits-douane-supplementaires-nombreux-produits-venant-canada?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Plus de 5,2 millions de réfugiés ukrainiens accueillis en Europe",
+      "source": "Le Monde",
+      "summary": "Selon le HCR cité par Kiev, 5,213 millions d'Ukrainiens ont été enregistrés en Europe au 30 avril 2026, sur un total mondial de 5,762 millions hors Russie.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html",
+      "publishedAt": "2026-07-21T05:03:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "En Russie, la frappe ukrainienne sur Omsk sème choc et inquiétude chez les habitants",
+      "source": "RFI",
+      "summary": "Kiev a visé la plus grande raffinerie russe à 2 500 km du front le 7 juillet. Sans impact sur l'approvisionnement, l'attaque a profondément marqué les habitants d'Omsk, rapporte RFI.",
+      "link": "https://www.rfi.fr/fr/europe/20260721-frappes-en-profondeur-de-l-ukraine-en-russie-%C3%A0-omsk-dans-le-calme-des-rues-choc-stupeur-et-inqui%C3%A9tudes",
+      "publishedAt": "2026-07-21T06:45:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 208,
+    "articlesAfterDedup": 208,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 7.5,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 1,
+      "politics": 2,
+      "society": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "americas": 3,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

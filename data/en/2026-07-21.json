@@ -1,0 +1,176 @@
+{
+  "date": "2026-07-21",
+  "summary": "The U.S. reviewed Israel's assessment that Iran moved centrifuge components to a mountain facility known as Pickaxe Mountain. President Trump threatened to attack the site, escalating nuclear tensions between the two countries. The move signals a potential new phase in the long-running standoff over Iran's nuclear program.\n\nOvernight, the U.S. launched fresh strikes on Iranian military command centers. Iran's Revolutionary Guards said they hit U.S. radar and air defense systems in Bahrain and Kuwait, and struck two ships in the Strait of Hormuz. New details emerged from last week's attack on a U.S. base in Jordan: one of three Iranian missiles hit dormitories, underscoring the difficulty of defending against such barrages. Separately, evidence suggests three Indian sailors died in a U.S. airstrike on a shadow fleet tanker in the Gulf of Oman, raising questions about targeting procedures.\n\nThe trade war with Canada escalated as President Trump imposed 50% tariffs on most Canadian goods, including wine and hockey sticks, citing unfair discrimination. Canadian Prime Minister Mark Carney vowed to intensify trade talks. In Britain, new Prime Minister Andy Burnham reshuffled his cabinet, appointing John Healey as finance minister and Ed Miliband as foreign minister, and cut VAT on electricity to ease cost-of-living pressures—a clear leftward shift.\n\nElsewhere, Nicaragua's President Daniel Ortega said the country will hold no more elections, promising to build a 'wall' against the opposition. Flash floods in Afghanistan's Nuristan province killed 20 people and injured over 80. And in a first, Tokyo publicized a Chinese warship's live-fire drill inside Japan's exclusive economic zone near Okinotorishima island, prompting a formal protest.",
+  "headlines": [
+    {
+      "title": "Israel says Iran moved nuclear centrifuges to Pickaxe Mountain, Trump warns of attack",
+      "source": "Wall Street Journal World",
+      "summary": "The US reviewed Israel's assessment that Iran transferred centrifuge components to a mountain facility. President Trump threatened military action against the site, escalating nuclear tensions.",
+      "link": "https://www.wsj.com/world/middle-east/israel-believes-iran-moved-nuclear-centrifuges-into-pickaxe-mountain-d29d21c0",
+      "publishedAt": "2026-07-21T01:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump imposes 50% tariffs on most Canadian goods",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "BBC World"
+      ],
+      "summary": "President Trump imposed 50% tariffs on Canadian wine, hockey sticks, and other goods, citing discrimination. Canadian PM Carney vows to intensify trade talks, escalating the North American trade war.",
+      "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+      "publishedAt": "2026-07-21T02:29:47.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "UK Prime Minister Andy Burnham unveils new cabinet, cuts electricity tax",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "New York Times World"
+      ],
+      "summary": "New UK PM Andy Burnham reshuffled the cabinet, appointing John Healey as finance minister and Ed Miliband as foreign minister. He also cut VAT on electricity to tackle cost-of-living pressures, signaling a leftward shift.",
+      "link": "https://www.france24.com/en/europe/20260721-uk-prime-minister-andy-burnham-unveils-new-government-replacing-starmer-era",
+      "publishedAt": "2026-07-21T03:21:53.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "US launches fresh strikes on Iran; Iran hits targets in Bahrain and Kuwait",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "France 24"
+      ],
+      "summary": "The US struck Iranian military command centers overnight. Iran's Revolutionary Guards said they hit US radar and air defense systems in Bahrain and Kuwait, and two ships in the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T06:16:06.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nicaragua's President Ortega says country will hold no more elections",
+      "source": "The Guardian",
+      "summary": "Authoritarian leader Daniel Ortega, 80, announced the end of elections, pledging to pass laws to 'build a wall' against the opposition, cementing his grip on power.",
+      "link": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
+      "publishedAt": "2026-07-20T21:36:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Flash floods kill 20 in Afghanistan's Nuristan province",
+      "source": "Deutsche Welle",
+      "summary": "Heavy floods in the city of Parun killed 20 people and injured over 80. Lack of infrastructure and climate change exacerbate Afghanistan's vulnerability to natural disasters.",
+      "link": "https://www.dw.com/en/afghanistan-deadly-flash-floods-hit-nuristan-province/a-78045451?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-21T08:19:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Chinese warship holds live-fire exercise inside Japan's EEZ",
+      "source": "Japan Times",
+      "summary": "Tokyo publicized the drill near Okinotorishima island, releasing images of a destroyer firing a machine gun. It is the first time Japan has disclosed such an incident, prompting a protest.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/21/japan/china-live-fire-exercise-japan-eez/",
+      "publishedAt": "2026-07-21T07:39:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "New details show Iran missile struck housing for US troops at Jordan base",
+      "source": "Wall Street Journal World",
+      "summary": "One of three missiles hit dormitories at a US base in Jordan, causing casualties. The attack shows difficulty in defending against Iranian missiles and drones, as US forces remain on alert.",
+      "link": "https://www.wsj.com/world/middle-east/iran-missile-struck-housing-for-u-s-troops-at-jordan-base-9f5b8120",
+      "publishedAt": "2026-07-21T00:01:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "A deadly Iranian missile attack on a US base in Jordan killed three soldiers and wounded dozens, marking a major escalation in the US-Iran conflict.",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Three Indian sailors die in US airstrike on shadow fleet tanker, evidence shows",
+      "source": "New York Times World",
+      "summary": "Evidence suggests the tanker was stationary in the Gulf of Oman when struck. The ship had been involved in risky oil transfers. The incident raises questions about US targeting procedures.",
+      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html",
+      "publishedAt": "2026-07-21T02:28:31.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "The US has been targeting shadow fleet tankers suspected of transporting Iranian oil, but this strike resulted in civilian casualties.",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 408,
+    "articlesAfterDedup": 408,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 11.1,
+    "categoryCounts": {
+      "conflict": 5,
+      "economy": 1,
+      "politics": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 4,
+      "americas": 2,
+      "europe": 1,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 3,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

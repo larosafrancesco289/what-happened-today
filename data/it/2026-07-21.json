@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-21",
+  "summary": "L'escalation tra Stati Uniti e Iran ha raggiunto un nuovo picco. Teheran ha colpito obiettivi americani in Bahrein e Kuwait, e il Pentagono conta quasi cento soldati feriti dal 7 luglio. La Casa Bianca valuta la risposta, mentre proseguono gli scontri. La situazione resta tesa, con il rischio di un conflitto più ampio che preoccupa i mercati e gli alleati.\n\nIn Europa, il nuovo premier britannico Andy Burnham ha presentato il suo piano decennale: case popolari e rilancio industriale. Ha già avviato contatti con Usa, Ucraina e Ue per rafforzare l'economia. Intanto Donald Trump ha annunciato dazi al 50% su vino e cemento dal Canada, accusando Ottawa di discriminazioni. Il premier canadese Mark Carney si dice pronto a discutere, ma la mossa rischia di inasprire le relazioni commerciali.\n\nIn Medio Oriente, Hamas ha eletto un nuovo leader: Al-Hayya, già braccio destro di Sinwar. La successione, iniziata a gennaio, segna un cambio di guardia mentre la Striscia resta sotto pressione. Sempre in Ucraina, un attacco con drone russo a Sumy ha provocato un vasto incendio in un centro commerciale: non si registrano vittime, ma i danni sono ingenti.\n\nIn Italia, a Bologna la notte è stata di guerriglia dopo il corteo per Fakir. Manifestanti hanno incendiato un'auto comunale e danneggiato negozi, mentre undici persone sono state curate dal 118. A Eboli, oggi è prevista l'autopsia sul giornalista sportivo Luigi Esposito per chiarire la dinamica dell'omicidio. Infine, ad Atene un uomo armato di coltello ha accoltellato due turisti greco-americani all'Acropoli, ferendo gravemente l'uomo. L'aggressore è stato arrestato.",
+  "headlines": [
+    {
+      "title": "Iran colpisce target Usa in Bahrein e Kuwait, 100 soldati americani feriti",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Quasi 100 soldati Usa feriti dal 7 luglio. Il Pentagono conta i danni mentre Trump valuta una guerra totale. Scontri in corso.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-21-luglio_114646651-202602k.shtml",
+      "publishedAt": "2026-07-21T08:29:40.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Bologna, guerriglia notturna dopo il corteo per Fakir: incendiata auto del Comune",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "TGCOM24",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Dopo gli scontri in piazza Nettuno, manifestanti incendiano un'auto comunale e danneggiano negozi. 11 persone curate dal 118.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/guerriglia-a-bologna-fino-a-notte-incendiata-anche-unauto-del-comune_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+      "publishedAt": "2026-07-21T08:42:31.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Si concentra sui danni e reazioni delle forze dell'ordine",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/guerriglia-a-bologna-fino-a-notte-incendiata-anche-unauto-del-comune_5e512a40-7ef6-47a1-8d8c-b364832957c4.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Enfatizza la guerriglia urbana e la distruzione di dehors e bici",
+          "link": "https://www.tgcom24.mediaset.it/2026/video/bologna-scontri-dopo-la-manifestazione-per-la-morte-di-fakir-in-fiamme-due-auto-del-comune_114652409-02k.shtml"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Descrive la dinamica con bombe carta e lacrimogeni",
+          "link": "https://www.ilsole24ore.com/art/bologna-scontri-corteo-fakir-bomba-carta-idranti-e-lacrimogeni-AJD1HZQ"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Burnham presenta il piano decennale: case popolari e industria, chiama Usa e Ue",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il neopremier britannico svela la squadra e le linee guida. Chiede colloqui con Usa, Ucraina e Ue per rilanciare l'economia.",
+      "link": "https://www.repubblica.it/esteri/2026/07/21/news/burnham_presentazione_ministri_piano_decennale-425483307/?rss",
+      "publishedAt": "2026-07-20T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump annuncia dazi al 50% su vino e cemento dal Canada",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il presidente Usa accusa Ottawa di pratiche discriminatorie. Il premier Carney si dice pronto a discutere.",
+      "link": "https://www.repubblica.it/esteri/2026/07/21/news/trump_annuncia_nuovi_dazi_per_il_canada_tariffa_del_50_su_vino_e_cemento-425483378/?rss",
+      "publishedAt": "2026-07-21T07:03:43.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Al-Hayya eletto nuovo capo di Hamas, era il braccio destro di Sinwar",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "La procedura segreta per la successione era iniziata a gennaio dopo la guida collegiale. Al-Hayya assume la leadership.",
+      "link": "https://www.repubblica.it/esteri/2026/07/21/news/gaza_al-hayya_nuovo_capo_hamas_sinwar-425483301/?rss",
+      "publishedAt": "2026-07-20T23:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Attacco con drone russo a Sumy: vasto incendio a un centro commerciale",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Un drone FPV colpisce un negozio di fai-da-te in Ucraina. I vigili del fuoco domano le fiamme.",
+      "link": "http://it.euronews.com/video/2026/07/21/attacco-con-drone-provoca-vasto-incendio-a-sumy-nellucraina-nordorientale",
+      "publishedAt": "2026-07-21T07:02:23.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Grecia, accoltellati due turisti all'Acropoli di Atene, arrestato aggressore",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Un uomo armato di coltello ferisce gravemente un turista greco-americano e lievemente la moglie. Polizia arresta il responsabile.",
+      "link": "http://it.euronews.com/my-europe/2026/07/21/grecia-attacco-con-coltello-allacropoli-di-atene-feriti-due-turisti",
+      "publishedAt": "2026-07-21T08:06:02.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Vietnam, autobus in fiamme: sette morti e cinque feriti",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Un incendio divampa su un autobus in viaggio da Lam Dong a Ho Chi Minh City. Indagini in corso.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/vietnam-autobus-in-fiamme-sette-morti-e-cinque-feriti-_114650097-02k.shtml",
+      "publishedAt": "2026-07-21T07:03:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Ungheria, la regina degli scacchi Polgar rifiuta la presidenza: 'Paese diviso'",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Judit Polgar, scelta dal premier Magyar, non accetta l'incarico per mancanza di forza di fronte alla divisione nazionale.",
+      "link": "https://www.repubblica.it/esteri/2026/07/21/news/ungheria_regina_scacchi_judit_polgar_rifiuta_presidenza_paese_diviso_magyar-425483620/?rss",
+      "publishedAt": "2026-07-21T06:59:41.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Omicidio di Luigi Esposito, oggi l'autopsia per fare luce sulla dinamica",
+      "source": "Rai News",
+      "sources": [
+        "Rai News"
+      ],
+      "summary": "L'esame autoptico sul giornalista sportivo ucciso a Eboli chiarirà l'azione omicidiaria. Analisi su auto e telecamere.",
+      "link": "https://www.rainews.it/articoli/2026/07/omicidio-luigi-luca-eboli-esposito-lautopsia-e4035f0e-74bd-4879-81e9-0f8a4cf67c95.html",
+      "publishedAt": "2026-07-21T08:29:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 167,
+    "articlesAfterDedup": 166,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 12,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.8,
+    "categoryCounts": {
+      "conflict": 2,
+      "society": 4,
+      "politics": 3,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 6,
+      "americas": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

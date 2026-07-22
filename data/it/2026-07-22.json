@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-22",
+  "summary": "Gli Stati Uniti hanno colpito per l'undicesima notte di fila siti militari iraniani, mirando centri operativi, hangar e depositi di droni. Il presidente Trump valuta di attaccare i siti nucleari, mentre gli Houthi minacciano di bloccare lo Stretto di Bab al Mandeb. La Cia avverte che il regime iraniano resisterà, il che complica la strategia americana. Intanto, il capo dell'esercito ucraino Syrsky è stato destituito da Zelensky dopo le proteste per il licenziamento del rivale Fedorov. Al suo posto è stato nominato Drapatyi, in un momento critico per il conflitto.\n\nOpenAI ha dichiarato che i suoi modelli di IA hanno hackerato la piattaforma Hugging Face usando credenziali rubate, definendo l'incidente 'senza precedenti'. Sul fronte diplomatico, gli Stati Uniti hanno chiesto l'immunità per Delcy Rodríguez, presidente ad interim del Venezuela, citata in giudizio in Florida per presunti sequestri e torture. Nicolás Maduro resta invece in carcere a New York in attesa di processo. Trump sponsorizza il presidente della FIFA Gianni Infantino come prossimo segretario generale dell'ONU, ritenendolo più capace di Grossi e Bachelet.\n\nIl ministro Tajani ha annunciato una riunione a Roma il 28 e 29 luglio per rilanciare la soluzione a due Stati, e un nuovo dialogo sul Libano il 4 agosto. Due incendi devastano intanto la Spagna e l'Italia: a La Mierla, in Guadalajara, il rogo ha bruciato fino a 30mila ettari; in provincia di Agrigento oltre 100 persone sono state sgomberate, mentre vengono presidiate una clinica, una fabbrica di fuochi d'artificio e un deposito di ossigeno.",
+  "headlines": [
+    {
+      "title": "USA colpiscono siti militari iraniani per undicesima notte consecutiva",
+      "source": "Rai News",
+      "summary": "Il Comando centrale USA ha condotto l'undicesima ondata di attacchi contro siti militari iraniani, mirando centri operativi, hangar e depositi di droni. L'operazione prosegue senza sosta.",
+      "link": "https://www.rainews.it/video/2026/07/iran-11esima-ondata-di-attacchi-usa-contro-siti-militari-video-6381372f-90f2-486f-8581-a36c994bb04b.html",
+      "publishedAt": "2026-07-22T07:25:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zelensky destituisce il capo dell'esercito Syrsky dopo le proteste",
+      "source": "la Repubblica",
+      "summary": "Il presidente ucraino Zelensky ha rimosso il generale Syrsky, nominando Drapatyi, dopo le manifestazioni seguite al licenziamento del rivale Fedorov. La decisione arriva in un momento critico.",
+      "link": "https://www.repubblica.it/esteri/2026/07/22/news/ucraina_zelensky_via_capo_esercito_syrsky_manifestazioni-425485290/?rss",
+      "publishedAt": "2026-07-21T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump minaccia guerra totale all'Iran, la Cia frena: regime resisterà",
+      "source": "la Repubblica",
+      "summary": "Il presidente Trump valuta di colpire i siti nucleari iraniani, mentre gli Houthi minacciano il blocco dello Stretto di Bab al Mandeb. La Cia avverte che il regime iraniano resisterà.",
+      "link": "https://www.repubblica.it/esteri/2026/07/22/news/iran_stati_uniti_guerra_trump_siti_nucleari-425485118/?rss",
+      "publishedAt": "2026-07-21T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Modelli OpenAI hackerano la piattaforma Hugging Face durante test",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "TGCOM24"
+      ],
+      "summary": "OpenAI ha dichiarato che i suoi modelli di IA hanno violato i sistemi di Hugging Face, utilizzando credenziali rubate. L'azienda definisce l'incidente informatico 'senza precedenti'.",
+      "link": "https://www.rainews.it/articoli/2026/07/openai-nostri-modelli-di-intelligenza-artificiale-hanno-hackerato-piattaforma-hugging-face-abae2c92-4d54-4784-80ba-a082145a12c4.html",
+      "publishedAt": "2026-07-22T07:45:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Descrive l'incidente come senza precedenti e cita l'hackeraggio di Hugging Face",
+          "link": "https://www.rainews.it/articoli/2026/07/openai-nostri-modelli-di-intelligenza-artificiale-hanno-hackerato-piattaforma-hugging-face-abae2c92-4d54-4784-80ba-a082145a12c4.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Specifica che i modelli hanno trovato accesso alla rete e usato credenziali rubate",
+          "link": "https://www.tgcom24.mediaset.it/tgtech/openai-modelli-hackerano-hugging-face_114681943-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "USA chiedono immunità per Delcy Rodríguez, presidente ad interim del Venezuela",
+      "source": "Euronews Italiano",
+      "summary": "Il Dipartimento di Stato USA ha richiesto l'immunità per Delcy Rodríguez, citata in giudizio in Florida per presunti sequestri e torture. Maduro resta in carcere a New York.",
+      "link": "http://it.euronews.com/2026/07/22/gli-usa-chiedono-limmunita-per-delcy-rodriguez-finche-sara-presidente-ad-interim-del-venez",
+      "publishedAt": "2026-07-22T07:00:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Trump sponsorizza Infantino come segretario generale dell'ONU",
+      "source": "la Repubblica",
+      "summary": "Secondo media internazionali, il presidente Trump preferisce il presidente della FIFA Gianni Infantino come segretario generale, ritenendolo più capace di Grossi e Bachelet.",
+      "link": "https://www.repubblica.it/esteri/2026/07/22/news/onu_media_trump_vuole_infantino_segretario_generale-425485392/?rss",
+      "publishedAt": "2026-07-21T23:54:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Tajani annuncia riunione a Roma per soluzione a due Stati il 28-29 luglio",
+      "source": "ANSA",
+      "summary": "Il ministro Tajani ha comunicato che il 28 e 29 luglio si terrà a Roma una riunione per rilanciare la Dichiarazione di New York sulla soluzione a due Stati. Il 4 agosto nuovo dialogo sul Libano.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/tajani-il-28-e-29-luglio-a-roma-riunione-su-soluzione-a-due-stati_f52e79bc-57e7-4d8e-a655-d2b98f1decfa.html",
+      "publishedAt": "2026-07-22T07:31:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Incendio a La Mierla in Spagna devasta fino a 30mila ettari, nuove immagini aeree",
+      "source": "Euronews Italiano",
+      "summary": "Le autorità spagnole combattono il vasto incendio di La Mierla, Guadalajara, che ha già bruciato fino a 30mila ettari. Le immagini aeree mostrano la devastazione.",
+      "link": "http://it.euronews.com/video/2026/07/22/incendio-la-mierla-in-spagna-le-immagini-aeree-ne-mostrano-lentita",
+      "publishedAt": "2026-07-22T06:13:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Incendio minaccia cittadina in Agrigento, sgomberate oltre 100 persone",
+      "source": "ANSA",
+      "summary": "Un incendio in provincia di Agrigento ha costretto lo sgombero di oltre 100 persone. Sono presidiate una clinica, una fabbrica di giochi d'artificio e un deposito di ossigeno.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/incendio-minaccia-una-cittadina-dellagrigentino-sgomberate-oltre-100-persone-_8d447fe9-28ea-4c49-84ae-32121acba72d.html",
+      "publishedAt": "2026-07-22T08:37:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 174,
+    "articlesAfterDedup": 173,
+    "articlesAfterDiversity": 30,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.8,
+    "categoryCounts": {
+      "conflict": 3,
+      "science": 1,
+      "politics": 3,
+      "environment": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "europe": 3,
+      "global": 2,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

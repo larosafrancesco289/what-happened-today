@@ -1,0 +1,179 @@
+{
+  "date": "2026-07-22",
+  "summary": "Ukraine's political turmoil deepened today as President Volodymyr Zelensky dismissed the country's top general, Oleksandr Syrskyi, just days after protests broke out over the removal of a popular defense minister. The general had clashed with the minister over war strategy, and his firing comes at a tense moment in the war with Russia. No successor has been named. Meanwhile, Ukraine continued striking Russian infrastructure: overnight, its forces hit logistics hubs of retailer Wildberries in two regions, expanding a campaign to disrupt Moscow's supply chains.\n\nIn the Middle East, President Trump approved a landmark nuclear deal with Saudi Arabia that will allow American companies to profit from building reactors, but it also raises concerns about spreading atomic technology in a volatile region. The pact is a major win for the kingdom. Separately, the U.S. military completed its 11th straight day of strikes on Iran, with explosions heard over Tehran and air defenses activated. The sustained campaign continues without clear signs of de-escalation.\n\nFrance took a significant step on digital regulation: lawmakers passed a ban on social media for children under 15, requiring platforms to verify all users' ages starting January. The law is the first blanket ban in the EU. In Paris, Environment Minister Monique Barbut announced she would resign after parliament approved a pesticide measure she opposed, arguing it harms bees. The pesticide bill sparked controversy for potentially weakening environmental protections.\n\nElsewhere, a drone attack on a market in Sudan's North Kordofan region killed at least two children and four adults, according to UNICEF, with over 20 wounded. In Chile, President Jose Antonio Kast declared a state of emergency after a severe rainstorm left several dead and missing. And the Japanese yen slid past ¥163 to the dollar, its weakest in four decades, raising the odds of government intervention. The currency has lost a third of its value over five years.",
+  "headlines": [
+    {
+      "title": "Zelensky dismisses Ukraine's top general after days of protests",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "New York Times",
+        "Wall Street Journal",
+        "BBC"
+      ],
+      "summary": "President Zelensky fired Gen. Oleksandr Syrskyi following street protests over the removal of Defense Minister Mykhailo Fedorov. The dismissal comes at a critical moment in Ukraine's war with Russia.",
+      "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+      "publishedAt": "2026-07-21T21:39:10.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump approves landmark nuclear deal with Saudi Arabia",
+      "source": "Wall Street Journal World",
+      "summary": "President Trump approved a nuclear deal with Saudi Arabia, allowing large profits for U.S. companies but raising proliferation concerns in the Middle East. The agreement is a major win for the kingdom.",
+      "link": "https://www.wsj.com/world/middle-east/trump-approves-landmark-nuclear-deal-with-saudi-arabia-in-big-win-for-kingdom-2ed77584",
+      "publishedAt": "2026-07-22T01:36:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World",
+        "Wall Street Journal"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "France passes law banning under-15s from social media",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "BBC",
+        "NPR"
+      ],
+      "summary": "French lawmakers approved a sweeping ban on social media for children under 15, requiring age verification from January. France is the first EU country to pass such a blanket ban.",
+      "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T03:50:55.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Drone attack on Sudan market kills two children, injures six",
+      "source": "AllAfrica",
+      "summary": "A drone attack on a market in Ar Rahad, North Kordofan, killed at least two children and four adults, injuring over 20. UNICEF reported the attack.",
+      "link": "https://allafrica.com/stories/202607220140.html",
+      "publishedAt": "2026-07-22T05:04:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Ukraine hits more Russian Wildberries warehouses in overnight strikes",
+      "source": "BBC World",
+      "summary": "Ukrainian forces struck logistics hubs of Russian retailer Wildberries in Krasnodar and Stavropol regions overnight, according to Ukrainian officials. The attacks continue targeting Russian infrastructure.",
+      "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T08:37:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World",
+        "BBC"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Chile: several dead, missing in severe rainstorm; state of emergency declared",
+      "source": "Deutsche Welle",
+      "summary": "A severe rainstorm in Chile caused deaths and missing persons. President Jose Antonio Kast declared a state of emergency in affected areas.",
+      "link": "https://www.dw.com/en/chile-several-dead-missing-in-severe-rainstorm/a-78061120?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-22T06:09:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Yen falls beyond ¥163, weakest in four decades against dollar",
+      "source": "Japan Times",
+      "summary": "The Japanese yen weakened beyond ¥163 to the dollar, its lowest in 40 years, declining one-third over five years. Intervention speculation rises.",
+      "link": "https://www.japantimes.co.jp/business/2026/07/22/markets/163-yen/",
+      "publishedAt": "2026-07-22T07:37:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "French environment minister announces resignation over pesticide bill",
+      "source": "France 24",
+      "summary": "Environment Minister Monique Barbut said she will resign after parliament approved a controversial pesticide measure that harms bees. She opposed the bill.",
+      "link": "https://www.france24.com/en/france/20260722-french-environment-minister-announces-plan-to-resign-over-approved-pesticide-bill",
+      "publishedAt": "2026-07-22T08:22:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "US continues 11th day of strikes on Iran as air defences activate over Tehran",
+      "source": "Al Jazeera English",
+      "summary": "The US military completed its 11th consecutive day of strikes on Iran, with explosions heard over Tehran and air defences activated. Flames rose from US attacks.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss",
+      "publishedAt": "2026-07-22T07:28:29.000Z",
+      "tier": "developing",
+      "dayNumber": 11,
+      "previousContext": "US strikes on Iranian targets began over a week ago following Iranian missile attacks on US bases in the region.",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 12,
+    "articlesProcessed": 425,
+    "articlesAfterDedup": 423,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 11.1,
+    "categoryCounts": {
+      "politics": 4,
+      "conflict": 3,
+      "environment": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "middle-east": 2,
+      "africa": 1,
+      "americas": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 6,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

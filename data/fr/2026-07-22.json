@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-22",
+  "summary": "Volodymyr Zelensky a limogé ce matin le commandant en chef des forces armées ukrainiennes, le général Oleksandre Syrsky, qui occupait ce poste depuis 2024. La décision survient alors que la guerre avec la Russie entre dans sa troisième année, sans changement notable sur le front. Le président ukrainien n'a pas encore nommé de remplaçant, mais ce limogeage marque un tournant dans la direction militaire du pays, un sujet sensible à Kiev.\n\nLes États-Unis ont intensifié leurs frappes contre l'Iran, tandis que les rebelles houthis au Yémen renforcent leur pression sur le détroit d'Ormuz, voie clé pour le transport pétrolier mondial. Conséquence directe : le prix du baril de Brent a grimpé ce matin, les marchés redoutant des perturbations de l'approvisionnement. La menace houthie sur la mer Rouge, déjà source de tensions, s'ajoute à une escalade régionale qui inquiète les pays importateurs de pétrole.\n\nDeux annonces politiques à retenir. Donald Trump a dévoilé un nouveau volet de sa politique commerciale : des droits de douane de 100 % sur les médicaments génériques à partir d'août 2028, avec une période de transition de deux ans à 0 % pour permettre aux fabricants de relocaliser leur production aux États-Unis. En France, la ministre de la Transition écologique Monique Barbut a démissionné après le vote de la loi d'urgence agricole, qu'elle juge être un « recul environnemental de trop ». Elle s'opposait notamment à une mesure controversée sur les pesticides.\n\nAutres faits marquants. Le président libanais a été reçu à la Maison Blanche pour la première fois depuis 2009 : Joe Biden a qualifié le Liban de « pays maltraité depuis longtemps ». Aux États-Unis, le New Jersey a radié 6 600 ressortissants étrangers de ses listes électorales après une erreur informatique, sur fond d'accusations de fraude de Donald Trump avant les midterms. Enfin, le Canada et les États-Unis ont dévoilé une entente de principe pour le pont Gordie-Howe : Ottawa versera 50 % des recettes nettes annuelles.",
+  "headlines": [
+    {
+      "title": "Volodymyr Zelensky limoge le commandant en chef de l'armée Oleksandre Syrsky",
+      "source": "RTBF (Belgian)",
+      "summary": "Le président ukrainien a limogé le général Oleksandre Syrsky, commandant en chef depuis 2024, alors que la guerre avec la Russie se poursuit.",
+      "link": "https://www.rtbf.be/article/guerre-en-ukraine-zelensky-limoge-le-commandant-en-chef-de-l-armee-oleksandre-syrsky-11761088",
+      "publishedAt": "2026-07-21T20:45:59.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Les États-Unis élargissent leurs frappes en Iran, les Houthis resserrent le détroit d'Ormuz",
+      "source": "RTBF (Belgian)",
+      "summary": "Les États-Unis ont intensifié leurs frappes contre l'Iran tandis que les rebelles houthis yéménites accentuent la pression sur le détroit d'Ormuz, menaçant les routes pétrolières.",
+      "link": "https://www.rtbf.be/article/pression-des-rebelles-houthis-elargissement-des-frappes-americaines-en-iran-le-point-sur-la-situation-au-moyen-orient-11761042",
+      "publishedAt": "2026-07-21T17:38:39.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Donald Trump annonce des droits de douane de 100 % sur les médicaments génériques à partir d'août 2028",
+      "source": "20 Minutes",
+      "summary": "Le président américain a annoncé que les droits de douane sur les médicaments génériques passeront à 100 % en août 2028, après une période de deux ans à 0 % pour permettre la relocalisation.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4235708-20260722-medicaments-generiques-donald-trump-annonce-droits-douane-100-partir-aout-2028?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-22T07:58:40.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Monique Barbut annonce sa démission après le vote de la loi d'urgence agricole",
+      "source": "Le Monde",
+      "summary": "La ministre de la Transition écologique a annoncé sa démission, jugeant que le vote de la loi d'urgence agricole constitue un 'recul environnemental de trop'.",
+      "link": "https://www.lemonde.fr/politique/article/2026/07/22/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-annonce-remettre-sa-demission-apres-le-vote-de-la-loi-d-urgence-agricole_6729994_823448.html",
+      "publishedAt": "2026-07-22T07:12:50.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Le président libanais reçu à la Maison Blanche pour la première fois depuis 2009",
+      "source": "RTBF (Belgian)",
+      "summary": "Le président libanais a été reçu par le président américain Joe Biden à la Maison Blanche, une première depuis 2009. Les discussions ont porté sur la situation au Liban et au Moyen-Orient.",
+      "link": "https://www.rtbf.be/article/guerre-au-moyen-orient-le-president-libanais-recu-a-la-maison-blanche-une-premiere-depuis-2009-11760902",
+      "publishedAt": "2026-07-21T18:31:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Le prix du baril de pétrole en hausse face aux menaces en mer Rouge",
+      "source": "RTBF (Belgian)",
+      "summary": "Le prix du baril de Brent a augmenté en raison des menaces des rebelles houthis sur les routes maritimes en mer Rouge, perturbant le transport pétrolier.",
+      "link": "https://www.rtbf.be/article/les-routes-du-petrole-menacees-en-mer-rouge-le-prix-du-baril-en-hausse-11761121",
+      "publishedAt": "2026-07-22T05:49:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Le New Jersey radie 6 600 étrangers de ses listes électorales après des accusations de Trump",
+      "source": "20 Minutes",
+      "summary": "Le New Jersey a retiré 6 600 ressortissants étrangers de ses listes électorales à la suite d'une erreur informatique, sur fond d'accusations de fraude électorale de Donald Trump avant les midterms.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4235676-20260722-etats-unis-apres-accusations-fraude-trump-new-jersey-corrige-listes-electorales?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-21T23:42:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Canada et les États-Unis dévoilent une entente de principe pour le pont Gordie-Howe",
+      "source": "Radio-Canada",
+      "summary": "Le Canada versera des paiements annuels équivalant à 50 % des recettes nettes du pont Gordie-Howe, selon la proposition d'entente de principe dévoilée.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2270833/pont-gordie-accord-entente-principe-canada-etats-unis",
+      "publishedAt": "2026-07-22T03:43:29.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Xenia Fedorova échappe aux sanctions européennes, la France étudie d'autres voies",
+      "source": "Le Monde",
+      "summary": "La propagandiste prorusse Xenia Fedorova, ex-dirigeante de Russia Today France, n'est pas visée par les sanctions européennes, mais la France explore d'autres mesures.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/22/la-propagandiste-xenia-fedorova-echappe-aux-sanctions-europeennes-contre-des-personnalites-russes_6730000_3210.html",
+      "publishedAt": "2026-07-22T07:58:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Le Maghreb devient un refuge moins sûr pour les narcotrafiquants français",
+      "source": "Le Monde",
+      "summary": "Au Maroc, Algérie et Tunisie, les trafiquants français cherchent d'autres planques en raison des nouvelles relations diplomatiques entre Paris et Rabat/Alger.",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/22/au-maroc-je-ne-me-cachais-pas-le-maghreb-refuge-de-plus-en-plus-menace-des-narcos-francais_6729818_3451060.html",
+      "publishedAt": "2026-07-22T04:30:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 12,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 15.2,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 2,
+      "politics": 5,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 2,
+      "americas": 3,
+      "global": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

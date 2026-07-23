@@ -1,0 +1,155 @@
+{
+  "date": "2026-07-23",
+  "summary": "Il bilancio del doppio terremoto in Venezuela ha raggiunto 5.398 morti e quasi 18 mila sfollati. L'ONU stima i dispersi tra 29 e 50 mila. La ricostruzione procede a rilento, mentre il paese fatica a gestire l'emergenza.\n\nIntanto, il conflitto in Ucraina vede nuovi sviluppi. I ministri degli Esteri russo e americano, Lavrov e Rubio, si sono incontrati a Manila per discutere della guerra. Zelensky pianifica un incontro con Trump a Washington. A Kiev le proteste continuano: dopo il licenziamento del capo dell'esercito Syrsky, la piazza chiede il ritorno dell'ex ministro della Difesa Fedorov. Nel frattempo, i ribelli Houthi hanno attaccato due petroliere saudite nel Mar Rosso, minacciando il traffico marittimo in una zona finora sicura per l'export di greggio.\n\nSul fronte delle sanzioni, l'Unione Europea ha approvato il 21° pacchetto contro la Russia dopo settimane di trattative. Include un'esenzione per la Grecia sul trasporto di GNL russo verso paesi terzi, e la cancellazione del patriarca Kirill dalla lista. L'intesa ha richiesto compromessi per superare i veti nazionali, e prevede anche il congelamento per 12 mesi del price cap sul petrolio russo.\n\nInfine, due notizie dal mondo economico e sociale. Alphabet, madre di Google, ha perso il 3% nell'after hour dopo aver bruciato 6 miliardi di dollari in investimenti per l'IA. La direttrice finanziaria ha alzato le previsioni di spesa per data center a 195-205 miliardi per il 2026, segno della trasformazione dell'azienda. Negli Stati Uniti, l'organizzazione Return to the Land elude le leggi antidiscriminazione presentando comunità come club privati, con l'obiettivo di espandere il separatismo razziale, sfruttando il favore dell'amministrazione Trump.",
+  "headlines": [
+    {
+      "title": "Il bilancio del terremoto in Venezuela sale a 5.398 morti, migliaia di dispersi",
+      "source": "Euronews Italiano",
+      "summary": "Il doppio terremoto in Venezuela ha causato 5.398 vittime accertate e quasi 18.000 sfollati, con dispersi stimati tra 29.000 e 50.000 dall'ONU, mentre la ricostruzione procede a rilento.",
+      "link": "http://it.euronews.com/2026/07/23/venezuela-il-bilancio-dei-terremoti-sale-a-5398-morti-incognita-dispersi",
+      "publishedAt": "2026-07-23T07:51:21.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "UE raggiunge accordo sul 21° pacchetto sanzioni Russia, deroga per trasporto GNL greco",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Dopo settimane di trattative, gli ambasciatori Ue hanno approvato il XXI pacchetto sanzioni Russia, con esenzione per la Grecia sul trasporto GNL verso Paesi extra Ue e cancellazione del patriarca Kirill dalla lista.",
+      "link": "https://www.agi.it/estero/news/2026-07-23/ue-accordo-21-pacchetto-sanzioni-russia-38188048/",
+      "publishedAt": "2026-07-23T08:39:57.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha sintetizzato l'accordo e i veti nazionali che hanno indebolito la proposta",
+          "link": "https://www.agi.it/estero/news/2026-07-23/ue-accordo-21-pacchetto-sanzioni-russia-38188048/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha dettagliato la deroga per la Grecia e la cancellazione del patriarca Kirill",
+          "link": "http://it.euronews.com/my-europe/2026/07/23/nuovo-pacchetto-di-sanzioni-ue-alla-russia-deroga-per-la-grecia-che-puo-trasportare-gnl-ru"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Lavrov e Rubio si incontrano a Manila per discutere del conflitto in Ucraina",
+      "source": "TGCOM24",
+      "summary": "I ministri degli Esteri russo e americano si sono incontrati a Manila, concentrandosi sul conflitto in Ucraina, mentre Zelensky pianifica un incontro con Trump a Washington.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-incontro-lavrov-rubio_114712842-202602k.shtml",
+      "publishedAt": "2026-07-23T08:18:44.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Houthi attaccano due petroliere saudite che violano il blocco navale nel Mar Rosso",
+      "source": "la Repubblica",
+      "summary": "I ribelli yemeniti Houthi hanno attaccato due petroliere saudite che avevano violato il blocco navale nel Mar Rosso, minacciando il traffico marittimo anche in quest'area.",
+      "link": "https://www.repubblica.it/esteri/2026/07/23/news/attaccate_dagli_houthi_due_petroliere_saudite_che_hanno_violato_il_blocco_navale-425487387/?rss",
+      "publishedAt": "2026-07-23T00:42:49.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Villaggi suprematisti bianchi si travestono da club privati per aggirare le leggi Usa",
+      "source": "la Repubblica",
+      "summary": "L'organizzazione Return to the Land elude la normativa antidiscriminazione presentando comunità come associazioni riservate, con l'obiettivo di espandere il separatismo razziale sfruttando il favore dell'amministrazione Trump.",
+      "link": "https://www.repubblica.it/esteri/2026/07/23/news/villaggi_suprematisti_bianchi_travestiti_da_club_privati_cosi_aggirano_leggi_usa-425487770/?rss",
+      "publishedAt": "2026-07-23T07:33:48.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Alphabet brucia 6 miliardi di dollari per investimenti nell'IA, crolla in borsa",
+      "source": "AGI",
+      "summary": "Alphabet, madre di Google, ha perso oltre il 3% nell'after hour e registrato un flusso di cassa libero negativo di 5,9 miliardi nel trimestre, a causa degli enormi investimenti in infrastrutture IA.",
+      "link": "https://www.agi.it/economia/news/2026-07-23/alphabet-brucia-6mld-38188053/",
+      "publishedAt": "2026-07-23T07:49:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "A Kiev continuano le proteste: la piazza chiede il ritorno di Fedorov alla Difesa",
+      "source": "la Repubblica",
+      "summary": "Nonostante il licenziamento del capo dell'esercito Syrsky, le proteste a Kiev proseguono, con richieste di reintegro dell'ex ministro della Difesa Fedorov. Raid su depositi Amazon russa e incontro Rubio-Lavrov.",
+      "link": "https://www.repubblica.it/esteri/2026/07/23/news/zelensky_proteste_kiev_fedorov_torni_difesa-425487239/?rss",
+      "publishedAt": "2026-07-22T23:00:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Ieri Zelensky ha destituito il capo dell'esercito Syrsky in seguito alle proteste; oggi le proteste continuano e chiedono il ritorno di Fedorov alla Difesa.",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 192,
+    "articlesAfterDedup": 189,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 8,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.8,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 3,
+      "conflict": 1,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "europe": 2,
+      "global": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

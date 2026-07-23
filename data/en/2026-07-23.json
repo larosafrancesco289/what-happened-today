@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-23",
+  "summary": "The US is sending additional troops, medics, and equipment to the Middle East after three American soldiers died in an Iranian attack on a base in Jordan. President Trump warned he would bomb Iranian power plants and bridges if Tehran strikes ships. The House passed a $1 trillion Pentagon funding bill to support operations, signaling a major escalation. The build-up follows months of tit-for-tat strikes, and the risk of a broader conflict is now higher than at any point since the Iraq war.\"\n\n  \"Separately, Trump approved a landmark nuclear deal with Saudi Arabia. The agreement gives US companies priority access to the kingdom's nuclear energy program and could last decades, worth billions. Critics worry it could spark a nuclear arms race in the Middle East, but the White House calls it a win for American jobs. In Europe, the EU agreed on its 21st sanctions package against Russia, including a 12-month freeze on the Russian oil price cap. The move keeps pressure on Moscow's economy as the Ukraine war grinds on.\"\n\n  \"Public health is deteriorating in two conflict zones. In Congo-Kinshasa, the latest Ebola outbreak has now killed over 1,000 people since May. The new strain is deadlier than previous ones, and no vaccines or treatments exist. In Gaza, a new report finds more than 92 percent of homes have been damaged or destroyed by Israeli attacks, leaving hundreds of thousands without shelter. The housing crisis deepens as the war enters its fourth month with no ceasefire in sight.",
+  "headlines": [
+    {
+      "title": "US surges forces toward Middle East, Trump threatens to bomb Iran infrastructure",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "New York Times World",
+        "BBC World",
+        "Deutsche Welle",
+        "NPR News"
+      ],
+      "summary": "The US sends additional troops and equipment after three soldiers died in an Iranian attack in Jordan. Trump warns of bombing power plants and bridges if Tehran strikes ships. The House passes a $1 trillion Pentagon funding bill to support the Iran war.",
+      "link": "https://www.wsj.com/world/middle-east/u-s-surges-forces-toward-middle-east-giving-trump-options-to-expand-iran-war-e5d627b1",
+      "publishedAt": "2026-07-22T22:42:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump approves landmark nuclear deal with Saudi Arabia",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "BBC World",
+        "NPR News"
+      ],
+      "summary": "The agreement gives US companies priority access to Saudi Arabia's nuclear energy program. The deal is expected to last decades and be worth billions, but raises proliferation concerns.",
+      "link": "https://www.wsj.com/world/middle-east/trump-approves-landmark-nuclear-deal-with-saudi-arabia-in-big-win-for-kingdom-2ed77584",
+      "publishedAt": "2026-07-22T21:36:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Ebola deaths in Congo surpass 1,000 in latest outbreak",
+      "source": "AllAfrica",
+      "summary": "The death toll from the new Ebola strain in Congo-Kinshasa exceeds 1,000 since mid-May. The fatality rate is higher than previous outbreaks, and no vaccines or treatments exist.",
+      "link": "https://allafrica.com/stories/202607230186.html",
+      "publishedAt": "2026-07-23T06:35:19.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Over 92% of Gaza homes damaged or destroyed, deepening shelter crisis",
+      "source": "Al Jazeera English",
+      "summary": "A new photo report shows that more than 92 percent of homes in Gaza have been damaged or destroyed by Israeli attacks, leaving hundreds of thousands without adequate shelter.",
+      "link": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss",
+      "publishedAt": "2026-07-23T08:12:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "EU agrees 21st sanctions package against Russia, freezes oil price cap",
+      "source": "France 24",
+      "summary": "EU ambassadors reach political agreement on a new round of sanctions over Ukraine. The package includes a 12-month freeze on the Russian oil price cap.",
+      "link": "https://www.france24.com/en/europe/20260723-eu-ambassadors-agree-21st-sanctions-package-against-russia",
+      "publishedAt": "2026-07-23T07:33:49.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 429,
+    "articlesAfterDedup": 429,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 11.1,
+    "categoryCounts": {
+      "conflict": 2,
+      "politics": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "africa": 1,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

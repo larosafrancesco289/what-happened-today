@@ -1,0 +1,163 @@
+{
+  "date": "2026-07-24",
+  "summary": "Iran rejected a US cease-fire proposal delivered by Iraq's prime minister, officials said Friday, as the US military carried out a 13th straight night of strikes on Iran targeting threats to shipping in the Strait of Hormuz. The rejection deepens the confrontation between the two countries, which has driven oil prices higher and raised fears of a broader conflict in the Middle East. The US has surged forces to the region, and President Trump has threatened to bomb Iranian infrastructure.\n\nThe United States imposed new tariffs on 60 trading partners starting Friday, covering 99% of all goods entering the country. The administration says the measures target goods produced with forced labor, replacing a temporary global tariff struck down by the Supreme Court in February. Oil prices surged, with Brent crude hitting $100 a barrel for the first time since May, up more than 6% on Thursday, as the US-Iran conflict threatens oil shipments through the Strait of Hormuz.\n\nChina retaliated against the European Union's latest sanctions on Russia by adding 14 EU entities to its export control list, banning the export of dual-use items to them effective immediately. The move escalates trade tensions between Beijing and Brussels. In the South China Sea, China and the Philippines traded blame as clashes continued for a second day near Scarborough Shoal. Beijing started military drills that are expected to run until the end of the month.\n\nMore than 900 wildfires are burning across Canada, scorching about 3 million hectares, with fires out of control in the Northwest Territories and Ontario. Smoke has caused poor air quality in parts of the US and even crossed the Atlantic to northern Europe. In Europe, Spain declared a national emergency in the Madrid region as wildfires forced tens of thousands to evacuate, and France invoked the EU's civil protection mechanism to request international assistance. Yemen's Houthi militants threatened Red Sea shipping, opening a new front in the US-Iran conflict by endangering one of the world's most vital waterways.",
+  "headlines": [
+    {
+      "title": "Iran rejects US cease-fire as US strikes for 13th consecutive night",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "New York Times",
+        "Deutsche Welle",
+        "Al Jazeera"
+      ],
+      "summary": "Iran rejected a US cease-fire proposal delivered by Iraq's prime minister, officials say. The US military conducted a 13th straight night of strikes on Iran, targeting threats to shipping in the Strait of Hormuz.",
+      "link": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+      "publishedAt": "2026-07-24T07:48:18.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "US imposes new tariffs on 60 trading partners over forced labor concerns",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "BBC",
+        "Deutsche Welle"
+      ],
+      "summary": "Starting Friday, the US will impose tariffs on 99% of goods from 60 nations, citing forced labor. The move replaces a temporary global tariff struck down by the Supreme Court in February.",
+      "link": "https://www.france24.com/en/us-hits-partners-with-new-tariffs-over-forcer-labour-claims",
+      "publishedAt": "2026-07-24T08:29:43.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Oil prices hit $100 a barrel for the first time since May",
+      "source": "BBC World",
+      "singleSource": true,
+      "summary": "Brent crude rose over 6% on Thursday, reaching $100 per barrel for the first time since May as the US-Iran conflict escalates, threatening oil shipments through the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T15:31:00.000Z",
+      "tier": "top",
+      "sources": [
+        "BBC World",
+        "BBC"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "China adds 14 European entities to export control list in retaliation for EU sanctions",
+      "source": "South China Morning Post",
+      "singleSource": true,
+      "summary": "China banned dual-use exports to 14 EU entities effective immediately, retaliating after Brussels imposed new sanctions on Russia, escalating trade tensions between Beijing and the EU.",
+      "link": "https://www.scmp.com/economy/global-economy/article/3361732/china-adds-eu-entities-export-control-list?utm_source=rss_feed",
+      "publishedAt": "2026-07-24T08:14:39.000Z",
+      "tier": "also",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "China and Philippines trade blame as Scarborough Shoal clashes continue for second day",
+      "source": "South China Morning Post",
+      "singleSource": true,
+      "summary": "The China Coast Guard said it took control measures against Philippine vessels near Scarborough Shoal. Beijing also began military drills in the South China Sea until end of July.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3361723/south-china-sea-beijing-and-manila-trade-blame-second-day-scarborough-shoal-clashes?utm_source=rss_feed",
+      "publishedAt": "2026-07-24T07:24:47.000Z",
+      "tier": "also",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Over 900 wildfires burn across Canada, scorching 3 million hectares",
+      "source": "The Guardian",
+      "singleSource": true,
+      "summary": "More than 900 wildfires rage across Canada, with fires out of control in Northwest Territories and Ontario. Smoke has caused poor air quality in the US and northern Europe.",
+      "link": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
+      "publishedAt": "2026-07-24T08:11:31.000Z",
+      "tier": "also",
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Wildfires in Europe force tens of thousands to evacuate; Spain declares emergency",
+      "source": "Deutsche Welle",
+      "singleSource": true,
+      "summary": "Spain declared a national emergency in the Madrid region as wildfires rage, forcing tens of thousands to evacuate. France invoked the EU civil protection mechanism to request international assistance.",
+      "link": "https://www.dw.com/en/wildfires-in-europe-prompt-tens-of-thousands-to-evacuate/a-78080171?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-24T00:11:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Houthis open new front in US-Iran war by threatening Red Sea shipping",
+      "source": "Wall Street Journal World",
+      "singleSource": true,
+      "summary": "Yemen's Houthi militants have set up a standoff in Red Sea shipping lanes, threatening oil shipments. The move expands the conflict into one of the world's most vital waterways.",
+      "link": "https://www.wsj.com/world/middle-east/the-houthis-have-opened-a-new-front-in-the-u-s-iran-war-37afcf41",
+      "publishedAt": "2026-07-24T03:00:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Houthis had previously allowed Chinese ships to pass through the Red Sea while targeting others.",
+      "sources": [
+        "Wall Street Journal World",
+        "Wall Street Journal"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 11,
+    "articlesProcessed": 430,
+    "articlesAfterDedup": 427,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 17.2,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 3,
+      "environment": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "global": 2,
+      "asia-pacific": 2,
+      "americas": 1,
+      "europe": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

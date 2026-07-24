@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-24",
+  "summary": "Il presidente USA Donald Trump ha ordinato l'invio di truppe di terra in Medio Oriente dopo gli attacchi Houthi nel Mar Rosso. Esplosioni hanno colpito le vicinanze dell'aeroporto di Erbil, dove sono basati militari americani. Il Regno Unito ha messo le proprie basi a disposizione degli USA. L'Iran minaccia ritorsioni, mentre il Congresso cerca di bloccare l'offensiva.\n\nSul fronte commerciale, Trump ha imposto dazi dal 10% al 12,5% sulle importazioni da 60 Paesi, accusandoli di lavoro forzato. Le reazioni internazionali parlano di misure ingiustificate. L'UE, che ha appena multato Google per 890 milioni di euro, teme ritorsioni da Washington. L'eurodeputato Bernd Lange ha definito 'folli' i dazi USA.\n\nIn Europa, violenti incendi boschivi devastano Francia e Spagna, con migliaia di evacuati e 8.700 ettari bruciati a Cap Ferret. I governi hanno dichiarato lo stato di emergenza. In Medio Oriente, Trump ha fatto marcia indietro sull'accordo nucleare con l'Arabia Saudita: chiede il riconoscimento di Israele, ma il principe bin Salman si oppone, mettendo a rischio l'intesa.\n\nIn Ucraina, 50 droni hanno colpito un magazzino Wildberries vicino a San Pietroburgo, provocando un incendio. Kiev non ha rivendicato, Mosca parla di attacco a infrastrutture civili. La crisi politica a Kiev continua: l'ex ministro della Difesa Fedorov ha rifiutato l'incarico offerto da Zelensky, chiedendo la restituzione del suo dicastero. In India, il 'Partito degli scarafaggi' ha riunito migliaia di giovani in piazza a New Delhi contro il premier Modi.",
+  "headlines": [
+    {
+      "title": "Trump invia truppe di terra contro l'Iran, esplosioni colpiscono base USA a Erbil",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "ANSA"
+      ],
+      "summary": "Il presidente USA Trump ordina l'invio di truppe di terra in Medio Oriente dopo gli attacchi Houthi nel Mar Rosso. Esplosioni vicino all'aeroporto di Erbil, sede di truppe americane. Il Regno Unito mette le sue basi a disposizione degli USA. L'Iran minaccia ritorsioni.",
+      "link": "https://www.repubblica.it/esteri/2026/07/24/news/trump_escalation_iran_usa_truppe_terra_houthi-425489545/?rss",
+      "publishedAt": "2026-07-23T23:00:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Annuncia invio truppe e attacchi Houthi",
+          "link": "https://www.repubblica.it/esteri/2026/07/24/news/trump_escalation_iran_usa_truppe_terra_houthi-425489545/?rss"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta esplosioni a Erbil e confisca beni iraniani",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/24/esplosioni-e-fumo-vicino-allaeroporto-di-erbil-sede-di-truppe-usa.-trump-i-danni_7d284c5f-0296-4f09-94e4-fc6b9921cad5.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Conferma basi britanniche per operazioni USA",
+          "link": "https://www.repubblica.it/esteri/2026/07/24/news/burnham_conferma_basi_britanniche_a_usa_per_colpire_iran_teheran_minaccia_londra-425490133/?rss"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump impone dazi al 10-12,5% sulle importazioni da 60 Paesi, accuse di lavoro forzato",
+      "source": "AGI",
+      "summary": "Gli Stati Uniti applicano da oggi dazi aggiuntivi su prodotti importati da 60 Paesi, con aliquote del 10% o 12,5%. Washington motiva la misura con il contrasto al lavoro forzato. Le reazioni internazionali parlano di misure ingiustificate.",
+      "link": "https://www.agi.it/estero/news/2026-07-24/trump-dazi-38204489/",
+      "publishedAt": "2026-07-24T07:38:17.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Francia e Spagna devastate dagli incendi, evacuate migliaia di persone a Cap Ferret",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24",
+        "Euronews Italiano"
+      ],
+      "summary": "Violenti incendi boschivi alimentati da vento e siccità colpiscono Francia e Spagna, con stato di emergenza nazionale. Nella penisola di Cap Ferret, 8700 ettari bruciati e centinaia di persone evacuate via mare. 700 vigili del fuoco al lavoro.",
+      "link": "https://www.agi.it/estero/news/2026-07-24/francia-spagna-incendi-emergenza-38205538/",
+      "publishedAt": "2026-07-24T08:25:51.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Situazione drammatica, Sanchez dichiara emergenza",
+          "link": "https://www.agi.it/estero/news/2026-07-24/francia-spagna-incendi-emergenza-38205538/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Incendio a Cap Ferret, centinaia in fuga via mare, 8700 ettari",
+          "link": "https://www.tgcom24.mediaset.it/mondo/cap-ferret-evacuazione-400-persone-incendi_114755977-202602k.shtml"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Maxi incendio devasta foreste Cap Ferret, evacuate migliaia",
+          "link": "http://it.euronews.com/video/2026/07/24/francia-maxi-incendio-devasta-le-foreste-di-cap-ferret-evacuate-migliaia-di-persone"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump frena sull'accordo nucleare con l'Arabia Saudita, chiede il riconoscimento di Israele",
+      "source": "la Repubblica",
+      "summary": "Il presidente USA Donald Trump fa marcia indietro sull'intesa con Riad, rivelata mercoledì, e chiede che l'Arabia riconosca Israele. Il principe bin Salman si oppone, accordo a rischio.",
+      "link": "https://www.repubblica.it/esteri/2026/07/24/news/trump_accordo_nucleare_arabia_riconoscimento_israele_bin_salman-425489549/?rss",
+      "publishedAt": "2026-07-23T23:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "UE multa Google per 890 milioni di euro e teme ritorsioni commerciali dagli USA",
+      "source": "Euronews Italiano",
+      "summary": "La Commissione europea infligge una sanzione da 890 milioni a Google. L'UE si prepara a possibili contromisure da Washington, con l'eurodeputato Lange che critica i dazi USA definiti 'folli'.",
+      "link": "http://it.euronews.com/my-europe/2026/07/24/multa-a-google-lue-si-prepara-a-possibili-ritorsioni-commerciali-degli-usa",
+      "publishedAt": "2026-07-24T07:54:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Droni ucraini colpiscono magazzini Wildberries vicino a San Pietroburgo, 50 velivoli coinvolti",
+      "source": "AGI",
+      "summary": "Almeno 50 droni ucraini hanno attaccato un magazzino di Wildberries, l'Amazon russo, nei pressi di San Pietroburgo, provocando un incendio e una densa colonna di fumo. Le autorità russe parlano di attacco a infrastrutture civili.",
+      "link": "https://www.agi.it/estero/news/2026-07-24/ucraina-droni-amazon-wildberries-38206261/",
+      "publishedAt": "2026-07-24T07:54:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Il 'Partito degli scarafaggi' indiano organizza proteste di massa contro il governo Modi",
+      "source": "AGI",
+      "summary": "Migliaia di giovani in India, riuniti nel 'Cockroach Janta Party', movimento nato da un insulto di un giudice, occupano una piazza a New Delhi per protestare contro il premier Narendra Modi. Il fenomeno sta crescendo rapidamente.",
+      "link": "https://www.agi.it/estero/news/2026-07-24/india-scarafaggi-38158323/",
+      "publishedAt": "2026-07-24T07:02:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Fedorov rifiuta l'incarico offerto da Zelensky, la crisi politica a Kiev continua",
+      "source": "la Repubblica",
+      "summary": "L'ex ministro della Difesa ucraino Mykhailo Fedorov rifiuta un posto nel governo offerto dal presidente Zelensky, chiedendo invece la restituzione del suo dicastero. Le proteste a Kiev proseguono per il suo ritorno.",
+      "link": "https://www.repubblica.it/esteri/2026/07/24/news/guerra_russia_ucraina_fedorov_no_a_zelensky-425489530/?rss",
+      "publishedAt": "2026-07-23T23:00:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "Ieri a Kiev proteste chiedevano il ritorno di Fedorov alla Difesa. Oggi rifiuta l'incarico offerto da Zelensky.",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 188,
+    "articlesAfterDedup": 188,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 9.7,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 2,
+      "environment": 1,
+      "politics": 3
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "global": 2,
+      "europe": 3,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-24",
+  "summary": "Les États-Unis ont mené une 13e nuit de frappes en Iran, visant le sud-ouest du pays. En parallèle, les rebelles houthis, pro-iraniens, ont revendiqué des attaques en mer Rouge, ce qui a fait grimper le prix du baril de pétrole au-dessus de 100 dollars. L'Iran menace de représailles contre tout pays qui aiderait les États-Unis. Ces événements font suite aux bombardements iraniens d'hier contre des sites américains en Jordanie et au Koweït, et au blocage de trois pétroliers dans le détroit d'Ormuz. Le conflit semble s'étendre à plusieurs fronts.\n\nEn France, deux incendies massifs ont détruit 10 000 hectares en Gironde et 2 500 hectares dans les Landes. La préfecture a ordonné l'évacuation progressive de toute la presqu'île du Cap-Ferret, village après village. Au total, 40 000 personnes ont été évacuées et 80 maisons ont été détruites. La France a activé le mécanisme de protection civile de l'Union européenne pour obtenir des renforts. Hier, déjà 12 000 personnes avaient été évacuées et 2 400 hectares brûlés près du bassin d'Arcachon.\n\nUne attaque de drones ukrainiens a visé des infrastructures civiles à Saint-Pétersbourg, provoquant un incendie dans un entrepôt de l'entreprise Wildberries, l'équivalent russe d'Amazon. Le gouverneur de la ville, Alexandre Beglov, a dénoncé une frappe sur des cibles civiles. Aucune victime n'a été signalée. Cette attaque intervient alors que les livraisons d'armes à l'Ukraine restent un point de tension : hier, le ministre russe des Affaires étrangères, Lavrov, a mis en garde le secrétaire d'État américain Rubio contre la poursuite de ces livraisons.\n\nEnfin, l'Union européenne s'est accordée sur un 21e paquet de sanctions contre la Russie. Et les États-Unis ont annoncé un accord de coopération sur le nucléaire civil avec l'Arabie saoudite. Ces deux décisions, bien que moins spectaculaires, confirment une tendance : les alliances se renforcent entre camps opposés.",
+  "headlines": [
+    {
+      "title": "Les États-Unis frappent l'Iran, les Houthis attaquent en mer Rouge, le pétrole dépasse les 100 dollars",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Libération",
+        "RFI",
+        "Radio-Canada"
+      ],
+      "summary": "Les États-Unis ont mené une 13e nuit de frappes en Iran, visant le sud-ouest. Les Houthis ont revendiqué des attaques en mer Rouge, faisant monter le baril au-dessus de 100 dollars. L'Iran menace de représailles contre tout pays aidant les États-Unis.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260724-en-direct-moyen-orient-iran-etats-unis-frappes-petrole-houthis-ormuz",
+      "publishedAt": "2026-07-24T02:09:50.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Focalise sur les frappes américaines en Iran et l'envolée du pétrole, mentionne les Houthis",
+          "link": "https://www.france24.com/fr/moyen-orient/20260724-en-direct-moyen-orient-iran-etats-unis-frappes-petrole-houthis-ormuz"
+        },
+        {
+          "source": "Libération",
+          "angle": "Synthèse des événements : bombardements en Iran, cinq morts en Cisjordanie, pétrole en hausse",
+          "link": "https://www.liberation.fr/international/moyen-orient/nouveaux-bombardements-en-iran-cinq-morts-en-cisjordanie-le-prix-du-petrole-senvole-lactu-de-la-guerre-au-moyen-orient-ce-vendredi-24-juillet-20260724_6JQIBEKY4BCXNJ6TAL342IE3DU/"
+        },
+        {
+          "source": "RFI",
+          "angle": "Met en avant la menace iranienne de rétorsion contre tout pays aidant les États-Unis",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260724-en-direct-moyen-orient-une-13e-nuit-cons%C3%A9cutive-d-attaques-am%C3%A9ricaines-en-iran"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Annonce 4 morts dans les frappes américaines et des attaques sur Bahreïn et la Jordanie",
+          "link": "https://ici.radio-canada.ca/nouvelle/2271295/liran-morts-frappes-explosion-bahrein"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Un incendie en Gironde et dans les Landes détruit 10 000 hectares, 40 000 personnes évacuées",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France Info",
+        "Le Figaro",
+        "Libération",
+        "France 24"
+      ],
+      "summary": "Deux incendies massifs ont parcouru 10 000 hectares en Gironde et 2 500 dans les Landes, détruisant 80 maisons. La préfecture a ordonné l'évacuation de toute la presqu'île du Cap-Ferret. La France active le mécanisme de protection civile de l'UE.",
+      "link": "https://www.lemonde.fr/planete/live/2026/07/24/en-direct-incendies-plus-de-23-000-personnes-evacuees-dans-les-landes-en-gironde-la-prefecture-ordonne-l-evacuation-de-plusieurs-villages-de-la-presqu-ile-du-cap-ferret_6730417_3244.html",
+      "publishedAt": "2026-07-24T04:45:11.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Rapporte l'ordre d'évacuation de toute la presqu'île du Cap-Ferret, précise aucun blessé",
+          "link": "https://www.lemonde.fr/planete/live/2026/07/24/en-direct-incendies-plus-de-23-000-personnes-evacuees-dans-les-landes-en-gironde-la-prefecture-ordonne-l-evacuation-de-plusieurs-villages-de-la-presqu-ile-du-cap-ferret_6730417_3244.html"
+        },
+        {
+          "source": "France Info",
+          "angle": "Donne le bilan de 80 maisons brûlées, affirme que le feu n'est pas maîtrisé",
+          "link": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Titre sur le plus gros feu de la saison, chiffres : 10 000 hectares, 40 000 évacués, 100 maisons brûlées",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724"
+        },
+        {
+          "source": "Libération",
+          "angle": "Résumé des évacuations, mentionne 40 000 évacués et 32 feux en cours en France",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Couvre l'évacuation du Cap-Ferret par route et mer, mentionne l'aide européenne",
+          "link": "https://www.france24.com/fr/france/20260724-feux-for%C3%AAts-en-direct-10-000-hectares-ravag%C3%A9s-sud-ouest-cap-ferret-%C3%A9vacu%C3%A9"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Des drones ukrainiens frappent Saint-Pétersbourg et provoquent un incendie dans un entrepôt Wildberries",
+      "source": "Le Monde",
+      "summary": "Une attaque de drones ukrainiens a visé des infrastructures civiles à Saint-Pétersbourg, incendiant un entrepôt de l'entreprise Wildberries. Le gouverneur local dénonce une frappe sur des cibles civiles.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-a-saint-petersbourg-provoque-un-incendie-dans-un-entrepot_6725306_3210.html",
+      "publishedAt": "2026-07-24T03:55:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 209,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.6,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 1
+    },
+    "qualityWarnings": [
+      "Too few headlines (3, recommend 4+)"
+    ],
+    "qualityErrors": []
+  }
+}

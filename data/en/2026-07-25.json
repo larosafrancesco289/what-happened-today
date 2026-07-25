@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-25",
+  "summary": "President Trump met with his cabinet today to discuss intensifying strikes on Iran, vowing 'major military punishment' for Tehran and its Houthi allies while leaving the door open to diplomacy. The White House discussions come days before a planned meeting with Israeli Prime Minister Benjamin Netanyahu. Across the region, the U.S. and Iran continued to trade attacks, and the conflict is drawing in new players: warplanes from Bahrain and Kuwait carried out strikes on Iran earlier this month, a rare Gulf Arab retaliation. Saudi Arabia also bombed the Houthi-held port of Hodeidah after the Houthis imposed an embargo on Saudi shipping, disrupting Red Sea trade. The escalation threatens to open a new front in the war.\"\n  \"A massive ferry disaster off Guyana's coast has killed at least 72 people, with authorities estimating total deaths could reach 100, making it the country's worst marine tragedy. Of the estimated 179 people aboard, 76 were rescued as a multinational team struggles to salvage the partially submerged vessel. Meanwhile, wildfires in France and Spain have forced over 220,000 people from their homes. France appealed for international help as a blaze heads toward Bordeaux, and Spain declared a national emergency, calling it the 'worst fire in the history of the region.' In Ukraine, a Russian ballistic missile struck a drone exhibition near Kyiv in the middle of the day, killing 10 people. The event was attended by prominent Ukrainian defense industry figures, and the attack escalates Russia's air campaign.\"\n  \"Elsewhere, Taiwan is conducting wargaming and planning drills to secure fuel and vital imports amid Chinese practice moves that could be used in a blockade. Officials aim to reroute ships and store supplies. Japan endured its fifth consecutive day with temperatures of 40°C or higher, the longest streak since records began in 2011, posing health risks and straining power supplies. And in the South China Sea, tensions remain high as China and the Philippines trade blame for continued clashes at Scarborough Shoal.",
+  "headlines": [
+    {
+      "title": "Trump meets cabinet on Iran war, vows 'major military punishment'",
+      "source": "New York Times World",
+      "summary": "President Trump met with his cabinet to discuss intensifying strikes on Iran. He vowed major punishment for Tehran and its Houthi allies while leaving the door open to diplomacy. US attacks continued across the region.",
+      "link": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
+      "publishedAt": "2026-07-25T01:58:53.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Guyana ferry capsizes killing 72, 100 feared dead in disaster",
+      "source": "The Guardian",
+      "summary": "At least 72 people died when a state ferry capsized off Guyana's coast. Of 179 aboard, 76 were rescued. Authorities estimate total deaths could reach 100, making it the country's worst marine tragedy.",
+      "link": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+      "publishedAt": "2026-07-24T15:28:37.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Wildfires force 220,000 to evacuate in France and Spain",
+      "source": "BBC World",
+      "summary": "Massive wildfires in France and Spain have forced over 220,000 people from their homes. France appealed for international help, and Spain declared a national emergency as hot, dry conditions continue.",
+      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T02:29:36.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Bahrain and Kuwait warplanes strike Iran in rare Gulf retaliation",
+      "source": "Wall Street Journal World",
+      "summary": "Warplanes from Bahrain and Kuwait carried out strikes on Iran earlier this month, marking a rare Gulf Arab retaliation as the Iran war draws them deeper. The move reflects Arab reckoning with the conflict.",
+      "link": "https://www.wsj.com/world/middle-east/iran-gulf-states-bahrain-kuwait-strikes-009637db",
+      "publishedAt": "2026-07-24T20:34:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russian missile hits drone exhibition near Kyiv, killing 10",
+      "source": "BBC World",
+      "summary": "A Russian ballistic missile struck a drone exhibition near Kyiv during the day, killing 10 people. The event was attended by prominent Ukrainian defense industry figures. The attack escalates the air campaign.",
+      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T00:06:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Taiwan tests how to resist Chinese blockade at sea",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "New York Times World"
+      ],
+      "summary": "Taiwan is conducting wargaming and planning drills to secure fuel and vital imports amid Chinese practice moves that could be used in a blockade. Officials aim to reroute ships and store supplies.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/25/asia-pacific/taiwan-tests-chinese-siege-sea/",
+      "publishedAt": "2026-07-25T08:10:00.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Japan endures record fifth straight day of 40°C heat",
+      "source": "Japan Times",
+      "summary": "Japan experienced its fifth consecutive day with temperatures of 40°C or higher, the longest streak since records began in 2011. The extreme heat poses health risks and strains power supplies.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/25/japan/japan-extreme-heat-fifth-day/",
+      "publishedAt": "2026-07-25T07:33:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Saudi Arabia bombs Hodeidah after Houthi embargo on Red Sea shipping",
+      "source": "South China Morning Post",
+      "summary": "Saudi Arabia bombed the Houthi-held port of Hodeidah after the Houthis imposed an embargo on Saudi shipping, disrupting Red Sea trade. Riyadh retaliated for a Houthi missile strike on a Saudi ship. The escalation threatens a new front.",
+      "link": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T08:00:18.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 2,
+      "previousContext": "Yesterday Houthis threatened Red Sea shipping, opening a new front in the Iran war. Today Saudi Arabia bombed Hodeidah and Houthis imposed an embargo on Saudi ships.",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 424,
+    "articlesAfterDedup": 421,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 16.9,
+    "categoryCounts": {
+      "conflict": 5,
+      "society": 1,
+      "environment": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "americas": 1,
+      "europe": 2,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

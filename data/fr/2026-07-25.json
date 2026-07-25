@@ -1,0 +1,185 @@
+{
+  "date": "2026-07-25",
+  "summary": "Les incendies en Gironde et dans les Landes continuent de s'étendre. Ce week-end, 140 000 personnes ont été évacuées de manière préventive dans sept communes aux portes de Bordeaux, dont Saint-Médard-en-Jalles et Le Haillan. L'armée est mobilisée pour lutter contre les flammes, qui menacent désormais la métropole bordelaise. L'incendie, qui a déjà détruit 10 000 hectares, s'est aggravé depuis mercredi, forçant les autorités à élargir les zones d'évacuation.\n\nAu Moyen-Orient, la situation s'envenime. L'Arabie saoudite a bombardé vendredi soir des installations houthistes à Hodeïda, au Yémen, en représailles à l'attaque de deux pétroliers en mer Rouge. Les rebelles yéménites, soutenus par l'Iran, revendiquent un blocus maritime. De son côté, Donald Trump a déclaré vouloir frapper plus fort l'Iran, frustré par l'enlisement des États-Unis dans le conflit régional. Le pétrole a dépassé les 100 dollars hier.\n\nEn Cisjordanie, des affrontements entre colons israéliens et habitants du village de Tell ont fait six morts : quatre Palestiniens et deux Israéliens. Chaque camp accuse l'autre d'avoir ouvert le feu. Benyamin Netanyahu a promis une réponse musclée et l'expansion des colonies, ce qui fait craindre une escalade. Pendant ce temps, à La Haye, le procureur de la Cour pénale internationale, Karim Khan, a été révoqué pour « faute grave » après des allégations de harcèlement sexuel. Il conteste sa révocation.\n\nEnfin, une visite diplomatique rare : Antonio Guterres est arrivé samedi en Syrie pour trois jours. C'est la première fois qu'un secrétaire général de l'ONU se rend dans le pays depuis 2009. Il doit rencontrer le président Ahmed al-Charaa pour discuter de la transition post-Assad, alors que le conflit syrien a connu des développements majeurs fin 2024.",
+  "headlines": [
+    {
+      "title": "Les incendies en Gironde et dans les Landes forcent l'évacuation de 140 000 personnes et menacent Bordeaux",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "Libération",
+        "France Info",
+        "RFI"
+      ],
+      "summary": "Les flammes se rapprochent de Bordeaux, sept communes évacuées préventivement. 140 000 personnes ont été déplacées en Gironde et dans les Landes. L'armée est mobilisée.",
+      "link": "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-evacuation-preventive-de-sept-communes-pres-de-bordeaux-140-000-personnes-evacuees-en-gironde-et-dans-les-landes_6730417_3244.html",
+      "publishedAt": "2026-07-25T07:34:28.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A ouvert sur l'évacuation préventive de sept communes et le bilan de 140 000 évacués",
+          "link": "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-evacuation-preventive-de-sept-communes-pres-de-bordeaux-140-000-personnes-evacuees-en-gironde-et-dans-les-landes_6730417_3244.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Met l'accent sur le déploiement de l'armée et les déclarations de Sébastien Lecornu",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724"
+        },
+        {
+          "source": "Libération",
+          "angle": "Souligne la situation 'jamais vue' selon Laurent Nuñez et la mobilisation militaire",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/"
+        },
+        {
+          "source": "France Info",
+          "angle": "Rapporte les mêmes évacuations de sept communes avec des détails sur les localités",
+          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-le-sud-ouest-sept-nouvelles-communes-evacuees-pres-de-bordeaux_8121596.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RFI",
+          "angle": "Insiste sur l'ampleur inédite du feu et l'évacuation nocturne de 70 000 habitants",
+          "link": "https://www.rfi.fr/fr/france/20260724-en-direct-incendies-en-france-un-feu-d-une-ampleur-in%C3%A9dite-qui-se-dirige-vers-bordeaux"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'Arabie saoudite frappe les Houthis après une attaque en mer Rouge, Donald Trump menace l'Iran",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Riyad a riposté en bombardant Hodeïda après l'attaque de deux pétroliers par les Houthis. Les rebelles revendiquent un blocus maritime. Trump envisage des frappes plus larges sur l'Iran.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/25/l-arabie-saoudite-et-les-houthistes-au-seuil-d-une-nouvelle-guerre-au-moyen-orient_6731930_3210.html",
+      "publishedAt": "2026-07-25T06:40:42.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Présente le conflit comme au seuil d'une nouvelle guerre et mentionne le contexte régional",
+          "link": "https://www.lemonde.fr/international/article/2026/07/25/l-arabie-saoudite-et-les-houthistes-au-seuil-d-une-nouvelle-guerre-au-moyen-orient_6731930_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Annonce que les Houthis rompent la trêve avec l'Arabie saoudite et dénonce l'escalade",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260725-mer-rouge-les-houthis-rompent-la-tr%C3%AAve-avec-l-arabie-saoudite"
+        },
+        {
+          "source": "RFI",
+          "angle": "Rapporte l'attaque de missile des Houthis contre l'Arabie saoudite et étend le conflit",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260725-en-direct-moyen-orient-les-rebelles-houthis-du-y%C3%A9men-revendiquent-une-attaque-contre-l-arabie-saoudite"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump envisage des bombardements plus larges sur l'Iran, frustré par l'enlisement",
+      "source": "Liberation",
+      "summary": "Le président américain a déclaré vendredi 24 juillet vouloir frapper plus fort l'Iran alors que les États-Unis s'enlisent dans le conflit régional.",
+      "link": "https://www.liberation.fr/international/amerique/frustre-par-lenlisement-de-la-situation-donald-trump-envisage-des-bombardements-plus-larges-sur-liran-20260725_OSHQZENYOJAJTJTZXLCY2TWYZE/",
+      "publishedAt": "2026-07-25T08:22:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Liberation",
+        "Libération"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Quatre Palestiniens et deux Israéliens tués dans des affrontements entre colons en Cisjordanie",
+      "source": "France 24",
+      "summary": "De violents heurts ont éclaté dans le village de Tell. Chaque camp s'accuse mutuellement. Netanyahu promet une réponse musclée et une expansion des colonies.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260725-cisjordanie-occup%C3%A9e-nouveaux-affrontements-meurtriers-entre-colons-et-palestiniens",
+      "publishedAt": "2026-07-25T08:09:56.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Le procureur de la CPI Karim Khan démis de ses fonctions pour faute grave",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "France 24"
+      ],
+      "summary": "L'Assemblée a révoqué Karim Khan après des allégations de harcèlement sexuel. Il conteste cette décision. Marque un tournant pour la Cour.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260724-le-procureur-g%C3%A9n%C3%A9ral-de-la-cpi-karim-khan-d%C3%A9mis-de-ses-fonctions-apr%C3%A8s-des-accusations-de-harc%C3%A8lement-sexuel",
+      "publishedAt": "2026-07-24T17:40:33.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "Met en avant les accusations de harcèlement sexuel et la révocation définitive après suspension",
+          "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260724-le-procureur-g%C3%A9n%C3%A9ral-de-la-cpi-karim-khan-d%C3%A9mis-de-ses-fonctions-apr%C3%A8s-des-accusations-de-harc%C3%A8lement-sexuel"
+        },
+        {
+          "source": "France 24",
+          "angle": "Souligne que Khan rejette les accusations et va contester la décision",
+          "link": "https://www.france24.com/fr/europe/20260724-le-procureur-g%C3%A9n%C3%A9ral-de-la-cpi-karim-khan-d%C3%A9mis-de-ses-fonctions-selon-plusieurs-sources"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Antonio Guterres effectue la première visite d'un chef de l'ONU en Syrie depuis 2009",
+      "source": "France 24",
+      "summary": "Le secrétaire général de l'ONU est en Syrie pour trois jours. Il doit rencontrer le président Ahmed al-Charaa et aborder la transition post-Assad.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260725-antonio-guterres-effectue-une-visite-en-syrie-la-premi%C3%A8re-d-un-chef-de-l-onu-depuis-2009",
+      "publishedAt": "2026-07-25T07:56:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 205,
+    "articlesAfterDedup": 203,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 14.8,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 3,
+      "politics": 2
+    },
+    "regionCounts": {
+      "europe": 1,
+      "middle-east": 4,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "date": "2026-07-25",
+  "summary": "Trump nega di aver deciso un attacco massiccio contro l'Iran, ma nelle stesse ore l'esercito Usa ha aperto il fuoco su una petroliera che violava il blocco dei porti iraniani. La tensione resta alta, mentre ieri erano state inviate truppe di terra. Nel frattempo, la Spagna ha dichiarato lo stato di emergenza nazionale per gli incendi boschivi: oltre 63.000 persone evacuate tra Madrid e Avila, e aerei da Grecia e Italia sono in arrivo per aiutare le operazioni. In India, le inondazioni monsoniche nello stato di Assam hanno causato almeno 41 morti, con soccorsi ancora in corso.\n\nIn Tunisia, una settimana di blackout durante un'ondata di caldo eccezionale potrebbe aver causato tra 150 e 200 vittime, anche se le autorità non confermano il bilancio. Il paese ricorda intanto i cinque anni dalla sospensione del parlamento da parte del presidente Kais Saied. In Italia, il governo prepara un nuovo decreto sui carburanti: la premier Meloni e il ministro Giorgetti hanno discusso di accise mobili e coperture aggiuntive per finanziare sconti.\n\nSul fronte politico europeo, Jarosław Kaczynski ha espulso l'ex premier Mateusz Morawiecki dal partito Diritto e Giustizia. Di conseguenza, la presidenza del gruppo conservatore Ecr passa all'italiano Carlo Fidanza di Fratelli d'Italia, con ripercussioni per la premier Meloni. Intanto, l'autopsia di Fakir rivela asfissia e tracce di sangue nei polmoni: la difesa dei poliziotti nega l'impiego eccessivo della forza.\n\nInfine, nel Salernitano, il giornalista sportivo Luigi 'Luca' Esposito è stato ucciso: un tunisino di 26 anni ha confessato, tradito da un'impronta digitale sull'auto della vittima. E secondo ricercatori americani, il fenomeno El Niño 2026-2027 potrebbe essere il più intenso mai registrato, con potenziali impatti globali.",
+  "headlines": [
+    {
+      "title": "Trump non ha deciso attacco massiccio all'Iran, Usa sparano su petroliera",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Il presidente Trump afferma di non aver ancora scelto un attacco massiccio contro l'Iran. Intanto l'esercito Usa apre il fuoco su una petroliera che viola il blocco dei porti iraniani.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-25-luglio_114785561-202602k.shtml",
+      "publishedAt": "2026-07-25T07:59:21.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Oltre 63.000 evacuati per gli incendi a Madrid e Ávila, Spagna dichiara emergenza nazionale",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Il governo spagnolo ha dichiarato lo stato di emergenza nazionale per gli incendi boschivi. Oltre 63.000 persone evacuate tra Madrid e Ávila, aerei da Grecia e Italia in arrivo.",
+      "link": "http://it.euronews.com/my-europe/2026/07/25/oltre-63000-evacuati-per-gli-incendi-a-madrid-e-avila-emergenza-nazionale",
+      "publishedAt": "2026-07-25T07:50:27.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Focus su numeri evacuazioni e emergenza nazionale",
+          "link": "http://it.euronews.com/my-europe/2026/07/25/oltre-63000-evacuati-per-gli-incendi-a-madrid-e-avila-emergenza-nazionale"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Evacuazioni anche a Bordeaux, estensione incendi",
+          "link": "http://it.euronews.com/my-europe/2026/07/25/incendi-nel-sud-europa-evacuazioni-ordinate-nelle-periferie-di-bordeaux"
+        }
+      ],
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Kaczynski caccia l'ex premier Morawiecki dal Pis, Ecr passa a Fidanza",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Jarosław Kaczynski espelle l'ex premier Mateusz Morawiecki dal partito Diritto e Giustizia. La presidenza del gruppo Ecr passa all'italiano Carlo Fidanza di Fratelli d'Italia.",
+      "link": "https://www.repubblica.it/esteri/2026/07/25/news/polonia_destra_pis_kaczynski_morawiecki_ecr_fidanza-425492211/?rss",
+      "publishedAt": "2026-07-25T08:08:54.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Inondazioni monsoniche in Assam provocano almeno 41 morti",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "Le violente piogge monsoniche hanno allagato case e strade nello Stato indiano di Assam. Proseguono i soccorsi dopo almeno 41 vittime.",
+      "link": "http://it.euronews.com/video/2026/07/25/india-inondazioni-monsoniche-in-assam-almeno-41-morti",
+      "publishedAt": "2026-07-25T08:06:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Tunisia celebra poteri straordinari di Saied, 150-200 morti per blackout",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "La Tunisia ricorda cinque anni dalla sospensione del parlamento da parte del presidente Kais Saied, mentre una settimana di blackout durante il caldo causa tra 150 e 200 vittime non confermate.",
+      "link": "http://it.euronews.com/2026/07/25/la-tunisia-celebra-lanniversario-dei-poteri-straordinari-di-saied-ma-e-in-piena-crisi-elet",
+      "publishedAt": "2026-07-25T07:29:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Governo verso nuovo decreto carburanti, vertice Meloni-Giorgetti",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il governo italiano prepara un intervento sui carburanti con accise mobili e coperture aggiuntive, dopo il vertice tra la premier Meloni e il ministro Giorgetti.",
+      "link": "https://www.ilsole24ore.com/art/vertice-meloni-giorgetti-governo-un-nuovo-decreto-carburanti-AJBauIV",
+      "publishedAt": "2026-07-24T20:05:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Autopsia Fakir rivela asfissia e sangue nei polmoni, difesa nega forza eccessiva",
+      "source": "Il Sole 24 Ore",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "summary": "L'autopsia di Fakir mostra asfissia e tracce di sangue nei polmoni. La difesa dei poliziotti sostiene che non ci sia stato impiego eccessivo della forza.",
+      "link": "https://www.ilsole24ore.com/art/fakir-l-autopsia-asfissia-e-tracce-sangue-polmoni-difesa-poliziotti-nessun-impiego-eccessivo-forza-AJhNq9U",
+      "publishedAt": "2026-07-24T17:38:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Giornalista ucciso a Eboli, 26enne tunisino confessa l'omicidio",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Luigi 'Luca' Esposito, giornalista sportivo 53enne, è stato ucciso nel Salernitano. Un tunisino di 26 anni, tradito da un'impronta, ha confessato l'omicidio.",
+      "link": "https://www.agi.it/cronaca/news/2026-07-25/giornalista-omicidio-esposito-indagini-38220788/",
+      "publishedAt": "2026-07-25T08:15:35.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Dettagli confessione e impronta digitale",
+          "link": "https://www.agi.it/cronaca/news/2026-07-25/giornalista-omicidio-esposito-indagini-38220788/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Conferma fermo e contatti precedenti con vittima",
+          "link": "http://it.euronews.com/my-europe/2026/07/25/giornalista-trovato-morto-carbonizzato-nel-salernitano-fermato-un-26enne"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "El Niño 2026-2027 sarà il più potente della storia, allerta clima",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24"
+      ],
+      "summary": "Secondo i ricercatori della Berkeley Earth e della NOAA, il fenomeno El Niño 2026-2027 potrebbe essere il più intenso mai registrato, con potenziali impatti globali.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/allerta-clima-el-nin-o-il-piu-potente-della-storia_114788607-202602k.shtml",
+      "publishedAt": "2026-07-25T07:17:58.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 184,
+    "articlesAfterDedup": 182,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 16,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 14.8,
+    "categoryCounts": {
+      "conflict": 1,
+      "environment": 3,
+      "politics": 2,
+      "economy": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 5,
+      "asia-pacific": 1,
+      "africa": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

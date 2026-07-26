@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-26",
+  "summary": "Un drame a endeuillé la Marche des fiertés à Berlin samedi soir. Un véhicule a percuté la foule, faisant un mort et seize blessés. La police recherche activement un suspect de 21 ans, lié au milieu islamiste. Une chasse à l'homme est en cours dans la capitale allemande.\n\nEn Gironde, les incendies continuent de progresser. 42 000 hectares ont brûlé et 220 000 personnes ont été évacuées. Trente mille autres ont dû quitter leur domicile dans les Landes. L'armée a déployé un avion A400M et 1 500 soldats sont mobilisés pour lutter contre les flammes qui menacent Bordeaux.\n\nSur le front diplomatique, l'Iran a averti que la guerre pourrait s'étendre géographiquement si les États-Unis poursuivaient leurs frappes aériennes. Cette déclaration du porte-parole de l'armée iranienne intervient avant la visite du Premier ministre israélien Benyamin Nétanyahou à Washington. Par ailleurs, le président ukrainien Volodymyr Zelensky a affirmé que la Russie avait demandé 30 000 soldats supplémentaires à la Corée du Nord pour combattre en Ukraine. Ces informations n'ont pas été confirmées de manière indépendante.\n\nEnfin, une bonne nouvelle culturelle : les cinq plages du Débarquement allié du 6 juin 1944, en Normandie, ont été inscrites au patrimoine mondial de l'Unesco dimanche. Une reconnaissance qui commémore la libération de l'Europe du nazisme.",
+  "headlines": [
+    {
+      "title": "Un véhicule fonce dans la foule à la Pride de Berlin : un mort, 16 blessés, suspect islamiste en fuite",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "RTBF",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Un véhicule a percuté la foule samedi soir en marge de la Marche des fiertés à Berlin, tuant une personne et blessant 16 autres. La police recherche un suspect de 21 ans lié au milieu islamiste. Une chasse à l'homme est en cours.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/26/marche-des-fiertes-de-berlin-un-mort-et-une-quinzaine-de-blesses-apres-un-incident-impliquant-un-vehicule_6732524_3210.html",
+      "publishedAt": "2026-07-25T22:00:33.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "Mise en avant de l'attaque et de la chasse à l'homme avec suspect identifié",
+          "link": "https://www.rtbf.be/article/un-vehicule-fonce-sur-la-foule-a-la-pride-de-berlin-un-mort-et-une-quinzaine-de-blesses-le-vehicule-implique-retrouve-le-ou-les-auteurs-en-fuite-11762740"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "Insiste sur le lien du suspect avec le milieu islamiste",
+          "link": "https://ici.radio-canada.ca/nouvelle/2271566/voiture-percute-foule-fierte-berlin"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Qualifie l'événement d'attaque et mentionne le suspect islamiste",
+          "link": "https://www.20minutes.fr/monde/allemagne/4236286-20260725-berlin-plusieurs-blesses-marge-gay-pride-police-soupconne-charge-voiture?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Description factuelle avec avis de recherche pour un homme de 21 ans",
+          "link": "https://www.lemonde.fr/international/article/2026/07/26/marche-des-fiertes-de-berlin-un-mort-et-une-quinzaine-de-blesses-apres-un-incident-impliquant-un-vehicule_6732524_3210.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "42 000 hectares brûlés en Gironde, 220 000 personnes évacuées, le feu progresse vers Bordeaux",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "Le Monde",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Les incendies en Gironde ont brûlé 42 000 hectares et forcé l'évacuation de 220 000 personnes. 30 000 autres ont été déplacés dans les Landes. Un A400M militaire intervient et 1 500 soldats sont mobilisés.",
+      "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
+      "publishedAt": "2026-07-26T07:50:03.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Reportage humain avec les pompiers sur le terrain",
+          "link": "https://www.lemonde.fr/planete/article/2026/07/26/au-porge-en-gironde-avec-les-pompiers-qui-tentent-de-maitriser-le-feu-il-y-a-eu-2022-ce-qu-on-vit-aujourd-hui-est-encore-pire_6732808_3244.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "Live des évacuations et chiffres actualisés",
+          "link": "https://www.france24.com/fr/france/20260725-en-direct-incendies-feux-france-espagne-gironde-evacuations-bordeaux-pompiers"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Détails sur l'intervention de l'A400M et les 1500 militaires",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724"
+        },
+        {
+          "source": "RFI",
+          "angle": "Chiffres clés : 42 000 hectares et 220 000 évacués",
+          "link": "https://www.rfi.fr/fr/france/20260726-en-direct-incendies-en-france-42-000-hectares-de-surface-br%C3%BBl%C3%A9e-et-220-000-%C3%A9vacu%C3%A9s-en-gironde"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'Iran menace d'étendre la guerre si les États-Unis reprennent leurs attaques",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Le porte-parole de l'armée iranienne a déclaré dimanche que la guerre s'étendra géographiquement si les Américains poursuivent les frappes aériennes, avant la visite de Nétanyahou à Washington.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-accuse-l-ukraine-d-avoir-attaque-un-de-ses-navires-en-mer-caspienne_6725301_3210.html",
+      "publishedAt": "2026-07-26T04:15:31.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky affirme que la Russie demande 30 000 soldats supplémentaires à la Corée du Nord",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Volodymyr Zelensky a déclaré que la Russie a réclamé 30 000 soldats nord-coréens pour combattre en Ukraine. Aucune confirmation indépendante n'a été apportée.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4236298-20260726-guerre-ukraine-selon-zelensky-russie-reclame-renforts-massifs-coree-nord?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-26T01:38:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Les plages du Débarquement en Normandie inscrites au patrimoine mondial de l'Unesco",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Monde"
+      ],
+      "summary": "Les cinq plages du Débarquement allié du 6 juin 1944 en Normandie ont été inscrites au patrimoine mondial de l'Unesco dimanche, commémorant la libération de l'Europe du nazisme.",
+      "link": "https://www.france24.com/fr/france/20260726-france-plages-du-d%C3%A9barquement-en-normandie-inscrites-au-patrimoine-mondial-unesco",
+      "publishedAt": "2026-07-26T08:25:24.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Annonce de l'inscription au patrimoine mondial",
+          "link": "https://www.france24.com/fr/france/20260726-france-plages-du-d%C3%A9barquement-en-normandie-inscrites-au-patrimoine-mondial-unesco"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Contexte historique du Débarquement",
+          "link": "https://www.lemonde.fr/culture/article/2026/07/26/les-plages-du-debarquement-en-normandie-inscrites-au-patrimoine-mondial-de-l-unesco_6733114_3246.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Iran annonce des progrès dans les négociations avec Oman sur le détroit d'Ormuz",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "L'Iran a déclaré dimanche avoir réalisé des progrès dans les pourparlers avec Oman concernant la gestion du détroit d'Ormuz, après la reprise des attaques américaines et un protocole d'accord en juin.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260726-en-direct-moyen-orient-des-progr%C3%A8s-lors-de-pourparlers-%C3%A0-oman-sur-la-gestion-du-d%C3%A9troit-d-ormuz-dit-l-iran",
+      "publishedAt": "2026-07-26T07:01:10.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "Les tensions autour du détroit d'Ormuz ont augmenté après la reprise des attaques américaines contre l'Iran en juin 2026.",
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 203,
+    "articlesAfterDedup": 201,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10.7,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 1,
+      "society": 1,
+      "politics": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "date": "2026-07-26",
+  "summary": "Un furgone è piombato oggi sulla folla del Christopher Street Day a Berlino, uccidendo una donna e ferendo 16 persone. La polizia cerca un sospetto di 21 anni, ritenuto vicino ad ambienti islamisti. La manifestazione Lgbtq+ era in corso nel Tiergarten quando il veicolo ha investito i partecipanti. Il movente è ancora da accertare, ma le autorità tedesche hanno alzato l'allerta antiterrorismo.\n\nIntanto, vasti incendi boschivi in Francia e Spagna hanno costretto oltre 320 mila persone a evacuare. In Francia sono bruciati 42 mila ettari, in Spagna 15 mila ettari nella regione di Valencia. Più di 4.600 tra vigili del fuoco, militari e agenti sono stati schierati per domare le fiamme. Entrambi i governi hanno dichiarato lo stato di emergenza nazionale. In Italia, la Val di Susa è stata scenario di scontri: centinaia di attivisti No Tav hanno assaltato i cantieri dell'alta velocità, lanciando bombe carta e ferendo decine di poliziotti. Il presidente Mattarella e la premier Meloni hanno condannato la violenza.\n\nSul fronte internazionale, il New York Times riferisce che Donald Trump ha sospeso un attacco massiccio all'Iran per timore di esaurire le scorte di missili intercettori Patriot. Teheran ha avvertito Washington, mentre gli Houthi hanno ripreso l'offensiva nel Mar Rosso. In Ucraina, la Russia ha bombardato porti, navi e centrali elettriche sabato; Kiev afferma di aver respinto diverse offensive russe. A Gaza, l'assenza di forze dell'ordine ha provocato un'ondata di criminalità: sfollati e residenti subiscono saccheggi e violenze quotidiane.\n\nNel Regno Unito, il nuovo premier Andy Burnham ha annunciato le sue prime tre misure economiche: abolizione di una tassa sulle bollette elettriche domestiche, tetto alle tariffe degli autobus e riduzione del 20% delle imposte commerciali per pub e locali. L'obiettivo è contrastare il caro vita, tema centrale del suo esecutivo laburista.",
+  "headlines": [
+    {
+      "title": "Furgone piomba sulla folla al Pride di Berlino: un morto e 16 feriti",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "ANSA",
+        "AGI",
+        "Euronews Italiano"
+      ],
+      "summary": "Un uomo di 21 anni legato ad ambienti islamisti ha lanciato un furgone contro i partecipanti al Christopher Street Day nel Tiergarten. La polizia lo cerca ancora; la vittima è una donna.",
+      "link": "https://www.rainews.it/articoli/2026/07/furgone-contro-la-folla-al-pride-di-berlino-un-morto-e-16-feriti-0ae05e34-3ead-4235-9d5e-ae16be03b6fd.html",
+      "publishedAt": "2026-07-26T04:15:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Dettagli sul sospettato: 21 anni, uscito dal riformatorio, legato a islamisti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/furgone-contro-la-folla-al-pride-di-berlino-un-morto-e-16-feriti_3d8ec836-20e8-48cf-b7df-a3462a666d83.html"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Trasformazione della festa in dramma e mobilitazione della polizia",
+          "link": "https://www.rainews.it/articoli/2026/07/furgone-contro-la-folla-al-pride-di-berlino-un-morto-e-16-feriti-0ae05e34-3ead-4235-9d5e-ae16be03b6fd.html"
+        },
+        {
+          "source": "AGI",
+          "angle": "Bilancio e dichiarazione del portavoce sull'identificazione del sospettato",
+          "link": "https://www.agi.it/estero/news/2026-07-26/attentato-berlino-gay-pride-38236676/"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Identikit dell'aggressore e numero di feriti gravi",
+          "link": "http://it.euronews.com/my-europe/2026/07/26/auto-sulla-folla-al-pride-di-berlino-un-morto-e-diversi-feriti-attentatore-in-fuga"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Oltre 320mila evacuati per gli incendi in Francia e Spagna, emergenza nazionale",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Vasti incendi boschivi in Francia e Spagna hanno costretto oltre 320.000 persone a evacuare. In Francia 42.000 ettari bruciati, in Spagna 15.000 evacuati a Valencia. Oltre 4.600 tra vigili del fuoco e militari schierati.",
+      "link": "http://it.euronews.com/my-europe/2026/07/26/gravi-incendi-in-francia-e-spagna-evacuate-oltre-320mila-persone",
+      "publishedAt": "2026-07-26T07:55:06.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Numero totale di evacuati e spiegamento di forze",
+          "link": "http://it.euronews.com/my-europe/2026/07/26/gravi-incendi-in-francia-e-spagna-evacuate-oltre-320mila-persone"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Dettagli sulla periferia di Bordeaux e numero di evacuati in Francia",
+          "link": "https://www.tgcom24.mediaset.it/mondo/incendi-francia-bordeaux-spagna-valencia_114826042-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Centinaia di No Tav assaltano i cantieri in Val di Susa, decine di agenti feriti",
+      "source": "ANSA",
+      "sources": [
+        "ANSA",
+        "Euronews Italiano"
+      ],
+      "summary": "Attivisti incappucciati hanno lanciato bombe carta e fatto irruzione nei cantieri dell'alta velocità. Decine di poliziotti feriti. Il presidente Mattarella e la premier Meloni hanno condannato la violenza.",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-piantedosi-ce-chi-vuole-unescalation_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
+      "publishedAt": "2026-07-25T20:42:46.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "ANSA",
+          "angle": "Telefonata di Mattarella e dichiarazioni di Piantedosi e Meloni",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-piantedosi-ce-chi-vuole-unescalation_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Irruzione nei cantieri e condanna del governo",
+          "link": "http://it.euronews.com/my-europe/2026/07/26/scontri-in-val-di-susa-violenze-al-corteo-no-tav-e-decine-di-agenti-feriti"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump frena escalation con Iran per paura di esaurire missili, Teheran avverte",
+      "source": "AGI",
+      "singleSource": true,
+      "summary": "Secondo il New York Times, Donald Trump ha fermato un attacco massiccio all'Iran per timore di esaurire le scorte missilistiche. Teheran ha avvertito Washington mentre gli Houthi riprendono l'offensiva nel Mar Rosso.",
+      "link": "https://www.agi.it/estero/news/2026-07-26/isa-iran-aggiornamenti-trump-38237300/",
+      "publishedAt": "2026-07-26T07:47:02.000Z",
+      "tier": "also",
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Nuovo premier britannico Burnham annuncia tre misure fiscali popolari",
+      "source": "AGI",
+      "singleSource": true,
+      "summary": "Andy Burnham, al suo primo vertice da premier, ha abolito una tassa sulle bollette e introdotto agevolazioni per famiglie e imprese per contrastare il caro vita.",
+      "link": "https://www.agi.it/estero/news/2026-07-26/burnham-tre-misure-fiscali-popolari-38236519/",
+      "publishedAt": "2026-07-26T06:20:56.000Z",
+      "tier": "also",
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "A Gaza cresce paura di furti, omicidi e assalti agli aiuti umanitari",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Nella Striscia di Gaza, l'assenza di forze dell'ordine ha provocato un aumento della criminalità. Sfollati e residenti subiscono saccheggi e violenze quotidiane.",
+      "link": "https://www.repubblica.it/esteri/2026/07/26/news/gaza_paura_caos_furti_omicidi_assalti_camion_aiuti_vuoto_sicurezza-425493891/?rss",
+      "publishedAt": "2026-07-26T08:36:10.000Z",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russia colpisce infrastrutture portuali ucraine, Kiev respinge offensive",
+      "source": "Rai News",
+      "singleSource": true,
+      "summary": "La Russia ha bombardato porti, navi e centrali elettriche ucraine sabato. L'Ucraina ha dichiarato di aver respinto diverse offensive russe.",
+      "link": "https://www.rainews.it/video/2026/07/fuoco-a-terra-la-russia-colpisce-le-infrastrutture-portuali-ucraine-il-video-c3bf1603-d7c8-4ba1-a45f-cce9c1f23cc0.html",
+      "publishedAt": "2026-07-26T07:08:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 181,
+    "articlesAfterDedup": 180,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 19,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 12,
+    "categoryCounts": {
+      "conflict": 4,
+      "environment": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "europe": 5,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

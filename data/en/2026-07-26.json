@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-26",
+  "summary": "More than 340,000 people have fled wildfires in France and Spain, with at least one death reported near Madrid. Firefighters are battling 'fire whirlwinds' in the Bordeaux region, and officials warn the danger is far from over. The blazes have consumed tens of thousands of acres, destroying homes and disrupting transport. Evacuation orders remain in place as hot, dry winds continue to fan the flames. This is already one of the worst wildfire seasons in memory for southwestern Europe, and conditions are not expected to improve for days.\n\nThe confirmed death toll from Guyana's ferry disaster has risen to 72, with 76 survivors rescued from the 179 people aboard. The government estimates that as many as 100 may have died, making it the deadliest maritime accident in the country's history. Multinational teams are still recovering bodies from the partially submerged vessel. In Berlin, a van drove into a crowd at the city's Pride parade, killing one person and injuring 16 others. Police say the suspect, who remains at large, has ties to Islamic extremist groups. The attack has rattled the city, which was celebrating the anniversary of its annual LGBTQ+ event.\n\nIndia's education minister resigned after weeks of protests by the Cockroach Janta Party, a movement that has tapped into deep frustration among young people over joblessness and corruption. The party declared victory, but underlying anger has not faded. In Syria, a civilian bus collided with a bus carrying security forces on a highway, killing 35 people, according to the Health Ministry. Meanwhile, Brazil blocked a delegation of Donald Trump's allies from observing the country's presidential election in October, citing fears they would cast doubt on electronic voting and potentially interfere with the process. The decision has drawn criticism from the Trump camp but won praise from Brazil's election authorities.\n\nNearly 34,000 lightning strikes over the past week have ignited new wildfires in British Columbia, Canada, adding to what Prime Minister Mark Carney has called one of the most intense wildfire seasons on record. There are 90 active blazes in the province, with dozens of evacuation orders in place. Warmer and drier weather is expected to fuel further growth. In the Gulf, Iran-backed Houthi rebels claimed a missile attack on Saudi Arabia, while the U.S. military said it disabled a tanker attempting to evade the American blockade on Iranian ports. And in the West Bank, Israeli forces conducted overnight raids and detained dozens of Palestinians, as residents braced for further attacks. The operation appears to be ongoing.",
+  "headlines": [
+    {
+      "title": "Wildfires force 340,000 to evacuate across France and Spain",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "New York Times World",
+        "NPR News"
+      ],
+      "summary": "Massive wildfires in France and Spain have forced over 340,000 people to flee their homes, with at least one death reported in Spain. Firefighters battle 'fire whirlwinds' near Madrid and Bordeaux.",
+      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T07:21:11.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Guyana ferry death toll reaches 72 as recovery efforts continue",
+      "source": "The Guardian",
+      "singleSource": true,
+      "summary": "The confirmed death toll from the capsized ferry off Guyana's coast rises to 72, with 76 rescued from 179 aboard. The government expects 100 may have died in the South American nation's worst marine tragedy.",
+      "link": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+      "publishedAt": "2026-07-24T15:28:37.000Z",
+      "tier": "top",
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Van rams into Berlin Pride parade killing one, suspect on the run",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "France 24"
+      ],
+      "summary": "A van drove into a crowd at Berlin's Pride event, killing one and injuring 16. Police say the suspect has ties to Islamic extremist groups and remains at large.",
+      "link": "https://www.wsj.com/world/europe/van-rams-into-crowd-at-berlin-pride-parade-killing-one-2d54f62e",
+      "publishedAt": "2026-07-26T07:15:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "India education minister resigns after Cockroach Party protests",
+      "source": "New York Times World",
+      "singleSource": true,
+      "summary": "India's education minister stepped down following weeks of protests by the Cockroach Janta Party. The movement claimed victory, though deep-seated anger among young people persists.",
+      "link": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+      "publishedAt": "2026-07-25T17:07:41.000Z",
+      "tier": "also",
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Bus collision with security convoy kills 35 in central Syria",
+      "source": "New York Times World",
+      "singleSource": true,
+      "summary": "A civilian bus collided with a bus carrying Syrian security forces on a highway in central Syria, killing 35 people, according to the Health Ministry.",
+      "link": "https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html",
+      "publishedAt": "2026-07-25T14:25:19.000Z",
+      "tier": "also",
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Brazil denies visas to US officials over election interference fears",
+      "source": "Wall Street Journal World",
+      "singleSource": true,
+      "summary": "Brazil blocked a Trump delegation from observing October's presidential election, citing concerns about potential interference and attempts to cast doubt on electronic voting.",
+      "link": "https://www.wsj.com/world/americas/brazil-denies-visas-to-u-s-officials-over-election-interference-fears-62f2d8c4",
+      "publishedAt": "2026-07-26T00:40:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Thousands of lightning strikes spark new wildfires in British Columbia",
+      "source": "The Guardian",
+      "singleSource": true,
+      "summary": "Nearly 34,000 lightning strikes over the past week ignited new wildfires in southern British Columbia, leading to 25 evacuation orders and 90 active fires. Canada faces one of its most intense wildfire seasons.",
+      "link": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
+      "publishedAt": "2026-07-24T17:58:00.000Z",
+      "tier": "also",
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Houthis claim missile attack on Saudi Arabia amid rising Gulf tensions",
+      "source": "BBC World",
+      "singleSource": true,
+      "summary": "Iran-backed Houthi rebels claimed a missile attack on Saudi Arabia. The US military said it disabled a tanker attempting to evade the American blockade on Iranian ports.",
+      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T06:34:40.000Z",
+      "tier": "also",
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Israel raids West Bank, detains dozens of Palestinians in ongoing assault",
+      "source": "Al Jazeera English",
+      "singleSource": true,
+      "summary": "Israeli forces conducted incursions across the West Bank, detaining dozens of Palestinians. Residents brace for further military and settler attacks as the operation continues.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
+      "publishedAt": "2026-07-26T07:55:30.000Z",
+      "tier": "developing",
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 401,
+    "articlesAfterDedup": 399,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 41.2,
+    "categoryCounts": {
+      "environment": 2,
+      "society": 1,
+      "conflict": 4,
+      "politics": 2
+    },
+    "regionCounts": {
+      "europe": 2,
+      "americas": 3,
+      "asia-pacific": 1,
+      "middle-east": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [
+      "Summary is too long (2624 chars, recommend <2600)"
+    ],
+    "qualityErrors": []
+  }
+}

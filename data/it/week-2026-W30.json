@@ -1,0 +1,180 @@
+{
+  "weekId": "2026-W30",
+  "startDate": "2026-07-20",
+  "endDate": "2026-07-26",
+  "summary": "La settimana dal 20 al 26 luglio 2026 è stata dominata dall'escalation tra Stati Uniti e Iran, con attacchi reciproci e l'invio di truppe di terra americane. Il 20 luglio l'Iran ha bombardato la Giordania, e il giorno successivo ha colpito basi USA in Bahrein e Kuwait, ferendo 100 soldati. Gli Stati Uniti hanno risposto con raid notturni su siti militari iraniani per undici notti consecutive. Trump ha minacciato guerra totale ma, secondo fonti, non ha deciso un attacco massiccio; il 25 luglio le forze USA hanno sparato su una petroliera. Nel frattempo, il prezzo del petrolio è salito per i timori sullo Stretto di Hormuz, ma questa notizia è scomparsa rapidamente.\n\nAltri eventi di rilievo: in Venezuela, il bilancio del terremoto è salito a 5.398 morti e migliaia di dispersi. In Europa, la Spagna e la Francia sono state devastate da incendi, con oltre 320.000 evacuati e dichiarazione di emergenza nazionale. Il 26 luglio un furgone ha investito la folla al Pride di Berlino, causando un morto e 16 feriti. In Italia, il 26 luglio centinaia di No Tav hanno assaltato i cantieri in Val di Susa, ferendo decine di agenti. A Bologna, il 20 luglio è morto un uomo ammanettato e per la prima volta è stata applicata la norma sullo scudo per gli agenti; la notte successiva si è registrata guerriglia durante un corteo. Il premier britannico Andy Burnham, insediatosi il 20 luglio, ha presentato un piano decennale per case e industria. In Ucraina, Zelensky ha destituito il capo dell'esercito Syrsky il 22 luglio, mentre il 23 luglio Lavrov e Rubio si sono incontrati a Manila. L'UE ha raggiunto un accordo sul 21° pacchetto di sanzioni alla Russia, con una deroga per il trasporto di GNL greco. Trump ha imposto dazi al 10-12,5% sulle importazioni da 60 paesi.\n\nNotizie di breve durata: il bombardamento iraniano sulla Giordania, l'insediamento di Burnham, la morte del tredicenne in Spagna per il crollo di una fontana, e la morte a Bologna sono state coperte solo per un giorno. Anche il rialzo del prezzo del petrolio è stato menzionato una sola volta.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Iran bombarda la Giordania dopo raid Usa, l'Idf si prepara alla guerra",
+    "Andy Burnham diventa premier del Regno Unito, dubbi su governo e programma",
+    "Spagna, crolla fontana durante festeggiamenti Mondiali: morto un tredicenne",
+    "Morto ammanettato a Bologna, applicata per la prima volta la norma sullo scudo per gli agenti",
+    "Prezzi del petrolio in rialzo per l'escalation tra Usa e Iran, timori su Hormuz",
+    "Oltre 3.800 siti d'informazione generati dall'IA nel mondo, il 10% con domini italiani",
+    "Crack bancari: indennizzi per 1,35 miliardi ai risparmiatori, Corte dei conti chiede programmazione mirata",
+    "Morto il comandante Alfa, fondatore del Gis dei carabinieri, partecipò alla cattura di Casella",
+    "Maxi operazione contro la criminalità giovanile: 539 arresti e quasi 190mila controlli",
+    "Iran colpisce target Usa in Bahrein e Kuwait, 100 soldati americani feriti"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-07-20",
+      "title": "Iran bombarda la Giordania dopo raid Usa, l'Idf si prepara alla guerra",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Andy Burnham diventa premier del Regno Unito, dubbi su governo e programma",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Spagna, crolla fontana durante festeggiamenti Mondiali: morto un tredicenne",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Morto ammanettato a Bologna, applicata per la prima volta la norma sullo scudo per gli agenti",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Iran colpisce target Usa in Bahrein e Kuwait, 100 soldati americani feriti",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Bologna, guerriglia notturna dopo il corteo per Fakir: incendiata auto del Comune",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Burnham presenta il piano decennale: case popolari e industria, chiama Usa e Ue",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "USA colpiscono siti militari iraniani per undicesima notte consecutiva",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Zelensky destituisce il capo dell'esercito Syrsky dopo le proteste",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Trump minaccia guerra totale all'Iran, la Cia frena: regime resisterà",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Modelli OpenAI hackerano la piattaforma Hugging Face durante test",
+      "category": "science",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Il bilancio del terremoto in Venezuela sale a 5.398 morti, migliaia di dispersi",
+      "category": "environment",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "UE raggiunge accordo sul 21° pacchetto sanzioni Russia, deroga per trasporto GNL greco",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Lavrov e Rubio si incontrano a Manila per discutere del conflitto in Ucraina",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Trump invia truppe di terra contro l'Iran, esplosioni colpiscono base USA a Erbil",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Trump impone dazi al 10-12,5% sulle importazioni da 60 Paesi, accuse di lavoro forzato",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Francia e Spagna devastate dagli incendi, evacuate migliaia di persone a Cap Ferret",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Trump non ha deciso attacco massiccio all'Iran, Usa sparano su petroliera",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Oltre 63.000 evacuati per gli incendi a Madrid e Ávila, Spagna dichiara emergenza nazionale",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Kaczynski caccia l'ex premier Morawiecki dal Pis, Ecr passa a Fidanza",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "Furgone piomba sulla folla al Pride di Berlino: un morto e 16 feriti",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "Oltre 320mila evacuati per gli incendi in Francia e Spagna, emergenza nazionale",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "Centinaia di No Tav assaltano i cantieri in Val di Susa, decine di agenti feriti",
+      "category": "politics",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1255,
+    "totalSourcesUsed": 7,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 14,
+      "politics": 17,
+      "society": 11,
+      "economy": 7,
+      "science": 2,
+      "environment": 8
+    },
+    "regionCounts": {
+      "middle-east": 12,
+      "europe": 30,
+      "global": 8,
+      "americas": 5,
+      "asia-pacific": 3,
+      "africa": 1
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "weekId": "2026-W30",
+  "startDate": "2026-07-20",
+  "endDate": "2026-07-26",
+  "summary": "The week of July 20–26, 2026, was dominated by escalating US–Iran hostilities, with airstrikes and retaliations that drove oil prices above $100 a barrel for the first time since May. The conflict claimed a third US soldier in Iraq, bringing the Iran war death toll to 17, and expanded to include Iranian strikes on targets in Bahrain and Kuwait. President Trump threatened further 'major military punishment' and imposed new tariffs on 60 trading partners over forced labor concerns, while also approving a landmark nuclear deal with Saudi Arabia. In domestic political news, Andy Burnham became UK prime minister on July 20, succeeding Keir Starmer, and quickly unveiled a new cabinet and an electricity tax cut, though this story faded from headlines after a single day. Elsewhere, a ferry capsized off Guyana’s coast on July 25, killing 72 and leaving many missing; recovery efforts continued into July 26. Simultaneously, massive wildfires in France and Spain forced 340,000 evacuations by July 26, up from 220,000 the previous day. On July 26, a van rammed into Berlin’s Pride parade, killing one person, with the suspect at large. Other stories that appeared only briefly included the dismissal of Ukraine’s top general by President Zelensky on July 22, a Russian missile attack on Ukrainian cities that killed 8, and tensions over Jordan becoming a new flashpoint in the US–Iran war. The nuclear deal with Saudi Arabia was approved again on July 23, but appeared only that day. Overall, the Iran conflict, wildfires, ferry disaster, and Berlin attack were the most sustained events of the week.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Third US soldier killed in Iraq as Iran war death toll reaches 17",
+    "Andy Burnham becomes UK prime minister, succeeds Keir Starmer",
+    "Russia missile attack on Ukrainian cities kills 8, injures dozens",
+    "Ferry sinks off Guyana coast, dozens missing in maritime disaster",
+    "Jordan becomes new flashpoint in US-Iran war as troop deaths rise",
+    "Israel says Iran moved nuclear centrifuges to Pickaxe Mountain, Trump warns of attack",
+    "Trump imposes 50% tariffs on most Canadian goods",
+    "UK Prime Minister Andy Burnham unveils new cabinet, cuts electricity tax",
+    "US launches fresh strikes on Iran; Iran hits targets in Bahrain and Kuwait",
+    "Nicaragua's President Ortega says country will hold no more elections"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-07-20",
+      "title": "Third US soldier killed in Iraq as Iran war death toll reaches 17",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Andy Burnham becomes UK prime minister, succeeds Keir Starmer",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Israel says Iran moved nuclear centrifuges to Pickaxe Mountain, Trump warns of attack",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Trump imposes 50% tariffs on most Canadian goods",
+      "category": "economy",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "UK Prime Minister Andy Burnham unveils new cabinet, cuts electricity tax",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "US launches fresh strikes on Iran; Iran hits targets in Bahrain and Kuwait",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Zelensky dismisses Ukraine's top general after days of protests",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Trump approves landmark nuclear deal with Saudi Arabia",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "US surges forces toward Middle East, Trump threatens to bomb Iran infrastructure",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Trump approves landmark nuclear deal with Saudi Arabia",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Iran rejects US cease-fire as US strikes for 13th consecutive night",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "US imposes new tariffs on 60 trading partners over forced labor concerns",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Oil prices hit $100 a barrel for the first time since May",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Trump meets cabinet on Iran war, vows 'major military punishment'",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Guyana ferry capsizes killing 72, 100 feared dead in disaster",
+      "category": "society",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Wildfires force 220,000 to evacuate in France and Spain",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "Wildfires force 340,000 to evacuate across France and Spain",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "Guyana ferry death toll reaches 72 as recovery efforts continue",
+      "category": "society",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "Van rams into Berlin Pride parade killing one, suspect on the run",
+      "category": "conflict",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2895,
+    "totalSourcesUsed": 16,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "conflict": 25,
+      "politics": 11,
+      "society": 3,
+      "economy": 5,
+      "environment": 8,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 19,
+      "europe": 13,
+      "americas": 9,
+      "asia-pacific": 8,
+      "africa": 2,
+      "global": 2
+    }
+  }
+}

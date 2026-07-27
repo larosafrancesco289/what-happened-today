@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-27",
+  "summary": "The U.S. has paused a major military campaign against Iran that could have lasted two weeks, officials said, as concerns grow over dwindling air defense stocks. Iran has ruled out talks and kept the Strait of Hormuz closed, escalating tensions that threaten global oil shipments. The pause gives room for diplomacy, but no new talks are scheduled.\n\nWildfires across France and Spain have forced hundreds of thousands to evacuate, burning over 42,000 hectares in Gironde alone and destroying 240 homes. The flames are threatening defense sites belonging to ArianeGroup, Dassault, and Thales, adding a strategic dimension to the disaster. Meanwhile, a shooting at a food festival near Seattle's Space Needle left three dead and several injured, including a two-year-old boy. Seattle Mayor Katie Wilson says a suspect is in custody.\n\nChina's chipmaking profits surged an extraordinary 2,579.5% in the first half of 2026, driven by AI demand, according to the National Bureau of Statistics. Hong Kong exports followed suit, rising 53.4% in June to a record $81.7 billion — the largest monthly increase in 42 years. The numbers underscore how global AI spending is reshaping supply chains, with Chinese manufacturers and Hong Kong's ports at the center.\n\nUkraine's drone campaign in Crimea has cut power and water to towns, aiming to pressure Moscow into negotiations, though Russia has not acknowledged the crisis. In the West Bank, Israeli settlers set fire to mosques, cars, and farmland, Palestinians report, two days after a clash left four Palestinians and two Israelis dead. Uganda has begun emergency food relief in Karamoja after 19 died from hunger; 1.5 million people face acute malnutrition. And German police shot and killed the 21-year-old suspect who rammed a van into a Berlin Pride parade, ending a manhunt that began on July 26.",
+  "headlines": [
+    {
+      "title": "Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "Deutsche Welle"
+      ],
+      "summary": "The U.S. paused a major military campaign against Iran that could have lasted two weeks, while Iran ruled out talks and kept the Strait of Hormuz closed, escalating tensions.",
+      "link": "https://www.wsj.com/world/middle-east/trump-pauses-iran-strikes-as-officials-weigh-dwindling-air-defense-stocks-c7d7ebb0",
+      "publishedAt": "2026-07-26T19:30:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Wildfires Force Mass Evacuations in France and Spain, Threaten Bordeaux Defense Sites",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "France 24"
+      ],
+      "summary": "Hundreds of thousands evacuated as wildfires burn over 42,000 hectares in Gironde, France, destroying 240 homes and threatening ArianeGroup, Dassault, and Thales defense sites.",
+      "link": "https://www.wsj.com/world/europe/wildfires-rage-across-europe-threatening-frances-bordeaux-region-f3a99f31",
+      "publishedAt": "2026-07-26T17:40:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Three Dead, Several Injured in Shooting at Seattle Food Festival; Suspect in Custody",
+      "source": "BBC World",
+      "summary": "A shooting at a food festival near Seattle's Space Needle left three dead and several injured, including a two-year-old boy. Seattle Mayor Katie Wilson said a suspect is in custody.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T06:11:20.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "China's Chipmaking Profits Surge 2,579% in First Half Amid AI Boom",
+      "source": "South China Morning Post",
+      "summary": "China's major chip manufacturers saw profits skyrocket 2,579.5% in H1 2026, driven by unprecedented AI demand and computing power needs, according to the National Bureau of Statistics.",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3362002/profits-chinas-chipmaking-sector-soar-2500-first-half-amid-ai-boom?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T10:00:31.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Hong Kong Exports Soar 53% to Record $81.7 Billion in June on AI Demand",
+      "source": "South China Morning Post",
+      "summary": "Hong Kong exports surged 53.4% year-on-year in June to a record HK$641.1 billion ($81.7 billion), the largest monthly increase in 42 years, fueled by AI product demand.",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361989/ai-fuels-boom-hong-kong-exports-soar-53-record-hk641-billion-june?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T09:13:21.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Ukrainian Attacks in Crimea Deprive Towns of Power and Water",
+      "source": "New York Times World",
+      "summary": "Ukraine's drone campaign in Crimea caused power and water shortages for residents, aiming to pressure the Kremlin to negotiate. Moscow has not acknowledged the crisis.",
+      "link": "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
+      "publishedAt": "2026-07-27T09:04:39.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli Settlers Set Fire to Mosques, Cars, and Farmland in West Bank, Palestinians Say",
+      "source": "BBC World",
+      "summary": "Palestinians report Israeli settlers torched mosques, cars, and farmland in the West Bank, two days after a clash that left four Palestinians and two Israelis dead.",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T21:23:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Uganda Begins Emergency Food Handouts After 19 Die from Hunger in Karamoja",
+      "source": "The Guardian",
+      "summary": "Uganda launched emergency food relief in Karamoja after 19 died from hunger due to drought and crop failures, with 1.5 million people facing acute malnutrition.",
+      "link": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "publishedAt": "2026-07-27T07:00:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Berlin Police Kill Suspect in Deadly Pride Parade Van Attack",
+      "source": "Wall Street Journal World",
+      "summary": "German police shot and killed the 21-year-old suspect who rammed a van into a Berlin Pride parade on July 26, killing one person and injuring 29 others, ending a manhunt.",
+      "link": "https://www.wsj.com/world/europe/van-rams-into-crowd-at-berlin-pride-parade-killing-one-2d54f62e",
+      "publishedAt": "2026-07-26T18:04:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "On July 26, a van rammed into a Berlin Pride parade, killing one and injuring 29; the suspect fled and was on the run until killed by police on July 27.",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 382,
+    "articlesAfterDedup": 382,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 16.5,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 1,
+      "society": 3,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 3,
+      "americas": 1,
+      "asia-pacific": 2,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

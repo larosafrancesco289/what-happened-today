@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-27",
+  "summary": "La police allemande a abattu Abdul Ballout, le suspect de l'attaque de la Pride de Berlin. Samedi soir, il avait foncé sur la foule dans le bois de Tiergarten, tuant une femme et blessant 29 personnes. Après une cavale, il a été localisé et tué dimanche soir à Spandau. Les autorités n'ont pas donné plus de détails sur les circonstances exactes de la neutralisation.\n\nEn Gironde, l'incendie qui a déjà brûlé 42 000 hectares et forcé 325 000 personnes à évacuer faiblit, mais reste dangereux. Les pompiers luttent toujours contre plusieurs foyers actifs dans la banlieue sud-ouest de Bordeaux, à 15 kilomètres de la métropole. Les flammes menacent directement des zones résidentielles, et les équipes se redéploient sans cesse pour les contenir.\n\nL'épidémie d'Ebola s'accélère en République démocratique du Congo : 1 000 nouveaux cas en dix jours, portant le total à plus de 15 000 morts en Afrique. La maladie, qui se transmet par contact avec les fluides corporels, provoque une fièvre hémorragique souvent mortelle. Par ailleurs, une crise diplomatique éclate entre l'Argentine et le Brésil : le président argentin Javier Milei a traité son homologue brésilien Lula de « voleur » lors d'un meeting à Sao Paulo. Téhéran a également convoqué l'ambassadeur de France après la détention de deux agents diplomatiques français – l'un a été molesté –, dénonçant des ingérences.\n\nSur le front ukrainien, une attaque de drones ukrainiens a tué deux personnes à Rostov-sur-le-Don, dans le sud de la Russie. De son côté, l'Ukraine affirme que 147 drones russes ont été lancés contre son territoire durant la nuit. Enfin, aux États-Unis, Donald Trump nie toute pénurie de munitions malgré des stocks critiques d'intercepteurs Patriot : selon le Center for Strategic and International Studies, au moins 1 500 intercepteurs auraient été utilisés depuis le début du conflit au Moyen-Orient, laissant moins de 1 000 unités.",
+  "headlines": [
+    {
+      "title": "La police allemande abat le suspect islamiste de l'attaque de la Pride de Berlin",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "France 24",
+        "RFI"
+      ],
+      "summary": "Abdul Ballout, recherché pour avoir foncé sur la foule samedi à Berlin, tuant une femme et blessant 29 personnes, a été abattu dimanche soir à Spandau après une cavale.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/27/je-n-aurais-pas-cru-que-cela-puisse-se-passer-dans-la-ville-la-plus-queer-friendly-du-monde-berlin-bouleversee-par-l-attentat-contre-la-marche-des-fiertes_6733572_3210.html",
+      "publishedAt": "2026-07-27T03:00:08.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A ouvert avec le témoignage d'un participant et la réaction de la ville queer-friendly",
+          "link": "https://www.lemonde.fr/international/article/2026/07/27/je-n-aurais-pas-cru-que-cela-puisse-se-passer-dans-la-ville-la-plus-queer-friendly-du-monde-berlin-bouleversee-par-l-attentat-contre-la-marche-des-fiertes_6733572_3210.html"
+        },
+        {
+          "source": "France 24",
+          "angle": "A mis l'accent sur l'abattage du suspect par la police et son profil islamiste radicalisé",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-le-suspect-derri%C3%A8re-l-attaque-meurtri%C3%A8re-contre-la-pride-de-berlin-tu%C3%A9"
+        },
+        {
+          "source": "RFI",
+          "angle": "A annoncé l'opération policière et la mort du suspect, confirmée par le ministre de l'Intérieur",
+          "link": "https://www.rfi.fr/fr/europe/20260726-allemagne-une-personne-tu%C3%A9e-dans-une-op%C3%A9ration-de-police-%C3%A0-berlin-apr%C3%A8s-l-attaque-de-la-marche-des-fiert%C3%A9s"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les pompiers stabilisent l'incendie en Gironde mais ne maîtrisent pas le feu aux portes de Bordeaux",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Le Figaro",
+        "Libération",
+        "RFI"
+      ],
+      "summary": "Après 42 000 hectares brûlés et 325 000 évacués, les flammes faiblissent mais plusieurs foyers restent hors contrôle dans la banlieue sud-ouest de Bordeaux, selon les pompiers.",
+      "link": "https://www.lemonde.fr/planete/article/2026/07/27/incendie-en-gironde-a-cestas-et-a-marcheprime-sur-les-avant-postes-qui-defendent-bordeaux_6733909_3244.html",
+      "publishedAt": "2026-07-27T07:41:18.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A décrit les manœuvres des pompiers aux avant-postes de Bordeaux",
+          "link": "https://www.lemonde.fr/planete/article/2026/07/27/incendie-en-gironde-a-cestas-et-a-marcheprime-sur-les-avant-postes-qui-defendent-bordeaux_6733909_3244.html"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A rapporté la déclaration des pompiers sur la stabilisation mais non-contrôle du feu",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-en-france-feu-globalement-stable-en-gironde-macron-presidera-une-cellule-interministerielle-de-crise-ce-lundi-20260727"
+        },
+        {
+          "source": "Libération",
+          "angle": "A donné les chiffres actualisés de 42 000 ha brûlés et 325 000 évacués",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-france-en-gironde-une-situation-globalement-stable-au-cours-de-la-nuit-20260727_KMKERQ2ZGZF6RBVPK6WUMVLAHY/"
+        },
+        {
+          "source": "RFI",
+          "angle": "A souligné la baisse des foyers actifs mais l'absence de maîtrise du feu",
+          "link": "https://www.rfi.fr/fr/france/20260727-en-direct-incendies-en-france-en-gironde-la-situation-globalement-stable-au-cours-de-la-nuit"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Un millier de nouveaux cas d'Ebola signalés en dix jours en RDC",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "L'épidémie d'Ebola en République démocratique du Congo s'accélère avec 1 000 nouveaux cas en dix jours, portant le total à plus de 15 000 morts en Afrique.",
+      "link": "https://www.20minutes.fr/monde/4236479-20260727-ebola-millier-nouveaux-cas-signales-dix-jours-rdc?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-27T07:01:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Le président argentin Milei traite Lula de « voleur » et crée une crise diplomatique",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "Lors de l'investiture de Flavio Bolsonaro, Javier Milei a insulté le président brésilien Lula, provoquant une tension immédiate entre l'Argentine et le Brésil.",
+      "link": "https://www.20minutes.fr/monde/bresil/4236478-20260727-bresil-argentine-voleur-prisonnier-milei-cree-crise-prenant-lula?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-27T06:45:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump nie toute pénurie de munitions malgré des stocks critiques d'intercepteurs Patriot",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Dans une interview au Wall Street Journal, Donald Trump assure que les États-Unis ont assez de munitions, alors que 1 500 intercepteurs Patriot ont été utilisés depuis le début du conflit au Moyen-Orient.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-au-moyen-orient-le-chef-de-la-diplomatie-iranienne-accuse-l-ukraine-d-avoir-attaque-un-navire-commercial-iranien_6725301_3210.html",
+      "publishedAt": "2026-07-27T04:31:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Une attaque de drones ukrainiens tue deux personnes dans le sud de la Russie",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Une frappe nocturne sur Rostov-sur-le-Don a tué un couple et blessé cinq personnes, tandis que l'Ukraine rapporte 147 drones russes lancés contre son territoire.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-fait-deux-morts-dans-le-sud-de-la-russie-selon-les-autorites-locales_6732775_3210.html",
+      "publishedAt": "2026-07-27T05:56:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'Iran convoque l'ambassadeur français pour protester contre des « ingérences »",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Téhéran a convoqué l'ambassadeur de France après la détention de deux agents diplomatiques français, dont l'un a été molesté, dénonçant des ingérences dans les affaires intérieures iraniennes.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260727-iran-convocation-ambassadeur-fran%C3%A7ais-ing%C3%A9rence-diplomate-molest%C3%A9",
+      "publishedAt": "2026-07-27T09:47:35.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 211,
+    "articlesAfterDedup": 210,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 7.2,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 1,
+      "science": 1,
+      "politics": 3
+    },
+    "regionCounts": {
+      "europe": 3,
+      "africa": 1,
+      "americas": 2,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

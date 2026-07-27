@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-27",
+  "summary": "Il padre dell'attentatore di Berlino, Abdul Ballout, ha raccontato di aver litigato con il figlio per la barba lunga e lo ritiene plagiato. Un secondo sospetto fermato dopo l'attacco è stato rilasciato. Intanto, negli Stati Uniti una sparatoria al food festival di Seattle ha ucciso tre persone e ferito cinque, tra cui un bambino. La polizia ha fermato un sospetto.\n\nSul fronte internazionale, il presidente ucraino Zelensky è a Londra per siglare un accordo con il premier britannico Burnham. Il Regno Unito condividerà la tecnologia di jammer 'Stone Cloak' per disturbare la difesa aerea russa. In Italia, la Corte d'Appello di Milano ha ordinato la chiusura dell'area a caldo dell'ex Ilva di Taranto entro 90 giorni per presenza di amianto e polveri sottili. Il governo si appresta a tagliare le accise solo sul gasolio per riportare i prezzi sotto i due euro al litro.\n\nNuove regole europee per l'intelligenza artificiale: dal 2 agosto, i contenuti generati da IA, deepfake e chatbot dovranno essere marcati tecnicamente per garantire trasparenza. Dalla scienza, arriva la scoperta della prima esoluna mai osservata, grande come Giove e in orbita attorno a una nana bruna, che apre interrogativi sulla formazione dei sistemi planetari.\n\nInfine, il bilancio degli scontri No Tav in Val di Susa sale a 126 agenti feriti. La polizia ha fermato quattro antagonisti stranieri sospettati di appartenere al Blocco Nero, e sequestrato materiale esplosivo. La premier Meloni e il ministro Piantedosi hanno visitato i cantieri.",
+  "headlines": [
+    {
+      "title": "Padre dell'attentatore di Berlino rivela litigio per la barba e parla di lavaggio del cervello",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Il padre di Abdul Ballout, autore della strage al Pride di Berlino con un furgone, racconta di aver litigato con il figlio per la barba lunga e lo ritiene plagiato. Un secondo sospettato è stato rilasciato.",
+      "link": "https://www.repubblica.it/esteri/2026/07/27/news/strage_al_pride_di_berlino_il_padre_dell_attentatore-425495304/?rss",
+      "publishedAt": "2026-07-27T08:44:26.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Padre dell'attentatore parla di lavaggio del cervello e litigio",
+          "link": "https://www.repubblica.it/esteri/2026/07/27/news/strage_al_pride_di_berlino_il_padre_dell_attentatore-425495304/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Focus sul rilascio del secondo sospettato e parole del padre",
+          "link": "https://www.tgcom24.mediaset.it/mondo/berlino-pride-attentato-padre-ballout_114864988-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Sparatoria al food festival di Seattle uccide tre persone, ferito un bambino",
+      "source": "la Repubblica",
+      "summary": "Un uomo armato ha aperto il fuoco tra gli stand del Seattle Center, uccidendo tre persone e ferendone cinque, tra cui un bambino. La polizia ha fermato un sospetto.",
+      "link": "https://www.repubblica.it/esteri/2026/07/27/news/sparatoria_a_seattle_food_festival_morti_feriti-425494889/?rss",
+      "publishedAt": "2026-07-27T08:16:46.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zelensky a Londra sigla accordo con Burnham su droni e guerra elettronica contro Russia",
+      "source": "Euronews Italiano",
+      "summary": "Il presidente ucraino incontra il premier britannico Burnham, che annuncia la condivisione di tecnologia jammer 'Stone Cloak' per disturbare la difesa aerea russa.",
+      "link": "http://it.euronews.com/my-europe/2026/07/27/zelensky-a-londra-accordo-su-droni-e-guerra-elettronica-contro-la-russia",
+      "publishedAt": "2026-07-27T10:02:01.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Scoperta la prima esoluna osservata, grande come Giove orbita attorno a una nana bruna",
+      "source": "Euronews Italiano",
+      "summary": "Pubblicato su Nature, lo studio identifica un gigantesco satellite extrasolare che sfida i modelli di formazione planetaria e apre nuove domande sull'universo.",
+      "link": "http://it.euronews.com/next/2026/07/27/scoperta-la-prima-esoluna-mai-osservata-e-grande-come-giove-e-cambia-cio-che-sappiamo-sull",
+      "publishedAt": "2026-07-27T09:54:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Corte d'Appello impone stop all'ex Ilva di Taranto entro 90 giorni per amianto e polveri",
+      "source": "AGI",
+      "summary": "La sezione impresa della Corte d'Appello di Milano ordina la chiusura dell'area a caldo fino alla rimozione dell'amianto e al rientro delle emissioni nei limiti.",
+      "link": "https://www.agi.it/cronaca/news/2026-07-27/ex-ilva-chiusura-90-giorni-38252573/",
+      "publishedAt": "2026-07-27T10:04:59.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Governo verso taglio delle accise solo sul gasolio per frenare il caro carburanti",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il Consiglio dei ministri si appresta a intervenire sul gasolio per riportare i prezzi sotto i 2 euro al litro, escludendo la benzina.",
+      "link": "https://www.ilsole24ore.com/art/caro-carburanti-il-cdm-taglio-accise-solo-gasolio-AJ69ltW",
+      "publishedAt": "2026-07-27T08:50:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Dal 2 agosto nuovi obblighi UE di trasparenza per IA, deepfake e chatbot",
+      "source": "ANSA",
+      "summary": "La Commissione europea pubblica linee guida che impongono marcatura tecnica per i contenuti sintetici generati dall'intelligenza artificiale.",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/07/26/ia-deepfake-e-chatbot-dal-2-agosto-cambiano-gli-obblighi-di-trasparenza_f918ba2a-d13e-4577-9cae-50c060fb1a2a.html",
+      "publishedAt": "2026-07-26T11:21:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Campioni cinesi Chang'e-6 rivelano che Terra rallenta il vento solare sulla Luna",
+      "source": "ANSA",
+      "summary": "I primi campioni di regolite dal lato nascosto della Luna mostrano che il campo magnetico terrestre devia il vento solare, proteggendo il lato visibile.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/07/24/la-terra-rallenta-il-vento-solare-che-colpisce-il-lato-visibile-della-luna_f93fa208-1417-4981-9a12-2fb948e0ddc4.html",
+      "publishedAt": "2026-07-27T06:08:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Scontri No Tav in Val di Susa: 126 feriti tra le forze dell'ordine, fermati quattro antagonisti stranieri",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Il Sole 24 Ore"
+      ],
+      "summary": "Il bilancio degli scontri di sabato sale a 126 agenti feriti. La polizia ferma quattro sospetti del Blocco Nero. Meloni e Piantedosi visitano i cantieri.",
+      "link": "https://www.agi.it/cronaca/news/2026-07-26/no-tav-val-di-susa-126-feriti-38239409/",
+      "publishedAt": "2026-07-27T09:44:08.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Sabato centinaia di No Tav hanno assaltato i cantieri della linea alta velocità in Val di Susa, ferendo decine di agenti.",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Bilancio 126 feriti e fermo di 4 antagonisti",
+          "link": "https://www.agi.it/cronaca/news/2026-07-27/no-tav-val-di-susa-126-feriti-38239409/"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "angle": "Sopralluogo di Meloni e Piantedosi e fermo Blocco Nero",
+          "link": "https://www.ilsole24ore.com/art/scontri-val-susa-fermati-quattro-presunti-appartenenti-blocco-nero-indagini-l-assalto-cantieri-tav-AJJZWtW"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Famiglia italiana dorme in una macelleria in Venezuela dopo il terremoto: 'Aiutateci'",
+      "source": "la Repubblica",
+      "summary": "Enza e Michele, italiani residenti in Venezuela, hanno perso la casa nel sisma e vivono nel loro luogo di lavoro. Lanciano un appello per aiuti.",
+      "link": "https://www.repubblica.it/esteri/2026/07/27/news/terremoto_in_venezuela_la_famiglia_italiana_che_dorme_in_una_macelleria-425495261/?rss",
+      "publishedAt": "2026-07-27T08:28:36.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Un forte terremoto ha colpito il Venezuela, causando danni ingenti.",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 193,
+    "articlesAfterDedup": 193,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 14,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 22.8,
+    "categoryCounts": {
+      "conflict": 3,
+      "society": 1,
+      "science": 2,
+      "environment": 2,
+      "economy": 1,
+      "politics": 1
+    },
+    "regionCounts": {
+      "europe": 6,
+      "americas": 2,
+      "global": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

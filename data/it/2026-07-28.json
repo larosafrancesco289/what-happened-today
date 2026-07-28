@@ -1,0 +1,170 @@
+{
+  "date": "2026-07-28",
+  "summary": "L'Ucraina ha lanciato oltre 390 droni su Mosca nella notte, e le difese russe ne hanno abbattuti 81 in avvicinamento. Il sindaco Sobyanin ha parlato di un attacco senza precedenti, mentre il governatore Vorobyov ha segnalato danni ad alcune case. L'attacco arriva poche ore prima dell'incontro tra Zelensky e Trump, e segna un'escalation significativa nel conflitto. Nel frattempo, in Giappone un terremoto di magnitudo 7.1 ha colpito Kumamoto alle 16:27 locali. L'allerta tsunami è stata revocata dopo che non è stata osservata attività anomala. Le centrali nucleari della regione funzionano normalmente, ma circa 45.000 case sono senza elettricità. Sempre in ambito internazionale, il maxi-vertice tra Stati Uniti e coalizione Volenterosi sullo sminamento nello Stretto di Hormuz non si terrà a causa di divergenze sulla linea rossa dell'Unione Europea. Lo riferisce Repubblica, ma retromarce sono ancora possibili. Sul fronte economico, una buona notizia dalla Spagna: l'Indagine sulla popolazione attiva del secondo trimestre registra 486.000 nuovi posti di lavoro, portando gli occupati a 22,8 milioni e il tasso di disoccupazione al 9,87%, il livello più basso dal 2008. Una crescita che conferma il trend positivo del mercato del lavoro spagnolo. Infine, due notizie diverse. In Francia, a Orange, la polizia ha trovato i corpi di cinque neonati in scatole di cartone nella casa di una coppia. La donna aveva partorito un bambino sano ieri. Le indagini sono in corso. E dallo spazio: il telescopio Chandra ha osservato per 180 ore il 'primo respiro caldo' di un ammasso di galassie nato a 2 miliardi di anni dal Big Bang, un risultato che aiuta a capire la formazione delle strutture cosmiche.",
+  "headlines": [
+    {
+      "title": "Terremoto di magnitudo 7.1 colpisce il Giappone, autorità revocano allerta tsunami",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24"
+      ],
+      "summary": "Una scossa di magnitudo 7.1 ha colpito Kumamoto, Giappone, alle 16:27 locali. L'allerta tsunami è stata revocata dopo che non è stata osservata attività anomala.",
+      "link": "https://www.agi.it/estero/news/2026-07-28/giappone-terremoto-tsunami-38266028/",
+      "publishedAt": "2026-07-28T08:55:11.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha riportato la magnitudo 7.1, la profondità di 10 km e la revoca dell'allerta tsunami",
+          "link": "https://www.agi.it/estero/news/2026-07-28/giappone-terremoto-tsunami-38266028/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha sottolineato l'intensità massima sulla scala nipponica e l'assenza di vittime",
+          "link": "https://www.tgcom24.mediaset.it/2026/video/giappone-terremoto-di-magnitudo-7-1-scatta-l-allerta-tsunami_114904095-02k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Oltre 390 droni ucraini attaccano Mosca, difese aeree abbattono 81 velivoli",
+      "source": "AGI",
+      "sources": [
+        "AGI"
+      ],
+      "summary": "L'Ucraina ha lanciato oltre 390 droni su Mosca nella notte. Ottantuno sono stati abbattuti in avvicinamento. L'attacco precede l'incontro Zelensky-Trump.",
+      "link": "https://www.agi.it/estero/news/2026-07-28/ucraina-russia-droni-mosca-38265192/",
+      "publishedAt": "2026-07-28T08:46:35.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Polizia trova cinque neonati morti in scatole di cartone in casa di una coppia a Orange",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "ANSA",
+        "Rai News",
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "I corpi di cinque neonati sono stati trovati in scatole di cartone nell'abitazione di una coppia a Orange, Francia. La donna aveva partorito un bambino sano ieri.",
+      "link": "https://www.agi.it/estero/news/2026-07-28/francia-orange-coppia-nasconde-corpi-neonati-38266735/",
+      "publishedAt": "2026-07-28T08:23:56.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha riportato che la donna aveva partorito un bambino sano e i corpi erano in scatole di cartone",
+          "link": "https://www.agi.it/estero/news/2026-07-28/francia-orange-coppia-nasconde-corpi-neonati-38266735/"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Ha localizzato il ritrovamento a Marsiglia e detto che i neonati erano in scatole di cartone",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/28/cinque-neonati-trovati-morti-nella-casa-di-una-coppia-a-marsiglia_5263ca48-1968-42ec-b5a5-eb86dd25a633.html"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Ha specificato che l'abitazione si trova a Orange e che la coppia viveva lì",
+          "link": "https://www.rainews.it/articoli/2026/07/erano-dentro-scatole-di-cartone-cinque-neonati-trovati-morti-in-casa-di-una-coppia-provenza-fd5bfd45-1451-473a-9d9d-d8aeb6fe5cb1.html"
+        },
+        {
+          "source": "la Repubblica",
+          "angle": "Ha menzionato che i cadaveri sono stati trovati dalla polizia durante una perquisizione a Orange",
+          "link": "https://www.repubblica.it/esteri/2026/07/28/news/provenza_cinque_neonati_morti_scatole-425497403/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha evidenziato che la donna ha partorito nelle scorse ore e i corpi erano in cartoni",
+          "link": "https://www.tgcom24.mediaset.it/mondo/francia-neonati-morti-orange_114903141-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Spagna registra record di 22,8 milioni di occupati, disoccupazione scende al 9,87%",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "summary": "L'Indagine sulla popolazione attiva del secondo trimestre segna 486.000 nuovi posti, portando la disoccupazione al minimo dal 2008.",
+      "link": "http://it.euronews.com/business/2026/07/28/spagna-record-di-228-milioni-di-occupati-la-disoccupazione-scende-sotto-il-10",
+      "publishedAt": "2026-07-28T08:43:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Salta il maxi-vertice tra Volenterosi e Usa sullo sminamento nello Stretto di Hormuz",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica"
+      ],
+      "summary": "Il vertice previsto a Londra tra Stati Uniti e coalizione Volenterosi non si terrà a causa delle divergenze sulla linea rossa UE riguardo lo sminamento.",
+      "link": "https://www.repubblica.it/esteri/2026/07/28/news/hormuz_vertice_ue_volenterosi_stati_uniti_sminamento-425496949/?rss",
+      "publishedAt": "2026-07-28T07:41:35.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Telescopio Chandra osserva il primo respiro caldo di un ammasso di galassie a 2 miliardi di anni dal Big Bang",
+      "source": "ANSA",
+      "sources": [
+        "ANSA"
+      ],
+      "summary": "Il telescopio Chandra ha rilevato gas caldo in un ammasso di galassie primordiale, dopo 180 ore di osservazione.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/07/28/osservato-il-primo-respiro-caldo-di-un-antico-ammasso-di-galassie_58e38302-48f0-4127-a6fb-4ed63e35fcad.html",
+      "publishedAt": "2026-07-28T06:27:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 196,
+    "articlesAfterDedup": 195,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 16,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.6,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 1,
+      "society": 1,
+      "economy": 1,
+      "politics": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "europe": 2,
+      "americas": 1,
+      "middle-east": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

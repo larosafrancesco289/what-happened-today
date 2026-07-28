@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-28",
+  "summary": "A magnitude-7.1 earthquake struck Japan's Kyushu island today, shaking the region with the highest intensity on the Japanese scale and triggering tsunami warnings for waves up to 1 meter. Residents along the coast have been urged to evacuate immediately. No casualties have been reported so far, but officials are bracing for potential damage aftershocks. The quake comes as Japan remains on high alert for seismic activity.\n\nIn Washington, two key meetings are set to take place this week. Israeli Prime Minister Benjamin Netanyahu meets President Trump for the first time since US-Israeli strikes on Iran strained relations. Both leaders are expected to downplay public friction over ceasefire negotiations. Separately, Ukrainian President Volodymyr Zelensky will also visit the White House, seeking stronger air defense cooperation. Trump has reportedly been impressed by Ukraine's recent battlefield gains, signaling a possible shift in ties.\n\nMediators are working on a quick fix to reopen the Strait of Hormuz during a lull in fighting between Iran and its adversaries. Iran and Oman are seeking an agreement to resume shipping, which could pave the way for broader peace talks. Iran denies direct negotiations with the US. Meanwhile, Uganda has launched emergency food relief after at least 19 deaths from hunger were reported in the drought-stricken Karamoja region. The area's 1.5 million people face acute food shortages and malnutrition.\n\nAcross Asia, extreme rainfall has triggered flash floods and typhoons from Afghanistan to Taiwan. In eastern Afghanistan, homes built of stone and mud have collapsed, and crops have been washed away. Residents say the rains are coming heavier and earlier each year, a pattern scientists link to climate breakdown. The destruction is widespread, with tens of thousands affected across the continent.",
+  "headlines": [
+    {
+      "title": "Magnitude-7.1 Earthquake Hits Japan's Kyushu, Tsunami Warning Issued",
+      "source": "ABC Australia",
+      "sources": [
+        "ABC Australia",
+        "The Hindu",
+        "Japan Times"
+      ],
+      "summary": "A magnitude-7.1 earthquake struck Japan's Kyushu island, triggering tsunami warnings for waves up to 1 meter. The quake registered shindo 7 on the Japanese scale. Residents are urged to evacuate coastal areas.",
+      "link": "https://www.abc.net.au/news/2026-07-28/magnitude-7-1-earthquake-hits-japan-kumamoto-prefecture/106968604",
+      "publishedAt": "2026-07-28T08:07:51.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Netanyahu Meets Trump at White House for First Time Since Iran War",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Deutsche Welle"
+      ],
+      "summary": "Israeli Prime Minister Benjamin Netanyahu meets US President Donald Trump at the White House for the first time since US-Israeli strikes on Iran strained ties. Both leaders aim to downplay differences over ceasefire negotiations.",
+      "link": "https://www.france24.com/en/netanyahu-to-meet-trump-at-white-house-for-first-time-since-iran-war-strained-ties",
+      "publishedAt": "2026-07-28T06:45:16.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Zelensky to Meet Trump at White House Amid Thawing Relations",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Wall Street Journal World",
+        "Deutsche Welle"
+      ],
+      "summary": "Ukrainian President Volodymyr Zelensky will meet President Trump in Washington this week, seeking stronger air defense cooperation. Trump reportedly impressed by Ukraine's battlefield gains, signaling a possible shift in ties.",
+      "link": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
+      "publishedAt": "2026-07-28T08:00:38.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Iran and Oman Seek Hormuz Strait Agreement to Jumpstart Peace Talks",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "BBC World"
+      ],
+      "summary": "Mediators work on a quick fix to reopen the Strait of Hormuz during a lull in fighting, hoping to pave the way for substantive peace negotiations. Iran denies direct talks with US.",
+      "link": "https://www.wsj.com/world/middle-east/iran-and-oman-seek-agreement-on-the-hormuz-in-bid-to-jumpstart-peace-talks-d4c442ac",
+      "publishedAt": "2026-07-28T01:00:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Uganda Begins Emergency Food Handouts After 19 Die from Hunger in Karamoja",
+      "source": "The Guardian",
+      "summary": "Uganda has launched emergency food relief in drought-stricken Karamoja after at least 19 deaths from hunger. The region's 1.5 million people face acute food shortages and malnutrition.",
+      "link": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "publishedAt": "2026-07-27T07:00:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Extreme Rainfall Across Asia Brings Flash Floods and Typhoons",
+      "source": "The Guardian",
+      "summary": "Unprecedented deluge from Afghanistan to Taiwan causes flash floods and typhoons, destroying homes and highlighting climate breakdown. Rains are coming heavier and earlier each year.",
+      "link": "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change",
+      "publishedAt": "2026-07-28T04:00:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 395,
+    "articlesAfterDedup": 393,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 26.1,
+    "categoryCounts": {
+      "environment": 2,
+      "politics": 3,
+      "society": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "middle-east": 2,
+      "europe": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

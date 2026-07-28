@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-28",
+  "summary": "Un puissant séisme de magnitude 7,1 a frappé ce mardi l'île japonaise de Kyushu, déclenchant une alerte au tsunami pour des vagues pouvant atteindre un mètre. Les autorités ont rapidement inspecté les centrales nucléaires et n'ont signalé aucune anomalie. L'alerte devrait être levée prochainement. Le tremblement de terre a atteint le niveau maximum sur l'échelle d'intensité sismique japonaise, mais aucun dégât majeur n'a été rapporté pour l'instant.\n\nDeux rencontres de premier plan ont lieu à Washington. Benyamin Netanyahou s'est entretenu avec Donald Trump à la Maison-Blanche, leur première réunion depuis la guerre en Iran. Le Premier ministre israélien a approuvé le déploiement d'une force internationale à Gaza. Dans la foulée, Volodymyr Zelensky est attendu ce mardi pour rencontrer Trump, qui s'est montré récemment plus conciliant envers l'Ukraine. Les deux dirigeants discutent du soutien américain face à la Russie.\n\nParallèlement, l'Iran, Oman et l'Arabie saoudite ont évoqué le détroit d'Ormuz et appelé à la coopération face aux États-Unis, selon les médias iraniens. Dans ce contexte, Trump a annoncé avoir suspendu les bombardements pour donner une chance aux négociations. Sur le front ukrainien, plus de 390 drones ont visé la région de Moscou dans la nuit du 27 au 28 juillet, selon des sources russes. Ces frappes massives n'ont pas fait de victimes mais soulèvent des questions sur la défense antiaérienne russe.\n\nEn Gironde, les pompiers continuent de protéger une poudrière militaire et le camp de Souge, à l'ouest de Bordeaux, menacés par l'incendie qui reste actif. De nombreux moyens terrestres et aériens sont mobilisés. L'incendie, toujours non maîtrisé, a déjà dévasté plusieurs milliers d'hectares.",
+  "headlines": [
+    {
+      "title": "Un séisme de magnitude 7,1 frappe l'île japonaise de Kyushu, alerte au tsunami émise",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "RFI",
+        "20 Minutes"
+      ],
+      "summary": "Un puissant tremblement de terre a secoué le sud-ouest du Japon ce mardi 28 juillet, déclenchant une alerte au tsunami. Aucune anomalie n'a été signalée dans les centrales nucléaires. L'alerte devrait être levée prochainement.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/un-seisme-de-magnitude-71-frappe-lile-japonaise-de-kyushu-et-declenche-une-alerte-au-tsunami-20260728_UBYLOA7GQRHEBDGND3Z7ATRBVY/",
+      "publishedAt": "2026-07-28T08:52:22.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "A mis l'accent sur l'île de Kyushu et la levée prochaine de l'alerte",
+          "link": "https://www.liberation.fr/international/asie-pacifique/un-seisme-de-magnitude-71-frappe-lile-japonaise-de-kyushu-et-declenche-une-alerte-au-tsunami-20260728_UBYLOA7GQRHEBDGND3Z7ATRBVY/"
+        },
+        {
+          "source": "RFI",
+          "angle": "A souligné l'absence d'anomalie dans les centrales nucléaires et l'alerte au tsunami",
+          "link": "https://www.rfi.fr/fr/asie-pacifique/20260728-japon-un-s%C3%A9isme-de-magnitude-7-1-frappe-le-sud-ouest-du-pays-alerte-au-tsunami-%C3%A9mise"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A mentionné la hauteur du tsunami et l'absence d'anomalie nucléaire",
+          "link": "https://www.20minutes.fr/monde/japon/4236644-20260728-japon-violent-seisme-frappe-sud-pays-alerte-tsunami-emise?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Benyamin Netanyahou rencontre Donald Trump à la Maison-Blanche pour la première fois depuis la guerre en Iran",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)",
+        "Radio-Canada",
+        "RFI",
+        "20 Minutes"
+      ],
+      "summary": "Le Premier ministre israélien est reçu ce mardi 28 juillet par le président américain dans un contexte de tensions sur l'Iran, le Liban et Gaza. Israël a approuvé le déploiement d'une force internationale à Gaza.",
+      "link": "https://www.rtbf.be/article/premiere-rencontre-netanyahu-trump-sur-fond-de-tensions-depuis-le-debut-de-la-guerre-en-iran-11763387",
+      "publishedAt": "2026-07-28T04:08:42.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF (Belgian)",
+          "angle": "A souligné qu'il s'agit de la première rencontre depuis le début de la guerre en Iran",
+          "link": "https://www.rtbf.be/article/premiere-rencontre-netanyahu-trump-sur-fond-de-tensions-depuis-le-debut-de-la-guerre-en-iran-11763387"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A mis l'accent sur l'attente de la rencontre et le contexte de tensions",
+          "link": "https://ici.radio-canada.ca/nouvelle/2271954/netanyahou-rencontre-trump-maison-blanche"
+        },
+        {
+          "source": "RFI",
+          "angle": "A détaillé les tensions sur l'Iran, le Liban et Gaza et l'approbation d'une force internationale",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260728-netanyahu-attendu-%C3%A0-la-maison-blanche-pour-une-rencontre-sous-tension-avec-donald-trump"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A intégré la rencontre dans un suivi en direct de la guerre au Moyen-Orient",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4236625-20260728-direct-guerre-moyen-orient-benyamin-netanyahou-va-rencontrer-donald-trump-maison-blanche?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "L'Iran, Oman et l'Arabie saoudite discutent du détroit d'Ormuz au milieu des tensions avec les États-Unis",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "RFI"
+      ],
+      "summary": "Les ministres des Affaires étrangères des trois pays ont évoqué la coopération face aux États-Unis, selon des médias iraniens. Donald Trump a suspendu les bombardements pour donner une chance aux négociations.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-israelienne-dit-avoir-intercepte-un-drone-pres-de-la-frontiere-jordanienne_6725301_3210.html",
+      "publishedAt": "2026-07-28T06:01:16.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A présenté les discussions comme des échanges diplomatiques après une accalmie",
+          "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-israelienne-dit-avoir-intercepte-un-drone-pres-de-la-frontiere-jordanienne_6725301_3210.html"
+        },
+        {
+          "source": "RFI",
+          "angle": "A centré sur les discussions autour du détroit d'Ormuz, au cœur du conflit",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260728-en-direct-moyen-orient-l-iran-en-discussion-avec-oman-et-l-arabie-saoudite-sur-le-d%C3%A9troit-d-ormuz"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Volodymyr Zelensky attendu à la Maison-Blanche pour obtenir le soutien de Donald Trump",
+      "source": "Radio-Canada",
+      "summary": "Le président ukrainien doit rencontrer le président américain ce mardi 28 juillet, alors que Trump a récemment fait preuve de plus de complaisance envers Zelensky.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2271955/zelensky-trump-rencontre-maison-blanche-ukraine",
+      "publishedAt": "2026-07-28T04:56:57.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Plus de 390 drones ukrainiens visent la région de Moscou dans la nuit",
+      "source": "20 Minutes",
+      "summary": "L'armée ukrainienne a lancé une vaste attaque de drones sur la région de Moscou dans la nuit du 27 au 28 juillet, selon des sources russes.",
+      "link": "https://www.20minutes.fr/monde/ukraine/4236623-20260728-direct-guerre-ukraine-region-moscou-visee-nuit-plus-390-drones?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-28T04:28:08.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les pompiers protègent une poudrière militaire contre l'incendie en Gironde",
+      "source": "Le Monde",
+      "summary": "De nombreux moyens terrestres et aériens sont engagés pour défendre des installations de défense et le camp de Souge à l'ouest de Bordeaux, toujours menacés par les flammes.",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/28/incendie-en-gironde-la-defense-opiniatre-d-une-poudriere-militaire-face-aux-flammes_6734841_3224.html",
+      "publishedAt": "2026-07-28T07:09:23.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "L'incendie en Gironde, qui a débuté le 27 juillet, avait été partiellement stabilisé mais menaçait toujours Bordeaux. Les pompiers concentrent désormais leurs efforts sur la protection d'une poudrière militaire et du camp de Souge.",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 208,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5,
+    "categoryCounts": {
+      "environment": 2,
+      "politics": 3,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "middle-east": 2,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

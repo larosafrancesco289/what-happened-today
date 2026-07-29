@@ -1,0 +1,113 @@
+{
+  "date": "2026-07-29",
+  "summary": "Iran launched a surprise missile attack on U.S. forces in Iraq today, the first such strike in days. The U.S. and Saudi Arabia responded with joint air strikes on Iran-aligned groups in Iraq, escalating tensions in the region. The U.S. accuses Iran of trying to derail ongoing ceasefire talks. No casualties have been reported yet from either side, but the strikes mark a significant uptick in hostilities.\n\nA 6.8 magnitude earthquake struck Kumamoto prefecture on Japan's Kyushu island, killing at least 13 people and collapsing a shopping mall. Rescue crews are racing to find survivors amid fires and rubble, with over 200,000 residents under evacuation orders. The quake hit early this morning, and authorities warn of possible aftershocks.\n\nRussia charged Telegram founder Pavel Durov with aiding terrorism, accusing him of failing to remove channels used by Ukraine to recruit for sabotage operations in Russia. Durov has been placed on an international wanted list. The move is part of a broader Kremlin effort to tighten control over the internet; Telegram remains one of the most popular messaging apps in Russia despite restrictions.\n\nFrance ordered 4,000 more evacuations from tourist sites along its Atlantic coast as wildfires continue to spread. The blazes have now displaced over 300,000 people across southwestern Europe, making this one of France's largest peacetime evacuations. Meanwhile, India's Supreme Court declared all coal block allocations since 1993 illegal, ruling they lacked fair and transparent procedures. The decision cancels numerous mining licenses and could reshape India's energy sector.",
+  "headlines": [
+    {
+      "title": "Iran Launches Missile Attack on U.S. Forces, Prompting US-Saudi Strikes in Iraq",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "BBC World",
+        "Al Jazeera English",
+        "France 24"
+      ],
+      "summary": "Iran fired missiles at U.S. forces in a surprise attack, the first regional strike in days. The U.S. and Saudi Arabia responded with joint air strikes on Iran-aligned groups in Iraq. The U.S. accuses Iran of trying to derail ceasefire talks.",
+      "link": "https://www.wsj.com/world/middle-east/iran-launches-surprise-missile-attack-on-u-s-forces-70955a30",
+      "publishedAt": "2026-07-29T01:31:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Japan Rescues Trapped Survivors After Earthquake Kills 13, Collapses Mall",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Wall Street Journal World",
+        "BBC World",
+        "NPR News"
+      ],
+      "summary": "A 6.8 magnitude quake struck Kumamoto prefecture on Kyushu, killing at least 13 and collapsing a shopping mall. Rescue crews race to find survivors amid fires and rubble, with over 200,000 under evacuation orders.",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+      "publishedAt": "2026-07-29T06:38:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russia Charges Telegram Founder Pavel Durov with Aiding Terrorism, Issues Wanted Notice",
+      "source": "South China Morning Post",
+      "sources": [
+        "South China Morning Post",
+        "France 24",
+        "Deutsche Welle"
+      ],
+      "summary": "Moscow charged Telegram CEO Pavel Durov with complicity in terrorism, accusing him of failing to remove channels used by Ukraine to recruit for sabotage operations in Russia. Durov is placed on an international wanted list.",
+      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3362240/russia-charges-telegram-founder-durov-aiding-terror-issues-wanted-alert?utm_source=rss_feed",
+      "publishedAt": "2026-07-29T07:27:25.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "France Evacuates Thousands More as Wildfires Displace Over 300,000 in Southwest Europe",
+      "source": "NPR News",
+      "summary": "French authorities ordered 4,000 additional evacuations from Atlantic coast tourist sites, widening what may be France's largest peacetime evacuation. The wildfires have displaced over a third of a million people across the region.",
+      "link": "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires",
+      "publishedAt": "2026-07-29T07:22:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "India Supreme Court Declares All Coal Block Allocations Since 1993 Illegal",
+      "source": "The Hindu",
+      "summary": "The Supreme Court ruled that coal block allocations since 1993 lacked fair and transparent procedures, cancelling them. The decision affects numerous mining operations and could reshape India's energy sector.",
+      "link": "https://www.thehindu.com/news/national/supreme-court-cancels-all-coal-block-allocations/article60456985.ece1",
+      "publishedAt": "2026-07-29T09:05:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 415,
+    "articlesAfterDedup": 414,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 7.6,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 3
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "asia-pacific": 2,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

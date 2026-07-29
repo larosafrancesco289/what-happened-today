@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-29",
+  "summary": "Le bilan du séisme de magnitude 7,1 à Kyushu, au Japon, s'est alourdi à 13 morts. Les secours recherchent encore des survivants dans un centre commercial effondré. L'alerte au tsunami a été levée, mais les dégâts sont considérables, avec des incendies et des bâtiments détruits. Le gouvernement japonais mobilise l'armée pour les opérations de sauvetage.\n\nPour la première fois, les États-Unis et l'Arabie saoudite ont mené des frappes conjointes en Irak contre des milices pro-iraniennes, tuant au moins 20 personnes. Riyad accusait ces groupes d'avoir ciblé ses infrastructures énergétiques par drones. Parallèlement, la Russie a émis un avis de recherche international contre Pavel Durov, le fondateur de Telegram, l'accusant de complicité de terrorisme pour ne pas avoir modéré des canaux utilisés selon Moscou par les services ukrainiens pour recruter de jeunes Russes.\n\nL'antisémitisme a atteint un niveau record : l'Anti-Defamation League rapporte que 20 personnes juives ont été assassinées dans le monde en 2025, du jamais-vu depuis 1994. En Algérie, une première historique : Khalida Boufedeche a été élue présidente du Parlement, devenant la première femme à occuper ce poste. Elle est membre du FLN, mais le Parlement ne compte que 25 députées sur 407 sièges, soit 6,14 %.\n\nEn Australie, la grippe aviaire H5, détectée en juin par un oiseau migrateur, s'est désormais transmise localement. Les autorités sanitaires surveillent la situation. Aux États-Unis, un adolescent de 16 ans a été condamné à la prison à vie pour avoir tué quatre personnes dans une fusillade au lycée Apalachee en Géorgie en 2024.",
+  "headlines": [
+    {
+      "title": "Les États-Unis et l'Arabie saoudite frappent l'Irak de manière conjointe pour la première fois",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "RFI"
+      ],
+      "summary": "Washington et Riyad mènent des frappes contre des milices pro-iraniennes en Irak, tuant au moins 20 personnes. C'est la première opération conjointe de cette ampleur.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/29/guerre-au-moyen-orient-les-etats-unis-et-l-arabie-saoudite-franchissent-une-etape-inedite-en-frappant-l-irak-de-maniere-conjointe_6736214_3210.html",
+      "publishedAt": "2026-07-29T07:38:47.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre sur l'étape inédite de la coalition et les accusations de drones iraniens",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/guerre-au-moyen-orient-les-etats-unis-et-l-arabie-saoudite-franchissent-une-etape-inedite-en-frappant-l-irak-de-maniere-conjointe_6736214_3210.html"
+        },
+        {
+          "source": "RFI",
+          "angle": "Met en avant le bilan humain d'au moins 20 morts et l'interception de missiles iraniens",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260729-en-direct-moyen-orient-plusieurs-morts-en-irak-dans-des-frappes-am%C3%A9ricano-saoudiennes"
+        },
+        {
+          "source": "RFI",
+          "angle": "Souligne la revendication de Riyad et l'absence de confirmation officielle irakienne",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260729-l-arabie-saoudite-et-les-%C3%A9tats-unis-frappent-pour-la-premi%C3%A8re-fois-l-irak-de-mani%C3%A8re-conjointe"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Russie inculpe le fondateur de Telegram Pavel Durov pour complicité de terrorisme",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Libération",
+        "France 24"
+      ],
+      "summary": "Moscou accuse Pavel Durov de ne pas avoir modéré un bot utilisé par les services ukrainiens pour recruter de jeunes Russes. Un avis de recherche international est émis.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/29/la-russie-inculpe-le-fondateur-de-telegram-pavel-durov-pour-complicite-de-terrorisme_6736320_3210.html",
+      "publishedAt": "2026-07-29T08:44:48.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Détaille les charges de complicité de terrorisme et l'avis de recherche international",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/la-russie-inculpe-le-fondateur-de-telegram-pavel-durov-pour-complicite-de-terrorisme_6736320_3210.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Met l'accent sur le bot spécifique utilisé pour entraîner des jeunes à saboter",
+          "link": "https://www.liberation.fr/international/la-russie-lance-un-avis-de-recherche-international-visant-le-patron-de-telegram-pavel-dourov-pour-complicite-de-terrorisme-20260729_HXSUZ5TYVFEQNNFJAHISXCKRVM/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Cite le FSB pour l'inculpation et le mandat d'arrêt, rapporte par Interfax",
+          "link": "https://www.france24.com/fr/europe/20260729-russie-emet-mandat-arret-international-contre-patron-telegram-pour-complicite-terrorisme-durov"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Treize morts dans le séisme au Japon, des personnes piégées sous un centre commercial",
+      "source": "RTBF (Belgian)",
+      "singleSource": true,
+      "summary": "Le bilan du séisme de magnitude 7,1 à Kyushu s'alourdit à 13 morts. Les secours recherchent des survivants dans un centre commercial effondré.",
+      "link": "https://www.rtbf.be/article/treize-morts-dans-le-seisme-qui-a-frappe-le-sud-ouest-du-japon-selon-un-nouveau-bilan-11763835",
+      "publishedAt": "2026-07-29T05:08:58.000Z",
+      "tier": "also",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Les attaques antisémites meurtrières atteignent un record mondial en 2025",
+      "source": "Liberation",
+      "singleSource": true,
+      "summary": "L'Anti-Defamation League rapporte 20 juifs assassinés dans le monde en 2025, un chiffre inédit depuis 1994. Le rapport alerte sur la montée de l'antisémitisme.",
+      "link": "https://www.liberation.fr/international/antisemitisme-les-attaques-meurtrieres-ont-atteint-un-record-inegale-depuis-plus-de-30-ans-dans-le-monde-20260729_734LNWG4OFAXVKREWCYF6N7CAU/",
+      "publishedAt": "2026-07-29T08:08:16.000Z",
+      "tier": "also",
+      "sources": [
+        "Liberation",
+        "Libération"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Khalida Boufedeche devient la première femme élue présidente du Parlement algérien",
+      "source": "France 24",
+      "singleSource": true,
+      "summary": "Membre du FLN, elle accède au perchoir mardi. Le Parlement ne compte que 25 députées sur 407 sièges, soit 6,14 %.",
+      "link": "https://www.france24.com/fr/afrique/20260729-algerie-khalida-boufedeche-premiere-femme-elue-a-la-tete-du-parlement-algerien",
+      "publishedAt": "2026-07-29T08:00:50.000Z",
+      "tier": "also",
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Prison à vie pour un adolescent ayant tué quatre personnes dans une école aux États-Unis",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "Un jeune de 16 ans est condamné à la prison à vie pour la fusillade au lycée Apalachee en Géorgie, qui a fait 4 morts en 2024.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4236804-20260729-etats-unis-prison-vie-adolescent-tue-quatre-personnes-ecole?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-29T08:18:09.000Z",
+      "tier": "also",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Friedrich Merz fait face à une fronde inédite au sein de la CDU en Allemagne",
+      "source": "Le Monde",
+      "singleSource": true,
+      "summary": "Le chancelier allemand subit des critiques internes croissantes après un remaniement ministériel. La CDU est divisée sur sa stratégie.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/29/en-allemagne-friedrich-merz-fait-face-a-une-fronde-sans-predecent-au-sein-de-son-parti_6736283_3210.html",
+      "publishedAt": "2026-07-29T08:00:01.000Z",
+      "tier": "also",
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Australie confirme une transmission locale de la grippe aviaire H5",
+      "source": "20 Minutes",
+      "singleSource": true,
+      "summary": "Le virus H5 détecté en juin par un oiseau migrateur se propage désormais localement. Les autorités surveillent l'évolution.",
+      "link": "https://www.20minutes.fr/monde/4236803-20260729-australie-confirme-transmission-locale-grippe-aviaire-h5?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-07-29T09:01:19.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "La grippe aviaire H5 a été détectée en Australie pour la première fois en juin via un oiseau migrateur.",
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 210,
+    "articlesAfterDedup": 210,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 4,
+    "categoryCounts": {
+      "conflict": 1,
+      "politics": 3,
+      "environment": 1,
+      "society": 2,
+      "science": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 2,
+      "asia-pacific": 2,
+      "global": 1,
+      "africa": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

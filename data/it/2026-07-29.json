@@ -1,0 +1,209 @@
+{
+  "date": "2026-07-29",
+  "summary": "L'Iran ha lanciato missili contro una base statunitense in Giordania, e gli Stati Uniti – insieme all'Arabia Saudita – hanno risposto colpendo siti logistici e armi delle milizie filo-Teheran in Iraq. Il comando centrale Usa ha definito l'operazione una reazione agli oltre 30 attacchi con droni diretti dalle Guardie Rivoluzionarie nelle ultime 72 ore. La tensione nella regione resta altissima.\n\nIntanto, l'industria automobilistica tedesca mostra nuovi segni di crisi: BMW taglierà 8.000 posti di lavoro entro il 2027, offrendo esodi volontari a 40.000 dipendenti in Germania. La mossa segue l'annuncio di Volkswagen di chiudere quattro stabilimenti dal 2031. Sul fronte tecnologico, l'amministrazione Trump ha vietato l'importazione di robot umanoidi e quadrupedi negli Usa per motivi di sicurezza nazionale, colpendo soprattutto i produttori cinesi.\n\nSul conflitto ucraino, il Financial Times riporta che Kiev adotta una nuova strategia di attacchi super-mirati alle infrastrutture russe, con il supporto di Stati Uniti e Francia. In parallelo, la Russia ha emesso un mandato di arresto internazionale per il fondatore di Telegram Pavel Durov, accusandolo di complicità con il terrorismo. Durov, che vive in Francia, definisce il caso politicamente motivato.\n\nIn Turchia, la sindaca di Üsküdar Sinem Dedetaş è stata fermata per corruzione e concussione; lei aveva espresso preoccupazione per le pressioni del governo. In Italia, la Guardia di Finanza ha smantellato una frode fiscale da 1,5 miliardi di euro, con 192 denunciati e sequestri in 14 regioni. Il produttore di chip sudcoreano SK hynix ha registrato profitti record (+1.242%) grazie all'intelligenza artificiale, ma il titolo è crollato per i timori geopolitici. Infine, il premier britannico Burnham ha lanciato una riforma per valorizzare le scuole professionali dai 14 anni, invertendo la meta di Tony Blair del 50% di diplomati universitari.",
+  "headlines": [
+    {
+      "title": "Iran lancia missili contro base Usa in Giordania, raid congiunto Usa-Arabia Saudita in Iraq",
+      "source": "TGCOM24",
+      "singleSource": true,
+      "summary": "Iran ha lanciato missili contro una base statunitense in Giordania. In risposta, aerei Usa e sauditi hanno colpito siti logistici e armi delle milizie filo-Teheran in Iraq.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/iran-israele-usa-ultime-notizie_114929787-202602k.shtml",
+      "publishedAt": "2026-07-29T08:59:49.000Z",
+      "tier": "top",
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "BMW taglierà 8.000 posti di lavoro entro il 2027 con esodi volontari in Germania",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News"
+      ],
+      "summary": "BMW propone esodi volontari a 40.000 dipendenti in Germania per tagliare 8.000 posti entro il 2027, segnale della crisi dell'auto tedesca dopo Volkswagen.",
+      "link": "https://www.agi.it/economia/news/2026-07-29/bmw-licenziamenti-38284648/",
+      "publishedAt": "2026-07-29T08:38:54.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Enfatizza i dettagli del piano di esodi volontari e il contesto di crisi",
+          "link": "https://www.agi.it/economia/news/2026-07-29/bmw-licenziamenti-38284648/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Riporta la notizia con focus sui numeri e sull'impatto occupazionale",
+          "link": "https://www.rainews.it/articoli/2026/07/crisi-bmw-tagli-per-8000-posti-di-lavoro-entro-la-fine-del-2027-5e2ccbfc-6965-46b2-9d02-6a19c6747655.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Casa Bianca vieta importazione di robot umanoidi per motivi di sicurezza nazionale",
+      "source": "AGI",
+      "singleSource": true,
+      "summary": "L'amministrazione Trump aggiunge robot umanoidi e quadrupedi alla lista prodotti vietati in importazione negli Usa, colpendo soprattutto produttori cinesi.",
+      "link": "https://www.agi.it/estero/video/2026-07-29/robot-umanoidi-cina-38284146/",
+      "publishedAt": "2026-07-29T08:13:21.000Z",
+      "tier": "top",
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Russia emette mandato di arresto internazionale per il fondatore di Telegram Pavel Durov",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "I servizi di sicurezza russi accusano Durov di complicità con il terrorismo. Lui, in Francia, definisce il mandato politicamente motivato.",
+      "link": "http://it.euronews.com/2026/07/29/russia-emette-mandato-di-arresto-internazionale-per-il-fondatore-di-telegram-durov",
+      "publishedAt": "2026-07-29T08:55:20.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Sottolinea il contesto politico e la reazione di Durov",
+          "link": "http://it.euronews.com/2026/07/29/russia-emette-mandato-di-arresto-internazionale-per-il-fondatore-di-telegram-durov"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta l'annuncio e la localizzazione di Durov in Francia",
+          "link": "https://www.tgcom24.mediaset.it/mondo/russia-mandato-cattura-pavel-durov-telegram_114930377-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "FT: Kiev adotta nuova strategia di attacchi super-mirati alle infrastrutture russe",
+      "source": "Rai News",
+      "singleSource": true,
+      "summary": "Secondo il Financial Times, l'Ucraina lancia una guerra sistemica all'industria russa con il supporto di Stati Uniti e Francia.",
+      "link": "https://www.rainews.it/articoli/2026/07/guerra-ucraina-la-nuova-strategia-di-kiev-attacchi-super-mirati-alle-infrastrutture-russe-col-supporto-di-usa-e-francia-c54ca8e4-cd33-45b8-b14f-72f8581be518.html",
+      "publishedAt": "2026-07-29T08:38:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Turchia: fermata la sindaca di Üsküdar del partito di opposizione CHP per corruzione",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Sinem Dedetaş e altre cinque persone sono fermate in un'inchiesta per corruzione e concussione. Lei aveva espresso preoccupazione nel 2025.",
+      "link": "http://it.euronews.com/2026/07/29/turchia-fermata-la-sindaca-di-uskudar-del-partito-di-opposizione-chp-accuse-di-corruzione",
+      "publishedAt": "2026-07-29T08:42:16.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Soldato Usa accusato di stupro seriale nel Regno Unito, giustizia affidata al Pentagono",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "James Lobeau, soldato americano, avrebbe drogato e violentato donne in Uk. Le indagini passano al Pentagono, proteste per la chiusura delle basi Usa.",
+      "link": "https://www.repubblica.it/esteri/2026/07/29/news/soldato_usa_stupratore_regno_unito_giustizia_pentagono_james_lobeau-425499478/?rss",
+      "publishedAt": "2026-07-29T08:56:09.000Z",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Regno Unito: il premier Burnham lancia riforma per scuole professionali dai 14 anni",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Andy Burnham propone di valorizzare le scuole professionali al pari delle università, invertendo la meta di Tony Blair del 50% di diplomati universitari.",
+      "link": "https://www.repubblica.it/esteri/2026/07/29/news/universita_andy_burnham_scuole_professionali_istruzione-425499350/?rss",
+      "publishedAt": "2026-07-29T08:54:54.000Z",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Operazione China Express: smantellata froda fiscale da 1,5 miliardi di euro in Italia",
+      "source": "Il Sole 24 Ore",
+      "singleSource": true,
+      "summary": "Guardia di finanza denuncia 192 persone, coinvolte oltre 200 società. Sequestri preventivi per 22 imprenditori in 14 regioni.",
+      "link": "https://www.ilsole24ore.com/art/operazione-china-express-smantellata-frode-fiscale-internazionale-15-miliardi-euro-AJAydYY",
+      "publishedAt": "2026-07-29T05:23:57.000Z",
+      "tier": "also",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "SK hynix registra profitti record +1.242% grazie all'AI, ma il titolo crolla",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Il produttore sudcoreano di chip beneficia della domanda di IA, ma gli investitori temono tensioni geopolitiche e il titolo scende.",
+      "link": "http://it.euronews.com/business/2026/07/29/sk-hynix-produttore-di-chip-sudcoreano-registra-profitti-1242-grazie-allai",
+      "publishedAt": "2026-07-29T08:42:22.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 188,
+    "articlesAfterDedup": 188,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 17,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 3.8,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 3,
+      "politics": 4,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 5,
+      "americas": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

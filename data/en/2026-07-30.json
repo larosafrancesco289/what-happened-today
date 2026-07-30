@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-30",
+  "summary": "The United States launched heavy airstrikes against Iranian targets early today, retaliating for a surprise missile attack on American forces in Jordan that killed several U.S. personnel. The strikes mark an escalation after a brief period of relative calm, and both sides have now resumed hostilities. Pentagon officials said the operation targeted military infrastructure linked to Iran's Islamic Revolutionary Guard Corps, but did not specify locations. Iran has not yet responded, but the move risks widening the conflict in the region.\n\nThe death toll from Tuesday's 6.8-magnitude earthquake in Japan's Kumamoto prefecture rose to 34, with five other people seriously injured, local authorities reported. Rescuers are still digging through rubble to free survivors from collapsed buildings. In India, monsoon floods in Assam have killed at least 78 people, leaving thousands displaced. More rain is forecast, and opposition lawmakers protested in parliament over the government's response. The disasters underscore the toll of extreme weather events across Asia.\n\nIn other developments, Russian authorities formally charged Telegram founder Pavel Durov with aiding terrorism, escalating a crackdown on the messaging app widely used in the country. The case reflects ongoing tensions over the platform's role in communications and media. Meanwhile, Japan's ruling party official Sanae Takaichi proposed cutting the consumption tax on food to 1%, a move that would cost roughly ¥5 trillion in annual revenue. The plan has sparked debate among lawmakers about how to compensate for the lost funds.\n\nZimbabwe's police announced a widespread deployment ahead of a planned nationwide shutdown on July 31, protesting the enactment of Constitutional Amendment No. 3. The deployment aims to maintain order as political tensions mount. These stories are shaping the day's news, with conflict, natural disasters, legal battles, and policy debates all in focus.",
+  "headlines": [
+    {
+      "title": "US launches heavy strikes on Iran after missile attack on American troops",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Wall Street Journal World",
+        "New York Times World"
+      ],
+      "summary": "The United States began heavy airstrikes against Iranian targets, retaliating for a surprise missile attack on US forces in Jordan that killed American personnel.",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T08:42:17.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Japan Kumamoto earthquake death toll rises to 34 as rescuers race",
+      "source": "Japan Times",
+      "sources": [
+        "Japan Times",
+        "New York Times World",
+        "Wall Street Journal World"
+      ],
+      "summary": "The death toll from the 6.8-magnitude earthquake that struck Kumamoto on Tuesday has risen to 34, with rescuers working to free survivors trapped in collapsed buildings.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/30/japan/earthquake-kumamoto-death-toll/",
+      "publishedAt": "2026-07-30T08:17:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Russia charges Telegram founder Pavel Durov with facilitating terrorism",
+      "source": "New York Times World",
+      "singleSource": true,
+      "summary": "Russian authorities formally charged Telegram founder Pavel Durov with aiding terrorism, escalating a crackdown on the messaging app widely used in the country.",
+      "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+      "publishedAt": "2026-07-29T13:46:29.000Z",
+      "tier": "also",
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "India Assam flood death toll climbs to 78, more rain predicted",
+      "source": "Deutsche Welle",
+      "singleSource": true,
+      "summary": "Monsoon floods in India's Assam state have killed 78 people, with thousands still displaced. Authorities warned of more rain, and opposition lawmakers protested in parliament.",
+      "link": "https://www.dw.com/en/india-news-assam-flood-toll-rises-to-78-more-rain-predicted/live-78168101?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-07-30T07:43:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Japan ruling party official proposes cutting food consumption tax to 1%",
+      "source": "Japan Times",
+      "singleSource": true,
+      "summary": "Sanae Takaichi, a ruling party official, announced a plan to lower the consumption tax on food to 1%, sparking debate over how to cover the ¥5 trillion annual revenue loss.",
+      "link": "https://www.japantimes.co.jp/news/2026/07/30/japan/politics/takaichi-decision-tax-cut/",
+      "publishedAt": "2026-07-30T08:04:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Zimbabwe police deploy ahead of planned shutdown over constitutional changes",
+      "source": "AllAfrica",
+      "singleSource": true,
+      "summary": "Zimbabwe police announced widespread deployment to maintain order ahead of a planned nationwide shutdown on July 31, protesting the enactment of Constitutional Amendment No. 3.",
+      "link": "https://allafrica.com/stories/202607300050.html",
+      "publishedAt": "2026-07-30T07:12:08.000Z",
+      "tier": "also",
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 424,
+    "articlesAfterDedup": 420,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 19,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 19.1,
+    "categoryCounts": {
+      "conflict": 1,
+      "environment": 2,
+      "politics": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "asia-pacific": 3,
+      "europe": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

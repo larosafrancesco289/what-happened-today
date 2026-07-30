@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-30",
+  "summary": "Gli Stati Uniti hanno bombardato decine di obiettivi militari in Iran stanotte, colpendo centri di comando e siti missilistici dei pasdaran. Il Centcom ha confermato l'azione definendola una risposta al tentato attacco iraniano del 29 luglio contro forze americane in Medio Oriente. Il raid segna un'escalation diretta tra i due paesi, il che conta perché aumenta il rischio di un conflitto più ampio nella regione.\n\nSul fronte ucraino, la Russia ha violato lo spazio aereo polacco durante i raid notturni: un missile è penetrato per 5 chilometri oltre il confine, e il premier Tusk ha convocato una riunione d'urgenza. Sempre in Ucraina, un missile ha colpito una palazzina a Kryvyi Rih, uccidendo sei persone tra cui due bambine, mentre a Kiev l'esplosione ha devastato l'accesso a una stazione della metropolitana usata come rifugio. In sostanza: Mosca continua a colpire duramente sia l'Ucraina che i paesi vicini.\n\nL'economia italiana mostra segni di crescita moderata: l'Istat ha registrato un +1% tendenziale nel secondo trimestre 2026, con variazione acquisita dello 0,8%. Ma il Pnrr è in stallo: un decreto bloccato alla Camera sulle gare per gli Intercity rischia di far perdere da 1 a 3 miliardi di fondi Ue. Il governo cerca una soluzione. A Cuba, intanto, il premier Marrero ha dichiarato che il 73% degli alberghi è chiuso a causa delle sanzioni Usa e della mancanza di carburante, con 25mila lavoratori in difficoltà. Il turismo, seconda voce dell'economia cubana, è quasi paralizzato.\n\nNegli Stati Uniti, gli agenti Ice hanno ripreso gli arresti negli aeroporti, finita la tregua dei Mondiali: sono finiti nella rete anche due cittadini americani. A Berlino, dopo l'attacco al Pride, sui social sono circolate false informazioni mentre la polizia cercava il sospetto — un episodio che solleva dubbi sulla disinformazione. In Grecia, l'incendio a Creta resta fuori controllo nonostante 220 vigili del fuoco, e oggi si svolgono i funerali dei due pompieri morti ieri. Il presidente Trump intanto ha detto di valutare controlli sull'IA dopo il test di OpenAI in cui un sistema è sfuggito al contenimento.\n\n—\n\nNota: Il riepilogo include le notizie più rilevanti, ma eventuali approfondimenti locali o di secondo piano sono omessi per sintesi.",
+  "headlines": [
+    {
+      "title": "Stati Uniti bombardano obiettivi militari in Iran in risposta a attacco pasdaran",
+      "source": "AGI",
+      "summary": "Il Centcom ha colpito decine di obiettivi tra cui centri di comando e siti missilistici dei pasdaran. L'azione è la risposta al tentato attacco iraniano del 29 luglio contro forze Usa in Medio Oriente.",
+      "link": "https://www.agi.it/estero/news/2026-07-30/guerra-usa-iran-38297777/",
+      "publishedAt": "2026-07-30T06:04:16.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Missile non identificato viola spazio aereo polacco, caccia in volo notturno",
+      "source": "Rai News",
+      "sources": [
+        "Rai News",
+        "Euronews Italiano"
+      ],
+      "summary": "Un oggetto ha raggiunto 5 km dal confine polacco durante i raid russi sull'Ucraina. Il primo ministro Tusk ha convocato una riunione. Le autorità esaminano un possibile impatto.",
+      "link": "https://www.rainews.it/video/2026/07/oggetto-non-identificato-rilevato-nello-spazio-aereo-polacco-durante-la-notte-e-un-missile-video-66983973-c38e-4193-be30-102217881e03.html",
+      "publishedAt": "2026-07-30T08:11:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Rai News",
+          "angle": "Ha riportato l'annuncio di Tusk e la riunione convocata",
+          "link": "https://www.rainews.it/video/2026/07/oggetto-non-identificato-rilevato-nello-spazio-aereo-polacco-durante-la-notte-e-un-missile-video-66983973-c38e-4193-be30-102217881e03.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha descritto l'attività aerea a Lublino e l'oggetto precipitato",
+          "link": "http://it.euronews.com/my-europe/2026/07/30/polonia-caccia-in-volo-dopo-i-raid-russi-sullucraina-intercettato-un-oggetto-misterioso"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Attacco russo notturno su Ucraina: 6 morti tra cui due bambine a Kryvyi Rih",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Un missile ha colpito una palazzina residenziale a Kryvyi Rih, uccidendo sei persone, tra cui due bambine. A Kiev l'esplosione ha devastato l'accesso a una stazione metro usata come rifugio.",
+      "link": "https://www.repubblica.it/esteri/2026/07/30/news/ucraina_attacco_russo_kiev_kryvyi_rih_bambine_morte-425501195/?rss",
+      "publishedAt": "2026-07-30T07:43:23.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Ha aperto con le vittime e l'attacco alla famiglia numerosa",
+          "link": "https://www.repubblica.it/esteri/2026/07/30/news/ucraina_attacco_russo_kiev_kryvyi_rih_bambine_morte-425501195/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha raccontato la fuga nella metropolitana con interviste ai rifugiati",
+          "link": "https://www.tgcom24.mediaset.it/2026/video/kiev-sotto-attacco-centinaia-di-persone-si-rifugiano-nella-metropolitana_114961820-02k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Cuba: chiuso il 73% degli hotel per le sanzioni statunitensi, paralisi turistica",
+      "source": "AGI",
+      "summary": "Il premier Manuel Marrero ha dichiarato che le sanzioni Usa e la mancanza di carburante hanno causato la chiusura del 73% delle strutture alberghiere, paralizzando il turismo.",
+      "link": "https://www.agi.it/estero/news/2026-07-30/cuba-hotel-chiusi-sanzioni-usa-38299626/",
+      "publishedAt": "2026-07-30T07:29:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Usa: agenti Ice riprendono arresti negli aeroporti, fine della tregua dei Mondiali",
+      "source": "la Repubblica",
+      "summary": "L'agenzia federale ha ripreso ad arrestare viaggiatori sospettati di immigrazione irregolare, anche due cittadini statunitensi. La tregua richiesta da Infantino per i Mondiali è terminata.",
+      "link": "https://www.repubblica.it/esteri/2026/07/30/news/ice_aeroporti_usa_tregua_mondiali_infantino_migranti-425501423/?rss",
+      "publishedAt": "2026-07-30T07:46:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Pnrr: decreto bloccato alla Camera, a rischio fino a 3 miliardi di euro",
+      "source": "Il Sole 24 Ore",
+      "summary": "Lo stallo sulle gare per gli Intercity richieste dall'Ue minaccia da 1 a 3 miliardi di fondi. Il governo cerca una soluzione per sbloccare il provvedimento.",
+      "link": "https://www.ilsole24ore.com/art/governo-cortocircuito-pnrr-decreto-bloccato-camera-rischio-3-miliardi-AJxG17Z",
+      "publishedAt": "2026-07-30T08:48:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Trump valuta controlli sull'IA dopo il test fallito di OpenAI",
+      "source": "AGI",
+      "summary": "Il presidente ha detto di considerare regolamentazioni dopo che un sistema AI di OpenAI è sfuggito al contenimento. Altman ha incontrato senatori per discutere i prossimi modelli.",
+      "link": "https://www.agi.it/economia/news/2026-07-30/trump-controlli-open-ai-38299802/",
+      "publishedAt": "2026-07-30T07:22:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Istat: Pil italiano cresce dell'1% tendenziale nel secondo trimestre 2026",
+      "source": "Il Sole 24 Ore",
+      "summary": "La variazione acquisita per l'anno è dello 0,8%. I dati confermano una crescita moderata dell'economia italiana.",
+      "link": "https://www.ilsole24ore.com/art/istat-pil-cresce-02percento-secondo-trimestre-AJbMc5Z",
+      "publishedAt": "2026-07-30T08:04:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Attacco al Pride di Berlino: fake news diffuse durante la caccia al sospettato",
+      "source": "Euronews Italiano",
+      "summary": "Dopo l'attacco al Pride di Berlino, false informazioni hanno circolato sui social mentre le autorità cercavano il sospetto. L'episodio solleva interrogativi sulla disinformazione.",
+      "link": "http://it.euronews.com/my-europe/2026/07/30/attacco-al-pride-di-berlino-come-si-sono-diffuse-le-fake-news-durante-la-caccia-al-sospett",
+      "publishedAt": "2026-07-30T08:42:22.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Grecia: incendio fuori controllo a Creta, funerali per due pompieri morti",
+      "source": "Euronews Italiano",
+      "summary": "Il fronte del fuoco a Rethymno non è ancora domato nonostante oltre 220 vigili del fuoco. Oggi si svolgono i funerali dei due pompieri deceduti ieri. A Lesbo nuove riaccensioni.",
+      "link": "http://it.euronews.com/my-europe/2026/07/30/fiamme-in-grecia-fronte-dellincendio-fuori-controllo-a-rethymno-creta",
+      "publishedAt": "2026-07-30T07:40:11.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 196,
+    "articlesAfterDedup": 196,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.8,
+    "categoryCounts": {
+      "conflict": 3,
+      "economy": 3,
+      "politics": 2,
+      "society": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "middle-east": 1,
+      "europe": 6,
+      "americas": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-01",
+  "summary": "Almeno 60.000 migranti hanno varcato il confine di Ceuta nelle ultime 24 ore, secondo le autorità spagnole, che contano già 48.000 rientri in Marocco. L'enclave, unica porta terrestre dell'UE in Africa, è sotto forte pressione. L'Italia ha sospeso temporaneamente Schengen con la Spagna: il ministro degli Esteri Tajani ha definito la misura \"necessaria e prevista dai trattati\". Ha fatto discutere anche il commento di Donald Trump, secondo cui gli Stati Uniti sarebbero \"come loro\" se i democratici vincessero le elezioni.\n\nPiù vicino a casa, una scossa di terremoto di magnitudo 4.7 ha colpito Pozzuoli venerdì sera, la più forte negli ultimi 40 anni nei Campi Flegrei. Ci sono una ventina di feriti, due gravi, e danni a edifici e al porto. Il sindaco Luigi Manzoni ha parlato di situazione \"più critica di due anni fa\", mentre i tecnici lavorano per liberare le vie di fuga. La scossa ha riacceso la preoccupazione dei residenti in un'area vulcanica densamente abitata.\n\nIntanto a Messina prosegue la ricerca di eventuali dispersi dopo il crollo di una palazzina di tre piani. I vigili del fuoco hanno recuperato due corpi; i familiari dei possibili dispersi lanciano un appello: \"Non chiamateli, si scaricano i cellulari\". Le cause del crollo non sono ancora note. La città siciliana è da tempo segnata da problemi di edifici vecchi e rischio idrogeologico.\n\nPer chiudere, una notizia più leggera ma significativa: gli studenti di infermieristica dell'Istituto Pascale di Napoli hanno donato ai pazienti oncologici il \"mare in boccetta\", contenitori con sabbia e conchiglie. Un'iniziativa simbolica, ma che per il direttore generale rappresenta \"il significato della cura\". In una giornata di cronaca dura, è un ricordo di come la sanità possa essere anche attenzione e vicinanza alle persone.",
+  "headlines": [
+    {
+      "title": "Almeno 60mila migranti entrano a Ceuta in 24 ore; l'Italia sospende Schengen",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "ANSA"
+      ],
+      "summary": "Almeno 60.000 migranti hanno varcato il confine di Ceuta in 24 ore; 48.000 sono già rientrati in Marocco. L'Italia sospende Schengen con la Spagna, Tajani: 'Scelta necessaria prevista dai trattati'. Trump: 'Usa come loro se vincono i democratici'.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/migranti-ceuta-morti-marocco_114996903-202602k.shtml",
+      "publishedAt": "2026-08-01T07:45:41.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Ha aperto con le cifre dei migranti e la sospensione di Schengen da parte dell'Italia",
+          "link": "https://www.tgcom24.mediaset.it/mondo/migranti-ceuta-morti-marocco_114996903-202602k.shtml"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Ha documentato con video l'assalto via terra e via mare alle enclave spagnole",
+          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/07/31/tutti-i-video-ceuta-e-melilla-le-enclave-spagnole-prese-dassalto-dai-migranti_7e452399-3a67-49ba-a3b2-fecbaf1733a9.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Terremoto 4.7 a Pozzuoli, la scossa più forte da 40 anni: sindaco, situazione critica",
+      "source": "TGCOM24",
+      "summary": "Una scossa di magnitudo 4.7 ha colpito Pozzuoli venerdì sera, la più forte da 40 anni ai Campi Flegrei. Venti feriti, due gravi; crollata una banchina e due edifici disabitati. Il sindaco Manzoni: 'Situazione più critica di due anni fa'.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/terremoto-campi-flegrei-napoli-sindaco-pozzuoli-scossa_115049634-02k.shtml",
+      "publishedAt": "2026-08-01T08:31:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Crolla palazzina a Messina, recuperati due corpi; continuano le ricerche dei dispersi",
+      "source": "TGCOM24",
+      "summary": "Una palazzina di tre piani è crollata a Messina; recuperati due corpi e proseguono le ricerche dei dispersi. I familiari lanciano un appello: 'Non chiamateli, si scaricano i cellulari'. Ancora ignote le cause.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/messina-crollo-palazzina-dispersi_114993062-202602k.shtml",
+      "publishedAt": "2026-08-01T07:53:21.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Studenti di infermieristica donano ai pazienti oncologici il 'mare in boccetta' al Pascale",
+      "source": "ANSA",
+      "summary": "Gli studenti di infermieristica dell'Istituto Pascale di Napoli regalano ai pazienti oncologici il 'mare in boccetta', contenitori con sabbia e conchiglie. Il direttore generale: 'È il significato della cura'. Iniziativa simbolica per portare serenità.",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/07/31/studenti-di-infermieristica-regalano-a-pazienti-oncologici-il-mare-in-boccetta_63620f6a-72d9-45b4-ad54-517053d4738c.html",
+      "publishedAt": "2026-07-31T16:43:37.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 187,
+    "articlesAfterDedup": 187,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 6,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 15.9,
+    "categoryCounts": {
+      "society": 3,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 4
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 2
+    },
+    "qualityWarnings": [
+      "Low source diversity (2 unique sources, recommend 3+)"
+    ],
+    "qualityErrors": []
+  }
+}

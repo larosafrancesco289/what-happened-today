@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-02",
+  "summary": "La notizia più pesante della giornata arriva dal fronte russo-ucraino: la Russia ha abbattuto 635 droni ucraini nella notte in diverse regioni, e il governatore della regione di Saratov conferma due morti nel sud-ovest. L'attacco massiccio segna un'ulteriore intensificazione del conflitto al confine, con Mosca che continua a denunciare raid sempre più frequenti in profondità nel suo territorio. Non è chiaro al momento l'obiettivo dei droni, ma la portata dell'operazione è la più ampia registrata nelle ultime settimane.\n\nIntanto il caldo anomalo sta mettendo in ginocchio l'acquacoltura italiana. Le alte temperature uccidono cozze e vongole negli allevamenti, mentre il granchio blu, specie invasiva, prolifera senza freni. Gli esperti indicano nel cambiamento climatico una delle cause principali, ma non l'unica: per recuperare il prodotto, arriva una proposta concreta, la polpa in vasetto. Una soluzione che potrebbe trasformare un disastro in un'opportunità economica per i pescatori.\n\nPer chi guarda al cielo, agosto regala un calendario straordinario. Il 12 si concentrano l'eclissi totale di Sole e il picco delle Perseidi: uno spettacolo raro perché i due fenomeni coincidono. Il 28 ci sarà invece un'eclissi parziale di Luna. Tutti gli eventi saranno visibili dall'Italia, senza bisogno di strumenti particolari, anche se per l'eclissi solare serviranno occhiali protettivi.\n\nInfine due storie culturali. Susanna Tamaro, che riceverà il 2 agosto il premio 'La Stele della Ienca' dedicato a Giovanni Paolo II, ha parlato dell'intelligenza artificiale e del suo impatto sulla percezione della realtà. La scrittrice ha detto che continuerà a scrivere a mano, in un rifiuto netto della tecnologia. E poi un documentario su Stan Lee, il creatore di Spider-Man, rivela che dalla vendita della Marvel ricevette solo sei milioni di dollari. Un dettaglio sorprendente sul leggendario fumettista, raccontato con le musiche del compositore italiano Dario Forzato. Due sguardi diversi su creatività e memoria.",
+  "headlines": [
+    {
+      "title": "La Russia abbatte 635 droni ucraini, due morti a Saratov",
+      "source": "TGCOM24",
+      "summary": "La Russia ha abbattuto 635 droni ucraini nella notte in diverse regioni. Il governatore di Saratov conferma due morti nel sud-ovest. Il conflitto continua a intensificarsi al confine.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/mosca-due-morti-negli-attacchi-ucraini-nel-sud-ovest-_115077364-202602k.shtml",
+      "publishedAt": "2026-08-02T06:20:55.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Il caldo soffoca cozze e vongole mentre il granchio blu si moltiplica",
+      "source": "ANSA",
+      "summary": "Le alte temperature stanno uccidendo cozze e vongole negli allevamenti, mentre il granchio blu prolifera. Gli esperti propongono la polpa in vasetto per recuperare il prodotto. Il cambiamento climatico è tra le cause.",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/01/il-caldo-soffoca-cozze-e-vongole-mentre-il-granchio-blu-si-moltiplica-senza-sosta_3cf5b791-6e0a-4b3a-9017-8d19a9a2e3dd.html",
+      "publishedAt": "2026-08-01T15:04:41.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'agosto regala un'eclissi totale di Sole e Perseidi il 12",
+      "source": "ANSA",
+      "summary": "Il 12 agosto l'eclissi totale di Sole si sovrapporrà al picco delle Perseidi, mentre il 28 ci sarà un'eclissi parziale di Luna. Spettacolo visibile in Italia. Un mese ricco di eventi astronomici.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/01/con-eclissi-e-stelle-cadenti-il-cielo-di-agosto-da-spettacolo_2d59cdef-09f3-4549-ada0-aa11416462d6.html",
+      "publishedAt": "2026-08-01T18:24:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "science",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Tamaro: l'IA cambia la percezione della realtà, io scrivo a mano",
+      "source": "ANSA",
+      "summary": "Susanna Tamaro, premio 'La Stele della Ienca' il 2 agosto, discute dell'intelligenza artificiale e della sua influenza sulla percezione della realtà. La scrittrice afferma che continuerà a scrivere a mano. Cerimonia dedicata a Giovanni Paolo II.",
+      "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/08/01/tamaro-lia-cambia-la-percezione-della-realta-io-continuo-a-scrivere-a-mano_44eb83b2-1f29-4cd1-a3a7-2f6322c153ef.html",
+      "publishedAt": "2026-08-01T13:13:56.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Documentario su Stan Lee rivela: dalla vendita della Marvel solo sei milioni",
+      "source": "ANSA",
+      "summary": "Un documentario su Stan Lee, creatore di Spider-Man, rivela che dalla vendita della Marvel ricevette solo sei milioni. Il film include musiche del compositore italiano Dario Forzato. Nuove sorprese sul leggendario fumettista.",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/01/il-papa-di-spiderman-stan-lee-dalla-vendita-della-marvel-solo-sei_4afb8108-545f-4f37-bf88-fec744f49298.html",
+      "publishedAt": "2026-08-01T18:09:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 190,
+    "articlesAfterDedup": 189,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 5,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 19.4,
+    "categoryCounts": {
+      "conflict": 1,
+      "environment": 1,
+      "science": 1,
+      "society": 1,
+      "economy": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "global": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [
+      "Low source diversity (2 unique sources, recommend 3+)"
+    ],
+    "qualityErrors": []
+  }
+}

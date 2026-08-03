@@ -1,0 +1,130 @@
+{
+  "weekId": "2026-W31",
+  "startDate": "2026-07-27",
+  "endDate": "2026-08-02",
+  "summary": "The week was dominated by a sharp escalation and de-escalation in the Iran-U.S. conflict. On July 27, President Trump paused planned strikes on Iran as officials weighed dwindling air defense stocks. Two days later, Iran launched a missile attack on U.S. forces, prompting U.S.-Saudi strikes in Iraq on July 29. The U.S. then carried out heavy strikes on Iran on July 30. By August 2, Trump cancelled further strikes amid reports of progress on a deal. Talks advanced earlier in the week when Iran and Oman sought a Hormuz Strait agreement to jumpstart peace negotiations. Also on July 28, Israeli Prime Minister Netanyahu and Ukrainian President Zelensky each met Trump at the White House for the first time since the Iran war began, signaling thawing relations.\n\nNatural disasters also shaped the week. A magnitude-7.1 earthquake struck Japan's Kyushu on July 28, triggering a tsunami warning. The death toll rose from 13 on July 29 to 34 by July 30 as rescuers raced to find survivors trapped in a collapsed mall. In China, flash floods killed dozens in Gansu on August 2, with landslides feared as rain continued.\n\nThe migrant crisis in Europe flared on August 2, when 50,000 migrants surged into the Spanish enclave of Ceuta, leaving dozens dead. Meanwhile, Russia's war on Ukraine continued with an overnight barrage on Kyiv that killed nine, exposing a persistent air defense gap.\n\nSeveral stories emerged but faded quickly. Wildfires that forced mass evacuations in France and Spain and threatened defense sites near Bordeaux appeared only on July 27. A shooting at a Seattle food festival that killed three and injured several on the same day also did not persist. Economic stories—China's chipmaking profits surging 2,579% in the first half and Hong Kong exports soaring 53% to a record $81.7 billion in June—were widely noted on July 28 but dropped from coverage afterward.\n\nOverall, the Iran-U.S. confrontation, the Kyushu earthquake, and the Ceuta migrant surge remained the most consequential and lasting stories, while the others proved to be one-day developments.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks",
+    "Wildfires Force Mass Evacuations in France and Spain, Threaten Bordeaux Defense Sites",
+    "Three Dead, Several Injured in Shooting at Seattle Food Festival; Suspect in Custody",
+    "China's Chipmaking Profits Surge 2,579% in First Half Amid AI Boom",
+    "Hong Kong Exports Soar 53% to Record $81.7 Billion in June on AI Demand",
+    "Ukrainian Attacks in Crimea Deprive Towns of Power and Water",
+    "Israeli Settlers Set Fire to Mosques, Cars, and Farmland in West Bank, Palestinians Say",
+    "Magnitude-7.1 Earthquake Hits Japan's Kyushu, Tsunami Warning Issued",
+    "Netanyahu Meets Trump at White House for First Time Since Iran War",
+    "Zelensky to Meet Trump at White House Amid Thawing Relations"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-07-27",
+      "title": "Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Wildfires Force Mass Evacuations in France and Spain, Threaten Bordeaux Defense Sites",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Three Dead, Several Injured in Shooting at Seattle Food Festival; Suspect in Custody",
+      "category": "society",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Magnitude-7.1 Earthquake Hits Japan's Kyushu, Tsunami Warning Issued",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Netanyahu Meets Trump at White House for First Time Since Iran War",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Zelensky to Meet Trump at White House Amid Thawing Relations",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Iran and Oman Seek Hormuz Strait Agreement to Jumpstart Peace Talks",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "Iran Launches Missile Attack on U.S. Forces, Prompting US-Saudi Strikes in Iraq",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "Japan Rescues Trapped Survivors After Earthquake Kills 13, Collapses Mall",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "US launches heavy strikes on Iran after missile attack on American troops",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Japan Kumamoto earthquake death toll rises to 34 as rescuers race",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Trump cancels planned strikes on Iran as deal progress reported",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Dozens die as 50,000 migrants surge into Spanish enclave Ceuta",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Russian overnight barrage kills nine in Kyiv, air defense gap persists",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Flash floods kill dozens in Gansu; landslides feared as rain continues",
+      "category": "environment",
+      "region": "asia-pacific"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2001,
+    "totalSourcesUsed": 14,
+    "daysWithData": 5,
+    "categoryCounts": {
+      "conflict": 8,
+      "environment": 10,
+      "society": 7,
+      "economy": 3,
+      "politics": 6
+    },
+    "regionCounts": {
+      "middle-east": 7,
+      "europe": 9,
+      "americas": 4,
+      "asia-pacific": 11,
+      "africa": 3
+    }
+  }
+}

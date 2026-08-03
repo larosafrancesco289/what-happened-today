@@ -1,0 +1,95 @@
+{
+  "weekId": "2026-W31",
+  "startDate": "2026-07-27",
+  "endDate": "2026-08-02",
+  "summary": "La semaine du 27 juillet au 2 août 2026 a été dominée par une escalade militaire au Moyen-Orient, un séisme majeur au Japon et les frappes russes contre l’Ukraine. Le 30 juillet, les États-Unis ont mené de lourds bombardements contre l’Iran en réponse à des attaques visant leurs forces, tandis que le 29 juillet, Washington et Ryad ont procédé à une frappe conjointe en Irak, une première. Le 28 juillet, Benyamin Netanyahou a rencontré Donald Trump à la Maison-Blanche pour la première fois depuis la guerre en Iran.\n\nAu Japon, un séisme de magnitude 7,1 a frappé l’île de Kyushu le 28 juillet, déclenchant une alerte au tsunami. Le 30 juillet, le bilan s’élevait à 30 morts, et les rescapés craignaient de nouvelles secousses.\n\nSur le front ukrainien, la Russie a lancé le 30 juillet 74 missiles et 284 drones, faisant huit morts. Le 29 juillet, la Russie a inculpé le fondateur de Telegram, Pavel Durov, pour complicité de terrorisme, une affaire en développement.\n\nPlusieurs histoires apparues le 27 juillet ont rapidement disparu de l’actualité : la police allemande a abattu le suspect islamiste de l’attaque de la Pride de Berlin, et les pompiers ont stabilisé l’incendie en Gironde sans le maîtriser aux portes de Bordeaux. D’autres événements n’ont été couverts qu’un seul jour : un millier de nouveaux cas d’Ebola signalés en dix jours en RDC, la crise diplomatique entre le président argentin Milei et Lula, qu’il a traité de « voleur », et le démenti de Trump sur une pénurie de munitions Patriot malgré des stocks critiques.\n\nCette semaine a donc été marquée par des conflits et catastrophes naturelles persistants, avec des développements qui restent à suivre au Moyen-Orient, au Japon et en Ukraine.",
+  "persistentStories": [],
+  "fadedStories": [
+    "La police allemande abat le suspect islamiste de l'attaque de la Pride de Berlin",
+    "Les pompiers stabilisent l'incendie en Gironde mais ne maîtrisent pas le feu aux portes de Bordeaux",
+    "Un millier de nouveaux cas d'Ebola signalés en dix jours en RDC",
+    "Le président argentin Milei traite Lula de « voleur » et crée une crise diplomatique",
+    "Trump nie toute pénurie de munitions malgré des stocks critiques d'intercepteurs Patriot",
+    "Une attaque de drones ukrainiens tue deux personnes dans le sud de la Russie",
+    "L'Iran convoque l'ambassadeur français pour protester contre des « ingérences »",
+    "Un séisme de magnitude 7,1 frappe l'île japonaise de Kyushu, alerte au tsunami émise",
+    "Benyamin Netanyahou rencontre Donald Trump à la Maison-Blanche pour la première fois depuis la guerre en Iran",
+    "L'Iran, Oman et l'Arabie saoudite discutent du détroit d'Ormuz au milieu des tensions avec les États-Unis"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-07-27",
+      "title": "La police allemande abat le suspect islamiste de l'attaque de la Pride de Berlin",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Les pompiers stabilisent l'incendie en Gironde mais ne maîtrisent pas le feu aux portes de Bordeaux",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Un séisme de magnitude 7,1 frappe l'île japonaise de Kyushu, alerte au tsunami émise",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Benyamin Netanyahou rencontre Donald Trump à la Maison-Blanche pour la première fois depuis la guerre en Iran",
+      "category": "politics",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "Les États-Unis et l'Arabie saoudite frappent l'Irak de manière conjointe pour la première fois",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "La Russie inculpe le fondateur de Telegram Pavel Durov pour complicité de terrorisme",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Les États-Unis bombardent lourdement l'Iran en réponse à des attaques contre leurs forces",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "La Russie lance 74 missiles et 284 drones sur l'Ukraine, huit morts",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Le séisme au Japon fait 30 morts, les rescapés craignent de nouvelles secousses",
+      "category": "environment",
+      "region": "asia-pacific"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 840,
+    "totalSourcesUsed": 10,
+    "daysWithData": 4,
+    "categoryCounts": {
+      "conflict": 6,
+      "environment": 6,
+      "science": 3,
+      "politics": 9,
+      "society": 2
+    },
+    "regionCounts": {
+      "europe": 10,
+      "africa": 2,
+      "americas": 3,
+      "middle-east": 5,
+      "asia-pacific": 4,
+      "global": 2
+    }
+  }
+}

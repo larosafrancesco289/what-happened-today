@@ -1,0 +1,143 @@
+{
+  "weekId": "2026-W31",
+  "startDate": "2026-07-27",
+  "endDate": "2026-08-02",
+  "summary": "La settimana dal 27 luglio al 2 agosto è stata dominata dall'escalation militare tra Ucraina e Russia e dal conflitto tra Stati Uniti e Iran. Il 27 luglio Zelensky ha firmato a Londra un accordo con il sindaco Burnham su droni e guerra elettronica. Nella notte tra il 28 e il 29 luglio, oltre 390 droni ucraini hanno attaccato Mosca, con 81 abbattuti dalle difese aeree. Il 30 luglio un attacco russo su Kryvyi Rih ha causato 6 morti, tra cui due bambine. Il 2 agosto la Russia ha abbattuto 635 droni ucraini, con due vittime a Saratov. Il 30 luglio un missile non identificato ha violato lo spazio aereo polacco, con caccia notturni. Sul fronte Iran-Stati Uniti, il 29 luglio l'Iran ha lanciato missili contro una base USA in Giordania, seguito da un raid congiunto USA-Arabia Saudita in Iraq. Il 30 luglio gli Stati Uniti hanno bombardato obiettivi militari in Iran. La crisi migratoria è esplosa il 1° agosto: almeno 60.000 migranti sono entrati a Ceuta in 24 ore, portando l'Italia a sospendere Schengen. Due terremoti hanno scosso il Giappone (magnitudo 7.1 il 28 luglio, con allerta tsunami revocata) e Pozzuoli (4.7 il 1° agosto, la più forte da 40 anni). Tra gli altri eventi rilevanti: la BMW taglierà 8.000 posti di lavoro entro il 2027, la Casa Bianca ha vietato l'importazione di robot umanoidi per sicurezza nazionale (29 luglio), la Russia ha emesso un mandato di arresto internazionale per il fondatore di Telegram Pavel Durov (29 luglio), e la polizia ha trovato cinque neonati morti in una casa a Orange (28 luglio). Il caldo ha ucciso cozze e vongole mentre il granchio blu si moltiplica (2 agosto). Storie rapidamente svanite: il padre dell'attentatore di Berlino (27 luglio), la sparatoria al food festival di Seattle (27 luglio), la scoperta della prima esoluna (28 luglio) e lo stop all'ex Ilva di Taranto (28 luglio). Restano al centro le crisi ucraina e mediorientale, mentre l'attenzione su migrazioni e terremoti si è limitata a singoli episodi.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Padre dell'attentatore di Berlino rivela litigio per la barba e parla di lavaggio del cervello",
+    "Sparatoria al food festival di Seattle uccide tre persone, ferito un bambino",
+    "Zelensky a Londra sigla accordo con Burnham su droni e guerra elettronica contro Russia",
+    "Scoperta la prima esoluna osservata, grande come Giove orbita attorno a una nana bruna",
+    "Corte d'Appello impone stop all'ex Ilva di Taranto entro 90 giorni per amianto e polveri",
+    "Governo verso taglio delle accise solo sul gasolio per frenare il caro carburanti",
+    "Dal 2 agosto nuovi obblighi UE di trasparenza per IA, deepfake e chatbot",
+    "Campioni cinesi Chang'e-6 rivelano che Terra rallenta il vento solare sulla Luna",
+    "Terremoto di magnitudo 7.1 colpisce il Giappone, autorità revocano allerta tsunami",
+    "Oltre 390 droni ucraini attaccano Mosca, difese aeree abbattono 81 velivoli"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-07-27",
+      "title": "Padre dell'attentatore di Berlino rivela litigio per la barba e parla di lavaggio del cervello",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Sparatoria al food festival di Seattle uccide tre persone, ferito un bambino",
+      "category": "society",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Zelensky a Londra sigla accordo con Burnham su droni e guerra elettronica contro Russia",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Terremoto di magnitudo 7.1 colpisce il Giappone, autorità revocano allerta tsunami",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Oltre 390 droni ucraini attaccano Mosca, difese aeree abbattono 81 velivoli",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Polizia trova cinque neonati morti in scatole di cartone in casa di una coppia a Orange",
+      "category": "society",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "Iran lancia missili contro base Usa in Giordania, raid congiunto Usa-Arabia Saudita in Iraq",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "BMW taglierà 8.000 posti di lavoro entro il 2027 con esodi volontari in Germania",
+      "category": "economy",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "Casa Bianca vieta importazione di robot umanoidi per motivi di sicurezza nazionale",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "Russia emette mandato di arresto internazionale per il fondatore di Telegram Pavel Durov",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Stati Uniti bombardano obiettivi militari in Iran in risposta a attacco pasdaran",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Missile non identificato viola spazio aereo polacco, caccia in volo notturno",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Attacco russo notturno su Ucraina: 6 morti tra cui due bambine a Kryvyi Rih",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Almeno 60mila migranti entrano a Ceuta in 24 ore; l'Italia sospende Schengen",
+      "category": "society",
+      "region": "europe"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Terremoto 4.7 a Pozzuoli, la scossa più forte da 40 anni: sindaco, situazione critica",
+      "category": "environment",
+      "region": "europe"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "La Russia abbatte 635 droni ucraini, due morti a Saratov",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Il caldo soffoca cozze e vongole mentre il granchio blu si moltiplica",
+      "category": "environment",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 1150,
+    "totalSourcesUsed": 7,
+    "daysWithData": 6,
+    "categoryCounts": {
+      "conflict": 10,
+      "society": 8,
+      "science": 4,
+      "environment": 6,
+      "economy": 9,
+      "politics": 8
+    },
+    "regionCounts": {
+      "europe": 26,
+      "americas": 9,
+      "global": 3,
+      "asia-pacific": 3,
+      "middle-east": 4
+    }
+  }
+}

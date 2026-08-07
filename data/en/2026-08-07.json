@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-07",
+  "summary": "Rescue efforts in Venezuela are struggling after twin earthquakes, and the government's response is drawing criticism. Officials have turned to the international community for help, but years of shrinking budgets and political repression have left the country with limited capacity. Many people remain trapped in rubble, and residents describe a slow, under-equipped recovery, highlighting how institutional decay is compounding a natural disaster.\n\nAt the Pacific Islands Forum, divisions over China emerged on the opening day. Naoero and Kiribati blocked a regional statement condemning China's recent ballistic missile test, frustrating other member states. The move underscores China's growing influence in Pacific diplomacy and the difficulty of reaching a unified position. Elsewhere, Ethiopian publisher JAKENN Publishing said security personnel abducted Addis Standard editor-in-chief Yonas Kedir on August 1, held him about 24 hours, and physically assaulted him. The company is calling for diplomatic and human rights pressure on Ethiopia's government.\n\nIn France, residents of Le Porge, west of Bordeaux, returned to their village 13 days after evacuating during the country's worst wildfire in decades. They found their homes and streets in ruins and are demanding answers about fire prevention and the response. In Australia, two separate concerns surfaced: welfare groups warned that Queensland's proposed Circuit Breaker Program would let operators avoid reporting child harm if doing so incriminated them, and the consumer watchdog ACCC launched an inquiry into alleged misleading food labelling after an investigation by Four Corners.\n\nOn a lighter note, country music found a new audience in Nairobi, Kenya, where fans gathered for a festival celebrating the genre's growing African appeal. And European investors got a new route into African markets: the first African sovereign dollar-denominated bond ETF, developed by Legal & General Asset Management, is now listed in Europe. The Liquidity and Sustainability Facility says it aims to boost liquidity and attract more investors to African debt.",
+  "headlines": [
+    {
+      "title": "Venezuela's weak response to twin earthquakes leaves residents without rescue",
+      "source": "New York Times World",
+      "summary": "After twin earthquakes, Venezuela's government sought international help but years of budget cuts and repression undermined rescue efforts. Many remain trapped in rubble, highlighting the country's institutional decay.",
+      "link": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html",
+      "publishedAt": "2026-08-06T09:02:25.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pacific Islands Forum tensions as Naoero and Kiribati block China criticism",
+      "source": "ABC Australia",
+      "summary": "On the opening day of the Pacific Islands Forum, Naoero and Kiribati stirred frustration by blocking a regional statement condemning China's ballistic missile test. The dispute highlights China's influence in Pacific diplomacy.",
+      "link": "https://www.abc.net.au/news/2026-08-07/naoero-and-kiribati-stir-frustration-at-pif/107010022",
+      "publishedAt": "2026-08-07T07:34:40.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Ethiopian publisher condemns raid and abduction of Addis Standard editor",
+      "source": "AllAfrica",
+      "summary": "JAKENN Publishing says security personnel abducted Editor-in-Chief Yonas Kedir on August 1, assaulted him, and held him for about 24 hours. The group calls for diplomatic and human rights pressure on Ethiopia.",
+      "link": "https://allafrica.com/stories/202608060534.html",
+      "publishedAt": "2026-08-06T13:41:11.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Residents of Le Porge return to ruins after France's worst wildfire",
+      "source": "New York Times World",
+      "summary": "Thirteen days after fleeing France's worst wildfire in decades, residents of Le Porge, west of Bordeaux, found their village in ruins. They demand answers about fire prevention and response as recovery begins.",
+      "link": "https://www.nytimes.com/2026/08/06/world/europe/le-porge-france-fires-village.html",
+      "publishedAt": "2026-08-06T20:36:36.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "First African government dollar bond ETF now available in Europe",
+      "source": "AllAfrica",
+      "summary": "The Liquidity and Sustainability Facility welcomes the L&G LSF African Government Bond UCITS ETF, the first African sovereign dollar-denominated bond fund listed in Europe. It aims to boost liquidity and attract investors to African debt.",
+      "link": "https://allafrica.com/stories/202608060724.html",
+      "publishedAt": "2026-08-06T23:06:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Country music festival draws crowds in Nairobi, Kenya",
+      "source": "New York Times World",
+      "summary": "Fans gathered in Kenya to celebrate country music, a genre with growing African appreciation. The festival highlights cultural exchange and the expanding global reach of the music style.",
+      "link": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
+      "publishedAt": "2026-08-06T04:01:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Queensland boot camp plan may let child abuse go unreported, groups warn",
+      "source": "ABC Australia",
+      "summary": "Queensland's proposed Circuit Breaker Program would allow operators to avoid reporting child harm if it incriminates them. Welfare groups say this leaves children vulnerable and are urging the government to amend the plan.",
+      "link": "https://www.abc.net.au/news/2026-08-07/welfare-groups-warn-qld-boot-camp-could-hide-child-abuse/107008338",
+      "publishedAt": "2026-08-07T07:25:27.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "ACCC launches inquiry into food labelling after Four Corners investigation",
+      "source": "ABC Australia",
+      "summary": "Australia's consumer watchdog has started an inquiry into alleged misleading food labelling and conduct, following a Four Corners investigation into food fraud. The inquiry will examine whether companies breached consumer law.",
+      "link": "https://www.abc.net.au/news/2026-08-07/accc-launches-inquiry-into-food-labelling-after-four-corners/107010678",
+      "publishedAt": "2026-08-07T07:23:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 3,
+    "articlesProcessed": 430,
+    "articlesAfterDedup": 429,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 8,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 27.7,
+    "categoryCounts": {
+      "environment": 2,
+      "politics": 1,
+      "society": 3,
+      "economy": 2
+    },
+    "regionCounts": {
+      "americas": 1,
+      "asia-pacific": 3,
+      "africa": 2,
+      "europe": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

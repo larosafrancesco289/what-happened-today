@@ -1,0 +1,107 @@
+{
+  "date": "2026-08-08",
+  "summary": "Nella notte l'Ucraina è stata di nuovo bersaglio di raid russi. Tre persone sono morte vicino a Kiev, tra cui un bambino. Esplosioni sono state avvertite anche a Dnipro. La guerra continua a colpire i civili, con le autorità locali che denunciano attacchi indiscriminati. Nel frattempo, sul fronte diplomatico, gli Stati Uniti si dicono fiduciosi che si possa raggiungere a breve un accordo per la riapertura completa dello Stretto di Hormuz. Un funzionario americano ha riferito progressi nei colloqui tra Iran e Oman. La notizia è importante perché lo stretto è un passaggio cruciale per il commercio petrolifero mondiale.\n\nIl mondo della musica continua a salutare Francesco Guccini, scomparso ieri. Paolo Conte lo ha ricordato come autore e interprete di memorabili canzoni, indicando 'Bisanzio' come la sua preferita. Anche Jovanotti ha voluto condividere una riflessione: 'Lo stadio sembra l'unico traguardo, ma prima dei numeri c'è la musica'. Un monito a non dimenticare il valore dei contenuti, anche in un'epoca in",
+  "headlines": [
+    {
+      "title": "Ancora raid russi sull'Ucraina: tre morti vicino a Kiev, tra loro un bambino",
+      "source": "TGCOM24",
+      "summary": "Nella notte la capitale ucraina è stata colpita da raid russi: tre persone sono morte vicino a Kiev, tra cui un bambino. Esplosioni anche a Dnipro. La guerra continua, con la popolazione civile sotto attacco.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/raid-russi-kiev-morti-bambino_115256972-202602k.shtml",
+      "publishedAt": "2026-08-08T06:49:38.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Guerra in Iran, Usa fiduciosi: 'Ci aspettiamo accordo a breve su Hormuz'",
+      "source": "TGCOM24",
+      "summary": "Un funzionario statunitense riferisce progressi nei colloqui tra Iran e Oman per la riapertura dello Stretto di Hormuz. L'accordo potrebbe arrivare a breve, con implicazioni per il commercio petrolifero mondiale.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-8-agosto_115256906-202602k.shtml",
+      "publishedAt": "2026-08-08T05:11:12.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Jovanotti: 'Lo stadio sembra l'unico traguardo, ma prima dei numeri c'è la musica'",
+      "source": "ANSA",
+      "summary": "Jovanotti riflette sul significato della musica: lo stadio non è l'unico traguardo, prima vengono i contenuti. A 60 anni, critica l'hip hop che ostenta merci anziché diritti.",
+      "link": "https://www.ansa.it/sito/notizie/cultura/2026/08/07/jovanotti-lo-stadio-sembra-lunico-traguardo-ma-prima-dei-numeri-ce-la-musica_c8b16339-e630-490a-9708-ff62b8d20582.html",
+      "publishedAt": "2026-08-08T06:52:29.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Paolo Conte saluta Guccini: 'La tua compagnia mi ha sempre divertito'",
+      "source": "ANSA",
+      "summary": "Paolo Conte saluta Francesco Guccini, ricordando la sua compagnia e le sue canzoni memorabili. Conte cita 'Bisanzio' come la sua preferita, in un omaggio affettuoso al collega scomparso.",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/07/paolo-conte-saluta-guccini-la-tua-compagnia-mi-ha-sempre-divertito_c66c453d-d806-4c96-8978-a70803d80ed3.html",
+      "publishedAt": "2026-08-07T17:21:26.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Giornata mondiale del gatto, corso di “gattitudine” per una famiglia di umani",
+      "source": "ANSA",
+      "summary": "In occasione della Giornata mondiale del gatto, Joshua Held pubblica 'Il gatto sa', una raccolta di vignette per avvicinare gli umani alla 'gattitudine'. Un libro ironico sulla convivenza con i felini.",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/pets/2026/08/07/giornata-mondiale-del-gatto-corso-di-gattitudine-per-una-famiglia-di-umani_f77d7d02-59b1-42f1-b733-f0c014b8b644.html",
+      "publishedAt": "2026-08-07T11:20:49.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 2,
+    "articlesProcessed": 192,
+    "articlesAfterDedup": 191,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 5,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 20,
+    "categoryCounts": {
+      "conflict": 2,
+      "society": 3
+    },
+    "regionCounts": {
+      "europe": 3,
+      "middle-east": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [
+      "Low source diversity (2 unique sources, recommend 3+)"
+    ],
+    "qualityErrors": []
+  }
+}

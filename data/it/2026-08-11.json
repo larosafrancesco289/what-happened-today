@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-11",
+  "summary": "Secondo il Washington Post, Donald Trump ha lasciato il vertice Nato di Ankara nascosto in un van del catering, per poi rientrare con un aereo militare, non con l'Air Force One, a causa di una minaccia iraniana di attentato. Lo staff e i giornalisti a bordo dell'aereo presidenziale sarebbero stati tenuti all'oscuro di tutto, e la Casa Bianca avrebbe usato i social del presidente come depistaggio. Sul fronte diplomatico, il ministro degli Esteri iraniano Araghchi ha dichiarato che Trump ha implorato di negoziare dopo venti giorni di guerra; il presidente americano, da parte sua, sostiene che lo Stretto di Hormuz è stato bonificato. La diplomazia resta in bilico.\n\nIn Siria, un tribunale di transizione ha condannato a morte in contumacia l'ex presidente Bashar al-Assad per crimini di guerra e contro l'umanità. È la prima sentenza emessa contro una figura di spicco del vecchio regime dopo la fuga a Mosca. Intanto in Ucraina, il presidente Zelensky ha denunciato che la Russia sta usando missili nordcoreani contro il Paese, rinnovando la richiesta di più sistemi di difesa aerea occidentali.\n\nIn Italia, arrestato Valter Lavitola, ex direttore dell'Avanti, con l'accusa di aver ordinato l'attentato contro il conduttore televisivo Sigfrido Ranucci, con l'aggravante del metodo mafioso. Secondo il gip, Lavitola manipolava l'amico giornalista da anni, facendogli credere di poter diventare presidente del Consiglio; non ci sono elementi per ritenere che Ranucci fosse d'accordo. Sempre in tema di politica interna, Matteo Salvini ha annunciato che la Lega chiederà alle prime dieci banche italiane un contributo triennale del 5% sugli utili, stimati in 30 miliardi, in vista della manovra economica.\n\nNegli Stati Uniti, Trump ha firmato un ordine esecutivo che riduce da 17 a 11 i vaccini obbligatori per i bambini, citando un presunto legame con l'autismo. La comunità scientifica e il senatore repubblicano Bill Cassidy definiscono la scelta pericolosa. Infine, il tifone Dolphin minaccia Pechino: in 24 ore potrebbe cadere un terzo della pioggia annua. Sono già state disposte evacuazioni nelle aree a rischio, e scuole e attività all'aperto si preparano allo stop.",
+  "headlines": [
+    {
+      "title": "Trump lascia il vertice Nato nascosto in un van del catering per minaccia iraniana",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Il Washington Post rivela che Trump lasciò il vertice Nato nascosto in un van del catering e rientrò con un aereo militare per una minaccia iraniana di attentato.",
+      "link": "https://www.repubblica.it/esteri/2026/08/11/news/minaccia_attentato_iraniano_trump_a_washington_con_volo_militare_straordinario_dopo_vertice_nato-425522808/?rss",
+      "publishedAt": "2026-08-11T08:48:29.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Svela il viaggio nel van del catering e l'uso di staff e giornalisti come esca",
+          "link": "https://www.repubblica.it/esteri/2026/08/11/news/minaccia_attentato_iraniano_trump_a_washington_con_volo_militare_straordinario_dopo_vertice_nato-425522808/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Accosta la rivelazione del Washington Post alle dichiarazioni di Araghchi e Trump su Hormuz",
+          "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-11-agosto_115347493-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Araghchi afferma che Trump implorò di negoziare dopo 20 giorni di guerra; Hormuz bonificato",
+      "source": "TGCOM24",
+      "summary": "Il ministro degli Esteri iraniano Araghchi afferma che Trump implorò di negoziare a 20 giorni dall'inizio della guerra; il presidente Usa dice che Hormuz è bonificato. La diplomazia resta in bilico.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-11-agosto_115347493-202602k.shtml",
+      "publishedAt": "2026-08-11T10:58:37.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Un tribunale siriano condanna Bashar al-Assad a morte in contumacia",
+      "source": "AGI",
+      "summary": "Un tribunale siriano ha condannato a morte in contumacia l'ex presidente Bashar al-Assad per crimini di guerra e contro l'umanità. Assad è fuggito a Mosca nel 2024; la sentenza è la prima dei tribunali di transizione.",
+      "link": "https://www.agi.it/estero/news/2026-08-11/assad-condannato-siria-38484958/",
+      "publishedAt": "2026-08-11T10:58:15.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "La procura di Roma arresta Valter Lavitola per l'attentato a Sigfrido Ranucci",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "ANSA"
+      ],
+      "summary": "Valter Lavitola è stato arrestato per aver ordinato l'attentato contro il conduttore Sigfrido Ranucci, con l'aggravante del metodo mafioso. Il gip parla di manipolazione: voleva spianargli la strada in politica. Domani l'interrogatorio a Rebibbia.",
+      "link": "https://www.tgcom24.mediaset.it/2026/video/arrestato-lavitola-per-l-attentato-a-ranucci-il-gip-voleva-spianargli-la-strada-in-politica-_115359179-02k.shtml",
+      "publishedAt": "2026-08-11T10:46:00.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Riporta l'accusa del gip sulla manipolazione e l'obiettivo politico di Lavitola",
+          "link": "https://www.tgcom24.mediaset.it/2026/video/arrestato-lavitola-per-l-attentato-a-ranucci-il-gip-voleva-spianargli-la-strada-in-politica-_115359179-02k.shtml"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Annuncia l'interrogatorio a Rebibbia e cita la reazione del legale di Ranucci",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/domani-nel-carcere-di-rebibbia-linterrogatorio-di-valter-lavitola_ea156374-172a-434c-8197-8bf89a7164cb.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump riduce i vaccini obbligatori per i bambini da 17 a 11",
+      "source": "la Repubblica",
+      "summary": "Trump ha firmato un ordine esecutivo che riduce da 17 a 11 i vaccini obbligatori per i bambini, citando un legame con l'autismo. La comunità scientifica e il senatore repubblicano Bill Cassidy criticano la scelta come pericolosa.",
+      "link": "https://www.repubblica.it/esteri/2026/08/11/news/trump_riduce_numero_vaccini_obbligatori_per_bambini_teoria_autismo_contrari_medici-425523232/?rss",
+      "publishedAt": "2026-08-11T08:38:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Usa e Marocco testano missili da crociera a 200 km dalle Canarie",
+      "source": "Euronews Italiano",
+      "summary": "Washington e Rabat hanno testato missili da crociera a 200 km da Lanzarote, nel nuovo centro AMTEC. L'esercitazione avviene in piena tensione diplomatica con la Spagna, alle prese con l'emergenza migratoria a Ceuta.",
+      "link": "http://it.euronews.com/my-europe/2026/08/11/usa-e-marocco-testano-missili-a-200-km-dalle-canarie-tensione-con-la-spagna",
+      "publishedAt": "2026-08-11T10:37:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Zelensky: la Russia usa missili nordcoreani contro l'Ucraina",
+      "source": "Euronews Italiano",
+      "summary": "Il presidente ucraino Zelensky ha denunciato che la Russia sta usando missili nordcoreani contro l'Ucraina. Ha chiesto nuovamente più sistemi di difesa aerea occidentali per contrastare i crescenti legami tra Mosca e Pyongyang.",
+      "link": "http://it.euronews.com/2026/08/11/ucraina-zelensky-la-russia-sta-usando-missili-nordcoreani",
+      "publishedAt": "2026-08-11T10:35:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "I marinai della portaerei Lincoln restano bloccati nel Golfo da 208 giorni",
+      "source": "la Repubblica",
+      "summary": "I marinai della portaerei USS Lincoln sono bloccati nel Golfo da 208 giorni, con razioni ridotte, guasti ai bagni e mancanza di sapone e dentifricio. Le famiglie protestano per il morale in calo.",
+      "link": "https://www.repubblica.it/esteri/2026/08/11/news/senza_cibo_docce_dentifricio_odissea_marinai_usa_bloccati_nel_golfo_da_208_giorni-425523445/?rss",
+      "publishedAt": "2026-08-11T10:44:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Salvini: la Lega chiede alle banche un contributo del 5% sugli utili",
+      "source": "Il Sole 24 Ore",
+      "summary": "Il leader della Lega Matteo Salvini ha annunciato che chiederà alle prime dieci banche italiane un contributo triennale del 5% sugli utili, stimati in 30 miliardi. La proposta arriva in vista della manovra economica.",
+      "link": "https://www.ilsole24ore.com/art/salvini-chiederemo-banche-contributo-5percento-utili-AJ5tJ2j",
+      "publishedAt": "2026-08-11T10:39:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pechino si prepara a piogge record: in 24 ore un terzo della pioggia annua",
+      "source": "la Repubblica",
+      "summary": "Il tifone Dolphin, dopo aver colpito la Cina orientale, minaccia Pechino con piogge record: in 24 ore può cadere un terzo dell'acqua di un anno. Evacuazioni nelle aree a rischio, scuole e attività all'aperto verso lo stop.",
+      "link": "https://www.repubblica.it/esteri/2026/08/11/news/cina_pechino_allarme_tifone_dolphin_piogge_record_in_24_ore_un_terzo_pioggia_un_anno-425523187/?rss",
+      "publishedAt": "2026-08-11T10:37:50.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "Il tifone Dolphin ha colpito la Cina orientale e si sposta verso il Centro-Nord.",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 193,
+    "articlesAfterDedup": 192,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 11,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.4,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 2,
+      "society": 1,
+      "economy": 1,
+      "environment": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "middle-east": 3,
+      "americas": 1,
+      "africa": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

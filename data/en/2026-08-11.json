@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-11",
+  "summary": "An earthquake in Colombia has killed at least 132 people and damaged more than 5,000 homes, overwhelming rescue crews. The new president is facing his first major crisis as civilian volunteers join the search for survivors. Officials say the death toll could rise as teams reach remote areas.\n\nIn Washington, President Trump signed an executive order cutting the recommended childhood vaccine schedule to 11 immunizations, citing an unproven link to autism. Health experts warn the move could leave children with less protection and require more doctor visits. Separately, the administration has pivoted back to pressuring Iran with sanctions, after talks stalled and U.S. weapons stockpiles dwindled. Trump insists the pressure can force a breakthrough in the ongoing war.\n\nA Syrian court sentenced ousted leader Bashar al-Assad to death in absentia, convicting him of killings, torture, and arbitrary arrest during the country's nearly 14-year war. Assad fled Damascus after rebels ended his family's rule in December 2024. In Turkey, parliament passed a limited amnesty for Kurdish PKK militants, a step toward ending decades of deadly conflict. And Pakistan, Saudi Arabia, and Turkey signed a mutual defence pact, which analysts say worries India. The war between the U.S. and Iran has also cut 70 percent of Iraqi Kurdistan's trade, according to the regional government.\n\nChinese police say they've dismantled more than 1,000 gangs and detained about 8,200 suspects in the first 10 days of a year-long campaign against organized crime, targeting new online crimes like predatory lending and debt collection. And in Lebanon, authorities arrested George Dib, an Australian fugitive accused of running a global crime syndicate while on the run.",
+  "headlines": [
+    {
+      "title": "Colombia earthquake death toll reaches 132 as civilians join rescue",
+      "source": "Japan Times",
+      "summary": "An earthquake in Colombia has killed 132 people and damaged more than 5,000 homes, overwhelming emergency crews. The new president faces his first major crisis as civilian volunteers join rescue efforts.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/11/world/colombia-earthquake/",
+      "publishedAt": "2026-08-11T09:32:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Syrian court sentences ousted Bashar al-Assad to death in absentia",
+      "source": "South China Morning Post",
+      "summary": "A Syrian court convicted ousted leader Bashar al-Assad of killings, torture and arbitrary arrest, sentencing him to death in absentia. Assad fled Damascus after rebels ended his family's rule and a war that killed hundreds of thousands.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3363672/syrian-court-sentences-ousted-leader-bashar-al-assad-death-absentia?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T09:59:58.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump pivots back to Iran sanctions as talks stall and stockpiles dwindle",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "NPR News"
+      ],
+      "summary": "The U.S. has returned to pressuring Iran with sanctions after negotiations stalled and American weapons stockpiles shrank. Trump insists the pressure can produce a breakthrough in the ongoing war.",
+      "link": "https://www.thehindu.com/news/international/trump-pivots-back-to-sanctions-for-iran-as-other-strategies-to-end-his-war-fizzle/article71331380.ece",
+      "publishedAt": "2026-08-11T08:25:31.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump signs order cutting child vaccine schedule, citing unproven autism risk",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Japan Times"
+      ],
+      "summary": "President Donald Trump signed an executive order reducing the recommended childhood vaccine schedule to 11 immunizations, citing an unproven autism link. Parents would face more doctor visits for equivalent protection.",
+      "link": "https://www.france24.com/en/donal-trump-order-reduces-us-vaccine-schedule",
+      "publishedAt": "2026-08-11T10:11:50.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "science",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Pakistan, Saudi Arabia, Turkey sign mutual defence pact, rattling India",
+      "source": "South China Morning Post",
+      "summary": "The Mecca Joint Defence Agreement treats an attack on any of the three countries as an attack on all. Analysts say India worries Islamabad could build wider security ties with Muslim-majority neighbours.",
+      "link": "https://www.scmp.com/week-asia/politics/article/3363675/islamic-nato-why-pakistans-new-defence-pact-has-india-edge?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T10:40:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "China detains 8,200 suspects in year-long organised crime crackdown",
+      "source": "South China Morning Post",
+      "summary": "Chinese police dismantled more than 1,000 gangs and detained about 8,200 people in 10 days of a national campaign. New covert crimes include online predatory lending and soft-violence debt collection.",
+      "link": "https://www.scmp.com/news/china/politics/article/3363666/over-8200-detained-china-launches-year-long-crackdown-organised-crime?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T10:00:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Turkish lawmakers pass limited amnesty law for Kurdish PKK militants",
+      "source": "France 24",
+      "summary": "Turkey's parliament approved a bill offering limited amnesty to PKK militants, a key step in peace efforts to end decades of deadly conflict. The law aims to reintegrate fighters into society.",
+      "link": "https://www.france24.com/en/turkey-mps-back-law-on-reintegrating-kurdish-pkk-militants",
+      "publishedAt": "2026-08-11T10:18:08.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "US-Iran war cuts 70 percent of Iraqi Kurdistan trade, regional government says",
+      "source": "Al Jazeera English",
+      "summary": "The Kurdistan Regional Government says the US-Iran conflict has reduced its trade by 70 percent. The semi-autonomous region in Iraq suffers severe economic damage as the war drags on.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
+      "publishedAt": "2026-08-11T09:47:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Sydney fugitive George Dib arrested in Lebanon over crime syndicate",
+      "source": "ABC Australia",
+      "summary": "Fugitive George Dib, accused of running a global organised crime syndicate while on the run, has been arrested in Lebanon. Australian authorities are expected to seek extradition.",
+      "link": "https://www.abc.net.au/news/2026-08-11/nsw-george-dib-fugitive-arrested-lebanon-crime-syndicate/107023674",
+      "publishedAt": "2026-08-11T08:50:18.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 399,
+    "articlesAfterDedup": 398,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.5,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 3,
+      "science": 1,
+      "conflict": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 4,
+      "asia-pacific": 3
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

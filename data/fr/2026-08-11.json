@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-11",
+  "summary": "La Syrie a condamné mardi l’ancien président Bachar el-Assad à la peine de mort par contumace. Un tribunal l’a reconnu coupable de crimes de guerre et de crimes contre l’humanité pendant la guerre civile. C’est la première condamnation de l’ex-dirigeant, renversé en décembre 2024 après quatorze ans de conflit. Assad, en fuite, n’a pas été entendu. La décision a une portée surtout judiciaire, mais elle marque les consciences.\n\nEn Colombie, le bilan du séisme de magnitude 7,4 ne cesse de s’alourdir. Les secours font état d’au moins 132 morts et de 86 bâtiments effondrés. Les équipes continuent de chercher des survivants dans les décombres, mais les routes coupées ralentissent l’aide. Le pays reste sous le choc de ce tremblement de terre survenu lundi.\n\nL’épidémie d’Ebola en République démocratique du Congo inquiète les spécialistes. Le virologue Jean-Jacques Muyembe, codécouvreur du virus, dit dans Le Monde que la propagation est inédite. En trois mois, le nombre de morts s’approche déjà du bilan de l’épidémie de 2018, qui avait duré vingt-deux mois. En Turquie, un autre sujet de paix avance : les députés ont adopté lundi une loi permettant la réintégration de combattants du PKK. Elle pourrait libérer 3 500 ex-membres sur près de 10 000 détenus, sans amnistie générale.\n\nAux États-Unis, Donald Trump a signé lundi un décret controversé sur la vaccination des enfants. Il recommande d’espacer les vaccins et de donner plus de pouvoir de décision aux parents. Une nouvelle étape de son offensive contre les vaccins, loin du consensus médical. Enfin, Volodymyr Zelensky affirme sur X que la Russie utilise des missiles balistiques nord-coréens et prépare un contingent supplémentaire de soldats nord-coréens. Il n’a pas fourni de preuve indépendante, et Moscou n’a pas commenté.",
+  "headlines": [
+    {
+      "title": "La Syrie condamne l'ancien président Bachar el-Assad à la peine de mort par contumace",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Le Figaro"
+      ],
+      "summary": "Un tribunal syrien a condamné mardi 11 août l'ex-président Bachar el-Assad à la peine capitale par contumace pour crimes de guerre et crimes contre l'humanité. C'est la première condamnation de l'ancien dirigeant, renversé en décembre 2024.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260811-syrie-le-pr%C3%A9sident-d%C3%A9chu-bachar-el-assad-condamn%C3%A9-%C3%A0-la-peine-de-mort-par-contumace",
+      "publishedAt": "2026-08-11T08:38:06.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A rapporté la condamnation à mort par contumace et l'exil de Bachar el-Assad",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260811-syrie-le-pr%C3%A9sident-d%C3%A9chu-bachar-el-assad-condamn%C3%A9-%C3%A0-la-peine-de-mort-par-contumace"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "A mis en avant la condamnation à mort d'Atef Najib, ancien responsable sécuritaire",
+          "link": "https://www.lefigaro.fr/international/syrie-le-president-dechu-bachar-el-assad-condamne-a-la-peine-de-mort-par-contumace-20260811"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Le séisme de magnitude 7,4 en Colombie tue 132 personnes et détruit 86 bâtiments",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "France 24"
+      ],
+      "summary": "Le pays a été frappé lundi par un séisme de magnitude 7,4. Les secours recherchent des survivants parmi les décombres. Le bilan est d'au moins 132 morts et 86 bâtiments effondrés; les recherches se poursuivent mardi.",
+      "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-au-moins-132-morts-86-batiments-effondres-recherche-de-survivants-les-degats-du-seisme-en-colombie_8142965.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-08-11T09:56:33.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "A fourni les chiffres des victimes et l'ampleur des destructions matérielles",
+          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-au-moins-132-morts-86-batiments-effondres-recherche-de-survivants-les-degats-du-seisme-en-colombie_8142965.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "France 24",
+          "angle": "A mis l'accent sur les opérations de recherche des survivants sous les décombres",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-colombie-les-secours-%C3%A0-la-recherche-de-survivants-du-s%C3%A9isme"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Jean-Jacques Muyembe, codécouvreur d'Ebola, alerte sur une propagation inédite en RDC",
+      "source": "Le Monde",
+      "summary": "Dans un entretien au Monde, le virologue congolais Jean-Jacques Muyembe affirme qu'Ebola se propage à une vitesse inédite. En trois mois, le nombre de morts approche déjà le bilan de l'épidémie de 2018, qui avait duré vingt-deux mois.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/08/11/jean-jacques-muyembe-virologue-congolais-ebola-se-propage-a-une-vitesse-que-nous-n-avions-encore-jamais-observee_6743759_3212.html",
+      "publishedAt": "2026-08-11T04:30:05.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "L'Iran prépare son armée à une confrontation prolongée avec les États-Unis et Israël",
+      "source": "Le Monde",
+      "summary": "Mojtaba Khamenei, invisible depuis son accession au pouvoir en mars, a procédé à des nominations renforçant son autorité sur l'appareil militaire et sécuritaire. Il prépare ainsi l'Iran à une confrontation prolongée avec les États-Unis et Israël, selon Le Monde.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/11/en-iran-le-nouveau-guide-supreme-prepare-l-appareil-militaire-et-securitaire-a-une-confrontation-prolongee-avec-les-etats-unis-et-israel_6743785_3210.html",
+      "publishedAt": "2026-08-11T09:51:18.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "Libération"
+      ],
+      "summary": "Les députés turcs ont adopté lundi 10 août une loi ouvrant la voie à la réintégration des combattants du PKK. Le texte pourrait permettre la libération de 3 500 ex-membres sur près de 10 000 détenus, sans amnistie générale.",
+      "link": "https://www.rfi.fr/fr/europe/20260810-la-turquie-adopte-une-loi-historique-sur-la-r%C3%A9int%C3%A9gration-des-combattants-du-pkk",
+      "publishedAt": "2026-08-10T21:29:09.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A présenté la loi comme une étape historique vers la paix avec le PKK",
+          "link": "https://www.rfi.fr/fr/europe/20260810-la-turquie-adopte-une-loi-historique-sur-la-r%C3%A9int%C3%A9gration-des-combattants-du-pkk"
+        },
+        {
+          "source": "Libération",
+          "angle": "A précisé le champ limité de la loi et l'absence d'amnistie générale",
+          "link": "https://www.liberation.fr/international/moyen-orient/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-20260811_5LJ7RE6MDRFQZFG2XC47F6N7AU/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump signe un décret controversé sur la vaccination des enfants",
+      "source": "RFI",
+      "summary": "Le président américain a signé lundi 10 août un décret recommandant d'espacer les vaccins pour les enfants et de renforcer le pouvoir des parents. Une nouvelle étape de son offensive contre la vaccination.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260811-%C3%A9tats-unis-donald-trump-poursuit-son-offensive-contre-les-vaccins-et-signe-un-nouveau-d%C3%A9cret-controvers%C3%A9",
+      "publishedAt": "2026-08-11T10:32:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Volodymyr Zelensky affirme que la Russie a utilisé des missiles balistiques nord-coréens",
+      "source": "France Info",
+      "summary": "Le président ukrainien a affirmé lundi sur X que la Russie avait utilisé des missiles balistiques nord-coréens et préparait le déploiement d'un contingent supplémentaire de soldats nord-coréens.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-affirme-que-la-russie-a-utilise-des-missiles-balistiques-nord-coreens-contre-l-ukraine_8142818.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-08-11T07:39:27.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "La presse française saisit l'Autorité de la concurrence contre Google pour ses résumés IA",
+      "source": "Le Monde",
+      "summary": "L'Alliance de la presse d'information générale, qui regroupe près de 300 quotidiens français, demande à l'Autorité de la concurrence d'intervenir pour faire respecter les engagements pris par Google en 2022 sur les résumés IA.",
+      "link": "https://www.lemonde.fr/actualite-medias/article/2026/08/11/resumes-ia-de-google-l-alliance-de-la-presse-d-information-generale-dont-le-monde-est-membre-saisit-l-autorite-de-la-concurrence_6743786_3236.html",
+      "publishedAt": "2026-08-11T09:59:09.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Québec et Ottawa enquêtent sur des cyberattaques contre des usines d'eau potable",
+      "source": "Radio-Canada",
+      "summary": "Deux usines de traitement de l'eau ont été attaquées au Canada cet été, et des dizaines aux États-Unis. Les gouvernements québécois et fédéral enquêtent sur ces cyberattaques.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2273339/quebec-canada-enquetes-cyberattaques-eau-potable",
+      "publishedAt": "2026-08-11T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Des Juifs canadiens se tournent vers les États-Unis face à l'antisémitisme",
+      "source": "Radio-Canada",
+      "summary": "Face à la montée de l'antisémitisme, des réseaux facilitent l'installation de Juifs canadiens aux États-Unis, selon Radio-Canada. Un exode qui témoigne des inquiétudes de la communauté.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2274141/juifs-canadien-antisemitisme-refugie",
+      "publishedAt": "2026-08-11T08:00:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Les Mohawks de Kahnawà:ke agrandissent leur territoire d'une première parcelle",
+      "source": "Radio-Canada",
+      "summary": "La communauté mohawk de Kahnawà:ke a fait l'acquisition d'une première parcelle de terre, prélude à des revendications territoriales plus vastes au Québec. Le geste s'inscrit dans une stratégie de reconquête du territoire ancestral.",
+      "link": "https://ici.radio-canada.ca/info/long-format/2274539/mohawks-kahnawake-territoire",
+      "publishedAt": "2026-08-11T08:00:00.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 207,
+    "articlesAfterDedup": 205,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 18,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 13.6,
+    "categoryCounts": {
+      "politics": 4,
+      "environment": 1,
+      "science": 1,
+      "conflict": 2,
+      "economy": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "americas": 5,
+      "africa": 1,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

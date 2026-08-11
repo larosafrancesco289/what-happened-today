@@ -9,7 +9,7 @@ import {
   type SummaryStory,
 } from '@/lib/prompts';
 
-const DEEPSEEK_V4_FLASH = 'deepseek/deepseek-v4-flash';
+const DEEPSEEK_V4_FLASH = 'deepseek/deepseek-v4-flash-0731';
 const OPENROUTER_PROVIDER = {
   order: ['deepseek'],
   allow_fallbacks: false,
@@ -201,7 +201,7 @@ async function filterAndRankArticlesChunk(articles: ProcessedArticle[], language
   const threshold = 6;
   const systemPrompt = 'You are a neutral news editor. Analyze articles and respond with valid JSON only. No markdown, no explanations.';
 
-  const responseText = await chatCompletion(MODELS.filter, systemPrompt, prompt, 4096);
+  const responseText = await chatCompletion(MODELS.filter, systemPrompt, prompt, undefined);
   if (!responseText.trim()) {
     throw new Error(`Filtering returned an empty response from model=${MODELS.filter}`);
   }
@@ -448,7 +448,7 @@ export async function generateHeadlines(articles: ProcessedArticle[], languageCo
         ? ''
         : `\n\nRETRY INSTRUCTION: Your previous response contained zero usable headlines. That is invalid because the ARTICLES list is non-empty and already filtered. Select the strongest ${Math.min(8, Math.max(1, articles.length))} stories from ARTICLES, copy each story's articleIndex/link/publishedAt from the input, and return {"headlines":[...]} with at least one headline.`;
       const prompt = `${basePrompt}${retryGuidance}`;
-      const responseText = await chatCompletion(MODELS.headlines, systemPrompt, prompt, 8192, false);
+      const responseText = await chatCompletion(MODELS.headlines, systemPrompt, prompt, undefined, false);
       if (!responseText.trim()) {
         throw new Error(`empty response from model=${MODELS.headlines}`);
       }
@@ -543,7 +543,7 @@ export async function generateDailySummary(
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
       const apiStart = Date.now();
-      const responseText = await chatCompletion(MODELS.summary, systemPrompt, prompt, 2048, false, true, SUMMARY_TEMPERATURE);
+      const responseText = await chatCompletion(MODELS.summary, systemPrompt, prompt, undefined, false, true, SUMMARY_TEMPERATURE);
       console.log(`generateDailySummary: model=${MODELS.summary} API response time ${Date.now() - apiStart} ms (attempt ${attempt}/${MAX_ATTEMPTS})`);
 
       const result = safeParseJSON<{ summary?: string }>(responseText, {});
@@ -600,7 +600,7 @@ export async function categorizeHeadlines(headlines: NewsHeadline[]): Promise<Ne
   };
 
   try {
-    const responseText = await chatCompletion(MODELS.categorize, CATEGORIZE_SYSTEM_PROMPT, categorizePrompt(headlines), 2048);
+    const responseText = await chatCompletion(MODELS.categorize, CATEGORIZE_SYSTEM_PROMPT, categorizePrompt(headlines), undefined);
     const parsed = safeParseJSON<{ categories: HeadlineCategorization[] }>(responseText, { categories: [] });
     if (!Array.isArray(parsed.categories) || parsed.categories.length === 0) {
       throw new Error(`Categorization returned no parseable categories from model=${MODELS.categorize}`);

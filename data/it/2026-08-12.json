@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-12",
+  "summary": "Il terremoto che ha colpito lunedì la Colombia occidentale è la notizia più grave della giornata. Il bilancio è salito a 240 morti, oltre 1.000 feriti e 3.600 dispersi: è il sisma più forte registrato nel Paese da un secolo, magnitudo 7,4. I soccorritori scavano senza sosta e ieri una donna di 32 anni è stata estratta viva dalle macerie a Pereira, tra gli applausi. Gli aeroporti hanno riaperto e sono arrivati 1,3 miliardi di dollari di aiuti internazionali, ma si continua a cercare.\n\nSui fronti di guerra la tensione resta altissima. Nel Mar Rosso i ribelli Houthi hanno attaccato un cargo, uccidendo sei persone, mentre lo stretto di Hormuz rimane bloccato e il petrolio sfiora i 90 dollari al barile. Il ministro degli esteri iraniano Araghchi sostiene che Trump abbia implorato di negoziare. Sempre secondo Zelensky, la Russia ha intensificato gli attacchi sull'Ucraina usando anche missili nordcoreani KN23, dopo che i sistemi Patriot a disposizione di Kiev si sono esauriti. E l'8 luglio, durante il vertice Nato in Turchia, una minaccia di missile iraniano aveva spinto Trump a lasciare l'evento in un van.\n\nLa guerra in Iran e la siccità hanno un effetto concreto anche sui commerci. Il Canale di Panama, già in difficoltà per il calo dell'acqua legato a El Niño, ha visto le aste per i transiti toccare prezzi record: ad agosto la media supera 1,1 milioni di dollari, sedici volte quella dell'anno scorso. Significa che il trasporto marittimo è molto più caro, con ricadute su tutto.\n\nIn Italia l'ondata di caldo non molla: oggi 19 città con bollino rosso e temperature percepite fino a 40 gradi, con sollievo atteso solo dalla prossima settimana. Il presidente Mattarella ha invitato a respingere violenza e odio, perché \"la volontà di dominio si riaffaccia\". Infine, è in corso a Rebibbia l'interrogatorio di garanzia per Valter Lavitola, arrestato per l'attentato a Sigfrido Ranucci: il legale del giornalista parla di una \"campagna di linciaggio mediatico e politico\" contro il suo assistito.",
+  "headlines": [
+    {
+      "title": "Il terremoto in Colombia provoca 240 morti e 3.600 dispersi, riaprono gli aeroporti",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "TGCOM24",
+        "Euronews Italiano"
+      ],
+      "summary": "Un sisma di magnitudo 7,4 ha colpito le città occidentali della Colombia, causando 240 morti, oltre 1.000 feriti e 3.600 dispersi. I soccorritori cercano superstiti; riaprono gli aeroporti e arrivano 1,3 miliardi di dollari in aiuti internazionali.",
+      "link": "https://www.agi.it/estero/news/2026-08-12/vittime-terremoto-colombia-38494874/",
+      "publishedAt": "2026-08-12T06:42:41.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha aggiornato il bilancio con 240 morti e descritto le operazioni di ricerca in corso",
+          "link": "https://www.agi.it/estero/news/2026-08-12/vittime-terremoto-colombia-38494874/"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha sottolineato la riapertura degli aeroporti e l'arrivo di 1,3 miliardi di aiuti",
+          "link": "https://www.tgcom24.mediaset.it/mondo/terremoto-colombia-ultime-notizie-12-agosto_115383025-202602k.shtml"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha mostrato il crollo dell'ospedale di Cali e la ricerca di superstiti tra le macerie",
+          "link": "http://it.euronews.com/2026/08/12/sisma-in-colombia-si-cerca-ancora-tra-le-macerie-almeno-216-i-morti"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Raid Houthi nel Mar Rosso uccide sei persone su un cargo, Hormuz resta bloccato",
+      "source": "la Repubblica",
+      "summary": "I ribelli yemeniti Houthi hanno attaccato un cargo nel Mar Rosso provocando sei morti. Lo stretto di Hormuz rimane bloccato, il petrolio sfiora i 90 dollari al barile e il ministro iraniano Araghchi dice che Trump ha implorato di negoziare.",
+      "link": "https://www.repubblica.it/esteri/2026/08/12/news/guerra_iran_raid_houthi_mar_rosso_sei_morti_cargo_hormuz_blocco-425524433/?rss",
+      "publishedAt": "2026-08-11T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Russia attacca l'Ucraina con missili nordcoreani dopo la fine dei Patriot a Kiev",
+      "source": "la Repubblica",
+      "summary": "Esauriti i sistemi Patriot, la difesa aerea di Kiev è scoperta. La Russia intensifica gli attacchi alternando missili Iskander e nordcoreani KN23, secondo il presidente Zelensky.",
+      "link": "https://www.repubblica.it/esteri/2026/08/12/news/ucraina_senza_scudo_russia_missili_nord_corea-425524420/?rss",
+      "publishedAt": "2026-08-11T23:00:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "La minaccia di un missile iraniano spinge Trump a lasciare il vertice Nato",
+      "source": "la Repubblica",
+      "summary": "L'8 luglio una minaccia di missile iraniano contro l'Air Force One emerse durante il vertice Nato in Turchia. Trump lasciò l'evento in un van, mentre Rubio rimase sull'aereo.",
+      "link": "https://www.repubblica.it/esteri/2026/08/12/news/trump_minaccia_attentato_con_missile_terra-aria_iraniano_air_force_one-425524614/?rss",
+      "publishedAt": "2026-08-12T04:20:20.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Le aste per il Canale di Panama toccano prezzi record fino a 3,7 milioni",
+      "source": "AGI",
+      "summary": "Il calo dell'acqua per El Niño e la domanda legata alla guerra in Iran fanno salire il costo del transito nel Canale di Panama. La media di agosto supera 1,1 milioni di dollari, sedici volte il prezzo normale.",
+      "link": "https://www.agi.it/economia/news/2026-08-12/canale-panama-prezzi-record-38495225/",
+      "publishedAt": "2026-08-12T06:54:01.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Mattarella: 'La volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite'",
+      "source": "ANSA",
+      "summary": "Il presidente della Repubblica Sergio Mattarella invita a respingere violenza, odio e disprezzo per il pluralismo, mentre il mondo affronta nuove minacce di guerra. Un richiamo ai valori democratici.",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/08/12/mattarella-la-volonta-di-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_b82b399b-9546-445b-8bdb-7f2cc1e42e0d.html",
+      "publishedAt": "2026-08-12T07:30:44.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Ondata di caldo: 19 città con bollino rosso, fresco atteso la prossima settimana",
+      "source": "AGI",
+      "summary": "Il Ministero della Salute conferma l'emergenza caldo: oggi 19 città italiane da bollino rosso. L'afa intensa durerà per tutto il weekend di Ferragosto, con temperature in calo solo dalla prossima settimana.",
+      "link": "https://www.agi.it/cronaca/news/2026-08-12/meteo-19-citta-bollino-rosso-quando-fresco-38495610/",
+      "publishedAt": "2026-08-12T07:17:24.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Interrogatorio di garanzia per Lavitola a Rebibbia: Ranucci parla di linciaggio",
+      "source": "AGI",
+      "summary": "Oggi a mezzogiorno Valter Lavitola, arrestato per l'attentato al conduttore di Report Sigfrido Ranucci, è interrogato nel carcere di Rebibbia. Il legale di Ranucci denuncia un attacco orchestrato contro il giornalista.",
+      "link": "https://www.agi.it/cronaca/news/2026-08-12/ranucci-lavitola-interrogatorio-38494878/",
+      "publishedAt": "2026-08-12T06:33:42.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Lavitola è stato arrestato lunedì per l'attentato a Sigfrido Ranucci dell'ottobre scorso.",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 194,
+    "articlesAfterDedup": 194,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 8.9,
+    "categoryCounts": {
+      "environment": 2,
+      "conflict": 3,
+      "economy": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 2,
+      "europe": 4
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 3,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

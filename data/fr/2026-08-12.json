@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-12",
+  "summary": "Le bilan du séisme en Colombie s'est encore alourdi : 216 morts et plus de 1 600 blessés, selon les autorités. Trois jours après la secousse de magnitude 7,4, les secours recherchent toujours des survivants à Pereira, Manizales et Cali, la troisième ville du pays. Les opérations restent difficiles dans les zones les plus touchées. Le bras de fer entre les États-Unis et l'Iran s'intensifie. L'armée américaine a annoncé avoir tiré sur un navire panaméen qui tentait d'approcher un port iranien en violation du blocus. Donald Trump a assuré que Washington exerce un « contrôle total » sur le détroit d'Ormuz. Le Washington Post et le New York Times révèlent par ailleurs que le président américain avait été discrètement transféré dans un autre avion à Ankara, lors du sommet de l'OTAN, en raison de menaces iraniennes. Trump a déclaré avoir suivi les consignes du Secret Service. La Corée du Nord a tiré un missile balistique vers la mer du Japon. Le projectile a parcouru plus de 700 km avant de s'abîmer en mer. Ce tir, le deuxième en une semaine, intervient avant des exercices militaires américano-sud-coréens. Dans le même temps, Volodymyr Zelensky accuse la Russie d'avoir utilisé des missiles nord-coréens lors d'une frappe à Zaporijjia, ce qui fait craindre un engagement plus massif de Pyongyang aux côtés de Moscou. Deux nouvelles plus brèves. Le Liban a aboli la peine de mort : la Chambre des députés a adopté cette mesure mardi, alors que 85 condamnés attendaient toujours dans les prisons. Aucune exécution n'avait eu lieu depuis 2004. Au Zimbabwe, un ferry a chaviré sur le lac Kariba, faisant au moins 15 morts et 27 disparus. Les recherches se poursuivent.",
+  "headlines": [
+    {
+      "title": "Le séisme en Colombie fait 216 morts et plus de 1 600 blessés",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "France Info",
+        "Radio-Canada",
+        "20 Minutes"
+      ],
+      "summary": "Le bilan du séisme de magnitude 7,4 qui a frappé la Colombie lundi s'établit à 216 morts et plus de 1 600 blessés. Les secours recherchent encore des survivants à Pereira, Manizales et Cali.",
+      "link": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "publishedAt": "2026-08-12T07:16:35.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Liberation",
+          "angle": "A rapporté le dernier bilan de 216 morts et les opérations de secours en cours",
+          "link": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/"
+        },
+        {
+          "source": "France Info",
+          "angle": "A souligné la révision à la baisse du bilan et le nombre de blessés",
+          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/au-moins-216-morts-en-colombie-le-bilan-du-seisme-revu-a-la-baisse_8144102.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Radio-Canada",
+          "angle": "A mentionné le sauvetage d'une rescapée et le bilan revu à 216 morts",
+          "link": "https://ici.radio-canada.ca/nouvelle/2274885/seisme-colombie-bilan-decombres"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A qualifié le séisme de plus meurtrier du siècle en Colombie",
+          "link": "https://www.20minutes.fr/monde/4238814-20260812-seisme-colombie-bilan-revu-216-morts-recherches-acharnees-trouver-survivants?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "L'armée américaine tire sur un navire qui violait son blocus des ports iraniens",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "RFI",
+        "RTBF"
+      ],
+      "summary": "L'armée américaine a tiré sur un navire battant pavillon panaméen qui tentait d'approcher un port iranien en violation du blocus. Donald Trump assure que les États-Unis contrôlent totalement le détroit d'Ormuz.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260812-en-direct-moyen-orient-iran-etats-unis-detroit-ormuz-donald-trump-houthis",
+      "publishedAt": "2026-08-12T02:58:43.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "A couvert l'incident en direct et les déclarations de Trump sur le contrôle du détroit",
+          "link": "https://www.france24.com/fr/moyen-orient/20260812-en-direct-moyen-orient-iran-etats-unis-detroit-ormuz-donald-trump-houthis"
+        },
+        {
+          "source": "RFI",
+          "angle": "A précisé que l'équipage du navire battant pavillon panaméen a ignoré les avertissements",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260812-direct-moyen-orient-les-%C3%A9tats-unis-tirent-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens"
+        },
+        {
+          "source": "RTBF",
+          "angle": "A relayé les propos de Trump affirmant avoir le contrôle total du détroit d'Ormuz",
+          "link": "https://www.rtbf.be/article/guerre-au-moyen-orient-les-etats-unis-ont-le-controle-total-du-detroit-d-ormuz-affirme-trump-11769261"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "La Corée du Nord lance un missile balistique avant des manœuvres américano-sud-coréennes",
+      "source": "France 24",
+      "summary": "La Corée du Nord a tiré un missile balistique vers la mer du Japon, parcourant plus de 700 km. Ce tir survient avant des manœuvres militaires américano-sud-coréennes.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260812-coree-du-nord-nouveau-tir-missile-balistique-man%C5%93uvres-seoul-washington",
+      "publishedAt": "2026-08-12T01:59:14.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Zelensky accuse la Russie d'avoir frappé Zaporijjia avec des missiles nord-coréens",
+      "source": "France Info",
+      "summary": "Volodymyr Zelensky accuse la Russie d'avoir utilisé des missiles nord-coréens lors d'une frappe à Zaporijjia. Kiev craint une montée de l'effort militaire nord-coréen aux côtés de Moscou.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-redoute-la-montee-en-puissance-de-l-effort-militaire-nord-coreen_8142938.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-08-11T17:58:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Le Liban abolit la peine de mort, 85 condamnés restent en prison",
+      "source": "Le Monde",
+      "summary": "La Chambre des députés libanaise a adopté l'abolition de la peine de mort. 85 condamnés à mort sont encore en prison, mais aucune exécution n'a eu lieu depuis 2004.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/12/liban-l-abolition-de-la-peine-de-mort-une-etape-symbolique-importante-mais-qui-ne-change-rien-aux-dysfonctionnements-de-la-justice-libanaise_6744775_3210.html",
+      "publishedAt": "2026-08-12T07:27:54.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Un bateau chavire sur le lac Kariba au Zimbabwe, 15 morts et 27 disparus",
+      "source": "RTBF (Belgian)",
+      "summary": "Un ferry a chaviré sur le lac Kariba au Zimbabwe, faisant au moins 15 morts et 27 disparus. Les recherches se poursuivent pour retrouver les disparus.",
+      "link": "https://www.rtbf.be/article/zimbabwe-au-moins-15-morts-et-27-disparus-apres-le-chavirage-d-un-bateau-sur-le-lac-kariba-11769276",
+      "publishedAt": "2026-08-12T06:14:32.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Le Washington Post et le New York Times révèlent l'exfiltration secrète de Donald Trump",
+      "source": "Le Monde",
+      "summary": "Donald Trump a été discrètement transféré dans un autre avion à Ankara en raison de menaces iraniennes, selon le Washington Post et le New York Times.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/12/l-exfiltration-secrete-de-donald-trump-a-ankara-symptome-d-un-dispositif-de-securite-marque-par-la-febrilite-et-l-improvisation_6744564_3210.html",
+      "publishedAt": "2026-08-12T03:31:54.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 207,
+    "articlesAfterDedup": 206,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 14,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 3,
+      "politics": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 2,
+      "middle-east": 2,
+      "asia-pacific": 1,
+      "europe": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

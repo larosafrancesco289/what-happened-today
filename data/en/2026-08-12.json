@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-12",
+  "summary": "The death toll from Monday's earthquake in western Colombia climbed to 181 today, with 2,595 people injured and at least 195 still missing — though civilian-run databases put that number near 4,000. Rescuers are digging through rubble as aftershocks continue, and the disaster is testing a new government already strained by tight finances.\n\nIn West Asia, tensions escalated as a U.S. military helicopter fired Hellfire missiles into the engine room of a Panama-flagged cargo ship after its crew ignored warnings to respect the blockade of Iranian ports. The incident raises the risk of direct confrontation with Iran. Separately, a Pentagon assessment sent to Congress found 153 civilians were killed in three U.S. strikes during last year's bombing campaign in Yemen, with hundreds more wounded. And Pakistan's foreign minister condemned Houthi attacks on commercial vessels after three Pakistani nationals died in a Red Sea attack, underscoring the danger to shipping.\n\nIn other security news, Russia released an American military veteran after four years of what his family and U.S. officials called wrongful incarceration and abusive treatment. President Trump said he changed aircraft after the NATO summit because of a possible threat, though journalists and White House staff on the original jet were unaware he had left. U.N. investigators said Myanmar's military is increasingly using motorized paragliders, gyrocopters and drones to drop unguided explosives on civilians. And near Jericho, Israeli settlers demolished homes, leaving Palestinian families displaced; the Palestinian government accused Israeli authorities of complicity.",
+  "headlines": [
+    {
+      "title": "Rescuers search rubble in Colombia as earthquake death toll hits 181",
+      "source": "NPR News",
+      "sources": [
+        "NPR News",
+        "BBC World",
+        "The Guardian",
+        "Wall Street Journal World"
+      ],
+      "summary": "A 7.4-magnitude earthquake struck western Colombia on Monday, killing 181 and injuring 2,595. Rescuers dig through rubble amid aftershocks; authorities report 195 missing, civilian databases up to 4,000. The disaster tests a new government with strained finances.",
+      "link": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
+      "publishedAt": "2026-08-12T05:13:06.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. helicopter fires missiles at cargo ship breaking Iran blockade",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "The Hindu"
+      ],
+      "summary": "A U.S. military helicopter fired Hellfire missiles into the engine room of a Panama-flagged cargo ship after its crew ignored warnings to abide by the blockade of Iranian ports. The incident escalates U.S.-Iran tensions in West Asia.",
+      "link": "https://www.wsj.com/world/middle-east/u-s-fires-on-ship-breaking-its-blockade-of-iran-d8b99456?mod=rss_worldnews",
+      "publishedAt": "2026-08-11T20:57:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Pentagon finds 153 civilians killed in U.S. strikes on Yemen",
+      "source": "Wall Street Journal World",
+      "summary": "An internal Pentagon assessment sent to Congress shows 153 civilians were killed in three strikes during last year's U.S. bombing campaign in Yemen. The report also found hundreds more wounded, raising questions about U.S. targeting practices.",
+      "link": "https://www.wsj.com/world/middle-east/yemen-strikes-civilian-deaths-pentagon-report-d64b35d5?mod=rss_worldnews",
+      "publishedAt": "2026-08-11T21:40:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Trump confirms plane switch after NATO summit over possible threat",
+      "source": "BBC World",
+      "summary": "President Trump said he changed aircraft after the NATO summit because of a possible threat, though journalists and White House staff aboard the original jet were unaware he had left. No further details were provided.",
+      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T03:44:55.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
+      "source": "Deutsche Welle",
+      "summary": "Pakistan's foreign minister condemned Houthi attacks on commercial vessels and offered condolences after three Pakistani nationals were killed in a Red Sea attack. The incident highlights risks to shipping in the region.",
+      "link": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-08-12T06:42:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russia releases former U.S. Marine after four-year detention",
+      "source": "NPR News",
+      "summary": "Russia released an American military veteran after four years of what his family and U.S. officials allege was wrongful incarceration and abusive treatment, allowing him to return to the U.S.",
+      "link": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
+      "publishedAt": "2026-08-12T05:27:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "U.N. says Myanmar military uses airborne arms against civilians",
+      "source": "Japan Times",
+      "summary": "U.N. investigators say Myanmar's military increasingly uses motorized paragliders, gyrocopters and drones for low-altitude strikes with unguided explosives against civilians, ramping up attacks in the civil war.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/12/asia-pacific/myanmar-civilian-airborne-weapons-un/",
+      "publishedAt": "2026-08-12T06:02:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli settlers demolish Jericho homes, government accused of complicity",
+      "source": "Al Jazeera English",
+      "summary": "Israeli settlers demolished homes in a village near Jericho, leaving rubble and displaced Palestinian families. The Palestinian government accused Israeli authorities of complicity in the demolitions.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/israeli-government-accused-of-complicity-as-settlers-demolish-jericho-homes?traffic_source=rss",
+      "publishedAt": "2026-08-12T07:28:48.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 410,
+    "articlesAfterDedup": 406,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 10.9,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 5,
+      "politics": 2
+    },
+    "regionCounts": {
+      "americas": 1,
+      "middle-east": 4,
+      "global": 2,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-13",
+  "summary": "Le séisme qui a frappé l’ouest de la Colombie lundi a fait 265 morts, près de 3 500 blessés et 496 disparus. Le président a décrété l’urgence économique pour accélérer les secours et débloquer des fonds. Les recherches de survivants entrent dans une phase critique : les sauveteurs cherchent encore des personnes coincées sous les décombres, et, selon les autorités, le bilan pourrait encore s’alourdir.\n\nEn France, la canicule ne faiblit pas : 80 départements, soit la quasi-totalité du pays, restent en vigilance orange jusqu’à vendredi. Le gouvernement chiffre jusqu’à 15 milliards d’euros le coût de ces vagues de chaleur successives cet été, notamment pour l’agriculture. La sécheresse épuise les réserves d’eau : 40 000 personnes ont déjà subi des coupures, et la ministre de la transition écologique, Monique Barbut, demande aux préfets de renforcer les restrictions. Parallèlement, un rapport commandé par l’exécutif et dévoilé fin juillet propose 4,2 milliards d’économies sur les aides aux familles, une piste qui inquiète les associations de solidarité.\n\nLes tensions géopolitiques se multiplient. L’Ukraine restreint la diffusion de données sur les frappes russes, faute d’intercepteurs Patriot, indispensables contre les missiles balistiques ; les approvisionnements américains ont diminué depuis le conflit au Moyen-Orient. Vladimir Poutine s’est rendu pour la première fois dans les îles Kouriles, en Extrême-Orient, que le Japon revendique ; Tokyo a vivement protesté. À Taïwan, l’île de Kinmen, proche de la Chine, a organisé des exercices pour repousser une invasion, dans un contexte de tensions croissantes avec Pékin.\n\nEnfin, près de 9 millions de Zambiens votent ce jeudi pour élire leur président et leurs députés. Le sortant Hakainde Hichilema, favori, brigue un second mandat face à treize autres candidats, cinq ans après l’alternance historique de 2021. Mais le coût de la vie, la mobilisation des jeunes, une opposition recomposée et des controverses sur les règles du jeu rendent le scrutin incertain. En Lituanie, le soutien aux exilés biélorusses s’érode avec la montée de l’extrême droite ; Svetlana Tsikhanovskaïa, cheffe de l’opposition biélorusse en exil, a quitté Vilnius pour Varsovie.",
+  "headlines": [
+    {
+      "title": "La Colombie décrète l'urgence économique après un séisme qui fait 265 morts",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF",
+        "Libération",
+        "RFI"
+      ],
+      "summary": "Le séisme de lundi a fait 265 morts et 496 disparus dans l'ouest du pays. Le président décrète l'urgence économique tandis que les recherches de survivants entrent dans une phase critique.",
+      "link": "https://www.rtbf.be/article/seisme-en-colombie-le-president-colombien-revise-a-la-hausse-le-bilan-qui-passe-a-265-morts-496-personnes-toujours-disparues-11769684",
+      "publishedAt": "2026-08-13T04:23:12.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RTBF",
+          "angle": "Réactualise le bilan à 265 morts et 496 disparus, avec 3 500 blessés",
+          "link": "https://www.rtbf.be/article/seisme-en-colombie-le-president-colombien-revise-a-la-hausse-le-bilan-qui-passe-a-265-morts-496-personnes-toujours-disparues-11769684"
+        },
+        {
+          "source": "Libération",
+          "angle": "Insiste sur les 500 disparus et la phase critique des recherches",
+          "link": "https://www.liberation.fr/international/amerique/seisme-en-colombie-le-bilan-monte-a-265-morts-et-500-disparus-la-recherche-de-survivants-dans-une-phase-decisive-20260813_XMMZMXONV5EPROMX4RYJOMWJD4/"
+        },
+        {
+          "source": "RFI",
+          "angle": "Met en avant le décret d'urgence économique du président",
+          "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260813-colombie-le-pr%C3%A9sident-d%C3%A9cr%C3%A8te-l-urgence-%C3%A9conomique-apr%C3%A8s-le-s%C3%A9isme-qui-a-frapp%C3%A9-le-pays"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "La canicule met 80 départements en vigilance orange et coûterait jusqu'à 15 milliards d'euros",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Figaro"
+      ],
+      "summary": "La canicule se poursuit avec 80 départements en vigilance orange jusqu'à vendredi. Le gouvernement chiffre les dégâts entre 10 et 15 milliards d'euros, notamment pour l'agriculture.",
+      "link": "https://www.france24.com/fr/france/20260813-canicule-france-vigilance-orange-secheresse-meteo-vague-chaleur-extreme",
+      "publishedAt": "2026-08-13T06:53:14.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Concentre sur l'alerte orange canicule pour 80 départements",
+          "link": "https://www.france24.com/fr/france/20260813-canicule-france-vigilance-orange-secheresse-meteo-vague-chaleur-extreme"
+        },
+        {
+          "source": "Le Figaro",
+          "angle": "Chiffre les pertes économiques et agricoles à 10-15 milliards",
+          "link": "https://www.lefigaro.fr/conjoncture/pertes-agricoles-tresorerie-ce-que-la-canicule-et-les-incendies-vont-couter-a-l-economie-francaise-20260812"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'Ukraine restreint la diffusion de données sur les frappes russes face aux missiles balistiques",
+      "source": "France Info",
+      "summary": "L'Ukraine restreint la diffusion de ses données sur les frappes russes face aux missiles balistiques. Elle manque d'intercepteurs Patriot depuis la réduction des approvisionnements américains.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-difficulte-l-ukraine-restreint-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_8145398.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-08-12T22:14:44.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Vladimir Poutine se rend pour la première fois aux îles Kouriles, le Japon proteste",
+      "source": "France 24",
+      "summary": "Vladimir Poutine s'est rendu pour la première fois dans les îles Kouriles, que le Japon revendique. Tokyo a protesté vigoureusement. Cette visite pourrait tendre les relations bilatérales.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260813-premi%C3%A8re-visite-poutine-%C3%AEles-kouriles-japon-proteste",
+      "publishedAt": "2026-08-13T05:54:56.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "La sécheresse en France provoque des coupures d'eau pour 40 000 personnes",
+      "source": "Le Monde",
+      "summary": "La sécheresse affaiblit les réserves d'eau en France, et 40 000 personnes ont déjà subi des coupures. La ministre Monique Barbut demande aux préfets de renforcer les restrictions.",
+      "link": "https://www.lemonde.fr/planete/article/2026/08/13/avec-la-secheresse-des-tensions-de-plus-en-plus-vives-sur-l-approvisionnement-en-eau-potable-nous-sommes-dans-l-inconnu_6745401_3244.html",
+      "publishedAt": "2026-08-13T03:00:07.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'île taïwanaise de Kinmen s'entraîne à repousser une invasion chinoise",
+      "source": "RTBF (Belgian)",
+      "summary": "Sur l'île de Kinmen, proche de la Chine, les militaires taïwanais s'entraînent à repousser une invasion. La Chine revendique l'île. Les exercices ont lieu dans un contexte de tensions croissantes.",
+      "link": "https://www.rtbf.be/article/kinmen-l-ile-taiwanaise-s-entraine-a-une-invasion-chinoise-11768193",
+      "publishedAt": "2026-08-13T07:01:14.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Un rapport propose 4,2 milliards d'économies sur les aides sociales et fiscales aux familles",
+      "source": "Le Monde",
+      "summary": "Un rapport de l'IGF et de l'IGAS propose 4,2 milliards d'euros d'économies sur les aides aux familles. Le gouvernement a commandé ce rapport. Les associations redoutent des coupes sociales.",
+      "link": "https://www.lemonde.fr/politique/article/2026/08/12/aides-sociales-et-avantages-fiscaux-des-familles-un-rapport-propose-4-2-milliards-d-euros-d-economies-sur-ces-dispositifs_6745086_823448.html",
+      "publishedAt": "2026-08-12T16:30:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "En Lituanie, le soutien aux exilés biélorusses s'érode avec la montée de l'extrême droite",
+      "source": "Le Monde",
+      "summary": "Le soutien aux exilés biélorusses en Lituanie s'érode, alors que l'extrême droite progresse. Svetlana Tsikhanovskaïa a quitté Vilnius pour Varsovie. Les exilés s'inquiètent pour leur avenir.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/13/en-lituanie-le-soutien-aux-exiles-bielorusses-s-erode-sur-fond-de-montee-de-l-extreme-droite_6745577_3210.html",
+      "publishedAt": "2026-08-13T06:00:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La Zambie vote pour élire son président, Hakainde Hichilema favori face à treize candidats",
+      "source": "RFI",
+      "summary": "Près de 9 millions d'électeurs votent ce jeudi pour le président et les députés. Hakainde Hichilema part favori face à treize candidats. Le coût de la vie et la mobilisation des jeunes rendent le scrutin incertain.",
+      "link": "https://www.rfi.fr/fr/afrique/20260813-zambie-hakainde-hichilema-favori-mais-sous-pression-%C3%A0-l-heure-du-verdict-des-urnes",
+      "publishedAt": "2026-08-13T04:05:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 208,
+    "articlesAfterDedup": 208,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 15.5,
+    "categoryCounts": {
+      "environment": 3,
+      "conflict": 2,
+      "politics": 3,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 1,
+      "europe": 6,
+      "asia-pacific": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "date": "2026-08-13",
+  "summary": "Rescuers in western Colombia are in the final phase of searching for survivors after a magnitude 7.4 earthquake killed at least 265 people and injured more than 3,500. Hundreds remain missing under collapsed buildings, and tens of thousands have been displaced. Teams are working against a critical 72-hour window, aware that each hour lowers the odds of finding people alive. Officials expect the death toll to rise as rubble is cleared.\n\nThe Ebola outbreak in the Democratic Republic of Congo is on track to become the deadliest on record, the WHO says. More than 2,000 people have died since May, and cases are still climbing; vaccine trials are being accelerated. In Zambia, voters are casting ballots in an election widely expected to give President Hakainde Hichilema a second term, despite frustration over living costs and a divided opposition. The vote is being watched as a test of the region's democratic progress.\n\nThe United States is turning back to economic pressure on Iran after weeks of airstrikes failed to change Tehran's behavior. Sanctions are expanding, and a naval blockade is tightening around Iranian oil exports — a familiar playbook, and one the Pentagon supports as it faces a munitions shortage. Meanwhile, Russia struck the area around Ukraine's largest Danube port, Izmail, overnight, causing damage and a fire. Moscow said it shot down 362 Ukrainian drones. The attacks renew threats to global grain supplies, which have already been squeezed by months of war.\n\nAt least 44 people died when an overcrowded ferry capsized on Lake Kariba in Zimbabwe; the boat was licensed for 90 passengers but held more than 114 adults plus children, and dozens remain missing. The lake is the world's largest man-made lake, a busy route for travelers. In Australia, a court found former Bishop of Broome Christopher Saunders guilty of sexually abusing young men, capping decades of allegations against one of the country's most senior Catholic clerics. And in China, researchers say they have engineered yeast to produce a cancer drug a thousand times faster than extracting it from plants, potentially making it far cheaper and more reliable.",
+  "headlines": [
+    {
+      "title": "Rescue operation enters final phase as Colombia earthquake death toll hits 265",
+      "source": "Deutsche Welle",
+      "summary": "Rescuers in western Colombia are racing against time after a magnitude 7.4 earthquake killed 265 people and injured over 3,500. Operations now shift to the final phase, with hundreds still missing under collapsed buildings.",
+      "link": "https://www.dw.com/en/colombia-earthquake-rescue-operation-enters-final-phase/a-78345817?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-08-13T07:45:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "environment",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "source": "BBC World",
+      "summary": "The Ebola outbreak in Democratic Republic of Congo has killed more than 2,000 people since May. WHO officials say it could become the deadliest ever, while vaccine trials accelerate.",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T01:31:21.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "science",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump turns to economic pressure as US bombings fail to sway Iran",
+      "source": "South China Morning Post",
+      "summary": "The Trump administration is expanding sanctions and a naval blockade after weeks of airstrikes failed to make Tehran capitulate. The economic squeeze targets Iranian oil exports amid a US munitions shortfall.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3363874/trump-turns-economic-pain-us-bombings-fail-sway-iran?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T06:28:04.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Zambians vote with President Hichilema expected to win second term",
+      "source": "France 24",
+      "summary": "Zambians vote Thursday in a general election expected to give President Hakainde Hichilema a second term. Voters are frustrated by living costs, while opposition parties remain divided and weak.",
+      "link": "https://www.france24.com/en/africa/20260813-zambia-heads-to-polls-with-president-hichilema-expected-to-win-second-term",
+      "publishedAt": "2026-08-13T00:33:46.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Russian strike on Ukraine's Izmail port threatens global grain supplies",
+      "source": "France 24",
+      "summary": "Russia struck the area around Ukraine's largest Danube port of Izmail overnight, causing damage and a fire. Moscow said it downed 362 Ukrainian drones, while attacks on ports threaten global grain supplies.",
+      "link": "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
+      "publishedAt": "2026-08-13T06:14:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Overcrowded ferry capsizes on Lake Kariba, killing at least 44",
+      "source": "The Guardian",
+      "summary": "A ferry licensed for 90 passengers was carrying at least 114 when it capsized on Lake Kariba in Zimbabwe, killing 44 people. Rescuers are searching for dozens missing, including an unknown number of children.",
+      "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+      "publishedAt": "2026-08-12T12:21:08.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Court finds former bishop guilty of sexually abusing young men",
+      "source": "ABC Australia",
+      "summary": "Former Bishop of Broome Christopher Saunders was found guilty of sexually abusing young men, a verdict that caps decades of allegations against one of Australia's most senior Catholic clerics.",
+      "link": "https://www.abc.net.au/news/2026-08-13/former-broome-bishop-christopher-saunders-guilty-sex-offences/107029324",
+      "publishedAt": "2026-08-13T07:20:51.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Chinese yeast factory boosts cancer drug production 1,000 times",
+      "source": "South China Morning Post",
+      "summary": "Researchers at Zhejiang University engineered yeast to produce vinblastine, a cancer drug, 1,000 times faster than extracting it from periwinkle plants. The breakthrough could make the drug cheaper and more reliable.",
+      "link": "https://www.scmp.com/news/china/science/article/3363873/chinese-yeast-factory-boosts-cancer-drug-production-speed-1000-times?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T06:10:54.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "science",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Putin visits disputed Kuril islands, prompting protest from Japan",
+      "source": "France 24",
+      "summary": "Russian President Vladimir Putin visited the disputed Kuril islands, which Japan claims and were seized by the Soviet Union in 1945. Tokyo lodged a strong protest over the first visit by a Russian leader.",
+      "link": "https://www.france24.com/en/asia-pacific/20260813-putin-visits-kuril-islands-claimed-by-japan",
+      "publishedAt": "2026-08-13T04:53:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 422,
+    "articlesAfterDedup": 421,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 19.5,
+    "categoryCounts": {
+      "environment": 1,
+      "science": 2,
+      "conflict": 2,
+      "politics": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "americas": 1,
+      "africa": 3,
+      "middle-east": 1,
+      "europe": 1,
+      "global": 1,
+      "asia-pacific": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

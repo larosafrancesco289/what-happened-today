@@ -1,0 +1,235 @@
+{
+  "date": "2026-08-25",
+  "summary": "Aujourd'hui, plusieurs événements marquent l'actualité internationale. Les États-Unis ont retiré la Syrie de leur liste des pays soutenant le terrorisme, une décision annoncée par le secrétaire d'État Marco Rubio. Cette mesure vise à lever les obstacles à l'investissement privé et à favoriser la reprise économique du pays, ainsi que sa réintégration dans l'économie mondiale. La Syrie a salué cette décision, y voyant la fin d'un lourd fardeau.\n\nEn Iran, la pression américaine s'intensifie avec de nouvelles sanctions économiques, provoquant une chute continue du rial et des inquiétudes sur les marchés. Les ménages iraniens absorbent le choc en réduisant leur consommation et leur épargne. Par ailleurs, une vidéo diffusée sur la télévision iranienne menace directement Barron Trump, fils du président américain, avec une prime de 10 millions de dollars pour sa mort. La Chine a réagi en avertissant qu'elle protégerait ses intérêts face aux menaces américaines contre les partenaires de Téhéran.\n\nDans d'autres régions, Haïti subit une attaque meurtrière de gangs à Kenscoff, près de Port-au-Prince, faisant plus de 40 morts. Le gouvernement a annoncé l'envoi de renforts pour rétablir la sécurité. Au Soudan, Washington propose d'étendre l'embargo sur les armes à tout le pays, face au risque de régionalisation du conflit entre l'armée et les Forces de soutien rapide, mais la Russie pourrait s'y opposer. En Cisjordanie occupée, des colons israéliens assiègent trois maisons à Qusra, avec l'armée déployée, empêchant les habitants de sortir, selon un Palestinien américain sur place.\n\nEnfin, un pétrolier a été touché par un projectile inconnu dans le détroit d'Ormuz, selon l'agence maritime britannique UKMTO. En France, une tornade a partiellement détruit le village de Pomas dans l'Aude, faisant 39 blessés et privant 1 600 foyers d'électricité. Côté économique, Volkswagen prévoit la suppression de 100 000 postes, tandis que les syndicats estiment que 140 000 emplois sont menacés, avec des négociations en cours.",
+  "headlines": [
+    {
+      "title": "L'armée israélienne utilise l'incrimination rétrospective et la censure pour contrôler l'information",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Un an après le bombardement de l'hôpital Nasser à Gaza, un militaire israélien décrit comment l'armée cherche à relier les victimes au Hamas. L'enquête du Monde révèle des pratiques de censure et de manipulation des IA.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/25/comment-israel-mene-la-guerre-de-l-information-entre-incrimination-retrospective-censure-et-financement-de-contenus-destines-a-influencer-les-ia_6756298_3210.html",
+      "publishedAt": "2026-08-25T07:00:04.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Les États-Unis retirent la Syrie de leur liste des soutiens au terrorisme",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Monde",
+        "Liberation"
+      ],
+      "summary": "Washington a retiré la Syrie de la liste des pays soutenant le terrorisme, levant les obstacles à l'investissement. Marco Rubio cite des garanties formelles d'Ahmed Al-Charaa. La Syrie salue la fin d'un lourd fardeau.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260825-washington-retire-syrie-liste-pays-accuses-soutenir-terrorisme-hts-al-charaa",
+      "publishedAt": "2026-08-25T01:35:42.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "A ouvert avec la décision de Washington et les implications économiques pour la Syrie.",
+          "link": "https://www.france24.com/fr/moyen-orient/20260825-washington-retire-syrie-liste-pays-accuses-soutenir-terrorisme-hts-al-charaa"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "A souligné les garanties formelles obtenues par Rubio auprès d'Ahmed Al-Charaa.",
+          "link": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme_6755723_3210.html"
+        },
+        {
+          "source": "Liberation",
+          "angle": "A mis en avant la durée de 47 ans sur la liste et les retraits supplémentaires de HTS.",
+          "link": "https://www.liberation.fr/international/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme-20260824_EGSKRGCWEVF4VFC5D5TTHYVHWM/"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Une attaque de gangs en Haïti fait plus de 40 morts à Kenscoff",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Dans la nuit du 23 au 24 août, des gangs ont attaqué Kenscoff, au sud de Port-au-Prince, tuant plus de 40 personnes. Le gouvernement annonce des renforts pour rétablir la sécurité.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260825-ha%C3%AFti-plus-de-40-morts-dans-une-attaque-des-gangs-au-sud-de-port-au-prince",
+      "publishedAt": "2026-08-25T02:50:34.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les États-Unis imposent de nouvelles sanctions contre l'Iran pour asphyxier son économie",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Le secrétaire au Trésor Scott Bessent annonce lundi des sanctions visant l'asphyxie économique de l'Iran, notamment contre le commerce pétrolier. L'Iran prédit une nouvelle défaite américaine.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260825-un-aveu-de-faiblesse-les-%C3%A9tats-unis-annoncent-de-nouvelles-sanctions-contre-l-iran-face-%C3%A0-l-impasse-militaire",
+      "publishedAt": "2026-08-25T09:04:13.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Une tornade dans l'Aude détruit partiellement le village de Pomas, 39 blessés",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Une tornade a frappé Pomas dans l'Aude, détruisant partiellement le village. 39 personnes blessées, 1 600 foyers sans électricité, deux urgences absolues.",
+      "link": "https://www.lemonde.fr/planete/article/2026/08/25/tornade-dans-l-aude-le-village-de-pomas-partiellement-detruit-39-personnes-blessees_6755657_3245.html",
+      "publishedAt": "2026-08-25T05:57:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "environment",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Volkswagen: les syndicats craignent la suppression de 140 000 emplois",
+      "source": "RTBF (Belgian)",
+      "sources": [
+        "RTBF (Belgian)",
+        "RTBF"
+      ],
+      "summary": "La direction de Volkswagen prévoit 100 000 suppressions de postes, mais les syndicats estiment que 140 000 emplois sont menacés. Des négociations sont en cours.",
+      "link": "https://www.rtbf.be/article/automobile-en-allemagne-les-syndicats-de-volkswagen-craignent-la-suppression-de-140-000-emplois-11774941",
+      "publishedAt": "2026-08-25T08:17:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Washington propose d'étendre l'embargo sur les armes à tout le Soudan",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "Lors d'une réunion du Conseil de sécurité de l'ONU, les États-Unis proposent d'étendre l'embargo sur les armes à tout le Soudan, face à la régionalisation du conflit. La Russie pourrait s'y opposer.",
+      "link": "https://www.rfi.fr/fr/afrique/20260825-guerre-au-soudan-les-%C3%A9tats-unis-proposent-d-%C3%A9tendre-l-embargo-sur-les-armes-de-l-onu-%C3%A0-tout-le-pays",
+      "publishedAt": "2026-08-25T02:51:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Un pétrolier touché par un projectile inconnu dans le détroit d'Ormuz",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "L'agence maritime britannique UKMTO signale qu'un pétrolier a été touché par un projectile inconnu dans le détroit d'Ormuz. Les circonstances restent floues.",
+      "link": "https://www.20minutes.fr/monde/4240793-20260825-guerre-moyen-orient-petrolier-touche-projectile-inconnu-detroit-ormuz?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-08-25T07:00:28.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "En Iran, le pouvoir d'achat s'effondre sous la pression économique américaine",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde"
+      ],
+      "summary": "Le rial iranien poursuit sa chute face aux sanctions américaines. Les ménages réduisent consommation et épargne, absorbant le choc économique.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/25/en-iran-le-lent-effondrement-du-pouvoir-d-achat_6756195_3210.html",
+      "publishedAt": "2026-08-25T04:30:07.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "economy",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Des colons israéliens assiègent un village palestinien en Cisjordanie occupée",
+      "source": "RFI",
+      "sources": [
+        "RFI"
+      ],
+      "summary": "À Qusra, trois maisons sont assiégées par des colons, avec l'armée israélienne déployée. Les habitants n'ont pas le droit de sortir, témoigne un Palestinien américain.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260825-ils-nous-emp%C3%AAchent-de-nous-d%C3%A9placer-librement-t%C3%A9moignage-d-un-habitant-assi%C3%A9g%C3%A9-par-des-colons-en-cisjordanie-occup%C3%A9e",
+      "publishedAt": "2026-08-25T07:22:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'Iran offre 10 millions de dollars pour tuer Barron Trump, fils du président",
+      "source": "20 Minutes",
+      "sources": [
+        "20 Minutes"
+      ],
+      "summary": "La télévision iranienne diffuse une vidéo mettant à prix la tête de Barron Trump, fils de Donald Trump, pour 10 millions de dollars. Les menaces de mort sont claires.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4240800-20260825-guerre-moyen-orient-iran-offre-10-millions-dollars-tuer-jeune-fils-donald-trump?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-08-25T09:04:25.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Chine protègera ses intérêts face aux menaces américaines sur l'Iran",
+      "source": "France 24",
+      "sources": [
+        "France 24"
+      ],
+      "summary": "Pékin avertit qu'elle protègera ses intérêts après que Washington a menacé de couper les ressources économiques de l'Iran et ses partenaires.",
+      "link": "https://www.france24.com/fr/moyen-orient/20260825-moyen-orient-en-direct-p%C3%A9trolier-touch%C3%A9-oman-iran-%C3%A9tats-unis-trump-isra%C3%ABl",
+      "publishedAt": "2026-08-25T06:25:22.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 207,
+    "articlesAfterDedup": 205,
+    "articlesAfterDiversity": 46,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 8.6,
+    "categoryCounts": {
+      "conflict": 5,
+      "politics": 4,
+      "environment": 1,
+      "economy": 2
+    },
+    "regionCounts": {
+      "middle-east": 7,
+      "americas": 1,
+      "europe": 2,
+      "africa": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 6,
+      "developing": 2
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

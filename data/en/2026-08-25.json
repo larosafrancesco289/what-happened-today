@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-25",
+  "summary": "The U.S.-Canada trade war escalated today as negotiations collapsed: the Trump administration imposed 50% tariffs on Canadian goods after the U.S. described its offer as the best any country has received, but Canadian officials saw the terms as unthinkable. Prime Minister Mark Carney refused to accept a 'bad deal,' and Canada is set to announce retaliatory tariffs, disrupting cross-border trade and supply chains.\n\nIn Africa, an armed group posted video showing about 600 women, children, and older people taken from a mosque in Dekara village, Niger State, on Friday. Residents identified the captives, who are held in a forested area, with children heard crying in the background; authorities have not confirmed rescue operations. In Guinea's capital Conakry, a landslide at a huge waste dump killed 30 people after heavy rain collapsed the site, engulfing nearby tents and shacks. The government had announced plans to move the dump less than a week earlier, citing the threat of seasonal floods.\n\nThe U.S. removed Syria from its state sponsors of terrorism list, embracing President Ahmed al-Sharaa, a former al-Qaeda-linked militant, a move that could ease sanctions and reshape diplomacy. In Colombia, far-right President Abelardo de la Espriella ordered authorities to detain and deport people who are in the country irregularly or have committed crimes, echoing ally Donald Trump, as the country recovers from a 7.4-magnitude earthquake that killed more than 300. Iran threatened retaliation after Washington announced fresh sanctions, deepening pressure on an economy already suffering high inflation.\n\nIn southern France, a tornado hit the village of Pomas, injuring 41 people and damaging about 300 homes, after the region was placed under thunderstorm alert; scientists say climate change is driving more frequent extreme weather. In eastern Democratic Republic of Congo, officials and M23 rebels agreed on a roadmap to restart peace talks after months of deadlock, though the Rwandan-backed rebels still control large areas. And the U.S. proposed broadening a U.N. arms embargo on Darfur to cover all of Sudan, a move requiring Security Council approval that Russia warned would hurt the Sudanese army.",
+  "headlines": [
+    {
+      "title": "Video shows 600 women and children held captive after Nigeria mosque attack",
+      "source": "The Guardian",
+      "summary": "Armed gunmen posted video showing about 600 women, children and older people abducted from a mosque in Dekara village, Nigeria, on Friday. Residents identified the captives, who are held in a forested area. Authorities have not yet confirmed rescue operations.",
+      "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "publishedAt": "2026-08-24T14:19:14.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Canada and U.S. trade war escalates after tariff talks collapse",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "Deutsche Welle"
+      ],
+      "summary": "The Trump administration imposed 50% tariffs on Canadian goods after negotiations broke down. Canada is set to announce retaliatory tariffs; Prime Minister Mark Carney refused to accept a \"bad deal.\" The dispute disrupts cross-border trade and supply chains.",
+      "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+      "publishedAt": "2026-08-25T09:28:26.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "U.S. removes Syria from state sponsors of terrorism list",
+      "source": "BBC World",
+      "summary": "The Trump administration removed Syria from the U.S. list of state sponsors of terrorism, embracing President Ahmed al-Sharaa, a former al-Qaeda-linked militant. The move could ease sanctions and reshape diplomatic relations.",
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T00:17:25.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Guinea landfill landslide kills 30 in Conakry after heavy rain",
+      "source": "The Guardian",
+      "summary": "A landslide at a large waste dump in Conakry killed 30 people after heavy rains collapsed the site, engulfing nearby tents and shacks. The government had announced plans to relocate the dump, which poses seasonal flood risks.",
+      "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "publishedAt": "2026-08-23T22:16:53.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Tornado tears through southern France village, injuring 41 people",
+      "source": "France 24",
+      "summary": "A tornado hit the village of Pomas in southern France, injuring 41 people and damaging about 300 homes. The region was under thunderstorm alert; scientists link climate change to more frequent extreme weather.",
+      "link": "https://www.france24.com/en/around-40-injured-after-tornado-tears-through-village-in-the-south-of-france",
+      "publishedAt": "2026-08-25T09:42:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Colombia president orders crackdown on undocumented immigrants, detention and deportation",
+      "source": "The Guardian",
+      "summary": "Colombia's new far-right president, Abelardo de la Espriella, ordered detaining and deporting people in the country irregularly or with crimes. The announcement came amid recovery from a 7.4-magnitude earthquake that killed over 300.",
+      "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "publishedAt": "2026-08-25T00:34:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "China's J-16s and Egypt's Rafales hold joint combat drills amid Iran war",
+      "source": "South China Morning Post",
+      "summary": "The second China-Egypt \"Eagles of Civilisation\" air exercise began Saturday, featuring J-16 and Rafale fighters. The drills follow a major Chinese air force deployment to the Middle East during the U.S.-Iran war.",
+      "link": "https://www.scmp.com/news/china/military/article/3365163/chinas-j-16s-face-against-egypts-rafales-combat-drills-iran-war-rumbles?utm_source=rss_feed",
+      "publishedAt": "2026-08-25T10:00:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "DR Congo and M23 rebels agree to roadmap resuming peace talks",
+      "source": "France 24",
+      "summary": "Officials and M23 rebels in eastern Democratic Republic of Congo agreed to a roadmap to restart peace talks after months of deadlock. Rwanda-backed M23 still controls swathes of territory; the next steps include scheduling negotiations.",
+      "link": "https://www.france24.com/en/dr-congo-sees-breakthrough-as-officials-and-rebels-agree-to-peace-talk-roadmap",
+      "publishedAt": "2026-08-25T09:24:14.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "Peace talks between DR Congo and M23 rebels stalled for months.",
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. proposes expanding UN arms embargo from Darfur to all Sudan",
+      "source": "AllAfrica",
+      "sources": [
+        "AllAfrica",
+        "Deutsche Welle"
+      ],
+      "summary": "The U.S. called for a UN arms embargo on Darfur to be broadened to the whole of Sudan. The change needs Security Council approval; Russia warned it would hurt the Sudanese army.",
+      "link": "https://allafrica.com/stories/202608250152.html",
+      "publishedAt": "2026-08-25T06:29:52.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "UN arms embargo currently applies only to Darfur.",
+      "singleSource": false,
+      "category": "politics",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Iran threatens retaliation as U.S. imposes new sanctions on economy",
+      "source": "France 24",
+      "summary": "Iranian officials threatened countermeasures after Washington announced a fresh round of sanctions against Iran, which is already suffering high inflation. The measures deepen economic pressure amid ongoing tensions.",
+      "link": "https://www.france24.com/en/iran-threatens-retaliation-as-new-us-sanctions-hit-already-struggling-economy",
+      "publishedAt": "2026-08-25T09:36:13.000Z",
+      "tier": "developing",
+      "singleSource": true,
+      "dayNumber": 1,
+      "previousContext": "U.S. and Iran have been in conflict for months.",
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 370,
+    "articlesAfterDedup": 368,
+    "articlesAfterDiversity": 60,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 36.3,
+    "categoryCounts": {
+      "conflict": 2,
+      "economy": 1,
+      "politics": 4,
+      "environment": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "africa": 4,
+      "americas": 2,
+      "middle-east": 2,
+      "europe": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 3,
+      "developing": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -10,10 +10,13 @@ import {
 } from '@/lib/prompts';
 
 const DEEPSEEK_V4_FLASH = 'deepseek/deepseek-v4-flash-0731';
+
+// Routing preferences, not a pin: any provider may serve the request.
+// fp4-quantized endpoints returned malformed JSON (2026-08-25), so require
+// higher-precision quants; sort by throughput to stay within step timeouts.
 const OPENROUTER_PROVIDER = {
-  order: ['deepseek'],
-  allow_fallbacks: false,
-  require_parameters: true,
+  sort: 'throughput',
+  quantizations: ['fp8', 'bf16', 'fp16'],
 } as const;
 
 let client: OpenAI | null = null;

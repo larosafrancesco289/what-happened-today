@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-26",
+  "summary": "At least 47 people were killed and more than 50 kidnapped when armed men attacked Kenscoff, a once-peaceful community in the hills above Port-au-Prince, the UN said. The UN described the assault as a massacre. Homes were set alight in the weekend assault, and a gang leader has threatened to kill the hostages if authorities kill any gang members during efforts to secure the area. The attack is the latest escalation in Haiti's gang violence, which has already displaced hundreds of thousands.\n\nThe trade war between the U.S. and Canada escalated sharply. Canada announced dollar-for-dollar tariffs as high as 50% on American steel, furniture, aluminum foil, dishwashers and fish, retaliating for new Trump levies. Canada said the higher levies would help protect workers, producers and manufacturers harmed by the new U.S. tariffs, but they also raise costs on both sides of the border. The measures are likely to raise prices for consumers in both countries. The upshot: two of the world's closest trading partners are now hitting each other with escalating tariffs, and there's no sign of a truce.\n\nIn Nigeria, President Bola Tinubu ordered security forces to launch a coordinated rescue after gunmen attacked a mosque in Dekara, Niger State, and took about 600 women, children and older people. The attack happened Friday during prayers. A video posted on Facebook and WhatsApp shows large groups seated in a forested area, surrounded by armed men, with children crying in the background. Separately, a fire on the third floor of a maternity ward in Islamabad killed 15 newborn infants; Prime Minister Shehbaz Sharif called for an immediate investigation.\n\nA few other developments are worth knowing. Icelanders vote Saturday on whether to reopen EU membership talks — not on joining, just on negotiating terms. The referendum is non-binding, but a 'yes' would let the government open formal negotiations. President Trump sent a classified civilian nuclear cooperation agreement with Saudi Arabia to Congress, still contingent on the kingdom normalizing relations with Israel. Iran warned that the Strait of Hormuz will stay closed unless the U.S. ends the war, even as Washington threatens 'economic asphyxiation' with fresh sanctions. And in the West Bank, video shows Israeli lawmaker Zvi Sukkot smashing a Palestinian monument with a sledgehammer as troops stood by; the military said soldiers stopped the demolition.",
+  "headlines": [
+    {
+      "title": "Canada imposes retaliatory tariffs up to 50% on U.S. goods",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "BBC World"
+      ],
+      "summary": "Canada announced dollar-for-dollar tariffs as high as 50% on U.S. steel, furniture, aluminum foil and other goods, retaliating against new Trump levies. The measures aim to protect Canadian workers and manufacturers from the escalating trade war.",
+      "link": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+      "publishedAt": "2026-08-26T03:02:19.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Haiti gang attack kills 47 people and kidnaps 50 in Kenscoff",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "NPR News"
+      ],
+      "summary": "The UN says at least 47 people were killed and more than 50 kidnapped in a gang attack on Kenscoff, Haiti. A gang leader threatens to kill hostages if authorities kill any gang members.",
+      "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+      "publishedAt": "2026-08-25T17:35:16.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "americas",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nigeria president orders rescue of 600 taken in mosque attack",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "AllAfrica"
+      ],
+      "summary": "A video posted online appears to show about 600 women, children and older people held captive after gunmen attacked a mosque in Dekara, Niger State. President Tinubu ordered security agencies to launch a coordinated rescue operation.",
+      "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "publishedAt": "2026-08-24T14:19:14.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump sends Saudi nuclear cooperation agreement to Congress",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "France 24"
+      ],
+      "summary": "President Trump sent a classified civilian nuclear cooperation agreement with Saudi Arabia to Congress for review. The deal remains contingent on Saudi Arabia normalizing relations with Israel, a condition Trump says still stands.",
+      "link": "https://www.wsj.com/world/middle-east/trump-sends-nuclear-agreement-with-saudi-arabia-to-congress-7f01af2c?mod=rss_worldnews",
+      "publishedAt": "2026-08-25T23:02:00.000Z",
+      "tier": "also",
+      "singleSource": false,
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Icelanders vote Saturday on reopening EU membership negotiations",
+      "source": "France 24",
+      "summary": "Icelanders vote Saturday in a referendum on whether to reopen membership talks with the European Union. The vote does not decide EU entry, only whether the government may negotiate possible terms amid global insecurity.",
+      "link": "https://www.france24.com/en/europe/20260826-iceland-to-vote-on-reopening-eu-membership-talks-in-close-referendum",
+      "publishedAt": "2026-08-26T05:23:14.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Hospital fire in Islamabad kills 15 newborn infants",
+      "source": "Deutsche Welle",
+      "summary": "A fire on the third floor of a maternity ward in Islamabad killed 15 infants. Prime Minister Shehbaz Sharif called for an immediate investigation into the tragedy.",
+      "link": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-15-infants/a-78503056?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-08-26T05:23:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli lawmaker uses sledgehammer to smash West Bank monument",
+      "source": "New York Times World",
+      "summary": "Video shows Israeli lawmaker Zvi Sukkot smashing a Palestinian monument with a sledgehammer in the West Bank as troops stood by. The military said soldiers stopped the demolition.",
+      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
+      "publishedAt": "2026-08-25T18:52:03.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Iran warns Hormuz strait stays closed unless U.S. ends war",
+      "source": "France 24",
+      "summary": "Iran said the Strait of Hormuz will remain closed despite talks with Oman on a temporary transit corridor. Tehran demands the U.S. end the war, while Washington threatens 'economic asphyxiation' with fresh sanctions.",
+      "link": "https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman",
+      "publishedAt": "2026-08-26T06:04:05.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "The U.S. imposed new sanctions on Iran and threatened economic asphyxiation as the war continues.",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 8,
+    "articlesProcessed": 405,
+    "articlesAfterDedup": 404,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 40.8,
+    "categoryCounts": {
+      "economy": 1,
+      "conflict": 3,
+      "politics": 3,
+      "society": 1
+    },
+    "regionCounts": {
+      "americas": 3,
+      "africa": 1,
+      "europe": 1,
+      "asia-pacific": 1,
+      "middle-east": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

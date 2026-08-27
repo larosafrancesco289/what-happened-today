@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-27",
+  "summary": "A glacier break in the Himalayas has triggered severe flooding in Nepal and Tibet, killing at least 392 people and leaving more than 1,400 missing — including 35 Australians. Rescue teams are searching remote valleys that are difficult to reach, and the size of the missing list suggests the death toll may keep climbing. Scientists are linking the disaster to melting Himalayan ice, a stark sign of how warming glaciers can turn suddenly deadly.\n\nTaiwan’s parliament has approved a $7.6 billion drone spending plan backed by the opposition Kuomintang and Taiwan People’s Party, after a proposal from President Lai Ching-te’s government was rejected. The funding is meant to strengthen the island’s defences against a potential Chinese invasion. On the other side of the world, a U.S. defence official in Europe and a NATO official say the American military’s stockpile of Patriot missile interceptors in Europe is “beyond critical” because of ongoing U.S. operations against Iran. The most concerning shortfall is in Patriot interceptors, which are the main weapon able to shoot down Russia’s high-speed ballistic missiles, and that leaves NATO countries more exposed to a potential Russian attack.\n\nTwo European stories are worth noting. Ratko Mladic, the Bosnian Serb commander jailed for life in 2017 for genocide, war crimes and crimes against humanity, has died at 84. His forces killed more than 100,000 people during the wars in the former Yugoslavia between 1992 and 1995. And Denmark’s government has passed a compensation bill for Greenlandic women who were fitted with intrauterine devices for decades without their consent, under a policy intended to keep down Greenland’s population. The measure offers financial redress and a formal apology.\n\nFinally, an Australian story with national reach: voluntary assisted dying is now legal in every Australian jurisdiction. The Northern Territory parliament passed its own law on Thursday, completing a long campaign for national uniformity. The Northern Territory had been the last jurisdiction without it, and the vote follows years of advocacy for exactly that outcome.",
+  "headlines": [
+    {
+      "title": "Glacier flood in Nepal and Tibet kills 392, leaves 1,450 missing",
+      "source": "ABC Australia",
+      "sources": [
+        "ABC Australia",
+        "Wall Street Journal World",
+        "New York Times World",
+        "BBC World"
+      ],
+      "summary": "A glacier break caused severe flooding in Nepal and Tibet, killing at least 392 people and leaving more than 1,400 missing, including 35 Australians. Rescuers are searching remote valleys as scientists link the disaster to melting Himalayan ice.",
+      "link": "https://www.abc.net.au/news/2026-08-28/nepal-tibet-floods-live-updates/107086974",
+      "publishedAt": "2026-08-27T17:04:37.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Taiwan lawmakers approve $7.6 billion drone budget to counter China",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "Wall Street Journal World"
+      ],
+      "summary": "Taiwan's parliament approved a $7.6 billion drone spending plan backed by opposition parties, after President Lai Ching-te's government proposal was rejected. The funding aims to strengthen defenses against a potential Chinese invasion.",
+      "link": "https://www.thehindu.com/news/international/taiwan-lawmakers-approve-76-billion-drone-budget-as-china-threat-grows/article71397756.ece",
+      "publishedAt": "2026-08-27T17:23:34.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Convicted Bosnian Serb war criminal Ratko Mladic dies aged 84",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "NPR News"
+      ],
+      "summary": "Ratko Mladic, the Bosnian Serb commander jailed for life in 2017 for genocide and crimes against humanity, died at 84. His forces killed more than 100,000 people during the 1992-95 Yugoslav wars.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T17:05:22.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Voluntary assisted dying becomes legal nationwide after NT parliament passes law",
+      "source": "ABC Australia",
+      "summary": "The Northern Territory Parliament passed voluntary assisted dying legislation on Thursday, making the practice legal across all Australian jurisdictions. The measure follows years of advocacy for national uniformity.",
+      "link": "https://www.abc.net.au/news/2026-08-27/nt-to-pass-voluntary-assisted-dying-bill-in-parliament/107087354",
+      "publishedAt": "2026-08-27T12:41:11.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "US officials call Patriot missile shortage in Europe 'beyond critical'",
+      "source": "South China Morning Post",
+      "summary": "American and NATO officials said the U.S. military's Patriot interceptor stockpile in Europe is dangerously low due to President Donald Trump's war with Iran. The shortfall raises concerns about NATO's ability to defend against Russian ballistic missiles.",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3365503/us-patriot-missile-shortage-europe-beyond-critical-due-iran-war-officials-say?utm_source=rss_feed",
+      "publishedAt": "2026-08-27T16:52:49.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Denmark passes compensation law for Greenland women forced to use IUDs",
+      "source": "New York Times World",
+      "summary": "Denmark's government passed a compensation bill for Greenlandic women who were fitted with intrauterine devices for decades without consent, part of a population-control policy. The measure provides financial redress and an apology.",
+      "link": "https://www.nytimes.com/2026/08/27/world/europe/denmark-greenland-forced-contraception-compensation.html",
+      "publishedAt": "2026-08-27T16:39:47.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 391,
+    "articlesAfterDedup": 391,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 5,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 2,
+      "conflict": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 3,
+      "europe": 3
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

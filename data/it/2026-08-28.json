@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-28",
+  "summary": "L'alluvione in Nepal resta la notizia più grave. La polizia ha aggiornato il bilancio a 538 morti e 1.924 dispersi, tra cui 517 stranieri e tre italiani. Una squadra della Farnesina è arrivata a Kathmandu; il ministro Antonio Tajani parla di situazione drammatica e di rischio di un'altra alluvione. Due italiani, Valentina Piccinini e Stefano Lotumolo, sono sopravvissuti per poco: bastavano dieci metri in più o un minuto di ritardo, hanno raccontato, e sarebbero stati travolti. Intanto le frane hanno devastato Gyirong, il principale valico commerciale tra Cina e Nepal sull'Himalaya, mentre uno studio su Nature avverte che frane e alluvioni come questa saranno sempre più frequenti per il riscaldamento globale.\n\nNel Regno Unito, un gruppo di hacker ha colpito tre aeroporti e chiede un riscatto dopo aver trafugato i dati di oltre otto milioni di passeggeri. L'attacco è avvenuto lo scorso fine settimana ed è l'ultimo di una serie di intrusioni analoghe contro aziende britanniche. Le autorità indagano e non escludono un legame con la guerra ibrida russa contro Londra. La vicenda conta perché riguarda dati personali di milioni di viaggiatori e infrastrutture sensibili.\n\nL'Algeria ha proclamato il lutto nazionale dopo gli incendi nella provincia di Jijel, a circa 350 chilometri da Algeri, che hanno distrutto villaggi. Le squadre stanno ripristinando la corrente e sgomberando le zone colpite. In Groenlandia, una commissione esaminerà la contraccezione forzata subita da oltre quattromila donne tra gli anni Sessanta e il 1990: in molti casi la spirale fu applicata senza consenso. In Italia, una tromba d'aria ha colpito Cremona, facendo crollare una guglia del Duomo e il tetto della torre civica del municipio. I vigili del fuoco sono al lavoro per mettere in sicurezza le aree.\n\nChiudono due sviluppi. Mykhailo Fedorov, ex ministro ucraino, diventerà consulente del ministro della Difesa Guido Crosetto per l'innovazione: al centro ci sono droni, sistemi autonomi, difesa aerea e tecnologie militari. E a Roma i due presunti autori dell'attentato contro il giornalista Sigfrido Ranucci hanno fatto le prime ammissioni davanti agli inquirenti: emergono nuovi retroscena su pagamenti e possibili mandanti.",
+  "headlines": [
+    {
+      "title": "Alluvione in Nepal: la polizia aggiorna a 538 i morti e 1.924 i dispersi",
+      "source": "AGI",
+      "summary": "La polizia del Nepal aggiorna il bilancio dell'alluvione al confine con il Tibet: 538 morti e 1.924 dispersi, tra cui 517 stranieri e tre italiani. Proseguono le ricerche mentre la Farnesina ha inviato un'équipe a Kathmandu.",
+      "link": "https://www.agi.it/estero/news/2026-08-28/nepal-morti-dispersi-38743987/",
+      "publishedAt": "2026-08-28T18:31:14.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "AGI"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Hacker chiedono riscatto a tre aeroporti britannici: trafugati dati di 8 milioni di passeggeri",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "TGCOM24"
+      ],
+      "summary": "Un gruppo hacker ha colpito tre aeroporti del Regno Unito e chiede un riscatto per i dati rubati di oltre 8 milioni di passeggeri. Le autorità indagano, anche sul possibile collegamento con la guerra ibrida russa.",
+      "link": "https://www.repubblica.it/esteri/2026/08/28/news/regno_unito_attacco_hacker_aeroporti_dati_passeggeri_russia-425552332/?rss",
+      "publishedAt": "2026-08-28T18:02:11.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Ha evidenziato il possibile legame con la guerra ibrida russa contro Londra",
+          "link": "https://www.repubblica.it/esteri/2026/08/28/news/regno_unito_attacco_hacker_aeroporti_dati_passeggeri_russia-425552332/?rss"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha citato il Manchester Evening News e la conoscenza del gruppo da parte delle autorità",
+          "link": "https://www.tgcom24.mediaset.it/mondo/gb-hacker-aeroporti_115943599-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'ex ministro ucraino Mykhailo Fedorov diventa consulente della Difesa italiana",
+      "source": "Euronews Italiano",
+      "sources": [
+        "Euronews Italiano",
+        "TGCOM24"
+      ],
+      "summary": "Mykhailo Fedorov, ex ministro ucraino, sarà consulente del ministro Guido Crosetto per l'innovazione della Difesa. La collaborazione riguarda droni, sistemi autonomi, difesa aerea e tecnologie militari.",
+      "link": "http://it.euronews.com/my-europe/2026/08/28/dalla-guerra-in-ucraina-alla-difesa-italiana-crosetto-ingaggia-fedorov",
+      "publishedAt": "2026-08-28T17:38:01.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha presentato la collaborazione su droni, sistemi autonomi e difesa aerea",
+          "link": "http://it.euronews.com/my-europe/2026/08/28/dalla-guerra-in-ucraina-alla-difesa-italiana-crosetto-ingaggia-fedorov"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha riportato le dichiarazioni di Crosetto e le richieste ricevute da altri Paesi",
+          "link": "https://www.tgcom24.mediaset.it/mondo/ucraina-federov-difesa_115944495-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Algeria proclama il lutto nazionale dopo gli incendi mortali nella provincia di Jijel",
+      "source": "Euronews Italiano",
+      "summary": "Incendi devastanti hanno distrutto villaggi nella provincia di Jijel, a 350 km da Algeri. Il governo ha proclamato il lutto nazionale mentre squadre ripristinano elettricità e sgomberano le zone colpite.",
+      "link": "http://it.euronews.com/video/2026/08/28/incendi-mortali-nel-nord-est-dellalgeria-proclamato-lutto-nazionale",
+      "publishedAt": "2026-08-28T17:36:05.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "La Groenlandia istituisce una commissione sulla contraccezione forzata delle donne inuit",
+      "source": "Euronews Italiano",
+      "summary": "Una commissione esaminerà la contraccezione forzata subita da oltre 4.000 donne groenlandesi tra gli anni Sessanta e il 1990, quando venne loro applicata una spirale nella maggior parte dei casi senza consenso.",
+      "link": "http://it.euronews.com/my-europe/2026/08/28/groenlandia-istituisce-commissione-sulla-contraccezione-forzata-delle-donne-inuit",
+      "publishedAt": "2026-08-28T17:53:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'alluvione in Nepal travolge il valico cinese della Via della Seta sull'Himalaya",
+      "source": "la Repubblica",
+      "summary": "Le frane hanno devastato Gyirong, principale valico commerciale tra Cina e Nepal sull'Himalaya. Il disastro costringe Pechino a rivedere i piani infrastrutturali dopo il terremoto del 2015.",
+      "link": "https://www.repubblica.it/esteri/2026/08/28/news/nepal_disastro_valico_travolge_via_seta_cinese_su_himalaya-425551986/?rss",
+      "publishedAt": "2026-08-28T10:51:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Uno studio su Nature definisce l'alluvione in Nepal un campanello d'allarme del riscaldamento globale",
+      "source": "ANSA",
+      "summary": "Secondo l'analisi pubblicata su Nature, frane e alluvioni come quelle in Nepal diventeranno sempre più frequenti a causa del riscaldamento globale. Gli autori chiedono strategie di prevenzione per le aree montane.",
+      "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/08/28/il-disastro-in-nepal-un-campanello-dallarme-del-riscaldamento-globale_422a2e3c-5254-47af-a767-979d3633cbd5.html",
+      "publishedAt": "2026-08-28T11:30:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Due italiani raccontano la salvezza per miracolo nell'alluvione in Nepal",
+      "source": "Rai News",
+      "summary": "Valentina Piccinini e Stefano Lotumolo, scampati all'alluvione nepalese, raccontano di essere sopravvissuti per poco: bastavano dieci metri più avanti o un minuto di ritardo per essere travolti. Le ricerche dei dispersi proseguono.",
+      "link": "https://www.rainews.it/video/2026/08/esteri-asia-nepal-alluvione-italiani-sopravvissuti-valentina-piccinini-stefano-lotumolo-intervista-video-4881932b-053a-4081-adef-ea70e5b991b7.html",
+      "publishedAt": "2026-08-28T18:19:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Una tromba d'aria a Cremona danneggia il Duomo e il tetto del palazzo comunale",
+      "source": "TGCOM24",
+      "summary": "Una violenta tromba d'aria ha colpito Cremona provocando il crollo di una guglia del Duomo e del tetto della torre civica. I vigili del fuoco sono al lavoro per mettere in sicurezza le aree.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/lombardia/cremona-tromba-d-aria_115942531-202602k.shtml",
+      "publishedAt": "2026-08-28T18:09:56.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Gli esecutori materiali dell'attentato a Ranucci ammettono le prime responsabilità",
+      "source": "Rai News",
+      "summary": "Interrogati a Rebibbia, i due presunti autori della bomba contro il giornalista Sigfrido Ranucci hanno fatto le prime ammissioni. Emergono nuovi retroscena su pagamenti e possibili mandanti.",
+      "link": "https://www.rainews.it/video/2026/08/attentato-ranucci-la-svolta-con-le-prime-ammissioni-degli-esecutori-materiali-96557948-89de-483d-84e3-a89ed47c4830.html",
+      "publishedAt": "2026-08-28T17:54:00.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Ieri il pubblico ministero aveva interrogato a Rebibbia due presunti esecutori dell'attentato a Sigfrido Ranucci.",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 192,
+    "articlesAfterDedup": 192,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 7.9,
+    "categoryCounts": {
+      "environment": 5,
+      "economy": 1,
+      "politics": 1,
+      "society": 2,
+      "conflict": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "europe": 6,
+      "africa": 1,
+      "global": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

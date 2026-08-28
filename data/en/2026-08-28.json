@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-28",
+  "summary": "The death toll from flash floods in Nepal and Tibet has risen to 579, with nearly 2,000 people still missing. That is up sharply from 392 a day earlier. India says at least 320 of its citizens are unaccounted for and around 400 are stranded on the Chinese side. The floods swept through mountain valleys, destroying roads and cutting off whole communities. Rescuers are battling the wreckage and the threat of more rain, and officials say the numbers are likely to keep climbing. New flood threats are expected.\n\nThe US-Israel war against Iran reached its six-month mark on Friday, a milestone President Donald Trump once promised would be a 'little excursion' lasting weeks. Trump said he is 'not in a hurry.' His administration says bombs and a naval blockade have already devastated Iran's leadership, military and economy, but the fighting continues. Trump gave no indication of when it might end, and he did not say what would change his approach.\n\nFederal Reserve Chair Kevin Warsh gave his clearest signal yet that interest rates may rise. He said the central bank will 'have work to do' if it is not confident underlying inflation is moving toward its 2 per cent target, and acknowledged that financial conditions do not appear restrictive. Markets now expect further increases — which would make borrowing costlier for households and businesses. In Japan, the defense ministry signed a deal to acquire the former Nippon Steel site, which Defense Minister Shinjiro Koizumi called of 'critical importance to Japan's national security.' The site will become an integrated defense hub, part of a steady military buildup in a country that has kept its armed forces small since World War II. The move follows a series of expansions to Japan's defense budget in recent years.\n\nAn Israeli strike killed three Palestinians in Jenin in the occupied West Bank. Israeli leaders praised the attack; Hamas called for an end to what it said were Israeli 'crimes.' Separately, a US judge rejected a request to block President Trump's new birthright citizenship order, which challenges the long-standing rule that anyone born on American soil is a citizen. The judge did not rule on the merits and told immigrant rights advocates to revise their petition and seek relief again, a temporary setback for their challenge. The ruling is one step in a longer legal battle.",
+  "headlines": [
+    {
+      "title": "Nepal-Tibet flood death toll reaches 579 as nearly 2,000 are missing",
+      "source": "The Hindu",
+      "summary": "At least 579 died after flash floods struck Nepal and Tibet, with nearly 2,000 missing. India says 320 citizens are unaccounted for and about 400 are stranded on the Chinese side. Rescuers face destroyed roads and new flood threats.",
+      "link": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-surges-nearly-1500-missing-fresh-flood-threat-glacier-collapse-live-updates-august-28-2026/article71398953.ece",
+      "publishedAt": "2026-08-28T18:12:19.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Hindu"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump says 'not in a hurry' as US-Israel war against Iran hits six months",
+      "source": "South China Morning Post",
+      "summary": "President Trump said he is not in a hurry as the US-Israel war against Iran passes its six-month mark, defying his promise of a 'little excursion.' His administration says Iran's leadership, military and economy are devastated, but the conflict continues.",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3365663/iran-war-hits-six-month-mark-trump-says-hes-not-hurry?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T17:26:37.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Fed Chair Warsh signals possible rate hikes if inflation stays above 2% target",
+      "source": "South China Morning Post",
+      "summary": "Federal Reserve Chair Kevin Warsh said the central bank will 'have work to do' if underlying inflation is not clearly returning to its 2% target, his clearest signal yet that rate hikes may be needed. Markets now expect further increases.",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3365658/warsh-says-us-fed-has-work-do-if-above-target-inflation-lingers?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T15:13:26.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Japan acquires former Nippon Steel site for 'integrated defense hub'",
+      "source": "Japan Times",
+      "summary": "Japan's defense ministry signed a deal to acquire the former Nippon Steel site, which Defense Minister Shinjiro Koizumi called 'critical importance to Japan's national security.' The site will be developed as an integrated defense hub.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/28/japan/japan-defense-hub-nippon-steel/",
+      "publishedAt": "2026-08-28T10:24:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Israeli strike kills three Palestinians in Jenin, West Bank",
+      "source": "Al Jazeera English",
+      "summary": "An Israeli strike killed three Palestinians in Jenin in the occupied West Bank. Israeli leaders praised the attack, while Hamas called for an end to what it said were Israeli 'crimes.'",
+      "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
+      "publishedAt": "2026-08-28T17:47:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "US judge denies injunction against Trump's new birthright citizenship order",
+      "source": "Al Jazeera English",
+      "summary": "A US judge rejected a request to block President Trump's new birthright citizenship order, a temporary setback for immigrant rights advocates. The court instructed them to revise their petition and seek relief again.",
+      "link": "https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss",
+      "publishedAt": "2026-08-28T17:32:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 4,
+    "articlesProcessed": 418,
+    "articlesAfterDedup": 417,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 8.3,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 2,
+      "economy": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "middle-east": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

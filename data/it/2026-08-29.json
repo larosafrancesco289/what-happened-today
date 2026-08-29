@@ -1,0 +1,189 @@
+{
+  "date": "2026-08-29",
+  "summary": "Il giorno inizia con l'allarme sulla guerra in Ucraina. Un raid russo su un deposito di munizioni nei pressi di Kiev ha ucciso 37 persone, e il presidente ucraino Volodymyr Zelensky ha detto che le munizioni non dovevano trovarsi in quel luogo. Intanto Mosca, secondo il vice capo dell'ufficio presidenziale Pavlo Palisa, avrebbe ordinato all'esercito di preparare un'offensiva nell'Ucraina settentrionale, con Kiev e Chernihiv come obiettivi principali. Il premier polacco Donald Tusk ha lanciato un appello: i prossimi sette-otto mesi potrebbero essere decisivi per la sicurezza di Polonia e dell'intera regione.\n\nContinua intanto l'emergenza alluvione tra Nepal e Tibet. Il bilancio supera i 600 morti e i dispersi sono quasi 3.000. Le squadre di soccorso lavorano lungo circa 80 chilometri di vallate devastate, e non ci sono ancora notizie dei tre italiani dispersi. A dare un volto alla tragedia è Gunakeshari Bohara, un'ultranovantenne, unica sopravvissuta di una casa di cura travolta dal fango. La sua foto, estratta viva, è diventata il simbolo di questa catastrofe.\n\nIn Niger, spari all'aeroporto di Niamey. Il ministero della Difesa parla di un tentato ammutinamento in una base vicino allo scalo: l'area ospita i partner russi dell'Africa Corps e la missione italiana di supporto. Euronews riferisce di scontri anche al palazzo presidenziale. Sempre dalla scena internazionale, Donald Trump ha annunciato un accordo petrolifero con il Venezuela per 65 miliardi di barili, definito il più grande mai concluso. La presidente ad interim Delcy Rodríguez ha confermato l'intesa. È un'intesa che conta perché combina diplomazia e mercato energetico in un momento in cui molti Paesi cercano alternative.\n\nSul fronte cyber, l'intelligence occidentale avrebbe individuato la Corea del Nord come mandante dei falsi colloqui di lavoro su LinkedIn. Il Dipartimento di Stato Usa dice che programmatori nordcoreani si spacciano per cittadini di altri paesi per ottenere reddito attraverso piattaforme private. In Italia, l'ex ministro ucraino Mykhailo Fedorov diventa consulente del ministro della Difesa Guido Crosetto per droni e difesa aerea. Chiude una nota di cronaca: la violenta grandinata su Cremona ha ferito 43 persone e danneggiato Duomo e palazzo comunale. Il maltempo ha colpito buona parte della Lombardia.",
+  "headlines": [
+    {
+      "title": "La Russia colpisce un deposito vicino a Kiev: 37 morti e prepara un'offensiva",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News",
+        "TGCOM24"
+      ],
+      "summary": "Un raid russo su un deposito di munizioni vicino a Kiev ha ucciso 37 persone. Zelensky dice che le munizioni non dovevano trovarsi lì. Mosca prepara un'offensiva sulla capitale, avverte il premier polacco Tusk.",
+      "link": "https://www.agi.it/estero/news/2026-08-29/ucraina-russia-guerra-escalation-38762332/",
+      "publishedAt": "2026-08-29T11:40:49.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha aperto con l'allarme di Tusk su un'escalation russa in Ucraina e Polonia",
+          "link": "https://www.agi.it/estero/news/2026-08-29/ucraina-russia-guerra-escalation-38762332/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Ha focalizzato l'esplosione nel distretto di Bucha e la dichiarazione di Zelensky sulle munizioni",
+          "link": "https://www.rainews.it/video/2026/08/kiev-forte-esplosione-nella-notte-vicino-a-bucha-37-morti-419d38f8-c5cc-439a-aca2-cf286dcfe4ed.html"
+        },
+        {
+          "source": "TGCOM24",
+          "angle": "Ha riportato il raid su un magazzino e i droni ucraini che colpiscono Rostov",
+          "link": "https://www.tgcom24.mediaset.it/mondo/russia-ucraina-droni-kiev-rostov_115956982-202602k.shtml"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Alluvione tra Nepal e Tibet: superano i 600 i morti, quasi 3.000 i dispersi",
+      "source": "TGCOM24",
+      "summary": "Le squadre di soccorso cercano sopravvissuti lungo 80 chilometri di vallate devastate. Il bilancio sale a oltre 600 vittime e quasi 3.000 dispersi. Ancora nessuna notizia dei tre italiani.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/alluvione-nepal-tibet-ultime-news-29-agosto-diretta_115954645-202602k.shtml",
+      "publishedAt": "2026-08-29T11:13:17.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Niger, spari all'aeroporto di Niamey: la Difesa riferisce di un tentato ammutinamento di militari",
+      "source": "la Repubblica",
+      "sources": [
+        "la Repubblica",
+        "Euronews Italiano"
+      ],
+      "summary": "L'area dell'aeroporto di Niamey è stata teatro di spari; il ministero della Difesa parla di tentato ammutinamento in una base con partner russi e italiani. Euronews riferisce di scontri anche al palazzo presidenziale.",
+      "link": "https://www.repubblica.it/esteri/2026/08/29/news/niger_spari_aeroporto_niamey_base_101_jnim-425553503/?rss",
+      "publishedAt": "2026-08-29T12:13:22.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "la Repubblica",
+          "angle": "Ha riferito di un tentato ammutinamento di militari in una base vicino all'aeroporto",
+          "link": "https://www.repubblica.it/esteri/2026/08/29/news/niger_spari_aeroporto_niamey_base_101_jnim-425553503/?rss"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha parlato di scontri al palazzo presidenziale e della difficile situazione sotto la giunta",
+          "link": "http://it.euronews.com/2026/08/29/niger-pesante-sparatoria-a-niamey-scontri-al-palazzo-presidenziale"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump annuncia accordo petrolifero con il Venezuela per 65 miliardi di barili",
+      "source": "Rai News",
+      "summary": "Il presidente degli Stati Uniti Donald Trump ha annunciato un accordo con il Venezuela per 65 miliardi di barili, definito il più grande mai concluso. La presidente ad interim Delcy Rodríguez ha confermato l'intesa.",
+      "link": "https://www.rainews.it/video/2026/08/a-washington-65-miliardi-di-barili-trump-col-venezuela-il-piu-grande-accordo-sul-petrolio-1754071c-3763-4fc4-9ece-72563dce96c1.html",
+      "publishedAt": "2026-08-29T11:54:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Falsi colloqui su LinkedIn: l'intelligence occidentale indica la Corea del Nord come mandante",
+      "source": "Il Sole 24 Ore",
+      "summary": "L'Agenzia per la cybersicurezza nazionale aveva lanciato l'allarme a metà agosto. Ora le informative di intelligence puntano a Pyongyang. Il Dipartimento di Stato Usa spiega che lavoratori informatici nordcoreani si spacciano per cittadini di altri paesi.",
+      "link": "https://www.ilsole24ore.com/art/falsi-colloqui-linkedin-l-intelligence-occidentale-dietro-c-e-corea-nord-AJp4Q6x",
+      "publishedAt": "2026-08-29T09:55:05.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "conflict",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Fedorov, ex ministro ucraino, sarà consulente di Crosetto per i droni e la difesa aerea",
+      "source": "Il Sole 24 Ore",
+      "summary": "L'ex ministro ucraino per la digitalizzazione Mikhailo Fedorov sarà advisor del ministro della Difesa italiano Guido Crosetto per innovazione militare, sistemi senza pilota e difesa aerea. Il Sole 24 Ore ricostruisce la sua vicenda e le tensioni con Zelensky.",
+      "link": "https://www.ilsole24ore.com/art/mikhailo-fedorov-chi-e-l-ex-ministro-ucraino-scelto-crosetto-la-difesa-italiana-tensione-zelensky-AJ1vt3x",
+      "publishedAt": "2026-08-29T07:55:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Gunakeshari Bohara, ultranovantenne estratta dal fango, diventa simbolo dell'alluvione in Nepal",
+      "source": "ANSA",
+      "summary": "Gunakeshari Bohara, unica sopravvissuta di una casa di cura travolta dall'alluvione, è stata estratta dal fango. La sua immagine è diventata la foto simbolo della tragedia che ha colpito Nepal e Tibet.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/28/la-storia-lultranovantenne-estratta-dal-fango-la-foto-simbolo-della-tragedia_18863787-00bf-40e0-829d-a3a5d4cba3c6.html",
+      "publishedAt": "2026-08-29T05:19:31.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ANSA"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Grandinata a Cremona: 43 feriti e danni al Duomo e al palazzo comunale",
+      "source": "Euronews Italiano",
+      "summary": "La violenta grandinata abbattutasi venerdì su Cremona ha causato almeno 43 feriti e ingenti danni agli edifici storici, tra cui il Duomo e il palazzo comunale. L'ondata di maltempo ha colpito la Lombardia.",
+      "link": "http://it.euronews.com/my-europe/2026/08/29/grave-grandinata-a-cremona-almeno-43-feriti-e-danni-agli-edifici-storici",
+      "publishedAt": "2026-08-29T10:10:07.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Una tromba d'aria aveva danneggiato il Duomo e il tetto del palazzo comunale.",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "environment",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 193,
+    "articlesAfterDedup": 190,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 11,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 7.4,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 2,
+      "economy": 1,
+      "politics": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 3,
+      "asia-pacific": 3,
+      "africa": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

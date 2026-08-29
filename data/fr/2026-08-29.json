@@ -1,0 +1,191 @@
+{
+  "date": "2026-08-29",
+  "summary": "Une frappe de drone russe a tué au moins 37 personnes dans la nuit à Boutcha, près de Kiev. Selon le service ukrainien des situations d'urgence, un entrepôt de munitions a été touché, provoquant une détonation puis un incendie. De nombreuses habitations alentour ont subi d'importants dégâts. Le président ukrainien a annoncé l'ouverture d'une enquête pour négligence professionnelle. Boutcha, ville de la banlieue de Kiev devenue symbole des crimes de guerre en 2022, se retrouve une nouvelle fois touchée par le conflit. Les secouristes poursuivent leurs recherches dans les décombres. Le bilan est provisoire et pourrait s'aggraver.\n\nLe bilan des coulées de boue himalayennes continue, lui, de s'alourdir. Mercredi, des glissements de terrain ont tout emporté sur leur passage dans des vallées du Népal et du Tibet. Les autorités népalaises et chinoises comptent désormais 633 morts et près de 3 000 disparus. Les zones touchées sont difficiles d'accès. Des villages entiers restent coupés du monde et les secours s'organisent lentement dans un relief très difficile.\n\nAux États-Unis, Donald Trump a annoncé vendredi un accord pétrolier avec le Venezuela. Washington prend le contrôle d'un cinquième des réserves vénézuéliennes, soit plus de 65 milliards de barils. L'objectif affiché est de renforcer les réserves stratégiques américaines et de faire baisser le prix de l'essence. C'est un nouveau rapprochement entre Washington et Caracas, deux capitales longtemps ennemies. Les détails de l'accord n'ont pas encore été dévoilés.\n\nEnfin, deux sujets politiques retiennent l'attention. En Islande, les électeurs votent ce samedi pour décider si le pays doit reprendre les négociations d'adhésion à l'Union européenne. L'opinion est fortement partagée. Le pays avait mis en suspens sa précédente candidature en 2015. Au Niger, des tirs et des détonations ont été signalés à Niamey, notamment près du palais présidentiel et de l'aéroport. Le régime militaire, issu du coup d'État de 2023, affirme reprendre progressivement le contrôle après que des mutins ont séquestré des soldats dans la base militaire attenante à l'aéroport. La situation reste confuse.",
+  "headlines": [
+    {
+      "title": "Une frappe russe sur un entrepôt à Boutcha, près de Kiev, tue 37 personnes",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "Libération",
+        "RFI",
+        "20 Minutes"
+      ],
+      "summary": "Un drone russe a frappé dans la nuit un entrepôt de munitions à Boutcha, provoquant une détonation et un incendie qui ont tué au moins 37 personnes. Le président ukrainien a ouvert une enquête pour négligence professionnelle.",
+      "link": "https://www.lemonde.fr/international/live/2026/08/29/en-direct-guerre-en-ukraine-une-attaque-russe-sur-un-entrepot-a-boutcha-pres-de-kiev-a-tue-au-moins-27-personnes-selon-le-gouvernement-ukrainien_6753793_3210.html",
+      "publishedAt": "2026-08-29T09:01:58.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "Ouvre avec le bilan de 37 morts et la déclaration du service d'urgence ukrainien",
+          "link": "https://www.lemonde.fr/international/live/2026/08/29/en-direct-guerre-en-ukraine-une-attaque-russe-sur-un-entrepot-a-boutcha-pres-de-kiev-a-tue-au-moins-27-personnes-selon-le-gouvernement-ukrainien_6753793_3210.html"
+        },
+        {
+          "source": "Libération",
+          "angle": "Souligne la frappe de drone, l'incendie et la négligence cimielle, rappelant le précédent de juillet",
+          "link": "https://www.liberation.fr/international/europe/guerre-en-ukraine-au-moins-27-morts-apres-une-frappe-russe-sur-un-entrepot-pres-de-kyiv-les-autorites-denoncent-une-negligence-criminelle-20260829_DOO3VBXCVNCUHGJXRW6M5SASU/"
+        },
+        {
+          "source": "RFI",
+          "angle": "Relate la frappe de drone russe, les 37 morts et le vaste incendie",
+          "link": "https://www.rfi.fr/fr/europe/20260829-ukraine-frappe-russe-sur-un-entrep%C3%B4t-pr%C3%A8s-de-kiev-fait-27-morts"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Couve l'attaque dans un fil en direct avec un bilan provisoire de 27 morts",
+          "link": "https://www.20minutes.fr/monde/ukraine/4241604-20260829-guerre-ukraine-direct-moins-27-morts-apres-frappe-russe-entrepot-pres-kiev?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les inondations au Népal et au Tibet font 633 morts et 3 000 disaprus",
+      "source": "Liberation",
+      "sources": [
+        "Liberation",
+        "Libération",
+        "France 24",
+        "RFI",
+        "Le Monde"
+      ],
+      "summairy": "Trois jours apres les coulées de boue dans l'Himalaya, le bilan atteint 633 morts et près de 3 000 disaprus. Les secouristes évacuent des rescapés, le Népal ayant accecté l'aide interationale pour accélérer les recherches.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-633-morts-et-pres-de-3-000-disparus-20260829_I4IYKFXZPZE67N4YKPDEWLCLOU/",
+      "publishedAt": "2026-08-29T11:03:14.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Libération",
+          "angle": "Chiffre le bilan à 633 morts et près de 3 000 disaprus dans son direct",
+          "link": "https://www.liberation.fr/international/asie-paciifique/en-direct-inondations-au-népal-et-au-tibet-633-morts-et-pr%C3%A8s-de-3-000-disaprus-20260829_I4IYKFXZPE67N4YKPDEWLCLOU/"
+        },
+        {
+          "source": "France 24",
+          "angle": "Met l'accent sur les opérations de secours et l'évacuation des rescapés à la frontière",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-crue-dans-l-himalaya-plus-de-600-morts-et-des-milliers-de-disparus"
+        },
+        {
+          "source": "RFI",
+          "angle": "Donne le bilan de 626 morts, les 2 400 disaprus et l'aide interationale accectée",
+          "link": "https://www.rfi.fr/fr/asie-pacifique/20260829-crue-dans-l-himalaya-les-op%C3%A9rations-de-recherches-et-l-%C3%A9vacuation-des-rescap%C3%A9s-se-poursuivent"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Illustre l'ampleur des destructions avec des cartes et images satellite avant-après",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/29/les-inondations-au-nepal-et-au-tibet-une-catastrophe-naturelle-racontee-en-carte-et-en-images_6759987_3244.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Donald Trump annonce un accord pétrolier avec le Venezuela sur 65 milliards de barils",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "20 Minutes"
+      ],
+      "summary": "Le président américain a annoncé vendredi un accord donnant à Washington le contrôle d'un cinquième des réserves vénézuéliennes, plus de 65 milliards de barils, pour renforcer les réserves américaines et faire baisser le prix de l'essence.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-etats-unis-trump-annonce-un-accord-p%C3%A9trolier-avec-le-venezuela",
+      "publishedAt": "2026-08-29T09:41:15.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Annonce l'accord et le contrôle d'un cinquième des réserves de pétrole vénézuéliennes",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-etats-unis-trump-annonce-un-accord-p%C3%A9trolier-avec-le-venezuela"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Précise le volume de 65 milliards de barils et l'objectif de baisse des prix",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4241583-20260829-etats-unis-trump-annonce-accord-petrolier-venezuela-met-main-plus-65-milliards-barils?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Les Islandais votent ce samedi pour reprendre les négociations d'adhésion à l'Union européenne",
+      "source": "20 Minutes",
+      "summary": "Les électeurs islandais votent ce samedi pour déterminer si le pays doit reprendre les négociations d'adhésion à l'Union européenne. Les habitants se montrent fortement partagés sur cette question.",
+      "link": "https://www.20minutes.fr/monde/4241603-20260829-islande-pays-pourrait-reprendre-negociations-adhesion-union-europeenne?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-08-29T10:27:12.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Le régime du Niger affirme reprendre le contrôle face aux mutins de Niamey",
+      "source": "France 24",
+      "sources": [
+        "France 24",
+        "Le Monde",
+        "20 Minutes"
+      ],
+      "summary": "Des tirs ont éclaté samedi dans plusieurs quartiers de Niamey, notamment près du palais présidentiel et de l'aéroport. Le régime issu du putsch de 2023 affirme reprendre le contrôle face à des mutins ayant séquestré des soldats.",
+      "link": "https://www.france24.com/fr/afrique/20260829-niger-des-tirs-entendus-pr%C3%A8s-d-une-base-militaire-et-dans-plusieurs-quartiers-de-niamey",
+      "publishedAt": "2026-08-29T06:31:27.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "France 24",
+          "angle": "Ouvre sur la reprise du contrôle et la séquestration de soldats par des mutins",
+          "link": "https://www.france24.com/fr/afrique/20260829-niger-des-tirs-entendus-pr%C3%A8s-d-une-base-militaire-et-dans-plusieurs-quartiers-de-niamey"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Relate des tirs près de la présidence et de l'aéroport depuis minuit",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-le-regime-militaire-dit-reprendre-progressivement-le-controle-face-a-des-mutins-apres-une-nuit-marquee-par-des-tirs-dans-la-capitale_6759501_3213.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Propose une synthèse des échanges de tirs et de la coupure du téléphone public",
+          "link": "https://www.20minutes.fr/monde/niger/4241600-20260829-niger-echanges-tirs-niamey-signal-tele-publique-coupe-mutins-repousses-garde-presidentielle?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 196,
+    "articlesAfterDedup": 193,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.3,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 1,
+      "economy": 1,
+      "politics": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "asia-pacific": 1,
+      "americas": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

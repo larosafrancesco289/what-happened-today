@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-29",
+  "summary": "A Russian drone strike on a warehouse in Kyiv's Bucha district killed at least 37 people and forced hundreds from their homes, as fire and a series of explosions tore through the building overnight. Emergency crews spent hours battling the flames, and Ukrainian authorities have opened an investigation into why weapons were stored at a depot so close to residential streets. Officials say the death toll could rise.\n\nAlong the Nepal-Tibet border, the death toll from flash floods has passed 600, with nearly 3,000 people still missing. Rescue teams are entering their fourth day, searching for survivors among villages and hydroelectric project sites where many workers were caught by the water. Heavy rain is making an already difficult recovery worse, and officials say the number of missing could shift as communications come back. The flooding hit a remote, mountainous area, and rescue crews are working against the clock.\n\nTwo political stories stand out. Donald Trump announced a new US oil agreement with Venezuela's interim president, Delcy Rodríguez, saying the US will have majority control of 65bn barrels of proven oil reserves. The terms are unclear, but Trump said on social media that it was brokered through a partnership with private business by Secretary of State Marco Rubio and Defense Secretary Pete Hegseth. In Niger, security sources say insurgent troops from the armed forces attempted to enter the presidential palace and were pushed back by the presidential guard, sparking clashes in the capital. The fighting followed a night of heavy gunfire. Niger has been under a military junta for three years, and has struggled to contain a decade-long jihadist insurgency.\n\nIcelanders are voting today on whether to resume EU membership talks, which have been suspended since 2013. The country of just under 400,000 people applied after the 2009 financial crisis devastated its economy, but a eurosceptic government later stalled the process. The referendum is expected to be tight, and Brussels is watching closely. A yes vote would restart negotiations with the bloc.",
+  "headlines": [
+    {
+      "title": "Russian drone strike on Kyiv warehouse kills at least 37",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Al Jazeera English",
+        "The Hindu",
+        "France 24",
+        "Deutsche Welle"
+      ],
+      "summary": "A Russian drone struck a warehouse in Kyiv's Bucha district, triggering a huge fire and explosions. At least 37 people died and hundreds were evacuated; an investigation has been launched into weapons stored near a residential area.",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T12:22:53.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nepal-Tibet flood death toll passes 600 as nearly 3,000 remain missing",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "New York Times World",
+        "Wall Street Journal World",
+        "Japan Times"
+      ],
+      "summary": "Rescue efforts entered a fourth day after flash floods hit the Nepal-Tibet border. The death toll surpassed 600, with nearly 3,000 missing, many of them hydroelectric project workers; heavy rain is complicating rescue and recovery.",
+      "link": "https://www.dw.com/en/death-toll-from-nepal-tibet-floods-rises-to-over-600/a-78555290?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-08-29T08:06:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump announces US oil deal giving it majority control of Venezuela's 65bn barrels",
+      "source": "The Guardian",
+      "summary": "Trump announced an agreement with Venezuela's interim president Delcy Rodríguez, saying the US will have 'majority' control of 65bn barrels of proven oil reserves. The deal was brokered by Marco Rubio and Pete Hegseth; terms remain unclear.",
+      "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+      "publishedAt": "2026-08-28T23:34:36.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Insurgent Nigerien troops try to storm presidential palace; clashes erupt in Niger's capital",
+      "source": "South China Morning Post",
+      "summary": "Security sources said insurgent troops attempted to enter Niger's presidential palace and were pushed back by the presidential guard, sparking clashes in Niger's capital. The military junta, in power for three years, has struggled to contain jihadist violence.",
+      "link": "https://www.scmp.com/news/world/africa/article/3365712/clashes-niger-after-troops-try-storm-presidential-palace?utm_source=rss_feed",
+      "publishedAt": "2026-08-29T11:44:13.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iceland votes on whether to resume EU membership negotiations",
+      "source": "France 24",
+      "summary": "Icelanders vote Saturday in a referendum on whether to resume European Union membership talks, suspended since 2013 after the 2009 financial crisis. The country of nearly 400,000 people faces a tight result closely watched in Brussels.",
+      "link": "https://www.france24.com/en/iceland-votes-on-whether-to-resume-eu-membership-negotiations",
+      "publishedAt": "2026-08-29T08:57:53.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 10,
+    "articlesProcessed": 433,
+    "articlesAfterDedup": 433,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 13.1,
+    "categoryCounts": {
+      "conflict": 2,
+      "environment": 1,
+      "economy": 1,
+      "politics": 1
+    },
+    "regionCounts": {
+      "europe": 2,
+      "asia-pacific": 1,
+      "americas": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

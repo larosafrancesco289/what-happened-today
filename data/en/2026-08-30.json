@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-30",
+  "summary": "Glacier floods triggered by a partial glacier detachment in Nepal have killed nearly 770 people across Nepal and Tibet, with more than 3,000 still missing — including 261 foreigners from 23 countries. Rescue crews are working through debris and mud, and officials expect the death toll to rise. The water swept through valleys on both sides of the border, destroying villages and washing out roads, and the number of missing suggests the final toll could be much higher.\n\nRussia struck Kyiv again overnight: a drone attack on a warehouse near a residential area killed at least 37 people and forced hundreds to evacuate. Ukraine has opened an investigation into why military weapons were stored so close to homes. Separately, the Wall Street Journal reports that NATO countries see Moscow expanding gray-zone attacks across Europe — sabotage and cyber operations — as its military struggles in Ukraine, and that allies say Moscow's appetite for conflict is growing.\n\nIn the Americas, President Trump announced a US oil agreement with Venezuela's interim president Delcy Rodríguez, giving the US majority control of 65 billion barrels of proven oil reserves. The terms are still unclear, but the deal, brokered by Secretary of State Marco Rubio and Defense Secretary Pete Hegseth, could reshape global oil markets. In Iceland, voters rejected resuming European Union membership talks by 52.8%, according to broadcaster RUV. The result leaves the island outside the EU, with security questions — including Trump's interest in Greenland — weighing on voters.\n\nTwo other stories are worth watching. In Germany, officials are preparing for a possible far-right Alternative for Germany victory in Saxony-Anhalt's election next week and are looking for ways to avoid sharing sensitive intelligence with the party. In Sudan, humanitarian conditions in El Obeid and its two camps are deteriorating as more than 15,000 families have arrived since mid-July, joining over 200,000 who came in the first half of the year.",
+  "headlines": [
+    {
+      "title": "Nepal-Tibet glacier floods kill nearly 770 as 3,000 remain missing",
+      "source": "Wall Street Journal World",
+      "sources": [
+        "Wall Street Journal World",
+        "New York Times World"
+      ],
+      "summary": "Glacier floods triggered by a partial glacier detachment in Nepal have killed nearly 770 people across Nepal and Tibet. More than 3,000 remain missing, including 261 foreigners from 23 countries, as rescue and recovery efforts continue.",
+      "link": "https://www.wsj.com/world/asia/nearly-770-dead-in-devastating-nepal-tibet-floods-1bd43215?mod=rss_worldnews",
+      "publishedAt": "2026-08-30T10:32:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Russian strike on Kyiv weapons depot kills at least 37",
+      "source": "BBC World",
+      "summary": "A Russian drone strike on a warehouse near a Kyiv residential area killed at least 37 people and prompted hundreds of evacuations. Ukraine has opened an investigation into weapons storage near housing as rescue operations continue.",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T20:13:16.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Iceland voters reject EU membership talks, 52.8% say no",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Wall Street Journal World",
+        "Deutsche Welle"
+      ],
+      "summary": "Icelanders voted 52.8% against resuming European Union membership talks, broadcaster RUV projected. Voters weighed security concerns after President Trump expressed interest in Greenland, leaving the island outside the EU for now.",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T10:49:11.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump announces US-Venezuela oil deal giving majority control of 65bn barrels",
+      "source": "The Guardian",
+      "summary": "President Trump announced a US oil agreement with Venezuela's interim president Delcy Rodríguez giving the US majority control of 65 billion barrels of proven reserves. Terms remain unclear, but the deal could reshape global oil markets.",
+      "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+      "publishedAt": "2026-08-28T23:34:36.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "Far right poised to win German state, complicating intelligence sharing",
+      "source": "New York Times World",
+      "summary": "State and federal leaders in Germany are preparing for a possible far-right Alternative for Germany victory in Saxony-Anhalt's election next week and are seeking to avoid sharing sensitive intelligence with the party.",
+      "link": "https://www.nytimes.com/2026/08/30/world/europe/germany-afd-saxony-anhalt.html",
+      "publishedAt": "2026-08-30T09:00:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Humanitarian conditions worsen in Sudan's El Obeid as displaced families arrive",
+      "source": "The Guardian",
+      "summary": "Humanitarian conditions are deteriorating in El Obeid and two camps on its outskirts as families fleeing Sudan's civil war continue to arrive. The UN reports more than 15,000 families have arrived since mid-July.",
+      "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "publishedAt": "2026-08-30T06:00:48.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Iranians queue for gas as war and blockade squeeze fuel supply",
+      "source": "New York Times World",
+      "summary": "Iranians are waiting in long lines for gasoline as war and a US blockade squeeze fuel supplies. The government is wary that raising prices at the pump could stir unrest while it struggles to close a shortfall.",
+      "link": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
+      "publishedAt": "2026-08-30T10:12:06.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Russia launches new gray-zone attacks across Europe, NATO says",
+      "source": "Wall Street Journal World",
+      "summary": "Russia is expanding gray-zone attacks against NATO countries, including sabotage and cyber operations, as it struggles in Ukraine, according to the Wall Street Journal. European allies say Moscow's appetite for conflict is increasing.",
+      "link": "https://www.wsj.com/world/europe/russia-is-bombarding-europe-with-a-new-wave-of-gray-zone-attacks-c5eab3fa?mod=rss_worldnews",
+      "publishedAt": "2026-08-30T03:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Rescuers search for 260 after ferry capsizes off Cyprus",
+      "source": "Deutsche Welle",
+      "summary": "Rescuers are searching after a passenger ferry carrying more than 260 people capsized off northern Cyprus, according to media reports. Authorities have not confirmed casualties, and the fate of passengers remains unclear.",
+      "link": "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus-reports/a-78562769?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-08-30T11:32:00.000Z",
+      "tier": "developing",
+      "dayNumber": 1,
+      "previousContext": "A passenger ferry carrying more than 260 people capsized off northern Cyprus earlier on August 30.",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "singleSource": true,
+      "category": "society",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 404,
+    "articlesAfterDedup": 404,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 36.3,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 3,
+      "politics": 2,
+      "economy": 1,
+      "society": 2
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "europe": 5,
+      "americas": 1,
+      "africa": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

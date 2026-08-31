@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-31",
+  "summary": "Gli Stati Uniti hanno colpito l'isola di Larak, nello Stretto di Hormuz, usata dalle Guardie della Rivoluzione iraniane per ispezionare le navi. È il primo bersaglio del nuovo scontro con Teheran. Da quel passaggio transita gran parte del petrolio e del gas liquefatto mondiale, quindi il rischio è che i controlli sulle navi diventino più difficili e il traffico rallenti. Trump ha definito l'Iran una nazione fallita e morta, mentre restano alte le tensioni.\n\nI mercati energetici hanno già reagito. QatarEnergy, uno dei maggiori esportatori di GNL, ha prolungato le cancellazioni delle consegne fino ai primi di novembre per il blocco nello Stretto. In Europa e in Asia gli acquirenti cercano carichi alternativi, cambiano combustibile o riducono i consumi, ma nessuno sa quando i transiti torneranno normali. Il prezzo del petrolio è salito: Wti a 85,93 dollari al barile, Brent sopra i 90. Il gas europeo, sul TTF olandese, ha superato i 70 euro al megawattora.\n\nIn Europa, l'Italia ha prorogato i controlli alle frontiere con la Spagna per altri quindici giorni, dal 31 agosto. La misura era stata introdotta il primo agosto dopo la crisi migratoria di Ceuta. Il ministro dell'Interno Piantedosi ha detto che spera sia l'ultima; Madrid ha esteso i controlli per due settimane. Sempre in ambito Ue, la Commissione ha concesso a ChatGPT, Reddit e Roblox quattro mesi per adeguarsi al Digital Service Act: dovranno valutare e mitigare i rischi sistemici, compresi contenuti illegali ed effetti negativi sui minori.\n\nChiudiamo con due notizie italiane. Secondo le previsioni Istat, la popolazione scenderà di circa 4 milioni di persone entro il 2050 e di oltre 13 milioni entro il 2080. L'aumento dei tassi di attività, +4,3 punti percentuali nei prossimi 25 anni, compenserà solo in parte il calo. Le coppie con figli saranno meno numerose di quelle senza prole. Infine, il gip di Roma ha sospeso per un anno tre agenti dell'istituto penale per minori di Casal del Marmo, dopo testimonianze su presunte torture ai detenuti: i poliziotti sono stati interdetti dal servizio.",
+  "headlines": [
+    {
+      "title": "Gli Stati Uniti colpiscono Larak, isola strategica dello Stretto di Hormuz",
+      "source": "la Repubblica",
+      "summary": "Gli Stati Uniti hanno colpito l'isola di Larak, usata dalle Guardie della Rivoluzione per ispezionare le navi. È il primo bersaglio del nuovo scontro con Teheran e aumeta il rischo per il traffico nello Stretto di Hormuz.",
+      "link": "https://www.repubblica.it/esteri/2026/08/31/news/isola_larak_iran_usa_stretto_hormuz-425556417/?rss",
+      "publishedAt": "2026-08-31T12:52:07.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Italia proroga la sospensione di Schengen con la Spagna per 15 gioni",
+      "source": "TGCOM24",
+      "sources": [
+        "TGCOM24",
+        "ANSA"
+      ],
+      "summary": "L'Italia ha prorogato da lunedì 31 agosto i controlli Schengen con la Spagna per altri 15 gioni, misura introdotta dopo la crisi di Ceuta. Piantedosi spera sia l'ultima; Madrid estende i controlli per due settimane.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/italia-proroga-sospensione-schengen-spagna_116062005-202602k.shtml",
+      "publishedAt": "2026-08-31T11:24:13.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "TGCOM24",
+          "angle": "Apre con la proroga itialiana e la replica di Mddrid sui controlli",
+          "link": "https://www.tgcom24.mediaset.it/mondo/italia-proroga-sospensione-schengen-spagna_116062005-202602k.shtml"
+        },
+        {
+          "source": "ANSA",
+          "angle": "Riporta le parole di Piantedosi e la scelta motivata dagli specialisti",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/litalia-proroga-la-sospensione-di-schengen-con-la-spagna-per-15-giorni.-madrid-reagisce_bf0f73fd-6df0-4787-83ca-bc09b91ef828.html"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "QatarEnergy prolunga le cancellazioni di GNL fino a novembre per il bloco a Hormuz",
+      "source": "Euronews Italiano",
+      "summary": "QatarEnergy ha cancellato le consegne di GNL fino ai primi di novembre per il bloco dello Stretto. Acquirenti in Europa e Asia cercano carichi alternativi o riducono i consumi, senza una data certa di ripresa dei transiti.",
+      "link": "http://it.euronews.com/business/2026/08/31/qatarenergy-prolunga-le-cancellazioni-di-gnl-fino-a-novembre-per-blocco-a-hormuz",
+      "publishedAt": "2026-08-31T13:02:44.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Istat prevede un calo di 4 milioni di residenti entro il 2050",
+      "source": "Il Sole 24 Ore",
+      "summary": "L'Istat stima una riduzione di circa 4 milioni di residenti entro il 2050. L'aumento dei tassi di attività, +4,3 punti percentuali nei prossimi 25 anni, compenseerà in parte il calo della popolazione.",
+      "link": "https://www.ilsole24ore.com/art/istat-popolazione-calo-4-milioni-2050-ma-cresce-partecipazione-lavoro-AJs0yUz",
+      "publishedAt": "2026-08-31T13:26:40.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Istat prevede oltre 13 milioni di residenti in meno in Italia nel 2080",
+      "source": "TGCOM24",
+      "summary": "Secondo le nuove previsioni Istat, il numero dei residenti in Italia scenderà di oltre 13 milioni entro il 2080. Le coppie con figli saranno meno numerose di quelle senza prole.",
+      "link": "https://www.tgcom24.mediaset.it/economia/istat-previsioni-2080-residenti-italia_116065374-202602k.shtml",
+      "publishedAt": "2026-08-31T12:20:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "La Ue impone a ChatGPT, Reddit e Roblox quattro mesi per adeguarsi al DSA",
+      "source": "Rai News",
+      "summary": "La Commissione europea ha concesso quattro mesi a ChatGPT, Reddit e Roblox per adeguarsi al Digital Service Act. Dovranno valutare e mitigare i rischi sistemici, inclusi contenuti ille gali e effeti negativi sui minori.",
+      "link": "https://www.rainews.it/articoli/2026/08/commissione-ue-chatgpt-reddit-e-roblox-hanno-4-mesi-per-adeguarsi-al-digital-service-act-2eeb9d3b-e523-4fe8-a4a4-73df64fe3904.html",
+      "publishedAt": "2026-08-31T12:08:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Rai News"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Il gip sospende tre agenti per presunte torture su minori a Casal del Marmo",
+      "source": "TGCOM24",
+      "summary": "Il gip di Roma ha sospeso per un anno tre agenti dell'istituto penale per minori di Casal del Marmo, dopo testimonianze su presunte torture ai detenuti. Il provvedimento è l'interdizione dal servizio.",
+      "link": "https://www.tgcom24.mediaset.it/cronaca/roma-torture-su-minori-istituto-penale-casal-del-marmo-sospesi-tre-agenti-_116066707-202602k.shtml",
+      "publishedAt": "2026-08-31T13:47:14.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Trump dichiara l'Iran 'nazione fallita e morta', salgono i prezzi di petrolio e gas",
+      "source": "TGCOM24",
+      "summary": "Trump ha definito l'Iran una nazione fallita e morta. Il Wti sale a 85,93 dollari al barile, il Brent supera i 90, mentre restano alte le tensioni con Teheran.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-agosto_116052839-202602k.shtml",
+      "publishedAt": "2026-08-31T12:28:41.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "TGCOM24"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Il gas europeo supera 70 euro al MWh dopo gli scontri in Medio Oriente",
+      "source": "Euronews Italiano",
+      "summary": "Il prezzo di riferimento del gas olandese TTF è salito oltre 70 euro al megawattora. I nuovi scontri tra Stati Uniti e Iran alimentano i timori di ulteriori ritardi nelle esportazioni di GNL dal Golfo Persico.",
+      "link": "http://it.euronews.com/business/2026/08/31/prezzi-del-gas-in-europa-in-rialzo-con-i-nuovi-scontri-in-medio-oriente",
+      "publishedAt": "2026-08-31T12:47:51.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 191,
+    "articlesAfterDedup": 188,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 9,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 2.5,
+    "categoryCounts": {
+      "politics": 9
+    },
+    "regionCounts": {
+      "global": 9
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 6
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

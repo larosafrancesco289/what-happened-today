@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-31",
+  "summary": "Rescuers in Nepal and Tibet are still searching after a glacier collapse sent water surging down the Bhotekoshi River, killing at least 900 people and leaving more than 4,000 missing. Authorities have warned that fresh flooding is possible as water levels continue to rise, and a massive rescue effort is under way. Communities across the affected area are grappling with devastation and loss, and officials say the operation is far from over.\n\nRussia has shifted its attacks on Kyiv from mostly overnight strikes to nearly continuous drone raids, according to The New York Times, leaving residents exhausted and on edge as air alerts sound repeatedly through the day and night. The change marks a dangerous new phase of the war. European defense cooperation is moving in the opposite direction: President Emmanuel Macron is visiting Stockholm on August 31 to deepen the Franco-Swedish strategic partnership, with Russia's threat atop the agenda. Sweden, the newest NATO member, has also expressed interest in joining France's nuclear deterrence initiative.\n\nA growing number of former Israeli generals, intelligence officials, and prime ministers say settlers in the West Bank are committing ethnic cleansing with government support. One warned that 'once a society behaves this way, that society is doomed' — a charge that has sharpened the debate over settler violence and West Bank policy. In Japan, opposition consolidation has stalled. Komeito rejected a unified parliamentary caucus, collapsing a proposed merger with the Constitutional Democratic Party and leaving the scope of any continuing alliance unclear.\n\nTokyo also moved on two domestic issues. The government plans to exempt surcharges on prescription drugs that are equivalent to over-the-counter medicines from tax, starting when the extra fees are introduced in March; the change aims to reduce out-of-pocket costs for patients who choose the more convenient drugs. And it has asked the city of Hitachiomiya to accept a survey for a final nuclear waste disposal site. If accepted, Hitachiomiya would become the fifth municipality in the country to host such a survey.",
+  "headlines": [
+    {
+      "title": "Glacier collapse floods kill at least 900; 4,000 remain missing",
+      "source": "France 24",
+      "summary": "A glacier collapse sent water surging down the Bhotekoshi River, killing at least 900 people in Nepal and Tibet and leaving over 4,000 missing. Authorities warn fresh flooding is possible as rescue operations continue.",
+      "link": "https://www.france24.com/en/nepal-grapples-with-destruction-and-loss-in-wake-of-deadly-floods",
+      "publishedAt": "2026-08-31T13:10:04.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nonstop Russian drone raids force Kyiv into dangerous new phase of war",
+      "source": "New York Times World",
+      "summary": "Russia has shifted from mostly overnight attacks to nearly continuous drone raids over Kyiv, leaving residents exhausted and on edge. The New York Times reports the strikes mark a dangerous new phase, with air alerts sounding repeatedly.",
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+      "publishedAt": "2026-08-31T10:14:04.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Former Israeli generals accuse West Bank settlers of ethnic cleansing",
+      "source": "New York Times World",
+      "summary": "A growing number of former Israeli generals and intelligence officials say West Bank settlers are committing ethnic cleansing with government support. One warned that such behavior condemns Israeli society, deepening debate over West Bank policy and settler violence.",
+      "link": "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html",
+      "publishedAt": "2026-08-31T09:00:40.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Macron visits Sweden to boost defense ties and nuclear deterrence",
+      "source": "France 24",
+      "summary": "President Emmanuel Macron travels to Stockholm on August 31 to deepen the Franco-Swedish strategic partnership, with defense cooperation and Russia's threat topping the agenda. Sweden has shown interest in joining France's nuclear deterrence initiative.",
+      "link": "https://www.france24.com/en/france-and-sweden-look-to-boost-european-sovereignty-through-stronger-defence-ties",
+      "publishedAt": "2026-08-31T13:22:50.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Komeito rejects unified caucus as Japan opposition merger collapses",
+      "source": "Japan Times",
+      "summary": "Komeito's rejection of a unified parliamentary caucus ended the proposed merger with the Constitutional Democratic Party, leaving the scope of any continuing alliance unclear. The collapse weakens efforts to consolidate Japan's centrist opposition.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/31/japan/politics/cra-komeito/",
+      "publishedAt": "2026-08-31T09:34:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Japan to exempt extra charges on over-the-counter-equivalent drugs from tax",
+      "source": "Japan Times",
+      "summary": "Japan plans to exempt surcharges on prescription drugs that are equivalent to over-the-counter medicines from tax, beginning when the extra fees are introduced in March. The change aims to reduce out-of-pocket costs for patients who choose convenient drugs.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/31/japan/otc-drugs-tax-exemption/",
+      "publishedAt": "2026-08-31T09:12:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "economy",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Japan asks Hitachiomiya to accept nuclear waste site survey",
+      "source": "Japan Times",
+      "summary": "Japan's central government has asked the city of Hitachiomiya to accept a survey for a final nuclear waste disposal site. If accepted, it would become the fifth municipality in the country to host such a survey.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/31/japan/hitachiomiya-nuclear-waste-site-survey/",
+      "publishedAt": "2026-08-31T09:07:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Japan Times"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 3,
+    "articlesProcessed": 383,
+    "articlesAfterDedup": 381,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 8,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 4.9,
+    "categoryCounts": {
+      "environment": 2,
+      "conflict": 2,
+      "politics": 2,
+      "economy": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 4,
+      "europe": 2,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

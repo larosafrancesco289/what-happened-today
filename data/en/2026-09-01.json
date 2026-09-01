@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-01",
+  "summary": "Rescue teams with search dogs are combing through mud, rocks and debris in Nepal, where the death toll from glacier-collapse floods and mudslides has passed 1,000. Another 4,000 people remain unaccounted for, including about 85 U.S. citizens. The disaster struck after a glacier collapsed in the Himalayas, sending water and debris downstream and burying villages. Officials caution the missing count may shift as communication is restored, but the scale of destruction is still emerging.\n\nRussian air attacks killed at least 12 people in Kyiv early Tuesday and wounded 20, including two children — the sixth consecutive day of bombardment. Ukrainian officials say residential areas were hit. As EU defense ministers met in Ireland to discuss air-defense shortages, the Wall Street Journal reports Kyiv is rapidly increasing the range and payload of its drones to strike deeper inside Russia, moving beyond aging Western weaponry. The upshot: Ukraine is trying to offset a slowing ground advance with long-range firepower.\n\nThe day also offered a split-screen view of global power. Xi Jinping hosted the Russian and Iranian leaders in Bishkek, while European leaders challenged the Trump administration at the G20. In Canada, the ruling Liberals swept three special elections — in Quebec, Toronto and British Columbia — strengthening Prime Minister Mark Carney after his confrontations with President Trump. One Liberal lawmaker called the projected victories a message that Carney has the Canadian people's support.\n\nTwo other developments are worth noting. A UN committee said the 1965 convention on racial discrimination legally obliges states to consider reparations for the transatlantic slave trade, calling for comprehensive measures to address its lasting legacy. And as of August, another million Afghans were forced to return from Pakistan and Iran, joining about six million deportees now living under Taliban rule — many had never lived in Afghanistan. Finally, Army Secretary Dan Driscoll resigned after months of friction with Defense Secretary Pete Hegseth, removing a senior military official from the Pentagon's leadership.",
+  "headlines": [
+    {
+      "title": "Nepal flood death toll passes 1,000 as 4,000 remain missing",
+      "source": "Deutsche Welle",
+      "sources": [
+        "Deutsche Welle",
+        "BBC World",
+        "Wall Street Journal World"
+      ],
+      "summary": "Nepalese authorities say more than 1,000 people have died and 4,000 remain unaccounted for after glacier-collapse floods and mudslides in the Himalayas. About 85 U.S. citizens are among the missing. Rescue teams with dogs are searching mud-filled tunnels and debris.",
+      "link": "https://www.dw.com/en/nepal-flood-death-toll-tops-1-000-as-rescue-continues/a-78589460?maca=en-rss-en-all-1573-xml-mrss",
+      "publishedAt": "2026-09-01T10:53:00.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Xi meets Russian and Iranian leaders as Europe challenges Trump at G20",
+      "source": "New York Times World",
+      "summary": "Xi Jinping hosted Russian and Iranian leaders in Bishkek while European leaders challenged the Trump administration at the G20, offering competing showcases of global power. The parallel meetings reflect a shifting world order as major powers realign.",
+      "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+      "publishedAt": "2026-09-01T09:56:54.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Canada's ruling Liberals sweep three special elections, boosting Carney",
+      "source": "The Guardian",
+      "summary": "The Liberal Party won all three special elections in Quebec, Toronto and British Columbia, according to Canadian Press projections. The result strengthens Prime Minister Mark Carney after his confrontations with President Trump and signals broad voter support.",
+      "link": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
+      "publishedAt": "2026-09-01T07:42:50.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Ukraine rapidly expands drone range and firepower to strike deeper into Russia",
+      "source": "Wall Street Journal World",
+      "summary": "Kyiv is rapidly increasing the range and payload of its drones, moving beyond aging Western weaponry, the Wall Street Journal reports. The shift allows Ukraine to strike targets deeper inside Russia as its ground advance slows.",
+      "link": "https://www.wsj.com/world/europe/the-ukraine-drones-that-are-carrying-a-bigger-punch-deeper-into-russia-db8a6409?mod=rss_worldnews",
+      "publishedAt": "2026-09-01T03:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "UN committee says countries legally obliged to consider slavery reparations",
+      "source": "The Guardian",
+      "summary": "The UN Committee on the Elimination of Racial Discrimination published guidance saying the 1965 convention legally obliges states to consider reparations for the transatlantic slave trade. It calls for comprehensive measures to address the lasting legacy of racial discrimination.",
+      "link": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
+      "publishedAt": "2026-08-31T11:54:16.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "society",
+      "region": "global",
+      "importance": "notable"
+    },
+    {
+      "title": "Deportations force six million Afghans to start over under Taliban",
+      "source": "BBC World",
+      "summary": "As of August, one million people have returned to Afghanistan from Pakistan and Iran this year, joining about six million deportees living under Taliban rule. Many had never lived in Afghanistan and now face starting over with limited support.",
+      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T05:00:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Army Secretary Dan Driscoll resigns after months of friction with Hegseth",
+      "source": "Wall Street Journal World",
+      "summary": "Dan Driscoll resigned as Army Secretary after months of tension with Defense Secretary Pete Hegseth, the Wall Street Journal reported. The resignation removes a senior military official from the Trump administration's Pentagon leadership.",
+      "link": "https://www.wsj.com/world/two-u-s-foes-join-forcesand-threaten-to-further-destabilize-the-middle-east-fc11c453?mod=rss_worldnews",
+      "publishedAt": "2026-09-01T09:51:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Russian drone and missile strikes kill 12 in Kyiv for sixth day",
+      "source": "Al Jazeera English",
+      "sources": [
+        "Al Jazeera English",
+        "France 24",
+        "BBC World"
+      ],
+      "summary": "Russian air attacks on Kyiv killed at least 12 people and wounded 20, including two children, early Tuesday, Ukrainian officials said. The strikes are the sixth consecutive day of bombardment. EU defense ministers met in Ireland to discuss air-defense shortages.",
+      "link": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
+      "publishedAt": "2026-09-01T08:57:48.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "Nonstop Russian drone raids have forced Kyiv into a dangerous new phase of the war after ground advances slowed.",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 430,
+    "articlesAfterDedup": 428,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 23.8,
+    "categoryCounts": {
+      "environment": 1,
+      "politics": 3,
+      "conflict": 2,
+      "society": 2
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "global": 2,
+      "americas": 2,
+      "europe": 2
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

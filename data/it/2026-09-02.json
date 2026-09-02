@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-02",
+  "summary": "Gli Stati Uniti hanno colpito porti e uno scalo aeroportuale nel Golfo, e l'Iran ha risposto abbattendo un drone e lanciando missili verso basi in Giordania. Teheran ha promesso di dare una lezione, mentre la tensione nella regione sale. È uno degli sviluppi più delicati di giornata, seguito con attenzione da tutta la comunità internazionale.\n\nSul fronte europeo, la Germania ha accusato ufficialmente la Russia per il drone carico di esplosivo trovato all'aeroporto di Lipsia il 4 agosto. Il ministro dell'Interno Alexander Dobrindt ha detto che la configurazione del drone e i componenti sono noti da altre operazioni ibride russe contro l'Ucraina. Sempre in tema di influenza russa, il ministro degli Esteri italiano Antonio Tajani ha detto che non si possono escludere tentativi di condizionare le elezioni in Italia e in altri Paesi Ue, mentre Matteo Salvini ha parlato di ansia antirussa. Intanto a Kiev l'anno scolastico è iniziato con una cerimonia interrotta da un allarme aereo, poche ore dopo nuovi attacchi missilistici russi: la guerra continua a entrare nella vita quotidiana.\n\nDalla Striscia di Gaza arriva un'altra emergenza umanitaria: il World Food Programme ha sospeso la distribuzione di pane per mancanza di fondi internazionali. I residenti dicono di non avere cibo per i propri figli, e l'interruzione aggrava una situazione già molto difficile. Sul clima, l'Onu ha pubblicato un rapporto che stima un aumento della temperatura globale di 1,8 gradi anche nello scenario più ottimistico, con un percorso fatto di superamento, picco e successiva riduzione. In Nicaragua, intanto, il Parlamento ha approvato una riforma costituzionale che di fatto elimina le elezioni e mette il Paese sotto il controllo del presidente Daniel Ortega e della moglie Rosario Murillo; l'opposizione in esilio protesta.\n\nIn Europa la sicurezza torna al centro del dibattito: la Francia ha reintrodotto il servizio militare volontario, dopo l'abolizione del 1997, e l'Italia sta valutando una riserva volontaria per la difesa. È una svolta che segna una nuova attenzione alla protezione civile e militare. Sul fronte commerciale, l'Ue ha avvertito la Cina che senza un'intesa concreta sui mercati entro ottobre è pronta a usare nuovi strumenti di difesa commerciale.",
+  "headlines": [
+    {
+      "title": "Gli Usa attaccano porti e aeroporti nel Golfo, l'Iran abbatte un drone",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Gli Stati Uniti colpiscono porti e uno scalo aeroportuale nel Golfo. L'Iran risponde abbattendo un drone e lancia missili verso le basi in Giordania. Teheran promette: 'Vi daremo una lezione'. La tensione nella regione sale.",
+      "link": "https://www.repubblica.it/esteri/2026/09/02/news/ondata_attacchi_usa_nel_golfo_iran_risponde_vi_daremo_lezione-425559714/?rss",
+      "publishedAt": "2026-09-01T23:00:00.000Z",
+      "tier": "top",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "La Germania incolpa la Russia del drone esplosivo trovato all'aeroporto di Lipsia",
+      "source": "AGI",
+      "singleSource": true,
+      "summary": "Il ministro dell'Interno tedesco Alexander Dobrindt accusa ufficialmente la Russia per il drone carico di esplosivo rinvenuto all'aeroporto di Lipsia il 4 agosto. I mezzi usati, secondo Berlino, sono noti da altre operazioni ibride russe contro l'Ucraina.",
+      "link": "https://www.agi.it/estero/news/2026-09-01/germania-russia-drone-bomba-38821900/",
+      "publishedAt": "2026-09-02T11:13:45.000Z",
+      "tier": "top",
+      "sources": [
+        "AGI"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Tajani non esclude interferenze russe nel voto, Salvini parla di ansia antirussa",
+      "source": "AGI",
+      "sources": [
+        "AGI",
+        "Rai News",
+        "Euronews Italiano"
+      ],
+      "summary": "Il ministro degli Esteri Antonio Tajani non esclude tentativi russi di condizionare le elezioni in Italia e in altri Paesi Ue. Alla riunione di Wicklow, in Irlanda, dice che bisogna intervenire in anticipo. Salvini parla di 'ansia antirussa'.",
+      "link": "https://www.agi.it/estero/news/2026-09-02/tajani-interferenze-elezioni-38834236/",
+      "publishedAt": "2026-09-02T11:18:14.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "AGI",
+          "angle": "Ha riportato l'avvertimento di Tajani sui tentativi russi di condizionare le elezioni",
+          "link": "https://www.agi.it/estero/news/2026-09-02/tajani-interferenze-elezioni-38834236/"
+        },
+        {
+          "source": "Rai News",
+          "angle": "Ha enfatizzato il monito di Tajani e la vigilanza contro le interferenze, citando Salvini",
+          "link": "https://www.rainews.it/articoli/2026/09/il-warning-di-tajani-non-escludo-che-mosca-influenzi-le-elezioni-in-italia-e-in-altri-paesi-ue-2491ca4a-66be-4816-9c4f-39a969da2c91.html"
+        },
+        {
+          "source": "Euronews Italiano",
+          "angle": "Ha contestualizzato l'allarme con lo scontro su Fedorov e Vannacci",
+          "link": "http://it.euronews.com/my-europe/2026/09/02/allarme-di-tajani-da-gymnich-possibili-influenze-russe-sul-voto-in-italia-botta-e-risposta"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Il WFP sospende la distribuzione di pane a Gaza per mancanza di fondi",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Il World Food Programme annuncia l'interruzione della distribuzione di pane nella Striscia di Gaza per il calo dei finanziamenti internazionali. I residenti riferiscono di non avere cibo per i propri figli. La fame torna a colpire la popolazione.",
+      "link": "https://www.repubblica.it/esteri/2026/09/02/news/gaza_fame_distribuzione_pane_wfp_striscia-425560295/?rss",
+      "publishedAt": "2026-09-02T09:25:20.000Z",
+      "tier": "top",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "L'ONU pubblica un rapporto: temperatura globale oltre 1,5°C nei prossimi anni",
+      "source": "Rai News",
+      "singleSource": true,
+      "summary": "Il nuovo rapporto delle Nazioni Unite 'Limitare il superamento della soglia' stima che, anche nello scenario più ottimistico, l'aumento delle temperature sarà di +1,8°C. Si prevede un percorso con superamento, picco e successiva riduzione.",
+      "link": "https://www.rainews.it/articoli/2026/09/lonu-ancora-il-riscaldamento-globale-oltre-15c-nei-prossimi-anni-ma-si-puo-intervenire-18821a85-84f2-40c0-9aa8-a8d2b692ac5a.html",
+      "publishedAt": "2026-09-02T10:39:00.000Z",
+      "tier": "also",
+      "sources": [
+        "Rai News"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Il Nicaragua di Ortega cancella l'opposizione dalle elezioni con una riforma costituzionale",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Il Parlamento del Nicaragua approva una riforma costituzionale ispirata al modello cinese che elimina di fatto le elezioni e mette il Paese sotto il controllo del presidente Daniel Ortega e della moglie Rosario Murillo. L'opposizione in esilio protesta.",
+      "link": "https://www.repubblica.it/esteri/2026/09/02/news/mai_piu_elezioni_nicaragua_ortega_cancella_l_opposizione_dal_voto-425560070/?rss",
+      "publishedAt": "2026-09-02T07:18:47.000Z",
+      "tier": "also",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "La Francia reintroduce il servizio militare volontario, l'Italia valuta una riserva",
+      "source": "Il Sole 24 Ore",
+      "singleSource": true,
+      "summary": "Dopo l'abolizione nel 1997, la Francia vara un servizio militare volontario. L'Italia pensa a una riserva volontaria per la difesa. La decisione francese segna una svolta nella politica di sicurezza europea.",
+      "link": "https://www.ilsole24ore.com/art/difesa-torna-francia-servizio-militare-l-italia-pensa-una-riserva-volontaria-AJgPCQ0",
+      "publishedAt": "2026-09-02T07:03:57.000Z",
+      "tier": "also",
+      "sources": [
+        "Il Sole 24 Ore"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "L'Ue avverte la Cina: entro ottobre intesa commerciale o misure più dure",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "Il commissario Ue al Commercio Šefčovič avverte Pechino: senza un accordo concreto sul riequilibrio dei mercati entro ottobre, l'Unione Europea è pronta a usare nuovi strumenti di difesa commerciale.",
+      "link": "http://it.euronews.com/my-europe/2026/09/02/ue-cina-scatta-il-conto-alla-rovescia-risultati-entro-ottobre-o-misure-piu-dure",
+      "publishedAt": "2026-09-02T10:30:54.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "A Kiev l'anno scolastico inizia tra le sirene d'allarme aereo dopo gli attacchi russi",
+      "source": "Euronews Italiano",
+      "singleSource": true,
+      "summary": "I bambini di Kiev hanno iniziato il nuovo anno scolastico con una cerimonia interrotta da un allarme aereo, poche ore dopo che missili russi avevano colpito la capitale. La guerra continua a condizionare la vita quotidiana.",
+      "link": "http://it.euronews.com/video/2026/09/02/a-kiev-lanno-scolastico-inizia-allombra-delle-sirene-dallarme-aereo",
+      "publishedAt": "2026-09-02T10:13:59.000Z",
+      "tier": "also",
+      "sources": [
+        "Euronews Italiano"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Nepal, i familiari attendono il test del Dna per dare un nome ai morti",
+      "source": "la Repubblica",
+      "singleSource": true,
+      "summary": "Negli ospedali del Nepal, i familiari delle vittime di un disastro si mettono in fila per fornire campioni di Dna. Migliaia di corpi sono sepolti temporaneamente o nelle celle frigo. L'obiettivo è identificare i morti.",
+      "link": "https://www.repubblica.it/esteri/2026/09/02/news/nepal_dna_disastro-425559720/?rss",
+      "publishedAt": "2026-09-01T23:00:00.000Z",
+      "tier": "developing",
+      "sources": [
+        "la Repubblica"
+      ],
+      "category": "society",
+      "region": "asia-pacific",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 192,
+    "articlesAfterDedup": 189,
+    "articlesAfterDiversity": 35,
+    "articlesAfterFilter": 13,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 12.4,
+    "categoryCounts": {
+      "conflict": 4,
+      "politics": 3,
+      "environment": 1,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 4,
+      "global": 2,
+      "americas": 1,
+      "asia-pacific": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

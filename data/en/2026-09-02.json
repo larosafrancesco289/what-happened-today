@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-02",
+  "summary": "U.S. and Iranian forces traded another round of strikes overnight, deepening a confrontation that threatens the Strait of Hormuz, a waterway vital to global oil supplies. President Trump said the U.S. action was in response to Iranian attempts to mine the strait and to target American servicemembers. Neither side released specifics about the latest attacks, and the outlook for a quick de-escalation was unclear.\n\nThe human disaster in South Asia is still growing. Nepal's government says more than 1,000 people have died in weeks of flooding and landslides, and thousands remain missing. With roads and bridges destroyed, many communities are being kept alive by airdropped supplies, and officials in Bharatpur have begun burying unidentified bodies to limit health risks. Separately, a new UN report concludes the world is likely to overshoot the 1.5C warming target. Many leaders skipped Australia's pre-COP meeting in Fiji, but host Prime Minister Anthony Albanese defended it.\n\nTwo stories from Israel and the occupied territories emerged. A BBC team that accompanied a UN peacekeeping mission in Lebanon says Israeli troops are fortifying positions and continuing demolitions inside territory that Lebanon regards as occupied, despite international calls for withdrawal. Lebanese officials say Israel is expanding its footprint. Separately, lawyers say travelers from the U.S. and other countries have been denied entry to Israel after airport interrogations about their ties to Palestinians, planned visits to the West Bank, and criticism of Israel. Some of those turned away are human rights activists and journalists, the lawyers say.\n\nTrade officials from the European Union and China are meeting in Beijing to try to prevent a trade war, with the EU's top enforcement officer, Denis Redonnet, pressing for changes before an October deadline. The European Commission calls current trade imbalances \"untenable.\" On other fronts: Congress voted to fund the U.S. government through the midterms, avoiding a shutdown; Ethiopia is building up troops on its border with Sudan, where fighting between Sudan's army and the paramilitary Rapid Support Forces has intensified; and each government accuses the other of backing rebels.",
+  "headlines": [
+    {
+      "title": "U.S. and Iran trade strikes as Trump cites mining threat in Hormuz",
+      "source": "Wall Street Journal World",
+      "summary": "President Trump said U.S. strikes responded to Iran's attempts to mine the Strait of Hormuz and target American servicemembers. Iran and the U.S. exchanged further strikes overnight, intensifying a confrontation that threatens oil shipping through the strategic waterway.",
+      "link": "https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f?mod=rss_worldnews",
+      "publishedAt": "2026-09-02T00:20:00.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Nepal flood death toll passes 1,000 as thousands remain missing",
+      "source": "BBC World",
+      "summary": "More than 1,000 people have died and thousands remain missing after floods and landslides in Nepal and Tibet. Communities are relying on airlifted supplies as authorities begin burying unidentified bodies in Bharatpur to limit health risks.",
+      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T10:07:02.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Israeli troops fortify positions in occupied Lebanon as demolitions continue",
+      "source": "BBC World",
+      "summary": "A BBC team joined a UN peacekeeping mission in Lebanon and reported Israeli troops are fortifying positions and continuing demolitions. Lebanese officials say Israel is expanding its presence inside occupied territory despite international calls for withdrawal.",
+      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T05:03:09.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "EU trade enforcers in Beijing demand China fix 'untenable' imbalances",
+      "source": "South China Morning Post",
+      "summary": "European Commission officials led by Denis Redonnet are pressing China to address trade imbalances before an October deadline set by Brussels. The talks aim to find a diplomatic off-ramp from a looming EU-China trade war.",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3366067/eu-trade-enforcers-descend-beijing-demanding-china-fix-untenable-imbalances?utm_source=rss_feed",
+      "publishedAt": "2026-09-02T10:12:52.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "South China Morning Post"
+      ],
+      "category": "economy",
+      "region": "global",
+      "importance": "major"
+    },
+    {
+      "title": "Israel bars U.S. citizens over Palestinian ties and criticism, lawyers say",
+      "source": "NPR News",
+      "summary": "Lawyers say travelers from the U.S. and other nations are denied entry to Israel after interrogations about Palestinian ties, West Bank travel plans and criticism of Israel. Activists and critics are among those affected.",
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
+      "publishedAt": "2026-09-02T09:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "middle-east",
+      "importance": "notable"
+    },
+    {
+      "title": "Ethiopia builds up troops near Sudanese border amid RSF fighting",
+      "source": "France 24",
+      "summary": "A major military buildup has been observed on Ethiopia's side of the Sudanese border as fighting intensifies between Sudan's army and the Rapid Support Forces. Sudan and Ethiopia each accuse the other of supporting rebel groups.",
+      "link": "https://www.france24.com/en/video/20260902-military-buildup-seen-in-ethiopia-near-sudanese-border",
+      "publishedAt": "2026-09-02T10:57:17.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Congress votes to fund government, averting shutdown before midterms",
+      "source": "NPR News",
+      "summary": "Congress approved legislation to fund the government, avoiding a shutdown ahead of the November midterm elections. The vote removes one immediate political flashpoint as lawmakers return to campaign season.",
+      "link": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
+      "publishedAt": "2026-09-02T11:08:04.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "UN warns world likely to overshoot 1.5C warming as leaders skip Fiji talks",
+      "source": "ABC Australia",
+      "summary": "A new UN report says the world is likely to breach the 1.5C warming limit. Many leaders shunned Australia's pre-COP meeting in Fiji, where Prime Minister Albanese defended the gathering amid criticism.",
+      "link": "https://www.abc.net.au/news/2026-09-02/global-warming-breach-likely-as-albanese-defends-pre-cop-meeting/107108178",
+      "publishedAt": "2026-09-02T08:47:38.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "ABC Australia"
+      ],
+      "category": "environment",
+      "region": "global",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 433,
+    "articlesAfterDedup": 429,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 11,
+    "categoryCounts": {
+      "conflict": 3,
+      "environment": 2,
+      "economy": 1,
+      "politics": 2
+    },
+    "regionCounts": {
+      "middle-east": 3,
+      "asia-pacific": 1,
+      "global": 2,
+      "africa": 1,
+      "americas": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 4
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

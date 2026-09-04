@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-04",
+  "summary": "Les secours népalais ont sorti vendredi deux ouvriers vivants d'un tunnel, neuf jours après la crue du 26 août. Le bilan atteint désormais 1 308 morts et 5 624 disparus, et près de 85 000 personnes ont perdu leur toit. Les recherches continuent dans des zones encore difficiles d'accès.\n\nEn Allemagne, l'attention se tourne vers le scrutin de dimanche en Saxe-Anhalt. L'AfD y est créditée de 41 % des voix, loin devant le parti conservateur du chancelier Friedrich Merz, à 23 %. Une victoire serait une première pour l'extrême droite depuis 1945, et les deux camps tiennent leurs derniers rassemblements vendredi à Magdebourg. Autre actualité allemande : Volkswagen a conclu un compromis pour supprimer 50 000 postes supplémentaires d'ici à 2030. Le constructeur évite un conflit, mais les sites concernés et son avenir technologique restent flous.\n\nSur le plan international, Donald Trump a affirmé que les États-Unis réclameront à l'Europe le remboursement des aides versées à Kiev, et a critiqué la baisse des stocks américains de munitions. En Argentine, Javier Milei a haussé le ton sur les Malouines, annonçant des sanctions durcies pour tout projet autour de l'archipel, après une déclaration de Donald Trump. À surveiller aussi : la piraterie somalienne connaît un regain dans le golfe d'Aden, avec six navires détournés depuis la mi-avril et plus de 90 marins pris en otage, profitant du redéploiement des forces navales internationales.\n\nEn France, la ministre de l'Agriculture Annie Genevard a présenté un plan d'un milliard d'euros pour les agriculteurs, avec des indemnisations accélérées et des aides au carburant prolongées, après un été climatique difficile. Emmanuel Macron a annoncé, en clôture de la Conférence nationale du handicap, une nouvelle stratégie nationale sur l'autisme dès la fin de l'année. Enfin, 17 familles portent plainte contre des élus et cadres de la mairie de Paris, dont Anne Hidalgo et Emmanuel Grégoire, dans le dossier du périscolaire, pour non-assistance à personne en danger et mise en danger de la vie d'autrui.",
+  "headlines": [
+    {
+      "title": "Inondations au Népal : les secours extraient deux ouvriers vivants d'un tunnel, 1 308 morts",
+      "source": "Le Monde",
+      "sources": [
+        "Le Monde",
+        "20 Minutes",
+        "France Info"
+      ],
+      "summary": "Les secours ont extrait vendredi 4 septembre deux ouvriers vivants d'un tunnel au Népal, neuf jours après la crue du 26 août. Le bilan atteint 1 308 morts et 5 624 disparus, avec près de 85 000 sinistrés.",
+      "link": "https://www.lemonde.fr/planete/article/2026/09/04/inondations-au-nepal-et-au-tibet-les-secours-extraient-deux-ouvriers-miracules-le-bilan-s-eleve-a-1-280-morts-et-plus-de-5-600-disparus_6765174_3245.html",
+      "publishedAt": "2026-09-04T04:40:14.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Monde",
+          "angle": "A ouvert avec le bilan actualisé et l'extraction de deux survivants d'un tunnel",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/04/inondations-au-nepal-et-au-tibet-les-secours-extraient-deux-ouvriers-miracules-le-bilan-s-eleve-a-1-280-morts-et-plus-de-5-600-disparus_6765174_3245.html"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A mis l'accent sur le sauvetage des deux ouvriers extraits vivants du tunnel",
+          "link": "https://www.20minutes.fr/monde/4242712-20260904-inondations-nepal-deux-ouvriers-extraits-vivants-tunnel?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France Info",
+          "angle": "A rapporté l'état des corps exténués et l'espoir d'autres survivants dans le tunnel",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/c-est-un-mira-cle-deux-ouvriers-ont-ete-sortis-vivants-d-un-tunnel-plus-d-une-semaine-apres-la-crue-catastrophique-au-nepal_8176586.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Volkswagen signe un accord pour supprimer 50 000 emplois supplémentaires d'ici à 2030",
+      "source": "Le Monde",
+      "summary": "Le constructeur allemand a conclu un compromis sans conflit pour supprimer 50 000 postes supplémentaires d'ici à 2030. Des questions restent ouvertes sur les sites concernés et l'avenir technologique du groupe.",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/04/volkswagen-signe-un-accord-pour-la-suppression-de-50-000-emplois-supplementaires-mais-laisse-de-nombreuses-questions-en-suspens_6765776_3234.html",
+      "publishedAt": "2026-09-04T10:45:05.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "economy",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'AfD pourrait remporter la Saxe-Anhalt, une première pour l'extrême droite depuis 1945",
+      "source": "RFI",
+      "summary": "À deux jours du scrutin, l'AfD est créditée de 41% des voix en Saxe-Anhalt, devant le parti de Friederich Merz (23%). Une victoire dimanche serait une première depuis 1945; les deux camps tiennent leurs derniers rassemblements vendredi à Magdebourg.",
+      "link": "https://www.rfi.fr/fr/europe/20260904-%C3%A9lections-r%C3%A9gionales-en-allemagne-la-possible-victoire-de-l-afd-inqui%C3%A8te-en-saxe-anhalt",
+      "publishedAt": "2026-09-04T07:00:36.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Les États-Unis réclameront à l'Europe le remboursement des aides versées à Kiev, dit Trump",
+      "source": "Le Figaro",
+      "summary": "Dans un message publié sur les réseaux sociaux, Donald Trump affirme que les États-Unis réclameront à l'Europe le remboursement des aides versées à Kiev. Il critique aussi la diminution des stocks de munitions américains.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-etats-unis-vont-reclamer-a-l-europe-le-remboursement-des-aides-versees-a-kiev-affirme-donald-trump-20260904",
+      "publishedAt": "2026-09-04T10:04:22.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Javier Milei durcit les sanctions autour des Malouines, soutenu par Donald Trump",
+      "source": "20 Minutes",
+      "summary": "Le président argentin a invoqué jeudi « des vents favorables » à la revendication sur les Malouines, après une déclaration de Donald Trump. Il a annoncé des sanctions durcies pour tout projet autour de l'archipel.",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4242720-20260904-argentine-president-milei-dope-trump-durcit-malouines?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-09-04T07:35:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Annie Genevard dévoile un plan de soutien aux agriculteurs doté d'un mlliard d'euros",
+      "source": "France Info",
+      "summary": "La ministre de l'Agriculture a présenté vendredi des indemnisations accélérées et des aides au carburant prolongées. L'enveloppe d'un mlliard d'euros doit éviter des faillites après un été climatiquement difficile.",
+      "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/indemnisations-accelerees-aides-au-carburant-prolongees-ce-qu-il-faut-retenir-du-plan-de-soutien-aux-agriculteurs-devoile-par-la-ministre-annie-genevard_8176580.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-09-04T09:18:02.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La piraterie somalienne refait surface dans le golfe d'Aden avec six navires détournés",
+      "source": "RFI",
+      "summary": "Depuis la mi-avril, six navires ont été détournés et plus de 90 marins pris en otage dans le golfe d'Aden. Les pirates ont changé de méthods et profitent du redéploiement des forces navales internationales.",
+      "link": "https://www.rfi.fr/fr/afrique/20260904-dans-le-golfe-d-aden-la-piraterie-somalienne-refait-surface",
+      "publishedAt": "2026-09-04T06:15:51.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "Périscolaire à Paris : 17 familles portent plainte contre Anne Hidago et Emmanuel Grégoire",
+      "source": "Le Figaro",
+      "summary": "Le collectif #MeTooÉcole et les avocats des familles ont annoncé vendredi 4 septembre déposer plainte contre des élus et cadres de la mairie de Paris, notamment pour non-assistance à personne en danger et mise en danger de la vie d'autrui.",
+      "link": "https://www.lefigaro.fr/actualite-france/scandale-du-periscolaire-a-paris-17-familles-deposent-plainte-contre-emmanuel-gregoire-et-anne-hidalgo-20260904",
+      "publishedAt": "2026-09-04T10:13:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Emmanuel Macron annonce une nouvelle stratégie nationale sur l'autisme pour la fin de l'année",
+      "source": "France Info",
+      "summary": "En clôture de la Conférence nationale sur le handicap, vendredi 4 septembre, Emmanuel Macron a annoncé le lancement « dès la fin de l'année » d'une nouvelle stratégie nationale sur l'autisme.",
+      "link": "https://www.franceinfo.fr/sante/handicap/direct-ecole-logement-accessibilite-emmanuel-macron-attendu-avec-des-annonces-a-la-conference-nationale-sur-le-handicap_8174987.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-09-04T11:11:25.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "France Info"
+      ],
+      "category": "science",
+      "region": "europe",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 218,
+    "articlesAfterDedup": 216,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 15,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 6.7,
+    "categoryCounts": {
+      "environment": 1,
+      "economy": 1,
+      "politics": 5,
+      "conflict": 1,
+      "science": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "europe": 6,
+      "americas": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-05",
+  "summary": "Au Népal, les secours ont extrait un troisième rescapé d'un tunnel, après la coulée d'eau, de glace et de débris qui a frappé la frontière avec la Chine. Hier, deux ouvriers avaient déjà été sauvés. Le bilan s'alourdit : 1 375 morts et plus de 5 600 disparus, dont plusieurs centaines de touristes, de pèlerins ou d'ouvriers étrangers. Les recherches continuent, et des familles attendent encore des nouvelles des disparus.\n\nSur le front diplomatique, les émissaires de Donald Trump, Jared Kushner et Steve Witkoff, sont à Moscou pour rencontrer Vladimir Poutine. Ils portent un plan de paix et doivent se rendre à Kiev dimanche, une première. Les deux hommes se sont déjà rendus à Moscou à plusieurs reprises, mais ce déplacement à Kiev est négocié depuis des mois. Pendant ce temps, la Russie a bombardé les aéroports de la capitale ukrainienne, a dénoncé Volodymyr Zelensky.\n\nDans le golfe Persique, des médias iraniens ont signalé des explosions près de l'île de Kharg, où se trouve un important terminal pétrolier. L'agence SNN affirme qu'un pétrolier iranien a été ciblé par les États-Unis, sans confirmation. L'agence Fars, elle, dit qu'aucune fumée n'était visible. Par ailleurs, les États-Unis ont soumis une cinquantaine de hauts gradés au détecteur de mensonges, après des révélations sur l'épuisement des stocks de munitions pendant la guerre contre l'Iran. Donald Trump dément toute pénurie, et l'enquête se poursuit.\n\nEn Allemagne, à la veille du scrutin régional de dimanche en Saxe-Anhalt, le chef local de l'AfD, Ulrich Siegmund, a affirmé que son parti avait « déjà gagné ». Créditée de 41 %, l'AfD pourrait remporter son premier Land, une première pour l'extrême droite depuis 1945. En Europe, cinq pays — Danemark, Autriche, Allemagne, Pays-Bas, Grèce — ont avancé vers la création de centres de retour pour migrants déboutés, avec un accord avec un pays tiers visé début 2027. Enfin, la France a rejeté fermement les accusations du Niger, qui l'accuse d'avoir incité des militaires à se rebeller lors d'une tentative de coup d'État fin août. Les relations entre Paris et Niamey restent très tendues.",
+  "headlines": [
+    {
+      "title": "Népal : les secours extraient un troisième rescapé du tunnel, 1 375 morts",
+      "source": "Liberation",
+      "summary": "Un troisième rescapé a été retrouvé vivant dans un tunnel après la coulée d’eau, de glace et de débris à la frontière népalo-chinoise. Le bilan atteint 1 375 morts et plus de 5 600 disparus. Les recherches continuent.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/crues-au-nepal-un-troisieme-rescape-extrait-dun-tunnel-les-recherches-continuent-20260905_SKRPZ4BJIFCNZBM5B47IYA2MOU/",
+      "publishedAt": "2026-09-05T10:32:45.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Liberation",
+        "Libération"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les émissaires de Trump arrivent à Moscou, la Russie bombarde les aéroports de Kiev",
+      "source": "Le Figaro",
+      "sources": [
+        "Le Figaro",
+        "20 Minutes",
+        "Le Monde",
+        "RFI",
+        "France 24",
+        "Libération"
+      ],
+      "summary": "Jared Kushner et Steve Witkoff, envoyés de Donald Trump, sont à Moscou pour rencontrer Vladimir Poutine avant une première visite à Kiev dimanche. Ils portent un plan de paix. La Russie a bombardé les aéroports de Kiev, dénonce Volodymyr Zelensky.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-premiere-visite-a-kiev-des-emissaires-de-donald-trump-dimanche-20260904",
+      "publishedAt": "2026-09-05T10:18:48.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "Le Figaro",
+          "angle": "Ouvre avec l'arrivée des émissaires et les frappes sur les aéroports de Kiev.",
+          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-premiere-visite-a-kiev-des-emissaires-de-donald-trump-dimanche-20260904"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "Souligne que Moscou a bombardé deux aéroports de Kiev avant l'arrivée des émissaires.",
+          "link": "https://www.20minutes.fr/monde/4242952-20260905-guerre-ukraine-aeroports-kiev-bombardes-russie-avant-arrivee-emissaires-americains?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "Le Monde",
+          "angle": "Rapporte l'arrivée à Moscou, l'entretien samedi avec Poutine et la visite à Kiev dimanche.",
+          "link": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-volodymyr-zelensky-denonce-des-frappes-russes-sur-les-aeroports-de-kiev-et-de-boryspil-avant-la-visite-de-jared-kushner-et-de-steve-witkoff_6760568_3210.html"
+        },
+        {
+          "source": "RFI",
+          "angle": "Détaille l'ordre du week-end des émissaires et note que les bombardements russes sur Kiev continuent.",
+          "link": "https://www.rfi.fr/fr/europe/20260905-guerre-ukraine-les-%C3%A9missaires-%C3%A9tatsuniens-kushner-witkoff-moscou-kiev-attaques-drones"
+        },
+        {
+          "source": "France 24",
+          "angle": "Présente le déplacement des émissaires comme un plan américain pour mettre fin à la guerre.",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260905-trump-envoie-ses-%C3%A9missaires-en-ukraine-un-plan-pour-mettre-fin-%C3%A0-la-guerre"
+        },
+        {
+          "source": "Libération",
+          "angle": "Rapporte la déclaration de Trump: «Nous avons une idée pour la paix».",
+          "link": "https://www.liberation.fr/international/europe/guerre-en-ukraine-trump-envoie-ses-emissaires-a-moscou-et-a-kyiv-20260905_SSK3ISIWH5BFZKL262VHQKAC7U/"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Les États-Unis soumettent une cinquantaine de hauts responsables militaires au détecteur de mensonges",
+      "source": "Le Figaro",
+      "summary": "Après des révélations sur l'épuisement des stocks de munitions pendant la guerre contre l'Iran, les États-Unis ont soumis une cinquantaine de hauts gradés au détecteur de mensonges. Donald Trump dément toute pénurie. L'enquête se poursuit.",
+      "link": "https://www.lefigaro.fr/international/c-est-sans-precedent-une-cinquantaine-de-hauts-responsables-militaires-americains-soumis-au-detecteur-de-mensonges-20260905",
+      "publishedAt": "2026-09-05T09:49:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Des médias iraniens signalent des explosions près de l'île stratégique de Kharg",
+      "source": "Le Figaro",
+      "summary": "Des médias iraniens ont rapporté des explosions près de l'île de Kharg, dans le golfe Persique. Un pétrolier iranien aurait été ciblé par les États-Unis, selon l'agence SNN, sans confirmation. Aucune fumée n'était visible selon Fars.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-iran-des-medias-locaux-font-etat-d-explosions-a-proximite-de-l-ile-strategique-de-kharg-dans-le-golfe-persique-20260905",
+      "publishedAt": "2026-09-05T07:54:33.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Le Figaro"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Cinq pays européens avancent sur les hubs de retour pour migrants déboutés",
+      "source": "RFI",
+      "summary": "Le Danemark, l'Autriche, l'Allemagne, les Pays-Bas et la Grèce ont franchi une première étape vendredi vers la création de centres de retour pour migrants déboutés. Ils visent un accord avec un pays tiers début 2027.",
+      "link": "https://www.rfi.fr/fr/europe/20260905-migrations-cinq-pays-europ%C3%A9ens-mise-en-place-hubs-de-retour-pour-migrants-d%C3%A9bout%C3%A9s",
+      "publishedAt": "2026-09-05T05:37:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "society",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "La France rejette fermement les accusations nigériennes de mutinerie",
+      "source": "20 Minutes",
+      "summary": "Le régime de Niamey accuse Paris d'avoir incité des militaires à se rebeller lors d'une tentative de coup d'État fin août. La France rejette fermement ces accusations. Les relations entre les deux pays restent très tendues.",
+      "link": "https://www.20minutes.fr/monde/4242945-20260905-mutinerie-niger-france-rejette-fermement-accusations-niamey?at_medium=display&at_campaign=149",
+      "publishedAt": "2026-09-05T08:46:52.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "20 Minutes"
+      ],
+      "category": "politics",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "L'AfD, créditée de 41 %, affirme avoir déjà gagné en Saxe-Anhalt",
+      "source": "RFI",
+      "summary": "À la veille du scrutin régional de dimanche, le chef local de l'AfD, Ulrich Siegmund, a affirmé à Magdebourg que son parti avait «déjà gagné». Créditée de 41 %, l'AfD pourrait remporter son premier Land, une première pour l'extrême droite depuis 1945.",
+      "link": "https://www.rfi.fr/fr/europe/20260905-nous-avons-d%C3%A9j%C3%A0-gagn%C3%A9-en-saxe-anhalt-l-afd-n-envisage-que-la-victoire-aux-%C3%A9lections-r%C3%A9gionales-allemandes",
+      "publishedAt": "2026-09-05T03:05:09.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "L'AfD, créditée de 41 % des suffrages, pourrait remporter dimanche la Saxe-Anhalt, son premier Land, une première pour l'extrême droite depuis 1945.",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 7,
+    "articlesProcessed": 217,
+    "articlesAfterDedup": 216,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 7.6,
+    "categoryCounts": {
+      "environment": 1,
+      "conflict": 2,
+      "politics": 3,
+      "society": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 1,
+      "europe": 3,
+      "americas": 1,
+      "middle-east": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 2,
+      "also": 4,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

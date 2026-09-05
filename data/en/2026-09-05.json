@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-05",
+  "summary": "Steve Witkoff, President Trump’s special envoy, and Jared Kushner, his son-in-law, landed in Moscow on Saturday for talks, with a visit to Kyiv planned next. The trip is Washington’s most concrete move yet to revive peace negotiations in the four-year war. The two men are expected to meet Russian officials before heading to Ukraine, where the government has said it will not accept any deal imposed without its consent.\n\nIn Germany, voters in the state of Saxony-Anhalt go to the polls Sunday, and the far-right Alternative for Germany could win its strongest result ever — potentially its first state governor. That would test the country’s postwar taboo on extremists in power. The election is being watched closely across Europe. So is a string of suspicious incidents on the continent: Germany has blamed Russia for an attack on Leipzig airport, and investigators increasingly attribute a series of similar episodes to Russian sabotage, raising alarms about critical infrastructure.\n\nThe U.S.-Iran war escalated again. Iranian media say four American missiles struck a tanker anchored near Kharg Island, Iran’s main oil terminal. The strike follows a day in which oil prices jumped 7.6% as the Strait of Hormuz remains closed, squeezing global supply chains. In the Philippines, Vice President Sara Duterte posted bail after an arrest order was issued for publicly threatening to arrange the assassination of President Ferdinand Marcos Jr. and two others. She faces charges of serious threats.\n\nElsewhere, a secret dossier reviewed by The New York Times adds evidence that Sudan’s military developed and used toxic bombs in its civil war, strengthening the case for war-crimes scrutiny. In the Caucasus, negotiators secured a preliminary agreement last year to end decades of Armenia-Azerbaijan conflict by offering access to advanced Nvidia AI chips — the latest example of chip diplomacy. And in Brazil, the former air force commander, Carlos de Almeida Baptista Júnior, describes in a new book how he resisted then-President Jair Bolsonaro’s plan to overturn his 2022 election loss — a decision he says cost him friendships. His account is a reminder of how close the country came to a coup.",
+  "headlines": [
+    {
+      "title": "Trump envoys land in Moscow for Ukraine talks, plan Kyiv next",
+      "source": "New York Times World",
+      "sources": [
+        "New York Times World",
+        "France 24"
+      ],
+      "summary": "Steve Witkoff and Jared Kushner, President Trump's special envoy and son-in-law, arrived in Moscow on Saturday for negotiations and plan to visit Kyiv next, as Washington works to revive peace talks in the four-year war.",
+      "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "publishedAt": "2026-09-05T10:05:20.000Z",
+      "tier": "top",
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "AfD could win Saxony-Anhalt election, delivering first far-right governor",
+      "source": "New York Times World",
+      "summary": "Sunday's election in Saxony-Anhalt could hand the far-right Alternative for Germany its strongest result ever and potentially its first state governor, testing Germany's postwar taboo on extremists in power.",
+      "link": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html",
+      "publishedAt": "2026-09-05T04:01:07.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Secret dossier adds to evidence Sudan's military used chemical weapons",
+      "source": "New York Times World",
+      "summary": "A secret dossier reviewed by The New York Times bolsters allegations that Sudan's military developed and dropped toxic bombs during its devastating civil war, adding evidence for potential war-crimes scrutiny.",
+      "link": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html",
+      "publishedAt": "2026-09-05T09:02:51.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "New York Times World"
+      ],
+      "category": "conflict",
+      "region": "africa",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. offered Nvidia chips to help broker Armenia-Azerbaijan peace deal",
+      "source": "Wall Street Journal World",
+      "summary": "Negotiators secured a preliminary agreement last year to end decades of Armenia-Azerbaijan conflict by offering access to advanced Nvidia AI chips, the latest example of U.S. chip diplomacy.",
+      "link": "https://www.wsj.com/world/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-b6c7cb6e?mod=rss_worldnews",
+      "publishedAt": "2026-09-04T23:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Wall Street Journal World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Philippines Vice President Duterte posts bail after arrest order",
+      "source": "NPR News",
+      "summary": "Philippines Vice President Sara Duterte posted bail Saturday after an arrest order was issued for publicly threatening to arrange the assassination of President Ferdinand Marcos Jr. and two others.",
+      "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
+      "publishedAt": "2026-09-05T07:21:10.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "NPR News"
+      ],
+      "category": "politics",
+      "region": "asia-pacific",
+      "importance": "notable"
+    },
+    {
+      "title": "Sabotage campaign targets Europe as Germany blames Russia for Leipzig airport attack",
+      "source": "BBC World",
+      "summary": "Germany accused Russia of an attack on Leipzig airport, part of a series of suspicious incidents across Europe that investigators increasingly attribute to Russian sabotage, raising alarm over critical infrastructure.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T16:49:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "europe",
+      "importance": "breaking"
+    },
+    {
+      "title": "Tunisia court upholds convictions of 34 in 'conspiracy case', Amnesty says",
+      "source": "AllAfrica",
+      "summary": "Tunisia's Court of Cassation upheld prison sentences against 34 defendants in what Amnesty International calls a politically motivated 'conspiracy case', a decision it says is a travesty of justice.",
+      "link": "https://allafrica.com/stories/202609040402.html",
+      "publishedAt": "2026-09-04T12:25:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    },
+    {
+      "title": "Former Brazil air force chief reveals effort to stop Bolsonaro's 2022 coup plot",
+      "source": "The Guardian",
+      "summary": "Former Brazilian air force commander Carlos de Almeida Baptista Júnior describes in a new book how he resisted then-President Jair Bolsonaro's plan to overturn his 2022 election loss, saying it cost him friendships.",
+      "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
+      "publishedAt": "2026-09-05T10:00:34.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "politics",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "U.S. missiles strike Iranian tanker near Kharg Island, reports say",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu",
+        "Deutsche Welle"
+      ],
+      "summary": "Iranian media said four U.S. missiles struck a tanker at anchorage near Kharg Island, Iran's main oil terminal, in the latest escalation of a U.S.-Iran war that has closed the Strait of Hormuz and driven oil prices up.",
+      "link": "https://www.thehindu.com/news/international/explosions-in-kharg-island-area-of-gulf/article71431525.ece",
+      "publishedAt": "2026-09-05T10:29:59.000Z",
+      "tier": "developing",
+      "dayNumber": 2,
+      "previousContext": "The U.S.-Iran war has closed the Strait of Hormuz, sending oil prices up 7.6%.",
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 9,
+    "articlesProcessed": 420,
+    "articlesAfterDedup": 419,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 22.2,
+    "categoryCounts": {
+      "politics": 5,
+      "conflict": 3,
+      "society": 1
+    },
+    "regionCounts": {
+      "europe": 4,
+      "africa": 2,
+      "asia-pacific": 1,
+      "americas": 1,
+      "middle-east": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 5,
+      "developing": 1
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

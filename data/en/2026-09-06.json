@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-06",
+  "summary": "United States and Iran traded strikes on ships in the Strait of Hormuz, with Washington saying it hit three Iranian oil tankers and Tehran saying it targeted three U.S.-linked vessels. The attacks mark a new flare-up in fighting between the two countries over one of the world's busiest oil shipping lanes, through which a large share of global crude moves. The strait is a critical chokepoint for global energy shipments. There were no immediate reports of casualties, but the upshot is a more dangerous route for tankers — and a fresh reminder of how quickly the standoff could disrupt energy supplies.\n\nTrump's top negotiators, Steve Witkoff and Jared Kushner, arrived in Kyiv on their first trip as peace envoys, after meeting Vladimir Putin in Moscow. The U.S. is pushing to revive talks to end Russia's full-scale invasion of Ukraine; no details of their meetings were released. The visit is part of a broader White House diplomatic push to broker an end to the war. In Germany, voters in the eastern state of Saxony-Anhalt went to the polls Sunday with the far-right, anti-immigration and Moscow-friendly AfD expected to win easily. A victory could hand the party its first state governor and would test its strength in the former communist east.\n\nElsewhere, an attack late Friday involving explosives dropped from drones, followed by a clash inside a military compound in north-eastern Colombia, killed at least three soldiers and wounded four. The army and local authorities blamed the National Liberation Army (ELN), raising fears of escalating rebel violence. Israeli air attacks killed at least four people in southern Lebanon, including two women in Arab Salim and two in Nabatieh al-Fawqa, as regional violence continues. And Tunisia's Court of Cassation, the country's highest criminal court, upheld the convictions and lengthy prison sentences of 34 defendants in what Amnesty International calls a politically motivated conspiracy case. Amnesty's Yasmine Ahmed called the decision a travesty of justice in a statement, and the defendants remain in prison.",
+  "headlines": [
+    {
+      "title": "U.S. and Iran trade strikes on ships in the Strait of Hormuz",
+      "source": "BBC World",
+      "summary": "The U.S. says it hit three Iranian oil tankers, while Iran says it targeted three U.S.-linked ships. The attacks mark a new flare-up in fighting between the two countries over the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T22:44:07.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Trump envoys Witkoff and Kushner arrive in Kyiv for first talks",
+      "source": "BBC World",
+      "summary": "Steve Witkoff and Jared Kushner are in Kyiv for their first trip as Trump's top negotiators, after meeting Vladimir Putin in Moscow. The U.S. is pushing to revive peace talks in Russia's full-scale invasion.",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T10:44:26.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "BBC World"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Germany's far-right AfD clear frontrunner in Saxony-Anhalt vote",
+      "source": "France 24",
+      "summary": "Voters in Saxony-Anhalt cast ballots Sunday with the far-right, anti-immigration, Moscow-friendly AfD expected to win easily and potentially deliver Germany's first AfD state governor. The result tests the party's strength in the east.",
+      "link": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote",
+      "publishedAt": "2026-09-06T08:59:26.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "France 24"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "Drone attack blamed on ELN rebels kills three soldiers in Colombia",
+      "source": "The Guardian",
+      "summary": "A drone-dropped explosive attack followed by a clash inside a military compound in north-eastern Colombia killed at least three soldiers and wounded four. The army blamed the National Liberation Army (ELN). The attack raises fears of escalating rebel violence.",
+      "link": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+      "publishedAt": "2026-09-05T22:16:55.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "The Guardian"
+      ],
+      "category": "conflict",
+      "region": "americas",
+      "importance": "notable"
+    },
+    {
+      "title": "Israeli air attacks on southern Lebanon kill at least four",
+      "source": "Al Jazeera English",
+      "summary": "Israeli air attacks killed at least four people in southern Lebanon, including two women in Arab Salim and two in Nabatieh al-Fawqa. The strikes come as regional violence continues.",
+      "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
+      "publishedAt": "2026-09-06T09:15:20.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "major"
+    },
+    {
+      "title": "Tunisia court upholds 34 conspiracy-case convictions, Amnesty says",
+      "source": "AllAfrica",
+      "summary": "Tunisia's Court of Cassation upheld the convictions and lengthy prison sentences of 34 defendants in the political conspiracy case. Amnesty International's Yasmine Ahmed called the decision a travesty of justice. The defendants remain in prison.",
+      "link": "https://allafrica.com/stories/202609040402.html",
+      "publishedAt": "2026-09-04T12:25:22.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "AllAfrica"
+      ],
+      "category": "society",
+      "region": "africa",
+      "importance": "notable"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 5,
+    "articlesProcessed": 387,
+    "articlesAfterDedup": 382,
+    "articlesAfterDiversity": 65,
+    "articlesAfterFilter": 20,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 46.5,
+    "categoryCounts": {
+      "conflict": 3,
+      "politics": 2,
+      "society": 1
+    },
+    "regionCounts": {
+      "middle-east": 2,
+      "europe": 2,
+      "americas": 1,
+      "africa": 1
+    },
+    "tierCounts": {
+      "top": 3,
+      "also": 3
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

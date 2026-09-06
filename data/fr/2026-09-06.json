@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-06",
+  "summary": "La crue himalayenne continue de faire des ravages. Les autorités chinoises ont relevé dimanche le bilan au Tibet : 43 morts et 519 disparus, contre 31 morts et 531 disparus vendredi. Au Népal, les secours comptent au moins 1 341 morts et près de 5 000 disparus. Les recherches se poursuivent dans des zones difficiles d'accès, et les bilans pourraient encore évoluer.\n\nSur le front diplomatique, les émissaires américains Steve Witkoff et Jared Kushner sont arrivés à Kiev dimanche pour rencontrer Volodymyr Zelensky, un jour après leurs pourparlers à Moscou avec Vladimir Poutine. C'est leur première visite en Ukraine dans le cadre de la médiation américaine. Les tensions restent vives dans le Golfe : l'Iran a revendiqué une attaque contre un drone naval américain dans le détroit d'Ormuz, en riposte à des frappes américaines sur trois de ses pétroliers. Cette escalade accentue les tensions régionales.\n\nEn Allemagne, l'AfD pourrait réussir une percée historique. Les bureaux de vote sont ouverts en Saxe-Anhalt, où le parti d'extrême droite est crédité de plus de 40 % des voix, près de 20 points devant la CDU du chancelier Friedrich Merz. Une victoire serait une première pour une formation radicale dans un Land depuis la Seconde Guerre mondiale. Au Canada, le premier ministre Fréchette réunit ses ministres lundi matin, quelques heures avant l'entrée en vigueur des contre-tarifs canadiens en réponse aux droits de douane américains. La réunion doit coordonner la riposte commerciale.\n\nAu Proche-Orient, quatre personnes, dont deux femmes, ont été tuées par des frappes israéliennes dans le sud du Liban, et vingt autres blessées, selon le ministère de la Santé. L'armée israélienne dit avoir riposté après le lancement par le Hezbollah de deux drones contre ses soldats. En Indonésie, l'éruption du volcan Anak Krakatoa a conduit les autorités à suspendre les vols dans six aéroports, dont celui de Jakarta. Enfin, en France, Rachida Dati va réintégrer la magistrature alors qu'elle doit être jugée pour corruption, et aux États-Unis, un agent de l'ICE a été inculpé au niveau fédéral pour la première fois.",
+  "headlines": [
+    {
+      "title": "La crue himalayenne fait 43 morts et 519 disparus au Tibet, 1 341 au Népal",
+      "source": "France Info",
+      "sources": [
+        "France Info",
+        "20 Minutes"
+      ],
+      "summary": "Les autorités chinoises portent le bilan à 43 morts et 519 disparus au Tibet, contre 31 morts et 531 disparus vendredi. Au Népal, on compte au moins 1 341 morts et près de 5 000 disparus; les recherches continuent.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/le-bilan-de-la-crue-dans-l-himalaya-porte-a-43-morts-et-519-disparus-au-tibet-au-moins-1-341-morts-et-pres-de-5-000-disparus-au-nepal-voisin_8179682.html#xtor=RSS-3-[lestitres]",
+      "publishedAt": "2026-09-06T10:30:24.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "France Info",
+          "angle": "A annoncé la hausse du bilan officiel et comparé avec le précédent décompte",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/le-bilan-de-la-crue-dans-l-himalaya-porte-a-43-morts-et-519-disparus-au-tibet-au-moins-1-341-morts-et-pres-de-5-000-disparus-au-nepal-voisin_8179682.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A décrit les opérations de secours toujours en cours dans le nord du Népal",
+          "link": "https://www.20minutes.fr/monde/4243009-20260906-nepal-onze-jours-apres-crue-secours-recherchent-toujours-survivants?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "major"
+    },
+    {
+      "title": "Les émissaires américains Witkoff et Kushner arrivent à Kiev pour rencontrer Zelensky",
+      "source": "Le Monde",
+      "summary": "Les émissaires américains Steve Witkoff et Jared Kushner sont arrivés à Kiev dimanche 6 septembre pour s'entretenir avec Volodymyr Zelensky, un jour après des pourparlers à Moscou avec Vladimir Poutine. Cette première visite s'inscrit dans les efforts de médiation américains.",
+      "link": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-attendus-a-kiev-apres-apres-avoir-rencontre-vladimir-poutine-samedi-a-moscou_6766818_3210.html",
+      "publishedAt": "2026-09-06T09:40:11.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "Le Monde"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "major"
+    },
+    {
+      "title": "L'Iran attaque un drone naval américain après des frappes américaines sur trois pétroliers",
+      "source": "RFI",
+      "summary": "L'Iran a revendiqué dimanche 6 septembre une attaque contre un drone naval américain dans le détroit d'Ormuz, en riposte à des frappes américaines sur trois de ses pétroliers dans le Golfe. Les répliques croisées accentuent les tensions dans la région.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260906-en-direct-moyen-orient-iran-etats-unis-r%C3%A9pliques-croisees-frappes-p%C3%A9troliers-drones-ormuz",
+      "publishedAt": "2026-09-06T06:27:33.000Z",
+      "tier": "top",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "L'AfD, créditée de 41 %, vise une victoire historique en Saxe-Anhalt",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "20 Minutes"
+      ],
+      "summary": "Les bureaux de vote ont ouvert dimanche 6 septembre en Saxe-Anhalt. L'AfD, créditée de plus de 40 % des voix, devance la CDU d'environ 20 points et pourrait diriger cette région d'ex-RDA, une première depuis 1945.",
+      "link": "https://www.rfi.fr/fr/europe/20260906-allemagne-les-%C3%A9lecteurs-se-rendent-aux-urnes-en-saxe-anhalt-un-scrutin-test-pour-l-afd",
+      "publishedAt": "2026-09-06T06:14:35.000Z",
+      "tier": "top",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A ouvert sur l'ouverture des bureaux de vote et le score attendu de l'AfD",
+          "link": "https://www.rfi.fr/fr/europe/20260906-allemagne-les-%C3%A9lecteurs-se-rendent-aux-urnes-en-saxe-anhalt-un-scrutin-test-pour-l-afd"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A mis l'accent sur l'inquiétude des habitants face à l'extrême droite",
+          "link": "https://www.20minutes.fr/monde/allemagne/4243007-20260906-allemagne-extreme-droite-portes-pouvoir-saxe-anhalt-inquiete-habitants?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Israël frappe le sud du Liban: quatre morts après des drones du Hezbollah",
+      "source": "RFI",
+      "sources": [
+        "RFI",
+        "20 Minutes"
+      ],
+      "summary": "Quatre personnes, dont deux femmes, sont mortes dans des frappes israéliennes sur le sud du Liban. L'armée israélienne dit riposter à des drones du Hezbollah; vingt autres personnes ont été blessées. Le bilan provisoire a été annoncé dimanche.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260906-liban-l-arm%C3%A9e-isra%C3%A9lienne-reprend-ses-bombardements-dans-le-sud-et-lance-un-ordre-d-%C3%A9vacuation",
+      "publishedAt": "2026-09-06T07:08:57.000Z",
+      "tier": "also",
+      "framings": [
+        {
+          "source": "RFI",
+          "angle": "A détaillé le bilan, les lieux des frappes et l'ordre d'évacuation",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20260906-liban-l-arm%C3%A9e-isra%C3%A9lienne-reprend-ses-bombardements-dans-le-sud-et-lance-un-ordre-d-%C3%A9vacuation"
+        },
+        {
+          "source": "20 Minutes",
+          "angle": "A ouvert sur les quatre morts et la riposte israélienne aux drones du Hezbollah",
+          "link": "https://www.20minutes.fr/monde/israel/4243010-20260906-guerre-moyen-orient-quatre-morts-dont-deux-femmes-frappes-israeliennes-liban?at_medium=display&at_campaign=149"
+        }
+      ],
+      "singleSource": false,
+      "category": "conflict",
+      "region": "middle-east",
+      "importance": "breaking"
+    },
+    {
+      "title": "Fréchette convoque ses ministres lundi avant les contre-tarifs canadiens",
+      "source": "Radio-Canada",
+      "summary": "Le premier ministre canadien Fréchette réunira ses ministres lundi 7 septembre, quelques heures avant l'entrée en vigueur des contre-tarifs canadiens en réponse aux droits de douane américains. Cette réunion spéciale vise à coordonner la riposte commerciale.",
+      "link": "https://ici.radio-canada.ca/nouvelle/2281055/frechette-conseil-ministre-tarifs-trump",
+      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "Radio-Canada"
+      ],
+      "category": "economy",
+      "region": "americas",
+      "importance": "major"
+    },
+    {
+      "title": "L'éruption du volcan Anak Krakatoa suspend les vols dans six aéroports indonésiens",
+      "source": "RFI",
+      "summary": "Les autorités indonésiennes ont suspendu dimanche 6 septembre les activités de six aéroports, dont celui de Jakarta, après l'éruption du volcan Anak Krakatoa à plus de 150 km de la capitale, a annoncé le ministre des Transports.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20260906-indon%C3%A9sie-les-vols-suspendus-dans-six-a%C3%A9roports-apr%C3%A8s-l-%C3%A9ruption-du-volcan-krakatoa",
+      "publishedAt": "2026-09-06T09:12:14.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RFI"
+      ],
+      "category": "environment",
+      "region": "asia-pacific",
+      "importance": "breaking"
+    },
+    {
+      "title": "Rachida Dati, bientôt jugée pour corruption, va réintégrer la magistrature",
+      "source": "RTBF (Belgian)",
+      "summary": "Battue aux municipales à Paris en mars, l'actuelle maire LR du VIIe arrondissement, âgée de 60 ans, a obtenu un poste de magistrate, alors qu'elle sera jugée pour corruption.",
+      "link": "https://www.rtbf.be/article/france-bientot-jugee-pour-corruption-rachida-dati-va-reintegrer-a-sa-demande-la-magistrature-11780241",
+      "publishedAt": "2026-09-04T20:58:46.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)"
+      ],
+      "category": "politics",
+      "region": "europe",
+      "importance": "notable"
+    },
+    {
+      "title": "Pour la première fois, un agent d'ICE est inculpé au niveau fédéral",
+      "source": "RTBF (Belgian)",
+      "summary": "Pour la première fois, un agent de la police de l'immigration américaine (ICE) a été inculpé au niveau fédéral. Il est apparu en tenue de prisonnier, selon des images diffusées par le bureau du shérif.",
+      "link": "https://www.rtbf.be/article/certains-policiers-de-ice-la-police-de-l-immigration-americaine-sont-ils-rattrapes-par-la-justice-pour-la-premiere-fois-un-agent-est-inculpe-au-niveau-federal-11780002",
+      "publishedAt": "2026-09-04T17:41:15.000Z",
+      "tier": "also",
+      "singleSource": true,
+      "sources": [
+        "RTBF (Belgian)"
+      ],
+      "category": "society",
+      "region": "americas",
+      "importance": "major"
+    }
+  ],
+  "metadata": {
+    "sourcesUsed": 6,
+    "articlesProcessed": 209,
+    "articlesAfterDedup": 207,
+    "articlesAfterDiversity": 45,
+    "articlesAfterFilter": 17,
+    "freshnessCutoffHours": 48,
+    "oldestHeadlineAgeHours": 41.4,
+    "categoryCounts": {
+      "environment": 2,
+      "politics": 3,
+      "conflict": 2,
+      "economy": 1,
+      "society": 1
+    },
+    "regionCounts": {
+      "asia-pacific": 2,
+      "europe": 3,
+      "middle-east": 2,
+      "americas": 2
+    },
+    "tierCounts": {
+      "top": 4,
+      "also": 5
+    },
+    "qualityWarnings": [],
+    "qualityErrors": []
+  }
+}

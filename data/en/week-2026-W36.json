@@ -1,0 +1,180 @@
+{
+  "weekId": "2026-W36",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-06",
+  "summary": "Over the past week, the most consequential development was the rapid escalation between the United States and Iran. On September 2, the two countries traded strikes after Washington cited a mining threat in the Strait of Hormuz. The next day, Iran attacked U.S. bases in Kuwait and the UAE with missiles and drones. By September 4, oil prices had jumped 7.6 percent with the strait still closed, and on September 6 the two sides again struck ships in the waterway. The conflict remained unresolved and dominated global attention.\n\nIn parallel, the humanitarian disaster in Nepal continued to worsen. The flood death toll passed 1,000 on September 1 and reached 1,270 by September 3, as thousands remained missing. On September 4, rescuers pulled two men alive from a tunnel nine days after the flood, offering a rare positive development. The crisis developed steadily through the week.\n\nIn Germany, the far-right AfD emerged as the clear frontrunner in Saxony-Anhalt, with polls on September 4 and 5 pointing to a possible first far-right governor, and by September 6 the party was described as a clear favorite ahead of the vote.\n\nSeparately, U.S. special envoy talks on Ukraine moved forward. On September 5, Trump envoys landed in Moscow, and on September 6 they arrived in Kyiv for first talks, marking a notable diplomatic push.\n\nOther stories persisted without resolution. The EU's trade enforcers were in Beijing on September 2 demanding China address imbalances. Ebola deaths in DR Congo topped 3,000 on September 3, with WHO planning vaccine trials. Israeli troops continued fortifying positions in occupied Lebanon on September 2, and a secret dossier on September 5 added evidence Sudan's military used chemical weapons.\n\nSeveral stories from August 31 faded quickly, including the glacier collapse flooding that killed at least 900, nonstop Russian drone raids on Kyiv, accusations by former Israeli generals of settler ethnic cleansing in the West Bank, Macron's visit to Sweden, and the collapse of Japan's opposition merger after Komeito rejected a unified caucus. These were prominent only for a day and did not develop further.",
+  "persistentStories": [],
+  "fadedStories": [
+    "Glacier collapse floods kill at least 900; 4,000 remain missing",
+    "Nonstop Russian drone raids force Kyiv into dangerous new phase of war",
+    "Former Israeli generals accuse West Bank settlers of ethnic cleansing",
+    "Macron visits Sweden to boost defense ties and nuclear deterrence",
+    "Komeito rejects unified caucus as Japan opposition merger collapses",
+    "Japan to exempt extra charges on over-the-counter-equivalent drugs from tax",
+    "Japan asks Hitachiomiya to accept nuclear waste site survey",
+    "Xi meets Russian and Iranian leaders as Europe challenges Trump at G20",
+    "Canada's ruling Liberals sweep three special elections, boosting Carney",
+    "Ukraine rapidly expands drone range and firepower to strike deeper into Russia"
+  ],
+  "topHeadlines": [
+    {
+      "date": "2026-08-31",
+      "title": "Glacier collapse floods kill at least 900; 4,000 remain missing",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Nonstop Russian drone raids force Kyiv into dangerous new phase of war",
+      "category": "conflict",
+      "region": "europe"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Former Israeli generals accuse West Bank settlers of ethnic cleansing",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Macron visits Sweden to boost defense ties and nuclear deterrence",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Nepal flood death toll passes 1,000 as 4,000 remain missing",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Xi meets Russian and Iranian leaders as Europe challenges Trump at G20",
+      "category": "politics",
+      "region": "global"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Canada's ruling Liberals sweep three special elections, boosting Carney",
+      "category": "politics",
+      "region": "americas"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "U.S. and Iran trade strikes as Trump cites mining threat in Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Nepal flood death toll passes 1,000 as thousands remain missing",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Israeli troops fortify positions in occupied Lebanon as demolitions continue",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "EU trade enforcers in Beijing demand China fix 'untenable' imbalances",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Iran's army attacks U.S. bases in Kuwait and UAE with missiles, drones",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Rescuers reach remote Nepal villages as flood death toll passes 1,270",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Ebola deaths in DR Congo top 3,000 as WHO plans vaccine trials",
+      "category": "science",
+      "region": "africa"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Far-right AfD poised to win Saxony-Anhalt election, raising prospect of first far-right governor",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Rescuers pull two men alive from Nepal tunnel nine days after flood",
+      "category": "environment",
+      "region": "asia-pacific"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Oil prices jump 7.6% as US-Iran war keeps Strait of Hormuz closed",
+      "category": "economy",
+      "region": "global"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Trump envoys land in Moscow for Ukraine talks, plan Kyiv next",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "AfD could win Saxony-Anhalt election, delivering first far-right governor",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Secret dossier adds to evidence Sudan's military used chemical weapons",
+      "category": "conflict",
+      "region": "africa"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "U.S. and Iran trade strikes on ships in the Strait of Hormuz",
+      "category": "conflict",
+      "region": "middle-east"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Trump envoys Witkoff and Kushner arrive in Kyiv for first talks",
+      "category": "politics",
+      "region": "europe"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Germany's far-right AfD clear frontrunner in Saxony-Anhalt vote",
+      "category": "politics",
+      "region": "europe"
+    }
+  ],
+  "metadata": {
+    "totalArticlesProcessed": 2902,
+    "totalSourcesUsed": 13,
+    "daysWithData": 7,
+    "categoryCounts": {
+      "environment": 7,
+      "conflict": 18,
+      "politics": 19,
+      "economy": 4,
+      "society": 7,
+      "science": 2
+    },
+    "regionCounts": {
+      "asia-pacific": 14,
+      "europe": 17,
+      "middle-east": 9,
+      "global": 6,
+      "americas": 6,
+      "africa": 5
+    }
+  }
+}

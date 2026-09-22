@@ -1,13 +1,13 @@
 {
   "date": "2026-09-22",
-  "summary": "President Donald Trump used his UN General Assembly speech to defend the US-Israeli war against Iran, threaten to “annihilate” the country and say a deal remained possible. His remarks put the conflict at the centre of a gathering where leaders typically present themselves as advocates of peace. Iran’s next steps and the prospect of negotiations remain uncertain.\n\nTyphoon Dujuan brought record rain, landslides and power outages to Japan, killing at least four people, with one report putting the toll at five. Tens of thousands faced evacuation orders as rescuers searched for missing people. In Sri Lanka, a High Court convicted 15 men over the 2019 Easter Sunday bombings, while nine defendants were acquitted; the attacks killed hundreds and targeted churches and hotels.\n\nThe US, Denmark and Greenland signed a deal allowing a larger US military presence on the island, including at least two new bases, in an effort to ease tensions over its strategic importance. Separately, a UN human rights investigator said US strikes on alleged drug boats may violate international law. British Columbia has sued OpenAI over its handling of concerns about the Tumbler Ridge school shooter, while the EU removed two Russian oligarchs from its sanctions list. The UK also offered defensive air support to Saudi Arabia amid Houthi attacks.",
+  "summary": "Donald Trump used his UN General Assembly speech to defend the US-Israeli war against Iran and warn Tehran to make a deal or face annihilation. The Guardian reported that Iran had offered to reopen the Strait of Hormuz within seven days if the United States took reciprocal steps. The remarks leave the prospect of escalation alongside a possible route to negotiations. Separately, the United States, Denmark and Greenland signed an agreement allowing a larger US military presence on the island, including at least two new bases. The deal is intended to ease tensions over Greenland’s strategic position, though it remains unclear how it changes existing arrangements.\n\nTyphoon Dujuan killed at least four people in Japan and caused landslides, power outages and travel disruption. More than 74,000 people in the Tokyo region remained under evacuation orders as authorities warned of flooding and further landslides. In Sri Lanka, a court convicted 15 men over the 2019 Easter Sunday bombings, while nine were acquitted; the attacks killed hundreds and wounded around 500.\n\nBritish Columbia sued OpenAI and Sam Altman, alleging the company failed to alert police to concerns about the school shooter’s use of ChatGPT; the province says the attack could have been prevented. A UN human rights investigator said US strikes on boats alleged to carry drugs may violate international law and could be crimes against humanity. The EU removed Russian billionaires Alisher Usmanov and Mikhail Fridman from its sanctions list while extending restrictions on nearly 3,000 others, a move Kyiv opposed. UN experts also held Nicaragua’s government responsible for at least eight deaths in custody since 2018.",
   "headlines": [
     {
-      "title": "Trump threatens Iran in UN speech and says a deal remains possible",
-      "summary": "At the UN General Assembly, President Donald Trump defended the US-Israeli war against Iran and warned that he could “annihilate” the country, while saying a deal remained possible. His remarks leave uncertainty over the next steps in the conflict and drew attention from other world leaders.",
+      "title": "Trump threatens Iran with annihilation in UN speech",
+      "summary": "Donald Trump defended the US-Israeli war against Iran at the UN General Assembly, warning Tehran to make a deal or face destruction. His remarks raised the prospect of further escalation, while The Guardian reported that Iran had offered to reopen the Strait of Hormuz within seven days if the US took reciprocal steps.",
       "link": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-09-22T18:03:17.000Z",
+      "publishedAt": "2026-09-22T18:15:27.000Z",
       "coverage": [
         {
           "source": "France 24",
@@ -36,8 +36,29 @@
       ]
     },
     {
-      "title": "Typhoon kills at least four in Japan and brings record rain",
-      "summary": "Typhoon Dujuan brought heavy rain, landslides and power outages to Japan, killing at least four people; another report put the death toll at five. Tens of thousands of people faced evacuation orders as rescuers searched for the missing and authorities warned of further flooding and landslides.",
+      "title": "US, Denmark and Greenland agree to expanded American military presence",
+      "summary": "The three parties signed a deal allowing a larger US military presence on Greenland, including at least two new bases. The agreement aims to ease tensions over the strategically located island, though details of how it changes existing arrangements remain unclear.",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3368427/us-greenland-denmark-sign-deal-new-york-bid-end-arctic-stand?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-09-22T13:56:04.000Z",
+      "coverage": [
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/2026/09/22/world/europe/us-greenland-deal-denmark-trump.html"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Typhoon kills at least four in Japan and brings heavy rain",
+      "summary": "Typhoon Dujuan caused deaths, landslides, travel disruption and power outages in Japan. More than 74,000 people in the Tokyo region remained under evacuation orders as authorities warned of flooding and further landslides.",
       "link": "https://www.nytimes.com/2026/09/22/world/asia/japan-typhoon-dujuan-tokyo.html",
       "source": "New York Times",
       "publishedAt": "2026-09-22T12:49:16.000Z",
@@ -49,8 +70,8 @@
       ]
     },
     {
-      "title": "Sri Lankan court convicts 15 over 2019 Easter bombings",
-      "summary": "A Sri Lankan High Court convicted 15 men over the 2019 Easter Sunday bombings, while nine of the 24 accused were acquitted. The attacks targeted churches and hotels, killing hundreds; the verdict marks a major step in the case against those accused of direct involvement.",
+      "title": "Sri Lanka court convicts 15 over 2019 Easter bombings",
+      "summary": "A Sri Lankan High Court convicted 15 men accused of direct involvement in the 2019 Easter Sunday attacks, while nine were acquitted. The bombings targeted churches and hotels, killing hundreds and wounding around 500, and the verdict advances a major case over one of the country’s deadliest attacks.",
       "link": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-09-22T16:31:58.000Z",
@@ -74,42 +95,8 @@
       ]
     },
     {
-      "title": "US deal with Denmark and Greenland expands American military presence",
-      "summary": "The United States, Denmark and Greenland signed an agreement allowing a larger US military presence on the strategically located island, including at least two new bases. The deal comes after tensions over Trump’s push for greater US control of Greenland.",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3368427/us-greenland-denmark-sign-deal-new-york-bid-end-arctic-stand?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "publishedAt": "2026-09-22T13:56:04.000Z",
-      "coverage": [
-        {
-          "source": "New York Times",
-          "link": "https://www.nytimes.com/2026/09/22/world/europe/us-greenland-deal-denmark-trump.html"
-        },
-        {
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "title": "UN expert says US strikes on alleged drug boats may violate law",
-      "summary": "A UN human rights investigator said there are reasonable grounds to believe US attacks on boats alleged to carry drugs may constitute crimes against humanity. The assessment adds to legal scrutiny of the strikes, which the report says have killed more than 230 people since September 2025.",
-      "link": "https://www.nytimes.com/2026/09/21/world/americas/us-boat-strikes-crimes-un.html",
-      "source": "New York Times",
-      "publishedAt": "2026-09-21T19:50:19.000Z",
-      "coverage": [
-        {
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/sep/21/us-boat-strikes-crime-against-humanity"
-        }
-      ]
-    },
-    {
       "title": "British Columbia sues OpenAI over school shooting",
-      "summary": "British Columbia sued OpenAI, alleging the company should have warned police about concerns related to the shooter’s use of ChatGPT before a mass shooting at a school in Tumbler Ridge. The case puts the company’s safety practices and obligations to alert authorities under legal scrutiny.",
+      "summary": "British Columbia sued OpenAI and Sam Altman, alleging that the company failed to alert police to concerns about the shooter’s use of ChatGPT. The province says the attack could have been prevented, putting the company’s safety practices and responsibility to warn authorities under scrutiny.",
       "link": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
       "source": "The Guardian",
       "publishedAt": "2026-09-22T04:29:22.000Z",
@@ -125,8 +112,21 @@
       ]
     },
     {
-      "title": "EU removes two Russian oligarchs from sanctions list",
-      "summary": "The EU removed Alisher Usmanov and Mikhail Fridman from its sanctions list while extending restrictions on nearly 3,000 other people and entities. Ukraine had argued the bloc should increase pressure on Moscow, and the decision was described by Ireland’s EU presidency as a difficult compromise.",
+      "title": "UN expert says US strikes on alleged drug boats may be crimes",
+      "summary": "A UN human rights investigator said there are reasonable grounds to believe US attacks on boats alleged to carry drugs may violate international law and constitute crimes against humanity. The assessment adds to legal scrutiny of the administration’s lethal operations in the Pacific and Caribbean.",
+      "link": "https://www.nytimes.com/2026/09/21/world/americas/us-boat-strikes-crimes-un.html",
+      "source": "New York Times",
+      "publishedAt": "2026-09-21T19:50:19.000Z",
+      "coverage": [
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/21/us-boat-strikes-crime-against-humanity"
+        }
+      ]
+    },
+    {
+      "title": "EU removes two Russian billionaires from sanctions list",
+      "summary": "The European Union agreed to delist Alisher Usmanov and Mikhail Fridman while extending restrictions on nearly 3,000 others. The decision drew criticism from Kyiv, which has argued the bloc should increase pressure on Moscow.",
       "link": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms",
       "source": "The Guardian",
       "publishedAt": "2026-09-22T18:07:19.000Z",
@@ -138,31 +138,23 @@
       ]
     },
     {
-      "title": "UK offers defensive support to Saudi Arabia against Houthi attacks",
-      "summary": "The UK said it would provide defensive air support to Saudi Arabia as it faces Houthi attacks; the G7 has also called on the Houthis to stop attacks on civilian shipping. The move is one of Prime Minister Andy Burnham’s first significant military decisions and signals a UK role in the regional response.",
-      "link": "https://www.japantimes.co.jp/news/2026/09/22/world/politics/uk-saudi-arabia-houthis/",
-      "source": "Japan Times",
-      "publishedAt": "2026-09-22T05:53:00.000Z",
+      "title": "UN report holds Nicaragua government responsible for deaths in custody",
+      "summary": "UN experts said Nicaragua’s government was responsible for at least eight deaths in custody since 2018. The report adds to international criticism of the government’s crackdown on dissent and weakening of democratic institutions.",
+      "link": "https://www.thehindu.com/news/international/nicaraguan-government-responsible-for-at-least-8-deaths-in-custody-since-2018-un-report-finds/article71496902.ece",
+      "source": "The Hindu",
+      "publishedAt": "2026-09-22T16:50:54.000Z",
       "coverage": [
         {
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/politics/2026/sep/21/uk-to-give-support-to-saudi-jets-in-attempt-to-counter-houthi-fighters"
-        },
-        {
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/saudi-arabia-houthis-yemen-prison-attack-death-toll/article71495239.ece"
-        },
-        {
-          "source": "Deutsche Welle",
-          "link": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964?maca=en-rss-en-all-1573-xml-mrss"
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3368413/nicaragua-govt-responsible-least-8-deaths-custody-2018-un?utm_source=rss_feed"
         }
       ]
     }
   ],
   "metadata": {
     "model": "openai/gpt-6-luna",
-    "articles": 409,
+    "articles": 410,
     "candidates": 40,
-    "generatedAt": "2026-09-22T18:25:46.767Z"
+    "generatedAt": "2026-09-22T18:29:49.037Z"
   }
 }

@@ -1,156 +1,31 @@
-### What Happened Today
+# What Happened Today
 
-A daily, AI-generated summary of global news that prioritizes clarity, neutrality, and fast comprehension.
+The day's most important news in five minutes, without the noise. One short briefing and 6–8 stories each morning, in English, Italian and French, with every story linked to the outlets that reported it.
 
-Visit the site: [what-happened-today.vercel.app](https://what-happened-today.vercel.app)
+Live at [what-happened-today.vercel.app](https://what-happened-today.vercel.app).
 
-### Why
+## How it works
 
-To provide a concise, factual snapshot of the day without sensationalism, helping readers stay informed with minimal time and noise.
+Every morning a GitHub Action runs one job per language:
 
-### Features
+1. **Fetch**: pull the last 30 hours from each language's RSS feeds (`src/pipeline/feeds.ts`).
+2. **Cluster**: group articles about the same story across outlets by shared title keywords. Stories covered by more outlets rank higher. No model involved.
+3. **Write**: one call to `openai/gpt-6-luna` via OpenRouter with a strict JSON schema. The model picks candidates by number and writes the briefing and story summaries. Links, outlets and dates are attached from the feed data, never from model output. If the call fails or the output doesn't validate, it falls back to `deepseek/deepseek-v4-flash-0731`.
+4. **Publish**: successful editions are committed to `data/{lang}/YYYY-MM-DD.json` in one commit, and the site is rebuilt.
 
-- **Multilingual**: English, Italian, French
-- **Daily summary**: Two linked paragraphs synthesizing key developments
-- **Ranked headlines**: 5 to 10 neutral, source linked items
-- **Theme**: Light and dark modes
-- **Date navigation**: Browse previous days
-- **Automated pipeline**: RSS ingestion, AI filtering, headline and summary generation
+A language that fails turns the run red; the others still publish. Each edition costs about $0.001.
 
-### Setup
+The site is a fully static Next.js build: every edition is a pre-rendered page at `/{lang}/{date}`, and `/{lang}` shows the latest one.
 
-1) Clone and install
+## Development
 
 ```bash
-git clone https://github.com/larosafrancesco289/what-happened-today
-cd what-happened-today
 bun install
+echo "OPENROUTER_API_KEY=..." > .env.local
+
+bun run edition en   # generate today's English edition
+bun run dev          # http://localhost:3000
+bun test && bun run lint && bun run build
 ```
 
-2) Configure environment
-
-Create `.env.local` in the project root:
-
-```bash
-# Required
-OPENROUTER_API_KEY=your_openrouter_api_key
-
-# Required in production to protect /api/cron
-CRON_SECRET=replace-me-with-a-long-random-string
-
-# Optional OpenRouter analytics headers
-OPENROUTER_SITE_URL=https://what-happened-today.vercel.app
-OPENROUTER_SITE_NAME=What Happened Today
-
-# Optional model overrides (one model per role; defaults shown).
-# Non-deepseek values are ignored; provider routing is pinned to DeepSeek.
-OPENROUTER_MODEL_FILTER=deepseek/deepseek-v4-flash
-OPENROUTER_MODEL_HEADLINES=deepseek/deepseek-v4-flash
-OPENROUTER_MODEL_CATEGORIZE=deepseek/deepseek-v4-flash
-OPENROUTER_MODEL_SUMMARY=deepseek/deepseek-v4-flash
-```
-
-Get your API key at [openrouter.ai/keys](https://openrouter.ai/keys)
-
-Default models live in the `MODELS` map in `src/lib/llm-client.ts`; an env value overrides the default for that role.
-
-### Quickstart
-
-```bash
-bun run dev           # start the app at http://localhost:3000
-bun run build         # build for production
-bun run start         # run the production build
-bun run lint          # run ESLint
-bun run test          # run regression tests
-bun run check         # lint + test + production build
-```
-
-Pipeline commands:
-
-```bash
-bun run generate-news:en    # generate English news
-bun run generate-news:it    # generate Italian news
-bun run generate-news:fr    # generate French news
-bun run generate-news:all   # generate all languages
-bun run verify-news         # verify today's generated files are publishable
-bun run generate-weekly:en  # generate English weekly digest
-bun run generate-weekly:all # generate all weekly digests
-```
-
-### Usage
-
-- Browse `http://localhost:3000` for today's summary
-- Open `/YYYY-MM-DD` for a specific date (for example `/2025-01-11`)
-- Programmatic access: `/api/news?date=YYYY-MM-DD&language=en|it|fr`
-- Weekly digest API: `/api/weekly?weekId=YYYY-WXX&language=en|it|fr`
-- Health check: `/api/health`
-- Protected pipeline trigger: `/api/cron?language=en|it|fr|all` with `Authorization: Bearer $CRON_SECRET`
-
-### Architecture
-
-Code tree:
-
-```
-src/
-├── app/
-│   ├── api/
-│   │   ├── cron/            # protected production pipeline endpoint
-│   │   ├── health/          # lightweight runtime health check
-│   │   ├── news/            # data API (by date and language)
-│   │   ├── weekly/          # weekly digest API
-│   │   └── test-pipeline/   # mock pipeline for local testing
-│   ├── [date]/              # dynamic route for specific dates
-│   ├── layout.tsx
-│   ├── not-found.tsx
-│   └── page.tsx             # today view
-├── components/
-│   ├── AppHeader.tsx
-│   ├── DailyNewsPageContent.tsx
-│   ├── DateNavigation.tsx
-│   ├── LanguageSelector.tsx
-│   ├── LoadingSpinner.tsx
-│   ├── NewsSummary.tsx
-│   ├── ThemeProvider.tsx
-│   └── ThemeToggle.tsx
-├── contexts/
-│   └── LanguageContext.tsx
-├── hooks/
-│   └── use-daily-news.ts
-├── lib/
-│   ├── client-utils.ts
-│   ├── cron-auth.ts
-│   ├── date-utils.ts
-│   ├── i18n.ts
-│   ├── languages.ts         # RSS feeds per language
-│   ├── llm-client.ts        # OpenRouter API integration + pipeline steps
-│   ├── prompts.ts           # all LLM prompt text (one place to tune tone)
-│   ├── news-fetcher.ts
-│   ├── pipeline/
-│   │   └── daily.ts         # shared daily generation workflow
-│   └── utils.ts
-└── types/
-    └── news.ts
-
-data/
-├── en/  # YYYY-MM-DD.json
-├── it/  # YYYY-MM-DD.json
-└── fr/  # YYYY-MM-DD.json
-
-scripts/
-├── generate-news.ts
-└── generate-weekly.ts
-```
-
-Notes:
-
-- The daily pipeline reads curated RSS feeds per language, filters and ranks with OpenRouter, generates source-linked headlines, and synthesizes a two- to three-paragraph summary. Output is saved under `data/{lang}/YYYY-MM-DD.json`.
-- Model failures, empty headline sets, and validation errors fail that language instead of publishing an `unavailable` edition. `generate-news:all` runs each language independently, so one language failing never discards the others.
-- `/api/cron` now uses the same shared pipeline module as the CLI script, so scheduled runs and manual runs stay in sync.
-- Date handling is timezone-safe for both the UI and the pipeline, which avoids day-shift bugs for readers outside UTC.
-- The UI loads the file for today or for the selected date.
-- Uses Bun for fast TypeScript execution and package management.
-- Deployed on Vercel with daily GitHub Actions automation.
-
-### License
-
-MIT. See `LICENSE`.
+`MODELS=provider/model,...` overrides the model chain for a run.

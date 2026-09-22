@@ -1,10 +1,31 @@
 {
   "date": "2026-09-22",
-  "summary": "L’Istat conferma il deficit italiano al 3,1% del Pil nel 2025: resta quindi aperta la procedura europea per disavanzo eccessivo. Il debito è stimato al 136,7%. Il governo indica il 31 dicembre del prossimo anno come termine per uscire dalla procedura. Nel frattempo, la Ragioneria prevede che nel 2029 la pensione di vecchiaia richiederà 67 anni e sei mesi, mentre per quella anticipata serviranno 43 anni e quattro mesi di contributi.\n\nAll’Assemblea generale dell’Onu Donald Trump ha parlato di Iran, Ucraina e Corte penale internazionale, e ha incontrato Volodymyr Zelensky. Ha detto di voler trovare una soluzione alla guerra, mentre continuano i raid russi sull’Ucraina. Sul fronte delle sanzioni, l’Ue ha concordato il rinnovo per tre anni delle misure individuali contro la Russia, ma ha escluso dalla lista gli oligarchi Usmanov e Fridman: Kiev ha protestato. Trump ha inoltre lanciato Trump Tv, una piattaforma streaming sugli eventi presidenziali, dopo la revoca degli accrediti a Cnn, Msnow e Politico; le testate hanno fatto causa.\n\nSul piano internazionale, un funzionario iraniano ha offerto la riapertura dello Stretto di Hormuz entro sette giorni in cambio di un allentamento della pressione militare Usa e della revoca del blocco sui porti iraniani. In Italia, Giorgia Meloni ha difeso la proposta di un limite del 30% nelle classi per gli studenti stranieri che non conoscono l’italiano. L’Inail segnala infine più denunce di infortuni e malattie professionali nel 2025, ma meno decessi sul lavoro.",
+  "summary": "All’Assemblea generale dell’Onu, Donald Trump ha rivendicato i risultati della sua amministrazione e ha detto che un accordo con l’Iran potrebbe arrivare dopo le elezioni di metà mandato. Ha incontrato Volodymyr Zelensky: secondo Trump, i due hanno un rapporto stretto e troveranno una soluzione alla guerra. Sul fronte europeo, i Paesi Ue hanno rinnovato per tre anni le sanzioni individuali contro la Russia, ma hanno escluso dal regime Usmanov e Fridman. Kiev ha definito vergognosa la decisione; nella notte, raid russi hanno colpito città ucraine e causato cinque morti.\n\nIn Italia, l’Istat ha confermato per il 2025 un deficit pari al 3,1% del Pil, perciò resta in vigore la procedura d’infrazione europea. La stima di crescita è stata rivista al rialzo allo 0,6%, mentre il debito si attesta al 136,7% del Pil. Le nuove proiezioni della Ragioneria generale indicano inoltre che nel 2029 la pensione di vecchiaia richiederà 67 anni e sei mesi; per quella anticipata serviranno 43 anni e quattro mesi di contributi.\n\nNegli Stati Uniti, la Casa Bianca ha lanciato Trump Tv, una piattaforma streaming attiva 24 ore su 24 per trasmettere gli eventi del presidente. L’iniziativa segue la revoca degli accrediti ai giornalisti di Cnn, Msnow e Politico: le tre testate hanno fatto causa invocando il Primo emendamento. In Italia, le denunce di infortunio sul lavoro nel 2025 sono salite a circa 600mila e quelle per malattie professionali a 98mila, il massimo degli ultimi 26 anni; i decessi sono invece calati del 3,3%.",
   "headlines": [
     {
-      "title": "Il deficit italiano resta al 3,1% e continua la procedura Ue",
-      "summary": "L’Istat conferma per il 2025 un deficit pari al 3,1% del Pil; il debito è stimato al 136,7%. L’Italia resta nella procedura europea per disavanzo eccessivo, mentre il governo indica il 31 dicembre del prossimo anno come termine per uscirne.",
+      "title": "Trump all’Onu, nuovi colloqui con l’Iran e incontro con Zelensky",
+      "summary": "All’Assemblea generale dell’Onu, Donald Trump ha rivendicato la forza degli Stati Uniti e detto che un accordo con l’Iran potrebbe arrivare dopo le elezioni di metà mandato. Ha incontrato Volodymyr Zelensky, mentre l’Ue ha rinnovato per tre anni le sanzioni contro la Russia, con l’esclusione di due oligarchi.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-allonu.-lamerica-e-tornata-piu-forte-che-mai.-liran-fara_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-22T18:28:29.000Z",
+      "coverage": [
+        {
+          "source": "TGCOM24",
+          "link": "https://www.tgcom24.mediaset.it/mondo/onu-assemblea-generale-new-york-donald-trump_116889634-202602k.shtml"
+        },
+        {
+          "source": "Rai News",
+          "link": "https://www.rainews.it/articoli/2026/09/america-e-tornata-ed-e-piu-forte-che-mai-donald-trump-assemblea-generale-onu-13fa649f-8411-4fc6-8e52-601b2b9ef677.html"
+        },
+        {
+          "source": "AGI",
+          "link": "https://www.agi.it/estero/news/2026-09-22/sanzioni-ue-russia-39194804/"
+        }
+      ]
+    },
+    {
+      "title": "Deficit italiano al 3,1%, resta la procedura d’infrazione Ue",
+      "summary": "L’Istat ha confermato il deficit 2025 al 3,1% del Pil, lasciando l’Italia nella procedura europea. La crescita prevista per il 2025 è stata rivista al rialzo allo 0,6% e il debito è al 136,7% del Pil.",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/listat-conferma-il-deficit-2025-al-31.-rivisto-al-rialzo-pil-06_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
       "source": "ANSA",
       "publishedAt": "2026-09-22T18:04:59.000Z",
@@ -20,59 +41,8 @@
       ]
     },
     {
-      "title": "Trump parla all’Onu e incontra Zelensky",
-      "summary": "All’Assemblea generale Donald Trump ha rivendicato la forza degli Stati Uniti e ha parlato di Iran, Ucraina e Corte penale internazionale; a margine ha incontrato Volodymyr Zelensky. Il presidente Usa ha detto di voler trovare una soluzione alla guerra, mentre proseguono i raid russi sull’Ucraina.",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-allonu.-lamerica-e-tornata-piu-forte-che-mai.-liran-fara_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-22T18:11:29.000Z",
-      "coverage": [
-        {
-          "source": "TGCOM24",
-          "link": "https://www.tgcom24.mediaset.it/mondo/onu-assemblea-generale-new-york-donald-trump_116889634-202602k.shtml"
-        },
-        {
-          "source": "Rai News",
-          "link": "https://www.rainews.it/articoli/2026/09/america-e-tornata-ed-e-piu-forte-che-mai-donald-trump-assemblea-generale-onu-13fa649f-8411-4fc6-8e52-601b2b9ef677.html"
-        }
-      ]
-    },
-    {
-      "title": "L’Ue rinnova le sanzioni alla Russia escludendo due oligarchi",
-      "summary": "I Paesi dell’Unione hanno concordato il rinnovo per tre anni delle sanzioni individuali contro la Russia, rimuovendo dalla lista Alisher Usmanov e Mikhail Fridman. Kiev ha contestato la decisione e chiesto di mantenere la pressione su Mosca.",
-      "link": "https://www.agi.it/estero/news/2026-09-22/sanzioni-ue-russia-39194804/",
-      "source": "AGI",
-      "publishedAt": "2026-09-22T17:23:01.000Z",
-      "coverage": [
-        {
-          "source": "Euronews",
-          "link": "https://it.euronews.com/2026/09/22/ue-rinnova-le-sanzioni-contro-la-russia-ma-rimuove-usmanov-su-richiesta-della-francia"
-        },
-        {
-          "source": "ANSA",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/intesa-in-ue-sulle-sanzioni-alla-russia-rinnovo-per-3-anni-e-fuori-usmanov_24cdd38d-5453-46f0-9887-697a08c67f03.html"
-        }
-      ]
-    },
-    {
-      "title": "La Casa Bianca lancia una piattaforma streaming dopo lo scontro con i media",
-      "summary": "L’amministrazione Trump ha avviato Trump Tv, un servizio attivo 24 ore su 24 dedicato agli eventi presidenziali, dopo aver revocato gli accrediti a Cnn, Msnow e Politico. Le tre testate hanno fatto causa invocando il Primo emendamento.",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/dai-simpson-a-friends-lo-spot-per-la-trump-tv-con-gli-spezzoni-di-serie_d1c53ff9-15f0-41d3-bd62-160484dcbb89.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-22T18:17:24.000Z",
-      "coverage": [
-        {
-          "source": "Rai News",
-          "link": "https://www.rainews.it/articoli/2026/09/testate-escluse-da-trump-dalla-casa-bianca-cnn-politico-e-ms-now-fanno-causa-al-governo-4e70c31c-3a03-4f10-96b5-2a24cfe7897c.html"
-        },
-        {
-          "source": "la Repubblica",
-          "link": "https://www.repubblica.it/esteri/2026/09/21/news/cnn_msnow_e_politico_fanno_causa_a_trump_casa_bianca-425598167/?rss"
-        }
-      ]
-    },
-    {
       "title": "Nel 2029 la pensione di vecchiaia salirà a 67 anni e sei mesi",
-      "summary": "Secondo la Ragioneria generale dello Stato, i requisiti pensionistici aumenteranno per l’adeguamento alle aspettative di vita: per la pensione anticipata serviranno 43 anni e quattro mesi di contributi. Le nuove soglie incidono sui tempi di uscita dal lavoro e sul sistema previdenziale.",
+      "summary": "Secondo i nuovi calcoli della Ragioneria generale dello Stato, nel 2029 serviranno 67 anni e sei mesi per la pensione di vecchiaia. Per quella anticipata saranno necessari 43 anni e quattro mesi di contributi.",
       "link": "https://www.tgcom24.mediaset.it/economia/pensioni-nel-2029-67-anni-sei-mesi_116891357-202602k.shtml",
       "source": "TGCOM24",
       "publishedAt": "2026-09-22T17:09:52.000Z",
@@ -88,11 +58,57 @@
       ]
     },
     {
-      "title": "Meloni difende il limite agli alunni stranieri che non conoscono l’italiano",
-      "summary": "La premier ha sostenuto la proposta di introdurre un tetto del 30% nelle classi per gli studenti stranieri che non conoscono l’italiano, ricordando che Mattarella, da ministro, aveva redatto circolari sul tema. La proposta resta al centro del confronto politico sulla scuola.",
+      "title": "La Casa Bianca lancia Trump Tv dopo l’esclusione di tre testate",
+      "summary": "L’amministrazione Trump ha avviato una piattaforma streaming attiva 24 ore su 24 dedicata agli eventi del presidente, dopo aver revocato gli accrediti a Cnn, Msnow e Politico. Le tre testate hanno fatto causa invocando il Primo emendamento.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/dai-simpson-a-friends-lo-spot-per-la-trump-tv-con-gli-spezzoni-di-serie_d1c53ff9-15f0-41d3-bd62-160484dcbb89.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-22T18:27:30.000Z",
+      "coverage": [
+        {
+          "source": "Rai News",
+          "link": "https://www.rainews.it/articoli/2026/09/testate-escluse-da-trump-dalla-casa-bianca-cnn-politico-e-ms-now-fanno-causa-al-governo-4e70c31c-3a03-4f10-96b5-2a24cfe7897c.html"
+        },
+        {
+          "source": "la Repubblica",
+          "link": "https://www.repubblica.it/esteri/2026/09/21/news/cnn_msnow_e_politico_fanno_causa_a_trump_casa_bianca-425598167/?rss"
+        }
+      ]
+    },
+    {
+      "title": "Nel 2025 aumentano gli infortuni denunciati e le malattie professionali",
+      "summary": "Le denunce di infortunio sul lavoro sono state circa 600mila, l’1,2% in più, mentre quelle per malattie professionali hanno raggiunto quota 98mila. I decessi sono diminuiti del 3,3%.",
+      "link": "https://www.ilsole24ore.com/art/infortuni-lavoro-2025-denunce-quota-600mila-record-malattie-professionali-ultimi-26-anni-calano-decessi-AJJlp0KB",
+      "source": "Il Sole 24 Ore",
+      "publishedAt": "2026-09-22T11:45:00.000Z",
+      "coverage": []
+    },
+    {
+      "title": "Stellantis ricorre a nuova cassa integrazione a Mirafiori",
+      "summary": "A Mirafiori è stata annunciata una nuova cassa integrazione, mentre i sindacati esprimono preoccupazione. Tra i fattori indicati figurano la crisi del mercato e il caro-energia.",
+      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/22/stellantis-a-mirafiori-torna-la-cassa-integrazione-dal-19-al-30-ottobre_a85af9b1-a3e9-4cdb-acf2-9e7d33d50db1.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-22T18:08:14.000Z",
+      "coverage": []
+    },
+    {
+      "title": "La Nato: pronti a difendere il territorio, ma non siamo in guerra",
+      "summary": "Il presidente del Comitato militare della Nato, Giuseppe Cavo Dragone, ha descritto l’Alleanza come non in guerra ma neppure in piena pace. Ha chiesto all’industria della difesa di accelerare i tempi di consegna.",
+      "link": "https://www.agi.it/estero/news/2026-09-22/nato-cavo-dragone-guerra-russia-ucraina-39195623/",
+      "source": "AGI",
+      "publishedAt": "2026-09-22T16:22:37.000Z",
+      "coverage": [
+        {
+          "source": "TGCOM24",
+          "link": "https://www.tgcom24.mediaset.it/mondo/intervista-cavo-dragone-nato-guerra-ia_116877477-202602k.shtml"
+        }
+      ]
+    },
+    {
+      "title": "Meloni difende il limite del 30% di alunni stranieri nelle classi",
+      "summary": "La presidente del Consiglio ha difeso la proposta della maggioranza sul tetto agli studenti stranieri, sostenendo che riguarderà chi non conosce l’italiano. Ha richiamato precedenti circolari attribuite a Sergio Mattarella quando era ministro dell’Istruzione.",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-non-so-se-listat-sottostima-gli-italiani-o-il-governo_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
       "source": "ANSA",
-      "publishedAt": "2026-09-22T18:14:02.000Z",
+      "publishedAt": "2026-09-22T18:36:07.000Z",
       "coverage": [
         {
           "source": "AGI",
@@ -105,39 +121,18 @@
         {
           "source": "Il Sole 24 Ore",
           "link": "https://www.ilsole24ore.com/art/meloni-dispiaciuta-deficit-avanti-la-tabella-marcia-scuola-vogliamo-superare-ghetti-AJ8A9QLB"
-        }
-      ]
-    },
-    {
-      "title": "Teheran offre di riaprire Hormuz in cambio di un allentamento della pressione Usa",
-      "summary": "Un funzionario iraniano ha detto che Teheran potrebbe riaprire lo Stretto di Hormuz entro sette giorni se gli Stati Uniti allenteranno la pressione militare e revocheranno il blocco sui porti iraniani. La proposta arriva mentre il G7 chiede agli Houthi di fermare gli attacchi e Riad riapre un oleodotto.",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/riad-riapre-il-gasdotto-est-ovest-oggi-potrebbe-tornare-a-esportare_a7df8fa7-574a-489a-9a8a-61b5a7a9f1c2.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-22T18:10:58.000Z",
-      "coverage": [
-        {
-          "source": "AGI",
-          "link": "https://www.agi.it/estero/news/2026-09-22/guerra-iran-usa-hormuz-39188214/"
         },
         {
           "source": "Rai News",
-          "link": "https://www.rainews.it/maratona/2026/09/guerre-medio-oriente-blocco-navale-usa-hormuz-costa-30-milioni-al-giorno-italia-ripensa-presenza-militare-in-arabia-saudita-423258b4-a9e4-47de-b8ff-74c75c62e4d2.html"
+          "link": "https://www.rainews.it/video/2026/09/premier-giorgia-meloni-non-so-se-listat-sottostimi-gli-italiani-o-il-governo-ma-sta-accadendo-c75b02c1-2a3a-42d1-af25-b9d7bc5fbabc.html"
         }
       ]
-    },
-    {
-      "title": "Nel 2025 aumentano le denunce di infortuni e malattie professionali",
-      "summary": "La relazione Inail registra circa 600mila denunce di infortunio, in aumento dell’1,2%, e 98mila denunce di malattie professionali, il dato più alto da 26 anni. I decessi sul lavoro sono invece diminuiti del 3,3%.",
-      "link": "https://www.ilsole24ore.com/art/infortuni-lavoro-2025-denunce-quota-600mila-record-malattie-professionali-ultimi-26-anni-calano-decessi-AJJlp0KB",
-      "source": "Il Sole 24 Ore",
-      "publishedAt": "2026-09-22T11:45:00.000Z",
-      "coverage": []
     }
   ],
   "metadata": {
     "model": "openai/gpt-6-luna",
-    "articles": 198,
-    "candidates": 40,
-    "generatedAt": "2026-09-22T18:29:47.477Z"
+    "articles": 148,
+    "candidates": 36,
+    "generatedAt": "2026-09-22T18:40:49.145Z"
   }
 }

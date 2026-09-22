@@ -2,11 +2,13 @@ import { STRINGS, type Lang } from '../languages';
 import type { Story } from '../editions';
 import type { Candidate } from './cluster';
 
-// Tried in order until one returns a valid edition. Reasoning is off for all of them:
-// this is a writing task, and reasoning made runs slow and unpredictable in cost.
-// MODELS=a,b in the environment overrides the chain.
+// Tried in order until one returns a valid edition. MODELS=a,b in the environment overrides the chain.
 const DEFAULT_MODELS = ['openai/gpt-6-luna', 'deepseek/deepseek-v4-flash-0731'];
 const MODELS = process.env.MODELS?.split(',') ?? DEFAULT_MODELS;
+
+// Low reasoning made Luna's editions more faithful in blind judging (2026-09-22) for ~3s and
+// ~20% more tokens. Other models run with reasoning off: DeepSeek's default is slow and costly.
+const REASONING: Record<string, string> = { 'openai/gpt-6-luna': 'low' };
 
 // OpenAI's small models reject a temperature parameter.
 const NO_TEMPERATURE = new Set(['openai/gpt-6-luna']);
@@ -50,23 +52,26 @@ function buildPrompt(lang: Lang, candidates: Candidate[]): string {
     return `[${i + 1}] Covered by: ${outlets.join(', ')}\n${lines.join('\n')}`;
   });
 
-  return `You are the editor of a calm daily news briefing. Readers want to understand the day's most important news in five minutes, without sensationalism.
+  return `You are the editor of a calm daily news briefing. Readers want the day's most important news in five minutes, told plainly.
 
-Below are ${candidates.length} candidate stories from the last 30 hours of news feeds. Each has a number, the outlets that covered it, and a headline with an excerpt from up to three of them. Stories covered by more outlets are usually more significant, but use judgment: prefer news with real consequences for many people over celebrity, sport, crime briefs and lifestyle pieces, unless they are genuinely major.
+Below are ${candidates.length} candidate stories from the last 30 hours of news feeds, each with the outlets that covered it and up to three headlines with excerpts. Coverage by many outlets usually signals importance, but use judgment: prefer news with real consequences for many people over celebrity, sport, crime briefs and lifestyle pieces, unless they are genuinely major.
 
-Write today's edition in ${language}:
+Write today's edition in ${language}.
 
-"stories": the 6 to 8 most important distinct stories, most important first. For each:
-- "candidates": the candidate numbers it is based on, most informative first. Merge candidates that describe the same event.
-- "title": a plain, factual headline of at most 12 words, in sentence case. No clickbait, no questions, no teaser colons.
-- "summary": two sentences, at most 45 words: what happened, then why it matters or what happens next.
+"stories": the 6 to 8 most important distinct stories, most important first.
+- "candidates": the candidate numbers the story is based on, most informative first. Merge candidates about the same event.
+- "title": a factual headline, at most 12 words, in sentence case. No questions or teaser colons.
+- "summary": two sentences, at most 45 words. First what happened; then the most useful concrete detail from the sources: a number, a cause, a reaction, or the next scheduled step.
 
-"summary": the daily briefing. Three short paragraphs, 180 to 260 words in total, covering the most important stories in order. Plain prose separated by blank lines: no lists, headings or markdown. Briefly give any context a reader needs to follow.
+"summary": the briefing. Three paragraphs, 180 to 260 words, covering the top stories in order of importance. Give each paragraph one or two stories and tell them properly. Stories that don't fit stay in the list; don't string them together with "separately" or "meanwhile". Plain prose, paragraphs separated by blank lines, no markdown.
 
 Rules:
-- Use only facts found in the candidates. Never add numbers, names or claims that are not there.
-- Neutral tone: no emotional adjectives, no speculation; attribute claims to whoever made them.
-- Write natural ${language}, even where an excerpt is in another language.
+- Every statement must come from the candidates: no outside facts, background or interpretation.
+- No commentary. Never close a sentence or paragraph with lines like "the outlook remains uncertain", "this raises questions about", "amid growing tensions" or "marking a significant step".
+- Write as the newspaper, never about your material: no "reports say", "according to the articles" or "no further details were given".
+- If sources contradict each other, say so in a few words rather than blending them.
+- Neutral tone: no emotive adjectives; attribute claims to whoever made them.
+- Write natural, idiomatic ${language}, never translated-sounding, even where excerpts are in another language.
 
 CANDIDATES
 
@@ -88,7 +93,7 @@ async function complete(model: string, prompt: string): Promise<ModelOutput> {
       // Always cap output: without it OpenRouter budgets for the model's full output window.
       max_tokens: 4000,
       ...(NO_TEMPERATURE.has(model) ? {} : { temperature: 0.3 }),
-      reasoning: { effort: 'none' },
+      reasoning: { effort: REASONING[model] ?? 'none' },
       response_format: { type: 'json_schema', json_schema: SCHEMA },
       provider: { require_parameters: true },
     }),

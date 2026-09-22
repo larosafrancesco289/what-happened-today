@@ -1,7 +1,19 @@
 import Link from 'next/link';
-import { listDates, readEdition, type Story } from '@/editions';
+import { listDates, readEdition, type Edition, type Story } from '@/editions';
 import { LANGS, STRINGS, formatDate, type Lang } from '@/languages';
 import StaleNotice from './StaleNotice';
+
+// Display names for the models the pipeline uses (see src/pipeline/write.ts).
+const MODEL_NAMES: Record<string, string> = {
+  'openai/gpt-6-luna': 'GPT-6 Luna',
+  'openai/gpt-5.6-luna': 'GPT-5.6 Luna',
+  'deepseek/deepseek-v4-flash-0731': 'DeepSeek V4 Flash',
+};
+
+function modelName(edition: Edition): string | undefined {
+  const model = edition.metadata?.model;
+  return typeof model === 'string' ? MODEL_NAMES[model] ?? model : undefined;
+}
 
 function Sources({ story }: { story: Story }) {
   const others = story.coverage ?? (story.sources ?? [])
@@ -80,7 +92,7 @@ export default function EditionView({ lang, date, isLatest }: { lang: Lang; date
         <span>{next && <Link href={`/${lang}/${next}`}>{shortDate(next)} →</Link>}</span>
       </nav>
 
-      <p className="about">{t.about}</p>
+      <p className="about">{t.about(modelName(edition))}</p>
     </main>
   );
 }

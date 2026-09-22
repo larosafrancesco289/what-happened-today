@@ -12,10 +12,8 @@ interface Strings {
   description: string;
   stories: string;
   archive: string;
-  latest: string;
-  alsoReportedBy: string;
   staleNotice: (date: string) => string;
-  about: string;
+  about: (model: string | undefined) => string;
 }
 
 export const STRINGS: Record<Lang, Strings> = {
@@ -26,10 +24,8 @@ export const STRINGS: Record<Lang, Strings> = {
     description: 'The day’s most important news in five minutes, without the noise.',
     stories: 'The stories',
     archive: 'Archive',
-    latest: 'Latest edition',
-    alsoReportedBy: 'Also reported by',
     staleNotice: date => `Today’s edition isn’t out yet. This is the latest, from ${date}.`,
-    about: 'Written each morning by an AI model from public news feeds. Every story links to its sources.',
+    about: model => `Written each morning by ${model ?? 'an AI model'} from public news feeds. Every story links to its sources.`,
   },
   it: {
     name: 'Italiano',
@@ -38,10 +34,8 @@ export const STRINGS: Record<Lang, Strings> = {
     description: 'Le notizie più importanti del giorno in cinque minuti, senza rumore.',
     stories: 'Le notizie',
     archive: 'Archivio',
-    latest: 'Ultima edizione',
-    alsoReportedBy: 'Riportato anche da',
     staleNotice: date => `L’edizione di oggi non è ancora uscita. Questa è l’ultima, del ${date}.`,
-    about: 'Scritto ogni mattina da un modello di IA a partire da fonti giornalistiche pubbliche. Ogni notizia rimanda alle sue fonti.',
+    about: model => `Scritto ogni mattina da ${model ?? 'un modello di IA'} a partire da fonti giornalistiche pubbliche. Ogni notizia rimanda alle sue fonti.`,
   },
   fr: {
     name: 'Français',
@@ -50,10 +44,8 @@ export const STRINGS: Record<Lang, Strings> = {
     description: 'L’essentiel de l’actualité du jour en cinq minutes, sans le bruit.',
     stories: 'Les sujets',
     archive: 'Archives',
-    latest: 'Dernière édition',
-    alsoReportedBy: 'Également rapporté par',
     staleNotice: date => `L’édition du jour n’est pas encore parue. Voici la dernière, du ${date}.`,
-    about: 'Rédigé chaque matin par un modèle d’IA à partir de flux d’actualité publics. Chaque sujet renvoie à ses sources.',
+    about: model => `Rédigé chaque matin par ${model ?? 'un modèle d’IA'} à partir de flux d’actualité publics. Chaque sujet renvoie à ses sources.`,
   },
 };
 

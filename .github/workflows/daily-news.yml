@@ -1,126 +1,65 @@
-name: Daily News Pipeline
+name: Daily edition
 
 on:
   schedule:
-    # Run daily at 6:17 AM UTC (avoid top-of-hour schedule congestion)
-    - cron: '17 6 * * *'
-    # Run weekly digest on Mondays at 8:23 AM UTC
-    - cron: '23 8 * * 1'
-  workflow_dispatch: # Allow manual triggering
+    # GitHub often starts scheduled runs hours late, so aim early.
+    - cron: '23 4 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write  # Allow writing to repository content
-  actions: read    # Allow reading workflow status
+  contents: write
 
 jobs:
-  generate-news:
+  # One job per language, in parallel: a failure in one never blocks the others,
+  # but it does turn the run red so it gets noticed.
+  edition:
     runs-on: ubuntu-latest
-    if: github.event.schedule != '23 8 * * 1'
-
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        lang: [en, it, fr]
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
-        with:
-          bun-version: latest
-
-      - name: Install dependencies
-        run: bun install --frozen-lockfile
-
-      - name: Build project
-        run: bun run build
+      - uses: actions/checkout@v5
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+      - run: echo "DATE=$(date -u +%F)" >> "$GITHUB_ENV"
+      - run: bun src/pipeline/run.ts ${{ matrix.lang }}
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: edition-${{ matrix.lang }}
+          path: data/${{ matrix.lang }}/${{ env.DATE }}.json
+          if-no-files-found: error
 
-      - name: Run news pipeline for all languages
-        run: bun run generate-news:all
-        env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-
-      - name: Verify generated daily data
-        # Informational only: quality is already hard-gated inside the pipeline before
-        # save, so a single missing language must not discard the editions that succeeded.
-        continue-on-error: true
-        run: bun run verify-news
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add data/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Daily news update: $(date +'%Y-%m-%d')"
-            git pull --rebase
-            git push
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  weekly-digest:
+  # Commit whatever editions succeeded in a single commit, so the site deploys once.
+  publish:
+    needs: edition
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
-    if: github.event.schedule == '23 8 * * 1'
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+      - uses: actions/download-artifact@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
-        with:
-          bun-version: latest
-
-      - name: Install dependencies
-        run: bun install --frozen-lockfile
-
-      - name: Build project
-        run: bun run build
-        env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-
-      - name: Generate weekly digest (all languages)
+          pattern: edition-*
+          path: incoming
+      - name: Commit editions
         run: |
           for lang in en it fr; do
-            echo "--- Generating weekly digest: $lang ---"
-            bun run generate-weekly:$lang
+            if [ -d "incoming/edition-$lang" ]; then cp incoming/edition-$lang/*.json "data/$lang/"; fi
           done
-        env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-
-      - name: Commit and push weekly digest
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add data/
           if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            WEEK_ID=$(bun -e "import { getLastWeekRange } from './src/lib/date-utils.ts'; console.log(getLastWeekRange().weekId)")
-            git commit -m "Weekly digest: ${WEEK_ID}"
-            git pull --rebase
-            git push
+            echo "No editions to publish"
+            exit 0
           fi
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git commit -m "Daily news update: $(date -u +%F)"
+          git push
+      - name: Deploy
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  deploy:
-    needs: [generate-news, weekly-digest]
-    runs-on: ubuntu-latest
-    if: always() && (needs.generate-news.result == 'success' || needs.weekly-digest.result == 'success')
-
-    steps:
-      - name: Trigger Vercel deployment
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |
-          if [ -n "${{ secrets.VERCEL_DEPLOY_HOOK }}" ]; then
-            curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
-            echo "Triggered Vercel deployment"
-          else
-            echo "No Vercel deploy hook configured"
-          fi
+          if [ -n "$VERCEL_DEPLOY_HOOK" ]; then curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"; fi

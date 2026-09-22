@@ -2,49 +2,29 @@
   "name": "what-happened-today",
   "version": "0.1.0",
   "private": true,
-  "description": "A clean, AI-generated daily summary of global news — free from clickbait, emotion, and information overload.",
+  "description": "The day’s most important news in five minutes, without the noise.",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "TZ=America/Los_Angeles bun test",
-    "check": "bun run lint && bun run test && bun run build",
-    "generate-news": "bun run scripts/generate-news.ts",
-    "generate-news:en": "bun run scripts/generate-news.ts --lang=en",
-    "generate-news:it": "bun run scripts/generate-news.ts --lang=it",
-    "generate-news:fr": "bun run scripts/generate-news.ts --lang=fr",
-    "generate-news:all": "bun run scripts/generate-news.ts --lang=all",
-    "verify-news": "bun run scripts/verify-generated-news.ts",
-    "generate-weekly": "bun run scripts/generate-weekly.ts",
-    "generate-weekly:en": "bun run scripts/generate-weekly.ts --lang=en",
-    "generate-weekly:it": "bun run scripts/generate-weekly.ts --lang=it",
-    "generate-weekly:fr": "bun run scripts/generate-weekly.ts --lang=fr",
-    "generate-weekly:all": "bun run generate-weekly:en && bun run generate-weekly:it && bun run generate-weekly:fr",
-    "setup": "bash scripts/setup.sh",
-    "dev:script": "bash scripts/dev.sh",
-    "generate": "bash scripts/generate.sh"
+    "test": "bun test",
+    "edition": "bun src/pipeline/run.ts"
   },
   "dependencies": {
-    "@heroicons/react": "^2.2.0",
     "@vercel/analytics": "^1.5.0",
-    "lucide-react": "^0.562.0",
     "next": "15.3.8",
-    "openai": "^4.73.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@tailwindcss/postcss": "^4.1.8",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.3.8",
-    "postcss": "^8.5.4",
-    "tailwindcss": "^4.1.8",
     "typescript": "^5"
   }
 }

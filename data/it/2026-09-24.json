@@ -1,0 +1,131 @@
+{
+  "date": "2026-09-24",
+  "summary": "Gli attacchi russi hanno ucciso sette persone in una fattoria nella regione di Kharkiv e almeno due a Kiev; è stato colpito anche un ospedale. La Moldavia ha denunciato la violazione del proprio spazio aereo da parte di quattro droni. Separatamente, un’informazione attribuita alla Cia segnala possibili piani russi per attacchi con droni dal mare contro Italia, Francia e Spagna: i velivoli Gerbera possono trasportare cariche esplosive di quattro o cinque chili.\n\nDurante la visita di Xi Jinping negli Stati Uniti, Washington e Pechino hanno prorogato la tregua commerciale fino al 10 gennaio. I due governi valutano un accordo più ampio e hanno avviato un canale di comunicazione sulla sicurezza dell’intelligenza artificiale. Sul fronte economico, la Bce prevede un’inflazione ben sopra il 2% fino a metà 2027, anche per effetto delle guerre; in agosto l’aumento dei prezzi dell’energia ha raggiunto il 14,3%.\n\nIl Senato ha approvato in via definitiva la legge sul nucleare, con 81 voti favorevoli, 51 contrari e sette astenuti: il governo dovrà definire entro un anno le regole per l’intero ciclo di vita dell’energia nucleare. Intanto, un giudice federale ha ordinato all’amministrazione Trump di riammettere alla Casa Bianca Cnn, Ms Now e Politico, cui erano stati revocati i pass stampa.",
+  "headlines": [
+    {
+      "title": "Raid russi su Ucraina, morti a Kharkiv e Kiev",
+      "summary": "Attacchi russi hanno colpito diverse città ucraine: a Kharkiv sono morte sette persone, mentre a Kiev le vittime sono almeno due. Tra gli edifici colpiti c’è un ospedale; la Moldavia ha dichiarato che quattro droni russi hanno violato il suo spazio aereo.",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/kiev-raid-russo-su-fattoria-nel-kharkiv-7-morti.-due-vittime-anche_feb663f1-6d18-48f5-bb71-429ab07a50ab.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-24T08:02:23.000Z",
+      "coverage": [
+        {
+          "source": "Rai News",
+          "link": "https://www.rainews.it/maratona/2026/09/zelensky-allonu-putin-e-paziente-zero-va-fermato-impedirgli-di-diffondere-il-suo-male-4230d097-9dd7-4bc7-a5d3-60fe2dc04e4d.html"
+        },
+        {
+          "source": "la Repubblica",
+          "link": "https://www.repubblica.it/esteri/2026/09/24/news/kiev_odessa_missili_russia_ucraina_guerra-425603778/?rss"
+        }
+      ]
+    },
+    {
+      "title": "La Cia segnala possibili attacchi russi con droni nel Mediterraneo",
+      "summary": "Secondo un’informazione attribuita alla Cia, Mosca starebbe preparando attacchi con droni lanciati da navi contro Italia, Francia e Spagna. I velivoli citati sono i Gerbera, lunghi circa due metri e capaci di trasportare un carico esplosivo di quattro o cinque chili.",
+      "link": "https://www.tgcom24.mediaset.it/mondo/russia-droni-cia-italia-francia-spagna_116925722-202602k.shtml",
+      "source": "TGCOM24",
+      "publishedAt": "2026-09-24T08:27:21.000Z",
+      "coverage": [
+        {
+          "source": "AGI",
+          "link": "https://www.agi.it/estero/news/2026-09-24/russia-attacchi-italia-39214581/"
+        },
+        {
+          "source": "ANSA",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/el-mundo-russia-pronta-ad-attacchi-con-droni-dal-mare-in-italia-francia_f3970154-cd44-45da-9d7a-0f7ce91c9725.html"
+        },
+        {
+          "source": "Rai News",
+          "link": "https://www.rainews.it/articoli/2026/09/russia-el-mundo-mosca-prepara-attacchi-a-francia-spagna-italia-il-conflitto-ibrido-63bfb3e8-71ef-4d04-ab26-d019a2d20161.html"
+        }
+      ]
+    },
+    {
+      "title": "Usa e Cina prorogano la tregua sui dazi fino a gennaio",
+      "summary": "Donald Trump ha accolto Xi Jinping negli Stati Uniti mentre Washington e Pechino hanno prorogato la tregua commerciale. L’intesa durerà fino al 10 gennaio; i due Paesi valutano un accordo più ampio e hanno avviato un canale sulla sicurezza dell’intelligenza artificiale.",
+      "link": "https://it.euronews.com/2026/09/24/donald-trump-accoglie-con-tutti-gli-onori-xi-jinping-prorogata-fino-a-gennaio-la-tregua-co",
+      "source": "Euronews",
+      "publishedAt": "2026-09-24T05:45:54.000Z",
+      "coverage": [
+        {
+          "source": "Rai News",
+          "link": "https://www.rainews.it/articoli/2026/09/dazi-usa-cina-prorogata-di-due-mesi-la-tregua-commerciale-fino-al-10-gennaio-0f34f9c9-8647-454c-83e8-1a17b3ac2686.html"
+        },
+        {
+          "source": "TGCOM24",
+          "link": "https://www.tgcom24.mediaset.it/mondo/trump-xi-visita-stato-usa-casa-bianca-taiwan-commercio_116921674-202602k.shtml"
+        }
+      ]
+    },
+    {
+      "title": "La Bce prevede un’inflazione sopra il 2% fino a metà 2027",
+      "summary": "La Bce stima che l’inflazione resterà ben oltre il 2% fino a metà 2027, anche per effetto delle guerre. In agosto i prezzi dell’energia hanno registrato un aumento del 14,3%.",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/bce-con-la-guerra-linflazione-ben-sopra-il-2-fino-a-meta-2027_a23e6dfd-e319-4d0b-8381-5ed9c1f23c32.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-24T09:12:45.000Z",
+      "coverage": [
+        {
+          "source": "TGCOM24",
+          "link": "https://www.tgcom24.mediaset.it/economia/bce-guerra-inflazione-salari_116932696-202602k.shtml"
+        }
+      ]
+    },
+    {
+      "title": "Il Senato approva in via definitiva la legge sul nucleare",
+      "summary": "Il Senato ha approvato il disegno di legge sul nucleare con 81 voti favorevoli, 51 contrari e sette astenuti. Il testo incarica il governo di definire entro un anno una disciplina organica per l’intero ciclo di vita dell’energia nucleare.",
+      "link": "https://www.agi.it/economia/news/2026-09-24/nucleare-cosa-cambia-italia-39215868/",
+      "source": "AGI",
+      "publishedAt": "2026-09-24T06:42:08.000Z",
+      "coverage": [
+        {
+          "source": "Il Sole 24 Ore",
+          "link": "https://www.ilsole24ore.com/art/decreto-imballaggi-via-libera-senato-nuove-norme-la-plastica-monouso-cosa-cambia-AJY4OOLB"
+        }
+      ]
+    },
+    {
+      "title": "Un giudice ordina di riammettere tre testate alla Casa Bianca",
+      "summary": "Un giudice federale ha ordinato all’amministrazione Trump di ripristinare l’accesso alla Casa Bianca per Cnn, Ms Now e Politico. La decisione riguarda i pass revocati dopo che Trump aveva accusato le testate di diffondere notizie false.",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/?rss",
+      "source": "la Repubblica",
+      "publishedAt": "2026-09-24T07:28:40.000Z",
+      "coverage": [
+        {
+          "source": "AGI",
+          "link": "https://www.agi.it/estero/news/2026-09-24/trump-giudice-riammette-cnn-39216373/"
+        },
+        {
+          "source": "Euronews",
+          "link": "https://it.euronews.com/2026/09/24/un-giudice-ordina-a-trump-di-ripristinare-laccesso-di-cnn-politico-e-ms-now-alla-casa-bian"
+        },
+        {
+          "source": "TGCOM24",
+          "link": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-giudice-ordina-casa-bianca-media-banditi-cnn-politico-trump_116928433-202602k.shtml"
+        },
+        {
+          "source": "Rai News",
+          "link": "https://www.rainews.it/articoli/2026/09/trump-contro-i-media-il-tribunale-interviene-riammesse-alla-casa-bianca-le-tre-testate-bandite-7bb0bfd6-4878-43e0-b112-9221f6c1f046.html"
+        }
+      ]
+    },
+    {
+      "title": "La Corte Ue esclude l’ex Ilva dagli aiuti sull’energia",
+      "summary": "La Corte di giustizia dell’Unione europea ha stabilito che un’impresa in difficoltà non può ricevere agevolazioni destinate alle aziende ad alto consumo di energia. Spetterà al giudice verificare se l’ex Ilva rientri in questa condizione.",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/corte-ue-su-ex-ilva-no-aiuti-su-energia-a-imprese-in-difficolta_1932639f-5060-48b7-992d-6647a9eff13f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-24T08:50:54.000Z",
+      "coverage": [
+        {
+          "source": "Il Sole 24 Ore",
+          "link": "https://www.ilsole24ore.com/art/ex-ilva-corte-ue-no-agevolazioni-energia-ad-impresa-aiutata-stato-AJnjxONB"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "model": "openai/gpt-6-luna",
+    "articles": 197,
+    "candidates": 40,
+    "generatedAt": "2026-09-24T09:20:59.120Z"
+  }
+}

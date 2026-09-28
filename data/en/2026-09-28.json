@@ -1,0 +1,147 @@
+{
+  "date": "2026-09-28",
+  "summary": "Trump rejected an Iranian proposal to reopen the Strait of Hormuz within a week and resume nuclear talks in return for lifting the U.S. naval blockade. Iran said it had no plans to negotiate, and Brent crude rose more than 3 percent to above $107 a barrel. The dispute leaves a key oil route at the centre of the standoff, with immediate effects on prices already visible.\n\nRussian strikes killed eight people and injured dozens across Ukraine on Sunday. President Volodymyr Zelenskyy said Russia had launched about 3,900 drones, aerial bombs and missiles over the past week. On the U.S. East Coast, a nor’easter brought flooding, damaging winds and power outages; about 110,500 households remained without power from North Carolina to New England, and at least one person was killed.\n\nTwo mass shootings near Johannesburg and Cape Town killed at least 27 people, police said: 17 near Johannesburg and 10 in the separate Cape Town-area attack. In Nepal, an avalanche struck the Himlung Himal base camp, killing two; rescuers resumed searches for missing people, with reports giving the toll as 12 or 14. Five men were arrested near RAF Fairford in Britain on suspicion of preparing a terrorist act. Police are investigating a possible Iran link and examining suspicious vehicles; nearby homes were evacuated.",
+  "headlines": [
+    {
+      "title": "Trump rejects Iran proposal to reopen the Strait of Hormuz",
+      "summary": "Trump rejected an Iranian proposal to reopen the Strait of Hormuz within a week and resume nuclear talks in exchange for lifting the U.S. naval blockade. Brent crude rose more than 3 percent to above $107 a barrel, while Iran said it had no plans to negotiate with the United States.",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T09:17:29.000Z",
+      "coverage": [
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz"
+        }
+      ]
+    },
+    {
+      "title": "Russian strikes kill eight across Ukraine",
+      "summary": "Russian strikes killed eight people and injured dozens across Ukraine on Sunday. President Volodymyr Zelenskyy said Russia had launched about 3,900 drones, aerial bombs and missiles over the past week.",
+      "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T05:06:11.000Z",
+      "coverage": [
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow"
+        }
+      ]
+    },
+    {
+      "title": "Nor’easter brings flooding and power outages to US East Coast",
+      "summary": "A strong storm battered the U.S. East Coast, bringing flooding, damaging winds and power outages. About 110,500 households remained without power from North Carolina to New England, and at least one person was killed.",
+      "link": "https://www.france24.com/en/video/20260928-powerful-storm-batters-us-northeast",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T08:56:27.000Z",
+      "coverage": [
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/27/noreaster-storm-east-coast-death-power-outages"
+        }
+      ]
+    },
+    {
+      "title": "Two mass shootings kill at least 27 in South Africa",
+      "summary": "Two mass shootings near Johannesburg and Cape Town killed at least 27 people, police said. Seventeen people were killed near Johannesburg and 10 in a separate attack near Cape Town.",
+      "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-27T13:46:49.000Z",
+      "coverage": [
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html"
+        },
+        {
+          "source": "AllAfrica",
+          "link": "https://allafrica.com/stories/202609280048.html"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Avalanche in Nepal kills two and leaves at least 12 missing",
+      "summary": "An avalanche struck the Himlung Himal base camp in Nepal, killing two people. Rescuers resumed searching for missing people after severe weather; reports put the number missing at 12 or 14.",
+      "link": "https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T07:10:58.000Z",
+      "coverage": [
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3369014/avalanche-nepals-himlung-mountain-leaves-2-workers-dead-14-missing?utm_source=rss_feed"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/avalanche-in-nepal-leaves-2-dead-several-missing/a-79450101?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ]
+    },
+    {
+      "title": "Five arrested near UK air base in suspected terror plot",
+      "summary": "Five men were arrested near RAF Fairford, a British base used by U.S. forces, on suspicion of preparing a terrorist act. Police are investigating a possible Iran link and examining suspicious vehicles; nearby homes were evacuated.",
+      "link": "https://www.wsj.com/world/u-k-probes-possible-iran-link-to-suspected-terror-plot-at-base-hosting-u-s-forces-b2328fb2?mod=rss_worldnews",
+      "source": "Wall Street Journal",
+      "publishedAt": "2026-09-28T10:53:00.000Z",
+      "coverage": [
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/28/world/trump-uk-attack-shared-base/"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-police-question-five-men-held-near-air-base-used-by-us-to-strike-iran/article71518813.ece"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack"
+        }
+      ]
+    },
+    {
+      "title": "Serbia’s Vucic resigns as president to pursue prime minister bid",
+      "summary": "Aleksandar Vucic resigned as Serbia’s president and will lead his ruling party into an early parliamentary election as he seeks to become prime minister. The election will test his party after nearly two years of protests.",
+      "link": "https://www.france24.com/en/video/20260928-serbia-s-populist-president-vucic-resigns-to-run-for-pm",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T10:47:38.000Z",
+      "coverage": [
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3369018/echoing-putin-serbias-president-resigns-bid-become-prime-minister?utm_source=rss_feed"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss"
+        },
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "model": "openai/gpt-6-luna",
+    "articles": 362,
+    "candidates": 40,
+    "generatedAt": "2026-09-28T10:58:57.008Z"
+  }
+}

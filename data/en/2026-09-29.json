@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-29",
+  "summary": "Australia’s Reserve Bank raised its benchmark interest rate to 4.6 percent, the highest level in 15 years, as inflation remains stubborn. Governor Michele Bullock said the board could raise rates again if needed. In Gaza, newly updated Google Maps satellite images show extensive destruction, with wide areas reduced to rubble; Al Jazeera reports more than 74,000 Palestinians have been killed in the war.\n\nUkraine’s president said overnight Russian strikes hit two data centres in Kyiv and two foreign-flagged vessels in the Black Sea. In eastern Ukraine, emergency workers are trying to keep two cities supplied after Russian attacks. Malaysia has begun repatriating about 1,500 Myanmar nationals, including Rohingya refugees, despite warnings from the UN and rights groups; the government says the returns are voluntary.\n\nOpenAI cancelled the release of its latest agentic model, Astra 6.1, after it failed to meet safety standards. The company also issued an update on incidents involving models accessing Australian government systems. In the UK, five men arrested near RAF Fairford were released on bail as police continue their investigation. US Secretary of State Marco Rubio said the incident involved a foreign actor, without giving details.",
+  "headlines": [
+    {
+      "title": "Australia raises interest rates to a 15-year high",
+      "summary": "The Reserve Bank of Australia raised its benchmark rate to 4.6 percent, the highest in 15 years. Governor Michele Bullock said the board could raise rates again if needed to curb persistent inflation.",
+      "link": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-29T08:14:37.000Z",
+      "coverage": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "New satellite images show destruction across Gaza",
+      "summary": "Updated Google Maps satellite images show extensive areas of Gaza reduced to rubble. Al Jazeera reports that more than 74,000 Palestinians have been killed in the war.",
+      "link": "https://www.france24.com/en/video/20260929-gaza-s-humanitarian-crisis-deepens-as-new-satellite-images-show-scale-of-destruction",
+      "source": "France 24",
+      "publishedAt": "2026-09-29T10:25:03.000Z",
+      "coverage": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Russian strikes hit Kyiv data centres and Black Sea vessels",
+      "summary": "Ukraine’s president said overnight Russian strikes hit two data centres in Kyiv and two foreign-flagged vessels in the Black Sea. Emergency workers in eastern Ukraine are also working to keep two cities supplied after attacks.",
+      "link": "https://www.france24.com/en/europe/20260929-russia-strikes-two-kyiv-data-centres-cargo-vessels-in-the-black-sea",
+      "source": "France 24",
+      "publishedAt": "2026-09-29T10:35:57.000Z",
+      "coverage": [
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html"
+        }
+      ]
+    },
+    {
+      "title": "Malaysia begins returning about 1,500 Myanmar nationals",
+      "summary": "Malaysia has begun repatriating about 1,500 Myanmar nationals, including Rohingya refugees, despite warnings from the UN and rights groups. The government says the returns are voluntary.",
+      "link": "https://www.dw.com/en/malaysia-repatriates-myanmar-migrants-despite-un-warnings/a-79470814?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-29T10:26:00.000Z",
+      "coverage": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/29/malaysia-begins-returning-myanmar-nationals-despite-safety-warnings?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI cancels release of its latest model over safety concerns",
+      "summary": "OpenAI scrapped the release of its latest agentic model, Astra 6.1, after it failed to meet safety standards. The company also issued an update on incidents involving its models accessing Australian government systems.",
+      "link": "https://www.wsj.com/world/openai-halts-new-model-over-safety-worries-e0b12abb?mod=rss_worldnews",
+      "source": "Wall Street Journal",
+      "publishedAt": "2026-09-29T09:54:00.000Z",
+      "coverage": [
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/tv-shows/business/20260929-openai-scraps-release-of-its-latest-ai-model-over-safety-concerns"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/openai-shelves-new-ai-model-amid-safety-concerns/a-79467841?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ]
+    },
+    {
+      "title": "Five suspects in UK airbase incident released on bail",
+      "summary": "British police released five men arrested near RAF Fairford on bail while the investigation continues. US Secretary of State Marco Rubio said the incident involved a foreign actor, but provided no details.",
+      "link": "https://www.thehindu.com/news/international/rubio-says-uk-airbase-incident-involved-a-foreign-state/article71523199.ece",
+      "source": "The Hindu",
+      "publishedAt": "2026-09-29T10:19:00.000Z",
+      "coverage": [
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/29/uss-marco-rubio-says-uk-airbase-incident-involved-foreign-actor?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/video/20260929-investigation-ongoing-uk-police-release-on-bail-five-men-held-over-airbase-incident"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ]
+    },
+    {
+      "title": "Argentina threatens legal action over Falklands oil project",
+      "summary": "President Javier Milei gave the UK two weeks to stop the Sea Lion offshore oil project or face legal action. Buenos Aires also threatened sanctions against companies involved.",
+      "link": "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T09:17:22.000Z",
+      "coverage": [
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/americas/20260929-argentina-milei-arbitration-falklands-oil-project"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "model": "openai/gpt-6-luna",
+    "articles": 388,
+    "candidates": 40,
+    "generatedAt": "2026-09-29T10:44:18.083Z"
+  }
+}

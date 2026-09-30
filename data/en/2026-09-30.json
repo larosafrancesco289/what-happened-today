@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-30",
+  "summary": "The US military says it has completed its withdrawal from Iraq, ending a deployment that began in 2014 to fight Islamic State. Iraqi officials and analysts warn that the departure could embolden Iran-backed militias; Iran has celebrated the pullout. In a separate US development, the Supreme Court temporarily cleared the Trump administration to resume deporting migrants to countries other than their own while it considers the policy’s legality, lifting lower-court safeguards requiring notice and a chance to raise concerns.\n\nMorocco’s King Mohammed VI appointed Marrakesh mayor Fatima Ezzahra El Mansouri as the country’s first woman prime minister after her party won last week’s parliamentary election. The king asked her to form a new government. Malaysia has also begun sending undocumented migrants back to Myanmar, despite warnings from rights groups and the United Nations that returnees could face danger. The government plans to repatriate 5,000 people; about 1,500 were sent back on Tuesday.\n\nFighting has resumed between rebel and federal forces in Ethiopia’s northern Tigray region, where civilians are caught in clashes and communication blackouts have affected the area. In France, tens of thousands of public workers marched in protests over pay as student demonstrations over school conditions escalated; police arrested more than 400 students amid clashes at schools.",
+  "headlines": [
+    {
+      "title": "US completes withdrawal of troops from Iraq",
+      "summary": "The US military says it has withdrawn its remaining troops from Iraq, ending a deployment that began in 2014 to fight Islamic State. Iraqi officials and analysts warn the departure could strengthen Iran-backed militias, while Iran hailed it as a victory.",
+      "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
+      "source": "New York Times",
+      "publishedAt": "2026-09-30T09:31:01.000Z",
+      "coverage": [
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/middle-east/20260930-us-forces-leave-iraq-raising-fears-of-iran-backed-militias-amid-power-vacuum"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran/article71526553.ece"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ]
+    },
+    {
+      "title": "Supreme Court allows third-country deportations to resume",
+      "summary": "The US Supreme Court temporarily allowed the Trump administration to resume deporting migrants to countries other than their own while it considers whether the policy is legal. The order lifts lower-court safeguards that required notice and a chance to raise concerns about removal.",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3369275/us-supreme-court-lets-trump-resume-deportations-third-countries?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-09-30T03:21:23.000Z",
+      "coverage": [
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/americas/20260929-us-supreme-court-lifts-restrictions-on-third-country-deportations"
+        }
+      ]
+    },
+    {
+      "title": "Morocco appoints its first woman prime minister",
+      "summary": "King Mohammed VI appointed Fatima Ezzahra El Mansouri, the mayor of Marrakesh, as Morocco’s first woman prime minister. Her party won last week’s parliamentary election, and the king asked her to form a new government.",
+      "link": "https://allafrica.com/stories/202609300095.html",
+      "source": "AllAfrica",
+      "publishedAt": "2026-09-30T05:58:11.000Z",
+      "coverage": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/king-appoints-moroccos-first-female-prime-minister-2?traffic_source=rss"
+        },
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/video/20260930-fatima-ezzahra-el-mansouri-named-morocco-s-first-woman-pm"
+        },
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/africa/article/3369259/moroccos-king-appoints-el-mansouri-first-woman-prime-minister?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "Malaysia begins sending Myanmar migrants back",
+      "summary": "Malaysia has begun repatriating undocumented migrants from Myanmar despite warnings from rights groups and the United Nations about risks to their safety. The government’s plan covers 5,000 people; about 1,500 were sent back on Tuesday.",
+      "link": "https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html",
+      "source": "New York Times",
+      "publishedAt": "2026-09-30T06:43:18.000Z",
+      "coverage": [
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups"
+        }
+      ]
+    },
+    {
+      "title": "Fighting returns to Ethiopia’s Tigray region",
+      "summary": "Clashes between rebel and federal forces have resumed in northern Ethiopia, disrupting a fragile peace. Civilians are caught in the fighting as the region faces communication blackouts.",
+      "link": "https://allafrica.com/stories/202609300096.html",
+      "source": "AllAfrica",
+      "publishedAt": "2026-09-30T06:02:54.000Z",
+      "coverage": [
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ethiopia-no-regard-for-civilians-as-fighting-in-ethiopia-s-tigray-region-continues/a-79464569?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ]
+    },
+    {
+      "title": "French protests bring arrests and nationwide strikes",
+      "summary": "Tens of thousands of public workers marched across France in protests over pay, while student demonstrations over school conditions and resources escalated. Police arrested more than 400 students amid clashes at schools.",
+      "link": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T03:53:39.000Z",
+      "coverage": [
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Five crew members killed aboard hijacked Somali tanker",
+      "summary": "Somali pirates killed five crew members aboard the hijacked tanker MT Honour 25 before Puntland security forces retook the vessel. The dead included three Pakistanis, one Indian and one Myanmar national.",
+      "link": "https://www.thehindu.com/news/national/indian-sailor-among-five-killed-another-injured-as-somali-forces-retake-hijacked-tanker/article71527647.ece",
+      "source": "The Hindu",
+      "publishedAt": "2026-09-30T09:36:29.000Z",
+      "coverage": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/africa/article/3369269/somali-pirates-kill-5-crew-hijacked-tanker-rescue-security-forces?utm_source=rss_feed"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "model": "openai/gpt-6-luna",
+    "articles": 390,
+    "candidates": 40,
+    "generatedAt": "2026-09-30T10:32:16.928Z"
+  }
+}

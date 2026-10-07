@@ -18,6 +18,12 @@ function clean(text: string | undefined): string {
   return (text ?? '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
+/** Cut at a word boundary and end with "…", so the model can tell the text is incomplete. */
+export function shorten(text: string): string {
+  if (text.length <= MAX_EXCERPT_CHARS) return text;
+  return `${text.slice(0, MAX_EXCERPT_CHARS).replace(/\s+\S*$/, '')}…`;
+}
+
 async function fetchFeed(source: string, url: string): Promise<Article[]> {
   const response = await fetch(url, {
     headers: { 'User-Agent': 'Mozilla/5.0 (compatible; WhatHappenedToday/2.0)' },
@@ -33,7 +39,7 @@ async function fetchFeed(source: string, url: string): Promise<Article[]> {
     return [{
       source,
       title,
-      excerpt: clean(item.contentSnippet ?? item.content).slice(0, MAX_EXCERPT_CHARS),
+      excerpt: shorten(clean(item.contentSnippet ?? item.content)),
       link: item.link.trim(),
       publishedAt: new Date(published).toISOString(),
     }];

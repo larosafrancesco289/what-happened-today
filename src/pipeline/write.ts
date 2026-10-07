@@ -46,15 +46,16 @@ const SCHEMA = {
 
 function buildPrompt(lang: Lang, candidates: Candidate[]): string {
   const language = STRINGS[lang].name;
+  // No outlet names: given them, models wrote "according to the BBC" despite the rules (2026-10-07).
   const list = candidates.map((candidate, i) => {
-    const outlets = [...new Set(candidate.map(a => a.source))];
-    const lines = candidate.slice(0, 3).map(a => `- ${a.source}: ${a.title}${a.excerpt ? ` — ${a.excerpt}` : ''}`);
-    return `[${i + 1}] Covered by: ${outlets.join(', ')}\n${lines.join('\n')}`;
+    const outlets = new Set(candidate.map(a => a.source)).size;
+    const lines = candidate.slice(0, 3).map(a => `- ${a.title}${a.excerpt ? ` — ${a.excerpt}` : ''}`);
+    return `[${i + 1}] Covered by ${outlets} outlet${outlets > 1 ? 's' : ''}\n${lines.join('\n')}`;
   });
 
   return `You are the editor of a calm daily news briefing. Readers want the day's most important news in five minutes, told plainly.
 
-Below are ${candidates.length} candidate stories from the last 30 hours of news feeds, each with the outlets that covered it and up to three headlines with excerpts. Coverage by many outlets usually signals importance, but use judgment: prefer news with real consequences for many people over celebrity, sport, crime briefs and lifestyle pieces, unless they are genuinely major.
+Below are ${candidates.length} candidate stories from the last 30 hours of news feeds, each with the number of outlets that covered it and up to three headlines with excerpts. Coverage by many outlets usually signals importance, but use judgment: prefer news with real consequences for many people over celebrity, sport, crime briefs and lifestyle pieces, unless they are genuinely major.
 
 Write today's edition in ${language}.
 
@@ -63,13 +64,14 @@ Write today's edition in ${language}.
 - "title": a factual headline, at most 12 words, in sentence case. No questions or teaser colons.
 - "summary": two sentences, at most 45 words. First what happened; then the most useful concrete detail from the sources: a number, a cause, a reaction, or the next scheduled step.
 
-"summary": the briefing. Three paragraphs, 180 to 260 words, covering the top stories in order of importance. Give each paragraph one or two stories and tell them properly. Stories that don't fit stay in the list; don't string them together with "separately" or "meanwhile". Plain prose, paragraphs separated by blank lines, no markdown.
+"summary": the briefing. Three paragraphs, 180 to 260 words, on only the three to five most important stories, in order. Each paragraph tells at most two stories, properly; the rest stay in the list, never strung together with "separately" or "meanwhile". Plain prose, paragraphs separated by blank lines, no markdown.
 
 Rules:
 - Every statement must come from the candidates: no outside facts, background or interpretation.
+- An excerpt ending in "…" is cut off: use only what it says, never guess how it continues.
 - No commentary. Never close a sentence or paragraph with lines like "the outlook remains uncertain", "this raises questions about", "amid growing tensions" or "marking a significant step".
-- Write as the newspaper, never about your material: no "reports say", "according to the articles" or "no further details were given".
-- If sources contradict each other, say so in a few words rather than blending them.
+- Write as the newspaper, never about your material: no "reports say", "according to one source" or "no further details were given".
+- If figures or facts conflict, give both ("turnout was 61%, or 58% by another count"), never a range or just one.
 - Neutral tone: no emotive adjectives; attribute claims to whoever made them.
 - Write natural, idiomatic ${language}, never translated-sounding, even where excerpts are in another language.
 

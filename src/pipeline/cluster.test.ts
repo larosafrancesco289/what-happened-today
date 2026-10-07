@@ -19,6 +19,15 @@ test('groups the same story across outlets', () => {
   expect(clusters.map(c => c.map(a => a.source).sort())).toEqual([['BBC', 'Guardian'], ['NPR']]);
 });
 
+test('groups Italian headline variants that differ only by inflection', () => {
+  const clusters = clusterArticles([
+    article('ANSA', "Mattarella concede tre grazie, c'è anche un gioielliere che sparò ai rapinatori", 9),
+    article('Rai News', "Mattarella firma tre provvedimenti di grazia, c'è anche il gioielliere Guido Gianni", 8),
+    article('ANSA', 'Mattarella: "Il 7 ottobre è un monito, ma non dimenticare Gaza"', 7),
+  ]);
+  expect(clusters.map(c => c.length)).toEqual([2, 1]);
+});
+
 test('ranks multi-outlet stories first and caps single-outlet stories per outlet', () => {
   const busy = ['Floods in Pakistan', 'Chile elects president', 'Kenya raises taxes', 'Norway oil fund sells', 'Brazil court ruling', 'Canada wildfire season']
     .map((title, i) => article('DW', title, 12 + i));

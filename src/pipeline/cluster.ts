@@ -16,13 +16,15 @@ const STOPWORDS = new Set([
   'direct', 'fait', 'nous', 'vous', 'elle', 'tout', 'sans', 'sous',
 ]);
 
+/** Title words as crude stems: a final vowel and/or "s" is dropped so grazia/grazie or clock/clocks match. */
 function keywords(title: string): Set<string> {
   const words = title
     .normalize('NFKD')
     .replace(/[̀-ͯ]/g, '')
     .toLowerCase()
     .split(/[^\p{L}\p{N}]+/u)
-    .filter(word => word.length >= 4 && !STOPWORDS.has(word));
+    .filter(word => word.length >= 4 && !STOPWORDS.has(word))
+    .map(word => word.replace(/[aeio]?s?$/, ''));
   return new Set(words);
 }
 

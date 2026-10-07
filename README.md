@@ -10,7 +10,7 @@ Every morning a GitHub Action runs one job per language:
 
 1. **Fetch**: pull the last 30 hours from each language's RSS feeds (`src/pipeline/feeds.ts`).
 2. **Cluster**: group articles about the same story across outlets by shared title keywords. Stories covered by more outlets rank higher. No model involved.
-3. **Write**: one call to `openai/gpt-6-luna` via OpenRouter with a strict JSON schema. The model picks candidates by number and writes the briefing and story summaries. Links, outlets and dates are attached from the feed data, never from model output. If the call fails or the output doesn't validate, it falls back to `deepseek/deepseek-v4-flash-0731`.
+3. **Write**: one call to `anthropic/claude-haiku-5.5` (medium effort) via OpenRouter with a strict JSON schema. The model picks candidates by number and writes the briefing and story summaries. Links, outlets and dates are attached from the feed data, never from model output. If the call fails or the output doesn't validate, it falls back to `openai/gpt-6-luna`, then `deepseek/deepseek-v4-flash-0731`.
 4. **Publish**: successful editions are committed to `data/{lang}/YYYY-MM-DD.json` in one commit, and the site is rebuilt.
 
 A language that fails turns the run red; the others still publish. Each edition costs about $0.001.

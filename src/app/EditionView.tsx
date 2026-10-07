@@ -5,6 +5,7 @@ import StaleNotice from './StaleNotice';
 
 // Display names for the models the pipeline uses (see src/pipeline/write.ts).
 const MODEL_NAMES: Record<string, string> = {
+  'anthropic/claude-haiku-5.5': 'Claude Haiku 5.5',
   'openai/gpt-6-luna': 'GPT-6 Luna',
   'openai/gpt-5.6-luna': 'GPT-5.6 Luna',
   'deepseek/deepseek-v4-flash-0731': 'DeepSeek V4 Flash',

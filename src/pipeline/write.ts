@@ -3,15 +3,21 @@ import type { Story } from '../editions';
 import type { Candidate } from './cluster';
 
 // Tried in order until one returns a valid edition. MODELS=a,b in the environment overrides the chain.
-const DEFAULT_MODELS = ['openai/gpt-6-luna', 'deepseek/deepseek-v4-flash-0731'];
+const DEFAULT_MODELS = ['anthropic/claude-haiku-5.5', 'openai/gpt-6-luna', 'deepseek/deepseek-v4-flash-0731'];
 const MODELS = process.env.MODELS?.split(',') ?? DEFAULT_MODELS;
 
-// Low reasoning made Luna's editions more faithful in blind judging (2026-09-22) for ~3s and
-// ~20% more tokens. Other models run with reasoning off: DeepSeek's default is slow and costly.
-const REASONING: Record<string, string> = { 'openai/gpt-6-luna': 'low' };
+// Medium effort won blind judging on 2026-10-07: Haiku 5.5 (with its own prompt) beat Luna in all
+// three languages, and Luna medium beat Luna low. Haiku at high effort thought past 16k tokens
+// without writing anything. Other models run with reasoning off: DeepSeek's default is slow and costly.
+const REASONING: Record<string, string> = {
+  'anthropic/claude-haiku-5.5': 'medium',
+  'openai/gpt-6-luna': 'medium',
+};
 
-// OpenAI's small models reject a temperature parameter.
-const NO_TEMPERATURE = new Set(['openai/gpt-6-luna']);
+// These models reject a custom temperature.
+const NO_TEMPERATURE = new Set(['anthropic/claude-haiku-5.5', 'openai/gpt-6-luna']);
+
+type Message = { role: 'system' | 'user'; content: string };
 
 interface ModelOutput {
   summary: string;
@@ -44,7 +50,7 @@ const SCHEMA = {
   },
 };
 
-function buildPrompt(lang: Lang, candidates: Candidate[]): string {
+function buildPrompt(lang: Lang, candidates: Candidate[]): Message[] {
   const language = STRINGS[lang].name;
   // No outlet names: given them, models wrote "according to the BBC" despite the rules (2026-10-07).
   const list = candidates.map((candidate, i) => {
@@ -53,7 +59,7 @@ function buildPrompt(lang: Lang, candidates: Candidate[]): string {
     return `[${i + 1}] Covered by ${outlets} outlet${outlets > 1 ? 's' : ''}\n${lines.join('\n')}`;
   });
 
-  return `You are the editor of a calm daily news briefing. Readers want the day's most important news in five minutes, told plainly.
+  return [{ role: 'user', content: `You are the editor of a calm daily news briefing. Readers want the day's most important news in five minutes, told plainly.
 
 Below are ${candidates.length} candidate stories from the last 30 hours of news feeds, each with the number of outlets that covered it and up to three headlines with excerpts. Coverage by many outlets usually signals importance, but use judgment: prefer news with real consequences for many people over celebrity, sport, crime briefs and lifestyle pieces, unless they are genuinely major.
 
@@ -77,10 +83,53 @@ Rules:
 
 CANDIDATES
 
-${list.join('\n\n')}`;
+${list.join('\n\n')}` }];
 }
 
-async function complete(model: string, prompt: string): Promise<ModelOutput> {
+const escapeXml = (text: string) => text.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+
+/**
+ * The same brief written the way Anthropic's prompting guide recommends for Claude: role in the
+ * system prompt, data in XML tags first and instructions last, a reason given for each rule.
+ * It beat the plain prompt on Haiku 5.5 in blind judging (2026-10-07).
+ */
+function buildClaudePrompt(lang: Lang, candidates: Candidate[]): Message[] {
+  const language = STRINGS[lang].name;
+  const list = candidates.map((candidate, i) => {
+    const outlets = new Set(candidate.map(a => a.source)).size;
+    const items = candidate.slice(0, 3).map(a =>
+      `<item><headline>${escapeXml(a.title)}</headline>${a.excerpt ? `<excerpt>${escapeXml(a.excerpt)}</excerpt>` : ''}</item>`);
+    return `<candidate index="${i + 1}" outlets="${outlets}">\n${items.join('\n')}\n</candidate>`;
+  });
+
+  const system = `You are the editor of a calm daily news briefing published in ${language}. Readers come to it to learn the day's most important news in five minutes, told plainly and accurately. They trust it because every sentence can be traced to the reporting it is based on.`;
+
+  const user = `<candidates>
+${list.join('\n')}
+</candidates>
+
+The candidates above are the stories from the last 30 hours of news feeds, grouped by event. Each shows how many outlets covered it and up to three headlines with excerpts. An excerpt ending in "…" was cut off by the feed.
+
+Write today's edition in ${language} as JSON with two fields.
+
+"stories" holds the 6 to 8 most important distinct stories, most important first. Wide coverage usually signals importance, but weigh consequences too: news that affects many people's lives, safety or money comes before celebrity, sport, crime briefs and lifestyle pieces, unless those are genuinely major. For each story, "candidates" lists the candidate numbers it draws on, most informative first; merge candidates only when they report the same event, because the site links each story to the sources it cites. "title" is a factual headline of at most 12 words in sentence case, written as a plain statement rather than a question or a teaser with a colon. "summary" is two sentences, at most 45 words: first what happened, then the most useful concrete detail the sources give, such as a number, a cause, a reaction or the next scheduled step.
+
+"summary" is the briefing: three paragraphs of plain prose, 180 to 260 words in total, separated by blank lines, telling only the three to five most important stories in order. Give each paragraph one or two stories and tell them properly. Readers who want more will scroll to the story list, so the remaining stories belong there rather than chained on with "separately" or "meanwhile".
+
+Use only what the candidates say. Readers rely on every statement being traceable to its sources, so leave out background, context or interpretation you know from elsewhere. When an excerpt is cut off with "…", use only the words that are there rather than guessing how it continues.
+
+Write as the newspaper itself: state facts directly and attribute claims to the people or institutions who made them. Readers never see the candidate list, so phrases about your material such as "reports say", "according to one source" or "no further details were given" would only confuse them.
+
+When figures or facts conflict between candidates, give both ("turnout was 61%, or 58% by another count") so readers see the disagreement; a range or a single figure would hide it.
+
+End sentences and paragraphs on facts. Closing lines like "the outlook remains uncertain", "this raises questions about", "amid growing tensions" or "marking a significant step" add no information and read as commentary. Describe events in plain words rather than emotive adjectives.
+
+Write natural, idiomatic ${language}, the way a native journalist would, even where excerpts are in another language.`;
+
+  return [{ role: 'system', content: system }, { role: 'user', content: user }];
+}
+
+async function complete(model: string, messages: Message[]): Promise<ModelOutput> {
   const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
     headers: {
@@ -91,15 +140,16 @@ async function complete(model: string, prompt: string): Promise<ModelOutput> {
     },
     body: JSON.stringify({
       model,
-      messages: [{ role: 'user', content: prompt }],
+      messages,
       // Always cap output: without it OpenRouter budgets for the model's full output window.
-      max_tokens: 4000,
+      // Thinking counts toward the cap: Haiku at medium effort has used up to ~15k tokens.
+      max_tokens: 32_000,
       ...(NO_TEMPERATURE.has(model) ? {} : { temperature: 0.3 }),
       reasoning: { effort: REASONING[model] ?? 'none' },
       response_format: { type: 'json_schema', json_schema: SCHEMA },
       provider: { require_parameters: true },
     }),
-    signal: AbortSignal.timeout(120_000),
+    signal: AbortSignal.timeout(240_000),
   });
 
   if (!response.ok) throw new Error(`HTTP ${response.status}: ${await response.text()}`);
@@ -140,11 +190,11 @@ function toStories(output: ModelOutput, candidates: Candidate[]): Story[] {
 }
 
 export async function writeStories(lang: Lang, candidates: Candidate[]) {
-  const prompt = buildPrompt(lang, candidates);
   const failures: string[] = [];
 
   for (const model of MODELS) {
     try {
+      const prompt = model.startsWith('anthropic/') ? buildClaudePrompt(lang, candidates) : buildPrompt(lang, candidates);
       const output = await complete(model, prompt);
       return { model, summary: output.summary.trim(), headlines: toStories(output, candidates) };
     } catch (error) {

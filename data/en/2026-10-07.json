@@ -1,30 +1,62 @@
 {
   "date": "2026-10-07",
-  "summary": "Russia’s overnight attack on Ukraine killed at least 11 people, according to Ukrainian authorities. The air force said Russia launched 130 drones and 48 cruise and ballistic missiles; President Volodymyr Zelenskyy said intelligence indicated another large-scale attack was being prepared. Kenya confirmed its first Bundibugyo Ebola case in a man who arrived from the Democratic Republic of Congo and later died. Officials identified 28 contacts, and Nairobi Hospital said the patient had been isolated.\n\nIn Yemen, Houthi forces attacked Aden’s international airport with missiles and explosive-laden drones as fighting intensified. The Yemeni government said a missile hit the runway minutes before a flight from Cairo was due to land. France suspended police use of stun grenades at student protests after days of demonstrations and complaints of excessive force; the protests have spread to more than 40 cities.\n\nThe United States formally asked Russia for information after a worker at a Siberian plague research institute died, and President Donald Trump said he would discuss the case with Vladimir Putin. Russia denies plague caused the death; nearly 200 contacts were placed under observation. In Canada, US authorities arrested a man accused of advising and offering support to the suspect in a school shooting that killed eight people. Israel marked three years since the October 7 attacks with memorials, including a moment of silence at the Nova festival site, where more than 300 people were killed.",
+  "summary": "France's government has suspended police use of stun grenades at high school demonstrations, it said on Wednesday, after a 15-year-old boy lost a hand in a clash with riot police. The interior minister rejected accusations of brutality, and nearly 460 schools were affected by continuing protests.\n\nKenya has confirmed its first Ebola case, a patient who passed through several cities in DR Congo, drove to Uganda and flew to Kenya. Ten people linked to the patient have been quarantined, and Nairobi Hospital says it remains open and safe. In Russia, a worker at a plague research institute in Siberia died on October 2, and nearly 200 of her contacts are under medical observation. Russian authorities deny pneumonic plague caused the death, and the WHO says it does not know what the causative agent was.\n\nUkraine says Russia launched an overnight barrage of 130 drones, 48 cruise missiles and ballistic missiles, killing at least 24 people. President Zelenskyy said a strike on a residential building in Pryluky killed four children. In Yemen, Houthi forces attacked Aden's international airport with ballistic missiles and drones, and the UN says more than 200,000 people have been displaced.",
   "headlines": [
     {
-      "title": "Russia launches major attack on Ukraine, killing at least 11",
-      "summary": "Russia launched an overnight attack involving 130 drones and 48 cruise and ballistic missiles, Ukraine’s air force said. President Volodymyr Zelenskyy said intelligence showed Russia was preparing a further large-scale attack.",
-      "link": "https://www.thehindu.com/news/international/ukraines-zelenskyy-says-intelligence-shows-russia-is-preparing-massive-attack/article71553096.ece",
-      "source": "The Hindu",
-      "publishedAt": "2026-10-07T08:09:04.000Z",
+      "title": "France suspends police use of stun grenades at school protests",
+      "summary": "France's government has suspended police use of stun grenades at high school demonstrations after a 15-year-old boy lost a hand in a clash with riot police. The interior minister rejected accusations of brutality, and nearly 460 schools were affected by continuing protests.",
+      "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-07T19:19:12.000Z",
       "coverage": [
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss"
+          "source": "France 24",
+          "link": "https://www.france24.com/en/video/20261007-france-government-suspends-stun-grenade-use-in-school-protests"
+        },
+        {
+          "source": "ABC Australia",
+          "link": "https://www.abc.net.au/news/2026-10-07/france-suspends-stun-grenade-use-at-student-protests-/107240964"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/07/world/france-student-protests/"
+        },
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3370096/france-halts-use-stun-grenades-policing-student-protests?utm_source=rss_feed"
+        },
+        {
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved"
         }
       ]
     },
     {
-      "title": "Kenya reports first Ebola case and death",
-      "summary": "Kenya confirmed its first case of Bundibugyo Ebola in a man who arrived from the Democratic Republic of Congo and later died. Health officials identified 28 contacts, while Nairobi Hospital said the patient had been isolated.",
-      "link": "https://allafrica.com/stories/202610060372.html",
-      "source": "AllAfrica",
-      "publishedAt": "2026-10-06T15:16:49.000Z",
+      "title": "Kenya records its first Ebola case, with ten contacts quarantined",
+      "summary": "Kenya has confirmed its first Ebola case, a patient who passed through several cities in DR Congo, drove to Uganda and flew to Kenya. Ten people linked to the patient have been quarantined, and Nairobi Hospital says it remains open and safe.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-07T18:31:57.000Z",
       "coverage": [
         {
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc"
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "AllAfrica",
+          "link": "https://allafrica.com/stories/202610070185.html"
         },
         {
           "source": "New York Times",
@@ -33,69 +65,23 @@
       ]
     },
     {
-      "title": "Houthis strike Aden airport as Yemen fighting intensifies",
-      "summary": "Yemen’s Houthis attacked Aden airport with missiles and explosive-laden drones, the country’s Transport Ministry said. One missile hit the runway minutes before a flight from Cairo was due to land, according to the Yemeni government.",
-      "link": "https://www.france24.com/en/video/20261007-houthis-attack-aden-airport-as-fighting-intensifies-in-yemen",
-      "source": "France 24",
-      "publishedAt": "2026-10-07T10:20:01.000Z",
-      "coverage": [
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "title": "France suspends stun grenades at student protests",
-      "summary": "France suspended police use of stun grenades at student demonstrations after days of protests and complaints of excessive force. The move followed reports that a boy had lost a hand, and comes as protests have spread to more than 40 cities.",
-      "link": "https://www.france24.com/en/video/20261007-french-government-scrambles-to-calm-nationwide-student-protests",
-      "source": "France 24",
-      "publishedAt": "2026-10-07T10:54:38.000Z",
-      "coverage": [
-        {
-          "source": "New York Times",
-          "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools"
-        },
-        {
-          "source": "BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/7/france-halts-police-use-of-stun-grenades-at-student-protests?traffic_source=rss"
-        },
-        {
-          "source": "Deutsche Welle",
-          "link": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ]
-    },
-    {
-      "title": "US presses Russia for details on reported plague-lab death",
-      "summary": "The United States formally asked Russia for information after a worker at a Siberian plague research institute died; President Donald Trump said he would discuss the case with Vladimir Putin. Russian authorities deny that plague caused the death, and nearly 200 contacts were placed under observation.",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html",
+      "title": "Russian authorities deny pneumonic plague caused lab worker's death",
+      "summary": "A worker at a Russian plague research institute in Siberia died on October 2, and nearly 200 of her contacts are under medical observation. Authorities deny pneumonic plague caused the death, and WHO says it does not know what the causative agent was.",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-fears-what-to-know.html",
       "source": "New York Times",
-      "publishedAt": "2026-10-07T10:59:13.000Z",
+      "publishedAt": "2026-10-07T19:43:20.000Z",
       "coverage": [
-        {
-          "source": "Wall Street Journal",
-          "link": "https://www.wsj.com/world/u-s-presses-russia-for-details-on-plague-lab-death-ee5fc14f?mod=rss_worldnews"
-        },
-        {
-          "source": "BBC",
-          "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3369967/trump-says-will-speak-putin-plague-after-death-russian-lab-tech?utm_source=rss_feed"
-        },
-        {
-          "source": "France 24",
-          "link": "https://www.france24.com/en/video/20261007-trump-to-speak-to-putin-on-plague-as-us-un-urge-transparency"
-        },
         {
           "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/trump-says-he-has-call-scheduled-with-putin-to-discuss-possible-case-of-pneumonic-plague-in-russia/article71553314.ece"
+          "link": "https://www.thehindu.com/news/international/official-says-who-doesnt-know-exactly-how-lab-worker-in-russia-died-in-plague-case/article71557161.ece"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Wall Street Journal",
+          "link": "https://www.wsj.com/health/russia-plague-lab-death-risk-76f6de11?mod=rss_worldnews"
         },
         {
           "source": "Deutsche Welle",
@@ -104,52 +90,111 @@
       ]
     },
     {
-      "title": "US arrests alleged accomplice in Canada school shooting",
-      "summary": "US authorities arrested James Cody Bryant, accusing him of advising and offering support to the suspect in a deadly school shooting in British Columbia. The shooting earlier this year left eight people dead.",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3369966/us-resident-arrested-connection-canada-school-shooting?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "publishedAt": "2026-10-06T22:43:44.000Z",
+      "title": "Russian strikes kill at least 24 people across Ukraine",
+      "summary": "Ukraine says Russia launched an overnight barrage of 130 drones, 48 cruise missiles and ballistic missiles, killing at least 24 people. President Zelenskyy said a strike on a residential building in Pryluky killed four children, one of the most vile attacks by Moscow's army.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-07T18:32:08.000Z",
       "coverage": [
         {
-          "source": "New York Times",
-          "link": "https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html"
-        },
-        {
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington"
+          "source": "ABC Australia",
+          "link": "https://www.abc.net.au/news/2026-10-08/russia-strikes-kill-20-birthday-putin/107241102"
         }
       ]
     },
     {
-      "title": "Israel marks three years since October 7 attacks",
-      "summary": "Families gathered at memorials across Israel to mark three years since Hamas’s October 7, 2023 attack. At the Nova music festival site, where more than 300 people were killed, families held a moment of silence.",
-      "link": "https://www.france24.com/en/video/20261007-october-7-israelis-mark-three-years-since-hamas-attacks",
-      "source": "France 24",
-      "publishedAt": "2026-10-07T11:04:39.000Z",
+      "title": "Houthi attacks hit Yemen's Aden airport and Saudi airports",
+      "summary": "Houthi forces attacked Aden's international airport with ballistic missiles and explosive-laden drones, Yemen's transport ministry said, as fighting with Saudi-backed forces intensified. Saudi Arabia says Houthi attacks on two of its airports killed three foreign nationals, and the UN says more than 200,000 people have been displaced.",
+      "link": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-07T16:02:17.000Z",
       "coverage": [
         {
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/israelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault/article71554506.ece"
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3370080/yemens-houthis-attack-aden-airport-fighting-intensifies?utm_source=rss_feed"
         },
         {
+          "source": "Wall Street Journal",
+          "link": "https://www.wsj.com/world/middle-east/yemens-houthi-rebels-strike-two-airports-in-saudi-arabia-072f4dd3?mod=rss_worldnews"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport"
+        }
+      ]
+    },
+    {
+      "title": "Canada will not allow assisted dying for mental illness alone",
+      "summary": "Canada's justice minister said on Wednesday that medically assisted suicide will not be allowed for people whose only condition is mental illness. The expansion, which had been due in March 2027, has been paused indefinitely.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-07T19:30:51.000Z",
+      "coverage": [
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370100/canada-will-not-allow-assisted-suicide-those-only-mental-illness?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "Gaza lies in ruins three years after October 7 attacks",
+      "summary": "Three years after the Hamas-led attacks in Israel, much of Gaza lies in ruins, and more than 74,000 people have been killed there. Prime Minister Benjamin Netanyahu has refused to take personal responsibility or order a state inquiry into the failures before the attacks.",
+      "link": "https://www.abc.net.au/news/2026-10-08/three-years-on-gaza-failed-peace-plan-road-to-recovery/107207532",
+      "source": "ABC Australia",
+      "publishedAt": "2026-10-07T18:57:38.000Z",
+      "coverage": [
+        {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "The Guardian",
           "link": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks"
         },
         {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/it-s-still-unclear-whether-netanyahu-will-pay-for-what-happened-during-his-time-in-office"
+        }
+      ]
+    },
+    {
+      "title": "Henri Kagan and Kenso Soai win the 2026 Nobel Prize in Chemistry",
+      "summary": "Henri Kagan of France and Kenso Soai of Japan won the 2026 Nobel Prize in Chemistry for their work on asymmetric molecules, the award-giving body said on Wednesday. The prize is worth about $1.2 million and is shared between the two scientists.",
+      "link": "https://www.wsj.com/science/nobel-prize-for-chemistry-awarded-for-work-on-asymmetric-synthesis-9d6e3915?mod=rss_worldnews",
+      "source": "Wall Street Journal",
+      "publishedAt": "2026-10-07T15:45:00.000Z",
+      "coverage": [
+        {
+          "source": "NPR",
+          "link": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3370059/nobel-chemistry-prize-awarded-henri-b-kagan-and-kenso-soai?utm_source=rss_feed"
+        },
+        {
           "source": "Deutsche Welle",
-          "link": "https://www.dw.com/en/israel-marks-third-anniversary-of-october-7-hamas-terror-attacks-with-memorials/a-79571380?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/07/japan/science-health/2026-nobel-prize-chemistry/"
         }
       ]
     }
   ],
   "metadata": {
-    "model": "openai/gpt-6-luna",
-    "articles": 412,
+    "model": "anthropic/claude-haiku-5.5",
+    "articles": 407,
     "candidates": 40,
-    "generatedAt": "2026-10-07T11:07:37.707Z"
+    "generatedAt": "2026-10-07T19:56:47.664Z"
   }
 }

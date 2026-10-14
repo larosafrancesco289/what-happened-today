@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-14",
+  "summary": "Des frappes russes ont visé l'Ukraine dans la nuit du 13 au 14 octobre. Elles ont fait au moins six morts et endommagé des installations énergétiques, notamment à Kiev, où plusieurs quartiers ont été privés de courant. Les autorités ukrainiennes disent ne pas avoir pu anticiper l'attaque, faute de renseignements fournis par leurs alliés, et évoquent une restriction du réseau Starlink durant la nuit, selon un conseiller de Volodymyr Zelensky.\n\nL'Arabie saoudite a annoncé que quatre personnes avaient été blessées à Riyad par des débris de missiles houthis interceptés, et qu'un bâtiment administratif du géant pétrolier Aramco avait été touché à Dhahran. La coalition menée par Riyad avait auparavant bombardé un site de la Compagnie pétrolière du Yémen près de Sanaa. Les Houthis affirment avoir frappé un aéroport et une raffinerie d'Aramco, et annoncent vouloir poursuivre leurs opérations contre le royaume dans les prochains jours.\n\nLe pape Léon XIV a subi mardi 13 octobre une opération chirurgicale de 90 minutes à l'hôpital Gemelli de Rome, au cours de laquelle un nodule pulmonaire a été retiré. Le nodule s'est révélé cancéreux, a indiqué le Vatican, et le « lobe inférieur du poumon droit » a dû être enlevé.",
+  "headlines": [
+    {
+      "title": "Des frappes russes font au moins six morts en Ukraine",
+      "summary": "Des frappes russes dans la nuit ont fait au moins six morts et endommagé des installations énergétiques, notamment à Kiev. Selon les autorités, l'attaque n'a pu être anticipée faute de renseignements de leurs alliés et en raison de restrictions du réseau Starlink.",
+      "link": "https://www.lexpress.fr/monde/europe/guerre-en-ukraine-cette-absence-dalerte-avant-des-frappes-russes-qui-interroge-7GSPZEXZX5FCZIQL6JMW5VPFTU/",
+      "source": "L’Express",
+      "publishedAt": "2026-10-14T08:40:13.000Z",
+      "coverage": [
+        {
+          "source": "franceinfo",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-infrastructures-energetiques-touchees-par-des-missiles-russes-a-kiev_8236531.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RFI",
+          "link": "https://www.rfi.fr/fr/europe/20261014-guerre-en-ukraine-frappes-russes-meurtri%C3%A8res-des-infrastructures-%C3%A9nerg%C3%A9tiques-touch%C3%A9es-%C3%A0-kiev"
+        },
+        {
+          "source": "20 Minutes",
+          "link": "https://www.20minutes.fr/monde/ukraine/4254129-20261014-direct-guerre-ukraine-russie-arrete-journaliste-japonais-soupcons-espionnage?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/fr/europe/20261013-ukraine-russie-centrale-kiev-touchee-frappe-russe-sans-alerte-prealable-allies-zelensky"
+        },
+        {
+          "source": "Libération",
+          "link": "https://www.liberation.fr/international/europe/ukraine-des-infrastructures-energetiques-encore-frappees-par-la-russie-au-moins-6-morts-dans-le-pays-20261014_VX43GGFVEJC3RFAUYSFJHJNQ7Q/"
+        },
+        {
+          "source": "Radio-Canada",
+          "link": "https://ici.radio-canada.ca/nouvelle/2292679/ukraine-infrastructures-energetiques-touchees-missiles-russes-kiev"
+        }
+      ]
+    },
+    {
+      "title": "Les Houthis visent des sites saoudiens, dont des installations d'Aramco",
+      "summary": "Riyad affirme que quatre personnes ont été blessées à Riyad par des débris de missiles houthis interceptés, et qu'un bâtiment d'Aramco a été touché à Dhahran. Les Houthis disent avoir frappé un aéroport et une raffinerie, et promettent de poursuivre leurs opérations.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261014-arabie-saoudite-les-attaques-houthis-touchent-le-g%C3%A9ant-p%C3%A9trolier-aramco",
+      "source": "France 24",
+      "publishedAt": "2026-10-14T09:18:22.000Z",
+      "coverage": [
+        {
+          "source": "RFI",
+          "link": "https://www.rfi.fr/fr/moyen-orient/20261013-l-arabie-saoudite-frappe-un-site-p%C3%A9trolier-y%C3%A9m%C3%A9nite-pr%C3%A8s-de-sanaa-apr%C3%A8s-un-appel-%C3%A0-%C3%A9vacuer"
+        },
+        {
+          "source": "Le Figaro",
+          "link": "https://www.lefigaro.fr/international/arabie-saoudite-les-houthis-affirment-avoir-vise-plusieurs-infrastructures-strategiques-20261014"
+        }
+      ]
+    },
+    {
+      "title": "Le pape Léon XIV opéré d'un cancer du poumon",
+      "summary": "Le pape Léon XIV a subi mardi 13 octobre une opération de 90 minutes à l'hôpital Gemelli de Rome, au cours de laquelle un nodule pulmonaire a été retiré. Le Vatican indique que le nodule était cancéreux et que le « lobe inférieur du poumon droit » a été enlevé.",
+      "link": "https://www.france24.com/fr/europe/20261014-pape-l%C3%A9on-xiv-op%C3%A9r%C3%A9-cancer-poumon-ce-que-l-on-sait-vatican-nodule",
+      "source": "France 24",
+      "publishedAt": "2026-10-14T05:55:15.000Z",
+      "coverage": [
+        {
+          "source": "Libération",
+          "link": "https://www.liberation.fr/international/europe/lelan-du-pontificat-de-leon-xiv-percute-par-la-revelation-de-son-cancer-au-poumon-20261014_EP55VHIIEVDEHH6MRVGGL6ARUI/"
+        },
+        {
+          "source": "RFI",
+          "link": "https://www.rfi.fr/fr/europe/20261013-l%C3%A9on-xiv-le-pape-a-subi-l-ablation-d-une-partie-du-poumon-un-nodule-retir%C3%A9-s-av%C3%A8re-canc%C3%A9reux"
+        }
+      ]
+    },
+    {
+      "title": "L'Assemblée nationale adopte la loi intégrale contre les violences sexuelles",
+      "summary": "Mardi 13 octobre, l'Assemblée nationale a adopté la proposition de loi intégrale contre les violences sexistes et sexuelles, par 503 voix pour, aucune contre et 67 abstentions. Le texte doit maintenant être examiné au Sénat, avec l'objectif d'une adoption définitive avant la fin de l'année.",
+      "link": "https://www.lemonde.fr/idees/article/2026/10/14/loi-integrale-contre-les-violences-sexuelles-un-premier-pas-pour-rester-dans-l-histoire_6793712_3232.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-10-14T09:30:04.000Z",
+      "coverage": [
+        {
+          "source": "RFI",
+          "link": "https://www.rfi.fr/fr/france/20261013-france-les-d%C3%A9put%C3%A9s-votent-pour-la-proposition-de-loi-int%C3%A9grale-contre-les-violences-sexistes-et-sexuelles"
+        },
+        {
+          "source": "franceinfo",
+          "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexistes-et-sexuelles-la-loi-integrale-votee-par-les-deputes-est-extraordinaire-se-felicite-l-association-face-a-l-inceste_8236948.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Libération",
+          "link": "https://www.liberation.fr/societe/droits-des-femmes/la-loi-integrale-contre-les-violences-faites-aux-femmes-et-aux-enfants-passe-un-premier-cap-a-lassemblee-20261013_UVLHZ7FQWJFGZN6YZDG4GBNQGI/"
+        }
+      ]
+    },
+    {
+      "title": "La police turque prend le contrôle de la chaîne d'opposition Halk TV",
+      "summary": "La police turque a pris le contrôle mercredi 14 octobre du siège de Halk TV, principale chaîne privée d'opposition, et interpellé onze de ses salariés. L'opération intervient deux semaines après le blocage du site d'information indépendant T24.",
+      "link": "https://www.france24.com/fr/asie-pacifique/20261014-jour-sombre-pour-turquie-pouvoir-prend-contr%C3%B4le-cha%C3%AEne-tv-opposition-journalisme-censure",
+      "source": "France 24",
+      "publishedAt": "2026-10-14T08:59:34.000Z",
+      "coverage": [
+        {
+          "source": "RFI",
+          "link": "https://www.rfi.fr/fr/europe/20261014-turquie-le-pouvoir-prend-le-contr%C3%B4le-de-la-principale-t%C3%A9l%C3%A9vision-de-l-opposition"
+        },
+        {
+          "source": "20 Minutes",
+          "link": "https://www.20minutes.fr/monde/4254171-20261014-turquie-police-debarque-siege-principale-chaine-tele-opposition-prend-controle?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "franceinfo",
+          "link": "https://www.franceinfo.fr/monde/turquie/la-police-turque-prend-le-controle-du-siege-de-la-principale-chaine-de-television-d-opposition_8236711.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Libération",
+          "link": "https://www.liberation.fr/international/europe/en-turquie-le-regime-derdogan-prend-le-controle-de-la-principale-chaine-de-television-dopposition-20261014_GSPLLRO25FANFO2GAQXYODRXAA/"
+        },
+        {
+          "source": "Radio-Canada",
+          "link": "https://ici.radio-canada.ca/nouvelle/2292681/turquie-police-halk-tv-television-opposition"
+        },
+        {
+          "source": "L’Express",
+          "link": "https://www.lexpress.fr/monde/europe/guerre-en-ukraine-cette-absence-dalerte-avant-des-frappes-russes-qui-interroge-7GSPZEXZX5FCZIQL6JMW5VPFTU/"
+        },
+        {
+          "source": "RTBF",
+          "link": "https://www.rtbf.be/article/meurtre-de-tupac-shakur-un-ex-membre-de-gang-condamne-a-40-ans-de-prison-minimum-11799719"
+        }
+      ]
+    },
+    {
+      "title": "Trump annonce une exploration pétrolière et minière massive au Groenland",
+      "summary": "Donald Trump a annoncé sur Truth Social qu'une « exploration pétrolière, gazière et minière massive » allait commencer au Groenland. Cette annonce suit l'accord de sécurité signé le 22 septembre par les Etats-Unis, le Danemark et le Groenland.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/14/groenland-donald-trump-annonce-qu-une-exploration-petroliere-gaziere-et-miniere-massive-se-prepare_6793673_3210.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-10-14T08:32:23.000Z",
+      "coverage": [
+        {
+          "source": "franceinfo",
+          "link": "https://www.franceinfo.fr/monde/groenland/donald-trump-annonce-qu-une-exploration-petroliere-gaziere-et-miniere-massive-se-prepare-dans-notre-groenland_8236807.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "20 Minutes",
+          "link": "https://www.20minutes.fr/monde/etats-unis/4254147-20261014-groenland-exploration-massive-sous-sols-prepare-annonce-trump?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20261014-trump-annonce-exploration-p%C3%A9troli%C3%A8re-gazi%C3%A8re-mini%C3%A8re-massive-groenland-etats-unis"
+        }
+      ]
+    },
+    {
+      "title": "Près de 200 lycées restent fermés selon le ministre de l'Éducation",
+      "summary": "Le ministre de l'Éducation nationale, Édouard Geffray, a indiqué mercredi qu'« un peu moins de 200 » lycées étaient toujours fermés. Il doit rencontrer jeudi des représentants lycéens, après plus de 90 000 contributions sur la plateforme de concertation en ligne.",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-les-eleves-mobilises-souhaitent-que-les-etudiants-et-les-gilets-jaunes-poursuivent-le-mouvement-20261014",
+      "source": "Le Figaro",
+      "publishedAt": "2026-10-14T09:20:04.000Z",
+      "coverage": [
+        {
+          "source": "Libération",
+          "link": "https://www.liberation.fr/societe/education/mobilisation-lyceenne-un-peu-moins-de-200-etablissements-fermes-ce-mercredi-selon-le-ministre-de-leducation-20261014_APKKFUJDP5ES7LO3TCGGIHJRO4/"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261014-france-des-lyc%C3%A9es-toujours-bloqu%C3%A9s-mais-la-mobilisation-en-baisse"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "model": "anthropic/claude-haiku-5.5",
+    "articles": 250,
+    "candidates": 40,
+    "generatedAt": "2026-10-14T09:34:07.636Z"
+  }
+}

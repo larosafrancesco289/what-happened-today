@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-13",
+  "summary": "Microsoft says a global outage affecting its services was not caused by a cyber-security incident, but its efforts to fix the problems have so far been largely unsuccessful. The company said part of its infrastructure was 'experiencing elevated load', which it said was likely contributing to connectivity errors. Microsoft has extended its mail timeout to 48 hours as the outage hits governments and organisations worldwide.\n\nUkrainian President Volodymyr Zelensky and US envoy Jared Kushner said on Thursday that Europe would join the next round of peace talks with Russia, though Russia has not confirmed this. Vladimir Putin indicated that Moscow will not compromise on its hardline demands to end almost five years of war, and warned it would target any foreign troops sent to Ukraine. Russia has also struck a hospital in central Kyiv after Zelensky said speed restrictions on the Starshield system made it harder to shoot down drones.\n\nJensen Huang resigned as Nvidia chief executive on Thursday after revelations of extramarital affairs, including one with Alice Huang, a Chinese businesswoman, and the US Justice Department has not yet concluded whether she was a spy. Nvidia's share price fell 4.3% by the closing bell, and the company's chief financial officer, Colette Kress, has been named interim CEO. The hunt is on for a permanent successor.",
+  "headlines": [
+    {
+      "title": "Microsoft says global outage was not a cyber-security incident",
+      "summary": "Microsoft says a global outage was not caused by a cyber-security incident, but fixes have so far been largely unsuccessful. The company said a part of its infrastructure was 'experiencing elevated load' and has extended the mail timeout to 48 hours.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-13T12:09:57.000Z",
+      "coverage": [
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "ABC Australia",
+          "link": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage-australians-hit/107381378"
+        },
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/business/banking-finance/article/3374291/microsoft-outlook-outage-disrupts-workers-hong-kongs-financial-sector"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine says Europe will join next round of talks with Russia",
+      "summary": "Zelensky and US envoy Jared Kushner said Europe would join the next round of talks with Russia, which has not confirmed this. Putin indicated Moscow will not compromise on its hardline demands and warned it would target any foreign troops sent to Ukraine.",
+      "link": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance",
+      "source": "France 24",
+      "publishedAt": "2026-11-13T10:59:10.000Z",
+      "coverage": [
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ]
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia chief executive",
+      "summary": "Jensen Huang resigned as Nvidia chief executive on Thursday after revelations of extramarital affairs, including one with Alice Huang, whose possible spying the US Justice Department has not concluded. Nvidia shares fell 4.3% by the close, and CFO Colette Kress is interim CEO.",
+      "link": "https://www.france24.com/en/video/20261113-nvidia-scandal-was-alice-huang-really-a-chinese-spy",
+      "source": "France 24",
+      "publishedAt": "2026-11-13T12:02:05.000Z",
+      "coverage": [
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/chinese-company-linked-to-alice-huang-shanghai-longteng-intelligent-computing-obtained-banned-nvidia-chips/article71697606.ece"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+        },
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/13/world/jensen-huang-nvidia-last-hours/"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ]
+    },
+    {
+      "title": "Russian strike hits Kyiv hospital after Starshield disruption",
+      "summary": "Russia attacked a hospital in central Kyiv, close to several western embassies, after Zelenskyy said speed restrictions on the Starshield system made it harder to shoot down drones. Drones using Starshield lose connectivity when flying faster than 100 miles an hour.",
+      "link": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-13T11:24:30.000Z",
+      "coverage": [
+        {
+          "source": "Wall Street Journal",
+          "link": "https://www.wsj.com/world/ukraine-says-its-military-starlink-is-disrupted-again-hurting-defenses-bfb00a64?mod=rss_worldnews"
+        }
+      ]
+    },
+    {
+      "title": "Israeli strikes on Gaza hospital kill at least six",
+      "summary": "Israeli strikes on a Gaza hospital complex killed at least six people and injured dozens, health officials said. The Israeli authorities said Hamas had established a command centre at the hospital, while Hamas called the attack 'a heinous crime'.",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+      "source": "New York Times",
+      "publishedAt": "2026-11-12T17:38:28.000Z",
+      "coverage": [
+        {
+          "source": "Wall Street Journal",
+          "link": "https://www.wsj.com/world/middle-east/israel-strikes-gaza-hospital-killing-at-least-six-e01ebd5f?mod=rss_worldnews"
+        }
+      ]
+    },
+    {
+      "title": "US Senate asks Huang and Lutnick to testify",
+      "summary": "The Senate Banking Committee has asked Commerce Secretary Howard Lutnick and former Nvidia chief Jensen Huang to testify, warning they could face legal action if they fail to appear. Chairman Tim Scott made the request as House Republicans demand closed-door interviews over national security concerns.",
+      "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T08:49:59.000Z",
+      "coverage": [
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ]
+    },
+    {
+      "title": "Chris Van Hollen to challenge Chuck Schumer for majority leader",
+      "summary": "Maryland Democrat Chris Van Hollen said on Thursday he will challenge Chuck Schumer for Senate majority leader, saying 'the American people called for change'. Van Hollen made the announcement after the midterms, saying the results show Americans want change in Washington.",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+      "source": "NPR",
+      "publishedAt": "2026-11-13T12:07:12.000Z",
+      "coverage": [
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+        }
+      ]
+    },
+    {
+      "title": "Haitian police retake national stadium after two years of gangs",
+      "summary": "Haitian security forces regained control of the country's main football stadium on Thursday, ending two years of gang control. Salvadoran troops have taken over security at the venue, after El Salvador deployed 2,000 soldiers to Haiti.",
+      "link": "https://www.france24.com/en/video/20261113-haitian-police-retake-national-stadium-after-two-years-of-gang-control",
+      "source": "France 24",
+      "publishedAt": "2026-11-13T11:43:08.000Z",
+      "coverage": []
+    }
+  ],
+  "metadata": {
+    "model": "anthropic/claude-haiku-5.5",
+    "articles": 378,
+    "candidates": 40,
+    "generatedAt": "2026-11-13T12:18:06.189Z"
+  }
+}

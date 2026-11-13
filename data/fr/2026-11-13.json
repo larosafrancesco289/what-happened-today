@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-13",
+  "summary": "La messagerie Outlook de Microsoft est touchée depuis jeudi soir par une panne mondiale qui concerne 74 pays, dont la France. Selon l'entreprise, des améliorations sont constatées, notamment pour l'accès aux boîtes mail, mais la situation reste instable. Microsoft a écarté toute action malveillante ou cyberattaque à ce stade. Le nombre d'utilisateurs touchés varie selon les sources : des dizaines de milliers pour l'une, des millions pour une autre.\n\nJensen Huang a démissionné jeudi de la direction de Nvidia après des révélations sur ses liaisons extraconjugales. Reuters rapporte, selon deux sources, qu'il aurait entretenu une relation avec une deuxième employée de l'entreprise, et il est accusé d'une liaison avec une femme soupçonnée d'espionnage pour la Chine. Colette Kress lui succède par intérim, et Huang doit témoigner devant le Sénat américain le 3 décembre.\n\nLes émissaires de Donald Trump ont rencontré Vladimir Poutine à Moscou, puis se sont rendus en Irlande pour s'entretenir avec Volodymyr Zelensky. L'Ukraine, les États-Unis et l'Union européenne affirment que les Européens seront présents aux prochaines négociations, mais le Kremlin n'a pas confirmé que Vladimir Poutine ait accepté d'inclure l'Europe. Vladimir Poutine a laissé entendre que Moscou ne reviendrait pas sur ses exigences.",
+  "headlines": [
+    {
+      "title": "Microsoft écarte une cyberattaque après la panne mondiale d'Outlook",
+      "summary": "Une panne mondiale de la messagerie Outlook de Microsoft, qui touche 74 pays dont la France, dure depuis jeudi soir. L'entreprise affirme constater des améliorations, notamment pour l'accès aux boîtes mail, tout en jugeant la situation instable et en écartant toute action malveillante.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/en-direct-panne-mondiale-de-microsoft-et-d-outlook-les-difficultes-se-poursuivent-de-lourdes-consequences-rapportees-dans-le-monde-20261113",
+      "source": "Le Figaro",
+      "publishedAt": "2026-11-13T12:09:41.000Z",
+      "coverage": [
+        {
+          "source": "Libération",
+          "link": "https://www.liberation.fr/economie/economie-numerique/outlook-vous-navez-plus-de-message-20261113_O6IJNBBOCVA4HJWJVKQGH7WZXY/"
+        },
+        {
+          "source": "Le Monde",
+          "link": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261113-panne-mondiale-d-outlook-le-point-sur-la-situation"
+        },
+        {
+          "source": "franceinfo",
+          "link": "https://www.franceinfo.fr/internet/securite-sur-internet/panne-mondiale-d-outlook-avec-l-intelligence-artificielle-de-nouvelles-attaques-sophistiquees-peuvent-etre-developpees-avance-l-ancien-patron-de-microsoft-france_8280566.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Radio-Canada",
+          "link": "https://ici.radio-canada.ca/article/info/2300199/panne-microsoft-365-outlook-teams"
+        }
+      ]
+    },
+    {
+      "title": "Kiev, Washington et l'UE annoncent une présence européenne aux négociations",
+      "summary": "Les émissaires de Donald Trump ont rencontré Vladimir Poutine à Moscou, puis se sont rendus en Irlande auprès de Volodymyr Zelensky. Kiev, Washington et l'Union européenne affirment que les Européens seront présents aux prochaines négociations, mais le Kremlin n'a pas confirmé cet engagement.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261113-guerre-en-ukraine-poutine-ma%C3%AEtre-du-jeu-dans-le-processus-de-n%C3%A9gociation",
+      "source": "France 24",
+      "publishedAt": "2026-11-13T11:15:30.000Z",
+      "coverage": [
+        {
+          "source": "franceinfo",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-washington-affirment-que-les-europeens-seront-presents-aux-prochaines-negociations-sur-l-ukraine_8280449.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RFI",
+          "link": "https://www.rfi.fr/fr/europe/20261113-guerre-en-ukraine-les-europ%C3%A9ens-seront-pr%C3%A9sents-aux-prochaines-n%C3%A9gociations-kiev-moscou-zelensky"
+        },
+        {
+          "source": "20 Minutes",
+          "link": "https://www.20minutes.fr/monde/ukraine/4262547-20261113-guerre-ukraine-fin-mise-ecart-europeens-negociations-russie?at_medium=display&at_campaign=149"
+        }
+      ]
+    },
+    {
+      "title": "Jensen Huang démissionne de Nvidia après un scandale de liaisons",
+      "summary": "Jensen Huang a démissionné jeudi de Nvidia après des révélations sur ses liaisons extraconjugales, dont une avec une femme soupçonnée d'espionnage pour la Chine. Il doit témoigner le 3 décembre devant une commission du Sénat américain.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/l-ex-patron-de-nvidia-jensen-huang-soupconne-d-une-troisieme-relation-extraconjugale-avec-une-autre-employee-20261113",
+      "source": "Le Figaro",
+      "publishedAt": "2026-11-13T11:39:18.000Z",
+      "coverage": [
+        {
+          "source": "Radio-Canada",
+          "link": "https://ici.radio-canada.ca/article/info/2300068/pdg-nvidia-jensen-huang-demission-scandale-espionnage"
+        },
+        {
+          "source": "20 Minutes",
+          "link": "https://www.20minutes.fr/monde/4262418-20261112-nvidia-patron-jensen-huang-demissionne?at_medium=display&at_campaign=149"
+        },
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261113-l-ex-patron-de-nvidia-convoqu%C3%A9-devant-le-congr%C3%A8s-am%C3%A9ricain-en-d%C3%A9cembre"
+        },
+        {
+          "source": "franceinfo",
+          "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ancien-patron-de-nvidia-convoque-pour-temoigner-devant-le-senat-americain-en-decembre_8280839.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Libération",
+          "link": "https://www.liberation.fr/economie/economie-numerique/rendez-vous-galants-montages-financiers-rumeurs-despionnage-le-recit-de-la-chute-de-jensen-huang-patron-de-nvidia-20261112_53WXP7SCP5GKBGOGDHZT46LPIM/"
+        },
+        {
+          "source": "L’Express",
+          "link": "https://www.lexpress.fr/economie/high-tech/nvidia-jensen-huang-demissionne-sur-fond-de-liaisons-et-de-soupcons-despionnage-4R5L4ELXOJHM5GPBAJSJGXTBOE/"
+        },
+        {
+          "source": "Le Monde",
+          "link": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-l-ancien-pdg-de-nvidia-et-le-secretaire-au-commerce-invites-a-temoigner-au-senat-americain_6809295_3210.html"
+        }
+      ]
+    },
+    {
+      "title": "Lecornu ouvre un mois de discussions avec les syndicats de fonctionnaires",
+      "summary": "Sébastien Lecornu a reçu vendredi les syndicats de fonctionnaires, qui réclamaient des annonces après le coup de pouce au smic. Le premier ministre a annoncé une discussion d'un mois sur une « revalorisation des bas salaires », avec une nouvelle rencontre après les élections professionnelles.",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-syndicats-fonctionnaires-greve-mobilisation-lecornu-salaires-lycees-proviseurs-20261113",
+      "source": "Le Figaro",
+      "publishedAt": "2026-11-13T12:16:02.000Z",
+      "coverage": [
+        {
+          "source": "franceinfo",
+          "link": "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Libération",
+          "link": "https://www.liberation.fr/economie/social/fonction-publique-les-syndicats-recus-ce-vendredi-par-un-sebastien-lecornu-retif-a-tout-degel-du-point-dindice-20261113_GTPQ45IBJBEA5PPHRQSMZDX4NY/"
+        }
+      ]
+    },
+    {
+      "title": "Nuñez évoque une possible ingérence étrangère dans les fausses alertes",
+      "summary": "Laurent Nuñez juge « manifestement concertées » les fausses alertes à la bombe qui frappent l'Europe. Il évoque une possible ingérence étrangère, alors que trois établissements français ont été visés jeudi.",
+      "link": "https://www.liberation.fr/international/europe/fausses-alertes-a-la-bombe-laurent-nunez-evoque-une-possibilite-dingerence-etrangere-20261113_JTJESC7XEVFUJJIHKCTXN47DLU/",
+      "source": "Libération",
+      "publishedAt": "2026-11-13T10:17:25.000Z",
+      "coverage": [
+        {
+          "source": "franceinfo",
+          "link": "https://www.franceinfo.fr/politique/ingerence/les-fausses-alertes-a-la-bombe-sont-concertees-et-relevent-possiblement-d-une-ingerence-etrangere-affirme-laurent-nunez_8280764.html#xtor=RSS-3-[lestitres]"
+        }
+      ]
+    },
+    {
+      "title": "Un immeuble s'effondre à New York, au moins huit morts",
+      "summary": "Un immeuble de trois étages s'est effondré mercredi soir sur un chantier d'excavation voisin à New York, faisant au moins huit morts et 19 blessés. Le chantier avait fait l'objet d'une injonction d'arrêt des travaux, selon des documents consultés par l'AFP.",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261112-new-york-flatbush-effondrement-immeuble-morts-blesses",
+      "source": "France 24",
+      "publishedAt": "2026-11-12T22:48:09.000Z",
+      "coverage": [
+        {
+          "source": "Radio-Canada",
+          "link": "https://ici.radio-canada.ca/article/info/2300250/effondrement-new-york-gentrification"
+        }
+      ]
+    },
+    {
+      "title": "Israël interdit l'entrée de Jean-Luc Mélenchon et Mathilde Panot",
+      "summary": "Israël a annoncé jeudi l'interdiction d'entrée de Jean-Luc Mélenchon et Mathilde Panot sur son territoire. La France a dénoncé une « décision démagogique », et la mesure pourrait répondre au refoulement à Paris d'un responsable des colons israéliens la veille.",
+      "link": "https://www.liberation.fr/politique/elections/israel-interdit-de-territoire-jean-luc-melenchon-en-raison-dune-position-extremement-hostile-20261112_HJWXENCSYRGBLI4UD6UX5ATXHE/",
+      "source": "Libération",
+      "publishedAt": "2026-11-12T20:26:04.000Z",
+      "coverage": [
+        {
+          "source": "L’Express",
+          "link": "https://www.lexpress.fr/monde/proche-moyen-orient/israel-interdit-lentree-sur-son-territoire-a-jean-luc-melenchon-et-mathilde-panot-WY3FKXYFP5ADNFCOBFESFUZXKM/"
+        }
+      ]
+    },
+    {
+      "title": "Onze morts à Gaza dans des frappes israéliennes malgré le cessez-le-feu",
+      "summary": "Des frappes israéliennes ont tué 11 personnes à Gaza selon les secours palestiniens, dont six dans un hôpital bombardé à Khan Younès. C'est la journée la plus meurtrière depuis les législatives israéliennes du 27 octobre.",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261113-gaza-au-moins-11-morts-apr%C3%A8s-des-frappes-isra%C3%A9liennes-malgr%C3%A9-le-cessez-le-feu",
+      "source": "France 24",
+      "publishedAt": "2026-11-13T11:32:44.000Z",
+      "coverage": []
+    }
+  ],
+  "metadata": {
+    "model": "anthropic/claude-haiku-5.5",
+    "articles": 244,
+    "candidates": 40,
+    "generatedAt": "2026-11-13T12:18:04.649Z"
+  }
+}

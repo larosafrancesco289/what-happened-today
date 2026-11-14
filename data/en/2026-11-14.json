@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-14",
+  "summary": "The Federal Aviation Administration issued a rare nationwide ground stop on Friday, cancelling more than 8,200 flights, or over 31% of those scheduled in the United States. The stop lasted nearly five hours and was the longest in the country since September 11, 2001. US officials said the disruption was caused by old equipment overloading rather than a cyber-attack, and the FAA has since lifted the stop.\n\nMicrosoft confirmed on Saturday that Teams, Outlook, Copilot and other services had recovered from a global outage that disrupted businesses and governments. The company said the outage lasted more than 24 hours, though another account put it at nearly 24, and it apologised and ruled out cyber or AI activity as the cause.\n\nUS President Donald Trump, Chinese leader Xi Jinping and Russian President Vladimir Putin are scheduled to meet on Thursday on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen, China, the White House confirmed. Trump will urge discussion of reducing nuclear arsenals, but a senior US official expects no agreement. Trump is also set to raise his war in Iran, but Ukraine is not expected to be discussed.",
+  "headlines": [
+    {
+      "title": "US flight ground stop cancels more than 8,200 flights",
+      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday, cancelling more than 8,200 flights, or over 31% of those scheduled in the United States. The stop lasted nearly five hours, the longest in the country since September 11, 2001, and US officials blamed overloaded old equipment rather than a cyber-attack.",
+      "link": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T10:14:09.000Z",
+      "coverage": [
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+        },
+        {
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop"
+        },
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3374411/flights-stopped-across-us-due-extraordinary-circumstances-faa-says"
+        },
+        {
+          "source": "ABC Australia",
+          "link": "https://www.abc.net.au/news/2026-11-14/what-we-know-about-the-us-flight-groundstop/107385910"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft restores services after global outage lasting over 24 hours",
+      "summary": "Microsoft confirmed on Saturday that Teams, Outlook, Copilot and other services had recovered from a global outage. The company ruled out cyber or AI activity as the cause, and one account put the outage at nearly 24 hours rather than more than 24.",
+      "link": "https://www.france24.com/en/microsoft-s-widespread-outages-caused-global-chaos-including-in-the-healthcasre-industry",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T11:07:33.000Z",
+      "coverage": [
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+        },
+        {
+          "source": "New York Times",
+          "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-recovered/"
+        },
+        {
+          "source": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-or-ai-agents"
+        }
+      ]
+    },
+    {
+      "title": "Trump, Xi and Putin to meet in Shenzhen on nuclear arms",
+      "summary": "The White House confirmed that Trump, Xi Jinping and Vladimir Putin will meet on Thursday on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen. Trump will urge discussion of cutting nuclear arsenals, though a senior US official expects no agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-14T05:52:31.000Z",
+      "coverage": [
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/americas/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week"
+        },
+        {
+          "source": "Wall Street Journal",
+          "link": "https://www.wsj.com/world/china/trump-to-hold-talks-with-chinas-xi-and-russias-putin-next-week-29a58e91?mod=rss_worldnews"
+        },
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/trump-xi-putin-trilateral-apec/"
+        }
+      ]
+    },
+    {
+      "title": "US proposed Ukraine cede Donbas for NATO membership, Zelensky says",
+      "summary": "Zelensky said US envoys proposed that Ukraine cede Donbas to Russia in exchange for Ukrainian NATO membership, following peace talks in Abu Dhabi this week. He said Kyiv is not willing to retreat from its territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-14T10:30:38.000Z",
+      "coverage": [
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"
+        }
+      ]
+    },
+    {
+      "title": "France deploys 70,000 police ahead of nationwide protests",
+      "summary": "Interior Minister Laurent Nuñez plans to mobilise about 70,000 police officers and gendarmes for 50 to 60 anti-government marches expected across France on Saturday. The response follows thousands of arrests in earlier protests.",
+      "link": "https://www.thehindu.com/news/international/riots-in-france-how-anti-government-protests-spiralled-out-of-control/article71701195.ece",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-14T09:33:54.000Z",
+      "coverage": [
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests"
+        }
+      ]
+    },
+    {
+      "title": "Hungary seizes millions in cash in Orbán-era graft probe",
+      "summary": "Hungary's anti-corruption agency said on Friday it seized $19.5m in cash buried in forests and hidden elsewhere during an investigation into a former Orbán-era minister accused of taking bribes. Other figures given are $18m and $20m.",
+      "link": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-14T09:19:00.000Z",
+      "coverage": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+        },
+        {
+          "source": "BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Tanker collides with cruise ship in New Orleans; all passengers rescued",
+      "summary": "A tanker struck a paddlewheel cruise ship carrying about 130 people while it was docked in New Orleans on Friday, causing the vessel to capsize. More than 30 people were hospitalized with non-critical injuries, and all passengers were accounted for.",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-14T11:30:10.000Z",
+      "coverage": [
+        {
+          "source": "Deutsche Welle",
+          "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ]
+    },
+    {
+      "title": "Turkey and Qatar sign mutual defence pact",
+      "summary": "Turkey and Qatar signed a mutual defence agreement on Friday, pledging a unified response to any attack on either country, the two leaders said in a joint statement. The pact follows the Mecca Joint Defence Agreement signed by Turkey, Pakistan and Saudi Arabia in August.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-14T09:19:43.000Z",
+      "coverage": [
+        {
+          "source": "France 24",
+          "link": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "model": "anthropic/claude-haiku-5.5",
+    "articles": 372,
+    "candidates": 40,
+    "generatedAt": "2026-11-14T11:33:53.101Z"
+  }
+}
